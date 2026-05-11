@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**978 pages**
+**996 pages**
 
 ## A
 
@@ -46,6 +46,7 @@
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 - [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]
 - [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
+- [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 - [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
@@ -55,6 +56,8 @@
 - [[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]]
 - [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
+- [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[biodiversity-sampling-protocol-design]]
 - [[biodynamic-agriculture-and-steiner]]
@@ -90,10 +93,12 @@
 - [[contour-swale-irrigation-design]]
 - [[cool-climate-home-garden-mollison]]
 - [[cool-climate-settlement-design-mollison]]
+- [[creatively-use-and-respond-to-change]]
 - [[csa-farm-share-model]]
 
 ## D
 
+- [[design-from-patterns-to-details]]
 
 ## E
 
@@ -102,6 +107,7 @@
 - [[edge-effect-and-microclimate]]
 - [[edge-effect-ecology]]
 - [[energy-descent-action-planning]]
+- [[energy-descent-and-permaculture]]
 - [[energy-descent-permaculture-response]]
 - [[ethical-investment-and-earth-banking]]
 
@@ -344,6 +350,7 @@
 ## I
 
 - [[ianto-evans-polyculture-system]]
+- [[integrate-rather-than-segregate]]
 
 ## J
 
@@ -664,6 +671,7 @@
 - [[permaculture-access-and-circulation-design]]
 - [[permaculture-access-design]]
 - [[permaculture-almond-guide]]
+- [[permaculture-andean-subtropical-fruit-trees]]
 - [[permaculture-appropriate-technology-design]]
 - [[permaculture-aquaculture-guide]]
 - [[permaculture-asparagus]]
@@ -684,6 +692,7 @@
 - [[permaculture-castor-oil-plant]]
 - [[permaculture-catch-and-store-energy]]
 - [[permaculture-cattail]]
+- [[permaculture-chestnut-species-comprehensive-guide]]
 - [[permaculture-chicken-raising]]
 - [[permaculture-chicken-tractor-system]]
 - [[permaculture-chicken-tractors]]
@@ -703,6 +712,7 @@
 - [[permaculture-design-course-methodology]]
 - [[permaculture-design-from-patterns-to-details]]
 - [[permaculture-design-methods]]
+- [[permaculture-design-principles]]
 - [[permaculture-design-principles-and-sustainability]]
 - [[permaculture-design-principles-beginners]]
 - [[permaculture-design-principles-ethics]]
@@ -757,6 +767,7 @@
 - [[permaculture-energy-descent-planning]]
 - [[permaculture-energy-hierarchy]]
 - [[permaculture-ethical-principles-holmgren]]
+- [[permaculture-ethics]]
 - [[permaculture-ethics-and-principles]]
 - [[permaculture-farm-design-principles]]
 - [[permaculture-fennel]]
@@ -896,6 +907,7 @@
 - [[permaculture-useful-plants-reference]]
 - [[permaculture-vine-crops]]
 - [[permaculture-walnut-guide]]
+- [[permaculture-walnut-species-timber-nut-production]]
 - [[permaculture-waste-management]]
 - [[permaculture-water-chestnut-guide]]
 - [[permaculture-water-harvesting]]
@@ -918,6 +930,7 @@
 - [[pioneer-species-in-permaculture-design]]
 - [[pioneer-species-permaculture]]
 - [[pioneer-species-selection-for-permaculture-systems]]
+- [[plant-guilds-and-polycultures]]
 - [[plant-propagation-techniques-for-permaculture]]
 - [[polyculture-design-hemenway]]
 - [[polyculture-design-holzer]]
@@ -999,6 +1012,9 @@
 - [[urban-permaculture-trees-water-cycling]]
 - [[urban-rooftop-gardening-and-sheet-mulching]]
 - [[urban-water-catchment-cistern-thermal-mass]]
+- [[use-and-value-renewable-resources]]
+- [[use-edges-and-value-the-marginal]]
+- [[use-small-and-slow-solutions]]
 
 ## V
 
@@ -1009,6 +1025,7 @@
 - [[walnut-hackberry-guild-design]]
 - [[water-catchment-urban-permaculture]]
 - [[water-conservation]]
+- [[water-harvesting-and-conservation]]
 - [[water-harvesting-and-conservation-in-permaculture]]
 - [[williams-pdc-additional-permaculture-principles]]
 - [[williams-pdc-appropriate-technology]]
@@ -1050,3 +1067,4 @@
 - [[zone-5-wilderness]]
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
+- [[zone-system]]

@@ -2,10 +2,11 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1141 pages**
+**1176 pages**
 
 ## #
 
+- [[16s-rrna-sequencing-cannabis-microbiome-profiling]]
 - [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
 - [[2-ag-endocannabinoid-signaling-blesching]]
 
@@ -257,6 +258,7 @@
 - [[cannabinoid-endomicrobiome-correlation-winston]]
 - [[cannabinoid-microbiome-correlation-cannabis]]
 - [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]]
+- [[cannabinoid-microbiome-interactions]]
 - [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
 - [[cannabinoid-receptor-pharmacology]]
 - [[cannabinoid-receptors-cb1-and-cb2]]
@@ -372,6 +374,9 @@
 - [[cannabis-cultivar-effects-soil-microbiome]]
 - [[cannabis-cultivar-microbial-community-effects]]
 - [[cannabis-cultivar-microbiome-specificity]]
+- [[cannabis-cultivar-specificity]]
+- [[cannabis-cultivar-specificity-endorhiza-microbiome]]
+- [[cannabis-cultivar-specificity-microbial-selection-mechanisms]]
 - [[cannabis-curing-jar-technique]]
 - [[cannabis-curing-jars]]
 - [[cannabis-curing-storage-post-harvest-clarke]]
@@ -396,6 +401,7 @@
 - [[cannabis-endorhiza-otu-pooling-and-strain-core-microbiome]]
 - [[cannabis-endorhiza-sampling-timing-post-harvest-effects]]
 - [[cannabis-endorhiza-shared-otu-soil-source-validation]]
+- [[cannabis-endorhiza-strain-specificity-post-harvest-persistence]]
 - [[cannabis-endorniza-microbiome]]
 - [[cannabis-environment-control]]
 - [[cannabis-epilepsy-research-detailed]]
@@ -494,6 +500,7 @@
 - [[cannabis-health-cbd-cannabidiol]]
 - [[cannabis-health-index]]
 - [[cannabis-health-index-chi-method]]
+- [[cannabis-health-index-chi-score-evidence-interpretation-blesching]]
 - [[cannabis-health-index-chi-scoring]]
 - [[cannabis-health-index-chi-scoring-methodology-blesching]]
 - [[cannabis-health-index-methodology]]
@@ -532,6 +539,8 @@
 - [[cannabis-kief-collection]]
 - [[cannabis-lab-serum-cultivation]]
 - [[cannabis-landrace-and-heirloom-varieties]]
+- [[cannabis-landrace-conservation-breeding-genetic-diversity]]
+- [[cannabis-landrace-preservation]]
 - [[cannabis-landrace-sativa-growing-challenges]]
 - [[cannabis-landrace-sativa-heritage-varieties]]
 - [[cannabis-landrace-strains]]
@@ -640,6 +649,7 @@
 - [[cannabis-sativa-indoor-training-techniques]]
 - [[cannabis-sativa-landrace-strains]]
 - [[cannabis-sativa-morphology-and-plant-architecture]]
+- [[cannabis-sativa-taxonomy-botanical-classification]]
 - [[cannabis-sativa-vs-indica]]
 - [[cannabis-sativa-vs-indica-guide]]
 - [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
@@ -689,6 +699,7 @@
 - [[cannabis-strain-goldstar]]
 - [[cannabis-strain-guide-reference]]
 - [[cannabis-strain-harlequin]]
+- [[cannabis-strain-hawaiian-wave-tropical-sativa-landrace-oner]]
 - [[cannabis-strain-jamaican-dream-fast-flowering-sativa]]
 - [[cannabis-strain-king-congo-african-sativa]]
 - [[cannabis-strain-lemonator]]
@@ -700,8 +711,12 @@
 - [[cannabis-strain-shaman]]
 - [[cannabis-strain-sherpa]]
 - [[cannabis-strain-smile]]
+- [[cannabis-strain-south-indian-landrace-autofem-oner]]
 - [[cannabis-strain-starship]]
 - [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]
+- [[cannabis-strain-swazi-landrace-south-african-sativa-oner]]
+- [[cannabis-strain-sweet-pink-grapefruit-alpine-seeds-oner]]
+- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
 - [[cannabis-strain-trainwreck-history-genetics]]
 - [[cannabis-strain-wild-thailand-ko-chang-landrace]]
 - [[cannabis-strain-y-griega-kali-mist-amnesia-hybrid]]
@@ -750,6 +765,7 @@
 - [[cbd-faah-inhibition-anandamide-preservation-blesching]]
 - [[cbd-therapeutic-effects]]
 - [[cbd-to-thc-isomerization-chemistry]]
+- [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]
 - [[cellvibrio-post-harvest-root-decay-cannabis]]
 - [[cellvibrio-root-decay-indicator-cannabis-endorhiza]]
 - [[cervantes-15-bag-water-hash-extraction]]
@@ -968,14 +984,18 @@
 - [[endocannabinoid-system-emotional-molecules]]
 - [[endocannabinoid-system-overview]]
 - [[endocannabinoid-system-overview-blesching]]
+- [[endocannabinoid-system-stress-hormone-reduction-mechanisms-blesching]]
 - [[endocannabinoid-tone-and-emotional-wellness-blesching]]
 - [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]
 - [[endorhiza-microbiome-cannabis-cultivar-specificity]]
+- [[endorhiza-shared-otu-soil-origin-cannabis]]
 - [[epinephrine-stress-response-endocannabinoid-modulation-blesching]]
+- [[expansive-constricting-emotions-neurotransmitter-associations-blesching]]
 
 ## F
 
 - [[fimming]]
+- [[five-endogenous-cannabinoids-lipid-signaling-family-blesching-2015]]
 - [[flowering-phase-cannabis]]
 - [[foliar-feeding]]
 - [[foliar-feeding-plants]]
@@ -1083,9 +1103,16 @@
 ## M
 
 - [[main-lining]]
+- [[marijuana-horticulture-cervantes-artificial-lighting-and-electricity]]
 - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]
 - [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]]
+- [[marijuana-horticulture-cervantes-cloning-and-vegetative-propagation]]
+- [[marijuana-horticulture-cervantes-harvesting-and-curing]]
 - [[marijuana-horticulture-cervantes-hydroponic-growing-systems]]
+- [[marijuana-horticulture-cervantes-indoor-light-systems-and-photometrics]]
+- [[marijuana-horticulture-cervantes-nutrient-deficiencies-and-disorders]]
+- [[marijuana-horticulture-cervantes-pest-and-disease-management]]
+- [[marijuana-horticulture-cervantes-pest-management-ipm]]
 - [[marijuana-strain-guide-hybrid]]
 - [[marijuana-strain-guide-indica]]
 - [[marijuana-strain-guide-sativa]]
@@ -1094,6 +1121,7 @@
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]]
 - [[microbial-terroir-cannabis-cultivar-specificity]]
+- [[mindful-healing-protocol-setting-intention-cannabis-therapy-blesching]]
 - [[modern-farm-cannabis-living-soil-vs-hydroponic-debate]]
 - [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]]
 - [[mother-plant-cannabis]]
@@ -1102,6 +1130,7 @@
 
 - [[neem-oil-cannabis]]
 - [[nitrogen-salinity-carbon-edaphic-microbial-structuring-cannabis]]
+- [[nitrogen-salinity-carbon-water-edaphic-trio-cannabis]]
 - [[nitrogen-salinity-edaphic-factors-microbiome-structuring-cannabis]]
 - [[no-till-cannabis]]
 
@@ -1138,6 +1167,7 @@
 - [[proteobacteria-actinobacteria-enrichment-cannabis-endorhiza]]
 - [[proteobacteria-dominance-cannabis-endorhiza]]
 - [[proteobacteria-dominance-cannabis-endorhiza-community]]
+- [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
 - [[pseudomonas-core-endorhiza-cannabis]]
 - [[purple-and-color-changing-cannabis-strains]]
 
@@ -1164,6 +1194,7 @@
 - [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
 - [[sphingomonas-wittichii-cannabis-microbiome]]
 - [[spider-mites-cannabis]]
+- [[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
 - [[subjective-therapeutic-window-cannabis]]
 - [[supercritical-co2-cannabis-extraction]]
 - [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]
@@ -1172,12 +1203,14 @@
 
 - [[teaming-with-nutrients-foliar-feeding-and-absorption]]
 - [[terpene-profile-chemotaxonomy]]
+- [[terpene-profiles-in-sativa-strains]]
 - [[tetrahydrocannabinol-thc-pharmacology-blesching]]
 - [[thc-acetate-and-isomerization]]
 - [[thc-acetate-synthesis-and-pharmacology]]
 - [[thc-cbd-therapeutic-profiles]]
 - [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
 - [[thc-heart-protective-mechanisms-blesching]]
+- [[thc-heart-protective-mechanisms-myocardial-protection-cb1-nitric-oxide-blesching-2015]]
 - [[thc-isomerization]]
 - [[thrips-cannabis]]
 - [[tong-len-compassion-meditation-vagal-tone-blesching]]
@@ -1199,10 +1232,12 @@
 - [[vic-high-cannabis-polyhybrid-crosses-and-f1-stability]]
 - [[vic-high-selfing-and-regular-seed-production]]
 - [[vic-high-true-breeding-strain-development-stabilization]]
+- [[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]]
 
 ## W
 
 - [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]
+- [[weighted-unweighted-unifrac-discrepancy-cannabis-cultivar]]
 - [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]

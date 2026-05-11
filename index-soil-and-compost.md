@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**551 pages**
+**556 pages**
 
 ## A
 
@@ -149,6 +149,7 @@
 
 ## D
 
+- [[deep-organic-soil-management]]
 - [[designer-compost-bokashi-method]]
 - [[direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
@@ -170,6 +171,7 @@
 
 - [[earthworm-breeding]]
 - [[earthworm-ecology]]
+- [[edaphic-factors-soil-microbial-community-structure]]
 - [[endorhiza-bacterial-communities]]
 
 ## F
@@ -467,6 +469,7 @@
 - [[soil-amendment-reference]]
 - [[soil-arthropods]]
 - [[soil-building-ecological-garden]]
+- [[soil-capillary-action-and-water-movement]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-chytridiomycetes-diversity-distribution]]
 - [[soil-compaction-diagnosis-remediation]]
@@ -481,6 +484,7 @@
 - [[soil-fertility-gradient-solomon]]
 - [[soil-fertility-management]]
 - [[soil-food-web-and-building-living-soil]]
+- [[soil-food-web-and-building-soil]]
 - [[soil-food-web-assessment]]
 - [[soil-food-web-management-for-farmers]]
 - [[soil-food-web-nutrient-cycling]]
@@ -528,6 +532,7 @@
 - [[solomon-clay-soil-management-and-remediation]]
 - [[solomon-complete-organic-fertilizer-cof-recipe]]
 - [[solomon-complete-organic-fertilizer-guide]]
+- [[solomon-complete-organic-fertilizer-soil-science]]
 - [[solomon-compost-organic-matter]]
 - [[solomon-compost-tumbler-critique-and-turning-frequency]]
 - [[solomon-composting-methods]]

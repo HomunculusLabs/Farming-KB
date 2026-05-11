@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1252 pages**
+**1266 pages**
 
 ## A
 
@@ -139,7 +139,10 @@
 - [[comparison-cattle-husbandry-vs-goat-husbandry]]
 - [[comparison-cavendish-vs-east-african-highland-bananas]]
 - [[comparison-central-leader-vs-open-center-fruit-tree-training]]
+- [[comparison-chaga-vs-maitake]]
+- [[comparison-chaga-vs-oyster-mushroom]]
 - [[comparison-chaga-vs-reishi-medicinal]]
+- [[comparison-chaga-vs-turkey-tail]]
 - [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
 - [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
 - [[comparison-chamomile-vs-dandelion]]
@@ -345,6 +348,7 @@
 - [[comparison-lime-plaster-vs-earthen-plaster]]
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
 - [[comparison-lions-mane-vs-cordyceps-cultivation]]
+- [[comparison-lions-mane-vs-maitake]]
 - [[comparison-liquid-culture-vs-grain-spawn]]
 - [[comparison-living-fences-vs-hedgerows]]
 - [[comparison-living-mulch-vs-cover-crops]]
@@ -511,7 +515,9 @@
 - [[comparison-sheet-mulching-vs-double-digging]]
 - [[comparison-sheet-mulching-vs-square-foot-gardening]]
 - [[comparison-shiitake-vs-chaga]]
+- [[comparison-shiitake-vs-cordyceps]]
 - [[comparison-shiitake-vs-lions-mane]]
+- [[comparison-shiitake-vs-maitake]]
 - [[comparison-shiitake-vs-oyster-cultivation]]
 - [[comparison-shiitake-vs-reishi]]
 - [[comparison-shiitake-vs-reishi-medicinal-mushrooms]]
@@ -762,6 +768,8 @@
 - [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]]
 - [[query-how-do-i-fix-calcium-deficiency-in-plants]]
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]]
+- [[query-how-do-i-forage-for-common-wild-edible-plants-safely]]
+- [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]]
 - [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 - [[query-how-do-i-grow-and-use-chamomile]]
 - [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
@@ -789,6 +797,8 @@
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-grow-vanilla-at-home]]
+- [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]]
+- [[query-how-do-i-grow-vegetables-on-a-balcony-or-small-patio]]
 - [[query-how-do-i-identify-and-control-aphids-on-cannabis]]
 - [[query-how-do-i-identify-and-control-thrips-on-cannabis]]
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
@@ -811,6 +821,7 @@
 - [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
 - [[query-how-do-i-manage-mosquitoes-naturally-in-my-permaculture-pond]]
 - [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
+- [[query-how-do-i-manage-weeds-organically-without-chemicals]]
 - [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]
 - [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]]
 - [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
@@ -821,6 +832,7 @@
 - [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]
 - [[query-how-do-i-prevent-and-treat-damping-off-in-cannabis-seedlings]]
 - [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
+- [[query-how-do-i-propagate-plants-from-cuttings-and-other-vegetative-methods]]
 - [[query-how-do-i-protect-plants-from-frost-and-freeze-damage]]
 - [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
 - [[query-how-do-i-prune-fruit-trees-naturally]]
@@ -833,6 +845,7 @@
 - [[query-how-do-i-start-a-hugelkultur-bed]]
 - [[query-how-do-i-start-a-medicinal-herb-garden]]
 - [[query-how-do-i-start-a-no-till-garden-bed]]
+- [[query-how-do-i-start-a-profitable-market-garden-on-a-small-plot]]
 - [[query-how-do-i-start-a-silvopasture-system-on-my-property]]
 - [[query-how-do-i-start-a-small-permaculture-nursery]]
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
@@ -1282,6 +1295,7 @@
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]
 - [[query-who-is-sepp-holzer-and-what-is-his-method]]
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]
+- [[query-why-are-my-plants-not-producing-fruit-and-how-do-i-hand-pollinate]]
 - [[query-why-cant-heat-engines-be-100-percent-efficient]]
 - [[query-why-do-periodical-cicadas-emerge-in-13-and-17-year-cycles]]
 
