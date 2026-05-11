@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**972 pages**
+**973 pages**
 
 ## A
 
@@ -265,6 +265,7 @@
 - [[holzer-green-manure-crops]]
 - [[holzer-green-manure-soil-fertility]]
 - [[holzer-high-beds-property-boundaries]]
+- [[holzer-indicator-plants]]
 - [[holzer-intercropping-by-height-suntraps]]
 - [[holzer-irrigation-principles]]
 - [[holzer-kitchen-garden-herbs-and-medicinal-plants]]

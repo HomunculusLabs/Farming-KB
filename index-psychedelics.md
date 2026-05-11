@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1619 pages**
+**1620 pages**
 
 ## #
 
@@ -121,7 +121,7 @@
 - [[ayahuasca-tourism-shamanic-tourism-economics]]
 - [[ayahuasca-tourism-western-seekers-and-integration]]
 - [[ayahuasca-tourist-dosage-considerations-and-shamanic-caution]]
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]
 - [[ayahuasca-visions]]
 - [[ayahuasqueros-amazonian-shamans]]
 - [[ayahuasqueros-shamanic-practice]]
@@ -1361,6 +1361,7 @@
 - [[psychedelic-drug-testing-and-adulterant-screening]]
 - [[psychedelic-experience-preparation]]
 - [[psychedelic-experience-stages]]
+- [[psychedelic-harm-reduction]]
 - [[psychedelic-harm-reduction-guide]]
 - [[psychedelic-harm-reduction-philosophy]]
 - [[psychedelic-integration]]

@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**4162 pages**
+**4173 pages**
 
 ## #
 
@@ -333,6 +333,7 @@
 - [[aloe-arborescens]]
 - [[aloe-aristata]]
 - [[aloe-ferox]]
+- [[aloe-polyphylla]]
 - [[aloe-vera]]
 - [[alpha-amanitin]]
 - [[alpha-methyltryptamine]]
@@ -1469,6 +1470,7 @@
 - [[e-beta-caryophyllene-bcp]]
 - [[e-entity-pihkal]]
 - [[echeveria-elegans]]
+- [[echeveria-pulidonis]]
 - [[echinacea-angustifolia]]
 - [[echinacea-pallida]]
 - [[echinacea-purpurea]]
@@ -1597,6 +1599,8 @@
 - [[euonymus-europaeus]]
 - [[eupatorium-perfoliatum]]
 - [[eupatorium-purpureum]]
+- [[euphorbia-milii]]
+- [[euphorbia-obesa]]
 - [[euphorbia-pulcherrima]]
 - [[euphorbia-tirucalli]]
 - [[euphoria-longifolia]]
@@ -1829,7 +1833,6 @@
 - [[gliricidia-sepium]]
 - [[gloeophyllum-sepiarium]]
 - [[gloeophyllum-trabeum]]
-- [[glomalin]]
 - [[glomus-fasciculatus]]
 - [[glomus-intraradices]]
 - [[glomus-mosseae]]
@@ -1921,6 +1924,7 @@
 - [[harmane]]
 - [[harmine]]
 - [[harmine-entity-tihkal]]
+- [[haworthia-cooperi]]
 - [[haworthia-fasciata]]
 - [[headband]]
 - [[hebeloma-crustuliniforme]]
@@ -2140,6 +2144,7 @@
 - [[jochen-gartz]]
 - [[jock-horror]]
 - [[john-allegro]]
+- [[john-allen]]
 - [[john-dighton]]
 - [[john-halpern]]
 - [[john-jeavons]]
@@ -2181,6 +2186,7 @@
 - [[kaempferol]]
 - [[kalanchoe-blossfeldiana]]
 - [[kalanchoe-daigremontiana]]
+- [[kalanchoe-thyrsiflora]]
 - [[kalanchoe-tomentosa]]
 - [[kalapuya]]
 - [[kalapuya-brunnea]]
@@ -2343,6 +2349,7 @@
 - [[liquidambar-styraciflua]]
 - [[liriodendron-tulipifera]]
 - [[lithops-lesliei]]
+- [[lithops-optica]]
 - [[lithospermum-erythrorhizon]]
 - [[lithospermum-officinale]]
 - [[litsea-citrata]]
@@ -3065,6 +3072,7 @@
 - [[platycerium-grande]]
 - [[platycodon-grandiflorus]]
 - [[plectranthus-amboinicus]]
+- [[pleiospilos-nelii]]
 - [[pleuran]]
 - [[pleurocybella-porrigens]]
 - [[pleurotin]]
@@ -3609,13 +3617,16 @@
 - [[sedum-acre]]
 - [[sedum-morganianum]]
 - [[sedum-rupestre]]
+- [[sedum-spectabile]]
 - [[selaginella-moellendorffii]]
 - [[selegiline]]
 - [[sempervivum-tectorum]]
+- [[senecio-rowleyanus]]
 - [[senecio-vulgaris]]
 - [[senna-alata]]
 - [[senna-alexandrina]]
 - [[sensi-star]]
+- [[sepp-holzer]]
 - [[sepp-holzer-entity]]
 - [[sequoia-sempervirens]]
 - [[sequoiadendron-giganteum]]
