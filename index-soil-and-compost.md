@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**549 pages**
+**550 pages**
 
 ## A
 
@@ -318,6 +318,7 @@
 - [[jeavons-composting-methods]]
 - [[jeavons-fertilization-organic-soil-amendments]]
 - [[jeavons-green-manures-cover-crops]]
+- [[jeavons-root-systems-below-ground-composting]]
 - [[jeavons-soil-fertility]]
 - [[jeavons-soil-ph-testing-balancing]]
 - [[jeavons-sustainable-soil-closing-loop]]

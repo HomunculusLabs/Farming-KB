@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1620 pages**
+**1632 pages**
 
 ## #
 
@@ -44,6 +44,7 @@
 - [[al-pihkal-entry-2]]
 - [[alan-shoemaker-ayahuasca-legal-peru]]
 - [[albert-hofmann-eleusinian-potion-analysis]]
+- [[alcibiades-scandal-415-bc-eleusinian-sacrament]]
 - [[aleph-2-pihkal-entry-4]]
 - [[aleph-4-pihkal-entry-5]]
 - [[aleph-6-pihkal-entry-6]]
@@ -147,6 +148,7 @@
 - [[blesching-cannabis-mind-body-medicine]]
 - [[blesching-cannabis-stds-mind-body]]
 - [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]
+- [[blesching-harbored-anger-guilt-martyrdom-destructive-emotions]]
 - [[blesching-mind-body-medicine-immune-vulnerability-viral-infections]]
 - [[blesching-mind-body-medicine-psychosomatic-foundations]]
 - [[blesching-mind-body-molecules-emotions]]
@@ -547,6 +549,7 @@
 - [[good-friday-experiment-marsh-chapel]]
 - [[green-park-incident-1799-psilocybin]]
 - [[guilt-martyrdom-harbored-anger-as-health-hazards]]
+- [[guzman-accidental-psilocybin-vapor-inhalation-lab]]
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
 - [[guzman-allen-gartz-australasian-endemic-psilocybe-species]]
 - [[guzman-allen-gartz-cubensis-introduction-african-slave-commerce-hypothesis]]
@@ -991,6 +994,7 @@
 - [[mda-compound-profile]]
 - [[mde-compound-profile]]
 - [[mdma-compound-profile]]
+- [[mdma-crack-cocaine-drug-terror-1980s]]
 - [[mdma-in-pihkal-context]]
 - [[mdma-qualitative-effects-phenomenology]]
 - [[mdma-reference]]
@@ -1176,6 +1180,10 @@
 - [[pihkal-doet]]
 - [[pihkal-doi]]
 - [[pihkal-dom]]
+- [[pihkal-entry-44]]
+- [[pihkal-entry-45]]
+- [[pihkal-entry-46]]
+- [[pihkal-entry-48]]
 - [[pihkal-introduction-and-methodology]]
 - [[pihkal-mbdb]]
 - [[pihkal-mda]]
@@ -1534,6 +1542,10 @@
 - [[shroom-prohibition]]
 - [[shroom-scientific-study]]
 - [[shroom-wasson-valentina-expedition]]
+- [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]]
+- [[shulgin-a-pihkal-dob-25-dimethoxy-4-bromoamphetamine]]
+- [[shulgin-a-pihkal-doi-25-dimethoxy-4-iodoamphetamine]]
+- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
 - [[shulgin-designer-drugs-analysis]]
 - [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]]
 - [[shulgin-dosage-guidelines]]

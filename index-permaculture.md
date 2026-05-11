@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**973 pages**
+**984 pages**
 
 ## A
 
@@ -44,12 +44,15 @@
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+- [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]
+- [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]
 - [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
 - [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 - [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]]
 - [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
@@ -186,12 +189,14 @@
 - [[holmgren-catch-and-store-energy-four-landscape-storages]]
 - [[holmgren-community-design-and-intentional-communities]]
 - [[holmgren-consumer-addiction-and-hedonic-treadmill]]
+- [[holmgren-design-thinking-guidelines-problem-is-solution]]
 - [[holmgren-ecological-succession-and-pulsing]]
 - [[holmgren-ecological-succession-design]]
 - [[holmgren-economic-and-social-succession]]
 - [[holmgren-energy-descent-culture-scavenging-modernity-rubbish-tip]]
 - [[holmgren-energy-descent-permaculture-flower]]
 - [[holmgren-energy-descent-planning]]
+- [[holmgren-ethical-principles-care-earth-people-fair-shares]]
 - [[holmgren-food-systems-and-local-self-reliance]]
 - [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
 - [[holmgren-gender-balance-and-sustainability]]
@@ -220,6 +225,7 @@
 - [[holmgren-third-wave-environmentalism-model]]
 - [[holmgren-transport-speed-and-energy-descent]]
 - [[holmgren-trees-solar-power-plants-detailed]]
+- [[holmgren-use-edges-and-value-the-marginal]]
 - [[holmgren-vegetation-patterns-biomass-fertility]]
 - [[holmgren-voluntary-frugality-energy-descent-prosperous-road-down]]
 - [[holmgren-waste-hierarchy-container-reuse-industrial-recycling]]
@@ -348,6 +354,7 @@
 - [[jeavons-carbon-farming]]
 - [[jeavons-diet-design-self-sufficiency]]
 - [[jeavons-double-digging-bed-preparation]]
+- [[jeavons-global-adoption-biointensive-mini-farming]]
 - [[jeavons-grow-biointensive-method-overview]]
 - [[jeavons-history-philosophy-biointensive-agriculture]]
 - [[jeavons-sustainability-philosophy-gbiointensive]]
@@ -393,6 +400,7 @@
 - [[mollison-designers-banana-circle-waste-recycling-system]]
 - [[mollison-designers-bee-forage-tree-planting]]
 - [[mollison-designers-beekeeping-honey-production-permaculture]]
+- [[mollison-designers-biogas-digester-sewage-treatment]]
 - [[mollison-designers-broadacre-grain-and-pasture-design]]
 - [[mollison-designers-charcoal-production-biochar-soil-amendment]]
 - [[mollison-designers-check-dam-types-and-landscape-placement]]
@@ -447,6 +455,7 @@
 - [[mollison-designers-free-range-forage-design-principles]]
 - [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]
 - [[mollison-designers-geese-and-duck-weed-control]]
+- [[mollison-designers-glasshouse-protected-cropping]]
 - [[mollison-designers-goat-dairy-and-cheese-production]]
 - [[mollison-designers-goat-management-and-browsing-systems]]
 - [[mollison-designers-grafting-and-budding-fruit-trees]]
@@ -462,6 +471,7 @@
 - [[mollison-designers-internet-of-plants-information-sharing]]
 - [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
 - [[mollison-designers-lime-and-cement-natural-building]]
+- [[mollison-designers-low-island-coral-cay-strategies]]
 - [[mollison-designers-macadamia-nut-in-tropical-polyculture]]
 - [[mollison-designers-market-garden-intensive-production-design]]
 - [[mollison-designers-microclimate-creation-frost-protection]]
@@ -470,6 +480,7 @@
 - [[mollison-designers-mulberry-and-sericulture-in-permaculture]]
 - [[mollison-designers-mulch-pit-interplanting-technique]]
 - [[mollison-designers-multi-strata-canopy-design]]
+- [[mollison-designers-natural-swimming-pools-and-water-purification]]
 - [[mollison-designers-neem-tree-as-natural-insecticide]]
 - [[mollison-designers-ocean-reef-restoration-mariculture]]
 - [[mollison-designers-olive-fig-and-mediterranean-tree-crops]]

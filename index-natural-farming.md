@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1006 pages**
+**1013 pages**
 
 ## A
 
@@ -109,6 +109,7 @@
 - [[fukuoka-american-agriculture-observations]]
 - [[fukuoka-ancient-soil-fertility-rock-weathering]]
 - [[fukuoka-argument-against-pruning]]
+- [[fukuoka-argument-against-pruning-trees-natural-growth]]
 - [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
 - [[fukuoka-australia-fruit-fly-incident]]
 - [[fukuoka-barley-clover-cultivation]]
@@ -116,6 +117,7 @@
 - [[fukuoka-biotechnology-computers-warning]]
 - [[fukuoka-black-wattle-fertilizer-tree-method]]
 - [[fukuoka-bogus-nature]]
+- [[fukuoka-bread-dough-analogy-tillage-soil-compaction]]
 - [[fukuoka-breakdown-japanese-agriculture]]
 - [[fukuoka-breitenbush-natural-garden]]
 - [[fukuoka-bushman-philosophy-great-spirit]]
@@ -133,6 +135,7 @@
 - [[fukuoka-clay-pellet-desert-revegetation]]
 - [[fukuoka-clay-pellet-revegetation]]
 - [[fukuoka-clay-pellet-seed-balls-desert-revegetation]]
+- [[fukuoka-clay-pellet-seed-broadcasting]]
 - [[fukuoka-clay-seed-ball-technique]]
 - [[fukuoka-clay-seed-pellets]]
 - [[fukuoka-clay-seed-pellets-technique]]
@@ -179,6 +182,7 @@
 - [[fukuoka-desert-greening-techniques-detailed]]
 - [[fukuoka-desert-reclamation]]
 - [[fukuoka-desert-reclamation-projects]]
+- [[fukuoka-desert-revegetation]]
 - [[fukuoka-desert-revegetation-clay-pellets]]
 - [[fukuoka-desert-revegetation-natural-farming]]
 - [[fukuoka-desert-revegetation-second-genesis]]
@@ -233,6 +237,7 @@
 - [[fukuoka-food-spirit-united]]
 - [[fukuoka-food-strategic-weapon]]
 - [[fukuoka-food-strategic-weapon-critique]]
+- [[fukuoka-food-strategic-weapon-seed-rice-geopolitics]]
 - [[fukuoka-food-strategic-weapon-seed-war-geopolitics]]
 - [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]]
 - [[fukuoka-food-synthesis-trajectory]]
@@ -346,6 +351,7 @@
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-natural-farming-philosophy-of-mu]]
 - [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
+- [[fukuoka-natural-farming-principles]]
 - [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]]
 - [[fukuoka-natural-farming-soil-ecology-principles]]
 - [[fukuoka-natural-farming-speech-1975]]
@@ -813,6 +819,7 @@
 - [[jadam-wetting-agent-jwa]]
 - [[jadam-wild-grass-liquid-fertilizer]]
 - [[jadam-wild-grass-management]]
+- [[john-raper-achlya-ambisexualis-pheromone-biology]]
 
 ## K
 

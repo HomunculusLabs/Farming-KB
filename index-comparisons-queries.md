@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1241 pages**
+**1247 pages**
 
 ## A
 
@@ -444,6 +444,9 @@
 - [[comparison-phytoremediation-vs-mycoremediation-detail]]
 - [[comparison-pig-husbandry-vs-goat-husbandry]]
 - [[comparison-pigeon-pea-vs-cowpea]]
+- [[comparison-pioppino-vs-maitake-cultivation]]
+- [[comparison-pioppino-vs-oyster-cultivation]]
+- [[comparison-pioppino-vs-shiitake-cultivation]]
 - [[comparison-polycarbonate-vs-glass-greenhouse-glazing]]
 - [[comparison-polyculture-vs-intercropping]]
 - [[comparison-pomegranate-vs-persimmon-cultivation]]
@@ -508,6 +511,7 @@
 - [[comparison-sheet-mulching-vs-double-digging]]
 - [[comparison-sheet-mulching-vs-square-foot-gardening]]
 - [[comparison-shiitake-vs-oyster-cultivation]]
+- [[comparison-shiitake-vs-reishi-medicinal-mushrooms]]
 - [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 - [[comparison-silvopasture-systems-vs-pasture-management]]
 - [[comparison-silvopasture-vs-pasture]]
@@ -831,6 +835,7 @@
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
 - [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
 - [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]
+- [[query-how-do-i-start-growing-berries-in-my-garden]]
 - [[query-how-do-i-start-growing-hazelnut-bushes]]
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
 - [[query-how-do-i-start-natural-dyeing-with-plants]]
@@ -1072,6 +1077,7 @@
 - [[query-what-are-biofertilizers-and-how-do-i-use-them]]
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
+- [[query-what-are-cannabis-concentrates-and-how-are-they-made]]
 - [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
 - [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]
 - [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]
