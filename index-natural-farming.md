@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1084 pages**
+**1083 pages**
 
 ## A
 
@@ -15,7 +15,6 @@
 - [[beneficial-indigenous-microorganisms]]
 - [[beneficial-indigenous-microorganisms-lacto-bacilli]]
 - [[beneficial-indigenous-microorganisms-natural-farming]]
-- [[bionutrients-and-fermented-plant-extracts]]
 - [[bionutrients-fermented-plant-extracts]]
 - [[bionutrients-lab-fermented-fruit-juice-ffj]]
 - [[bionutrients-lab-fermented-plant-juice-fpj]]

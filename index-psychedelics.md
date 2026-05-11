@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1792 pages**
+**1791 pages**
 
 ## #
 
@@ -1611,7 +1611,6 @@
 - [[schultes-solandra-kieli-huichol-narcotic]]
 - [[scythian-cannabis-steam-bath-ritual]]
 - [[secret-societies-and-entheogen-suppression]]
-- [[secret-societies-entheogen-suppression]]
 - [[secret-societies-entheogenic-knowledge]]
 - [[secret-societies-fascism-and-entheogen-suppression]]
 - [[sepp-holzer-animal-integration]]

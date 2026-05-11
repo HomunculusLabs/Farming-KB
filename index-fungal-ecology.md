@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2610 pages**
+**2609 pages**
 
 ## #
 
@@ -2384,7 +2384,6 @@
 - [[spore-germination-triggers-and-dormancy-breaking]]
 - [[spore-inoculation-sterile-technique]]
 - [[spore-interstellar-dispersal-hypothesis]]
-- [[spore-print]]
 - [[spore-print-collection]]
 - [[spore-print-collection-spore-mass-inoculation]]
 - [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]]
