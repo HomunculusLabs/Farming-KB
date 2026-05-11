@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1187 pages**
+**1189 pages**
 
 ## #
 
@@ -262,7 +262,6 @@
 - [[cannabinoid-microbiome-interactions]]
 - [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
 - [[cannabinoid-receptor-pharmacology]]
-- [[cannabinoid-receptors-cb1-and-cb2]]
 - [[cannabinoid-receptors-cb1-cb2]]
 - [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]]
 - [[cannabinoid-terpene-entourage-effect]]
@@ -334,7 +333,9 @@
 - [[cannabis-beta-caryophyllene-food-based-cannabinoid]]
 - [[cannabis-bipolar-research-detailed]]
 - [[cannabis-boron-nutrient]]
+- [[cannabis-botany-and-history]]
 - [[cannabis-botany-and-taxonomy]]
+- [[cannabis-botany-history-chemistry]]
 - [[cannabis-breeding-basics]]
 - [[cannabis-breeding-fundamentals]]
 - [[cannabis-breeding-selection-principles-clarke]]
@@ -525,6 +526,7 @@
 - [[cannabis-hid-lighting-specifications]]
 - [[cannabis-high-volume-extraction]]
 - [[cannabis-hindu-kush-strain-description-clarke]]
+- [[cannabis-history-classification-and-chemistry]]
 - [[cannabis-hiv-aids-symptom-management-blesching]]
 - [[cannabis-honey-oil-production]]
 - [[cannabis-huntingtons-disease-research]]

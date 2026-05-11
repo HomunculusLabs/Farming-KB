@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1120 pages**
+**1130 pages**
 
 ## A
 
@@ -67,6 +67,7 @@
 
 ## C
 
+- [[capuli-cherry-prunus-salicifolia-andean-fruit-tree]]
 - [[carrot-growing-guide]]
 - [[cash-crop-guide]]
 - [[chacruna-plant]]
@@ -108,6 +109,7 @@
 - [[climate-and-microclimate-management]]
 - [[clubroot-disease-management]]
 - [[coastal-gardening]]
+- [[coastal-trees-salt-tolerant-forage]]
 - [[cold-climate-gardening]]
 - [[cold-frame-construction]]
 - [[cold-frame-gardening]]
@@ -231,6 +233,7 @@
 - [[coleman-weed-control]]
 - [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]]
 - [[coleman-winter-carrots]]
+- [[coleman-winter-greens]]
 - [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
 - [[coleman-winter-greens-variety-selection]]
 - [[coleman-winter-harvest-cut-and-come-again-techniques]]
@@ -332,6 +335,7 @@
 - [[faires-season-extension-cold-frames]]
 - [[faires-seed-starting-transplanting-guide]]
 - [[farmers-market-selling-guide]]
+- [[feijoa-and-ugni-cool-climate-myrtaceous-fruits]]
 - [[fermented-vegetables-guide]]
 - [[fiber-and-craft-plants]]
 - [[fire-resistant-plants]]
@@ -633,6 +637,7 @@
 - [[low-input-vegetable-gardening]]
 - [[low-irrigation-vegetable-gardening]]
 - [[lsa-containing-plants-guide]]
+- [[lucuma-pouteria-lucmo-andean-fruit-tree]]
 - [[luther-burbank-plant-breeding-methods]]
 - [[lysergic-acid-amide-containing-plants-halpern]]
 
@@ -708,6 +713,7 @@
 - [[parasitic-plant-host-detection-volatile-sensing]]
 - [[parisian-market-gardening]]
 - [[parsley-celery-herbs-growing-guide]]
+- [[passiflora-passionfruit-species]]
 - [[passionflower-growing-guide]]
 - [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
 - [[passive-irrigation-systems]]
@@ -716,6 +722,7 @@
 - [[pastured-egg-production]]
 - [[pastured-pork-production]]
 - [[peat-free-gardening]]
+- [[pepino-melon-solanum-muricatum-andean-fruit]]
 - [[pepper-growing-guide]]
 - [[perennial-vegetables]]
 - [[permplant-carob-drought-tolerant-food-tree]]
@@ -896,6 +903,7 @@
 - [[salt-tolerant-fodder-plants]]
 - [[salt-tolerant-fodder-species]]
 - [[salt-tolerant-plant-guide]]
+- [[salt-tolerant-shrubs-and-trees]]
 - [[sativa-plant-characteristics-and-cultivation]]
 - [[sativa-vs-indica-growing-challenges]]
 - [[saving-seeds]]
@@ -1068,6 +1076,7 @@
 ## T
 
 - [[tagasaste-nurse-crop-fodder-systems]]
+- [[tamarillo-tree-tomato-cyphomandra-betacea]]
 - [[termite-ant-fungus-gardens]]
 - [[the-vacuole-and-tonoplast-in-plant-cell-regulation]]
 - [[thigmomorphogenesis-plant-touch-response]]
@@ -1176,6 +1185,7 @@
 - [[what-a-plant-knows-plant-olfaction-volatile-communication]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[white-clover-ground-cover]]
+- [[white-sapote-casimiroa-edulis-rutaceae-subtropical-fruit]]
 - [[wicking-bed-crop-selection-seasonal-management]]
 - [[wide-row-spacing-intensive-gardening-comparison]]
 - [[wide-spacing-dry-gardening-low-irrigation-solomon]]
