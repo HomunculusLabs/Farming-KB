@@ -88,61 +88,7 @@ sources: ["Shulgin - PIHKAL"]
 
 The amphetamine which would correspond with
 this base would be 3,4-dimethoxy-5-methylthioamphetamine (3-T-TMA) and
-should be an active compound. Its synthesis should be straightforward
-from the benzaldehyde described above, employing nitroethane rather
-than nitromethane. It is apparently an unknown compound.
-
-## Synthesis
-
-To an ice cold and well stirred solution of 15 g vanillin
-and 20 g sodium thiocyanate in 150 mL acetic acid there was added,
-dropwise over the course of 15 min, a solution of 16 g elemental
-bromine in 40 mL acetic acid. This was followed by the addition of 30
-mL of 5% HCl and 300 mL EtOH, and stirring was continued for an
-additional 30 min. The mixture was heated to its boiling point, and
-filtered while hot. The mother liquor was diluted with an equal
-volume of H2O, which initiated the crystallization of crude
-5-formyl-7-methoxy-2-oxo-1,3-benzoxathiole as a flocculant yellow
-solid. On filtration and air-drying, this weighed 12.5 g. After
-recrystallization from EtOH, the product was white and had a mp of 164
-deg C sharp.
-
-A suspension of 12.5 g of crude
-5-formyl-7-methoxy-2-oxo-1,3-benzoxathiole in 100 mL MeOH containing
-28.4 g methyl iodide was treated with a solution of 12 g NaOH in 100
-mL warm MeOH. The mixture was held at reflux for 1 h and then the
-solvents were removed under vacuum. A solution of 14.2 g methyl
-iodide in 100 mL DMSO was added and the mixture stirred for 1 h. An
-additional 2.4 g of NaOH and 16 g methyl iodide were added, and the
-stirring was continued for another 2 h. The reaction mixture was
-poured into 800 mL H2O, acidified with HCl, and extracted with 3x75 mL
-CH2Cl2. The pooled extracts were washed with 5% NaOH, then water, and
-the solvent removed under vacuum. Distillation at 110-130 deg C at 0.4
-mm/Hg gave 0.9 g 3,4-dimethoxy-5-(methylthio)benzaldehyde which had a
-mp of 57-58 deg C after crystallization from EtOH. Anal. (C10H12O3S)
-C,H.
-
-A solution of 0.9 g 3,4-dimethoxy-5-(methylthio)benzaldehyde in 100 mL
-nitromethane containing 0.5 g anhydrous ammonium acetate was held at
-reflux for 4 h. The excess nitromethane was removed under vacuum, and
-the deep brown residue was dissolved in 4 mL hot MeOH. On cooling,
-the yellow crystals were removed by filtration, washed with cold MeOH
-and air dried yielding 0.4 g yellow crystals of
-3,4-dimethoxy-5-methoxy-beta-nitrostyrene, with a mp of 119.5-120.5 deg C
-after recrystallization from EtOH. Anal. (C11H13NO4S) C,H.
-
-To a solution of 1.0 g LAH in 25 mL anhydrous THF under He, cooled to
-0 deg C and vigorously stirred, there was added, dropwise, 0.7 mL of 100%
-H2SO4, followed by a solution of 0.7 g
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. Mckenna [[mme-entity-pihkal]]
-
-- [[shulgin-safety-principles-self-experimentation]]
 
 ## See Also
-
-- [[tma-5-entity-pihkal]]
+- [[aleph-entity-pihkal]]
+- [[meda-entity-pihkal]]

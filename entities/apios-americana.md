@@ -25,7 +25,7 @@ sources:
   - Bamberg, J.B. & Hanneman, R.E. (1991). "Origin of the tuber-bearing species
     Apios americana." American Journal of Botany 78(4): 529-538.
   - USDA NRCS (2024). "Apios americana Plant Guide." plants.usda.gov.
-  - Kindscher, K. (1987). Edible Wild Plants of the Prairie. University Press of Kansas.
+  - Kindscher, K. (1987). [[edible-wild-mushrooms-by-region]] Plants of the Prairie. University Press of Kansas.
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ making it one of the most promising underutilized perennial food crops for
 temperate permaculture and food-forest systems.
 
 The species played a significant role in the diet of indigenous peoples of eastern
-North America and was notably instrumental in sustaining the Pilgrim settlers
+[[guzman-psilocybin-mushrooms-north-america]] and was notably instrumental in sustaining the Pilgrim settlers
 during their first winter at Plymouth Colony in 1620–1621. Despite its historical
 and nutritional importance, it has never been domesticated at commercial scale.
 
@@ -46,7 +46,7 @@ and nutritional importance, it has never been domesticated at commercial scale.
 Angiosperms → Eudicots → Rosids → Fabales → **Fabaceae → *Apios → A. americana***
 
 Described by Carl Ludwig Willdenow in 1802. The genus *Apios* contains approximately
-10 species distributed across North America and East Asia. *A. americana* is the
+10 species distributed across North America and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. *A. americana* is the
 most widely distributed and the only species with significant domestication history.
 
 ### Morphology
@@ -79,7 +79,7 @@ flooding once established. Hardy to USDA zones 3–9.
 
 ## Nutritional Profile
 
-The tubers are exceptionally nutritious compared to other root crops:
+The tubers are exceptionally nutritious compared to other [[permaculture-plants-root-crops-and-tubers]]:
 
 - **Protein:** 13–17% by dry weight (3× that of potatoes) — rare for a tuber crop
 - **Starch:** 45–55% by dry weight, with a favorable amylose:amylopectin ratio
@@ -88,41 +88,3 @@ The tubers are exceptionally nutritious compared to other root crops:
 - **Calories:** Approximately 350 kcal per 100 g dried tuber
 
 The high protein content is attributable to the plant's nitrogen-fixing root
-nodules, which provide a continuous nitrogen supply to the tubers — a unique
-advantage over non-leguminous root crops like potatoes and sweet potatoes.
-
-## Cultivation and Permaculture Applications
-
-*A. americana* is increasingly recognized as a valuable component in permaculture
-and food-forest designs due to its multiple ecological functions:
-
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Adds 30–50 kg N/ha/year to the soil, benefiting
-  neighboring plants
-- **Edible yield:** Reliable perennial production without annual replanting
-- **Ground cover:** Dense vine growth suppresses weeds when allowed to trail
-- **Wildlife support:** Flowers [[query-how-to-attract-native-bees-and-beneficial-insects]] bees, butterflies, and hummingbirds;
-  foliage provides cover for small mammals
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Root systems stabilize streambanks and slopes
-
-Cultivation is straightforward: plant tuber pieces 5–8 cm deep in spring.
-Vines require a trellis, fence, or companion shrub to climb for optimal yield.
-Harvest begins in the second year and increases annually. No significant pests
-or diseases affect well-established plantings.
-
-## Ethnobotanical History
-
-The American groundnut was a staple food for numerous indigenous nations,
-including the Powhatan, Iroquois, Cherokee, and Menominee. Tubers were harvested
-in autumn, cooked by roasting or boiling, and often dried for winter storage.
-
-The species is famously associated with the Plymouth Colony survival story —
-the Wampanoag taught the starving settlers to harvest groundnuts from the
-surrounding wetlands, likely preventing the colony's collapse. Thomas Harlan
-documented the plant's importance in early [[fukuoka-american-agricultural-decline]] literature
-in the 19th century, noting its superior keeping quality and protein content.
-
-## See Also
-
-- [[vicia-villosa]]
-
-- [[pachyrhizus-erosus]] · [[trifolium-repens]] ·

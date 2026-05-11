@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
-  - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel Psychoactive Substances." Springer.
+  - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel [[cultural-evolution-and-psychoactive-substances]]." Springer.
   - Roth, B.L. et al. (1997). "LSD and phenethylamine hallucinogens." Psychopharmacology 130(3): 203-210.
   - Ray, T.S. (2010). "Psychedelics and the human receptorome." PLoS ONE 5(2): e9019.
 created: 2026-05-07
@@ -22,9 +22,9 @@ created: 2026-05-07
 
 **Proscaline** (4-propyloxy-3,5-dimethoxyphenethylamine) is a synthetic psychedelic compound of the phenethylamine class. It is a homologue of mescaline, differing by the substitution of a propoxy group for mescaline's methoxy group at the 4-position of the phenyl ring.
 
-The compound was first synthesized and characterized by Alexander Shulgin, who documented its synthesis and subjective effects in *PiHKAL* (Phenethylamines I Have Known and Loved), published in 1991. Shulgin assigned it the designation #39 in his research sequence.
+The compound was first synthesized and characterized by [[alexander-shulgin]], who documented its synthesis and subjective effects in *PiHKAL* (Phenethylamines I Have Known and Loved), published in 1991. Shulgin assigned it the designation #39 in his research sequence.
 
-Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced sensory perception, and altered cognitive patterns. The propyl chain substitution results in a moderate increase in potency and a slightly altered duration and character of effects compared to the parent compound.
+Proscaline produces effects broadly similar to mescaline, including visual hallucinations, enhanced [[plant-sensory-perception]], and altered cognitive patterns. The propyl chain substitution results in a moderate increase in potency and a slightly altered duration and character of effects compared to the parent compound.
 
 The compound exists as a free base and is commonly encountered as a hydrochloride salt, a white crystalline powder. It is classified as a controlled substance in several jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to scheduled phenethylamines.
 
@@ -46,7 +46,7 @@ The compound belongs to the phenylisopropylamine family of psychedelics. It is s
 
 The hydrochloride salt of proscaline forms white to off-white crystals. It is soluble in water and ethanol. The free base is an oily liquid at room temperature, consistent with higher-molecular-weight phenethylamines.
 
-Storage stability is good under cool, dry, dark conditions. The hydrochloride salt is hygroscopic and should be kept in a sealed container with desiccant for long-term preservation.
+[[psilocybin-storage-stability-post-harvest-degradation-mushrooms]] is good under cool, dry, dark conditions. The hydrochloride salt is hygroscopic and should be kept in a sealed container with desiccant for long-term preservation.
 
 ## Pharmacology
 
@@ -72,7 +72,7 @@ Metabolism is presumed to occur via hepatic oxidative deamination by monoamine o
 
 The subjective effects of proscaline are broadly similar to mescaline but with subtle qualitative differences. Visual hallucinations include geometric patterns, color intensification, and trailing effects. Open-eye visuals are generally less complex than those of LSD or psilocybin.
 
-Enhanced sensory perception is a prominent feature, particularly increased appreciation of music, tactile sensitivity, and heightened visual acuity. Users frequently report a warm, organic quality to the experience distinct from the more analytical character of tryptamine psychedelics.
+Enhanced sensory perception is a prominent feature, particularly increased appreciation of music, tactile sensitivity, and heightened [[mckenna-roland-fischer-psilocybin-visual-acuity]]. Users frequently report a warm, organic quality to the experience distinct from the more analytical character of tryptamine psychedelics.
 
 Emotional effects include euphoria, increased empathy, and philosophical introspection. The headspace is described as clearer and less confusing than mescaline, with greater cognitive lucidity maintained throughout the experience.
 
@@ -86,32 +86,4 @@ Shulgin's original dosage entry in *PiHKAL* cites 60 mg as a typical active dose
 
 ## Synthesis
 
-The synthesis of proscaline follows a classical route analogous to Shulgin's general procedure for alkoxy-substituted phenethylamines. The starting material is 3,5-dimethoxy-4-hydroxybenzaldehyde (syringaldehyde), which is alkylated with 1-bromopropane to yield 3,5-dimethoxy-4-propyloxybenzaldehyde.
-
-This aldehyde intermediate undergoes a Henry reaction with nitroethane to form the corresponding nitrostyrene. Reduction of the nitrostyrene, typically using lithium aluminum hydride (LiAlH₄), yields proscaline freebase.
-
-The freebase is converted to the hydrochloride salt by treatment with anhydrous hydrogen chloride gas in a dry organic solvent. The salt crystallizes upon concentration and cooling.
-
-## Legal Status
-
-Proscaline is controlled as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]] under the Federal Analogue Act, due to its structural and pharmacological similarity to mescaline. Possession, distribution, and manufacture carry criminal penalties equivalent to other Schedule I psychedelics.
-
-In the United Kingdom, proscaline is controlled as a Class A drug under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] amendments. It is similarly controlled or regulated in Australia, Canada, and most EU member states.
-
-The compound is not specifically listed in the UN Convention on Psychotropic Substances but falls under the catch-all provisions for mescaline analogues in many national legislations. Its legal status in jurisdictions without analogue provisions is unclear.
-
-## Related Compounds
-
-Proscaline occupies a position in the alkoxy-mescaline series alongside escaline (4-ethoxy), isescaline (4-isopropoxy), and butescaline (4-butoxy). Potency and duration generally increase with alkyl [[phenethylamine-chain-length-effects]] within this series.
-
-Other related compounds include mescaline itself (4-methoxy), allylescaline (4-allyloxy), and the broader phenethylamine psychedelics such as 2C-B, 2C-E, and 2C-I. The 2C series shares the core phenethylamine structure but carries substituents at the 2 and 5 ring positions.
-
-The phenethylamine family as a whole shares the common mechanism of 5-HT₂A agonism. Cross-tolerance between proscaline and other serotonergic psychedelics is expected based on receptor-level overlap.
-
-## See Also
-
-- [[escaline-entity]]
-- [[2c-b]]
-- [[pihkal-introduction-and-methodology]]
-- [[lsd]]
-- [[5-meo-dmt-entity]]
+The synthesis of proscaline follows a classical route analogous to Shulgin's general procedure for alkoxy-substituted phenethylamines. The [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] is 3,5-dimethoxy-4-hydroxybenzaldehyde (syringaldehyde), which is alkylated with 1-bromopropane to yield 3,5-dimethoxy-4-propyloxybenzaldehyde.

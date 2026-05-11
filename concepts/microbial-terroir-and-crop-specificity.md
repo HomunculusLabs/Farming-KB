@@ -41,7 +41,7 @@ terroir may be partially independent of the edaphic contribution.
 
 ## The Cannabis Microbiome as a Model System
 
-The Cannabis microbiome study by Winston et al. provided direct evidence
+The [[winston-cannabis-microbiome-study-design]] by Winston et al. provided direct evidence
 for microbial terroir in a non-grape crop. The study examined five Cannabis
 cultivars across two soil types and found that endorhiza bacterial
 communities showed significant cultivar-specificity. While soil type was the
@@ -49,7 +49,7 @@ dominant factor in determining which microbial taxa were present at all,
 host cultivar was the dominant factor in determining their relative
 abundances within the endorhiza. This finding means that two plants of the
 same cultivar grown in different soils will share more similarity in their
-endorhiza community structure than two plants of different cultivars grown
+[[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] than two plants of different cultivars grown
 in the same soil, even though the actual species of bacteria present will be
 more similar between plants sharing a soil type.
 
@@ -64,18 +64,18 @@ wine reflects both the vineyard site and the grape variety.
 ## Cannabinoid Profiles and Microbial Community Structure
 
 A particularly intriguing finding was the significant correlation between
-cannabinoid concentration and composition and the structure of endorhiza
+[[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] and composition and the structure of endorhiza
 communities. Mantel tests revealed significant associations between
 cannabinoid profiles and community composition across Cannabis strains.
 While the researchers cautioned that THC variables were also significantly
-correlated with soil edaphic factors, making it difficult to fully
+correlated with [[soil-edaphic-factors-microbial-communities]], making it difficult to fully
 disentangle microbial effects from soil effects, the correlation raises the
 possibility that microbial communities may directly or indirectly influence
 the cannabinoid profiles of their host plants.
 
 If endorhiza bacteria do influence cannabinoid production, this would
 represent a concrete biological mechanism for microbial terroir in Cannabis.
-The specific mix of endophytic bacteria associated with a given cultivar
+The specific mix of [[endorhiza-endophytic-bacteria]] associated with a given cultivar
 could affect the levels of THC, CBD, and other cannabinoids in the flowering
 tissues, contributing to the distinct effects that users report from
 different strains. This possibility has significant implications for both
@@ -85,55 +85,6 @@ agricultural practice and quality control in the Cannabis industry.
 
 The microbial terroir concept has practical implications for crop management.
 If the microbial communities associated with a crop contribute measurably to
-its quality characteristics, then agricultural practices that alter these
+its quality characteristics, then [[mycorrhizal-agricultural-practices]] that alter these
 communities, such as the use of pesticides, soil sterilization, or
 inoculation with specific microbial strains, could have effects that go
-beyond plant health to affect the sensory and pharmacological properties of
-the harvest.
-
-For Cannabis specifically, the finding that different cultivars maintain
-distinct endorhiza communities even in the same soil suggests that breeding
-programs could potentially select not only for desired cannabinoid profiles
-but also for microbial communities that support or enhance those profiles.
-Understanding the functional roles of cultivar-specific endophytes could
-open new avenues for optimizing crop quality through microbial management
-rather than chemical intervention.
-
-## The Two-Tier Selection Framework
-
-The two-tier selection model provides a theoretical framework for
-understanding how microbial terroir arises. In the first tier, edaphic
-factors determine the composition of the bulk soil microbial community,
-which serves as the source pool for colonization of the rhizosphere and
-endorhiza. In the second tier, host genotype-dependent selection shapes
-the structure of the endorhiza community from the available soil-derived
-species. The result is that microbial terroir operates at two levels:
-the regional level, determined by soil type and climate, and the cultivar
-level, determined by plant genetics.
-
-This framework predicts that the strongest terroir effects will be observed
-in the endorhiza, where cultivar selection is most powerful, and weaker
-terroir effects in the rhizosphere and bulk soil, where edaphic factors
-dominate. The Cannabis microbiome data supported this prediction, with
-significant cultivar-specificity observed only in endorhiza samples.
-
-## Beyond Cannabis
-
-While the Cannabis microbiome has provided clear evidence for microbial
-terroir, the concept likely applies broadly across crop species. Any plant
-that maintains cultivar-specific endophyte communities has the potential to
-exhibit microbial terroir effects. The degree to which these microbial
-communities influence crop quality will vary depending on the specific
-metabolites produced by both the plant and its associated microorganisms.
-Crops valued for their secondary metabolites, such as herbs, spices,
-medicinal plants, and fruits, are the most likely candidates for
-demonstrating meaningful microbial terroir.
-
-## See Also
-
-- [[cannabis-microbiome-cultivar-specificity]]
-- [[cannabis-microbiome-two-tier-selection]]
-- [[cannabinoid-endophyte-correlation]]
-- [[core-microbiome-cannabis-endorhiza]]
-- [[edaphic-factors-structuring-cannabis-microbiome]]
-- [[cultivar-specificity-microbiome]]

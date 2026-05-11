@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Balcony Garden
 
-Permaculture principles can be put into practice on balconies, terraces, small green areas and even in houses. Holzer has planted up balconies and terraces in many different towns, proving that anything can be grown in a small container.
+[[permaculture-principles]] can be put into practice on balconies, terraces, small green areas and even in houses. Holzer has planted up balconies and terraces in many different towns, proving that anything can be grown in a small container.
 
 ## Basic Setup (2m x 3m Terrace)
 
@@ -21,7 +21,7 @@ Place two concrete troughs with a combined capacity of around 1.5 cubic metres o
 
 Insert a hardwood trunk through the hole in the trough. The trunk should be narrow enough to fit through the hole while still leaving space for water to trickle through. As long as it fits the available space, it can be as tall as desired. This trunk serves as:
 - A climbing aid for grapes, kiwi fruit, courgettes, cucumbers, pumpkins, beans, peas, roses
-- A substrate for culinary mushroom cultivation (drill holes and inoculate with mushroom mycelium)
+- A substrate for culinary [[accessible-mushroom-cultivation-for-disabilities]] (drill holes and inoculate with [[antimicrobial-compounds-mushroom-mycelium]])
 
 ### Drainage
 
@@ -49,7 +49,7 @@ The more different levels you use, the more green material you can fit in a smal
 
 - Climbing plants wrapped around the trunk: grapes, kiwi, beans, peas, courgettes, cucumbers
 - Vegetables planted or sown nearby: lettuce, radishes, peas
-- Medicinal and culinary herbs
+- [[holzer-medicinal-and-culinary-herbs-compendium]] herbs
 - Mushrooms cultivated in the trunk
 
 ### Liquid Fertiliser
@@ -69,7 +69,7 @@ In exposed areas, protect plants over winter:
 
 The radiation of heat from the house wall creates a "masonry stove effect" that has a very positive effect on plant growth. Over time, climbing plants (grapes, kiwi) will stabilise and become woody, no longer needing additional support.
 
-## [[bypass-technique-planting|bypass technique]]
+## [[bypass-technique-planting]]
 
 If neighbours also become interested, create a terrace system reaching from storey to storey. Climbers like grapes and kiwi can grow up the front of the building from one flat to the next using balconies as climbing aids. Troughs with soil on each balcony allow plants to put down new roots (lead the plant into the trough, heap soil over it, possibly weigh down with a stone). Each storey can be overseen and harvested by the people living there, forming a communal garden.
 

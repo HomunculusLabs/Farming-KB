@@ -8,6 +8,7 @@ tags: [IPM, pest-control, biological-control, organic-farming, ecology,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - beneficial-insects-guide
   - beneficial-insects-pollinators
   - beneficial-insect-habitat

@@ -88,26 +88,3 @@ sequencing without assembly, improving taxonomic resolution. Metatranscriptomics
 captures actively expressed fungal genes, providing insight into which fungi are
 [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] rather than merely present. CRISPR-based enrichment methods
 (e.g., HoloSeq) may allow targeted capture of fungal DNA from complex
-environmental mixtures.
-
-## Standardization Challenges
-
-Comparability across studies remains a significant challenge. Different labs use
-different primer pairs, sequencing platforms, bioinformatic pipelines, and
-reference databases, making it difficult to combine datasets for global analyses.
-The SPUN (Society for the Protection of Underground Networks) and other
-initiatives are working toward standardized protocols for fungal eDNA surveys,
-including recommended primer sets, quality thresholds, and data reporting
-standards.
-
-## From eDNA to Function
-
-A growing frontier is linking eDNA detections to functional predictions. By
-matching environmental sequences to genomes in reference databases, researchers
-can infer the metabolic capabilities of detected fungi — whether they are
-lignin degraders, nitrogen cyclers, plant pathogens, or [[fungal-biodiversity]]
-- [[fungal-cryptic-species]]
-
-## See Also
-
-- [[singh-fungi-environmental-indicators]]

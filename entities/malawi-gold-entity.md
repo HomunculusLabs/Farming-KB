@@ -24,7 +24,7 @@ sources:
 Shire Highlands and Lake Malawi region of Malawi, southeastern Africa. It is
 one of the most legendary and genetically significant African [[sativa-landrace-strains-and-geographic-origins]],
 renowned for its exceptionally long flowering period, potent cerebral effects,
-and role as foundational breeding stock for numerous modern hybrids. Alongside
+and role as foundational breeding stock for numerous [[african-landrace-sativa-modern-hybrids]]. Alongside
 Thai, Colombian, and Afghan landraces, Malawi Gold is considered one of the
 four pillars of classical [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
@@ -40,7 +40,7 @@ negligible CBD.
 Genetic analysis places Malawi Gold in the "Flat" clade of African cannabis
 populations, distinct from both the broad-leaflet drug-type (BLD) of South
 Asian indicas and the hemp-type fiber cultivars of Central Asia. It is
-genetically closest to other East African landraces including Malawi
+genetically closest to other [[comparison-cavendish-vs-east-african-highland-bananas]] landraces including Malawi
 local populations and some Kenyan varieties.
 
 ## Appearance
@@ -58,7 +58,7 @@ and leaf surfaces. Traditional curing compresses buds into "Malawi cobs."
 The aroma is complex and distinctive: a blend of sweet tropical fruit, earthy
 undergrowth, spicy incense, and a characteristic deep, fermented musk.
 Dominant notes include mango, pineapple, anise, and damp soil. The flavor
-carries through with added nuances of cedar, black pepper, and a lingering
+carries through with added nuances of cedar, [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], and a lingering
 sweet, almost candied finish. The unique terroir of the Malawian highlands —
 volcanic red soils at 1000+ meters elevation — contributes to the strain's
 distinctive chemosensory profile.
@@ -73,7 +73,7 @@ Malawi Gold expresses a terpene profile dominated by:
 - **Caryophyllene** (0.3-0.5%) — Spicy, peppery undertone
 - **Pinene** (0.2-0.4%) — Pine, fresh needle notes
 
-The high terpinolene content is characteristic of African sativa landraces
+The high terpinolene content is characteristic of [[cannabis-strain-king-congo-african-sativa]] landraces
 and contributes to the strain's complex aromatic profile and its more
 stimulating, less sedative effect profile compared to myrcene-dominant
 indica strains.
@@ -87,62 +87,3 @@ Traditional Malawi Gold is a high-THC, low-CBD chemotype:
 - **CBD**: <0.5% (typically undetectable)
 - **CBG**: 0.1-0.3%
 - **CBC**: Trace
-
-The absence of CBD contributes to the strain's intensely psychoactive
-character. THCV may be present at low levels, contributing to the
-appetite-suppressing effects some users report.
-
-## Effects
-
-Onset is gradual, building over 15-30 minutes. The effects are predominantly
-cerebral and psychedelic: intense euphoria, enhanced visual perception, creative
-stimulation, and deep philosophical contemplation. The high is exceptionally
-long-lasting for cannabis, often persisting 4-6 hours with an extended comedown.
-
-Common applications include creative work, social engagement, and spiritual
-practice. The strain is less suited for evening use by those prone to anxiety,
-as the cerebral intensity can become overstimulating. Couch-lock is rare; the
-effect profile trends toward energetic and racy.
-
-## Cultivation
-
-Malawi Gold has one of the longest flowering periods of any cannabis strain,
-requiring 14-20 weeks (98-140 days) from 12/12 photoperiod switch to harvest.
-This extended flowering is an adaptation to equatorial photoperiods where
-day length varies minimally throughout the year.
-
-Traditional Malawian cultivation involves planting at the onset of the rainy
-season (November-December) and harvesting in June-July. The traditional "cob"
-curing method wraps fresh compressed buds in banana leaves for slow
-fermentation, producing a distinctive dark, potent product.
-
-In temperate climates, the long flowering period requires early indoor
-germination (February-March) for outdoor harvest before October frost, or
-full [[cannabis-sativa-indoor-cultivation-techniques]]. Yields are moderate to high (400-600 g/m² indoor)
-with aggressive training (LST, SCROG) to manage height.
-
-## Medical Applications
-
-The high THC, low CBD profile limits formal medical applications but anecdotal
-reports indicate utility for:
-
-- Treatment-resistant depression (euphoric and motivating effects)
-- [[cannabis-chronic-fatigue-research]] and daytime fatigue disorders
-- ADHD symptom management (focus-enhancing at moderate doses)
-- Appetite suppression (unusual for cannabis; attributed to THCV content)
-- PTSD (reported therapeutic introspective qualities at ceremonial doses)
-
-## Notable Derivatives
-
-Malawi Gold has been used extensively as breeding stock:
-
-- **Amnesia Haze** — Malawi Gold × Jamaican Lambsbread × Afghan Hawaiian
-- **Chocolope** — Malawi Gold × Chocolate Thai (DNA Genetics)
-## See Also
-
-- [[oner-sativa-landrace-preservation]]
-
-- [[cannabis-sativa]] — Species-level overview of sativa cannabis
-- thai-stick-entity — Southeast Asian landrace with similar flowering traits
-- [[purple-haze-cannabis]] — Landrace hybrid central to modern sativa genetics
-- [[4-ho-dpt-entity-tihkal]]

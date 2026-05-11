@@ -1,5 +1,5 @@
 ---
-title: "Tryptamine tihkal receptor binding serotonin and the Serotonin System"
+title: Tihkal Receptor Binding Serotonin
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [serotonin, 5-HT, receptor, binding, neurotransmitter, brain]
@@ -13,7 +13,7 @@ updated: 2026-04-26
 
 Serotonin (5-hydroxytryptamine, 5-HT) is described in TIHKAL as "THE neurotransmitter that is the sine qua non of the brain. Everything centers on it, everything is explained by it, and all virtue and all damage that occurs there is because of it."
 
-Serotonin is the immediate precursor to melatonin in the brain and is an essential factor in brain chemistry. Since it cannot be transported from outside the body (it is too polar to cross the blood-brain barrier), it must be synthesized in the brain. Most drugs are judged by their influence on serotonin levels.
+Serotonin is the immediate precursor to melatonin in the brain and is an essential factor in [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]]. Since it cannot be transported from outside the body (it is too polar to cross the blood-brain barrier), it must be synthesized in the brain. Most drugs are judged by their influence on serotonin levels.
 
 ## The Blood-Brain Barrier Problem
 
@@ -74,12 +74,12 @@ All psychedelic tryptamines are structural analogues of serotonin. The conversio
 
 ### Harman and Derivatives
 - Beta-carboline derivatives found in plants, animals, and human tissues
-- Some bind to benzodiazepine receptors but are "totally without any affinity for serotonin receptors"
-- Others (like the [[turner-harmala-alkaloids-preparation-and-dosage]]) are potent MAO inhibitors that indirectly modulate serotonin levels
+- Some bind to benzodiazepine receptors but are "totally without any affinity for [[psilocybin-pharmacology-and-serotonin-receptors]]"
+- Others (like the [[turner-harmala-alkaloids-preparation-and-dosage]]) are potent [[mao-inhibitors-and-psychedelics]] that indirectly modulate serotonin levels
 
 ## The Role of 5-HT2A Receptors
 
-While TIHKAL predates the full elucidation of 5-HT2A receptor pharmacology, the text repeatedly discusses compounds' serotonin agonist/antagonist properties. The key insight from TIHKAL is that **serotonin receptor binding does not simply correlate with psychedelic potency** -- the relationship is far more complex, involving receptor subtype specificity, efficacy (agonist vs. partial agonist vs. antagonist), functional selectivity, and downstream signaling pathways.
+While TIHKAL predates the full elucidation of 5-HT2A [[cannabinoid-receptor-pharmacology]], the text repeatedly discusses compounds' serotonin agonist/antagonist properties. The key insight from TIHKAL is that **serotonin receptor binding does not simply correlate with psychedelic potency** -- the relationship is far more complex, involving receptor subtype specificity, efficacy (agonist vs. partial agonist vs. antagonist), functional selectivity, and downstream [[plant-signaling-pathways]].
 
 ## Research Integrity Concerns
 
@@ -88,17 +88,3 @@ Shulgin documents a case where 2-iodo-1-methyl-LSD (MIL) -- a compound with sero
 ## Shulgin's Hope
 
 "It is my quiet hope that the psychedelic drugs will give us that guidance towards the understanding of the mind. They just might let us see that trail through the dark forest where most of the people who search choose to follow the lighted path."
-
-## Sources
-
-- TIHKAL Commentary on serotonin throughout (pp. 830-910, 4250-4310, 5360-5380, 6660-6690)
-- TIHKAL Entries on LSD, BOL-148, MBL-61
-- TIHKAL Entries on alpha-O-DMS, alpha-MS, alpha-MT
-
-## See Also
-
-- [[pihkal-introduction-and-methodology]]
-- [[tryptamine-consciousness-theory]]
-- [[mao-inhibitors-and-psychedelics]]
-
-- [[beta-glucan-receptor-binding]]

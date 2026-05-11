@@ -88,16 +88,3 @@ effective management:
    not animal numbers. See [[savory-animal-impact-and-herd-effect]].
 
 ## From Parts to Wholes: The Testing Guidelines
-
-The testing guidelines in the HRM model are designed to ensure that any
-management action is evaluated in terms of its effect on the whole. The
-[[savory-weak-link-analysis]] ensures that investments target the
-actual bottleneck in the system rather than symptoms of deeper problems.
-The [[savory-reductionist-vs-holistic-science]]
-- [[savory-holistic-decision-making]]
-- [[savory-testing-and-management-guidelines]]
-- bullwhip-effect
-
-## See Also
-
-- [[complexity-and-connections]]

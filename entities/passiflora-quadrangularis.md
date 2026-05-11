@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Passiflora quadrangularis** L., commonly known as giant granadilla, barbadine, or badea, is the largest-fruited species in the genus *Passiflora*. Native to tropical South America, it produces massive edible fruits weighing 1–4 kg and is cultivated commercially for its aromatic pulp and as a rootstock for other *Passiflora* species.
+**Passiflora quadrangularis** L., commonly known as giant granadilla, barbadine, or badea, is the largest-fruited species in the genus *Passiflora*. Native to tropical [[guzman-psilocybin-mushrooms-south-america]], it produces massive edible fruits weighing 1–4 kg and is cultivated commercially for its aromatic pulp and as a rootstock for other *Passiflora* species.
 
 The species is a vigorous perennial climber with square-shaped (quadrangular) stems that give it its specific epithet. It is valued both as a food crop and in traditional medicine, where preparations of the leaves and roots are used for their sedative and anti-inflammatory properties.
 
@@ -53,7 +53,7 @@ It grows at elevations from sea level to 1,200 m in humid tropical and subtropic
 
 ## Cultivation
 
-Giant granadilla requires warm tropical or subtropical conditions with temperatures above 15°C. It is less cold-tolerant than purple passionfruit (*Passiflora edulis*), suffering damage below 5°C.
+Giant granadilla requires warm tropical or subtropical conditions with temperatures above 15°C. It is less cold-tolerant than purple passionfruit (*[[passiflora-edulis]]*), suffering damage below 5°C.
 
 Optimal rainfall is 1,500–2,500 mm distributed throughout the year. The species is sensitive to prolonged drought, which causes flower drop and reduced fruit set.
 
@@ -65,7 +65,7 @@ A strong trellis or support system is essential due to the vine's massive weight
 
 Flowering begins 12–18 months after planting. Fruit development requires 60–90 days from anthesis to maturity. Annual yields of 30–50 fruits per vine are common under good management, equivalent to 25–80 tonnes per hectare.
 
-The species is widely used as a rootstock for *P. edulis* and *P. ligularis* because of its disease resistance and vigorous root system. Grafted plants show improved tolerance to Fusarium wilt and nematodes.
+The species is widely used as a rootstock for *P. edulis* and *P. ligularis* because of its disease resistance and vigorous root system. Grafted plants show improved tolerance to [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] and nematodes.
 
 ## Nutritional and Culinary Value
 
@@ -79,7 +79,7 @@ The pulp is consumed fresh, often scooped from the rind and eaten with added sug
 
 The flavor is milder and less acidic than purple passionfruit. This milder profile makes it more versatile in blended beverages and dairy products where a strong acid note would be undesirable.
 
-In the Caribbean, the green immature fruit is cooked as a vegetable in soups and stews, similar to the use of chayote (*Sechium edule*). In Colombia, the fruit is known as badea and is valued for making refreshing beverages.
+In the Caribbean, the green immature fruit is cooked as a vegetable in soups and stews, similar to the use of chayote (*[[sechium-edule]]*). In Colombia, the fruit is known as badea and is valued for making refreshing beverages.
 
 ## Bioactive Compounds
 
@@ -88,23 +88,3 @@ The leaves and roots contain flavonoids (vitexin, isovitexin, orientin, schaftos
 The fruit pulp contains carotenoids (beta-carotene, lycopene) and anthocyanins. Total polyphenol content of leaf extracts is comparable to that of green tea, contributing to significant antioxidant capacity.
 
 Pharmacological studies demonstrate anxiolytic, sedative, and anticonvulsant activities in animal models, primarily attributed to the flavonoid C-glycosides.
-
-These compounds modulate GABAergic neurotransmission, consistent with the traditional use as a calming remedy. The mechanism involves enhancement of GABA binding to its receptor, similar to benzodiazepines but without the same dependency profile.
-
-Anti-inflammatory and analgesic effects have been documented for leaf extracts in carrageenan and formalin test models. The beta-carboline alkaloids in the fruit pulp may contribute to the mild sedative effect reported after consumption of the fresh juice.
-
-Traditional medicinal uses include treatment of anxiety, insomnia, asthma, and gastrointestinal disorders. Leaf infusions are used in Brazilian folk medicine as a sedative tea, and root decoctions are employed for their diuretic properties.
-
-## See Also
-
-- [[passiflora-incarnata]]
-- [[tryptophan]]
-- [[gynostemma-pentaphyllum]]
-- [[mangifera-indica]]
-- [[persea-americana]]
-- punica-granatum
-- [[juglans-regia]]
-- [[musa-acuminata]]
-- [[solanum-tuberosum]]
-- [[abelmoschus-esculentus]]
-- [[cucurbita-pepo]]

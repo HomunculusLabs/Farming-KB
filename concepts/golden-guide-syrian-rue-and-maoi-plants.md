@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: golden guide syrian rue and maoi plants and MAOI Plants"
+title: Golden Guide Syrian Rue And Maoi Plants
 created: 2026-04-28
 tags: [hallucinogenic-plants, syrian-rue, maoi, harmala, harmine, harmaline,
   peganum, zygophyllaceae, beta-carbolines, ethnobotany, ayahuasca]
@@ -11,7 +11,7 @@ type: concept
 
 # Syrian Rue (*Peganum harmala*) and MAOI-Containing Plants
 
-Syrian Rue (*Peganum harmala*) grows from the Mediterranean to northern
+Syrian Rue (*[[peganum-harmala]]*) grows from the Mediterranean to northern
 India, Mongolia, and Manchuria. Everywhere it has many uses in folk medicine.
 Its seeds have been employed as a spice, and its fruits are the source of a
 red dye and an oil. The seeds possess known hallucinogenic alkaloids,
@@ -55,7 +55,7 @@ pharmacological significance: when combined with tryptamine-containing
 compounds (such as DMT from ayahuasca plants), harmala alkaloids prevent the
 oral inactivation of these compounds, allowing them to produce psychoactive
 effects when consumed by mouth. This mechanism is the basis of the
-ayahuasca brew of South America, where *Banisteriopsis caapi*, which
+ayahuasca brew of [[guzman-psilocybin-mushrooms-south-america]], where *[[ayahuasca-and-banisteriopsis-caapi]]*, which
 contains the same beta-carboline alkaloids, is combined with DMT-containing
 plants.
 
@@ -80,7 +80,7 @@ burned as incense or prepared as infusions for their mild psychoactive and
 euphoriant effects. The red dye extracted from the fruits has been used to
 color textiles and food. In parts of India and the Middle East, the seeds are
 sometimes added to various preparations for their purported magical or
-medicinal properties. The plant's widespread use in folk medicine across
+[[panax-ginseng]]. The plant's widespread use in folk medicine across
 such a vast geographical area suggests that its pharmacologically active
 properties were recognized independently by many different cultures.
 
@@ -88,34 +88,3 @@ properties were recognized independently by many different cultures.
 
 The discovery that Syrian Rue contains the same beta-carboline alkaloids as
 *Banisteriopsis caapi*, the primary ayahuasca vine, has led to its use in
-ayahuasca analogue preparations outside of the Amazon. Because Syrian Rue
-seeds are readily available in many parts of the world, they have been
-adopted by modern practitioners as a substitute for the traditional
-ayahuasca vine. When combined with DMT-containing plant material, Syrian
-Rue seeds can produce an experience similar to traditional ayahuasca,
-though the specific effects may differ due to the different alkaloid
-profiles.
-
-This pharmacological parallel between Syrian Rue and ayahuasca represents
-one of the most fascinating examples of convergent discovery in
-ethnopharmacology. The peoples of the Amazon independently discovered that
-beta-carboline-containing plants could activate the [[tihkal-oral-activity-mao-inhibition]] of DMT,
-while peoples across Asia and the Middle East had access to a plant with
-the same class of compounds. Whether traditional cultures ever combined
-Syrian Rue with DMT-containing plants remains an open question.
-
-## Other MAOI-Containing Plants
-
-While Syrian Rue is the most well-known [[datura-metel-old-world-ethnobotany]] plant containing
-beta-carboline MAOI alkaloids, other plants in the same chemical category
-exist. *Banisteriopsis caapi* and related species from the Amazon are the
-most important New World MAOI plants, used as the basis of ayahuasca. See
-[[plants-gods-syrian-rue]]
-
-- [[golden-guide-ayahuasca-and-caapi]]
-- [[golden-guide-morning-glory-and-ololiuqui]]
-- [[beta-carboline-alkaloids]], [[ayahuasca-botany-and-preparation]], [[syrian-rue-peganum-harmala-ethnobotany]] for related chemistry and ethnobotany.
-
-[[mao-inhibitors-and-psychedelics]] — pharmacology of MAO inhibition and its interaction with psychedelic tryptamines
-[[naranjo-harmaline-yage-experiment]] — Claudio Naranjo's [[hofmann-lsd-clinical-research-early-studies]] on harmaline and its visionary effects
-[[ethnobotany-of-psychedelic-fungi]] — broader ethnobotanical context for psychoactive plant use across cultures

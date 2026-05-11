@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,54 +88,7 @@ Mollison describes its applications:
 - Can be powered by hand crank, animal power, water current, or wind
 - Efficient for low-head irrigation from streams or drainage ditches
 - Made from sheet metal, timber, or PVC pipe with an internal helical
-  baffle
 
-## Hand Pumps
-
-Mollison describes several hand pump types appropriate for permaculture
-settlements:
-
-### Suction Pump (Shallow Well Pump)
-A piston or diaphragm pump installed at ground level, creating suction
-to draw water from wells up to 7 metres deep. Simple, cheap, and easily
-repairable. Common types include the pitcher pump (cast iron) and
-various PVC diaphragm pumps.
-
-### Deep Well Piston Pump
-A cylinder is installed below the water level in the well (below the
-suction limit). A rod connects the piston to a hand lever at the surface.
-Each stroke of the lever raises water through a riser pipe. Can lift from
-depths of 30 to 60 metres or more, though pumping effort increases with
-depth. Mollison recommends the India Mark II and Mark III pumps as
-robust, maintainable designs widely deployed in developing countries.
-
-### Direct-Action Pump
-The pump handle is directly connected to the piston rod without a lever
-arm, requiring the operator to push and pull directly. Simpler but more
-physically demanding. Limited to shallow to moderate depths.
-
-### Force Pump
-A double-acting piston pump that delivers water on both the up and down
-strokes, increasing efficiency. Can also deliver water under pressure to
-an elevated tank or distant outlet.
-
-## Maintenance Principles
-
-Mollison emphasises that the critical factor for water lifting device
-sustainability is local maintenance capacity:
-
-- Use standardised, locally available parts
-- Train local operators in routine maintenance (lubrication, seal
-  replacement, rod alignment)
-- Design for disassembly without specialised tools
-- Keep critical spare parts (washers, valves, seals) on site
-- Protect moving parts from weather and corrosion
-- Regular inspection of well casing and water quality
 ## See Also
-- [[bill-mollison]]
+- [[mollison-designers-willow-water-and-natural-rooting-propagation]]
 - [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[mollison-designers-trout-and-cool-water-aquaculture-species]]
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-- [[mollison-designers-soil-water-storage-and-field-capacity]]
-
-- [[semiconductor-physics-and-devices]]

@@ -1,5 +1,5 @@
 ---
-title: [[korean-natural-farming]]: IMO Collection and [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
+title: [[korean-natural-farming]] Imo Collection [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
 category: sustainable-agriculture
 source: general-knowledge
 mined: 2026-05-10
@@ -11,7 +11,7 @@ aliases: [KNF-methods, cho-natural-farming, IMO-fermentation, Korean-farming-tec
 
 ## Overview
 
-Korean Natural Farming (KNF), developed by Master Han Kyu Cho (Cho Han Kyu) in the 1960s-2000s, is a sustainable agricultural system that uses locally sourced, naturally fermented inputs to build soil biology, nourish crops, and manage pests and diseases without external chemical inputs. The two foundational inputs in KNF are [[beneficial-indigenous-microorganisms-bim]] (IMO) and Fermented Plant Extracts (FPE), which together establish and feed a diverse, self-sustaining soil food web.
+Korean Natural Farming (KNF), developed by Master Han Kyu Cho (Cho Han Kyu) in the 1960s-2000s, is a sustainable agricultural system that uses locally sourced, naturally fermented inputs to build soil biology, nourish crops, and manage [[mushroom-pests-and-diseases]] without external chemical inputs. The two foundational inputs in KNF are [[beneficial-indigenous-microorganisms-bim]] (IMO) and Fermented Plant Extracts (FPE), which together establish and feed a diverse, self-sustaining soil food web.
 
 ## Indigenous Microorganisms (IMO)
 
@@ -24,7 +24,7 @@ The process begins with collecting microbes from a pristine forest or undisturbe
 - **Site selection**: Choose a shaded, undisturbed area under deciduous trees in a mature forest. The site should have deep leaf litter, good drainage, and minimal human disturbance. Bamboo groves and old-growth forest edges are preferred.
 - **Medium preparation**: Fill a wooden box (30 × 20 × 10 cm) with steamed rice (not overcooked — grains should be separate, not mushy). The rice provides a starch-rich substrate for initial microbial colonization. Do not add salt or oil.
 - **Placement**: Place the box in the selected forest site and cover loosely [[building-with-natural-materials]] — first with unwaxed paper or broad leaves, then with a layer of fallen leaves, and finally a piece of cardboard or thin wood to protect from rain while allowing air exchange.
-- **Collection period**: Leave for 3-7 days (typically 5 days). Ambient temperature should be 20-30°C. The rice will develop a fuzzy growth of bacteria, yeasts, and fungi.
+- **Collection period**: Leave for 3-7 days (typically 5 days). [[jadam-ambient-temperature-principle]] should be 20-30°C. The rice will develop a fuzzy growth of bacteria, yeasts, and fungi.
 - **Selection criteria**: Successful IMO shows white (fungal), yellow (yeast), or mixed white-pink-orange growth. Blue, green, or black molds indicate undesirable contamination — discard and retry at a different site or time.
 - **Season**: Best collected in warm, humid conditions (late spring through early fall). Winter collection is possible but slower.
 
@@ -33,7 +33,7 @@ The process begins with collecting microbes from a pristine forest or undisturbe
 The collected microbes are expanded and preserved through a lactic acid fermentation:
 
 - Mix the colonized rice with equal weight of brown sugar (or palm sugar) in a ceramic, glass, or wooden container. Do not use metal containers.
-- The sugar creates osmotic conditions that favor lactic acid bacteria (LAB) over competitors, while providing carbon for fermentation.
+- The sugar creates osmotic conditions that favor [[cho-lactic-acid-bacteria-preparation]] (LAB) over competitors, while providing carbon for fermentation.
 - Fill the container to ¾ capacity to allow gas expansion.
 - Cover with breathable cloth (not airtight). Ferment at room temperature (20-30°C) for 7-14 days.
 - Successful fermentation produces a sweet-sour aroma (like sweet wine or vinegar) and a dark amber liquid. The rice grains become soft and may float.
@@ -62,7 +62,7 @@ The final stage prepares IMO for field application at scale:
 
 ## Fermented Plant Extracts (FPE)
 
-FPEs are made by extracting bioactive compounds from specific plants through lactic acid fermentation with brown sugar:
+FPEs are made by extracting [[cordyceps-cancer-bioactive-compounds]] from specific plants through lactic acid fermentation with brown sugar:
 
 ### FPE Preparation Method
 
@@ -88,33 +88,3 @@ FPEs are made by extracting bioactive compounds from specific plants through lac
 
 - **Growth stage matching**: Different inputs are applied at different plant growth stages. Early vegetative: nitrogen-rich inputs (FAA, young-plant FPEs). Transition: balanced inputs. Flowering/fruiting: P/K-rich inputs (banana FPE, comfrey FPE, OHN).
 - **Dilution rates**: Most liquid KNF inputs are applied at 1:500 to 1:1000 dilution. OHN is used at 1:1000. Over-application can cause nutrient burn or microbial imbalance.
-- **Foliar vs. soil application**: FPEs and FAA can be applied as foliar sprays (rapid absorption) or soil drenches. IMO is primarily a soil application.
-- **Timing**: Apply in early morning or late afternoon to avoid UV damage to microbial inputs and phytotoxicity from foliar applications in intense sun.
-- **Frequency**: Weekly applications during active growth, reduced during dormancy or slow growth periods.
-
-## Integration with Other Systems
-
-KNF inputs can be combined with other sustainable farming approaches:
-- **No-till systems**: IMO applications to the soil surface are compatible with no-till management. The mulch layer protects surface-applied microbes.
-- **Composting**: IMO and FPE can be added to compost piles to accelerate decomposition and introduce beneficial microorganisms. LAB serum is particularly effective as a compost inoculant.
-- **Livestock integration**: KNF methods extend to animal husbandry. IMO is added to feed, bedding, and water to improve animal health, reduce odor, and accelerate manure decomposition.
-- **Aquaculture**: IMO and FPE are used in natural fish farming to maintain water quality and promote beneficial microbial communities in ponds.
-- **Integration with Jadam**: Both systems share Korean origins and overlapping principles. Jadam's approach (JMS microbial solution, JHF fertilizer) uses similar fermentation concepts but with streamlined, single-step preparation methods.
-
-## Scientific Perspective
-
-- The IMO/FPE approach effectively introduces and supports diverse microbial communities adapted to local conditions.
-- Lactic acid fermentation preserves plant nutrients in bioavailable forms and creates conditions that suppress pathogens (low pH, competitive microbial community).
-- Composted rice bran serves as an effective microbial carrier and slow-release carbon source.
-- KNF practices align with principles of soil food web management: maintain diverse microbial populations, feed the soil biology, minimize disturbance.
-- Empirical farmer observations are largely consistent with documented effects of microbial inoculants, fermented organic inputs, and plant-derived biostimulants, though controlled trials on specific KNF formulations remain limited.
-
-## See Also
-
-- cho global natural farming
-- [[indigenous-microorganisms-imo]]
-- [[fermented-plant-extract-fpe]]
-- cho natural farming input preparation
-- cho korean natural farming masterclass
-- jadam liquid fertilizer preparation
-- [[bokashi]]

@@ -7,8 +7,8 @@ tags:
   - stimulant
   - medicinal-plants
   - west-african-crops
-  - caffeine
-  - agroforestry
+  - [[caffeine]]
+  - [[agroforestry]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -26,7 +26,7 @@ created: 2026-04-28
 
 It is the primary source of the **kola nut**, a culturally significant stimulant that has been consumed across West and Central Africa for centuries and was historically a key ingredient in Coca-Cola.
 
-The seeds contain **caffeine (1.5–3.5%)** and theobromine, providing stimulant effects similar to coffee and tea.
+The seeds contain **caffeine (1.5–3.5%)** and [[theobromine]], providing stimulant effects similar to coffee and tea.
 
 Kola nuts remain central to **social ceremonies, traditional medicine, and religious rituals** throughout the region, and the species is an important agroforestry crop.
 
@@ -48,7 +48,7 @@ It was transferred to the genus *Cola* by Heinrich Wilhelm Schott and Stephan Fr
 
 Two varieties are recognized: *C. nitida* var. *nitida* (red kola) and *C. nitida* var. *alba* (white kola), distinguished by seed coat color and slightly different caffeine content.
 
-The related species *Cola acuminata* (Schott & Endl.) produces the bitter kola, which has lower caffeine content.
+The related species *[[cola-acuminata]]* (Schott & Endl.) produces the bitter kola, which has lower caffeine content.
 
 ## Morphology
 
@@ -68,7 +68,7 @@ The related species *Cola acuminata* (Schott & Endl.) produces the bitter kola, 
 
 *C. nitida* is native to the **humid tropical lowland forests** of West Africa, from Sierra Leone eastward through Liberia, Côte d'Ivoire, Ghana, Togo, Benin, Nigeria, and into Cameroon.
 
-It is widely cultivated throughout its native range and has been introduced to tropical regions of the Americas, [[psilocybe-southeast-asia-pacific]], and the Indian Ocean islands.
+It is widely cultivated throughout its native range and has been introduced to [[fukuoka-natural-farming-in-tropical-regions]] of the Americas, [[psilocybe-southeast-asia-pacific]], and the Indian Ocean islands.
 
 The species grows at low elevations (0–500 m) in areas with **annual rainfall of 1,200–2,500 mm** and mean temperatures of 25–30°C.
 
@@ -84,40 +84,6 @@ The primary bioactive constituents of kola nuts are **methylxanthine alkaloids**
 
 The seeds also contain **kolatin** (a cardioglycoside), **kolanin** (a coloring compound), and significant amounts of **tannins** (4–8%) responsible for the characteristic astringent flavor.
 
-**Phenolic compounds** including catechin, epicatechin, and procyanidins contribute antioxidant activity.
+**[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]** including catechin, epicatechin, and procyanidins contribute antioxidant activity.
 
 Vitamin C content is notably high in fresh seeds — approximately 100–200 mg per 100 g — making kola nuts a significant source in traditional diets.
-
-## Ethnobotanical and Cultural Significance
-
-Kola nuts occupy a central position in **West African social and spiritual life**.
-
-They are presented as **gifts of welcome and respect** during visits, meetings, weddings, funerals, and religious ceremonies across Yoruba, Igbo, Hausa, and Akan cultures.
-
-In Yoruba tradition, kola nuts are sacred to **Obatala** (the creator deity) and are essential offerings in Ifá divination rituals.
-
-The nuts are traditionally chewed to **suppress hunger and fatigue**, enhance alertness during long work or travel, and promote social bonding during communal gatherings.
-
-Historically, kola nuts were a **major trade commodity** transported across the Sahel by camel caravans, reaching North Africa and the Mediterranean by at least the 14th century.
-
-John Stith Pemberton included kola nut extract as a key ingredient in the original 1886 formulation of **Coca-Cola**, combining it with coca leaf extract (cocaine) and sugar.
-
-## Agroforestry and Economic Importance
-
-*C. nitida* is an important **agroforestry species** in West African farming systems, typically integrated into cocoa, oil palm, and mixed food crop plantations.
-
-As a shade-tolerant canopy tree, it provides **microclimate regulation** for understory crops, reducing temperature extremes and evapotranspiration.
-
-The species contributes to **soil conservation** through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] and root systems that help prevent erosion on sloping terrain.
-
-Kola nut production is concentrated in Nigeria and Ghana, with Nigeria accounting for approximately **70% of global supply**. Annual production is estimated at 150,000–200,000 metric tons.
-
-The nuts are traded in local, regional, and international markets, providing significant **cash income** for smallholder farmers.
-
-## See Also
-
-- [[caffeine]]
-- [[theobroma-cacao]]
-- [[paullinia-cupana]]
-- [[piper-nigrum-entity]]
-- [[companion-planting]]

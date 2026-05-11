@@ -1,5 +1,5 @@
 ---
-title: "Citric citric acid cycle tca krebs cycle — TCA Cycle and Krebs Cycle"
+title: Citric Acid Cycle Tca Krebs Cycle
 created: 2026-04-28
 updated: 2026-05-06
 tags: [biochemistry, metabolism, cellular-respiration, mitochondria, energy]
@@ -13,7 +13,7 @@ sources: []
 The citric acid cycle, also known as the tricarboxylic acid
 (TCA) cycle or Krebs cycle, is a series of chemical
 reactions that oxidize acetyl-CoA derived from
-carbohydrates, fats, and proteins into carbon dioxide and
+carbohydrates, fats, and proteins into [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and
 chemical energy in the form of ATP, NADH, and FADH2. It is
 the central metabolic hub of aerobic cells, connecting
 catabolic pathways that [[query-can-fungi-break-down-plastic-pollution]] nutrients with anabolic
@@ -32,7 +32,7 @@ catalyzed by citrate synthase. This aldol condensation is
 irreversible under physiological conditions due to rapid
 hydrolysis of citryl-CoA. Citrate synthase is allosterically
 inhibited by ATP, NADH, succinyl-CoA, and citrate itself,
-providing feedback regulation when and cellular energy is
+providing feedback regulation when [[adenosine-triphosphate-and-cellular-energy]] is
 abundant.
 
 ### Isocitrate Formation
@@ -87,17 +87,3 @@ oxaloacetate), glutamate dehydrogenase, and the malic enzyme
 pathway.
 
 ## Clinical Significance
-
-TCA cycle enzyme defects cause serious metabolic disorders.
-Fumarase mutations cause fumaric aciduria with developmental
-delay. Succinate dehydrogenase mutations are linked to
-pheochromocytoma and paraganglioma tumors. In cancer, mutant
-isocitrate dehydrogenase produces the oncometabolite
-2-hydroxyglutarate, which inhibits alpha-ketoglutarate-
-dependent dioxygenases and alters epigenetic regulation,
-promoting tumor progression.
-
-## See Also
-
-- [[enzyme-kinetics-michaelis-menten-model]]
-- [[glutathione-biochemistry-and-redox-biology]]

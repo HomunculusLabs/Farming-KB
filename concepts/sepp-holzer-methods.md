@@ -147,4 +147,3 @@ Holzer achieves productive farming without irrigation through:
 - [[mushroom-cultivation-methods]] — Mushroom growing techniques
 - [[hugelkultur-guide]] — Comprehensive hugelkultur construction guide
 - [[sepp-holzer]] — Austrian farmer, Krameterhof pioneer, agro-rebel philosophy
-

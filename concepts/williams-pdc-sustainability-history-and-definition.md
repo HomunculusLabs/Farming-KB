@@ -1,5 +1,5 @@
 ---
-title: williams pdc sustainability history and definition and Definition
+title: Williams Pdc Sustainability History And Definition
 created: 2026-04-28
 tags: permaculture, sustainability, history, maslow, ecological-design]
 date: 2026-04-28
@@ -77,8 +77,8 @@ fertilizer plants, tank assembly lines produced farm machinery, and
 chemical weapons became herbicides and pesticides.
 
 These "improvements" increased food supply but caused massive ecological
-impacts: mono-crop fields destroy local ecologies, chemical runoff
-pollutes water tables, nutrient cycles are burned out requiring ever
+impacts: mono-crop fields destroy local ecologies, [[mycofiltration-of-chemical-runoff]]
+pollutes water tables, [[ozier-pdc-composting-and-nutrient-cycles]] are burned out requiring ever
 higher chemical inputs, and food systems are completely dependent on
 gas-powered vehicles and equipment.
 
@@ -86,60 +86,5 @@ gas-powered vehicles and equipment.
 
 One of the main culprits in creating a non-sustainable world was the
 invention of waste, one of the few true human inventions. Both
-synthetics and perfectly natural materials are "dumped" in ways that do
+synthetics and perfectly [[building-with-natural-materials]] are "dumped" in ways that do
 not allow them to decompose. The ecology is inherently up-cycling,
-getting stronger over time, but the creation of waste down-cycles the
-ecology, making it weaker.
-
-## Defining Sustainability
-
-The accepted definition of sustainability, created in 1983 by the UN's
-Brundtland Commission, is: "development that meets the needs of the
-present without compromising the ability of future generations to meet
-their own needs."
-
-Expanding "development" to "architecture and infrastructure" gives us:
-architecture and infrastructure that meets the needs of the present
-without compromising the ability of future generations to meet their
-own needs.
-
-## Maslow's Hierarchy of Needs
-
-To clarify what "needs" means, Ozier turns to Maslow's Hierarchy:
-
-1. **Physiological**: Healthy food, clean water, rest, health
-2. **Security**: Perception that physiological needs will continue to
-   be met into the foreseeable future
-3. **Community**: Full range of relationships including friendship,
-   family, romance, belonging, and unifying cultural identity
-4. **Positive Esteem**: Knowing you are a positive contributor to the
-   community, receiving feedback that builds positive self-esteem
-5. **Self-Actualization**: The ability to pursue personal growth and
-   become the best version of yourself
-
-When needs are not met, the instinctive response is anger and
-violence. This psychological mechanism includes a subconscious governor
-that does a risk-benefit analysis, sometimes causing mis-targeted anger
-at safer targets rather than the true source of the problem.
-
-## The Expanded Definition
-
-Sustainability is: architecture and infrastructure that provides
-physiological needs, security, community, opportunities for positive
-esteem, and self-actualization for the present generation without
-compromising the ability of future generations to do the same.
-
-The concept of "generations" extends indefinitely into the future. Our
-architecture and infrastructure should function for as long as
-possible, creating no more impact than absolutely necessary.
-
-## Moving Forward
-
-The modern era's design paradigms were created from humanitarian
-positions but missed a philosophical system based on living in harmony
-with the environment. [[williams-pdc-inventories-and-observation]]
-- [[williams-pdc-learning-exercises-and-field-activities]]
-## See Also
-- [[williams-pdc-learning-exercises-and-field-activities]]
-- [[williams-pdc-inventories-and-observation]]
-- [[permaculture-design-principles-and-sustainability]]

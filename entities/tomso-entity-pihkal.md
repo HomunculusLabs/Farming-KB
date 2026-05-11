@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TOMSO
 
-PIHKAL entry #173. 2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #173. 2-METHOXY-4-METHYL-5-METHYLSULFINYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -68,7 +68,7 @@ solution of this with a little [[cervantes-hydrogen-peroxide-sterilization]] and
 neutral extracts at 100-115 deg C at 0.2 mm/Hg to give the sulfoxide as a
 solid that melted at 76-77 deg C from hexane: Anal. (C11H16OS) C,H. On
 the other hand, if a solution of the thioanisole in acetic acid
-containing hydrogen peroxide was heated on the [[scythian-cannabis-steam-bath-ritual]] for a few
+containing [[hydrogen-peroxide-tissue-culture-wild-polypores]] was heated on the [[scythian-cannabis-steam-bath-ritual]] for a few
 hours and then worked up, a new solid was isolated that proved to be
 the sulfone (a negative Fries-Vogt test). This was obtained as white
 crystals with a mp of 94-95 deg C from aqueous methanol. Anal.
@@ -88,62 +88,3 @@ or more metabolites, but the sulfoxide and sulfone were not among
 them. It would be fun, someday, to methodically trace the fate of
 
 this compound.
-
-So, on to the second approach. What might the active metabolite of
-5-TOM actually be? The sulfoxide seemed completely reasonable, and
-that encouraged the synthesis of TOMSO. This name was given, as it is
-the sulfoxide analogue (SO) of 5-TOM. And since only one of these
-analogues has been made, the R5S distinction is not needed. But it is
-apparent that this approach to the finding of an explanation for the
-idiosyncratic sensitivity to 5-TOM also failed, in that TOMSO itself
-appeared to be without activity.
-But the fallout of this study was the uncovering of an unusual
-property that alcohol can occasionally have when it follows the
-ingestion of certain inactive drugs. Or if it is used at the tail end
-of an experience with an active drug. Usually some alcohol has been
-employed as a softener of the residual effects of the day's
-experiment, or as a social habit to accompany the post-mortem
-discussions of a day's experiences, and perhaps as a help to sleeping.
-But if there is a rekindling of the effect, rather than the sedation
-expected, then the verb "to tomso" can be used in the notes. It
-represents the promotion of an inactive situation into an active one,
-with the catalysis of alcohol. But the effect is not that of alcohol.
-Might the extreme sensitivity of some alcoholics to even a small
-amount of alcohol be due to some endogenous "inactive" factor that is
-promoted in this way into some centrally florid toxicity? I remember
-seeing proposals of some tetrahydroisoquinolines as potential
-mis-metabolites in efforts to explain the toxicity of alcohol. Maybe
-they are nothing more than psychedelics that are thought to be
-inactive, but which might be ignited with a glass of wine. And the
-person is tomsoing with his small amount of alcohol.
-## Synthesis
-A suspension of 12.7 g
-1-(2-methoxy-4-methyl-5-methylthiophenyl)-2-nitropropene (see under
-5-TOM for its preparation) in 50 mL warm acetic acid was added to a
-suspension of 22.5 g electrolytic grade elemental iron in 100 mL warm
-acetic acid. The temperature was raised cautiously until an
-exothermic reaction set in, and the mixture was maintained under
-reflux conditions as the color progressed from yellow to deep brown to
-eventually colorless. After coming back to room temperature, the
-somewhat gummy mixture was poured into 1 L H2O, and all insolubles
-were removed by filtration. These were washed with CH2Cl2, and the
-aqueous filtrate was extracted with 3x100 mL CH2Cl2. The washes and
-extracts were combined, washed with 5% NaOH until the bulk of the
-color was removed and the washes remained basic, and the solvent was
-then removed under vacuum. The residue, 11.6 g of a pale amber oil
-that crystallized, was distilled at 110-120 deg C at 0.4 mm/Hg to give
-9.9 g 2-methoxy-4-methyl-5-methylthiophenylacetone with a mp of 41-42
-deg C. This was not im-proved by recrystallization from hexane. Anal.
-(C12H16O2S) C,H.
-To a solution of 7.3 g 2-methoxy-4-methyl-5-methylthiophenylacetone in
-35 mL methanol there was added 7.3 mL 35% hydrogen peroxide, and the
-mixture held under reflux conditions for 40 min. All volatiles were
-removed under vacuum, and the residue suspended in 250 mL H2O. This
-was extracted with 3x50 mL CH2Cl2, the extracts pooled, and the
-solvent removed under vacuum. The residue, 8.6 g of an oily solid,
-## See Also
-
-- [[pihkal-mbdb]]
-- [[methyl-dob-entity-pihkal]]
-- [[methyl-k-entity-pihkal]]
-- [[methyl-ma-entity-pihkal]]

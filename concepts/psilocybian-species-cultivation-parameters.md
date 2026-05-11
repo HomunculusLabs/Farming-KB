@@ -88,18 +88,3 @@ The species used by R. Gordon Wasson in his famous 1955 ceremony with [[shroom-c
 A cold-weather species fruiting well into December. Despite its small size, it is considered potent. Its affinity for conifer forest debris makes it one of the characteristic Pacific Northwest psilocybian species.
 
 ### Psilocybe quebecensis
-
-| Parameter | Value |
-|-----------|-------|
-| Season | Summer to late October |
-| Habitat | Shady areas at forest edges, sandy soil with vegetable debris |
-| Substrate | Decomposing wood (birch, alder, fir, spruce) |
-| Fruiting temperature | 43-59°F (6-15°C) |
-| Range | Quebec area |
-
-Notable for its exceptionally low fruiting [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] (43-59°F), making it one of the most cold-tolerant psilocybian species. This cold requirement makes it impractical for cultivation in most environments without specialized cooling equipment.
-
-### Psilocybe semilanceata (Liberty Cap)
-
-| Parameter | Value |
-|-----------|-------|

@@ -41,7 +41,7 @@ The branched drain system, developed by Art Ludwig, is the simplest and most rel
 **Advantages:** No pumps, no filters, no electricity, minimal maintenance
 **Limitations:** Requires gravity flow (site must slope), limited distribution area, all branches receive water simultaneously
 
-**Design considerations:**
+**[[mycoremediation-bioreactor-design-considerations]]:**
 - Minimum 2-inch fall per 10 feet of horizontal run
 - Each outlet serves one or two plants
 - Mulch basins should be 2-3 feet in diameter and 12-18 inches deep
@@ -54,7 +54,7 @@ For sites without adequate slope, or when distributing to a larger area, a surge
 
 1. Greywater flows by gravity into a surge tank (30-50 gallons)
 2. A small sump pump activates when the tank fills
-3. Water is pumped through a distribution network to mulch basins or subsurface irrigation lines
+3. Water is pumped through a [[emcdda-free-spore-ring-europe-spore-distribution-network]] to mulch basins or subsurface irrigation lines
 4. A float switch prevents overfilling and dry-running
 
 **Key components:**
@@ -70,7 +70,7 @@ A constructed wetland treats greywater through biological processes before reuse
 
 1. Water flows through a lined basin filled with gravel and sand
 2. Aquatic and marginal plants (cattails, reeds, iris) grow in the media
-3. Microorganisms on plant roots and gravel surfaces break down organic matter
+3. Microorganisms on plant roots and gravel surfaces [[query-can-fungi-break-down-plastic-pollution]] [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 4. Plants take up nutrients
 5. Effluent is collected at the far end for irrigation
 
@@ -96,7 +96,7 @@ The mulch basin is the heart of most greywater systems — it is where water ent
 **Function:**
 - Mulch filters out particles and provides surface area for microbial treatment
 - Prevents erosion and surface pooling
-- Creates aerobic conditions that break down soap and organic matter
+- Creates aerobic conditions that break down soap [[hamilton-composting-and-organic-matter-management]]
 - Gradually releases water into the root zone
 
 **Maintenance:**

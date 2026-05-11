@@ -1,5 +1,5 @@
 ---
-title: cannabis-pollen-collection and Storage Methods
+title: Cannabis Pollen Collection Storage Clarke
 created: 2026-04-28
 tags: [cannabis, pollen, breeding, pollination, seed-production, clarke]
 date: 2026-04-28
@@ -88,55 +88,3 @@ When staminate pollen plants grow close to pistillate plants, a specialized
 method allows controlled pollen collection and application without moving
 staminate plants from their original location. This approach has the
 advantage that pollen parents mature under the same conditions as the seed
-parents, more accurately expressing their phenotypes.
-
-### Selection of the Pollen Parent
-
-Healthy individuals with well-developed clusters of flowers are chosen.
-The first staminate primordia may appear one to five weeks before flowers
-open and pollen is released. During this period, selected pollen plants
-are carefully watched since developmental rates vary greatly between
-strains and pollen may be released quite early.
-
-### Preparation and Bagging
-
-When the plant enters full floral condition, limbs with the most ripe
-flowers are chosen. It is safest to collect pollen from two limbs for each
-intended cross. Large leaves are removed at limb tips to minimize
-condensation. The enclosure is slipped over the limb tip and secured with a
-tight but stretchable seal such as a rubber band or plastic plant tie-tape.
-
-### Suitable Enclosure Materials
-
-- Paper bags (light-gauge quart-bottle bags, bakery bags)
-- Vegetable parchment paper with clear nylon observation windows
-- Breathable synthetic fabrics such as Gore-Tex
-
-Very thick paper or plastic bags are never used. Coarse cloth allows
-pollen to escape, and plastic materials tend to collect transpired water
-and rot the flowers. Light-colored opaque or translucent reflective
-materials remain cooler in the sun.
-
-### Collection and Processing
-
-Pollen release is fairly rapid inside the bags. After two days to a week,
-the limbs are removed and dried in a cool dark place. The bags are
-collected early in the morning before and [[mollison-designers-passive-solar-heating-building-design]]. After drying, the
-bags are shaken vigorously and carefully untied. Plant material is removed
-as a moisture source, and the pollen bags are re-sealed.
-
-Pollen may be stored in the collection bags until the seed parent is
-ready, or removed and stored in cool, dry, dark vials for later use and
-hand application. Before storing, plant parts are removed with a fine
-screen such as fuel filter screening or a tea strainer.
-
-## Pollen Application to Seed Parents
-
-A pistillate flower cluster is ripe for fertilization as long as pale,
-slender pistils emerge from the calyxes. The largest yield of uniform,
-healthy seeds is achieved by pollinating during peak floral stage, when
-the seed plant is covered with thick clusters of white pistils and [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
-
-## See Also
-
-- [[cervantes-pollen-collection-storage]]

@@ -1,5 +1,5 @@
 ---
-title: Plant plant hearing and [[chamovitz-plant-acoustic-and-vibration-sensing]] Sensing
+title: Plant Hearing And Vibration Sensing
 created: 2026-05-08
 tags: [botany, plant-senses, hearing, vibration, mechanosensing, plant-neurobiology, chamovitz, acoustics]
 date: 2026-05-08
@@ -53,7 +53,7 @@ electrochemical signals has not been identified in any plant.
 Plants are exquisitely sensitive to vibrations transmitted through their
 physical substrate — soil, water, or the plant's own structure. Research
 has shown that plants can detect:
-- The vibrations of chewing caterpillars through leaf tissue
+- The vibrations of chewing caterpillars through [[leaf-tissue-analysis-crop-nutrient-status]]
 - Water flow vibrations in [[fungal-roles-aquatic-environments]]
 - Seismic vibrations through root systems
 
@@ -68,7 +68,7 @@ Chamovitz emphasizes that the most robustly demonstrated "sound response"
 in plants is thigmomorphogenesis — the developmental response to
 mechanical stimulation. Plants exposed to wind or regular touch produce
 shorter, thicker stems and smaller leaves, a response mediated by
-calcium signaling, jasmonic acid, and ethylene pathways.
+calcium signaling, [[jasmonic-acid-plant-defense-signaling]], and ethylene pathways.
 
 ## Recent Research: Caterpillar Detection
 
@@ -88,53 +88,3 @@ The closest plant analog to animal hair cells are the mechanosensitive
 (MSL) and piezo-type ion channels found in plant cell membranes. In
 animals, stereocilia in the cochlea bend in response to fluid waves,
 opening ion channels that trigger auditory nerve signals. In plants,
-similar channels respond to membrane tension, but they are distributed
-distributed across the entire organism rather than concentrated in a
-sensory organ. Plants can sense mechanical forces broadly but cannot
-localize or frequency-discriminate airborne sounds.
-
-## Evolutionary Perspective
-
-The absence of hearing in plants is not surprising from an evolutionary
-standpoint. Airborne sound perception requires substantial evolutionary
-investment in specialized structures. Plants, being sessile organisms,
-derive relatively little selective advantage from detecting distant
-airborne sounds. In contrast, detecting touch, wind, and herbivore
-vibration provides direct survival benefits — triggering defensive
-responses and adjusting growth patterns to prevailing conditions. The
-The selective pressure for hearing does not exist for organisms that
-cannot move toward or away from sound sources.
-
-## The Myth of Music-Loving Plants
-
-The popular idea that plants enjoy classical music originated in the
-1970s with Dorothy Retallack's informal experiments, published as *The
-Sound of Music and Plants* (1973). Her work lacked proper controls and
-has not been replicated under rigorous conditions.
-
-## Chamovitz's Conclusion
-
-Chamovitz concludes that plants almost certainly cannot hear in the way
-animals do. They lack the anatomical structures for airborne sound
-detection. However, they possess sophisticated mechanosensing systems
-that allow them to detect vibrations, touch, and physical deformation
-with remarkable sensitivity. The plant "hearing" that does occur is
-better understood as an extension of touch perception rather than as a
-distinct auditory sense.
-
-## Implications for Cultivation
-
-For growers, the evidence suggests:
-- Playing music for plants has no demonstrated benefit beyond the
-  effects of any accompanying air movement or temperature changes
-- Physical contact (gentle brushing or shaking) can trigger
-  thigmomorphogenic responses that strengthen stems
-- Substrate-borne vibrations from equipment may [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
-  more than airborne sounds
-- The lack of genuine hearing does not diminish the remarkable
-  sensory capabilities plants possess through other modalities
-
-## See Also
-
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
-- [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]

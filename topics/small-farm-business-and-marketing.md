@@ -13,6 +13,7 @@ tags:
 date: 2026-04-30
 updated: 2026-04-30
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "The Winter Harvest Handbook (Eliot Coleman)"
   - "Permaculture: A Designers' Manual (Bill Mollison)"
   - "Permaculture: Principles and Pathways Beyond Sustainability (David Holmgren)"

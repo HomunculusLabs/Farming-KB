@@ -1,6 +1,6 @@
 ---
-title: "Electromagnetic Spectrum and Visible Light Perception in Plants"
-source: "Chamovitz (2012) - What a Plant Knows; Julius von Sachs; Darwin"
+title: Electromagnetic Spectrum Visible Light Plant Perception
+source: "Chamovitz (2012) - What a Plant Knows; [[chamovitz-julius-von-sachs-blue-light-phototropism]]; Darwin"
 tags: [light, electromagnetic-spectrum, wavelength, photoreception, ultraviolet, infrared, plant-biology]
 created: 2026-05-10
 ---
@@ -73,9 +73,9 @@ to capture more light.
 ### Infrared Detection
 While plants do not have specific photoreceptors for thermal infrared radiation,
 they are affected by the heat it generates. Infrared light heats plant tissues and
-influences transpiration rates, leaf temperature, and metabolic activity. Plants
+influences transpiration rates, leaf temperature, and [[arbuscule-isolation-metabolic-activity-assays]]. Plants
 respond to temperature changes through thermosensors (rather than photosensors), but
-the ecological effects of infrared radiation are significant for plant physiology.
+the [[fungal-allelopathy-mechanisms-and-ecological-effects]] of infrared radiation are significant for plant physiology.
 
 ## Light Absorption by Photoreceptor Proteins
 
@@ -88,60 +88,3 @@ like tuning an antenna to a particular station.
 
 ### Human Photoreceptor Chemistry
 In the human retina, rods contain rhodopsin (sensitive to all visible wavelengths)
-and cones contain photopsins (each tuned to a specific wavelength range — red,
-green, or blue). When a photoreceptor absorbs a photon of the appropriate
-wavelength, the associated protein changes shape, triggering a nerve signal to the
-brain.
-
-### Plant Photoreceptor Chemistry
-Plant photoreceptors operate on the same absorption principle but with different
-proteins:
-- **Phytochrome** absorbs red (660 nm) and far-red (730 nm) light via a
-  chromophore (light-absorbing molecule) called phytochromobilin.
-- **Cryptochrome** absorbs blue and UV-A light via a flavin chromophore.
-- **Phototropin** absorbs blue and UV-A light via two flavin chromophores (FMN
-  and LOV domains).
-- **UVR8** absorbs UV-B light via tryptophan amino acid residues.
-
-Each photoreceptor type gives the plant a different "channel" of light information,
-analogous to how different cone types give humans colour vision.
-
-## Ecological Significance of Spectral Detection
-
-### Directional Light Sensing
-Plants detect not just the presence and colour of light but also its direction. By
-comparing light intensity on different sides of the stem (mediated by phototropin
-receptors), plants can determine where the strongest light source is and bend toward
-it. Darwin demonstrated that this directional sensing occurs at the shoot tip, not
-in the bending region.
-
-### Light Duration Sensing
-Through the phytochrome system, plants measure the duration of continuous darkness.
-This internal clock allows them to distinguish between seasons and coordinate
-flowering with appropriate environmental conditions. The phytochrome system is so
-precise that it can be reset by just a few seconds of red light during the night.
-
-### Light Quality Assessment
-By simultaneously monitoring multiple spectral channels (red, far-red, blue, UV),
-plants assess the overall quality of their light environment. A plant growing in
-full sun receives a balanced spectrum, while a shaded plant receives proportionally
-more far-red and green light. This multi-channel sensing enables sophisticated
-behavioural responses including shade avoidance, neighbour detection, and seasonal
-timing.
-
-## Rainbow Formation and Spectral Separation
-
-The consistent ordering of rainbow colours — from blue (short wavelength) to red
-(long wavelength) — is a direct consequence of wavelength-dependent refraction.
-Water droplets bend shorter wavelengths more than longer ones, separating white
-light into its spectral components. This physical phenomenon demonstrates that the
-visible spectrum is not an arbitrary human construct but reflects the fundamental
-wave properties of electromagnetic radiation that all light-sensing organisms
-(including plants) exploit.
-
-## See Also
-
-- [[human-vs-plant-photoreception-rods-cones-phytochrome]]
-- [[phytochrome-photoreceptor-plant-vision]]
-- [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
-- [[phytochrome-red-far-red-ratio-shade-detection-plants]]

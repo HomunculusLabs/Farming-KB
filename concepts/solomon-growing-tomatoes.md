@@ -87,13 +87,3 @@ Special variety types worth knowing:
   develop a protective skin and last months in the pantry. Related to the
   classic Golden Jubilee, a late-maturing yellow beefsteak with
   outstanding flavor.
-
-## Fertilizer Needs
-
-Tomatoes are a high-demand crop. Use [[solomon-soil-mineral-depletion]].
-
-## Related Topics
-
-- [[solomon-vegetable-nutritional-decline-trace-minerals]]
-- [[solomon-seed-saving-guide]]
-- [[solomon-food-preservation-storage]]

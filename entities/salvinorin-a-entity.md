@@ -77,3 +77,20 @@ Salvinorin A binds to KOR with remarkable potency and selectivity. KOR activatio
 - The [[salvia-divinorum]] — Source plant of salvinorin A
 - [[ibogaine]] — Psychoactive alkaloid with anti-addictive properties via different mechanisms
 - [[bufotenin]] — Tryptamine psychedelic with different receptor profile
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.
+
+## See Also
+- [[salvinorin-a-kappa-opioid-receptor-pharmacology]]
+- [[salvia-divinorum-salvinorin-a-pharmacology]]
+- [[a-o-dms-entity-tihkal]]
+- [[salvia-divinorum-and-salvinorin-a]]
+- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]]

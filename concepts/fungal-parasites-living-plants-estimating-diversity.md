@@ -88,17 +88,3 @@ This is particularly well documented in genera such as
 Colletotrichum, Fusarium, and Mycosphaerella.
 
 ### Undescribed Tropical Diversity
-
-Tropical forests harbor the greatest plant diversity but
-have been surveyed for fungi far less intensively than
-temperate regions. The species-area relationship for
-fungal parasites of plants suggests that tropical diversity
-may be several times higher than temperate diversity, yet
-most described species are from temperate regions.
-
-### Phenology and Detection
-
-Many fungal parasites are detectable only during specific
-phenological stages of the host or the pathogen. Species
-that sporulate infrequently or produce inconspicuous
-fruiting structures are easily missed in standard surveys.

@@ -86,9 +86,3 @@ If sporulating mold colonies develop adjacent to growing mycelium, the culture s
 - [[contamination-identification-prevention]]
 
 - [[mushroom-cultivation-sterile-technique]]
-
----
-
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter II: Sterile Technique and Agar Culture
-
-Updated: 2026-04-19

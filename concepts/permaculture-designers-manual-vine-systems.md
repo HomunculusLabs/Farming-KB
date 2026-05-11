@@ -10,7 +10,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 **Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
 **Updated:** 2026-04-18
 ## Overview
-Vine crops occupy a unique niche in permaculture design, using
+Vine crops occupy a unique niche [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], using
 vertical space on trellises, fences, and buildings to produce
 food, modify microclimate, and provide wind protection. Mollison
 treats vines as a critical component of both temperate and
@@ -38,7 +38,7 @@ mesothermal (temperate) climates:
 - Mesh base supports climbing vegetables and provides shade
 ### Mortlock Trellis
 - Pruned wall core design
-- Uses existing walls as thermal mass
+- Uses existing walls as [[comparison-windbreak-vs-thermal-mass]]
 - Good for espalier fruits and deciduous vines
 - Provides summer shade and winter sun access
 ### Multi-Storey Building Trellis
@@ -49,7 +49,7 @@ mesothermal (temperate) climates:
 ## Vines Over Garden (Arid Climates)
 In desert systems (Section 11, Figure 11.61), horizontal
 trellis bars at 1-2m spacing furnished with grape vines create
-a shade system over the vegetable garden, relieving light
+a shade system over the [[aphid-management-vegetable-garden-solomon]], relieving light
 saturation:
 - **Eastern side:** More completely closed with herbaceous
   vines to defend from early sun
@@ -65,7 +65,7 @@ species will trellis:
 - **Cucurbits:** Cucumber, melon, pumpkin, chayote
 - **Tomatoes:** Climbing varieties
 - **Brambles:** Youngberry, boysenberry, raspberry on fence
-- **Grapes:** Vitis vinifera and related species
+- **Grapes:** [[vitis-vinifera]] and related species
 - **Kiwi:** [[actinidia-chinensis]] and hardy kiwi (A. arguta)
 - **Passionfruit:** Passiflora spp. including banana passionfruit
 Trellis over the garden is inappropriate in mesothermal climates
@@ -78,7 +78,7 @@ multi-layered food garden:
 - **Canopy layer:** Tall trees and palms
 - **Mid-layer:** Fruit trees, legumes
 - **Vine layer:** Climbing between trees — yams, passionfruit,
-  winged bean, choko (Sechium edule)
+  winged bean, choko ([[sechium-edule]])
 - **Ground layer:** Sweet potato, cassava, taro
 Passionfruit appears in [[chicken-tractor-systems]] designs as a fence/trellis
 crop grown on the chicken yard perimeter.
@@ -86,35 +86,5 @@ crop grown on the chicken yard perimeter.
 Several vine species fix atmospheric nitrogen, making them
 valuable companions in food forests and garden systems:
 - Butterfly pea ([[clitoria-ternatea]])
-- Hyacinth bean (Lablab purpureus)
+- Hyacinth bean ([[lablab-purpureus]])
 - Scarlet runner bean (Phaseolus coccineus)
-- Groundnut (Apios americana)
-These combine [[biological-nitrogen-fixation-agriculture]] with edible yields, improving
-soil fertility while producing food.
-## Design Principles
-1. **Vertical space utilisation:** Multiply productive area
-   without increasing ground footprint
-2. **Climate modification:** Vines cool interiors in summer,
-   allow sun in winter (deciduous)
-3. **Wind protection:** Fedges serve as productive windbreaks
-4. **[[holzer-climate-zone-microclimate-creation]]:** Shade reduces soil temperature
-   and evaporation
-5. **Orientation:** Align trellis north/south for even sun
-6. **Species diversity:** Combine food vines with nitrogen-fixing
-   climbers for multiple functions
-7. **Structural integration:** Attach trellis to buildings,
-   fences, and animal housing
-## Maintenance Considerations
-- Prune annually to maintain productivity
-- Replace trellis wire or mesh every 5-10 years
-- Train vines during establishment to prevent tangled growth
-- Remove dead material promptly to prevent disease
-- Mulch at the base to retain moisture
-## Related Topics
-- permaculture-designers-manual-bioregional-planning
-- permaculture-designers-manual-cold-climates
-- permaculture-designers-manual-tropical-climates
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- [[permaculture-designers-manual-cattle-systems]]
-- [[nitrogen-fixing-trees]]

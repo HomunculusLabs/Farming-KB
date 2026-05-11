@@ -87,30 +87,3 @@ Yarina, a town near the city of Pucallpa in the Ucayali region, serves as anothe
 ## International Context
 
 Peru's official embrace of ayahuasca is part of a broader [[psilocin-accumulation-pattern-across-flushes]] South America, though each country approaches the practice differently:
-
-- **Brazil**: Ayahuasca is legal for religious use within formally recognized churches such as Santo Daime and União do Vegetal (UDV). The Brazilian government has granted these churches constitutional protection for their ceremonial use of ayahuasca.
-- **Colombia**: Indigenous communities have legal protections for their traditional use of ayahuasca, and the substance is available in markets in Amazonian regions.
-- **Ecuador**: Ayahuasca use is tolerated in indigenous communities and has become a growing tourist attraction.
-
-Peru's approach is distinctive in that the government actively promotes ayahuasca as a tourist attraction rather than merely tolerating or protecting its use. This proactive stance reflects both the deep cultural roots of the practice and the economic value it generates for Amazonian communities.
-
-## Economic Dimensions
-
-The economic impact of government-supported ayahuasca tourism extends beyond the immediate ceremonial fees. Practitioners earn significantly more from foreign tourists than from local clients. One practitioner in the Yarina area was reported to charge thirty dollars for giving ayahuasca to a tourist, while the going rate for a Peruvian was about two dollars. Another enterprising shaman earned a couple hundred dollars per month catering to tourists while his neighbors could not afford a thirty-cent taxi ride.
-
-This economic disparity has significant social implications within Amazonian communities. Ayahuasca tourism can create economic winners and losers, potentially straining community relationships. The government's promotion of ayahuasca tourism, while generating revenue, may inadvertently accelerate these economic inequalities.
-
-## Tourism Safety and Medical Considerations
-
-The open commercial environment for ayahuasca in Peru means that tourists have relatively easy access to ceremonies, but this accessibility comes with risks. Most shamans are unfamiliar with Western pharmaceuticals, making it the tourist's responsibility to be aware that ayahuasca can have adverse interactions with various prescription medicines, particularly those used to treat AIDS, depression, and psychiatric disorders.
-
-At least one documented case involved an AIDS patient who died during a ceremony in Bolivia — a death that was particularly notable because the patient was sufficiently healthy to dance at the beginning of the service. This case underscores the importance of medical screening and awareness of drug interactions, particularly in an environment where ayahuasca is readily available and regulation is minimal.
-
-The combination of open market availability, government tourism promotion, and limited medical oversight creates a situation where tourists bear primary responsibility for their own safety. While the cultural acceptance of ayahuasca in Peru makes it relatively easy to find and participate in ceremonies, the lack of standardized screening procedures or practitioner certification means that quality and safety vary widely.
-
-## See Also
-
-- [[ayahuasca-ceremonial-economics-price-disparity-peru]]
-- [[ayahuasca-christian-coexistence-missionary-peru]]
-- [[ayahuasca-commercial-vs-authentic-ceremony-dynamics]]
-- [[shipibo-ayahuasca-shamans-practice]]

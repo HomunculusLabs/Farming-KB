@@ -15,13 +15,13 @@ type: concept
 
 ## Overview
 
-Terence McKenna proposes a four-stage model for the progressive abandonment of
+[[terence-mckenna]] proposes a four-stage model for the progressive abandonment of
 the original psychedelic mystery that sustained partnership societies. This
 dilution theory describes how the authentic, boundary-dissolving experience of
 plant hallucinogen use was gradually replaced by increasingly hollow
 substitutes, culminating in the complete suppression and demonization of the
 original sacramental experience. The framework provides a comprehensive lens for
-understanding the trajectory from archaic shamanism through organized religion
+understanding the trajectory from archaic [[shamanism]] through organized religion
 to modern secular materialism.
 
 The abandonment of the original catalyst for the emergence of self-reflection
@@ -33,7 +33,7 @@ awareness of the power and the numinous meaning resident in the mystery.
 
 The first step away from original human-fungal partnership was the introduction
 of other psychoactive plant substitutes for the mushroom. The original
-sacrament, *Stropharia cubensis* containing psilocybin, was gradually replaced
+sacrament, *[[stropharia-cubensis]]* containing psilocybin, was gradually replaced
 as climatic conditions shifted and mushroom ecologies became more rare. The
 psychoactivity of these substitutes ranged from being equal in profundity to
 psilocybin, as in the case of New World tropical hallucinogens, to being
@@ -87,42 +87,3 @@ social reinforcement that mimic genuine visionary experience, but the authentic
 encounter with boundary-dissolving consciousness is gone.
 
 ## Stage Three: Pure Symbol, Dogma, and Lineage
-
-In the third stage, symbols are all that remain. Not only are psychoactive
-plants absent, but plants of any sort have disappeared from the sacramental
-context. In their place are esoteric teachings, dogma, rituals, stress on
-lineages, gestures, and cosmogonic diagrams. Today's major world religions are
-typical of this stage. The connection to direct experience has been severed
-entirely; what remains is an institutionalized interpretation of what the
-experience was supposed to have been.
-
-This stage is characterized by the emergence of priesthoods, sacred texts,
-theological systems, and elaborate ritual structures that mediate between the
-individual and the divine. Direct experience of the sacred is not merely
-unavailable but actively discouraged or forbidden. The mystery has become a
-mythology, and the mythology has become an ideology enforced by institutional
-authority. Revelation is replaced by revelation-about-revelation, a second-order
-discourse that can never recapture the immediacy of the original experience.
-
-The mainstream of Western thought ceased to be refreshed by the gnosis of the
-boundary-dissolving plant hallucinogens long before the close of the Minoan Era,
-circa 850 B.C. In Crete, and in nearby Greece, awareness of the vegetable Logos
-continued as an esoteric and diminished presence until the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-were finally suppressed by enthusiastic Christian barbarians in A.D. 268. The
-consequence of that severed connection is the modern world: a planet dying under
-moral anesthesia.
-
-## Stage Four: Denial, Demonization, and Scientism
-
-The fourth and final stage is the complete abandonment of even the pretense of
-remembering the felt experience of the mystery. This stage is typified by
-secular scientism as perfected in the [[coleman-louis-savier-twentieth-century-maraicher]]. But McKenna posits a
-further aspect: the rediscovery of the mystery and its interpretation as evil
-and threatening to social values. The current suppression of psychedelic
-
-## See Also
-
-- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-- [[mckenna-dominator-vs-partnership-society-model]]
-- [[mckenna-consciousness-expansion-and-drug-war]]
-- [[mckenna-alcohol-and-the-alchemy-of-spirit]]

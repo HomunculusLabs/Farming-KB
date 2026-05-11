@@ -88,34 +88,3 @@ scientific knowledge of the mushroom at the time.
 Puharich also claimed to have cultivated the fly-agaric, a feat that
 has yet to be achieved owing to the fact that the fungus only grows in
 a symbiotic or mycorrhizal relationship with certain trees, usually
-birch, pine and fir. This claim further undermined his credibility.
-
-## Cold War Parapsychology
-
-To be fair, Puharich's interest in telepathy did not mark him out as
-particularly exceptional for the time. Cold War anxieties led to a
-flurry of parapsychological research in the late 1950s, with both the
-US Army and the Westinghouse Electric company seriously pursuing the
-military potential of ESP. Even [[aldous-huxley]] and
-Gordon Wasson moved to participate in Puharich's experiments, though
-Wasson ultimately gave them short shrift.
-
-## Legacy and Influence
-
-Puharich's methods were, even by the lax standards of the day, flaky.
-According to his second wife, he developed a penchant for hosting
-mushroom bacchanals during the 1960s season, at which couples might
-ostentatiously and volubly make love to the accompaniment of operatic
-arias sung by appreciative onlookers, justifying them as legitimate
-[[psilocybin-isolation-and-early-scientific-research]]. Despite these absurdities, The Sacred Mushroom
-established a template that later conspiracy theorists would follow.
-
-## Puharich's Later Career and CIA Connections
-
-Puharich's later career further blurred the lines between serious research and fringe speculation. He was involved in the investigation of Uri Geller's purported psychic abilities during the 1970s, and documents obtained through Freedom of Information Act requests revealed that Puharich had received funding from the CIA's Project ARTICHOKE and related programs investigating mind control and enhanced interrogation techniques. While the extent of his formal involvement remains debated, his work on ESP and consciousness-altering substances intersected with intelligence community interests in the 1950s and 1960s. This CIA connection places The Sacred Mushroom within a broader context of Cold War-era experimentation with psychoactive compounds, paralleling the more well-documented MK-ULTRA program that conducted covert LSD research on unwitting subjects.
-
-## See Also
-
-- [[sacred-mushroom-and-the-cross]]
-- [[fly-agaric-siberian-shamanic-practice]]
-- [[allegro-amanita-muscaria-properties-and-pharmacology]]

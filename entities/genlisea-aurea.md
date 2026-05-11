@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-Genlisea aurea is a rootless, carnivorous plant native to South America, most commonly found in Brazil. It is the largest species in the genus Genlisea, producing bright yellow flowers that give the species its name.
+Genlisea aurea is a rootless, carnivorous plant native to [[guzman-psilocybin-mushrooms-south-america]], most commonly found in Brazil. It is the largest species in the genus Genlisea, producing bright yellow flowers that give the species its name.
 
 Unlike most carnivorous plants, G. aurea captures prey underground using highly modified subterranean leaves called rhizophylls. These unique organs form hollow, corkscrew-shaped traps that capture soil-dwelling protozoa and small invertebrates.
 
-The species is of particular scientific interest because of its remarkably small genome, one of the smallest known among flowering plants. This characteristic has made G. aurea a model organism for studying genome evolution.
+The species is of particular scientific interest because of its remarkably small genome, one of the smallest known among flowering plants. This characteristic has made G. aurea a [[canary-grass-phototropism-model-organism]] for studying genome evolution.
 
 ## Taxonomy and Morphology
 
@@ -56,7 +56,7 @@ Once inside, prey cannot escape due to the inward-pointing hairs and the smooth,
 
 Digestion occurs within the trap through the secretion of enzymes by glandular cells lining the interior surface. The plant absorbs the resulting nutrients directly through the trap walls.
 
-Primary prey consists of protozoa, nematodes, and small soil arthropods such as mites and collembolans. The traps are highly efficient at capturing microscopic organisms in the soil water.
+Primary prey consists of protozoa, nematodes, and small [[soil-arthropods]] such as mites and collembolans. The traps are highly efficient at capturing microscopic organisms in the soil water.
 
 ## Flowers and Reproduction
 
@@ -87,31 +87,3 @@ The species can be propagated from seed, which germinates readily on wet sandy s
 Some growers maintain G. aurea as a semi-aquatic, submerging the pots to a depth of 1–2 cm. This mimics the species' natural habitat of wet sandy margins.
 
 ## Conservation Status
-
-Genlisea aurea is not currently listed as threatened, owing to its wide distribution across South America. However, habitat destruction through agricultural expansion threatens local populations in southern Brazil and Paraguay.
-
-Wetland drainage for agriculture and urban development has reduced available habitat in several regions. The species' dependence on seasonally wet sandy soils makes it particularly vulnerable to hydrological changes.
-
-Collection from the wild for the horticultural trade is minimal. The species is readily propagated from seed, and commercial availability through [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] has reduced any pressure from wild harvesting.
-
-## Ecological Interactions
-
-The underground traps of G. aurea interact with a largely unseen world of soil microfauna. Protozoan communities in the trap fluid have been shown to be distinct from those in surrounding soil.
-
-The traps create a unique micro-ecosystem. Some organisms that enter the traps may survive temporarily and contribute to the digestive process before being absorbed along with the original prey.
-
-G. aurea may play a role in regulating soil microfauna populations in its native habitats. By consuming protozoa and small invertebrates, it forms part of the below-ground food web.
-
-Above ground, the flowers support pollinator communities. The nectar produced by G. aurea flowers attracts small bees and flies that also visit other flowering plants in the same habitat.
-
-## See Also
-
-- [[utricularia-gibba]]
-- [[pinguicula-moranensis]]
-- [[drosera-capensis]]
-- [[sarracenia-purpurea]]
-- [[heliamphora-nutans]]
-- darlingtonia californica
-- [[byblis-liniflora]]
-
-- [[genlisea-margaretae]]

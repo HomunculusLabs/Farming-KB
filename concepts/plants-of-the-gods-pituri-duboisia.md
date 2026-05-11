@@ -1,7 +1,7 @@
 ---
 title: Pituri Duboisia in Plants of the Gods
 created: 2026-04-28
-tags: [ethnobotany, pituri, duboisia, australia, nicotine]
+tags: [ethnobotany, pituri, duboisia, australia, [[nicotine]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Pituri, derived from the leaves of Duboisia hopwoodii, has been of
+Pituri, derived from the leaves of [[duboisia-hopwoodii]], has been of
 central importance in Australian Aboriginal society for at least 40,000
 years. In *Plants of the Gods*, Schultes, Hofmann, and Ratsch document
 Pituri as a substance for social enjoyment, a shamanic magic drug,
@@ -33,7 +33,7 @@ leaves that are harvested for their psychoactive properties.
 
 The leaves of Duboisia hopwoodii contain various psychoactive
 alkaloids including piturine, nicotine, nornicotine, and anabasine.
-The roots also contain nornicotine and scopolamine. The chewed leaves
+The roots also contain nornicotine and [[scopolamine]]. The chewed leaves
 can act as a narcotic, stimulant, or hallucinogen depending on dose
 and preparation. The presence of both nicotine-related alkaloids and
 scopolamine (a tropane alkaloid also found in Henbane and
@@ -42,10 +42,10 @@ Belladonna) gives Pituri its complex psychoactive profile.
 ## Traditional Preparation and Use
 
 The fermented leaves are mixed with alkaline plant ashes (often from
-Acacia species) and other resins, then chewed as a quid. The addition
+[[acacia]] species) and other resins, then chewed as a quid. The addition
 of alkaline ashes facilitates the release and buccal absorption of the
 alkaloids, a preparation technique analogous to the addition of lime to
-coca leaves in South America. The quid is held in the cheek or behind
+coca leaves in [[guzman-psilocybin-mushrooms-south-america]]. The quid is held in the cheek or behind
 the lip, allowing the alkaloids to be absorbed slowly through the oral
 mucosa.
 
@@ -54,7 +54,7 @@ mucosa.
 Pituri has served multiple roles in Aboriginal Australian society:
 
 - **Social enjoyment**: Chewed recreationally in social gatherings,
-  similar to the social use of betel nut, khat, or coca in other
+  similar to the social use of [[betel-nut-arecoline-ethnobotany]], khat, or coca in other
   cultures.
 - **Shamanic magic drug**: Used by medicine men to induce visions,
   communicate with spirits, and perform divination.
@@ -88,42 +88,3 @@ As a member of the Nightshade family, Duboisia shares chemical
 affinities with other hallucinogenic solanaceous plants documented in
 *Plants of the Gods*, including Henbane, Belladonna, Mandrake, Datura,
 and Brugmansia. However, Pituri's primary alkaloids are
-nicotine-related rather than the tropane alkaloids (atropine,
-the tropane alkaloids (atropine, scopolamine, hyoscyamine) that dominate
-the [[datura-metel-old-world-ethnobotany]] solanaceous hallucinogens.
-
-## Aboriginal Australian Context
-
-The use of Pituri is deeply embedded in the Aboriginal Australian
-concept of the Dreamtime (or Dreaming), the sacred era of creation
-when ancestral beings shaped the land and established laws. Pituri's
-role as a stimulant to dreams and visions connects it directly to
-this fundamental cosmological framework. The plant facilitated access
-to the spirit world where ancestors and creation beings reside.
-
-## Pharmacological Effects
-
-At low doses, Pituri acts primarily as a stimulant due to its
-nicotine content, producing alertness and reduced fatigue — valuable
-qualities for long hunting expeditions and desert travel. At higher
-doses, the scopolamine component may contribute to hallucinogenic
-and narcotic effects. The combination of stimulant and depressant
-alkaloids in a single plant creates a complex pharmacological
-profile that varies significantly with dose, preparation method, and
-individual physiology.
-
-## Ecological Relationship
-
-The relationship between Aboriginal Australians and Duboisia
-hopwoodii represents one of the oldest examples of human-plant
-coevolution. The plant's distribution in the arid interior and the
-sophisticated trade networks that developed around it demonstrate
-the deep ecological knowledge of Aboriginal peoples and the central
-importance of psychoactive plants in indigenous Australian culture.
-
-## Related Topics
-
-- [[nightshade-plants-entheogen]] - Nightshade family overview
-- [[betel-nut-arecoline-ethnobotany]] - comparative chewing practices
-- [[gaian-psychotherapy-and-entheogenic-plants]] - worldwide overview
-- [[plants-of-the-gods-nightshade-hexing-herbs]] - related Nightshades

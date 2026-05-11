@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [agriculture, homesteading]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Natural Farming and Desert Reclamation

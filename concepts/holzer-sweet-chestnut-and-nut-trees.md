@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Sweet Chestnut and Nut Trees
@@ -87,16 +88,3 @@ Nut trees require patience. Most species take 5-15 years to begin significant nu
 Many nut trees produce valuable timber in addition to nuts. Walnut is prized for furniture and cabinet-making. Chestnut is valued for its natural durability in outdoor applications. Even when nut production declines with age, the timber value of mature trees provides a significant asset.
 
 ## Propagation Methods
-
-Following Holzer's general approach to tree propagation:
-
-1. Collect nuts in autumn when they fall naturally
-2. Store in moist conditions (stratification) through winter -- Holzer achieves this by leaving pomace and seeds to ferment for 4-5 weeks, which breaks down germination-inhibiting layers
-3. Sow directly into prepared sites in spring
-4. Protect from browsing using appropriate methods
-5. Allow to grow for 1-2 years before selecting best specimens
-6. Graft desired varieties onto adapted rootstocks if improved varieties are wanted
-
-This direct-sowing method produces trees that are genetically adapted to the specific site conditions, resulting in more resilient and self-sufficient trees than imported nursery stock.
-
-See also: holzer-fruit-tree-planting-method, [[holzer-terrace-systems]], [[holzer-green-manure-and-soil-building-plants]], [[holzer-fruit-growing-marginal-climates]]

@@ -48,9 +48,9 @@ The calyx has four lobes, two broad and two narrow, an important diagnostic char
 
 The fruit is a capsule containing numerous small, brown, reticulate seeds. Seeds are approximately 0.5 mm long and require light for germination.
 
-Two subspecies are recognized: subsp. campestris and subsp. baltica. They differ in calyx lobe shape and geographic distribution.
+Two subspecies are recognized: subsp. campestris and subsp. baltica. They differ in calyx lobe shape and [[geographic-distribution-of-psilocybe-species]].
 
-The root system is thin and fibrous, without the fleshy rhizome of perennial gentians. Plants complete their lifecycle within one or two growing seasons.
+The root system is thin and fibrous, without the fleshy rhizome of perennial gentians. Plants complete their lifecycle within one or two [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Distribution and Habitat
 
@@ -64,11 +64,11 @@ Plants prefer open, short-turf conditions on calcareous or base-rich soils. It i
 
 In Scandinavia, it is a common component of species-rich meadow communities. It associates with Galium, Thymus, and Helianthemum species.
 
-The species shows considerable morphological variation across its range. Alpine populations tend to be more compact with larger flowers than lowland forms.
+The species shows considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Alpine populations tend to be more compact with larger flowers than lowland forms.
 
 ## Cultivation
 
-Gentianella campestris is rarely cultivated in gardens. Its annual or biennial life cycle and specific habitat requirements make it challenging to maintain.
+Gentianella campestris is rarely cultivated in gardens. Its annual or biennial [[agaricus-campestris-biology-and-life-cycle]] and specific habitat requirements make it challenging to maintain.
 
 Seed should be sown in autumn on the surface of gritty, calcareous compost. Seeds require light and a period of cold stratification.
 
@@ -86,35 +86,4 @@ Unlike many gentians, the flowers remain open on overcast days. This increases f
 
 The species is an indicator of species-rich calcareous grassland. Its presence suggests low fertility and appropriate grazing management.
 
-Gentianella campestris is a hemiparasitic plant that forms connections with neighboring plants through root haustoria. This partial parasitism supplements its nutrient uptake.
-
-The species has declined significantly in the British Isles and western Europe. Agricultural improvement and abandonment of traditional grazing are the primary threats.
-
-In the United Kingdom, it is listed as a Priority Species under the Biodiversity Action Plan. Remaining populations are concentrated in Scotland and northern England.
-
-Climate change poses an additional threat to alpine populations. Warming temperatures allow taller competitors to invade formerly open habitats.
-
-## Uses
-
-Gentianella campestris has limited ethnobotanical use compared to larger gentian species. Its small size and rarity in many regions preclude commercial harvest.
-
-In Scandinavian folk medicine, the flowering herb was occasionally used as a bitter tonic. The properties are similar to but weaker than those of Gentiana lutea.
-
-The species has been used in ecological studies as an indicator of grassland quality. Its population dynamics respond quickly to changes in management.
-
-Research on Gentianella campestris has contributed to understanding of plant population biology. Studies show metapopulation dynamics with local extinction and recolonization events.
-
-Conservation efforts include habitat restoration and grazing management programs. The species benefits from late-summer grazing that maintains short turf.
-
-## See Also
-
-- [[gentiana-amarella]]
-- [[centaurium-erythraea]]
-- [[swertia-perennis]]
-- [[swertia-chirata]]
-- [[gentiana-verna]]
-- [[gentiana-acaulis]]
-- [[jasione-montana]]
-- [[campanula-rotundifolia]]
-- [[lobelia-inflata]]
-- [[gentiana-lutea]]
+Gentianella campestris is a hemiparasitic plant that forms connections with neighboring plants through root haustoria. This partial parasitism supplements its [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]].

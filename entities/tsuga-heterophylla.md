@@ -88,23 +88,3 @@ The foliage contains volatile oils rich in **α-pinene**, **β-pinene**, and **l
 Western hemlock is cultivated as an ornamental tree in temperate regions worldwide, valued for its graceful form, dense shade, and tolerance of moist conditions. Several dwarf and weeping cultivars exist, including *T. heterophylla* 'Thorsen's Weeping' and 'Bennett'.
 
 The species has been widely planted in the British Isles since its introduction in 1851. It grows vigorously in the mild, wet climate of western Scotland, Ireland, and Wales, where mean annual increments of 15–20 m³/ha/year are common on suitable sites.
-
-Indigenous peoples of the Pacific Northwest used western hemlock extensively for subsistence and material culture. Inner bark was dried, ground into a powder, and mixed with berries as a food staple. The wood was carved into masks, totem poles, bowls, and implements.
-
-Hemlock boughs were used as bedding and in sweat lodges for their aromatic properties. The pitch was applied to wounds and burns for its antimicrobial qualities, and needle tea was consumed as a general tonic rich in vitamin C.
-
-## See Also
-
-- [[pseudotsuga-menziesii]]
-- [[picea-abies]]
-- [[sequoia-sempervirens]]
-- [[juniperus-communis]]
-- [[thuja-occidentalis]]
-- [[fomes-fomentarius]]
-- [[alnus-rubra]]
-- [[tilia-cordata]]
-- [[vaccinium-macrocarpon]]
-- [[juncus-effusus]]
-- [[vaccinium-angustifolium]]
-- [[nymphaea-alba]]
-- [[lemna-minor]]

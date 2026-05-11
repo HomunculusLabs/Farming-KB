@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md"
 ---
 
@@ -87,53 +88,3 @@ Individual plots assigned to gardeners; each person manages their own space inde
 
 ### Collective Model
 Garden is managed collectively; all participants share decision-making, work, and harvest. Builds strong community but requires good coordination and communication.
-
-### Hybrid Model
-Combines individual plots with shared common areas. Gardeners manage their own plots but participate in shared projects (orchard, herb garden, composting).
-
-### Demonstration/Education Model
-Primarily serves as a teaching garden with classes, workshops, and tours. Often associated with schools, universities, or community organizations.
-
-## Starting a Community Garden
-
-1. **Form a planning group** of committed individuals
-2. **Find land** -- vacant lots, church yards, school grounds, park edges, utility easements
-3. **Secure tenure** -- lease, license agreement, or ownership
-4. **Test soil** -- essential for urban sites; use raised beds if contaminated
-5. **Design the layout** -- participatory design process with all stakeholders
-6. **Develop rules and agreements** -- plot fees, maintenance expectations, conflict resolution
-7. **Build infrastructure** -- fencing, water, paths, compost, shed
-8. **Prepare the soil** -- sheet mulch, cover crops, compost
-9. **Plant and grow** -- start with easy crops; build skills gradually
-10. **Celebrate and expand** -- harvest festivals, potlucks, open days
-
-## Challenges and Solutions
-
-| Challenge | Solution |
-|-----------|----------|
-| Land tenure insecurity | Long-term leases; relationship with landowners; community land trusts |
-| Soil contamination | Raised beds with imported soil; phytoremediation; soil testing |
-| Vandalism and theft | Community involvement; visible presence; fencing; welcome signs |
-| Conflict between gardeners | Clear agreements; facilitation; shared events |
-| Water access and cost | [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]; greywater systems; drip irrigation; municipal partnerships |
-| Funding | Plot fees; grants; fundraising events; in-kind donations |
-| Volunteer burnout | Rotating responsibilities; shared work days; recognition |
-
-## See Also
-
-- [[permaculture-community-design]]
-- permaculture-intentional-community-design
-- urban-permaculture-productive-yards
-- permaculture-village-design
-- holmgren-permaculture-village-and-community-design
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*; Bill Mollison, *Permaculture: A Designers' Manual*, Chapters 12 and 14
-
-## Related
-
-- [[urban-guerrilla-gardening]]
-- [[compost-tea-brewing]]
-- [[toby-hemenway]]
-- [[water-management]]

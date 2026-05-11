@@ -24,7 +24,7 @@ sources:
 
 Celtis australis, commonly known as the Mediterranean hackberry, European nettle tree, or honeyberry, is a deciduous tree in the family Cannabaceae. It is native to the Mediterranean Basin, southern Europe, and western Asia.
 
-The species is a characteristic element of Mediterranean scrubland and riparian forests. It is widely planted as a shade tree in urban areas across southern Europe, where its tolerance of heat, drought, and pollution makes it particularly valuable.
+The species is a characteristic element of Mediterranean scrubland and riparian forests. It is widely planted as a [[mollison-designers-legume-shade-tree-pasture-systems]] in urban areas across southern Europe, where its tolerance of heat, drought, and pollution makes it particularly valuable.
 
 Mediterranean hackberry typically reaches 15–25 meters in height, with a spreading, rounded crown and a short, stout trunk. It is a long-lived species that can persist for several centuries.
 
@@ -32,9 +32,9 @@ Mediterranean hackberry typically reaches 15–25 meters in height, with a sprea
 
 **Classification:** Plantae → Tracheophyta → Magnoliopsida → Rosales → Cannabaceae → Celtis → C. australis L.
 
-The species was described by Carl Linnaeus in 1753. The specific epithet *australis* means "southern," referring to its Mediterranean distribution relative to the more northerly *Celtis occidentalis*.
+The species was described by Carl Linnaeus in 1753. The specific epithet *australis* means "southern," referring to its Mediterranean distribution relative to the more northerly *[[celtis-occidentalis]]*.
 
-The genus *Celtis* was formerly placed in the elm family (Ulmaceae) but was moved to Cannabaceae based on molecular phylogenetic evidence. The genus contains approximately 60–70 species with a worldwide distribution.
+The genus *Celtis* was formerly placed in the elm family (Ulmaceae) but was moved to Cannabaceae based on molecular phylogenetic evidence. The genus contains approximately 60–70 species with a [[worldwide-distribution-psilocybin-mushrooms]].
 
 **Bark** is gray and smooth on young trees, becoming corky, warted, and irregularly fissured with age. This distinctive corky bark is a key identification feature in the field.
 
@@ -56,15 +56,15 @@ It is hardy in USDA zones 7–10 and tolerates summer temperatures exceeding 40�
 
 Optimal growth occurs on deep, well-drained calcareous soils in full sun. The species is adapted to the Mediterranean climate regime with mild, wet winters and hot, dry summers.
 
-Mediterranean hackberry has been widely planted beyond its native range as an ornamental tree. It is naturalized in parts of western Europe, the southwestern United States, and Australia.
+Mediterranean hackberry has been widely planted beyond its native range as an ornamental tree. It is naturalized in parts of western Europe, the southwestern [[dmt-containing-plants-united-states-halpern]], and Australia.
 
 The species exhibits significant phenotypic plasticity in response to environmental conditions. Trees in moist riparian sites develop larger leaves and more vigorous growth than those on dry, exposed hillsides.
 
 ## Cultivation and Uses
 
-Mediterranean hackberry is a popular urban shade tree in southern European cities, particularly in Italy, Spain, and Greece. Its tolerance of air pollution, compacted soils, and drought makes it well-suited to challenging urban environments.
+Mediterranean hackberry is a popular urban shade tree in southern European cities, particularly in Italy, Spain, and Greece. Its tolerance of [[air-pollution-fungal-community-responses]], compacted soils, and drought makes it well-suited to challenging [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
-The sweet fruits are edible raw or cooked and have been used in traditional Mediterranean cuisine. They were historically gathered by rural communities and used in jams, desserts, and fermented beverages.
+The sweet fruits are edible raw or cooked and have been used in traditional Mediterranean cuisine. They were historically gathered by rural communities and used in jams, desserts, and [[comparison-mead-vs-kvass-fermented-beverages]].
 
 In traditional medicine, the leaves, bark, and fruits have been used as an astringent, anti-inflammatory, and digestive aid. The bark was employed as a febrifuge in Italian folk medicine.
 
@@ -72,7 +72,7 @@ The wood has been used for centuries in carpentry, particularly for making tool 
 
 Propagation is primarily from seed, which requires cold stratification for 2–3 months to break dormancy. Softwood cuttings can also be used, though rooting success is variable and often requires rooting hormone treatment.
 
-The species is relatively free of serious pests and diseases. It is occasionally affected by powdery mildew and scale insects, but these rarely cause significant damage to established trees.
+The species is relatively free of serious [[mushroom-pests-and-diseases]]. It is occasionally affected by [[cervantes-powdery-mildew-prevention-treatment]] and scale insects, but these rarely cause significant damage to established trees.
 
 ## Ecological Role
 
@@ -84,27 +84,6 @@ In riparian ecosystems, Mediterranean hackberry helps stabilize streambanks and 
 
 The species contributes to the structural diversity of Mediterranean forests by occupying an intermediate canopy position between tall oaks and smaller understory shrubs. This layered structure supports greater biodiversity.
 
-Mediterranean hackberry supports epiphytic lichen communities on its bark, including several species that are indicators of good air quality. Old trees with rough, fissured bark are particularly rich in lichen diversity.
+Mediterranean hackberry supports epiphytic lichen communities on its bark, including several species that are indicators of good [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]. Old trees with rough, fissured bark are particularly rich in lichen diversity.
 
-The tree's extensive root system makes it effective for slope stabilization in Mediterranean hillside environments. It is increasingly planted in erosion control projects across southern Europe.
-
-## Related Species
-
-The closest relative of Mediterranean hackberry is the North American *Celtis occidentalis* (common hackberry), which occupies similar ecological niches in eastern North America. The two species are readily distinguished by leaf shape and bark texture.
-
-Other notable species include *Celtis laevigata* (sugarberry) of the southeastern United States, *Celtis sinensis* (Chinese hackberry) of East Asia, and *Celtis africana* (white stinkwood) of sub-Saharan Africa.
-
-The genus *Celtis* has a remarkable disjunct distribution across North America, Europe, Asia, and Africa. Molecular studies suggest the genus originated in the Northern Hemisphere and diversified during the Tertiary period.
-
-The sweet fruits of *Celtis australis* were known to the ancient Greeks and Romans, who called the tree *lotus* and valued the fruits as a famine food. This historical usage has contributed to the common name "Mediterranean lotus."
-
-## See Also
-
-- [[celtis-occidentalis]]
-- [[celtis-laevigata]]
-- [[ulmus-rubra]]
-- [[ulmus-americana]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[betula-pendula]]
-- [[acer-saccharum]]
+The tree's extensive root system makes it effective for slope stabilization in Mediterranean hillside environments. It is increasingly planted in [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] projects across southern Europe.

@@ -24,7 +24,7 @@ sources:
 ## Overview
 
 *Grifola umbellata*, known as Zhu Ling (猪苓) in Chinese pharmacopeia, is a
-polypore fungus forming large, compound fruiting bodies at the base of hardwood
+polypore fungus forming large, compound [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] at the base of hardwood
 trees. It produces dark, irregular sclerotia (tubers) underground that are the
 primary medicinal part used in Traditional Chinese Medicine (TCM).
 
@@ -69,8 +69,8 @@ radiating from a common base, resembling an umbrella cluster.
 - Fruiting bodies emerge in late summer to autumn (August–October)
 - Prefers well-drained, humus-rich soils at 400–2000 m elevation
 - Often found alongside [[grifola-frondosa]] (Maitake) | Larger gray-brown fronds; no sclerotia | Immunomodulation |
-| polyporus umbellatus | Often treated as synonym; European records | Diuretic, antitumor |
-| poria cocos (Fu Ling) | Sclerotium on pine roots; different genus | Tranquilizer, diuretic |
+| [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]] | Often treated as synonym; European records | Diuretic, antitumor |
+| [[poria-cocos]] (Fu Ling) | Sclerotium on pine roots; different genus | Tranquilizer, diuretic |
 
 ## Similar Species
 
@@ -78,23 +78,13 @@ radiating from a common base, resembling an umbrella cluster.
 [[grifola-frondosa]] (Maitake) forms larger gray-brown fronds
 with overlapping shelves and lacks underground sclerotia.
 *Polyporus umbellatus* (often a synonym) differs in spore size
-and distribution, being more common in European mycoflora. *Meripilus giganteus*
+and distribution, being more common in European mycoflora. *[[meripilus-giganteus]]*
 (Giant polypore) grows at the base of hardwoods but turns black
 when bruised, a reliable field ID feature. *Polyporus tuberaster*
 also forms sclerotia but produces smaller, thinner-fleshed
-fruiting bodies with different pore structure and spore print.
+fruiting bodies with different pore structure and [[boil-a-bag-spore-print-technique-jarrold]].
 
 ## Cultivation
 
 Commercial cultivation of *G. umbellata* remains challenging due to its
 China, cultivation uses buried logs inoculated with sclerotial spawn
-in shaded, humid forest environments. Sclerotia require 12-18 months
-at 60-70% field capacity. Pine or oak sawdust supplemented
-with wheat bran provides adequate nutrition for colonization. Fruiting is triggered by temperature
-drops and increased humidity in late summer. Cultivated yields
-are typically lower than wild-harvested material, motivating
-ongoing research into improved techniques.
-
-## See Also
-- [[maitake-grifola-frondosa-comprehensive-profile]]
-- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, soil, cover-crops, orchard-management, legacy, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,12 +88,3 @@ The black wattle tree serves as a dramatic accelerator of soil building. Five or
 For rundown orchards forty to fifty years old, Fukuoka recommends planting a large number of acacias among the existing fruit trees. After five or six years, fell all fruit trees and acacias at once and replant the entire orchard with three- to four-year saplings. This approach replenishes the soil far more effectively than running a bulldozer through the orchard, and it rejuvenates the land for the next generation of trees.
 
 ## Relevance to Modern Agriculture
-
-The concept of soil as multigenerational legacy stands in direct opposition to the short-term thinking that dominates modern agriculture. Contemporary farming measures success by annual yield and quarterly profit. Fukuoka asks instead: what condition is the land left in for those who come after? Natural farming that requires no purchased inputs, no heavy machinery, and no chemical interventions produces soil that improves with each passing year, representing true capital accumulation that conventional economics fails to recognize.
-
-## Related
-
-- [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
-- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
-- [[fukuoka-soil-building-approach]]
-- [[fukuoka-natural-fertility-cycle]]

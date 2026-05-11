@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,29 +87,3 @@ Cool humid climate soils share several features:
 - **High [[hamilton-composting-and-organic-matter-management]] accumulation:** The combination of adequate moisture
   and cool temperatures slows decomposition, allowing thick humus layers to
   develop. This is an asset -- these soils are naturally fertile.
-
-- **Periglacial features:** In formerly glaciated regions, soils show
-  periglacial sorting, patterned ground, and heavy clay subsoils from
-  glacial till. These can impede drainage and require specific management.
-
-- **Loess deposits:** Wind-blown silt (loess) covers vast areas of cool humid
-  zones, particularly in Europe, China, and North America. Loess soils are
-  naturally fertile, well-drained, and easy to work but prone to erosion on
-  steep slopes.
-
-- **Acidity:** High rainfall leaches bases from soil, creating acidic
-  conditions (pH 4.5-6.0). Many crops require liming or selection for
-  acid tolerance.
-
-## Design Integration
-
-These factors combine in Mollison's [[mollison-designers-cold-caves-root-cellar-storage]]
-design draws directly from the cool humid climate's need for long-term food
-storage during long winters.
-
-See also: [[mollison-designers-free-range-forage-design-principles]],
-[[holzer-climate-zone-microclimate-creation]]
-
-## See Also
-
-- [[cool-climate-home-garden-mollison]]

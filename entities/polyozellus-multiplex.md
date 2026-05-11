@@ -30,8 +30,8 @@ lineage (Thelephorales). It is notable for its intense blue to blue-black
 coloration and its production of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including thelephoric
 acid and polyozellin.
 
-Found primarily in old-growth coniferous forests of the Pacific Northwest
-and northeastern Asia, *P. multiplex* forms compound fruiting bodies that
+Found primarily in old-growth coniferous forests of the [[psilocybin-north-america-pacific-northwest]]
+and northeastern Asia, *P. multiplex* forms compound [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that
 can reach impressive sizes. Recent research has highlighted its
 immunomodulatory and anti-inflammatory properties.
 
@@ -70,7 +70,7 @@ astringent when raw.
 in Melzer's reagent (dextrinoid).
 
 **Chemical reactions:** KOH on flesh turns deep green to black, a key
-field identification character. Ammonia on surface may produce a
+[[palmer-mushroom-hunting-field-identification]] character. Ammonia on surface may produce a
 greenish reaction.
 
 ## Distribution and Habitat
@@ -81,66 +81,10 @@ populations. Also reported from northeastern Asia (Japan, Korea,
 northeastern China).
 
 **Habitat:** Ectomycorrhizal, forming associations with conifers —
-especially Douglas-fir (*Pseudotsuga menziesii*), western hemlock
-(*Tsuga heterophylla*), spruce (*Picea* spp.), and fir (*Abies* spp.).
+especially Douglas-fir (*[[pseudotsuga-menziesii]]*), western hemlock
+(*[[tsuga-heterophylla]]*), spruce (*Picea* spp.), and fir (*Abies* spp.).
 Found in old-growth and mature coniferous forests, often on well-decayed
 [[fungal-succession-woody-debris-ecology]] or humus-rich forest floors.
 
 **Fruiting season:** July through October. Prefers cool, wet
 conditions typical of Pacific Northwest autumns. Often fruits in the
-same areas as chanterelles and hedgehog mushrooms.
-
-**Substrate preference:** Typically fruits on or near decaying wood
-or buried roots; mycelium is primarily mycorrhizal.
-
-## Bioactive Compounds
-
-*P. multiplex* has attracted significant research interest for its
-unique [[antifungal-secondary-metabolites-coprophilous-fungi]]:
-
-- **Thelephoric acid:** A polyphenolic compound with potent antioxidant
-  and anti-inflammatory activity. Inhibits acetylcholinesterase (AChE)
-  and butyrylcholinesterase (BChE), suggesting potential for Alzheimer's
-  disease research. Also demonstrates immunomodulatory effects via
-  suppression of nitric oxide (NO) production in macrophages.
-- **Polyozellin:** A chlorinated benzophenone derivative with reported
-  anti-inflammatory activity. Suppresses NF-κB signaling and reduces
-  pro-inflammatory cytokine production (TNF-α, IL-6, IL-1β) in vitro.
-- **Polyozellinic acids A and B:** Additional chlorinated compounds
-  contributing to the overall antioxidant profile.
-- **Polyphenols:** General antioxidant capacity attributed to the dense
-  polyphenolic content of fruiting body extracts.
-
-**Note:** While promising in vitro, none of these compounds have
-advanced to [[mushroom-cancer-clinical-trials-overview]].
-
-## Edibility and Culinary Use
-
-*P. multiplex* is considered edible and choice by many foragers,
-though opinions vary due to its unusual texture.
-
-- **Flavor and texture:** Mild, earthy flavor with no bitterness. The
-  flesh is tough and rubbery when raw, requiring thorough cooking to
-  become palatable. Does not soften as readily as true chanterelles.
-- **Preparation:** Best when chopped finely and slow-cooked in butter
-  or oil. Tough texture makes it well-suited for drying and powdering.
-- **Culinary applications:** Sauces, soups, and gravies where
-  the deep blue color is visually striking. Powdered dried mushroom
-  adds umami depth and color to dishes.
-- **Preservation:** Dries well; the color fades to dark brown but
-  flavor concentrates. Freezes adequately after cooking.
-
-⚠️ **Caution:** The intense blue color and compound growth form are
-distinctive, but beginners should confirm with the KOH reaction
-(deep green-black) and spore print (pinkish).
-
-## Similar Species
-
-| Species | Key Differences |
-|---------|----------------|
-| [[craterellus-cornucopioides]] | Black trumpet; dark gray-black, funnel-shaped, no blue pigmentation |
-| Hydnellum caeruleum | Blue tooth fungus; has teeth on hymenium, different growth form |
-## See Also
-
-- [[craterellus-tubaeformis]] — Yellowfoot chanterelle, same season
-- [[hericium-erinaceus]] — Bioactive edible with neurological interest

@@ -88,12 +88,3 @@ wheat bran is preferred. The standard alder sawdust/chips/bran
 production formula gives good results.
 
 ### Containers
-Polypropylene autoclavable bags, bottles, and/or trays. This
-mushroom grows well horizontally or vertically. For outdoor
-cultivation, partially buried logs or outdoor beds of 50:50
-hardwood sawdust and chips are recommended, similar to
-[[hypsizygus-ulmarius]]
-
-- [[growing-gourmet-buna-shimeji-hypsizygus-cultivation]]
-- [[growing-gourmet-king-stropharia-cultivation]]
-- growing-gourmet-supplemented-sawdust-sterilization

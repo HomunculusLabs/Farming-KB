@@ -88,11 +88,3 @@ computed tomography (SPECT) studies of serotonergic receptor distribution in the
 2C-I is generally considered to have moderate safety, though less clinical data exists compared to better-studied
 psychedelics. Common [[blesching-cannabis-safety-adverse-effects-evidence]] include nausea, vasoconstriction, tachycardia, anxiety, and insomnia at higher
 doses. The extended duration means that uncomfortable effects are sustained for a longer period than with
-shorter-acting psychedelics. The compound's vasoconstrictive properties, while generally manageable at standard doses,
-can be concerning at high doses or in individuals with pre-existing cardiovascular conditions. As with all serotonergic
-psychedelics, there is a theoretical risk of serotonin syndrome when combined with MAOIs or certain serotonergic
-medications, though documented cases involving 2C-I specifically are rare.
-
-## See Also
-
-- [[optical-isomers-psychedelic-phenethylamines]]

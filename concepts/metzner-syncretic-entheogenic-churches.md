@@ -1,6 +1,6 @@
 ---
-title: "Syncretic Entheogenic Churches"
-aliases: [Santo Daime, UDV, Native American Church, [[ayahuasca-churches-syncretic-ceremonies]], hoasca]
+title: Metzner Syncretic Entheogenic Churches
+aliases: [Santo Daime, UDV, [[halpern-sacramental-peyote-and-native-american-church]], [[ayahuasca-churches-syncretic-ceremonies]], hoasca]
 tags: [psychedelics, religion, shamanism, community, indigenous, legal, entheogens]
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 created: 2026-05-09
@@ -8,9 +8,9 @@ created: 2026-05-09
 
 # Syncretic Entheogenic Churches
 
-Ralph Metzner identified syncretic folk religious ceremonies as a third paradigm
+[[ralph-metzner]] identified [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] ceremonies as a third paradigm
 for entheogenic use, distinct from both Western psychotherapy and classical
-shamanic healing. These ceremonies typically involve larger groups (20-40
+[[metzner-shamanic-healing-and-divination-paradigm]]. These ceremonies typically involve larger groups (20-40
 participants, or several hundred in the Brazilian hoasca churches) and focus
 primarily on group worship and celebration rather than individual healing or
 divination.
@@ -49,7 +49,7 @@ The founder of each church reported a significant vision that instructed them to
 organize a church using the brew as the principal sacrament. Members come from
 all walks of life and both urban and rural environments in Brazil. Each church
 has by now several thousand members in Brazil, and two have significant satellite
-centers in North America and Europe. The churches are officially recognized by
+centers in [[guzman-psilocybin-mushrooms-north-america]] and Europe. The churches are officially recognized by
 the Brazilian government, which distinguishes them from recreational drug use.
 
 ## Social Functions
@@ -88,34 +88,3 @@ The legal recognition of entheogenic churches represents an important precedent
 in drug policy, establishing that the religious use of psychoactive plants can be
 distinguished from recreational abuse. This recognition has been contested in
 various jurisdictions but has generally held in countries with strong indigenous
-traditions.
-
-The Brazilian government's official recognition of the ayahuasca churches, and
-the United States' partial legal protection of the Native American Church,
-represent two different models for accommodating entheogenic religious practice
-within modern legal frameworks. These precedents have influenced drug policy
-discussions worldwide and have provided a legal basis for the continued practice
-of indigenous [[darkness-low-light-facilitation-entheogenic-ceremonies]].
-
-## Hybrid Shamanic-Therapeutic Rituals
-
-Metzner identified a fourth paradigm: hybrid shamanic-therapeutic rituals that
-incorporate features from both indigenous shamanic and Western psychotherapeutic
-approaches. These hybrid forms have been developing over the past few decades and
-have adopted the three [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]]: darkness or low
-light, rhythmic singing or chanting, and minimal verbal interaction during the
-experience itself.
-
-In these hybrid ceremonies, the recognition of multiple dimensions and of the
-reality of spirit beings has become quite common, even among practitioners with
-Western professional training. This represents a significant shift from the
-standard Western paradigm, in which such concepts were previously considered
-beyond the boundaries of acceptable scientific or therapeutic discourse.
-
-## See Also
-
-- [[metzner-psycholytic-psychedelic-therapy-models]]
-- [[metzner-shamanic-healing-divination-paradigms]]
-- ayahuasca preparation brewing chemistry
-- peyote cactus mescaline pharmacology
-- Native American Church peyote ceremonies

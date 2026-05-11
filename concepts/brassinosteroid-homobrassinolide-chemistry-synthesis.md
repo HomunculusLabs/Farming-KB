@@ -20,7 +20,7 @@ in mycology.
 ## Chemical Classification
 
 Brassinosteroids are a class of polyhydroxylated steroidal lactones that
-function as plant growth hormones. By 1990, approximately 30 members had been
+function as [[gibberellins-plant-growth-hormones]]. By 1990, approximately 30 members had been
 identified across angiosperms, gymnosperms, and [[cervantes-green-algae-growing-medium]]. Homobrassinolide
 belongs to the subgroup of brassinosteroids with an extended side chain
 (homologated at C-24), distinguishing it from the parent compound brassinolide
@@ -41,7 +41,7 @@ and a lactone ring bridging C-22 and C-26 (or C-28 in homologated forms). The
 a methyl group at C-24 in the side chain, corresponding to the stigmasterol
 precursor.
 
-Key structural features contributing to biological activity include the
+Key [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] contributing to biological activity include the
 A-ring cis-diol (2-alpha,3-alpha configuration), the side-chain vicinal diol
 (22R,23R or the 22S,23S epimer), and the lactone moiety. Each of these
 structural elements is believed to interact with a specific receptor site,
@@ -52,7 +52,7 @@ and modification of any element typically diminishes hormonal activity.
 The synthesis of 22S,23S-homobrassinolide from stigmasterol was described
 by Adam and Marquardt (1986) in Phytochemistry (Vol. 25, p. 1787). Stigmasterol
 is an abundant plant sterol found in soybean, calabar bean, and various
-vegetable oils, making it an economical starting material.
+vegetable oils, making it an economical [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]].
 
 The synthetic route from stigmasterol involves several key transformations:
 oxidation of the side chain to introduce oxygen functionality, selective
@@ -66,7 +66,7 @@ The availability of this synthetic route was crucial for the Gartz et al.
 study, as natural brassinosteroids occur in plants at extremely low
 concentrations (nanograms to micrograms per kilogram of tissue), making
 isolation impractical for experimental use. Synthetic homobrassinolide
-provided sufficient material for the controlled cultivation experiments.
+provided sufficient material for the controlled [[holzer-mushroom-cultivation-experiments]].
 
 ## Potency and Concentration
 
@@ -77,9 +77,9 @@ physiology, brassinosteroids are active at nanomolar to picomolar
 concentrations, making them among the most potent naturally occurring
 growth substances known.
 
-This extreme potency has important implications for fungal cultivation
+This extreme potency has important implications for [[brassinosteroids-in-fungal-cultivation]]
 applications. Even trace amounts of brassinosteroid contamination could
-potentially affect fungal growth, and conversely, very small quantities of
+potentially affect [[brassinosteroids-phytohormones-fungal-growth-promotion]], and conversely, very small quantities of
 synthetic brassinosteroid could treat large volumes of substrate. The cost
 effectiveness of brassinosteroid application would depend primarily on the
 synthetic cost of the compound rather than the quantity needed.
@@ -88,39 +88,3 @@ synthetic cost of the compound rather than the quantity needed.
 
 In plants, brassinosteroids are biosynthesized from campesterol through a
 series of oxidation and reduction steps catalyzed by cytochrome P450 enzymes
-and dehydrogenases. The pathway proceeds through campestanol to teasterone,
-typhasterol, and finally castasterone, which can be converted to brassinolide
-by a Baeyer-Villiger-type oxidation.
-
-Whether fungi possess endogenous brassinosteroid biosynthesis remains an open
-question. The Gartz study demonstrated that exogenously applied
-brassinosteroids affect fungal growth, but did not determine whether fungi
-naturally produce these compounds. If fungal brassinosteroid biosynthesis
-exists, it would likely involve a pathway similar to the plant route,
-utilizing fungal sterols such as ergosterol as precursors rather than
-campesterol.
-
-## Analytical Detection Methods
-
-Brassinosteroids are typically detected and quantified using gas
-chromatography-mass spectrometry (GC-MS) or liquid chromatography-tandem
-mass spectrometry (LC-MS/MS) after derivatization. The development of
-immunoassay methods using anti-brassinosteroid antibodies has also enabled
-high-throughput screening. For fungal tissue analysis, extraction protocols
-typically involve homogenization in methanol or acetonitrile, solid-phase
-cleanup, and pre-concentration prior to instrumental analysis.
-
-The extreme potency and low natural abundance of brassinosteroids make
-analytical detection challenging. Detection limits in the low picogram range
-are typically required for meaningful quantification in plant tissues, and
-similar sensitivity would be needed for any investigation of endogenous
-fungal brassinosteroids.
-
-## Related Topics
-
-- [[brassinosteroids-psilocybin-fruiting]]
-- [[ergosterol-fungal-drug-target]]
-
-## See Also
-
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]

@@ -1,5 +1,5 @@
 ---
-title: tompkins [[marcel-vogel-plant-communication]] plant human communication and Plant-Human Communication
+title: Tompkins Marcel Vogel Plant Human Communication
 created: 2026-04-28
 tags: [marcel-vogel, ibm, liquid-crystal, psychic-energy, galvanometer,
       plant-communication, consciousness, bioenergy]
@@ -15,7 +15,7 @@ whose rigorous scientific background and personal openness to
 unconventional phenomena led him to become one of the most credible
 investigators of plant-human communication. His work provided
 independent confirmation and significant extension of [[tompkins-cleve-backster-primary-perception]]'s
-controversial findings about plant perception.
+controversial findings about [[plant-perception]].
 
 ## Background at IBM
 
@@ -88,36 +88,3 @@ first. The second responded, but only when Vogel was paying attention
 to it. If he cut a leaf while ignoring the second plant, there was no
 response, suggesting that Vogel himself was an integral part of the
 circuitry required to monitor the phenomenon.
-
-## Liquid Crystal Research
-
-Vogel's work with liquid crystals intersected with his plant research.
-He found that by "relaxing his mind," he could sense activity at the
-microscope not visually revealed. He concluded that crystals are brought
-into physical existence by pre-forms or "ghost images" of pure energy
-that anticipate the solids. Since plants could pick up human intentions,
-intent must produce some kind of tangible energy.
-
-## Public Demonstrations
-
-Vogel made several public demonstrations, including a [[san-francisco-shipibo-ayahuasca-ceremonial-center]] TV
-program where a plant coupled to a pen recorder illustrated varying
-states of his mind, from irritation at interviewer questions to quiet
-tracings during harmonious communication. He also demonstrated on ABC's
-"You Asked for It," showing the plant's response to his thoughts and
-those of others.
-
-Vogel stated unequivocally: "Man can and does communicate with plant
-life. Plants are living objects, sensitive, rooted in space. They may be
-blind, deaf, and dumb in the human sense, but there is no doubt in my
-mind that they are extremely sensitive instruments for measuring man's
-emotions."
-
-## Related
-
-- [[tompkins-cleve-backster-primary-perception]] for the original
-  experiments that inspired Vogel's investigations
-- [[tompkins-plants-response-to-human-intent]] for further research
-  on plant consciousness
-- [[tompkins-kirlian-photography-plant-auras]] for visual documentation
-  of plant energy fields

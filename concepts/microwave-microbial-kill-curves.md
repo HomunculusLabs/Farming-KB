@@ -1,5 +1,5 @@
 ---
-title: Microwave [[microbial-kill-curve-microwave-exposure-dose-response]] Curves and Inactivation Kinetics
+title: Microwave Microbial Kill Curves
 category: microbiology
 tags: [microwave, microbial-inactivation, kill-curves, sterilization, microbiology]
 created: 2026-05-09
@@ -88,47 +88,3 @@ Water is essential for microwave sterilization because it is the molecule
 that absorbs microwave energy and converts it to heat. Insufficient surface
 moisture results in poor energy coupling and incomplete sterilization.
 However, excess water can act as a heat sink that reduces the temperature
-rise at the microbial cell level.
-
-### 3. Kind of Microorganism
-Different organisms show markedly different resistance to microwave
-inactivation:
-- **Vegetative bacteria** (*E. coli*): Most sensitive — rapidly inactivated
-  by the heating effect
-- **Gram-negative non-fermenters** (*P. cepacia*): Moderate resistance
-- **Bacterial spores** (*B. pumilus*): Most resistant — require the
-  highest total exposure for complete inactivation
-- **Yeasts and molds**: Generally intermediate sensitivity, similar to
-  vegetative bacteria
-
-### 4. Initial Population Size
-Higher initial populations require slightly more total exposure to achieve
-complete sterilization, as statistical probability favors some organisms
-surviving at any given exposure level when the starting count is very high.
-
-## Comparison with Thermal Kill Curves
-
-Microwave kill curves differ from conventional thermal (autoclave) kill
-curves in important ways:
-
-- **Mechanism**: Microwave inactivation is primarily thermal (heating of
-  water), but the heating is localized at the cell surface rather than
-  throughout the bulk medium
-- **Speed**: Microwave inactivation at 3.6 W/cm² achieves sterilization
-  faster than passive drying at equivalent temperatures
-- **Pattern**: The kill curve may show non-logarithmic behavior due to
-  uneven energy distribution across the microbial population
-
-## Practical Implications
-
-For applications in mycology and laboratory work, the kill curve data
-suggest:
-
-- Surfaces must be visibly damp for effective microwave treatment
-- Complex surface geometries may have shadow zones with reduced exposure
-- A safety margin beyond the minimum effective dose (13.1 W-hr) should be
-  applied in practice to account for variability in moisture distribution
-- Spore-forming contaminants require the most aggressive treatment
-  parameters
-- Regular biological indicator testing (using *B. pumilus* spore strips) is
-  recommended to validate sterilization effectiveness

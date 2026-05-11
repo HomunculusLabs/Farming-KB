@@ -38,7 +38,7 @@ The CHI scoring system weights studies according to their position in this hiera
 
 The Cannabis Health Index covers an extensive range of chronic symptoms and diseases organized alphabetically. The scope reflects the remarkable breadth of conditions for which cannabis has been investigated as a potential therapeutic agent.
 
-Major categories include aging and anti-aging, anorexia and cachexia, bacterial and viral infections (including MRSA, HIV/AIDS, hepatitis, and herpes), various forms of cancer (brain, breast, colon, lung, pancreatic, prostate, and others), cardiovascular disease (heart disease, hypertension, stroke), diabetes, eye diseases (glaucoma, macular degeneration), fibromyalgia, inflammatory diseases (arthritis, [[blesching-cannabis-inflammatory-bowel-disease]] disease), insomnia, mental disorders (anxiety, depression, PTSD, ADHD), neurological diseases (Alzheimer's, ALS, epilepsy, multiple sclerosis, Parkinson's), pain conditions (chronic pain, migraine, neuropathy), skin diseases, and many others.
+Major categories include aging and anti-aging, [[cannabis-for-anorexia-and-cachexia]], bacterial and viral infections (including MRSA, HIV/AIDS, hepatitis, and herpes), various forms of cancer (brain, breast, colon, lung, pancreatic, prostate, and others), cardiovascular disease (heart disease, hypertension, stroke), diabetes, eye diseases (glaucoma, [[blesching-cannabis-age-related-macular-degeneration]]), fibromyalgia, [[blesching-cannabis-inflammatory-diseases]] (arthritis, [[blesching-cannabis-inflammatory-bowel-disease]] disease), insomnia, mental disorders (anxiety, depression, PTSD, ADHD), neurological diseases (Alzheimer's, ALS, epilepsy, [[blesching-cannabis-multiple-sclerosis]], Parkinson's), pain conditions (chronic pain, migraine, neuropathy), skin diseases, and many others.
 
 The comprehensive A-to-Z organization makes the Index practical as a reference tool, allowing patients and practitioners to quickly locate the relevant evidence for their specific condition and understand both the strength of the evidence and the recommended approach to cannabis therapy.
 
@@ -48,13 +48,13 @@ The CHI system goes beyond simply rating whether cannabis works for a condition.
 
 The system distinguishes betw cannabis sativa tiva cannabis indica dica varieties, which are generally associated with different subjective and therapeutic effects. Sativa-dominant strains tend to produce more cerebral, energizing effects, while indica-dominant strains tend to produce more sedating, body-focused effects. Hybrid strains combine characteristics of both.
 
-Different modes of administration — including inhalation (smoking, vaporization), oral ingestion (edibles, capsules, tinctures), sublingual administration, and topical application — are also considered, as the route of delivery significantly affects onset time, duration of effect, and bioavailability of cannabinoids.
+Different [[blesching-cannabis-modes-of-administration-comparison]] — including inhalation (smoking, vaporization), oral ingestion (edibles, capsules, tinctures), sublingual administration, and topical application — are also considered, as the route of delivery significantly affects onset time, duration of effect, and bioavailability of cannabinoids.
 
 The CHI provides guidance on matching strain type, cannabinoid profile (THC-dominant, CBD-dominant, or balanced), and mode of administration to specific conditions based on the available evidence, helping patients and practitioners make more targeted therapeutic decisions.
 
 ## The Four Prime Cannabinoids
 
-The Cannabis Health Index focuses special attention on four primary cannabinoids that are most relevant to therapeutic applications, each with distinct pharmacological properties and therapeutic potential.
+The Cannabis Health Index focuses special attention on four primary cannabinoids that are most relevant to [[psilocybin-therapeutic-applications]], each with distinct pharmacological properties and therapeutic potential.
 
 Tetrahydrocannabinol (THC) is the primary psychoactive component of cannabis and has demonstrated analgesic, anti-inflammatory, antiemetic, appetite-stimulating, and muscle relaxant properties. THC acts primarily as a partial agonist at the CB1 receptor in the brain and nervous system.
 
@@ -87,33 +87,3 @@ The scoring system also accounts for negative findings — studies that fail to 
 ## How to Use the CHI Score
 
 The Cannabis Health Index recommends that users begin by locating their specific condition in the A-to-Z reference section and reviewing the associated CHI score and evidence summary. Higher scores indicate stronger evidence for therapeutic efficacy.
-
-Users should then consider the recommended cannabinoid profile, strain type, and mode of administration. The Index provides specific guidance on THC-to-CBD ratios, suggested starting doses, and the importance of finding an individual's [[cannabis-subjective-therapeutic-window-dosing]] window.
-
-The Index emphasizes the importance of the setting in which cannabis is consumed, the intention behind its use, and the process of self-exploration that accompanies therapeutic cannabis use. These mind-body medicine elements are presented not as optional supplements but as integral components of an effective therapeutic approach.
-
-Suggested blessings, affirmations, and powerful questions for self-guided healing are provided for each condition, reflecting the Index's holistic approach that combines pharmacological science with psychological and spiritual dimensions of healing.
-
-## Limitations and Considerations
-
-The Cannabis Health Index acknowledges several important limitations. The evidence base for medical cannabis, while growing rapidly, remains limited in many areas compared to more established pharmaceutical interventions. Many studies are small, short-term, or conducted in populations that may not be representative of the broader patient population.
-
-The Index emphasizes that cannabis is not a cure-all and that patients should always consult with their healthcare providers before making treatment decisions. The medical disclaimer accompanying the work stresses that individual responses to cannabis vary significantly and that the information provided is intended for general educational purposes.
-
-The question of cannabis safety is addressed extensively throughout the Index. Potential adverse effects — both physical and mental — are discussed with appropriate nuance. The concept of a subjective therapeutic window is explored, helping patients find their individual optimal dose range.
-
-Concerns about adolescent use and fetal development during pregnancy are addressed with the available scientific evidence. The effects of inhaled plant material on lung tissue are discussed, along with cardiovascular effects and the ongoing scientific debate about the relationship between cannabis use and schizophrenia risk.
-
-The Index takes the position that cannabis is not a cure-all. It is a therapeutic tool with genuine evidence-based applications, but one that must be used judiciously, with appropriate medical supervision, and with realistic expectations about its capabilities and limitations.
-
-The broader question of contaminants in cannabis products — including pesticides, mold, and residual solvents in extracts — is also addressed, reflecting the importance of product quality and source transparency in medical cannabis use.
-
-## See Also
-
-- [[tetrahydrocannabinol-thc]]
-- [[blesching-cannabis-anandamide]]
-- [[blesching-cannabis-mind-body-medicine]]
-
-## References
-
-- Blesching, U. *The Cannabis Health Index: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases*. North Atlantic Books, Berkeley, California, 2015.

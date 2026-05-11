@@ -9,7 +9,7 @@ Raised beds are a core element of microclimate-creation-permacultures. Holzer's 
 
 Raised beds offer substantial advantages over ground-level beds:
 
-- **Microclimate creation**: Depending on position relative to sun and prevailing wind, they provide very different plants with the conditions they need.
+- **[[holzer-climate-zone-microclimate-creation]]**: Depending on position relative to sun and prevailing wind, they provide very different plants with the conditions they need.
 - **Water retention**: Built loosely, they soak up rainwater like a sponge. Water is stored in lower levels and hollows between beds, while raised parts dry faster, creating both dry and wet areas.
 - **Faster warming**: The raised part warms up more quickly -- a great advantage in colder climates and at high altitudes.
 - **Frost protection**: Well-aerated, correctly-planted raised beds slow the freezing of topsoil.
@@ -30,7 +30,7 @@ Holzer eventually tried making a raised bed without chipped material, instead in
 - **Improved aeration**: Bulky material causes small shifts throughout the bed as it slowly breaks down and responds to moisture changes. It contracts and expands, keeping the structure loose -- unlike wood chips which compact.
 - **Slower decomposition**: Bulky material rots down more slowly, lessening the danger of soil acidification or over-fertilisation. Tree trunks maintain balanced moisture within the system.
 - **Longevity**: These beds can last ten years or more without major rebuilding, much longer than wood-chip beds.
-- **Better for root vegetables**: Particularly good for growing potatoes and other root vegetables; Holzer has also used them to cultivate cereals and had good results in spruce forests.
+- **Better for root vegetables**: Particularly good for [[growing-potatoes-organically]] and other root vegetables; Holzer has also used them to cultivate cereals and had good results in spruce forests.
 
 This approach is essentially holzer-aquaculture-pond-construction in the centre)
 - Crater gardens (created in Burgenland, where a beneficial humid microclimate develops in summer)
@@ -74,11 +74,11 @@ practical experience at the Krameterhof has identified several principles:
 - **Wood decomposition stages matter**: A combination of freshly cut wood
   (high nitrogen demand during early decomposition), partially rotted logs
   (already colonized by beneficial fungi), and well-decomposed material
-  (immediate nutrient availability) provides balanced nutrient release over
+  (immediate [[ph-and-nutrient-availability-garden-soils]]) provides balanced [[solomon-cool-climate-compost-soil-temperature-nutrient-release]] over
   time
 - **Seeding the bed with fungal inoculants**: Introducing [[fungal-biodegradation-chlorinated-aromatics-and-btex]]
   fungi or collected forest floor material can accelerate the decomposition
-  process and establish beneficial mycorrhizal networks
+  process and establish beneficial [[arbuscular-mycorrhizal-networks]]
 
 ## Seasonal and Climatic Adaptations
 
@@ -87,14 +87,4 @@ environments, exothermic decomposition provides frost protection, keeping soil
 temperatures 2–5°C warmer than surrounding ground. In drier climates, the
 moisture-retaining woody core becomes the primary advantage.
 Key adaptations include orienting beds to maximize seasonal sun exposure,
-varying bed height based on climate (taller beds in cold climates for greater
-microclimate effect, lower beds in arid zones for easier irrigation), and
-placing hugelbeds along contour lines on sloped land to slow runoff and
-reduce erosion. [[permaculture-plants-ground-covers-and-accumulators|ground cover plants]] can be established
-between beds to stabilize soil further.
-## See Also
-- [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
-- [[query-what-is-the-difference-between-regular-feminized-and-autoflower-seeds]]
-- [[vegetable-storage-conditions-by-temperature-and-humidity]]
-- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
-- [[query-how-to-store-cannabis-seeds-for-long-term-viability]]
+varying bed height based on climate (taller beds [[query-how-do-i-grow-figs-in-cold-climates]] for greater

@@ -1,5 +1,5 @@
 ---
-title: Buller Drops and the [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] Spore Catapult Mechanism
+title: Bloomfield Buller Drops And Surface Tension Spore Catapult Mechanism
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
@@ -88,54 +88,3 @@ velocity of approximately one meter per second. While modest compared to
 human-made projectiles (the Space Shuttle, for instance, reaches 7,800
 m/s), the *acceleration* is staggering. Scaled to human dimensions, the
 spore's launch would be equivalent to a person vaulting from a cliff
-edge and almost instantaneously reaching 400 miles per hour.
-
-The spore experiences forces on the order of thousands of g's during
-discharge — roughly ten times the acceleration sustained by a jumping
-flea, and enough to atomize a bungee jumper. The spore's trajectory
-carries it horizontally for a short distance (1–2 mm), sufficient to
-clear the gap between adjacent gills without impacting the opposing
-surface. After this brief ballistic phase, gravity assumes control and
-the spore turns downward, falling through the air space between the
-gills and emerging beneath the cap, where wind currents carry it away.
-
-The physics underlying this mechanism are explored in more detail in
-[[bloomfield-buller-spore-velocity-stokes-law-experiments|Buller's spore velocity and Stokes law experiments]].
-
-## Universality Across the Basidiomycota
-
-The surface tension catapult is found across the entire [[bloomfield-basidiomycete-biology-overview|Basidiomycota]]
-phylum — an estimated 30,000 or more described species. This makes it
-arguably the most successful spore launch system in biology. Every
-gilled mushroom, every bolete with pores, every tooth fungus with spines,
-and every bracket fungus on a tree trunk uses the same basic mechanism:
-a hilar appendix, a condensing droplet, and surface tension.
-
-The universality of the mechanism is underscored by its absence in the
-[[bloomfield-gasteromycetes-puffballs-earthstars|gasteromycete]] fungi. Puffballs, earthstars, bird's nest fungi,
-and stinkhorns have spores that are spherical or ellipsoidal and lack a
-hilar appendix entirely. This loss of the hump corresponds to the loss of
-the catapult mechanism, confirming that the hilar appendix is the
-anatomical key to ballistospore discharge. The gasteromycetes evolved
-alternative [[aquatic-fungi-spore-dispersal-ingold]] strategies — wind puffing, rain-splash, and
-insect attraction — after abandoning the surface tension catapult.
-
-## Ecological Significance
-
-The success of the surface tension catapult lies in its elegance and
-reliability. It requires no metabolic energy input beyond the maintenance
-of the humid gill environment. It is powered by ambient physics: water
-vapor condensation driven by the mushroom's own evaporative cooling.
-The mechanism is self-regulating — if conditions are too dry for
-condensation, drops do not form and spores are not discharged, which
-prevents wasteful release into air too arid for spore survival. If
-conditions are favorable, the process repeats millions of times across
-the hymenial surface, generating the visible spore clouds — the dusty
-plumes — that signal an active mushroom to any observer with the right
-lighting.
-
-This mechanism represents one of the most extraordinary examples of how
-fungi have outsourced mechanical work to physics, achieving ballistic
-launch at cellular scales without any musculature, without any metabolic
-engine, and with nothing more than a droplet of water and the
-inexorable pull of surface tension.

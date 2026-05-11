@@ -13,8 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stamets, P. (2006). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
-  - Stamets, P. & Chilton, J.S. (1983). The Mushroom Cultivator. Agarikon Press.
-  - Oei, P. (1991). Mushroom Cultivation with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
+  - Stamets, P. & Chilton, J.S. (1983). [[coprinus-atrementarius-entity-the-mushroom-cultivator]]. Agarikon Press.
+  - Oei, P. (1991). [[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for [[low-cost-mushroom-growing-house-construction-developing-countries]]. TOOL Publications.
   - https://www.firstnature.com/fungi/pleurotus-ostreatus.php
   - Zervakis, G. & Balis, C. (1992). "Problems in the taxonomy of Pleurotus species." Mycotaxon.
 ---
@@ -35,7 +35,7 @@ Pleurotus columbinus, commonly known as the **Blue Oyster mushroom**, is a strik
 - **Genus:** Pleurotus
 - **Species:** P. columbinus
 
-The taxonomic status of *P. columbinus* has been debated. Some mycologists treat it as a distinct species, while others consider it part of the *Pleurotus ostreatus* species complex, which contains multiple genetically distinct but morphologically similar lineages. Molecular phylogenetic studies using ITS rDNA sequencing support its recognition as a separate phylogenetic species.
+The taxonomic status of *P. columbinus* has been debated. Some mycologists treat it as a distinct species, while others consider it part of the *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* species complex, which contains multiple genetically distinct but morphologically similar lineages. Molecular phylogenetic studies using ITS rDNA sequencing support its recognition as a separate phylogenetic species.
 
 ## Description
 
@@ -64,7 +64,7 @@ Blue Oyster mushrooms are exceptionally versatile and will fruit on a wide range
 - **Straw** (wheat, oat, barley) — common and economical for small-scale growers
 - **Supplemented substrates** — sawdust with 10–20% bran (wheat, rice, or oat) dramatically increases yields
 - **Paper/cardboard waste** — viable for experimental or low-cost cultivation
-- **Agricultural byproducts** — cottonseed hulls, coffee grounds, sugarcane bagasse
+- **Agricultural byproducts** — cottonseed hulls, [[oyster-mushroom-coffee-grounds-cultivation]], sugarcane bagasse
 
 ### Cultivation Parameters
 | Parameter | Range |
@@ -81,60 +81,10 @@ Blue Oyster mushrooms are exceptionally versatile and will fruit on a wide range
 *P. columbinus* achieves biological efficiencies of 75–150% on [[oyster-mushroom-supplemented-sawdust-blocks]], and 50–100% on straw. Supplementation with wheat bran or soybean meal at 15–20% dry weight is standard practice for maximizing yields.
 
 ### Growth Characteristics
-Blue Oyster mycelium is aggressive and fast-colonizing, typically fully colonizing supplemented sawdust blocks in 10–14 days. The striking blue coloration of young fruiting bodies is most intense at lower temperatures (below 15°C) and diminishes as temperatures rise. Mature caps tend to fade to grey-brown.
+Blue Oyster mycelium is aggressive and fast-colonizing, typically fully colonizing [[stamets-supplemented-sawdust-substrate-preparation]] blocks in 10–14 days. The striking blue coloration of young fruiting bodies is most intense at lower temperatures (below 15°C) and diminishes as temperatures rise. Mature caps tend to fade to grey-brown.
 
 ## Nutritional Profile (per 100 g fresh weight)
 
 | Component | Value |
 |-----------|-------|
 | Calories | ~33 kcal |
-| Protein | 3.3 g |
-| Carbohydrates | 6.1 g |
-| Fat | 0.4 g |
-| Fiber | 2.3 g |
-| Potassium | 420 mg |
-| Niacin (B3) | 4.0 mg |
-| Riboflavin (B2) | 0.4 mg |
-| Ergothioneine | 2.5–5.0 mg |
-
-## Medicinal and Bioactive Properties
-
-- **β-Glucans:** High levels of (1→3),(1→6)-β-D-glucans with demonstrated immunomodulatory activity, activating macrophages and natural killer cells.
-- **Lovastatin:** Naturally occurring statin compounds that may help lower LDL cholesterol — documented in multiple *Pleurotus* species.
-- **Antioxidant activity:** Phenolic compounds and ergothioneine provide significant free radical scavenging capacity.
-- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]:** Crude extracts show activity against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
-- **Anti-inflammatory:** Methanolic extracts demonstrate COX-2 inhibition in vitro.
-
-## Pest and Contamination Management
-
-Blue Oyster mycelium is relatively contamination-resistant but is susceptible to:
-- **Trichoderma** (green mold) — the most common competitor, especially at high temperatures
-- **Sciarid flies** (fungus gnats) — larvae damage mycelium and introduce bacterial contamination
-- **Mites** — can vector mold spores between substrates
-- **Bacterial blotch** (*Pseudomonas tolaasii*) — causes brown spotting on caps in high-humidity, poor-ventilation environments
-
-## Culinary Uses
-
-Blue Oyster mushrooms have a firm, meaty texture and a rich, savory flavor with subtle umami and mild anise notes. They are excellent:
-- Sautéed in butter or olive oil with garlic and thyme
-- Grilled or roasted whole as a side dish
-- Added to risottos, pastas, and cream-based soups
-- Breaded and fried as a chicken substitute
-- Dehydrated and ground into mushroom powder for seasoning
-
-The stems can be tough in larger specimens and are best chopped finely or used for stock. Young specimens with blue coloration are the most tender and visually appealing.
-
-## Permaculture Applications
-
-In permaculture systems, *P. columbinus* serves multiple functions:
-- **Waste cycling:** Converts hardwood slash, sawmill waste, and agricultural residues into high-value food
-- **Food production:** High-yielding protein source in temperate food forests
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** [[fungal-mycelial-networks-nutrient-translocation]] help cycle nutrients to nearby plants
-- **Mulch decomposition:** Can be inoculated into wood chip mulch paths to accelerate decomposition
-- **Education:** Blue coloration makes it an engaging entry point for mushroom cultivation workshops
-
-## Related Species
-
-- [[pleurotus-eryngii]] — king oyster, with a much thicker stem
-- [[bacillus-subtilis]]
-- [[companion-planting]]

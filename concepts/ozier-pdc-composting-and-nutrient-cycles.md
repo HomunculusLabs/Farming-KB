@@ -1,5 +1,5 @@
 ---
-title: [[ozier-pdc-composting-and-soil-building]] [[teaming-with-nutrients-composting-and-nutrient-cycling]] cycles Cycles
+title: Ozier Pdc Composting And Nutrient Cycles
 created: 2026-04-28
 tags: [permaculture, composting, nutrient-cycle, soil-building, decomposition, compost-tea, aeration, organic-waste, landfill-diversion, upcycling, fossil-fuel-dependency, excavant, stacking-functions]
 date: 2026-04-25

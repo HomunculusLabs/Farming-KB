@@ -88,33 +88,3 @@ deficiencies are particularly common in sativa strains, especially Diesel lineag
 
 The Rev recommends keeping pH strictly between 6.0 and 6.8 for soil grows and
 5.5 to 6.2 for hydroponic systems to ensure nutrient availability. Organic
-cultivation methods provide a natural buffer against pH swings and reduce the
-risk of lockout. When deficiencies appear, correcting pH first often resolves
-the issue without the need for additional nutrient supplementation.
-
-## Lighting Optimization
-
-Sativa strains generally require higher light intensity than indicas to develop
-dense, resinous buds. A minimum of 50 watts per square foot during flowering
-is recommended, with some high-performance sativas benefiting from even higher
-intensity. Light spectrum also matters: sativas respond well to full-spectrum
-lighting that mimics the intense tropical sun these strains evolved under.
-
-Light height management is critical since sativas stretch significantly after
-the flip to flowering. Starting flowering lights higher and gradually lowering
-them as the stretch subsides prevents burning the elongating colas. Some
-experienced growers use vertical lighting setups or light movers to ensure
-even coverage across the tall canopy that sativa plants naturally develop.
-
-## The Sativa Renaissance
-
-With legal systems shifting away from prohibition, [[cervantes-medical-marijuana-pharmacology]] meant that growers who had to hide away in closets and tiny grow spaces were now able to come out into the open and branch out beyond the 4-foot indicas and auto-flowers they had come to rely on. Many medical marijuana users realized they had been numbing themselves with indicas when they really needed something to give them a kick of energy and inspiration. People finally turned back to sativas—and when the world came knocking, sativas were ready.
-
-## Source
-
-- S.T. Oner, The Rev (2014). *Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains*. Green Candy Press. ISBN 978-1-937866-05-1.
-
-## See Also
-- [[cannabis-auto-flowering-ruderalis-sativa-indoor]]
-- [[cannabis-sativa-indoor-training-techniques]]
-- [[cannabis-sativa-indoor-challenges]]

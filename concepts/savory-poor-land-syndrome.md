@@ -1,7 +1,7 @@
 ---
 title: "Poor Land Syndrome"
 created: 2026-04-28
-tags: [desertification], foreign-aid, poverty, land-deterioration, policy]
+tags: [[desertification]], foreign-aid, poverty, land-deterioration, policy]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [savory-holistic-resource-management.md]
@@ -11,7 +11,7 @@ type: concept
 # Poor Land Syndrome
 
 Poor Land Syndrome is Savory's term for the self-reinforcing cycle that begins
-with land deterioration and leads through population pressure, social collapse,
+with [[savory-erosion-and-land-deterioration]] and leads through population pressure, social collapse,
 military conflict, and deepening poverty. He illustrates this cycle through the
 parable of nations Alpha and Beta, showing how well-intentioned foreign aid,
 based on reductionist thinking and narrow disciplinary expertise, accelerates
@@ -79,7 +79,7 @@ depended.
 
 ### The American Parallel
 
-The case of the United States disproves the common argument that population
+The case of the [[dmt-maoi-plants-united-states]] disproves the common argument that population
 growth accounts for resource decline. America's technology sets the pace for
 the world, yet millions of acres where population has always been lowest and
 is declining are desertifying at rates comparable to Africa. The syndrome is
@@ -88,51 +88,3 @@ not primarily about population but about the failure to manage holistically.
 ## Practical Applications
 
 Breaking Poor Land Syndrome requires addressing land health as the foundation
-of all other goals. Before investing in irrigation, technology, or economic
-development, managers must ensure the four [[savory-ecosystem-foundation-blocks]] blocks, water
-cycle, [[savory-mineral-cycle-management]], [[savory-energy-flow-and-solar-capture]], and community dynamics, are functioning
-effectively across the entire watershed.
-
-### Government Structures as a Barrier
-
-Most government structures divide every aspect of life into portfolios, and
-nowhere can the whole be discussed as one. If a manager tries to discuss a
-broad field under any one minister's portfolio, they are out of order. If they
-try to discuss it under the prime minister's portfolio, they are again out of
-order. When one cannot even debate the whole and the interconnectedness of all
-that governments do, the problems created by compartmentalized thinking and
-actions cannot be solved.
-
-### The Compounding Interest Trap
-
-A particularly insidious aspect of the syndrome is the role of debt. Beta must
-borrow money with compound interest to pay for assistance that is increasingly
-material rather than educational. Arms used to suppress people produce nothing
-with which to repay loans. Alpha's banks lend the money with the sting of
-compound interest in the tail of the scorpion. Resources go up in smoke as the
-country is rendered poorer and more vulnerable.
-
-### Lessons for Individual Managers
-
-The syndrome applies at the ranch and farm level as well. A rancher who
-focuses narrowly on livestock production while ignoring watershed health falls
-into the same trap. Investing in better genetics or more machinery while the
-land deteriorating under the animals represents a classic misallocation. The
-weak link in the chain from sunlight to solar dollar must be addressed before
-any other investment, or the syndrome will continue its downward spiral until
-the operation becomes economically unsustainable.
-
-### Breaking the Cycle
-
-Breaking Poor Land Syndrome requires the holistic perspective the HRM model
-provides. Managers must define the whole they manage, set a [[savory-holistic-goal-definition]]
-encompassing quality of life, production, and landscape, and then plan,
-monitor, and replan their actions to ensure they are moving toward all three
-simultaneously. Only by addressing the interconnected nature of land, people,
-and economics can the syndrome be reversed.
-
-## Related Concepts
-
-- [[savory-erosion-and-land-deterioration]]
-- [[savory-reductionist-vs-holistic-science]]
-- [[savory-land-monitoring]]

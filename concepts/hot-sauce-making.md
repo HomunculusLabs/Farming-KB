@@ -9,9 +9,9 @@ sources: []
 
 ## What Is Hot Sauce
 
-Hot sauce is a condiment made primarily from chili peppers, vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and fermentation methods. (see [[comparison-fermented-vegetables-vs-canning]]).
+Hot sauce is a condiment made primarily from [[query-how-to-grow-chili-peppers-from-seed-to-harvest]], vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and fermentation methods.
 
-There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented (lactic acid bacteria develop complex flavors over time). (see [[fermented-hot-sauce-guide]]).
+There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented ([[bionutrients-lab-lactic-acid-bacteria-serum]] develop complex flavors over time).
 
 ## Pepper Selection
 
@@ -71,7 +71,7 @@ Fermented hot sauce develops deeper, more complex flavors than vinegar-based sau
 For a fast, no-ferment sauce:
 
 1. Stem and roughly chop peppers
-2. Combine peppers with vinegar (white, apple cider, or rice vinegar) in a saucepan
+2. Combine peppers with vinegar (white, apple cider, or [[brown-rice-vinegar-brv]]) in a saucepan
 3. Add garlic, onion, salt, and any desired spices
 4. Simmer for 10-15 minutes until peppers are soft
 5. Blend until smooth (or leave chunky for a rustic sauce)
@@ -94,7 +94,7 @@ After fermentation (or as part of the quick method), cooking develops the final 
 1. Transfer fermented peppers and brine (or fresh pepper mixture) to a saucepan
 2. Add vinegar if not already included — 1/4 to 1/2 cup per 10 peppers
 3. Simmer for 10-15 minutes
-4. Add optional ingredients: honey, maple syrup, garlic powder, onion powder, cumin, smoked paprika, citrus zest
+4. Add optional ingredients: honey, [[maple-syrup-production]], garlic powder, onion powder, cumin, smoked paprika, citrus zest
 5. Blend thoroughly — an immersion blender or stand blender works
 6. For a smooth sauce: strain through a fine mesh sieve, pressing solids through
 7. For a textured sauce: blend to desired consistency without straining
@@ -112,7 +112,7 @@ After fermentation (or as part of the quick method), cooking develops the final 
 ### Preservation Methods
 
 - Refrigeration: keeps for 3-6 months
-- Water bath canning: process 5 oz bottles for 10 minutes in a boiling water bath — shelf-stable for 1+ year
+- [[comparison-pressure-canning-vs-water-bath-canning]]: process 5 oz bottles for 10 minutes in a boiling water bath — shelf-stable for 1+ year
 - Add vinegar to at least 4-5% acidity if canning for safety
 - Adding 1-2 tablespoons of vinegar per 5 oz bottle aids preservation
 
@@ -147,4 +147,3 @@ After fermentation (or as part of the quick method), cooking develops the final 
 
 - Habaneros, fresh pineapple, lime juice, honey, garlic, white vinegar
 - Tropical, sweet heat
-

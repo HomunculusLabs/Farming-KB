@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-School-based surveys provide crucial data on hallucinogenic mushroom use among
+School-based surveys provide crucial data on [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] among
 adolescents across Europe. The ESPAD (European School Survey Project on
 Alcohol and Other Drugs) 2003 survey covered 22 EU Member States, Norway,
 and four EU candidate countries (Croatia, Bulgaria, Turkey, and Romania),
@@ -61,7 +61,7 @@ Italy, Lithuania, Malta, Slovakia, Slovenia, Sweden, United Kingdom) together
 with Norway and Croatia demonstrated a clear pattern:
 
 - School students aged 15 to 16 were much more likely to have used
-  hallucinogenic mushrooms if they had also used LSD or other hallucinogens,
+  [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] if they had also used LSD or other hallucinogens,
   ecstasy, amphetamines, or cocaine.
 - The association with cannabis or legal substances (alcohol, cigarettes)
   was much weaker.
@@ -71,7 +71,7 @@ with Norway and Croatia demonstrated a clear pattern:
 
 The average lifetime prevalence of hallucinogenic mushroom use by user group
 (from 13 countries) showed that among LSD users, approximately 40 to 50% had
-also used hallucinogenic mushrooms, while among cannabis-only users, rates
+also used [[emcdda-herbal-highs-branding-smartshop-marketing-hallucinogenic-mushrooms]], while among cannabis-only users, rates
 were substantially lower.
 
 ## Perceived Availability
@@ -88,51 +88,3 @@ hallucinogenic mushrooms among 15 to 16 year old students:
 - Levels of perceived availability generally mirrored prevalence estimates,
   though at higher levels.
 - In the Netherlands, despite the lack of legal sanctions on supply, only
-  16% of school students reported easy access to hallucinogenic mushrooms.
-
-## General Population Survey Data (15 to 24 Year Olds)
-
-Complementary data from national general population surveys in 12 EU Member
-States provided prevalence estimates for young people aged 15 to 24:
-
-- Lifetime use ranged from less than 1% to 8%.
-- The Netherlands, Czech Republic, UK, Germany, and Ireland had the highest
-  prevalence estimates.
-- The lowest were reported in Lithuania, Hungary, and France.
-- A more recent French survey (2003) of 17 to 18 year olds reported 4.3%
-  lifetime prevalence, 2.9% last year prevalence, and 1% last month
-  prevalence (Beck, Legleye, Spilka, 2004).
-
-## Comparison with Cannabis
-
-Prevalence of hallucinogenic mushroom use was consistently much lower than
-for cannabis across all survey types and countries:
-
-- Lifetime cannabis prevalence in 11 EU Member States for persons aged 18 to
-  36 ranged from 15% (Poland) to 45% (Denmark).
-- The proportion of current users (last month) among those who had ever used
-  was lower for hallucinogenic mushrooms than for cannabis and ecstasy.
-- The effects of hallucinogenic mushrooms were reported to limit the appeal
-  of regular use (CAM, 2000), contributing to lower continuation rates.
-
-## Limitations of School Survey Data
-
-Several limitations affect the interpretation of school survey data on
-hallucinogenic mushrooms:
-
-- Historically, surveys collected data on general hallucinogen categories
-  rather than mushroom-specific questions, limiting [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]].
-- Different countries may have used different question formulations or
-  survey methodologies.
-- School surveys exclude young people not enrolled in school, who may have
-  different drug use patterns.
-- Social desirability bias may lead to underreporting of illicit substance
-  use.
-- The infrequency of mushroom use (often experimental) may lead to recall
-  bias in lifetime prevalence measures.
-
-## See Also
-
-- [[hallucinogenic-mushroom-prevalence-europe]]
-- [[emcdda-hallucinogenic-mushroom-markets-availability]]
-- [[emcdda-hallucinogenic-mushroom-health-risks]]

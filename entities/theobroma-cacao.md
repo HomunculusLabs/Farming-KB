@@ -9,12 +9,12 @@ tags:
   - malvaceae
   - tropical-fruit
   - evergreen-tree
-  - theobromine
+  - [[theobromine]]
   - flavonoids
   - understorey-tree
   - mesoamerican-crop
-  - food-forest
-  - permaculture
+  - [[food-forest]]
+  - [[permaculture]]
   - ethnobotany
 date: 2026-04-28
 updated: 2026-04-28
@@ -60,7 +60,7 @@ Pods mature in 4–6 months.
 ## Distribution and Habitat
 
 Native to the upper Amazon basin centered on Ecuador, Colombia, and Peru, with
-the greatest genetic diversity in the Napo River region. Now cultivated across
+the greatest [[biodiversity-fungal-genetic-diversity]] in the Napo River region. Now cultivated across
 the humid tropics between 20°N and 20°S.
 
 Major production regions: West Africa (Côte d'Ivoire, Ghana), [[psilocybe-southeast-asia-pacific]]
@@ -76,7 +76,7 @@ Cocoa is exceptionally rich in **flavan-3-ols** (6–8% in raw beans), especiall
 consumption with improved cardiovascular markers: reduced blood pressure and
 improved endothelial function.
 
-Other compounds include anandamide, phenylethylamine, and tryptophan, though
+Other compounds include [[anandamide]], phenylethylamine, and [[tryptophan]], though
 concentrations are too low for significant pharmacological effect through
 normal dietary intake.
 
@@ -88,19 +88,3 @@ of all chocolate products. Per 100 g, dark chocolate (70–85%) provides ~598 kc
 copper (1.8 mg).
 
 Traditionally consumed in Mesoamerica as a bitter frothy beverage with chili
-and vanilla. Modern uses span fine confectionery to Mexican mole sauces. Cocoa
-butter is widely used in cosmetics and pharmaceuticals as an emollient.
-
-## Ecological Role and Permaculture Applications
-
-Cacao is a classic understorey tree in tropical agroforestry, interplanted with
-shade trees (*Inga* spp., *[[dimocarpus-longan]]
-
-- [[vanilla-planifolia]]* — classic cacao companion crop
-- *[[stropharia-rugosoannulata]] — temperate [[food-forest]] mushroom
-- *musa-acuminata* — banana, standard cacao intercrop
-- theobromine — primary xanthine alkaloid in cacao
-
-## See Also
-
-- [[theobroma-grandiflorum]]

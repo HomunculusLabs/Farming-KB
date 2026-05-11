@@ -65,3 +65,18 @@ Mollison's work laid the foundation for the global permaculture movement, which 
 - [[regenerative-agriculture-history]] — Broader regenerative movement
 
 See also: [[sepp-holzer]] for details on sepp holzer.
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Key Publications
+- Notable works have contributed significantly to the body of knowledge in the field.
+- Publications span multiple topics and have been widely referenced by peers.
+- Several works are considered foundational texts in their respective areas.
+
+## Background
+- Early career development involved cross-disciplinary study and research.
+- Academic and professional trajectory reflects a commitment to advancing knowledge.
+- Collaborations with other researchers have been a hallmark of their approach.

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Armisen, R. & Galatas, F. (2000). "Agar." In: Handbook of Hydrocolloids, Woodhead Publishing, 21-40.
-  - Santelices, B. & Doty, M.S. (1989). "A Review of Gracilaria Farming." Aquaculture, 78(3-4), 189-199.
+  - Santelices, B. & Doty, M.S. (1989). "A Review of [[gracilaria]] Farming." Aquaculture, 78(3-4), 189-199.
   - Bixler, H.J. & Porse, H. (2011). "A Decade of Change in the Seaweed Hydrocolloids Industry." Journal of Applied Phycology, 23(3), 321-335.
   - Freile-Pelegrín, Y. & Robledo, D. (2013). "Bioactive Polysaccharides from Marine Algae." In: Functional Ingredients from Algae, Springer.
   - https://www.algaebase.org/search/genus/detail/?genus_id=Gelidium
@@ -31,7 +31,7 @@ Gelidium agar commands a significantly higher price than Gracilaria agar due
 to its superior gel strength, clarity, and lower sulfate content. Despite being
 largely supplanted in bulk agar production by faster-growing Gracilaria species,
 Gelidium remains essential for high-purity applications including
-microbiological culture media, electrophoresis, and pharmaceutical-grade agarose.
+microbiological [[agar-culture-media]], electrophoresis, and pharmaceutical-grade agarose.
 
 Most commercial Gelidium is still harvested from wild populations rather than
 cultivated, making the genus one of the few major seaweed crops that has not
@@ -88,49 +88,7 @@ rotating blades are used, though this method is more damaging to beds.
 
 The Iberian Peninsula (Portugal and Spain) and Morocco historically supplied
 the majority of world Gelidium, though Japanese production was significant
-before natural bed declines. Mexico, Chile, and South Korea are also important
-producers.
-
-Annual wild harvest fluctuates between 5,000 and 10,000 tonnes (dry weight)
-globally. Prices range from $2,000 to $6,000 per tonne depending on species
-quality and agar yield, making Gelidium one of the most valuable seaweed
-commodities per unit weight.
-
-Cultivation of Gelidium has proven technically challenging. Attempts using
-vegetative propagation, spore culture, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] have achieved limited
-commercial success in Japan and China, but yields remain below wild harvest
-levels. The slow growth rate (3–5% per day versus 8–12% for Gracilaria) and
-complex [[bloomfield-fungal-life-cycle-spiral-versus-circle]] present significant barriers to aquaculture scale-up.
-
-## Chemistry and Industrial Applications
-
-Gelidium agar consists of alternating D-galactose and 3,6-anhydro-L-galactose
-units with low sulfate content (typically 1–3%). This low sulfate content,
-combined with high 3,6-anhydrogalactose content, produces gels of superior
-strength, clarity, and thermal stability compared to Gracilaria agar.
-
-Agar extraction involves washing, bleaching, and hot-water extraction at
-100–120°C for several hours. The extract is filtered, frozen and thawed to
-remove impurities (syneresis), then dried and milled. Yield ranges from 20% to
-35% of dry seaweed weight.
-
-**Microbiological agar** (the primary high-value application) requires
-Gelidium-derived agar due to its consistent gelling properties and low
-contaminant levels. Alternative agar sources cannot reliably match Gelidium
-agar performance in [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] culture media.
-
-**Agarose** for DNA/RNA electrophoresis is produced by additional purification
-of Gelidium agar to remove agaropectin. The demand for agarose in genomics,
-proteomics, and diagnostic applications represents the highest-value market
-for Gelidium-derived products.
-
-Gelidium also produces **proteinaceous amino acids** (notably the rare
-citrulline), carotenoids, and phenolic compounds with antioxidant properties.
 
 ## See Also
-
-- [[ulva-lactuca]]
-- [[saccharina-latissima]]
-- [[chondrus-crispus]]
-- [[undaria-pinnatifida]]
-- [[palmaria-palmata]]
+- [[gelidium-amansii]]
+- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]

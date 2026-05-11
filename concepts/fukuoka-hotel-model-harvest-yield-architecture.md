@@ -1,7 +1,7 @@
 # Fukuoka's Hotel Model of Harvest Yields
 
 ## Source
-*Masanobu Fukuoka — The Natural Way of Farming (1985)*
+*[[masanobu-fukuoka]] — The Natural Way of Farming (1985)*
 
 ## Summary
 Fukuoka proposed an extended architectural analogy to explain why [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]'s
@@ -9,7 +9,7 @@ attempts to boost crop yields through isolated factor improvements are fundament
 misguided. In his "hotel model," the maximum possible yield is represented by a building
 whose size and foundation are determined by the natural environment. Individual cultivation
 factors (variety, fertilizer, irrigation, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]) correspond to rooms and floors of
-the hotel. Scientific farming's approach of optimizing individual rooms is likened to
+the hotel. [[fukuoka-illusions-of-scientific-farming]]'s approach of optimizing individual rooms is likened to
 renovating one floor while ignoring the structural capacity of the whole building.
 
 ## The Building Analogy
@@ -54,9 +54,9 @@ floor do not always exert a negative influence on the second and third floors.
 
 ## Liebig's Law of Minimum Critique
 
-Fukuoka used the hotel model to critique Justus von Liebig's law of the minimum, which
+Fukuoka used the hotel model to critique Justus [[von-liebig-law-of-the-minimum-and-fertilizer-history]]'s law of the minimum, which
 states that yield is dominated by the element present in shortest supply. Such reasoning
-implies that correcting a deficiency in fertilizer or pest control will raise yields. Yet
+implies that correcting a deficiency in fertilizer or [[hamilton-beneficial-insects-and-biological-pest-control]] will raise yields. Yet
 half-baked improvements of this sort are no more effective than renovating just one room
 of the hotel.
 
@@ -87,45 +87,3 @@ whether the lights in the guest rooms are on or off, careful attention to tiny,
 insignificant details will never get the farmer off to a good start.
 
 ## Expansion and Instability
-
-As the scientist makes additions and repairs and the building gets higher and higher, it
-becomes increasingly unstable and imperfect. His observations, experiences, and ideas
-being entirely derived from nature, man can never build a house that extends beyond the
-bounds of nature. But heedless of this, he has broken away from the natural arrangement
-of [[duggar-mushroom-environmental-factors-temperature-moisture-light]] and begun building an addition — artificially cultivated crops.
-
-This artificial, chemically produced food presents a dreadful danger to man. More than
-just a question of wasted effort and meaningless toil, it is the root of a calamity
-that threatens the very foundations of human existence. Agriculture continues to move
-rapidly toward purely chemical and industrial production — an addition built by man
-which projects out from the cliff on which nature stands.
-
-## Relation to Natural Farming Philosophy
-
-The hotel model encapsulates Fukuoka's broader argument against [[fukuoka-critique-scientific-agriculture-civilization]].
-Scientific farming breaks nature down and analyzes it, but cannot reassemble the parts
-into the same whole. What appears to be nature reconstructed is just an imperfect
-imitation that can never produce higher yields than natural farming. The model supports
-Fukuoka's five principles: no tillage, no fertilizer, no pesticides, no weeding, and
-no pruning — because each represents an attempt to remodel individual rooms rather than
-work with the building as nature designed it.
-
-## The Side View and Course Diagram
-
-Fukuoka extended the building analogy with a side view diagram showing different pathways
-for climbing from floor to floor while meeting the requirements for each factor of
-production. For example, since Course I begins under poor weather and land conditions, the
-yield is poor regardless of special efforts invested in cultivation and pest control.
-Weather and land conditions in Course II are good, so the yield is high even though the
-method of cultivation and overall management leave something to be desired.
-
-One cannot predict, however, which pathway will give the highest yield as there are an
-infinite number of these, and infinite variations in the factors and conditions for each.
-While no doubt of use to the theorist for expounding the principles of crop cultivation,
-this diagram has no practical value — because the system is too complex for any
-reductionist approach to master.
-
-## See Also
-- [[fukuoka-textdoc-hotel-building-model-harvest-yields]]
-- [[fukuoka-hotel-analogy-crop-yield-model]]
-- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]

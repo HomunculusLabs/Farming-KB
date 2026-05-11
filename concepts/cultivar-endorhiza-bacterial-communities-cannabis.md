@@ -33,7 +33,7 @@ crop plants, as has been demonstrated for wines.
 - **Burmese:** Balanced hybrid (sativa x indica), moderate THC:CBD ratio
 
 ### Experiment 2 Cultivars
-- **[[proteobacteria-dominance-cannabis-endorhiza]] samples
+- **[[Proteobacteria]] samples
 maintained a core bacterial community consisting of:
 
 - **Pseudomonas** -- well-known endophytic genus within Gammaproteobacteria

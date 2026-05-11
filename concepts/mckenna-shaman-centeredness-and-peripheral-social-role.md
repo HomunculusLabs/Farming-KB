@@ -1,5 +1,5 @@
 ---
-title: "mckenna Shamanic Centeredness and mckenna shaman centeredness and peripheral social role Role"
+title: Mckenna Shaman Centeredness And Peripheral Social Role
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -19,7 +19,7 @@ deliberately peripheral position within the social order.
 McKenna opens his discussion with a striking claim: "The tragedy of our
 cultural situation is that we have no shamanic tradition." He is careful
 to define shamanism as "primarily techniques, not ritual" — a set of
-practical methods for exploring non-ordinary states of consciousness that
+practical methods for exploring non-ordinary [[mckenna-food-gods-designer-states-of-consciousness]] that
 have been refined over millennia. These techniques make it possible, "though
 perhaps not for everyone, to explore these areas." In societies where
 shamanism thrives, "people of predilection are noticed and encouraged."
@@ -88,46 +88,3 @@ life:
   they are sacred."
 - They "sit at the headman's side in the council meetings, but after the
   council meeting he returns to his hut at the edge of the village."
-- They are "peripheral to society's goings on in ordinary social life in
-  every sense of the word."
-
-This marginality is functional, not accidental. By remaining outside the
-power structures of ordinary society, the shaman maintains the distance
-and objectivity needed to serve as a healer, diagnostician, and bridge
-between the human community and the larger reality of spirits, plants,
-and ecological forces.
-
-## The Range of Shamanic Services
-
-Shamans are called upon in a wide range of crises:
-
-- Someone dying or seriously ill
-- Psychological difficulties
-- Marital quarrels
-- Theft and disputes
-- Weather prediction
-- Any situation requiring access to hidden knowledge
-
-"What can you show me?" is McKenna's constant question when evaluating
-shamanic claims. In the Amazon, this question was finally answered when
-informants said, "Let's take our machetes and hike out here half a mile
-and get some vine and boil it up and we will show you what we can show
-you." The proof of the shaman is in the direct experience they can
-facilitate, not in theoretical claims about the nature of reality.
-
-## Shamanic Family Lines
-
-McKenna speculates that "there are shamanic family lines, at least in the
-case of hallucinogen-using shamans." If shamanic ability is partly
-determined by receptor site density in the brain, then genetic factors
-could play a role. Some individuals claim to have these experiences
-naturally, "but I am underwhelmed by the evidence that this is so."
-
-## See Also
-
-- [[mckenna-shaman-as-phenomenologist-and-crisis-responder]]
-
-- [[dmt-black-hole-effect-and-shamanic-practice]]
-- [[mckenna-amazon-shamanism-and-ayahuasca]]
-
-- [[mckenna-shamanic-identification-training-and-peripheral-social-role]]

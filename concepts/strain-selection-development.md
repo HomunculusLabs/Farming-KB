@@ -1,10 +1,11 @@
 ---
-title: Strain Selection and Development
+title: Strain Selection Development
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-tissue-culture-spore-germination|mushroom-cultivator-stamets.md"
 ---
 
@@ -14,7 +15,7 @@ Strain selection and development is the process by which [[agar-culture-techniqu
 
 ## Strain Degeneration
 
-When [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison|mycelium]] grows old it is said to be senescing. A change from rhizomorphic to cottony mycelium should be treated as a warning that strain degeneration has begun. Senescent mycelium is far less vigorous and fertile than its younger counterpart.
+When [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] grows old it is said to be senescing. A change from rhizomorphic to cottony mycelium should be treated as a warning that strain degeneration has begun. Senescent mycelium is far less vigorous and fertile than its younger counterpart.
 
 ## Prevention Measures
 
@@ -36,7 +37,7 @@ Home cultivators can selectively develop mushroom strains by rating mycelia acco
 1. Rhizomorphism (fast-growing vegetative mycelium)
 2. Purity of strain (lack of cottony sectors)
 3. Cleanliness (lack of bacteria, molds, mites)
-4. Response time to primordia formation conditions
+4. Response time to [[growing-gourmet-primordia-formation-pinning]] conditions
 5. Number of primordia formed
 6. Proportion of primordia that mature
 7. Size, shape, and/or color of fruitbodies
@@ -60,7 +61,7 @@ For long-term preservation, a thin layer of sterile mineral oil over live myceli
 
 ## Genetic Basis of Sectoring
 
-Sectoring on agar plates reflects genetic heterogeneity within the mycelial population. When spores germinate, they produce monokaryons (single-nucleus hyphae) that must find compatible mates to form dikaryons, the fertile state of most basidiomycete fungi. This mating process generates enormous genetic diversity, and a single spore print can contain thousands of genetically distinct dikaryotic combinations. When this diverse population grows out on agar, different genotypes express different growth morphologies, visible as sectors. Selecting a single sector is effectively selecting a specific genotype from a diverse population, which is why sector selection is such a powerful tool for strain improvement.
+Sectoring on agar plates reflects genetic heterogeneity within the mycelial population. When spores germinate, they produce monokaryons (single-nucleus hyphae) that must find compatible mates to form dikaryons, the fertile state of most basidiomycete fungi. This mating process generates enormous [[biodiversity-fungal-genetic-diversity]], and a single spore print can contain thousands of genetically distinct dikaryotic combinations. When this diverse population grows out on agar, different genotypes express different growth morphologies, visible as sectors. Selecting a single sector is effectively selecting a specific genotype from a diverse population, which is why sector selection is such a powerful tool for strain improvement.
 
 ## Isolation Techniques
 
@@ -68,7 +69,7 @@ The process of isolating a strain begins with obtaining a clean culture from a w
 
 ## Environmental Factors Affecting Morphology
 
-Beyond media composition and pH, several environmental factors influence mycelial morphology and sectoring patterns. Temperature variation can induce sectoring in some species, with certain genotypes preferring warmer or cooler incubation temperatures. Light exposure affects morphology in photosensitive species, where continuous light may promote rhizomorphic growth while darkness encourages cottony forms. Atmospheric gas composition, particularly elevated CO2 levels commonly found in sealed culture vessels, can suppress rhizomorphism and promote cottony growth. These environmental variables mean that strain evaluation should be conducted under standardized conditions to ensure fair comparison between candidates.
+Beyond media composition and pH, several environmental factors influence [[growing-gourmet-mycelial-morphology-classification-agar-media]] and sectoring patterns. Temperature variation can induce sectoring in some species, with certain genotypes preferring warmer or cooler incubation temperatures. Light exposure affects morphology in photosensitive species, where continuous light may promote rhizomorphic growth while darkness encourages cottony forms. Atmospheric gas composition, particularly elevated CO2 levels commonly found in sealed culture vessels, can suppress rhizomorphism and promote cottony growth. These environmental variables mean that strain evaluation should be conducted under standardized conditions to ensure fair comparison between candidates.
 
 ## Strain Storage Best Practices
 
@@ -80,25 +81,10 @@ Creating hybrid strains through deliberate mating of compatible monokaryons is a
 
 ## Dikaryon and Monokaryon Biology
 
-Understanding the dikaryon-monokaryon life cycle is fundamental to strain selection. Basidiomycete fungi exist in two nuclear states: the monokaryon (with a single nucleus per cell) and the dikaryon (with two genetically distinct nuclei per cell). Only dikaryotic mycelium is capable of forming fruiting bodies. When basidiospores germinate, they produce monokaryotic hyphae that must encounter a compatible monokaryon of a different mating type to form a dikaryon through plasmogamy. This mating system, governed by incompatibility factors, ensures genetic outcrossing in nature. The mushroom cultivator exploits this system by selecting dikaryons that combine desirable traits from different monokaryotic parents, or by isolating dikaryotic tissue from superior fruitbodies to preserve proven genetics.
+Understanding the dikaryon-monokaryon life cycle is fundamental to strain selection. Basidiomycete fungi exist in two nuclear states: the monokaryon (with a single nucleus per cell) and the dikaryon (with two genetically distinct nuclei per cell). Only dikaryotic mycelium is capable of forming fruiting bodies. When basidiospores germinate, they produce monokaryotic hyphae that must encounter a compatible monokaryon of a different mating type to form a dikaryon through plasmogamy. This mating system, governed by incompatibility factors, ensures genetic outcrossing in nature. [[coprinus-atrementarius-entity-the-mushroom-cultivator]] exploits this system by selecting dikaryons that combine desirable traits from different monokaryotic parents, or by isolating dikaryotic tissue from superior fruitbodies to preserve proven genetics.
 
 ## Common Mistakes in Strain Selection
 
-Several common mistakes undermine strain selection efforts. The most frequent is failing to maintain proper sterile technique during transfers, leading to contamination that masks the true characteristics of the strain. Another common error is selecting strains based solely on mycelial appearance on agar without confirming fruiting performance, since agar morphology does not always predict fruiting quality. Cultivators sometimes maintain too many strains simultaneously, spreading attention and resources too thin to properly evaluate any single candidate. Additionally, failing to document the selection criteria and results for each strain means that valuable information is lost when the cultivator needs to make future decisions about which lines to maintain and which to discard.
+Several common mistakes undermine strain selection efforts. The most frequent is failing to maintain proper sterile technique during transfers, leading to contamination that masks the true characteristics of the strain. Another common error is selecting strains based solely on mycelial appearance on agar without confirming fruiting performance, since agar morphology does not always predict fruiting quality. Cultivators sometimes maintain too many strains simultaneously, spreading attention and resources too thin to properly evaluate any single candidate. Additionally, failing to document the [[cannabis-breeding-traits-selection-criteria-clarke]] and results for each strain means that valuable information is lost when the cultivator needs to make future decisions about which lines to maintain and which to discard.
 
 ## Maintaining Strain Vigor
-
-Even after selecting a superior strain, maintaining its vigor over successive generations requires attention to several factors. Repeated subculturing on the same medium can lead to senescence, where the mycelium gradually loses its vigor and fruiting capacity. This degeneration occurs because repeated cell division without sexual recombination accumulates mutations and depletes cellular energy reserves. Techniques for maintaining vigor include periodic fruiting and re-isolation from fresh tissue, returning to spore germination and re-selection periodically, and maintaining a diverse collection of strains rather than relying on a single genetic line. Commercial spawn laboratories typically maintain master culture collections on slants stored under refrigeration, with limited subculturing from each master to minimize generational distance from the original isolation.
-
-## Documentation and Record-Keeping
-
-Thorough documentation is essential for effective strain selection. Records should include the source of each strain (spore print, wild collection, commercial culture), the date of isolation, the medium used, growth characteristics at each subculture, fruiting performance including yield, cap size, stem thickness, and total biological efficiency, environmental conditions during fruiting, and any notable characteristics of the fruitbodies. Without this documentation, the cultivator cannot meaningfully compare strains or track changes in strain performance over time. Stamets recommends a standardized record-keeping format that allows easy comparison between strains and facilitates identification of the most promising candidates for further development.
-
-## Tissue Culture and Strain Preservation
-
-Long-term strain preservation requires techniques beyond simple agar slant storage. Cryopreservation in liquid nitrogen at -196°C can maintain viable cultures for decades or centuries with minimal genetic change. For laboratories without cryopreservation equipment, periodic re-isolation from fruitbodies provides a practical alternative. Stamets describes a technique of drying mycelium on sterile filter paper and storing it at room temperature, which can preserve viability for several years. The choice of preservation method depends on the resources available and the intended use of the strain. Commercial spawn producers maintain extensive culture libraries with multiple backup copies of each strain, ensuring that genetic material is not lost to contamination, equipment failure, or human error.
-
----
-
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter II: Sterile Technique and Agar Culture
-Updated: 2026-04-18

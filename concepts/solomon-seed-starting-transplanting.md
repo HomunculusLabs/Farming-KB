@@ -1,5 +1,5 @@
 ---
-title: "Seed Starting and Transplanting"
+title: Solomon Seed Starting Transplanting
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -9,7 +9,7 @@ sources: ["papers/gardening-when-it-counts-steve-solomon.md"]
 
 # Seed Starting and Transplanting
 
-Source: Steve Solomon, "Gardening When It Counts" (2005)
+Source: [[steve-solomon]], "Gardening When It Counts" (2005)
 
 ## The Case Against Garden-Center Transplants
 
@@ -25,7 +25,7 @@ A properly hardened seedling looks smaller and more wiry than a soft one, but wi
 
 ## Grow Your Own: The Simple Approach
 
-Solomon recommends raising transplants only for species that benefit from every possible frost-free day: tomatoes, peppers, and eggplants. In short-season areas, also a few melon or winter squash. Everything else should be direct-seeded.
+Solomon recommends raising transplants only for species that benefit from every possible frost-free day: tomatoes, peppers, and eggplants. In short-season areas, also a few melon or [[winter-squash-guide]]. Everything else should be direct-seeded.
 
 ### Soil for Seedlings
 
@@ -60,7 +60,7 @@ This schedule works with one small germination area.
 
 Most vegetables should be direct-seeded. Advantages over transplants:
 - No [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]; no week of setback
-- No need for greenhouse, cold frames, or indoor space
+- No need for greenhouse, [[faires-season-extension-cold-frames]], or indoor space
 - Seedlings that survive in-garden conditions are the strongest individuals
 - Taproots develop fully (especially important for root crops)
 
@@ -76,39 +76,15 @@ The principle: press the soil after sowing to restore capillary contact so moist
 
 ### Spacing Terminology
 
-- **In clusters**: a few seeds grouped at fixed intervals on raised beds (e.g., 5x18 inches for kohlrabi)
+- **In clusters**: a few seeds grouped at fixed intervals on [[cervantes-raised-beds-mound-planting]] (e.g., 5x18 inches for kohlrabi)
 - **In drills**: seeds sown in a continuous furrow
 - **In hills**: seeds planted in fertile mounds (traditional for cucurbits, corn)
 
 ## Seed Quality and Germination Testing
 
-As a former seed company owner, Solomon emphasizes buying from reputable regional seed houses. Mass-market packets from discount stores often have low germination rates or old seed. Test germination by sprouting 10 seeds between moist paper towels; if fewer than 7 sprout, buy fresh seed.
+As a former [[seed-company-supplier-reference]] owner, Solomon emphasizes buying from reputable regional seed houses. Mass-market packets from discount stores often have low germination rates or old seed. Test germination by sprouting 10 seeds between moist paper towels; if fewer than 7 sprout, buy fresh seed.
 
 ## Hybrid vs. Open-Pollinated
 
 Hybrids:
 - Often higher yielding, especially for commercial traits
-- Seed cannot be reliably saved (does not breed true)
-- Some modern hybrids have lost [[coleman-winter-greens-nutritional-quality-cold-sweetening]] for yield
-
-Open-pollinated (OP):
-- Seed can be saved year to year
-- Often better nutritional quality and flavor
-- Many classic OP varieties have deteriorated through poor seed-saving practices
-- Solomon recommends trialing OP varieties alongside hybrids; if an OP performs well, switch
-
-For corn: classic OP sweet corn varieties are closely related to [[halpern-sacramental-peyote-and-native-american-church]] field corns and produce acceptable cornmeal. For field corn as a staple, OP varieties produce more protein and minerals per calorie than modern hybrids.
-
-## Seed Saving Principles
-
-- Self-pollinated annuals (lettuce, beans, peas): easiest; isolate by 50 feet if purity matters
-- Wind-pollinated (corn, spinach): need isolation distances of 1/4 to 1/2 mile
-- Insect-pollinated outcrossers (brassicas, carrots): need 12+ plants minimum for genetic vigor
-- Always select the best individuals; never save from inferior plants
-- Ensure seed is fully dry before storage; store in breathable containers
-
-## See Also
-
-- [[home-garden-seed-saving]]
-- [[cold-frame-construction]]
-- [[jeavons-grow-biointensive-method-overview]]

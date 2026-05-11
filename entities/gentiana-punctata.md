@@ -26,13 +26,13 @@ The species has a long history of use as a bitter tonic in European folk medicin
 
 Gentiana punctata is native to the mountains of central and southern Europe, primarily the Alps, Carpathians, and Pyrenees. It grows at elevations of 1,500–2,600 meters in alpine and subalpine grasslands.
 
-The species is protected in several European countries due to overharvesting for medicinal purposes. Cultivation from seed is encouraged as a sustainable alternative to wild collection.
+The species is protected in several European countries due to overharvesting for medicinal purposes. [[gottlieb-peyote-cultivation-from-seed]] is encouraged as a sustainable alternative to wild collection.
 
 ## Taxonomy and Morphology
 
 **Kingdom:** Plantae — **Family:** Gentianaceae — **Genus:** Gentiana — **Section:** Gentiana
 
-Gentiana punctata was described by Carl Linnaeus in 1753 in Species Plantarum. It belongs to Gentiana section Gentiana, which includes the commercially important Gentiana lutea.
+Gentiana punctata was described by Carl Linnaeus in 1753 in Species Plantarum. It belongs to Gentiana section Gentiana, which includes the commercially important [[gentiana-lutea]].
 
 The plant grows 30–60 cm tall with erect, unbranched stems arising from a short, thick rhizome. Leaves are ovate-lanceolate, 5–12 cm long, with 5–7 prominent parallel veins.
 
@@ -56,13 +56,13 @@ The species grows at elevations of 1,500–2,600 meters, occupying subalpine and
 
 In the Swiss Alps, Gentiana punctata is a characteristic species of the alliance Caricion ferrugineae, which includes species-rich calcareous grassland communities. It frequently co-occurs with Carex sempervirens and Sesleria caerulea.
 
-The species requires reliable moisture throughout the growing season and does not tolerate prolonged drought. Snow cover provides critical insulation during winter months, protecting the rhizome from freeze-desiccation.
+The species requires reliable moisture throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and does not tolerate prolonged drought. Snow cover provides critical insulation during winter months, protecting the rhizome from freeze-desiccation.
 
 Populations have declined in some areas due to habitat loss from ski resort development and intensive alpine grazing. The species is listed as near threatened in Austria and is protected in Switzerland.
 
-Microclimate plays an important role in local distribution patterns. Populations on north-facing slopes tend to be more robust and numerous than those on south-facing exposures.
+Microclimate plays an important role in local [[fungal-biogeography-distribution-patterns]]. Populations on north-facing slopes tend to be more robust and numerous than those on south-facing exposures.
 
-The species shows high genetic diversity across Alpine populations, with distinct regional genotypes identified through molecular markers. This diversity is important for conservation strategies.
+The species shows high [[biodiversity-fungal-genetic-diversity]] across Alpine populations, with distinct regional genotypes identified through molecular markers. This diversity is important for [[endangered-fungi-and-conservation-strategies]].
 
 ## Cultivation
 
@@ -87,34 +87,3 @@ The species is occasionally grown in botanical garden alpine collections for its
 Gentiana punctata has been used as a bitter tonic in European folk medicine for centuries. The rhizomes and roots contain gentiopicrin, swertiamarin, and amarogentin — secoiridoid glycosides responsible for the intensely bitter taste.
 
 Traditional preparations include alcoholic tinctures and decoctions used to stimulate appetite and improve digestion. The species was historically a substitute or adulterant for the official drug Gentianae radix (from Gentiana lutea).
-
-Pharmacological studies have confirmed choleretic, hepatoprotective, and anti-inflammatory activities in extracts of Gentiana punctata roots. The bitter glycosides stimulate gastric acid secretion through activation of taste receptors.
-
-The amarogentin content in Gentiana punctata roots is among the highest of any gentian species, making it one of the most bitter naturally occurring substances known. This compound is used as a standard for measuring bitterness intensity.
-
-Overharvesting for medicinal use has depleted wild populations in several countries. Sustainable cultivation is now strongly recommended over wild collection.
-
-The species should not be confused with Gentiana lutea, which is the officially recognized source of gentian root in most pharmacopoeias. The two species have overlapping chemistry but different conservation statuses.
-
-## Ecological Role
-
-Gentiana punctata serves as a late-summer nectar source for diverse alpine pollinators including bumblebees, butterflies, and hoverflies. The spotted flower pattern may function as a nectar guide for visiting insects.
-
-The species is a component of species-rich alpine grasslands that support high invertebrate diversity. Its deep root system contributes to soil stabilization on steep alpine slopes.
-
-Herbivory is limited by the bitter secoiridoid compounds in foliage, which deter most mammalian grazers. However, some specialist insects feed on gentian foliage despite the chemical defenses.
-
-Decomposition of senescent Gentiana punctata foliage returns nutrients to alpine soils at the end of the growing season. The species contributes to the nutrient cycling dynamics of alpine grassland ecosystems.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-purpurea]]
-- [[gentiana-amarella]]
-- [[gentiana-pneumonanthe]]
-- [[swertia-chirata]]
-- [[centaurium-erythraea]]
-- [[swertia-perennis]]
-- [[gentiana-acaulis]]
-- [[gentiana-cruciata]]
-- [[gentiana-asclepiadea]]

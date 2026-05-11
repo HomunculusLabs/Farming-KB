@@ -31,7 +31,7 @@ The Dutch Risk Assessment Report of 2000 estimated that magic mushrooms accounte
 
 ## Wild Mushroom Collection
 
-Despite the predominance of [[fungi-cultivated-mushrooms-pathogens-competitors]] in the commercial market, some users collect wild-growing hallucinogenic mushrooms, a practice known as "magic mushroom hunting." Qualitative reports from Poland, Ireland, and the Czech Republic document users seeking wild [[amanita-muscaria-entity]] (fly agaric) and Purple Ohms capsules containing Hawaiian Baby Woodrose ([[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]) with its active compound LSA (lysergic acid amide).
+Despite the predominance of [[fungi-cultivated-mushrooms-pathogens-competitors]] in the commercial market, some users collect wild-growing hallucinogenic mushrooms, a practice known as "magic mushroom hunting." Qualitative reports from Poland, Ireland, and the Czech Republic document users seeking wild [[amanita-muscaria]] (fly agaric) and Purple Ohms capsules containing Hawaiian Baby Woodrose ([[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]) with its active compound LSA (lysergic acid amide).
 
 The Irish online headshop THC removed all [[cotter-mushroom-products-and-value-added-applications]] after they became illegal on 31 January 2006. UK retailers such as EveryOneDoesIt.com and AllSalvia.co.uk pivoted to marketing [[allegro-amanita-muscaria-properties-and-pharmacology]] and Amanita pantherina as legal alternatives.
 
@@ -72,7 +72,7 @@ Several converging factors drove the expansion of the European hallucinogenic mu
 - [[hallucinogenic-mushrooms-european-trends]]
 
 - [[psilocybe-cubensis]] - the most commonly marketed species
-- [[amanita-muscaria-entity]] - the legal alternative that replaced banned mushrooms
+- [[amanita-muscaria]] - the legal alternative that replaced banned mushrooms
 - [[salvia-divinorum]] - another product sold in herbal highs markets
 - [[bad-trip]] - adverse reactions that influenced market dynamics
 ## Practical Considerations

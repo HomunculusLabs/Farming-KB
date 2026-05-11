@@ -14,13 +14,13 @@ Cytochrome P450 monooxygenases are intracellular enzyme systems found in
 both ligninolytic and non-ligninolytic fungi that play a critical role in
 the initial oxidation of [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and other
 xenobiotic compounds. Unlike the extracellular lignin-modifying enzymes
-(LiP, MnP, and laccase) deployed by white rot fungi, cytochrome P450
+(LiP, MnP, and laccase) deployed by [[brown-rot-and-white-rot-fungi-in-mycoremediation]], cytochrome P450
 systems operate inside fungal cells and represent an alternative pathway
-for pollutant metabolism that parallels mammalian drug metabolism pathways.
+for pollutant metabolism that parallels mammalian drug [[singh-fungal-alkane-metabolism-pathways]].
 
 ## Mechanism of PAH Activation
 
-The initial step in fungal cytochrome P450-mediated PAH metabolism is the
+The initial step in [[fungal-cytochrome-p450-biodegradation]] P450-mediated PAH metabolism is the
 epoxidation of one of the aromatic rings to form a transient arene oxide.
 This arene oxide is immediately hydrated by an epoxide hydrolase to form a
 trans-dihydrodiol. Subsequent non-enzymic rearrangement may also produce a
@@ -31,7 +31,7 @@ include quinones and various conjugated products.
 ## Comparison with Mammalian Metabolism
 
 Fungal cytochrome P450 metabolism of PAHs closely parallels mammalian
-pathways. The types of metabolites isolated from fungal cultures are
+pathways. The types of metabolites isolated from [[brassinosteroids-in-fungal-cultures]] are
 similar to those formed by mammalian liver enzymes. This is significant
 because PAHs must be metabolically activated by microsomal enzymes to
 elicit their mutagenic, genotoxic, and carcinogenic properties. The
@@ -57,7 +57,7 @@ Evidence for cytochrome P450 and P450-mediated benzo[a]pyrene hydroxylation
 has been demonstrated in both P. pulmonarius and Phanerochaete
 chrysosporium. A purified benzo[a]pyrene hydroxylase from P. pulmonarius
 has been characterized, confirming the enzymatic nature of the
-transformation. In some cases, PAH degradation was attributed to P450
+transformation. In some cases, [[fungal-pah-degradation-and-soil-bioremediation]] was attributed to P450
 monooxygenase rather than the lignin-modifying enzyme system.
 
 ## PAH Metabolism by Non-Ligninolytic Fungi
@@ -88,48 +88,3 @@ through sulfation, methylation, or conjugation with glucose, xylose, or
 glucuronic acid. These conjugates are more water-soluble than typical PAH
 metabolites, which may facilitate their environmental mobility and
 detoxification. Crinipellis stipitaria produces distinctive metabolites
-including pyrene sulfates and hydroxypyrene glucuronides.
-
-## Role in Dye and Surfactant Degradation
-
-Cytochrome P450 systems also participate in the [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]]
-dyes and surfactants. The degradation of furan derivatives by fungi is
-thought to involve P450 monooxygenases. Linear alkylbenzene sulfonate
-(LAS), an anionic surfactant, undergoes [[singh-fungal-transformation-metals-metalloids]] through
-oxidative pathways that may involve cytochrome P450 enzymes.
-
-## Advantages and Limitations for Bioremediation
-
-The cytochrome P450 pathway offers several advantages for bioremediation.
-It operates under nutrient-sufficient conditions unlike the ligninolytic
-system which typically requires nitrogen limitation. It can handle
-pollutants that are not substrates for extracellular enzymes. The pathway
-is found in a much wider range of fungal species than ligninolytic
-enzymes, including common soil fungi and yeasts. Rhodotorula glutinis has
-even been reported to degrade phenanthrene in pure culture, demonstrating
-that some yeasts can use PAHs as sole carbon and energy sources through
-P450-mediated pathways.
-
-However, concerns exist about the formation of reactive intermediates that
-may be more toxic than parent compounds. Since fungi can generate the same
-reactive epoxides and quinones as mammalian systems, the balance between
-detoxification and metabolic activation must be carefully evaluated for
-each fungal-pollutant combination. The dependence on intracellular
-metabolism also means that pollutant uptake across the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] is a
-prerequisite for degradation, potentially limiting effectiveness against
-poorly bioavailable compounds.
-
-## Future Directions
-
-Genomic and proteomic approaches are revealing the diversity of fungal
-P450 enzymes and their substrate specificities. Understanding the
-regulation of P450 gene expression during pollutant exposure may enable
-optimization of bioremediation conditions. The possibility of engineering
-fungal strains with enhanced P450 activity for specific pollutants
-represents a promising avenue for developing targeted bioremediation
-technologies.
-
-## See Also
-
-- [[staycare-manganese-peroxidase-in-fungal-bioremediation]]
-- [[fungal-cytochrome-p450-biodegradation]]

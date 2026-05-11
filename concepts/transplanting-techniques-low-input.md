@@ -1,5 +1,5 @@
 ---
-title: Transplanting Techniques for Low-Input Gardens
+title: Transplanting Techniques Low Input
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon takes a nuanced position on transplanting. While he generally favors direct-seeding for its simplicity and resilience, he recognizes that certain crops benefit from transplanting and provides detailed techniques for minimizing [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] in a low-input garden context.
+[[steve-solomon]] takes a nuanced position on transplanting. While he generally favors direct-seeding for its simplicity and resilience, he recognizes that certain crops benefit from transplanting and provides detailed techniques for minimizing [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] in a low-input garden context.
 
 ## Direct-Seeding vs. Transplanting
 
@@ -21,12 +21,12 @@ Solomon's general preference is for direct-seeding because:
 - Direct-seeded plants develop undisturbed root systems from the start.
 - Transplanting destroys the taproot and converts the plant into more of a surface feeder.
 - Direct-seeded crops endure rainless spells better than transplanted ones.
-- Greenhouse-grown seedlings are always lush and succulent, making them more vulnerable to pests and transplant shock.
+- Greenhouse-grown seedlings are always lush and succulent, making them more vulnerable to pests and [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]].
 - The extra work of raising transplants may not be justified for most vegetables.
 
 However, certain crops genuinely benefit from transplanting:
 
-- Crops with long growing seasons in short-season climates.
+- Crops with long [[jeavons-climate-adaptation-growing-seasons]] in short-season climates.
 - Crops with expensive seed where every seed counts.
 - Celery, which grows extremely slowly from seed (10+ weeks to transplantable size).
 - Crops where you need precise spacing and uniform maturity.
@@ -88,13 +88,3 @@ Rather than raising all transplants at once, stagger your sowings:
 2. Tomatoes in short-season climates
 3. Peppers and eggplants in maritime climates
 4. Brassicas for [[coleman-overwintered-onions-and-early-spring-crops]] planting
-5. Onions from seed in cold climates
-
-## Related Concepts
-
-- [[weed-management-strategies]]
-- [[growing-globe-artichokes]]
-
-Sources: Steve Solomon, *Gardening When It Counts*, Chapters 4-5
-- [[soil-preparation-organic-gardens]]
-- [[root-competition-plant-spacing-solomon]]

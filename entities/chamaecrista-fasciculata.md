@@ -18,12 +18,12 @@ sources:
   - https://plants.usda.gov/home/plantProfile?symbol=CAFA2
   - https://www.wildflower.org/plants/result.php?id_plant=CAFA2
   - USDA NRCS Plant Guide (2024)
-  - E. L. Little, Jr., Atlas of United States Trees (1971)
+  - E. L. Little, Jr., Atlas of [[dmt-containing-plants-united-states-halpern]] Trees (1971)
 ---
 
 # Chamaecrista fasciculata (Partridge Pea)
 
-**Chamaecrista fasciculata**, commonly known as **partridge pea**, **sensitive pea**, **showy partridge pea**, or **prairie senna**, is an annual herbaceous legume native to eastern and central [[psilocybin-north-america-pacific-northwest]]. It is highly valued in permaculture, ecological restoration, and native landscaping for its nitrogen-fixing capability, pollinator support, wildlife value, and ornamental display of bright yellow flowers.
+**Chamaecrista fasciculata**, commonly known as **partridge pea**, **sensitive pea**, **showy partridge pea**, or **prairie senna**, is an annual herbaceous legume native to eastern and central [[psilocybin-north-america-pacific-northwest]]. It is highly valued in permaculture, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], and native landscaping for its nitrogen-fixing capability, pollinator support, wildlife value, and ornamental display of bright yellow flowers.
 
 ## Taxonomy and Nomenclature
 
@@ -40,7 +40,7 @@ The species was formerly classified as **Cassia fasciculata** and is still widel
 ## Description
 
 ### Growth Habit
-- **Life cycle:** Annual (summer annual)
+- **[[agaricus-campestris-biology-and-life-cycle]]:** Annual (summer annual)
 - **Height:** 30–150 cm (1–5 ft), typically 60–90 cm
 - **Form:** Erect to ascending, much-branched, bushy appearance
 - **Root system:** Taproot with abundant nitrogen-fixing nodules; roots can extend 30+ cm deep
@@ -70,8 +70,8 @@ The species was formerly classified as **Cassia fasciculata** and is still widel
 - **Size:** 5–10 cm long × 4–6 mm wide
 - **Color:** Green turning dark brown at maturity
 - **Seeds:** 12–20 per pod, dark brown to black, flattened, oval
-- **Seed dispersal:** Explosive dehiscence (pods twist open and eject seeds); also dispersed by birds and water
-- **Seed viability:** Can persist in soil seed bank for 5–10+ years
+- **[[clay-pellet-seed-dispersal]]:** Explosive dehiscence (pods twist open and eject seeds); also dispersed by birds and water
+- **Seed viability:** Can persist in soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] for 5–10+ years
 
 ## Distribution and Habitat
 
@@ -88,55 +88,3 @@ It is adapted to a wide range of habitats:
 - **Old fields and disturbed sites**
 - **Roadsides and railway embankments**
 - **Sandy or rocky soils** with low fertility
-- **Coastal plain** habitats
-
-It thrives in **full sun** and is highly drought-tolerant once established. It tolerates soils ranging from sandy loams to clay, and pH from acidic to slightly alkaline (4.5–7.5). It is classified as hardy in USDA zones 3–10.
-
-## Ecological Value
-
-### Pollinator Support
-- **Primary nectar source** for bumblebees in late summer and fall
-- Attracts honeybees, sweat bees (*Lasioglossum* spp.), and long-horned bees (*Melissodes* spp.)
-- Flowers provide pollen and nectar during a period when many other sources are declining
-- Listed as a plant of **special value to native bees** by the Xerces Society
-
-### Wildlife Food Source
-- **Seeds** consumed by northern bobwhite quail, wild turkey, mourning dove, and songbirds
-- **Foliage** browsed by white-tailed deer (moderate preference)
-- **Host plant** for cloudless sulfur (*Phoebis sennae*), little yellow, sleepy orange, and silver-spotted skipper caterpillars
-
-### Nitrogen Fixation
-- Forms symbiotic association with **rhizobia bacteria** (primarily *Bradyrhizobium* spp.)
-- Root nodules fix atmospheric nitrogen at rates of **50–100 kg N/ha/year**
-- Improves soil fertility for subsequent plantings
-- Can be used as a green manure crop
-
-## Uses in Permaculture and Restoration
-
-### Cover Cropping
-- **Summer annual cover crop** — establishes quickly, suppresses weeds
-- **Green manure** — adds [[hamilton-composting-and-organic-matter-management]] and fixed nitrogen when incorporated
-- **Break crop** — interrupts [[hamilton-pest-and-disease-control-organic]] cycles
-
-### Erosion Control and Landscaping
-- Rapid establishment on disturbed sites; deep taproot stabilizes soils
-- Bright yellow flowers provide late-season ornamental color
-- Self-seeding, drought-tolerant, no fertilizer needed
-- Combines well with native grasses in meadow and prairie plantings
-
-### Cultural Significance
-
-Indigenous peoples of [[polypore-fungi-eastern-north-america]] America used partridge pea medicinally. The **Creek and Seminole** prepared root infusions for nausea and fevers. Related *Chamaecrista* species have documented anthelmintic and anti-inflammatory properties in modern research.
-
-## Propagation
-
-- **Seed scarification** recommended — hot water soak improves germination
-- **[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]** in spring after last frost
-- **Inoculation** with cowpea-type rhizobia improves nodulation
-
-## See Also
-
-- [[lespedeza-bicolor]]
-- [[lotus-corniculatus]]
-- [[companion-planting]]
-- [[biological-nitrogen-fixation-agriculture]]

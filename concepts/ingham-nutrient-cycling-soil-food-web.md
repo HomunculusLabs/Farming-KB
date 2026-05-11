@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, composting, microbiology]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 # Ingham — Nutrient Cycling Through the Soil Food Web
@@ -87,31 +88,3 @@ Ingham's work emphasizes that different soils and different plant communities ar
 ## Chemical Agriculture and the Soil Food Web
 
 Ingham is particularly critical of the effects of synthetic chemical inputs on the soil food web. Synthetic nitrogen fertilizers provide plant-available nitrogen directly, bypassing the [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] cycling pathway and causing bacterial-feeding organisms to starve as their food source (bacteria processing organic nitrogen) is eliminated. Broad-spectrum fungicides applied to soil devastate fungal communities, disrupting mycorrhizal partnerships and fungal decomposition pathways. Pesticides and herbicides have both direct toxic effects on non-target soil organisms and indirect effects through the disruption of food web relationships. Repeated applications of these chemicals progressively simplify the soil food web, reducing biodiversity and creating dependency on continued chemical inputs.
-
-## Compost Tea and Biological Inoculants
-
-Ingham has been a prominent advocate for compost tea as a method of inoculating soils and plant surfaces with beneficial microorganisms. Aerated compost tea (ACT) is produced by steeping high-quality compost in aerated water with added food sources (molasses, kelp, fish hydrolysate) for 24-48 hours. The aeration and food sources stimulate the rapid multiplication of beneficial bacteria, fungi, and protozoa, producing a liquid inoculant that can be applied as a soil drench or foliar spray. Ingham distinguishes carefully between aerated compost tea (produced with aeration, containing live aerobic organisms) and anaerobic compost tea (which may contain alcohol, phenols, and pathogenic organisms). She recommends regular applications of ACT to maintain soil food web health, particularly in soils that have been degraded by chemical management or physical disturbance.
-
-## Managing for Bacterial vs. Fungal Dominance
-
-Ingham's practical approach to soil food web management centers on shifting the balance between bacterial and fungal-dominated soil communities depending on the desired plant community. Weeds and early-successional annual plants generally thrive in bacterial-dominated soils, while perennial plants, shrubs, and trees require fungal-dominated soils for optimal health. The bacterial-to-fungal ratio can be assessed through direct microscopy of soil samples, which Ingham teaches as a core skill for soil health practitioners. To shift soils toward fungal dominance, Ingham recommends adding woody mulches, reducing tillage, and applying fungal compost teas. For bacterial dominance, the approach includes incorporating green manures, reducing mulch depth, and using bacterial-dominant compost teas. This framework provides a practical diagnostic and management tool that connects soil biology directly to plant community outcomes.
-
-## Soil Food Web Testing and Monitoring
-
-Ingham's methodology emphasizes direct microscopic observation of soil biology as the primary monitoring tool. Through her Soil Foodweb Inc. laboratory service and training programs, she developed standardized protocols for assessing soil food web health. The key metrics include total bacterial biomass, total fungal biomass, active versus dormant organism ratios, protozoan counts, and nematode community structure. These assessments provide a biological snapshot of soil health that conventional chemical soil tests cannot capture. By tracking changes in these parameters over time, land managers can evaluate the effectiveness of their soil management practices and make informed adjustments. The approach has been particularly influential in organic agriculture, viticulture, and ecological restoration, where understanding and managing soil biology is considered essential for long-term productivity.
-
-## Root Exudates and the Plant-Microbe Signaling System
-
-A critical but often overlooked component of Ingham's nutrient cycling framework is the role of root exudates — the sugars, amino acids, organic acids, and other compounds that plant roots release into the rhizosphere. Plants allocate a significant portion of their photosynthetically fixed carbon (10-40% in some species) to root exudate production, which initially seems wasteful but serves as the primary currency of the plant-microbe economy. These exudates feed specific bacterial and fungal communities in the rhizosphere, and in return, those microorganisms mobilize nutrients from soil organic matter and mineral particles that the plant roots alone could not access. Ingham describes this as a cooperative exchange: the plant feeds the soil food web, and the soil food web feeds the plant. Different plant species produce different exudate profiles, which explains why crop rotation and polyculture support greater soil biology than monoculture — diverse exudate inputs support diverse microbial communities, which in turn provide more complete nutrient cycling.
-
-## The Microbial Loop and Nutrient Retention
-
-Ingham's model incorporates the concept of the microbial loop — a mechanism by which nutrients are retained in the soil system rather than being lost through leaching. When plants release nitrogen-rich compounds as root exudates, soil bacteria rapidly incorporate this nitrogen into their biomass. If these bacteria were to die and decompose immediately, the nitrogen would be released as ammonium and could be lost through leaching or volatilization. However, the soil food web intercepts this nitrogen through predation: protozoa consume bacteria, nematodes consume protozoa, and larger organisms consume nematodes at each trophic level. At each step in this food chain, some nitrogen is mineralized (released as plant-available ammonium) while the remainder is incorporated into the biomass of the predator. This stepped release means that nitrogen is made available to plants gradually over time rather than in a single pulse, dramatically reducing leaching losses. Ingham cites research showing that soils with intact food webs can retain 50-80% more nitrogen than soils where the food web has been simplified by chemical inputs or tillage.
-
-## Mycorrhizal Networks and Nutrient Sharing
-
-Ingham places particular emphasis on mycorrhizal fungi as the keystone organisms connecting plants to the broader soil food web. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) form symbiotic associations with the roots of most crop plants, extending fungal hyphae far beyond the root zone to access phosphorus, zinc, copper, and other immobile nutrients that plant roots cannot reach. In exchange, the plant provides the fungus with carbohydrates produced through photosynthesis. Ingham's work highlights a less widely appreciated function of mycorrhizal networks: they can serve as conduits for nutrient and carbon sharing between plants. Through common mycorrhizal networks (CMNs), nutrients can be transferred from older, established plants to younger seedlings, and carbon can move from sun-exposed plants to shaded individuals. This network-mediated sharing may help explain why polyculture plantings often outperform monocultures even when individual plants receive the same nutrient inputs — the mycorrhizal network creates a shared resource pool that buffers against local [[hamilton-nutrient-deficiencies-and-treatment]].
-
-## Related
-
-- [[ingham-brix-and-plant-quality]]

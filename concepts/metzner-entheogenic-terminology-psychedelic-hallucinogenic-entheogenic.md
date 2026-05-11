@@ -5,7 +5,7 @@
 The words used to describe consciousness-altering substances
 shape how societies understand, regulate, and integrate them.
 Metzner's work draws attention to the terminological
-landscape surrounding psychedelic compounds, arguing that
+landscape surrounding [[psychedelic-compounds-reference]], arguing that
 the choice of label is never neutral — each term carries
 implicit assumptions about the nature of the experience,
 its validity, and its relationship to religion, medicine,
@@ -18,13 +18,13 @@ meaning-making.
 ## The Problem of Naming
 
 Naming a phenomenon is never merely descriptive.
-The word selected to describe tryptamine and ergoline
+The word selected to describe [[tryptamine]] and ergoline
 experiences performs ideological work: it locates the
 experience within a particular framework of meaning.
 A hallucination implies a perceptual error — seeing
 what is not there. A [[leary-psychedelic-experience-bardo-mapping]] implies
 mind-manifesting — revealing what is already present
-in consciousness. An entheogenic experience implies
+in consciousness. An [[pineal-gland-dmt-entheogenic-experience]] implies
 encounter with the divine — accessing realities that
 transcend ordinary perception. Each framing opens
 certain doors of understanding while closing others.
@@ -80,64 +80,11 @@ clinical language systematically stripped away.
 
 ## Shamanic and Indigenous Terminology
 
-Indigenous traditions typically do not use abstract
+[[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] typically do not use abstract
 category words for these substances at all. Instead,
 each plant or preparation carries its own name,
-mythology, and set of relationships. Ayahuasca is
+mythology, and set of relationships. [[ayahuasca]] is
 "the vine of souls"; peyote is "the medicine";
 [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are "the children" or "the
 little ones." These names embed the substances
 within relational networks of meaning — connecting
-them to specific landscapes, spirits, ceremonies,
-and lineages of knowledge. The move to abstract
-categorization is itself a feature of Western
-epistemology, reflecting the impulse to classify
-and standardize that indigenous approaches resist.
-
-## Therapeutic Implications of Terminology
-
-Metzner argues that the language used in therapeutic
-contexts significantly shapes outcomes. When a
-clinician describes a session as "hallucinogenic,"
-the implicit message is that what the client
-experiences is unreal — perceptual error to be
-managed. When the language shifts to "entheogenic"
-or "sacred medicine," the frame opens to include
-meaning, transformation, and spiritual encounter.
-[[lsd-set-and-setting-framework]] theory itself presupposes that the
-expectations brought to a session — which are
-shaped by the terms used to describe it — are
-among the most powerful determinants of outcome.
-
-## Implications for Research and Policy
-
-The regulatory apparatus that controls psychedelic
-research was built on the hallucinogenic/drug-abuse
-framing. The scheduling system, informed consent
-protocols, and institutional review board standards
-all reflect assumptions embedded in that terminology.
-Metzner suggests that a shift toward entheogenic
-or at least psychedelic language would help
-legitimize research by accurately reflecting the
-phenomenological character of the experiences under
-study. The language shapes what questions are asked,
-what methodologies are deemed appropriate, and what
-findings are taken seriously.
-
-## Source
-
-Metzner, R. (1999). [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] in
-psychotherapy and shamanism: The question of
-terminology. In R. Metzner (Ed.), Teonanacatl:
-The Divine Mushroom (pp. 1-7). [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]
-Foundation. (Chapter on terminology and the
-entheogenic vs. hallucinogenic vs. psychedelic
-distinction.)
-
-## Related Concepts
-
-- [[metzner-set-and-setting-hypothesis-origins-and-extensions]]
-- [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
-- [[metzner-plant-teachers-diagnosis-divination-intelligence-communication]]
-- [[lsd-set-and-setting-framework]]
-- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]]

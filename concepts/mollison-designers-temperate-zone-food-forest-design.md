@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -17,7 +18,7 @@ type: concept
 ## Temperate Zone Food Forest Design
 
 The food forest is one of the most iconic expressions of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
-In temperate climates, food forests emulate the structure and function of
+[[query-how-to-grow-and-use-oca-in-temperate-climates]], food forests emulate the structure and function of
 natural woodland ecosystems while producing food, fuel, fiber, and medicine.
 Bill Mollison's *Permaculture: A Designers' Manual* presents the food forest
 as a self-maintaining, multi-strata polyculture that requires decreasing
@@ -28,7 +29,7 @@ vertical space optimization.
 ## The Seven Layers of a Food Forest
 
 Mollison identifies multiple vertical layers in a mature food forest, each
-providing distinct yields and ecological functions. The standard model includes
+providing distinct yields and [[fungal-melanin-biosynthesis-ecological-functions]]. The standard model includes
 seven recognized layers:
 
 1. **Canopy layer**: Tall trees (10 to 25+ meters) forming the uppermost
@@ -45,7 +46,7 @@ seven recognized layers:
    (elaeagnus, seaberry, goumi), and ornamental or medicinal species.
 
 4. **Herbaceous layer**: Non-woody perennials including comfrey, artichokes,
-   asparagus, rhubarb, [[holzer-medicinal-and-culinary-herbs-compendium]], and dynamic nutrient accumulators.
+   asparagus, rhubarb, [[holzer-medicinal-and-culinary-herbs-compendium]], and [[dynamic-nutrient-accumulators]].
 
 5. **Ground cover layer**: Low-growing plants that protect soil, suppress
    weeds, and retain moisture. Strawberries, clovers, creeping thyme, and
@@ -64,7 +65,7 @@ Canopy tree selection must account for the specific climate zone, including
 minimum winter temperatures, growing season length, chill hour requirements,
 and precipitation patterns. Mollison advocates choosing species that serve
 multiple functions: nut production, timber, fodder, mulch, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
-and wildlife habitat.
+and [[hemenway-backyard-wildlife-habitat]].
 
 Key temperate canopy species include:
 
@@ -74,9 +75,9 @@ Key temperate canopy species include:
   juglone allelopathy affecting some understory species.
 - **Oak** (*Quercus* spp.): Acorns from some species are edible after
   leaching; timber and wildlife value.
-- **Honey locust** (*Gleditsia triacanthos*): Nitrogen-fixing, high-quality
+- **Honey locust** (*[[gleditsia-triacanthos]]*): Nitrogen-fixing, high-quality
   fodder pods, dappled shade permitting understory growth.
-- **Persimmon** (*Diospyros virginiana*): Late-season fruit, hardy, ornamental.
+- **Persimmon** (*[[diospyros-virginiana]]*): Late-season fruit, hardy, ornamental.
 
 ## Understory Shrubs and Species Guilds
 
@@ -87,48 +88,3 @@ fruit tree might include:
 - A nitrogen-fixing shrub (seaberry or elaeagnus) supplying fertility.
 - A nutrient accumulator (comfrey) drawing minerals from deep soil layers.
 - An insectary plant (dill, yarrow, or fennel) attracting pollinators and
-  predatory insects.
-- A ground cover (clover or creeping thyme) protecting soil and fixing
-  nitrogen.
-- A pest-repellent species (garlic, alliums, or tansy) protecting the
-  central tree from specific pests.
-
-These guilds reduce or eliminate the need for external fertility inputs and
-pest management, creating self-regulating plant communities. The concept
-extends [[mollison-designers-humus-building-and-soil-organic-matter]].
-Living ground covers provide continuous organic matter input through root
-exudates and leaf drop, suppress weed competition, and maintain soil moisture.
-A mix of nitrogen-fixing and non-fixing ground covers ensures both soil
-protection and [[soil-fertility-building-gradient-solomon]].
-
-## Succession Planning in Food Forests
-
-Food forest establishment follows [[holmgren-ecological-succession-and-pulsing]]. The initial planting
-may emphasize fast-growing pioneer species and nitrogen fixers that prepare
-the site for longer-lived productive species. As the canopy closes, shade-
-tolerant understory species are introduced. Over decades, the system matures
-into a complex, self-regulating [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]].
-
-Mollison recommends a phased approach: begin with soil preparation and
-nitrogen-fixing nurse trees, interplant with fruit trees and shrubs in the
-second phase, and add herbaceous layers and ground covers as canopy
-conditions develop. This succession mirrors natural forest development
-and accelerates the transition from open land to productive woodland.
-
-## Integration with Water and Earthworks
-
-Food forests are typically integrated with [[mollison-designers-water-purification-and-storage-principles]]
-systems can supply supplementary irrigation during establishment. The dense
-vegetation of a mature food forest also contributes to [[mollison-designers-earthworks-for-erosion-control]]
-by intercepting rainfall and reducing surface runoff velocity.
-
-## Summary
-
-> **Definition:** Temperate zone food forest design is the creation of
-> self-maintaining, multi-strata perennial polycultures that emulate natural
-> woodland ecosystems while producing food, fuel, fiber, and medicine. Through
-> the strategic arrangement of canopy trees, understory shrubs, herbaceous
-> plants, ground covers, root crops, and vines in complementary guilds, food
-> forests create productive, resilient agricultural systems that require
-> decreasing inputs over time as ecological succession advances toward a mature,
-> self-regulating forest ecosystem.

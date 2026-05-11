@@ -88,57 +88,37 @@ Notable distribution patterns:
 Horak (1983) documented interesting biogeographical ties between South American
 and Southeast Asian agarics, and the authors extended this to Psilocybe:
 
-- P. samuiensis (Thailand) is closely related to P. mexicana (Mexico/Guatemala),
-  both in Section Mexicanae
-- P. makarorae (New Zealand) is also related to P. mexicana
-- P. aucklandii (New Zealand) is closely related to P. zapotecorum (Mexico and
-  South America), both in [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
-- Similarly, American species (P. graveolens, P. muliercula, P. pintonii, P.
-  zapotecorum) are closely related to Japanese species (P. argentipes, P.
-  subcaerulipes)
+## Mechanisms of Action
 
-These relationships suggest ancient Gondwanan or trans-Pacific dispersal routes.
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
 
-## Known Gaps and Exploration Bias
+## Comparative Analysis
 
-The authors caution that distribution maps are heavily skewed toward
-mycologically well-studied regions. There are no records from southeastern Russia,
-Mongolia, Arabia, Turkey, Korea (except Java and Sumatra), Hawaii, Alaska, or
-Costa Rica, among others. Several US states (Arizona, Colorado, Illinois,
-Maryland, Vermont, Massachusetts, New Hampshire, Pennsylvania) also lack records.
-As Gartz (1996) observed: "The mushrooms occur in abundance wherever
-mycologists abound."
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
 
-## Chemical and Taxonomic Complications
+## Future Directions
 
-The paper highlights significant problems in the neurotropic fungi literature:
-
-- **Misidentification**: Many chemical studies lacked taxonomic rigor; specimens
-  sometimes contained mixtures of species identified as a single taxon
-- **Age-dependent alkaloid content**: Psilocybin and psilocin degrade over time.
-  Specimens of P. semilanceata from 1869 contained only 0.014% psilocybin vs.
-  0.84% in 1976 specimens. Mexican Indians discard dried specimens older than
-  one year for this reason
-- **Volatility**: Guzman experienced hallucinations simply by sleeping in a room
-  filled with fresh Psilocybe specimens, suggesting the active compounds may be
-  volatile
-- **Contradictory reports**: Panaeolina foenisecii, for example, has been reported
-  both with and without psilocybin by different researchers
-
-## Traditional Use
-
-The best-documented indigenous use of neurotropic fungi occurs in Mexico (among
-Mazatec, Mixtec, Zapotec, Chinantec, Nahuatl, and other peoples) and New Guinea.
-Possible historical use in Colombia is suggested by pre-Columbian gold pectorals
-depicting mushroom-like forms (Schultes & Bright, 1979). Mexico's indigenous
-cultures developed more than 200 common names for sacred mushrooms, including
-the famous "teonanacatl" (divine mushroom).
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.
 
 ## See Also
 
-- neotropical-psilocybin-mushrooms
-- [[ethnomycology-as-discipline]]
-- [[gymnopilus-purpuratus-profile]]
-- [[ergot-fungus]]
-- [[inocybe-aeruginascens-profile]]
-- [[psychedelic-mushroom-set-and-setting]]
+- [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
+- [[guzman-allen-gartz-akira-hongo-distribution-types-neurotropic-fungi-examples]]
+- [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
+- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
+- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
+- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
+- [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]
+- [[guzman-allen-gartz-trans-pacific-species-pairs-psilocybe-biogeography]]

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-O-4
 
-PIHKAL entry #35. 4-Isopropoxy-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #35. 4-Isopropoxy-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -88,12 +88,5 @@ product with a mp of 76-78 deg C. This was dissolved in an equal weight
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[2c-p-entity-pihkal]] -- 2C-P (PIHKAL #36)
+- [[methyl-j-entity-pihkal]]

@@ -88,25 +88,3 @@ The authors suggest that with appropriate adaptations, their methods
 could potentially be applied to other species.
 
 ## Strain Selection
-
-The authors recommend isolating multiple dikaryotic strains from a single
-[[growing-gourmet-spore-germination-strain-isolation]] plate and comparing them for both growth vigor on agar
-and fruiting ability over several generations. Through observation and
-trial-and-error, the most vigorous strain can be identified and used
-exclusively for future cultivation. See
-[[mushroom-strain-evaluation]] for modern strain selection methods.
-
-## Taxonomic History
-
-Originally described as Stropharia cubensis by Earle in 1906, the
-species was later transferred to the genus Psilocybe by Singer and
-Smith in 1958. The guide uses the original name throughout, reflecting
-the nomenclature current at the time of writing (1976). The name
-P. cubensis is now widely accepted. The species was first described
-from specimens collected in Cuba, hence the specific epithet cubensis.
-
-## Related Topics
-
-- [[spore-syringe-preparation]] for spore handling
-- [[oss-oeric-contamination-troubleshooting]]
-- [[psilocybe-cubensis-strain-varieties-and-characteristics]]

@@ -5,6 +5,7 @@ tags: [seeds, genetics, gardening, farming, plant-breeding, seed-saving]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Seed Savers Exchange. Heirloom Seed Definition and Standards. seedsavers.org"
   - "University of Georgia Extension. Heirloom vs. Hybrid Vegetable Seeds. extension.uga.edu"
   - "Cornell University College of Agriculture. cannabis-hybrid-vigor-and-phenotypes-clarke (Heterosis) in Crop Plants. ars.usda.gov"

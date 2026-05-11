@@ -3,14 +3,14 @@ title: Lemon lemon-cannabis-alchemy-advanced-refinement-techniques - Hashing and
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Ben Lemon - Cannabis Alchemy
+  - Ben Lemon - cannabis-alchemy-overview
 type: concept
 tags: [cannabis]
 ---
 
 # Lemon Cannabis Alchemy - Hashing and Extraction
 
-Ben Lemon's "Cannabis Alchemy" provides detailed methods for extracting, purifying, and refining cannabis oils, along with techniques for producing hashish from [[cannabis-hashish-from-extracted-oil-techniques]] and through dry-sieving (screening). The book presents a progression from basic solvent extraction through increasingly refined processes including isomerization, acetylation, and charcoal filtration to produce oils of extraordinary potency.
+Ben Lemon's "Cannabis Alchemy" provides detailed methods for extracting, purifying, and refining cannabis oils, along with techniques for producing hashish from [[cannabis-hashish-from-extracted-oil-techniques]] and through dry-sieving (screening). The book presents a progression from basic [[cannabis-solvent-extraction]] through increasingly refined processes including isomerization, acetylation, and charcoal filtration to produce oils of extraordinary potency.
 
 ## Overview of the Extraction Process
 
@@ -22,7 +22,7 @@ Marijuana seeds are removed and the remaining material is crumbled and dried tho
 
 ### Step 2: Pulverization
 
-Reducing material to the finest powder possible ruptures cell walls so the oil is extracted more readily and reduces the volume of starting material, lessening the size of extraction apparatus and amount of solvent required. A heavy-duty blender at slower speed is used, with the material agitated with a wooden stick when the blender is not running. Pressed hashish may be shredded with a cheese grater before blending.
+Reducing material to the finest powder possible ruptures cell walls so the oil is extracted more readily and reduces the volume of [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]], lessening the size of [[cannabis-reflux-extraction-apparatus]] and amount of solvent required. A heavy-duty blender at slower speed is used, with the material agitated with a wooden stick when the blender is not running. Pressed hashish may be shredded with a cheese grater before blending.
 
 ### Step 3: Refluxing
 
@@ -47,7 +47,7 @@ The solvent is distilled off by replacing the expended cannabis with a collectio
 
 ### Step 6: Purification
 
-The extracted oil is dissolved in five times its weight of cold alcohol and poured into an equal volume of cold water in a glass jug. A volume of petroleum ether equal to half the water volume is added. The jug is inverted approximately 25 times (releasing pressure each time) and allowed to separate into three layers: bottom (water, alcohol, and non-ether-soluble tars and resins), middle (wax emulsion), and top (purified oil dissolved in petroleum ether). The top layer is siphoned off. Fresh petroleum ether is added and the process repeated until the ether layer remains clear, indicating complete extraction. The ether is then evaporated, yielding a refined oil far superior to the crude alcohol extract.
+The [[cannabis-hash-making-from-extracted-oil]] is dissolved in five times its weight of cold alcohol and poured into an equal volume of cold water in a glass jug. A volume of petroleum ether equal to half the water volume is added. The jug is inverted approximately 25 times (releasing pressure each time) and allowed to separate into three layers: bottom (water, alcohol, and non-ether-soluble tars and resins), middle (wax emulsion), and top (purified oil dissolved in petroleum ether). The top layer is siphoned off. Fresh petroleum ether is added and the process repeated until the ether layer remains clear, indicating complete extraction. The ether is then evaporated, yielding a refined oil far superior to the crude alcohol extract.
 
 ## Isomerization
 
@@ -85,44 +85,6 @@ An ISO-Hash press can be constructed from a square of one-inch steel tubing abou
 
 ## High-Volume Extraction
 
-For large-scale operations, the book describes an apparatus built from two 55-gallon oil drums. The lower drum holds the powdered cannabis material and solvent, the upper drum serves as a condenser with copper cooling tubes. The drums are sealed with inner-tube rubber bands and polyethylene sheeting (which also serves as a safety valve). The apparatus is heated in a water tub on three sparkless electric hotplates, with ice-water coolant circulated through the condenser by an immersion pump. The process follows the same principles as the kitchen-scale method: refluxing for three hours, draining and collecting the oil/solvent mixture, distilling off the solvent, then soxhleting the remaining cannabis material. Multiple passes through the soxhlet chamber ensure complete extraction.
+For large-scale operations, the book describes an apparatus built from two 55-gallon oil drums. The lower drum holds the powdered cannabis material and solvent, the upper drum serves as a condenser with copper cooling tubes. The drums are sealed with inner-tube rubber bands and [[passive-humidity-fruit-chamber-polyethylene-sheeting]] (which also serves as a safety valve). The apparatus is heated in a water tub on three sparkless electric hotplates, with ice-water coolant circulated through the condenser by an immersion pump. The process follows the same principles as the kitchen-scale method: refluxing for three hours, draining and collecting the oil/solvent mixture, distilling off the solvent, then soxhleting the remaining cannabis material. Multiple passes through the soxhlet chamber ensure complete extraction.
 
 ## Solvent Safety Notes
-
-Every solvent presents serious hazards. Low-boiling solvents are nearly explosive; nonflammable solvents are more poisonous. Chloroform and other chlorine-containing solvents promote significant decomposition of THC on storage, accelerated by light (a chloroform solution lost 25-35% of THC in 30 minutes in sunlight). Ethanol is better for storage but slight decomposition still occurs. Storage in cold and darkness is recommended. Petroleum ether vapor has a flash point of -32C/-24F, making refrigerator storage extremely dangerous unless the refrigerator is specifically designed for solvent storage.
-
-## Comparative Yields and Efficiency
-
-The book provides context for understanding the relative efficiency of different extraction approaches. A single pound of high-quality Mexican cannabis flowers, when processed through the full extraction and purification sequence (alcohol reflux, petroleum ether wash, isomerization), can yield oil sufficient to prepare multiple doses of capsules or hashish. The dry-sieving method from the same pound yields approximately half an ounce of screened pollen, which is considerably stronger than the starting material but represents only a fraction of the total resin available.
-
-The solvent extraction approach captures essentially all available cannabinoids and terpenes, whereas dry-sieving selectively collects only the loosest trichome heads. This makes solvent extraction far more efficient in terms of total cannabinoid recovery, though the dry-sieving product has a more natural flavor profile since it avoids solvent contact entirely.
-
-The choice between methods also depends on the starting material. Hashish that has already been pressed and aged may have oxidized surface layers; the book recommends gently reheating and crumbling before extraction to maximize surface area for solvent contact. Very fresh, wet cannabis should be dried thoroughly before extraction to prevent water from diluting the solvent and reducing extraction efficiency.
-
-## Equipment Construction Details
-
-The ISO-2 apparatus described in the book is assembled from commonly available materials: a stainless-steel pot with a tight-fitting lid, a large stew pot, an inner-tube rubber gasket seal, copper tubing for condensation, and a collection vessel. The apparatus operates on the water-bath principle, where boiling water in the outer vessel heats the solvent in the inner vessel without direct flame contact. This design eliminates the primary explosion hazard associated with refluxing flammable solvents.
-
-The soxhlet chamber is constructed from a large colander lined with coffee filters, placed above the collection vessel. The colander holds the spent cannabis after initial refluxing, allowing fresh solvent to wash through the material and extract remaining oil. This continuous washing process dramatically increases total extraction yield compared to a single reflux pass.
-
-For the high-volume apparatus, two 55-gallon drums replace the kitchen-scale pots. Copper cooling tubes are coiled inside the upper drum, which serves as a condenser. Immersion pumps circulate ice water through the coils. Sparkless electric hotplates provide heat to the water bath. The entire assembly is sealed with inner-tube rubber and polyethylene sheeting, which also functions as a pressure-relief safety valve.
-
-## Historical Context of Hash Making
-
-The book places these techniques within a broader historical tradition of cannabis concentrate production. Traditional hashish-making regions, including Morocco, Lebanon, Afghanistan, Nepal, and India, each developed characteristic methods and product styles that the extraction techniques in the book aim to replicate or exceed. Moroccan and Lebanese hashish are typically powdery and dry, made from screened resin with relatively low oil content. Nepalese charas is hand-rubbed from living plants, producing a sticky, aromatic product with higher oil content. Afghan hashish is pressed from resin powder into dense, dark blocks.
-
-The book's extraction methods allow the practitioner to produce hashish in any of these styles by varying the oil-to-powder ratio and pressing technique. A minimum of 15% extracted oil mixed with finely powdered marijuana produces a Moroccan-style product, while 50-60% oil yields a Nepalese-style charas. The ability to use isomerized or acetylated oil in these preparations produces hashish of potency far exceeding any traditional product.
-
-## Safety and Legal Considerations
-
-The book repeatedly emphasizes safety precautions for solvent handling. All extraction should be performed in well-ventilated areas away from open flames. The water-bath heating method is specifically designed to prevent direct contact between the heat source and flammable solvents. Methanol fumes are particularly dangerous, causing cumulative health effects with repeated exposure. Petroleum ether is extremely explosive, with a flash point below freezing.
-
-The purification step using petroleum ether requires careful handling of this highly [[cervantes-volatile-solvent-extraction]]. The separation funnel technique, while effective, must be performed slowly to avoid emulsions and ensure clean layer separation. The book recommends performing ether extractions outdoors or in fume hoods whenever possible.
-
-## See Also
-
-- [[lemon-cannabis-alchemy-high-volume-extraction-method]]
-- [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]
-- [[lemon-cannabis-alchemy-isomerization]]
-- [[lemon-cannabis-alchemy-translucent-honey-oil]]
-- [[cbd-to-thc-isomerization-chemistry]]

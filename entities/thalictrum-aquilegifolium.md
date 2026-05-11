@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Tutin, T.G. (1993). "Thalictrum." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
   - RHS (2023). "Thalictrum aquilegifolium." Royal Horticultural Society Plant Finder.
-  - Boivin, B. (1944). "American Thalictra and Their Old World Allies." Rhodora 46.
+  - Boivin, B. (1944). "American Thalictra and Their [[datura-metel-old-world-ethnobotany]] Allies." Rhodora 46.
   - Wang, W.T. & Zhu, X.Y. (2014). "A revision of Thalictrum (Ranunculaceae) in China." Bulletin of Botanical Research.
 ---
 
@@ -45,7 +45,7 @@ The species was described by Linnaeus in Species Plantarum (1753). It belongs to
 
 No subspecies are currently recognized. The species is variable in flower color, ranging from white through pale pink to deep mauve.
 
-Thalictrum aquilegifolium is closely related to Thalictrum delavayi and Thalictrum rochebrunianum from East Asia. These species share similar tall, airy flower panicles and columbine-like foliage.
+Thalictrum aquilegifolium is closely related to [[thalictrum-delavayi]] and [[thalictrum-rochebrunianum]] from [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. These species share similar tall, airy flower panicles and columbine-like foliage.
 
 The chromosome number is 2n = 14. This is the base number for the genus and is consistent across most European Thalictrum species.
 
@@ -87,35 +87,4 @@ The tall flower stems provide vertical structure in meadow plantings. Seed heads
 
 Thalictrum aquilegifolium is the larval food plant for several moth species. The foliage contains thalicarpine and other alkaloids that deter most mammalian herbivores.
 
-The species forms associations with mycorrhizal fungi in its native woodland habitats. These fungal partnerships improve nutrient uptake in the humus-rich soils it prefers.
-
-In traditional European folk medicine, preparations of the root were used as a febrifuge and mild purgative. Modern pharmacological studies have confirmed anti-inflammatory activity in extracts of Thalictrum species.
-
-## Cultivation
-
-Thalictrum aquilegifolium thrives in moist, humus-rich soil in partial shade to full sun. It requires consistent moisture during the growing season and benefits from a spring mulch.
-
-The plant is hardy to USDA zones 4–8. Staking is generally unnecessary due to the sturdy stems, though exposed sites may benefit from support.
-
-Propagation is by seed sown fresh in autumn or by division in spring. Seeds require a period of cold stratification and may take 6–12 months to germinate.
-
-Division every 4–5 years rejuvenates aging clumps. The best time for division is early spring before new growth reaches 10 cm.
-
-Established plants are long-lived and largely pest-free. Powdery mildew may occur on stressed plants in dry conditions but is rarely serious.
-
-The species is resistant to deer and rabbit browsing due to its alkaloid content. This makes it a reliable choice for gardens in areas with heavy herbivore pressure.
-
-The species self-seeds moderately in favorable conditions. Seedlings are true to type and can be transplanted when small.
-
-## See Also
-
-- [[thalictrum-delavayi]]
-- [[ranunculus-acris]]
-- [[anemone-nemorosa]]
-- [[helleborus-niger]]
-- [[aconitum-napellus]]
-- [[clematis-vitalba]]
-- [[pulsatilla-vulgaris]]
-- [[nigella-sativa]]
-- [[nigella-damascena]]
-- [[delphinium-staphisagria]]
+The species forms associations with [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] its native woodland habitats. These fungal partnerships improve [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in the humus-rich soils it prefers.

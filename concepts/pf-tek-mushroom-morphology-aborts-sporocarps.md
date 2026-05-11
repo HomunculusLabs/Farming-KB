@@ -1,5 +1,5 @@
 ---
-title: PF [[pf-tek-mushroom-cultivation-method]] Morphology Aborts Sporocarps and Mutants
+title: Pf Tek Mushroom Morphology Aborts Sporocarps
 created: 2026-05-09
 tags: mycology, mushroom-morphology, aborts, sporocarps, pf-tek]
 date: 2026-05-09
@@ -88,35 +88,3 @@ potency, making visual assessment of maturity a practical field tool.
 ## Size Versus Potency Relationship
 
 The PF TEK makes a consistent argument that smaller mushrooms are
-disproportionately potent relative to their size. This principle applies
-across all three morphological categories. Abortive primordia, mutant blobs,
-and young sporocarps all share the characteristic of being small and
-light-colored. The text notes that as [[alkaloid-distribution-mushroom-caps-stems]] expand, "the mushroom's
-size will increase, but by weight the potency will decrease." This inverse
-relationship between size and potency per unit weight is attributed to the
-alkaloid [[glyoxalylamide-reduction-tryptamine-synthesis-pathway]] being most active during early fruitbody
-development and tapering off as the mushroom diverts energy to spore
-production.
-
-## Harvesting Strategy by Morphological Type
-
-The PF TEK recommends a tiered harvesting approach. First, harvest all tiny
-primordia that have stopped growing, identifiable as soon as it becomes clear
-they will not develop into normal specimens. Second, collect mutant blob
-formations. Third, pick young sporocarps while their caps remain conical and
-the veil is intact. The text notes that several cakes will produce "quite a
-pile of these little ones, several dried grams," indicating that the combined
-harvest of aborts and mutants can be substantial despite their small
-individual size. This combined harvest represents "the source of the potent
-magic" according to the PF TEK.
-
-## Sporulation and Spore Release
-
-Mature sporocarps release spores by the millions, creating visible purple
-deposits on surrounding surfaces and stems. The deepening purple coloration
-serves as the definitive signal that the mushroom has entered its
-sporulation cycle. While these mature specimens are "good for spore
-collecting and showcasing," the PF TEK consistently recommends against
-consuming them at this stage due to diminished potency. The transition from
-potency peak to sporulation represents a one-way shift in the mushroom's
-biochemical priorities.

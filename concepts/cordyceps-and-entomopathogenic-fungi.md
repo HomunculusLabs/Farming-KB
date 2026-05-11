@@ -9,7 +9,7 @@ sources: []
 
 # Cordyceps and Entomopathogenic Fungi
 
-Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control. (see [[fungal-parasites-and-predators]]).
+Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of [[cotter-mushroom-nutrition-medicinal-compounds]], and emerging tools in [[hamilton-beneficial-insects-and-biological-pest-control]].
 
 ## Cordyceps and Ophiocordyceps
 
@@ -18,16 +18,16 @@ The traditional genus Cordyceps was split in 2007 based on molecular phylogeny:
 - Ophiocordyceps: includes species that parasitize ants and other arthropods (formerly Cordyceps)
 - Cordyceps (sensu stricto): includes species that parasitize caterpillars (e.g., C. militaris)
 
-Both belong to the family Ophiocordycipitaceae within the order Hypocreales ([[ascomycete-phylum-guide|Ascomycota]]).
+Both belong to the family Ophiocordycipitaceae within the order Hypocreales ([[ascomycete-phylum-guide]]).
 
 ### Ophiocordyceps unilateralis (Zombie-Ant Fungus)
-The most famous entomopathogenic fungus, documented infecting carpenter ants (Camponotus spp.) in tropical forests. (see [[metarhizium]]).
+The most famous entomopathogenic fungus, documented infecting carpenter ants (Camponotus spp.) in [[fungal-biodiversity-tropical-forests]].
 
 #### Infection Process
 1. Spores land on ant and attach to the exoskeleton
 2. Spores germinate and penetrate the cuticle using enzymes and mechanical pressure
 3. Fungal cells spread through the ant's body, eventually reaching the brain
-4. The fungus does not invade brain tissue but may manipulate the ant through chemical signals or by disrupting the nervous system
+4. The fungus does not invade brain tissue but may manipulate the ant through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] or by disrupting the nervous system
 5. Infected ants exhibit behavioral changes: leave the colony, climb vegetation, and bite onto leaves or twigs ("death grip")
 6. The ant dies, and the fungus kills the ant's cells to fill the body cavity
 7. A fruiting body (stroma) erupts from the ant's head
@@ -40,7 +40,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 - Some ants recognize infected individuals and carry them away from the colony
 
 ### Cordyceps militaris
-A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis. (see [[insect-arthropod-associated-fungi]]).
+A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other [[cordyceps-cancer-bioactive-compounds]]. Easier to cultivate than the famous C. sinensis.
 
 ### Ophiocordyceps sinensis (Cordyceps sinensis / Yartsa Gunbu)
 The most prized medicinal fungus in Traditional Chinese Medicine.
@@ -50,14 +50,14 @@ The most prized medicinal fungus in Traditional Chinese Medicine.
 - The "caterpillar fungus": the fruiting body emerges from a mummified caterpillar
 - Traditionally harvested by hand in spring; increasingly scarce due to overharvesting
 - Prices reached $50,000-100,000 per kilogram at peak, though prices have moderated
-- Contains cordycepin (3'-deoxyadenosine), adenosine, and other bioactive compounds
+- Contains cordycepin (3'-deoxyadenosine), adenosine, and other [[medicinal-mushroom-bioactive-compounds]]
 - CS-4 is a commercially available fermented mycelium product claimed to mimic wild C. sinensis
 - Classified as a protected species in China; harvest regulations have been implemented
 
 ## Beauveria
 
 ### Beauveria bassiana
-One of the most widely used entomopathogenic fungi in biological control.
+One of the most widely used entomopathogenic fungi in [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]].
 
 #### Host Range
 Extremely broad: over 700 insect host species documented, including:
@@ -84,7 +84,7 @@ Extremely broad: over 700 insect host species documented, including:
 #### Advantages
 - Broad host range provides flexibility
 - Can be applied as conventional spray or as attract-and-infect stations
-- Minimal non-target effects (though some concern for beneficial insects like honeybees)
+- Minimal non-target effects (though some concern [[query-how-do-i-design-habitat-for-beneficial-insects]] like honeybees)
 - Registered as organic-compatible in most jurisdictions
 - Insects do not develop resistance easily (unlike chemical insecticides)
 
@@ -122,7 +122,7 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 
 ### Lecanicillium lecanii
 - Effective against aphids, whiteflies, and scale insects
-- Also pathogenic on some fungal plant pathogens (mycoparasitic)
+- Also pathogenic on some [[bloomfield-fungal-plant-pathogens]] (mycoparasitic)
 - Commercially available as Vertalec and Mycotal
 
 ### Isaria fumosorosea

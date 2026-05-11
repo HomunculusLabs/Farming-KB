@@ -13,8 +13,8 @@ tags: [reference]
 ## The Word Teonanacatl
 
 The Nahuatl word "teonanacatl" -- variously translated as "flesh of the
-gods," "sacred mushroom," or "God's mushroom" -- was the term used by the
-Aztecs (Mexica) for the psychoactive mushrooms employed in their religious
+gods," "[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]," or "God's mushroom" -- was the term used by the
+Aztecs (Mexica) for the [[ceremonial-shamanic-use-psychoactive-mushrooms]] employed in their religious
 ceremonies. The word itself is a compound of "teo-" (divine, sacred, or
 god) and "nanacatl" (mushroom or flesh). This translation has been the
 subject of considerable scholarly debate: some have argued that "nanacatl"
@@ -66,9 +66,9 @@ in 1651 as Rerum Medicarum Novae Hispaniae Thesaurus, included descriptions
 of psychoactive mushrooms used by the indigenous population.
 
 Hernandez described several types of intoxicating mushrooms and noted their
-use in divination and healing rituals. His account, while coloured by the
+use in divination and [[shamanic-entheogenic-healing-rituals]]. His account, while coloured by the
 prejudices of his time, provides valuable ethnobotanical information and
-confirms that mushroom use was widespread in central Mexico at the time of
+confirms that mushroom use was widespread in [[psychoactive-cacti-of-central-mexico]] at the time of
 the Conquest. Hernandez classified the mushrooms according to their effects
 and the social contexts in which they were used, noting both their
 recreational and their religious applications.
@@ -84,52 +84,7 @@ interpreting the mushroom-shaped elements as literal depictions of
 [[cattle-dispersal-psychoactive-fungi-australia]] and others arguing they represent other objects
 entirely.
 
-The so-called "mushroom stones" of highland Guatemala -- small stone
+The so-called "[[mckenna-mushroom-stones-of-guatemala]]" of highland Guatemala -- small stone
 carvings dating from approximately 1000 BCE to 500 CE that depict human or
 anthropomorphic figures topped with mushroom-like caps -- provide earlier
-archaeological evidence of a mushroom cult in Mesoamerica, though their
-connection to the later Aztec practices described by Sahagun remains
-uncertain.
-
-## Wasson's Identification and Rediscovery
-
-The modern rediscovery of teonanacatl was the work of R. Gordon Wasson and
-his wife Valentina Pavlovna Wasson. Beginning in the 1950s, Wasson
-pieced together the historical and ethnographic evidence to argue that
-teonanacatl was indeed a psychoactive mushroom and not, as some scholars
-had claimed, a reference to peyote or another hallucinogenic plant.
-
-Wasson's famous expedition to Huautla de Jimenez in Oaxaca in 1955,
-where he participated in a velada (night ceremony) led by the Mazatec
-curandera Maria Sabina, confirmed beyond doubt that psychoactive
-mushrooms were still being used in contemporary Mexico. This
-rediscovery -- and Wasson's 1957 Life magazine article "Seeking the
-Magic Mushroom" -- launched the Western [[archaeology-of-psychedelic-mushroom-use]] movement
-and brought teonanacatl from the pages of colonial codices into global
-countercultural consciousness.
-
-## Scholarly Debate and Controversies
-
-The identification of teonanacatl has not been without controversy. Some
-scholars, notably Richard [[richard-evans-schultes-updated]], argued that multiple
-hallucinogenic plants may have been called by the same name, and that
-teonanacatl may have referred to peyote in some contexts. Others, including
-Wasson himself, maintained that the term specifically referred to
-psilocybin-containing mushrooms of the genus Psilocybe.
-
-The debate is complicated by the fact that Sahagun's informants were
-describing practices that had already been driven underground by Spanish
-persecution, and that the Nahuatl terminology was being translated through
-multiple linguistic filters. Nonetheless, the scholarly consensus now
-strongly supports the [[psilocybin-mushroom-identification-guide]], and the connection between
-teonanacatl and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is widely accepted in both
-anthropological and mycological circles.
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- magic-mushroom-british-underground-and-festivals
-- mexican-mushroom-stones-archaeological-evidence
-## See Also
-- [[psilocybin-mushrooms]]
-- [[richard-evans-schultes]]
-- mushroom-identification
-- [[valentina-pavlovna-wasson]]
-- [[psilocybin-mushroom]]
+archaeological evidence of a [[african-mushroom-cult-history]] in Mesoamerica, though their

@@ -87,29 +87,3 @@ It provides substrate and microhabitat for various invertebrates, including tard
 The species participates in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by intercepting atmospheric deposition and slowly releasing trapped minerals back to the forest floor through leaching and thallus fragmentation.
 
 Pertusaria corallina is relatively slow-growing, with radial expansion rates estimated at 1–3 mm per year under optimal conditions.
-
-Its sensitivity to air pollution makes it a reliable bioindicator species for monitoring long-term air quality trends in forest ecosystems.
-
-Declines in P. corallina populations have been documented in areas with elevated atmospheric sulphur dioxide and nitrogen oxides.
-
-The species shows intermediate tolerance compared to other Pertusaria species, making it useful for gradient studies along pollution transects.
-
-## Traditional Uses
-
-While not a major economic lichen species, Pertusaria corallina has limited documented use in traditional dye-making.
-
-The stictic acid content can yield yellow to brown dyes, though other lichen species such as Xanthoria parietina and Parmelia saxatilis are more commonly used for this purpose.
-
-Some Pertusaria species in European folk traditions were reportedly used as a bitter tonic or stomach remedy, though specific records for P. corallina are sparse.
-
-No modern pharmaceutical applications of P. corallina metabolites have been developed.
-
-Extracts of P. corallina have shown weak antimicrobial activity in preliminary bioassays, though this has not been pursued commercially.
-
-## See Also
-
-- [[cladonia-rangiferina]]
-- [[usnea-hirta]]
-- [[evernia-prunastri]]
-- [[xanthoria-parietina]]
-- [[cetraria-islandica]]

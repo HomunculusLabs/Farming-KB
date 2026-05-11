@@ -9,6 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Masanobu Fukuoka (1987). "The Road Back to Nature." Japan Publications.
 ---
 
@@ -86,43 +87,3 @@ rice crop every three years.
 By growing rice annually with a succession barley crop, starch production
 could be increased three-fold. One rice farmer told Fukuoka this would be "a
 revolution."
-
-## The Japanese Rice Paradox
-
-Fukuoka noted the irony that some Japanese officials tried to suppress his
-public speeches in America. They feared that if California got serious about
-growing rice, Japanese farmers would be unable to compete.
-
-He initially shared this fear but came to see it as misguided. The real issue
-was not production capacity but the purpose of agriculture.
-
-When farming serves export markets and geopolitical strategy rather than local
-nourishment, everyone loses — the American farmer, the Japanese farmer, and
-the consumer who receives poor-quality food.
-
-## Beyond Strategic Food
-
-Fukuoka's critique extended beyond policy into philosophy. He believed that
-food production should be reconnected to its spiritual and ecological
-foundations.
-
-Food grown in healthy soil by farmers who understand their land nourishes not
-just the body but the community and the ecosystem. It creates relationships
-rather than dependencies.
-
-The transformation from food as life-giving sustenance to food as strategic
-commodity represented, for Fukuoka, one of the deepest failures of modern
-civilization. It was both a cause and a symptom of humanity's divorce from
-nature.
-
-Reversing this transformation required not policy reform but a fundamental
-shift in how people understood their relationship to the land and to each
-other.
-
-## See Also
-
-- [[fukuoka-food-strategic-weapon-critique]]
-
-- [[fukuoka-disappearance-natural-diet]]
-- [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-seeding-real-green-revolution]]

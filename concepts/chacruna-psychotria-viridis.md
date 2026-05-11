@@ -1,5 +1,5 @@
 ---
-title: Chacruna ([[psychotria-viridis]])
+title: Chacruna Psychotria Viridis
 source: amaringo-p-ayahuasca-visions.md
 tags: [chacruna, psychotria-viridis, ayahuasca, dmt, ethnobotany, amazon]
 ---
@@ -88,40 +88,3 @@ until the mid-20th century.
 In Amazonian cosmology, chacruna is considered a plant-teacher with
 its own spirit (mother). According to the origin legend recorded by
 Amaringo, the chacruna plant was growing near the feet of the dead
-King Sinchihuyacui at his gravesite. His spirit instructed his widow
-to combine the vine (which grew from his hair) with the chacruna
-growing near his feet, creating the medicine that would allow future
-generations to "see fantastic colours and sounds" and "develop your
-psyche and acquire deep knowledge from past cultures."
-
-The name "chacruna" likely derives from Quechua, though its exact
-etymology is debated. In different regions of the Amazon, the plant
-is known by various names, and related *Psychotria* species may be
-used as substitutes when *P. viridis* is not locally available.
-
-## Preparation Considerations
-
-The vegetalista must collect chacruna in the morning while fasting.
-Only the leaves are used. The plant requires the same ritual respect
-as the ayahuasca vine — offerings, prayers, and icaros accompany its
-harvest and inclusion in the brew. Mixing too many admixture plants
-is discouraged; the traditional practice favors ayahuasca plus
-chacruna as the primary combination, with at most one additional
-plant added for specific purposes.
-
-## Modern Research and Legal Status
-
-DMT is classified as a Schedule I controlled substance in many
-countries, making the possession and use of chacruna legally
-restricted in much of the world. However, in several [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
-countries including Peru, Brazil, and Colombia, the traditional use
-of ayahuasca (and by extension chacruna) in indigenous and religious
-ceremonies is legally protected. Contemporary research into the
-[[metzner-ayahuasca-therapeutic-potential]] of ayahuasca for treating depression, PTSD,
-and substance use disorders has renewed scientific interest in the
-pharmacological properties of *Psychotria viridis*.
-
-## See Also
-- [[plant-mothers-spirits]]
-- [[icaros-power-songs]]
-- [[schultes-psychotria-chacruna-dmt-admixture]]

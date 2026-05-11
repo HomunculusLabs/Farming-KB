@@ -10,7 +10,7 @@ duration of light and dark periods. Discovered in southern Maryland around
 almost never flowered under normal field conditions, a trait that baffled
 farmers and botanists alike. It was ultimately the investigation of
 Maryland Mammoth's flowering behavior by USDA scientists Wightman Wells
-Garner and Harry Ardell Allard that revealed that day length controls
+Garner and Harry Ardell Allard that revealed that [[coleman-persephone-months-winter-day-length]] controls
 flowering in plants, establishing one of the most important concepts in
 modern plant biology.
 
@@ -23,9 +23,9 @@ acquainted with normal tobacco growth patterns. What made Maryland Mammoth
 remarkable was its sheer size and vegetative vigor: plants routinely reached
 4.5 meters (approximately 15 feet) in height and produced around 100 large
 leaves, far exceeding the dimensions of standard tobacco varieties. Despite
-this luxuriant vegetative growth, the plants very rarely produced flowers,
+this luxuriant [[cannabis-vegetative-growth-stage]], the plants very rarely produced flowers,
 and when they did, flowering occurred only late in the season. From a
-farmer's perspective, the variety was useless for seed production and posed
+farmer's perspective, the variety was useless for [[cannabis-controlled-pollination-seed-production]] and posed
 a puzzle for anyone attempting to understand its developmental biology.
 
 ## Early Observations and Confusion
@@ -88,36 +88,3 @@ is one of the most cited papers in plant physiology and established the
 concept of photoperiodism that remains central to the field today. The
 paper documented responses in Maryland Mammoth and numerous other species,
 establishing the general applicability of the photoperiodic concept.
-
-## Legacy and Continuing Relevance
-
-The legacy of Maryland Mammoth extends far beyond its original discovery.
-Photoperiodism is now understood to be one of the most important
-environmental signals controlling plant development, influencing not only
-flowering but also tuber formation, bud dormancy, leaf senescence, and
-many other processes. In modern [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], the principles first
-elucidated with Maryland Mammoth are applied daily: most drug-type cannabis
-cultivars are short-day plants that require a 12-hour photoperiod to
-flower, and indoor growers manipulate light cycles to control the
-transition from vegetative growth to flowering. The Maryland Mammoth story
-also illustrates a broader principle in biology — that organisms with
-unusual or extreme phenotypes often serve as the most powerful tools for
-discovering fundamental biological mechanisms that apply broadly across
-the tree of life.
-
-## Related Topics
-
-- [[photoperiodism-garner-allard-discovery]]
-- [[phytochrome-plant-light-sensing]]
-- [[phototropism-darwin-experiments]]
-- cannabis flowering photoperiod control
-
-## Sources
-
-- Garner, W.W., and Allard, H.A. "Effect of the relative length of day
-  and night and other factors of the environment on growth and reproduction
-  in plants." Journal of [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] (1920).
-- Chamovitz, D. "What a Plant Knows." Scientific American / Farrar,
-  Straus and Giroux (2012).
-- Thomas, B., and Vince-Prue, D. "Photoperiodism in Plants." Academic
-  Press (1997).

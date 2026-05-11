@@ -1,5 +1,5 @@
 ---
-title: "Self-Transforming [[dmt-machine-elves]] and DMT Entities"
+title: Mckenna Self Transforming Machine Elves Dmt Entities
 aliases: [machine elves, DMT entities, hyperspace elves, McKenna elves]
 tags: [psychedelics, DMT, consciousness, entity-encounter, phenomenology, tryptamines]
 source: mckenna_t-tryptamines_consciousness.md
@@ -88,42 +88,3 @@ something going on with these compounds that is not part of the normal
 presentational spectrum of hallucinogenic drug experience."
 
 ## The Epistemological Challenge
-
-The entity encounter poses a fundamental epistemological challenge. McKenna
-insisted on approaching these beings with critical engagement rather than naive
-acceptance: "You say you are omniscient, omnipresent, or you say you are from Zeta
-Reticuli. You're long on talk, but what can you show me?" He distinguished between
-encounters with different classes of entities, noting that "the demons are of many
-kinds: Some are made of ions, some of mind; the ones of ketamine, you'll find,
-stutter often and are blind."
-
-This critical stance did not lead McKenna to dismiss the experiences as mere
-hallucination. Instead, he argued that "magic is alive in hyperspace" and that
-forming a relationship with these hallucinogenic plants provides access to gnosis.
-"The fact is that the gnosis comes from plants," he wrote. "There is some certainty
-that one is dealing with a creature of integrity if one deals with a plant, but
-the creatures born in the demonic artifice of laboratories have to be dealt with
-very, very carefully."
-
-## Unanticipated Phenomena and Exploration
-
-McKenna mentioned these [[dmt-entity-encounters-and-the-logos]] "to invite the attention of
-experimentalists, whether they be shamans or scientists." He noted that "there is
-something going on with these compounds that is not part of the normal
-presentational spectrum of hallucinogenic drug experience." When one begins to
-experiment with one's voice under the influence of DMT, "unanticipated phenomena
-become possible" that go beyond the standard model of psychedelic effects.
-
-He called himself "an explorer rather than a scientist, because the area that I'm
-looking at contains insufficient data to support even the dream of being a
-science." Yet he maintained that the experiences are primary data for being, and
-that the dimension they reveal "is not remote, and yet it is so unspeakably bizarre
-that it casts into doubt all of humanity's historical assumptions."
-
-## See Also
-
-- [[mckenna-dmt-hyperspace-translinguistic-matter]]
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- dmt endogenous tryptamine biosynthesis
-- psilocybin entity encounter phenomenology
-- serotonin 5 ht receptor system overview

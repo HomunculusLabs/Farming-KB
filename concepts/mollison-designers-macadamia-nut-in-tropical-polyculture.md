@@ -1,5 +1,5 @@
 ---
-title: mollison designers macadamia nut in tropical polyculture in Tropical Polyculture
+title: Mollison Designers Macadamia Nut In Tropical Polyculture
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -40,12 +41,12 @@ intercrops and livestock.
 
 Macadamia seedlings can be spot-mulched with compost and macadamia nut
 husks, which provide both mulch and a slow-release source of nutrients.
-The husks break down gradually, feeding the developing tree while
+The husks [[query-can-fungi-break-down-plastic-pollution]] gradually, feeding the developing tree while
 suppressing weeds and retaining moisture around the root zone.
 
 As with other tree crops, macadamia are excellent to establish with
 [[permaculture-plants-pioneer-nurse-trees]] species. Leguminous trees such as Leucaena, Glyricidia,
-Tipuana tipu, and Moringa provide shade, [[cervantes-wind-protection-outdoor-cannabis]], and nitrogen
+[[tipuana-tipu]], and Moringa provide shade, [[cervantes-wind-protection-outdoor-cannabis]], and nitrogen
 fixation during the early years while macadamia trees establish their
 canopy and root systems.
 
@@ -69,12 +70,12 @@ Macadamia nut husks are specifically noted as a valuable mulch material.
 In the discussion of coconut husks and fronds, Mollison extends the
 principle to other nut husks as useful mulch that can be concentrated
 around the base of trees. The thick husks break down slowly, providing
-long-lasting weed suppression and moisture retention.
+long-lasting [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] and moisture retention.
 
 ## Wind Sensitivity and Site Selection
 
 Macadamia, coconut, and pecan are listed as wind-sensitive large trees
-that require careful site selection and wind protection. In exposed sites,
+that require careful site selection and [[coleman-cold-house-wind-protection-microclimate]]. In exposed sites,
 windbreak plantings of bamboo, Casuarina, or other hardy species should be
 established before macadamia trees are planted.
 
@@ -87,37 +88,3 @@ moderation function for the macadamia understory.
 
 Macadamia nuts command high market prices as a gourmet food product. In
 polyculture systems, the nuts provide a high-value component that
-subsidises the lower-value but ecologically essential components of the
-system (legumes, mulch trees, [[permaculture-plants-food-forest-ground-covers-bamboos]]). The long productive life of
-macadamia trees (40-100+ years) means they provide reliable returns over
-decades once established.
-
-## Soil Requirements
-
-Macadamia trees require well-drained soils and are sensitive to waterlogging.
-They perform best on deep, fertile, well-drained loams in subtropical
-regions with 1,000-2,000 mm of annual rainfall. In the species selection
-framework, macadamia is suited to the same general conditions as avocado,
-citrus, and other subtropical evergreen fruit trees.
-
-## Species Selection
-
-The Manual lists Macadamia spp., especially M. integrifolia. Two main
-commercial species exist:
-- Macadamia integrifolia (smooth-shelled) -- preferred for commercial
-  production, thicker shell, higher oil content
-- Macadamia tetraphylla (rough-shelled) -- more cold-tolerant, thinner
-  shell, suited to cooler subtropical areas
-
-## Companion Species in Orchards
-
-In [[mollison-tropical-home-garden-design]] garden and orchard systems, macadamia is listed alongside
-citrus, guava, and other fruit trees. The combination provides diverse
-harvests across seasons while the different root depths and canopy
-architectures reduce competition and maximise resource use efficiency.
-
-## Related Concepts
-
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[mollison-tropical-earth-shaping-polyculture-economics]]
-- [[mollison-farm-forestry-and-woodlot-design]]

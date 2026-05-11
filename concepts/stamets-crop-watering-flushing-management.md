@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -87,63 +88,3 @@ contaminants. Fill exposed holes with moist casing material.
 One of the common contaminants in [[duggar-mushroom-growing-history-and-methods]] is Bacterial Blotch
 (Pseudomonas). Blotch results from mushroom caps that remain wet for extended
 periods. Agaricus growers attempt to dry recently watered mushroom caps as
-quickly as possible by lowering humidity, increasing air circulation, or
-raising air temperature 1-2 degrees F.
-
-Growers also stop watering once the mushroom cap has reached adolescence
-because wet caps become prime sites for disease. If Bacterial Blotch or other
-diseases appear, these areas should not be watered. A common strategy for
-serious outbreaks is to lower relative humidity and run the casing drier than
-normal. Agaricus cultivators also use slightly chlorinated water (150 ppm).
-
-## Harvesting Techniques
-
-The way mushrooms are picked can dramatically affect future flushes. The most
-important factor is timing. Agaricus brunnescens should be picked before the
-veil breaks and the stem elongates. Massive spore release from mature mushrooms
-can cover the casing and inhibit further pinhead development.
-
-### Picking Procedures
-
-1. Grasp the base of the stem with a twisting motion, pulling the mushroom
-   from the casing without disturbing neighboring pinheads.
-
-2. Trim the stem base, removing only flesh to which casing or substrate is
-   attached. All trimmings should be placed in a sealed bag and removed.
-
-3. Mushrooms growing in clumps should be broken apart and harvested
-   individually. Leave immature mushrooms attached to the casing.
-
-The best pickers are meticulous, unhurried, and treat the mushrooms with care.
-Damage to resting pinheads during picking can be costly when multiplied across
-hundreds of cultures.
-
-## Maximizing Flushing Speed
-
-To increase flushing speed, the actual harvest period in each flush should be
-kept short and concise. Late developing mushrooms are removed on or after peak
-production. The sooner the flush is completely removed, the quicker the next
-one appears and the shorter the overall cropping cycle.
-
-Stunted, undeveloped mushrooms are cleared from the cropping surface between
-breaks with care not to disturb the casing. At no time should the casing be
-over-handled in an attempt to clean, as this can spread disease spores.
-
-## Air Movement and Fresh Air
-
-Air movement in the growing room creates an even flow across all levels of
-cropping surface, counteracting temperature stratification and dead air pockets.
-For Agaricus brunnescens, 4-6 air changes per hour is common; for Psilocybe
-cubensis, 2-3 changes per hour is sufficient.
-
-Too much fresh air is preferable to insufficient supply. However, fresh air
-displaces room air and unless preconditioned, disrupts the [[cannabis-growing-environment-setup]].
-CO2 tolerant species give the grower an advantage since they need less fresh
-## See Also
-
-- [[stamets-pinning-initiation-stages-environmental-control]]
-- stamets-casing-layer-design
-- [[stamets-growing-room-air-circulation-co2-management]]
-- [[agaricus-brunnescens]]
-- [[mushroom-crop-sustaining-flushing-watering-harvesting]]
-- [[mushroom-cultivator-flush-management-watering]]

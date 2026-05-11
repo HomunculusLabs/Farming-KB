@@ -1,5 +1,5 @@
 ---
-title: "plants of the gods turbina corymbosa ololiuqui: The Ololiuqui Vine"
+title: Plants Of The Gods Turbina Corymbosa Ololiuqui
 created: 2026-04-28
 tags:
   - ololiuqui
@@ -18,7 +18,7 @@ type: concept
 
 ## Botanical Description
 
-*Turbina corymbosa* (L.) Raf. [= *Rivea corymbosa*] is a large woody
+*Turbina corymbosa* (L.) Raf. [= *[[rivea-corymbosa]]*] is a large woody
 vine belonging to the Convolvulaceae ([[golden-guide-morning-glory-and-ololiuqui]] family), native to
 the tropical zones of the Americas, most abundantly in Mexico and Cuba.
 The plant has heart-shaped leaves 2-3.5 in. (5-9 cm) long and 1-1.5 in.
@@ -27,7 +27,7 @@ corollas 0.75-1.5 in. (2-4 cm) long, white with greenish stripes. The
 fruit is dry, indehiscent, and ellipsoidal with persistent enlarged
 sepals, bearing a single hard, roundish, brown, minutely hairy seed
 about 0.12 in. (3 mm) in diameter. The seeds contain the psychoactive
-ergoline alkaloids [[ergot-and-lysergic-acid-history]] amide and lysergic acid
+[[morning-glory-lsa-and-ergoline-alkaloids]] [[ergot-and-lysergic-acid-history]] amide and lysergic acid
 hydroxyethylamide, chemically analogous to LSD.
 
 ## History and Aztec Use
@@ -71,8 +71,8 @@ Lysergic acid alkaloids are the hallucinogenic compounds of Ololiuqui.
 These indole alkaloids have also been isolated from [[schultes-psilocybe-little-flowers-gods]]
 and the brain hormone serotonin.
 
-LSD, lysergic acid diethylamide, is a semi-synthetic compound and the
-most potent hallucinogen known. It differs from lysergic acid amide
+LSD, [[lysergic-acid-diethylamide]], is a semi-synthetic compound and the
+most potent hallucinogen known. It differs from [[lysergic-acid-amide-containing-plants-halpern]]
 only by replacement of two hydrogen atoms for two ethyl groups. The
 active principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100
 times less potent than LSD (hallucinogenic dose 0.05 mg).
@@ -86,56 +86,4 @@ those of *Turbina corymbosa* are round and brown. In Zapotec villages
 both species may be known; in others, only *I. violacea* is used. The
 black seeds (called "macho") are taken by men; the brown seeds ("hembra")
 by women. The black seeds are more potent -- an assertion confirmed by
-chemical studies.
-
-## Divination and Modern Ritual
-
-During intoxication, "intermediaries" -- the fantastical baduwin, or
-two little girls in white -- appear during the seance to provide
-revelations about illness or divinations about lost objects. A recent
-report of the use of seeds among the Zapotec indicates that Badoh
-Negro is indeed a significant element in the life of these Indians:
-"... Divination about recovery in sickness is also practiced by means
-of a plant which is described as a narcotic. This plant... grows in the
-yard... of a family who sells its leaves and seeds... to administer to
-patients... The patient, who must be alone with the curer if not in a
-solitary place where he cannot hear even a cock's crow, falls into a
-sleep during which the little ones, male and female, the plant children
-[bador], come and talk. These plant spirits will also give information
-about lost objects."
-
-The modern ritual with Morning Glory seeds has incorporated Christian
-elements. Names like Semilla de la Virgen ("seed of the Virgin") and
-Hierba Maria ("Mary's herb") show the union of Christian with pagan
-traditions, clearly indicating that *Turbina corymbosa* and *Ipomoea
-violacea* are considered gifts from the gods.
-
-## Artistic and Archaeological Evidence
-
-Ancient murals from Teotihuacan (c. AD 500) depict highly stylized
-vines of Ololiuqui with hallucinogenic nectar flowing from blossoms and
-"disembodied eyes," stylistic features associated with visionary states.
-The Aztec statue of Xochipilli, the Prince of Flowers, unearthed on the
-slopes of Popocatepetl, bears stylized glyphs including the tendril of
-the Morning Glory. In Cuba, *T. corymbosa* is very abundant in the
-western part of the island and flowers in December; a Cuban stamp was
-issued depicting the plant. Xtabentun, "the Jewel Cordial," is made
-from honey collected from the Ololiuqui flower.
-
-## Pharmacological Effects
-
-According to shamans, the aftereffects of Ololiuqui are so strong that
-the plant is used for divination, prophecy, and diagnosis of disease
-only when other "medicines" are unavailable, or for especially difficult
-cases. The seeds must be collected by the person who is to be treated,
-are ground on a metate, mixed with water, filtered, and drunk at night
-in a quiet, secluded place. The Indians report that intoxication lasts
-three hours and seldom has unpleasant aftereffects.
-
-## Relationship to Other Hallucinogens
-
-The ergoline alkaloids of Ololiuqui place it in a chemical family that
-includes the [[schultes-psilocybe-little-flowers-gods]] mushrooms, and the
-indole alkaloids of [[plants-of-the-gods-chemical-structures-hallucinogens]] of these compounds reveal their fundamental molecular
-relationships to brain neurotransmitters serotonin and norepinephrine,
-explaining their powerful psychotropic effects.
+[[chemical-studies-neurotropic-fungi-reliability-and-challenges]].

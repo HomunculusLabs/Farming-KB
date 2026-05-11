@@ -38,11 +38,11 @@ This system effectively makes phytochrome a biological light switch that remembe
 
 ## The Ecological Logic of Phytochrome
 
-The red/far-red detection system has deep [[lichen-biology-and-ecological-significance]] in nature:
+The red/far-red detection system has deep [[lichen-biology-guide]] in nature:
 
-- **Canopy shade detection** — chlorophyll in leaves absorbs red light strongly but reflects far-red light. A plant growing beneath a canopy receives a lower red-to-far-red ratio than one in full sun. Phytochrome detects this shift and triggers shade avoidance responses: stem elongation, leaf repositioning, and accelerated flowering.
+- **Canopy [[phytochrome-red-far-red-ratio-shade-detection-plants]]** — chlorophyll in leaves absorbs red light strongly but reflects far-red light. A plant growing beneath a canopy receives a lower red-to-far-red ratio than one in full sun. Phytochrome detects this shift and triggers [[shade-avoidance-syndrome]] responses: stem elongation, leaf repositioning, and accelerated flowering.
 - **Dawn and dusk signaling** — at sunset, the light passing through the atmosphere is enriched in far-red wavelengths (this is why sunsets appear red). The last light a plant sees each day is far-red, which converts Pfr back to Pr and signals the plant that darkness is coming. At sunrise, the enriched red light converts Pr to Pfr, "waking up" the plant's metabolic systems.
-- **Seed germination** — many seeds require red light to germinate (they use phytochrome to detect that they are close enough to the soil surface to receive light, meaning they are not buried too deeply). Far-red light inhibits germination, signaling that other vegetation may be growing above.
+- **[[cannabis-seed-germination]]** — many seeds require red light to germinate (they use phytochrome to detect that they are close enough to the soil surface to receive light, meaning they are not buried too deeply). Far-red light inhibits germination, signaling that other vegetation may be growing above.
 - **Neighbor detection** — plants can detect nearby competitors even before physical shading occurs, because the reflected far-red light from neighboring leaves signals the presence of competition.
 
 ## Photoperiodism and Flowering
@@ -62,7 +62,7 @@ Unlike phototropism (which Darwin showed is sensed at the shoot tip), phytochrom
 
 - Illuminating a single leaf with red light in the middle of the night is sufficient to regulate flowering in the entire plant
 - If all leaves are removed, leaving only the stem and apex, the plant is completely blind to red/far-red light flashes
-- This means phytochrome in the leaves receives light cues and initiates a mobile signal (now known to be the FT protein, "florigen") that travels to the shoot apex and induces or suppresses flowering
+- This means phytochrome in the leaves receives light cues and initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] (now known to be the FT protein, "florigen") that travels to the shoot apex and induces or suppresses flowering
 
 ## Types of Phytochrome
 
@@ -72,7 +72,7 @@ Higher plants possess multiple phytochrome genes, each encoding a slightly diffe
 - **phyB** — the primary photoreceptor for red/far-red reversible responses; regulates shade avoidance, flowering time, and seed germination in response to light pulses; the most abundant phytochrome in light-grown plants
 - **phyC** — works in conjunction with phyB to regulate flowering and light-responsive gene expression
 - **phyD** — contributes to shade avoidance responses, particularly in conjunction with phyB
-- **phyE** — involved in red light sensing and flowering regulation under specific light conditions
+- **phyE** — involved in red [[darwin-phototropism-experiments-plant-light-sensing]] and flowering regulation under specific light conditions
 
 Each phytochrome consists of a protein component (apoprotein) covalently bound to a light-absorbing chromophore called phytochromobilin, which is structurally related to the heme group in hemoglobin and the chlorophyll in leaves. It is the chromophore that actually absorbs the red and far-red photons and triggers the conformational change in the protein.
 
@@ -83,38 +83,8 @@ When phytochrome converts from Pr to Pfr, the activated photoreceptor initiates 
 1. **Nuclear translocation** — Pfr moves from the cytoplasm into the cell nucleus within minutes of red light activation
 2. **Transcription factor interaction** — Pfr interacts with transcription factors called PIFs (Phytochrome Interacting Factors), which are basic helix-loop-helix (bHLH) proteins that regulate light-responsive gene expression
 3. **PIF degradation** — Pfr binding to PIFs targets them for ubiquitination and proteasomal degradation, effectively removing repressors of light-responsive genes
-4. **Gene activation** — with PIF repressors removed, genes involved in chlorophyll synthesis, cell elongation control, and flowering are activated
+4. **Gene activation** — with PIF repressors removed, genes involved in chlorophyll synthesis, [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] control, and flowering are activated
 
 This signaling pathway explains how a few seconds of light can trigger hours-long developmental responses — the initial light signal is amplified through transcriptional reprogramming.
 
 ## Evolutionary History
-
-Phytochromes are ancient photoreceptors that predate the evolution of land plants. They are found in cyanobacteria, where they likely originated as light sensors for optimizing photosynthesis. The bacterial ancestors of chloroplasts (cyanobacteria) used phytochrome-like proteins to sense light quality long before plants existed. Through evolution, these photoreceptors were co-opted and diversified by plants for an ever-wider range of light-mediated developmental decisions.
-
-Fungal phytochromes also exist and regulate developmental processes in response to red light, suggesting that the phytochrome system was present in the common ancestor of plants and fungi before their divergence over a billion years ago.
-
-## Agricultural Applications
-
-Understanding phytochrome has enabled several practical applications in agriculture and horticulture:
-
-- **Greenhouse lighting** — growers can manipulate flowering by controlling the duration and color of supplemental light, allowing year-round production of seasonal crops
-- **Chrysanthemum production** — these short-day plants are kept vegetative by brief red light pulses at night through autumn, then allowed to flower by stopping the treatment two weeks before market
-- **Nursery stock management** — far-red light treatments can control height and branching in ornamental plants without chemical growth regulators
-- **Seed treatment** — red light exposure can break dormancy in light-requiring seeds, improving germination rates
-- **Indoor growing** — LED grow lights can be programmed with specific red-to-far-red ratios to optimize vegetative growth (higher red) or flowering (controlled red/far-red cycling)
-- **[[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]** — [[chrysanthemum-greenhouse-photoperiod-manipulation]] is fundamental to cannabis growing, with most cultivars flowering under 12-hour light/12-hour dark cycles. Understanding the underlying phytochrome mechanism allows growers to optimize light schedules for maximum yield and cannabinoid production.
-
-## Phytochrome vs Other Photoreceptors
-
-Plants possess multiple photoreceptor systems that detect different aspects of light:
-
-- **Cryptochromes** — detect blue and UV-A light; involved in circadian clock regulation and de-etiolation
-- **Phototropins** — detect blue light; mediate phototropism (bending toward light), chloroplast movement, and stomatal opening
-- **UVR8** — detects UV-B light; activates UV [[singh-endophytic-fungi-plant-protection-mechanisms]]
-- **Phytochromes** — detect red and far-red light; mediate photoperiodism, shade avoidance, seed germination, and many developmental transitions
-
-Together, these photoreceptor systems give plants a comprehensive perception of their light environment that, while fundamentally different from animal vision, is remarkably sophisticated.
-
-## See Also
-
-- [[photoperiodism-plants-measure-night-length]] — how plants use phytochrome to measure night length and time flowering

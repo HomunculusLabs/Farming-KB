@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Polyculture Examples
@@ -87,21 +88,3 @@ Factors that determine the best composition:
 - Temperature
 - Wind and frost
 - Intended purpose of the plot
-
-### For Market/Pick-Your-Own
-- Sow appropriate vegetables
-- Select catch crops for year-round range
-
-### For Livestock Feed
-- Clover with vegetables as catch crop makes excellent food source
-
-### General Rules
-- Begin on a small scale
-- Observe crops as they develop before scaling up
-- Always use a balanced mixture including soil-improving and nitrogen-fixing plants
-- Never harvest everything -- leave some as mulch and green manure
-- When second crop is used as green manure, it provides immediate yield: seeds for other plots
-
-See also: permaculture-companion-planting, [[cover-cropping-guide]]
-- [[holzer-green-manure-and-soil-building-plants]]
-- [[fukuoka-white-clover-cover-crop-system]]

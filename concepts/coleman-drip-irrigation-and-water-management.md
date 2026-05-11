@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - ~/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
 type: concept
 ---
 
 # Drip Irrigation and Water Management
 
-Water management in the [[coleman-claytonia-winter-harvest-cultivation]] system is fundamentally different
+[[water-management]] in the [[coleman-claytonia-winter-harvest-cultivation]] system is fundamentally different
 from summer growing. The cold, low-light environment of an unheated
 greenhouse dramatically reduces evaporation, and the freeze-thaw cycles
 of winter create unique challenges for irrigation. Coleman's approach
@@ -50,8 +51,8 @@ and improve resistance to pests like cucumber beetles.
 
 ## The French Irrigation Heritage
 
-The historical Parisian market gardeners also understood efficient water
-delivery. At Louis Savier's garden in the 1970s, a third rail cart
+The historical [[parisian-market-gardening]] gardeners also understood efficient water
+delivery. At [[coleman-louis-savier-twentieth-century-maraicher]]'s garden in the 1970s, a third rail cart
 carried the irrigation system. It had long arms sticking out to either
 side, dispensing water through nozzles, and was self-propelled by water
 pressure as it towed the hose behind itself down the lightweight rail
@@ -61,9 +62,9 @@ garden.
 
 ## Water Quality and Testing
 
-All irrigation and wash water at Four Season Farm comes from a drilled
+All irrigation and wash water at [[coleman-four-season-farm]] comes from a drilled
 well that is tested annually. Water quality is particularly important for
-a farm selling fresh, raw foods. The washing and packing system must be
+a farm selling fresh, raw foods. The [[coleman-winter-harvest-washing-and-packing]] system must be
 prevented from freezing, which influences [[passive-solar-design]]. One-quarter
 of the original washing and packing greenhouse had a concrete floor with
 space for the washing and packing operation, requiring protection from
@@ -83,36 +84,6 @@ The freeze-thaw cycle also affects irrigation infrastructure. Hose and
 pipe connections must be drained or protected during the coldest periods.
 The temporary nature of some winter watering needs means that portable or
 easily drained systems may be preferable to permanently installed drip
-lines in cold climates.
+lines [[query-how-do-i-grow-figs-in-cold-climates]].
 
 ## Moisture and Heat Storage
-
-Water's high specific heat capacity makes it relevant to greenhouse heat
-management. While Coleman relies primarily on the soil itself as a heat
-storage medium, any water present in the soil contributes to thermal mass.
-The moisture that condenses on floating row covers at night is
-noteworthy: rather than being radiated away through the cover material as
-it would on an open surface, it is returned to the soil the next day
-when the condensed moisture on the inner cover evaporates in the sun.
-
-## Seasonal Water Management Calendar
-
-Water management shifts through the year on a four-season farm. During
-the summer greenhouse season, irrigation is frequent and substantial,
-driven by high temperatures and actively growing crops. As fall
-progresses, irrigation is gradually reduced. During the deepest winter
-months, the weekly flushing irrigation on sunny mornings serves mainly to
-manage nitrogen levels and maintain biological activity in the soil
-rather than to supply water for transpiration. In spring, as light levels
-and temperatures rise, irrigation frequency increases again. Understanding
-these seasonal rhythms helps growers avoid both waterlogging and drought
-stress in the protected [[cannabis-growing-environment-setup]].
-
-## Related
-
-- [[coleman-beneficial-insects-and-ecological-pest-control]] — how
-  irrigation solved an aphid problem
-- [[coleman-pest-management]] — pest pressure influenced by soil
-  nitrogen and moisture
-- [[coleman-season-extension-timeline-and-frost-protection]] —
-  temperature management related to moisture

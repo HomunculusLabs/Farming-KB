@@ -88,27 +88,3 @@ the initial mechanism (Stahl et al.).
 
 ECM fungi are among the biological agents employed for PCB
 bioremediation. ECM fungi show degradation of 14 of 21 PCBs (Donnelly
-and Fletcher, 1995). At least 14 fungi metabolize 20% of PCBs. Lower
-chlorinated congeners degrade more rapidly than higher chlorinated
-congeners. Gautieria crispa and Radiigera atrogleba metabolize the
-highest number of congeners: five and seven, respectively. PCBs are
-better degraded by Suillus granulatus than by Hymenoscyphus ericae.
-
-## Organofluorine Compound Transformation
-
-Tylospora fibrillosa and other ECM species degraded 4-fluorobiphenyl
-(4-FBP) in batch cultures (Green et al., 1999b). Four major
-biotransformation products were detected by HPLC, and six major
-fluorine-containing products were recognized by NMR spectroscopy. Two
-major products, 4-fluorobiphen-4'-ol and 4-fluorobiphen-3'-ol, were
-confirmed. More than 85% of 4-FBP was degraded during incubation with
-T. fibrillosa, showing involvement of monoxygenation pathways.
-
-## See Also
-
-- mycoremediation-of-explosives
-- [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- singh-fungal-degradation-pcbs-dioxins
-- [[ectomycorrhiza]]
-- [[suillus-grevillei]]
-- [[suillus-granulatus]]

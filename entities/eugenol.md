@@ -88,37 +88,3 @@ The plasma half-life is relatively short, typically 1–2 hours, reflecting effi
 
 Distribution studies in rodents indicate that eugenol readily crosses the blood-brain barrier,
 supporting its observed central nervous system effects including anxiolysis and antinociception.
-Peak plasma concentrations following oral dosing are typically achieved within 30–60 minutes.
-
-## Safety and Toxicology
-- **Low-dose safety** — Generally recognized as safe (GRAS) by regulatory agencies when consumed at dietary levels. Typical exposure from food and flavoring agents is well below thresholds of concern.
-- **Hepatotoxicity** — High-dose administration (≥500 mg/kg) in animal studies has produced centrilobular hepatic necrosis, elevated transaminases, and oxidative liver damage. The mechanism involves metabolic activation to reactive quinone intermediates.
-- **Contact allergen** — Prolonged dermal exposure, particularly among dental workers handling zinc oxide–eugenol cements, can cause allergic contact dermatitis. Patch testing with eugenol is included in standard dental allergen panels.
-- **Mucosal irritation** — Undiluted clove oil or concentrated eugenol can cause chemical burns on oral and gingival mucosa. Dilution to ≤5% is recommended for topical applications.
-- **Drug interactions** — May potentiate the effects of anticoagulants and other compounds metabolized by cytochrome P450enzyme inhibition nzyme inhibition at high concentrations.
-
-## Industrial Uses
-
-- **Perfumery** — Valued as a warm, spicy base note in oriental and spice-type fragrance compositions
-- **Flavoring agent** — Widely used in food, beverage, and confectionery industries as a clove or spice flavoring
-- **Dental materials** — Zinc oxide–eugenol (ZOE) cement serves as a temporary filling material, root canal sealer, and impression paste
-- **Pesticide** — Formulated as a natural acaricide and insect repellent in agricultural and veterinary applications
-- **Pharmaceutical excipient** — Used as a flavoring and antimicrobial preservative in oral pharmaceutical formulations
-
-## See Also
-
-- [[linalool]]
-- caryophyllene-oxide
-- [[limonene]]
-- [[cinnamomum-verum]]
-
-## References
-
-1. PubChem Compound Summary. National Center for Biotechnology Information. https://pubchem.ncbi.nlm.nih.gov/compound/Eugenol
-2. Pramod, K., Tahir, M.A., Charoo, N.A., Ansari, S.H., & Ali, J. (2010). Eugenol: A natural compound with versatile pharmacological actions. *Natural Product Communications*, 5(12), 1999–2006.
-3. Kaufmann, S.H., et al. (2000). Eugenol and capsaicin effects on ion channels. *Pain*, 88(3), 267–274.
-4. Mulyaningsih, S., Sporer, F., Zimmermann, S., Reichling, J., & Wink, M. (2010). Antimicrobial activity of eugenol. *Fitoterapia*, 81(7), 827–831.
-
-5. Daniel, A.N., et al. (2009). Anti-inflammatory and antinociceptive activities of eugenol assessed in animal models. *Revista Brasileira de Farmacognosia*, 19(1B), 212–217.
-
-6. Kulkarni, R., et al. (2011). Eugenol: A review of its pharmacological activities and therapeutic potential in dentistry. *Journal of Oral Science*, 53(1), 7–13.

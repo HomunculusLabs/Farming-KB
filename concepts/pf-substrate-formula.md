@@ -1,5 +1,5 @@
 ---
-title: PF [[pf-tek-maximum-fruiting-substrate-formula]]
+title: Pf Substrate Formula
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [mycology, mushroom-cultivation, pf-tek]
 created: 2026-05-09
@@ -88,52 +88,3 @@ flour that may have sat on shelves for months.
 
 Measurement accuracy matters. A proper cup measure holds 237 milliliters
 (1/2 pint or 8 liquid ounces). Verify measuring cups: 2 cups in a pint,
-2 pints in a quart, 4 cups in a quart. Inaccurate measurements lead to
-failure or diminished growth.
-
-## The Dry Vermiculite Top Layer
-
-One of the most important PF TEK innovations is the dry vermiculite barrier
-layer. After filling the jar loosely with moist substrate and leaving 1/2
-to 3/4 inch of space at the top, the inside walls are wiped clean down to
-substrate level using a tissue or fingertip. The remaining space is filled
-with plain dry vermiculite and leveled flush with the jar rim.
-
-This dry layer serves two functions. First, it protects the wet nutritious
-substrate from airborne contaminants. Second, it absorbs and regulates
-moisture from transpiration and condensation within the jar. During
-inoculation, this layer must be disturbed as little as possible — the
-underlying substrate must never be exposed to open air.
-
-## Jar Preparation Steps
-
-1. **Mix**: Place 1/2 cup vermiculite in a mixing bowl, add brown rice
-   powder on top, and slowly add water directly onto the rice powder to
-   wet it first. Mix thoroughly until damp and cohesive. Mix each jar's
-   substrate individually for accurate formula rendering.
-
-2. **Fill**: Fill the jar very loosely, leaving 1/2 to 3/4 inch of space
-   at the top. Level the substrate surface.
-
-3. **Wipe**: Using a tissue or fingertip, wipe the inside of the jar clean
-   down to the substrate level.
-
-4. **Barrier**: Fill the top with plain dry vermiculite and level flush
-   with the jar rim.
-
-5. **Seal**: Place the canning lid on with the rubberized edge up. Screw
-   the lid band on and cover needle holes with professional-grade masking
-   tape.
-
-## Why Tapered Half-Pint Jars Are Required
-
-Jars must be exactly 1/2 pint (8 ounce, 250 ml) capacity with tapered
-sides and no shoulders. Suitable options include Kerr wide-mouth half-pint
-canning jars, Ball regular-mouth half-pint canning jars, Ball half-pint
-jelly jars, and 1/2 pint tapered drinking glasses with tin foil covers.
-
-The taper is essential because the fungus cake must slide out intact for
-fruiting. Jars with shoulders trap the cake, making removal impossible
-without damage. Note that the Kerr regular-mouth half-pint is not tapered
-despite looking similar to the Ball version. Jars larger than 1/2 pint are
-unreliable for the PF TEK and prone to failure.

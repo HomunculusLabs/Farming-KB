@@ -1,5 +1,5 @@
 ---
-title: "Lundberg [[fukuoka-natural-rice-farming-steps]] in California"
+title: [[fukuoka-lundberg-family-farms-natural-rice]] Natural Rice California
 source: "The Road Back to Nature (Fukuoka)"
 tags: [fukuoka, natural-farming, rice, california, organic, lundberg, agriculture]
 created: 2026-05-09
@@ -13,7 +13,7 @@ American commercial agriculture. When Fukuoka visited the Lundbergs, he found a
 family that had already made a radical break from conventional rice farming
 practices. The Lundbergs had transitioned to organic methods, eliminating synthetic
 fertilizers and pesticides from their rice paddies, and had built a successful
-business marketing premium organic rice to health-conscious consumers across the
+[[cotter-mushroom-business-marketing]] premium organic rice to health-conscious consumers across the
 United States.
 
 The Lundberg operation was impressive in scale, managing thousands of acres of rice
@@ -26,7 +26,7 @@ conventional farms while producing a product that commanded premium prices in th
 marketplace.
 
 Fukuoka was both encouraged by what the Lundbergs had accomplished and challenged to
-push them further toward his ideal of truly natural farming. He acknowledged that
+push them further toward his ideal of truly [[cho-loess-powder-in-natural-farming]]. He acknowledged that
 their organic methods represented a significant improvement over conventional
 agriculture but pointed out that they still relied on many practices that his
 philosophy rejected: plowing the soil, flooding paddies with pumped irrigation
@@ -62,7 +62,7 @@ it was indistinguishable from the surrounding ecosystem.
 
 ## Rice Growing Without Plowing or Flooding
 
-Fukuoka proposed a method for growing rice in California that eliminated both
+Fukuoka proposed a [[query-what-is-the-kratky-method-for-growing-cannabis]] rice in California that eliminated both
 plowing and the continuous flooding that [[jadam-conventional-and-organic-pesticide-integration]] rice production
 required. In his Japanese system, rice was direct-seeded into a field that also
 supported a winter crop of clover and grains, with no plowing between seasons. The
@@ -76,50 +76,14 @@ season was shorter. And the scale of California rice farms was vastly larger tha
 the small fields Fukuoka managed in Japan. Nevertheless, Fukuoka believed the
 principles were universal and could be adapted to any climate with sufficient
 observation and experimentation. He encouraged the Lundbergs to try direct seeding
-with clover ground cover and minimal water management as experimental plots
+with [[fukuoka-ladino-clover-ground-cover-management]] and minimal water management as experimental plots
 alongside their established organic practices.
 
 The potential benefits of natural rice farming in California were enormous.
 Eliminating continuous flooding would reduce water consumption dramatically, a
 critical consideration in drought-prone California. Eliminating plowing would reduce
 soil erosion, preserve soil structure, and save fuel and labor costs. The diverse
-ecosystem of a natural rice field would support beneficial insects and birds,
+ecosystem of a natural rice field would support [[coleman-beneficial-insects-and-ecological-pest-control]] birds,
 reducing pest pressure without any pesticide application. And the rice produced
 would be nutritionally superior to rice grown with any degree of artificial
 intervention.
-
-## Legacy and Influence
-
-Fukuoka visit to the Lundberg farm and his subsequent writings about it helped
-catalyze a broader conversation in American agriculture about the relationship
-between farming methods and food quality. The Lundbergs continued to evolve their
-practices, incorporating elements [[four-principles-of-natural-farming]] philosophy while maintaining
-the commercial viability of their operation. Their success demonstrated that
-American agriculture could move beyond the organic-conventional binary and explore
-truly regenerative approaches.
-
-The Lundberg encounter also illustrates an important aspect of Fukuoka teaching
-style: he never insisted that people adopt his methods wholesale. Instead, he
-challenged people to experiment, to question their assumptions, and to move
-incrementally toward a more natural relationship with the land. He recognized that
-each farm, each climate, each culture required its own adaptation of natural farming
-principles, and that the process of discovery was as important as the destination.
-The Lundbergs did not become Fukuoka disciples, but they became more thoughtful
-farmers.
-
-Today, the Lundberg family continues to produce organic rice in California, and
-their farm serves as an example of how commercial agriculture can be reconciled with
-ecological principles. The conversation that Fukuoka initiated at their farm
-continues in the broader sustainable agriculture movement, where the tension between
-human-designed organic systems and truly nature-guided food production remains one
-of the most important philosophical and practical questions in agriculture.
-
-## See Also
-
-- [[fukuoka-natural-diet-movement-america-europe]]
-- [[fukuoka-green-revolution-africa-desert-reclamation]]
-- [[fukuoka-revelation-god-nature-nothingness-philosophy]]
-
-## Sources
-
-- Fukuoka, M. The Road Back to Nature. Chapters on visiting the Lundberg rice farm in California.

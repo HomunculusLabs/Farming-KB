@@ -24,7 +24,7 @@ before the plants set seed.
 Cover crops are one of the most powerful tools available for building healthy
 soil in any growing system, from backyard vegetable gardens to broadacre
 farms. The [[ozier-pdc-composting-and-soil-building|no-till]],
-[[soil-food-web]]. Bacteria,
+[[soil-foodweb]]. Bacteria,
 fungi, earthworms, and other soil organisms consume this fresh organic
 matter, converting it into stable [[cation-exchange-capacity]].
 The [[ozier-pdc-composting-and-soil-building|nitrogen cycle]] in your
@@ -46,7 +46,7 @@ sorghum-sudangrass, and buckwheat release allelopathic chemicals from their
 roots and decomposing residues that inhibit weed [[cannabis-seed-germination-methods]]. This
 natural herbicidal effect can persist for weeks after the cover crop is
 terminated, giving your subsequent cash crop a head start without any
-chemical herbicide applications. The [[soil-food-web]], and build
+chemical herbicide applications. The [[soil-foodweb]], and build
   long-term soil fertility with each successive planting
 - Legumes like [[comparison-lupin-vs-crimson-clover-green-manure]] and hairy vetch fix 50 to 150 pounds of
   nitrogen per acre through Rhizobium symbiosis

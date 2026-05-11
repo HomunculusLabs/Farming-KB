@@ -88,18 +88,3 @@ The inner world becomes subject to pictographic myth, whilst the outer world rev
 This is the latent promise of the mushroom: to reveal psychological realms that can enrich our collective existence as living, breathing hominid creatures bound up within the Gaian system.
 
 ## Paradigm Shifts
-
-The association between psychedelic contemplation and the contemplation of reality are really one and the same thing. A genuinely mystical experience in which the presence of the Other is felt cannot fail to change one's conception of the world.
-
-In the psychedelic state, the entire field of reality is re-conceived and re-perceived, producing a kind of subjective paradigm shift somewhat akin to paradigm shifts in science. Traditional religious ideologies attempt to provide an overall scheme with which to understand reality -- it is this holistic nature of religious thought which links it with psychedelic thought.
-
-Newly acquired concepts and percepts can continue to be employed long after the consumed shamanic catalysts have been metabolised into inactive by-products. In a sense, it is as if new conceptual perspectives and new insights into Nature, once divined, install themselves permanently within the mind. Organic visionary ecstasy, once tasted, is not forgotten. Never.
-
-See also: [[ketamine-psychedelic-journey-guide]], psychedelic-mystical-experience, [[natural-intelligence]], [[consciousness-and-psychedelics]], [[global-psychedelic-mushroom-species-diversity]]
-- [[psilocybin-consciousness-as-information-in-process]]
-
-## See Also
-
-- [[tryptamine-consciousness-theory]]
-[[turner-psilocybin]]
-[[tryptamine-hallucinogens-and-consciousness]]

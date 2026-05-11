@@ -24,7 +24,7 @@ fungal colonization over time.
 
 ## The Four Stages of Needle Decomposition
 
-Ponge (1990, 1991) characterized the colonization of Pinus sylvestris needles
+Ponge (1990, 1991) characterized the colonization of [[pinus-sylvestris]] needles
 into four distinct stages based on microscopic observation:
 
 Stage 1: Freshly fallen needles are decomposed by fungal species that were
@@ -44,8 +44,8 @@ and lignin. This stage sees a marked decrease in the C:N ratio from
 approximately 200:1 to around 30:1 as fungal biomass accumulates and nutrients
 are concentrated.
 
-Stage 4: Along with the entry of soil arthropods, mycorrhizal fungi invade
-the partially decomposed needle matrix. The combination of saprotrophic fungal
+Stage 4: Along with the entry of soil arthropods, [[arbuscular-mycorrhizal-fungi]] invade
+the partially decomposed needle matrix. The combination of [[saprotrophic-fungal-ecology]]
 and faunal activity renders the matrix more penetrable by roots and
 mycorrhizal fungi, and nutrients become more available in inorganic form.
 
@@ -68,11 +68,11 @@ polyphenol):N ratio.
 
 As decomposition proceeds through the four stages, the resource quality of the
 needle changes dramatically. Initially, simple sugars and available
-carbohydrates support a diverse fungal community. As these labile compounds
+carbohydrates support a diverse [[air-pollution-fungal-community-responses]]. As these labile compounds
 are depleted, recalcitrant chemicals remain that can be degraded only by fungi
 producing specialized enzymes. This reduces diversity over time.
 
-Linkins et al. (1984) discussed factors affecting extracellular cellulase
+Linkins et al. (1984) discussed [[factors-affecting-mycoremediation-efficiency]] extracellular cellulase
 activity, particularly the positive influence of temperature and the
 cellulose:lignin ratio. Cellulose becomes unavailable for microbial use when
 the cellulose:lignin ratio declines below 0.5, which commonly occurs during
@@ -82,42 +82,9 @@ needle decomposition.
 
 Recent studies using microscopic Fourier transform infrared (FT-IR)
 spectrometry have begun to reveal real-time microscale changes in leaf surface
-carbohydrate chemistry caused by fungal colonization at resolutions of 100 by
+[[plant-cellulose-and-carbohydrate-chemistry]] caused by fungal colonization at resolutions of 100 by
 100 micrometers (Mascarenhas et al., 2000; Dighton et al., 2001). These
 studies show that fungal hyphae, with diameters of less than 5 micrometers,
 create patterns of growth and enzyme expression at a scale much smaller than
 that of a whole needle, creating heterogeneous chemical landscapes within
 individual litter units.
-
-## Seral Changes in Litter Inputs
-
-During seral succession of vegetation from herbaceous to forest ecosystems,
-the dominant plant species and plant form change (Heal and Dighton, 1986). The
-initial seral stages produce high-quality resources consisting mainly of
-cellulose with a high C:N ratio and low lignin content. Following forest canopy
-closure, woody resources and more recalcitrant leaf litters dominate (Attwill
-and Adams, 1993). These later-stage litters have high lignin content and low
-C:N ratios, and their decomposition requires fungi with greater enzymatic
-competency.
-
-## Ectomycorrhizal Invasion During Late Stages
-
-Ponge (1990, 1991) showed that ectomycorrhizal invasion of pine leaves
-occurred during the latter stages of decomposition. This late-stage invasion
-is facilitated by the prior activity of saprotrophic fungi and soil fauna that
-make the needle matrix more penetrable. The close association between
-mycorrhizal fungi and decomposing organic matter has also been shown for
-arbuscular mycorrhizae (St. John et al., 1983), suggesting this pattern is
-widespread across mycorrhizal types.
-
-## Implications for Forest Management and Carbon Sequestration
-
-The fungal succession model for pine needle decomposition has direct implications for forest carbon cycling and management practices. Because the early stages of decomposition are dominated by phylloplane fungi that are already present on living needles, forest health and needle chemistry influence the initial decomposition trajectory. [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from atmospheric pollution can accelerate early-stage decomposition by increasing needle nitrogen content, but paradoxically slows late-stage decomposition by suppressing lignin-degrading basidiomycete [[ligninolytic-enzyme-production-bioremediation]] — a phenomenon known as the "nitrogen inhibition effect." This means that nitrogen-saturated forests may accumulate partially decomposed litter with altered carbon chemistry, potentially affecting long-term soil [[holmgren-soil-humus-carbon-storage-rebuilding]] and the formation of stable humus. Understanding these [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- [[fungal-leaf-litter-succession]]
-- [[dighton-fungal-roles-in-nutrient-cycling]]
-
-## See Also
-
-- [[dighton-fungal-succession-disturbance]]
-
-- [[dighton-litter-quality-fungal-decomposition-rates]]

@@ -3,7 +3,7 @@
 ---
 created: 2026-05-08
 source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
-tags: [indoor-mold, stachybotrys, building-science, indoor-air-quality, mycotoxins, energy-efficiency, moisture, construction]
+tags: [indoor-mold, stachybotrys, building-science, indoor-air-quality, [[mycotoxins]], energy-efficiency, moisture, construction]
 ---
 
 ## Overview
@@ -46,7 +46,7 @@ Following the initial cases, the county coroner reexamined all infant deaths in 
 Stachybotrys chartarum (also known as Stachybotrys atra) is a conidial fungus that produces:
 - **Conidiophores:** Stalk-like structures bearing conidia (asexual spores)
 - **Macrocyclic trichothecenes:** Potent mycotoxins that damage tissues and suppress immune function
-- **Melanin-impregnated cell walls:** Dark pigmentation that gives the characteristic black appearance
+- **Melanin-impregnated [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]:** Dark pigmentation that gives the characteristic black appearance
 
 However, only a few of the varied strains of the species produce trichothecenes, meaning that identification of Stachybotrys does not automatically signify imminent danger.
 
@@ -80,57 +80,10 @@ The moisture that feeds indoor mold comes from multiple sources:
 
 ### The Wetwall Problem
 
-When drywall becomes saturated and remains wet, it becomes an ideal substrate for fungal growth. The paper facing of gypsum drywall provides cellulose, a carbon source that molds readily colonize. The gypsum core absorbs and retains moisture, maintaining the humid microclimate that fungi need. Once established, mold colonies can spread behind walls and under flooring, hidden from view but continuously releasing spores into the indoor air.
+When drywall becomes saturated and remains wet, it becomes an ideal substrate for [[brassinosteroid-fungal-growth-promotion]]. The paper facing of gypsum drywall provides cellulose, a carbon source that molds readily colonize. The gypsum core absorbs and retains moisture, maintaining the humid microclimate that fungi need. Once established, mold colonies can spread behind walls and under flooring, hidden from view but continuously releasing spores into the indoor air.
 
 ## Indoor Spore Concentrations and Health
 
 ### Asthma and Spore Exposure
 
 During summer months when fungi flourish outdoors, 500 or more spores may drift in a cubic meter of outdoor air. Indoor concentrations vary but can be significant in mold-contaminated buildings. For asthmatics, these spores present a serious threat because fungal spores are potent allergens that can trigger asthma attacks and other respiratory responses.
-
-### Allergic Fungal Responses
-
-Beyond the specific toxicity of mycotoxins, the immune response to fungal spores and fragments can cause:
-- Allergic rhinitis and sinusitis
-- Asthma exacerbation
-- Hypersensitivity pneumonitis
-- Allergic bronchopulmonary aspergillosis (ABPA)
-
-The protein components of spores and hyphal fragments are recognized by the immune system as foreign, triggering inflammatory cascades that can become chronic with repeated exposure.
-
-## Practical Assessment and Response
-
-### When to Be Concerned
-
-The presence of mold on visible surfaces warrants attention, but context matters:
-- **Isolated patches on bathroom tile:** Common, usually benign, clean with diluted bleach
-- **Extensive growth on walls or ceilings:** Indicates moisture problem, investigate the source
-- **Mold following water damage events:** Higher risk, professional assessment recommended
-- **Musty or earthy odors:** May indicate hidden mold growth
-
-### The Critical Step: Address Moisture
-
-Isolated patches can be treated with diluted bleach, but unless the moisture source is eliminated, the fungus will return. Look at the wall surrounding your bathtub or shower — chances are good that black stain from melanin-producing fungi is present. Usually this limited growth presents no threat to health. The horror begins with a flooded basement, an undetected burst pipe, or drywall that remains sodden.
-
-### Professional Intervention
-
-For extensive mold growth, professional remediation involves:
-1. Identifying and eliminating the moisture source
-2. Removing contaminated materials (drywall, insulation, carpet)
-3. HEPA vacuuming and air scrubbing to remove spores
-4. Applying antimicrobial treatments to remaining surfaces
-5. Verifying that moisture levels have returned to acceptable ranges before rebuilding
-
-## The Paradox of Modern Construction
-
-The mold crisis in modern homes represents a paradox: the very features designed to make homes more comfortable and energy-efficient have made them more hospitable to fungi. The solution requires balancing [[energy-efficiency-farming-systems-comparison]] with adequate ventilation — either through mechanical ventilation systems (heat recovery ventilators, energy recovery ventilators) or through more thoughtful [[mollison-designers-passive-solar-heating-building-design]] that allows controlled moisture egress without excessive heat loss.
-
-## See Also
-
-- [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality|Stachybotrys and Indoor Air Quality]]
-- [[bloomfield-aspergillus-biology-and-aflatoxins|Aspergillus Biology and Aflatoxins]]
-- [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis|Fungal Allergens and Respiratory Health]]
-
-## References
-
-- Money, N.P. (2002). Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists. Oxford University Press. Chapter 8: Angels of Death.

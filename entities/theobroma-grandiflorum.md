@@ -13,7 +13,7 @@ sources:
   - Alves, R.E. et al. (2004). "Cupuaçu: Theobroma grandiflorum." In: Exotic Fruits and Nuts of the New World, CABI Publishing.
   - Venturieri, G.C. (1993). "Cupuaçu: um fruteiro alternativo para a Amazônia." EMBRAPA-CPATU, Belém.
   - Rogez, H. (2000). "Açaí and Cupuaçu: Composition, Nutritional and Functional Properties." Lavoisier Publishing.
-  - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with query-what-are-the-main-bioactive-compounds-in-medicinal-plants." Food Research International, 44(7), 2072–2078.
+  - Sousa, A.G. et al. (2011). "Theobroma grandiflorum (cupuaçu): a fruit from the Amazon with [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]." Food Research International, 44(7), 2072–2078.
 ---
 
 ## Overview
@@ -65,11 +65,11 @@ Cupuaçu is native to the eastern and southern Amazon basin, occurring naturally
 
 Its range extends into the Guianas, Peru, Colombia, and parts of Bolivia.
 
-The species grows in lowland tropical rainforest at elevations below 400 meters.
+The species grows in lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] at elevations below 400 meters.
 
 It thrives in humid conditions with annual rainfall of 1,500–3,000 mm and average temperatures of 24–28°C.
 
-The tree is shade-tolerant in its early growth stages but produces better fruit yields under partial canopy opening.
+The tree is shade-tolerant in its [[cervantes-seedling-care-early-growth]] stages but produces better fruit yields under partial canopy opening.
 
 Natural populations are found along riverbanks and in seasonally flooded forest areas.
 
@@ -81,43 +81,10 @@ It also provides B vitamins, phosphorus, iron, and significant dietary fiber.
 
 The pulp contains pectin and unique volatile flavor compounds, including lactones and esters responsible for its distinctive aroma.
 
-In Brazilian cuisine, cupuaçu pulp is used to make juices, ice cream, mousses, jams, and liqueurs.
+In Brazilian cuisine, cupuaçu pulp is used to make juices, [[ice-cream-bean-entity]], mousses, jams, and liqueurs.
 
 Cupuaçu chocolate — known as "cupulate" — is produced from the roasted and processed seeds, similar to cacao products.
 
 The seed fat, called cupuaçu butter, is rich in stearic and oleic acids and is used extensively in cosmetics for its emollient and moisturizing properties.
 
 It is considered a sustainable alternative to shea butter in the personal care industry.
-
-## Cultivation
-
-Cupuaçu begins bearing fruit 3–5 years after planting from seed, or 2–3 years from grafted stock.
-
-Fruiting occurs during the wet season, with the main harvest in Brazil falling between January and April.
-
-Yields under managed cultivation range from 12–20 fruits per tree annually, with some productive trees exceeding 40 fruits.
-
-Trees are typically spaced 6–8 meters apart in agroforestry systems intercropped with rubber, açaí, or timber species.
-
-Propagation is primarily by seeds, though vegetative grafting is increasingly used to preserve superior genotypes.
-
-The crop is relatively pest-resistant compared to cacao, though fruit borers and fungal diseases can affect yields.
-
-Commercial plantings have expanded beyond the Amazon to Bahia and other Brazilian states with suitable climates.
-
-## Related Species
-
-**Theobroma cacao** (cacao) is the closest relative and the only other widely cultivated species in the genus.
-
-Cupuaçu is sometimes called "cacao's cousin" and is used as a rootstock for cacao in some regions due to its disease resistance.
-
-**Theobroma speciosum** (cacauí) is a wild Amazonian species with smaller, edible fruit.
-
-Several wild Theobroma species in the Amazon basin serve as genetic resources for breeding programs.
-
-## See Also
-
-- [[bertholletia-excelsa]]
-- [[physalis-peruviana]]
-- [[vanilla-planifolia]]
-- [[manihot-esculenta]]

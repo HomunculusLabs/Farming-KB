@@ -28,22 +28,22 @@ sources:
 
 # The Natural Way of Farming — Book Guide
 
-*The Natural Way of Farming: The Theory and Practice of Green Philosophy* (1985, 1987 English) by Masanobu Fukuoka is the technical and philosophical companion to *The One-Straw Revolution*. While the first book was conversational and narrative, this is structured as a systematic treatise on natural farming theory, with detailed practical instructions for rice/barley, orchard, and vegetable production.
+*The Natural Way of Farming: The Theory and Practice of Green Philosophy* (1985, 1987 English) by Masanobu Fukuoka is the technical and philosophical companion to *The One-Straw Revolution*. While the first book was conversational and narrative, this is structured as a systematic treatise on natural farming theory, with detailed practical instructions for rice/barley, orchard, and [[coleman-french-historical-winter-vegetable-production]].
 
 ## Book I: Nothingness
 
 ### Critique of Human Knowledge
 
-Fukuoka's central philosophical thesis: "The more people study, the more they depart from nature." He traces the fall of agriculture to the human assumption that nature can be improved through knowledge. Scientific agriculture, he argues, creates problems that it then claims to solve, generating an endless spiral of intervention.
+Fukuoka's central philosophical thesis: "The more people study, the more they depart from nature." He traces the fall of agriculture to the human assumption that nature can be improved through knowledge. [[critique-of-scientific-agriculture]], he argues, creates problems that it then claims to solve, generating an endless spiral of intervention.
 
-**Natural farming vs. natural science**: Natural farming works with nature's processes as a unified whole; scientific agriculture dissects nature into isolated factors (NPK, pH, individual pests), treats symptoms, and creates new imbalances.
+**[[comparison-natural-farming-vs-permaculture]]. natural science**: Natural farming works with nature's processes as a unified whole; scientific agriculture dissects nature into isolated factors (NPK, pH, individual pests), treats symptoms, and creates new imbalances.
 
 ### The Four Principles (Expanded)
 
 1. **No cultivation** — Plowing oxidizes organic matter, destroys soil aggregates, kills mycorrhizal networks, and stimulates weed seed germination. "The soil cultivates itself through the penetrating roots of plants and the activity of microorganisms and small animals."
-2. **No chemical fertilizer or prepared compost** — Clover fixes nitrogen; straw returns carbon and minerals; a thin layer of chicken manure (200-900 lbs/quarter-acre) is the only external input. "From the standpoint of natural farming, it would be preferable and much easier to release ten ducklings per quarter-acre onto the field."
-3. **No weeding by tillage or herbicide** — White clover living mulch suppresses weeds. Straw mulch provides physical suppression. Temporary flooding kills dry-field weeds without chemicals. "Weeds play their part in building soil fertility and in balancing the biological community."
-4. **No pesticides** — Biodiversity provides natural pest control. Black wattle supports ladybug populations. Spiders control leafhoppers. Stem borers thin weak plants, increasing overall yield.
+2. **No chemical fertilizer or prepared compost** — Clover fixes nitrogen; straw returns carbon and minerals; a thin layer of chicken manure (200-900 lbs/quarter-acre) is the only external input. "From the standpoint [[four-principles-of-natural-farming]], it would be preferable and much easier to release ten ducklings per quarter-acre onto the field."
+3. **No weeding by tillage or herbicide** — White clover living mulch suppresses weeds. Straw mulch provides physical suppression. Temporary flooding kills dry-field weeds without chemicals. "Weeds play their part in [[building-soil-fertility-long-term]] and in balancing the biological community."
+4. **No pesticides** — Biodiversity provides [[jeavons-natural-pest-control]]. Black wattle supports ladybug populations. Spiders control leafhoppers. Stem borers thin weak plants, increasing overall yield.
 
 ### Mu (Nothingness)
 
@@ -147,4 +147,3 @@ Fukuoka applied his methods across continents:
 **Somalia (1985)**: Vegetated desert slopes near the Indian Ocean using clay seed balls of desert grasses, then green manure crops, then fruit trees. Trees grew 12 feet in 2-3 years on previously barren land.
 
 **India**: In the state of Karnataka, helped restore degraded lands by direct-seeding native species in clay pellets.
-

@@ -1,5 +1,5 @@
 ---
-title: MDMA and the mckenna mdma and drug terror of the 1980s Decade of the 1980s
+title: Mckenna Mdma And Drug Terror Of The 1980S
 created: 2026-04-28
 tags: [mdma, ecstasy, crack-cocaine, drug-war, mckenna, prohibition, psychedelics, history]
 date: 2026-04-28
@@ -84,38 +84,14 @@ and available.
 Throughout the 1970s and 1980s, the need to deny the impact of the
 sixties took on something of the flavor of a mass obsession. As the
 seventies progressed, the new management agenda became clear: while
-heroin had lost some of its glamour, now there was to be television for
+[[heroin]] had lost some of its glamour, now there was to be television for
 the poor and cocaine for the rich. This analysis frames [[mckenna-modest-proposal-drug-policy-reform]] not
 as public health but as a system of social control, with different
 intoxicants assigned to different socioeconomic strata.
 
-## The Path Forward: Decriminalization and Shamanism
-
-McKenna argues that public awareness of drug issues has been lacking
-and public opinion easily manipulated. A worldwide attitude of fear
-toward drugs is being fostered and manipulated by the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
-and its propaganda organs. Vast illicit fortunes continue to be made;
-government continues to wring its hands. This is but the most recent
-effort to profiteer from and frustrate our species' deeply instinctual
-need to make contact with the [[powell-gaian-mind-and-entheogenic-flora]] of the living planet.
-
-There can be no "Saying No" to drugs; nothing so asinine or preposterous will
-do. Nor can society be led down the primrose path by feel-good
-philosophies that see unbridled hedonism as the [[amanita-muscaria-holy-grail-theory-detailed]] of social
-organization. The only reasonable course McKenna proposes is
-decriminalization of drugs, mass education, and shamanism as an
-interdisciplinary and professional approach to these realities.
-
-It is our souls that have become ill when we abuse drugs, and the
-shaman is a healer of souls. Such measures will not immediately solve
-the general drug problem, but they will preserve the sorely needed
-pipeline to the spirit that we must have if we expect to restructure
-society's attitude toward plant and substance use and abuse. An
-interrupted psychophysical symbiosis between ourselves and the visionary
-plants is the unrecognized cause of the alienation of modernity and the
-cultural mind-set of planetary civilization.
-
 ## See Also
-- [[mckenna-drugs-governments-and-intelligence-agencies]]
-- [[mckenna-consciousness-expansion-and-drug-war]]
-- [[mckenna-food-gods-genesis-first-drug-bust]]
+- [[mdma-crack-cocaine-drug-terror-1980s]]
+- [[mckenna-food-gods-television-drug-mass-hypnosis]]
+- [[mckenna-spice-trade-and-medieval-drug-scarcity]]
+- [[mckenna-food-gods-fundamentalist-christianity-drug-war]]
+- [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]

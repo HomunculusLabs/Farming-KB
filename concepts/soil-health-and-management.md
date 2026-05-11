@@ -88,20 +88,3 @@ beds as a soil amendment, used as a mulch, or incorporated into potting mixes.
 ## Cover Crops
 
 Cover crops are plants grown primarily to benefit the soil rather than for
-harvest. Leguminous cover crops like [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, and winter
-peas fix atmospheric nitrogen. Grasses like cereal rye and annual ryegrass
-produce abundant biomass and scavenge residual nitrogen. Brassicas like
-daikon radish break compaction with deep taproots.
-
-Cover crops protect soil from erosion during fallow periods, suppress weeds,
-[[cation-exchange-capacity]] (CEC). Micronutrient analysis is available on
-request for an additional fee.
-
-Soil samples should be representative of the area being managed. A composite
-sample combining subsamples from ten to fifteen locations across the garden
-provides the most reliable results. Samples are typically taken from the top
-six inches of soil in established gardens or the top four inches for lawns.
-Testing every two to three years is sufficient for most home gardens.
-
-See also: [[home-vegetable-gardening]], [[comparison-crop-rotation-vs-cover-cropping]],
-fungal-chitin-decomposition-nutrient-cycling

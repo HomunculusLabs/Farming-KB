@@ -1,5 +1,5 @@
 ---
-title: Turbulence Modeling in computational-fluid-dynamics
+title: Turbulence Modeling [[computational-fluid-dynamics]]
 type: concept
 aliases: [turbulence models, RANS, LES, DNS, k-epsilon, k-omega, SST, Smagorinsky]
 tags: [physics, fluid-dynamics, CFD, engineering, turbulence, RANS, LES, computational-methods]
@@ -87,15 +87,3 @@ Turbulent boundary layers are described in wall units: y⁺ = yu_τ/ν, u⁺ = u
 - **Wake region** (y/δ > 0.15): Coles' wake law with parameter Π ≈ 0.55
 
 Spalding's law provides a composite profile valid for all y⁺. Key coherent structures: low/high-speed streaks (~100 wall units spacing), quasi-streamwise vortices in the buffer layer, hairpin vortices driving Q2 ejection and Q4 sweep events, and very-large-scale motions spanning 10–20δ.
-
-## Free Shear Flows
-
-Free shear flows (jets, wakes, mixing layers) develop self-similar profiles far downstream. Round jets spread at db/dx ≈ 0.1 with Gaussian velocity profiles and centerline decay U_c ~ x⁻¹. Mixing layers grow via Kelvin-Helmholtz instability and subsequent vortex pairing, with spreading rate depending on velocity ratio. Wakes behind cylinders at Re_d > 200 show turbulent vortex shedding at Strouhal number St ≈ 0.2. Unlike wall-bounded flows, there is no logarithmic region in free shear flows.
-
-## Turbulence Statistics
-
-The turbulent kinetic energy budget balances production P_k = −⟨u′ᵢu′ⱼ⟩(∂Ūᵢ/∂xⱼ), dissipation ε = ν⟨∂u′ᵢ/∂xⱼ ∂u′ᵢ/∂xⱼ⟩, turbulent transport, pressure diffusion, and viscous diffusion. In the log layer, P_k ≈ ε at equilibrium. The **Lumley triangle** [[ludwig-prandtl]]
-
-## See Also
-
-- [[navier-stokes-equations-fluid-dynamics]]

@@ -12,8 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. (1964). "The Active Principles of the Ergot Fungus." Perspectives in Biology and Medicine 7(2): 152–163.
-  - Gröger, D. & Floss, H.G. (1998). "Biochemistry of Ergot Alkaloids." In: Biochemistry of Microbial Degradation. Springer.
+  - Hofmann, A. (1964). "The Active Principles of the ergot-fungus." Perspectives in Biology and Medicine 7(2): 152–163.
+  - Gröger, D. & Floss, H.G. (1998). "Biochemistry of [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]." In: Biochemistry of Microbial Degradation. Springer.
   - Schardl, C.L., Panaccione, D.G. & Tudzynski, P. (2006). "Ergot Alkaloids — Biology and Molecular Biology." Alkaloids: Chemistry and Biology 63: 45–86.
   - Shibata, S. (1978). "Chemistry of the Clavine Alkaloids." In: The Alkaloids, Vol. 17. Academic Press.
 ---
@@ -33,7 +33,7 @@ properties, though its pharmacological potency is significantly lower
 than that of the peptide ergot alkaloids (ergotamine, ergocristine).
 
 It serves as a key biosynthetic intermediate in the ergot alkaloid
-pathway, preceding the formation of lysergic acid and subsequently
+pathway, preceding the formation of [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] and subsequently
 the ergopeptines.
 
 ## Chemical Properties
@@ -65,7 +65,7 @@ acids.
 
 Agroclavine acts as a partial agonist at serotonergic 5-HT₂A
 receptors and adrenergic α-receptors, consistent with the broader
-pharmacological profile of ergoline alkaloids.
+pharmacological profile of [[morning-glory-lsa-and-ergoline-alkaloids]].
 
 Its affinity for 5-HT₂A receptors is moderate (estimated Ki in the
 low micromolar range), substantially weaker than LSD (nanomolar) or
@@ -88,58 +88,3 @@ likely due to its low potency and rarity as a recreational substance.
 Agroclavine is an intermediate in the ergot alkaloid biosynthetic
 pathway, formed from the cyclization of 4-(γ,γ-dimethylallyl)tryptophan
 (DMAT) via the action of the enzyme cloA (a cytochrome P450
-mono-oxygenase).
-
-The pathway proceeds: L-tryptophan → DMAT → chanoclavine-I →
-chanoclavine-I aldehyde → agroclavine → elymoclavine → lysergic acid.
-
-Agroclavine is produced by *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot fungus) during
-sphacelial growth on cereal hosts, particularly rye, wheat, and barley.
-
-It also occurs in endophytic fungi of the genus *Neotyphodium*
-(syn. *Epichloë*), which symbiotically infect pasture grasses and
-produce clavine alkaloids that confer insect and herbivore resistance
-to the host plant.
-
-*Aspergillus fumigatus* and several *Rhizopus* species have also
-been reported to produce small quantities of clavine alkaloids
-under laboratory conditions.
-
-## History and Significance
-
-Agroclavine was first isolated from ergot (*Claviceps purpurea*)
-sclerotia in the early 20th century during systematic investigations
-of ergot [[ergot-alkaloid-chemistry-history]].
-
-Its structural elucidation was achieved through the work of several
-research groups including Hofmann, Stoll, and colleagues at Sandoz
-Laboratories in Basel, Switzerland.
-
-Agroclavine served as a key reference compound for understanding
-the biosynthetic relationships among clavine alkaloids and their
-conversion to lysergic acid derivatives.
-
-The discovery that endophytic grass fungi produce clavine alkaloids
-(including agroclavine) revolutionized understanding of plant-fungal
-symbiosis and its ecological consequences.
-
-Agroclavine and related clavines are of interest in synthetic chemistry
-as precursors for semi-synthetic ergot derivatives with potential
-pharmacological applications.
-
-## Related Compounds
-
-| Compound | Key Difference |
-|----------|---------------|
-| Elymoclavine | 8-hydroxy derivative of agroclavine |
-| Lysergol | 8-hydroxy-9,10-dihydro derivative |
-| Lysergic acid | 8-carboxy derivative; parent of all ergopeptines |
-| Chanoclavine-I | Immediate biosynthetic precursor |
-| Setoclavine | Isomeric clavine differing at C-8 configuration |
-| Lysergic acid amide (LSA) | Amide of lysergic acid; psychoactive |
-
-## See Also
-
-- [[ergotamine]] — Peptide ergot alkaloid derived from lysergic acid
-- [[lsd-d-lysergic-acid-diethylamide]] — Semi-synthetic derivative with potent psychedelic activity
-- [[claviceps-purpurea]] — Ergot fungus producing agroclavine and related alkaloids

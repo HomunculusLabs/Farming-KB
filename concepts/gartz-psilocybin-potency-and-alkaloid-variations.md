@@ -88,14 +88,3 @@ conversion of psilocybin to psilocin and its subsequent oxidation.
 Cytochrome oxidases and laccases accelerate the breakdown of psilocin,
 and trace amounts of iron ions accelerate the bluing reaction. The blue
 compounds themselves are unstable and involve chinone-type chemical bonds
-whose exact structure remains undetermined.
-
-Conversely, species with high psilocybin but slight bluing -- such as
-[[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
-- [[psilocybin-mushroom-potency-and-dosage-guide]]
-- gartz-magic-mushrooms-global-distribution-patterns
-- [[metol-testing-bluing-reaction-mushrooms]]
-
-## See Also
-
-- [[salicin]]

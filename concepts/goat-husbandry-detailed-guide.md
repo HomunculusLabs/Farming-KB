@@ -1,5 +1,5 @@
 ---
-title: Detailed comparison-goat-husbandry-vs-sheep-husbandry Guide
+title: Goat [[quail-husbandry-detailed]] Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -88,40 +88,6 @@ Milkweed, nightshade plants, buckthorn, cowbane, dog's mercury, foxglove, greate
 - Frequent small meals are better than large ones
 - Wean at 2-3 months; bottle-fed kids become more attached
 
-## Milking
-
-- Stainless steel seamless containers are best; food-grade plastic and glass also work
-- Rinse buckets immediately after use in lukewarm water
-- Wash thoroughly in warm soapy water, rinse in scalding water, air dry upside down
-- Milking procedure:
-  1. Clean utensils in warm soapy water
-  2. Put goat in stanchion with feed; brush fur, clip long hair under udder
-  3. Feed in trough -- milk every 12 hours, starting early morning
-  4. Wash hands, fill bucket with water 120-130F (49-54C)
-  5. Wash udder and teats; wait one minute for let-down
-  6. Thumb and forefinger around teat near top, push up, close hand, squeeze while pulling down; squirt first 3 squeezes on ground (more bacteria)
-  7. Completely empty udder or production will decrease
-  8. Strain milk through layers of clean fabric
-  9. To pasteurize: heat to 161F (72C) for 20 seconds, then rapidly cool to 60F (16C)
-  10. If raw: chill to 40F (4C) within 1 hour; store in coldest part of fridge
-
-## Milking Troubleshooting
-
-- Milk will not let down: massage udder, gently pat like a kid butting
-- Drying up milk: leave a little in udder each milking, reduce to once a day; watch for mastitis
-- Mastitis: first sign is strange texture (flakes, lumps, strings) in milk; do not drink; check weekly by squirting into cloth; feel udder for tumors or hard areas
-- Self-sucking: use Elizabethan collar or side-stick harness
-
-## Average Production
-
-- Average doe produces about 3 quarts of milk per day
-- About 1.5 quarts goes to kid, leaving 1.5 quarts per day for you
-- New mothers give even less
-- Milk comes in 3-5 days after kidding -- during this time do not give grain
-
-See also: [[goat-cheese-making]], [[dairy-and-cheesemaking]], [[permaculture-multi-purpose-plants]]
-- [[first-time-grower-common-mistakes]]
-
 ## See Also
-
-- [[quail-husbandry-detailed]]
+- [[goat-husbandry-and-integration-into-permaculture-systems]]
+- [[comparison-pig-husbandry-vs-goat-husbandry]]

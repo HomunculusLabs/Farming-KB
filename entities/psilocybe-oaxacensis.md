@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, G. (1983). "The genus Psilocybe: A systematic revision of the known species including the history, distribution and chemistry of the hallucinogenic species." Beihefte zur Nova Hedwigia, 74: 1-439.
-  - Guzmán, G., et al. (2004). "A new bluing species of Psilocybe section Stropharia from Oaxaca, Mexico." Mycotaxon, 90(1): 221-224.
+  - Guzmán, G., et al. (2004). "A new bluing species of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Stropharia from Oaxaca, Mexico." Mycotaxon, 90(1): 221-224.
   - Stamets, P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - MushroomExpert.com. "Psilocybe oaxacensis." https://www.mushroomexpert.com/
 created: 2026-04-28
@@ -56,7 +56,7 @@ Surface is smooth to slightly viscid when wet, often with a faint striate margin
 
 **Stipe:** Central, cylindrical, 40–80 mm long, 2–3 mm thick. Base often slightly thickened. Surface is silky-fibrillose, whitish to pale brown.
 
-Bluing reaction is prominent on the stipe base and on damaged areas of the pileus, turning intensely indigo-blue.
+[[field-guide-psilocybin-bluing-reaction-identification]] is prominent on the stipe base and on damaged areas of the pileus, turning intensely indigo-blue.
 
 **Spores:** Ellipsoidal to slightly amygdaliform, 10–13 × 6–7.5 µm, thick-walled with a broad germ pore.
 
@@ -78,54 +78,12 @@ Collections have also been reported from neighboring states of Puebla and Veracr
 
 *P. oaxacensis* is rarely cultivated outside of specialist mycological circles.
 
-Its growth parameters are similar to other tropical *Psilocybe* species, favoring warm temperatures (22–28°C) and high humidity (>85% relative humidity).
+Its [[chen-maitake-growth-parameters-environmental-control]] are similar to other tropical *Psilocybe* species, favoring warm temperatures (22–28°C) and high humidity (>85% relative humidity).
 
-Standard grain spawn (rye, millet, or brown rice) colonizes readily, though the species is reportedly more sensitive to contamination than *P. cubensis*.
+Standard [[comparison-grain-spawn-vs-grain-to-grain-transfer]] (rye, millet, or [[brown-rice-flour-substrate]]) colonizes readily, though the species is reportedly more sensitive to contamination than *P. cubensis*.
 
 Fruiting substrates include pasteurized horse or cow manure, enriched straw, and composted grass substrates.
 
 [[stamets-biological-efficiency-yield]] is moderate, with typical yields of 50–100% BE on supplemented manure substrates.
 
-The species has not been commercially cultivated and remains of interest primarily to researchers and amateur mycologists studying Mexican psilocybian fungi.
-
-## Bioactive Compounds
-
-*P. oaxacensis* contains the classic tryptamine alkaloids found in hallucinogenic *Psilocybe* species.
-
-- **Psilocybin:** Primary psychoactive compound; estimated at 0.3–0.7% dry weight based on limited analytical data from related Mexican taxa.
-- **Psilocin:** Active metabolite of psilocybin, present in lower concentrations.
-- **Baeocystin:** Minor alkaloid, structurally related to psilocybin, typically present at 0.01–0.1% dry weight.
-
-Quantitative analytical data specific to *P. oaxacensis* is scarce, as few collections have been subjected to chromatographic analysis.
-
-The bluing reaction is indicative of oxidative degradation of psilocybin and psilocin, consistent with all psilocybian species.
-
-## Ethnobotanical Significance
-
-The species is used ceremonially by Zapotec communities in the Sierra Juárez region of Oaxaca, where it is known by indigenous names related to "little ones that sprout."
-
-It is typically consumed fresh during nocturnal [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, often alongside other native *Psilocybe* species that fruit in the same habitats and seasons.
-
-[[kava-traditional-preparation-ceremonial-context]] involves collecting specimens at dawn and consuming them raw or lightly dried, sometimes paired with honey to mitigate bitterness.
-
-Guzmán documented the use of *P. oaxacensis* among Mixe healers (*curanderos*) who employ the mushroom for diagnosing illness and communicating with ancestral spirits.
-
-The species is considered one of several "sacred mushrooms" (*hongos sagrados*) that form part of a broader Mesoamerican mushroom complex used for millennia.
-
-## Related Species
-
-*P. oaxacensis* is part of a complex of closely related bluing, dung-associated tropical *Psilocybe* species.
-
-- ***Psilocybe zapotecorum*** — Larger, more robust species from similar habitats; more widely documented and with higher psilocybin content.
-- ***Psilocybe caerulescens*** — Known as "derrumbe" in Mexico; fruits on disturbed ground and trails; slightly larger spores.
-- ***Psilocybe hoogshagenii*** — Distinguished by a pronounced, persistent annulus; found in similar Oaxacan cloud forests.
-- ***Psilocybe sanctorum*** — Rarer species from high-elevation central Mexico; morphologically similar but with different cheilocystidia.
-
-Differentiation within this group requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore dimensions and cystidial morphology.
-
-## See Also
-
-- [[psilocybe-mexicana]]
-- [[psilocybin]]
-- [[baeocystin]]
-- [[salvia-divinorum]]
+The species has not been commercially cultivated and remains of interest primarily to researchers and amateur mycologists studying Mexican [[psilocybian-fungi-law-australia-nz]].

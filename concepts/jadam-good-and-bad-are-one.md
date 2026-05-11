@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [jadam, natural-farming]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 # JADAM Good and Bad Are One
@@ -24,13 +25,13 @@ Less than 1% of estimated one million soil microorganism species have been studi
 
 ### Nematodes
 Conventional agriculture treats all nematodes as pests to be eliminated. JADAM recognizes that:
-- Nematodes become much less active when microorganism diversity and activity are recovered
+- Nematodes become much less active when [[jadam-microorganism-diversity-over-disinfection]] and activity are recovered
 - Fungi exist that use hyphal loops to trap and consume nematodes
 - The goal is [[fukuoka-ecological-balance-principles]], not eradication
-- Some nematodes play beneficial roles in nutrient cycling
+- Some nematodes play beneficial roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
 
 ### Heavy Metals
-The principle extends even to heavy metals: "Heavy metals are not always harmful." The context and concentration determine whether a substance is beneficial or detrimental. This does not mean JADAM advocates for heavy metal contamination, but rather that the simplistic "toxic vs non-toxic" framework is inadequate.
+The principle extends even to heavy metals: "Heavy metals are not always harmful." The context and concentration determine whether a substance is beneficial or detrimental. This does not mean JADAM advocates [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]] contamination, but rather that the simplistic "toxic vs non-toxic" framework is inadequate.
 
 ### Oxygen
 Even oxygen, essential for life, becomes harmful in excess. "Oxygen excess creates active oxygen (free radicals) that damage cells." The same principle applies: good in proper amount, bad in excess.
@@ -68,11 +69,11 @@ because pest outbreaks are symptoms of ecological imbalance, not
 independent problems to be solved through eradication.
 
 When predator insect populations are healthy, pest species remain
-contained naturally. Lady beetles, lacewings, predatory mites, and
-parasitic wasps each keep specific pest populations in check. When
+contained naturally. Lady beetles, lacewings, [[comparison-predatory-mites-vs-ladybugs-biocontrol]], and
+[[parasitic-wasps-biological-pest-control]] each keep specific pest populations in check. When
 broad-spectrum pesticides destroy these predators, the pests rebound
 faster than their natural enemies, creating a cycle of escalating
-chemical dependency. JADAM's permaculture design similarly emphasizes whole-system thinking
+chemical dependency. JADAM's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] similarly emphasizes whole-system thinking
 and ecological balance, and the two philosophies align closely on
 pest management and soil biology. However, JADAM's philosophical
 foundation is explicitly rooted in Korean Buddhist non-dualism,
@@ -86,34 +87,3 @@ observable [[fukuoka-microbial-ecology-decomposition]] and practical low-cost te
 rather than esoteric preparations or astronomical calendars.
 
 ## Implications for Disease Management
-
-Plant disease in conventional agriculture triggers a search for the
-causal pathogen and a targeted eradication strategy. Under the
-good-and-bad-are-one principle, disease is viewed as evidence that
-the plant's defenses or its environment have been weakened, allowing
-a normally benign organism to become pathogenic.
-
-This mirrors the human microbiome understanding: [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
-lives harmlessly in most people but causes thrush when the bacterial
-community is disrupted by antibiotics. Similarly, many soil-borne
-fungi only cause disease when the [[edaphic-factors-microbial-community-structure]] has been
-simplified by monoculture, tillage, or chemical inputs. The JADAM
-response is to restore the conditions that kept the organism in
-check rather than to attack the organism directly.
-
-This approach has practical limits. Some pathogens, such as certain
-viruses and aggressive [[cannabis-for-bacterial-infections-and-mrsa]], may require direct
-intervention even in JADAM systems. The principle is a guiding
-heuristic, not an absolute rule that denies the existence of genuine
-agricultural threats requiring targeted responses.
-
-## Economic Consequences for Farmers
-
-Adopting the good-and-bad-are-one principle has direct economic
-benefits. Farmers who stop purchasing commercial microbial
-inoculants, targeted pesticides, and disease-specific treatments
-eliminate major input costs. JADAM's [[jadam-dualism-critique-agriculture]] -- the systematic critique of dualistic thinking
-- [[jadam-soil-foundation-work]] -- balance over eradication
-- [[jadam-sea-salt-use]] -- even good things in proper measure
-- [[jadam-natural-farming-philosophy]]
-- [[jadam-natural-mineral-water]]

@@ -88,31 +88,3 @@ Triterpenoids and sterols have also been detected, though the pharmacological pr
 *T. ochracea* is considered inedible due to its tough, corky texture. It is too woody for culinary use and is not known to be toxic.
 
 The primary interest in this species lies in its ecological role and its potential for applied mycology research.
-
-Laccase production makes it a candidate for industrial biotechnology applications including [[mollison-designers-wastewater-treatment-wetlands]] and biobleaching in paper production.
-
-### Bioremediation Potential
-
-Laboratory studies have demonstrated that *T. ochracea* laccase can decolorize azo dyes and degrade phenolic compounds at rates comparable to those of *T. versicolor*.
-
-The species tolerates a wider pH range in culture than some other white-rot fungi, which may prove advantageous for industrial scale-up.
-
-Heavy metal tolerance has been observed in strains isolated from contaminated sites, suggesting a role in mycoremediation of polluted environments.
-
-## Distinguishing Similar Species
-
-*T. ochracea* is most easily confused with *T. versicolor*, from which it can be separated by its more uniformly ochre upper surface and less strongly zonate patterning.
-
-*T. hirsuta* has a more prominently hairy upper surface and larger pores (2–3 per mm).
-
-*Coriolopsis gallica* is larger and more robust, with a darker brown to gray upper surface that lacks the ochre tones characteristic of *T. ochracea*.
-
-Microscopically, spore dimensions and hyphal features provide definitive identification.
-
-## See Also
-
-- [[trametes-versicolor-entity]]
-- [[coriolopsis-gallica]]
-- [[stereum-hirsutum]]
-- [[laricifomes-officinalis]]
-- [[polyporus-umbellatus]]

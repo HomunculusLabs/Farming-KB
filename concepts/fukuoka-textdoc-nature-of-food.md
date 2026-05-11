@@ -5,6 +5,7 @@ tags: [food-philosophy, flavor, color, spirit-matter-unity, nutrition-critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -78,7 +79,7 @@ sashimi. [[fukuoka-tasty-rice-illusion-food-processing]] thus becomes rice that 
 people delude themselves into thinking of white rice as high-grade rice.
 
 Nowadays people believe that protein is protein and vitamin B is vitamin B
-regardless of where they come from. But meat and fish have gone the same route
+regardless of where they come from. But [[smoking-meat-and-fish]] have gone the same route
 as rice. Meat is no longer meat and fish no longer fish. Refinements in
 flavoring with petroleum-derived protein have created people unaware that
 their entire diet has been converted into an artificial diet.
@@ -87,45 +88,3 @@ their entire diet has been converted into an artificial diet.
 
 All we have to do is stop trying to create delicious food and we will be
 surrounded by it. People today who cannot eat wild herbs without removing
-their natural astringency are unable to enjoy the flavors of nature. The
-practical wisdom of early man who sun-dried [[growing-root-vegetables-guide]] and pickled them
-in salt, enjoying their special taste and aroma, touches the essence of
-natural flavor.
-
-Culture is seen as a human product created through human invention by the
-separation of man from nature. But true culture always originates in a return
-to the source of nature, forming of itself when [[fukuoka-god-nature-and-man-as-one]] fuse into a
-single whole. A culture born of human vanity divorced from nature cannot
-become true culture. When mankind forsakes a [[fukuoka-natural-diet-as-foundation]] for a civilized
-diet, he turns away from true culture and sets off on the road to decline.
-
-## The Critique of Western Dietetics
-
-Western dietetics teaches that health cannot be maintained unless one has a
-balanced diet with a full complement of nutrients. But dietetics lacks
-awareness of man as a living, breathing creature. Menus leave the impression
-that one is merely supplying energy to mechanical humans cut off from the
-source of life. Dietetics appears useful in the development of anti-natural
-man isolated from nature. Modern science commits blunder after blunder,
-forgetting that "the whole is greater than the parts."
-
-## Flavor and Nutrition Must Be One
-
-Taste and nutrition should not be separated. What is nourishing and good for
-the human body should stimulate the human appetite of its own accord and serve
-as delicious food. Farmers in the old days enjoyed simple meals of barley and
-rice with unrefined soy sauce and pickled vegetables. This gave them strength
-and long life. Working hard in the fields made one hungry, which is why coarse
-fare tasted delicious. A strong body can draw sustenance from a simple diet.
-
-The mother who stuffs "nutritious food" into her child's mouth, regardless of
-whether it tastes good, represents a reversal in human thinking. This is the
-same as saying we nourish ourselves so that we can work harder and live longer,
-rather than working hard because we are nourished by delicious food that our
-body naturally craves.
-
-## See Also
-
-- [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-natural-food-philosophy]]
-- [[fukuoka-five-tastes-health]]

@@ -77,3 +77,20 @@ Temperate species include [[psilocybin-mushroom-global-distribution]], neotropic
 
 - magic-mushrooms-southeast-asia-pacific
 - [[psilocybin-mushroom-evolution]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[psilocybe-genus-global-distribution-and-biogeography]]
+- [[guzman-allen-gartz-global-psilocybe-biogeography]]
+- [[guzman-allen-gartz-trans-pacific-species-pairs-psilocybe-biogeography]]
+- [[psilocybe-genus-global-biodiversity]]
+- [[psilocybe-global-biodiversity-hotspots]]

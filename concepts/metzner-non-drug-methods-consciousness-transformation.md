@@ -13,9 +13,9 @@ sources:
 ## Overview
 
 In his autobiographical introduction to the 1998 review of [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
-in psychotherapy and shamanism, Ralph Metzner described a personal intellectual
+in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]], [[ralph-metzner]] described a personal intellectual
 journey that moved through successive modalities of consciousness exploration:
-from early psychedelic drug research at Harvard in the 1960s, through Eastern
+from early [[psychedelic-drug-testing-and-adulterant-screening]] research at Harvard in the 1960s, through Eastern
 and Western non-drug practices in the 1970s (yoga, meditation, alchemy), to
 the study of shamanic traditions involving both plant entheogens and non-drug
 methods (drumming, fasting, wilderness vision questing, sweat lodges) in the
@@ -30,7 +30,7 @@ Metzner explicitly extended Leary's set-and-setting hypothesis beyond the
 drug context. The model, which holds that the primary determinants of a
 psychedelic experience are the internal set (intention, expectation, motivation)
 and the external setting or context, "can also be extended to the
-understanding of other modalities of altered states of consciousness, involving
+understanding of other modalities of altered [[mckenna-food-gods-designer-states-of-consciousness]], involving
 nondrug triggers such as hypnosis, meditation, rhythmic drumming, sensory
 isolation, fasting, and others." This extension is significant because it
 suggests that the psychedelic experience is not a sui generis phenomenon
@@ -66,7 +66,7 @@ of alchemy and the newer psychotherapeutic methods deriving from the work of
 Wilhelm Reich. Reichian and post-Reichian bodywork and breathwork practices
 involved the induction of deep altered states through physical manipulation,
 breathing techniques, and emotional catharsis. These methods, while not
-involving psychoactive substances, could produce experiences of emotional
+involving [[cultural-evolution-and-psychoactive-substances]], could produce experiences of emotional
 intensity, physical release, and psychological insight that paralleled
 aspects of the psychedelic experience.
 
@@ -87,50 +87,3 @@ cultures; fasting and wilderness vision questing, practiced by indigenous
 cultures of the Americas; and sweat lodge ceremonies, which combine heat,
 darkness, and communal ritual to produce profound states of physical and
 psychological purification.
-
-These shamanic methods are significant because they demonstrate that the
-access to what Metzner calls "nonordinary reality" — the spirit worlds,
-the upper and lower worlds of shamanic cosmology — does not require
-psychoactive substances. The rhythmic pulse of the drum, the sensory
-deprivation of the vision quest, the intense physical conditions of the
-sweat lodge — all can facilitate the dissolution of ordinary consciousness
-and access to the same [[metzner-transpersonal-dimensions-psychedelic-therapy]] that entheogenic plants
-reveal.
-
-## The Continuum of Methods
-
-Metzner's comparative overview implies a continuum of consciousness
-transformation methods rather than a set of discrete categories. Drug and
-non-drug methods exist on this continuum, sharing fundamental features:
-the induction of altered states, the access to transpersonal dimensions,
-the importance of [[lsd-set-and-setting-framework]], and the requirement for experienced
-guidance. The differences between methods are matters of degree rather than
-kind — of intensity, duration, controllability, and cultural context rather
-than of the fundamental nature of the states accessed.
-
-This continuum view has practical implications for the contemporary revival
-of psychedelic therapy. It suggests that non-drug methods can serve as
-preparation for, integration of, or even alternatives to psychedelic
-experiences. [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]], developed by Stanislav Grof as a
-non-drug method for accessing the same perinatal and transpersonal realms
-that psychedelic therapy reveals, is the most explicit embodiment of this
-principle.
-
-## Implications for Understanding Entheogenic Experience
-
-The existence of effective non-drug methods for accessing similar states
-has implications for how we understand the entheogenic experience itself.
-If drumming, fasting, and breathwork can produce experiences comparable to
-those produced by psilocybin or ayahuasca, then the psychedelic compound
-is best understood not as the cause of the experience but as a facilitator
-or catalyst — one method among many for accessing potentials that are
-inherent in the human nervous system. This framing is consistent with the
-set-and-setting model and with the shamanic understanding of entheogenic
-plants as "teachers" or "allies" rather than as the sole source of
-altered consciousness.
-
-## See Also
-
-- [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] — five principles
-- [[metzner-hallucinogens-psychotherapy-and-shamanism]] — Metzner's full review
-- [[entheogenic-ceremony-preparation]] — preparation and context

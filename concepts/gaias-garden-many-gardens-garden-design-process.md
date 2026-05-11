@@ -1,5 +1,5 @@
 ---
-title: Designing the Ecological Garden
+title: Gaias Garden Many Gardens Garden Design Process
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,11 +10,11 @@ tags: [design, gardening]
 
 # Designing the Ecological Garden
 
-An ecological garden design recognizes that nothing in nature stands alone. Any garden will reflect this connectedness, whether we want it to or not. The goal of [[williams-pdc-ecological-design-principles]] is to consciously create these connections, producing landscapes that yield abundantly, need little labor, harbor no pollutants, and are ripe with habitat.
+An ecological [[community-garden-design]] recognizes that nothing in nature stands alone. Any garden will reflect this connectedness, whether we want it to or not. The goal of [[williams-pdc-ecological-design-principles]] is to consciously create these connections, producing landscapes that yield abundantly, need little labor, harbor no pollutants, and are ripe with habitat.
 
 ## The Two Clients
 
-Every landscape design has two clients: the people who live there, and the land itself. Forcing an unsuitable design onto a place -- such as green lawns in the desert -- requires vast amounts of work, energy, and money to maintain. Ecological design piggybacks onto nature and works with its boundless energy rather than fighting against it.
+Every [[holzer-permaculture-landscape-design]] has two clients: the people who live there, and the land itself. Forcing an unsuitable design onto a place -- such as green lawns in the desert -- requires vast amounts of work, energy, and money to maintain. [[gaias-garden-ecological-design-process-checklist]] piggybacks onto nature and works with its boundless energy rather than fighting against it.
 
 ## The Five-Step Ecological Design Process
 
@@ -41,13 +41,13 @@ Observation goes beyond noting objects. It means being immersed in the place: Wh
 ### 2. Visioning
 
 With knowledge of the site, dream about what could be. Ask:
-- What do the human inhabitants want and need? (Food, herbs, wildlife habitat, privacy, play space)
+- What do the human inhabitants want and need? (Food, herbs, [[hemenway-backyard-wildlife-habitat]], privacy, play space)
 - What does the landscape and region need? (Soil rejuvenation, wildlife habitat, [[permplant-willows-salix-erosion-control-fodder]])
 - What are your skills, resources, limitations?
 - How should the new landscape feel?
 - What products can the land provide sustainably?
 
-**Key technique**: Name design elements by function, not by inert description. "Barrier" instead of "fence" invites far more possibilities (hedge, rock wall, trench, moat). "[[hamilton-composting-and-organic-matter-management]] recycling" instead of "compost pile" keeps more options open.
+**Key technique**: Name design elements by function, not by inert description. "Barrier" instead of "fence" invites far more possibilities (hedge, rock wall, trench, moat). "[[hamilton-composting-and-organic-matter-management]] recycling" instead of "[[mushroom-cultivator-compost-pile-management]]" keeps more options open.
 
 ### 3. Planning
 
@@ -88,27 +88,3 @@ Install the design in this order:
 4. Hardscaping (walls, sheds, paths, fences)
 5. Final grade adjustments
 6. Sheet mulches
-7. Large plants (trees, major shrubs)
-8. Ground covers, nonwoody plants, lawn, cover crops
-9. Mulch adjustment and irrigation fine-tuning
-10. Observation and care during establishment
-
-**Be flexible**: The design may take unexpected turns when the shovel meets real soil. Be ready to revisit earlier steps.
-
-## Natural Patterns in the Garden
-
-Beyond the zone-and-sector framework, ecological design uses natural patterns to save space, reduce labor, and enhance habitat:
-
-- **[[gaias-garden-keyhole-beds-and-mandala-gardens]]**: Circular beds with a path to the center, needing only 6 square feet of path per 50 square feet of planting (vs. 40 square feet for single rows)
-- **Mandala gardens**: Four to eight keyhole beds arranged in a circle, combining beauty and efficiency
-- **Herb spirals**: Spiral mounds that create multiple microclimates (dry/sunny top, moist/shady base) in a small footprint
-- **Branching patterns**: Paths and waterways that follow branching forms to maximize edge and access
-
-## See Also
-
-- [[gaias-garden-keyhole-beds-and-mandala-gardens]]
-- gaias garden [[mollison-designers-domestic-herb-spiral-and-kitchen-garden]] natural patterns
-- [[growing-vegetables-with-less-fertilizer]]
-- [[what-natural-farming-method-should-i-use]]
-- [[garden-myths-native-plants-and-invasive-species]]
-- [[teaming-with-microbes-mulch-and-soil-food-web]]

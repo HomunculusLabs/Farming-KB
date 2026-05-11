@@ -87,17 +87,3 @@ Asia. A saprotro food-forest-understory-plants ted farming systems.
 - **Low-input cultivation**: Requires minimal infrastructure compared to
   shiitake or [[cotter-oyster-mushroom-cultivation]] production; suitable for rural and subsistence
   farming contexts.
-
-## Similar Species
-
-- ***Macrocybe crassa***: Similar distribution in South Asia; smaller cap (15–40
-  cm), darker brown tones on cap surface, slightly larger spores.
-- ***Macrocybe titan***: Neotropical species from Central and South America;
-  very large (cap to 80 cm) but with more robust stipe and distinct ITS sequence.
-- ***Calvatia gigantea*** (giant puffball): Superficially similar size but lacks
-  gills entirely; produces spores internally in a gleba rather than on lamellae.
-
-## See Also
-
-- [[agroforestry]]
-- [[biological-efficiency]]

@@ -1,5 +1,5 @@
 ---
-title: "fungal-woronin-bodies-and-septal-pore-organization — Septal Pore Plugging and the Multicellular Fungal Hypha"
+title: Woronin Bodies Septal Pore Plugging Fungal Hypha
 source: "Fungi in the Environment (Gadd, Watkinson, Dyer)"
 topics: [fungi, woronin-bodies, septal-pore, hyphae, peroxisomes, hex-1, ascomycota, cell-biology]
 ---
@@ -31,8 +31,8 @@ Woronin bodies appear under electron microscopy as dense, osmophilic cores surro
 
 ### The HEX-1 Protein
 The core of the Woronin body is composed primarily of HEX-1, a self-assembling protein that forms a crystalline matrix:
-- **Crystal structure**: HEX-1 assembles into a dense, ordered crystalline lattice — essential for the plugging function
-- **Evolutionary origin**: HEX-1 shares sequence and structural homology with eIF-5a proteins (ancient translation initiation factors found from Archaea through eukaryotes), suggesting evolution via gene duplication of an ancestral eIF-5a gene
+- **[[crystal-structure-and-crystal-defects]]**: HEX-1 assembles into a dense, ordered crystalline lattice — essential for the plugging function
+- **Evolutionary origin**: HEX-1 shares sequence and [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] with eIF-5a proteins (ancient translation initiation factors found from Archaea through eukaryotes), suggesting evolution via gene duplication of an ancestral eIF-5a gene
 - **Gene conservation**: The hex-1 gene is present in all Euascomycete genomes examined to date, including the earliest-branching lineages, but is absent in other fungal groups
 
 ### Peroxisomal Origin
@@ -51,7 +51,7 @@ When a hyphal compartment is damaged:
 4. Cytoplasmic loss is halted within seconds
 5. The membrane seals around the plug, restoring compartment integrity
 
-Experiments by Collinge and Markham (1985) using *Penicillium chrysogenum* demonstrated that Woronin bodies plug severed hyphal pores rapidly enough to prevent significant cytoplasmic loss. Laser ablation studies (Berns et al., 1992) confirmed the speed of this response.
+Experiments by Collinge and Markham (1985) using *[[penicillium-chrysogenum]]* demonstrated that Woronin bodies plug severed hyphal pores rapidly enough to prevent significant cytoplasmic loss. Laser ablation studies (Berns et al., 1992) confirmed the speed of this response.
 
 ### Membrane Resealing
 After plugging, the plasma membrane must reseal around the Woronin body to restore full compartment integrity. The exact mechanism of membrane resealing remains an open question, though it is thought to involve recruitment of membrane repair machinery.
@@ -80,7 +80,7 @@ Different fungal groups have evolved different solutions to the septal-pore vuln
 | Hymenomycetes | Septal pore cap (parenthosome) | Barrel-shaped ER domain | Endoplasmic reticulum |
 | Urediniomycetes | Woronin-body-like organelle | Striated core + membrane | Unknown (likely independent) |
 
-The Woronin-body-like organelles of Urediniomycetes contain electron-dense polyhedral structures that superficially resemble Woronin bodies, but their cores show fine striations distinct from the HEX-1 crystalline matrix, suggesting independent evolutionary origins.
+The Woronin-body-like organelles of Urediniomycetes contain electron-dense [[cage-fungi-and-polyhedral-structures]] that superficially resemble Woronin bodies, but their cores show fine striations distinct from the HEX-1 crystalline matrix, suggesting independent [[tryptamine]].
 
 ## Phylogenetic Distribution
 
@@ -88,33 +88,3 @@ The phylogenetic distribution of Woronin bodies supports a single evolutionary o
 - Present in all Euascomycete genomes examined (Hemiascomycetes, Archiascomycetes, and Euascomycetes proper)
 - Absent in all other known fungal genomes
 - The hex-1 gene's conservation pattern matches the phylogenetic distribution of the organelle
-
-## Open Questions
-
-Several important questions remain unanswered:
-- How is membrane re-sealing achieved after plugging?
-- What mechanisms control association with the septal pore?
-- What are the genetic and cellular mechanisms regulating Woronin [[fungal-fruiting-body-formation-environmental-triggers]] and frequency within hyphae?
-- Do septal-pore organelles in Basidiomycota perform analogous functions or support different aspects of the filamentous lifestyle?
-- Can the structure-function relationships of these organelles inform broader understanding of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]?
-- Alternative splicing of HEX-1 may control aspects of Woronin body function — the extent to which structural variation can be reduced to molecular variation in HEX-1 requires additional research
-- The morphology of septal-pore-associated organelles varies considerably within their respective groups — whether this variation reflects natural selection on function or merely genetic drift remains unclear
-
-## Key Research References
-
-- Jedd, G. & Chua, N.H. (2000). A new self-assembled peroxisomal vesicle required for efficient resealing of the plasma membrane. Nature Cell Biology 2, 226–31.
-- Yuan, P. et al. (2003). Structure of the Woronin body. (Crystal structure of HEX-1).
-- Soundararajan, S. et al. (2004). Woronin body function in Magnaporthe grisea is essential for efficient pathogenesis. Plant Cell 16, 1564–74.
-- Markham, P. & Collinge, A.J. (1987). Woronin bodies of filamentous fungi. FEMS Microbiology Reviews 46, 1–11.
-- Collinge, A.J. & Markham, P. (1985). Woronin bodies rapidly plug septal pores of severed Penicillium chrysogenum hyphae. Experimental Mycology 9, 80–5.
-- Momany, M. et al. (2002). Mapping Woronin body position in Aspergillus nidulans. Mycologia 94, 260–6.
-- Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (Eds.) (2006). Fungi in the Environment. Cambridge University Press. Chapter 2.
-
-## See Also
-
-- fungal septum structure and function
-- [[fungal-vacuolar-system-nutrient-translocation]]
-- [[mycelial-network-graph-theory-analysis]]
-- [[gadd-fungal-nutrition-metabolism]]
-- ascomycota fungal diversity and ecology
-- [[bloomfield-fungal-biology-and-hyphal-growth]]

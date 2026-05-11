@@ -1,5 +1,5 @@
 ---
-title: mckenna roland fischer psilocybin visual acuity Psilocybin Visual Acuity Experiments
+title: Mckenna Roland Fischer [[psilocybin]] Visual Acuity
 created: 2026-04-28
 tags:
   - psilocybin
@@ -64,7 +64,7 @@ may actually enhance specific perceptual capacities that have direct adaptive va
 
 McKenna incorporated Fischer's findings into a broader model of how psilocybin use shaped
 human evolution through three distinct levels of dosage and effect. The first level,
-corresponding to Fischer's experimental conditions, involves low doses that improve visual
+corresponding to Fischer's [[darwin-five-seedling-phototropism-experimental-conditions]], involves low doses that improve visual
 acuity and edge detection without producing noticeable psychoactivity. At this level, the
 mushroom functioned as a sensory enhancer for hunter-gatherers, improving their ability
 to locate food and detect predators.
@@ -88,46 +88,3 @@ McKenna argues that the presence of psilocybin in the hominid diet changed the p
 of the process of natural selection by changing the behavioral patterns upon which that
 selection was operating. The augmentation of visual acuity through the use of psilocybin
 represented a new behavior pattern. This new behavior, visual enhancement through chemical
-means, would have shifted the selective landscape in favor of individuals and groups that
-maintained access to the mushroom.
-
-## The Visual Acuity Decline Hypothesis
-
-McKenna extends Fischer's findings to speculate about modern human visual limitations. He
-suggests that the widespread need for corrective lenses among modern humans may be a legacy
-of the long period of "artificial" enhancement of vision through psilocybin use. Just as
-the olfactory abilities of human beings are thought by some researchers to have atrophied
-as a result of the need for hungry omnivores to tolerate strong smells and tastes, the
-visual system may have become dependent on periodic enhancement through psilocybin and
-subsequently declined when that enhancement was no longer available.
-
-This trade-off hypothesis fits within a broader pattern in evolutionary biology. The
-suppression of keenness of taste and smell would allow inclusion of foods in the diet that
-might otherwise be passed over as too strong. Similarly, a degree of visual dependence on
-chemical enhancement could have shaped the evolutionary trajectory of the human visual
-system in ways that only become apparent when the enhancing substance is removed from the
-diet. This line of reasoning remains entirely speculative but represents a creative
-application of Fischer's empirical findings to the question of human sensory evolution.
-
-## Psychoactive Plants as Sensory Amplifiers
-
-The Fischer experiments contribute to a larger theme in *Food of the Gods*: the idea that
-psychoactive plants function not merely as agents of intoxication but as amplifiers of
-specific sensory and cognitive capacities that have direct adaptive value. At low doses,
-psilocybin enhances visual acuity. At moderate doses, it stimulates the central nervous
-system, triggering restlessness and sexual arousal, thereby promoting reproduction. At
-high doses, it produces full-blown [[shamanic-ecstasy-and-healing]], granting access to what McKenna calls
-the Transcendent Other.
-
-Each of these effects can be understood as conferring a specific adaptive advantage. The
-uniqueness of psilocybin, in McKenna's argument, lies in the fact that a single compound
-can produce this range of adaptive effects at different dosages, making it the ideal
-candidate for the role of the primary driver of human cognitive [[entheogens-and-cultural-evolution]].
-Fischer's visual acuity data provide the empirical anchor for the first and most
-fundamental of these three levels.
-
-## Relationship to Huxley's Reducing Valve
-
-Fischer's finding that psilocybin can actually improve perception of the physical world
-complements [[mckenna-psilocybin-three-levels-of-evolution]]
-- [[mckenna-huxley-mind-at-large-reducing-valve]]

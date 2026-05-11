@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -86,19 +87,3 @@ Flying to America for the first time, Fukuoka experienced a vision of the modern
 ## The Natural Order and Human Exceptionalism
 
 "But there is one who disrupts this natural order. It is man. Man is the [[fukuoka-textdoc-man-sole-heretic-natural-order]] in the natural order. Only he acts as he pleases."
-
-Fukuoka used the contrast between cremation and natural burial as a metaphor for agricultural intervention. Man douses corpses with heavy fuel oil and cremates them, believing this is fast, convenient, and hygienic — but "if the fuel oil that is mined, transported, and burned in the crematorium furnace" and antipollution treatment of stack gases are taken into account, "cremation is neither fast nor clean."
-
-"Perhaps simple burial or open burial in which the corpse is left exposed to the elements may seem primitive and inefficient to the short-sighted, but these are the most sensible and complete ways to dispose of a corpse." The same principle applies to farming: nature's methods, however they may appear to human eyes, are always superior to human technological solutions. "Designs for the most advanced [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]] plants are child's play compared with the infinitely elaborate methods of treating garbage used by nature."
-
-## The Village as Philosopher's Society
-
-Traditional farming villages operated on intuitive wisdom without formal philosophy. The disappearance of the irori (sunken hearth) — the center of family life where food was cooked and stories shared — extinguished this [[fukuoka-textdoc-village-philosophy-disappearance]]. "First there is nature and there is food, and in the midst of this lives man. That was the original state of the world."
-
-The village people knew what was delicious but had not neglected "the subtle and curious flavors of nature." "A [[fukuoka-natural-diet-as-foundation]] lies at our feet — a diet that obeys the laws of heaven and has been followed naturally and without want by the people of farming and fishing villages." Within a quiet life passed according to the cycles of nature "lies hidden all the grandeur of the human drama."
-
-This connects to [[fukuoka-critique-modern-agriculture]] for the full analysis.
-
-## Man as Orchestra Member
-
-"Creation is like a magnificent orchestra playing the symphony of nature. Humanity should have been content as one member of that orchestra." Instead, "bored with just watching the natural drama about him, mankind has been drawn toward a stage where he can play a one-man show." The result: "destruction of nature and ravaging mankind."

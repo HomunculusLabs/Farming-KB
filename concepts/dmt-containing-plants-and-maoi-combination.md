@@ -88,29 +88,3 @@ the Midwest, with approximately 1% MAOI content. It is used in herbal
 preparations for its sedative properties and bears an edible fruit.
 Nontraditional boiled brews combining these American-sourced plants
 with DMT-containing plants have been documented online as ayahuasca
-approximations.
-
-## Oral Activity Mechanism
-
-DMT is hallucinogenic when smoked, inhaled, injected, or administered
-as an enema, but orally active only when MAO enzymes in the gut and
-liver are inhibited. The MAOI prevents rapid deamination of DMT,
-allowing it to survive first-pass metabolism, enter the bloodstream,
-and cross the blood-brain barrier to act as a potent agonist at
-serotonin 5-HT2A receptors and other sites.
-
-## Routes of Administration and Dosage
-
-When smoked, DMT rapidly intoxicates with peak effects within 2 to 5
-minutes, clearing over the next 20 to 30 minutes. Typically, 40 to 50
-mg is smoked, though use ranges from 20 to 100 mg. The effective IV
-dosage is 0.1 to 0.4 mg/kg; 0.6 mg/kg was described as excessively
-intense and difficult to recollect.
-
-## Health Considerations and Religious Use
-
-DMT is considered physiologically nonaddictive. The MAOI in orally
-active preparations routinely leads to nausea and vomiting. A pilot
-survey of UDV members in Brazil found no adverse health consequences
-from ayahuasca use. Sacramental ayahuasca use by the [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]] and
-UDV religions is discussed in [[desmanthus-illinoensis]]

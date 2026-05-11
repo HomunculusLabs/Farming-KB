@@ -1,5 +1,5 @@
 ---
-title: Phellinus Linteus and phellinus linteus meshima cancer research Research
+title: Phellinus Linteus Meshima Cancer Research
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -19,7 +19,7 @@ Phellinus linteus extracts have been used in TCM for improving symptoms of diges
 - Colorectal cancer
 - Hepatocellular carcinoma
 
-As with most mushroom polysaccharide extracts, tumour responses and symptomatic improvement (enhanced quality of life) have mainly been reported in combination with conventional chemotherapy in adjuvant or neo-adjuvant settings.
+As with most [[mushroom-polysaccharide-chemistry]] extracts, tumour responses and symptomatic improvement (enhanced quality of life) have mainly been reported in combination with conventional chemotherapy in adjuvant or neo-adjuvant settings.
 
 ## Korean National Development Program
 
@@ -49,12 +49,12 @@ The oral formulation makes Meshima particularly suitable for long-term adjunctiv
 
 Beyond anti-cancer activity, Phellinus linteus extracts have demonstrated:
 - Blood glucose and triglyceride lowering effects in streptozotocin-induced diabetic models
-- Potential preventive and therapeutic action in diabetes mellitus (type I and II)
+- Potential preventive and therapeutic action in [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]] (type I and II)
 - Anti-diabetic activity attributed to water-soluble polysaccharide components
 
 ## Manufacturing Approach
 
-The use of fermenter-cultivated mycelium for P. linteus production represents an important trend in medicinal mushroom pharmaceutical development:
+The use of fermenter-cultivated mycelium for P. linteus production represents an important trend in [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] pharmaceutical development:
 - Consistent quality control
 - Scalable production
 - Aseptic conditions
@@ -87,11 +87,3 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 - Clinical evidence supports adjunctive use alongside conventional cancer treatments
 - Safety profiles are favorable compared to many conventional therapies
 - Further large-scale clinical trials are needed to optimize dosing protocols
-
-## See Also
-
-- [[phellinus-linteus-cancer-research]]
-- [[medicinal-mushroom-guide-meshima]]
-- kappa opioid receptor
-- [[turkey-tail-trametes-versicolor]]
-- [[reishi-mushroom-medicinal-research]]

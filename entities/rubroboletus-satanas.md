@@ -7,12 +7,12 @@ tags:
   - bolete
   - rubroboletus
   - boletaceae
-  - mycology
+  - [[mycology]]
   - poisonous
   - toxic
   - ectomycorrhizal
   - europe
-  - mushroom-identification
+  - [[mushroom-identification]]
   - foraging
   - temperate
   - gi-distress
@@ -62,7 +62,7 @@ recognize.
   a greenish or yellowish tint in age; margin thick and inrolled when young.
 - **Pore surface:** Bright orange to red-orange when young, becoming more
   ochre-yellow with maturity; pores round to angular, ~1–2 per mm; does NOT
-  bruise blue (key distinguishing feature from *Suillellus luridus*).
+  bruise blue (key distinguishing feature from *[[suillellus-luridus]]*).
 - **Tubes:** 1–2.5 cm long, yellowish, adnate to slightly decurrent.
 - **Stipe:** 6–12 cm × 3–8 cm, stout, club-shaped to bulbous at base;
   surface pale yellow with coarse, prominent red reticulum (especially near
@@ -88,45 +88,3 @@ recognize.
   be locally abundant in favorable years.
 
 ## Toxicity
-
-- **Gastrointestinal toxin:** Causes nausea, violent vomiting, abdominal
-  cramps, and diarrhea within 30 minutes to 4 hours of ingestion.
-- Primary toxic compounds are boleivic acids (glycoalkaloid derivatives) and
-  norcaperatic acid, which are heat-labile but not completely destroyed by
-  normal cooking temperatures.
-- Symptoms typically resolve within 24–48 hours; IV fluids may be needed in
-  severe cases due to dehydration.
-- No fatalities have been conclusively documented, but the experience is
-  sufficiently unpleasant that consumption is strongly discouraged.
-- Some foraging traditions claim prolonged boiling renders it edible, but
-  this is not considered safe practice.
-- The unpleasant odor serves as a natural deterrent and useful field
-  identification character.
-
-## Similar Species
-
-- **Suillellus luridus:** Darker olive-brown cap, stronger blueing reaction;
-  bruises blue immediately and prominently, while *R. satanas* shows only
-  weak, slow blueing. *S. luridus* is edible when cooked.
-- **Neoboletus erythropus:** Deeply reticulate stipe with intense blueing;
-  pores more yellow-orange. Considered edible when thoroughly cooked.
-- **Rubroboletus legaliae:** Very similar with pinkish cap flush; found
-  under oak. Edibility debated — should be avoided.
-- **Rubroboletus rhodoxanthus:** More intensely red pore surface and yellow
-  flesh that blues strongly; found in coniferous forests.
-
-## Identification Key Points
-
-- Pale grey to whitish cap — distinctively lighter than most red-pored
-  boletes.
-- Orange-red pore surface that does NOT bruise blue.
-- Coarse red reticulum on a pale yellow stipe.
-- Unpleasant, putrid odor especially in mature specimens.
-- Found on calcareous soils under broadleaf trees in summer and autumn.
-
-## See Also
-- [[boletus-edulis-entity]]
-- [[gyromitra-esculenta]]
-- [[ectomycorrhiza]]
-- [[suillellus-luridus]]
-- [[neoboletus-erythropus]]

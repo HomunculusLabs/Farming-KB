@@ -87,32 +87,3 @@ Chitinases degrade the exoskeletal chitin of arthropod prey. Phosphatases releas
 The standard substrate is a mix of long-fiber sphagnum moss and perlite, or a blend of peat and silica sand. The soil should be kept consistently moist but not waterlogged. Unlike temperate carnivorous plants, *Nepenthes* does not tolerate prolonged submersion.
 
 Warm temperatures (25–35°C daytime, 18–25°C nighttime) and high humidity (60–90%) are preferred. The species grows well in greenhouse conditions or terrarium setups where these parameters can be maintained.
-
-Propagation from seed is straightforward but slow; seedlings require several months to develop their first pitchers. Stem cuttings root readily when placed in moist sphagnum under high humidity with bottom heat.
-
-Common cultivation problems include [[blesching-cannabis-fungal-infections-candida]] in poorly ventilated setups, and failure to pitcher under insufficient light or humidity. Pests include scale insects, mealybugs, and thrips, which can be managed with horticultural oils or systemic insecticides.
-
-## Related Species
-
-**N. mirabilis** belongs to the *N. mirabilis* species complex, a group of closely related taxa distributed across Southeast Asia and Australasia. Several taxa formerly treated as subspecies or varieties of *N. mirabilis* have been elevated to species rank in recent revisions.
-
-Notable relatives include *N. rowanae* (Queensland, Australia) and *N. tenax* (Cape York Peninsula), both of which were historically included within *N. mirabilis*. These Australian taxa differ in flower morphology and pitcher shape.
-
-Within the genus, *N. mirabilis* is most closely related to lowland species of the *Regiae* group, which share the characteristic infundibular upper pitchers and cylindrical peristomes. Distant relatives include the giant montane species *N. rajah* of Borneo.
-
-## See Also
-
-- [[drosera-rotundifolia]]
-- [[dionaea-muscipula]]
-- [[lowenfels-nutrients-nitrogen-cycle]]
-- ecosystem
-- biodiversity
-- rainforest
-- evolution
-- ethnobotany
-- adaptation
-- propagation
-- enzyme
-- [[decomposition]]
-- substrate
-- greenhouse

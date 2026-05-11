@@ -10,14 +10,14 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Taylor, R.J. (2009). "The genus Aquilegia (Ranunculaceae) in North America." Systematic Botany Monographs, 87, 1-166.
+  - Taylor, R.J. (2009). "The genus Aquilegia (Ranunculaceae) in guzman-psilocybin-mushrooms-north-america." Systematic Botany Monographs, 87, 1-166.
   - Hodges, S.A. & Arnold, M.L. (1994). "Columbines: a geographically widespread species flock." Proceedings of the National Academy of Sciences, 91(11), 5129-5132.
   - Kew Royal Botanic Gardens. "Aquilegia chrysantha A.Gray." Plants of the World Online.
 ---
 
 ## Overview
 
-Aquilegia chrysantha A.Gray, commonly known as golden columbine or yellow columbine, is a perennial herbaceous plant in the family Ranunculaceae. It is native to the southwestern United States and northern Mexico, where it grows in moist canyons and along mountain streams.
+Aquilegia chrysantha A.Gray, commonly known as golden columbine or yellow columbine, is a perennial herbaceous plant in the family Ranunculaceae. It is native to the southwestern [[dmt-containing-plants-united-states-halpern]] and northern Mexico, where it grows in moist canyons and along mountain streams.
 
 The species is prized for its large, nodding, long-spurred yellow flowers that bloom prolifically from late spring through mid-summer. It is one of the tallest columbine species, reaching 60–120 cm in height.
 
@@ -29,7 +29,7 @@ All parts of the plant contain small amounts of cyanogenic glycosides, making it
 
 ## Taxonomy and Morphology
 
-Aquilegia chrysantha was described by Asa Gray in 1863 from specimens collected in the mountains of southern Arizona. The genus Aquilegia comprises approximately 70 species distributed across temperate regions of the Northern Hemisphere.
+Aquilegia chrysantha was described by Asa Gray in 1863 from specimens collected in the mountains of southern Arizona. The genus Aquilegia comprises approximately 70 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 The plant has a fibrous root system with a short, branched caudex. Basal leaves are biternate with glaucous, rounded leaflets on long petioles. Stem leaves are smaller and less divided.
 
@@ -39,17 +39,17 @@ Stamens and styles extend well beyond the petal tube, creating a prominent brush
 
 Chromosome number is 2n = 14, consistent with most Aquilegia species. The genus is known for its remarkably uniform karyotype across species, suggesting rapid recent diversification.
 
-The leaves are deciduous, dying back to the caudex in autumn. New growth emerges in early spring from the overwintering rootstock.
+The leaves are deciduous, dying back to the caudex in autumn. New growth emerges in [[coleman-overwintered-onions-and-early-spring-crops]] from the overwintering rootstock.
 
 ## Distribution and Habitat
 
-The species is native to the southwestern United States (Arizona, New Mexico, Utah, Colorado, and western Texas) and northern Mexico (Chihuahua, Sonora, and Durango). It occurs primarily in the southern Rocky Mountains and adjacent ranges.
+The species is native to the southwestern [[dmt-maoi-plants-united-states]] (Arizona, New Mexico, Utah, Colorado, and western Texas) and northern Mexico (Chihuahua, Sonora, and Durango). It occurs primarily in the southern Rocky Mountains and adjacent ranges.
 
 It grows at elevations of 1,200–3,400 meters in moist, shaded locations. Typical habitats include montane canyons, stream banks, seeps, and damp rock crevices in coniferous or mixed forests.
 
 The species prefers sites with afternoon shade and consistent moisture. It tolerates a range of soil types from rocky limestone to granitic sands, provided drainage is adequate.
 
-Unlike many Southwestern natives, Aquilegia chrysantha is not drought-tolerant and requires reliable moisture throughout the growing season. This restricts its natural distribution to mesic microsites within an otherwise arid region.
+Unlike many Southwestern natives, Aquilegia chrysantha is not drought-tolerant and requires reliable moisture throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. This restricts its natural distribution to mesic microsites within an otherwise arid region.
 
 In cultivation, it tolerates more sun in cooler climates but requires afternoon shade in hot-summer regions. Plants grown in too much shade produce fewer flowers and weaker stems.
 
@@ -69,7 +69,7 @@ The species is a short-lived perennial, with individual plants typically survivi
 
 ## Hybridization and Breeding
 
-Aquilegia chrysantha hybridizes readily with other North American columbine species, including Aquilegia coerulea (blue columbine) and Aquilegia formosa (crimson columbine). Natural hybrid zones occur where species' ranges overlap in the southern Rockies.
+Aquilegia chrysantha hybridizes readily with other [[growing-gourmet-north-american-reishi-species]] columbine species, including Aquilegia coerulea (blue columbine) and [[aquilegia-formosa]] (crimson columbine). Natural hybrid zones occur where species' ranges overlap in the southern Rockies.
 
 These natural hybrids have been extensively studied as models of speciation and adaptive radiation. Floral trait variation in hybrid zones shows patterns consistent with both pollinator-mediated selection and genetic introgression.
 
@@ -88,24 +88,3 @@ Golden columbine thrives in partial shade with moist, well-drained, humus-rich s
 Plants typically live 3–5 years but self-seed freely, maintaining persistent colonies. Deadheading prolongs flowering but prevents the attractive seed-head display and reduces self-seeding.
 
 Division is possible but not recommended, as the deep root system makes transplanting difficult. Container-grown plants establish more reliably than bare-root divisions.
-
-Notable cultivars include 'Texas Yellow' (compact, prolific flowering), 'Golden Lanterns' (large-flowered selection), and 'Sunrise' (bicolor yellow-white). The 'McKana Giants' series incorporates A. chrysantha genetics for long spurs.
-
-Columbine leaf miner (Phytomyza aquilegivora) produces characteristic serpentine tunnels in foliage but rarely causes serious damage. Powdery mildew can affect plants in poorly ventilated sites.
-
-Seeds should be sown fresh or cold-stratified for 4–6 weeks before spring planting. Germination rates are typically 50–70% at 18–21°C. Seed-grown plants may not flower true to type due to cross-pollination.
-
-The species attracts beneficial insects including hoverflies and parasitic wasps, making it a good companion plant in ecological gardens. Hummingbirds are consistent visitors during the flowering period.
-
-## See Also
-
-- [[aquilegia-vulgaris]]
-- [[ranunculus-acris]]
-- [[delphinium-elatum]]
-- [[clematis-vitalba]]
-- [[helleborus-orientalis]]
-- [[thalictrum-delavayi]]
-- [[trollius-europaeus]]
-- [[nigella-damascena]]
-- [[anemone-nemorosa]]
-- [[aconitum-napellus]]

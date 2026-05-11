@@ -18,7 +18,7 @@ type: concept
 
 The rave culture that emerged from Acid House music in the late 1980s
 and early 1990s created the social conditions for the second great wave
-of magic mushroom popularity. While LSD dominated the 1960s
+[[european-prevalence-and-patterns-of-magic-mushroom-use]] popularity. While LSD dominated the 1960s
 counterculture, the loved-up social attitudes of rave culture paved the
 way for a renewed and broader interest in psychedelics, with magic
 mushrooms finding a natural place alongside Ecstasy in the
@@ -27,7 +27,7 @@ pharmacopoeia of a new generation.
 ## From MDMA to Acid House
 
 MDMA had been explored in therapeutic contexts during the 1970s and
-early 1980s. Alexander Shulgin, the legendary underground chemist,
+early 1980s. [[alexander-shulgin]], the legendary underground chemist,
 popularised it as a tool for psychotherapy. The drug eventually found
 its way onto the streets of Chicago and Detroit, where it collided
 explosively with a new style of electronic dance music. The resulting
@@ -44,11 +44,11 @@ the '90s and into the 21st century."
 
 ## Leary's Influence on the Rave Generation
 
-Timothy Leary's influence, which had waned steadily since his
+[[timothy-leary]]'s influence, which had waned steadily since his
 imprisonment in the 1970s, revived when he found a new following
 amongst the Rave generation. He addressed crowds at events and his
 message of [[mckenna-consciousness-expansion-and-drug-war]] resonated with young people who had
-discovered psychoactive substances through dance culture rather than
+discovered [[cultural-evolution-and-psychoactive-substances]] through dance culture rather than
 through the counterculture of the previous generation. The rave scene
 provided a platform for psychedelic ideas to reach a new audience.
 
@@ -62,7 +62,7 @@ cultural shift was crucial: it removed the stigma and fear that had
 surrounded psychedelics since the moral panics of the previous decade.
 
 In this context, [[guzman-magic-mushrooms-african-species]] gained new appeal. They were
-perceived as a "natural" and "organic" alternative to synthetic drugs,
+perceived as a "natural" and "organic" alternative to [[mckenna-distillation-and-the-birth-of-synthetic-drugs]],
 a perception that remains in place today and accounts for at least some
 of their popularity. The effects of mushrooms at moderate street doses
 were tolerably mild compared to LSD, lasting the length of an
@@ -72,7 +72,7 @@ Monday.
 ## Terence McKenna and the Rave Scene
 
 Rave culture also provided a platform for Terence McKenna, perhaps the
-most original psychedelic thinker to emerge since Gordon Wasson. For
+most original psychedelic thinker to emerge since [[gordon-wasson-comparative-method-ethnomycology]]. For
 McKenna, mushrooms were not just a drug but a portal to a shamanic
 realm where cosmic spirits strained to impart information of possibly
 earth-shattering importance. He spoke at events like the Megatripolis
@@ -87,49 +87,3 @@ thought as he bamboozled audiences with his otherworldly tales and
 Byzantine theories about the extraterrestrial origins of the magic
 mushroom. Rave culture had created an audience receptive to his
 message.
-
-## The Cyber-Cultural Vision
-
-During the early 1990s, alongside McKenna's advocacy for a return to
-the natural, there was a concomitant rush of excitement about the
-possibilities of synthetic, or "smart" drugs. This cyber-cultural
-vision saw not a tribe of archaic revivalists but one of neuromancers
-armed with both the knowledge and the pharmacological power to adjust
-brain chemistry in any manner of their choosing, just as a computer
-programmer might tinker with software.
-
-There would be drugs to help us sleep, dream, wake up and concentrate,
-to enhance and prolong ecstasy, improve memory and intelligence. Drugs
-would enable us to fulfil our limitless potential by giving us mastery
-and absolute control over that most unruly of subjects, the self. This
-vision coexisted uneasily with McKenna's archaic revivalism, but both
-found their audience within the broader rave and festival culture.
-
-## The Cultural Significance
-
-The significance of rave culture for magic [[duggar-mushroom-history-and-overview]] lies not
-in any direct connection between Ecstasy and psilocybin, but in the
-broader cultural transformation it represented. Rave normalised
-psychoactive drug use, created social spaces where [[weil-the-natural-mind-altered-states-normalcy]] were
-celebrated rather than condemned, and generated a network of
-alternative culture that could sustain and distribute psychedelic
-knowledge. The loved-up ethos of the dance floor, with its emphasis on
-communion and collective experience, provided a far more hospitable
-environment for mushroom use than the confrontational politics of the
-1960s counterculture.
-
-Without the cultural bridge built by rave culture, the commercial
-mushroom boom of the late 1990s and early 2000s would have been
-unthinkable. Rave was the soil in which the second mushroom
-consciousness grew.
-
-## Related Topics
-
-- [[1960s-counterculture-and-magic-mushrooms]] - the first mushroom
-  - boom
-- mushroom-music-psychedelic-underground - music connections
-- [[psychedelic-prohibition-and-the-war-on-consciousness]] - the
-  - prohibition context
-- [[alexander-shulgin]]
-- [[timothy-leary]]
-- [[terence-mckenna]]

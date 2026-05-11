@@ -41,11 +41,11 @@ The methylenedioxy bridge on the phenyl ring is shared with MDMA, safrole-derive
 
 ## Pharmacology
 
-MDA acts primarily as a serotonin-norepinephrine-dopamine releasing agent (SNDRA) and as a non-selective serotonin receptor agonist.
+MDA acts primarily as a serotonin-norepinephrine-dopamine releasing agent (SNDRA) and as a non-selective [[serotonin-receptor-interference-psychedelic-mechanism]] agonist.
 
 **Monoamine release:** Potently releases serotonin (5-HT) and norepinephrine (NE) via reversal of SERT and NET transporter proteins. Dopamine release is moderate.
 
-Receptor binding differs significantly from MDMA — MDA shows direct agonist activity at **5-HT₂A** and **5-HT₂C** receptors, which accounts for its more pronounced psychedelic effects.
+[[beta-glucan-receptor-binding]] differs significantly from MDMA — MDA shows direct agonist activity at **5-HT₂A** and **5-HT₂C** receptors, which accounts for its more pronounced psychedelic effects.
 
 **5-HT₂A agonism** is the primary mechanism underlying MDA's visual hallucinations and altered perception, a property MDMA lacks at typical doses.
 
@@ -57,7 +57,7 @@ Onset occurs within 30–60 minutes after oral administration, with peak effects
 
 MDA is often described as a hybrid between MDMA and a classical psychedelic such as LSD or mescaline, combining empathogenic warmth with genuine visual and cognitive hallucination.
 
-Common effects include emotional openness, increased sociability, enhanced sensory perception, visual patterning, and mild synesthesia at higher doses.
+Common effects include emotional openness, increased sociability, enhanced [[plant-sensory-perception]], visual patterning, and mild synesthesia at higher doses.
 
 The stimulant component is more pronounced than MDMA, with users frequently reporting increased physical energy, jaw tension, and difficulty sleeping at the tail end of the experience.
 
@@ -72,7 +72,7 @@ MDA is approximately 2–3× more potent by weight than MDMA for comparable subj
 
 ## Side Effects and Risks
 
-Common adverse effects include tachycardia, hypertension, hyperthermia, trismus (jaw clenching), and pupillary dilation.
+Common [[adverse-effects-and-harm-reduction-psilocybin]] include tachycardia, hypertension, hyperthermia, trismus (jaw clenching), and pupillary dilation.
 
 Hyperthermia risk is significant, particularly in dance environments with physical exertion and inadequate hydration.
 
@@ -86,31 +86,4 @@ MDA is classified as **Schedule I** under the United Nations Convention on Psych
 
 In the [[dmt-containing-plants-united-states-halpern]], MDA is a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]].
 
-In the European Union, it is controlled under national legislation in most member states, typically classified alongside MDMA.
-
-## History
-
-First synthesized by Merck chemists in 1910 as part of early amphetamine derivative research.
-
-Alexander Shulgin independently synthesized and self-tested MDA in the mid-1960s, documenting its effects in PiHKAL (entry #105).
-
-MDA saw limited use in psychotherapeutic settings during the 1960s, advocated by therapists including Leo Zeff for its ability to facilitate emotional processing.
-
-It was placed under Schedule I in the United States in 1970 with the passage of the Controlled Substances Act.
-
-## Related Compounds
-
-- **MDMA** — N-methylated analog, less psychedelic, more purely entactogenic
-- **DOM** — fully psychedelic amphetamine, longer duration, no entactogen character
-- **MDEA** — N-ethyl analog, milder and shorter than MDA
-- **6-MAPB** — benzofuran analog, modern research chemical
-- **Mescaline** — phenethylamine psychedelic, shares 5-HT₂A agonism without amphetamine backbone
-
-## See Also
-
-- [[lsd]]
-- [[dmt]]
-- [[dom]]
-- [[6-mapb]]
-- [[harmine]]
-- [[dpt]]
+In [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]], it is controlled under national legislation in most member states, typically classified alongside MDMA.

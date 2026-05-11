@@ -1,5 +1,5 @@
 ---
-title: Simple [[bacteria-and-microorganisms-in-mushroom-fruiting]] Chambers and [[exotic-cultivation-flush-management-and-casing-hygiene]]
+title: Simple Mushroom Fruiting Chambers
 category: mycology
 tags: [fruiting-chamber, flush-management, humidity, mushroom-cultivation, mycology]
 created: 2026-05-09
@@ -88,49 +88,3 @@ Species and strain responsiveness to cold shock varies:
 After cased trays are placed in the fruiting chamber, the first pinheads
 (primordia) typically appear within 6–15 days. Pins first appear as small
 white dots on the casing surface, which then develop into miniature mushroom
-forms. During this phase:
-
-- Maintain consistent humidity — drying causes pins to abort
-- Minimize disturbance — vibration and air currents can cause aborts
-- Continue daily misting if needed to keep casing surface moist
-
-## Flush Patterns and Harvesting
-
-A "flush" is the wave of mushrooms that matures and is harvested from a
-cased tray. After harvest, the mycelium rests briefly before producing
-another flush.
-
-### First Flush
-The first flush is typically the largest. Mushrooms mature 5–7 days after
-pinning. Harvest by gently twisting and pulling the base of each mushroom
-from the casing, or cutting with a clean blade at the base of the stipe.
-
-### Subsequent Flushes
-Most cased trays will produce 3 flushes. With careful watering, some may
-produce 5 or even 6 flushes. However, yields typically diminish with each
-successive flush. *P. mexicana* usually produces one large flush and a
-smaller second flush, while other species tend to produce more consistent
-flushes.
-
-### Post-Harvest Watering
-After a flush is picked, increase watering because maturing mushrooms pull
-significant moisture from the casing soil. Replenishing this moisture is
-essential for the next flush to develop properly.
-
-## Abort Management
-
-"Aborts" are mushrooms that stop growing and begin to decompose. They
-appear as small, darkened, or discolored pins that fail to mature. Aborts
-must be removed from the casing surface promptly because they serve as
-nutrient sources for mold and bacterial contamination. A clean casing
-surface is one of the most important factors in achieving multiple flushes.
-
-## Troubleshooting
-
-| Problem | Likely Cause | Solution |
-|---------|-------------|----------|
-| No pins after 15 days | Insufficient humidity or air exchange | Increase misting, enlarge holes |
-| Many aborts | Casings drying out | Mist more frequently |
-| Fuzzy stipes | High CO₂, low air exchange | Enlarge or add ventilation holes |
-| Mold on casing | Aborts left on surface, dirty tools | Remove aborts, improve hygiene |
-| Small mushrooms | Low moisture, thin substrate | Increase watering, deeper substrate |

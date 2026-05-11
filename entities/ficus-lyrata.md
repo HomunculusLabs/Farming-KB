@@ -22,15 +22,15 @@ sources:
 
 **Ficus lyrata** is a species of flowering plant in the mulberry family, Moraceae, native to tropical lowland forests of West Africa. It is commonly known as the fiddle-leaf fig, referencing the large, violin-shaped leaves that are the plant's most distinctive feature.
 
-The species has become one of the most popular interior ornamental plants worldwide since the early 2010s. Its bold, sculptural foliage and tolerance of indoor conditions have made it a staple of contemporary interior design.
+The species has become one of the most popular interior ornamental plants worldwide since the early 2010s. Its bold, sculptural foliage and tolerance of indoor conditions have made it a staple of contemporary [[coleman-greenhouse-interior-design-and-management]].
 
 Social media platforms have significantly amplified the popularity of Ficus lyrata as a houseplant. Images of fiddle-leaf figs in interior settings are among the most-shared plant photographs on platforms such as Instagram and Pinterest.
 
-The global horticultural trade in Ficus lyrata has expanded rapidly to meet demand. Large-scale nurseries in Florida, Southeast Asia, and the Netherlands produce millions of plants annually for distribution to retail markets worldwide.
+The global horticultural trade in Ficus lyrata has expanded rapidly to meet demand. Large-scale nurseries in Florida, [[psilocybe-southeast-asia-pacific]], and the Netherlands produce millions of plants annually for distribution to [[hallucinogenic-mushroom-online-retail-markets]] worldwide.
 
 In its native habitat, Ficus lyrata grows as a large evergreen tree reaching 12–15 meters in height. In cultivation as a houseplant, it is typically maintained at 1–3 meters through pruning and container restriction.
 
-Ficus lyrata belongs to the same genus as the edible fig (Ficus carica) and shares the characteristic mutualistic relationship with fig wasps that is central to the reproductive biology of the genus.
+Ficus lyrata belongs to the same genus as the edible fig ([[ficus-carica]]) and shares the characteristic mutualistic relationship with fig wasps that is central to the [[clarke-marijuana-botany-sex-determination-reproductive-biology]] of the genus.
 
 ## Taxonomy
 
@@ -52,13 +52,13 @@ Phylogenetic studies place Ficus lyrata in a clade with other West African fig s
 
 **Leaves** are large, leathery, and prominently veined, reaching 25–45 cm in length and 15–25 cm in width. The leaf shape is variable but typically broadest near the middle with a narrowed apex, resembling a violin or lyre.
 
-The upper leaf surface is dark glossy green with a prominent midrib and widely spaced lateral veins. The underside is paler green with slightly raised venation. Leaf margins are entire and slightly undulate.
+The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark glossy green with a prominent midrib and widely spaced lateral veins. The underside is paler green with slightly raised venation. Leaf margins are entire and slightly undulate.
 
 New leaves emerge tightly rolled in a reddish sheath and gradually unfurl to their full size. Young leaves are thinner and more tender than mature foliage, with a lighter green coloration that darkens over several weeks.
 
 **Bark** is smooth and pale gray on young branches, becoming rougher and darker with age. The trunk develops a characteristic fluted or buttressed form in mature trees.
 
-**Fig syconia** are small, spherical structures approximately 2–3 cm in diameter, green turning yellowish when ripe. They grow in pairs in the leaf axils along the branches, though flowering and fruiting are rare in indoor cultivation.
+**Fig syconia** are small, spherical structures approximately 2–3 cm in diameter, green turning yellowish when ripe. They grow in pairs in the leaf axils along the branches, though flowering and fruiting are rare in [[cannabis-sativa-indoor-cultivation-techniques]].
 
 The syconium is actually an inverted inflorescence, with hundreds of tiny flowers lining the inner surface of the enclosed structure. This unique reproductive morphology is shared by all members of the genus Ficus and is central to the fig-wasp mutualism.
 
@@ -78,37 +78,12 @@ Ficus lyrata requires bright, indirect light for optimal growth and leaf develop
 
 The species is sensitive to environmental changes, particularly drafts, temperature fluctuations, and changes in light conditions. Leaf drop is the most common problem reported by indoor growers and typically results from relocation, overwatering, or inconsistent watering schedules.
 
-Well-draining potting mix with added perlite and bark provides the aeration that Ficus lyrata requires. Watering should be thorough when the top several centimeters of soil are dry, allowing excess water to drain completely from the container.
+Well-draining [[solomon-potting-mix-and-seedling-soil-recipe]] with added perlite and bark provides the aeration that Ficus lyrata requires. Watering should be thorough when the top several centimeters of soil are dry, allowing excess water to drain completely from the container.
 
 Pruning is essential to maintain a desirable shape and encourage branching. Pruning cuts should be made just above a node, and the plant responds well to shaping in spring before the main growth period.
 
-Fertilization with a balanced liquid fertilizer every two to four weeks during the growing season supports healthy foliage development. Over-fertilization causes salt buildup in the soil, manifesting as brown leaf tip burn.
+Fertilization with a balanced [[comfrey-tea-liquid-fertilizer]] every two to four weeks during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports healthy foliage development. Over-fertilization causes [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]] the soil, manifesting as brown leaf tip burn.
 
-Common pests affecting indoor Ficus lyrata include mealybugs, scale insects, spider mites, and thrips. The sap contains latex that can be irritating to skin, and the plant should be handled with care during pruning and repotting.
+Common pests affecting indoor Ficus lyrata include mealybugs, scale insects, [[cervantes-spider-mites-identification-control]], and thrips. The sap contains latex that can be irritating to skin, and the plant should be handled with care during pruning and repotting.
 
 Propagation from stem cuttings is possible but can be challenging for home growers. Cuttings require bottom heat, high humidity, and rooting hormone for reliable results. Air layering is generally more successful and produces larger plants more quickly.
-
-## Ecological Role
-
-Ficus lyrata plays a keystone ecological role in its native forest habitat by providing food for a wide range of frugivorous animals. The fig syconia are consumed by birds, bats, monkeys, and various small mammals throughout the year.
-
-The species maintains an obligate mutualism with a specific species of fig wasp (Agaonidae) that pollinates the enclosed flowers within the syconium. Female wasps enter the fig through a small opening (ostiole), lay eggs inside, and pollinate the flowers in the process.
-
-As a canopy tree, Ficus lyrata provides habitat structure for epiphytes, climbing plants, and nesting birds. The dense foliage offers shade and shelter for understory species, and the root systems help stabilize soil along waterways.
-
-Ficus species are considered keystone resources in tropical forests because they produce fruit asynchronously throughout the year. This continuous food supply supports frugivore populations during periods when other fruit sources are scarce.
-
-In traditional African medicine, various parts of Ficus lyrata have been used to treat ailments including diarrhea, respiratory infections, and skin conditions. The latex sap has been applied topically to wounds and as a treatment for parasitic skin infections.
-
-## See Also
-
-- [[brosimum-alicastrum]]
-
-- [[broussonetia-papyrifera]]
-- [[dracaena-draco]]
-- [[ficus-carica]]
-- [[hedera-helix]]
-- [[psilocybe-heliconia]]
-- [[monstera-deliciosa]]
-- [[musa-acuminata]]
-- [[yucca-filamentosa]]

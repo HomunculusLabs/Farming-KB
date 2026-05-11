@@ -9,13 +9,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 
 # Stomata, Transpiration, and Plant Water Regulation
 
-Stomata (singular: stoma) are microscopic pores found primarily on the undersides of leaves. Despite being tiny -- typically 10-80 micrometers long and 5-15 wide -- they are arguably the most important regulatory structures in plants. Through stomata, plants take in CO2 for photosynthesis, release oxygen, and lose the vast majority of their water. The regulation of stomatal opening and closing determines the balance between carbon gain and water loss.
+Stomata (singular: stoma) are microscopic pores found primarily on the undersides of leaves. Despite being tiny -- typically 10-80 micrometers long and 5-15 wide -- they are arguably the most important regulatory structures in plants. Through stomata, plants take in CO2 for photosynthesis, [[query-how-does-hemoglobin-know-when-to-release-oxygen]], and lose the vast majority of their water. The regulation of stomatal opening and closing determines the balance between carbon gain and water loss.
 
 ## Stomatal Structure
 
 Each stoma consists of two **guard cells** -- specialized kidney-shaped or bean-shaped cells that flank the pore. Guard cells are unique because they are the only epidermal cells containing chloroplasts (most [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] cells lack them). This allows guard cells to perform photosynthesis and generate the ATP needed for [[diffusion-osmosis-and-active-transport-in-plants]].
 
-The cell walls of guard cells are thicker on the side facing the pore and thinner on the opposite side. When guard cells swell with water, the thinner walls stretch more, pulling the thicker walls apart and opening the stoma. When they lose water, they deflate and the stoma closes.
+The [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of guard cells are thicker on the side facing the pore and thinner on the opposite side. When guard cells swell with water, the thinner walls stretch more, pulling the thicker walls apart and opening the stoma. When they lose water, they deflate and the stoma closes.
 
 ## The Potassium-Pump Mechanism
 
@@ -72,13 +72,13 @@ This tradeoff is the central challenge of plant water management. Plants have ev
 Stomata respond to multiple environmental signals:
 
 ### Light
-Blue light triggers proton pumps in guard cells, promoting opening. Most plants open stomata at dawn and close them at dusk.
+[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] triggers proton pumps in guard cells, promoting opening. Most plants open stomata at dawn and close them at dusk.
 
 ### CO2 Concentration
 Low CO2 inside the leaf (indicating active photosynthesis) promotes opening. High CO2 (indicating sufficient supply) promotes closing.
 
 ### Water Stress
-When water is scarce, the hormone **abscisic acid (ABA)** is produced in roots and leaves. ABA triggers potassium export from guard cells, forcing stomatal closure. This hormonal signal can travel from roots to leaves through the xylem.
+When water is scarce, the hormone **[[abscisic-acid-plant-stress-hormone]] (ABA)** is produced in roots and leaves. ABA triggers potassium export from guard cells, forcing stomatal closure. This hormonal signal can travel from roots to leaves through the xylem.
 
 ### Temperature
 High temperatures increase transpiration rates. If water loss exceeds uptake, stomata close to prevent dehydration.
@@ -87,36 +87,3 @@ High temperatures increase transpiration rates. If water loss exceeds uptake, st
 [[pf-tek-low-humidity-symptoms-and-remediation]] increases the transpiration rate (steeper water vapor gradient between leaf interior and atmosphere).
 
 ## Stomatal Density
-
-Plants can adjust the number of stomata per leaf area in response to environmental conditions:
-- Plants grown in dry conditions tend to develop fewer stomata
-- Plants grown in CO2-enriched environments develop fewer stomata
-- Different species have characteristic stomatal densities
-
-## The Calcium Signal Connection
-
-Calcium ions serve as secondary messengers in stomatal regulation. When ABA signals drought conditions, calcium is released into the guard cell cytosol, activating anion channels that trigger the potassium efflux and stomatal closure.
-
-## Guttation vs Transpiration
-
-When transpiration is minimal (night, high humidity) and [[guttation-root-pressure-and-maple-sap-physiology]] is strong, water may be pushed out of the leaf through specialized structures called **hydathodes** rather than through stomata. This is guttation -- visible as droplets on leaf tips.
-
-## Implications for Gardeners
-
-Understanding stomatal regulation explains many practical observations:
-- Why plants wilt in hot afternoon sun (stomata close to conserve water, reducing [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]])
-- Why misting helps (increases humidity, reduces transpiration demand)
-- Why over-fertilizing with potassium can affect water relations (excess K disrupts the K pump balance)
-- Why plants in windy locations need more water (wind removes the boundary layer of humid air, increasing transpiration)
-
-## Related Topics
-
-- [[plant-micronutrients-and-their-essential-functions]] -- potassium and chlorine in stomatal function
-- [[xylem-and-phloem-transport-systems-in-plants]] -- how transpiration drives xylem flow
-
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[diffusion-osmosis-and-active-transport-in-plants]]
-
-## See Also
-
-- [[water-use-efficiency-plants]]

@@ -1,10 +1,11 @@
 ---
-title: Natural natural diet and seasonal eating Eating
+title: Natural Diet And Seasonal Eating
 created: 2026-04-28
 tags: [diet, nutrition, philosophy, seasons, yin-yang, fukuoka, food]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -12,7 +13,7 @@ type: concept
 # Natural Diet and Seasonal Eating
 
 [[masanobu-fukuoka]], is a way of eating grounded in
-the cycles and rhythms of nature. It transcends both Western nutritional science
+the cycles and rhythms of nature. It transcends both Western [[fukuoka-critique-western-dietetics-nutritional-science]]
 and Eastern yin-yang philosophy while incorporating insights from both. A
 natural diet arises spontaneously when one lives in accordance with the seasons,
 consuming locally available foods at their peak, without elaborate processing or
@@ -63,7 +64,7 @@ supplemented by yin vegetables, while avoiding excessive meat consumption.
 
 However, Fukuoka cautioned that excessive concern over whether something is yin
 or yang, acidic or alkaline, leads one back into the realm of science and
-discriminating knowledge. The ideal is to eat naturally without such mental
+[[fukuoka-microbes-soil-health-discriminating-knowledge]]. The ideal is to eat naturally without such mental
 categorization.
 
 ## The Unity of Color, Flavor, and Spirit
@@ -87,28 +88,3 @@ and they are easily deceived by artificial flavorings.
 Fukuoka traced the corruption of the modern diet through several stages:
 
 **Loss of instinctive taste**: Adults who have lost their instinctive sense of
-taste no longer appreciate the taste of rice. They eat white rice with meat
-sauce or sashimi to compensate for the flavor removed by polishing. [[fukuoka-tasty-rice-illusion-food-processing]]
-becomes defined as rice that is easy to flavor and season rather than rice with
-its own inherent flavor.
-
-**Artificial substitution**: Meat and fish have gone the same route as rice.
-Refinements in flavoring with petroleum-derived protein have created people
-who are unaware that their entire diet has been converted into an artificial
-diet. The locus of flavor shifts from the food itself to the additives applied
-to it.
-
-**Paradox of effort**: In efforts to make bread tastier, bread has ceased to
-taste good. In efforts to produce delicious rice, fruit, and vegetables,
-these become increasingly inaccessible. The more humanity strives to produce
-delicious food, the more it recedes.
-
-## Eating with the Seasons: A Year of Food
-
-Fukuoka described a complete annual cycle of natural eating that illustrates
-his principles:
-
-**Spring**: The seven herbs emerge from winter earth, complemented by
-shellfish. Wild herbs, young cherry and [[natural-farming-five-principles]]
-- [[soil-self-enrichment]]
-- [[non-causality-in-nature]]

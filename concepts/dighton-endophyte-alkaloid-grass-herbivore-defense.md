@@ -25,17 +25,17 @@ structure.
 
 ## The Endophyte-Grass Symbiosis
 
-Clay (1990) defines endophytic fungi as organisms that grow within a plant for
+Clay (1990) defines [[biodiversity-of-fungi-endophytic-fungi]] as organisms that grow within a plant for
 a period and then egress to sporulate, causing no apparent damage to their
 host. Clay (1997) identifies endophytic fungi as a model system showing how
-fungi can have important effects throughout the whole community by virtue of
+fungi can have important effects throughout the [[ingham-single-species-vs-whole-community]] by virtue of
 their interactions with grazing animals.
 
 Of particular importance are members of the Clavicepitales associated with
 grasses. The presence of these fungi in grass leaves reduces incidence of
 insect herbivory, grazing by ungulates, and oviposition on the plant by
-insects. The effect operates through both altered nutrient content of the host
-plant and the production of secondary metabolites that deter animals.
+insects. The effect operates through both altered [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of the host
+plant and the production of [[biodiversity-fungal-secondary-metabolites]] that deter animals.
 
 ## Key Endophyte Genera and Their Effects
 
@@ -69,7 +69,7 @@ Richardson (2000) postulates that alkaloid production may have additional
 properties beyond herbivore defense. In other fungal-plant interactions,
 secondary metabolites influence host plant physiology. The pathogenic fungus
 Cercospora produces cercosporin, which kills host cells to make nutrients
-available to the fungus. Endophytic fungi similarly increase apoplastic
+available to the fungus. [[endophytic-fungi]] similarly increase apoplastic
 carbohydrate concentrations in leaves, providing greater energy supply to
 the fungus.
 
@@ -77,7 +77,7 @@ the fungus.
 
 Alkaloid production is nitrogen-demanding. Richardson (2000) cites evidence
 that endophytic fungi can alter the nitrogen balance within the host plant to
-favor nitrogen availability to the fungus. This nitrogen manipulation
+favor [[nitrogen-availability-in-legumes]] to the fungus. This nitrogen manipulation
 supports the idea that mutualistic associations (mycorrhizae and endophytes)
 exist along a continuum of fungal physiologies ranging from saprotrophy to
 pathogenicity.
@@ -88,33 +88,3 @@ Clay (1990) compiled extensive evidence of endophyte effects on insect
 herbivores across multiple grass genera. Documented effects include:
 
 - **Avoidance**: Rhopalosiphum padi on Festuca
-- **Reduced survival and development**: Spodoptera frugiperda on Cenchrus
-- **Reduced feeding and oviposition**: Multiple insect species on Lolium and
-  Festuca
-- **Reduced population growth**: Tribolium castaneum on Festuca and Lolium
-
-Prestidge and Ball (1997) cite evidence of [[blesching-cannabis-safety-adverse-effects-evidence]] of
-Acremonium-infected tall fescue on 12 beetle species, two fly species, 16
-Hemiptera and Homoptera species, and eight lepidopteran larvae, suggesting
-endophytes could serve as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents for agricultural pests.
-
-## Environmental Stability of Endophyte Protection
-
-The degree of protection afforded by endophytes does not appear to change
-under varying environmental conditions. Marks and Lincoln (1996) studied the
-influence of elevated CO2 on grazing of tall fescue by the fall armyworm
-Spodoptera frugiperda. Although grazing intensity increased with elevated
-CO2, the proportion of plant consumed by insects was similar between elevated
-and ambient conditions. Endophyte-infected plants consistently outperformed
-uninfected plants in the presence of herbivory.
-
-## The Mutualism-Parasitism Continuum
-
-The interactions between endophytes and host plants vary along a continuum
-between herbivory defense and pathogenicity. Clay (1990) defined fitness
-relationships ranging from purely pathogenic (endophyte provides no defense)
-through conditionally mutualistic to unconditionally mutualistic
-relationships. This continuum mirrors broader questions about the nature of
-fungal symbioses in [[endophytic-fungi-plant-defense-dighton]]
-- [[clavicipitaceous-grass-endophytes]]
-- [[fungal-secondary-metabolites-environment]]

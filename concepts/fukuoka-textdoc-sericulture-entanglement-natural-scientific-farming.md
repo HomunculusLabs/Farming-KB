@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, sericulture, silk, silkworm, mulberry, scientif
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -29,7 +30,7 @@ hit upon the idea of raising silkworms to produce cocoons for them.
 
 Primitive methods close to nature marked the beginnings of sericulture.
 Silkworms were collected and released in woods close to home. This was
-already a step away from pure natural farming, as it involved selecting and
+already a step away from pure [[cho-loess-powder-in-natural-farming]], as it involved selecting and
 managing the insects, but the methods remained close to natural conditions.
 
 ## The Spiral of Artificial Intensification
@@ -74,11 +75,11 @@ evening dew.
 
 As advances continued, silkworms were raised first under the eaves, then
 outdoors, and finally released into nearby trees. Sericulture appeared to be
-headed in the direction of natural farming.
+headed in the direction [[four-principles-of-natural-farming]].
 
 ## Industrial Sericulture: The Final Spiral Outward
 
-Then the industry fell upon hard times as synthetic fibers almost made natural
+Then the industry fell upon [[gardening-in-hard-times]] as synthetic fibers almost made natural
 silk obsolete. Silk prices plummeted, throwing sericulture farms out of
 business. Later, growing material affluence nurtured extravagant tastes.
 Consumers rediscovered the virtues of natural silk absent in synthetic fibers,
@@ -87,55 +88,3 @@ skyrocketed and farmers regained interest.
 
 But the hard-working farmer of old was gone. Innovative new sericulture
 techniques were adopted, purely scientific methods going in the opposite
-direction from natural farming. Artificial feed was prepared from mulberry
-leaf powder, soybean powder, wheat powder, starch, fats, vitamins, and other
-ingredients including preservatives. The feed was sterilized. Silkworms were
-raised in plants fully outfitted with heating and air conditioning equipment,
-with lighting and ventilation adjusted automatically.
-
-Feed was carried in and droppings carried out on a belt conveyor. If disease
-broke out, the room could be hermetically sealed and disinfected with gas.
-With all feeding and cocoon collection operations fully automated, natural
-silk had become a factory product. The starting material was still mulberry
-leaves, but this would probably be replaced by totally synthetic feed prepared
-from petrochemicals.
-
-## The Entanglement Pattern
-
-Fukuoka depicted the relationship between natural and scientific farming as
-intertwining strands that never actually cross. Narrowly defined natural
-farming, which includes [[coleman-deep-organic-farming-philosophy]], proceeds centripetally inward toward
-a state of nothingness (Mu) by the elimination of human labor; it compresses
-and freezes time and space.
-
-Modern scientific farming, on the other hand, seeks to appropriate time and
-space through complex and diverse means. Sericulture perfectly illustrates
-this pattern: from natural forest collection to indoor artificial rearing, then
-briefly back toward outdoor methods, and finally spiraling to fully automated
-factory production.
-
-The key insight is that once scientific farming begins to get underway, it
-does not regress or turn back but rushes madly onward along a path that takes
-it further from nature. The brief apparent return toward natural methods in
-sericulture was not a true regression but merely a pause before the next
-outward spiral.
-
-## The Broader Lesson for Agriculture
-
-Fukuoka's sericulture case study demonstrates that what appears to be a
-return to natural methods is often just a temporary adjustment within the
-overall trajectory of scientific intensification. Each spiral outward consumes
-more energy, requires more capital investment, and produces a product that is
-further removed from its natural state.
-
-The same pattern can be observed in [[jadam-rice-cultivation-methods]], livestock raising, and
-fruit production. Farmers who believe they are moving toward sustainability
-by adopting reduced-input methods may find themselves on a brief plateau before
-the next wave of technological intensification carries them further from
-nature.
-
-## See Also
-
-- [[fukuoka-textdoc-mahayana-hinayana-scientific-farming-ways]]
-- [[fukuoka-textdoc-critique-mechanization-agriculture]]
-- [[fukuoka-textdoc-errors-of-human-intellect]]

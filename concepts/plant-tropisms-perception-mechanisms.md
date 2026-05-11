@@ -1,5 +1,5 @@
 ---
-title: Plant Tropisms and Perception Mechanisms
+title: Plant Tropisms Perception Mechanisms
 created: 2026-04-28
 tags: [plant-biology, tropisms, perception, plant-physiology]
 date: 2026-04-25
@@ -14,9 +14,9 @@ type: concept
 
 Plant tropisms are directional growth responses in which plants orient
 their growth toward or away from external stimuli. The study of these
-mechanisms has a rich history, from early botanical observations through
+mechanisms has a [[plant-science-exploring-rich-history]], from early botanical observations through
 the groundbreaking instrumentation of Sir [[plant-perception]] extends far beyond simple mechanical responses,
-encompassing electrical signaling and what Bose termed "primary
+encompassing [[chamovitz-plant-electrical-signaling-action-potentials]] and what Bose termed "primary
 perception" -- a sensitivity that may rival or exceed human sensory
 capabilities in certain dimensions.
 
@@ -27,7 +27,7 @@ named according to the stimulus that provokes the response:
 
 - **Geotropism (Gravitropism):** Roots burrow into the soil following
   gravitational pull, exhibiting positive geotropism. Shoots that grow
-  upward against gravity demonstrate negative geotropism. Branches that
+  upward against gravity demonstrate [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]. Branches that
   extend laterally from the shoot were traditionally described as showing
   diageotropism.
 
@@ -70,7 +70,7 @@ growth, while rough handling could stimulate growth in sluggish plants.
 
 Bose subsequently devised a "balanced crescograph" that lowered the
 plant at the same rate it was growing upward, reducing growth marking
-to a horizontal line. This allowed any changes in growth rate to express
+to a horizontal line. This allowed any changes in [[soil-temperature-plant-growth-rate-doubling-rule]] to express
 themselves as visible curves. The method was so sensitive that Bose
 could detect growth rate variations as minimal as 1/1500 millionths of
 an inch per second.
@@ -88,55 +88,3 @@ reactions: a direct stimulus inducing contraction and an indirect
 stimulus causing expansion. During curvature of a plant organ, the
 convex side became electrically positive while the concave side was
 negative -- demonstrating that electrical signaling underlies tropistic
-responses.
-
-To quantify plant sensitivity, Bose compared the electrical perception
-of a human tongue with the sensitive leaflet of the Biophytum plant.
-Passing current through both organs while gradually increasing amperage,
-he found that at 1.5 micro-amperes (1.5 millionths of the standard
-electrical unit), the plant leaflet responded visibly. The human tongue
-required three times that intensity before registering any sensation.
-
-This demonstrated that plants possess conducting tissue analogous to
-animal nerve, and that their sensitivity was not of the "very low
-order" that plant specialists had assumed. Bose showed that "a stoutish
-tree will give its response in a slow and lordly fashion whereas a thin
-one attains the acme of its excitement in an incredibly short time."
-
-## Primary Perception
-
-[[tompkins-cleve-backster-primary-perception]]'s research extended plant perception studies into the
-realm of what he called "primary perception" -- a more fundamental
-sensory capacity potentially common to all nature. Backster hypothesized
-that the five human senses might be limiting factors overlaying a more
-basic perceptual faculty. His experiments suggested that plants could
-detect and respond to the death of [[savory-living-organisms-as-tools]] at considerable
-distances, raising questions about the boundaries of plant awareness.
-
-The scientific hypothesis he pursued held "that there exists an as yet
-undefined primary perception in plant life, that animal life termination
-can serve as a remotely located stimulus to demonstrate this perception
-capability, and that this perception facility in plants can be shown to
-function independently of human involvement."
-
-## Legacy and Validation
-
-Bose's work received international recognition. In 1920, he was made a
-Fellow of the Royal Society. When Professor Waller publicly questioned
-the reliability of the magnetic crescograph, a demonstration at London
-University on April 23, 1920 proved completely successful. Lord
-Rayleigh and several colleagues confirmed that "the growth of plant
-tissues is correctly recorded by this instrument and at magnification
-of one million to more than ten million times."
-
-The French philosopher Henri Bergson, after hearing Bose lecture at the
-Sorbonne in 1923, declared: "The dumb plants had by Bose's marvelous
-inventions been rendered the most eloquent witnesses of their hitherto
-unexpressed life story." Romain Rolland inscribed a copy of his novel
-## Related
-
-- [[tompkins-plant-perception-experiments]] Concepts
-
-- [[tompkins-bose-plant-nervous-system-hypothesis]]
-- [[tompkins-bose-plant-nervous-system-hypothesis]]
-- [[tompkins-bose-plant-nervous-system-hypothesis]]

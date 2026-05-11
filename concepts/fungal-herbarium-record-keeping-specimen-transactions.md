@@ -2,7 +2,7 @@
 
 ## Overview
 
-Effective record keeping is the operational backbone of any fungal herbarium. As funding for basic scientific research decreases, herbaria must demonstrate their relevance and cost-effectiveness through documented specimen use. A comprehensive record-keeping system tracks specimen holdings, transactions, and usage patterns to justify continued institutional support.
+Effective record keeping is the operational backbone of any fungal herbarium. As funding for basic [[psilocybin-isolation-and-early-scientific-research]] decreases, herbaria must demonstrate their relevance and cost-effectiveness through documented specimen use. A comprehensive record-keeping system tracks specimen holdings, transactions, and usage patterns to justify continued institutional support.
 
 ## Transaction Types
 
@@ -22,7 +22,7 @@ Herbaria conduct several categories of specimen transactions, each requiring doc
 ### Special Categories
 - **Purchases**: Specimens acquired through commercial channels
 - **Type specimen loans**: High-restriction transactions requiring special documentation
-- **Destructive sampling loans**: Specimens borrowed for molecular or chemical analysis
+- **[[fungal-destructive-sampling-herbarium-dna-extraction]] loans**: Specimens borrowed for molecular or [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 
 ## Essential Record Elements
 
@@ -88,61 +88,3 @@ A computer equipped with database software is indispensable for modern herbarium
 
 Every shipment must be accompanied by an invoice that:
 - Lists all specimens shipped
-- Indicates the nature of the transaction
-- Specifies any restrictions on specimen use
-- States the expected duration of the loan
-- Serves as a permanent record for both institutions
-
-### Return Procedures
-
-When returning a loan:
-- Check each specimen against the loan invoice
-- Inform the lending institution that the loan (or portion) is being returned
-- Note any discrepancies between shipped and returned specimens
-- Use original or equivalent packing materials
-
-## Shipping and Transport Protocols
-
-Specimens must be packed carefully to avoid damage during transit:
-- Sheet-mounted specimens should be padded between cardboard separators
-- Strong, appropriately sized boxes should be used and sealed per postal regulations
-- Herbarium addresses worldwide are available in the Index Herbariorum (Holmgren et al. 1990) or online
-- Regular mail is standard; registered or special carrier services for valuable specimens, international shipments, and type specimens
-- When returning loans, the lending institution should be informed before shipment
-
-## Justifying Herbarium Value
-
-### Usage Statistics
-
-Record keeping enables herbaria to demonstrate scientific impact:
-- Number of specimens loaned per year
-- Number of publications resulting from specimen use
-- Number of researchers (external) using the collection
-- Geographic and taxonomic breadth of specimen use
-- Response time for loan fulfillment
-
-### Funding Justification
-
-As competition for institutional funding intensifies, herbaria that can document:
-- High rates of specimen use by the scientific community
-- Contributions to published research
-- Educational use (courses, training, public outreach)
-- Unique holdings not available elsewhere
-
-...are better positioned to maintain and expand their operations.
-
-## Pest Control Integration
-
-Record keeping intersects with specimen preservation:
-- All specimens, including returned loans, should be treated for insect contamination before incorporation
-- Freezing is the preferred treatment method
-- Treatment records should be linked to specimen records
-- Monitoring data (trap counts, visual inspections) should be archived
-
-## See Also
-
-- [[fungal-specimen-collection-herbarium-management]]
-- [[fungal-specimen-preparation-preservation-herbarium-storage]]
-- [[fungal-biodiversity-herbarium-collections]]
-- [[fungal-type-specimens]]
-- [[fungal-electronic-specimen-catalogues]]

@@ -88,14 +88,3 @@ sheets thick and cover with a layer of organic material to hold it down
 and improve appearance.
 
 ## Preventing Weeds from Spreading
-
-Two sources of nuisance: weed seeds blowing in from neighboring plots,
-and creeping roots coming under fences.
-
-For airborne seeds, ask neighbors to cut weeds before they seed. For
-creeping roots (couch grass, ground elder), install a barrier: dig a
-trench 6 inches deep along the fence line, insert a sheet of heavy-gauge
-plastic nailed to the fence base and hanging to the trench bottom, and
-backfill. This provides effective protection for life.
-
-## [[hamilton-organic-soil-management]], [[hamilton-container-raised-bed-gardening]]

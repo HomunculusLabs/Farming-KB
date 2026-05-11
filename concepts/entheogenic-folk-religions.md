@@ -88,21 +88,3 @@ possibility of a chemical antidote to addiction.
 ## Significance for Cultural Transformation
 
 These syncretic religious movements, particularly the ayahuasca churches in
-Brazil, have brought the use of entheogenic plant substances out of the
-context of shamanic healing rituals, where only a limited number of people
-came into contact with them. They have made profoundly spiritually
-transforming experiences with entheogenic plant medicines accessible to a
-large number and wide spectrum of people in all walks of life.
-
-Metzner suggested that we may be seeing the beginnings of a broader cultural
-transformation movement with significant impact. The more plausible
-assumption is that all "consciousness-expanding" hallucinogens, including
-[[lsd]], peyote, ayahuasca, and others, can serve to counteract the
-consciousness-contracting and fixating effect of addictive narcotics or
-stimulants.
-## See Also
-- [[dennis-mckenna]]
-- [[brazilian-ayahuasca-churches]]
-- [[huichol-peyote-tradition]]
-- [[entheogenic-folk-religious-ceremonies]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]

@@ -49,9 +49,9 @@ new therapeutic possibilities for treating cerebrovascular disorders."
 
 The same Japanese team concluded that 24 hours after induced stroke in mice, THC
 significantly increased CB1 receptor expression in both striatum and cortex but
-not the hypothalamus (responsible for body temperature regulation). THC
+not the hypothalamus (responsible for body [[blesching-cannabis-fever-temperature-regulation]]). THC
 prevents stroke by producing a lower body temperature independent of the
-hypothalamus, describing a new mechanism of body temperature control.
+hypothalamus, describing a new mechanism of body [[hamilton-greenhouse-heating-and-temperature-control]].
 
 ### U.S. Government Patent
 
@@ -70,7 +70,7 @@ treatment in acute stroke.
 |             |               | provides long-lasting neuroprotection                 |     |
 | Cannabinoids| Meta-analysis | Cannabinoids neuroprotective in stroke (U.S. patent) | 4   |
 
-Total CHI Value: 8 (3 studies reviewed)
+Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 8 (3 studies reviewed)
 
 ## Strain and Form Considerations
 
@@ -88,31 +88,3 @@ psychoactive CBD-acid at higher concentrations, increasing CB2 activation.
 
 A multi-institutional Texas study of 2,478 elderly people over six years found
 those scoring higher on "negative feelings" were significantly associated with
-increased stroke, while those scoring higher on "positive feeling" were
-protected against stroke. Positive affect seems to play a role in protecting
-against stroke in older adults.
-
-The brain is divided into two hemispheres: the right governs the left body
-(intuition, art, creativity, emotion - "female characteristics"); the left
-governs the right body (logic, language, reason, analytical thinking - "male
-characteristics"). In one-sided loss of function after stroke, the body may
-mirror the mind's routine of numbing or ignoring the male or female side.
-
-Aggravating factors may include negative affect, depression, hopelessness,
-stubbornness, and rigidity. Consider easing pressure in body and mind, relaxing
-stubbornness, and integrating previously hidden or oppressed characteristics.
-
-## Supporting Herbs and Spices
-
-- **Bush Tea (Rooibos)**: Bronchodilator and antispasmodic with blood pressure-
-  lowering properties.
-- **Cacao**: Dark chocolate may have protective impact on heart and vascular
-  illness connected to oxidized LDL cholesterol.
-- **Garlic**: Used for peripheral signs of heart disease including water
-  retention, spasms, thrombophlebitis, inflammation, and hypertension.
-
-## See Also
-
-- [[blesching-cannabis-atherosclerosis]]
-- [[blesching-cannabis-alzheimers-disease]]
-- [[endocannabinoid-system-overview]]

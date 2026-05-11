@@ -32,11 +32,11 @@ far beyond the root zone.
 ### Ectomycorrhizal Fungi (EMF)
 
 Predominantly associating with woody plants (especially Pinaceae, Fagaceae, and
-Betulaceae), EMF form a dense mantle (sheath) around root tips and a Hartig net
+Betulaceae), EMF form a dense mantle (sheath) around root tips and a [[dighton-ectomycorrhizal-hartig-net-structure-function]]
 of intercellular hyphae between root cells. They do not penetrate individual
 cells. EMF include many basidiomycetes (*Amanita*, *Laccaria*, *Pisolithus*) and
-ascomycetes (*Tuber*, *Cenococcum*). EMF are critical for forest ecosystem
-functioning and can produce ectomycorrhizal fruiting bodies (mushrooms and
+ascomycetes (*Tuber*, *Cenococcum*). EMF are critical for [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
+functioning and can produce ectomycorrhizal [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (mushrooms and
 truffles).
 
 ### Other Types
@@ -49,7 +49,7 @@ truffles).
 ## Molecular Recognition and Signaling
 
 Plant roots exude strigolactones into the rhizosphere, which stimulate AMF
-hyphal branching and metabolism. The fungus responds by producing Mycorrhizal
+[[hyphal-branching-regulation-nutrient-sensing-gadd]] and metabolism. The fungus responds by producing Mycorrhizal
 Lipochitooligosaccharides (Myc-LCOs) and, in some species, short-chain chitin
 oligomers (COs). These signals are perceived by plant LysM receptor-like
 kinases, triggering a symbiotic signaling cascade involving calcium spiking,
@@ -77,7 +77,7 @@ the arbuscule, where it is released to the plant. Plant phosphate transporters
 Mycorrhizal fungi also play a significant role in plant nitrogen nutrition.
 EMF are particularly important in boreal and temperate forests, where they
 access organic nitrogen sources (proteins, amino acids) that plants cannot
-directly utilize. In AMF associations, fungal hyphae take up ammonium and
+directly utilize. In AMF associations, [[fungal-hyphae]] take up ammonium and
 nitrate from soil beyond the root depletion zone, providing 20-80% of plant
 nitrogen depending on species and ecosystem. The carbon cost to the plant is
 substantially lower than root growth to access the same nitrogen.
@@ -86,36 +86,5 @@ substantially lower than root growth to access the same nitrogen.
 
 Recent research reveals that AMF symbiosis fundamentally depends on lipid
 transfer from plant to fungus. AMF are lipid auxotrophs, unable to synthesize
-fatty acids. Plants export lipids (16:0 and 18:x fatty acids) across the
+[[carbon-isotope-labelling-mycorrhizal-fatty-acids]]. Plants export lipids (16:0 and 18:x fatty acids) across the
 periarbuscular membrane via RAM2 and STR proteins. The fungus uses these lipids
-to build its extraradical mycelium and storage lipids (triacylglycerols). This
-lipid-centric view has revised our understanding of the AMF carbon economy,
-showing lipids rather than sugars are the primary carbon currency.
-
-## Defense Signaling and Systemic Resistance
-
-Mycorrhizal colonization primes the plant immune system, conferring enhanced
-resistance against pathogens. This mycorrhiza-induced resistance (MIR) involves
-systemic changes in defense hormone signaling, particularly jasmonic acid and
-salicylic acid pathways. Mycorrhizal plants show altered gene expression that
-pre-activates defense responses before pathogen attack. Mechanisms include
-changes in root exudate profiles that recruit beneficial rhizobacteria,
-strengthening of root cell walls through callose deposition, and production of
-antimicrobial secondary metabolites. However, this priming involves trade-offs:
-mycorrhizal plants may show reduced resistance against necrotrophic pathogens
-that exploit the jasmonic acid pathway.
-
-## Common Mycorrhizal Networks
-
-Mycorrhizal fungi form extensive belowground networks connecting multiple
-individual plants, sometimes of different species. These common mycorrhizal
-networks (CMNs) facilitate interplant nutrient and carbon transfer. Carbon can
-move from dominant "nurse" plants to shaded seedlings, supporting forest
-regeneration. Research by Simard and colleagues demonstrated that Douglas fir
-and paper birch exchange carbon through shared EMF networks, with flow direction
-shifting seasonally. The ecological significance of CMNs remains debated, but
-their role in forest community dynamics is increasingly recognized.
-
-[[mycelial-network-communication]]
-- [[soil-mycobiome-diversity]]
-- [[bloomfield-fungal-secondary-metabolites]]

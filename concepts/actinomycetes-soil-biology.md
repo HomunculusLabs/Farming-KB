@@ -4,7 +4,9 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
 ## What Are Actinomycetes
@@ -40,7 +42,7 @@ One of the most remarkable features of actinomycetes is their ability to produce
 - Streptomyces species produce over two-thirds of all naturally derived antibiotics used in medicine
 - In soil, these antibiotics suppress competing microorganisms, giving actinomycetes a competitive advantage in the decomposition process
 - This natural antibiotic production also helps suppress soil-borne plant pathogens
-- [[soil-food-web]]
+- [[soil-foodweb]]
 
 Actinomycetes occupy an intermediate position in the  brewing:
 - Good quality compost used as the tea starter should contain diverse actinomycete populations

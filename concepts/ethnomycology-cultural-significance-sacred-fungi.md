@@ -1,5 +1,5 @@
 ---
-title: Ethnomycology and ethnomycology cultural significance sacred fungi of Sacred Fungi
+title: Ethnomycology Cultural Significance Sacred Fungi
 created: 2026-04-28
 tags:
   - ethnomycology
@@ -23,7 +23,7 @@ by human societies. The field encompasses the religious, ceremonial,
 medicinal, and social roles of fungi in indigenous and traditional
 cultures. The paper by Guzman, Allen, and Gartz, while primarily a
 taxonomic and biogeographic work, provides extensive documentation of the
-ethnomycological significance of neurotropic fungi across multiple
+ethnomycological significance [[distribution-of-neurotropic-fungi]] across multiple
 cultures and continents. The cultural importance of these fungi extends
 far beyond their chemical properties, touching on questions of
 consciousness, spirituality, healing, and human-fungal relationships.
@@ -40,7 +40,7 @@ rediscovery of these practices by Wasson and Heim represented a landmark
 in ethnomycological research and sparked global interest in psychedelic
 mushrooms.
 
-The Mazatec concept of the mushroom ceremony (velada) is a healing
+The Mazatec concept of the [[maria-sabina-and-mazatec-mushroom-ceremony]] (velada) is a healing
 ritual involving all-night vigils where the curandero (healer) consumes
 sacred fungi to diagnose illness, locate lost objects, predict the
 future, and communicate with the divine. The mushrooms are considered
@@ -74,10 +74,10 @@ in multiple indigenous groups.
 ## Amazonian and Andean Ethnomycology
 
 [[chiric-caspi-brunfelsia-south-american-hallucinogen]] ethnomycology is less well documented but includes
-several important traditions. The use of Psilocybe zapotecorum and
+several important traditions. The use of [[psilocybe-zapotecorum]] and
 related species in Andean communities of Colombia, Ecuador, Peru, and
 Bolivia has been documented. In the Colombian Amazon, the use of
-bolete species (Boletus loetus, Boletus manicus) by indigenous groups
+bolete species (Boletus loetus, [[boletus-manicus-new-guinea-psychoactive-bolete]]) by indigenous groups
 represents a unique tradition distinct from the Psilocybe-centered
 practices of Mesoamerica. These Amazonian traditions remain among the
 least studied aspects of ethnomycology.
@@ -88,49 +88,3 @@ The paper notes the use of psychoactive bolete species by indigenous
 peoples of New Guinea. These traditions are among the most poorly
 documented in ethnomycology, and the paper suggests that the
 Melanesian region may harbor additional undocumented mushroom
-traditions. The use of fungi in ceremonial contexts in New Guinea
-parallels the more extensive traditions of the Americas in some
-respects, but the specific species, preparation methods, and cultural
-frameworks are distinct.
-
-## Asian Ethnomycology
-
-Asian ethnomycology includes several traditions of note. The Japanese
-use of Amanita muscaria (benitengu-take) has historical documentation
-and possible connections to tengu folklore. In India, the speculative
-connection between A. muscaria and the Vedic soma has been debated for
-over a century, with Wasson being a prominent proponent. In Southeast
-Asia, the use of [[eleusinian-mysteries]]
-of ancient Greece have been proposed to involve ergot-derived
-substances. Scandinavian and Celtic folklore contains mushroom-related
-motifs that may reflect ancient psychoactive mushroom use. However,
-these connections remain speculative and are not documented in the paper.
-
-## Modern Ethnomycological Research
-
-The paper by Guzman, Allen, and Gartz represents a continuation of the
-ethnomycological tradition established by Wasson, Heim, and others.
-The authors document indigenous names, uses, and cultural contexts for
-many of the species they describe. This ethnomycological dimension
-adds cultural depth to the primarily taxonomic and biogeographic work,
-and underscores the importance of preserving indigenous knowledge about
-fungi alongside scientific documentation.
-
-## Threats to Indigenous Mushroom Knowledge
-
-Indigenous [[sacred-mushroom-traditions-in-mexico]] face multiple threats including
-urbanization, cultural assimilation, religious conversion, legal
-prohibition, and the commercialization of psychedelic experiences.
-The commodification of [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies by Western
-tourists has created tensions within indigenous communities and
-raised important ethical questions about the appropriation of
-sacred practices. The documentation of these traditions in
-scientific literature serves an important preservation function.
-
-## See Also
-
-- [[ethnomycology-psychoactive-fungi]]
-
-- [[mexico-center-neurotropic-fungal-diversity]]
-- amanita-muscaria-and-ibotenic-acid-fungi
-- [[gasteromycetes-sacred-fungi]]

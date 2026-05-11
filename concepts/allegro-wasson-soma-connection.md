@@ -18,7 +18,7 @@ between the two men's theories, remain contested.
 ## Wasson's SOMA (1968)
 
 Wasson's SOMA proposed that the mysterious [[mckenna-vedic-soma-indo-european-mysteries]], praised throughout the
-Rig Veda, was the [flyic mushroom ([[amanita-muscaria-entity]]). Published in an expensive
+Rig Veda, was the [flyic mushroom ([[amanita-muscaria]]). Published in an expensive
 limited edition and subsequently as a trade paperback, the book argued that
 Soma's description in the Rig Veda matched the fly-agaric's properties and that
 the practice of recycling the mushroom's active compounds through urine
@@ -88,30 +88,3 @@ versions of the mushroom cult theory. While he entertained the possibility of
 a Plaincourault connection and suggested that the story of Eden might relate to
 mushroom knowledge, he placed these suggestions cautiously at the margins of
 his work.
-
-## Wasson's Reluctance
-
-Wasson was notably reluctant to extend his mushroom theories into the territory
-Allegro occupied. Despite his enthusiasm for the idea that hallucinogenic
-gnosis was universal, he stopped short of claiming that Christianity itself was
-a mushroom cult.
-
-This reticence may have been partly strategic. Wasson understood that pushing
-the mushroom theory into Christian territory would provoke exactly the kind of
-backlash that engulfed Allegro. By placing his Eden suggestions at the very end
-of his work, he "managed to avoid the fuss that Allegro wittingly or
-unwittingly attracted."
-
-## The Fly-Agaric Problem
-
-Both theories share a fundamental problem: the documented psychopharmacological
-effects of the fly-agaric do not seem to match the rhapsodic ecstasies that the
-theorists insist it produces. The fly-agaric experience is unpredictable and
-often unpleasant, typically involving nausea, muscle twitches, and disorientation
-rather than the transcendent visions described in religious texts.
-
-Wasson himself admitted to being "at a loss to explain the failure" of his own
-experiments with the fly-agaric. Unlike the comparatively dependable action of
-[[wasson-brough-soma-debate]]
-
-- [[sacred-mushroom-and-the-cross]] - Allegro's book

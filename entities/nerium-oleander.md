@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**nerium oleander er]] er]] er]] er]]** (oleander) is an evergreen shrub in the family **Apocynaceae**, renowned for its showy, fragrant flowers and extreme toxicity. It is one of the most poisonous commonly cultivated garden plants, with all parts containing potent **cardiac glycosides**.
+**nerium oleander er er er er** (oleander) is an evergreen shrub in the family **Apocynaceae**, renowned for its showy, fragrant flowers and extreme toxicity. It is one of the most poisonous commonly cultivated garden plants, with all parts containing potent **cardiac glycosides**.
 
 Despite its toxicity, oleander has a long history of use in **traditional medicine** across the Middle East, Asia, and the Mediterranean. Extracts have been investigated for anticancer, cardiotonic, and antimicrobial properties.
 

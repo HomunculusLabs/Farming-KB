@@ -31,7 +31,7 @@ enables oral DMT activity by blocking first-pass metabolism in
 the gut and liver. Closely related to harmine (7-hydroxy vs
 7-methoxy), harmaline is generally more sedating. It occurs
 naturally in [[golden-guide-syrian-rue-and-maoi-plants]] (*[[mckenna-food-gods-peganum-harmala-soma]]*) and the Ayahuasca
-vine (*Banisteriopsis caapi*).
+vine (*[[ayahuasca-and-banisteriopsis-caapi]]*).
 
 ## Chemical Identity
 
@@ -45,11 +45,11 @@ vine (*Banisteriopsis caapi*).
 
 ## Natural Occurrence
 
-- **Peganum harmala** (Syrian Rue) — seeds contain 3–4%
+- **[[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]** ([[mckenna-peganum-harmala-syrian-rue-soma-theory]]) — seeds contain 3–4%
   mixed [[turner-harmala-alkaloids-preparation-and-dosage]]; harmaline is a major constituent.
 - **Banisteriopsis caapi** (Ayahuasca vine) — bark contains
   harmaline, harmine, and tetrahydroharmine.
-- **Passiflora incarnata** (Passionflower) — trace amounts
+- **[[passiflora-incarnata]]** (Passionflower) — trace amounts
   in leaves and roots.
 
 ## Pharmacology
@@ -79,67 +79,12 @@ Secondary actions include GABA-A modulation and imidazoline
 
 ## Role in Ayahuasca and Analogues
 
-Harmala alkaloids serve as the MAOI component in ayahuasca,
+[[harmala-alkaloids]] serve as the MAOI component in ayahuasca,
 allowing oral DMT to reach the CNS. Traditional ayahuasca
 combines *B. caapi* or *P. harmala* with DMT-containing
-plants like *Psychotria viridis*. **Pharmahuasca** uses
+plants like *[[chacruna-psychotria-viridis]]*. **Pharmahuasca** uses
 purified harmaline alongside freebase DMT without plant
 material. Harmaline-dominant preparations produce more
 sedation than harmine-dominant ones.
 
 ## Therapeutic Research
-
-- **Addiction:** Harmala alkaloids may reduce craving in
-  alcohol and tobacco dependence.
-- **Depression:** MAO-A inhibition elevates synaptic
-  monoamines; early observations report rapid
-  antidepressant effects.
-- **Tremor:** Harmaline induces essential tremor in animal
-  models; low doses explored for Parkinsonian therapy.
-
-## Legal Status
-
-Harmaline is unscheduled in most countries including the U.S.
-Source plants face restrictions: *P. harmala* is scheduled
-in France, Russia, and parts of the Middle East; *B. caapi*
-is protected under [[chiric-caspi-brunfelsia-south-american-hallucinogen]] regulations. Extracted
-alkaloids sold for consumption may face Federal Analog Act
-scrutiny in the U.S.
-
-## Toxicity and Safety
-
-> **Warning:** Harmaline is a reversible MAO-A inhibitor with
-> a narrow [[blesching-cannabis-therapeutic-window-dosing]] when combined with tyramine-rich
-> foods (aged cheese, cured meats, fermented products).
-> Ingesting tyramine can precipitate a hypertensive crisis. A
-> tyramine-restricted diet is mandatory for 12 hours before
-> and after use. Individuals on SSRIs risk serotonin syndrome.
-
-The LD₅₀ in rodents is ~38 mg/kg (i.p.). Human fatalities
-are rare at typical oral doses (50–300 mg extract), but
-nausea, vomiting, and tremor are common.
-
-## Comparison with Harmine
-
-| Property        | Harmaline   | Harmine           |
-|-----------------|-------------|-------------------|
-| Substitution    | 7-hydroxy   | 7-methoxy         |
-| MAO-A Ki        | ~0.1 µM     | ~0.05 µM          |
-| Sedation        | More        | Less              |
-| Visual effects  | Moderate    | Moderate-strong   |
-| Tremorogenicity | Higher      | Lower             |
-
-The 7-hydroxy group increases polarity, affecting brain
-## Related Compounds
-
-- **Harmine** — 7-methoxy analogue; more potent MAO-A
-  inhibitor, less sedating.
-- **Harmalol** — De-methylated derivative; weaker activity.
-- **Tetrahydroharmine** — Partially saturated beta-carboline
-  with weak MAO-A and serotonin reuptake inhibition.
-- **Harmane** — Methylated beta-carboline in tobacco smoke.
-
-## See Also
-- [[harmala-alkaloids]]
-- [[beta-carboline]]
-- [[syrian-rue-peganum-harmala-ethnobotany]]

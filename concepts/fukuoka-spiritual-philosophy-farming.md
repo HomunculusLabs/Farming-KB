@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Spiritual Philosophy of Farming
@@ -83,35 +84,6 @@ The "do-nothing" nature is not laziness but the highest form of agriculture -- w
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
+Source: [[masanobu-fukuoka]], The Natural Way of Farming: The [[microdosing-theory-and-practice]] of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 
 ## See Also
-
-- [[fukuoka-natural-farming-philosophy]]
-- fukuoka fukuoka spiritual philosophy farming farming
-
-## Merged: Fukuoka Spiritual Dimension Farming
-
-# Spiritual Dimension of Farming
-
-For Masanobu Fukuoka, farming was never merely an economic activity or a technical practice. It was a spiritual discipline -- a way of understanding the relationship between human beings and the natural world, and ultimately a path toward enlightenment.
-
-## Farming as Spiritual Practice
-
-Fukuoka described his moment of awakening, at age twenty-five, as a spiritual experience. Walking along a harbor at night, exhausted and disillusioned with his work as an agricultural scientist, he suddenly saw that all human knowledge and effort was meaningless in the face of nature's perfection. He collapsed and lay on the ground, gazing at the morning star, and in that moment understood the truth that would guide his entire life.
-
-This was not a religious experience in any conventional sense. Fukuoka was not affiliated with any particular religion. But his awakening had the characteristics of what in Zen Buddhism is called satori -- a direct, intuitive grasp of reality that transcends intellectual understanding.
-
-The awakening was rooted in a "deeply earnest struggle over the meaning of life" and emerged from "the depths of doubt and skepticism." It was not wishful thinking but a raw, personal confirmation of reality. From this experience, Fukuoka derived the conviction that nature is complete and that crops are more than capable of growing by themselves. See also [[fukuoka-what-is-nature]], applies equally to farming: the farmer must become one with the rice plant, the soil, the entire living ecosystem.
-
-## Seeing Nature as Wholistic
-
-Fukuoka drew a sharp distinction between the analytical knowledge of science and the intuitive grasp of wholeness. "Examining the parts never gives a complete picture," he warned. A scientist who climbs Mount Fuji and studies its rocks, wildlife, geology, and meteorology may conclude he understands the mountain -- but "if a lifetime of study leads to the conclusion that Fuji consists mostly of rocks and trees, then it would have been better not to have climbed it in the first place."
-
-"One can know Fuji by looking at it from afar. One must see it and yet not examine it, and in not examining it, know it." This paradox captures the essence of [[fukuoka-nature-perfect-imperfect]].
-
-## Nature's Perfection and Human Error
-
-[[comparison-natural-farming-vs-permaculture]] begins with the conviction that nature is perfect. If a barley sprout emerges and then wilts, "something unnatural has occurred and one reflects on the cause, which originates in human knowledge and action. One never blames nature, but begins by blaming oneself."
-
-"There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]." When pest outbreaks occur, the cause lies in some human mistake -- seeding too densely, killing a beneficial fungus, upsetting the natural balance. The road diverges here: "turning back to nature for those who believe nature to be perfect, but leading on to the subjugation of nature for those who doubt its perfection." See [[fukuoka-view-of-nature-and-human-hubris]].

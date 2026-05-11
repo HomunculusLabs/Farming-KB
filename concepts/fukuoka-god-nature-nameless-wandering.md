@@ -3,8 +3,9 @@ title: Fukuoka: God and Nature as One -- The Nameless God
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, natural-farming, philosophy]
+tags: [fukuoka, [[natural-farming]], philosophy]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,41 +88,3 @@ Man cuts down the gingko tree, kills the sparrows, and puts the dog on a leash a
 Man's arrogance and pride have torn him from the embrace of nature. If man were to rid himself of this cloak of hubris and stand naked, if he were to abandon himself, crawling around on hands and knees with the dogs and cats, climbing trees and acting like children do, he would approach God.
 
 - Unless one becomes a fool and renounces attachments, one cannot advance to the world of the transcendent
-
-- Even inside the house, when your mind is empty, you can hear the sparrows chirping
-
-- But when you are thinking, you hear nothing; your eyes may be wide open, but they see nothing
-
-- Looking is not seeing and listening is not hearing
-
-- The realization "I heard that," the thought of how "that was a great sensation," the reflection that "a chilly wind was blowing" -- these are all in the human realm
-
-- When you are busy cutting the rice, your mind is empty -- a total blank
-
-- A mind void and thinking of nothing is able to come into contact with nature
-
-## The Unknowability of God
-
-Fukuoka insisted that there is no way to define or even describe God and nature. This cannot be done, so he did not even try. He never once tried to define what God or what a farm is.
-
-- The only reason he has never tried is because it cannot be done
-
-- He never had the intention to gather disciples; nor has he ever done so
-
-- He has never told anyone "Follow me. I shall lead you"
-
-- He knew that although people might want to have followers, this was not possible, so he never tried
-
-- That is why he has never had a single disciple
-
-## See Also
-
-- [[fukuoka-god-nature-and-transcendent-world]]
-
-- [[fukuoka-road-back-to-nature-overview]]
-
-- [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-
-- [[fukuoka-spiritual-philosophy-farming]]
-
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]

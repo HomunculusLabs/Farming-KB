@@ -88,38 +88,3 @@ Arthurian associations, its hippies, Pagans and New Agers, its
 mammiform Tor topped with a ruined church tower, remains an important
 centre of enchantment in all its guises. One account from the source
 describes a woman who went out alone and ate forty-five fresh Liberty
-Caps on the lower slopes of Chalice Hill. As the stars winked out one
-by one, she experienced the Tor transform into a dragon. Moons rose
-into a flashing purple sky, and a small wood became magically
-transformed into a forest through which she wandered, lost and
-pook-ledden, in what she said was one of the most terrifying, and yet
-beautiful, experiences of her life.
-
-Though the mushroom trip is never an easy ride, inducing horror as
-readily as delight, enthusiasts are adamant about the underlying
-message: the world is not as sterile as science maintains. Enchantment
-resides within all things. One small cup of mushroom tea can satisfy
-an ardent craving for enchantment that the modern world otherwise
-denies.
-
-## The Festival as Cultural Indicator
-
-The Telluride Mushroom Festival is significant not for anything that
-happens within its boundaries, but as an indicator of a broader
-cultural shift. The fact that thousands of people travel each year to
-a remote mountain town to celebrate fungi reflects a deepening
-appreciation of the fungal kingdom that transcends any single use or
-application. It suggests that the ancient human relationship with
-mushrooms, whether as food, medicine, intoxicant, or object of wonder,
-is not merely surviving in the modern world but adapting and
-flourishing in new forms.
-
-## Related
-
-- [[modern-mushroom-festival-culture]] Topics
-
-- mushroom-foraging-traditions-europe - European foraging
-  - traditions
-- [[neo-shamanic-phenomenology-and-limits-of-science]] - neo-shamanic
-  - culture
-- [[psychedelic-ancient-history]] - ancient mushroom use

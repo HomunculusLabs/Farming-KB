@@ -87,22 +87,3 @@ Mixteca use Cordyceps capitata and Cordyceps ophioglossoides
 alongside [[elaphomyces-granulatus]], Elaphomyces muricatus, and Elaphomyces reticulatus are placed at the ceremony
 center as a director. These Elaphomyces are also used separately to
 heal wounds and to rejuvenate the organism.
-
-## Significance for Modern Mycology
-
-The indigenous nomenclature provides a parallel taxonomy encoding
-ecological knowledge, pharmacological effects, and spiritual
-significance. While scientific classification organizes fungi by
-morphological and genetic characteristics, the indigenous system
-organizes them by effects, growth habits, cultural roles, and
-relationships to human experience. The syncretic evolution of Spanish
-and indigenous names also records cultural contact and adaptation of
-considerable ethnographic value.
-
-## See Also
-
-- guzman-magic-mushrooms-new-guinea-sacred-fungi
-- [[neurotropic-fungi]] overview and classification
-- [[psilocybe-mexicana]] ethnobotany and chemistry
-- [[psilocybe-zapotecorum]] distribution and traditional use
-- Cordyceps in Mesoamerican ceremonial use

@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,19 +88,3 @@ Check water pH at least once a week:
 
 - **Acidic soil (below 6.0)**: Add [[cervantes-dolomite-lime-ph-buffering]] or wood ash to raise pH
 - **Alkaline soil (above 7.5)**: Add sulfur, peat moss, or [[hamilton-composting-and-organic-matter-management]] to
-  lower pH
-- **Fluctuating pH**: Ensure adequate drainage; stagnant water causes pH
-  swings
-- **Persistent pH problems**: May indicate the need for a complete growing
-  medium change
-
-Commercial potting soil is rarely above pH 7.5; lower pH (even as low as
-5.5) is more common. Most potting soils tend toward acidic, which is why the
-preventive dolomite lime application is so important.
-
-See also: [[green-cannabis-grow-bible-sog-scrog-advanced-methods]],
-[[cervantes-growing-medium]], [[cervantes-macronutrient-deficiency-toxicity]]
-
-## See Also
-
-- [[cervantes-progeny-testing-combining-ability]]

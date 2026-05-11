@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - Green, J. (2017). "The Cannabis Grow Bible: The Definitive Guide to Growing Marijuana for Recreational and Medical Use." Green Candy Press.
+  - Green, J. (2017). "The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]: The Definitive Guide to Growing Marijuana for Recreational and Medical Use." Green Candy Press.
   - Emboden, W. (1972). "Ritual Use of Cannabis Sativa L: A Historical-Ethnographic Survey." Economic Botany, 26(4): 393-401.
   - MWORDS Cannabis Directory. "Lamb's Bread Strain Profile." https://www.leafly.com/strains/lambs-bread
 created: 2026-04-28
@@ -38,9 +38,9 @@ Its exact genetic lineage is uncertain, but it likely descends from early Indian
 
 Jamaican [[sativa-landrace-strains-and-geographic-origins]] share genetic affinity with other Caribbean and Central American sativas, forming part of a broader neo-tropical sativa gene pool.
 
-The strain has been cultivated in Jamaica's interior mountain regions — particularly St. Ann, St. Mary, and Westmoreland parishes — where the tropical climate, volcanic soils, and ample rainfall provide ideal growing conditions.
+The strain has been cultivated in Jamaica's interior mountain regions — particularly St. Ann, St. Mary, and Westmoreland parishes — where the [[query-how-to-design-a-food-forest-for-a-tropical-climate]], volcanic soils, and ample rainfall provide ideal growing conditions.
 
-Rastafarian cultivation of Lamb's Bread is traditionally organic, with plants grown intercropped with food crops in hillside gardens without synthetic fertilizers or pesticides.
+Rastafarian cultivation of Lamb's Bread is traditionally organic, with plants grown intercropped with food crops in hillside gardens without [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] or pesticides.
 
 Modern commercial seeds labeled "Lamb's Bread" vary in authenticity; genuine landrace material is increasingly rare due to globalization of [[vic-high-cannabis-genetics-mendelian-inheritance]] and hybridization.
 
@@ -68,7 +68,7 @@ On the palate, the flavor is smooth and expansive, with a sweet herbal quality u
 
 A lingering tropical sweetness and subtle menthol coolness are commonly reported, particularly in well-cured flower.
 
-The aromatic intensity is high, with a room-filling quality that reflects the strain's robust terpene production typical of equatorial sativas.
+The aromatic intensity is high, with a room-filling quality that reflects the strain's robust terpene production typical of [[durban-poison-and-equatorial-sativas]].
 
 ## Terpene and Cannabinoid Profile
 
@@ -81,45 +81,10 @@ The aromatic intensity is high, with a room-filling quality that reflects the st
 
 ### Cannabinoid Content
 
-- **THC:** Typically 15–22%, though authentic landrace specimens may test lower (12–16%) compared to modern hybrids.
+- **THC:** Typically 15–22%, though authentic landrace specimens may test lower (12–16%) compared to [[african-landrace-sativa-modern-hybrids]].
 - **CBD:** Very low, usually below 0.3%, consistent with traditional drug-type cannabis landraces.
-- **CBG, CBC, THCV:** Present in trace amounts, contributing to the entourage effect.
+- **CBG, CBC, THCV:** Present in trace amounts, contributing to [[cannabis-terpene-entourage-effect]].
 
 ## Effects
 
 Onset is relatively rapid, with initial cerebral stimulation felt within 5–15 minutes of consumption.
-
-The high is predominantly cerebral and uplifting, characterized by euphoria, heightened creativity, increased sociability, and enhanced sensory perception.
-
-Users commonly report a clear-headed, functional energy that distinguishes Lamb's Bread from heavier, hazier sativas, making it suitable for daytime use.
-
-Physical effects are mild, typically limited to a gentle bodily buzz without significant sedation or couch-lock.
-
-At higher doses, the cerebral intensity can become overwhelming for novice users, potentially producing anxiety, paranoia, or racing thoughts.
-
-Medically, the strain has been used anecdotally to address fatigue, depression, stress, and attention deficits, though clinical evidence is lacking.
-
-The mood-enhancing and creative properties make it popular among artists, musicians, and writers seeking cognitive stimulation.
-
-## Cultivation
-
-Lamb's Bread is considered a moderately challenging strain to cultivate, primarily due to its extended flowering period and tall growth habit.
-
-**Flowering time:** 10–14 weeks indoors, with outdoor harvest typically in late November to early December in tropical latitudes.
-
-**Yield:** Moderate, producing 300–400 g/m² indoors and 400–600 g per plant outdoors under optimal conditions.
-
-The strain performs best in warm, humid, tropical or subtropical climates with consistent temperatures of 22–30°C.
-
-Indoor cultivation requires significant vertical space due to the plant's vigorous stretching; [[cannabis-training-techniques-comparison]] (LST, SCROG, or topping) are strongly recommended.
-
-The strain responds well to organic [[synthetic-log-cultivation-methods-guide]] and living soil approaches, consistent with its traditional Rastafarian growing practices.
-
-Pest and disease resistance is moderate; the airy bud structure provides some protection against bud rot in humid conditions, though vigilance is still required.
-
-## See Also
-
-- thai-stick-entity
-- [[colombian-gold]]
-- [[green-crack]]
-- [[skunk-1]]

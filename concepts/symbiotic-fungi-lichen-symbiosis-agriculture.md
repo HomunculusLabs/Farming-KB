@@ -88,36 +88,3 @@ These compounds have been investigated for potential agricultural applications a
 ### Allelopathic Effects
 
 Some lichen compounds inhibit seed germination and plant growth, which may be relevant for:
-- Understanding [[holmgren-vegetation-patterns-biomass-fertility]] around lichen-dominated areas
-- Developing natural herbicides from lichen metabolites
-- Managing competition in restoration plantings
-
-## Lichens and Climate Change
-
-### Sensitivity to Climate
-
-Lichens are poikilohydrous (their water content equilibrates with the environment), making them sensitive to climate factors:
-- **Temperature**: Most lichens grow slowly and are sensitive to temperature extremes
-- **Moisture**: Activity depends on hydration from rain, dew, or fog
-- **UV radiation**: Some lichens produce UV-protective pigments
-
-### Climate Change Impacts
-
-Climate change is affecting lichen communities:
-- Range shifts as temperatures change
-- Altered moisture regimes affecting activity periods
-- Increased nitrogen deposition favoring nitrophilic species
-- Loss of sensitive species in polluted areas
-
-### Carbon Storage
-
-Lichens contribute to global carbon storage, particularly in:
-- Arctic and alpine ecosystems (significant lichen cover)
-- [[fungal-diversity-boreal-forests-taiga]] (reindeer lichens, Cladonia)
-- Biological soil crusts in drylands
-
-The slow decomposition of lichen material contributes to long-term carbon storage in these ecosystems.
-
-## Managing Lichens in Agricultural Landscapes
-
-### Conservation in Field Margins

@@ -88,24 +88,3 @@ America generate premium crops by pairing carefully selected host trees
 methods.
 
 Wild [[oyster-mushroom-harvesting-post-harvest]] from managed forests provides supplementary
-income for rural communities. In the Pacific Northwest, matsutake
-harvesting alone generates millions of dollars annually, demonstrating
-that ECM fungi are a tangible economic asset when forest management
-preserves suitable host trees and soil conditions.
-
-Carbon credit markets and ecosystem service payments increasingly
-recognize the role of ECM networks in carbon sequestration and nutrient
-cycling, creating new incentives to maintain ECM host tree diversity in
-production forests.
-
-## See Also
-
-- mycorrhizal-tree-shrub-inoculation-guide
-
-- [[mycorrhizal-fungi]]
-
-- [[truffle-cultivation-basics]]
-
-- pine-mushroom-forestry-management
-
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

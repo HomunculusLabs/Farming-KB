@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-*Acalypha racemosa* is a perennial herbaceous plant in the family Euphorbiaceae, widely distributed across tropical and subtropical Africa. It is an important component of traditional pharmacopoeias across West and Central Africa, where it is used to treat a broad spectrum of ailments including respiratory conditions, gastrointestinal disorders, and skin diseases. The species is known by a variety of common names across different linguistic groups, reflecting its [[ethnomycology-cultural-significance-sacred-fungi]] in traditional medicine.
+*Acalypha racemosa* is a perennial herbaceous plant in the family Euphorbiaceae, widely distributed across tropical and subtropical Africa. It is an important component of traditional pharmacopoeias across West and Central Africa, where it is used to treat a broad spectrum of ailments including [[cannabis-respiratory-conditions]], [[blesching-cannabis-gastrointestinal-disorders]], and [[blesching-cannabis-skin-diseases]]. The species is known by a variety of common names across different linguistic groups, reflecting its [[ethnomycology-cultural-significance-sacred-fungi]] in traditional medicine.
 
 ## Taxonomy
 
@@ -85,61 +85,6 @@ Phytochemical screening of *A. racemosa* has revealed a diverse array of bioacti
 | Compound Class | Specific Compounds | Bioactivity |
 |---------------|-------------------|-------------|
 | Alkaloids | Acalyphin, acalyphine | Antimicrobial |
-| Flavonoids | Quercetin, kaempferol, rutin | Antioxidant, anti-inflammatory |
+| Flavonoids | [[quercetin]], [[kaempferol]], rutin | Antioxidant, anti-inflammatory |
 | Tannins | Gallic acid derivatives | Astringent, antidiarrheal |
 | Saponins | Triterpenoid saponins | Hemolytic, expectorant |
-| Terpenoids | β-amyrin, α-amyrin | Anti-inflammatory |
-| Phenolic acids | Caffeic acid, chlorogenic acid | Antioxidant |
-| Coumarins | Umbelliferone | Antispasmodic |
-
-## Ethnobotanical Uses
-
-### Respiratory Conditions
-The most widely reported use of *A. racemosa* is for the treatment of respiratory ailments. Leaf decoctions are administered as:
-
-- **Asthma treatment:** Leaves are boiled and the steam inhaled; the decoction is also consumed orally
-- **Cough remedy:** Leaf extract combined with honey is given as an expectorant
-- **Bronchitis and pneumonia:** Warm leaf poultices are applied to the chest
-
-### Gastrointestinal Disorders
-- **Diarrhea and dysentery:** Aqueous leaf extract is taken orally; the high tannin content provides an astringent effect
-- **Stomach ache:** [[iboga-root-bark-preparation]] decoction
-- **Worm infestations:** Crushed leaves mixed with food, particularly for children
-
-### Dermatological Applications
-- **Wound healing:** Fresh leaves are crushed and applied as a poultice to cuts and abrasions
-- **Skin infections:** Leaf sap is applied topically to [[blesching-cannabis-fungal-infections-candida]] and eczema
-- **Burns:** Mashed leaf paste serves as a cooling and healing dressing
-
-### Other Traditional Uses
-- **Fever reduction (antipyretic):** Whole plant decoction consumed during febrile episodes
-- **Malaria adjunct:** Used in combination with other species (e.g., *Azadirachta indica*) as a traditional antimalarial preparation
-- **Pain relief (analgesic):** Leaf extract applied topically to sore joints and muscles
-- **Reproductive health:** In some communities, root preparations are used to manage menstrual irregularities
-
-## Pharmacological Studies
-
-### Antimicrobial Activity
-In vitro studies have demonstrated that methanolic and aqueous extracts of *A. racemosa* exhibit significant antibacterial activity against both Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and Gram-negative bacteria (*Escherichia coli*, *Pseudomonas aeruginosa*). Antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger*.
-
-### Anti-inflammatory and Analgesic Effects
-Animal studies using rat and mouse models have confirmed the anti-inflammatory properties of leaf extracts, showing significant reduction in carrageenan-induced paw edema. The analgesic effects have been validated in acetic acid-induced writhing tests and hot-plate assays.
-
-### Antioxidant Properties
-DPPH (2,2-diphenyl-1-picrylhydrazyl) radical scavenging assays have demonstrated potent antioxidant activity, attributed primarily to the flavonoid and phenolic acid content. This antioxidant capacity may underpin many of the plant's traditional therapeutic applications.
-
-### Toxicity
-Acute toxicity studies in rodents have shown that aqueous and ethanolic extracts of *A. racemosa* have an LD50 exceeding 5,000 mg/kg body weight (oral administration), classifying the plant as relatively safe in the traditional dose range. However, the Euphorbiaceae family is noted for containing irritant diterpenes, and prolonged use of concentrated preparations warrants caution.
-
-## Cultivation and Propagation
-
-*A. racemosa* can be propagated by both seed and stem cuttings:
-
-## See Also
-
-- [[actaea-racemosa]]
-- [[termitomyces-african-mushrooms]]
-- [[herbal-medicine-making-basics]]
-- [[bacillus-subtilis]]
-- [[candida-albicans]]
-- [[aspergillus-niger]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -86,30 +87,3 @@ layers, and waterproof membranes must be meticulously installed to prevent
 moisture infiltration.
 
 ## Climate-Specific Design Strategies
-
-Mollison outlines distinct strategies for different climate types:
-
-**Cool temperate climates**: Maximize south-facing glazing for winter heating.
-Provide substantial thermal mass. Minimize north-facing openings. Use
-insulating shutters or curtains on windows at night. Earth-sheltered designs
-perform exceptionally well.
-
-**Hot arid climates**: Minimize east and west glazing. Use massive
-construction (adobe, rammed earth) for thermal lag. Shade all windows in
-summer. Encourage night ventilation to flush stored heat. Courtyards and
-[[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] reduce daytime temperatures.
-
-**Humid tropics**: Elevate buildings for [[stamets-growing-room-air-circulation-co2-management]]. Use lightweight
-construction with low thermal mass. Maximize cross-ventilation. Deep
-overhanging roofs shade walls from sun and rain. Vegetation around buildings
-provides evaporative cooling.
-
-**Mild temperate climates**: Balanced design with moderate glazing, moderate
-mass, and good insulation. Adjustable shading allows seasonal optimization.
-Natural ventilation handles cooling needs in most cases.
-
-## Integration with Permaculture Systems
-
-Buildings in permaculture are not separate from the landscape. Roof water is
-captured for [[mollison-designers-traditional-irrigation-systems]], greywater
-## See Also

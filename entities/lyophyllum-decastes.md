@@ -88,25 +88,3 @@ In its saprotrophic mode, the species contributes to leaf [[dighton-pine-needle-
 The fungus serves as a food source for various forest invertebrates and mammals. Slugs and insects feed on the fruiting bodies, while rodents and deer may consume caps during peak fruiting. Spore dispersal is primarily wind-driven, with the clustered growth habit creating local spore concentration.
 
 Seasonal fruiting patterns suggest *L. decastes* responds to autumn rainfall and cooling temperatures. Prolonged wet periods with moderate temperatures (10–15°C) produce the largest fruitings, while hot dry conditions suppress development entirely.
-
-## Related Species
-
-*L. shimeji* (hon-shimeji) is a closely related Japanese species of high culinary value, commercially cultivated and sold fresh. It is smaller and more delicately flavored than *L. decastes*.
-
-*L. connatum* is a similar clustered species with a darker brown cap and more strongly mealy odor. It is also edible but considered inferior in flavor and texture compared to *L. decastes*.
-
-*L. fumosum* grows singly or in small groups rather than dense clusters, with a more distinctly smoky-gray cap. It is less common and less well documented as an edible species. Some authorities consider it a color variant rather than a distinct species.
-
-**Identification notes:** The clustered growth habit is the most reliable field character for *L. decastes*. Specimens found singly are much more difficult to identify and should be examined microscopically. The siderophilous granulation of basidia is a key microscopic feature of the genus *Lyophyllum*.
-
-## See Also
-
-- [[lentinula-edodes]]
-- [[tricholoma-terreum]]
-- [[kuehneromyces-mutabilis-entity]]
-- [[agaricus-subrufescens]]
-- [[cantharellus-cibarius-entity]]
-- [[trametes-versicolor-entity]]
-- [[russula-cyanoxantha]]
-- [[suillus-luteus]]
-- [[amanita-pantherina]]

@@ -15,7 +15,7 @@ It appears as [[2c-b-pihkal-entry-20]] #2, first explored by the Czech chemist O
 
 AL represents one of the few simple phenethylamines with an allyloxy group that demonstrates significant central activity.
 
-The allyloxy functional group (-O-CH2-CH=CH2) contains a double bond that distinguishes it from the more common alkoxy substituents found in mescaline analogues.
+The allyloxy functional group (-O-CH2-CH=CH2) contains a double bond that distinguishes it from the more common alkoxy substituents found in [[mescaline]] analogues.
 
 ## Dosage and Duration
 
@@ -88,11 +88,3 @@ This is the only published material dealing with psychedelic drugs that Shulgin 
 ## Related Compounds
 
 [[proscaline]] - the 4-propoxy analogue
-
-[[mepea-entity]] - a related compound from the same Leminger publication
-
-[[2c-b]] - for comparison of potency among phenethylamines
-
-[[phenethylamine-pharmacology]] - general pharmacological context
-
-## Status

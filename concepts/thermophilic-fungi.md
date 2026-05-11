@@ -21,7 +21,7 @@ Thermophilic fungi occupy a distinct ecological niche above the range
 of most mesophilic fungi. Three categories of temperature-adapted fungi
 are recognized:
 
-- **Thermotolerant fungi:** grow well at mesophilic temperatures but
+- **[[thermophilic-thermotolerant-fungi-ecology-isolation]]:** grow well at mesophilic temperatures but
   can also grow at elevated temperatures up to approximately 40-45
   degrees C
 - **Moderate thermophiles:** have temperature optima between 40-50
@@ -31,7 +31,7 @@ are recognized:
 
 The ability to grow at elevated temperatures confers a competitive
 advantage in habitats where self-heating occurs, such as decomposing
-organic matter, since few organisms can compete at these temperatures.
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], since few organisms can compete at these temperatures.
 
 ## Natural and Artificial Habitats
 
@@ -53,7 +53,7 @@ environments:
 - **Hot springs and coal refuse piles:** Thermophilic fungi such as
   *Ochroconis gallopava* have been isolated from geothermally heated
   environments.
-- **Stored grain and animal feed:** Heating during storage creates
+- **Stored grain [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]:** Heating during storage creates
   conditions suitable for thermophiles.
 
 ## Widespread Thermophilic Species
@@ -88,62 +88,3 @@ compared to mesophilic organisms. Key adaptations include:
 
 - Increased number of hydrogen bonds and salt bridges in protein
   structures
-More hydrophobic protein cores reducing thermal denaturation Optimized amino acid composition favoring thermostability Efficient [[protein-folding-and-misfolding-diseases-biochemistry]] chaperones that prevent aggregation at
-  high temperatures
-
-### Membrane Adaptations
-
-Thermophilic fungal membranes maintain fluidity at high temperatures
-through:
-
-Increased saturation of membrane fatty acids Higher proportion of long-chain fatty acids Incorporation of specific lipids that resist thermal disruption Adjusted sterol-to-phospholipid ratios
-
-### Protein Synthesis Machinery
-
-The ribosomes and translation machinery of thermophilic fungi remain
-functional at temperatures that would denature mesophilic equivalents.
-This involves thermostable ribosomal proteins and RNA structures
-resistant to thermal unfolding.
-
-## Ecological Significance
-
-In [[composting]] systems, thermophilic fungi are essential decomposers
-during the thermophilic phase when temperatures reach 50-70 degrees C.
-They contribute to the breakdown of cellulose, hemicellulose, and
-lignin, driving the conversion of organic waste to stable humus. The
-succession from mesophilic to thermophilic microorganisms during
-composting is one of the best-studied examples of [[cannabis-cultivar-microbial-community-effects]]
-dynamics.
-
-Thermophilic fungi also contribute to:
-
-- **Carbon cycling in warm ecosystems:** Decomposing organic matter
-  in tropical and subtropical soils
-- **Soil organic matter turnover:** Breaking down complex plant
-  polymers in heated microsites
-- **Seed bank dynamics:** Some thermophilic fungi affect seed
-  persistence in heated soils
-- **Fire ecology:** Post-fire decomposition in soils heated by
-  wildfires
-
-## Industrial and Biotechnological Applications
-
-Thermophilic fungi and their enzymes have significant commercial value
-beyond their ecological roles. Key applications include:
-
-### Biomass Degradation
-
-(Section truncated for length.)
-
-## Thermophilic Fungi in Mushroom Cultivation
-
-Several thermophilic fungi play important roles in mushroom composting
-and [[bulk-substrate-preparation]]. *Scytalidium thermophilum* and *Myriococcum
-thermophilum* contribute to the decomposition of straw and other raw
-materials during the thermophilic phase of compost preparation for
-[[agaricus-bisporus]] cultivation.
-
-Their activity prepares the substrate for the subsequent colonization
-by the mushroom mycelium, illustrating the importance of thermophilic
-fungi in commercial mushroom production. The thermophilic phase selects
-for [[forest-and-bamboo-beneficial-microorganisms]] while eliminating pathogens and

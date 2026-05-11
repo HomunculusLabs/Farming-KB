@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Buchbauer, G. et al. (1993). \"Fragrance compounds as permaculture-designers-manual-essential-oil-plants components.\" Journal of the Society of Cosmetic Chemists, 44, 237–248."
-  - "Jirovetz, L. et al. (1992). \"Analysis of essential oil constituents.\" Wiener Medizinische Wochenschrift, 142(17), 395–400."
+  - "Jirovetz, L. et al. (1992). \"Analysis of [[permaculture-designers-manual-essential-oil-plants]] constituents.\" Wiener Medizinische Wochenschrift, 142(17), 395–400."
   - "Chen, W. & Viljoen, A.M. (2010). \"Geraniol — a review of a commercially important fragrance material.\" kanna-sceletium-south-african-narcotic Journal of Botany, 76(4), 643–651."
   - "Elson, C.E. et al. (1999). \"Isoprenoid-mediated inhibition of mevalonate synthesis.\" Advances in Experimental Medicine and Biology, 469, 157–170."
 ---
@@ -26,7 +26,7 @@ Geraniol is an acyclic monoterpenoid alcohol found in the [[comparison-essential
 numerous aromatic plants, including rose, geranium, palmarosa, citronella,
 and lemon. It is one of the most commercially important fragrance compounds
 globally, used extensively in perfumery, cosmetics, food flavoring, and
-household products.
+[[soap-making-and-natural-household-products]].
 
 Beyond its olfactory properties, geraniol has demonstrated significant
 pharmacological activities including anti-inflammatory, antimicrobial,
@@ -74,10 +74,10 @@ indomethacin.
 **Antimicrobial activity:**
 Geraniol exhibits broad-spectrum antimicrobial activity against both
 Gram-positive and Gram-negative bacteria, as well as fungi and yeasts.
-Notable MIC values include *Staphylococcus aureus* (64 µg/mL),
+Notable MIC values include *[[staphylococcus-aureus]]* (64 µg/mL),
 *Escherichia coli* (256 µg/mL), and *[[pelargonium-graveolens]]* (rose geranium) | 15–30% | Primary commercial source |
 | *[[rosa-damascena]]* (damask rose) | 10–25% | Perfumery standard |
-| *Cymbopogon winterianus* (citronella) | 30–45% | Insect repellent source |
+| *[[cymbopogon-winterianus]]* (citronella) | 30–45% | Insect repellent source |
 | *Citrus* spp. (lemon, orange) | 1–5% | Minor constituent |
 | *[[ocimum-basilicum]]* (basil) | 1–8% | Culinary herb |
 | Cannabis cultivars | Trace – 0.5% | Floral-rosy aroma contributor |
@@ -87,37 +87,3 @@ a distinctive sweet, floral, and slightly citrusy aroma. It is more
 commonly detected in sativa-dominant and hybrid cultivars.
 
 ## Applications
-
-**Fragrance and cosmetics:**
-Geraniol is the third most widely used fragrance ingredient globally,
-after limonene and linalool. It is a key component in rose, geranium,
-citrus, and fruity fragrance formulations for perfumes, soaps,
-lotions, and shampoos. Annual global production exceeds 1,000 metric
-tons.
-
-**Insect repellent:**
-Geraniol is an EPA-registered insect repellent effective against
-mosquitoes, ticks, and fleas. It is the active ingredient in several
-commercial botanical repellents and shows comparable efficacy to DEET
-at equivalent concentrations in some studies.
-
-**Food and flavoring:**
-Used as a flavoring agent in beverages, confectionery, baked goods,
-and dairy products. FEMA GRAS status (Generally Recognized As Safe)
-with typical use levels of 1–50 ppm in food.
-
-**Agriculture:**
-Geraniol has been investigated as a [[jadam-natural-pesticide-institute-and-research]] and plant defense
-elicitor. Its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] make it a candidate for
-post-harvest preservation of fruits and vegetables.
-## Related Compounds
-
-| Compound | Relationship |
-|----------|-------------|
-| Nerol | Cis-isomer (double bond at C-2 is cis) |
-| Citronellol | Hydrogenated analog (C-2 double bond saturated) |
-| Linalool | Structural isomer (hydroxyl at C-3) |
-| Citral | Oxidation product (geranial + neral) |
-| Geranyl acetate | Ester derivative (acetyl ester of geraniol) |
-
-## See Also

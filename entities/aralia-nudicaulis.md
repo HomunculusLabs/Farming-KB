@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Aralia nudicaulis**, wild sarsaparilla, is a perennial herbaceous plant native to boreal and temperate forests of North America. It forms extensive colonial mats on the forest floor through a creeping rhizome system, and is one of the most abundant understory herbs across its range.
+**Aralia nudicaulis**, wild sarsaparilla, is a perennial herbaceous plant native to boreal and temperate forests [[berry-growing]]. It forms extensive colonial mats on the forest floor through a creeping rhizome system, and is one of the most abundant understory herbs across its range.
 
 The species was historically used as a source of sarsaparilla flavoring and root beer. Despite the common name, it is unrelated to the tropical sarsaparilla vine (*Smilax* spp.) used commercially.
 
@@ -49,7 +49,7 @@ The species grows in mixed and coniferous forests on well-drained to moist soils
 
 Elevation ranges from near sea level to approximately 2,000 meters in the southern Rockies and Appalachians. It is one of the most shade-tolerant understory herbs, persisting under dense conifer canopies where light levels are below 5% of full sun. The species is considered an indicator of old-growth forest conditions in portions of its northern range.
 
-The species is fire-sensitive but recolonizes burned areas within 5–10 years from surviving rhizome fragments or seed banks. It is also tolerant of moderate soil disturbance from logging when the rhizome network remains intact. Populations in heavily fragmented landscapes show reduced genetic diversity and limited clonal expansion compared to those in continuous forest.
+The species is fire-sensitive but recolonizes burned areas within 5–10 years from surviving rhizome fragments or seed banks. It is also tolerant of moderate soil disturbance from logging when the rhizome network remains intact. Populations in heavily fragmented landscapes show reduced [[biodiversity-fungal-genetic-diversity]] and limited clonal expansion compared to those in continuous forest.
 
 Soil pH tolerance ranges from strongly acidic (pH 4.5) to near-neutral (pH 7.0). The species shows optimal growth on loamy soils with high [[hamilton-composting-and-organic-matter-management]] content derived from conifer needle litter.
 
@@ -63,7 +63,7 @@ White-tailed deer generally avoid browsing the foliage, which contains bitter te
 
 The extensive rhizome network plays a significant role in soil stabilization on forest slopes. The rhizomes bind shallow soil layers and reduce erosion, particularly on steep, north-facing terrain.
 
-*A. nudicaulis* forms mycorrhizal associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi. These associations are essential for phosphorus uptake in the deeply shaded forest understory where root competition is intense.
+*A. nudicaulis* forms [[plants-without-mycorrhizal-associations]] with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi. These associations are essential for phosphorus uptake in the deeply shaded forest understory where [[root-competition-plant-spacing-solomon]] is intense.
 
 The species serves as a larval host for the wild sarsaparilla borer moth (*Papaipema cataphracta*). Larvae feed on the rhizomes and can weaken or kill individual stems within a colony.
 
@@ -71,7 +71,7 @@ Above-ground [[dighton-fungal-biomass-production-aquatic-ecosystems]] is relativ
 
 ## Ethnobotany
 
-The rhizome was widely used by Native American peoples as a food and medicine. The Ojibwe brewed rhizome tea to treat fevers, coughs, and kidney ailments. The Iroquois used root decoctions as a blood purifier and diuretic.
+The rhizome was widely used by [[halpern-sacramental-peyote-and-native-american-church]] peoples as a food and medicine. The Ojibwe brewed rhizome tea to treat fevers, coughs, and kidney ailments. The Iroquois used root decoctions as a blood purifier and diuretic.
 
 The Cree and Algonquin peoples chewed the roots raw or dried them for later use as a flavoring agent. The root has a characteristic bittersweet, sarsaparilla-like flavor that made it a popular substitute for tropical *Smilax* sarsaparilla in root beer formulations.
 
@@ -85,29 +85,6 @@ The aromatic rhizome has a distinctive bittersweet flavor reminiscent of sarsapa
 
 ## Cultivation
 
-*A. nudicaulis* is occasionally cultivated in woodland gardens for its attractive foliage and colonial growth habit. It prefers partial to full shade and acidic forest soils rich in organic matter.
+*A. nudicaulis* is occasionally cultivated in woodland gardens for its attractive foliage and colonial growth habit. It prefers partial to full shade and acidic forest soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 Propagation is primarily by division of the rhizome in early spring or fall. Seed germination is slow and erratic, often requiring 12–18 months of cold-moist stratification before emergence.
-
-The species is hardy in USDA zones 2–7, making it one of the most cold-tolerant woodland herbs available for northern gardens. Once established, it requires virtually no maintenance and spreads gradually to form attractive ground covers.
-
-In the landscape, wild sarsaparilla pairs well with ferns, trilliums, and other shade-tolerant perennials. Its colonial habit makes it effective for stabilizing shaded slopes and filling large understory areas. Deer and rabbit browse is generally minimal, adding to its reliability as a landscape plant.
-
-It tolerates a wide range of soil pH values but performs best in moderately acidic conditions between pH 5.0 and 6.5. Established colonies are remarkably drought-tolerant for a shade species, relying on deep rhizome reserves during dry periods.
-
-The species naturalizes readily in suitable conditions and can spread to form extensive ground covers over several years. Division of rhizome segments in early spring is the most reliable propagation method, though germination from seed is possible after cold stratification for 90 to 120 days.
-
-Plants typically reach full flowering size within three to four years from seed. Container-grown specimens establish more quickly than bare-root transplants, which may require a full growing season to recover from planting stress.
-
-## See Also
-
-- [[aralia-racemosa]]
-- [[panax-quinquefolius]]
-- gaultheria-procumbens
-- [[allium-tricoccum]]
-- [[hydrastis-canadensis]]
-- [[convallaria-majalis]]
-- [[trillium-grandiflorum]]
-- [[vaccinium-angustifolium]]
-- [[podophyllum-peltatum]]
-- actaea-racemosa

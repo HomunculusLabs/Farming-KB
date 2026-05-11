@@ -34,12 +34,12 @@ Active vegetative microbial cells contain intrinsic water that
 absorbs microwave energy, leading to self-heating and thermal
 kill. However, bacterial spores are much more resistant because
 they contain very little free water. The dehydrated state of
-spores limits microwave coupling and thermal energy deposition.
+spores limits microwave coupling and [[phase-change-materials-thermal-energy-storage]] deposition.
 
 The solution developed by NASA involves introducing trace water
 (approximately 9 microliters per square centimeter of surface)
 before irradiation. This water absorbs microwave energy and
-flashes to steam, providing two additional kill mechanisms:
+flashes to steam, providing two additional [[microwave-microbial-kill-mechanisms]]:
 thermal transfer from hot steam to microbial cells, and
 physical disruption from rapid steam expansion forces.
 
@@ -51,9 +51,9 @@ shows a shoulder phase where little kill occurs, followed by a
 rapid decline phase where population drops steeply, and finally
 a tailing phase where the most resistant organisms are eliminated.
 
-For a mixed population of [[bacillus-pumilus-radiation-resistance-surface-decontamination]] (spores), Escherichia
+For a [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]] of [[bacillus-pumilus-radiation-resistance-surface-decontamination]] (spores), Escherichia
 coli (vegetative cells), and [[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]] (vegetative
-cells) on surfaces irradiated at 3.6 W/cm2, the kill curves
+cells) on surfaces irradiated at 3.6 W/cm2, the [[microbial-kill-curves-microwave-exposure]]
 demonstrated that vegetative organisms (E. coli, P. cepacia)
 are killed more readily than spores. A 10% reduction occurred
 at lower exposure, 10^7 reduction at moderate exposure, and
@@ -64,7 +64,7 @@ complete kill (zero CFU) at the standard 13.1 W-hr exposure.
 Several factors determine the efficiency of microbial kill by
 microwave irradiation:
 
-**Duration and Intensity**: Total microwave exposure (watt-hours)
+**Duration and Intensity**: Total [[microbial-kill-curve-microwave-exposure-dose-response]] (watt-hours)
 and exposure rate (watts per square centimeter) directly
 determine the energy deposited in the system. Higher intensity
 provides faster heating but may create non-uniform temperature
@@ -88,58 +88,3 @@ kill, though the relationship is not strictly linear.
 shield organisms from irradiation. Microwave-absorbing surfaces
 (glass, some plastics) may heat unevenly. The NASA system uses a
 combination of reflective and [[microwave-reflective-transparent-materials-surface-sterilization]] to optimize
-energy delivery to contaminated surfaces.
-
-## Comparison with Conventional Sterilization Methods
-
-Microwave sterilization offers distinct advantages over
-conventional methods for surface decontamination. Compared to
-autoclaving (121 degrees C steam under pressure), microwave
-sterilization causes minimal thermal impact on surrounding
-materials while achieving comparable microbial kill. Unlike
-chemical disinfectants (ethylene oxide, [[cervantes-hydrogen-peroxide-sterilization]],
-quaternary amines), microwave sterilization leaves no toxic
-residues on treated surfaces.
-
-Compared to UV irradiation, microwaves can penetrate into
-shadowed areas and enclosed spaces that UV light cannot reach.
-Compared to gamma irradiation, microwave systems are far
-simpler, safer, and less expensive to operate, requiring no
-radioactive sources or shielding infrastructure.
-
-## Effectiveness Against Specific Organisms
-
-The NASA validation study demonstrated effectiveness against:
-- **Bacillus pumilus**: Spore-forming bacterium known for
-  extreme environmental resistance, used as a biological
-  indicator for [[bacillus-pumilus-space-relevant-challenge-organism-sterilization-validation]]
-- **Escherichia coli**: Common Gram-negative bacterium,
-  representative of enteric contamination
-- **Pseudomonas cepacia**: Opportunistic pathogen with
-  significant antibiotic resistance, representative of
-  problematic environmental contaminants
-
-Complete kill of all three organisms was achieved from initial
-populations of 2 x 10^6 CFU, confirming broad-spectrum
-effectiveness against diverse microbial types including the
-most resistant spore form.
-
-## Non-Thermal Effects
-
-Some researchers have proposed non-thermal mechanisms for
-microwave microbial kill, including direct electromagnetic
-effects on cell membranes and intracellular structures. These
-non-thermal effects remain controversial, as it is difficult
-to separate them from thermal effects in experimental systems.
-The NASA study attributed microbial kill primarily to thermal
-mechanisms mediated by water heating and steam generation.
-
-## See Also
-
-- [[microwave-surface-sterilization]]
-- [[microwave-sterilizable-access-port]]
-
-## References
-
-1. Atwater, J.E., Streech, N.D., & Garmon, F.C. NASA Tech Briefs, MSC-22484.
-   Lyndon B. Johnson Space Center, Houston, Texas.

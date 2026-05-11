@@ -1,5 +1,5 @@
 ---
-title: "Shiitake oss-oeric-growing-parameters-cubensis from the [[coprinus-atrementarius-entity-the-mushroom-cultivator]]"
+title: Mushroom Cultivator Shiitake Growing Parameters
 created: 2026-04-28
 tags: [mycology, shiitake, lentinus-edodes, mushroom-cultivator, species-profile, wood-cultivation]
 date: 2026-04-25

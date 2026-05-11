@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,38 +88,3 @@ quality is insufficient.
 
 Fresh goat milk is processed into cheese, yoghurt, and other dairy products to
 extend shelf life, add value, and diversify production.
-
-**Soft cheese:** The simplest entry point. Milk is heated to 20 to 22 degrees
-Celsius, inoculated with a starter culture (or a spoonful of commercial
-yoghurt), and rennet is added. After coagulation (12 to 24 hours), curds are
-drained in cheesecloth for 6 to 24 hours. Soft cheese keeps for one to two
-weeks refrigerated.
-
-**Hard cheese:** Requires pressing and ageing. Curds are cut, heated, and
-stirred to expel more whey before being pressed in a mould. Hard cheeses are
-aged for weeks to months at controlled [[hamilton-greenhouse-heating-and-temperature-control]] throughout.
-
-## Integration with Orchard and Pasture Systems
-
-Dairy goats integrate productively with orchard systems through managed
-browsing. Goats control competing vegetation beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], reducing
-mowing costs while converting weeds into milk and manure. Portable electric
-fencing allows strip grazing that prevents over-browsing of any single area.
-Goat manure deposited in the orchard adds nitrogen and phosphorus directly
-to the root zone of fruit trees.
-
-Integration with pasture systems involves rotational grazing alongside or
-alternating with cattle, sheep, or poultry. Goats preferentially consume
-weeds and woody species that cattle and sheep avoid, complementing their
-grazing patterns. This multi-species grazing improves pasture composition
-and reduces parasite loads for all species.
-
-## Manure Cycling
-
-Goat manure is a valuable fertiliser resource. A milking goat produces
-approximately 1 to 2 kilograms of fresh manure daily. Manure is collected
-from housing and feeding areas and composted before application to gardens
-and pastures. Composting eliminates pathogens, reduces weed seed viability,
-and creates a stable, humus-rich soil amendment. Manure deposited directly
-on pasture during rotational grazing is distributed evenly by livestock
-movement and incorporated by soil organisms.

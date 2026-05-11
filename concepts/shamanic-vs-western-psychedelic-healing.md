@@ -11,11 +11,11 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 ## Overview
 
-Ralph Metzner identifies four paradigms for the therapeutic use of psychoactive substances, each grounded in fundamentally different worldviews.
+[[ralph-metzner]] identifies four paradigms for the therapeutic use of [[cultural-evolution-and-psychoactive-substances]], each grounded in fundamentally different worldviews.
 
 While Western psychotherapy and indigenous shamanism may sometimes use the same or similar psychoactive substances for healing and obtaining knowledge, Metzner argues there are "profound differences between them in underlying worldview and assumptions about the nature of reality."
 
-Understanding these differences is essential for any serious engagement with the therapeutic potential of psychedelic substances.
+Understanding these differences is essential for any serious engagement with the [[metzner-ayahuasca-therapeutic-potential]] of [[psychedelic-substances-comparison]].
 
 ## The Four Paradigms
 
@@ -35,7 +35,7 @@ In shamanic traditions, the healer or shaman takes the medicine in order to "see
 
 The shaman's journey is typically undertaken on behalf of a patient or community, not for personal exploration.
 
-Reality is understood as multiple — there are many "worlds" or "dimensions" that can be explored in expanded states of consciousness, and these worlds are considered just as real as the physical world.
+Reality is understood as multiple — there are many "worlds" or "dimensions" that can be explored in expanded [[mckenna-food-gods-designer-states-of-consciousness]], and these worlds are considered just as real as the physical world.
 
 The beings encountered in dreams and visions — spirits — are considered "just as real as the physical organism."
 
@@ -43,7 +43,7 @@ The beings encountered in dreams and visions — spirits — are considered "jus
 
 In these traditions, the focus is on community bonding and celebratory worship.
 
-Examples include ceremonies of the [[halpern-sacramental-peyote-and-native-american-church]] Church (peyote), the União do Vegetal and Santo Daime (ayahuasca), and the Bwiti cult ([[iboga|iboga]]).
+Examples include ceremonies of the [[halpern-sacramental-peyote-and-native-american-church]] Church (peyote), the União do Vegetal and Santo Daime (ayahuasca), and [[iboga-and-the-bwiti-cult-initiation]] ([[iboga]]).
 
 The psychoactive plant is understood as a sacrament — a gift from the divine that facilitates communal worship and spiritual experience.
 
@@ -88,39 +88,3 @@ The differences between paradigms extend to the role and training of the practit
 **Western therapist**: Trained in psychology, often with no personal experience of non-ordinary states. The therapist guides the patient through the experience from outside.
 
 **Shaman**: Trained through years of apprenticeship, including personal experience of non-ordinary states induced by the plants themselves. The shaman enters the same state as the patient, journeying alongside them.
-
-**Hybrid practitioner**: May have training in both Western psychology and indigenous shamanic traditions, bridging the two approaches.
-
-Metzner notes that the Western recognition that "the personal experience of the therapist or guide is an essential prerequisite of effective [[psychedelic-psychotherapy|psychedelic psychotherapy]]" brings the Western paradigm closer to the shamanic model.
-
-## Indigenous Knowledge of Psychoactive Plants
-
-Metzner emphasizes that indigenous people "are known to have a profound knowledge of plants and herbs and their effects on the body and mind."
-
-They "are well able to distinguish harmful from beneficial medicines."
-
-For this reason, "the vision-inducing plants that have a tradition of shamanic usage are much more likely to be safe, in contrast to newly discovered and synthesized drugs, the use of which may often involve unknown long-term risks."
-
-This observation has significant implications for modern [[metzner-psycholytic-psychedelic-therapy-models]], where researchers are increasingly turning to traditional plant medicines rather than synthetic compounds.
-
-The millennia of human experience embedded in indigenous shamanic traditions represents a vast pharmacological and psychological knowledge base that Western science has only begun to appreciate.
-
-## The Military Connection
-
-Metzner provides an illuminating historical note about the early Western engagement with LSD.
-
-When LSD's "fantastically potent mind-altering qualities" were first discovered during World War II, they were characterized as "psychotomimetic" (simulating psychosis) and "psycholytic."
-
-Military and espionage agencies devoted considerable resources to determining the most effective ways to use LSD as a weapon.
-
-"Ironically, and fortunately," Metzner notes, "it was the capacity of LSD to tap into the hidden mystical potentials of the human mind that ruined its applicability as a weapon of war."
-
-Rather than making subjects "predictably submissive to mind-control programming," LSD had the "unnerving propensity to suspend the existing mental programming and thereby release one into awesome worlds of cosmic consciousness."
-
-The military was "not prepared to have soldiers or espionage agents turn into mystics."
-
-## See Also
-
-- [[psycholytic-vs-psychedelic-therapy-models|Psycholytic vs Psychedelic Therapy Models]] — the two Western clinical models
-- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening|MDMA-Assisted Psychotherapy]]] — the empathogen approach that extended the therapeutic model
-- [[ayahuasca-pharmacology-and-drug-interactions|Ayahuasca]]] — a plant medicine used across shamanic and syncretic traditions

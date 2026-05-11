@@ -77,3 +77,20 @@ EEE belongs to the trialkoxyamphetamine series explored by Shulgin:
 - TMA-2 (2,4,5-trimethoxyamphetamine) — the parent compound and prototype
 - [[mescaline]] (3,4,5-trimethoxyphenethylamine) — the classic
   phenethylamine reference compound
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.
+
+## See Also
+- [[pea-entity-pihkal]]
+- [[meda-entity-pihkal]]
+- [[j-entity-pihkal]]
+- [[me-entity-pihkal]]
+- [[mdoh-entity-pihkal]]

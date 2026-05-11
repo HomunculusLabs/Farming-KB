@@ -87,15 +87,3 @@ monitoring, and adjustable lighting. Grow tents like the [[martha-tent-mushroom-
 control. Outdoor cultivation relies on natural conditions and seasonal timing.
 
 ## Monitoring and Automation
-
-Modern cultivation increasingly relies on automated monitoring and control
-systems. Sensors measuring temperature, humidity, CO2, and light levels provide
-continuous data that can trigger automated adjustments to ventilation,
-humidification, and heating systems. Data logging enables trend analysis and
-early detection of environmental deviations before they impact the crop.
-
-## See Also
-
-- [[mushroom-cultivation-fundamentals]]
-- [[biological-efficiency]]
-- [[oyster-mushroom-substrates]]

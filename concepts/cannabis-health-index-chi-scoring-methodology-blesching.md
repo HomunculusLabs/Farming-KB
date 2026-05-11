@@ -1,5 +1,5 @@
 ---
-title: [[blesching-cannabis-health-index-autoimmune-conditions]] — CHI Scoring Methodology
+title: Cannabis Health Index Chi Scoring Methodology Blesching
 source: uwe-blesching-the-cannabis-health-index.md
 source_author: Uwe Blesching
 tags: [cannabis, health-index, CHI, scoring, evidence-based, methodology, medical-cannabis]
@@ -25,11 +25,11 @@ available body of scientific literature.
 
 ## Importance of Research Study Type
 
-The CHI methodology places significant weight on the type of research study that supports
+The [[cannabis-evidence-based-medicine-chi-methodology]] places significant weight on the type of research study that supports
 a given therapeutic claim. Not all evidence is equal in the CHI system. The hierarchy of
 research evidence considered includes:
 
-- **Randomized controlled trials (RCTs)**: The gold standard of clinical research, providing
+- **Randomized controlled trials (RCTs)**: The gold standard of [[hofmann-lsd-clinical-research-early-studies]], providing
   the highest level of evidence. Patients are randomly assigned to treatment or control
   groups, minimizing bias.
 
@@ -63,7 +63,7 @@ Blesching recommends that patients and practitioners use CHI scores as a startin
 for decision-making rather than as absolute prescriptions. A high CHI score for a condition
 suggests that cannabis therapy has strong scientific support for that application. However,
 individual responses vary significantly based on factors including genetics, body chemistry,
-the specific cannabis strain used, the method of administration, dosage, and concurrent
+the specific [[biscotti-cannabis-strain]] used, the method of administration, dosage, and concurrent
 health conditions.
 
 ### For Specific Studies
@@ -80,7 +80,7 @@ The CHI system acknowledges that therapeutic outcomes depend not only on whether
 is used, but on which strain, form, and administration method is chosen. Key variables
 include:
 
-- **Strain selection**: Different cannabis strains contain varying ratios of THC, CBD,
+- **[[blesching-cannabis-strain-selection-receptor-targeting]]**: Different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] contain varying ratios of THC, CBD,
   other cannabinoids, and terpenoids, each producing distinct [[cannabis-sativa-vs-indica-therapeutic-profiles]].
 
 - **Form of cannabis**: Whole-plant preparations, extracts, tinctures, oils, and
@@ -88,48 +88,3 @@ include:
 
 - **Method of administration**: Inhalation, oral, sublingual, and topical routes each
   have different onset times, duration of effect, and metabolic pathways.
-
-## The Setting, Intention, and Exploration Framework
-
-The CHI system extends beyond purely pharmacological evaluation to incorporate mind-body
-medicine principles. Blesching integrates three key dimensions into the therapeutic
-framework:
-
-### The Setting
-The physical and psychological environment in which cannabis medicine is consumed
-significantly influences therapeutic outcomes. A calm, intentional setting enhances the
-[[metzner-ayahuasca-therapeutic-potential]] of cannabinoid therapy.
-
-### The Intention
-The patient's conscious intention and mental state during treatment affect physiological
-responses. Research on the endocannabinoid system demonstrates connections between
-psychological states and immune function, suggesting that intentional healing practices
-may enhance cannabinoid therapy.
-
-### The Exploration
-Patients are encouraged to maintain detailed records of their experiences with different
-strains, doses, and [[blesching-cannabis-administration-methods]]. This self-exploration helps establish the
-personal therapeutic window and identify the most effective approaches.
-
-## Powerful Questions for Deeper Healing
-
-The CHI methodology includes a self-guided inquiry system using powerful questions to
-facilitate deeper healing. These questions help patients explore the emotional and
-psychological dimensions of their condition alongside the physical treatment. Combined
-with suggested blessings and affirmations, this approach integrates mindfulness
-techniques with evidence-based [[greg-green-thc-and-cannabinoid-science]].
-
-## Limitations of the CHI System
-
-The CHI system acknowledges several limitations. Cannabis research has been historically
-constrained by legal restrictions, meaning the body of evidence for many conditions
-remains incomplete. Many studies are preclinical and cannot be directly extrapolated to
-human outcomes. Individual variation in endocannabinoid system function means that
-population-level CHI scores may not predict individual responses accurately.
-
-## See Also
-
-- [[beta-caryophyllene-dietary-cannabinoid-cb2-spices-blesching]]
-- [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]]
-- cannabis modes of administration therapeutic window blesching
-- [[endocannabinoid-system-overview]]

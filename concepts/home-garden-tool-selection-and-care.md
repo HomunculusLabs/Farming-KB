@@ -1,5 +1,5 @@
 ---
-title: Home [[garden-tool-selection-sharpening-solomon]] and Care
+title: Home Garden Tool Selection And Care
 source: gardening-when-it-counts-steve-solomon
 source_author: Steve Solomon
 tags: [gardening, tools, maintenance, hand-tools, sharpening, low-input, homesteading]
@@ -88,47 +88,3 @@ Proper maintenance extends tool life and dramatically improves performance. Solo
 **Cleaning and rust prevention:**
 
 - Clean tools after each use to remove soil and plant material.
-- A stiff brush or putty knife works well for removing caked soil.
-- Apply a thin coat of oil to metal surfaces after cleaning to prevent rust.
-- Linseed oil or a light machine oil (such as WD-40) is appropriate.
-- Wooden handles benefit from periodic treatment with boiled linseed oil to prevent drying and cracking.
-
-**Storage:**
-
-- Store tools in a dry location, ideally hanging rather than standing on their blades.
-- Proper storage prevents blade damage and reduces rust formation.
-- Organize tools so they are easily accessible when needed.
-
-## Tool Selection Criteria
-
-When purchasing garden tools, Solomon recommends prioritizing:
-
-1. **Quality of materials:** Forged steel heads are superior to stamped metal. Ash or hickory handles are stronger than pine.
-2. **Weight:** Tools should be heavy enough to do the work but light enough to use for extended periods without excessive fatigue.
-3. **Balance:** A well-balanced tool feels like an extension of the user's arm.
-4. **Handle length:** Taller gardeners need longer handles. The handle should allow the user to work with a relatively upright posture.
-5. **Cost per year of use:** A high-quality tool that lasts decades is more economical than a cheap tool that must be replaced every few years.
-
-Solomon notes that garden centers often stock lower-quality tools designed for casual gardeners. For serious low-input gardening, it may be necessary to seek out specialty suppliers or order professional-grade tools.
-
-## Working with Clay Soils
-
-Solomon provides specific guidance for gardeners dealing with heavy clay soils, which present particular challenges for tool use:
-
-- Clay is extremely heavy (twice the weight of loam per shovelful) and exhausting to work.
-- Working clay when too wet creates rock-hard clods; working it when too dry creates dust that slumps into an airless goo when watered.
-- Only a narrow window of proper moisture exists for tilling clay effectively.
-- Solomon describes a "ready-to-till" test to determine when clay soil is at the right moisture content for working.
-- A broadfork is particularly valuable for clay soils because it loosens without inverting, preserving whatever soil structure exists.
-- Adding large quantities of organic matter to clay is expensive and labor-intensive, and according to Solomon, remediated clay will never grow vegetables as well as naturally light soil.
-
-## See Also
-
-- [[low-input-vegetable-gardening]]
-- [[complete-organic-fertilizer-cof]]
-- soil [[duggar-mushroom-spawn-preparation-techniques]]
-
-## Sources
-
-- Solomon, S. (2005). Gardening When It Counts: Growing Food in Hard Times. New Society Publishers.
-- Coleman, E. (1995). The New Organic Grower. Chelsea Green Publishing.

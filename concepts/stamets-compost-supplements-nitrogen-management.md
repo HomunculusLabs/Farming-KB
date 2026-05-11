@@ -88,31 +88,3 @@ is critical and directly influences substrate quality for
 
 Gypsum is essential for all composts. Its effects include: (1) improving
 physical structure by aggregating colloidal particles for better aeration;
-(2) increasing water holding capacity; (3) counteracting high K, Mg, P
-and Na to prevent greasy conditions; (4) supplying calcium for mushroom
-metabolism. Add at 50-100 lbs per dry ton; use the high rate with
-chicken manure supplementation.
-
-### Limestone Flour (Calcium Carbonate)
-
-Used when supplements are very acidic and need buffering, such as grape
-pomace with its pH of 4.
-
-## Compost Formulas
-
-Two commercially proven high-yield formulas achieve the target 1.5-1.7%
-nitrogen. Formula I uses horse manure base with cottonseed meal and
-gypsum, yielding approximately 2,800 lbs of compost at 70% moisture.
-Formula II is a synthetic compost using wheat straw and chicken manure
-with gypsum, yielding approximately 7,000 lbs at 71% moisture. See
-[[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
-for complementary approaches. Approximately 40% of dry matter is
-reduced during composting, demonstrating the importance of composting
-no longer than necessary.
-
-## See Also
-
-- stamets [[mushroom-cultivator-phase-ii-composting-biology]]
-- [[agaricus-phase-i-composting]]
-- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
-- [[decomposition]]

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - D'Arcy, W.G. (1991). "Cestrum." In Flora of North America Editorial Committee, Flora of North America North of Mexico, Vol. 24. Oxford University Press.
+  - D'Arcy, W.G. (1991). "Cestrum." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America North of Mexico, Vol. 24. Oxford University Press.
   - Hunziker, A.T. (2001). Genera Solanacearum: The Genera of Solanaceae Illustrated, Arranged According to a New System. A.R.G. Gantner Verlag.
   - Mabberley, D.J. (2017). Mabberley's Plant-Book: A Portable Dictionary of Plants, Their Classification and Uses, 4th ed. Cambridge University Press.
   - Nelson, L.S. et al. (2007). Handbook of Poisonous and Injurious Plants, 2nd ed. Springer.
@@ -23,7 +23,7 @@ Cestrum nocturnum, commonly known as night-blooming jasmine, lady of the night, 
 
 It is renowned for producing one of the most powerfully fragrant flowers in the plant kingdom, with scent released exclusively at night to attract nocturnal pollinators.
 
-The species is native to tropical and subtropical regions of the Americas, from the Caribbean and Central America through northern South America.
+The species is native to tropical and subtropical regions of the Americas, from the Caribbean and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] through northern [[guzman-psilocybin-mushrooms-south-america]].
 
 Night-blooming jasmine is widely cultivated in tropical and subtropical gardens worldwide for its intoxicating fragrance.
 
@@ -55,7 +55,7 @@ Fruit are small, globose berries approximately 8 to 10 millimeters in diameter, 
 
 Cestrum nocturnum is native to the West Indies, Central America, and northern South America, with a natural range extending from Cuba and Jamaica through Mexico to Colombia and Venezuela.
 
-It has been introduced widely across tropical and subtropical regions and is now naturalized in parts of the southern United States, southeastern Asia, Pacific Islands, and eastern Africa.
+It has been introduced widely across tropical and subtropical regions and is now naturalized in parts of the southern United States, southeastern Asia, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and eastern Africa.
 
 In the United States, it is established in southern Florida, southern Texas, and Hawaii, where it can become weedy in disturbed areas.
 
@@ -65,7 +65,7 @@ It is commonly found in forest margins, thickets, fence rows, and disturbed site
 
 Night-blooming jasmine tolerates a range of soil types but performs best in fertile, organic-rich loams with regular moisture.
 
-It is sensitive to frost and is killed to the ground at temperatures below freezing, though roots may survive and resprout in subtropical climates.
+It is sensitive to frost and is killed to the ground at temperatures below freezing, though roots may survive and resprout in [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 
 ## Cultivation
 
@@ -75,7 +75,7 @@ Cuttings root readily under mist propagation and produce flowering plants more q
 
 The species prefers partial shade to full sun in tropical and subtropical climates, with protection from strong afternoon sun in hot inland areas.
 
-Regular watering during the growing season promotes vigorous growth and abundant flowering, though established plants are moderately drought-tolerant.
+Regular watering during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] promotes vigorous growth and abundant flowering, though established plants are moderately drought-tolerant.
 
 Fertilization with a balanced, slow-release fertilizer applied two to three times per year supports continuous bloom production.
 
@@ -88,55 +88,3 @@ Hardiness is limited to USDA zones 9 to 11, with freeze damage occurring below 2
 In cooler climates, the species can be grown in containers and overwintered indoors in a bright, frost-free location.
 
 Pest issues are generally minor, though whiteflies, scale insects, and spider mites may affect plants grown under stress or in greenhouse conditions.
-
-## Chemistry and Toxicity
-
-All parts of Cestrum nocturnum contain tropane alkaloids and other bioactive compounds consistent with its Solanaceae lineage.
-
-The principal toxic constituents include atropine, scopolamine, and related tropane alkaloids, concentrated particularly in the berries and leaves.
-
-Ingestion of berries, leaves, or stems can cause gastrointestinal distress including nausea, vomiting, abdominal pain, and diarrhea.
-
-More severe poisoning may produce neurological symptoms including dizziness, hallucinations, tachycardia, and in extreme cases, respiratory depression.
-
-Cases of livestock poisoning have been documented, particularly in cattle and goats with access to night-blooming jasmine hedgerows.
-
-The fragrance itself, while generally regarded as pleasant, can trigger headaches or respiratory irritation in sensitive individuals when exposure is prolonged or occurs in enclosed spaces.
-
-The essential oil extracted from the flowers is used in perfumery and aromatherapy, though commercial extraction is limited by the relatively low yield.
-
-## Cultural and Economic Significance
-
-Cestrum nocturnum is among the most culturally significant fragrant plants in tropical regions worldwide.
-
-In India, it is known as raat ki rani (queen of the night) and is widely planted near homes and temples for its nocturnal fragrance.
-
-In the Philippines, the species is called dama de noche (lady of the night) and features in traditional garden design.
-
-In Brazil and other Latin American countries, it is commonly associated with romantic and nocturnal garden traditions.
-
-The flowers are occasionally used in garlands and floral arrangements in tropical wedding and ceremonial contexts.
-
-Night-blooming jasmine has been the subject of numerous poems, songs, and literary references across South Asian and Caribbean cultures.
-
-In temperate regions, the species is sometimes grown as a greenhouse or conservatory plant for its unique fragrance.
-
-The intense nocturnal fragrance has made it a staple plant in tropical resort and hospitality landscaping.
-
-## See Also
-
-- [[schizanthus-wittmackii]]
-
-- [[fabiana-imbricata]]
-
-- [[cestrum-diurnum]]
-
-- [[brugmansia-suaveolens]]
-- [[datura-stramonium]]
-- [[datura-innoxia]]
-- [[atropa-belladonna]]
-- [[hyoscyamus-niger]]
-- [[nicotiana-tabacum]]
-- [[solanum-lycopersicum]]
-- [[capsicum-annuum]]
-- [[physalis-peruviana]]

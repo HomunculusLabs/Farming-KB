@@ -1,6 +1,6 @@
 ---
 title: "Bioisosterism in Drug Design"
-aliases: [bioisosteres, bioisosteric replacement, medicinal chemistry isosterism]
+aliases: [[bioisosteres]], bioisosteric replacement, medicinal chemistry isosterism]
 tags: [medicinal-chemistry, pharmacology, organic-chemistry, drug-design]
 created: 2026-05-02
 updated: 2026-05-06
@@ -13,7 +13,7 @@ Bioisosterism is the medicinal chemistry practice of replacing one atom, functio
 A bioisostere is not merely similar in shape; it must produce a comparable biological effect in the specific ligand, target, and assay context.
 Drug designers use bioisosteric replacement to improve potency, selectivity, solubility, permeability, metabolic stability, patent space, or safety.
 The method is central to lead optimization because small structural changes can solve large pharmacokinetic or toxicological problems.
-Bioisosterism links organic chemistry with pharmacology: the replacement must be synthetically accessible and must survive the tests of binding, exposure, and tolerability.
+Bioisosterism links [[pericyclic-reactions-organic-chemistry]] with pharmacology: the replacement must be synthetically accessible and must survive the tests of binding, exposure, and tolerability.
 It is closely related to [[cytochrome-p450-enzymes-drug-metabolism]], and [[cytochrome-p450-enzyme-system]].
 Another goal is lower clearance through replacement of labile esters, benzylic positions, anilines, or easily oxidized heteroatoms.
 A replacement can reduce hERG channel liability by lowering basicity, decreasing lipophilicity, or changing molecular shape.
@@ -22,7 +22,7 @@ Permeability can improve when ionization is tuned, hydrogen-bond donors are mask
 Selectivity can improve when a replacement fills a subpocket unique to the desired target or avoids a conserved water network in off-targets.
 
 ## Carboxylic Acid Replacements
-Carboxylic acids provide strong ionic and hydrogen-bonding interactions but can reduce membrane permeability and increase glucuronidation risk.
+Carboxylic acids provide strong ionic and hydrogen-bonding interactions but can reduce membrane permeability and increase [[glucuronidation]] risk.
 Tetrazoles are classic carboxylate bioisosteres because they are acidic, planar, and capable of similar ionic interactions.
 Acyl sulfonamides and sulfonylureas can mimic acidity while introducing different geometry and lipophilicity.
 Hydroxamic acids bind metals strongly and are useful in some metalloprotease inhibitors, but they can create toxicity and metabolic concerns.
@@ -58,7 +58,7 @@ Many bioisosteric replacements are designed after metabolite identification reve
 If oxidation occurs at a benzylic C-H bond, fluorination, deuteration, methyl relocation, or ring replacement may reduce the rate.
 If glucuronidation occurs on a phenol or carboxylic acid, masking or replacing the acidic group may improve half-life.
 If hydrolysis occurs at an ester, amides, heterocycles, or carbamates may provide greater stability.
-If a functional group forms reactive metabolites, replacement may reduce covalent binding and lower toxicity risk.
+If a functional group forms [[reactive-metabolites-and-bioactivation-toxicology]], replacement may reduce covalent binding and lower toxicity risk.
 These changes must be tested against [[glutathione-conjugation]] pathways, not only against the primary target assay.
 
 ## Computational and Data-Driven Methods
@@ -80,37 +80,10 @@ Early assays for covalent binding, mitochondrial function, hERG activity, and ge
 ## Practical Workflow
 A practical workflow begins by identifying the problem: potency, selectivity, clearance, solubility, permeability, formulation, or safety.
 
-The team then maps which interactions must be preserved and which molecular properties can change.
+The team then [[maps]] which interactions must be preserved and which molecular properties can change.
 
 A small set of replacements is selected to sample size, charge, hydrogen bonding, pKa, lipophilicity, and three-dimensional shape.
 
 Synthetic tractability matters because a theoretically elegant replacement is not useful if it consumes too much optimization time.
 
 Each analog is tested in primary potency assays, counter-screens, microsomal stability, plasma stability, solubility, permeability, and protein binding.
-
-The best replacement is the one that improves the project profile, not necessarily the one that most closely resembles the original group.
-
-## Common Pitfalls
-Assuming that a named bioisostere will work across every target is the most common mistake.
-
-A tetrazole may mimic a carboxylic acid in one binding pocket and fail in another because geometry, desolvation, or pKa is different.
-
-A fluorine atom may block one metabolic route while opening another or lowering affinity.
-
-A heteroaryl replacement may introduce coordination to metals, off-target binding, or photochemical instability.
-
-Scaffold hopping may appear to preserve pharmacophores in two dimensions while losing the bioactive three-dimensional conformation.
-
-The safest interpretation is that bioisosterism proposes analogs worth making, not analogs guaranteed to succeed.
-
-## Relationship to Other Concepts
-[[enzyme-kinetics-michaelis-menten-model]] helps interpret whether a replacement changes affinity, efficacy, or inhibition mechanism.
-
-[[phase-ii-conjugation-reactions-drug-metabolism]] is relevant when acid, phenol, amine, or thiol replacements alter conjugation pathways.
-
-## References
-Classic reviews by Burger and later medicinal chemistry authors established bioisosterism as a core drug-design strategy.
-
-Modern reviews emphasize nonclassical bioisosteres, matched molecular pairs, scaffold hopping, and property-driven lead optimization.
-
-Drug discovery case studies show that successful replacement depends on target context, metabolic pathway, and whole-compound properties.

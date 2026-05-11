@@ -87,34 +87,3 @@ In horticulture, E. fluviatile is occasionally cultivated as a marginal aquatic 
 Homeopathic preparations have been made from the whole plant, though these lack clinical validation. The species contains flavonoids, alkaloids, and phenolic acids but has not been subjected to systematic pharmacological investigation.
 
 In traditional Chinese medicine, related Equisetum species have documented use as diuretics and wound-healing agents. E. fluviatile has not been widely adopted in formal herbal practice, though its pharmacological profile is similar to that of the better-studied E. arvense.
-
-The stems have been used in basketry and thatching in some Scandinavian rural communities, taking advantage of their rigidity and water-resistant silica coating. Contemporary interest in the species centers on its potential for phytoremediation of silica-contaminated waters.
-
-## Conservation
-
-E. fluviatile is not globally threatened and is listed as Least Concern by the IUCN. It is widespread and common throughout its range, though local declines have been documented where wetland drainage and development have reduced suitable habitat.
-
-In several European countries, the species is regionally protected as an indicator of high-quality wetland ecosystems. Its decline in intensively farmed landscapes reflects broader wetland degradation rather than species-specific vulnerability.
-
-Climate change poses both threats and opportunities for E. fluviatile. Warmer temperatures may extend its northern range limit, but increased drought frequency in temperate zones could reduce the extent of suitable wetland habitat.
-
-Invasive potential is moderate in regions outside its native range. The species has been introduced to parts of New Zealand and southern South America, where it can form dense stands in disturbed wetland areas. However, its requirement for permanently saturated soils limits its spread to actively managed or natural wetland sites.
-
-Hybridization with the closely related E. palustre has been documented where the two species co-occur, producing the hybrid E. × litorale. Hybrid individuals show intermediate morphology and reduced fertility, though they persist through clonal reproduction.
-
-The genus Equisetum is a living fossil lineage dating back over 350 million years to the Devonian period. E. fluviatile represents one of the more specialized extant members, having adapted to permanently saturated wetland conditions over millions of years.
-
-Chromosome number is 2n = 108, consistent with the base number for subgenus Equisetum. Polyploidy is common in the genus and may contribute to the ecological adaptability and clonal vigor observed in E. fluviatile populations.
-
-## See Also
-
-- [[equisetum-arvense]]
-- [[equisetum-hyemale]]
-- [[equisetum-telmateia]]
-- [[equisetum-palustre]]
-- [[equisetum-variegatum]]
-- [[lemna-minor]]
-- [[ceratophyllum-demersum]]
-- [[nuphar-lutea]]
-- [[sagittaria-latifolia]]
-- [[myriophyllum-spicatum]]

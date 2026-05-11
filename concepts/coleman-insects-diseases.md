@@ -88,27 +88,3 @@ At first, a few aphids were tolerable since they washed off easily
 during cleaning. But then aphid predators appeared, and the
 carcasses of preyed-upon aphids stuck to the back of spinach
 leaves, creating an unmarketable product.
-
-Research into conditions causing aphid proliferation pointed to
-nitrogen levels in the soil as the main factor. Nitrogen can build
-up when there has been no rain or irrigation to flush it. The
-traditional practice of not watering greenhouses from mid-November
-to early March (since soil seemed moist enough with low
-evaporation) was contributing to the problem.
-
-The solution was simple: begin irrigating thoroughly once a week
-on sunny mornings starting in mid-January to flush out excess
-nitrogen. The aphid problem went away and has not returned. The
-extra moisture caused no new problems and the practice continues.
-
-## The Ideal of Organic Farming
-
-Coleman quotes Lady Eve Balfour, the British organic pioneer, who
-wrote that the organic cultivator has evolved practices that will
-one day be recognized as far more scientific than those currently
-bearing that name. The organic approach provides the conditions
-in which natural biological balance will prevent any one species
-from multiplying to pest proportions, avoids crude chemicals,
-insists on the return of all organic wastes to the soil, maintains
-crop diversity, and respects the right of all flora and fauna to
-exist.

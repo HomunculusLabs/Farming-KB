@@ -25,14 +25,14 @@ Both sectors drive demand for mushrooms in hotels and supermarkets.
 
 ## Current Industry Status
 
-The Kenyan mushroom industry is still in its infancy, growing slowly. Of the 42
+The Kenyan [[mushroom-industry-african-countries]] is still in its infancy, growing slowly. Of the 42
 indigenous tribes, 38 are known to use mushrooms as food, and wild mushrooms
 (Termitomyces and Pleurotus species) are traditionally collected from forests.
 However, deforestation reduces wild [[psilocybin-mushroom-habitat-and-ecology]] each year.
 
 ### Production and Market
 Current production is approximately 500 tons per annum, vastly below the estimated
-potential of over 100,000 tons per year. Button mushroom ([[genetic-improvement-agaricus-bisporus-molecular-approaches]])
+potential of over 100,000 tons per year. [[growing-gourmet-button-mushroom-agaricus-cultivation]] ([[genetic-improvement-agaricus-bisporus-molecular-approaches]])
 accounts for 476 tons (over 95% of production). Four major commercial farms
 (Agridutt Ltd., Rift Valley Mushrooms, Olive Mushrooms, Devani and Kanchan
 Mushrooms) supply supermarkets in Nairobi and Mombasa. Several small farms sell
@@ -41,20 +41,20 @@ mushroom imports.
 
 ### Pricing
 Mushroom prices are very high relative to other vegetables. Agaricus sells in
-250g packs at KES150 (USD2). Oyster mushroom prices are comparable. Shiitake
+250g packs at KES150 (USD2). [[mushroom-cultivation-disabilities-oyster-mushroom-guide]] prices are comparable. Shiitake
 costs KES1,000/kg (USD13). By comparison, 250g of beef costs approximately
 USD0.50. Many poor Kenyans earn less than USD1/day, making mushrooms
 inaccessible.
 
 ### Oyster and Shiitake Production
-Oyster mushroom cultivation is not yet popular. Four small farms produce
+[[cotter-oyster-mushroom-cultivation]] is not yet popular. Four small farms produce
 approximately 120kg each per week. A few shiitake farms produce about 20kg per
 week. Low consumer awareness limits demand for these species.
 
 ## Key Constraints
 
 ### Capital Requirements
-Starting a medium-sized commercial mushroom farm requires approximately KES40
+Starting a medium-sized [[history-of-commercial-mushroom-cultivation]] farm requires approximately KES40
 million (USD520,000), including mushroom houses, land, composting equipment, air
 conditioning, spawn acquisition, and staff training abroad. This excludes most
 small farmers. Systems could be improvised at lower cost with proper knowledge.
@@ -63,7 +63,7 @@ small farmers. Systems could be improvised at lower cost with proper knowledge.
 There is no single spawn manufacturing company in Kenya. Farmers must import
 spawn at KES600/kg (USD7.80) including airfreight, or produce their own from
 culture collections. Self-produced spawn often suffers from quality loss after a
-few months due to culture preservation difficulties and electricity fluctuations.
+few months due to [[biodiversity-fungal-culture-preservation]] difficulties and electricity fluctuations.
 Few personnel are trained in [[growing-gourmet-sawdust-spawn-production-use]].
 
 ### Information Secrecy
@@ -88,34 +88,3 @@ in local tropical conditions. Some farmers have expanded beyond home consumption
 to market surplus production.
 
 ## Recommendations for Industry Growth
-
-Several measures are recommended to accelerate the Kenyan mushroom industry:
-
-- Establish a local high-quality spawn manufacturer that advises farmers on
-  [[blesching-cannabis-strain-selection-receptor-targeting]] for diverse cold, moderate, and hot regions
-- The Ministry of Agriculture should assign officers specifically for mushroom
-  extension services, making them more accessible and affordable
-- Donors should support women's groups and small farmers to initiate local
-  mushroom projects for family food security and protein nutrition
-- Encourage information exchange between farmers and researchers
-- Promote knowledge sharing about oyster mushroom cultivation, which requires
-  less capital than button mushroom
-- Develop marketing channels for fresh and processed mushrooms
-
-## Tourism Demand and Strategic Opportunity
-
-Kenya's active tourism sector creates significant demand for mushrooms in
-hotel restaurants. Combined with the growing domestic market of over 30 million
-people and increasing nutritional awareness, the potential for market expansion
-is substantial if production can be increased and prices reduced.
-
-Kenya's strategic geographic position offers export potential to the Middle East
-and Europe. Several Pleurotus species have been domesticated from Karura, Kakamega
-and other forests. These species are adapted to local tropical conditions, grow
-fast, and fruit readily, but commercialization requires further development.
-
-## Related Concepts
-
-- [[mushroom-poverty-alleviation-developing-countries]]
-- [[oyster-mushroom-spawn-production]]
-- [[oyster-mushroom-marketing-economics]]

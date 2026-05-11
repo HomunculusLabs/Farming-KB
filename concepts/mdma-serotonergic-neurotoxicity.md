@@ -5,6 +5,7 @@ tags: [pharmacology, neurotoxicity, serotonin, mdma]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - /Users/t3rpz/wiki/raw/papers/halpern-m-hallucinogens-dissociative-agents-growing-in-us.md
 type: concept
 ---
@@ -86,27 +87,3 @@ life-threatening condition caused by excessive serotonergic activity. Serotonin
 syndrome is characterized by a spectrum of symptoms including agitation,
 confusion, hyperthermia, autonomic instability, and in severe cases seizures
 and coma.
-
-MDMA's mechanism of serotonin release creates a pharmacological foundation
-for serotonin syndrome even when used alone at high doses. When combined with
-medications that inhibit serotonin metabolism or reuptake, the risk increases
-substantially. This interaction is particularly concerning because individuals
-with depression, the population most likely to be taking SSRIs, may also be
-drawn to MDMA for its acute antidepressant effects.
-
-## Neuroimaging and SERT Density
-
-Positron emission tomography studies using radioligands that bind to the
-serotonin transporter have been the primary method for assessing serotonergic
-neurotoxicity in living MDMA users. These studies have generally reported
-lower SERT binding in cortical and subcortical regions of MDMA users compared
-to controls, with some evidence of dose-dependent reductions.
-
-However, the interpretation of these findings is complicated by several
-factors. SERT density can be downregulated as a compensatory response to
-serotonin release without neuronal damage, and the clinical significance of
-reduced SERT binding is unclear. Some studies have reported normal SERT
-levels in former MDMA users who had been abstinent for extended periods,
-suggesting that the changes may be partially reversible.
-## See Also
-- [[permaculture]]

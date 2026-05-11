@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 5-TME
 
-PIHKAL entry #165. 5-THIOMETAESCALINE;.
+[[2c-b-pihkal-entry-20]] #165. 5-THIOMETAESCALINE;.
 
 ## Chemical Name
 
@@ -85,17 +85,6 @@ were chromatographically and analytically identical. Anal.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[4-tme-entity-pihkal]]
-- [[3-tme-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

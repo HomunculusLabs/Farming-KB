@@ -1,5 +1,5 @@
 ---
-title: "gourmet-medicinal-mushroom-casing-layer-techniques Uses in Historical Context"
+title: Palmer Medicinal Mushroom Uses Historical
 created: 2026-04-28
 tags: [mushrooms, medicinal-fungi, history, toxicology, ethnobotany]
 date: 2026-04-28
@@ -16,7 +16,7 @@ The medicinal application of mushrooms represents one of the
 most paradoxical chapters in the history of pharmacology. Fungi that
 contain deadly alkaloids have simultaneously been investigated as
 therapeutic agents, with nineteenth-century physicians proposing that
-controlled doses of amanitine, the poison of the Amanita family, could
+controlled doses of amanitine, the poison of the [[amanita]] family, could
 treat conditions ranging from chronic catarrh to epilepsy. Julius
 Auboineau Palmer documented these experimental medical uses in his
 1894 work "About Mushrooms," providing a window into an era when the
@@ -36,7 +36,7 @@ identical could differ radically in their chemical properties.
 Several nineteenth-century chemists attempted to isolate the active
 alkaloid of the Amanita family, each giving it a different name:
 Dr. Letellier called it "Amanitine"; Schmiedeberg and Koppe, German
-chemists, named it "Muscarine"; and Dr. Boudier, working with
+chemists, named it "[[muscarine]]"; and Dr. Boudier, working with
 Amanita bulbosa, proposed "Bulbosine." Palmer noted that Boudier
 obtained his alkaloid from A. bulbosa, Schmiedeberg from A. muscarius,
 and Letellier probably from several Amanita species. Since the effects
@@ -57,7 +57,7 @@ abundantly."
 
 ### Acrid Milk Mushrooms and Phthisis
 
-Among other fungi with medicinal properties, Palmer noted that "the
+Among other fungi with [[panax-ginseng]], Palmer noted that "the
 acrid milk mushrooms have been prescribed with success in phthisis,
 even in its more advanced stages." Phthisis was the nineteenth-century
 term for pulmonary tuberculosis, a disease that would remain one of
@@ -87,15 +87,3 @@ poison operated through general physiological absorption rather than
 requiring ingestion.
 
 ## Antidotes and Treatment
-
-### Atropine as Antidote
-
-The most significant therapeutic insight involved the use of atropine,
-derived from belladonna ([[palmer-mushroom-cooking-culinary-uses]]
-- agaricus-brasiliensis-almond-mushroom-medicinal-profile
-## See Also
-- [[palmer-mushroom-cooking-culinary-uses]]
-- [[mushroom-compost-preparation-historical]]
-- [[medicinal-mushroom-dietary-supplements]]
-- [[medicinal-mushroom-properties]]
-- [[gourmet-medicinal-mushroom-casing-layer-techniques]]

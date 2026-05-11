@@ -12,7 +12,7 @@ tags: [medicine, mushroom-cultivation, mushrooms, turkey-tail]
 
 ## Overview
 
-Trametes versicolor (syn. Coriolus versicolor), commonly known as turkey tail,
+Trametes versicolor (syn. [[coriolus-versicolor]]), commonly known as turkey tail,
 is a bracket fungus found worldwide on dead logs. Its multicoloured cap
 resembles a turkey's tail, occurring in overlapping clusters. Though not edible
 due to its hard, coarse texture, hot water extracts have been used in
@@ -65,7 +65,7 @@ Clinical profile of PSP:
   - Extensively studied by Chinese scientists and oncologists
   - Phase II and III trials showed enhanced immune status in 70-97% of
     patients with stomach, oesophageal, lung, ovarian, and cervical cancers
-  - Increased immune cell numbers and facilitated dendritic and cytotoxic
+  - Increased [[mushroom-immune-cell-activation-mechanisms]] numbers and facilitated dendritic and cytotoxic
     T-cell infiltration of tumours
   - Recognised as a drug by the Chinese Ministry of Public Health
   - Well-tolerated and compatible with chemotherapy and radiation
@@ -79,7 +79,7 @@ both are protein-bound polysaccharides, key differences exist:
 
   - PSK contains fucose; PSP does not
   - PSP contains arabinose and rhamnose; PSK does not
-  - PSK polysaccharide component has alpha-(1-4) and beta-(1-3) glucosidic
+  - [[psk-polysaccharide-krestin]] component has alpha-(1-4) and beta-(1-3) glucosidic
     linkages; PSP has mainly beta linkages
   - In PSP, polysaccharides and peptides are clearly bound, not separated:
     where there is polysaccharide there is polypeptide
@@ -87,36 +87,4 @@ both are protein-bound polysaccharides, key differences exist:
 
 Up to 10 protein-bound polysaccharides have been isolated (coriolan I and II
 among them), most covered by US and Japanese patents. Only PSK and PSP have
-been used in clinical trials. Japanese and Chinese scientists still prefer
-the Coriolus generic name instead of Trametes.
-
-## Anti-HIV and Chemoprevention
-
-A polysaccharopeptide from T. versicolor has been shown to inhibit HIV-1
-(Collins and Ng, 1997). Another polysaccharide showed chemopreventive
-activity in an in vitro model (Kun et al., 1999).
-
-## Safety
-
-Both PSK and PSP have been through clinical trials with no increases in
-side-effects when combined with traditional chemotherapeutic agents. PSK has
-no substantial effect on immune responses under normal conditions but
-restores immune potential after depression.
-
-## Key Source
-
-Smith, Rowan and Sullivan (2002). [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]: Their therapeutic
-properties and current medical usage with special emphasis on cancer
-treatments. University of Strathclyde.
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[psk-breast-lung-cancer-clinical-trials]]
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
-
-## See Also
-
-- [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
-
-- [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
+been used in [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]. Japanese and Chinese scientists still prefer

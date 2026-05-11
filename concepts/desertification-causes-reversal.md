@@ -10,11 +10,12 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
 
-# [[sepp-holzer-entity]] argues that what are commonly called "natural disasters" such as
+# [[sepp-holzer]] argues that what are commonly called "natural disasters" such as
 floods, droughts, desertification, and fires are not natural at all but the
 logical consequences of erroneous human behaviour over generations. He has
 observed and documented desertification processes across multiple continents

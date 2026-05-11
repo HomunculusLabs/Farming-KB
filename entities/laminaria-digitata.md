@@ -57,7 +57,7 @@ The mineral content is exceptionally high, with potassium (up to 12% dry weight)
 
 Alginic acid (alginate) constitutes 20–30% of dry weight. This polysaccharide has extensive industrial applications as a gelling, thickening, and stabilizing agent in food processing, pharmaceuticals, and cosmetics.
 
-Fucoidan, a sulfated polysaccharide found in the cell walls, exhibits anticoagulant, antitumor, antiviral, and immunomodulatory properties in laboratory studies. Extraction yields vary with season and population.
+Fucoidan, a sulfated polysaccharide found in the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], exhibits anticoagulant, antitumor, antiviral, and immunomodulatory properties in laboratory studies. Extraction yields vary with season and population.
 
 Laminarin, a beta-1,3-glucan storage carbohydrate, demonstrates immunostimulatory and prebiotic activities. It constitutes 5–15% of dry weight during peak storage periods in autumn and winter.
 
@@ -67,7 +67,7 @@ Wild harvesting of *L. digitata* has been practiced for centuries in Ireland, Sc
 
 Mechanical harvesting using cutter-suction vessels has largely replaced manual collection in commercial operations. Vessels cut the stipe above the holdfast, allowing regrowth, and process the biomass onboard.
 
-Cultivation of *L. digitata* is technically feasible but not yet commercially viable at scale. Challenges include the slow growth rate compared to Asian *Laminaria* species and the lack of developed seedling production protocols.
+Cultivation of *L. digitata* is technically feasible but not yet commercially viable at scale. Challenges include the [[holmgren-long-rotation-forestry-slow-growth]] rate compared to Asian *Laminaria* species and the lack of developed [[coleman-sowing-seedling-production]] protocols.
 
 France and Norway are the primary commercial producers. The French industry centers on alginate extraction, while Norway produces both industrial alginate and food-grade kombu products.
 
@@ -77,7 +77,7 @@ Alginate from *L. digitata* is used in wound dressings, dental impressions, tabl
 
 The species has been investigated for bioremediation of coastal waters. Its rapid uptake of nitrogen and phosphorus from seawater makes it a candidate for integrated aquaculture systems designed to reduce nutrient pollution.
 
-Kelp forests provide significant [[biodiversity-of-fungi-ecosystem-services-agriculture]] including coastal protection through wave attenuation, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and habitat provision. *L. digitata* beds are recognized as priority habitats under European conservation directives.
+Kelp forests provide significant [[biodiversity-of-fungi-ecosystem-services-agriculture]] including [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] through wave attenuation, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and habitat provision. *L. digitata* beds are recognized as priority habitats under European conservation directives.
 
 Historically, *L. digitata* was burned to produce kelp ash (potash) for glass manufacture and soap production. This industry was economically important in Scotland and Ireland during the 18th and 19th centuries.
 
@@ -88,33 +88,3 @@ Traditional use of kombu in East Asian medicine includes treatment of goiter (io
 Modern research has validated several pharmacological activities. Alginate from *L. digitata* forms a gel matrix in the stomach that slows glucose absorption, supporting its use in blood sugar management.
 
 Fucoidan extracts demonstrate anticoagulant activity comparable to heparin in vitro, mediated through inhibition of thrombin and factor Xa. This has led to investigation as a heparin alternative in antithrombotic therapy.
-
-Antioxidant activity is primarily attributed to phlorotannins and fucoxanthin. These compounds scavenge reactive oxygen species and reduce lipid peroxidation in cell culture models.
-
-Topical applications of laminarin and fucoidan are being explored for wound healing promotion. The polysaccharides stimulate fibroblast migration and collagen synthesis in vitro, potentially accelerating tissue repair.
-
-## Culinary Use
-
-Kombu from *L. digitata* is a foundational ingredient in Japanese dashi stock, providing glutamic acid (umami flavor) when simmered. European-sourced kombu is used similarly in broth-making and as a flavor enhancer.
-
-Dried strips of kombu are rehydrated before use, swelling 5–10 times their dry volume. They can be added directly to simmering liquids and removed after flavor extraction, or cooked and consumed as a vegetable.
-
-Pickled kombu (kombu-tsukudani) is prepared by simmering strips in soy sauce, sugar, and mirin. This sweet-savory condiment is served with rice in Japanese cuisine and has gained popularity internationally.
-
-The species is also used in Western health food products, including kombu chips, powdered seaweed seasonings, and encapsulated kelp supplements marketed as mineral and iodine supplements.
-
-## See Also
-
-- [[nereocystis-luetkeana]]
-
-- [[adansonia-digitata]]
-
-- [[palmaria-palmata]]
-- [[porphyra-umbilicalis]]
-- [[agaricus-bisporus]]
-- [[eryngium-foetidum]]
-- [[ocimum-basilicum]]
-- [[zingiber-officinale]]
-- [[piper-nigrum-entity]]
-- [[curcuma-longa]]
-- [[capsicum-annuum]]

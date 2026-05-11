@@ -1,5 +1,5 @@
 ---
-title: Critical Haze Strain Profile
+title: Critical Haze Strain Profile Resin Seeds Oner
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_author: S.T. Oner / Resin Seeds
 topics: [cannabis, strain-profile, sativa, amnesia-haze, critical-mass, spanish-genetics, hybrid-vigor]
@@ -26,15 +26,15 @@ The Amnesia Haze parent is specifically the "HP" reverted version (referring to 
 ### Plant Structure
 
 - Medium height with bushy growth habit — more compact than typical Haze-dominant strains
-- Vigorous vegetative growth inherited from the Critical Mass parent
+- Vigorous [[cannabis-vegetative-growth-stage]] inherited from the Critical Mass parent
 - Side branching is more developed than pure sativa lines
-- Structure is bushier and more manageable than heavier sativa strains
-- Responds well to training techniques that maximize light exposure
+- Structure is bushier and more manageable than heavier [[african-landrace-sativa-strains]]
+- Responds well to [[cannabis-sativa-indoor-training-techniques]] that maximize light exposure
 
 ### Cultivation Requirements
 
 - **Light**: Performs best with maximum available light — pack extra T5s or HPS bulbs
-- **Indoor**: Well-suited to indoor cultivation due to manageable height
+- **Indoor**: Well-suited to [[cannabis-sativa-indoor-cultivation-techniques]] due to manageable height
 - **Outdoor**: Excellent in Mediterranean climates; large plants possible
 - **Pest resistance**: Good general resistance to pests
 - **Mold awareness**: The one vulnerability — monitor closely as buds fatten to maturity
@@ -56,7 +56,7 @@ Critical Haze produces visually distinctive colas:
 - **Structure**: Stunning foxtail buds that form in slow motion during the long flowering period
 - **Appearance**: Deep green with a silky-soft velvet texture at maturity
 - **Leaf pattern**: Tear-shaped serrated leaves fan out from the buds in an ornamental display
-- **Trichome coverage**: Heavy resin production consistent with both parent lines
+- **Trichome coverage**: Heavy [[cannabis-glandular-trichome-types-resin-production-clarke]] consistent with both parent lines
 - **Density**: Buds are dense and weighty — the Critical Mass influence is unmistakable
 
 The visual contrast between the Haze-like spear shape and the indica-like bud density is a hallmark of this cross. The buds look like sativas but feel like indicas when handled.
@@ -88,56 +88,3 @@ The visual contrast between the Haze-like spear shape and the indica-like bud de
 - **Potency**: 18-22% THC provides significant psychoactive impact
 
 The balance between the soaring Amnesia Haze cerebral effects and the grounding Critical Mass body influence creates a high that is powerful but not overwhelming. This is a strain that can be enjoyed socially or in focused creative pursuits.
-
-### Therapeutic Applications
-
-- **Mood elevation**: Strong antidepressant potential from the sativa-dominant effects
-- **Creative stimulation**: Haze lineage is traditionally associated with enhanced creativity
-- **Mild pain relief**: The body component provides physical relaxation without sedation
-- **Appetite stimulation**: Consistent with both parent lines
-- **Social anxiety**: The balanced nature may help without causing paranoia
-
-## Resin Seeds: The Breeder
-
-Resin Seeds is a notable Barcelona-based seed bank founded by Jaime:
-
-- One of the first grow shops opened in Spain during the late 1990s
-- Active in the European cannabis community for over two decades
-- Known for expertise in crossing stellar sativas with high-yielding indicas
-- Philosophy focuses on sativa effects with indica-level productivity
-- Regular speakers at cannabis events and participants in European breeding projects
-
-Critical Haze represents the fulfillment of Resin Seeds' breeding philosophy: identifying the specific challenges of sativa cultivation (height, flowering time, yield) and addressing each through strategic indica crosses while preserving the psychoactive character that makes sativas desirable.
-
-## Comparative Analysis
-
-### Versus Amnesia Haze
-
-- Similar psychoactive profile (same Haze lineage)
-- Critical Haze is bushier, shorter, and higher yielding
-- Flowering time is comparable (Amnesia Haze: 12 weeks vs Critical Haze: 10-11)
-- Critical Haze has more body influence in the effects
-
-### Versus Critical Mass
-
-- Dramatically different effects — Critical Mass is indica-dominant and sedating
-- Critical Haze inherits the yield and bud density but not the heavy body stone
-- Critical Haze is more mentally stimulating and creative
-
-## Growing Tips
-
-1. Maximize light intensity throughout the grow for best results
-2. Monitor for mold during weeks 8-11 as dense buds mature
-3. Support heavy colas to prevent branch breakage during late flowering
-4. The 10-11 week flowering period requires patience but rewards it
-5. Humidity control is critical in the final weeks
-6. Allow adequate cure time to develop the full Haze spice flavor complexity
-
-## See Also
-
-- [[amnesia-haze-genetics-cultivation-potency-oner]]
-- [[haze-lineage-and-history]]
-- [[sativa-haze-lineage-breeding-history]]
-- [[cannabis-sativa-breeding-evolution]]
-- [[oner-super-lemon-haze-greenhouse-strain-profile]]
-- [[cannabis-landrace-sativa-growing-challenges]]

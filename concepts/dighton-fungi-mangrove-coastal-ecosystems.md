@@ -21,10 +21,10 @@ type: concept
 Mangrove swamps and coastal ecosystems support distinct fungal
 communities that play essential roles in the decomposition of plant
 litter, nutrient mineralization, and the coupling of terrestrial and
-marine nutrient cycles. As the tropical equivalent of temperate salt
-marsh habitats, mangrove ecosystems harbor unique assemblages of
-ascomycetes, mitosporic fungi, basidiomycetes, and oomycetes that
-drive fungal-decomposition|decomposition processes and influence
+marine [[ozier-pdc-composting-and-nutrient-cycles]]. As the tropical equivalent of temperate salt
+marsh habitats, [[mangrove-ecosystems-and-coastal-restoration]] harbor unique assemblages of
+ascomycetes, [[mitosporic-fungi-diversity-species-estimates]], basidiomycetes, and oomycetes that
+drive fungal-decomposition|[[fungal-decomposition-processes]] and influence
 nutrient export to near-shore marine environments.
 
 ## Mangrove Fungal Communities
@@ -57,7 +57,7 @@ Halophytophthora) do not contain ergosterol.
 
 Newell and Fell (1992) documented significant changes in fungal biomass
 during decomposition of red mangrove leaves. Lulworthia grandispora,
-an ascomycete, may comprise 50% of the fungal community. Mangrove
+an ascomycete, may comprise 50% of the [[biodiversity-fungal-community-assembly]]. Mangrove
 leaves rapidly accumulate large populations of oomycete fungi
 (Halophytophthora spp.) during initial decomposition stages.
 
@@ -88,57 +88,3 @@ demonstrating the trophic significance of fungal decomposer activity.
 Fungi in salt marsh ecosystems must tolerate periodic tidal flooding
 and fluctuating salinity. Fungi do not grow in entirely anaerobic
 conditions but can grow from aerobic to anaerobic zones over distances
-of 5 to 10 mm in 15 days from resources in the aerobic zone (Padgett
-and Celio, 1990). This evidence shows that fungi can conduct oxygen
-from aerobic regions through hyphae to advancing mycelial fronts that
-remain physiologically active in decomposition within anaerobic zones.
-
-## Nutrient Export to Marine Environments
-
-Export of plant detritus from mangrove ecosystems to the oceans is an
-important contribution to marine nutrient loading (Lee, 1995). The
-decomposition of plant litter in coastal communities and consequent
-nutrient mineralization supplies nutrients to the ocean. Outwellings
-from mangrove swamps can transfer between 60 and 260 tonnes per year
-of carbon, exported mainly as [[dighton-fungal-dissolved-organic-carbon-production]] carbon (DOC). This
-process represents a significant component of nutrient additions to
-near-shore waters in which fungi play a major role.
-
-Hyde and Lee (1995) note that the end product of [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-in mangrove systems is likely dissolved [[hamilton-composting-and-organic-matter-management]] rather than
-particulate organic matter, and there is still limited understanding
-of the origins and movement of dissolved organic matter in marine
-estuarine ecosystems. Rates of chemical transformations are dependent
-upon the age of the mangrove stand, the diversity of mangrove and
-terrestrial tree flora, and the proportion of various microhabitats
-within an area.
-
-## Fungal Dispersal via Mangrove Propagules
-
-The mangrove tree (Rhizophora mangle) produces viviparous seedlings
-that develop as the fruit germinates on the tree, then falls into the
-water and is carried by currents. These drifting seedlings serve as
-vehicles for dispersal of marine fungi. Kohlmeyer and Kohlmeyer (1979)
-report instances where Keissleriella blepharospora and Lulworthia
-spp. have been transported from the tropics to the coast of North
-Carolina by the Gulf Stream, demonstrating the role of mangrove
-ecosystems in fungal biogeography.
-
-## Knowledge Gaps
-
-Despite the ecological importance of fungi in mangrove and coastal
-ecosystems, significant gaps remain in understanding. The rates of
-chemical transformations, the factors controlling fungal community
-composition, and the fate of dissolved organic matter produced by
-fungal decomposition all require further investigation. The role of
-fungi in mediating nutrient fluxes between terrestrial and marine
-environments remains an area of active research with important
-implications for coastal management and conservation.
-
-## See Also
-
-- [[dighton-fungi-boreal-tundra-ecosystems]]
-
-- [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[dighton-fungal-biomass-production-aquatic-ecosystems]]
-- [[fungal-decomposition]]

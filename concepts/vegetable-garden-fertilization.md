@@ -98,6 +98,33 @@ Based on 9-inch plow depth, 100% calcium carbonate equivalent limestone.
 ### Rotation Strategy
 Plant half the garden to winter green manure (Sep/Oct), apply well-rotted manure to the other half, fall-plow. Rotate areas yearly.
 
+
+## Design Applications
+Permaculture design principles emphasize multi-functional elements,
+efficient energy cycling, and working with natural patterns rather
+than against them. Integration with existing landscape features
+maximizes productivity while minimizing external inputs.
+
+
+## Implementation Notes
+Practical implementation requires site-specific adaptation considering
+local climate, soil conditions, available resources, and the grower's
+experience level. Observation and iterative refinement over multiple
+seasons produce the most resilient and productive systems.
+
+## Practical Application
+Soil management practices directly impact plant health, yield,
+and ecosystem resilience. Integration of organic amendments with
+biological inoculants creates self-sustaining fertility cycles
+that reduce dependence on external inputs over time.
+
+
+## See Also
+- [[purdue-four-step-garden-fertilization-program]]
+- [[vegetable-garden-harvest]]
+- [[vegetable-garden-watering-systems-spacing]]
+- [[query-how-do-i-choose-the-right-irrigation-method-for-my-vegetable-garden]]
+- [[vegetable-garden-guide]]
 ## See Also
 
 - [[vegetable-garden-guide]] — Site selection, planting guide, techniques, and harvest
@@ -105,3 +132,4 @@ Plant half the garden to winter green manure (Sep/Oct), apply well-rotted manure
 - [[interpreting-soil-test-results]] — Understanding soil test reports
 - [[soil-fertility-management]] — Organic fertility management
 - [[cover-cropping-guide]] — Green manures and cover crops
+

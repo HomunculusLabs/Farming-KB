@@ -17,7 +17,7 @@ mushrooms in the Northern Hemisphere. Found across temperate and boreal
 forests of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, it fruits on dead hardwoods
 and occasionally conifers. The species is of significant scientific
 interest due to its consistent and intense bioluminescence, which has
-made it a model organism for studying fungal luciferin-luciferase
+made it a [[canary-grass-phototropism-model-organism]] for studying fungal luciferin-luciferase
 systems. Unlike many [[bloomfield-bioluminescent-fungi-overview]], P. stipticus reliably
 produces visible greenish light in laboratory culture, enabling detailed
 investigation of the enzymatic and genetic basis of fungal
@@ -34,7 +34,7 @@ bioluminescence.
 - **Common names:** bitter oyster, luminescent panellus, glowing mushroom
 
 The epithet "stipticus" refers to astringent (styptic) properties —
-historically, dried fruiting bodies were used to staunch bleeding wounds
+historically, dried [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] were used to staunch bleeding wounds
 in European folk medicine. The genus was transferred from Pleurotus to
 Panellus by Petter Karsten in 1879 based on spore and gill differences.
 
@@ -53,7 +53,7 @@ Panellus by Petter Karsten in 1879 based on spore and gill differences.
 | Stem | 0.3–1 cm, lateral, tough and fibrous |
 | Flesh | Thin, tough, cartilaginous, white |
 | Taste | Very bitter and astringent |
-| Spore print | White |
+| [[boil-a-bag-spore-print-technique-jarrold]] | White |
 
 ### Microscopic Features
 
@@ -68,7 +68,7 @@ Panellus by Petter Karsten in 1879 based on spore and gill differences.
 
 ## Distribution and Habitat
 
-- **Range:** North America (Alaska to Mexico), Europe (Scandinavia to
+- **Range:** [[guzman-psilocybin-mushrooms-north-america]] (Alaska to Mexico), Europe (Scandinavia to
   Mediterranean), temperate Asia (Japan, Korea, China, Russia).
 - **Substrate:** Saprotrophic on dead hardwoods — oak, beech, birch,
   maple, ash. Occasionally on conifer stumps.
@@ -77,7 +77,7 @@ Panellus by Petter Karsten in 1879 based on spore and gill differences.
 - **Season:** Late summer through autumn (August–November), persisting
   through winter in milder climates.
 - **Habitat:** Deciduous and mixed forests, parks. Prefers moist,
-  shaded environments with abundant coarse woody debris.
+  shaded environments with abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]].
 
 ## Bioluminescence
 
@@ -87,61 +87,3 @@ primarily in gill tissue, appearing as a steady green glow (~525 nm)
 visible in complete darkness with dark-adapted eyes. Under ideal
 conditions with multiple fruiting bodies, the glow has been reported
 bright enough to read text by.
-
-### Biochemistry of Light Production
-
-- **Luciferin:** A fungal luciferin (hispidin derivative), distinct from
-  bacterial, dinoflagellate, and firefly luciferins.
-- **Luciferase:** Hispidin-3-hydroxylase (H3H) catalyzes oxidation of
-  hispidin to 3-hydroxyhispidin, emitting photons upon decomposition.
-- **Co-factors:** Molecular oxygen (O₂) and NADPH required.
-- **Circadian regulation:** Light emission follows a diurnal rhythm with
-  peak bioluminescence at night, regulated by circadian clock genes.
-- **Ecological function:** Insect attraction for spore dispersal,
-  oxidative photoprotection, and [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] byproduct are
-  leading hypotheses for the adaptive significance.
-
-### Geographic Variation
-
-[[growing-gourmet-north-american-reishi-species]] and European strains are consistently bioluminescent,
-while some Asian strains show reduced or absent luminescence. Genetic
-studies suggest luciferase genes are present but differentially
-regulated, offering a natural model for studying evolution and loss of
-bioluminescence.
-
-## Ethnobotanical Notes
-
-In European folk medicine, the bitter fruiting bodies were applied as a
-styptic to wounds, and dried caps were carried as field dressings. The
-bitter taste is attributed to stiptic acid. P. stipticus has been a
-laboratory model for bioluminescence research since the 1960s, with
-major advances in the 2010s when the complete luciferase pathway was
-characterized and heterologously expressed in other organisms.
-
-## Cultivation
-
-- **Substrate:** Sterilized hardwood sawdust (oak, beech) with bran.
-- **Conditions:** 18–22°C, 85–95% humidity, day-night temperature
-  fluctuation for optimal fruiting.
-- **Bioluminescence in culture:** Maintained reliably in vitro.
-- **Difficulty:** Easy on [[oyster-mushroom-supplemented-sawdust-blocks]]. Not commercially
-  cultivated for food due to tough texture and bitter taste.
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| Panellus serotinus | Larger cap, orange-brown, less luminescent |
-| Pleurotus ostreatus | Much larger, edible, not bioluminescent |
-| Crepidotus spp. | Brown spore print, not bioluminescent |
-| Hohenbuehelia spp. | Gelatinous context layer, not luminescent |
-
-## Edibility
-
-Technically non-toxic but considered inedible due to extremely tough,
-cartilaginous texture and intensely bitter, astringent taste.
-## See Also
-
-- [[pleurotus-ostreatus]]
-- [[ganoderma-lucidum]]
-- [[beta-glucans]]

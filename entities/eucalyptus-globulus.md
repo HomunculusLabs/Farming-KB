@@ -8,7 +8,7 @@ tags:
   - essential-oil
   - myrtaceae
   - australia
-  - agroforestry
+  - [[agroforestry]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -29,9 +29,9 @@ It is native to southeastern Australia, including Tasmania, Victoria, and New So
 
 The species is the most widely planted eucalypt worldwide, cultivated across temperate and subtropical regions.
 
-Eucalyptus globulus is the primary commercial source of eucalyptus essential oil.
+Eucalyptus globulus is the primary commercial source of eucalyptus [[permaculture-designers-manual-essential-oil-plants]].
 
-The oil contains high concentrations of 1,8-cineole (eucalyptol), responsible for its characteristic medicinal aroma.
+The oil contains high concentrations of 1,8-cineole ([[eucalyptol]]), responsible for its characteristic medicinal aroma.
 
 The tree can reach heights of 30–55 meters in its native habitat, with exceptional specimens exceeding 70 meters.
 
@@ -67,7 +67,7 @@ The tree develops a deep and extensive root system, contributing to its [[dighto
 
 Native populations are concentrated in Tasmania and the coastal ranges of Victoria.
 
-Natural habitats include wet sclerophyll forests, mountain valleys, and coastal ridges.
+[[mushroom-natural-habitats]] include wet sclerophyll forests, mountain valleys, and coastal ridges.
 
 The species thrives in areas with 600–1400 mm annual rainfall and mild, frost-free winters.
 
@@ -87,62 +87,4 @@ The essential oil of *E. globulus* is composed primarily of oxygenated monoterpe
 
 **1,8-Cineole (eucalyptol)** constitutes 60–85% of the essential oil.
 
-Other significant constituents include α-pinene (5–15%), limonene (5–10%), and p-cymene.
-
-β-Pinene, globulol, and eudesmol are present in minor amounts.
-
-1,8-Cineole is responsible for the species' expectorant, anti-inflammatory, and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
-
-The oil has demonstrated activity against respiratory pathogens including *Streptococcus pneumoniae* and *Haemophilus influenzae*.
-
-Topical application produces a cooling sensation via TRPM8 receptor activation, similar to menthol.
-
-Ingestion of concentrated oil is toxic and can cause seizures, particularly in children.
-
-Standardized eucalyptus oil preparations are approved for use in cough suppressants and decongestants.
-
-The leaves also contain tannins and flavonoids with documented antioxidant activity.
-
-## Cultivation and Harvest
-
-*E. globulus* is cultivated commercially for timber, pulp, and essential oil production.
-
-Plantations are established from seed, with germination occurring within 2–3 weeks under warm, moist conditions.
-
-Seedlings are typically planted at spacings of 2–4 meters for timber production.
-
-Growth rates are exceptionally fast, with mean annual increments of 15–40 m³/ha/year.
-
-Rotation lengths for pulp production are 8–12 years; timber rotations extend to 20–30 years.
-
-Essential oil is extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh or partially dried leaves.
-
-Yield of essential oil ranges from 1–3% of fresh leaf weight.
-
-Oil yield and cineole content are highest in young leaves from actively growing shoots.
-
-The species coppices readily, allowing multiple harvest cycles from a single planting.
-
-In agroforestry systems, *E. globulus* provides windbreaks, [[permplant-willows-salix-erosion-control-fodder]], and shade.
-
-However, its allelopathic leaf litter can suppress understory vegetation and reduce biodiversity.
-
-## Traditional and Modern Uses
-
-Aboriginal Australians traditionally used *E. globulus* leaves for respiratory complaints and wound treatment.
-
-Leaves were crushed and inhaled to relieve congestion or applied as poultices to injuries.
-
-The species was introduced to Europe in the 1850s and quickly became a standard medicinal plant.
-
-## See Also
-
-- [[khaya-senegalensis]]
-
-- [[eucalyptus-camaldulensis]]
-
-- [[cymbopogon-citratus]]
-- [[mentha-piperita]]
-- [[thymus-vulgaris-entity]]
-- [[pinene]]
-- [[agroforestry]]
+Other significant constituents include α-pinene (5–15%), [[limonene]] (5–10%), and p-cymene.

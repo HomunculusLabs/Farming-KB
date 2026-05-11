@@ -88,13 +88,3 @@ The relative humidity in the growing room should be lowered to 80% for 4-8 hours
 ## Medicinal Properties
 
 Chen (1992) reported that studies at the Third People's Hospital of Shanghai showed H. erinaceus, in tablet form, proved effective on "ulcers, inflammations, and tumors of the alimentary canal." Ingestion has been shown to extend the life of cancer-ridden patients. A patent awarded in Japan showed this mushroom produces erinacines which are strong stimulators to nerve growth factor synthesis (Kawagishi et al. 1994).
-
-## Cooking
-
-Cut the mushrooms transverse to the spines into dials and cook at high heat in canola oil until the moisture has been reduced and the dials are light golden brown. Garlic, onions, and almonds also go well with this mushroom. The addition of a small amount of butter near the end of the cooking cycle brings out the lobster flavor.
-
-See also: [[king-oyster-cultivation]], [[shiitake-cultivation-log-method]], mushroom-post-harvest-handling, [[gourmet-mushroom-enriched-sawdust-cultivation]]
-
-## See Also
-
-- [[comparison-lions-mane-vs-cordyceps-cultivation]]

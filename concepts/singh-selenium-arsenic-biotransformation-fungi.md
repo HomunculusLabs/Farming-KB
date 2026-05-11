@@ -1,8 +1,8 @@
 ---
-title: Selenium and singh selenium arsenic biotransformation fungi by Fungi
+title: Singh Selenium Arsenic Biotransformation Fungi
 created: 2026-04-28
 tags:
-  - mycoremediation
+  - [[mycoremediation]]
   - selenium
   - arsenic
   - metalloid-transformation
@@ -18,7 +18,7 @@ type: concept
 
 Selenium and arsenic are metalloids posing significant environmental and
 health risks due to their toxicity and widespread distribution. Fungi
-play critical roles in their biogeochemical cycling, mediating
+play critical roles in their [[gadd-fungal-metal-transformations-biogeochemical-cycling]], mediating
 oxidation-reduction reactions, methylation-demethylation processes, and
 volatilization pathways that form the basis of [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 strategies.
@@ -88,38 +88,3 @@ Fungi manage arsenite toxicity through multiple strategies:
 - **Aquaglyceroporin efflux pumps**: Facilitate arsenite export from
   cells (e.g., Fps1p in yeast)
 - **Phytochelatin complexation**: As(III)-PC complexes sequestered in
-  vacuoles, analogous to [[singh-fungal-biosorption-reactors-heavy-metals]].
-
-## Key Fungal Genera in Metalloid Transformation
-
-| Fungal Genus | Selenium Role | Arsenic Role |
-|---|---|---|
-| *Fusarium* | Reduction, volatilization | Reduction, methylation |
-| *Penicillium* | Reduction, SeNP synthesis | Reduction, biosorption |
-| *Aspergillus* | Reduction, bioaccumulation | Reduction, efflux |
-| *Trichoderma* | Reduction, tolerance | Phytochelatin binding |
-| *Saccharomyces* | Reduction, volatilization | Well-characterized genetics |
-| *Scopulariopsis* | Limited data | Methylation, TMA production |
-
-## Applications in Remediation
-
-### Mycofiltration and Soil Bioremediation
-
-Mycelial barriers in [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]] reduce
-metalloid translocation to plant shoots, supporting
-[[singh-fungal-bioreactor-types-configurations]] packed with [[bioremediation-fungal-biomass-biosorbent-material]] achieve high
-removal efficiencies from [[fungal-industrial-wastewater-treatment]].
-
-### Tolerance Mechanisms
-
-Fungi tolerate high metalloid concentrations through antioxidant defenses
-(superoxide dismutase, catalase, glutathione peroxidase), metallothionein
-production, upregulated efflux transporters, and extracellular polymeric
-substance production limiting metalloid uptake.
-
-## See Also
-
-- [[singh-microplastic-degradation-fungi]]
-
-- [[singh-fungal-transformation-metals-metalloids]]
-- [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]]

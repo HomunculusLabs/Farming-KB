@@ -1,8 +1,8 @@
 ---
-title: High Island [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+title: [[mollison-pdc-arid-landscape-settlement]] High [[mollison-pdc-low-island-design]]
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - islands
   - [[watershed-management]]
   - keyline
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -87,24 +88,3 @@ cross-wind patterns, sometimes only ten feet apart:
 ## Stream Openings and Harbors
 
 Fringing coral reefs disappear opposite streams on tropical islands
-because coral cannot tolerate fresh water. These natural openings in
-the reef serve as vessel entries to harbors. This is relevant to house
-siting -- never build opposite a stream mouth where tidal wave energy
-concentrates.
-
-## Design Principles for High Islands
-
-1. Keep upland slopes forested to maintain water generation
-2. Play climate games downhill from cool to tropical
-3. Study and adapt the Ohana watershed-to-reef management model
-4. Use keyline terracing for water distribution across slopes
-5. Enclose nutrient flows at the sea edge for aquaculture
-6. Site dwellings on sub-ridges, never in valley floors
-7. Respect reef openings as natural harbors and wave concentration
-  points
-8. Use cross-wind rock mulch walls for dryland crop establishment
-9. Design for the periodicity of tidal waves and volcanic mud flows
-## See Also
-
-- [[mollison-designers-high-island-and-tropical-valley-design]]
-- [[mollison-pdc-solar-greenhouse-design]]

@@ -87,23 +87,3 @@ to counteract alkalinity. Ensure the soil is moist before
 applying mulch as it will absorb surface water.
 
 ## When to Mulch
-
-Mulching is normally carried out in spring. Make sure the
-soil is moist before application. In the vegetable plot,
-organic matter is dug in during fall and used as mulch
-during the growing season. Around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], apply a
-wide band of manure or compost, as feeding roots extend
-to the outer limits of the branches.
-
-## Using Mulch with Deep Beds
-
-Paper mulch is ideal for deep beds. Lay it on leveled
-soil, anchor edges, and plant through pre-cut slits.
-After harvest, cultivate or dig the paper into the soil
-where it will rot down. This is particularly useful for
-potatoes, which will not need earthing up when grown
-through plastic or paper mulch.
-
-## [[composting-organic-garden]]
-- [[soil-health-management]]
-- [[organic-pest-disease-control]]

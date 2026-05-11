@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Dahlia pinnata** is a species of flowering plant in the aster family, Asteraceae, native to the mountainous regions of Mexico and Central America. It is one of the parent species of the modern cultivated dahlia, which encompasses over 57,000 registered cultivars worldwide.
+**Dahlia pinnata** is a species of flowering plant in the aster family, Asteraceae, native to the mountainous regions of Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. It is one of the parent species of the modern cultivated dahlia, which encompasses over 57,000 registered cultivars worldwide.
 
 The species is commonly known as the garden dahlia or pinnate dahlia, referring to the divided, pinnate leaf arrangement. Wild-type plants produce single-row flower heads with 8–12 ray florets surrounding a central disc of yellow tubular florets.
 
@@ -41,7 +41,7 @@ Dahlias hold significant cultural importance in many countries and are the natio
 - **Species:** D. pinnata
 - **Authority:** Cav. (1791)
 
-The genus Dahlia contains approximately 42 species distributed primarily in Mexico, with some species extending into Central America as far south as Colombia. The taxonomy of the genus has been extensively revised, with many early species names now considered synonyms.
+The genus Dahlia contains approximately 42 species distributed primarily in Mexico, with some species extending into [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] as far south as Colombia. The taxonomy of the genus has been extensively revised, with many early species names now considered synonyms.
 
 Dahlia pinnata is a tetraploid species with a chromosome count of 2n=32. The polyploid nature of many Dahlia species has contributed to the extraordinary morphological diversity observed in cultivated forms through hybridization and chromosome doubling.
 
@@ -59,7 +59,7 @@ The foliage texture varies from medium green to dark green, with some cultivars 
 
 The involucral bracts form a bell-shaped structure behind the flower head, with 8–12 overlapping bracts. Ray florets are typically lavender-purple in the wild species, while cultivated forms span virtually every color except true blue.
 
-**Roots** are tuberous, forming a cluster of fleshy, elongated storage organs at the base of the stem. These tubers store nutrients over winter and produce new shoots in spring, enabling vegetative propagation.
+**Roots** are tuberous, forming a cluster of fleshy, elongated storage organs at the base of the stem. These tubers store nutrients over winter and produce new shoots in spring, enabling [[hamilton-vegetative-propagation]].
 
 Individual tubers range from 5–20 cm in length and are irregularly shaped, with a thin skin that is easily damaged during handling. Each tuber must contain at least one viable bud (eye) at the crown to produce new growth.
 
@@ -71,43 +71,20 @@ The species prefers well-drained volcanic soils in open, sunny situations with m
 
 Wild populations of Dahlia pinnata have become increasingly rare due to habitat destruction and over-collection. Conservation efforts in Mexico have focused on protecting remaining wild populations in designated natural areas.
 
-Several wild Dahlia species are listed as endangered or critically endangered on the IUCN Red List. Ex situ conservation through botanical garden collections and seed banks provides an additional safeguard against extinction of wild genetic resources.
+Several wild Dahlia species are listed as endangered or critically endangered on the IUCN Red List. Ex situ conservation through botanical garden collections [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] provides an additional safeguard against extinction of wild genetic resources.
 
 Associated species in wild populations include Mexican pines (Pinus species), oaks (Quercus species), and various grasses and wildflowers of the montane meadow community. The species tolerates light frost but is killed by prolonged freezing temperatures.
 
 ## Cultivation
 
-Dahlias prefer full sun and rich, well-drained soils with a pH between 6.0 and 7.5. They require consistent moisture during the growing season but are susceptible to rot in waterlogged conditions.
+Dahlias prefer full sun and rich, well-drained soils with a pH between 6.0 and 7.5. They require consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] but are susceptible to rot in waterlogged conditions.
 
-Tubers are planted in spring after the danger of frost has passed, at a depth of 10–15 cm with the growing point (eye) facing upward. In cold climates, tubers must be lifted and stored over winter in a cool, dry location.
+Tubers are planted in spring after the danger of frost has passed, at a depth of 10–15 cm with the growing point (eye) facing upward. [[query-how-do-i-grow-figs-in-cold-climates]], tubers must be lifted and stored over winter in a cool, dry location.
 
 Pinching the growing tips when plants reach 30–45 cm in height encourages lateral branching and more flower production. Disbudding — removing the smaller lateral buds — produces larger central flowers for exhibition purposes.
 
-Deadheading spent flowers promotes continued blooming from midsummer through the first autumn frosts. A single plant may produce dozens of flower heads over the course of a growing season under favorable conditions.
+Deadheading spent flowers promotes continued blooming from midsummer through the first autumn frosts. A single plant may produce dozens of flower heads over the course of a [[extending-growing-season]] under favorable conditions.
 
 Fertilization with a low-nitrogen, high-phosphorus formula promotes flowering rather than excessive foliage growth. Excessive nitrogen produces tall, floppy plants with fewer blooms and weaker stems.
 
-Common pests include aphids, spider mites, thrips, and earwigs, which may damage both foliage and flower buds. Fungal diseases such as powdery mildew, botrytis, and verticillium wilt can affect plants in humid conditions with poor air circulation.
-
-## Ecological Role
-
-Dahlia flowers are attractive to a wide range of pollinators, including bees, butterflies, and hoverflies. The open-centered single forms provide accessible nectar and pollen, while the highly doubled cultivars offer limited pollinator value.
-
-The tuberous roots are a food source for various soil organisms including nematodes and wireworms. In its native range, wild Dahlia species are browsed by deer and other herbivores.
-
-Dahlias have been used in phytoremediation studies to assess soil contamination, as the tubers can accumulate certain heavy metals from the soil. This property has potential applications in environmental monitoring of contaminated sites.
-
-The Aztecs used dahlia tubers as a food source, and the tubers contain inulin, a fructose polymer that serves as a low-calorie sweetener. Modern interest in inulin-rich crops has renewed attention to dahlias as a potential agricultural crop.
-
-Dahlia petals are edible and have been used as a garnish and decorative element in culinary applications. The flowers contain antioxidants and flavonoids that have been investigated for potential health benefits in preliminary studies.
-
-## See Also
-
-- [[coreopsis-grandiflora]]
-- [[echinacea-purpurea]]
-- [[helianthus-annuus-entity]]
-- [[rudbeckia-fulgida]]
-- [[tagetes-lucida]]
-- [[tagetes-minuta]]
-- [[xanthosoma-sagittifolium]]
-- [[yucca-filamentosa]]
+Common pests include aphids, [[cervantes-spider-mites-identification-control]], thrips, and earwigs, which may damage both foliage and flower buds. [[duggar-mushroom-insect-pests-and-fungal-diseases]] such as [[cervantes-powdery-mildew-prevention-treatment]], botrytis, and verticillium wilt can affect plants in humid conditions with poor [[stamets-growing-room-air-circulation-co2-management]].

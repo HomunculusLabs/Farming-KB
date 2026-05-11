@@ -39,8 +39,8 @@ of addiction or abuse.
 
 ## Evidence from The Cannabis Health Index
 
-Blesching assigns a combined CHI value of 11 from 4 studies reviewed for
-cough, indicating moderate evidence of therapeutic potential.
+Blesching assigns a combined [[blesching-cannabis-prostate-cancer-chi-value-3]] of 11 from 4 studies reviewed for
+cough, indicating moderate evidence of [[metzner-ayahuasca-therapeutic-potential]].
 
 ## Cannabis and Cough
 
@@ -88,32 +88,3 @@ exposure to cannabis produces bronchodilation.
 While smoke of any kind may cause cough, spasm, reduced lung function,
 and/or disease over long periods, intravenous THC is anti-tussive in
 [[hofmann-lsd-animal-experiments-toxicity]] but has not been tested in humans. Vaporizers that
-heat cannabis to 350 degrees F do not burn the plant material or produce
-smoke, yet released THC and other cannabinoids may mitigate the irritation
-of smoke. The efficacy of taking cannabis-infused oils by mouth has yet
-to be studied. Oromucosal sprays have been invented (UC Berkeley, U.S.
-Government 2006) and can be purchased at some dispensaries.
-
-### Study Summary
-
-| Drug            | Type          | Year, Place, and Key Results                      | CHI |
-|-----------------|---------------|---------------------------------------------------|-----|
-| Tobacco,        | Survey of 878 | 2009, Vancouver: Smoking only tobacco (not         | 3   |
-| cannabis        | people        | marijuana) was associated with respiratory        |     |
-|                 |               | symptoms                                          |     |
-| Smoked cannabis | Meta-analysis | 2007, Multi-institutional: Short-term use         | 3   |
-|                 | of 34 studies | produces bronchodilation; long-term effects       |     |
-|                 |               | inconclusive                                      |     |
-
-**Total CHI Value: 11** (additional studies contributing to the
-combined total)
-
-## Related Topics
-
-- [[cannabis-and-asthma]] - Bronchodilatory effects of cannabis
-  on airways
-- [[blesching-cannabis-viral-infections]] - Viral causes of cough
-- respiratory conditions - Broader respiratory
-  applications
-- [[endocannabinoid-system-overview]] - Cannabinoid receptor
-  distribution in the respiratory tract

@@ -12,7 +12,7 @@ The rhizosphere is the narrow zone of soil immediately influenced by plant roots
 typically extending a few millimeters from the root surface. In Cannabis, as in all
 plants, the rhizosphere represents a hotspot of microbial activity driven by the
 continuous release of root exudates — sugars, amino acids, organic acids, and other
-compounds that fuel microbial growth. The Cannabis rhizosphere microbiome was first
+compounds that fuel microbial growth. The [[cannabis-rhizosphere-microbiome]] was first
 characterized alongside the endorhiza and bulk soil communities by Winston et al. (2014).
 
 ## The Rhizosphere Effect
@@ -28,7 +28,7 @@ arises from:
 - **Root oxygenation:** Roots release oxygen into otherwise anoxic soil, creating
   aerobic microsites that support a different microbial community than bulk soil
 - **pH modification:** Root exudates, particularly organic acids, can alter local
-  soil pH by 0.5-2 units, shifting microbial community composition
+  soil pH by 0.5-2 units, shifting microbial [[core-endorhiza-bacterial-community-composition-cannabis]]
 - **Water uptake patterns:** Roots create moisture gradients that affect microbial
   distribution
 
@@ -36,7 +36,7 @@ arises from:
 
 The rhizosphere occupies an intermediate position in the two-tier selection model:
 
-- **Compositionally closer to bulk soil than endorhiza:** Beta diversity distances
+- **Compositionally closer to bulk soil than endorhiza:** [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
   between rhizosphere and bulk soil were significantly lower than distances between
   rhizosphere and endorhiza (t = 24.59, p < 0.001 unweighted; t = 211.82, p < 0.001
   weighted), confirming the rhizosphere's intermediate character
@@ -69,7 +69,7 @@ Rhizosphere communities are highly dynamic, responding to:
 In the pooled Cannabis dataset, sample type was a significant factor in community
 differentiation, but its effect was smaller than either soil type or cultivar strain:
 
-- **Weighted UniFrac ADONIS:** Soil type R² = 0.323, Strain R² = 0.301, Sample
+- **[[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] ADONIS:** Soil type R² = 0.323, Strain R² = 0.301, Sample
   type R² = 0.229 (all p = 0.001)
 - **[[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] ADONIS:** Soil type R² = 0.196, Strain R² = 0.178, Sample
   type R² = 0.086 (all p = 0.001)
@@ -81,58 +81,10 @@ endorhiza.
 
 ## Microbial Functional Roles in the Cannabis Rhizosphere
 
-Rhizosphere bacteria contribute to Cannabis health and productivity through:
+[[lowenfels-rhizosphere-bacteria-plant-interaction]] contribute to Cannabis health and productivity through:
 
 ### Nutrient Cycling
 - **Nitrogen mineralization:** Converting organic nitrogen to plant-available
   ammonium and nitrate
 - **[[fungal-roles-in-phosphorus-solubilization]]:** Dissolving insoluble phosphates through organic
   acid production, making phosphorus available for root uptake
-- **Iron chelation:** Siderophore production sequesters iron and makes it available
-  to plant roots
-
-### Plant Growth Promotion
-- **Indole-3-acetic acid (IAA) production:** A plant auxin that stimulates root
-  growth and branching, expanding the plant's ability to explore soil
-- **ACC deaminase activity:** Breaking down the ethylene precursor ACC, reducing
-  stress ethylene levels in the plant
-- **Volatile organic compound emission:** Some rhizobacteria emit growth-stimulating
-  VOCs that can trigger priming of plant defenses
-
-### Biocontrol
-- **Antibiotic production:** Many rhizosphere Pseudomonas species produce
-  antibiotics such as 2,4-diacetylphloroglucinol (DAPG) that suppress soilborne
-  pathogens
-- **Competition for nutrients and niche space:** Dense rhizosphere communities
-  occupy ecological niches that might otherwise be exploited by pathogens
-- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR):** Rhizosphere microbes can trigger plant
-  immune responses that protect above-ground tissues as well
-
-## Sampling Methodology
-
-Rhizosphere samples are collected by a specific protocol:
-
-1. Plants are carefully excavated from the soil
-2. Roots with adhering soil are placed in a sterile whirlpak bag
-3. The bag is shaken vigorously to dislodge soil particles that are not tightly
-  bound to the root surface
-4. The dislodged soil constitutes the rhizosphere sample
-5. Samples are immediately transferred to 4°C storage for transport to the lab
-6. Triplicate samples are collected from each plant to account for [[fungal-wood-decomposition-spatial-variation]]
-
-## Key Differences from Endorhiza
-
-| Feature | Rhizosphere | Endorhiza |
-|---|---|---|
-| Location | Outside root, in soil | Inside root tissue |
-| Primary shaping factor | Soil edaphic properties | Plant genotype |
-| Alpha diversity | Moderate (chao1 ~4525) | Low (chao1 ~3321) |
-| Community overlap with bulk soil | High (r = 0.92) | Low (r = 0.42) |
-| [[cannabis-microbiome-cultivar-specificity]] | Weak | Strong |
-| Acidobacteria abundance | Moderate | Dramatically reduced |
-
-## See Also
-
-- [[two-tier-selection-model-plant-microbiome]]
-- [[cannabis-endorhiza-microbiome]]
-- [[edaphic-factors-microbial-community-structure]]

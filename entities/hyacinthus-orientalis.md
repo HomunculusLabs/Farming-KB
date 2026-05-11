@@ -55,7 +55,7 @@ The wild form of *H. orientalis* is native to southern Turkey, northwestern Syri
 
 Wild populations grow on rocky hillsides, open scrubland, and stony meadows at elevations of 100–2,000 meters. The species prefers well-drained, calcareous soils in full sun.
 
-Mediterranean climate with cool, moist winters and hot, dry summers is ideal for the species' growth cycle. The plant completes its above-ground growth and flowering during the cool season before entering summer dormancy.
+Mediterranean climate with cool, moist winters and hot, dry summers is ideal for the species' [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]. The plant completes its above-ground growth and flowering during the cool season before entering summer dormancy.
 
 Wild hyacinths are adapted to survive prolonged drought by retreating completely underground. The bulb's tunic provides additional protection against desiccation during the dry season.
 
@@ -89,31 +89,6 @@ The bulbs were considered so valuable that single rare cultivars changed hands f
 
 Hyacinth perfumery reached its peak in the late 19th and early 20th centuries. The flowers yield an absolute used in high-end perfumes, though synthetic replacements have largely supplanted natural hyacinth extract in modern fragrance production.
 
-## Pests and Diseases
-
-**Gray mold** (*Botrytis cinerea* and *B. hyacinthi*) causes brown lesions on flowers and foliage, particularly under humid conditions. Infected florets become soft and brown, and the fungus can spread rapidly through dense flower spikes.
-
-**Bulb rot** (*Fusarium oxysporum*) causes a pinkish-brown decay of the bulb scales, often producing a characteristic sour odor. The pathogen spreads through contaminated soil and infected planting stock.
-
-Infected bulbs should be removed immediately and the planting site should not be replanted with hyacinths for at least three years. Hot water treatment of bulbs at 43°C for 1 hour can reduce but not eliminate fusarium infection.
-
-**Yellow stripe virus** causes yellow streaking and mottling on leaves, stunting growth and reducing flower quality. It is transmitted by aphids and has no cure once plants are infected.
-
-Virus-infected bulbs should be destroyed rather than composted, as the pathogens persist in plant debris. Purchasing certified virus-free bulbs is the most effective preventive measure.
-
-Major arthropod pests include bulb mites (*Rhizoglyphus* spp.), narcissus bulb fly (*Merodon equestris*), and aphids. Bulb mites feed on the basal plate, creating entry wounds for secondary fungal pathogens.
-
-The narcissus bulb fly larva burrows into the bulb, consuming the interior tissue and leaving a foul-smelling, spongy mass. Infested bulbs often fail to sprout or produce weak, stunted growth.
-
 ## See Also
-
-- [[narcissus-pseudonarcissus]]
-- [[galanthus-nivalis]]
-- [[tulipa-gesneriana]]
-- [[crocus-sativus]]
-- [[convallaria-majalis]]
-- [[allium-schoenoprasum]]
-- [[digitalis-purpurea]]
-- [[iris-pseudacorus]]
-- [[colchicum-autumnale]]
-- [[atropa-belladonna]]
+- [[trametes-orientalis]]
+- [[helleborus-orientalis]]

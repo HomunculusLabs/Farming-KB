@@ -22,7 +22,7 @@ Fabiana imbricata is a species of evergreen shrub in the family Solanaceae, nati
 
 The plant forms dense, heath-like mounds of small, imbricate leaves with an appearance resembling certain Ericaceae species. It produces tubular white to pale pink flowers in abundance during spring.
 
-Fabiana imbricata is one of approximately 15 species in the genus Fabiana, all native to South America. The genus is placed in the tribe Cestreae of subfamily Cestroideae within Solanaceae.
+Fabiana imbricata is one of approximately 15 species in the genus Fabiana, all native to [[guzman-psilocybin-mushrooms-south-america]]. The genus is placed in the tribe Cestreae of subfamily Cestroideae within Solanaceae.
 
 The genus Fabiana is distributed from Peru to southern Chile and Argentina, with the center of diversity in central Chile. Several species are narrow endemics of the Andean cordillera.
 
@@ -30,7 +30,7 @@ The genus Fabiana is distributed from Peru to southern Chile and Argentina, with
 
 Fabiana imbricata was first described by Hipólito Ruiz López and José Antonio Pavón Jiménez in 1798. The genus name honors the Spanish botanist Francisco Fabiano.
 
-The specific epithet "imbricata" refers to the overlapping arrangement of the scale-like leaves, resembling roof tiles. This distinctive leaf morphology is a key diagnostic character for the species.
+The specific epithet "imbricata" refers to the overlapping arrangement of the scale-like leaves, resembling roof tiles. This distinctive [[cannabis-leaf-morphology-and-phyllotaxy]] is a key diagnostic character for the species.
 
 The imbricate leaf arrangement reduces surface area exposed to wind and sun, an efficient water conservation strategy in dry habitats. This adaptation is convergent with similar leaf forms in unrelated Mediterranean-climate shrub lineages.
 
@@ -48,7 +48,7 @@ The leaf surface is covered with a waxy cuticle that reduces water loss, an adap
 
 Flowers are tubular, 12–18 mm long, borne singly or in small clusters in the leaf axils. The corolla is white to pale pink, with five short lobes that spread slightly at the apex.
 
-Flowering occurs from October to January in the Southern Hemisphere, with peak bloom in November and December. Each flower produces a small, globose berry approximately 5–8 mm in diameter, ripening to yellowish-orange.
+Flowering occurs from October to January in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with peak bloom in November and December. Each flower produces a small, globose berry approximately 5–8 mm in diameter, ripening to yellowish-orange.
 
 The berries are consumed by native birds, particularly Chilean mockingbirds and thrushes, which contribute to seed dispersal. The fruit is also reportedly edible to humans, though not widely consumed.
 
@@ -68,7 +68,7 @@ Frost tolerance is moderate, with plants surviving temperatures to approximately
 
 ## Cultivation and Traditional Uses
 
-Fabiana imbricata is cultivated as an ornamental shrub in Mediterranean-climate gardens and as a medicinal plant. It is propagated from seed or semi-hardwood cuttings.
+Fabiana imbricata is cultivated as an [[hamilton-ornamental-shrub-care]] in Mediterranean-climate gardens and as a medicinal plant. It is propagated from seed or semi-hardwood cuttings.
 
 Seeds germinate readily after cold stratification for 4–6 weeks. Cuttings taken in late summer root under mist within 6–8 weeks.
 
@@ -78,7 +78,7 @@ In Chilean traditional medicine, the aerial parts of Fabiana imbricata are prepa
 
 The plant is also used traditionally as a digestive aid, carminative, and anti-inflammatory. Mapuche communities have used pichi preparations for treating liver complaints and rheumatic conditions.
 
-Commercial herbal preparations of Fabiana imbricata are available in Chile and Argentina as a dried herb for tea. The species is listed in the Chilean pharmacopoeia as an official medicinal plant.
+Commercial [[honey-based-herbal-preparations]] of Fabiana imbricata are available in Chile and Argentina as a dried herb for tea. The species is listed in the Chilean pharmacopoeia as an official medicinal plant.
 
 Standardized extracts are used in some pharmaceutical preparations marketed for urinary tract health. Quality control standards specify minimum alkaloid content for commercial herb material.
 
@@ -86,29 +86,4 @@ The plant is also used in Chilean folk veterinary medicine, particularly as a di
 
 ## Bioactive Compounds and Pharmacology
 
-Fabiana imbricata contains a diverse array of tropane alkaloids, flavonoids, and phenolic compounds. The principal alkaloids include fabianine, cuscohygrine, and hygrine.
-
-Tropane alkaloids isolated from Fabiana have shown antimicrobial activity against Gram-positive bacteria and Candida species in vitro. Flavonoid fractions exhibit antioxidant and anti-inflammatory properties in animal models.
-
-Extracts of Fabiana imbricata have demonstrated diuretic activity in rodent studies, supporting the traditional use as a urinary remedy. The mechanism appears to involve increased glomerular filtration rate.
-
-Hepatoprotective effects have been documented for Fabiana extracts in chemically-induced liver injury models. These findings support the traditional use for liver complaints among Mapuche healers.
-
-The essential oil of Fabiana imbricata contains monoterpenes and sesquiterpenes, with α-pinene, limonene, and borneol as major components. The oil has shown antimicrobial activity in diffusion assays.
-
-Yield of essential oil from dried aerial parts is typically 0.3–0.8% by weight. The oil composition varies seasonally, with higher monoterpene content during the flowering period.
-
-Preliminary toxicity studies suggest low acute toxicity for Fabiana extracts, though the presence of tropane alkaloids warrants caution. No chronic toxicity data are available for long-term use of herbal preparations.
-
-## See Also
-
-- [[cestrum-nocturnum]]
-- [[datura-stramonium]]
-- [[atropa-belladonna]]
-- [[solanum-nigrum]]
-- [[nicotiana-rustica]]
-- [[lycium-barbarum]]
-- [[lycium-chinense]]
-- [[withania-somnifera]]
-- [[hyoscyamus-niger]]
-- [[mandragora-officinarum]]
+Fabiana imbricata contains a diverse array of tropane alkaloids, flavonoids, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. The principal alkaloids include fabianine, cuscohygrine, and hygrine.

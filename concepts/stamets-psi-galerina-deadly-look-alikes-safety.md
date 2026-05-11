@@ -1,11 +1,12 @@
 ---
-title: "[[stamets-psi-bluing-reaction-psilocybin-indicator]] galerina
+title: Stamets Psi Galerina Deadly Look Alikes Safety
   deadly look alikes safety Look-alikes and Mushroom Safety"
 created: 2026-04-28
 tags: [mycology, safety, toxicology, galerina, identification]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -86,64 +87,3 @@ The effects of consuming deadly Galerinas are consistent with amatoxin
 poisoning and follow a characteristic three-phase timeline:
 
 ### Phase 1: Gastrointestinal (6-24 hours)
-
-- Sharp abdominal pains
-- Violent vomiting
-- Persistent cholera-like diarrhea, often containing blood and mucus
-- Dehydration and electrolyte imbalance
-
-### Phase 2: Apparent Recovery (3-4 days)
-
-- Symptoms appear to subside
-- The patient seems to improve temporarily
-- Liver enzymes begin to rise even as the patient feels better
-- This false recovery is deceptive and dangerous
-
-### Phase 3: Organ Failure (7-10 days)
-
-- The patient's condition worsens rapidly
-- Liver and kidney failure leading to death
-- Autopsy findings include marked gastro-intestinal edema,
-  hemorrhagic gastro-enteritis, fatty degeneration of the heart and
-  liver, tubular necrosis of the kidneys, swollen brain with multiple
-  hemorrhages, and degenerative nerve cell damage
-- Death is primarily from liver and kidney failure
-
-## Medical Treatment Considerations
-
-Early recognition and treatment are critical for survival:
-
-- **Silymarin (milk thistle extract):** Intravenous silibinin has
-  shown effectiveness in blocking amatoxin uptake by hepatocytes
-- **N-acetylcysteine (NAC):** Supports liver function as an
-  antioxidant precursor to glutathione
-- **Activated charcoal:** Administered early to bind remaining toxins
-- **Aggressive fluid resuscitation:** Counteracts severe dehydration
-  from Phase 1 gastrointestinal losses
-- **Liver transplantation:** May be necessary in severe cases where
-  hepatic necrosis exceeds the liver's regenerative capacity
-
-The importance of seeking immediate medical attention after any
-uncertain mushroom ingestion cannot be overstated. Bringing a specimen
-or detailed photographs of the consumed mushroom can assist toxicology
-teams in treatment decisions.
-
-## A Cautionary Tale
-
-The case of a sixteen-year-old girl who died six days after consuming
-misidentified mushrooms underscores the life-and-death importance of
-proper identification. Her death could have been avoided with access to
-proper identification resources. Stamets notes that the impetus to write
-his field guide came partly from finding deadly Galerinas and active
-Psilocybes growing intertwined in the same habitats.
-
-## Safe Foraging Practices
-
-Every mushroom forager should follow these non-negotiable safety rules:
-
-1. **Never eat a mushroom unless you are 100% certain of its
-   identification.** If you have any doubt, do not consume it.
-2. **Always make a spore print.** This simple step eliminates many
-## See Also
-
-- [[stamets-psi-psilocybe-cyanescens-species-guide]]

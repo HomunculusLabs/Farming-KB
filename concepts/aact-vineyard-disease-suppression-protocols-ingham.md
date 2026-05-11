@@ -1,5 +1,5 @@
 ---
-title: AACT Vineyard Application Protocols and Disease Suppression
+title: Aact Vineyard Disease Suppression Protocols Ingham
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 author: Elaine Ingham Ph.D.
 topics:
@@ -15,7 +15,7 @@ topics:
 
 ## Overview
 
-Actively Aerated Compost Tea (AACT) has demonstrated significant disease suppression in vineyard systems when applied as part of a comprehensive soil and foliar health program. Ingham's field guide provides specific application protocols for vineyard use, targeting the most common and economically damaging grape diseases including powdery mildew (Uncinula necator), downy mildew (Plasmopara viticola), botrytis bunch rot (Botrytis cinerea), and phomopsis cane and leaf spot. (see [[aact-spray-equipment-nozzle-selection-ingham]]).
+[[actively-aerated-compost-tea]] Compost Tea (AACT) has demonstrated significant disease suppression in vineyard systems when applied as part of a comprehensive soil and foliar health program. Ingham's field guide provides specific application protocols for vineyard use, targeting the most common and economically damaging grape diseases including powdery mildew ([[uncinula-necator]]), downy mildew (Plasmopara viticola), botrytis bunch rot ([[botrytis-cinerea]]), and phomopsis cane and leaf spot. (see [[aact-spray-equipment-nozzle-selection-ingham]]).
 
 ## The Vineyard Disease Challenge
 
@@ -56,7 +56,7 @@ For disease suppression on grape foliage and fruit:
 
 - **Pre-budbreak**: One foliar application 2 weeks before budbreak, targeting the cane and trunk surfaces where overwintering pathogen inoculum resides.
 - **During growth**: Applications every 7–14 days depending on disease pressure. Weekly if disease has been present historically; biweekly if no disease history exists.
-- **Post-veraison through harvest**: Continue applications through the ripening period, reducing frequency as fruit matures. Some growers cease applications 2–3 weeks before harvest to avoid any residue concerns, though properly made aerobic compost tea presents minimal residue risk.
+- **Post-veraison through harvest**: Continue applications through the ripening period, reducing frequency as fruit matures. Some growers cease applications 2–3 weeks before harvest to avoid any residue concerns, though properly made [[ingham-anaerobic-vs-aerobic-compost-tea]] presents minimal residue risk.
 
 ### Foliar Application Rate
 
@@ -85,48 +85,6 @@ Powdery mildew is the most common and persistent vineyard disease. AACT suppress
 Botrytis requires damaged or senescing tissue to establish. AACT reduces botrytis risk by:
 - Maintaining healthy, metabolically active leaf and berry surfaces.
 - Providing competitive organisms that consume the leaking sugars from micro-wounds before botrytis can colonize.
-- Strengthening plant cell walls through improved calcium delivery (calcium is chelated by beneficial microorganisms and made more available to plant tissue).
+- Strengthening plant cell walls through improved calcium delivery (calcium is chelated by [[forest-and-bamboo-beneficial-microorganisms]] and made more available to plant tissue).
 
 ### Downy Mildew
-
-Downy mildew, an oomycete pathogen, is suppressed by AACT through similar competitive mechanisms. The key is ensuring that the lower leaf surfaces—where downy mildew sporangia land and germinate—are adequately colonized by beneficial organisms before infection periods.
-
-## Transitioning from Conventional to Biological Management
-
-Ingham cautions that transitioning a vineyard from conventional chemical disease management to biological approaches requires patience and a phased approach:
-
-1. **Year one**: Begin with soil applications to build the below-ground foodweb. Continue reduced conventional sprays for foliar disease management.
-2. **Year two**: Introduce foliar AACT applications while further reducing conventional inputs. Begin soil foodweb monitoring through SFI lab analysis.
-3. **Year three and beyond**: As the soil and canopy foodwebs establish, progressively reduce chemical inputs. Most vineyards achieving full biological disease management require 3–5 years of transition.
-
-## Monitoring and Assessment
-
-Soil foodweb analysis through Soil Foodweb Inc. laboratories provides quantitative data on organism levels. For vineyard health, monitor:
-- Total and active bacterial biomass
-- Total and active fungal biomass
-- Mycorrhizal colonization percentage of fine roots
-- Protozoa populations (flagellates, amoebae)
-- Beneficial nematode diversity and abundance
-
-Target ranges for vineyard soils are calibrated based on the fungal-dominated ecology appropriate for woody perennials in the specific climate region.
-
-## Integration with Vineyard Floor Management
-
-AACT efficacy is enhanced by vineyard floor management practices that support soil biology:
-- **Cover crops**: Permanent or rotational cover crops between rows feed soil organisms through root exudation and provide diverse organic matter inputs when mowed and incorporated.
-- **Compost under the row**: Annual applications of quality compost (5–15 tons per acre) under the vine row provide both organism inoculum and food resources.
-- **Minimal tillage**: Reduce or eliminate cultivation under the vine row to protect mycorrhizal networks and soil structure.
-- **Avoid residual herbicides**: These damage the soil foodweb and undermine the benefits of compost tea applications.
-
-## References
-
-- Ingham, E.R. (2004). The Field Guide I for Actively Aerated Compost Tea (AACT).
-  Sustainable Studies Institute. Application rates section, pp. 133–140.
-- Soil Foodweb Inc. vineyard application rate sheets.
-- Ingham, E.R. (2003). Making the shift to sustainability. Email correspondence compiled in AACT Field Guide.
-
-## See Also
-
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
-- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
-- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]

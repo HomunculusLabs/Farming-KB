@@ -88,37 +88,3 @@ not produce.
 The leaves must be gathered in the morning, when their alkaloid
 content is at its peak. They are used either fresh or dried in the
 production of ayahuasca. In the traditional brewing process, the
-chacruna leaves are added to the boiling Banisteriopsis caapi bark
-during the final stages of preparation. The leaves are typically
-bruised or torn before addition to facilitate the release of DMT into
-the brewing liquid.
-
-The timing and amount of chacruna added are critical to the character
-of the brew. More chacruna produces more intense and colorful
-visions, while less chacruna results in a more contemplative
-experience dominated by the harmala alkaloids. Experienced
-ayahuasqueros (ayahuasca practitioners) adjust the proportions to
-suit the purpose of the ceremony and the sensitivity of the
-participants.
-
-## Other Names
-
-Throughout the Amazon, chacruna is known by various indigenous names:
-- Chacruna, Chacruna Bush, Cahua (Spanish-influenced names)
-- Amirucpanga, Rami (indigenous Amazonian names)
-- Chaliponga (sometimes confused with Diplopterys cabrerana, a differe
-  nt plant)
-- Rainha (Queen) in some Brazilian traditions
-
-## Other DMT-Containing Plants in Ayahuasca
-
-In addition to Psychotria viridis, several other plants may be added
-to ayahuasca to provide DMT:
-
-- **Diplopterys cabrerana**: Another important DMT-containing leaf add
-  itive, used particularly in Ecuadorian and Colombian preparations
-- **[[entheogen-jurema-mimosa-hostilis-ethnobotany]]**: The [[iboga-root-bark-preparation]] of this plant contains DMT and wa
-  s used in ceremonies in northeastern Brazil to prepare a "miraculous
-   drink" known as Ajuca or Vinho de Jurema
-- **Various Psychotria species**: Other species in the same genus may 
-  be substituted when P. viridis is unavailable

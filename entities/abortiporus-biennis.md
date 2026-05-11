@@ -33,20 +33,20 @@ The species is notable for its unusual morphology, combining poroid fertile surf
 with sterile spatulate margins that resemble the gills of agarics. This mixed morphology
 has historically caused [[neurotropic-fungi-taxonomic-confusion-and-identification]].
 
-It is found across temperate regions of the Northern Hemisphere, fruiting from late
+It is found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, fruiting from late
 summer through autumn on standing timber, fallen logs, and occasionally buried roots.
 
 ## Taxonomy and Morphology
 
 **Classification:** Basidiomycota → Agaricomycetes → Polyporales → Meruliaceae → *Abortiporus* → *A. biennis*
 
-Originally described as *Boletus biennis* by Bulliard in 1791, Rolf Singer transferred it
+Originally described as *Boletus biennis* by Bulliard in 1791, [[rolf-singer]] transferred it
 to *Abortiporus* in 1944. The genus name derives from Latin *abortus* (imperfect) and
 *porus* (pore), referring to the poorly developed pore surface.
 
 **Cap and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]:**
 
-Fruiting bodies are effuso-reflexed to pileate, forming rosette-like clusters up to 15 cm
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are effuso-reflexed to pileate, forming rosette-like clusters up to 15 cm
 across. The upper surface is zonate with concentric ridges, ranging in color from pale
 ochre to reddish-brown, with a velvety to woolly texture.
 
@@ -75,10 +75,10 @@ and 2–4 µm in diameter.
 
 *A. biennis* has a broad distribution across temperate Europe, [[psilocybin-north-america-pacific-northwest]], and parts
 of Asia. In Europe it is recorded from Scandinavia to the Mediterranean and eastward
-into Russia. In North America it occurs across southern Canada and the northern United
+into Russia. In [[guzman-psilocybin-mushrooms-north-america]] it occurs across southern Canada and the northern United
 States.
 
-The fungus is primarily a saprotroph on dead wood but frequently transitions to a
+The fungus is primarily a saprotroph on [[fungal-dead-wood-diversity]] but frequently transitions to a
 parasitic mode on living trees. It attacks a wide range of hardwood hosts including
 oak (*Quercus*), beech (*Fagus*), birch (*Betula*), elm (*Ulmus*), and ash (*Fraxinus*).
 
@@ -88,53 +88,3 @@ occasionally on buried roots that have been exposed by erosion.
 
 It prefers moist, shaded forest environments and is most commonly found in mixed
 deciduous woodlands. Fruiting season extends from August through November in temperate
-regions, with occasional winter fruiting in mild climates.
-
-## Ecology
-
-The fungus causes a brown cubical rot, breaking down cellulose while leaving lignin
-largely intact. Infected wood becomes brittle and fractures into roughly cubic pieces,
-characteristic of brown rot decay.
-
-Brown rot by *A. biennis* is relatively slow-progressing compared to more aggressive
-species like *[[fungal-serpula-lacrymans-dry-rot-buildings]]*. Complete colonization of a large log may take several
-years, with the fungus persisting as a saprotroph after the host's death.
-
-*A. biennis* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by converting woody biomass into
-forms accessible to other organisms. The soft, fibrous fruiting bodies are consumed by
-various invertebrates and may serve as food for small mammals.
-
-The species is relatively uncommon throughout its range and is considered a species of
-conservation concern in several European countries. Habitat loss through [[mollison-pdc-forest-management-products]]
-practices that remove coarse woody debris has contributed to its decline.
-
-## Cultivation and Edibility
-
-*A. biennis* is not commercially cultivated and has no significant culinary or medicinal
-value. It is considered inedible due to its tough, fibrous texture and bland taste.
-There are no confirmed reports of toxicity.
-
-Laboratory cultivation on malt extract agar shows moderate growth at 20–25°C.
-The species has been grown experimentally on sterilized hardwood sawdust supplemented
-with wheat bran, but yields are low and inconsistent.
-
-## Related Species
-
-*Abortiporus* is a monotypic genus in most modern treatments, with *A. biennis* as the
-sole widely accepted species. Some authorities have placed it in *Merulius* or
-*Flaviporus* based on phylogenetic analyses.
-
-The blushing pore surface and sterile spatulate margins distinguish it from all other
-polypores in its range. The most similar species is *Flaviporus brownii*, which lacks
-the prominent sterile margin and has a different spore morphology.
-
-Other pink-staining polypores include *Fuscoporia torulosa* and *Phellinus pomaceus*,
-but these lack the daedaleoid pore surface and sterile flaps characteristic of
-*A. biennis*.
-
-## See Also
-
-- [[fomitopsis-pinicola]]
-- [[trametes-versicolor-entity]]
-- [[laricifomes-officinalis]]
-- [[laetiporus-sulphureus]]

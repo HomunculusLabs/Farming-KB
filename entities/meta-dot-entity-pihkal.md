@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # META-DOT
 
-PIHKAL entry #125. 2,4-DIMETHOXY-5-METHYLTHIOAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #125. 2,4-DIMETHOXY-5-METHYLTHIOAMPHETAMINE.
 
 ## Chemical Name
 
@@ -43,7 +43,7 @@ found in man. PARA-DOT was about half as active as DOM, but both
 ORTHO-DOT and the compound described here, META-DOT, were down by
 factors of 50x and 30x respectively. These animal studies certainly
 seem to give results that are reasonable with a view to other known
-psychedelic drugs, in that mescaline was down from DOM by a factor of
+psychedelic drugs, in that [[mescaline]] was down from DOM by a factor of
 more than 1000x, and LSD was some 33x more potent than DOM.
 
 I have a somewhat jaundiced view of this rabbit rectal hyperthermia
@@ -88,28 +88,3 @@ residue provided 8.0 g 2,4-dimethoxythiophenol as a colorless oil,
 boiling at 89-92 deg C at 0.5 mm/Hg.
 
 To a solution of 7.8 g 2,4-dimethoxythiophenol in 40 mL absolute EtOH
-there was added a solution of 4 g 85% KOH in 65 mL EtOH. This was
-followed by the addition of 5 mL methyl iodide, and the mixture was
-held at reflux for 30 min. This was poured into 200 mL H2O, and
-extracted with 3x50 mL Et2O. The pooled extracts were washed once
-with aqueous sodium hydrosulfite, then the organic solvent was removed
-under vacuum. The residue was distilled to give 8.0 g of
-2,4-dimethoxythioanisole as a colorless oil with a bp of 100-103 deg C at
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[ortho-dot-entity-pihkal]]
-
-- [[aleph-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

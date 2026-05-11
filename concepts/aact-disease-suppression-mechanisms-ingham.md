@@ -4,6 +4,7 @@ tags: [aact, compost-tea, disease-suppression, ingham, soil-food-web, biocontrol
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 created: 2026-04-28
 type: concept
@@ -11,7 +12,7 @@ type: concept
 
 # AACT Disease Suppression Mechanisms
 
-Actively [[actively-aerated-compost-tea]] Tea (AACT) suppresses plant diseases through fundamentally different mechanisms than chemical pesticides. According to Elaine Ingham's *The Field Guide I for Actively Aerated Compost Tea*, AACT is a **preventative approach**, not a pesticide. No toxic chemicals are involved — instead, disease suppression arises from ecological competition mediated by a thriving [[soil-food-web]] functions as an active biological buffer.
+Actively [[actively-aerated-compost-tea]] Tea (AACT) suppresses plant diseases through fundamentally different mechanisms than chemical pesticides. According to Elaine Ingham's *The Field Guide I for Actively Aerated Compost Tea*, AACT is a **preventative approach**, not a pesticide. No toxic chemicals are involved — instead, disease suppression arises from ecological competition mediated by a thriving [[soil-foodweb]] functions as an active biological buffer.
 
 Ingham emphasizes that food is the second major control point after site occupation. First, the beneficials take up all the space. Then, they eat all the food. Between these two mechanisms, the pathogen faces an environment where it can neither find a place to establish nor the energy to grow. This dual pressure is why well-maintained AACT programs are so effective.
 
@@ -69,7 +70,7 @@ This durability is why Ingham states that pesticides can be deleted once benefic
 
 Successful AACT disease suppression depends on several factors working together:
 
-1. **Tea quality**: The tea must contain adequate diversity and biomass of organisms appropriate to the target disease. See [[soil-food-web]] that supports plant health from the roots up.
+1. **Tea quality**: The tea must contain adequate diversity and biomass of organisms appropriate to the target disease. See [[soil-foodweb]] that supports plant health from the roots up.
 
 ## Related Concepts
 
@@ -87,10 +88,3 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

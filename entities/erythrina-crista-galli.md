@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Krukoff, B.A. & Barneby, R.C. (1974). "A Synopsis of the American Species of Erythrina." Brittonia.
   - Burkart, A. (1987). "Leguminosae, Faboideae, Phaseoleae-Erythrininae." Flora Ilustrada Argentina.
   - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae." University of Wisconsin Press.
@@ -20,7 +21,7 @@ sources:
 
 **Erythrina crista-galli** L., commonly known as the **cockspur coral tree**, **ceibo**, or **coral tree**, is a deciduous tree in the family Fabaceae. It is the national tree and flower of Argentina and Uruguay.
 
-The species is renowned for its spectacular scarlet-red flowers, which appear in dense terminal racemes before the leaves emerge. The vibrant blooms make it one of the most recognizable ornamental trees in subtropical and warm temperate regions.
+The species is renowned for its spectacular scarlet-red flowers, which appear in dense terminal racemes before the leaves emerge. The vibrant blooms make it one of the most recognizable [[hamilton-ornamental-trees]] in subtropical and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 It belongs to a genus of approximately 130 species, many of which share the characteristic bright red, hummingbird-pollinated flowers. The genus name derives from Greek *erythros* (red).
 
@@ -57,7 +58,7 @@ Pods dehisce explosively when dry, scattering seeds several meters from the pare
 
 ## Distribution and Habitat
 
-*Erythrina crista-galli* is native to southern South America, including Argentina, Uruguay, southern Brazil, Paraguay, and Bolivia. It is one of the most cold-tolerant species in the genus.
+*Erythrina crista-galli* is native to southern [[guzman-psilocybin-mushrooms-south-america]], including Argentina, Uruguay, southern Brazil, Paraguay, and Bolivia. It is one of the most cold-tolerant species in the genus.
 
 It grows along riverbanks, in seasonally flooded areas, and in disturbed habitats. It is common in the humid pampas and along the Río de la Plata basin.
 
@@ -77,45 +78,12 @@ Butterflies and bees also visit the flowers, though hummingbirds are the primary
 
 The seeds are toxic, containing alkaloids similar to those found in other *Erythrina* species. Despite this, they are dispersed by water (hydrochory) in riparian habitats.
 
-In agroforestry, the species is planted as a living fence post, [[mollison-designers-legume-shade-tree-pasture-systems]], and windbreak. Its rapid growth and coppicing ability make it useful for [[dighton-fungal-biomass-production-aquatic-ecosystems]].
+In agroforestry, the species is planted as [[query-how-do-i-design-and-plant-a-living-fence]] post, [[mollison-designers-legume-shade-tree-pasture-systems]], and windbreak. Its rapid growth and coppicing ability make it useful for [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Cultivation and Uses
 
 **Propagation:** Seeds germinate readily after soaking in water for 24 hours. Hardwood cuttings (1–2 m long) are also commonly used and root easily.
 
-**Growth rate:** Fast, with height increments of 1–2 m per year under favorable conditions. Trees flower from seed in 3–5 years.
+**[[soil-temperature-plant-growth-rate-doubling-rule]]:** Fast, with height increments of 1–2 m per year under favorable conditions. Trees flower from seed in 3–5 years.
 
 **Ornamental use:** Widely planted as an ornamental tree in subtropical and warm temperate gardens, parks, and street plantings. The spectacular red flower display is its primary horticultural asset.
-
-In California, South Africa, Australia, and Mediterranean Europe, it is a popular street tree. Several cultivars have been selected, including dwarf and double-flowered forms.
-
-**Wood:** The wood is light, soft, and porous (specific gravity 0.25–0.40), making it unsuitable for structural use. It is occasionally used for carving, fishnet floats, and lightweight handicrafts.
-
-**Traditional medicine:** Various parts of the tree have been used in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] folk medicine. Bark preparations are used as a sedative and analgesic. The seeds contain erythrinine and other alkaloids with curare-like activity.
-
-**Caution:** All parts of the plant, especially the seeds, contain toxic alkaloids. Ingestion can cause nausea, vomiting, paralysis, and respiratory failure.
-
-The seeds are sometimes used as beads in jewelry, but this practice poses a poisoning risk, particularly to children who may ingest them.
-
-## Conservation Status
-
-*Erythrina crista-galli* is widespread and abundant in its native range. It is not considered threatened and is classified as **Least Concern** by the IUCN.
-
-The species has become naturalized in parts of Africa, Asia, Australia, and [[psilocybin-north-america-pacific-northwest]]. In some areas, it is considered weedy due to its vigorous regeneration from seeds and root suckers.
-
-In South Africa, it is classified as a Category 1b invader under the National Environmental Management: Biodiversity Act. Eradication programs target naturalized populations in sensitive watercourses.
-
-Its ornamental value ensures continued cultivation and propagation in botanical gardens and landscapes worldwide. Numerous cultivars and hybrids are available in the nursery trade.
-
-## See Also
-
-- [[erythrina-fusca]]
-- [[dalbergia-nigra]]
-- [[swietenia-macrophylla]]
-- [[robinia-pseudoacacia]]
-- [[catharanthus-roseus]]
-- [[acacia-nilotica]]
-- [[cedrela-odorata]]
-- [[prosopis-juliflora]]
-- [[tabebuia-impetiginosa]]
-- [[agroforestry]]

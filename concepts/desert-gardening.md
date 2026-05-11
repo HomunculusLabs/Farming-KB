@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Desert gardening is the practice of cultivating plants in arid environments where annual precipitation is typically under 10-15 inches and evapotranspiration far exceeds rainfall. Successful desert gardening requires working with, not against, the harsh conditions of intense sun, extreme temperature fluctuations, low humidity, and minimal water. These techniques align with [[water-management]] principles and [[pollinator-conservation|conservation]] ethics.
+Desert gardening is the practice of cultivating plants in arid environments where annual precipitation is typically under 10-15 inches and evapotranspiration far exceeds rainfall. Successful desert gardening requires working with, not against, the harsh conditions of intense sun, extreme temperature fluctuations, low humidity, and minimal water. These techniques align with [[water-management]] principles and [[pollinator-conservation]] ethics.
 
 ## Arid Climate Challenges
 
@@ -38,8 +38,8 @@ Desert soils are typically:
 ### Passive Rainwater Harvesting
 Capture and direct rainfall to planting areas without pumps or storage tanks:
 
-- **Swales**: Shallow trenches on contour that slow, spread, and sink runoff. See [[swale-design-construction|swales]] for design details.
-- **Basins and berms**: Circular or linear depressions around trees and shrubs that capture rainfall and direct it to root zones
+- **Swales**: Shallow trenches on contour that slow, spread, and sink runoff. See [[swale-design-construction]] for design details.
+- **Basins and berms**: Circular or linear depressions around [[nitrogen-fixing-trees-and-shrubs]] that capture rainfall and direct it to root zones
 - **Diversion channels**: Rock-lined channels that direct sheet flow from driveways, roofs, or bare ground to gardens
 - **Micro-catchments**: Small V-shaped bunds or semi-circular earthworks that collect runoff for individual plants
 
@@ -48,7 +48,7 @@ Systems that store water for later use:
 
 - **Cisterns**: Metal or poly tanks storing roof runoff; 1 inch of rain on 1,000 sq ft of roof yields ~620 gallons
 - **Earth tanks (tanks)**: Excavated and lined depressions for seasonal water storage
-- **Greywater systems**: Divert household greywater to landscape plantings; see [[graywater-systems|greywater]] for details
+- **Greywater systems**: Divert household greywater to landscape plantings; see [[graywater-systems]] for details
 - **Sand storage**: Traditional technique using buried sand to store water with minimal evaporation
 
 ### Irrigation Efficiency
@@ -64,7 +64,7 @@ Woven polypropylene shade cloth provides 30-70% shade reduction:
 
 - 30-40% shade: Suitable for most vegetables during summer
 - 50% shade: Good for tomatoes, peppers, and heat-sensitive crops
-- 70% shade: Used for nursery stock and shade-loving plants
+- 70% shade: Used for [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] and shade-loving plants
 - Install 6-8 feet above plants for adequate airflow
 
 ### Passive Shade Structures
@@ -89,10 +89,10 @@ Naturally adapted to arid conditions through water storage tissues and reduced l
 - **Prickly pear (Opuntia spp.)**: Edible pads (nopales) and fruit (tunas); cold-hardy varieties survive to -20°F
 - **Saguaro**: Iconic Sonoran Desert cactus; protected species in many areas
 - **Agave**: Multi-use plant for food, fiber, and landscaping; many species cold-hardy to 10°F
-- **Aloe vera**: Medicinal succulent; requires frost protection in most deserts
+- **Aloe vera**: Medicinal succulent; requires [[cervantes-microclimate-frost-protection]] in most deserts
 - **Barrel cactus**: Water storage, ornamental value
 
-See [[psychoactive-cacti-guide|cacti]] for detailed species profiles.
+See [[psychoactive-cacti-guide]] for detailed species profiles.
 
 ### Native Food Plants
 Many desert natives produce edible fruits, seeds, or greens:
@@ -127,7 +127,7 @@ Desert gardens excel with cool-season crops grown fall through spring:
 ## Soil Building in the Desert
 
 ### Organic Matter
-Building soil organic matter in deserts is challenging but essential:
+Building [[knf-leaf-mold-humus]] in deserts is challenging but essential:
 
 - Compost decomposes rapidly in heat; apply 2-4 inches annually
 - Mulch heavily (3-6 inches) to reduce evaporation and moderate soil temperature
@@ -137,7 +137,7 @@ Building soil organic matter in deserts is challenging but essential:
 ### Soil Amendments
 - **Sulfur**: Lowers pH in alkaline soils (apply 5-10 lbs per 100 sq ft; takes months)
 - **Gypsum**: Improves soil structure in sodic soils without changing pH
-- **Composted manure**: Adds organic matter and nutrients; use aged manure to avoid salt burn
+- **Composted manure**: Adds [[savory-soil-organic-matter-and-decomposition-dynamics]] nutrients; use aged manure to avoid salt burn
 - **Worm castings**: Gentle fertilizer with beneficial microbes; use as top-dressing
 - **Chelated iron**: Corrects iron chlorosis common in alkaline soils
 
@@ -147,4 +147,3 @@ Caliche is a hardened calcium carbonate layer common in desert soils:
 - If within 12 inches of surface, break through with pickaxe or jackhammer
 - Create raised beds above the caliche layer
 - Plant in containers or raised beds where caliche is too deep to penetrate
-

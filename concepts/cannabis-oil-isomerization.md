@@ -100,8 +100,30 @@ The isomerization of CBD to THC involves acid-catalyzed cyclization:
 - [[cannabis-health-therapeutics]] — Therapeutic applications of THC and CBD
 - [[cannabis-plant-nutrition]] — Growing cannabis with specific cannabinoid profiles
 
+
+## Cultivation Considerations
+Successful cultivation requires attention to environmental factors
+including light cycles, temperature ranges, humidity control, and
+nutrient management. Both indoor and outdoor approaches have
+distinct advantages depending on climate and regulatory context.
+
+
+## Safety and Regulation
+Regulatory frameworks vary significantly by jurisdiction. Growers
+should consult local laws regarding cultivation, possession, and use.
+Proper identification and quality control remain essential for
+consumer safety across all production methods.
+
+
+## See Also
+- [[lemon-cannabis-alchemy-isomerization]]
+- [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]
+- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
+- [[comparison-cannabis-sativa-vs-cannabis-ruderalis]]
+- [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]
 ## Related
 
 - [[thc-acetate-and-isomerization]]
 - [[cannabis-flavonoids]]
 - [[cannabis-hashish-guide]]
+

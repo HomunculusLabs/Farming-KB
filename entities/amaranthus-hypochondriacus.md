@@ -88,27 +88,3 @@ Average grain yields range from 1,000–3,000 kg/ha, with experimental plots pro
 Major pests include the amaranth weevil (*Hypolixus truncatulus*), stem borer (*Conogethes punctiferalis*), and various leaf-chewing caterpillars. Fungal diseases include damping-off (*Pythium* spp.) in seedlings and root rot (*Fusarium* spp.) in established plants. However, the crop's rapid growth rate often outpaces [[hamilton-pest-and-disease-control-organic]] damage without chemical intervention.
 
 Weed competition is most significant during the first 30 days after emergence. Once established, the tall, dense canopy of amaranth effectively suppresses most weed species. No herbicides are registered for amaranth in most countries, making the crop inherently compatible with organic production systems.
-
-## Uses and Applications
-
-The primary use of *A. hypochondriacus* grain is for human food. Whole seeds can be cooked as a porridge or pilaf, popped like popcorn (the traditional Mesoamerican preparation called **alegría**), ground into flour for flatbreads and tortillas, or extruded into breakfast cereals and snack products.
-
-Amaranth flour is gluten-free and has excellent functional properties for blending with wheat flour. Blends of 10–25% amaranth flour with wheat flour improve protein quality and mineral content of breads, pastas, and baked goods without compromising texture.
-
-The leaves are consumed as a nutritious vegetable (potherb) in many cultures, comparable to spinach in flavor and nutritional value. Leaf harvest can begin 30–40 days after sowing, providing food earlier than grain maturation. Leaf protein content reaches 3–5% on a fresh-weight basis.
-
-Leaves also contain significant amounts of beta-carotene (provitamin A), vitamin C, calcium, and iron. Regular consumption of amaranth leaves has been associated with improved iron status in populations with high rates of anemia. In African countries including Nigeria and Benin, leaf amaranth is among the most widely consumed traditional vegetables.
-
-Industrial applications include use of amaranth starch in biodegradable plastics, squalene extraction for cosmetics and pharmaceuticals, and amaranth oil as a specialty cooking oil with high oxidative stability. Red-pigmented varieties are investigated as natural food colorants (betacyanins).
-
-In permaculture and agroforestry systems, amaranth serves as a fast-growing accumulator crop. Its deep taproot mines minerals from subsoil layers, and the high-biomass residue returned to soil improves [[hamilton-composting-and-organic-matter-management]] content. Intercropping with legumes is common in traditional Mexican agriculture, where amaranth provides rapid above-ground cover while beans fix nitrogen.
-
-The crop also has significant potential as a forage and silage crop. Whole-plant biomass at flowering contains 12–15% crude protein, making it comparable to alfalfa in feed value. Amaranth forage is particularly valuable during dry seasons when conventional forage crops are unavailable.
-
-## See Also
-
-- [[chenopodium-quinoa]]
-- [[cicer-arietinum]]
-- [[zea-mays]]
-- [[glycine-max]]
-- [[caulerpa-lentillifera]]

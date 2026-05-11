@@ -1,5 +1,5 @@
 ---
-title: 5 5 meo det [[2-alpha-dmt-entity-tihkal]] (Tihkal)
+title: 5 Meo Det Entity Tihkal
 created: 2026-04-16
 updated: 2026-04-16
 type: entity
@@ -16,7 +16,7 @@ sources: ["raw/papers/shulgin-mda-compound-profile|shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, 5-methoxy substituted, N,N-diethyl
 
-- Source: [[5-meo-dmt-entity-[[ibogaine-entity-tihkal]]]]): Positive psychedelic, 6-20 mg
+- Source: [[5-meo-dmt-entity-tihkal]]): Positive psychedelic, 6-20 mg
 
 - BE ([[5-meo-dipt]]): Positive, LSD-like, 8-12 mg
 

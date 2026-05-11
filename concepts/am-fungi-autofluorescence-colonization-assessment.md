@@ -15,7 +15,7 @@ illumination under which arbuscules and other AM fungal structures
 autofluoresce with characteristic colors.
 ## Overview of the Technique
 The method exploits the natural fluorescence of AM fungal structures when
-excited by blue light (typically 450-490 nm wavelength). Under excitation,
+excited by [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] (typically 450-490 nm wavelength). Under excitation,
 arbuscules, [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]], vesicles, and coils emit fluorescence in
 the green to yellow range, making them clearly distinguishable from
 non-colonized root tissue. The technique requires only a standard
@@ -31,7 +31,7 @@ limited.
 Traditional methods for visualizing AM fungal structures involve chemical
 stains such as trypan blue, acid fuchsin, or chlorazol black E. These
 methods have several disadvantages:
-- They use toxic chemical compounds that require careful handling
+- They use toxic [[neurotropic-fungi-chemical-compounds]] that require careful handling
 - Staining may cause loss of colonization percentage information due to
   differential uptake or leaching
 - Chemical treatment renders biological material useless for further
@@ -65,7 +65,7 @@ measure of fungal viability. For viability-specific questions, complementary
 techniques such as SDH staining or fluorescent vital dyes remain necessary.
 ## Sample Preparation
 ### Whole Root Samples (Fine Roots)
-Roots of plants with fine root systems (e.g., Medicago sativa, many grasses)
+Roots of plants with fine root systems (e.g., [[alfalfa-medicago-sativa]], many grasses)
 are mounted directly as whole roots in deionized water on microscope slides.
 No chemical treatment is required before examination. Roots should be
 carefully spread to avoid overlapping, which can obscure arbuscule
@@ -88,16 +88,3 @@ Autofluorescence detection has proven particularly valuable in:
 - **Ecological surveys** where large numbers of root samples must be
   processed efficiently and material preserved for [[fungal-dna-extraction-methods]]
 - **Greenhouse experiments** tracking colonization dynamics over time
-- **Breeding programs** screening plant genotypes for mycorrhizal
-  responsiveness
-- **Restoration ecology** assessing the success of [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
-  in field plantings
-The technique's compatibility with downstream molecular analyses makes it
-especially useful in modern research combining microscopic assessment with
-[[fungal-molecular-community-analysis]] profiling of AM fungal assemblages.
-## See Also
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[mycorrhizal-phosphatase-activity-elf97-detection]]
-- [[techniques-arbuscular-mycorrhiza-inoculum-reduction]]
-- [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
-- [[soil-mycobiome-structure]]

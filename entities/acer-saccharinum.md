@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest, Volume 2." USDA Forest Service.
   - de Tredici, P. (2001). "Dendrology: The study of woody plants." Arnoldia, 61(2), 2–16.
-  - Braatne, J.H., Rood, S.B. & Heilman, P.E. (1996). "Life history, ecology, and conservation of riparian cottonwoods in North America." In: Biology of Populus. NRC Press.
+  - Braatne, J.H., Rood, S.B. & Heilman, P.E. (1996). "Life history, ecology, and conservation of riparian cottonwoods in [[guzman-psilocybin-mushrooms-north-america]]." In: Biology of Populus. NRC Press.
   - Barnes, B.V. & Wagner, W.H. (2004). "Michigan Trees." University of Michigan Press.
 ---
 
@@ -22,7 +22,7 @@ Acer saccharinum, commonly known as the silver maple, is a large deciduous tree 
 
 The species is valued for its rapid growth, tolerance of wet soils, and ornamental autumn foliage. However, its brittle wood and aggressive root system limit its use in landscape settings near structures.
 
-Silver maple is one of the first trees to flower in late winter in [[polypore-fungi-eastern-north-america]] America, providing early nectar for awakening pollinators. Its abundant seed production supports wildlife food webs during a period of seasonal scarcity.
+Silver maple is one of the first trees to flower in late winter in [[polypore-fungi-eastern-north-america]] America, providing early nectar for awakening pollinators. Its abundant [[cannabis-controlled-pollination-seed-production]] supports wildlife food webs during a period of seasonal scarcity.
 
 ## Taxonomy and Morphology
 
@@ -30,7 +30,7 @@ Acer saccharinum was described by the Swedish botanist Carl Linnaeus in 1753. It
 
 The specific epithet "saccharinum" means "sugary," referring to the mildly sweet sap, though sugar maple (A. saccharum) is the primary commercial sap source.
 
-Silver maple sap can be tapped in late winter, though the sugar content (approximately 1.0–1.5% Brix) is roughly half that of sugar maple. Syrup production from silver maple is possible but requires roughly twice the sap volume for equivalent yield.
+Silver maple sap can be tapped in late winter, though the sugar content (approximately 1.0–1.5% Brix) is roughly half that of sugar maple. [[maple-syrup-production]] from silver maple is possible but requires roughly twice the sap volume for equivalent yield.
 
 Mature silver maples typically reach 20 to 30 meters in height, with exceptionally large specimens exceeding 35 meters. The crown is broad and open, with spreading branches that develop a graceful, weeping habit in old age.
 
@@ -60,7 +60,7 @@ Silver maple frequently dominates the overstory of bottomland hardwood forests a
 
 The species is widely planted as a street and shade tree across North America and Europe. It has naturalized in parts of western North America, Europe, and Argentina outside its native range.
 
-In riparian restoration, silver maple is planted to stabilize stream banks and filter agricultural runoff. Its deep and extensive root system makes it effective at nutrient uptake from shallow groundwater.
+In riparian restoration, silver maple is planted to stabilize stream banks and filter [[mycofiltration-of-agricultural-runoff]]. Its deep and extensive root system makes it effective at [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] from shallow groundwater.
 
 The species is increasingly used in phytoremediation projects designed to capture excess nitrogen and phosphorus from tile-drained agricultural fields. Annual nitrogen uptake can exceed 30 kg per hectare in planted buffer strips.
 
@@ -74,7 +74,7 @@ Root systems are extensive and shallow, often extending well beyond the drip lin
 
 Silver maple is a significant component of floodplain [[mollison-designers-food-forest-succession-design]]. It establishes rapidly on newly deposited alluvium and persists as a dominant canopy species for 80 to 130 years before being replaced by more shade-tolerant species.
 
-The species forms vesicular-arbuscular mycorrhizal associations that improve phosphorus uptake on floodplain soils. These [[dighton-mycorrhizal-networks-carbon-transfer]] may facilitate nutrient transfer between individual trees in dense riparian stands.
+The species forms vesicular-arbuscular [[plants-without-mycorrhizal-associations]] that improve phosphorus uptake on floodplain soils. These [[dighton-mycorrhizal-networks-carbon-transfer]] may facilitate nutrient transfer between individual trees in dense riparian stands.
 
 Several [[bloomfield-fungal-pathogens-and-parasites]] affect silver maple, including verticillium wilt (Verticillium albo-atrum) and tar spot (Rhytisma acerinum). While rarely fatal in healthy trees, these diseases can cause significant defoliation and reduce vigor.
 
@@ -87,32 +87,3 @@ Silver maple is among the fastest-growing native maples, with annual height grow
 The species is hardy to USDA zone 3 (−40 °C), making it one of the most cold-tolerant maples. It is widely planted in the upper Midwest and Great Plains where few other large shade trees perform as reliably.
 
 Wood of silver maple is light, weak, and brittle, with a tendency to break in wind and ice storms. This characteristic limits its commercial timber value and makes it a poor choice for planting near buildings.
-
-The primary uses of silver maple wood include pulpwood, crates, and inexpensive furniture frames. It is sometimes sold as "soft maple" lumber alongside red maple.
-
-Silver maple wood machines easily but has poor dimensional stability and low rot resistance. It is unsuitable for outdoor applications unless pressure-treated.
-
-The species has been used in [[halpern-sacramental-peyote-and-native-american-church]] traditional practices for basketry and toolmaking. Flexible saplings were bent into snowshoe frames and woven basket rims.
-
-In urban forestry, the species has declined in popularity due to structural weaknesses. However, it remains valuable for riparian buffer restoration, stormwater management, and mine reclamation where rapid establishment is prioritized.
-
-## Notable Cultivars
-
-'Silver Queen' is a seedless (nearly) cultivar selected for reduced fruit litter. It retains the species' fast growth rate while eliminating the prolific samara production that can be a nuisance in urban settings.
-
-' pyramidale' (syn. 'Fastigiata') features a narrowly columnar crown, making it suitable for street plantings where lateral space is limited. Its upright form reduces the branch failure risk associated with the species' wide-spreading typical habit.
-
-'Laciniatum' is a dissected-leaf form with deeply incised lobes that create a fine, lacy texture. It is less common in commerce but valued in collector's gardens for its unusual foliage.
-
-## See Also
-
-- [[acer-saccharum]]
-- [[acer-rubrum]]
-- [[acer-platanoides]]
-- [[acer-negundo]]
-- [[populus-deltoides]]
-- [[salix-nigra]]
-- [[ulmus-americana]]
-- [[quercus-alba]]
-- [[betula-nigra]]
-- [[nyssa-sylvatica]]

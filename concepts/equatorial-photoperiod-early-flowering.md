@@ -17,13 +17,13 @@ south. When these plants are grown in the northern hemisphere, their photoperiod
 response causes them to initiate flowering much earlier than typical sativas.
 The characteristic remains dominant in hybrid crosses, making these landraces
 strategically valuable for reducing the impractically long flowering times that
-otherwise make pure sativa cultivation difficult in temperate climates.
+otherwise make pure sativa cultivation difficult [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 ## The Photoperiod Mechanism
 
 [[green-cannabis-flowering-management]] is triggered by the length of the dark (night) period.
 Plants adapted to equatorial and near-equatorial latitudes (roughly 0-30
-degrees) evolved under conditions where day length varies relatively little
+degrees) evolved under conditions where [[coleman-persephone-months-winter-day-length]] varies relatively little
 throughout the year. At the equator, day length is approximately 12 hours
 year-round with seasonal variation of less than 30 minutes. At 45-50 degrees
 north, by contrast, day length swings from over 16 hours at summer solstice to
@@ -58,9 +58,9 @@ flowering within 9-10 weeks regardless of the other parent's genetics.
 ## Brazilian White Sativa
 
 The Brazilian White Sativa is another approximately 30-degree south latitude
-landrace sharing the same photoperiod-driven early finishing trait. This clone
+landrace sharing the same photoperiod-driven [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]] trait. This clone
 was a favorite among early 1980s California outdoor growers and is credited as
-the major mother of the legendary White Widow. It contributed not only early
+the major mother of the legendary [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]. It contributed not only early
 flowering genetics but also heavy trichome production giving White Widow its
 frosted appearance, while the father (reportedly a South Indian indica)
 contributed density and yield.
@@ -87,52 +87,3 @@ Elite outdoor breeders in Northern California during the late 1970s and early
 1980s deliberately bred Durban Poison hybrids to solve the finishing-time
 problem, predating the widespread adoption of Afghan indica genetics. The two
 approaches represented fundamentally different philosophies:
-
-- **Equatorial approach**: kept plants within the sativa gene pool, preserving
-  the tall growth habit, narrow leaflets, and cerebral effects
-- **Indica approach**: sacrificed these characteristics for shorter flowering,
-  denser buds, and higher yields
-
-Each approach had its advocates. The equatorial approach preserved what many
-considered the authentic sativa experience, while the indica approach produced
-more commercially viable yields and was easier to cultivate.
-
-## Dominance in Hybrids
-
-The early-flowering trait is dominant in hybrid crosses, making equatorial
-photoperiod genetics one of the most valuable breeding tools available. A single
-Durban Poison parent can reliably reduce flowering time of any sativa hybrid by
-3-6 weeks. The dominance also means the trait persists through multiple
-generations of breeding, sometimes reappearing unexpectedly in complex polyhybrid
-crosses many generations removed from the original equatorial parent.
-
-## Limitations
-
-The approach has several notable limitations:
-
-- Reduced vegetative size may lower yield compared to longer-vegetating plants
-- Trait expression varies with cultivation latitude; the closer to the equator,
-  the less pronounced the early-flowering effect
-- Widespread use of Durban Poison as a parent has created a [[cervantes-genetic-bottleneck-and-diversity-loss]]
-  in outdoor [[cannabis-sativa-breeding-evolution]]
-- Some growers report slightly different effect profiles in equatorial
-  photoperoid hybrids, though this is subjective and difficult to quantify
-
-## Modern Relevance
-
-As the cannabis industry has shifted toward indoor cultivation with controlled
-photoperiods, the equatorial photoperiod trait has become less critical for
-commercial production. However, it remains highly relevant for outdoor growers,
-guerrilla cultivators, and breeders working to preserve sativa genetics. The
-current interest in heirloom and landrace preservation has renewed attention to
-these equatorial lines as valuable genetic resources.
-
-## See Also
-
-- [[darwin-phototropism-discovery-plant-light-perception]]
-
-- [[cannabis-photoperiod-flowering-cycle]]
-
-- [[trainwreck-generational-breeding]]
-- cannabis photoperiodism
-- sativa domestication

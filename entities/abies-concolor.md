@@ -87,29 +87,3 @@ The species forms ectomycorrhizal associations with a diverse fungal community, 
 White fir is susceptible to several important pathogens and pests. Annosus root disease (Heterobasidion annosum) causes significant butt rot and mortality in managed stands, while the fir engraver beetle (Scolytus ventralis) attacks weakened or stressed trees.
 
 The species is increasingly impacted by drought-induced mortality as [[dighton-fungi-climate-change-feedback]] intensifies summer water stress across western forests. White fir has experienced elevated mortality rates during recent droughts, particularly at lower elevational range margins and on droughty sites.
-
-White fir is also a host for mistletoe species (Arceuthobium abietinum), which causes branch swelling, reduced growth, and increased susceptibility to secondary insect attack. Heavily infected trees experience significant growth reduction and may eventually die.
-
-## Uses and Significance
-
-White fir wood is used primarily for general construction framing, plywood, and pulp. The wood is relatively soft and lightweight, with a low strength-to-weight ratio compared to other commercial conifers, which limits its structural applications.
-
-The species is one of the most popular Christmas tree species in the western United States, valued for its symmetrical form, soft blue-green needles, excellent needle retention, and pleasant citrus fragrance. Commercial Christmas tree plantations produce millions of white fir trees annually.
-
-Indigenous peoples of the Sierra Nevada and Rocky Mountains used white fir bark for basketry, medicine, and roofing material. The resin was applied to wounds and used as a waterproofing agent, and the needles were brewed into tea for medicinal purposes.
-
-White fir pitch was used medicinally for treating respiratory ailments, wounds, and skin conditions. The soft inner bark was sometimes chewed as a food source during periods of scarcity, though it was less commonly used as food than ponderosa pine bark.
-
-White fir occupies a critical ecological niche as a late-successional and climax species in western montane forests. Its shade tolerance, longevity, and ability to regenerate in the understory make it a key structural component of old-growth mixed-conifer ecosystems.
-
-As fire exclusion continues to shift forest composition toward shade-tolerant species, white fir is expected to play an increasingly dominant role in western forests. Managing this successional trend while maintaining structural and compositional diversity remains a central challenge for forest managers.
-
-## See Also
-
-- [[abies-grandis]]
-- [[abies-nordmanniana]]
-- [[pinus-ponderosa]]
-- [[cedrus-libani]]
-- [[picea-abies]]
-- [[juniperus-virginiana]]
-- [[thuja-plicata]]

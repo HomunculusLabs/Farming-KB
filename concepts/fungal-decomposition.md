@@ -110,3 +110,17 @@ Fungi are fundamental to pedogenesis (soil formation):
 - [[mushroom-composting-and-recycling]]
 - [[mycorrhizal-fungi]]
 - [[mushroom-species-guide]]
+## Practical Cultivation Notes
+
+Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
+
+## Safety Considerations
+
+Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
+
+## See Also
+- [[aact-fungal-dominant-tea]]
+- [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
+- [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
+- [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]]
+- [[air-pollution-fungal-community-responses]]

@@ -15,7 +15,7 @@ sources:
   - Evans WC (2009). "Trease and Evans' Pharmacognosy." 16th ed. Elsevier.
   - "Senna alexandrina." Royal Botanic Gardens, Kew. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:542904-1
   - Van Gorkom BA et al. (1999). "Review article: the pharmacology and physiology of anthranoid laxatives." Alimentary Pharmacology & Therapeutics 13(6): 687-696.
-  - Blumenthal M et al. (2000). "Herbal Medicine: Expanded Commission E Monographs." American Botanical Council.
+  - Blumenthal M et al. (2000). "[[childrens-herbal-medicine]]: Expanded Commission E Monographs." American Botanical Council.
 created: 2026-05-07
 ---
 
@@ -83,61 +83,7 @@ The primary active constituents are **anthraquinone glycosides**, collectively k
 - **Sennoside A and B** (dianthrone glycosides) — the principal laxative agents.
 - **Sennoside C and D** — structurally related glycosides with similar but weaker activity.
 - **Aloe-emodin** and **rhein** — anthraquinone aglycones with documented anti-inflammatory and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
-- **Kaempferol** and other flavonoids — contribute antioxidant activity.
+- **[[kaempferol]]** and other flavonoids — contribute antioxidant activity.
 - **Mucilage polysaccharides** — provide a soothing coating effect on the gastrointestinal tract.
 
 **Mechanism of action:**
-
-Sennosides are prodrugs that are not absorbed in the upper GI tract.
-
-They reach the colon intact, where they are hydrolyzed by intestinal bacterial β-glycosidases into the active metabolite **rhein anthrone**.
-
-Rhein anthrone stimulates the myenteric plexus, increasing colonic motility and peristalsis.
-
-It also inhibits water and electrolyte absorption in the colon, resulting in softer stools.
-
-Onset of action typically occurs 6–12 hours after oral administration.
-
-## Traditional and Modern Uses
-
-**Traditional medicine:**
-
-- Ancient Egyptian papyri (Ebers Papyrus, c. 1550 BCE) describe senna as a treatment for constipation.
-- Arabian physicians including Ibn Sina (Avicenna) recommended senna in their medical texts.
-- Ayurvedic medicine uses senna (*Sanay*) as a purgative for constipation, skin diseases, and as a detoxifying agent.
-- Unani and Siddha systems also employ senna for digestive complaints.
-
-**Modern pharmaceutical use:**
-
-- Standardized senna extracts and sennoside preparations are among the most widely prescribed and over-the-counter laxatives globally.
-- Common formulations include tablets, granules, syrups, and tea bags.
-- Used for acute and chronic constipation, bowel preparation before diagnostic procedures, and postoperative constipation management.
-- Senna is recommended as a first-line stimulant laxative by multiple clinical guidelines.
-
-**Safety and precautions:**
-
-- Long-term use or overuse can lead to electrolyte imbalance, hypokalemia, and melanosis coli.
-- Contraindicated in patients with intestinal obstruction, acute [[blesching-cannabis-inflammatory-bowel-disease]] disease, or severe dehydration.
-- Not recommended for use during pregnancy or lactation without medical supervision.
-
-## Cultivation
-
-Senna is cultivated as an annual or biennial crop, with leaves harvested 2–3 times during the [[savory-growing-season-and-non-growing-season-management]].
-
-Leaflets are typically hand-picked, dried in shade to preserve sennoside content, and then processed for pharmaceutical extraction.
-
-Pods are harvested when fully mature and dried similarly.
-
-India is the world's largest producer, with the Tinnevelly district of Tamil Nadu being the traditional center of cultivation.
-
-Average sennoside content in dried leaves ranges from 1.5–3.0%, with [[aact-compost-quality-standards-ingham]] requiring minimum 2.5% for pharmaceutical grade.
-
-## See Also
-
-- [[senna-alata]]
-
-- [[rheum-palmatum]]
-- [[hypericum-perforatum]]
-- ocimum-sanctum
-- [[ziziphus-jujuba]]
-- tinospora-cordifolia

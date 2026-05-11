@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis hashish screening and pressing and Pressing
+title: Cannabis Hashish Screening And Pressing
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,13 +10,13 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 17)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 17)
 
 Hashish (hash) is a concentrated cannabis product made by collecting and compressing the resinous trichomes from the plant surface. Greg Green covers screening and pressing techniques in detail.
 
 ## What Is Skuff
 
-Skuff is the collected trichome material (glandular heads and stalks) separated from the plant matter using screens. It is the raw material used to make hashish. The stalked capitate trichomes — the mushroom-shaped resin glands found on female flowers and nearby leaves — are the target of collection.
+Skuff is the collected trichome material (glandular heads and stalks) separated from the plant matter using screens. It is the raw material used to make hashish. The stalked capitate trichomes — the mushroom-shaped [[greg-green-trichomes-and-resin-glands]] found on female flowers and nearby leaves — are the target of collection.
 
 ## Hashish Grades
 
@@ -80,35 +80,10 @@ Once you have collected skuff, it needs to be pressed into hashish:
 5. This produces softer, more pliable hash than mechanical pressing
 
 ### Factors Affecting Quality
-- **Source material quality**: The more trichome-rich the starting material, the better the hash
+- **Source material quality**: The more trichome-rich the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]], the better the hash
 - **Collection temperature**: Cold separation produces cleaner results
 - **Screen quality**: Consistent mesh sizes give better separation
 - **Pressing technique**: Even pressure without overheating preserves terpenes and potency
 - **Curing**: Like buds, hash improves with proper curing
 
 ## Equipment
-
-- **Screens**: Stainless steel mesh screens in various micron sizes
-- **Bubble bags**: Screen bags designed for ice water extraction
-- **Pollinator/tumbler**: Mechanical devices that tumble plant material over screens
-- **Press**: A hash press, c-clamp, or even a hair straightener for small quantities
-- **Parchment paper**: For [[hashish-binding-pressing-and-storage-techniques]]
-- **Collection cards**: Credit cards or similar for gathering sifted material
-
-## Storage
-
-Store hashish in:
-- Airtight glass containers
-- Cool, dark location
-- Refrigeration for long-term storage
-- Properly cured and stored hash can remain potent for months to years
-
-## Related
-
-- [[cannabis-rosin-pressing]]
-
-- [[cannabis-hashish-guide]] — comprehensive hash making guide
-- [[cannabis-trichome-guide]] — understanding [[greg-green-trichomes-and-resin-glands]]
-- [[cannabis-harvest-timing-visual-cues]] — harvesting for peak trichome production
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[cannabis-hash-making-from-extracted-oil]]

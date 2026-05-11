@@ -20,7 +20,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd Edition, CRC Press.
-  - Blumenthal, M., Goldberg, A. & Brinckmann, J. (2000). "Herbal Medicine: Expanded Commission E Monographs." American Botanical Council.
+  - Blumenthal, M., Goldberg, A. & Brinckmann, J. (2000). "[[childrens-herbal-medicine]]: Expanded Commission E Monographs." American Botanical Council.
   - Rivero, D. et al. (2004). "Antibacterial activity of Ruta graveolens L." Fitoterapia, 75(6), 599–602.
   - Srivastava, S. & Gupta, M.M. (2010). "Ruta graveolens: A review." Pharmacognosy Reviews, 4(8), 159–165.
 ---
@@ -32,7 +32,7 @@ sources:
 *Ruta graveolens*, commonly known as rue, herb-of-grace, or bitter herb, is a
 perennial aromatic plant in the family Rutaceae. Native to the Balkan
 Peninsula and southeastern Europe, rue has been cultivated for over 3,000
-years as a medicinal and culinary herb. It was a staple of classical
+years as a [[holzer-medicinal-and-culinary-herbs-compendium]] herb. It was a staple of classical
 Mediterranean pharmacology and Roman cuisine but has declined in modern use
 due to its toxicity at therapeutic doses. The species name *graveolens* means
 "strong-smelling," referring to its pungent, bitter aroma.
@@ -73,7 +73,7 @@ once established.
 Rue is native to the Balkan Peninsula (particularly the Dalmatian coast of
 modern Croatia), Greece, and southern Italy. It has been widely naturalized
 across southern and central Europe, North Africa, the Middle East, and
-temperate regions of North and South America. The plant prefers well-drained,
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of North and [[guzman-psilocybin-mushrooms-south-america]]. The plant prefers well-drained,
 calcareous soils in full sun and tolerates drought, poor soils, and
 moderate salinity. It is hardy to USDA zones 4–9.
 
@@ -88,58 +88,3 @@ contribute to both its medicinal activity and its toxicity:
   exposure. Psoralen is used therapeutically in PUVA therapy for vitiligo
   and psoriasis.
 - **Alkaloids:** Rutacridone, graveoline, and other acridone and quinoline
-  alkaloids. These contribute to the plant's bitter taste and uterine-
-  stimulating properties.
-- **Essential oil:** Rich in 2-undecanone (methyl nonyl ketone, ~90%),
-  with demonstrated antibacterial, antifungal, and insecticidal activity.
-- **Flavonoids:** Rutin (named for *Ruta*), quercetin, and kaempferol
-  glycosides. Rutin strengthens capillary walls and is anti-inflammatory.
-
-## Traditional and Historical Uses
-
-Rue has one of the longest recorded histories of any medicinal herb.
-In ancient Rome it was consumed as a culinary bitter and believed to
-preserve eyesight. Pliny the Elder and Dioscorides documented its use
-for digestive complaints, menstrual regulation, and as an antidote to
-poison. In medieval Europe, rue was a component of Four Thieves Vinegar
-and was strewn on floors to ward off plague and insects.
-
-The plant has been used traditionally as an emmenagogue (to stimulate
-menstruation) and abortifacient, which is one of its most significant and
-dangerous applications. Rue extracts have well-documented uterotonic
-activity in animal studies.
-
-## Safety and Toxicity
-
-Rue is **not recommended for internal use** in modern herbal medicine due to
-its narrow [[blesching-cannabis-therapeutic-window-dosing]]. Toxic effects include gastrointestinal
-distress (nausea, vomiting, abdominal pain), uterine stimulation and
-potential miscarriage in pregnant women, hepatotoxicity and nephrotoxicity
-at high doses, and severe phototoxic skin reactions from external exposure.
-The essential oil is particularly dangerous and should never be ingested.
-Topical application must be followed by sunlight protection for 24 hours
-due to the phototoxic furanocoumarins.
-
-## Modern Research
-
-Contemporary research has investigated rue for antimicrobial activity, anti-
-inflammatory effects, and potential anticancer properties. The essential oil
-shows promising activity against Gram-positive bacteria and certain fungal
-pathogens. Acridone alkaloids from rue have demonstrated cytotoxic activity
-against several cancer cell lines in vitro. However, [[mushroom-cancer-clinical-trials-overview]] are
-lacking, and the toxicity profile limits any potential therapeutic development.
-
-## Cultivation
-
-Rue is easily grown from seed (stratification improves germination) or
-semi-hardwood cuttings. Plants prefer full sun, well-drained soil, and
-minimal irrigation once established. Pruning after flowering maintains a
-compact shape. In permaculture and [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], rue is sometimes
-used as an insect-repellent border plant, though evidence for efficacy is
-largely anecdotal. Rue should not be planted near [[holzer-medicinal-and-culinary-herbs-compendium]], as its
-strong volatile oils can taint nearby plants.
-## See Also
-
-- [[artemisia-absinthium]]
-- [[thymus-vulgaris-entity]]
-- [[origanum-vulgare-entity]]

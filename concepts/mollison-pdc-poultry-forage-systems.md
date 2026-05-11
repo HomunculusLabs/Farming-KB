@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -59,7 +60,7 @@ They often die at roost, having laid the day before."
 ## The Chicken Orchard System
 
 The PDC describes an integrated chicken-orchard combining poultry with
-fruit and nut trees:
+fruit [[holzer-sweet-chestnut-and-nut-trees]]:
 
 - Chinese chestnuts and hazelnuts planted in the range double and
   quadruple nut yield
@@ -79,57 +80,11 @@ husk mulch for zone one.
 Chickens in forage systems provide significant pest control:
 
 - They eat encysted parasite eggs; road kill can be hung in runs to
-  produce fly larvae for chicken feed
+  produce [[black-soldier-fly-larvae-as-feed]] for chicken feed
 - Chickens with plums and cherries sharply reduce crawling and flying
   pests, including soil pests that re-emerge
 - Ducks are exceptional fly catchers and eat snails carrying fluke,
   protecting sheep health
-- Insect-attracting plants bring insect protein to the range
+- Insect-attracting plants bring [[black-soldier-fly-farming-and-insect-protein]] to the range
 
 ## Duck Integration
-
-Ducks offer complementary functions in the forage system:
-
-- Ducks do not compete with sheep for forage
-- They eat two things fatal to sheep: shallow water snails that carry
-  fluke, and fluke eggs themselves
-- Ducks catch flies effectively when baited with attractants
-- They work well in orchards, cleaning fallen fruit that could harbor
-  overwintering pests
-
-## Protection and Escapement Design
-
-Mollison's editor notes that poultry escapement designs face challenges
-from predators like raccoons. Key protection strategies:
-
-- Thorny patches like African boxthorn protect breeding hens; chickens
-  slip through due to scaly legs while predators cannot
-- Slash piles and protective tree plantings give food plants time to
-  establish before animals reach them
-- Ducks with sheep create a synergistic, hygienic system
-
-## Native Forage and Forest Establishment
-
-Mollison advocates studying early explorer accounts to identify native
-forage species. [[psilocybin-north-america-pacific-northwest]] once had vast wildfowl populations
-including turkey, pigeon, and duck ranges. Pioneer plants that step
-into grasslands without intensive care can serve as poultry forage and
-prepare sites for succession into larger tree crop systems.
-
-Nitrogen from animal populations passing through forest accelerates
-litter breakdown. Mollison describes finding English walnuts growing
-to 120 feet crown in old chicken pens, demonstrating long-term
-soil-building effects of integrated poultry systems.
-
-## Historical Systems and Forage Plants
-
-Mollison references several traditional forage associations:
-
-- Siberian peasants fed poultry [[oyster-mushroom-sunflower-seed-hull-substrate]] in mud balls
-- Canary Island tree lucerne ([[permaculture-tagasaste]]) was the number one chicken
-  seed forage among old settlers in Western Australia
-- Old Tasmanian pig sties are identifiable by oak trees the British
-  brought with their pigs and poultry
-- Every old chicken yard contains relics of these integrated systems
-
-## See Also

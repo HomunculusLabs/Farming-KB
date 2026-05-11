@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Cannabis plants are susceptible to a range of fungal, bacterial, and viral diseases. Prevention through environmental control and cultural practices is far more effective than treatment after infection. Most cannabis diseases thrive in specific environmental conditions — managing temperature, humidity, and airflow per [[cannabis-environment-control]] eliminates the majority of disease risk.
+Cannabis plants are susceptible to a range of fungal, bacterial, and viral diseases. Prevention through [[chen-maitake-growth-parameters-environmental-control]] and cultural practices is far more effective than treatment after infection. Most cannabis diseases thrive in specific environmental conditions — managing temperature, humidity, and airflow per [[cannabis-environment-control]] eliminates the majority of disease risk.
 
 ## Bud Rot (Botrytis cinerea / Gray Mold)
 
-Bud rot is the most feared disease in cannabis [[cannabis-nutrient-deficiency-and-toxicity-guide]] cultivation. It attacks from the inside of dense buds, making early detection difficult.
+Bud rot is the most feared disease in [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. It attacks from the inside of dense buds, making early detection difficult.
 
 ### Identification
 
@@ -46,11 +46,11 @@ Bud rot is the most feared disease in cannabis [[cannabis-nutrient-deficiency-an
 - Dispose of infected material outside the grow space (do not compost)
 - Increase airflow and reduce humidity immediately
 - If more than 10-15% of the plant is affected, consider early harvest
-- Apply preventative biological sprays (Trichoderma, Bacillus subtilis) to remaining plants
+- Apply preventative biological sprays (Trichoderma, [[bacillus-subtilis]]) to remaining plants
 
 ## Powdery Mildew (Podosphaera macularis)
 
-A fungal disease [[cannabis-nutrient-deficiency-and-toxicity-guide]] that appears as white powdery spots on leaf surfaces. Unlike most fungi, powdery mildew does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
+A fungal disease that appears as white powdery spots on leaf surfaces. Unlike most fungi, powdery mildew does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
 
 ### Identification
 
@@ -117,7 +117,7 @@ Root rot encompasses several conditions that destroy the root system, most commo
 - Repot in fresh, well-draining medium
 - Drench with beneficial microbe solution (Trichoderma, Bacillus subtilis)
 - Reduce watering frequency significantly
-- In hydroponics: add hydrogen peroxide (3%, 3 ml per gallon) for emergency oxygen boost; add beneficial bacteria
+- In hydroponics: add [[cervantes-hydrogen-peroxide-sterilization]] (3%, 3 ml per gallon) for emergency oxygen boost; add beneficial bacteria
 - Treat water with UV sterilization for ongoing prevention
 
 ## Fusarium Wilt (Fusarium oxysporum)

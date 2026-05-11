@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,33 +88,3 @@ Fukuoka was careful to distinguish his vision from simple nostalgia or anti-tech
 The key insight is that the same knowledge that enables centrifugal expansion, when applied with a different consciousness, can support centripetal contraction. Understanding soil ecology, for example, can be used either to exploit the soil more intensively or to restore its [[fukuoka-natural-fertility-cycle]]. The difference lies not in the knowledge itself but in the intention and consciousness behind its application.
 
 ## The Decentralized Village Model
-
-Fukuoka envisioned a future of decentralized, self-sufficient communities rather than a return to isolated subsistence farming. Eighty percent of Japan consists of mountains and valleys. Depopulated mountain villages that have lost their inhabitants to the cities could be repurposed as models for sustainable living. These communities would integrate farming, forestry, animal husbandry, and craft production in a balanced relationship with the local ecosystem.
-
-The economic model would not be based on maximizing production for export but on meeting local needs while maintaining the health of the land. This is what Fukuoka called mu economics, an economics beyond money that values the health of the ecosystem above monetary profit. In such communities, the boundary between farm and forest, between cultivated and wild, would dissolve. People would live within the ecosystem rather than attempting to control it from outside.
-
-## The Spiritual Dimension
-
-Underlying Fukuoka's civilizational theory is a spiritual conviction that humanity has strayed from its true nature. The farmer who works with nature experiences a spiritual peace and security that cannot be had through mechanized farming. The rice paddy was once the arbor of the soul, and farmers gazed upon a thousand moons reflected in a thousand paddies.
-
-As the agrarian scenes of yesterday are rapidly swept off by the tide of modernization, we might do well to consider whether we can afford to lose the aesthetic spirit of our farming forbears. But of one thing Fukuoka was certain: fields and rice paddies imbued with this spirit will reappear again somewhere, someday.
-
-Fukuoka writes that the only future for man lies in returning to this unity with nature. Not through the dialectical synthesis of opposing forces but through the intuitive recognition that man and nature are one. The path forward is not backward but inward, toward the center from which all things emerge and to which all things return.
-
-## Wikilinks
-
-- [[fukuoka-dharmic-law-all-things-return-to-one]]
-- [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
-- [[fukuoka-mahayana-and-hinayana-natural-farming]]
-- [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
-- [[fukuoka-textdoc-laying-waste-land-sea]]
-
-## Historical Parallels
-
-Fukuoka's cycle finds echoes in many civilizations. The Roman Empire expanded centrifugally across the Mediterranean, extracted resources from conquered territories, exhausted the soil of North Africa through intensive grain farming, and collapsed when the energy costs of maintaining the empire exceeded the returns. The Maya cleared forests for agriculture, built elaborate cities, and then abandoned them when the ecosystem could no longer support the population.
-
-Modern industrial civilization is following the same pattern at a global scale. Fossil fuels provide the energy for centrifugal expansion that agricultural surplus once provided for earlier civilizations. When fossil fuel depletion makes continued expansion impossible, the centripetal contraction will be correspondingly severe because the scale is so much larger.
-
-## The Farmer as Agent of Restoration
-
-Fukuoka saw the natural farmer as a quiet revolutionary whose work directly opposes the centrifugal tendencies of civilization. Every acre farmed naturally is an acre withdrawn from the cycle of extraction and exploitation. Every farmer who rejects chemical inputs reduces the demand for the industrial infrastructure that drives environmental destruction. The restoration of the land is simultaneously the restoration of human consciousness and the beginning of the return to center.

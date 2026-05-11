@@ -1,8 +1,8 @@
 ---
-title: "PowerSoil DNA Isolation and 16S rRNA Sequencing for Cannabis Microbiome"
+title: Power Soil Dna Isolation 16S Microbiome
 slug: "power-soil-dna-isolation-16s-microbiome"
 tags: [microbiome, dna-extraction, 16s-rrna, illumina, sequencing-methodology, cannabis]
-source: [[understanding-cultivar-specificity-cannabis-microbiome]]
+source: [[cannabis-microbiome-cultivar-specificity]]
 created: 2026-05-10
 ---
 
@@ -10,17 +10,17 @@ created: 2026-05-10
 
 ## Overview
 
-The Winston et al. (2014) Cannabis microbiome [[16s-rrna-sequencing-microbiome-analysis-cannabis]] study employed a standardized molecular workflow combining MO BIO PowerSoil DNA isolation with Illumina MiSeq 16S rRNA V4 amplicon sequencing following the Earth Microbiome Project (EMP) protocols. This pipeline enabled the first comprehensive characterization of bacterial communities across the endorhiza, rhizosphere, and bulk soil compartments of Cannabis.
+The Winston et al. (2014) Cannabis microbiome [[16s-rrna-sequencing-microbiome-analysis-cannabis]] study employed a standardized molecular workflow combining MO BIO PowerSoil DNA isolation with Illumina MiSeq 16S rRNA V4 amplicon sequencing following the Earth Microbiome Project (EMP) protocols. This pipeline enabled the first comprehensive characterization of [[cannabis-endorhiza-bacterial-communities]] across the endorhiza, rhizosphere, and bulk soil compartments of Cannabis.
 
 ## DNA Extraction: PowerSoil Kit with Modifications
 
 ### Standard Protocol
 
-DNA was isolated from 0.25 g of soil or root tissue per extraction using the MO BIO PowerSoil DNA Isolation Kit (now Qiagen DNeasy PowerSoil Pro). The PowerSoil kit was specifically designed for environmental samples, incorporating inhibitor removal technology to handle the humic acids, polyphenols, and other PCR-inhibiting compounds common in soil and root samples.
+DNA was isolated from 0.25 g of soil or root tissue per extraction using the MO BIO PowerSoil DNA Isolation Kit (now Qiagen DNeasy PowerSoil Pro). The PowerSoil kit was specifically designed for environmental samples, incorporating inhibitor removal technology to handle the [[humic-acids-soil-biology-ingham]], polyphenols, and other PCR-inhibiting compounds common in soil and root samples.
 
 ### Critical Modification
 
-The study introduced one important deviation from the standard PowerSoil protocol: samples were heated at 65°C for 10 minutes prior to the initial vortex step. This pre-heating step likely improved cell lysis, particularly for Gram-positive bacteria with robust peptidoglycan cell walls that are notoriously difficult to lyse in soil microbiome studies. This modification is notable because differential lysis efficiency can introduce systematic bias into community composition estimates.
+The study introduced one important deviation from the standard PowerSoil protocol: samples were heated at 65°C for 10 minutes prior to the initial vortex step. This pre-heating step likely improved cell lysis, particularly for Gram-positive bacteria with robust peptidoglycan [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that are notoriously difficult to lyse in soil microbiome studies. This modification is notable because differential lysis efficiency can introduce systematic bias into [[core-endorhiza-bacterial-community-composition-cannabis]] estimates.
 
 ### Sample Preparation Considerations
 
@@ -88,62 +88,3 @@ The 30% PhiX spike is notably high (typical runs use 5-15%) — necessary becaus
 ### Illumina MiSeq Run Configuration
 
 - **Run type:** 151 bp paired-end with 12 bp index reads (151×12×151)
-- **Custom sequencing primers** per Caporaso et al. (2012)
-
-## Bioinformatic Processing
-
-### Quality Control and OTU Picking
-
-- QIIME 1.7.0 used for all sequence analysis
-- Default QIIME quality filtering applied to raw Illumina data
-- Experiment 1: Open reference OTU-picking against Greengenes (97% identity) with de novo clustering of unassigned sequences
-- Experiment 2: Both closed and open reference methods employed
-- Sequences failing PyNAST alignment discarded
-
-### Taxonomic Assignment
-
-- RDP classifier retrained on Greengenes core set
-- Phylogenetic tree built with FastTree from aligned sequences
-- Functional inference not performed (compositional study only)
-
-### Rarefaction
-
-- Experiment 1: Rarefied to 3,000 sequences (4 samples discarded)
-- Experiment 2: Rarefied to 45,000 sequences (1 sample discarded)
-- The 15× difference in rarefaction depth reflects both deeper sequencing and later standardization of EMP protocols
-
-## Technical Considerations for Cannabis Samples
-
-### Inhibitor Challenges
-
-Cannabis root and soil samples present particular challenges for DNA extraction:
-
-- **Terpenes and cannabinoids** are organic compounds that can co-extract with DNA and inhibit downstream PCR
-- The alcohol rinse step was critical for removing surface terpenes before endorhiza extraction
-- PowerSoil inhibitor removal beads specifically target humic substances but may not fully address cannabinoid interference
-
-### Root vs. Soil Lysis Efficiency
-
-- Root tissue requires more aggressive lysis than soil to access endophytic bacteria
-- The 65°C pre-heating modification likely improved root endophyte recovery
-- However, differential lysis between easily-lysed soil bacteria and protected endophytes could bias relative abundance estimates
-
-### Contamination Controls
-
-The study did not explicitly mention extraction blanks or negative PCR controls, which is a notable omission by modern standards. Field blanks and kit-only extraction controls are now considered essential for identifying reagent contamination, particularly in low-biomass endorhiza samples.
-
-## Impact on Results Interpretation
-
-The methodological choices in this study directly influenced its findings:
-
-- The V4 region provides good bacterial resolution but cannot distinguish among closely related *Pseudomonas* or *Sphingomonas* species
-- The moderate rarefaction depth in Experiment 1 (3,000 sequences) may have undersampled rare taxa, potentially missing strain-specific low-abundance OTUs
-- The 30% PhiX spike, while necessary for quality, consumed significant sequencing capacity
-- Lack of fungal markers (ITS) meant the mycorrhizal dimension — known to be important in Cannabis — was completely missed
-
-## See Also
-
-- [[winston-cannabis-microbiome-study-design]] — experimental design overview
-- [[16s-rrna-sequencing-microbiome-analysis]] — general 16S methodology
-- [[cannabis-microbiome-two-tier-selection]] — findings from this workflow
-- [[cannabis-microbiome-cultivar-specificity]] — cultivar-specific community patterns

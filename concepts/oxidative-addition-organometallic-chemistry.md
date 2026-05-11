@@ -1,7 +1,7 @@
 ---
-title: "Oxidative Addition in Organometallic Chemistry"
+title: Oxidative Addition Organometallic Chemistry
 aliases: [oxidative addition, oxidative addition reaction, metal insertion]
-tags: [organometallic-chemistry, catalysis, inorganic-chemistry, [[pericyclic-reactions-organic-chemistry|organic]]-chemistry, reaction-mechanisms]
+tags: [organometallic-chemistry, catalysis, inorganic-chemistry, [[pericyclic-reactions-organic-chemistry|organic]-chemistry, reaction-mechanisms]
 created: 2026-05-03
 updated: 2026-05-06
 type: concept
@@ -25,7 +25,7 @@ attached, the fragments can migrate, insert, exchange, or recombine to make new 
 The reaction is favored when the metal center is electron-rich, coordinatively unsaturated, and capable of accessing a higher oxidation
 state. Low-valent d8 and d10 complexes of palladium, platinum, iridium, rhodium, nickel, and related metals commonly participate.
 
-A vacant coordination [[holmgren-site-design-as-cellular-design|site]] or a ligand that can dissociate is usually needed. Four- coordinate square-planar complexes and five-coordinate
+A vacant coordination [[holmgren-site-design-as-cellular-design]] or a ligand that can dissociate is usually needed. Four- coordinate square-planar complexes and five-coordinate
 complexes are common starting points because they can accept additional ligands without severe steric or electronic penalty.
 
 Electron-donating ligands promote oxidative addition by increasing metal basicity and back-donation into antibonding orbitals of the
@@ -89,51 +89,9 @@ introduces a second organic group, and reductive elimination releases the couple
 Hydrogenation and hydrofunctionalization also use oxidative addition. H2, silanes, boranes, or hydrides can add to a metal, creating metal
 hydride species that transfer hydrogen or hydride equivalents to unsaturated substrates.
 
-C-H activation chemistry expands the concept by using oxidative addition-like steps to functionalize bonds that lack conventional leaving
-groups. This can shorten syntheses, but it requires exquisite control over site selectivity and competing pathways.
-
-## Thermodynamics and Kinetics
-
-The driving force depends on the strength of the bond being broken, the strength of the new metal-ligand bonds, ligand reorganization,
-solvent stabilization, and the redox accessibility of the metal center. Strong H-H and C-H bonds require especially favorable metal-
-substrate interactions.
-
-Kinetic barriers can be tuned with ligand design. Electron-rich phosphines, N-heterocyclic carbenes, and pincer ligands often accelerate
-addition into aryl chlorides or otherwise sluggish substrates by making the metal more reducing and nucleophilic.
-
-Steric effects are dual. Bulky ligands can open a low-coordinate site by discouraging ligand association, yet they can also block approach
-of a large substrate or destabilize the higher-coordinate oxidative-addition product.
-
-Solvent and additives influence halide abstraction, ion-pair separation, ligand dissociation, and aggregation. Apparent rates in catalytic
-reactions may reflect pre- equilibria rather than the intrinsic oxidative-addition step alone.
-
-## Stereochemical Consequences
-
-Concerted additions to H2, Si-H, or some C-H bonds tend to put the two new ligands cis on the metal. Subsequent ligand rearrangement,
-hydride migration, or isomerization can obscure this initial geometry.
-
-SN2-like additions to alkyl electrophiles can invert configuration at carbon. Radical pathways can racemize stereocenters or produce
-rearranged products, making stereochemical probes powerful mechanistic tools.
-
-In cross-coupling, oxidative addition sets the geometry and oxidation state for later transmetalation and reductive elimination. If the
-oxidative-addition complex is too stable, catalyst turnover can stall despite rapid substrate activation.
-
-## Practical Considerations
-
-Air and moisture sensitivity are common because many low-valent organometallic precatalysts and ligands are easily oxidized. Reactions may
-require glovebox handling, Schlenk techniques, degassed solvents, or in situ generation of the active species.
-
-Aryl chlorides are attractive industrial substrates because they are cheap and available, but their stronger C-Cl bonds make oxidative
-addition harder than for aryl bromides or iodides. Ligand design was crucial for making aryl chloride coupling broadly useful.
-
-Competing beta-hydride elimination, ligand oxidation, metal black formation, and catalyst poisoning can all prevent productive catalysis
-even when oxidative addition occurs. Mechanistic studies therefore track every step of the catalytic cycle, not only substrate activation.
-## Related Concepts
-
-Oxidative addition links organometallic chemistry, coordination chemistry, cross coupling catalysis, c h activation,
-ligand field theory, and [[photoredox-catalysis]]
-- [[fenton-reaction-chemistry-and-biochemistry]]
-
 ## See Also
-
 - [[oxidative-addition-vs-photoredox-catalysis]]
+- [[staycare-organometallic-compound-dealkylation-by-fungi]]
+- [[2c-family-chemistry-and-sar-pihkal]]
+- [[mckenna-banisteriopsis-caapi-harmine-mao-inhibition-chemistry]]
+- [[psilocybin-chemistry-pharmacology]]

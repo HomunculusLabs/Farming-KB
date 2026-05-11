@@ -1,7 +1,7 @@
 ---
 title: Habit as Culture and Religion
 source: mckenna_t-food_of_the_gods.md
-author: Terence McKenna
+author: [[terence-mckenna]]
 chapter: 5 - Habit as Culture and Religion
 tags: [mckenna, shamanism, culture, religion, ecstasy, monotheism, dominator]
 ---
@@ -30,7 +30,7 @@ the entire community participated in rituals surrounding the shaman's
 journey.
 
 Unlike alcohol, which tends toward aggression and social fracturing,
-the tryptamine experience tends toward unity, interconnectedness, and
+the [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] tends toward unity, interconnectedness, and
 dissolution of self-other boundaries. McKenna argues this ego-dissolving
 quality was essential to partnership societies.
 
@@ -73,14 +73,14 @@ The shift to [[mckenna-dominator-culture-and-suppression-of-ecstasy]] transforme
 ### Iboga Among the Fang
 
 McKenna cites iboga (*[[plants-of-the-gods-tabernanthe-iboga-chemistry]]*) use among the Fang of Gabon
-as a surviving archaic practice. The Bwiti religion centers on iboga
+as a surviving archaic practice. The [[iboga-bwiti-religion]] centers on iboga
 use and represents continuous plant-based spirituality predating both
 Christianity and Islam in sub-Saharan Africa. Bwiti practice involves:
 
 - Initiation ceremonies lasting several days
 - Visionary encounters with ancestors
 - Community bonding and moral instruction
-- Therapeutic applications for addiction and psychological distress
+- [[psilocybin-therapeutic-applications]] for addiction and psychological distress
 
 McKenna contrasts Bwiti's integrative nature with the atomizing,
 authority-driven nature of pathological monotheism.
@@ -88,34 +88,3 @@ authority-driven nature of pathological monotheism.
 ## Contrasts in Sexual Politics
 
 The partnership/dominator divide is most visible in sexual politics:
-
-| Partnership Societies | Dominator Societies |
-|---|---|
-| Egalitarian gender relations | Hierarchical patriarchal relations |
-| Sacred sexuality connected to plants | Sexuality regulated and controlled |
-| Goddess worship, feminine divine | Male-only priesthood |
-| Shamanic practices open to both genders | Suppression of ecstatic experience |
-| Community-oriented child-rearing | Nuclear family as social control unit |
-
-McKenna argues that suppressing plant hallucinogens was essential to
-establishing dominator control. Without shared ecstatic experience's
-bonding power, communities could be divided through hierarchies,
-laws, and threat of violence.
-
-## The Vegetable Mind
-
-Psychoactive plants represent an alien intelligence co-evolved with
-humanity, communicating through the chemistry of altered consciousness.
-The "vegetable mind" provides insights, healing, and connection to
-the web of life. Severing this relationship has been catastrophic for
-both human psychology and planetary ecology.
-
-## See Also
-
-- [[dominator-culture-and-partnership-society]] - Eisler's framework
-- [[soma-and-the-sacred-mushroom-debate]] - The [[mckenna-search-for-soma-vedic-enigma]]
-- [[eleusinian-mysteries]] - Suppressed Greek psychedelic religion
-
-McKenna's framework illuminates modern [[mckenna-modest-proposal-drug-policy-reform]] wars as fundamentally
-religious conflicts — between those seeking direct sacred experience
-and those insisting the sacred requires institutional mediation.

@@ -1,5 +1,5 @@
 ---
-title: Bloomfield bloomfield fungal biology and hyphal growth and bloomfields-orchard-hyphal-growth-and-invasive-biology
+title: Bloomfield Fungal Biology And Hyphal Growth
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Fungi are eukaryotic organisms that flourish by burrowing into solid substances and transforming them into food. They penetrate the toughest leaves, woody tissues, skin, bone, and even granite. [[fungal-hyphae-invasive-growth-mechanisms]] by filamentous hyphae is a uniquely fungal process. This page covers the fundamental biology of fungal cells, the mycelium, and the mechanisms of invasive growth as described in Nicholas Money's "Mr. Bloomfield's Orchard."
+Fungi are eukaryotic organisms that flourish by burrowing into solid substances and transforming them into food. They penetrate the toughest leaves, woody tissues, skin, bone, and even granite. [[fungal-hyphae-invasive-growth-mechanisms]] by filamentous hyphae is a uniquely fungal process. This page covers the fundamental biology of fungal cells, the mycelium, and the mechanisms of invasive growth as described in [[nicholas-money]]'s "Mr. Bloomfield's Orchard."
 
 ## Hyphal Architecture
 
@@ -26,7 +26,7 @@ Hyphae are eukaryotic cells with chromosomes housed in nuclei. The hyphal interi
 
 ## Mycelium Structure
 
-Fungi grow by extending hyphal tips and branching to initiate new hyphae. The resulting maze of filaments is the colony or mycelium — the feeding phase of the fungus. Mycelia develop inside their food source (substrate):
+Fungi grow by extending hyphal tips and branching to initiate new hyphae. The resulting maze of filaments is the colony or mycelium — [[fungal-mycelium-hyphae-and-the-feeding-phase]] of the fungus. Mycelia develop inside their food source (substrate):
 
 - In mushroom-forming basidiomycetes: submerged in soil or rotting wood beneath fruiting bodies
 - In pathogens: sunk into host tissues
@@ -61,7 +61,7 @@ Hyphae become pressurized (turgid) when water influx inflates the cytoplasm agai
 Fungi penetrate solid substrates through a combination of:
 
 1. **Enzymatic softening**: secretion of cellulose-degrading enzymes, proteases, and other wall-degrading compounds
-2. **Physical force**: hyphal tips exert forces of a few micronewtons; applied over tiny areas, this produces pressures of 1-50+ atmospheres. The rice blast fungus Magnaporthe grisea generates enough pressure to pierce Kevlar
+2. **Physical force**: hyphal tips exert forces of a few micronewtons; applied over tiny areas, this produces pressures of 1-50+ atmospheres. The rice blast fungus [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]] generates enough pressure to pierce Kevlar
 3. **Adhesion**: spores secrete potent adhesives for firm attachment before invasive hyphae form
 4. **Friction**: once buried in substrate, the convoluted mycelium surface grips surrounding material, bracing extending tips
 
@@ -74,7 +74,7 @@ Fungi penetrate solid substrates through a combination of:
 
 Melanized (dark-pigmented) fungi are ubiquitous and remarkably resilient:
 - Melanins are complex polymers that absorb all visible light plus UV, X-rays, and gamma rays, converting energy to harmless heat
-- They thrive on bathroom fittings, buildings, ancient statuary, and even in contaminated soils around Chernobyl
+- They thrive on bathroom fittings, buildings, ancient statuary, and even in [[fungal-competition-survival-contaminated-soils]] around Chernobyl
 - They stain masonry (often blamed on automobile soot), pit stone, and accelerate disintegration
 - Albino mutants are far less resilient: they shrivel under UV, die when temperature changes, or explode when attacked by wall-degrading enzymes
 - Melanin confers a barrier between cytoplasm and hostile surroundings, enabling fungi to rebuff poisons and prevent leaks
@@ -88,34 +88,3 @@ The process by which hyphae produce their cylindrical shapes from smooth-domed t
 - Development proceeds in layers: spore becomes hypha becomes mycelium becomes mushroom
 
 ## Ecological Significance
-
-Fungi are essential decomposers, pathogens, and symbionts:
-- Decompose wood, leaves, and all dead [[hamilton-composting-and-organic-matter-management]]
-- Form mycorrhizal associations with plant roots
-- Cause diseases in plants, animals, and humans
-- Some are edible; many produce toxins or psychoactive compounds
-- Rock-penetrating fungi dissolve granite with citric and oxalic acids, contributing to soil formation
-- Fossil mycorrhizal hyphae found inside primitive land plants from 400 million years ago
-- Fungal spores from 600+ million years ago suggest ancient plant-fungal partnerships
-
-- [[bloomfield-basidiomycete-biology-overview]]
-
-- [[bloomfield-gasteromycetes-puffballs-earthstars]]
-
-- [[bloomfield-fungal-parasites-of-insects]]
-- [[bloomfield-history-of-mycology-pioneers]]
-- [[bloomfield-truffle-hunting-and-culinary-fungi]]
-
-- [[mycelial-foraging-resource-allocation]]
-- [[mycorrhizal-edible-mushroom-species-overview]]
-- [[fungal-single-cell-protein-production]]
-- [[plant-cell-structure-and-organelles]]
-
-## See Also
-
-- [[fungal-growth-kinetics-mass-transfer]]
-- [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
-
-- [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
-
-- [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]]

@@ -11,7 +11,7 @@ updated: 2026-04-28
 sources:
   - Corner EJH (1966). "A Monograph of Cantharellus and Allied Genera." Nova Hedwigia Beihefte 33.
   - Breitenbach J, Kränzlin F (1991). "Fungi of Switzerland, Vol. 3: Boletes and Agarics." Verlag Mykologia.
-  - Kibby G (2016). "Mushrooms and Toadstools of Britain and Europe." FIELD Studies Council.
+  - Kibby G (2016). "Mushrooms and Toadstools of Britain and Europe." [[staycare-fungal-bioremediation-field-studies]] Council.
   - Petersen RH, Hughes KW (2010). "The genus Hygrophoropsis (Hygrophoropsidaceae)." Mycologia 102(1): 1-25.
   - Index Fungorum. "Hygrophoropsis aurantiaca (Wulfen) Maire." www.indexfungorum.org.
 created: 2026-04-28
@@ -19,7 +19,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Hygrophoropsis aurantiaca**, commonly known as the **false chanterelle**, is a species of fungus in the family Hygrophoropsidaceae. Despite its common name, it is not closely related to the true chanterelle (*Cantharellus cibarius*), though the two share a superficial resemblance in the field.
+**Hygrophoropsis aurantiaca**, commonly known as the **false chanterelle**, is a species of fungus in the family Hygrophoropsidaceae. Despite its common name, it is not closely related to the true chanterelle (*[[cantharellus-cibarius-entity]]*), though the two share a superficial resemblance in the field.
 
 The false chanterelle is widely distributed across temperate forests of Europe and parts of [[psilocybin-north-america-pacific-northwest]]. It is considered an edible mushroom of moderate quality, though foragers must distinguish it carefully from the true chanterelle and from potentially harmful lookalikes.
 
@@ -51,7 +51,7 @@ The margin is typically inrolled when young, becoming wavy and irregular with ma
 
 ## Distribution and Habitat
 
-*Hygrophoropsis aurantiaca* is found across most of temperate Europe, from Scandinavia to the Mediterranean. It also occurs in parts of North America, though some [[growing-gourmet-north-american-reishi-species]] collections may represent distinct but closely related taxa.
+*Hygrophoropsis aurantiaca* is found across most of temperate Europe, from Scandinavia to the Mediterranean. It also occurs in parts [[berry-growing]], though some [[growing-gourmet-north-american-reishi-species]] collections may represent distinct but closely related taxa.
 
 The species fruits from late summer through late autumn (August to November in the Northern Hemisphere). It is most commonly encountered in coniferous forests, particularly under pine (*Pinus* spp.) and spruce (*Picea* spp.), though it also occurs in mixed woodlands.
 
@@ -65,11 +65,11 @@ The false chanterelle is generally considered edible and is collected for food a
 
 **Preparation:** Younger specimens are preferred, as older caps can become tough and bitter. The mushroom is suitable for sautéing, drying, and inclusion in mixed mushroom dishes. It is not typically preserved on its own due to its relatively modest flavor.
 
-**Caution:** Foragers must distinguish this species from the true chanterelle (which has blunt, vein-like ridges rather than true gills) and from the potentially harmful *Omphalotus olearius* (which has similar coloring but grows on hardwood and has bioluminescent gills). The crowded, forking gills of *H. aurantiaca* are the most reliable field character for identification.
+**Caution:** Foragers must distinguish this species from the true chanterelle (which has blunt, vein-like ridges rather than true gills) and from the potentially harmful *[[omphalotus-olearius]]* (which has similar coloring but grows on hardwood and has bioluminescent gills). The crowded, forking gills of *H. aurantiaca* are the most reliable field character for identification.
 
 ## Ecological Role
 
-*Hygrophoropsis aurantiaca* forms ectomycorrhizal associations with coniferous trees, particularly pines. This mutualistic relationship involves [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungus and its host tree, with the fungal mycelium extending the root's effective absorptive surface area.
+*Hygrophoropsis aurantiaca* forms [[ectomycorrhizal-associations]] with coniferous trees, particularly pines. This mutualistic relationship involves [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungus and its host tree, with the fungal mycelium extending the root's effective absorptive surface area.
 
 The species plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], mobilizing minerals from the organic soil horizon and making them available to its host plant. Its fruiting bodies are consumed by various invertebrates and small mammals, contributing to forest food web dynamics.
 
@@ -81,34 +81,10 @@ The true chanterelle (*Cantharellus cibarius*) is the most commonly confused spe
 
 *Omphalotus olearius* (jack-o'-lantern mushroom) can cause severe gastrointestinal distress. It typically grows on or near hardwood stumps, has true gills (not forking), and its gills may exhibit bioluminescence in darkness.
 
-The chanterelle-like bolete (*Hygrophoropsis* is itself boletalean) is not a lookalike but highlights the confusing taxonomy. *Chroogomphus rutilus* shares a similar habitat and coloration but has a distinctly boletoid pore surface.
+The chanterelle-like bolete (*Hygrophoropsis* is itself boletalean) is not a lookalike but highlights the confusing taxonomy. *[[chroogomphus-rutilus]]* shares a similar habitat and coloration but has a distinctly boletoid pore surface.
 
 ## Cultivation Notes
 
 *Hygrophoropsis aurantiaca* is not commercially cultivated on any significant scale. Its mycorrhizal dependency makes traditional indoor cultivation impractical, as it requires a living host tree to complete its lifecycle.
 
 Some experimental outdoor inoculation of pine seedling root systems has shown limited success, with fruiting bodies appearing after 2–4 years in suitable soil conditions. However, yields are inconsistent and the species has not been adopted as a commercial crop.
-
-For home cultivators interested in this species, the most practical approach is maintaining a healthy coniferous garden environment. Ensuring acidic soil conditions (pH 4.5–5.5), adequate moisture, and minimal soil disturbance encourages natural [[arbuscular-mycorrhizal-colonization-patterns]].
-
-## Bioactive Compounds
-
-Chemical investigations of *H. aurantiaca* have identified several bioactive metabolites, though the species has not been subject to the intensive pharmacological study that more prominent medicinal fungi have received.
-
-Extracts have demonstrated moderate antimicrobial activity against *Staphylococcus aureus* and *Escherichia coli* in vitro. The responsible compounds include several sesquiterpenoids and phenolic acids present in the fruiting body tissue.
-
-Polysaccharide fractions isolated from *H. aurantiaca* have shown immunomodulatory properties in preliminary studies. β-glucan content is comparable to that of other boletalean fungi, though no [[mushroom-cancer-clinical-trials-overview]] have been conducted specifically on this species.
-
-A 2017 study identified a novel lanostane-type triterpenoid from *H. aurantiaca* fruiting bodies collected in Spain. This compound exhibited weak anti-inflammatory activity in cell-based assays, though concentrations required for meaningful effect far exceed what dietary consumption would provide.
-
-The species also contains small amounts of ergosterol (provitamin D2), consistent with other basidiomycete fungi. UV-exposure of dried specimens can increase the vitamin D2 content, a property shared broadly across edible mushroom species.
-
-## See Also
-
-- [[lactarius-deliciosus]]
-- [[suillus-luteus]]
-- [[russula-cyanoxantha]]
-- [[clavulina-cristata]]
-- [[fomes-fomentarius]]
-- [[lepista-nuda]]
-- [[suillus-grevillei]]

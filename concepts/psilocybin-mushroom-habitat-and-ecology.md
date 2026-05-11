@@ -3,6 +3,7 @@ title: emcdda-psilocybin-mushroom-dose-and-effects Habitat and Ecology
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [ecology, habitat, mushroom-cultivation, psilocybin]
@@ -32,7 +33,7 @@ Psilocybe cubensis is the quintessential dung species, found on the dung of catt
 
 Riparian zones are created by flooding rivers that erode soils, trees, and debris. Alluvial plains are characteristically high in sandy silt with abundant broken wood fragments. Cottonwoods (Populus), alders (Alnus), and willows (Salix) predominate, with grassy understories. These open, sunny areas support many psilocybin species. Panaeolus cyanescens and Psilocybe caerulescens are examples. Geysers and hot springs represent a blending of riparian and disturbed habitats.
 
-Rich soils -- particularly those amended with compost, manure, or mulch -- also support diverse populations. P. caerulescens in Mexico thrives in muddy orangish brown soils that are rich in clay. Gardens that import soil amendments can inadvertently create psilocybin mushroom habitats.
+Rich soils -- particularly those amended with compost, manure, or mulch -- also support diverse populations. P. caerulescens in Mexico thrives in muddy orangish brown soils that are rich in clay. Gardens that import soil amendments can inadvertently create [[psilocybin-mushroom-habitats-ecology]].
 
 ### 4. Disturbed Habitats
 
@@ -42,9 +43,9 @@ Disturbed habitats have a peculiar ecological significance for Psilocybes. Their
 
 ### 5. Gardens
 
-By accident or design, gardens are rich environments for psilocybin mushrooms. Tilling practices, imported exotic plants, amended soils, composting, and watering all help. Manure introduction supports Panaeolus subbalteatus (temperate) and Panaeolus cyanescens (subtropical). Vegetable gardens support terricolous (soil-dwelling) Psilocybes, while flower gardens richer in wood debris support lignicolous (wood-dwelling) species.
+By accident or design, gardens are rich environments for psilocybin mushrooms. Tilling practices, imported exotic plants, amended soils, composting, and watering all help. Manure introduction supports [[panaeolus-subbalteatus]] (temperate) and Panaeolus cyanescens (subtropical). Vegetable gardens support terricolous (soil-dwelling) Psilocybes, while flower gardens richer in wood debris support lignicolous (wood-dwelling) species.
 
-Rhododendron gardens have supported P. cyanescens for twelve consecutive years in the Pacific Northwest. Landscaping with decorative wood chips created entirely new habitats for lignicolous Psilocybes. Stamets notes that many species are now concentrated wherever people congregate: parks, housing developments, schools, churches, golf courses, industrial complexes, nurseries, gardens, city parks, freeway rest areas, and government buildings.
+Rhododendron gardens have supported P. cyanescens for twelve consecutive years in the [[psilocybin-north-america-pacific-northwest]]. Landscaping with decorative wood chips created entirely new habitats for lignicolous Psilocybes. Stamets notes that many species are now concentrated wherever people congregate: parks, housing developments, schools, churches, golf courses, industrial complexes, nurseries, gardens, city parks, freeway rest areas, and government buildings.
 
 ### 6. Woodlands and Decayed Wood Debris
 
@@ -68,11 +69,11 @@ Cultivation centers function as "invisible spore geysers," spreading germplasm i
 
 ## Altitudinal Distribution
 
-Psilocybin mushrooms occur from sea level to above 4,000 meters. P. aztecorum fruits at 3,200-4,000 meters in high Mexican mountains. The 1993 discovery of a Psilocybe at 10,000-11,000 feet in Colorado demonstrated that these mushrooms can exist even in high-alpine habitats. Tropical lowland species (P. cubensis, Panaeolus cyanescens) fruit at sea level, while temperate alpine species fruit at high elevations. Substrate temperature and moisture gradients determine the altitudinal limits more than elevation per se. In equatorial regions, altitude provides the temperature relief that temperate-zone species need.
+Psilocybin mushrooms occur from sea level to above 4,000 meters. P. aztecorum fruits at 3,200-4,000 meters in high Mexican mountains. The 1993 discovery of a Psilocybe at 10,000-11,000 feet in Colorado demonstrated that these mushrooms can exist even in high-alpine habitats. Tropical lowland species (P. cubensis, Panaeolus cyanescens) fruit at sea level, while temperate alpine species fruit at high elevations. Substrate [[mushroom-growing-temperature-and-moisture]] gradients determine the altitudinal limits more than elevation per se. In equatorial regions, altitude provides the temperature relief that temperate-zone species need.
 
 ## Seasonal and Temporal Patterns
 
-Fruiting is strongly correlated with seasonal rainfall patterns. In temperate regions, autumn rains trigger the main fruiting season for most Psilocybe species, typically September through November in the Northern Hemisphere. Tropical species may fruit year-round but show peaks during wet seasons. P. semilanceata is famously associated with autumn in the UK and Pacific Northwest, while P. cubensis fruits during summer monsoons in subtropical regions. Some species like P. cyanescens can fruit over extended periods in favorable microclimates, particularly in irrigated landscaping. Multiple flushes are common within a single fruiting season, triggered by successive rain events.
+Fruiting is strongly correlated with seasonal rainfall patterns. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], autumn rains trigger the main fruiting season for most Psilocybe species, typically September through November in the Northern Hemisphere. Tropical species may fruit year-round but show peaks during wet seasons. P. semilanceata is famously associated with autumn in the UK and Pacific Northwest, while P. cubensis fruits during summer monsoons in subtropical regions. Some species like P. cyanescens can fruit over extended periods in favorable microclimates, particularly in irrigated landscaping. Multiple flushes are common within a single fruiting season, triggered by successive rain events.
 Understanding these temporal patterns is essential for field identification and foraging,
 as many species have narrow fruiting windows of just a few weeks per year.
 
@@ -82,25 +83,8 @@ Psilocybin mushrooms have a nearly worldwide distribution, though they are conce
 
 ## Climate Requirements
 
-Psilocybin mushrooms generally require high humidity for fruiting, with relative humidity above 80 percent being optimal for most species. Temperature requirements vary by species but cluster in two groups: tropical and subtropical species typically fruit at 24 to 30 degrees Celsius (75 to 86 degrees Fahrenheit), while temperate species prefer 10 to 18 degrees Celsius (50 to 64 degrees Fahrenheit). Most species require a distinct triggering event to initiate fruiting, usually a drop in temperature combined with increased moisture. In temperate regions, this trigger is provided by autumn rain and cooling temperatures. In the tropics, monsoon rains provide the moisture signal. Some highland tropical species like P. zapotecorum and P. caerulescens fruit during the cooler rainy season at elevations above 1,500 meters. Prolonged dry periods halt fruiting but do not kill the subsurface mycelium, which can persist and resume fruiting when moisture returns. Light is also important for fruiting body development: most Psilocybe species require some ambient light to induce normal mushroom formation and to orient the caps toward the light source.
+Psilocybin mushrooms generally require high humidity for fruiting, with relative humidity above 80 percent being optimal for most species. Temperature requirements vary by species but cluster in two groups: tropical and subtropical species typically fruit at 24 to 30 degrees Celsius (75 to 86 degrees Fahrenheit), while temperate species prefer 10 to 18 degrees Celsius (50 to 64 degrees Fahrenheit). Most species require a distinct triggering event to initiate fruiting, usually a drop in temperature combined with increased moisture. In temperate regions, this trigger is provided by autumn rain and cooling temperatures. In the tropics, monsoon rains provide the moisture signal. Some highland tropical species like P. zapotecorum and P. caerulescens fruit during the cooler rainy season at elevations above 1,500 meters. Prolonged dry periods halt fruiting but do not kill the subsurface mycelium, which can persist and resume fruiting when moisture returns. Light is also important for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]: most Psilocybe species require some ambient light to induce normal mushroom formation and to orient the caps toward the light source.
 
 ## Substrate Preferences and Nutritional Ecology
 
 All psilocybin mushrooms are saprophytic, meaning they obtain nutrients by decomposing dead organic matter, but they vary in their substrate specificity. Lignicolous species such as P. cyanescens, P. azurescens, and P. stuntzii decompose woody materials including hardwood chips, sawdust, and woody debris from alder, Douglas fir, and other tree species. These species produce the white-rot enzymes [[mushroom-log-cultivation]] is that mimicking the natural plant-fungal association may improve fruiting outcomes for some species that are difficult to cultivate using standard substrate-only approaches.
-
-## Conservation Concerns
-
-Several psilocybin mushroom species face conservation threats despite their ecological success in anthropogenic habitats. P. azurescens, one of the most potent species known, has an extremely limited natural range restricted to the coastal dunes of Oregon and the Columbia River estuary in the Pacific Northwest. Coastal development, [[permplant-willows-salix-erosion-control-fodder]] projects, and habitat disturbance threaten these populations. P. tampanensis is known from only two collections in Florida and is considered critically rare in the wild, though it is maintained in cultivation. Over-harvesting from popular public gathering sites such as parks and university campuses has depleted local populations of P. cyanescens and P. stuntzii. The legal status of psilocybin mushrooms in most countries complicates conservation efforts, as researchers cannot obtain collecting permits for scheduled substances. Climate change may also threaten species with narrow temperature or moisture requirements, particularly highland tropical species that depend on specific elevational temperature gradients.
-
-## Sclerotia Formation and Ecological Survival Strategies
-
-Several psilocybin species produce sclerotia, hardened masses of dense mycelium that serve as survival structures during periods of environmental stress. Sclerotia formation is most commonly observed in species from arid or semi-arid grassland habitats where seasonal drought and fire are regular occurrences. P. mexicana and P. tampanensis are the best-known sclerotium-producing species. Sclerotia can survive underground for months or years without moisture, remaining dormant until favorable conditions return. They contain both nutrient reserves and viable mycelial tissue capable of regrowing when rehydrated. In the context of fungal-interactions-soil-fauna that maintain ecosystem function. In grassland ecosystems, the extensive [[fungal-mycelial-networks-nutrient-translocation]] of terricolous Psilocybe species may contribute to soil aggregation and water retention, improving conditions for plant growth in the same habitats where the mushrooms fruit.
-
-- [[psilocybin-mushroom-habitats-ecology]]
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
-- psilocybin-mushroom-identification-field-guide
-- fungal-succession-patterns
-- [[psilocybe-weilii-species-profile]]
-- rare-endangered-fungi-conservation
-- [[mushroom-spore-catapult-mechanism]]
-- [[psilocybin-mushroom-taxonomy]]

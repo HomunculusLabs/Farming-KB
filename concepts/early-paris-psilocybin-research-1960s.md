@@ -28,8 +28,8 @@ on the body, the mind, and even on artistic creativity.
 
 ## The Transition from Self-Experiment to Clinical Research
 
-After Albert Hofmann's team swiftly isolated the
-active ingredients psilocybin and psilocin, and [Roger Heim's meticulous self-experiments had yielded rich descriptive data, it became clear to scientists on the continent that the addition of yet more subjective accounts of scintillating colours, indescribable visions and altered feelings were doing little to further scientific understanding. A controlled and clinical approach was called for, one in which the confounding variables of setting and personality could be factored out, and the true effects of psilocybin upon the mind could be determined.
+After [[albert-hofmann]]'s team swiftly isolated the
+active ingredients [[hplc-analysis-of-psilocybin-and-psilocin]], and [[roger-heim]]'s meticulous self-experiments had yielded rich descriptive data, it became clear to scientists on the continent that the addition of yet more subjective accounts of scintillating colours, indescribable visions and altered feelings were doing little to further [[fukuoka-fallacies-scientific-understanding]]. A controlled and clinical approach was called for, one in which the confounding variables of setting and personality could be factored out, and the true effects of psilocybin upon the mind could be determined.
 
 ## Jean Delay's Pharmacological Investigations
 
@@ -80,45 +80,11 @@ art.
 
 ## Huxley's View on Psychedelics and Creativity
 
-For the prodigiously talented writer Aldous Huxley,
+For the prodigiously talented writer [[aldous-huxley]],
 who at various times experimented with mescaline, mushrooms and LSD,
 there was no easy relationship between psychedelics and creativity.
 Quizzed on the matter, he replied that a drug like LSD can only help the
-creative process indirectly: 'I don't think one can sit down and say, I
+[[allegro-womans-part-in-the-creative-process]] indirectly: 'I don't think one can sit down and say, I
 want to write a magnificent poem, and so I'm going to take lysergic
 acid. I don't think it's by any means certain that you would get the
 result you wanted -- you might get almost any result.'
-
-## The French Literary Volunteers
-
-Other intellectuals and artists not immediately connected to the
-Hofmann-Heim scientific circle volunteered to try this mushroom-derived
-drug and to reflect their experiences through the considered lens of
-their literary prose. Most famously, the Islamic scholar Rudolf Gelpke
-(1928-1972) and the French avant-garde writer Henri Michaux (1899-1984)
-produced some of the most vivid early literary accounts of the psilocybin
-experience.
-
-## Michaux's Literary Response
-
-Henri Michaux's accounts were often profound and occasionally
-overwhelming, and were often beautifully rendered. 'The orchestra of the
-unified inner life is now prodigious,' he thundered in one passage. Yet
-for the scientists at least, it was clear that literary accounts, however
-eloquent, could not substitute for controlled clinical investigation.
-
-## Heim's Laboratory Assistant: Roger Cailleux
-
-Within the Heim-Hofmann research programme, Heim's laboratory assistant
-Roger Cailleux seems to have been unusually sensitive to the effects of
-the mushrooms. Even on barely active doses he saw visions of oriental
--style waiting rooms and great threshing tapestries. An early morning
-dose of Psilocybe semperviva in 1958 led him through a profound but
-ultimately terrifying experience in which he felt his personality
-disintegrating, a precursor to the difficult psychedelic experiences
-that would later be documented in clinical settings.
-
-## See Also
-- [[roger-heim-scientific-study-psilocybin]]
-- [[psilocybin-pharmacology-detail]]
-- [[psilocybin-clinical-research-history]]

@@ -9,14 +9,14 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Substrate Preparation
 
-Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success. (see [[straw-pasteurization-methods]]).
+Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of [[agricultural-waste-recycling]] materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
 
 ## Suitable Substrates
 
 ### Straw (Most Common)
 - Wheat straw: most widely used, excellent results
 - Oat straw: good alternative
-- Rice straw: works well in tropical climates
+- Rice straw: works well in [[fukuoka-natural-farming-tropical-climates]]
 - Barley straw: acceptable
 - Straw should be fresh (not moldy), dry, and free of seed treatment chemicals
 
@@ -24,8 +24,8 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 - Hardwood sawdust (oak, beech, maple — avoid cedar and redwood)
 - Hardwood chips (supplemented with bran)
 - Paper/cardboard (shredded, soaked)
-- Cotton waste (from textile industry)
-- Coffee grounds (can be used fresh without pasteurization at up to 25% of substrate)
+- Cotton waste (from [[staycare-fungal-treatment-of-textile-industry-wastewater]])
+- [[oyster-mushroom-coffee-grounds-cultivation]] (can be used fresh without pasteurization at up to 25% of substrate)
 
 ### Other Substrates
 - Sugarcane bagasse
@@ -76,7 +76,7 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 
 ### Flow-Through Steam
 - Steam at 212°F (100°C) for 8-12 hours
-- Works for supplemented sawdust blocks
+- Works for [[oyster-mushroom-supplemented-sawdust-blocks]]
 
 ## Moisture Content
 - Target: 60-70% by weight

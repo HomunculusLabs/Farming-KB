@@ -1,8 +1,8 @@
 ---
-title: Solomon solomon watering and dry farming natural-farming-methods-comparison
+title: Solomon Watering And Dry Farming
 created: 2026-04-18
 updated: 2026-04-18
-sources: Gardening When It Counts (Steve Solomon)
+sources: Gardening When It Counts (steve-solomon)
 tags: irrigation
 type: concept
 ---
@@ -11,7 +11,7 @@ type: concept
 
 ## The Philosophy: Watering as the Most Important Decision
 
-Solomon emphasizes that how you choose to handle watering is the single most important decision the gardener will make. Before piped water was normal, over 90% of vegetable gardens were grown without running water, and many gardeners didn't consider the occasional dry spell to be a "drought."
+Solomon emphasizes that how you choose to handle watering is the single most important decision the gardener will make. Before piped water was normal, over 90% of [[maintaining-organic-matter-in-vegetable-gardens]] were grown without running water, and many gardeners didn't consider the occasional dry spell to be a "drought."
 
 ## John Widstoe's Four Principles
 
@@ -28,7 +28,7 @@ Solomon provides detailed root system drawings showing how extensive the root sy
 - Corn roots at 8 weeks old extend far beyond the above-ground plant
 - Tomato roots in [[solomon-wide-spacing-versus-intensive-gardening-debate]] can draw from an enormous soil volume
 
-The key insight: when plants are widely spaced, their root systems can access soil moisture that would be unavailable to a crowded plant. This is why Solomon's extensive spacing system can grow vegetables through rainless periods that would kill an intensively planted garden.
+The key insight: when plants are widely spaced, their root systems can access soil moisture that would be unavailable to a crowded plant. This is why Solomon's [[solomon-intensive-vs-extensive-spacing]] system can grow vegetables through rainless periods that would kill an intensively planted garden.
 
 ## How Much to Water
 
@@ -64,7 +64,7 @@ NOTE: Lack of nutrients can sometimes be mistaken for drought stress. Before inc
 
 ## Fertigation
 
-Fertigation means applying [[jadam-liquid-fertilizer-nutritional-perspective]] through irrigation water. Solomon provides a specific organic fertigation formula for use with drip irrigation or watering cans. This is particularly useful for:
+Fertigation means applying [[jadam-liquid-fertilizer-nutritional-perspective]] through irrigation water. Solomon provides a specific organic fertigation formula for use with [[cervantes-drip-irrigation-systems]] or watering cans. This is particularly useful for:
 - Large plants with extensive root systems
 - Situations where rapid growth is needed
 - Supplementing soil that may be deficient in certain nutrients
@@ -77,7 +77,7 @@ For gardeners without irrigation or who want to minimize water use:
 2. **Soil preparation:** Deep loosening allows roots to penetrate to moisture reserves
 3. **Surface mulching:** Dead mulch (straw, leaves) reduces evaporation from the soil surface
 4. **Timing:** Plant so the crop's peak water demand coincides with your rainiest season
-5. **Variety selection:** Choose drought-tolerant varieties
+5. **[[coleman-winter-greens-variety-selection]]:** Choose drought-tolerant varieties
 6. **Weed control:** Weeds compete for the same soil moisture -- keep them down
 7. **Minimum tillage:** Avoid unnecessary tillage that exposes moist soil to the air
 
@@ -88,27 +88,3 @@ Solomon discusses the importance of mulch for reducing evaporation:
 - Mulch also moderates soil temperature, reducing moisture loss from heat
 - As mulch decomposes, it adds [[hamilton-composting-and-organic-matter-management]] to the soil surface
 - In areas with summer rain, mulch helps soil absorb rain slowly rather than running off
-
-## Sandy Soil Special Considerations
-
-Sandy soil has very low water retention:
-- In sandy intensive beds, watering every day may be needed in hot weather
-- For extensive spacing on sandy soil, use the wider spacings in Column 4 of Solomon's spacing table
-- Adding organic matter to sandy soil helps it hold more moisture, but the effect is modest
-- Fertigation is particularly useful on sandy soil because nutrients leach quickly
-
-## Clay Soil Special Considerations
-
-Clay soil holds moisture well but has other challenges:
-- Can become waterlogged in wet weather, suffocating roots
-- Forms hard crusts when dry, preventing water infiltration
-- Difficult to work when wet -- creates clods
-- Best strategy: incorporate organic matter over years to improve structure
-- In dry periods, clay actually provides excellent moisture reserves for widely spaced plants
-
-## Related
-
-- [[solomon-mulching-and-cover-cropping]] for mulch strategies
-- [[solomon-raised-beds-and-bed-preparation]] for bed construction choices
-- [[organic-vegetable-garden-rotation-deep-beds]]
-- [[soil-preparation-organic-gardens]]

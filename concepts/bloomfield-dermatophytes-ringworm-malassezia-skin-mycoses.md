@@ -31,7 +31,7 @@ remarkable efficiency.
 Hair and nails are composed of structural proteins called keratins, which also comprise
 the outermost layers of the skin. Keratin is an intermediate filament protein extruded
 into hair follicles, where it crystallizes into the familiar shafts of hair. From a
-nutritional perspective, a full head of human hair locks up approximately 1,000 calories,
+[[jadam-liquid-fertilizer-nutritional-perspective]], a full head of human hair locks up approximately 1,000 calories,
 equivalent to the energy in a couple of cheeseburgers. This energy is unavailable to
 animals that lack the specific enzymes needed to dissolve keratin into an [[cho-fish-amino-acid-preparation]] soup.
 Dermatophytes, however, possess these keratinolytic enzymes and can feast upon this
@@ -46,7 +46,7 @@ corporis describes infections spreading over less hairy areas of skin. In tinea 
 the fungus invades the hair shaft itself, weakening the structure with an enzymatic
 assault, then reemerges on the outside of the hair and showers the scalp with spores.
 These spores can infect anyone's hair, making tinea capitis one of the most contagious
-of all fungal diseases.
+of all [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
 ## Ringworm Patterns and Chronic Infection
 
@@ -64,7 +64,7 @@ pharmaceutical science over what were once intractable conditions.
 Even healthy human skin is colonized by a varied collection of fungi. The scalp
 provides a grease bath where yeasts of the genus Malassezia immerse themselves in
 sebaceous fat and gorge on dandruff flakes. Malassezia is a microscopic epicure that
-can be cultured on agar medium only if bathed with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]], with mycologists
+can be cultured on [[agar-medium-preparation]] only if bathed with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]], with mycologists
 swearing by extra virgin. Dandruff is a complex complaint exacerbated by stress, diet,
 hormone balance, and weather, but it is always accompanied by Malassezia. The active
 component of Head and Shoulders shampoo, pyrithione zinc, inhibits fungal
@@ -81,50 +81,10 @@ These sinuses burst through the skin and weep a bloody fluid laced with infectio
 granules. As the disease progresses, Madurella erodes bones, producing a diagnostic
 moth-eaten appearance on X-rays. While patients rarely die directly from mycetoma
 unless the fungus establishes in the head, neck, or chest, the loss of mobility it
-causes can amount to a slow death sentence in developing countries.
+causes can amount to a slow death sentence in [[low-cost-mushroom-growing-house-construction-developing-countries]].
 
 ## Madurella as a Model Parasite
 
 Madurella seems well adapted as a long-term parasite. It forges enduring relationships
 with its host and can be dispersed from one foot to another via its infectious granules.
 Other fungi make better killers but poorer parasites. For some opportunistic
-microorganisms, entry into human tissues marks the beginning of the end for both host
-and pathogen, since the fungus may never find a way to escape the host to infect new
-individuals.
-
-## Contagiousness and Immune Competence
-
-Dermatophytes are rare examples of fungi that are highly contagious among individuals
-with healthy immune systems. Most other human fungal pathogens are opportunistic,
-requiring immunosuppression to establish infection. The ability of dermatophytes to
-infect immunocompetent hosts, combined with their production of abundant airborne
-spores from skin and hair lesions, makes them epidemiologically significant in crowded
-environments such as schools, athletic facilities, and military barracks.
-
-## Laboratory Isolation and Culture
-
-Dermatophytes are readily isolated by sampling infected skin, hair, or nail scrapings
-and culturing on Sabouraud's agar, a medium with an acidic pH that selectively favors
-[[brassinosteroid-fungal-growth-promotion]] over bacterial contaminants. In laboratory settings, dermatophyte
-cultures can contaminate incubators and spread to researchers, as documented at the
-University of Exeter where a student's feet were consumed by athlete's foot caused by
-a laboratory escapee. This underscores the importance of laminar airflow hoods and
-rigorous hygiene in mycology laboratories.
-
-## Broader Context of Human Mycoses
-
-At least 300 species of fungi are capable of dining on human tissues, and many more
-exterminate other animals. The dermatophytes represent the most accessible and common
-encounters between humans and pathogenic fungi, affecting billions of people worldwide.
-Their study has driven much of the development of topical and systemic antifungal
-therapies that have subsequently been applied to more life-threatening mycoses. The
-contrast between the superficial nature of ringworm and the lethal potential of
-invasive mycoses like cryptococcosis and histoplasmosis illustrates the broad
-spectrum of relationships between fungi and human hosts.
-
-## Related Topics
-
-- [[bloomfield-fungal-parasites-of-insects]]
-- bloomfield-poisonous-mushrooms-and-mycotoxins
-- [[bloomfield-amatoxin-poisoning-mechanism]]
-- [[human-fungal-pathogens]]

@@ -22,16 +22,16 @@ symbiosis to lethal parasitism. These interactions have profoundly
 shaped the evolution of both groups, driving the development of
 specialized [[plant-hormones-and-chemical-signaling-systems]] systems, morphological adaptations, and
 complex life cycles. Insects serve as vectors for fungal spore
-dispersal, as food sources for predatory fungi, and as targets for
+dispersal, as food sources for [[biodiversity-nematophagous-predatory-fungi]], and as targets for
 [[bloomfield-fungal-pathogens-and-parasites]].
 
 ## Insects as Fungal Pollinators
 
 Rust fungi exemplify the intimate relationship between fungi and
-insects. Sexual reproduction in rusts depends on the active
+insects. [[basidiomycete-mating-systems-sexual-reproduction]] in rusts depends on the active
 participation of insects. When the rust *Puccinia graminis* has grown
 within a barberry leaf for several days, it forms tiny flask-shaped
-spermagonia that rupture the upper leaf surface. Thin hairs protrude
+spermagonia that rupture the upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]. Thin hairs protrude
 through the opening, and each spermagonium exudes sugary nectar and
 masses of spherical cells called spermatia that function as sperm.
 
@@ -56,8 +56,8 @@ its entire habitat in the process.
 
 ## Stinkhorns and Carrion Attraction
 
-Stinkhorn fungi employ chemical mimicry to attract insects. The spore
-mass (gleba) at the tip of the fruiting body produces volatile
+[[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]] employ chemical mimicry to attract insects. The spore
+mass (gleba) at the tip of the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] produces volatile
 chemicals including hydrogen sulfide, methylmercaptan, and compounds
 called phallic acids that mimic the smell of rotting flesh. Flies swarm
 upon the gleba, consuming the spore slime and becoming coated with
@@ -81,50 +81,10 @@ Fungi also attack insects. Certain zygomycetes parasitize aquatic
 insects, producing [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]] in creeks. Entomopathogenic
 fungi infect and kill insects, releasing spores from the insect
 cadaver to infect new hosts. This predatory relationship has driven the
-evolution of defense mechanisms in both groups over hundreds of millions
+evolution of [[plant-defense-mechanisms]] in both groups over hundreds of millions
 of years.
 
 ## Defensive Chemistry
 
 The long evolutionary history of insect-fungi interactions has produced
 elaborate defense mechanisms. *Amanita* species produce amatoxins that
-may primarily target insect larvae developing within fruiting body
-tissues. High rates of cell division in developing embryos make larvae
-particularly vulnerable to toxins that inhibit protein synthesis. Human
-Human fatalities from [[european-mushroom-poisoning-history]] may be unintended consequences of
-defenses evolved against insect pests.
-
-## Nematode-Trapping Fungi
-
-The underground world also features dramatic insect-fungi interactions.
-Predatory fungi trap and kill nematode worms using specialized hyphal
-structures. The simplest snares consist of short hyphal branches that
-exude a powerful adhesive. Passing worms become cemented to the tips
-and, in their struggle to escape, become stuck on adjacent branches.
-Within hours, the fungus penetrates the worm's cuticle and dissolves
-its internal tissues.
-
-More elaborate traps include adhesive cages and explosive rings whose
-interior wall inflates when disturbed. The worms are lured to these
-ring traps by chemical attractants (siren songs), and as the animal
-glides through the opening, the trap inflates and grips it with
-pressures up to 18 atmospheres. A single gram of soil can house as
-many as 1,900 nematodes, ensuring frequent encounters.
-
-## See Also
-
-- [[fungal-insect-interactions-diversity]]
-- [[endophytic-fungi-plant-interactions]]
-
-- [[aquatic-fungi-spore-dispersal-ingold]] Mechanisms](spore-dispersal-mechanisms.md)
-- [[fungal-chemical-signaling|Fungal Chemical Signaling]]
-- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
-- [[amanita-phalloides-death-cap|Amanita Phalloides (Death Cap)]]
-
-## References
-
-- Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
-  of Mushrooms, Molds, and Mycologists*. Oxford University Press.
-  Chapters 4, 7, 8, and 9.
-- Buller, A. H. R. (1950). *Researches on Fungi*, vol. 7. Toronto
-  University Press.

@@ -22,7 +22,7 @@ type: concept
 Between 2001 and 2006, six EU Member States tightened legislation on
 [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. The most significant and well-documented cases are
 the Netherlands (2002) and the United Kingdom (2005), both of which had
-large legal retail markets for hallucinogenic mushrooms prior to prohibition.
+large legal [[hallucinogenic-mushroom-online-retail-markets]] for [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] prior to prohibition.
 The experiences of these two countries provide important case studies in how
 legal restrictions affected markets, availability, and user behaviour.
 
@@ -31,7 +31,7 @@ legal restrictions affected markets, availability, and user behaviour.
 The EMCDDA documented a wave of legislative action across Europe:
 
 - **July 2001**: Denmark added mushrooms and spores containing psilocin or
-  psilocybin as controlled substances.
+  psilocybin as [[controlled-substances-act-and-psychedelic-research]].
 - **November 2002**: Netherlands Supreme Court clarified that the Opium Act
   applied to prepared (dried, mashed, or processed) mushrooms but not to
   fresh mushrooms.
@@ -43,7 +43,7 @@ The EMCDDA documented a wave of legislative action across Europe:
   controlled substances, removing the previous "if treated or prepared"
   qualification.
 - **February 2006**: Ireland criminalised possession or sale of psilocin-
-  containing fungi (exempt if growing uncultivated).
+  [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] (exempt if growing uncultivated).
 
 ## The Netherlands: 2002 Supreme Court Ruling
 
@@ -62,7 +62,7 @@ food but not to fresh mushrooms.
 
 This ruling created a legal distinction that allowed smartshops to continue
 selling fresh mushrooms while prohibiting dried or processed products. The
-effect was to preserve the Dutch smartshop market for fresh mushrooms, which
+effect was to preserve the Dutch [[eu-hallucinogenic-mushroom-smartshop-market-2006]] for fresh mushrooms, which
 remained legally available until further restrictions were imposed. The Dutch
 Risk Assessment Report had previously estimated that [[guzman-magic-mushrooms-african-species]] made up
 approximately 50% of smartshop turnover, meaning the ruling preserved a
@@ -88,59 +88,3 @@ Prior to July 2005, the UK had a substantial open market:
   hallucinogenic mushrooms (The Economist, 2004).
 - Annual turnover estimated at approximately £1 million (€1.46 million).
 - The UK Treasury collected sales tax estimated at up to £175,000 (€255,421)
-  per year.
-
-### Legislative Change
-
-The UK Drugs Bill added "Fungus (of any kind) which contains psilocin or an
-ester of psilocin" as a Class A controlled substance. The critical change
-was removing the previous qualification that mushrooms were controlled only
-"if treated or prepared." This closed the loophole that had allowed fresh
-mushrooms to be sold legally.
-
-### Market Impact
-
-Reports in the UK suggested that legislation had a significant impact:
-
-- Internet sites stopped selling hallucinogenic mushrooms in 2005. One UK
-  site (allsalvia.co.uk) was "sold out" of growkits in July 2005, with a
-  notice that fresh mushrooms, truffles, and growkits were about to become
-  Class A controlled drugs.
-- The Mixmag 2005 survey found that 67% of respondents reported mushrooms
-  were less available than previously.
-- Online retailers switched to selling legal alternatives such as Amanita
-  muscaria ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]), Amanita pantherina, and Purple Ohms capsules.
-- Seizures by law enforcement increased following reclassification,
-  including mushrooms worth £6,000 (€8,700) seized in Glasgow in 2005.
-
-### Plant vs. Organism Legal Question
-
-The UK ban also raised the legal question of whether a mushroom is a "plant"
-or a "fungus." The Italian, Greek, Cypriot, and Lithuanian laws used a
-catch-all term prohibiting cultivation of plants from which narcotic
-substances can be extracted. Germany's 2005 amendment adopted the term
-"organism" rather than "plants and animals" to close the loophole for
-mushrooms.
-
-## Ireland: February 2006
-
-Ireland criminalised possession or sale of "fungus of any kind or
-description, which contains psilocin or an ester of psilocin," exempting
-mushrooms growing uncultivated. The change was initiated around a time when
-the sale of magic mushrooms was increasingly commonplace, and after a young
-man died after consuming psychoactive mushrooms.
-
-## Market Adaptation Patterns
-
-A consistent pattern emerged across jurisdictions: legal restrictions were
-followed by retailer adaptation. The EMCDDA observed that prohibition
-appeared to provoke an emerging interest of retailers in legal types of
-hallucinogenic mushroom such as [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric). This
-"substitution effect" meant that controlling one substance could drive
-demand toward potentially riskier alternatives.
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-legal-responses]]
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]

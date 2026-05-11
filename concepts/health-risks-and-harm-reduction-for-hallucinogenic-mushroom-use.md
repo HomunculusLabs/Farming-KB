@@ -1,5 +1,5 @@
 ---
-title: Health Risks and Harm Reduction for [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] Use
+title: Health Risks And Harm Reduction For Hallucinogenic Mushroom Use
 concept_type: topic
 source: carolina-mushrooms_08qxp.md
 created: 2026-05-09
@@ -88,60 +88,3 @@ The EMCDDA report identified several common adverse psychological reactions:
 ### Risk Factors for Adverse Reactions
 
 Several factors increase the likelihood of adverse psychological reactions:
-
-- **High dose**: Unpredictable potency makes accidental high-dose exposure common
-- **Unfamiliar setting**: Using mushrooms in unfamiliar or unsafe environments increases anxiety
-- **Poor mental state**: Pre-existing anxiety, depression, or recent trauma predispose to difficult experiences
-- **Lack of preparation**: Users without information about what to expect are more vulnerable to panic
-- **Polydrug use**: Combining mushrooms with alcohol, cannabis, or other substances can unpredictable modulate effects
-
-## Somatic Health Risks
-
-### Physiological Effects
-
-The physiological effects of psilocybin mushrooms are generally mild and self-limiting:
-
-- **Nausea and vomiting**: Very common during the onset phase, typically resolving within the first hour
-- **Pupillary dilation** (mydriasis): Increased sensitivity to light
-- **Tachycardia**: Mildly increased heart rate
-- **Blood pressure changes**: Usually mild increases in systolic blood pressure
-- **Temperature dysregulation**: Mild hyperthermia or feeling of cold
-- **Muscle weakness and ataxia**: Loss of coordination, particularly at higher doses
-
-### Lethal Toxicity
-
-The lethal dose of psilocybin is extremely high relative to typical recreational doses:
-
-- Estimated LD50 in humans: Several hundred times the typical recreational dose
-- There are no confirmed deaths directly attributable to psilocybin toxicity alone
-- Deaths associated with mushroom use are typically due to accidents (falls, drowning), dangerous behavior during intoxication, or misidentification of toxic mushroom species
-
-### Misidentification Risk
-
-A significant somatic risk comes from **misidentification of wild mushrooms**:
-
-- Several toxic mushroom species can be confused with psilocybin-containing species by inexperienced foragers
-- *[[galerina-marginata]]* (Deadly Galerina) contains amatoxins and grows in similar habitats to some *Psilocybe* species
-- *Inocybe* species (some psilocybin-containing, some toxic) can be difficult to distinguish without expert mycological knowledge
-- Fatalities from misidentification, while rare, represent the most serious health risk associated with mushroom use
-
-## Mental Health Risks
-
-### Precipitation of Psychiatric Conditions
-
-The EMCDDA report noted concerns about the relationship between mushroom use and mental health:
-
-- **Psychotic episodes**: Mushrooms can precipitate acute psychotic episodes in individuals with personal or family history of schizophrenia or other psychotic disorders
-- **HPPD**: Hallucinogen Persisting Perception Disorder — a rare condition involving recurrent visual disturbances (flashbacks, visual snow, trailing) lasting weeks to years after use. The prevalence is estimated at 1–4% of regular hallucinogen users
-- **Depression and anxiety**: While some users report therapeutic benefits, others experience worsened mood, particularly following difficult experiences
-- **Suicidality**: Rare but documented cases of suicidal ideation or behavior during or after mushroom experiences, typically associated with severe panic or dissociation
-
-## Harm Reduction Approaches
-
-### Information Provision
-
-The EMCDDA identified several harm reduction strategies: providing approximate dose ranges by species, emphasizing the importance of mental state ("set"), physical environment ("setting"), and a sober trip-sitter; educating wild foragers about distinguishing psychoactive species from toxic lookalikes; and advising individuals with personal or family history of psychosis to avoid psilocybin mushrooms.
-
-### Institutional Responses
-
-Some countries operated drug information helplines for mushroom-related adverse experiences. Emergency departments developed protocols for managing acute reactions (primarily supportive care in a calm environment). Online harm reduction sites provided factual information about effects, risks, and safer use practices.

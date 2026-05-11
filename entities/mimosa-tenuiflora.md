@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Mimosa tenuiflora** (syn. *[[entheogen-jurema-mimosa-hostilis-ethnobotany]]*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a rich history of indigenous ceremonial use spanning thousands of years. The inner root bark contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[pioneer-species-selection-for-permaculture-systems]] with significant applications in ecological restoration and permaculture.
+**Mimosa tenuiflora** (syn. *[[entheogen-jurema-mimosa-hostilis-ethnobotany]]*) is a perennial shrub or small tree in the family Fabaceae (legume family), native to the Caatinga biome of northeastern Brazil and extending through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to southern Mexico. It is one of the most important entheogenic plants in the Americas, with a [[plant-science-exploring-rich-history]] of indigenous ceremonial use spanning thousands of years. The inner [[iboga-root-bark-preparation]] contains among the highest concentrations of DMT found in any plant, making it both a subject of traditional reverence and modern pharmacological interest. Beyond its psychoactive properties, *M. tenuiflora* is an ecologically vital [[pioneer-species-selection-for-permaculture-systems]] with significant applications in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and permaculture.
 
 ## Taxonomy
 
@@ -40,7 +40,7 @@ sources:
 
 ### Synonyms
 
-- *Mimosa hostilis* (Benth.) J.F.Macbr. — the most widely used synonym, especially in the entheogenic community
+- *[[mimosa-hostilis]]* (Benth.) J.F.Macbr. — the most widely used synonym, especially in the entheogenic community
 - *Acacia hostilis* (Benth.) Mart.
 - *Mimosa verissima* Mart.
 - *Mimosa limensis* Rizzini
@@ -88,53 +88,3 @@ The use of *M. tenuiflora* in northeastern Brazil represents one of the oldest c
 - **Archaeological evidence**: Ceramic pipes containing DMT residues, dated to 1000 BCE, have been found in the region of Pernambuco — demonstrating over 3,000 years of documented use
 - **Indigenous peoples**: The Tupi, Pataxó, Tuxá, Fulni-ô, and other indigenous groups of the Caatinga region used jurema in shamanic ceremonies for healing, divination, and communication with spirits
 - **Vinho da Jurema (Jurema wine)**: The [[kava-traditional-preparation-ceremonial-context]] involves:
-  1. Harvesting inner root bark (traditionally done with ritual prayers)
-  2. Shaving and pounding the bark into a fibrous mass
-  3. Cold-water extraction, often with fermentation over 2–3 days
-  4. The resulting beverage is a reddish-brown, bitter, slightly effervescent liquid
-  5. The ceremony traditionally includes ritual chanting, dancing, and ingestion of the brew
-- **Cultural suppression**: Portuguese colonial authorities actively suppressed jurema ceremonies in the 17th–19th centuries; the practice went underground and was nearly lost
-- **Modern revival**: Since the 1990s, indigenous communities have been reviving jurema ceremonies as part of cultural reclamation; the "Jurema Sagrada" (Sacred Jurema) movement connects indigenous and neo-indigenous practices
-
-### Tepezcohuite (Mexico)
-
-In Mexico, *M. tenuiflora* has a distinct tradition centered on dermatological and wound-healing use:
-- **Aztec use**: Documented in the Florentine Codex ( Bernardino de Sahagún, 16th century) as "tepezcohuite" — a bark preparation used for skin wounds and burns
-- **Modern dermatology**: Following the 1984 San Juan Ixhuatepec gas explosion in Mexico City, where hundreds of burn victims were treated with tepezcohuite bark preparations with reportedly remarkable healing results, the species gained international attention as a wound-healing agent
-- **Commercial products**: Tepezcohuite-based soaps, creams, shampoos, and supplements are widely available in Mexican pharmacies and international markets
-
-### Indigenous Maya Use
-
-- Evidence of *M. tenuiflora* use in Maya ceremonial contexts in southern Mexico and Guatemala
-- Archaeological findings of [[leaf-litter-microfungal-diversity-tropical-temperate]]**: Nitrogen-rich leaf litter (3–4% N in dry matter) adds significant [[hamilton-composting-and-organic-matter-management]] and nutrients to soil
-
-### Ecological Restoration
-
-- **[[permplant-willows-salix-erosion-control-fodder]]**: Deep root system stabilizes soils on slopes and degraded land
-- **Soil rehabilitation**: Improves soil structure, water retention, and microbial activity
-- **Reforestation**: Used as a nurse tree in tropical dry forest restoration; provides shade and [[cervantes-wind-protection-outdoor-cannabis]] for later-succession species
-- **Degraded pasture recovery**: Intercropping with *M. tenuiflora* in degraded pastures accelerates soil recovery and biomass accumulation
-- **Mine reclamation**: Successfully used in rehabilitation of bauxite-mined areas in Brazil
-
-### Agroforestry and Permaculture
-
-| System | Role | Benefits |
-(Section truncated for length.)
-- **Biodiversity support**: Flowers provide nectar for bees and butterflies; branches provide bird habitat
-- **Living fence**: Spiny branches make it an effective barrier when planted as a hedge
-
-### Fire Resilience
-
-- **Bark protection**: Thick, corky outer bark provides some fire resistance
-- **Coppicing**: Regrows rapidly from the base after fire or cutting
-- **Post-fire pioneer**: Often among the first species to recolonize after fire in the Caatinga
-
-## Medicinal Properties
-
-### Dermatological
-
-- **Wound healing**: Promotes fibroblast proliferation, collagen synthesis, and epithelialization; the combination of tannins (astringent), flavonoids (anti-inflammatory), and mucilages (moisture retention) provides a multi-mechanism approach
-## See Also
-
-- [[bacillus-subtilis]]
-- [[candida-albicans]]

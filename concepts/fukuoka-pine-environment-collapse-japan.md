@@ -6,6 +6,7 @@ type: concept
 tags: [environment, forest, japan, mycology]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Pine Environmemycorrhizal-fungipan
 Beyond his [[natural-farming-fukuoka]] drew far-reaching conclusions about what the pine

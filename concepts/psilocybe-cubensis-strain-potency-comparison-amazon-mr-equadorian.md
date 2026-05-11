@@ -4,7 +4,8 @@ created: 2026-05-07
 updated: 2026-05-07
 type: concept
 tags: []
-sources: []
+sources:
+  - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md"
 ---
 
 --- title: Psilocybe Cubensis Strain Potency Comparison of Amazon, M.R., and Equadorian tags:

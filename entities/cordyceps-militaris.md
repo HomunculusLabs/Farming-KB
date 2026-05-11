@@ -1,5 +1,5 @@
 ---
-title: "Cordyceps militaris"
+title: Cordyceps Militaris
 created: 2026-05-06
 type: species
 tags:
@@ -11,7 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tuli, H.S., et al. (2014). "Cordycepin and its Potential Therapeutic Applications." Advances in Pharmacological Sciences, 2014, 693749.
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - Tuli, H.S., et al. (2014). "Cordycepin and its Potential [[psilocybin-therapeutic-applications]]." Advances in Pharmacological Sciences, 2014, 693749.
   - Das, S.K., et al. (2010). "Cordyceps militaris: A Potential Candidate for Health Benefits." Journal of Pharmacy & Bioallied Sciences, 2(4), 286-293.
   - Holliday, J., Cleaver, M. (2008). "Medicinal Value of the Caterpillar Fungi." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 10(3), 245-262.
   - Mao, X., et al. (2021). "Cordyceps militaris: A Review of Pharmacological Functions." Frontiers in Pharmacology, 12, 653822.
@@ -22,7 +23,7 @@ sources:
 
 **Cordyceps militaris** (L.) Link, known as the scarlet caterpillar club or orange caterpillar fungus, is an entomopathogenic ascomycete fungus in the family Cordycipitaceae.
 
-It parasitizes lepidopteran pupae and larvae, producing bright orange to reddish club-shaped fruiting bodies from the host insect. C. militaris is the most commercially viable Cordyceps species due to its ability to be cultivated on artificial substrates, unlike the more famous Ophiocordyceps sinensis.
+It parasitizes lepidopteran pupae and larvae, producing bright orange to reddish club-shaped [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] from the host insect. C. militaris is the most commercially viable Cordyceps species due to its ability to be cultivated on artificial substrates, unlike the more famous [[ophiocordyceps-sinensis]].
 
 The species is valued for its production of cordycepin (3′-deoxyadenosine), a bioactive nucleoside with demonstrated anti-inflammatory, anti-tumor, and immunomodulatory properties.
 
@@ -38,7 +39,7 @@ The species is valued for its production of cordycepin (3′-deoxyadenosine), a 
 - **Genus:** Cordyceps
 - **Species:** C. militaris (L.) Link
 
-The species epithet *militaris* (Latin: "of soldiers") refers to the club-shaped fruiting body resembling a [[metzner-lsd-military-weapon-to-mystic-catalyst]].
+The species epithet *militaris* (Latin: "of soldiers") refers to the club-shaped [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] resembling a [[metzner-lsd-military-weapon-to-mystic-catalyst]].
 
 ### Physical Description
 
@@ -66,7 +67,7 @@ Unlike O. sinensis, which is restricted to high-altitude alpine meadows of the T
 
 ## Bioactive Compounds and Pharmacology
 
-Cordyceps militaris produces a rich profile of bioactive metabolites, several of which have been investigated for therapeutic potential.
+Cordyceps militaris produces a rich profile of bioactive metabolites, several of which have been investigated for [[metzner-ayahuasca-therapeutic-potential]].
 
 ### Cordycepin (3′-Deoxyadenosine)
 
@@ -87,35 +88,3 @@ Cordycepin concentrations in cultivated fruiting bodies range from 0.5–1.5% dr
 - **N6-(2-Hydroxyethyl)adenosine (HEA):** A platelet aggregation inhibitor.
 
 ## Cultivation
-
-Cordyceps militaris is the only Cordyceps species with established commercial cultivation, making it a sustainable alternative to wild-harvested O. sinensis.
-
-### Solid Substrate Cultivation
-
-The most common [[clay-seed-pellet-production-method-concrete-mixer]] uses sterilized grain substrates, typically brown rice or wheat, supplemented with nutrients in polypropylene bags or glass jars.
-
-- **Substrate:** Brown rice (60%), wheat bran (20%), soybean meal (10%), water (adjusted to 60–65% moisture).
-- **Inoculation:** Liquid spawn or grain spawn of selected high-cordycepin strains.
-- **Incubation:** 20–25°C, darkness, 85–95% relative humidity for 20–30 days for full colonization.
-- **Fruiting induction:** Light exposure (200–500 lux, 12h photoperiod), temperature reduction to 18–22°C, increased ventilation. Fruiting bodies mature in 30–50 days.
-- **Yield:** 8–15 g fresh fruiting bodies per 100 g dry substrate; cordycepin content 0.3–1.5% dry weight.
-
-### Liquid Fermentation
-
-Submerged culture in bioreactors produces cordycepin-rich mycelium at industrial scale. Yields of 5–10 g/L dry mycelium with cordycepin concentrations of 0.1–0.8 g/L have been achieved using optimized media.
-
-## Ecological Role
-
-Cordyceps militaris is an entomopathogenic fungus that plays a role in regulating lepidopteran insect populations in forest and meadow ecosystems.
-
-The infection cycle begins when host pupae or larvae contact infective conidia in soil or leaf litter. The fungus penetrates the host cuticle, proliferates internally, eventually killing and mummifying the insect. The stroma emerges from the cadaver to release ascospores, completing the cycle.
-
-This parasitic relationship contributes to natural pest population control. Several studies have investigated C. militaris as a potential [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against agricultural lepidopteran pests, though practical applications remain limited by [[fukuoka-textdoc-production-costs-not-coming-down]].
-
-The fungus also interacts with soil microbiomes, competing with and being antagonized by various bacteria and fungi in the rhizosphere.
-
-## See Also
-
-- [[psilocybe-sylvatica]] — another fungus with significant bioactive compound production
-- [[hericium-erinaceus]] — cultivated medicinal mushroom with neuroprotective compounds
-- [[gyromitra-esculenta]] — toxic ascomycete highlighting identification importance

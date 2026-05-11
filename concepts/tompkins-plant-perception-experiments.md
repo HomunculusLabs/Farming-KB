@@ -1,10 +1,10 @@
 ---
-title: Plant Perception Experiments
+title: Tompkins Plant Perception Experiments
 created: 2026-04-26
 aliases: [Backster Effect, primary perception, plant sentience]
 tags: [botany, consciousness, parapsychology, experiments]
-related: [tompkins-plants-response-to-human-intent, tompkins-plant-electrical-signals, backster-effect]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plants-response-to-human-intent]], [[tompkins-plant-electrical-signals]], backster-effect]
+sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -51,7 +51,7 @@ after the physiologist left for the airport, all plants resumed normal
 responsiveness.
 
 This led Backster to conclude that plants could be intentionally
-"mesmerized" by humans, similar to the ritual practice before kosher
+"mesmerized" by humans, similar to the [[powell-shamanic-wisdom-and-ritual-practice]] before kosher
 slaughter. If a plant is threatened with overwhelming danger, it reacts
 self-defensively by "passing out," or going into a deep faint -- similar
 to an opossum or human being.
@@ -88,56 +88,3 @@ pattern just before the spider started to scamper away from a human
 attempting to restrict its movement. "It seems," said Backster, "as if
 each of the spider's decisions to escape was being picked up by the
 plant, causing a reaction in the leaf."
-
-## The Brine Shrimp Experiment
-
-To establish scientific credibility, Backster designed a fully automated
-experiment running without any human involvement. Brine shrimp were
-automatically dumped into boiling water at random times while three
-plants in separate rooms, each on its own galvanometer, were monitored.
-The results showed plants reacted strongly and synchronously to the
-death of the shrimp, in a ratio of five to one against chance.
-
-Published in 1968 in The International Journal of Parapsychology as
-"Evidence of Primary Perception in Plant Life," the paper drew over
-7,000 requests for reprints and interest from two dozen universities.
-
-## The "Primary Perception" Hypothesis
-
-Backster quarreled with the term ESP, since plants give no evidence of
-eyes, ears, nose, or mouth. He concluded the perceiving sense must be
-more basic. He hypothesized a "primary perception" possibly common to
-all nature.
-
-"Maybe plants see better without eyes," Backster surmised, "better than
-humans do with them." Plants appeared to be attuned to animal life
-because "animals and people are mobile, and could need careful
-monitoring." The communication channel could not be blocked by Faraday
-cages or lead containers.
-
-## Cellular Consciousness
-
-Backster's consultant, cytologist Dr. Howard Miller, concluded that
-"some sort of cellular consciousness must be common to all life."
-Backster extended his experiments to amoeba, paramecium, yeast, blood,
-and sperm cells -- all produced interesting polygraph charts. Sperm
-cells could identify and react to their own donor while ignoring other
-males.
-
-## Key Quotes
-
-- "Maybe plants see better without eyes, better than humans do with them."
-- "It may be that a vegetable appreciates becoming part of another form
-  of life rather than rotting on the ground."
-- "The universe is in balance; if it happens to go out of balance
-  someplace, you can't wait a hundred light-years for the imbalance to
-  be detected and corrected."
-- "The last thing a plant expects is another plant to give it trouble."
-
-## See Also
-
-- [[tompkins-albert-abrams-electronic-diagnosis]]
-- [[tompkins-soil-health-humus-connection]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[bacterial-endophytes-plant-roots]]
-- [[plant-fungal-signaling-mycorrhiza]]

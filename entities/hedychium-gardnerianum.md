@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Daehler, C.C. & Baker, R.E. (2021). "Kahili ginger (Hedychium gardnerianum) invasiveness in Pacific islands." Pacific Science, 75(2), 185-198.
+  - Daehler, C.C. & Baker, R.E. (2021). "Kahili ginger (Hedychium gardnerianum) invasiveness in guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands." Pacific Science, 75(2), 185-198.
   - Moodley, D. et al. (2019). "Ecological impacts of invasive Hedychium gardnerianum in Hawaiian montane forests." Biological Invasions, 21, 3417-3432.
   - Nag, S. et al. (2020). "Phytochemistry and pharmacology of Hedychium gardnerianum." Pharmacognosy Reviews, 14(28), 102-108.
   - Sheppard, C.S. et al. (2018). "Invasion of Kahili ginger in New Zealand: distribution, impacts, and management." New Zealand Journal of Ecology, 42(1), 45-56.
@@ -71,44 +71,20 @@ Bird-dispersed seeds allow long-distance establishment, while rhizomatous spread
 
 In invaded Hawaiian forests, the species significantly reduces native plant diversity. Studies show 50–80% reductions in native understory cover in heavily invaded plots compared to uninvaded controls.
 
-The dense leaf canopy shades out native seedlings, while the thick rhizome mat prevents seedling establishment. Decomposing rhizome litter may alter soil chemistry and microbial communities.
+The dense leaf canopy shades out native seedlings, while the thick rhizome mat prevents seedling establishment. Decomposing rhizome litter may alter soil chemistry and [[cannabis-rhizosphere-microbial-communities]].
 
-Water flow in invaded riparian areas is reduced due to physical obstruction by dense rhizome mats. This can alter stream dynamics and affect aquatic ecosystems.
+Water flow in invaded riparian areas is reduced due to physical obstruction by dense rhizome mats. This can alter stream dynamics and affect [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
-In New Zealand, invasion leads to the displacement of native forest floor species and reduced regeneration of canopy trees. Control efforts focus on manual removal and herbicide application.
+In New Zealand, invasion leads to the displacement of native [[fungal-ecology-forest-floor]] species and reduced regeneration of canopy trees. Control efforts focus on manual removal and herbicide application.
 
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified the ginger weevil (*Derelomus hedychi*) and a leaf roller (*Exeristes roborator*) as potential agents, but no biological control program has been implemented due to concerns about non-target effects.
+[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified the ginger weevil (*Derelomus hedychi*) and a leaf roller (*Exeristes roborator*) as potential agents, but no [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] program has been implemented due to concerns about non-target effects.
 
 ## Cultivation and Uses
 
 In its native range, Kahili ginger is used in traditional medicine. Rhizome paste is applied to wounds and skin infections, and rhizome decoctions are consumed for digestive complaints.
 
-The flowers are used in Hindu religious ceremonies, particularly in Nepal and Bengal. Garlands of Kahili ginger flowers are offered during festivals and placed at temples.
+The flowers are used in Hindu [[entheogenic-folk-religious-ceremonies]], particularly in Nepal and Bengal. Garlands of Kahili ginger flowers are offered during festivals and placed at temples.
 
 Essential oil extracted from flowers and rhizomes is used in perfumery. The fragrance is described as warm, floral, and slightly spicy with honey-like undertones.
 
 Ornamental cultivation remains the primary use globally. The plant is valued for its dramatic flowers, tropical appearance, and sweet fragrance. It grows well in subtropical gardens with adequate moisture and partial shade.
-
-In temperate regions, it can be grown as a container plant and overwintered indoors. Rhizomes survive mild frosts if well-mulched, though hard freezes are lethal.
-
-The species has been investigated for phytoremediation potential, showing capacity to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from contaminated soils. This application remains at the research stage.
-
-## Chemical Composition
-
-The essential oil of *Hedychium gardnerianum* rhizomes contains 1,8-cineole, α-pinene, β-pinene, limonene, and linalool as major components. The oil yield ranges from 0.8–1.5% of dry weight.
-
-Flower essential oil has a distinct composition, dominated by linalool, geraniol, farnesol, and various monoterpene alcohols. The floral oil is more valued in perfumery than the rhizome oil.
-
-Labordane-type diterpenes have been isolated from the rhizome, including hedychilactones A and B. These compounds show cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in preliminary studies.
-
-Flavonoids identified include kaempferol, quercetin, and several glycosylated derivatives. Phenolic acid content contributes to the species' antioxidant activity.
-
-Hedychione, a diarylheptanoid compound, has been reported from the rhizome tissue. This class of compounds is characteristic of the Zingiberaceae family.
-
-## See Also
-
-- [[zingiber-officinale]]
-- [[alpinia-galanga]]
-- [[pueraria-montana]]
-- [[acacia-mearnsii]]
-- [[salvinia-molesta]]

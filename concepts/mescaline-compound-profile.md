@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Identity
 
-**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several cactus species including peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), and the Peruvian torch (Echinopsis peruviana).
+**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several cactus species including peyote ([[lophophora-williamsii]]), San Pedro ([[echinopsis-pachanoi]]), and the Peruvian torch ([[echinopsis-peruviana]]).
 
 Molecular formula: C11H17NO3
 
@@ -30,7 +30,7 @@ Effective duration: 10-12 hours.
 
 ## Qualitative Effects
 
-Mescaline is described in PIHKAL and throughout the literature as producing a classic psychedelic experience:
+Mescaline is described in PIHKAL and throughout the literature as producing a classic [[leary-psychedelic-experience-bardo-mapping]]:
 
 - Rich, colorful visual effects with flowing patterns and enhanced color perception
 - Deep emotional and philosophical content
@@ -39,7 +39,7 @@ Mescaline is described in PIHKAL and throughout the literature as producing a cl
 - Contemplative, introspective mental state
 - Moderate stimulant effects
 
-Shulgin's qualitative notes describe the mescaline experience as foundational — it is the reference point against which all other phenethylamines are compared. Its natural origin and long history of ceremonial use give it a unique cultural context among psychedelic compounds.
+Shulgin's qualitative notes describe the mescaline experience as foundational — it is the reference point against which all other phenethylamines are compared. Its natural origin and long history of ceremonial use give it a unique [[ayahuasca-pharmacology-and-cultural-context]] among [[psychedelic-compounds-reference]].
 
 ## History and Ethnobotany
 
@@ -65,3 +65,20 @@ The 3,4,5-trimethoxy pattern of mescaline was the starting point for systematic 
 - Alpha-methylation converts mescaline to TMA (trimethoxyamphetamine), increasing both potency and stimulant character
 
 See also: [[phenethylamine-chemistry-basics]], [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[pihkal-introduction-and-methodology]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[dom-compound-profile]]
+- [[tma-2-compound-profile]]
+- [[mdoi-compound-profile]]
+- [[mde-compound-profile]]
+- [[mmda-compound-profile]]

@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Boorman, L.A. (1967). "Limonium vulgare and L. humile in salt marshes." Journal of Ecology, 55(1), 221-233.
   - Rozema, J., et al. (1985). "Ecophysiological adaptations of coastal halophytes to salinity." In Physiological Ecology of Halophytes. Springer.
-  - Ingold, A. (1994). "Seed bank and seed dispersal of Limonium vulgare in a salt marsh." Journal of Vegetation Science, 5(2), 189-194.
+  - Ingold, A. (1994). "Seed bank and [[clay-pellet-seed-dispersal]] of Limonium vulgare in a salt marsh." Journal of Vegetation Science, 5(2), 189-194.
   - Chapman, V.J. (1960). "Salt Marshes and Salt Deserts of the World." Interscience Publishers, New York.
   - Davy, A.J., et al. (2001). "Development of coastal salt marshes." In Coastal Salt Marshes. Cambridge University Press.
 ---
@@ -21,7 +21,7 @@ sources:
 
 Limonium vulgare, commonly known as sea lavender, is a perennial herbaceous plant in the family Plumbaginaceae found in salt marshes and coastal habitats across Europe.
 
-The species is among the most recognizable and ecologically important halophytes of northwest European coastal ecosystems.
+The species is among the most recognizable and ecologically important halophytes of northwest European [[dighton-fungi-mangrove-coastal-ecosystems]].
 
 Despite its common name, sea lavender is not related to true lavenders but belongs to the leadwort family alongside sea pinks and plumbagos.
 
@@ -39,7 +39,7 @@ The rootstock produces a basal rosette of leaves and multiple flowering stems ar
 
 Leaves are basal, oblong to spoon-shaped, 5 to 15 centimeters long, with a leathery texture and entire margins.
 
-The leaf surface is typically grayish-green due to a dense covering of salt-secreting trichomes that give the foliage a frosted appearance.
+The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is typically grayish-green due to a dense covering of salt-secreting trichomes that give the foliage a frosted appearance.
 
 Flowering stems are erect, ridged, and branched near the apex, bearing numerous small flowers in paniculate inflorescences.
 
@@ -61,7 +61,7 @@ In Britain, it is one of the characteristic species of mid to upper salt marsh c
 
 The species occurs across a tidal elevation range from approximately mean high water neap tides to the highest spring tides.
 
-Optimal habitat consists of well-drained saline soils with moderate organic matter content and periodic tidal inundation.
+Optimal habitat consists of well-drained saline soils with moderate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content and periodic tidal inundation.
 
 Sea lavender colonizes bare mud through seed dispersal but is outcompeted by grasses on the most sheltered, low-energy marsh surfaces.
 
@@ -81,55 +81,10 @@ Sea lavender also accumulates compatible solutes including proline and glycine b
 
 The succulent leaf texture partially results from water storage in vacuoles, which dilutes intracellular salt concentrations.
 
-Root anatomy shows enhanced suberization and Casparian strip development, restricting passive sodium influx from saline soils.
+[[root-anatomy-structure-and-nutrient-uptake]] shows enhanced suberization and Casparian strip development, restricting passive sodium influx from saline soils.
 
 Photosynthetic rates in sea lavender are maintained at approximately 70 to 80 percent of maximum under moderate salinity conditions.
 
-Under extreme salinity stress, the species allocates more resources to root growth relative to shoot growth.
+Under extreme [[singh-mycorrhizal-response-under-salinity-stress]], the species allocates more resources to root growth relative to shoot growth.
 
 ## Ecological Role
-
-Sea lavender is a mid-successional species in European salt marsh zonation, typically occupying the middle marsh zone.
-
-It forms distinctive purple-flowered stands during late summer that are among the most visually prominent features of salt marsh landscapes.
-
-The flowers are an important nectar source for a wide range of pollinating insects including bees, butterflies, and hoverflies.
-
-Several specialist insect species are associated with sea lavender, including the leaf beetle Chrysolina limbata.
-
-Sea lavender seeds are dispersed by tidal water movement, with seeds capable of remaining viable after extended saltwater immersion.
-
-The persistent rootstock allows plants to survive winter flooding and grazing, contributing to long-term marsh stability.
-
-The species provides moderate stabilization of marsh sediments through its root system and persistent basal leaf rosette.
-
-## Cultivation and Uses
-
-Limonium vulgare has been cultivated as an ornamental plant since the 16th century, primarily for use as a dried flower.
-
-The papery calyx retains its color and structure when dried, making sea lavender a popular component of dried flower arrangements.
-
-Commercial cultivation occurs in the Netherlands, Italy, and California for the cut flower and dried flower markets.
-
-Several cultivars and hybrids exist, including selections with deeper purple, pink, or white flower colors.
-
-The species requires full sun and well-drained soil in cultivation, with moderate salinity tolerance making it suitable for coastal gardens.
-
-Propagation is typically by seed sown in spring, though named cultivars are maintained through division or basal cuttings.
-
-In traditional herbal medicine, sea lavender was historically used as an astringent and diuretic, though modern medicinal use is uncommon.
-
-The plant has mild astringent properties attributed to tannins and flavonoid compounds in leaf and root tissues.
-
-Sea lavender is occasionally used in coastal restoration projects for salt marsh creation and habitat enhancement.
-
-## See Also
-
-- [[salicornia-europaea]]
-- [[spartina-alterniflora]]
-- [[juncus-effusus]]
-- [[carex-stricta]]
-- [[phragmites-australis]]
-- [[plantago-major]]
-- [[beta-vulgaris]]
-- [[achillea-millefolium]]

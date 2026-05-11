@@ -87,27 +87,3 @@ Despite the availability of fermentation-derived shikimic acid, botanical extrac
 The most significant safety concern with star anise is confusion or adulteration with Japanese star anise (Illicium anisatum). I. anisatum contains potent neurotoxins, primarily anisatin and neoanisatin, which are non-competitive GABA receptor antagonists.
 
 Cases of neurological toxicity, including seizures and vomiting, have been reported in infants given star anise tea for colic. Investigation of these incidents consistently identified I. anisatum contamination rather than toxicity from true star anise.
-
-Regulatory agencies in the EU, US, and Japan have issued guidance on distinguishing I. verum from I. anisatum based on morphological features, thin-layer chromatography, and HPLC fingerprinting. Reliable species authentication is critical for consumer safety.
-
-Estragole (methyl chavicol), present at 1–5% in the essential oil, is classified as a possible carcinogen by IARC. However, the typical dietary exposure from culinary use is considered well below thresholds of concern by EFSA and other regulatory bodies.
-
-## Harvest and Processing
-
-Star anise fruits are harvested twice annually in Vietnam, with the main crop in August–September and a secondary crop in March–April. Fruits are collected when green and immature for essential oil production, or when fully ripe and brown for culinary spice.
-
-Post-harvest processing involves sun-drying or artificial drying at 40–50 °C until the fruits reach 10–12% moisture content. Proper drying preserves the volatile oil content and prevents mold growth. Dried fruits should retain their characteristic star shape and reddish-brown color.
-
-Quality grading is based on size (number of follicles), whole vs. broken pieces, color, aroma intensity, and volatile oil content. Premium grade consists of whole fruits with 7–8 follicles, strong aroma, and essential oil content exceeding 7%.
-
-Yields vary significantly with tree age and management. Mature trees (10+ years) produce 20–40 kg of fresh fruit annually. Plantations typically contain 300–500 trees per hectare, yielding 5–15 tonnes of dried fruit per hectare per year.
-
-## See Also
-
-- [[illicium-anisatum]]
-
-- [[zingiber-officinale]]
-- [[cinnamomum-cassia]]
-- [[pimpinella-anisum]]
-- [[curcuma-longa]]
-- [[boesenbergia-rotunda]]

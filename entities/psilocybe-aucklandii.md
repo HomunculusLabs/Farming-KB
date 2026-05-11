@@ -5,6 +5,7 @@ updated: 2026-05-09
 type: entity
 tags: [species, fungi, basidiomycota, hymenogastraceae, psilocybe, psilocybin, new-zealand]
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
   - /Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md
   - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
@@ -13,10 +14,10 @@ sources:
 # Psilocybe aucklandii
 
 **Psilocybe aucklandii** Guzmán, C.C. King & Bandala, commonly known as
-the Auckland Psilocybe or King's Psilocybe, is a psychoactive mushroom
-species native to New Zealand. It belongs to Section Zapotecorum of the
+the Auckland Psilocybe or King's Psilocybe, is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]
+species native to New Zealand. It belongs to [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]] of the
 genus *Psilocybe* and is closely related to [[psilocybe-zapotecorum]]
-from Mexico and South America. The species was described by Guzmán, King,
+from Mexico and [[guzman-psilocybin-mushrooms-south-america]]. The species was described by Guzmán, King,
 and Bandala and is known from the Auckland region and the North Island of
 New Zealand, where it grows in association with native and introduced
 vegetation.
@@ -35,9 +36,9 @@ vegetation.
 Guzmán noted that *P. aucklandii* is closely related to *P. zapotecorum*
 from Mexico and South America, with both species belonging to Section
 Zapotecorum. This relationship is of biogeographic interest, suggesting
-ancient Gondwanan distribution patterns or long-distance dispersal events.
+ancient Gondwanan [[fungal-biogeography-distribution-patterns]] or long-distance dispersal events.
 The species was included as number 66 in the Guzman, Allen, and Gartz
-(1998) worldwide checklist of neurotropic fungi.
+(1998) worldwide checklist [[distribution-of-neurotropic-fungi]].
 
 ## Morphology
 
@@ -83,54 +84,7 @@ disappearing, leaving at most a fugacious annular zone.
 collections from the Auckland region and the North Island. The Guzman,
 Allen, and Gartz survey recorded it from New Zealand based on the work of
 Guzmán et al. (1991, 1993b), Johnston and Buchanan (1995), and Stamets
-(1996). Allen's guide to Australian and New Zealand psychoactive fungi
+(1996). Allen's guide to Australian and [[allen-new-zealand-psychoactive-fungi]] fungi
 also documented *P. aucklandii* from Auckland and the North Island.
 
 The species grows scattered to gregarious on soil rich in woody debris
-and litter. It is found beneath native *Leptospermum* (manuka/tea tree)
-and *Dacrydium* (rimu), as well as in introduced pine (*Pinus radiata*)
-plantations. This association with both native and plantation forestry
-substrates is notable. Fruiting conditions are typical of the cool, moist
-autumn months in the Auckland climate.
-
-Stamets noted that with the heavy export of lumber and raw logs from New
-Zealand pine plantations, *P. aucklandii* has a direct pathway for
-spreading to other temperate regions of the world. This biosecurity
-concern parallels that of other Australasian *Psilocybe* species that have
-become established in Europe through timber trade routes.
-
-## Chemistry
-
-No formal chemical analyses of *Psilocybe aucklandii* have been published
-according to available sources. Stamets estimated the species to be
-moderately potent based on its taxonomic placement and observed bluing
-reaction, but cautioned that no analytical studies were known to him. The
-blue bruising of the flesh suggests the presence of [[psilocybin]] or
-[[psilocin]], as bluing is generally correlated with the oxidation of
-psilocin and related indole compounds in psychoactive *Psilocybe* species.
-
-The taxonomic placement in Section Zapotecorum, alongside species like
-[[psilocybe-zapotecorum]] that are confirmed to contain significant
-psilocybin concentrations, provides indirect support for the
-psychoactive status of *P. aucklandii*. However, definitive confirmation
-requires formal chromatographic analysis.
-
-## Related Species
-
-*P. aucklandii* is closely related to [[psilocybe-zapotecorum]] from
-Mexico and South America, both belonging to Section Zapotecorum. It
-resembles many lignicolous Psilocybe species and has been compared to
-[[psilocybe-subaeruginosa]], [[psilocybe-cyanescens]], [[psilocybe-bohemica]],
-and [[psilocybe-makarorae]]. In New Zealand, it shares habitat with
-[[psilocybe-tasmaniana]] and [[copelandia-cyanescens]].
-
-## See Also
-
-- [[psilocybe-zapotecorum]] — Closely related species from Mexico
-- [[psilocybe-subaeruginosa]] — Common Australasian psychoactive species
-- [[psilocybe-makarorae]] — Another New Zealand endemic Psilocybe
-- [[psilocybe-tasmaniana]] — Tasmanian species found in NZ
-- [[psilocybe-cyanescens]] — Potent introduced species in Australasia
-- [[psilocybe-bohemica]] — European species in the same section
-- [[copelandia-cyanescens]] — Tropical psychoactive species also in NZ
-- [[psilocybe-semilanceata]] — Liberty cap, comparison species

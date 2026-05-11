@@ -1,5 +1,5 @@
 ---
-title: Fungal Pellet Bioreactors for Effluent Treatment
+title: Staycare Fungal Pellet Bioreactors For Effluent Treatment
 created: 2026-04-28
 tags: [bioremediation, bioreactor, fungal-pellets, effluent-treatment]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Fungal Pellet Bioreactors for Effluent Treatment
 
 Fungal pellet bioreactors represent an important technology for applying
-white rot fungi to the [[fungal-treatment-of-industrial-wastewaters]] effluents. Mycelial pellets,
+[[brown-rot-and-white-rot-fungi-in-mycoremediation]] to the [[fungal-treatment-of-industrial-wastewaters]] effluents. Mycelial pellets,
 formed naturally or through immobilization in matrices such as alginate or
 polyurethane, offer practical advantages over free mycelium including
 improved mass transfer, ease of handling, mechanical stability, and the
@@ -31,7 +31,7 @@ aeration without mechanical agitation.
 
 ## Mycelial Pellet Formation and Properties
 
-Fungal mycelia can be grown as pellets that are subsequently used in
+[[davidson-mathematical-modeling-fungal-mycelia]] can be grown as pellets that are subsequently used in
 bioreactor systems. [[trametes-versicolor-entity]]
 have been grown on pelleted substrates for effluent treatment. Alginate
 hydrogels containing [[bioremediation-fungal-biomass-biosorbent-material]] provide a convenient immobilization
@@ -40,7 +40,7 @@ chrysosporium giving higher FDA (fluorescein diacetate) activity at 24
 degrees C while pelleted spawn showed highest activity at 39 degrees C.
 
 Pellets with higher biological potential degrade contaminated soil more
-efficiently than pellets with lower activity. When fungal biomass was
+efficiently than pellets with lower activity. When [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] was
 formulated directly into alginate pellets amended with corn cob grits,
 storage at 4 degrees C maintained viability for over 4 years, while room
 temperature storage resulted in only about 20% viable pellets after 9
@@ -53,7 +53,7 @@ propagules have been developed for soil remediation. The pellets are
 incubated until overgrown with mycelium. Spray coating does not reduce
 viability or affect the mechanical strength of the pellets. When introduced
 into unsterile soil microcosms spiked with pentachlorophenol (PCP),
-mycelium-coated pellets of Irpex lacteus, Bjerkandera adusta, and T.
+mycelium-coated pellets of [[irpex-lacteus]], [[bjerkandera-adusta]], and T.
 versicolor removed over 80% of the contaminant within 4 weeks. Coated
 pellets without established [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] showed significantly less
 removal, confirming the importance of active mycelium for pollutant
@@ -88,49 +88,3 @@ Immobilization may stabilize enzymes and protect biomass from shear forces
 and contamination. However, some initial loss of activity is typically
 associated with the immobilization process. For large-scale
 decolorization, intact mycelia generally offer more practical advantages
-than immobilized enzymes, as the latter involves enzyme extraction and
-purification steps that add cost and complexity.
-
-## Contamination and Sterility Considerations
-
-Most bioreactor studies have employed aseptic techniques and axenic
-cultures. Some studies have found effective treatment under non-aseptic
-conditions, particularly for wood pulping effluents where inherent toxicity
-may inhibit competing organisms. Yeasts, particularly Rhodotorula spp.,
-are the most regularly observed contaminants. When contamination occurs,
-competing microbes may consume added carbon sources, denying them to the
-relatively slow-growing white rot fungi. The combination of temperature,
-pH, and nutrient limitation may be sufficient to inhibit most competing
-organisms in certain effluent treatment systems.
-
-## Scale-Up Challenges
-
-Most bioreactor studies have been conducted at small scale, typically less
-than 1 litre, with few reports exceeding 200 litres. Scale-up is
-complicated by the tendency of white rot fungi to grow in clumps, block
-pipe-work, and grow on surfaces including pH electrodes. Reports of
-large laboratory-scale bioreactors such as 200 litre packed bed reactors
-are unusual. Larger-scale tests on these fungi growing in bioreactors would
-be valuable for establishing commercial viability. Engineering solutions
-for maintaining fungal biomass while preventing clogging of reactor
-components remain a key area of active research.
-
-## Nutrient Requirements for Bioreactor Operation
-
-Nutrient composition significantly affects fungal pellet performance in
-bioreactors. Nitrogen-limited conditions typically induce ligninolytic
-[[ligninolytic-enzyme-production-bioremediation]] in white rot fungi, which is essential for the
-degradation of recalcitrant organic pollutants. Carbon source selection
-also influences [[arbuscule-isolation-metabolic-activity-assays]]. Simple sugars may be consumed too
-rapidly, while complex substrates like corn cob grits provide sustained
-nutrient release. Optimizing the balance between [[fungal-enzyme-induction-and-regulation]] and
-biomass growth is crucial for maintaining effective pollutant removal over
-extended bioreactor operation periods.
-
-## See Also
-
-- [[staycare-trametes-versicolor-bioremediation-applications]]
-- fungal-biofilm-bioremediation
-- [[white-rot-fungi]]
-- [[bjerkandera-adusta]]
-- [[irpex-lacteus]]

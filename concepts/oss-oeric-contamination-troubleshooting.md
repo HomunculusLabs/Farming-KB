@@ -1,5 +1,5 @@
 ---
-title: "Oss & Oeric: [[mushroom-cultivation-contamination-troubleshooting]]"
+title: Oss Oeric Contamination Troubleshooting
 created: 2026-04-28
 tags: [mycology, contamination, sterile-technique, oss-oeric]
 date: 2026-04-28

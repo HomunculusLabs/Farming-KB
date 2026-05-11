@@ -10,8 +10,8 @@ type: concept
 
 # Beneficial Insects and Biological Pest Control
 
-The organic garden is a far more conducive environment for all forms of
-wildlife than a chemically controlled one. The natural balance ensures
+The [[comparison-vermicomposting-vs-composting-organic-garden]] is a far more conducive environment for all forms of
+wildlife than a chemically controlled one. The [[fukuoka-pesticide-cascade-collapse-natural-balance]] ensures
 that predators exist to feed on garden pests. A simple rule for
 distinguishing friend from foe is that pests are generally slow-moving
 while predators are faster and more agile. By careful observation and
@@ -65,7 +65,7 @@ provides a diverse habitat and plenty of egg-laying sites.
 
 Black garden beetles feed on eelworms, cutworms, leatherjackets, and
 insect eggs. They are nocturnal predators that need [[fukuoka-citrus-orchard-ground-cover-cultivation]] to hide
-under during the day. Using the closely planted deep bed system in the
+under during the day. Using the closely planted [[hamilton-deep-bed-system]] in the
 [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] and growing green-manure crops between main crops helps
 maintain the conditions ground beetles need. Keeping the ground covered
 with mulch also provides daytime shelter.
@@ -88,52 +88,3 @@ Different birds have different nesting requirements, so providing a
 variety of options attracts more species.
 
 ### Frogs and Toads
-
-These amphibians are excellent for slug control and also eat woodlice
-and other small insects. A [[fukuoka-heart-shaped-garden-pond-technique]] provides an ideal breeding
-environment, though they really only need water for reproduction. They
-can be encouraged to stay by providing damp, sheltered areas near the
-pond.
-
-### Hedgehogs
-
-A family of hedgehogs is a great boon to any garden. They devour slugs,
-cutworms, woodlice, millipedes, and wireworms in large numbers. Encourage
-them by providing suitable habitat such as log piles, compost heaps, and
-wild areas. They can be attracted with saucers of milk and water or
-bread soaked in milk near their suspected hiding places.
-
-## Biological Control Products
-
-Commercial biological controls use one organism to combat another. The
-parasitic wasp Encarsia formosa has long been used to control whitefly
-in greenhouses. Red spider mite can be controlled by introducing the
-predatory mite Phytoseiulus persimilis. Other available controls include
-Aphidius for aphids, Cryptolaemus montrouzieri for mealy bugs, and
-various nematodes for vine weevils, chafer grubs, and leatherjackets.
-
-The nematode Phasmarhabditis hermaphrodita is used to control slugs and
-snails. It is watered onto the ground and penetrates the pests, preventing
-feeding within three days and causing death within a week. Steinernema
-carpcapse targets caterpillars, applied as a foliar spray or soil drench.
-Always use biological controls according to the manufacturer's instructions,
-as adding more or less is wasteful.
-
-## Practical Strategies
-
-- Plant open-flowered species to attract hoverflies and other pollinators
-- Maintain ground cover with mulches and green-manure crops
-- Provide water features to support amphibians
-- Install bird boxes, baths, and feeding stations
-- Avoid broad-spectrum sprays that kill beneficial insects
-- Accept minor pest damage as part of a balanced ecosystem
-- Use biological controls in greenhouses where enclosed conditions suit them
-
-## Related
-
-- [[savory-biological-pest-control-and-succession]]
-
-- [[hamilton-organic-pest-control]]
-- [[hamilton-wildlife-gardening-biodiversity]]
-- [[hamilton-garden-ponds-and-aquatic-plants]]
-- [[hamilton-green-manure-crops-and-cover-cropping]]

@@ -88,16 +88,3 @@ mycologists, research funding, and institutional infrastructure.
 ## Conclusion
 
 Guzmán, Allen, and Gartz's survey makes clear that Africa represents one of the
-most significant frontiers remaining in neurotropic fungal research. The
-continent's known species — *P. natalensis*, *P. mairei*, the disputed Kenyan
-records, and the ethnographic hints surrounding *C. molybdites* — almost
-certainly constitute a small fraction of what actually exists. Systematic
-field surveys across Africa's diverse ecosystems, combined with ethnomycological
-research into indigenous fungal knowledge, would likely transform our
-understanding of the global distribution of psychoactive mushrooms.
-## See Also
-- [[neurotropic-fungi]]
-- [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
-- [[guzman-allen-gartz-neurotropic-fungi-africa]]
-- [[giorgio-samorini]]
-- [[guzman-allen-gartz-neurotropic-fungi-australasia]]

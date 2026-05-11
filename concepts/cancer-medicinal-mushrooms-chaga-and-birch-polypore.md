@@ -1,5 +1,5 @@
 ---
-title: "Chaga (chaga-inonotus-obliquus-medicinal-profile) and Birch Polypore (Piptoporus betulinus)"
+title: Cancer Medicinal Mushrooms Chaga And Birch Polypore
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -13,7 +13,7 @@ tags: [chaga, medicine, mushroom-cultivation, mushrooms]
 ## Overview
 
 Chaga (Inonotus obliquus) and Birch Polypore (Piptoporus betulinus) are two
-medicinal polypore mushrooms associated with birch trees. Both have historical
+[[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]] mushrooms associated with birch trees. Both have historical
 usage in traditional medicine, though they receive comparatively less clinical
 attention than Reishi, Shiitake, Turkey Tail, or Maitake. The source document
 (Smith, Rowan and Sullivan, 2002) covers them within the broader survey of
@@ -34,8 +34,8 @@ Known active constituents from the source document:
   - Listed among species with documented antitumour activity from fruiting
     body extracts
   - No protein-bound polysaccharides or glycoproteins from submerged cultured
-    mycelial biomass or liquid cultured broth were identified in this survey
-  - Classified among commercially developed mushroom products
+    [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]] or liquid cultured broth were identified in this survey
+  - Classified among commercially developed [[cotter-mushroom-products-and-value-added-applications]]
 
 The source document notes that I. obliquus is one of many polypore mushrooms
 with recognised bioactive polysaccharide fractions, but unlike Ganoderma,
@@ -81,64 +81,9 @@ is characteristic. Key medicinal polypores include:
     >$1.6 billion annual market
   - [[staycare-trametes-versicolor-bioremediation-applications]] (Turkey Tail) -- PSK and PSP, approved drugs in
     Japan and China
-  - Fomes fomentarius -- beta-glucan identified from fruiting body
-  - Fomitopsis pinicola -- multiple beta-glucan fractions identified
+  - [[fomes-fomentarius]] -- beta-glucan identified from fruiting body
+  - [[fomitopsis-pinicola]] -- multiple beta-glucan fractions identified
   - Wolfiporia cocos -- Pachymaran (beta-glucan) characterised
   - Inonotus obliquus (Chaga) -- polysaccharide fraction with antitumour
     activity
   - Piptoporus betulinus (Birch Polypore) -- antibiotic activity confirmed
-
-The source document emphasises that the Basidiomycetes have been
-insufficiently investigated and that the broad range of structural types
-of antibiotics they produce suggests they are a promising source of new
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] (Anke, 1989). Both Chaga and Birch Polypore exemplify
-this untapped potential.
-
-## Cancer Chemoprevention Through Dietary Mushrooms
-
-While purified extracts receive the most clinical attention, the source
-document's Appendix 3 highlights that antitumour effects have also been
-demonstrated when animal diets are enriched with powdered fruit-bodies or
-liquid concentrates from edible medicinal mushrooms. Dietary supplementation
-studies showed:
-
-  - Powdered Lentinus edodes (20% of diet) strongly inhibited MM-46
-    carcinoma growth (79% inhibition)
-  - Powdered L. edodes, G. frondosa, or Pleurotus ostreatus (5% of diet)
-    all decreased urinary bladder carcinoma incidence in carcinogen-treated
-    mice
-  - NK and LAK cell cytotoxicity in tumour-bearing mice was augmented
-    beyond even normal levels with mushroom-enriched diets
-  - Hypsizygus marmoreus (5% dried fruit-bodies) reduced tumour incidence
-    from 21/36 to 3/36 mice over 76 weeks
-
-These findings suggest that whole mushroom consumption or dietary
-supplementation could serve as an approach for cancer chemoprevention,
-relevant to under-studied species like Chaga and Birch Polypore that may
-have similar dietary applications.
-
-## Comparison with Clinically Advanced Medicinal Mushrooms
-
-The following mushrooms have progressed furthest in clinical development
-according to the source document, with Chaga and Birch Polypore representing
-earlier-stage research targets:
-
-  - Lentinan (L. edodes) -- approved drug in Japan, Phase III trials
-  - Schizophyllan (S. commune) -- approved drug in Japan
-  - PSK/PSP (T. versicolor) -- approved drugs in Japan and China
-  - Grifron-D (G. frondosa) -- FDA IND approved, Phase I/II trials
-  - G. lucidum -- Phase I/II study completed, extensive immunology data
-
-## Key Source
-
-Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
-properties and current medical usage with special emphasis on cancer
-treatments. University of Strathclyde.
-- [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[maitake-grifola-frondosa-comprehensive-profile]]
-- [[cancer-medicinal-mushrooms-maitake-d-fraction]]
-
-## See Also
-
-- [[medicinal-mushroom-compounds]]

@@ -2,9 +2,9 @@
 title: bloomfield puccinia monoica pseudoflowers rust mimicry, Pseudoflowers, and Rust Mimicry
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - fungal-pathogens
-  - rust-fungi
+  - [[rust-fungi]]
   - basidiomycetes
   - mimicry
   - plant-pathology
@@ -51,7 +51,7 @@ process.
 ## Rust Life Cycles: A Faberge Egg of Complexity
 
 The rusts are basidiomycetes, distant cousins of mushrooms. Their
-life cycles are among the most elaborate in the fungal kingdom. The
+life cycles are among the most elaborate in the [[fungal-kingdom-diversity]]. The
 black stem rust, Puccinia graminis, requires two unrelated hosts to
 complete its development: wheat and barberry. On wheat, the fungus
 produces uredospores that spread the infection during the growing
@@ -70,16 +70,16 @@ germinate and penetrate the surface immediately.
 
 ## Inside the Barberry Host
 
-Once inside the barberry, a mycelium grows between the cells of the
+Once inside the barberry, a [[mycelium]] grows between the cells of the
 leaf. The fungus feeds by pushing bulbous branches called haustoria
-into the plant cells. Haustoria breach the cell walls but do not break
+into the plant cells. Haustoria breach the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] but do not break
 the plant's membranes. Instead, the membrane of each infected cell is
 dimpled to fit like a glove around the haustorium, creating a
 placenta-like connection between pathogen and host. This keeps host
 cells alive, prolonging the parasite's access to nutrients, unlike
 other fungi that obliterate plant cells with waves of enzymes.
 
-Rust sex occurs on the barberry bush. Spermatia ooze from spermagonia
+[[bloomfield-rust-sex-insect-mediated-spermatia-transfer-dikaryon-formation]] occurs on the barberry bush. Spermatia ooze from spermagonia
 on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], and when a fly drinks the nectar-like fluid, a
 spermatial nucleus is injected into a receptive hair of a mate. The
 nucleus migrates down the hair and divides repeatedly, transforming the
@@ -87,49 +87,3 @@ mycelium from one with identical nuclei into a dikaryon with two
 different types, just like the mycelium that produces mushrooms.
 
 ## Coffee Rust: An Edited Life Cycle
-
-Many rusts have edited versions of the complex life cycle described for
-Puccinia graminis. Coffee rust, caused by Hemileia vastatrix, produces
-uredospores, teliospores, and basidiospores, but lacks spermatium- and
-aeciospore-producing stages. The edited life cycle is due to the fact
-that the fungus thrives on coffee alone and has no alternative food
-source. This deviance from the two-host pattern shows how rusts can
-streamline their biology when circumstances permit, retaining only the
-spore stages essential for survival and dispersal on a single host.
-
-## Why So Complicated?
-
-The standard answer centers on resilience. Two hosts with different
-growing seasons boost survival opportunities. Multiplication and
-recombination of genes through sex are keys to survival, and exploiting
-two hosts may maximize opportunities for both. One rust infects fir
-trees and ferns, another attacks white pines and gooseberries. A more
-speculative possibility is that rust species are hybrids formed from
-two distinct parasites that once lived on different hosts. Recent
-research on lateral gene transfer makes this idea slightly more
-plausible.
-
-## Agricultural Significance
-
-Rusts can be controlled with chemical sprays ranging from
-sulfur-containing mixtures to synthetic fungicides. Black stem rust can
-be controlled with triadimefon, a compound that disrupts membrane
-function by inhibiting ergosterol biosynthesis. Some of these synthetic
-compounds share a similar mode of action with antifungal agents used to
-treat human mycoses. Cultivation of rust-resistant wheat cultivars is
-more effective and reduces environmental pollution. Prospects for
-[[singh-genetically-engineered-fungi-bioremediation]] varieties with customized biochemical pathways
-for antifungal defense are both exciting and terrifying. Losses have
-also been reduced by eradicating barberry bushes from wheat-growing
-regions, since [[fungal-life-cycles-sexual-reproduction-metamorphosis]] occurs on the barberry leaf. Without
-this alternate host, the evolution of new rust strains is retarded,
-lengthening the useful life of each wheat cultivar.
-
-## See Also
-
-- [[bloomfield-plant-hypersensitive-response-rust-arms-race]]
-
-- [[bloomfield-coffee-rust-and-crop-pathogens]]
-- bloomfield-mushroom-poisons-and-toxidromes
-- [[bloomfield-fungal-reproduction-and-chemical-communication]]
-- [[ergot-fungi-claviceps-ergot-alkaloids]]

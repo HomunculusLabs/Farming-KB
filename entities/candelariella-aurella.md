@@ -11,8 +11,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press.
-  - Nash, T.H. III (2008). Lichen Biology (2nd ed.). Cambridge University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
+  - Nash, T.H. III (2008). [[fungi-in-the-environment-lichen-biology]] (2nd ed.). Cambridge University Press.
   - Westberg, M. (2007). "Candelariella." In Nash, T.H. III et al. (eds.), Lichen Flora of the Greater Sonoran Desert Region, Vol. 3.
   - Poelt, J. & Vězda, A. (1981). "Bestimmungsschlüssel europäischer Flechten." Ergänzungsheft II. Bibliotheca Lichenologica, 16.
 ---
@@ -55,19 +55,19 @@ The photobiont is a trebouxia-like green alga, providing photosynthate to the my
 
 ## Distribution and Habitat
 
-*C. aurella* has a broad distribution across temperate regions of the Northern Hemisphere.
+*C. aurella* has a broad distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 In Europe, it is widespread from the Mediterranean to Scandinavia and from the Atlantic coast to eastern Europe.
 
-North American populations occur across southern Canada and much of the contiguous United States.
+[[growing-gourmet-north-american-reishi-species]] populations occur across southern Canada and much of the contiguous United States.
 
-The species is particularly abundant in urban and suburban environments where calcareous building materials are common.
+The species is particularly abundant in urban and suburban environments where calcareous [[gadd-fungal-biodegradation-concrete-building-materials]] are common.
 
 It colonizes concrete, mortar, brick, limestone, asbestos, and other calcium-rich or nutrient-enriched surfaces.
 
 Tree bark is a less common substrate but may be colonized when enriched with dust or bird droppings.
 
-The lichen tolerates moderate air pollution and is frequently among the first species to recolonize surfaces following air quality improvements.
+The lichen tolerates moderate [[air-pollution-fungal-community-responses]] and is frequently among the first species to recolonize surfaces following air quality improvements.
 
 It occurs from sea level to moderate elevations in mountainous regions.
 
@@ -88,46 +88,3 @@ The lichen supports a small community of associated microorganisms including bac
 It is among the most pollution-tolerant crustose lichens, though it declines in heavily industrialized areas.
 
 Reproductive dispersal occurs through both sexually produced spores and vegetative fragments.
-
-The species establishes relatively quickly on new substrates compared to many slower-growing crustose lichens.
-
-It plays a role in succession by facilitating colonization by subsequent lichen and bryophyte species.
-
-## Chemistry and Uses
-
-The primary secondary metabolite is calycin, a yellow pulvinic acid derivative responsible for the thallus coloration.
-
-Additional compounds include pulvinic acid, pinastric acid, and epanorin in varying concentrations.
-
-Calycin acts as a UV-protective pigment, screening the photobiont from excessive solar radiation.
-
-These pulvinic acid derivatives have been studied for their antioxidant and potential pharmaceutical properties.
-
-*C. aurella* has no known traditional, culinary, or commercial uses.
-
-Its primary significance lies in its role as a bioindicator of urban air quality and substrate conditions.
-
-The species is useful in lichenological surveys for assessing the recovery of lichen communities in formerly polluted areas.
-
-## Conservation
-
-*C. aurella* is not threatened and is one of the most common and widespread crustose lichens in temperate regions.
-
-Its populations have generally increased in areas where air quality has improved since the mid-twentieth century.
-
-The species requires no specific conservation measures and is often considered a weed by building conservators.
-
-It is protected incidentally by building conservation and heritage preservation regulations in some European countries.
-
-No monitoring programs specifically target *C. aurella*, though it is routinely recorded in general lichen surveys.
-
-## See Also
-
-- [[xanthoria-parietina]]
-- [[xanthoria-elegans]]
-- [[xanthoria-polycarpa]]
-- [[lecanora-muralis]]
-- [[lecanora-conizaeoides]]
-- [[physcia-tenella]]
-- [[candelariella-vitellina]]
-- [[hypogymnia-physodes]]

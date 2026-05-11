@@ -3,11 +3,11 @@
 ---
 # AACT Tea Types and Definitions
 
- Tea* establishes a rigorous taxonomy of compost-based liquid amendments. Different production methods yield **very different results**, so practitioners must recognize both the benefits and dangers inherent in each type. The distinction is not merely academic — the wrong tea on the wrong crop can do more harm than good.
+ Tea* establishes a rigorous taxonomy of compost-based liquid amendments. Different [[hashish-production-methods]] yield **very different results**, so practitioners must recognize both the benefits and dangers inherent in each type. The distinction is not merely academic — the wrong tea on the wrong crop can do more harm than good.
 
 ## The Central Principle
 
-> Not everything called "compost tea" is the same. Production method determines which organisms grow, which metabolites are produced, and whether the final product helps or harms your plants and the ingham-aact-brewing-techniques for detailed production methods.
+> Not everything called "[[actively-aerated-compost-tea]]" is the same. Production method determines which organisms grow, which metabolites are produced, and whether the final product helps or harms your plants and the ingham-aact-brewing-techniques for detailed production methods.
 
 **Key characteristics:**
 - Highest microbial diversity among all tea types
@@ -15,7 +15,7 @@
 
 ### (B) FCT — Fermentative Compost Tea
 
-Selects for **facultative anaerobic organisms** — microbes that can tolerate low-oxygen conditions. These organisms suppress certain diseases through antibiotic and inhibitory interactions. FCT has a niche role but lacks the broad-spectrum benefits of AACT.
+Selects for **facultative [[ingham-anaerobic-organisms-role-soil]]** — microbes that can tolerate low-oxygen conditions. These organisms suppress certain diseases through antibiotic and inhibitory interactions. FCT has a niche role but lacks the broad-spectrum benefits of AACT.
 
 **Key characteristics:**
 - Targets specific pathogen suppression via antibiotic compounds
@@ -35,7 +35,7 @@ Begins with an aerobic phase, passes through an anaerobic phase, and ideally ret
 
 ### (D) NACT — Not-Aerobic Compost Tea
 
-Deliberately anaerobic production. Anaerobic bacteria dominate, producing **toxic materials** — volatile organic acids, alcohols, and other metabolites that can be useful for preventing the growth of particular organisms but are generally harmful to plants and soil biology.
+Deliberately anaerobic production. Anaerobic bacteria dominate, producing **toxic materials** — [[chamovitz-plant-scent-communication-volatile-organic-compounds]] acids, alcohols, and other metabolites that can be useful for preventing the growth of particular organisms but are generally harmful to plants and soil biology.
 
 **Key characteristics:**
 - Produces phytotoxic compounds unsuitable for most growing situations
@@ -60,7 +60,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,55 +88,3 @@ complexity of day-to-day management and observation activities.
 ## Future Directions
 
 Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-## Merged: Compost Tea Classification Taxonomy
-
-# Compost Tea Classification Taxonomy
-
-**Source:** Elaine Ingham, Ph.D. — *The Field Guide I for Actively Aerated Compost Tea (AACT)*
-
----
-
-## Overview
-
-The world of compost-derived liquid amendments is fraught with confusion. Growers, regulators, and researchers frequently use "[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]" to describe fundamentally different products. Dr. [[elaine-ingham]]'s [[ghouled-field-guide-historical-context]] establishes a rigorous taxonomy that distinguishes these preparations by [[clay-seed-pellet-production-method-concrete-mixer]], aerobic status, and biological content. Pathogen response, plant benefit, and regulatory compliance all depend on which type of preparation is being used.
-
-## The Four Brewed Tea Categories
-
-### 1. Actively Aerated Compost Tea (AACT)
-
-AACT is the most useful tea for improving plant-growing conditions. It is a **water extract of compost that is brewed with active aeration** and supplemental nutrients added to enhance beneficial microbial growth.
-
-**Key characteristics:**
-- Compressed air or vigorous agitation maintains [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 6 ppm throughout brewing
-- Brewing duration is typically 18–24 hours at 65–75°F (18–24°C)
-- Food resources (molasses, kelp, [[comparison-fish-hydrolysate-vs-fish-emulsion]], humic acids) feed extracted organisms
-- The resulting liquid contains active populations of bacteria, fungi, protozoa, and nematodes
-- Must contain the full biological diversity present in the starting compost
-
-Without continuous dissolved oxygen above critical thresholds, the tea shifts toward anaerobic conditions. Aerobic beneficials go dormant or die, and facultative anaerobes begin producing phytotoxic metabolites. AACT's defining feature is that beneficial organisms remain fully active throughout.
-
-### 2. Fermentative Compost Tea (FCT)
-
-FCT relies on a **facultative anaerobic** environment where certain beneficial microorganisms produce antibiotic or inhibitory compounds. The brew is not actively aerated and may develop a surface biofilm.
-
-**Key characteristics:**
-- No active aeration is applied during brewing
-- Selects for facultative [[ingham-anaerobic-organisms-role-soil]] (those that survive with or without oxygen)
-- Can suppress certain diseases through antibiotic-inhibitory interactions
-- Metabolic byproducts (organic acids, bacteriocins) prevent growth of target pathogens
-- Requires careful management — if conditions become strictly anaerobic, toxic materials can be produced

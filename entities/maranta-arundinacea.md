@@ -88,28 +88,3 @@ Indigenous Caribbean communities traditionally prepared arrowroot as a flatbread
 ## Nutritional Value
 
 Arrowroot starch is composed of approximately 85% carbohydrate (primarily amylose and amylopectin), with minimal protein (0.2–0.5%) and fat (0.1%). It contains no gluten, making it suitable for celiac and gluten-intolerant diets.
-
-The starch has a high digestibility coefficient (over 98%), one of the highest among food starches. This makes it a preferred ingredient for convalescent and infant nutrition.
-
-Mineral content includes moderate levels of potassium, phosphorus, and iron. However, per-serving amounts are modest given that arrowroot is typically consumed in small quantities as a thickener.
-
-Compared to cassava and potato starch, arrowroot contains fewer total calories per gram and produces a lower glycemic response. Clinical studies confirm it is well-tolerated by individuals with sensitive digestive systems.
-
-## History and Ethnobotany
-
-The Arawak and Taino peoples of the Caribbean used arrowroot as a dietary staple and wound treatment. The common name is believed to derive from its use by indigenous peoples to extract arrow poison from wounds.
-
-Columbus encountered arrowroot cultivation during his voyages to the Caribbean in the late 15th century. Spanish colonists subsequently exported the plant to other tropical colonies.
-
-St. Vincent became the center of commercial arrowroot production by the 18th century. At its peak in the early 20th century, the island exported over 30,000 tonnes of arrowroot starch annually.
-
-The starch was used medicinally in European and American folk traditions as a remedy for digestive upset and as a dietary food during convalescence from infectious diseases.
-
-## See Also
-
-- [[manihot-esculenta]]
-- [[dioscorea-alata]]
-- [[chenopodium-quinoa]]
-- [[portulaca-oleracea]]
-- typha-latifolia-entity
-- [[zingiber-officinale]]

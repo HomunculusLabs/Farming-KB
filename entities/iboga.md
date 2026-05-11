@@ -9,7 +9,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3137207/
   - https://pubchem.ncbi.nlm.nih.gov/compound/Ibogaine
   - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Journal of the American Board of Family Practice.
-  - Samorini, G. (1995). "The Bwiti Religion and the Psychoactive Plant Tabernanthe iboga."
+  - Samorini, G. (1995). "The [[iboga-bwiti-religion]] and the Psychoactive Plant [[plants-of-the-gods-tabernanthe-iboga]]."
 ---
 
 # Iboga (Tabernanthe iboga)
@@ -73,7 +73,7 @@ Ibogaine's pharmacology is exceptionally complex, acting on multiple receptor sy
 - **NMDA receptor antagonist:** Blocks N-methyl-D-aspartate receptors, contributing to dissociative and oneirogenic (dream-like) effects.
 - **Serotonin reuptake inhibition:** Moderately inhibits the serotonin transporter (SERT), increasing synaptic serotonin.
 - **Sigma-2 receptor agonism:** May contribute to anti-addictive and neuroprotective effects.
-- **Opioid receptor modulation:** Weak affinity for mu and kappa opioid receptors. The metabolite noribogaine shows more significant mu-opioid agonism, which may contribute to withdrawal suppression.
+- **[[salvinorin-a-kappa-opioid-receptor-pharmacology]] modulation:** Weak affinity for mu and kappa opioid receptors. The metabolite noribogaine shows more significant mu-opioid agonism, which may contribute to withdrawal suppression.
 - **Dopamine transporter inhibition:** Moderate inhibition of dopamine reuptake.
 - **hERG potassium channel blockade:** This is the mechanism behind ibogaine's cardiotoxicity risk — it can prolong the QT interval, potentially leading to fatal arrhythmias.
 
@@ -87,61 +87,3 @@ The primary active metabolite, produced by hepatic CYP2D6 metabolism:
 - Accumulates with repeated dosing due to long half-life
 
 ## Anti-Addictive Properties
-
-Ibogaine is unique among psychedelics for its well-documented capacity to interrupt substance dependence:
-
-### Observational Evidence
-
-- **Opioids:** Multiple case series and open-label studies report dramatic reduction in opioid withdrawal symptoms and sustained drug-free periods following a single ibogaine session. Many patients report complete elimination of opioid cravings.
-- **Cocaine and stimulants:** Reduced craving and use reported in observational studies.
-- **Alcohol:** Reduced drinking behavior and cravings.
-- **Nicotine:** Anecdotal reports of smoking cessation.
-- **Polydrug dependence:** Ibogaine appears broadly effective across substance classes, suggesting a common mechanism rather than substance-specific effects.
-
-### Proposed Anti-Addictive Mechanisms
-
-1. **Glial cell line-derived neurotrophic factor (GDNF):** Ibogaine upregulates GDNF in the ventral tegmental area (VTA), promoting neuroplasticity and normalizing dopaminergic reward pathways disrupted by chronic drug use.
-2. **Kappa opioid receptor regulation:** Modulates dynorphin/kappa opioid signaling, which is upregulated in addiction.
-3. **Psychological mechanism:** The intense visionary experience provides psychological insight into the origins and patterns of addictive behavior, facilitating motivational change.
-4. **Noribogaine accumulation:** Sustained mu-opioid agonism by the long-lived metabolite may suppress withdrawal and cravings during the critical post-treatment period.
-
-### Clinical Development
-
-- No large-scale randomized controlled trials have been completed due to regulatory barriers and the compound's cardiotoxicity profile.
-- Phase I safety studies have been conducted in New Zealand, where ibogaine is available by prescription.
-- Multiple countries have clinical ibogaine treatment centers, operating in various legal frameworks: Mexico, Brazil, South Africa, New Zealand, Costa Rica, and several European nations.
-- An estimated 5,000–10,000 addiction treatments with ibogaine have been conducted worldwide since the 1990s.
-
-## Safety Profile and Risks
-
-### Cardiotoxicity (Primary Concern)
-
-- Ibogaine prolongs the QT interval on ECG through hERG potassium channel blockade.
-- At least 19 deaths have been reported in association with ibogaine treatment since 1990, most attributed to cardiac arrhythmia.
-- Risk factors include: pre-existing cardiac conditions, electrolyte imbalances (hypokalemia), concurrent use of QT-prolonging drugs, and excessive methadone prior to treatment.
-- **Mitigation:** Pre-treatment ECG screening, electrolyte monitoring, continuous cardiac telemetry during treatment, and careful patient selection are essential. Treatment centers following clinical protocols report very low adverse event rates.
-
-### Other Risks
-
-- Ataxia, nausea, and vomiting during the acute experience (common and generally manageable)
-- Seizures (rare, more common at very high doses or in susceptible individuals)
-- Psychiatric decompensation in individuals with psychotic disorders or severe personality pathology
-- Hepatotoxicity (rare; elevated liver enzymes have been observed)
-- Interaction with serotonergic drugs (SSRIs, MAOIs) — risk of serotonin syndrome
-
-## Cultivation
-
-- **Habitat:** Understory of tropical rainforests in equatorial West-Central Africa, at elevations up to 800 meters.
-- **Climate:** Requires consistently warm temperatures (22–30°C), high humidity, and well-distributed rainfall. Cannot tolerate frost or prolonged drought.
-- **Soil:** Rich, well-draining forest soils with high organic content, pH 5.0–6.5.
-- **Propagation:** Primarily from seed (slow germination, 2–4 months) or stem cuttings. Root bark is harvested from mature plants (4–7+ years old).
-- **Yield:** A mature plant yields approximately 1–2 kg of dried root bark.
-
-## Conservation Status
-
-Wild populations of Tabernanthe iboga are declining due to:
-## See Also
-
-- [[5-meo-dmt-entity]] — another psychedelic with anti-addictive potential
-- [[salvia-divinorum]] — plant-derived psychedelic with different receptor profile
-- [[mitragyna-speciosa]] — plant with opioid-like effects used for self-managed withdrawal

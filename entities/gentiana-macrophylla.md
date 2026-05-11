@@ -23,7 +23,7 @@ Gentiana macrophylla is a robust perennial herb in the family Gentianaceae, know
 
 It is one of the most important medicinal gentians in traditional Chinese medicine, valued for anti-inflammatory and hepatoprotective properties. The species grows 30–60 cm tall with whorled leaves and clusters of dark blue to purple flowers.
 
-Gentiana macrophylla is native to temperate regions of China, Mongolia, and Siberia. It thrives in mountain meadows and forest margins at elevations of 400–3,000 m.
+Gentiana macrophylla is native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of China, Mongolia, and Siberia. It thrives in mountain meadows and forest margins at elevations of 400–3,000 m.
 
 The roots are the primary medicinal part, containing bitter secoiridoid glycosides. Harvest typically occurs in autumn after 3–5 years of growth.
 
@@ -45,7 +45,7 @@ The calyx tube is short with five narrow lobes. Stamens are inserted midway on t
 
 The fruit is an elliptic capsule 2–3 cm long, containing numerous small, brown, wingless seeds. Root systems consist of thick, fleshy taproots with a characteristic yellow-orange color.
 
-The root system is the commercially harvested part, developing significant mass over 3–5 growing seasons. Fresh roots have a strong, persistent bitterness characteristic of gentian species.
+The root system is the commercially harvested part, developing significant mass over 3–5 [[jeavons-climate-adaptation-growing-seasons]]. Fresh roots have a strong, persistent bitterness characteristic of gentian species.
 
 ## Distribution and Habitat
 
@@ -53,7 +53,7 @@ Gentiana macrophylla occurs across northern and central China (Gansu, Hebei, Hei
 
 Populations in the Qinling Mountains of Shaanxi and Gansu are considered the primary commercial source. The species grows in mountain meadows, forest margins, scrubland, and grassy slopes.
 
-Preferred soils are well-drained, slightly acidic loams rich in organic matter. Elevational range extends from 400 m to 3,000 m above sea level.
+Preferred soils are well-drained, slightly acidic loams rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Elevational range extends from 400 m to 3,000 m above sea level.
 
 The species requires cold winters and moderate summer rainfall. It is frost-hardy to USDA zone 4.
 
@@ -69,7 +69,7 @@ Minor compounds include loganic acid and several caffeoylquinic acid derivatives
 
 Triterpenoids (oleanolic acid, ursolic acid) contribute to the anti-inflammatory profile. Alkaloids including gentianine have been isolated in small quantities.
 
-Pharmacological studies demonstrate anti-inflammatory effects via suppression of NF-κB signaling and COX-2 expression. Hepatoprotective activity is mediated through antioxidant enzyme induction.
+Pharmacological studies demonstrate anti-inflammatory effects via suppression of NF-κB signaling and COX-2 expression. Hepatoprotective activity is mediated through antioxidant [[fungal-enzyme-induction-and-regulation]].
 
 Analgesic properties have been confirmed in rodent models of inflammatory and neuropathic pain. The species also shows immunomodulatory and mild antipyretic effects.
 
@@ -83,39 +83,8 @@ Primary indications include rheumatic arthritis, jaundice, constipation, and fev
 
 Qin Jiao is a component of several classic formulas including Qin Jiao San and Da Qin Jiao Tang. These formulas treat joint pain, stiffness, and wind-dampness patterns.
 
-Modern clinical applications extend to chronic hepatitis, liver fibrosis, and autoimmune conditions. Standardized extracts are available as dietary supplements in Asian markets.
+Modern clinical applications extend to chronic hepatitis, liver fibrosis, and [[blesching-cannabis-health-index-autoimmune-conditions]]. Standardized extracts are available as [[medicinal-mushroom-dietary-supplements]] in Asian markets.
 
 Harvesting occurs in autumn after the aerial parts die back. Roots are cleaned, dried, and sliced for decoction or powder preparation.
 
 The species name Qin Jiao derives from the Qinling mountain region, its historic center of trade. It has been documented in Chinese herbals since the Shen Nong Ben Cao Jing (c. 200 CE).
-
-## Cultivation
-
-Gentiana macrophylla cultivation requires stratification at 4°C for 4–6 weeks to break seed dormancy. Germination rates are typically 40–60% under optimal conditions.
-
-Sow seeds in spring in a cold frame or nursery bed. Transplant seedlings to field positions in their second year, spacing 25–30 cm apart.
-
-Plants prefer partial shade to full sun in cooler climates. Soil should be rich in organic matter with pH 5.5–7.0 and consistent moisture.
-
-Commercial cultivation in Gansu and Shaanxi provinces supplies most of the Chinese pharmaceutical market. Field-grown roots reach harvest maturity in 3–5 years.
-
-Organic cultivation methods are increasingly adopted to meet export quality standards. Crop rotation with legumes helps maintain soil fertility in gentian beds.
-
-Root yields average 1,500–2,500 kg/ha of dried material. Pest problems are minimal, though slugs and aphids may affect young plants.
-
-Propagation can also be achieved by division of established clumps in early spring. Each division should include at least one growing point and a portion of the taproot.
-
-Seed viability declines rapidly after 12 months of dry storage. Fresh seed germination can be improved with gibberellic acid (GA3) presoak treatment.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-purpurea]]
-- [[gentiana-pneumonanthe]]
-- [[swertia-chirata]]
-- [[centaurium-erythraea]]
-- [[gentiana-verna]]
-- [[gentiana-cruciata]]
-- [[gentiana-nivalis]]
-- [[gentiana-punctata]]
-- [[gentiana-amarella]]

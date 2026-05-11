@@ -1,5 +1,5 @@
 ---
-title: Compost Tea Brewing Guide
+title: Compost Tea Brewing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Compost Tea Brewing Guide
 
-Aerated compost tea (ACT) is a liquid extract of finished compost, brewed with oxygen to multiply beneficial microorganisms. Applied as a soil drench or foliar spray, ACT introduces diverse bacteria, fungi, protozoa, and nematodes to the soil and plant surfaces, boosting nutrient cycling and disease suppression. (see [[compost-tea-guide]]).
+Aerated compost tea (ACT) is a liquid extract of finished compost, brewed with oxygen to multiply [[forest-and-bamboo-beneficial-microorganisms]]. Applied as a soil drench or foliar spray, ACT introduces diverse bacteria, fungi, protozoa, and nematodes to the soil and plant surfaces, boosting [[soil-protozoa-nutrient-cycling-and-mineralization]] disease suppression.
 
 ## ACT vs. Non-Aerated Compost Tea
 
@@ -22,7 +22,7 @@ Aerated compost tea (ACT) is a liquid extract of finished compost, brewed with o
 | Risk | Low if brewed correctly | Higher (pathogens if anaerobic) |
 | Equipment needed | Air pump, airstone | Just a bucket |
 
-This guide focuses on aerated compost tea (ACT). (see [[compost-tea-recipe-guide]]).
+This guide focuses on aerated compost tea (ACT).
 
 ## 5-Gallon ACT Recipe
 
@@ -37,7 +37,7 @@ This guide focuses on aerated compost tea (ACT). (see [[compost-tea-recipe-guide
 ### Ingredients
 - 4-5 gallons dechlorinated water (room temperature, 65-75°F)
 - 1-2 cups high-quality, finished compost (vermicompost preferred)
-- 1 tablespoon unsulfured blackstrap molasses (microbe food)
+- 1 tablespoon unsulfured [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] (microbe food)
 - Optional: 1/4 tsp kelp meal or 1 tsp fish hydrolysate (additional nutrients)
 
 ### Step-by-Step Process
@@ -85,7 +85,7 @@ If tea smells bad (sewer, sulfur, vomit), it has gone anaerobic — discard on n
 - Coat both tops and undersides of leaves.
 - Do not spray in full sun or above 85°F.
 - Apply every 2-3 weeks for disease prevention.
-- Good for: powdery mildew suppression, botrytis prevention, general plant health.
+- Good for: powdery mildew suppression, [[cervantes-gray-mold-botrytis-prevention]], general plant health.
 
 ## Compost Quality Matters
 
@@ -116,5 +116,5 @@ The quality of your starting compost directly determines tea quality:
 
 - [[composting-methods-comparison]] for producing quality compost for tea
 - [[soil-amendment-reference]] for mineral amendments to complement biological inputs
-- [[fermented-plant-extract-fpe]] for fermented plant extracts as another biological spray
+- [[fermented-plant-extract-fpe]] for [[korean-natural-farming-imo-collection-fermented-plant-extracts]] as another biological spray
 - [[soil-food-web-nutrient-cycling]] for understanding the soil microbiology behind ACT

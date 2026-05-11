@@ -15,41 +15,41 @@ Ginger is a tropical herbaceous perennial in the Zingiberaceae family, native
 to Maritime Southeast Asia. One of the most important spices and medicinal
 plants in the world, ginger has been cultivated for over 5,000 years and is
 now grown commercially across the tropics. Its rhizome is used universally
-in cooking, [[herbal-medicine|herbal medicine]], and traditional healing systems. In temperate
-climates, ginger can be grown successfully in containers, greenhouses, or
-high tunnels with proper management. (see [[valerian-growing-guide]]).
+in cooking, [[herbal-medicine]], and traditional healing systems. In temperate
+climates, ginger can be grown [[query-how-to-grow-successfully-in-containers-and-what-plants-work-best]], greenhouses, or
+high tunnels with proper management.
 
 ## Botanical Profile
 
 - Scientific name: Zingiber officinale
 - Family: Zingiberaceae
 - Hardiness: USDA zones 9-12 (grown as an annual or container plant elsewhere)
-- Lifecycle: Perennial in tropics; annual in temperate climates
+- Lifecycle: Perennial in tropics; annual [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - Height: 2-4 feet
 - Growing season: 8-10 months for mature rhizome production
 
 Ginger produces reed-like stems with narrow, lance-shaped leaves. The edible
 portion is the underground rhizome -- a knobby, branched structure with
 pale yellow to golden flesh covered in a tan skin. Flowers are produced on
-separate stalks directly from the rhizome but are rare in cultivation. (see [[echinacea-growing-guide]]).
+separate stalks directly from the rhizome but are rare in cultivation.
 
 ## Medicinal Uses
 
-Ginger contains over 100 bioactive compounds, the most important being
+Ginger contains over 100 [[cordyceps-cancer-bioactive-compounds]], the most important being
 gingerols, shogaols, paradols, and zingerone. These compounds provide
 anti-inflammatory, anti-nausea, antiemetic, and digestive benefits.
 
 Key medicinal applications:
 
 - Nausea and vomiting: The most well-established use. Clinical evidence
-  supports ginger for morning sickness (pregnancy nausea), motion sickness,
+  supports ginger for [[blesching-cannabis-morning-sickness]] (pregnancy nausea), motion sickness,
   postoperative nausea, and chemotherapy-induced nausea. Generally
   considered safe during pregnancy at normal culinary doses.
 - Digestive support: Stimulates digestive enzymes and bile flow, relieves
   indigestion, gas, and bloating. Traditional remedy for stomach upset
   worldwide.
 - Anti-inflammatory: Inhibits COX and LOX inflammatory pathways. Helpful
-  for osteoarthritis, muscle soreness, and inflammatory conditions.
+  for osteoarthritis, muscle soreness, and [[cannabis-for-inflammatory-conditions]].
 - Antiemetic for migraines: Some evidence supports ginger for migraine-
   associated nausea.
 - Cardiovascular health: May lower blood pressure and cholesterol; anti-
@@ -59,7 +59,7 @@ Key medicinal applications:
 - Blood sugar regulation: May improve insulin sensitivity and lower blood
   sugar levels.
 
-Preparation methods:
+[[amanita-muscaria-preparation-methods]]:
 - Fresh ginger tea: Slice 1-2 inches of fresh ginger, simmer in water for
   10-15 minutes. Add lemon and honey.
 - Tincture: Fresh root tincture (1:2 in 60-95% alcohol), 20-40 drops as
@@ -147,4 +147,3 @@ For fresh ginger:
 - At this stage, the skin is tender and does not need peeling
 - Simply dig around the plant and cut off desired pieces; the plant will
   continue growing
-

@@ -88,38 +88,3 @@ In modern horticulture, blunt-lobed woodsia is cultivated by specialized rock ga
 The fern is not commercially available through mainstream nurseries. Propagation is primarily through specialized fern societies and native plant exchanges.
 
 Conservation concern is low for the species as a whole, though local populations on heavily quarried limestone cliffs may be vulnerable to habitat destruction. Monitoring of populations near active quarry operations is recommended.
-
-The species has a Global Rank of G5 (secure) from NatureServe. Several state-level populations are tracked as locally rare due to limited cliff habitat availability.
-
-## Cultivation
-
-Woodsia obtusa requires excellent drainage and alkaline soil conditions for successful cultivation. A mix of limestone chips, sand, and loam provides suitable growing conditions.
-
-Full sun to partial shade is tolerated, with the species performing best in bright, exposed positions. Shaded conditions produce weak, elongated fronds and reduced vigor.
-
-Hardiness is excellent, with the fern surviving temperatures below -30°C in exposed rock garden settings. Winter protection is unnecessary in USDA zones 4–8.
-
-Propagation from spores is straightforward on calcareous media. Sporelings establish readily when transplanted into rock crevices with adequate moisture retention.
-
-Established plants are drought-tolerant but benefit from occasional watering during extended dry periods. Overwatering and poor drainage are the primary causes of cultivation failure.
-
-Division of established clumps in early spring provides a reliable vegetative propagation method. Individual fans can be separated and replanted into prepared rock crevices.
-
-The fern is well suited to alpine trough gardens constructed from tufa or limestone. Its small scale complements other miniature rock garden plants and dwarf cushion-forming species.
-
-## See Also
-
-- [[woodsia-oregana]]
-
-- [[woodsia-ilvensis]]
-
-- [[pteridium-aquilinum]]
-- [[adiantum-pedatum]]
-- [[polypodium-vulgare]]
-- [[pteris-vittata]]
-- [[athyrium-filix-femina]]
-- [[dryopteris-filix-mas]]
-- [[botrychium-lunaria]]
-- [[onoclea-sensibilis]]
-- [[dennstaedtia-punctilobula]]
-- [[cyrtomium-falcatum]]

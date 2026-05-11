@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -26,13 +27,13 @@ The forms of logic that govern pattern formation in Nature are language-like, co
 
 **Psycho-logic:** Conscious minds are subsequently able to reflect on the intelligence governing these processes. Psychology and consciousness represent the most complex informational layer yet known.
 
-All forms of logic must derive from some original and fundamental property of Nature, a property best explained by invoking some non-human wilful intelligence, the very same intelligence that entheogens like psilocybin bring into sharp focus.
+All forms of logic must derive from some original and [[consciousness-as-fundamental-property]] of Nature, a property best explained by invoking some non-human wilful intelligence, the very same intelligence that entheogens like psilocybin bring into sharp focus.
 
 ## Evidence from Evolution
 
 If we imagine viewing a time-lapse film of Gaia wherein 3.5 billion years of information-gaining evolution are compressed into one intense second, then modern electronic human culture and human consciousness explodes instantaneously into existence, bursting forth out of the earth's ocean of elemental constituents.
 
-This awesome pattern of self-organisation can be no mere accident. The fine-tuning of Nature is most clearly indicated in the evolutionary process. Over billions of years, our planet has transformed itself from a lifeless mass of rock into a metabolizing organic matrix in which countless replicating patterns swarm about the Earth's surface, each organism an informational expression of Natural Intelligence.
+This awesome pattern of self-organisation can be no mere accident. The fine-tuning of Nature is most clearly indicated in the evolutionary process. Over billions of years, our planet has transformed itself from a lifeless mass of rock into a metabolizing [[mckenna-radio-entelechy-organic-matrix-ripping]] in which countless replicating patterns swarm about the Earth's surface, each organism an informational expression of Natural Intelligence.
 
 Science has failed to see the contextually directed movement of Natural Intelligence, claiming instead that evolution is essentially pointless and mindless. But this can only be a subjective inference likely drawn according to the perceived duration over which evolution works, a duration so great that the intelligence operating over such spans remains all but invisible.
 
@@ -42,13 +43,13 @@ The Natural Intelligence framework is articulated through what can be called the
 
 According to this hypothesis, we are woven into an orchestrational tide of information, interconnected throughout, whose glorious and spectacular purpose awaits us. The natural tendency of the Universe is to foster the integration of more and more information.
 
-Life and consciousness were destined to emerge out of the Universal Computation from the start. As information comes to be organised and integrated in ever more elaborate ways, eventually all information will have been integrated and all uncertainty will have been vanquished.
+Life and consciousness were destined to emerge out of [[powell-natural-intelligence-and-the-universal-computation]] from the start. As information comes to be organised and integrated in ever more elaborate ways, eventually all information will have been integrated and all uncertainty will have been vanquished.
 
 ## Against the Null Hypothesis
 
 The null hypothesis holds that our Universe is accidental, one of an infinity, and that the earthly psilocybin experience is no more than a trap-like aberration. Under this view, the astonishing complexity of life and consciousness is mere coincidence.
 
-But as Terence McKenna pointed out, a belief in the big bang in which the entire space-time continuum sprung out of nothing represents "the limit case for credulity -- if you can believe this then you can believe anything." It is arguably more reasonable to see intelligence at work than to assert that all this "astonishingness" is without reason.
+But as [[terence-mckenna]] pointed out, a belief in the big bang in which the entire space-time continuum sprung out of nothing represents "the limit case for credulity -- if you can believe this then you can believe anything." It is arguably more reasonable to see intelligence at work than to assert that all this "astonishingness" is without reason.
 
 One even suspects that such a mindless interpretation of life and consciousness stems from an ego-obsessed psyche hell bent on describing itself, and solely itself, in terms of high intelligence.
 
@@ -62,7 +63,7 @@ Concerning the nature of this intelligence, three basic options present themselv
 
 3. The Universe is organism-like such that the intelligence exists throughout Nature
 
-The third option -- the Gaian/organismic model -- is most consistent with the evidence from entheogenic experience, which reveals an intelligence that seems pervasively present throughout the natural world rather than located at any single point.
+The third option -- the Gaian/organismic model -- is most consistent with the evidence from [[pineal-gland-dmt-entheogenic-experience]], which reveals an intelligence that seems pervasively present throughout the natural world rather than located at any single point.
 
 Anyone can suggest that some sort of wilful intelligence infuses reality. Many might intuit such. But to pursue the idea so as to resolve a coherent framework with which to understand the inferred intelligence and its possible aims is another matter entirely.
 
@@ -87,41 +88,3 @@ Those scientists who diligently propound the myth that we are mere bystanders on
 ### The Gaia Hypothesis
 
 The Gaia hypothesis, formulated by James Lovelock and Lynn Margulis, proposes that Earth's living and non-living components function together as a self-regulating system that maintains conditions suitable for life. This planetary homeostasis -- regulating temperature, atmospheric composition, and ocean salinity over billions of years -- resembles the kind of feedback-controlled intelligence that the Natural Intelligence framework describes at a planetary scale.
-
-The Gaia hypothesis directly supports the third option for the nature of the Other: that the Universe is organism-like, with intelligence distributed throughout natural systems. The Earth itself may be understood as a vast informational processing system, with the [[mycelial-foraging-resource-allocation]] research demonstrates that [[fungal-mycelial-networks-nutrient-translocation]] can solve spatial optimization problems, allocate resources strategically, and make decisions about growth direction that maximize nutrient acquisition. Mycelium explores its environment, assesses [[fungal-decomposition-resource-quality-determinants]], and adjusts its growth patterns accordingly -- behaviors that meet many criteria for intelligence.
-
-Slime molds, though not true fungi, offer even more dramatic evidence. [[common-mycorrhizal-networks]] that connect trees and plants through shared fungal symbionts represent a biological internet -- a vast underground communication and resource-sharing network. Through these networks, trees can transfer carbon to shaded seedlings, send chemical warning signals about insect attack, and share water and nutrients across species boundaries. The wood wide web, as it has been called, is a concrete expression of Natural Intelligence operating at the ecosystem scale.
-
-This mycorrhizal intelligence challenges the individualistic model of biology and supports the view that natural systems function as integrated informational wholes rather than collections of competing organisms.
-
-## Natural Intelligence in Agriculture and Design
-
-### Fukuoka's Natural Farming
-
-Masanobu Fukuoka's permaculture-pattern-language codifies the design principles by which natural systems organize themselves. Permaculture designers study the patterns found in nature -- branching patterns, [[mollison-spiral-patterns-in-nature-and-design]], wave patterns, net patterns -- and apply these as templates for human-designed systems. This approach treats natural patterns as the output of Natural Intelligence and seeks to align human designs with these pre-existing informational templates.
-
-## Implications for Artificial Intelligence
-
-The study of Natural Intelligence raises profound questions about the relationship between biological and artificial intelligence:
-
-### Distributed vs. Centralized Processing
-
-Natural intelligence tends to be distributed, decentralized, and emergent, whereas most artificial intelligence is centralized and designed top-down. The mycelial network model -- where intelligence emerges from simple local interactions without central control -- may offer insights for developing more robust, resilient, and adaptable AI systems.
-
-### Embodiment and Environmental Interaction
-
-Biological intelligence is always embodied and situated within an environment. Fungi, slime molds, and other simple organisms demonstrate that intelligence arises from the interaction between an organism and its environment, not from abstract computation alone. This suggests that truly intelligent AI systems may need to be embodied and environmentally situated to achieve general intelligence.
-
-### The Hard Problem of Meaning
-
-Natural Intelligence is inherently purposeful and meaningful -- it organizes information toward specific ends (survival, reproduction, ecological integration). Artificial intelligence, by contrast, lacks intrinsic purpose and relies on externally imposed objective functions. Understanding how Natural Intelligence generates meaning from information processing may be essential for developing AI systems that can genuinely understand rather than merely process.
-
-### Biomimetic Computing
-
-The computational strategies observed in natural systems -- parallel processing, error tolerance, [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], self-organization -- are increasingly being adopted in computing and AI design. Neuromorphic computing, swarm robotics, and evolutionary algorithms all draw inspiration from Natural Intelligence. The mycelial network, with its ability to process information, make decisions, and adapt without central control, represents a particularly promising model for distributed AI systems.
-## See Also
-- [[wood-wide-web]]
-- [[permaculture-design]]
-- [[mycelial-networks]]
-- [[masanobu-fukuoka]]
-- [[natural-farming]]

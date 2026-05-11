@@ -1,5 +1,5 @@
 ---
-title: Ingoldian Fungi and Aquatic aquatic-fungi-spore-dispersal-ingold
+title: Bloomfield [[ingoldian-aquatic-fungi]] [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
 created: 2026-04-28
 tags: [ingoldian-fungi, aquatic-fungi, spore-dispersal, tetraradiate-spores,
       cecil-ingold, leaf-decomposition, stream-ecology, freshwater-fungi]
@@ -12,7 +12,7 @@ type: concept
 
 Ingoldian fungi are a remarkable group of aquatic microfungi that
 produce elaborately shaped spores designed for dispersal and attachment
-in freshwater environments. Discovered by Cecil Terence Ingold in 1938,
+in freshwater environments. Discovered by Cecil [[terence-ingold-mycologist]] in 1938,
 these fungi and their spectacular spores have been found in streams
 and creeks on every continent, playing a vital role in the
 decomposition of submerged plant material and the cycling of nutrients
@@ -38,7 +38,7 @@ Australian marsupials: a wholly new type of fungus had been found.
 
 ## Spore Morphology
 
-Ingoldian spores come in an extraordinary variety of shapes. Some are
+[[aquatic-fungi-and-ingoldian-spores]] come in an extraordinary variety of shapes. Some are
 star-shaped (tetraradiate), with thin arms connected to a central hub.
 Others are crescent-shaped or sigmoid, elongated into twisted helices.
 A few combine these features, resembling balloon animal sculptures.
@@ -88,48 +88,3 @@ at a second contact point to prevent further displacement.
 Ingoldian fungi are critical decomposers in freshwater ecosystems.
 Their mycelia colonize submerged leaves and soften the plant tissues
 by secreting cellulose-degrading enzymes. Hyphae thoroughly
-insinuate themselves in decaying leaves, raising the protein content
-of the debris as dead plant material is transformed into living
-fungal tissue. This microbial processing provides food for tiny
-crustaceans and other invertebrates that form the base of aquatic
-food webs.
-
-The fungi exit their substrate by sprouting forests of hyphae at
-the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], forming canopies of spores that are then
-released into the water column to begin the cycle again.
-
-## Aero-Aquatic Fungi
-
-A different group called aero-aquatics specializes in leaf
-decomposition in stagnant or polluted water. These fungi develop
-ornate spores shaped like barrels and cages that trap air bubbles.
-The trapped air provides buoyancy, lifting the spores from their
-mycelium to the water surface. Barrel shapes are constructed by
-hyphae growing in tight helical paths, while cage shapes form from
-hyphae that aggregate and branch repeatedly. Some barrel-shaped
-spores resemble miniature puffballs.
-
-## Mermaid Life Cycles
-
-Ingoldian fungi have complex life cycles that span both aquatic
-and terrestrial environments. The mycelia that produce tetraradiate
-and sigmoid spores are the asexual phases (anamorphs) of fungi
-that produce sexual spores in other habitats. The enormous spores
-of Actinospora are products of an ascomycete cup fungus. Other
-Ingoldians are asexual phases of basidiomycetes and various
-ascomycetes. Even some zygomycetes that parasitize aquatic insects
-produce tetraradiate spores. The independent evolution of similar
-spore shapes by unrelated fungi is a striking case of evolutionary
-convergence.
-
-## Related
-
-- [[ingoldian-aquatic-fungi]]
-- [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
-
-- [[bloomfield-fungal-spore-discharge-and-dispersal]] for
-  spore release mechanisms in terrestrial fungi
-- bloomfields-orchard-fungal-biology-and-ecology for the role
-  of fungi in breaking down [[hamilton-composting-and-organic-matter-management]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for
-  [[singh-fungal-interactions-with-heavy-metals-in-soil]] in terrestrial ecosystems

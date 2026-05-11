@@ -25,11 +25,11 @@ sources:
 
 Cajanus cajan is a perennial leguminous shrub of the family Fabaceae,
 widely cultivated across tropical and subtropical regions as a food
-crop, forage, green manure, and nitrogen-fixing companion plant. It is
+crop, forage, [[coleman-mobile-greenhouse-green-manure-soil-building]], and nitrogen-fixing companion plant. It is
 the sixth most important pulse crop globally by production area, serving
 as a primary protein source for millions of people in South Asia and
 Sub-Saharan Africa. Its deep taproot system, [[dighton-fungal-drought-tolerance-plant-water-relations]], and
-multi-use profile make it a keystone species in tropical permaculture
+multi-use profile make it a keystone species in [[comparison-arid-vs-tropical-permaculture]]
 and agroforestry systems.
 
 ## Taxonomy
@@ -81,63 +81,10 @@ Grown across 50+ countries in the tropics and subtropics:
   of Brazil and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 - **Australia:** Northern Territory and Queensland
 
-Cultivation parameters:
+[[mushroom-species-cultivation-parameters]]:
 - **Temperature:** 18–38°C optimal; sensitive to frost
 - **Rainfall:** 400–1,500 mm; highly drought-tolerant once established
 - **Soil:** Sandy loams to vertisols, pH 5.0–8.0; tolerates poor,
-  low-fertility soils better than most grain legumes
+  low-fertility soils better than most [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]
 - **Altitude:** Sea level to 2,000 m
 - **Maturity:** 120–280 days depending on variety (short-duration: 120–140
-  days; medium: 160–200; long-duration: 240–280)
-
-## Nutritional Composition
-
-Dry pigeon pea seeds (100 g):
-
-- **Protein:** 20–24% (rich in lysine; deficient in methionine and
-  tryptophan compared to cereal proteins)
-- **Carbohydrates:** 55–65% | **Fat:** 1.5–3% | **Fiber:** 8–15%
-- **Calories:** ~343 kcal
-- **Minerals:** Iron (4–5 mg), zinc (2–3 mg), calcium (130 mg),
-  phosphorus (360 mg/100 g)
-- **Vitamins:** Folate (226 μg/100 g), thiamine, niacin
-- **Antinutrients:** Trypsin inhibitors, phytic acid, tannins —
-  substantially reduced by soaking and cooking
-
-Pigeon pea complements cereal-based diets by providing lysine that
-cereals lack, while cereals supply methionine that pigeon pea is low
-in. This complementary amino acid profile underpins the traditional
-cereal-pulse dietary [[psilocin-accumulation-pattern-across-flushes]] South Asia and Africa.
-
-## Bioactive Compounds
-
-Seeds contain several bioactive constituents:
-- **Polyphenols:** Catechin, epicatechin, quercetin, and kaempferol
-  derivatives
-- **Phytic acid:** 0.8–1.2% (iron and zinc chelator)
-- **Saponins:** Triterpenoid saponins with hemolytic activity
-- **Protease inhibitors:** Kunitz-type trypsin inhibitors
-- **Dietary fiber:** Rich in insoluble fiber; resistant starch present
-
-Antioxidant capacity of pigeon pea polyphenols is moderate — DPPH and
-ABTS assays show activity comparable to other food legumes.
-
-## Permaculture and Agroforestry Applications
-
-Pigeon pea is among the most versatile multi-function species in tropical
-permaculture:
-
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Fixes 40–200 kg N/ha annually, benefiting
-  companion cereals and subsequent crops
-- **Deep nutrient mining:** Taproot accesses subsoil phosphorus and
-  potassium unavailable to shallow-rooted crops
-- **Living mulch and windbreak:** Dense shrub canopy shades, protects
-  from wind, and suppresses weeds
-- **Multi-yield:** Grain, forage, fuelwood, stakes, green leaf manure
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Effective on contour bunds and degraded slopes
-- **Agroforestry:** Compatible under mango, cashew canopies; suited to
-  [[lablab-purpureus]] — Hyacinth bean, complementary nitrogen-fixing
-  legume for tropical permaculture
-- [[cover-crop]]
-- [[moringa-oleifera]] — Multipurpose permaculture tree pairing well
-  with pigeon pea in tropical food forests

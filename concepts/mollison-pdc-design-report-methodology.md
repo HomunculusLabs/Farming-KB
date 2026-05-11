@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -87,27 +88,3 @@ The PDC provides specific guidance on professional fees:
 - Hourly rate: approximately $35/hour (1981 basis)
 - Property finding: 0.5% of purchase price to find, plus 1.5% if
   client buys
-- Land management: $2,000 to $5,000 per year depending on workload
-
-## Type-One Errors to Avoid
-
-Mollison catalogs ten critical design errors:
-
-1. Undertaking designs for environmentally destructive aims
-2. Not explaining reasons for recommendations
-3. Recommending technology beyond the client's ability
-4. Not supplying adequate management directions
-5. Writing with a depersonalized approach
-6. Being vague and nonspecific
-7. Poor patterning of edges and linkages
-8. Failing to recommend essential pre-treatments
-9. Recommending illegal plant species
-10. Failing to define on-site resources
-
-## The Conclusion
-
-"Make it clear that you do not guarantee anything in this report since
-many conditions can change." Assure the client you will answer further
-## See Also
-
-- [[mollison-pdc-small-pond-frog-habitat-design]]

@@ -12,7 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://permacultureprinciples.org/ — Permaculture design principles
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - https://permacultureprinciples.org/ — [[pdc-urban-permaculture-design-principles]]
   - Hemenway, Toby. Gaia's Garden: A Guide to Home-Scale Permaculture (2009)
   - Jacke, Dave & Toensmeier, Eric. Edible Forest Gardens (2005)
   - Whitefield, Patrick. The Earth Care Manual (2004)
@@ -62,12 +63,12 @@ The archetypal permaculture guild, modeled by Bill Mollison and expanded by Toby
 **Center: Apple tree** (*Malus domestica*) — Primary food producer; provides canopy and microclimate
 
 **Understory community:**
-- **Comfrey** (*Symphytum officinale*) — Dynamic accumulator (mines potassium, calcium, phosphorus, silica from deep roots); biomass machine for mulch; attracts pollinators
+- **Comfrey** (*[[comfrey-symphytum-officinale]]*) — Dynamic accumulator (mines potassium, calcium, phosphorus, silica from deep roots); biomass machine for mulch; attracts pollinators
 - **Clover** (*Trifolium repens* or *T. pratense*) — Nitrogen fixer; living mulch; attracts pollinators and predatory insects
 - **Chives/garlic** (*Allium schoenoprasum* / *A. sativum*) — Pest deterrent (aphids, codling moth, apple scab spores); accumulates sulfur
-- **Dill/fennel** (*Anethum graveolens* / *Foeniculum vulgare*) — Attract parasitic wasps that prey on codling moth larvae; attract beneficial syrphid flies
+- **Dill/fennel** (*[[anethum-graveolens]]* / *[[foeniculum-vulgare-entity]]*) — Attract parasitic wasps that prey on codling moth larvae; attract beneficial syrphid flies
 - **Nasturtium** (*Tropaeolum majus*) — Ground cover; traps aphids (sacrificial crop); accumulates sulfur and vitamin C
-- **Yarrow** (*Achillea millefolium*) — Dynamic accumulator (copper, potassium, phosphorus); insectary plant; medicinal herb
+- **Yarrow** (*[[achillea-millefolium]]*) — Dynamic accumulator (copper, potassium, phosphorus); insectary plant; medicinal herb
 - **Lupine** (*Lupinus spp.*) — Nitrogen fixer with deep taproot; attracts pollinators
 - **Miner's lettuce** (*Claytonia perfoliata*) — Edible ground cover; tolerates shade; self-seeding
 - **Daffodil** (*Narcissus spp.*) — Deters gophers and voles; blooms before fruit trees, providing early nectar
@@ -79,65 +80,10 @@ Designed for hot, dry climates around an olive or fig tree:
 - **Rosemary** (*Salvia rosmarinus*) — Pollinator attractor; aromatic pest deterrent; culinary herb
 - **Thyme** (*Thymus vulgaris*) — Ground cover; nectar source for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; culinary herb
 - **Lavender** (*Lavandula spp.*) — Attracts bees and butterflies; deters moths and fleas; soil stabilizer
-- **Oregano** (*Origanum vulgare*) — Insectary plant; culinary herb; medicinal properties
+- **Oregano** (*[[origanum-vulgare-entity]]*) — Insectary plant; culinary herb; medicinal properties
 - **Garlic** (*Allium sativum*) — Pest deterrent; culinary; accumulates sulfur
 - **Saffron crocus** (*Crocus sativus*) — High-value crop; autumn-blooming; provides ground-level income
 - **Artichoke** (*Cynara cardunculus*) — Perennial vegetable; tall structure for microclimate
 - **Fava beans** (*Vicia faba*) — Winter nitrogen fixer; edible bean; attracts pollinators
 
 ### The Banana Circle (Tropical)
-
-A classic tropical permaculture design combining water management with food production:
-
-- **Central pit** — Filled with organic waste, greywater, and compostable materials; generates moisture and nutrients
-- **Bananas/plantains** (*Musa spp.*) — Heavy feeders positioned on the mound's edge; provide shade and mulch
-- **Papaya** (*Carica papaya*) — Scattered through the guild; rapid nutrient cycling
-- **Sweet potato** (*Ipomoea batatas*) — Ground cover on mound; edible tubers and leaves
-- **Taro/arrowroot** (*Colocasia esculenta* / *Maranta arundinacea*) — Edible tubers in the moist zone
-- **Comfrey, lemongrass, canna lily** — Edge plants for mulch production, pest deterrence, and [[permplant-willows-salix-erosion-control-fodder]]
-- **Pigeon pea** (*Cajanus cajan*) — Nitrogen-fixing shrub; edible seeds; chop-and-drop mulch
-
-## Scientific Evidence
-
-### Validated Companion Interactions
-
-- **Brassicas + aromatic herbs:** Intercropping cabbage with thyme, sage, or rosemary reduces diamondback moth (*Plutella xylostella*) populations by 30–50% through olfactory masking
-- **Tomatoes + basil:** Basil repels tomato hornworms and whiteflies; may enhance tomato flavor through [[fungal-btex-volatile-compound-degradation]] exchange (some studies show increased lycopene and phenolic content)
-- **Legumes + cereals:** Legume-cereal intercropping increases total land equivalent ratio (LER) by 20–40% compared to monoculture, with the nitrogen contribution of legumes benefiting cereal yields for subsequent seasons
-- **Marigolds + solanaceous crops:** *Tagetes erecta* and *T. patula* roots release α-terthienyl, which is toxic to root-knot nematodes (*Meloidogyne* spp.), reducing infestation by 60–90% in some studies
-- **Alliums + roses/carrots:** Onions and garlic deter aphids and carrot rust fly; intercropping reduces pest pressure without yield penalty
-
-### Nuanced and Context-Dependent Findings
-
-Not all companion planting claims are supported by rigorous research. Some traditional pairings show mixed or minimal effects in controlled studies. The effectiveness of companion planting is highly context-dependent, influenced by:
-
-- Soil type, climate, and growing conditions
-- Relative planting densities and spatial arrangements
-- Timing of planting and phenological synchrony
-- Local pest [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] populations
-- Cultivar-specific interactions
-
-## Designing Custom Guilds
-
-### The PERMAVORE Method
-
-A systematic approach to guild design:
-
-1. **P** — **Primary producer**: Select the central element (fruit tree, berry bush, or key crop)
-2. **E** — **Ecosystem analysis**: Observe site conditions (sun, wind, water, soil, existing vegetation, wildlife)
-3. **R** — **Root analysis**: Map root depths to ensure no direct below-ground competition between primary species
-4. **M** — **Mulch and nitrogen**: Ensure at least one mulch producer and one nitrogen fixer in every guild
-5. **A** — **Accumulators**: Include dynamic accumulators appropriate to soil mineral deficiencies
-6. **V** — **Volunteers and vectors**: Design for pollinator attraction and beneficial insect habitat
-7. **O** — **Orchestrated harvest**: Stagger harvest times across the guild for year-round food production
-8. **R** — **Resilience**: Include redundancy (multiple species per function) to ensure the guild persists if one element fails
-9. **E** — **Edge maximization**: Create interfaces between microclimates (sun/shade, wet/dry) to increase niche diversity
-
-### Root Depth Layering
-## See Also
-
-- [[natural-farming-guide-companion-planting-guilds]]
-- [[query-how-does-companion-planting-work-in-a-food-forest]]
-- nitrogen-fixing-plants — Comprehensive list of leguminous and actinorhizal nitrogen fixers
-- [[keyline-design]] — Water management system that integrates with guild and food forest layout
-- [[hugelkultur]] — Raised bed technique using woody debris, often planted with companion guilds

@@ -39,7 +39,7 @@ Synthesized from 3,6-dihydroxybenzonorbornane via O-methylation, Vilsmeier formy
 
 2C-G-5 is described as a "record breaker" in potency assessment, being not only amongst the most potent phenethylamines but also having an extraordinarily long duration. When considering "the area under the curve" -- both the dosage needed and the duration of effects -- this compound stands out as exceptional.
 
-The benzonorbornane ring system represents a rigid, bulky hydrocarbon framework at the 3,4-positions that dramatically increases both potency and duration compared to simpler analogues. This compound is one of the very first active psychedelic compounds (along with 2c-f-entity|2C-T-17) to have a potential optically active center on the side of the ring away from the nitrogen atom.
+The benzonorbornane ring system represents a rigid, bulky hydrocarbon framework at the 3,4-positions that dramatically increases both potency and duration compared to simpler analogues. This compound is one of the very first active [[psychedelic-compounds-reference]] (along with 2c-f-entity|2C-T-17) to have a potential optically active center on the side of the ring away from the nitrogen atom.
 
 ## Chemical Family Context
 
@@ -61,7 +61,7 @@ The 2C-G series includes:
 
 ## Pharmacological Discussion
 
-The extraordinary potency and duration of 2C-G-5 likely result from two converging factors. First, the rigid benzonorbornane ring system may provide optimal steric complementarity to the 5-HT2A receptor binding site, increasing affinity. Second, the bulky hydrocarbon structure almost certainly impedes metabolic degradation, particularly by cytochrome P450 enzymes and MAO, leading to the dramatically extended duration.
+The extraordinary potency and duration of 2C-G-5 likely result from two converging factors. First, the rigid benzonorbornane ring system may provide optimal steric complementarity to the 5-HT2A [[beta-glucan-receptor-binding]] site, increasing affinity. Second, the bulky hydrocarbon structure almost certainly impedes metabolic degradation, particularly by cytochrome P450 enzymes and MAO, leading to the dramatically extended duration.
 
 The receptor binding profile of 2C-G-5 has not been formally characterized, but based on its subjective effects and structural similarity to other 2C compounds, it is presumed to act primarily as a 5-HT2A agonist with possible contributions from 5-HT2C and alpha-adrenergic receptor interactions.
 
@@ -88,38 +88,3 @@ The extreme duration of 2C-G-5 (up to 48 hours) creates unique harm reduction ch
 - Adequate food, water, and rest provisions should be arranged in advance
 
 - The long duration increases the risk of sleep deprivation and its associated cognitive impairment
-
-- Rescue services should be informed of the compound's identity and expected duration in case of emergency
-
-- Re-dosing is strongly discouraged; the long duration means accumulation could produce unpredictable effects
-
-- The compound's novelty means there is no established toxicity data; liver and kidney function could be affected by such prolonged exposure
-
-- Individuals with anxiety disorders should be particularly cautious, as the extended duration means a difficult experience cannot simply be "waited out" in a practical timeframe
-
-## Legal Status
-
-2C-G-5 is not specifically scheduled in most jurisdictions. However, its structural similarity to 2C-B (which is Schedule I in the US and controlled internationally) could subject it to analogue act provisions in many countries. The compound's extreme rarity and difficulty of synthesis have kept it largely below the radar of regulatory agencies. As of 2024, it is not specifically listed on UN convention schedules.
-
-## Cultural and Historical Significance
-
-2C-G-5 is perhaps best understood as a proof of concept in medicinal chemistry -- demonstrating that the 2C phenethylamine framework can accommodate extraordinarily bulky ring systems while retaining and even enhancing psychedelic activity. The compound has never been widely available outside of the Shulgin laboratory, and its synthesis is sufficiently complex that it has not appeared on the research chemical market to any significant degree.
-
-The compound's existence in PIHKAL has inspired subsequent researchers to explore rigid ring systems in other psychoactive compound classes, contributing to the broader field of conformationally constrained receptor ligands.
-
-## References and Bibliography
-
-- Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
-
-- Nichols, D.E. (2004). "Hallucinogens." Pharmacology & Therapeutics, 101(2), 131-181.
-
-- Trachsel, D. (2013). "NH2: The Psychedelic Index." Mercury Press.
-
-- Ray, T.S. (2010). "Psychedelics as dissociatives." Journal of Psychoactive Drugs.
-
-## Related Compounds
-
-- [[2c-g-entity]] -- simpler 2C-G series member
-
-- [[phenethylamine-pharmacology]] -- general pharmacology
-- [[2c-g-3-entity]]

@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - oyster-mushroom-cultivation
   - oyster-mushroom-bag-cultivation
   - oyster-mushroom-fruiting-conditions

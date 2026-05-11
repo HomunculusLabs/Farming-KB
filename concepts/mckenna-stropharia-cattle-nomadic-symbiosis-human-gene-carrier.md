@@ -2,7 +2,7 @@
 
 ## Overview
 In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness,
-Terence McKenna elaborated the hypothesis that Stropharia cubensis is a species
+[[terence-mckenna]] elaborated the hypothesis that [[stropharia-cubensis]] is a species
 that may not have evolved on Earth. Within what he describes as the "mushroom
 trance," McKenna reports being informed that once a culture achieves complete
 understanding of its genetic information, it re-engineers itself for survival.
@@ -22,8 +22,8 @@ communicates information about its own nature and origins. The mushroom claims
 to be an extraterrestrial organism that has achieved complete understanding of
 its genetic information and has consequently re-engineered itself for survival.
 This re-engineering takes two forms depending on context: when in contact with a
-planetary surface, it deploys a mycelial network strategy for local colonization
-and nutrient acquisition; when seeking to disperse across interstellar distances,
+planetary surface, it deploys a [[beber-mycelial-network-graph-theory-cord-routing]] strategy for local colonization
+and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]; when seeking to disperse across interstellar distances,
 it relies on its spores as vehicles for galactic radiation.
 
 ### The Cattle Connection
@@ -42,7 +42,7 @@ family, so that where human genes went these other genes would be carried."
 The relationship between Stropharia cubensis and bovine animals is
 well-documented in mycology. Psilocybin-containing mushrooms of the genus
 Psilocybe are frequently found growing in dung of grazing herbivores,
-particularly cattle. The mushroom spores are deposited in the animal's dung,
+particularly cattle. The [[query-how-to-store-mushroom-spores-long-term]] are deposited in the animal's dung,
 where they find a nutrient-rich substrate for growth. The animal, in turn,
 grazes in pastures where mushrooms have previously fruited, completing the
 cycle. McKenna interprets this ecological relationship as evidence of a
@@ -69,7 +69,7 @@ monopoly on theophagy (the eating of God), encountered indigenous peoples who
 called a [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]—"the flesh of the gods." The Inquisition
 systematically suppressed these practices, pushing the old religion into the
 mountains of Oaxaca, where it survived in only a few villages until Valentina
-and Gordon Wasson rediscovered it there in the 1950s.
+and [[gordon-wasson-comparative-method-ethnomycology]] rediscovered it there in the 1950s.
 
 ### The Mushroom as the Body of Osiris
 McKenna describes the Spanish conquistadors as having "unexpectedly come upon
@@ -88,54 +88,3 @@ alienated from us in our present culture that we treat it as an extraterrestrial
 To us the most alien thing in the cosmos is the human soul." This
 interpretation suggests that what appears to be contact with an alien
 intelligence may actually be contact with aspects of the human self that have
-been repressed or excluded from Western consciousness.
-
-### Aliens Hollywood-Style
-McKenna emphasizes that "Aliens Hollywood-style could arrive on earth tomorrow
-and the DMT trance would remain more weird and continue to hold more promise for
-useful information for the human future." The intensity and informational
-density of the mushroom experience surpasses any conceivable extraterrestrial
-contact scenario, suggesting that the phenomenon is not about aliens at all but
-about the nature of consciousness itself.
-
-## The Mushroom as Symbiote
-
-### The Desire for Deeper Symbiosis
-According to McKenna, "The Stropharia cubensis mushroom, if one can believe what
-it says in one of its moods, is a symbiote, and it desires ever deeper symbiosis
-with the human species." This framing presents the human-mushroom relationship
-as a mutualistic symbiosis in which both parties benefit: the mushroom gains a
-dispersal vector and cultivation environment, while humans gain access to
-[[weil-the-natural-mind-altered-states-normalcy]] of consciousness that provide information, healing, and what
-McKenna calls "gnosis."
-
-### The Question of Belief
-McKenna acknowledges the difficulty of evaluating the mushroom's claims: "I
-don't necessarily believe what the mushroom tells me; rather we have a dialogue.
-It is a very strange person and has many bizarre opinions." He describes
-entertaining the mushroom's self-description "the way I would any eccentric
-friend," maintaining a critical but open-minded stance toward the information
-received in the psychedelic state.
-
-## Broader Evolutionary Implications
-
-### Language and Self-Replicating Information
-McKenna connects the [[mckenna-mushroom-symbiosis-and-nervous-system-dialogue]] to his broader theory of language as
-self-replicating information. He describes language as systems that "reflect
-functions of DNA: learning, coding, templating, recording, testing, re-testing,
-re-coding against DNA functions." The mushroom, in this framework, may be
-another self-replicating information system that interfaces with human
-consciousness through its psychoactive compounds, contributing to the evolution
-of human cognition and culture.
-
-### The Noosphere
-Language is "in us monkeys now and moving through us and moving out of our
-hands and into the noosphere with which we have surrounded ourselves." The
-mushroom, as a partner in this process, may play a role in the development of
-the noosphere—the sphere of human thought and communication that Teilhard de
-Chardin described as the evolutionary successor to the biosphere.
-
-## See Also
-- [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
-- [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
-- [[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]]

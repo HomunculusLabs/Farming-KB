@@ -46,7 +46,7 @@ Anandamide fits relatively equally into both CB1 and CB2 receptors:
   processing, and motor control
 - **CB2 activation** (immune system): Modulates immune responses and
   inflammatory processes
-- **Autonomic nervous system engagement**: Affects both parasympathetic
+- **[[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]] engagement**: Affects both parasympathetic
   (rest and digest) and sympathetic (fight or flight) divisions
 
 ## Physiological Effects
@@ -80,49 +80,10 @@ the duration and intensity of anandamide signaling.
 Cannabidiol (CBD) has a significant indirect relationship with
 anandamide. CBD suppresses the FAAH enzyme that breaks down anandamide,
 thereby keeping the "Bliss Molecule" active at higher concentrations and
-for longer durations. This is one of CBD's primary therapeutic mechanisms
-— it does not directly activate cannabinoid receptors but instead
-amplifies the body's own endocannabinoid signaling.
+for longer durations. This is one of CBD's primary [[cannabidiol-therapeutic-mechanisms]]
+— it does not directly activate [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] but instead
+amplifies the body's own [[2-ag-endocannabinoid-signaling-blesching]].
 
-This FAAH inhibition explains why CBD, despite having relatively low
-direct receptor affinity, produces such pronounced therapeutic effects
+This [[blesching-cbd-faah-inhibition-anandamide-preservation-mechanism]] explains why CBD, despite having relatively low
+direct receptor affinity, produces such pronounced [[cbd-therapeutic-effects]]
 including anxiolytic, antidepressant, and anti-inflammatory outcomes.
-
-## Therapeutic Implications
-
-The anandamide-FAAH-CBD axis has several therapeutic implications:
-
-- **Anxiety and depression**: Higher anandamide levels correlate with
-  improved mood and reduced anxiety
-- **Pain management**: Prolonged anandamide activity enhances natural
-  analgesic pathways
-- **Neuroprotection**: Sustained anandamide signaling may protect against
-  neurodegenerative processes
-- **Inflammation**: CB2-mediated immune modulation reduces inflammatory
-  cascades
-
-## Comparison with THC
-
-Both anandamide and THC bind relatively equally to CB1 and CB2 receptors,
-but key differences exist:
-
-| Property | Anandamide | THC |
-|----------|-----------|-----|
-| Source | Endogenous (body-produced) | Exogenous (plant-derived) |
-| Duration | Short-lived (FAAH degrades) | Longer-lasting |
-| Psychoactivity | Mild, natural | Potent, pronounced |
-| Binding affinity | Moderate | Higher |
-
-## Clinical Research
-
-Research into anandamide has expanded rapidly. FAAH inhibitors are being
-investigated as pharmaceutical agents for anxiety, pain, and
-neurodegenerative diseases. Genetic variations in the FAAH gene have been
-linked to differences in pain sensitivity, anxiety levels, and
-cannabis response among individuals.
-
-## See Also
-
-- [[endocannabinoid-system]]
-- [[cannabidiol-cbd]]
-- [[tetrahydrocannabinol-thc]]

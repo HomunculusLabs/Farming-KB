@@ -16,9 +16,9 @@ type: concept
 
 # Psilocybe baeocystis
 
-Psilocybe baeocystis is a moderately sized [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
+[[psilocybe-baeocystis]] is a moderately sized [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 commonly known as the "potent psilocybe" or informally as "knobby
-tops." It is one of the more potent members of the Psilocybe genus
+tops." It is one of the more potent members of the [[psilocybe-genus-biogeography-tropical-temperate]]
 and is notable for lending its name to the psychoactive compound
 baeocystin, which was first isolated from this species.
 
@@ -42,7 +42,7 @@ with a color that varies from olive-brown to dark chestnut brown or
 yellowish-brown. The cap often has a slightly wrinkled or irregular
 appearance, especially at maturity, which contributes to the "knobby
 tops" nickname. The margin is typically incurved when young and may
-become slightly uplifted with age. A partial veil is present in young
+become slightly uplifted with age. A [[partial-veil-tropism-protection-before-spore-release]] is present in young
 specimens but often disappears quickly.
 
 ### Gills (Lamellae)
@@ -85,23 +85,5 @@ wet conditions of the Pacific Northwest fall season.
 This species is most commonly found growing on decaying conifer wood
 chips, mulch, and enriched soils in landscaped areas. It has a strong
 association with mossy substrates, as documented in the image guide.
-It may also be found on lawns and grassy areas where wood chip mulch
+It may also be found on lawns and grassy areas where [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]
 has been applied, particularly in ornamental garden settings.
-
-The species seems to favor disturbed habitats where woody debris has
-been introduced, including parks, garden beds, and the edges of
-forested areas. It is sometimes found in association with other
-[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] such as mushroom-identification, proper caution should be
-exercised. Several toxic species share similar habitats and general
-appearance, making positive identification essential before any
-consumption. Key lookalikes to be aware of include species of
-Galerina, which can contain deadly amatoxins and may fruit in the
-same wood chip habitats during the same autumn season.
-
-## See Also
-
-- [[psilocybe-azurescens-profile]]
-- [[psilocybe-margarinalis]]
-- [[psilocybe-heliconia]]
-- [[psilocybe-huautla]]
-- [[psilocybe-equestris]]

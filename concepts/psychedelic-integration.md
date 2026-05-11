@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Integration — Post-Experience Practices
+title: Psychedelic Integration
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Psychedelic integration refers to the practices, therapies, and lifestyle changes undertaken after a psychedelic experience to process, understand, and implement the insights, emotions, and shifts in perspective that occurred during the session. Integration is increasingly recognized as a critical component of psychedelic-assisted therapy and responsible use — the psychedelic experience itself is considered only part of the therapeutic process.
+Psychedelic integration refers to the practices, therapies, and lifestyle changes undertaken after a [[leary-psychedelic-experience-bardo-mapping]] to process, understand, and implement the insights, emotions, and shifts in perspective that occurred during the session. Integration is increasingly recognized as a critical component of psychedelic-assisted therapy and responsible use — the psychedelic experience itself is considered only part of the therapeutic process.
 
 See [[psychedelic-therapy-current-research]] for the clinical context and [[harm-reduction-guide]] for safety principles.
 
@@ -59,13 +59,13 @@ Contemplative practices provide ongoing tools for working with the mind states a
 - **Vipassana/insight meditation**: Develops capacity to observe thoughts and sensations without reactivity — a skill directly transferable from psychedelic experience
 - **Loving-kindness (metta) meditation**: Cultivates compassion, which is often amplified during psychedelic experiences
 - **Body scan**: Maintains awareness of physical sensations and their emotional correlates
-- **Breathwork**: Holotropic Breathwork (developed by Stanislav Grof) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
+- **Breathwork**: [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] (developed by Stanislav Grof) is specifically designed as a non-drug method to access non-ordinary states similar to those produced by psychedelics
 - Regular practice builds the "muscle" of present-moment awareness that psychedelics can reveal in a single session
 
 ### Community and Sharing
 
 - **Integration circles**: Facilitated group sessions where participants share experiences and support each other; increasingly common in urban areas
-- **Online communities**: Forums, subreddits, and Discord servers dedicated to integration (exercise caution regarding quality of advice)
+- **[[internet-mushroom-information-repositories-online-communities-emcdda-2006]]**: Forums, subreddits, and Discord servers dedicated to integration (exercise caution regarding quality of advice)
 - **Ceremony and ritual**: For those with spiritual orientations, creating personal rituals can provide structure and meaning to the integration process
 - **Trusted friends/partners**: Sharing with a trusted person who is open and non-judgmental is deeply valuable; avoid sharing with people who are dismissive of psychedelic experiences
 
@@ -134,7 +134,7 @@ Not all psychedelic experiences are pleasant or immediately meaningful:
 
 Integration practices themselves are generally safe, but certain cautions apply:
 
-- People with active psychosis or bipolar disorder should work with a psychiatrist before and after psychedelic experiences
+- People with active psychosis or [[blesching-cannabis-bipolar-disorder]] should work with a psychiatrist before and after psychedelic experiences
 - Those on psychiatric medications (SSRIs, antipsychotics, mood stabilizers) should not discontinue them without medical supervision
 - Trauma processing can be destabilizing; ensure adequate support is in place
 - Integration is not a substitute for psychiatric care when indicated
@@ -143,5 +143,5 @@ Integration practices themselves are generally safe, but certain cautions apply:
 
 - [[psychedelic-therapy-current-research]] for clinical frameworks and current research
 - [[harm-reduction-guide]] for safety principles and preparation guidelines
-- [[entheogen-culture]] for philosophical context on altered states
+- [[entheogen-culture]] for philosophical context on [[harner-shamanic-journey-and-altered-states]]
 - [[psychedelic-compounds-reference]] for understanding what different substances offer

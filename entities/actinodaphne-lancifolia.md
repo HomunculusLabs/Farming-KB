@@ -88,36 +88,3 @@ Propagation from seed requires fresh fruit, as seed viability declines rapidly a
 Leaves and bark are used in traditional Ayurvedic and folk medicine for treating fever, digestive disorders, and respiratory ailments. Decoctions are prepared by boiling dried plant material in water.
 
 Essential oil extracted from leaves has shown antimicrobial activity in laboratory studies against gram-positive bacteria and some [[bloomfield-fungal-pathogens-and-parasites]]. This has prompted interest in the species as a potential source of natural antimicrobial agents.
-
-Gas chromatography analysis of the essential oil has revealed a complex mixture of monoterpenes and sesquiterpenes. The oil yield from fresh leaves is approximately 0.5–1.2% by weight, depending on season and leaf age.
-
-Young leaves harvested during the monsoon season produce the highest essential oil yields. Sustainable harvesting protocols would be needed before commercial extraction could be pursued.
-
-## Conservation Status
-
-*Actinodaphne lancifolia* has not been comprehensively assessed for the IUCN Red List as a standalone species. However, habitat loss and forest degradation across its range are significant concerns.
-
-The Western Ghats, which harbor major populations, have experienced extensive deforestation for agriculture, plantations, and infrastructure development. Remaining forest fragments are often too small or isolated to support viable populations of many Lauraceae species.
-
-Overharvesting for timber and medicinal plant material has reduced population densities in accessible forest areas. The species' slow growth rate limits natural recovery after exploitation.
-
-Collection of leaves and bark for traditional medicine and essential oil production may further threaten local populations. Sustainable harvesting guidelines have not been formally developed for this species.
-
-Protected areas in the Western Ghats (including national parks and wildlife sanctuaries) provide some refuge. Ex situ conservation through seed banking and cultivation in botanical gardens could supplement in situ protection efforts.
-
-Population monitoring using permanent forest plots would provide baseline data for assessing long-term trends. Such monitoring programs have been established for other Lauraceae species in the region but have not yet included *A. lancifolia*.
-
-## See Also
-
-- [[cinnamomum-verum]]
-- [[cinnamomum-camphora]]
-- [[cinnamomum-cassia]]
-- [[litsea-cubeba]]
-- [[litsea-glauca]]
-- [[lindera-benzoin]]
-- [[persea-americana]]
-- [[persea-borbonia]]
-- [[laurus-nobilis]]
-- [[sassafras-albidum]]
-
-- [[daphne-meereum]]

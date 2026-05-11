@@ -88,29 +88,3 @@ and some chlorinated compounds.
 
 The enzymatic capabilities of wood-decay fungi extend beyond wood to a
 remarkable range of environmental pollutants. White rot fungi have been
-demonstrated to degrade polycyclic aromatic hydrocarbons (PAHs),
-polychlorinated biphenyls (PCBs), dioxins, explosives (TNT, RDX),
-synthetic dyes, and pharmaceutical compounds. The non-specific, radical-
-based nature of their ligninolytic system allows them to attack diverse
-molecular structures. Brown rot Fenton chemistry has been applied to
-degradation of phenolic compounds and some pesticide classes. Field
-applications include mycofiltration of agricultural runoff using
-straw or wood chip substrates inoculated with target species.
-
-## Species of Bioremediation Interest
-
-Several species have been studied extensively for bioremediation:
-- [[phanerochaete-chrysosporium]]: The model white rot organism; produces
-  exceptionally high levels of lignin and manganese peroxidases
-- [[pleurotus-ostreatus]]: Robust and easy to cultivate; effective against
-  PAHs and some pharmaceutical contaminants
-- [[trametes-versicolor-entity]]: Strong laccase producer; effective against
-  synthetic dyes and endocrine-disrupting compounds
-- [[gloeophyllum-trabeum]]: A brown rot species with potent Fenton
-  chemistry; studied for creosote degradation
-
-## See Also
-- [[cotter-oyster-mushroom-cultivation]]
-- [[comparison-brown-rot-vs-white-rot-bioremediation]]
-- [[bioremediation-fenton-chemistry-brown-rot-fungi]]
-- [[fungal-wood-decomposition-spatial-variation]]

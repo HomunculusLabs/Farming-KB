@@ -2,8 +2,8 @@
 title: LSD, Consciousness, and Hofmann's Philosophical Views
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Albert Hofmann, LSD - My Problem Child"
-wikilinks: "hofmann-lsd-discovery-bicycle-day hofmann-lsd-pharmacology-and-effects hofmann-lsd-sandoz-research-program hofmann-lsd-psychiatric-research hofmann-lsd-mazatec-and-psilocybin"
+sources: "albert-hofmann, LSD - My Problem Child"
+wikilinks: "[[hofmann-lsd-discovery-bicycle-day]] [[hofmann-lsd-pharmacology-and-effects]] [[hofmann-lsd-sandoz-research-program]] hofmann-lsd-psychiatric-research [[hofmann-lsd-mazatec-and-psilocybin]]"
 type: concept
 tags: [lsd]
 ---
@@ -87,61 +87,4 @@ catastrophe, the Western entelechy neurosis." The Hellenistic-European
 principle of victory through effort, cunning, force, and later European
 Darwinism produced an ego that analyzed matter, tested, sorted, and reduced it
 to formulas. Matter became a concept that "hung like a disaster over the West."
-This objective reality conception produced modern natural science and
-technology, but also led to the plundering of natural wealth and catastrophic
-environmental destruction. Even to the heart of matter, the splitting of the
-atom, this objective intellect progressed and unleashed energies that threaten
-all life on the planet. A misuse of knowledge could not have emerged from a
-consciousness of reality in which human beings are not separated from the
-environment but exist as part of living nature and the universe.
-
-## The Eleusinian Mysteries
-
-Hofmann saw in the Mysteries of Eleusis, celebrated annually for approximately
-2,000 years (from about 1500 B.C. until the fourth century A.D.), a historical
-example of the healing, visionary experience he advocated. The climax of the
-yearly ceremonies was the concluding initiation in the telesterion, the innermost
-chamber of the temple. The initiates were forbidden by penalty of death to
-divulge what they had beheld. Not one ever did. Plato, many Roman emperors, and
-countless others were initiated.
-As reported by initiates, it must have been an illumination, a visionary
-glimpse of a deeper reality. Pindar spoke of the Eleusinian benediction:
-"Blissful is he, who after having beheld this enters on the way beneath the
-Earth. He knows the [[powell-psilocybin-end-of-life-anxiety]] as well as its divinely granted beginning."
-Cicero said: "Not only have we received the reason there, that we may live in
-joy, but also, besides, that we may die with better hope."
-Religious scholars believe the initiates were furnished with a potion, the
-kykeon, containing barley extract and mint, which may have been mixed with an
-[[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]. Hofmann collaborated with R. Gordon Wasson and Carl A. P.
-Ruck on The [[the-road-to-eleusis-wasson-hofmann-ruck]] (1978), discussing the possibility that the kykeon
-acted through an LSD-like preparation of ergot.
-
-## Meditation and Mystical Experience
-
-Hofmann saw meditation as occupying a prominent place among paths to
-perception of a deeper, comprehensive reality. The essential difference between
-meditation and prayer in the usual sense (based upon the duality of
-creator-creation) is that meditation aspires to the abolishment of the I-you-
-barrier by a fusing of object and subject, of sender and receiver, of objective
-reality and self.
-Meditation does not mean rejection of objective reality; on the contrary, it
-consists of a penetration to deeper dimensions of reality. It is not escape
-into an imaginary dream world but seeks after the comprehensive truth of
-objective reality by simultaneous, stereoscopic contemplation of its surfaces
-and depths.
-The transformation of the objective worldview into a deepened and thereby
-religious reality consciousness can be accomplished gradually through continuing
-meditation practice, or it can come about as a sudden enlightenment, a
-visionary experience. Such a mystical experience "may not be induced even by
-decade-long meditation," yet the capacity for mystical experience belongs to
-the essence of human spirituality.
-
-## LSD as Aid to Meditation
-
-At Eleusis, the mystical vision could be arranged at the prescribed place and
-appointed time for all who were initiated. This could be accounted for by the
-use of a hallucinogenic drug. The characteristic property of hallucinogens, to
-## See Also
-- [[hofmann-lsd-pharmacology-and-effects]]
-- [[mckenna-catalyzing-consciousness-and-language]]
-- [[weil-intoxication-and-consciousness-theory]]
+This objective reality conception produced modern [[fukuoka-illusions-of-natural-science]] and

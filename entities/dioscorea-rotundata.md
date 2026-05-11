@@ -88,27 +88,3 @@ Anthracnose caused by *Colletotrichum gloeosporioides* is the most important fol
 [[cervantes-viral-diseases-cannabis]] including yam mosaic virus (YMV) and yam mild mosaic virus (YMMV) are widespread in West Africa. They are transmitted by aphids and through vegetative propagation, leading to progressive yield decline over successive generations.
 
 ## Breeding and Genetic Improvement
-
-The International Institute of Tropical Agriculture (IITA) in Ibadan, Nigeria, maintains the world's largest yam germplasm collection with over 3,000 accessions of *D. rotundata* and related species. This collection underpins global yam improvement efforts.
-
-Conventional breeding of yam is slow because of the crop's long growth cycle (8–12 months), dioecious flowering, and poor seed set. Breeding a new variety typically requires 8–10 years from initial cross to cultivar release.
-
-Recent advances in molecular markers, genomic selection, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] have accelerated yam breeding. The sequencing of the *D. rotundata* genome in 2017 provided tools for marker-assisted selection of traits like disease resistance and tuber quality.
-
-## Cultural Significance
-
-White yam occupies a central place in the cultural and economic life of West African societies. The New Yam Festival (*Iri-ji* or *Iwa-ji*) is a major annual celebration among the Igbo people of southeastern Nigeria, marking the harvest and giving thanks.
-
-In many West African communities, yam is associated with masculinity, prestige, and social status. The size of a farmer's yam harvest is traditionally a measure of wealth and capability.
-
-Yam is also an important cash crop, with trade flows from rural producing areas to urban markets generating significant income for smallholder farmers. The yam value chain supports millions of jobs in production, processing, and marketing.
-
-## See Also
-
-- [[colocasia-esculenta]]
-- [[pachyrhizus-erosus]]
-- [[cajanus-cajan]]
-- [[lablab-purpureus]]
-- [[tamarindus-indica]]
-- [[vicia-faba]]
-- [[psophocarpus-tetragonolobus]]

@@ -15,7 +15,7 @@ sources:
   - Van Wyk, B.E. & Wink, M. (2004). "Medicinal Plants of the World." 2nd ed. Briza Publications, Pretoria.
   - Neuwinger, H.D. (2000). "African Traditional Medicine: A Dictionary of Plant Use and Applications." Medpharm Scientific Publishers, Stuttgart.
   - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). "The Medicinal and Poisonous Plants of Southern and Eastern Africa." 2nd ed. E&S Livingstone, Edinburgh.
-  - Xaba, S.E. & Dutton, M.F. (2000). "The use of Silene capensis by the Xhosa as a divinatory plant." kanna-sceletium-south-african-narcotic Journal of Botany, 66, 258–261.
+  - Xaba, S.E. & Dutton, M.F. (2000). "The use of [[silene-capensis]] by the Xhosa as a divinatory plant." [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 66, 258–261.
 created: 2026-04-28
 ---
 
@@ -79,7 +79,7 @@ Some researchers have suggested the saponins may act as **GABAergic modulators**
 
 The roots also contain **flavonoid glycosides**, **phytosterols**, and small amounts of **coumarins** with documented anti-inflammatory activity.
 
-Compared to other oneirogenic plants like *Calea zacatechichi* and *Entada rheedii*, *S. undulata* has been the subject of relatively few modern phytochemical investigations.
+Compared to other oneirogenic plants like *[[calea-zacatechichi]]* and *[[entada-rheedii]]*, *S. undulata* has been the subject of relatively few modern phytochemical investigations.
 
 ## Traditional and Ethnobotanical Use
 
@@ -88,35 +88,3 @@ Among the Xhosa, *S. undulata* root is consumed during **ukuthwasa** — the pro
 The dried root is pulverized into a fine white powder and mixed with water, traditionally consumed before sleep to induce **prophetic dreams** believed to carry messages from ancestors.
 
 Initiates report experiencing exceptionally vivid, colorful dreams that are interpreted by elders to confirm the calling to become a healer.
-
-The plant is considered **sacred** in Xhosa cosmology and is traditionally harvested with specific ritual protocols — roots are collected only by authorized practitioners and prayers are offered before harvesting.
-
-Beyond the Xhosa, related *Silene* species have been used by the **Zulu** as a topical wound treatment and by the **Sotho** as a mild sedative.
-
-## Modern Research and Use
-
-Contemporary interest in *S. undulata* has focused on its potential as a **natural dream enhancer** and lucid dreaming aid.
-
-Self-experimentation reports in the psychonaut and herbalist communities describe increased dream vividness, recall, and frequency of lucid dreams at doses of 200–500 mg of dried root powder.
-
-The plant is commercially available through ethnobotanical suppliers, primarily as dried root powder or tincture.
-
-No controlled [[mushroom-cancer-clinical-trials-overview]] have been conducted on its dream-enhancing effects, and the long-term [[cannabis-safety-profile-and-overdose-risk]] of regular consumption has not been established.
-
-Conservation concerns exist due to **wild harvesting pressure** from both traditional use and commercial demand, though the species remains widespread and is not currently considered threatened.
-
-## Cultivation
-
-*S. undulata* can be cultivated from seed, which germinates readily in well-drained seed-raising mix.
-
-Seeds are sown in spring and germinate within 2–4 weeks at 18–22°C. Seedlings require full sun and moderate watering.
-
-Root development takes 1–2 growing seasons before harvestable quantities accumulate. The plant is frost-tolerant once established.
-
-## See Also
-
-- [[entada-rheedii]]
-- [[nymphaea-caerulea]]
-- [[tagetes-lucida]]
-- [[psilocybin]]
-- [[theobroma-cacao]]

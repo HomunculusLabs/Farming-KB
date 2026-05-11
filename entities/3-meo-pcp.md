@@ -32,7 +32,7 @@ synthesized in the 1970s as part of pharmaceutical research into analgesic
 anesthetics, it emerged as a recreational research chemical in the early
 2010s and has become one of the most widely used novel dissociatives.
 
-3-MeO-PCP is significantly more potent than PCP or ketamine, with active
+3-MeO-PCP is significantly more potent than PCP or [[ketamine]], with active
 doses in the low single-digit milligram range. It produces profound
 dissociation, analgesia, mania, and euphoria, alongside substantial
 neurotoxicity concerns at high or chronic doses.
@@ -61,9 +61,9 @@ Additional receptor interactions contribute to its unique profile:
 
 - **Dopamine reuptake inhibition:** Moderate DAT activity, contributing to
   stimulant-like euphoria and manic/psychotic states at higher doses.
-- **Serotonin reuptake inhibition:** Weak SERT activity.
+- **[[serotonin]] reuptake inhibition:** Weak SERT activity.
 - **Sigma-1 receptor agonism:** Contributes to dissociative effects.
-- **Opioid receptor activity:** Negligible.
+- **[[salvinorin-a-kappa-opioid-receptor-pharmacology]] activity:** Negligible.
 
 The NMDA antagonism combined with dopamine reuptake inhibition
 distinguishes 3-MeO-PCP from ketamine and DXM, blending dissociation with
@@ -88,61 +88,3 @@ hypertension, nystagmus, perspiration, vasoconstriction. Pupil dilation
 is common but not pronounced.
 
 **Cognitive/headspace effects:** Deep dissociation, [[psilocybin-ego-dissolution-mechanisms]] at
-higher doses, conceptual thinking, derealization, depersonalization.
-Thought loops are common and can become distressing.
-
-**Emotional effects:** Euphoria, mania, grandiosity, or alternatively
-existential dread and anxiety. The manic/stimulant component is more
-prominent than with ketamine or MXE, and some users describe an
-irresistible compulsion to redose.
-
-## Risks and Toxicity
-
-**Acute risks:** Psychosis, severe mania, paranoid delusions, violent
-behavior, hypertensive crisis, hyperthermia, serotonin syndrome (when
-combined with serotonergic substances). The stimulant component increases
-cardiovascular strain compared to other dissociatives.
-
-**Chronic risks:** **Olney's lesions** (vacuolization in cortical neurons)
-have been demonstrated in animal models with PCP and are presumed to apply
-to 3-MeO-PCP given its higher potency and longer duration. Chronic use is
-associated with persistent cognitive deficits, bladder damage (similar to
-ketamine cystitis), and drug-induced psychosis.
-
-**Dependence:** Psychological dependence is significant. Tolerance
-develops rapidly. Withdrawal produces depression, anhedonia, cognitive
-slowing, and craving. The compulsive redose potential is notably high.
-
-## Legal Status
-
-3-MeO-PCP is controlled as a Schedule I substance in several jurisdictions:
-- **[[dmt-containing-plants-united-states-halpern]]:** Not federally scheduled but covered under the
-  Federal Analog Act when intended for human consumption. Several states
-  have explicitly scheduled it.
-- **United Kingdom:** Class B under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016.
-- **Germany:** Controlled under BtMG (NPS scheduling).
-- **China:** Scheduled as a narcotic.
-- **Japan:** Controlled substance.
-- **Australia:** Schedule 9 (prohibited substance).
-
-It is commonly encountered online despite legal restrictions.
-## Related Compounds
-
-- **PCP (Phencyclidine):** Parent compound, less potent, longer history
-  of recreational use and associated stigma.
-- **4-MeO-PCP:** Structural isomer, reported as more sedating with less
-  stimulant effect than the 3-MeO isomer.
-- **3-MeO-PCE:** N-ethyl homologue, more stimulating and euphoric,
-  shorter duration.
-- **Ketamine:** Far less potent, shorter duration, widely used medically.
-- **MXE (Methoxetamine):** Ketamine analogue with longer duration, now
-  largely replaced by 3-MeO-PCP in the market.
-- **DXM (Dextromethorphan):** OTC dissociative, sigma-1 biased, lower potency.
-
-## See Also
-
-- [[pcp]]
-
-- [[ketamine]]
-- [[methoxetamine]]
-- [[dmt]]

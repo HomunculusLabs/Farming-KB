@@ -1,5 +1,5 @@
 ---
-title: McKenna on mckenna psilocybin and language formation Formation
+title: Mckenna Psilocybin And Language Formation
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -49,7 +49,7 @@ development remain unknown. Where psychoactive plant use was present, hominid
 nervous systems over many millennia would have been flooded by hallucinogenic
 realms of strange and alien beauty. Evolutionary necessity channels awareness
 into a narrow cul-de-sac where ordinary reality is perceived through the
-reducing valve of the senses; the interior world of the imagination was kept
+[[mckenna-huxley-mind-at-large-reducing-valve]] of the senses; the interior world of the imagination was kept
 far from ordinary consciousness.
 
 ## The Epigenetic Route to Genetic Fixation
@@ -57,7 +57,7 @@ far from ordinary consciousness.
 Addressing the objection that external chemical enhancement should retard
 genetic development, McKenna proposes an epigenetic pathway. Psilocybin
 changed the parameters of natural selection by altering behavioral patterns.
-The augmentation of visual acuity, language use, and ritual activity through
+The augmentation of [[mckenna-roland-fischer-psilocybin-visual-acuity]], language use, and ritual activity through
 psilocybin represented new behaviors. Language use, previously only marginally
 important, suddenly became very useful in the context of new hunting and
 gathering lifestyles. Psilocybin inclusion in the diet shifted human behavior
@@ -88,35 +88,3 @@ language allowed humans to act in a dimension "supranatural" -- outside
 ordinary biological activities. Symbols allow storage of information outside
 the physical brain, creating a relationship to the past very different from
 other animals. The elaboration of ever more effective communication techniques
-culminated in the all-pervasive communications media that now engulf the
-planet.
-
-## Connection to Huxley's Reducing Valve
-
-McKenna frames language development within Aldous Huxley's model of the
-brain as a "reducing valve" that filters the vastness of Mind at Large into
-the narrow trickle needed for biological survival. Psilocybin, by opening
-the floodgates of this reducing valve, exposed early humans to information
-and perspectives that demanded expression -- and language was the medium of
-that expression. The way we internalize the psychedelic experience is to
-generalize and extrapolate our world view through acts of imagination, which
-represent our adaptive response to information from the senses.
-
-## Dennis McKenna on Olfactory Shift
-
-McKenna quotes his brother Dennis: the apparent atrophy
-of the human olfactory system may represent a functional shift from external
-chemo-receptors to an interiorized regulatory function related to the pineal
-gland's control of psycho-sexual and psycho-social interactions. Delayed
-maturation and prolonged childhood -- which neuroactive amines in the diet
-may have promoted -- permitted the post-natal brain development essential to
-symbolic, cognitive, and linguistic capacity.
-
-## See Also
-
-- [[mckenna-psilocybin-language-poetry-vocal-impulse]]
-
-- [[mckenna-language-and-reality]]
-- [[mckenna-techniques-of-ecstasy]]
-- [[mckenna-transcendent-other-and-exopheromones]]
-- [[mazatec-mushrooms-of-language]]

@@ -87,20 +87,3 @@ greenhouse yourself will be cheaper and more secure than hiring a contractor.
 - Lower operating costs overall
 
 ## Advantages Over Outdoor Growing
-
-- [[eclss-environmental-control-life-support]] (temperature, humidity, light)
-- Protection from wind, rain, and pests
-- Extended growing season
-- Ability to manipulate photoperiod
-
-## Misting and Watering
-
-Extended periods of growing and higher sustained temperatures make adequate water
-essential. Automatic watering and misting systems with timers can be mixed and matched
-to suit the grower's needs.
-
-## See Also
-
-- [[light-deprivation-cannabis]] -- forcing flowering in greenhouses
-- [[ventilation-cannabis]] -- air exchange requirements
-- [[cmh-grow-lights]] -- supplemental lighting for greenhouses

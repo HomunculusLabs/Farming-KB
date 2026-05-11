@@ -11,11 +11,11 @@ their environment, a capacity that Daniel Chamovitz explores in Chapter 2 of
 "What a Plant Knows." Plant olfaction, while fundamentally different from
 animal smell, enables plants to perceive neighboring organisms, respond to
 herbivore attacks, coordinate ripening, and engage in complex ecological
-interactions through airborne chemical communication.
+interactions through airborne [[bloomfield-fungal-reproduction-and-chemical-communication]].
 
 ## The Mechanism of Plant Smell
 
-Plants detect volatile organic compounds (VOCs) through receptor proteins in
+Plants detect [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) through receptor proteins in
 their cell membranes. When a volatile molecule binds to these receptors, it
 triggers intracellular signaling cascades that alter gene expression and
 physiological responses. Unlike animals, which have specialized olfactory
@@ -24,8 +24,8 @@ roots all possess chemosensory capabilities.
 
 The plant equivalent of an olfactory receptor is typically a membrane-bound
 protein that undergoes a conformational change when it binds a specific
-volatile compound. This change initiates a signal transduction pathway
-involving secondary messengers such as calcium ions, reactive oxygen species,
+[[fungal-btex-volatile-compound-degradation]]. This change initiates a signal transduction pathway
+involving secondary messengers such as calcium ions, [[reactive-oxygen-species-and-oxidative-stress]],
 and phytohormones like ethylene, jasmonic acid, and salicylic acid.
 
 ## Key Examples of Plant Olfaction
@@ -71,8 +71,8 @@ plant-microbe communication, and belowground ecological relationships:
   paradoxically also trigger germination of parasitic witchweed seeds.
 - **Allelochemicals**: Some plants release compounds that inhibit the
   growth of competing species through root-level chemical detection.
-- **Microbe signaling**: Roots detect bacterial and fungal volatile
-  compounds to modulate immune responses and symbiotic relationships.
+- **Microbe signaling**: Roots detect [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] volatile
+  compounds to modulate immune responses and [[fungi-in-the-environment-symbiotic-relationships]].
 
 ## Molecular Basis of Volatile Detection
 
@@ -88,39 +88,3 @@ volatile detection:
 - **Unknown VOC receptors**: Many plant volatile responses are clearly
   demonstrated but the specific receptor proteins remain unidentified,
   representing an active area of research.
-
-## Differences from Animal Olfaction
-
-While the outcomes are functionally similar, plant and animal olfaction differ
-in fundamental ways:
-
-1. **No specialized organ**: Plants lack an analog to the nose or olfactory
-   epithelium; detection occurs at the cellular level across tissues.
-2. **No nervous system integration**: Plants do not integrate smells into a
-   conscious percept; instead, volatile detection directly modulates gene
-   expression and hormonal pathways.
-3. **Different receptor families**: Plant volatile receptors belong to
-   different protein families than animal olfactory receptors (GPCRs).
-4. **Persistent detection**: Plant olfactory responses can last hours to
-   days, unlike the rapid sensory adaptation seen in animal systems.
-
-## Agricultural Applications
-
-Understanding plant olfaction has practical implications for cultivation:
-
-- **Companion planting**: Selecting plant combinations based on volatile
-  compatibility can enhance pest resistance and growth.
-- **Post-harvest management**: Controlling ethylene exposure extends shelf
-  life of fruits and vegetables.
-- **Pest management**: Synthetic volatile compounds can trigger plant
-  defense responses as an alternative to chemical pesticides.
-- **Intercropping**: Knowledge of allelopathic volatiles helps design
-  intercropping systems that minimize negative chemical interactions.
-
-## See Also
-
-- [[phytochrome-red-far-red-switch-and-photoperiodism]]
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[chamovitz-gravitropism-plant-knows-where-it-is]]
-- [[plant-photoreceptors-phytochromes-cryptochromes]]
-- [[rhizosphere-ecology]]

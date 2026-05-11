@@ -52,7 +52,7 @@ Several well-tested foliar spray formulations are commonly used in [[hamilton-ge
 
 - **Liquid kelp spray**: Dilute 1-2 tablespoons of liquid [[comparison-seaweed-extract-vs-fish-hydrolysate]] per gallon of water. Provides a broad spectrum of micronutrients including iron, manganese, zinc, and boron, plus natural growth hormones (cytokinins and auxins) that can stimulate plant growth. Safe for all plants and can be applied every 2-3 weeks during the growing season
 - **Fish emulsion spray**: Dilute 1-2 tablespoons of fish emulsion per gallon of water. Provides nitrogen (approximately 5% N), phosphorus, and trace minerals. The strong odor dissipates within 24-48 hours. Best used as a transplant starter or for nitrogen-deficient plants
-- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living [[edaphic-factors-microbial-community-structure]] can colonize leaf surfaces, potentially providing biological protection against foliar pathogens. This aligns with [[soil-food-web]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
+- **Compost tea foliar**: Apply actively aerated compost tea (AACT) as a foliar spray at 1:10 dilution. The living [[edaphic-factors-microbial-community-structure]] can colonize leaf surfaces, potentially providing biological protection against foliar pathogens. This aligns with [[soil-foodweb]] remains the most effective and efficient approach. Foliar sprays are at best a supplementary tool for specific, temporary situations.
 
 ## See Also
 
@@ -88,30 +88,3 @@ these challenges enables more proactive and effective management.
 
 Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

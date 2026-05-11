@@ -23,7 +23,7 @@ The tree was named after Armand David, the French Père David who first describe
 
 Mature trees reach 12–20 m in height with a broad, rounded crown. The species is considered a relict element of the Tertiary flora that once covered much of the Northern Hemisphere.
 
-Fossil records of Davidia pollen dating to the Paleogene have been found in Europe and North America. The genus was once widespread across the Northern Hemisphere before Pleistocene glaciations restricted it to refugia in central China.
+Fossil records of Davidia pollen dating to the Paleogene have been found in Europe and [[guzman-psilocybin-mushrooms-north-america]]. The genus was once widespread across the Northern Hemisphere before Pleistocene glaciations restricted it to refugia in central China.
 
 ## Taxonomy and Morphology
 
@@ -52,9 +52,9 @@ The species grows as a canopy or sub-canopy tree in association with Acer spp., 
 
 Climate in native range features warm, humid summers and cool winters with moderate snowfall. Annual rainfall ranges from 1,000–1,800 mm, much of it falling during the summer monsoon.
 
-The dove tree often occurs alongside other notable Chinese endemics such as Metasequoia glyptostroboides and Cercidiphyllum japonicum. These associations form distinctive relict plant communities of high conservation value.
+The dove tree often occurs alongside other notable Chinese endemics such as [[metasequoia-glyptostroboides]] and [[cercidiphyllum-japonicum]]. These associations form distinctive relict plant communities of high conservation value.
 
-Populations are highly fragmented due to the complex topography of the Hengduan Mountains and surrounding ranges. Genetic diversity is highest in Sichuan populations, suggesting a glacial refugium in this region.
+Populations are highly fragmented due to the complex topography of the Hengduan Mountains and surrounding ranges. [[biodiversity-fungal-genetic-diversity]] is highest in Sichuan populations, suggesting a glacial refugium in this region.
 
 The dove tree is considered a paleoendemic species, having survived multiple glacial cycles in the diverse topography of southwestern China. Its persistence underscores the importance of the Hengduan Mountains as a biodiversity refuge.
 
@@ -68,11 +68,11 @@ Trees grown from wild-collected Chinese seed often display greater vigor than th
 
 Flowering typically begins at 10–15 years from seed, though some specimens take 20+ years. Peak flowering occurs from May to June, with individual trees producing thousands of bracts.
 
-Propagation is primarily by seed, which requires 3–6 months of warm stratification followed by 3 months of cold stratification. Germination rates are often erratic and may be spread over two growing seasons.
+Propagation is primarily by seed, which requires 3–6 months of warm stratification followed by 3 months of cold stratification. Germination rates are often erratic and may be spread over two [[jeavons-climate-adaptation-growing-seasons]].
 
 Seeds should be sown fresh in autumn in a cold frame. The hard endocarp can be nicked with a file to improve water uptake and accelerate germination.
 
-Grafting onto rootstocks of Nyssa sylvatica has been attempted with limited success. Cuttings are generally difficult to root, with success rates below 20% even under mist with hormonal treatment.
+Grafting onto rootstocks of [[nyssa-sylvatica]] has been attempted with limited success. Cuttings are generally difficult to root, with success rates below 20% even under mist with hormonal treatment.
 
 The variety vilmoriniana is considered slightly hardier and more compact than the type variety. It is sometimes preferred for smaller gardens in colder climates.
 
@@ -87,34 +87,3 @@ The fruit is consumed by various birds and small mammals, which serve as seed di
 Seed predation by rodents and insects is significant in native habitats, with estimated predation rates of 40–60% of annual seed production. This natural attrition limits natural regeneration in disturbed sites.
 
 In horticulture, the dove tree is among the most sought-after ornamental trees for temperate gardens. It was introduced to Western cultivation in 1904 by Ernest Wilson, who called it "the most interesting and beautiful of all trees of the north temperate flora."
-
-The species has received the RHS Award of Garden Merit and is widely planted in arboreta and botanical gardens. Notable specimens exist at the Arnold Arboretum, Kew Gardens, and the Borde Hill Garden in Sussex.
-
-Wood is lightweight, fine-grained, and used locally in China for furniture and small construction. However, commercial use is limited by the tree's protected status in many areas.
-
-The tree's dramatic flowering display has made it a popular subject in Chinese art and poetry for centuries. It is sometimes called "鸽子树" (pigeon tree) in Mandarin, reflecting the resemblance of the bracts to white doves.
-
-## Conservation
-
-Davidia involucrata is listed as Near Threatened on the Chinese Plant Red Data Book. Habitat loss from agriculture, logging, and infrastructure development continues to pressure wild populations.
-
-The species is protected under Chinese national regulations and occurs within several nature reserves, including the Wanglang and Wolong reserves in Sichuan. Ex situ conservation collections are maintained at numerous botanical gardens worldwide.
-
-The largest cultivated specimen in Europe grows at the Borde Hill Garden in Sussex, England, planted in 1910. This tree reliably produces its spectacular white bract display each May.
-
-Population genetic studies reveal moderate genetic diversity but significant fragmentation between mountain populations. Conservation efforts focus on maintaining habitat connectivity between isolated stands.
-
-Reintroduction programs have been initiated in Hubei and Sichuan provinces using nursery-propagated seedlings from genetically diverse parent trees. These programs aim to restore populations in areas where the species was extirpated by historical logging.
-
-## See Also
-
-- [[nyssa-sylvatica]]
-- [[nyssa-aquatica]]
-- [[cornus-florida]]
-- [[liriodendron-tulipifera]]
-- [[magnolia-grandiflora]]
-- [[acer-rubrum]]
-- [[betula-pendula]]
-- [[fagus-sylvatica]]
-- [[tilia-americana]]
-- [[sassafras-albidum]]

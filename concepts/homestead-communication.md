@@ -3,19 +3,19 @@ title: Homestead Communication
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, equipment, engineering, safety, community]
+tags: [[homesteading]], equipment, engineering, safety, community]
 sources: []
 ---
 
 # Homestead Communication
 
-Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, internet options for rural areas, satellite communication, and emergency communication planning. (see [[land-selection-for-homesteading]]).
+Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, [[homestead-internet-options]] for rural areas, satellite communication, and emergency communication planning.
 
 ## Internet Options
 
 ### Satellite Internet
 
-Satellite is often the only viable option for remote homesteads. Technology has improved dramatically with low-earth-orbit (LEO) satellite constellations. (see [[hurricane-preparedness-guide]]).
+Satellite is often the only viable option for remote homesteads. Technology has improved dramatically with low-earth-orbit (LEO) satellite constellations.
 
 **Starlink:**
 - LEO constellation providing 50-200+ Mbps download speeds
@@ -54,7 +54,7 @@ If you have cellular signal, cellular internet can be effective:
 - External directional antennas (Yagi or LPDA) pointed at nearest tower
 - Cellular signal boosters (weBoost, SureCall) — requires existing signal to amplify
 - Elevate antenna placement — higher is better (tower, mast, rooftop)
-- Check coverage maps carefully — signal strength varies significantly with terrain
+- Check coverage [[maps]] carefully — signal strength varies significantly with terrain
 
 ### Fixed Wireless (WISP)
 
@@ -71,7 +71,7 @@ If your homestead has landline phone service, DSL may be available:
 - Speeds typically 3-25 Mbps depending on distance from the telephone exchange
 - Limited by copper wire infrastructure
 - Declining availability as phone companies abandon copper networks
-- Low cost ($30-50/month)
+- [[coleman-quick-hoops-low-cost-season-extension-structures-design]] ($30-50/month)
 
 ## Amateur (Ham) Radio
 

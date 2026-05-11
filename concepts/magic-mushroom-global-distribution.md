@@ -34,7 +34,7 @@ countryside during fall season and found throughout much of the continent.
 It is also common in Norway, Germany, Austria, and the Alpine regions.
 
 Historical evidence suggests early European cultures possessed knowledge of
-psychoactive mushrooms that was lost or destroyed, probably several hundred
+[[ceremonial-shamanic-use-psychoactive-mushrooms]] that was lost or destroyed, probably several hundred
 years ago. The discovery that [[allegro-amanita-muscaria-properties-and-pharmacology]] was used in Siberia led to
 the assumption that it was also used in medieval Europe, but there is little
 evidence from the Middle Ages to support this. The potent hallucinogenic
@@ -48,7 +48,7 @@ years. The Alpine valleys of Valcamonica, Valtrompia, and Valtellina in
 northern Italy had unusually intense witch persecutions, yet field research
 shows that nightshade plants do not grow at those altitudes and Amanita
 muscaria is rarely found there. However, pastures in the area abound with
-Psilocybe semilanceata during fall, suggesting these mushrooms played a role
+[[liberty-cap-psilocybe-semilanceata-history-biology]] during fall, suggesting these mushrooms played a role
 in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] mushroom cults.
 
 Written reports about psychotropic mushrooms date to the late Middle Ages.
@@ -62,14 +62,14 @@ Republic and surrounding regions.
 
 Mesoamerican cultures possess the most documented history of psychoactive
 mushroom use. The Aztecs called these mushrooms "teonanacatl" (flesh of the
-gods), using them in religious ceremonies to contact spiritual dimensions.
+gods), using them in [[entheogenic-folk-religious-ceremonies]] to contact spiritual dimensions.
 The effects of psilocybin have never been causally linked to mental illness
 among Mexican Indian tribes, who also harvested many mushroom species for
 food, demonstrating the mycophilic nature of their culture.
 
 In North America, Psilocybe cubensis is widely distributed in subtropical
-and tropical regions. P. cyanescens and P. stuntzii are common in the
-Pacific Northwest, particularly in urban wood chip landscapes. P. semilanceata
+and [[fukuoka-natural-farming-in-tropical-regions]]. P. cyanescens and P. stuntzii are common in the
+[[psilocybin-north-america-pacific-northwest]], particularly in urban wood chip landscapes. P. semilanceata
 is found across northern regions. In South America, numerous species thrive
 in diverse habitats from Amazonian pastures to Andean highlands.
 
@@ -87,41 +87,3 @@ psychoactive mushrooms varies widely, with some cultures showing mycophilic
 attitudes and others mycophobic ones.
 
 ## Africa
-
-The oldest known mushroom cult exists in Africa. Historical and
-ethnographic studies reveal ceremonial mushroom use in various African
-cultures, though documentation is less extensive than for the Americas.
-Intoxications and ritualistic mushroom use have been reported across the
-continent, from North African regions to sub-Saharan communities.
-
-## Mycophilia vs. Mycophobia
-
-The distribution of knowledge about psychoactive mushrooms across cultures
-is heavily influenced by the distinction between mycophilia (love of
-mushrooms) and mycophobia (fear of mushrooms). These terms, introduced by
-R.G. Wasson, describe the deep [[weil-cultural-attitudes-toward-altered-states]] that determine whether a
-society explores or suppresses knowledge of psychoactive fungi.
-
-In Europe, symptoms of [[panaeolus-mushroom-intoxication-history]] have always been compared to
-mental illness. The label "fool's mushroom" first appeared during the 1930s,
-along with "Mexican mushroom of insanity." The current socio-political
-climate remains strongly biased against newly discovered hallucinogens,
-which are often defined in terms of negatively loaded labels. Despite this,
-pharmacological testing has revealed psilocybin as an alkaloid perfectly safe
-for human subjects under controlled experimental conditions.
-
-## Urban Adaptation
-
-A remarkable aspect of psilocybin [[psilocybin-mushroom-distribution-worldwide]] is their adaptation
-to human-altered environments. The use of decorative wood chips for
-landscaping has created ideal habitats for many psilocybin species worldwide.
-As this landscaping practice spread from the Pacific Northwest to cities
-globally, psilocybin mushrooms followed, making them one of the most
-successful fungi in colonizing urban environments.
-
-## Related Concepts
-
-- [[psilocybin-mushroom-species-identification]]
-- [[teonanacatl-history]]
-- allen-magic-mushrooms-australia-newzealand-species-guide
-- [[mushroom-cultivation-sterile-technique]]

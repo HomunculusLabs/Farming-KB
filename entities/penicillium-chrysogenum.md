@@ -28,7 +28,7 @@ civilization as a source of medicine.
 
 ## Taxonomy and Classification
 - **Kingdom:** Fungi
-- **Division:** Ascomycota
+- **Division:** [[ascomycota]]
 - **Subdivision:** Pezizomycotina
 - **Class:** Eurotiomycetes
 - **Order:** Eurotiales
@@ -53,7 +53,7 @@ civilization as a source of medicine.
   producing cleistothecia with soft-walled asci
 
 ### Ecology and Habitat
-- Cosmopolitan distribution in soil, decaying vegetation, and
+- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in soil, decaying vegetation, and
   indoor environments
 - Commonly isolated from household dust, air samples, and food
   products
@@ -88,44 +88,3 @@ civilization as a source of medicine.
 
 ### Biotechnological Applications
 - Penicillium chrysogenum remains the primary industrial source
-  of beta-lactam antibiotics
-- Production exceeds 60,000 metric tons annually worldwide
-- Serves as a model organism for secondary metabolism research
-- Genetically modified strains produce semi-synthetic
-  beta-lactam precursors (e.g., adipoyl-7-ADCA)
-- Genome sequence (published 2008) has enabled systems biology
-  approaches to strain improvement
-
-### Phylogenetic Context
-- The source text places P. chrysogenum within the Eurotiales/
-  Onygenales clade
-- Phylogenetic analyses of nuclear SSU rDNA, chitin synthetases,
-  and RNA polymerase II support this relationship (Berbee and
-  Taylor 1992b; Bowen et al. 1992; Liu et al. 1999)
-- The Eurotiales encompasses numerous medically and
-  industrially important genera
-
-### Research Methods
-- Standard isolation on Czapek-Dox agar or malt extract agar
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA and beta-tubulin
-  gene sequencing
-- HPLC analysis of fermentation products
-- Genome sequencing and comparative genomics
-- Fermentation optimization in bioreactors
-
-## Relevance
-Penicillium chrysogenum stands as arguably the most consequential
-fungus in human history. Its impact on medicine, public health, and
-the development of the pharmaceutical industry is unparalleled. The
-source text highlights it alongside Saccharomyces cerevisiae as an
-example of a fungus that has profoundly shaped human civilization.
-Modern research on this species continues to drive advances in
-antibiotic production and industrial biotechnology.
-
-## See Also
-
-- [[staphylococcus-aureus]]
-
-- [[penicillium-expansum]]
-- [[trichoderma-viride]]
-- [[colletotrichum-gloeosporioides]]

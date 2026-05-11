@@ -1,5 +1,5 @@
 ---
-title: Alpha and Beta Diversity in Cannabis Root Microbiomes
+title: Alpha Beta Diversity Cannabis Root Microbiomes
 slug: alpha-beta-diversity-cannabis-root-microbiomes
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 created: 2026-05-08
@@ -10,12 +10,12 @@ tags: [microbiology, diversity, cannabis, rhizosphere, endorhiza, alpha-diversit
 
 ## Overview
 
-Diversity analysis of Cannabis-associated microbial communities reveals a
-consistent pattern: alpha diversity peaks in bulk soil and declines
+Diversity analysis of Cannabis-associated [[cannabis-rhizosphere-microbial-communities]] reveals a
+consistent pattern: [[cannabis-alpha-diversity-gradient-bulk-soil-rhizosphere-endorhiza]] peaks in bulk soil and declines
 progressively through the rhizosphere and into the endorhiza, while beta
 diversity shows that the greatest community differences occur between
 soil compartments rather than between cultivars within the same compartment.
-These patterns are consistent with the two-tier selection model and have been
+These patterns are consistent with the two-tier [[rhizosphere-microbiome-selection-model]] and have been
 quantified using both observed species counts and the chao1 richness estimator.
 
 ## Alpha Diversity: The Declining Gradient
@@ -73,8 +73,8 @@ intermediate:
 - Bulk soil vs all others: ADONIS R² = 0.14, p = 0.001 (unweighted)
 - Rhizosphere vs all others: ADONIS R² = 0.07, p = 0.07 (not significant)
 
-This pattern held across both experiments and both analytical methods,
-with weighted UniFrac showing even stronger differentiation for endorhiza
+This pattern held across both experiments and both [[analytical-methods-psilocybin-psilocin-quantification]],
+with [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] showing even stronger differentiation for endorhiza
 (R² = 0.59, p = 0.001) and bulk soil (R² = 0.29, p = 0.004).
 
 ### Cultivar Differentiation
@@ -88,40 +88,3 @@ samples, not in rhizosphere or bulk soil:
 
 This confirms that [[cannabis-cultivar-effects-soil-microbiome]] are compartment-specific and emerge
 only after the first tier of soil-based filtering has occurred.
-
-### Distance Relationships
-
-Beta distances between compartments showed that rhizosphere and bulk soil
-communities were significantly more similar to each other than either was
-to endorhiza communities. The greatest [[edaphic-factors-microbial-community-structure]] shift occurs at
-the root tissue boundary.
-
-## Analytical Methods
-
-### UniFrac Distance Metrics
-
-The study employed both weighted and unweighted UniFrac distances:
-
-- **Unweighted UniFrac**: Measures community similarity based on the
-  presence or absence of lineages, regardless of their abundance.
-  Sensitive to rare taxa and phylogenetic composition.
-- **Weighted UniFrac**: Incorporates both lineage presence and abundance.
-  More sensitive to dominant taxa and overall community structure.
-
-The consistent results across both metrics strengthen the conclusions,
-as they capture different aspects of community variation.
-
-### Statistical Tests
-
-Community differences were assessed using ADONIS (permutational MANOVA),
-ANOSIM, ANOVA, and Mantel tests. Significance values were corrected for
-multiple testing using FDR (False Discovery Rate) or Bonferroni correction
-where appropriate.
-
-## See Also
-
-- [[fungal-cave-diversity]]
-
-- [[two-tier-selection-model-plant-microbiome]] — Framework explaining diversity patterns
-- [[cannabis-endorhiza-microbiome]] — Endorhiza [[core-endorhiza-bacterial-community-composition-cannabis]]
-- [[edaphic-factors-microbial-community-structure]] — How soil shapes communities

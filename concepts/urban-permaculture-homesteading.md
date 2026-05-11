@@ -3,6 +3,7 @@ title: pdc-urban-permaculture-design-principles Homesteading
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
 type: concept
 tags: [culture, homesteading, permaculture]
@@ -87,24 +88,3 @@ As many elements as possible serve multiple functions:
 Just as plant guilds are designed in the garden, "people guilds" are designed
 in neighborhoods. The process involves:
 - Putting people in touch with one another
-- Matching somebody's needs to another person's skill and surplus
-- Connecting the cycles and flows of human energy
-- Letting everyone join in and have fun
-- Building community through shared gardens, potlucks, workshops
-
-### Community Building as Design
-
-Community building is a matter of good design. There are patterns that connect
-and patterns that alienate. Christopher Alexander's "A Pattern Language" provides
-guidance for sustainable urban design. The "City-Country Fingers" pattern
-suggests keeping interlocking fingers of farmland and urban land, where urban
-fingers never exceed one mile wide and farmland fingers never less than one mile
-wide.
-
-### School Gardens
-
-A permaculture garden at Kiser Middle School in Greensboro brought together
-teachers, students, bus drivers, and parents. The garden integrated:
-- Hand and mind, text and deed, classroom and outdoors
-- Trees, fruit bushes, herb spirals, ponds, swirling paths, and strawberries
-- Social and natural ecologies as connected systems

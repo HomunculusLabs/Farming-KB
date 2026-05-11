@@ -1,6 +1,6 @@
 ---
 title: Cannabis Endorhiza OTU Pooling and Strain-Level Core Microbiome
-source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+source: understanding-cultivar-specificity-cannabis-microbiome.md
 concepts: [otu-pooling, core-microbiome, strain-specificity, endorhiza, soil-source-validation, cannabis]
 tags: [microbiology, cannabis, endorhiza, core-microbiome, otu-analysis, strain-specificity]
 created: 2026-05-09
@@ -10,9 +10,9 @@ created: 2026-05-09
 
 ## Overview
 
-A critical test of the two-tier selection model involves examining whether endorhiza microbial communities share more operational taxonomic units (OTUs) with the soil in which the plant was grown than with a different soil.
+A critical test of the two-tier selection model involves examining whether endorhiza [[cannabis-rhizosphere-microbial-communities]] share more operational taxonomic units (OTUs) with the soil in which the plant was grown than with a different soil.
 
-This "OTU pooling" analysis provides direct evidence for the soil-derived origin of endorhiza communities while also revealing strain-level core microbiome structure within Cannabis cultivars.
+This "OTU pooling" analysis provides direct evidence for the soil-derived origin of [[cannabis-rhizosphere-endorhiza-communities]] while also revealing strain-level core [[cannabis-endorhiza-microbiome-structure]] within Cannabis cultivars.
 
 The analysis pools samples by Cannabis strain and examines the core microbiome within each strain, testing whether endorhiza communities are soil-derived as the two-tier model predicts.
 
@@ -54,7 +54,7 @@ This core community included six major bacterial groups:
 
 ### Pseudomonas
 
-A well-known genus of plant growth-promoting bacteria that can produce phytohormones, solubilize phosphate, and suppress plant pathogens through antibiotic production and induced systemic resistance.
+A well-known genus of plant growth-promoting bacteria that can produce phytohormones, solubilize phosphate, and suppress plant pathogens through antibiotic production and [[endophytic-mycorrhizal-induced-systemic-resistance]].
 
 ### Cellvibrio
 
@@ -70,13 +70,13 @@ A family within the Gammaproteobacteria that includes both plant pathogens and b
 
 ### Actinomycetales
 
-An order of Gram-positive bacteria known for producing antibiotics and contributing to soil organic matter decomposition.
+An order of Gram-positive bacteria known for producing antibiotics and contributing to [[knf-leaf-mold-humus]] decomposition.
 
 ### Sphingobacteriales
 
 An order within the Bacteroidetes that includes plant-associated species found in various rhizosphere environments.
 
-With the exception of Cellvibrio, all prevalent members of this core endorhiza community are well-known endophytic bacteria primarily within the orders Gammaproteobacteria and Alphaproteobacteria, consistent with observations from other plant systems.
+With the exception of Cellvibrio, all prevalent members of this core endorhiza community are well-known [[endorhiza-endophytic-bacteria]] primarily within the orders Gammaproteobacteria and Alphaproteobacteria, consistent with observations from other plant systems.
 
 ## The Cellvibrio Exception
 
@@ -87,40 +87,3 @@ Its consistent presence in Cannabis roots may relate to the plant's substantial 
 In other studies, Cellvibrio has been identified as a biomarker for post-harvest root decay in Cannabis, suggesting that this bacterium may shift from a benign or beneficial endophyte during plant growth to a decomposer role after harvest.
 
 This dual role highlights the context-dependent nature of plant-microbe interactions and the need to understand microbiome function across the full plant life cycle.
-
-## Cultivar-Specific OTU Differences
-
-Beyond the shared core community, significant OTU abundance differences between strains were composed mostly of differences in Proteobacteria, notably from the orders Pseudomonadales, Burkholderiales, Sphingomonadales, and Rhizobiales.
-
-Apart from Proteobacteria, Bacteroidetes orders Sphingobacteriales and Flavobacteriales were also responsible for several significant OTU differences between Cannabis strains.
-
-The most dramatic cultivar-specific difference was the abundance of Methylophilus, which comprised 13% of the microbial community in the endorhiza of BooKoo Kush, 0.13% in Burmese, and was entirely absent in Sour Diesel.
-
-Methylophilus is a methylotrophic bacterium that uses methanol as a carbon source, and its cultivar-specific enrichment may relate to differences in root methanol production between Cannabis strains.
-
-## Soil and Strain Effects on Abundance vs. Presence
-
-An important distinction emerged from the OTU-level analysis.
-
-Both unweighted (g-test) and weighted (ANOVA) analyses showed that soil type had the strongest influence over significant OTU differences.
-
-However, strain showed a larger effect than sample type for weighted OTU differences, while there were no significant unweighted OTU differences between strains.
-
-This means that cultivar differences primarily affect the relative abundance of bacterial taxa rather than determining which taxa are present or absent.
-
-The same bacterial groups tend to be found in all Cannabis roots, but their proportions vary systematically by cultivar.
-
-This has practical implications: it may be easier to shift microbial abundances through breeding or management than to introduce completely novel taxa into the endorhiza.
-
-## See Also
-
-- [[bacteroidetes-strain-differentiation-cannabis-endorhiza]]
-
-- [[cannabis-microbiome-agricultural-implications-and-future-directions]]
-
-- [[cannabis-microbiome-two-tier-selection]]
-- [[two-tier-selection-model-plant-microbiome]]
-- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
-- [[methylophilus-cannabis-endorhiza-strain-specificity]]
-- [[core-endorhiza-bacterial-community-composition-cannabis]]
-- [[cellvibrio-post-harvest-root-decay-cannabis]]

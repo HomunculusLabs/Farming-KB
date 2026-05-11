@@ -51,7 +51,7 @@ Flowering occurs from May to July, with fruits persisting on the plant well into
 
 Bladder sedge has a wide circumboreal distribution. In Europe, it occurs from Scandinavia and the British Isles southward to the Mediterranean mountains and eastward through Russia to Siberia.
 
-In North America, it ranges from Alaska across Canada to the northeastern and north-central United States. Isolated populations occur in the Rocky Mountains and the Pacific Northwest.
+In North America, it ranges from Alaska across Canada to the northeastern and north-central United States. Isolated populations occur in the Rocky Mountains and the [[psilocybin-north-america-pacific-northwest]].
 
 The species is widespread but localised in the British Isles, occurring predominantly in northern and western regions. It is most abundant in Scotland, northern England, and Wales, and becomes scarce in southeastern England.
 
@@ -61,7 +61,7 @@ Bladder sedge tolerates a range of nutrient conditions but is most characteristi
 
 The species is moderately tolerant of shade and can persist in fen woodland and alder carr communities. However, it flowers most prolifically in open, unshaded conditions.
 
-Water depth tolerance ranges from emergent in shallow water to approximately 30 cm depth during the growing season. Beyond this depth, the species cannot establish from seed.
+Water depth tolerance ranges from emergent in shallow water to approximately 30 cm depth during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Beyond this depth, the species cannot establish from seed.
 
 In Scandinavia, bladder sedge occurs along the margins of boreal lakes and slow-flowing rivers. It forms extensive stands in shore meadows that are periodically inundated.
 
@@ -73,13 +73,13 @@ Soil preferences include mineral-rich clays, silts, and organic muck soils. It i
 
 The tall, dense growth form provides important structural habitat for wetland invertebrates. Dragonfly nymphs, water beetles, and aquatic snails use the submerged portions of the culms as perching and feeding sites.
 
-The inflated utricles are an effective dispersal mechanism in aquatic environments. They float on water for extended periods and can be carried downstream by currents.
+The inflated utricles are an effective dispersal mechanism in [[fungal-roles-aquatic-environments]]. They float on water for extended periods and can be carried downstream by currents.
 
 Several bird species use bladder sedge beds for nesting, including reed warblers and sedge warblers. The dense tussocks provide concealment and support for suspended nests.
 
 Larvae of the sedge carpet moth and other Lepidoptera feed on the foliage. The seeds are eaten by waterfowl, particularly teal and mallard, during autumn migration.
 
-The species contributes to nutrient cycling in wetland ecosystems through its substantial annual litter production. Decomposing Carex vesicaria leaf litter releases nutrients that support algal and microbial communities.
+The species contributes to [[nutrient-cycling-in-soil]] wetland ecosystems through its substantial annual litter production. Decomposing Carex vesicaria leaf litter releases nutrients that support algal and [[cannabis-rhizosphere-microbial-communities]].
 
 The plant's vigorous rhizome system helps stabilise soft sediments along water margins. This erosion-control function makes it valuable for natural flood management schemes.
 
@@ -87,37 +87,4 @@ In North America, bladder sedge is an important component of sedge meadow wetlan
 
 ## Cultivation and Uses
 
-Bladder sedge is occasionally cultivated in constructed wetlands and naturalistic water gardens. Its tall stature and architectural form make it an effective accent plant at pond margins.
-
-The species is useful in constructed treatment wetlands for water purification. Its dense root system helps filter pollutants and its vigorous growth absorbs significant quantities of nitrogen and phosphorus.
-
-Propagation is reliable from seed, which germinates readily after brief cold stratification. Division of established clumps in early spring is also effective and produces faster results.
-
-In some regions, the young shoots were traditionally collected as a spring vegetable, similar to the use of other Carex species in parts of northern Europe. This practice is now rare.
-
-The species has no significant modern economic uses beyond ecological applications. Its value lies in wetland restoration, water treatment, and biodiversity enhancement.
-
-Hardiness is excellent, with the species tolerating temperatures below -30°C in its northern range. It is well-adapted to the short growing seasons of boreal regions.
-
-The inflated utricles have been used in dried flower arrangements, where they provide textural interest. The green colour fades to golden-brown as the fruits dry.
-
-## Conservation
-
-**Carex vesicaria** is widespread and not considered threatened globally. It is classified as Least Concern across most of its range.
-
-However, wetland drainage and agricultural intensification have reduced its habitat extent in western Europe. Populations in lowland England have declined significantly due to loss of fen and marsh habitat.
-
-The species benefits from wetland conservation programmes and agri-environment schemes that maintain or restore damp grassland and fen habitats. Rewetting of drained peatlands has supported recolonisation in several areas.
-
-## See Also
-
-- [[carex-rostrata]]
-- [[carex-stricta]]
-- [[carex-aquatilis]]
-- [[carex-utriculata]]
-- [[carex-lasiocarpa]]
-- [[carex-flava]]
-- [[carex-nebrascensis]]
-- [[schoenoplectus-lacustris]]
-- [[schoenoplectus-tabernaemontani]]
-- [[eleocharis-palustris]]
+Bladder sedge is occasionally cultivated in [[constructed-wetland-design]] naturalistic water gardens. Its tall stature and architectural form make it an effective accent plant at pond margins.

@@ -59,16 +59,16 @@ Spores are 12–16 × 4.5–6 µm, fusiform to elliptical, smooth, and inamyloid
 The species is ectomycorrhizal, forming associations primarily with broadleaf trees. Its preferred partners include:
 
 - **Oak** (*Quercus* spp.) — most commonly reported host
-- **Beech** (*Fagus sylvatica*)
-- **Chestnut** (*Castanea sativa*)
-- **Hornbeam** (*Carpinus betulus*)
-- Occasionally **spruce** (*Picea abies*) in mixed forests
+- **Beech** (*[[fagus-sylvatica]]*)
+- **Chestnut** (*[[castanea-sativa]]*)
+- **Hornbeam** (*[[carpinus-betulus]]*)
+- Occasionally **spruce** (*[[picea-abies]]*) in mixed forests
 
 It fruits from late summer through autumn (August to November), typically in warm, dry years. It favors calcareous or neutral soils in mature, thermophilous (warm-loving) deciduous and mixed forests, often on well-drained slopes and forest edges.
 
 ## Ecology
 
-As an ectomycorrhizal species, *B. regius* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between its host trees and the soil. The fungal mycelium extends the effective root zone of the host tree, improving access to phosphorus, nitrogen, and micronutrients. In return, the fungus receives carbohydrates (primarily glucose) produced through photosynthesis.
+As an ectomycorrhizal species, *B. regius* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between its host trees and the soil. The [[fungal-mycelium-hyphae-and-the-feeding-phase]] extends the effective root zone of the host tree, improving access to phosphorus, nitrogen, and micronutrients. In return, the fungus receives carbohydrates (primarily glucose) produced through photosynthesis.
 
 *Boletus regius* is sensitive to environmental disturbance, including:
 
@@ -79,7 +79,7 @@ As an ectomycorrhizal species, *B. regius* plays a role in forest [[comparison-n
 
 ## Edibility and Culinary Use
 
-*Boletus regius* is considered an excellent edible mushroom, often ranked alongside *B. edulis* in culinary quality. The flesh is firm, with a delicate, slightly sweet flavor that holds up well to cooking. It is suitable for:
+*Boletus regius* is considered an excellent [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]], often ranked alongside *B. edulis* in culinary quality. The flesh is firm, with a delicate, slightly sweet flavor that holds up well to cooking. It is suitable for:
 
 - Fresh preparation (sautéed, grilled)
 - Drying and reconstitution
@@ -87,57 +87,3 @@ As an ectomycorrhizal species, *B. regius* plays a role in forest [[comparison-n
 - Use in soups, risottos, and sauces
 
 **Important identification notes:** The royal bolete must be confidently distinguished from potentially toxic species with similar pinkish caps, particularly:
-
-- ***Neoboletus (Boletus) satanas*** — has a pale cap that develops pinkish tones, red-orange pore surface that bruises blue, and an unpleasant odor
-- ***Neoboletus erythropus*** — bruises intensely blue; has a darker, more brownish cap
-- ***Suillellus luridus*** — pore surface and stipe network turn blue when cut; orange-red pores
-
-The key distinguishing features of *B. regius* are: bright rose-pink cap, yellow pores that do NOT bruise blue, white flesh that does not change color, and pleasant odor.
-
-## Conservation Status
-
-*Boletus regius* has experienced significant population declines across much of its European range. It is classified as:
-
-- **Vulnerable** on the IUCN Red List in several countries
-- **Protected** by law in some European nations (e.g., Czech Republic, Slovakia)
-- Listed on regional Red Lists of threatened fungal species
-
-Major threats include habitat loss through deforestation and urbanization, atmospheric pollution (particularly [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]), changes in [[mollison-pdc-forest-management-products]] practices, and the increasing frequency of drought periods associated with climate change.
-
-Collection of wild specimens for culinary purposes has also been implicated in local population declines, though habitat degradation is considered the primary driver.
-
-## Similar Species
-
-| Species | Cap Color | Pore Surface | Bruising | Odor | Edibility |
-|---------|-----------|-------------|----------|------|-----------|
-| *B. regius* | Rose-pink | Yellow | None | Pleasant | Excellent |
-| *N. satanas* | Pale pinkish | Orange-red | Blue | Unpleasant | Toxic |
-| *N. erythropus* | Dark brown | Orange-yellow | Intense blue | Mild | Edible (caution) |
-| *Suillellus luridus* | Olive-brown | Orange-red | Blue | Pleasant | Edible (cook well) |
-| *B. legaliae* | Pinkish | Red-orange | Blue | Unpleasant | Suspect |
-
-## Cultivation
-
-No reliable method for the commercial cultivation of *Boletus regius* exists. Like all ectomycorrhizal boletes, it requires a living host tree to form the mutualistic relationship essential for fruiting. Research into *Boletus* cultivation has focused primarily on *B. edulis*, and techniques developed for that species may have limited applicability to *B. regius* given its more specific ecological requirements and thermophilous nature.
-
-## Chemical Composition
-
-Research on the chemical composition of *Boletus regius* is limited compared to more common boletes, but studies on related species suggest it likely contains:
-
-- **Ergosterol** — the primary sterol in fungal cell membranes
-- **Beta-glucans** — polysaccharides with immunomodulatory properties
-- **Various phenolic compounds** — contributing to antioxidant activity
-- **Essential amino acids** — particularly leucine, lysine, and valine
-- **Minerals** — potassium, phosphorus, selenium, and zinc
-
-## Notes for Foragers
-
-When foraging for *Boletus regius*, the non-bleuing reaction is the single most important field identification character. Any bolete with a pinkish or reddish cap whose pores or flesh turn blue when cut should be treated with extreme caution and positively identified before consumption. When in doubt, consult an experienced mycologist or a regional field guide.
-
-## See Also
-
-- [[boletus-edulis-entity]]
-- [[boletus-reticulatus]]
-
-- [[boletus-pinophilus]] — Pine bolete, similar habitat
-- [[suillellus-luridus]] — lurid bolete, edible but requires careful cooking

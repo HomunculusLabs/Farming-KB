@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-**Gliricidia sepium** (Jacq.) Steud., commonly known as madre de cacao, Mexican lilac, or quickstick, is a fast-growing, nitrogen-fixing leguminous tree in the family Fabaceae. Native to seasonally dry forests of Central America and Mexico, it is now pantropically distributed as one of the most widely used agroforestry species worldwide.
+**Gliricidia sepium** (Jacq.) Steud., commonly known as madre de cacao, Mexican lilac, or quickstick, is a fast-growing, nitrogen-fixing leguminous tree in the family Fabaceae. Native to seasonally dry forests of [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and Mexico, it is now pantropically distributed as one of the most widely used agroforestry species worldwide.
 
-The tree typically reaches 10–15 m in height with an open, spreading canopy. It is valued for its rapid growth rate, ability to thrive on poor soils, and prolific production of biomass for mulch, fodder, and green manure. G. sepium has become a cornerstone species in tropical agroforestry systems across Africa, Asia, and the Pacific Islands.
+The tree typically reaches 10–15 m in height with an open, spreading canopy. It is valued for its rapid growth rate, ability to thrive on poor soils, and prolific production of biomass for mulch, fodder, and green manure. G. sepium has become a cornerstone species in tropical agroforestry systems across Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
-Its common name "madre de cacao" (mother of cacao) reflects its traditional use as a shade tree for cacao plantations in Central America. The species also possesses insecticidal and rodenticidal properties, making it useful in integrated pest management systems.
+Its common name "madre de cacao" (mother of cacao) reflects its traditional use as a shade tree for cacao plantations [[neurotropic-fungi-in-central-america]]. The species also possesses insecticidal and rodenticidal properties, making it useful in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] systems.
 
-G. sepium ranks among the top five most widely utilized multipurpose tree legumes in the tropics, alongside Leucaena leucocephala and Calliandra calothyrsus. Its adaptability to a broad range of agroecological zones and its ease of propagation from cuttings have made it a preferred species for smallholder farming systems throughout the developing world.
+G. sepium ranks among the top five most widely utilized multipurpose tree legumes in the tropics, alongside [[leucaena-leucocephala]] and [[calliandra-calothyrsus]]. Its adaptability to a broad range of agroecological zones and its ease of propagation from cuttings have made it a preferred species for smallholder farming systems throughout the developing world.
 
 ## Taxonomy and Morphology
 
@@ -49,9 +49,9 @@ The leaf margin is entire to slightly undulate, and the upper surface is dark gr
 
 G. sepium is native to the Pacific coast of Mexico through Central America to northern Colombia. It has been introduced and naturalized throughout the tropics, including West and East Africa, South and Southeast Asia, and the Pacific Islands.
 
-In Africa, the species was introduced in the early 20th century and is now widespread from Senegal to Kenya and south to Mozambique. In Asia, it is particularly prominent in the Philippines, Indonesia, Sri Lanka, and India, where it is used extensively in home gardens and contour hedgerow systems.
+In Africa, the species was introduced in the early 20th century and is now widespread from Senegal to Kenya and south to Mozambique. In Asia, it is particularly prominent in the Philippines, Indonesia, Sri Lanka, and India, where it is used extensively in home gardens [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] systems.
 
-The species thrives in tropical and subtropical climates from sea level to approximately 1500 m elevation. It tolerates annual rainfall from 700 to 3000 mm and grows well on a range of soil types, including acidic, low-fertility, and moderately saline soils.
+The species thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] from sea level to approximately 1500 m elevation. It tolerates annual rainfall from 700 to 3000 mm and grows well on a range of soil types, including acidic, low-fertility, and moderately saline soils.
 
 Optimal growth occurs in well-drained, loamy soils with pH 5.5–7.5. The tree is moderately drought-tolerant once established but performs poorly under waterlogging or prolonged water stress. It is classified as a pioneer species and colonizes disturbed sites readily.
 
@@ -59,9 +59,9 @@ Frosts and freezing temperatures cause significant damage and limit cultivation 
 
 ## Cultivation and Uses
 
-**Propagation:** Primarily propagated from seed, though stem cuttings (1–2 m long, 3–5 cm diameter) root readily and are preferred for rapid establishment. Seed scarification improves germination, which typically exceeds 80% within 7–14 days. Direct seeding or nursery seedling transplant are both effective.
+**Propagation:** Primarily propagated from seed, though stem cuttings (1–2 m long, 3–5 cm diameter) root readily and are preferred for rapid establishment. Seed scarification improves germination, which typically exceeds 80% within 7–14 days. Direct seeding or [[mollison-designers-plant-nursery-seedling-production]] transplant are both effective.
 
-Vegetative propagation from cuttings is the dominant method for live fence and hedge establishment. Cuttings planted during the early rainy season achieve rooting rates exceeding 90%. Seed storage viability is moderate, declining significantly after 12 months under ambient conditions.
+[[hamilton-vegetative-propagation]] from cuttings is the dominant method for live fence and hedge establishment. Cuttings planted during the early rainy season achieve rooting rates exceeding 90%. Seed storage viability is moderate, declining significantly after 12 months under ambient conditions.
 
 **Growth and management:** Under favorable conditions, growth rates of 3–5 m per year are common during the establishment phase. Trees respond well to coppicing and can be managed at heights of 1–3 m for regular foliage harvest. Pollarding cycles of 4–8 months produce significant biomass yields of 5–15 t DM/ha/year.
 
@@ -87,33 +87,4 @@ The primary bioactive constituents include coumarin (the namesake compound, from
 
 Gliricidin and related isoflavonoids exhibit antifungal and antibacterial activity against plant pathogens. Leaf extracts show significant molluscicidal activity against freshwater snails, relevant to schistosomiasis control programs. Research has demonstrated LC50 values against *Biomphalaria glabrata* at concentrations as low as 50 ppm for crude leaf extracts.
 
-Additional compounds isolated from various plant parts include triterpenoids (β-amyrin derivatives), sterols (β-sitosterol, stigmasterol), and phenolic acids (caffeic, ferulic, and p-coumaric acids). The diversity of secondary metabolites reflects the broad ecological functions of this species in defense, signaling, and allelopathy.
-
-Ethanol and aqueous leaf extracts demonstrate moderate antioxidant activity in DPPH and FRAP assays. Bark extracts contain additional alkaloids and saponins with reported anti-inflammatory properties, though clinical validation remains limited.
-
-Coumarin extracted from leaves and bark has been investigated as a natural pesticide for stored-product protection. The rodenticidal properties that give the genus its name (from Latin *glis*, dormouse) are attributed to the combined action of coumarin and other furanocoumarins present in bark and seed tissues.
-
-## Ecological Role
-
-G. sepium forms symbiotic relationships with rhizobia (primarily *Bradyrhizobium* spp.) for biological nitrogen fixation, contributing 40–100 kg N/ha/year to associated cropping systems. Its deep root system improves soil structure and nutrient cycling.
-
-As a nitrogen-fixing pioneer, it plays a key role in tropical forest restoration and soil rehabilitation. The tree provides nectar and pollen for bees, and its foliage supports various Lepidoptera larvae. Birds use the canopy for nesting and foraging.
-
-The floral display during peak flowering season makes G. sepium an attractive ornamental species in tropical urban landscaping. In apiculture, the species is valued for producing a light, mild-flavored honey during periods when few other nectar sources are available. Pollinator diversity studies in agroforestry landscapes have documented over 30 insect species visiting G. sepium flowers.
-
-Invasive potential is moderate to high in some tropical islands and disturbed habitats. The species can form dense thickets that exclude native vegetation, particularly in areas with no natural herbivore pressure. Management through controlled grazing and regular harvesting mitigates spread.
-
-Fallen leaf litter decomposes rapidly, contributing significant organic matter and nutrients to the soil surface. This nutrient cycling benefit is one of the primary reasons G. sepium is favored in alley cropping and improved fallow systems throughout the tropics.
-
-## See Also
-
-- [[robinia-pseudoacacia]]
-- [[leucaena-leucocephala]]
-- [[erythrina-fusca]]
-- [[calliandra-calothyrsus]]
-- [[dalbergia-sissoo]]
-- [[prosopis-juliflora]]
-- [[acacia-nilotica]]
-- [[mimosa-pudica]]
-- [[acacia-mearnsii]]
-- [[onobrychis-viciifolia]]
+Additional compounds isolated from various plant parts include triterpenoids (β-amyrin derivatives), sterols (β-sitosterol, stigmasterol), and phenolic acids (caffeic, ferulic, and p-coumaric acids). The diversity of [[antifungal-secondary-metabolites-coprophilous-fungi]] reflects the broad [[fungal-melanin-biosynthesis-ecological-functions]] of this species in defense, signaling, and allelopathy.

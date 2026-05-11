@@ -88,28 +88,3 @@ Breeding efforts have focused on developing determinate growth habits for mechan
 ## Food Uses and Processing
 
 Rice bean is consumed in diverse culinary preparations across its range of cultivation. In Nepal and northern India, the seeds are cooked into dhal or mixed with rice to make khichdi. In Myanmar and Thailand, rice bean is used in soups, curries, and sweet preparations.
-
-The seeds require extended cooking times of 30-45 minutes due to their hard seed coat, though dehulling reduces this significantly. Sprouting is a common processing method that improves protein digestibility and reduces antinutritional compounds.
-
-Fermented products include rice bean tempeh in Indonesian cuisine and various traditional fermented condiments in Northeast India. The seeds can also be processed into flour for use in flatbreads, noodles, and weaning foods.
-
-Modern food processing research has explored rice bean as an ingredient in extruded snacks, protein isolates, and plant-based meat alternatives. The red and mottled seed coat pigments contain anthocyanins with antioxidant properties of interest to the functional food industry.
-
-## Limitations and Research Needs
-
-Despite its nutritional and agronomic advantages, rice bean remains a minor crop with limited commercial development. Several factors constrain wider adoption, including inconsistent seed availability, lack of improved varieties adapted to modern farming systems, and limited consumer awareness outside its traditional growing regions.
-
-The hard seed coat that protects against bruchid damage also impedes uniform germination and slows cooking time. Breeding programs targeting thinner seed coats must balance improved culinary quality against storage pest resistance.
-
-Research priorities identified by crop scientists include development of early-maturing varieties for double-cropping systems, characterization of the species' rhizobial symbiont specificity, and evaluation of rice bean for phytoremediation of heavy-metal-contaminated soils.
-
-Emerging genomic tools, including whole-genome sequencing and genotyping-by-sequencing, are being applied to rice bean for the first time. These resources will accelerate the identification of quantitative trait loci associated with yield, stress tolerance, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] in this neglected crop species.
-
-## See Also
-
-- [[vigna-mungo]]
-- [[glycine-max]]
-- [[lens-culinaris]]
-- [[lathyrus-tuberosus]]
-- [[arachis-hypogaea]]
-- [[pachyrhizus-erosus]]

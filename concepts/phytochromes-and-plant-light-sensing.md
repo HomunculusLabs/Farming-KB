@@ -1,5 +1,5 @@
 ---
-title: Phytochromes and Plant Light Sensing
+title: Phytochromes And Plant Light Sensing
 source: grahambolmes-what-a-plant-knowsindd.md
 tags: [botany, phytochromes, photomorphogenesis, red-light, far-red-light, plant-development]
 created: 2026-05-09
@@ -21,7 +21,7 @@ vegetation.
 
 Phytochromes were discovered in the 1950s through work on lettuce seed
 germination by Sterling Hendricks, Harry Borthwick, and their colleagues at
-the U.S. Department of Agriculture's Beltsville Agricultural Research Center.
+the U.S. Department of Agriculture's Beltsville [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Center.
 They found that lettuce seeds germinated in response to brief flashes of red
 light (660 nm) but that this germination-promoting effect could be completely
 reversed by a subsequent flash of far-red light (730 nm). This reversible
@@ -78,7 +78,7 @@ respond appropriately to diverse environmental conditions.
 Many seeds, particularly small-seeded species, require light for germination.
 This is an adaptive mechanism that prevents germination when seeds are buried
 too deeply in soil where light cannot penetrate. The phytochrome system acts
-as a "light switch": a brief flash of red light (converting Pr to Pfr)
+as a "[[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]": a brief flash of red light (converting Pr to Pfr)
 promotes germination, while far-red light reverses this effect. In nature,
 the red-to-far-red ratio at the soil surface promotes germination, while
 deep burial in soil (where far-red light from the soil matrix may
@@ -88,56 +88,3 @@ predominate) inhibits it.
 Perhaps the most ecologically significant role of phytochromes is shade
 detection. Chlorophyll strongly absorbs red light but reflects far-red light.
 Under a canopy of leaves, the ratio of red to far-red light decreases
-dramatically. Phytochromes detect this shift: lower R:FR ratios result in
-more phytochrome being in the Pr (inactive) form. This triggers the shade
-avoidance syndrome—rapid stem and petiole elongation, hyponastic leaf
-movement, accelerated flowering, and reduced branching—all aimed at
-escaping shade and reaching direct sunlight.
-
-### Photoperiodic Flowering
-Phytochromes participate in measuring [[coleman-winter-day-length-and-persephone-months]], which controls the timing
-of flowering in many species. They help synchronize the plant's circadian
-clock with external light-dark cycles and provide information about day
-length that is integrated with clock outputs to determine whether conditions
-are favorable for the floral transition.
-
-### De-etiolation
-When a seedling emerges from soil into light, phytochromes trigger the
-transition from etiolated growth (long, thin, pale stems with closed
-cotyledons) to photomorphogenic growth (short, green stems with expanded
-cotyledons and developed chloroplasts). This involves inhibition of stem
-elongation, opening of the apical hook, expansion of cotyledons, and
-activation of chlorophyll biosynthesis.
-
-## Red to Far-Red Ratio as Environmental Signal
-
-The ratio of red to far-red light (R:FR) is one of the most important
-information-carrying signals in plant ecology. It provides plants with
-information about:
-- **Canopy density**: Lower R:FR indicates denser vegetation overhead.
-- **Time of day**: R:FR decreases near sunrise and sunset when light
-  passes through more atmosphere.
-- **Seasonal changes**: Day length and solar angle affect R:FR.
-- **Proximity of neighbors**: Even before direct shading occurs, reflected
-  far-red light from nearby plants signals competitive pressure.
-
-## Molecular Signaling Mechanisms
-
-Active Pfr phytochrome translocates from the cytoplasm to the nucleus, where
-it interacts with transcription factors called **PIFs (PHYTOCHROME-
-INTERACTING FACTORS)**. PIFs promote elongation growth and suppress
-photomorphogenesis. When Pfr enters the nucleus, it binds to PIFs and
-promotes their phosphorylation and degradation, thereby relieving their
-repressive effects on light-responsive gene expression.
-
-This PIF degradation pathway is the central mechanism by which phytochromes
-regulate gene expression in response to light. The system acts as a molecular
-switch, rapidly converting [[plant-vision-and-light-perception-mechanisms]] into altered developmental programs.
-
-## See Also
-
-- [[plant-photoreception-and-light-perception]]
-- [[phototropism-and-plant-light-responses]]
-- [[shade-avoidance-syndrome]]
-- [[cervantes-light-spectrum-photomorphogenesis]]
-- [[plant-circadian-rhythms]]

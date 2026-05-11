@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-Cestrum diurnum is a species of flowering shrub in the family Solanaceae, native to the West Indies and tropical regions of the Americas. It is commonly known as day-blooming jasmine, day cestrum, or white cestrum, referencing its fragrant white flowers that open during daylight hours.
+Cestrum diurnum is a species of flowering shrub in the family Solanaceae, native to the West Indies and [[fukuoka-natural-farming-in-tropical-regions]] of the Americas. It is commonly known as day-blooming jasmine, day cestrum, or white cestrum, referencing its fragrant white flowers that open during daylight hours.
 
-The plant is widely cultivated as an ornamental shrub in subtropical and tropical gardens worldwide. It has become naturalized in parts of Africa, Asia, and the Pacific Islands, where it occasionally behaves as an invasive weed.
+The plant is widely cultivated as an ornamental shrub in subtropical and tropical gardens worldwide. It has become naturalized in parts of Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], where it occasionally behaves as an invasive weed.
 
 Cestrum diurnum contains cardiac glycosides similar to those found in foxglove, making all parts of the plant toxic to mammals. Livestock poisoning has been documented, particularly in areas where the shrub grows in pastures.
 
@@ -42,11 +42,11 @@ The fragrance is sweet and jasmine-like, produced during daylight hours from mid
 
 ## Distribution and Habitat
 
-Cestrum diurnum is native to the Caribbean islands, including Cuba, Jamaica, Hispaniola, and Puerto Rico. Its native range extends through Central America and into northern South America, particularly Colombia and Venezuela.
+Cestrum diurnum is native to the Caribbean islands, including Cuba, Jamaica, Hispaniola, and Puerto Rico. Its native range extends through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and into northern South America, particularly Colombia and Venezuela.
 
 The species has been introduced widely as an ornamental plant and has naturalized in many regions. Naturalized populations are reported in Florida, Texas, California, Hawaii, eastern and southern Africa, India, Sri Lanka, and parts of Southeast Asia.
 
-It thrives in tropical and subtropical climates with warm temperatures and moderate to high rainfall. The plant is tolerant of a range of soil types but prefers well-drained, fertile loams with a slightly acidic to neutral pH.
+It thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with warm temperatures and moderate to high rainfall. The plant is tolerant of a range of soil types but prefers well-drained, fertile loams with a slightly acidic to neutral pH.
 
 Elevation range in native habitats extends from sea level to approximately 1,200 meters. The species is less cold-hardy than some other Cestrum species, suffering damage below -2°C.
 
@@ -76,37 +76,14 @@ Cardiac glycosides inhibit the sodium-potassium ATPase pump in cardiac myocytes,
 
 Livestock poisoning by Cestrum diurnum has been documented in Brazil, where cattle grazing on the plant developed cardiac symptoms. Clinical signs include lethargy, anorexia, ataxia, and sudden death.
 
-The dark purple berries are particularly attractive to children and pets, presenting a poisoning risk in gardens where the plant is cultivated. Human cases of accidental ingestion have been reported.
+The dark purple berries are particularly attractive to children and pets, presenting a poisoning risk in gardens where the plant is cultivated. Human cases of [[psilocybin-accidental-ingestion-australia]] have been reported.
 
 Analysis of plant material has revealed glycoside concentrations ranging from 0.05% to 0.2% dry weight in leaves. The concentration varies seasonally, with higher levels detected during flowering.
 
 Veterinary treatment for cestrum poisoning involves administration of anti-digoxin antibody fragments (digoxin-specific Fab) and supportive cardiac care. Prevention through pasture management is the primary control strategy.
 
-Additional secondary metabolites identified in Cestrum diurnum include flavonoids, saponins, and phenolic acids. These compounds may contribute to the plant's limited resistance to herbivory by generalist insects.
+Additional [[antifungal-secondary-metabolites-coprophilous-fungi]] identified in Cestrum diurnum include flavonoids, saponins, and phenolic acids. These compounds may contribute to the plant's limited resistance to herbivory by generalist insects.
 
 The toxic profile of Cestrum diurnum is less studied than that of other Solanaceae species such as [[datura-stramonium]] or [[atropa-belladonna]]. However, the presence of cardiac glycosides warrants caution in all horticultural and pastoral contexts.
 
 ## Ecology and Ornamental Value
-
-In its native range, Cestrum diurnum flowers are pollinated by butterflies, moths, and long-tongued bees attracted to the daytime fragrance. The dark berries are dispersed by birds, which contribute to the plant's spread in both native and introduced ranges.
-
-The shrub provides limited wildlife cover due to its open branching habit. Dense stands can offer some shelter for small birds and insects within its native forest-edge habitat.
-
-As an ornamental, Cestrum diurnum is valued for its long flowering period and sweet fragrance. It is used in mixed borders, foundation plantings, and as a specimen shrub in fragrance gardens.
-
-The plant is sometimes compared to its relative [[cestrum-nocturnum]] in garden literature. While the night-blooming cestrum produces a more intense fragrance, the day-blooming species offers the advantage of scent during daylight hours.
-
-In areas where it has become invasive, Cestrum diurnum is managed through mechanical removal and herbicide application. Public education about its toxicity is recommended in regions where the plant is commonly sold in nurseries.
-
-## See Also
-
-- [[cestrum-nocturnum]]
-- [[solanum-nigrum]]
-- [[brugmansia-suaveolens]]
-- [[datura-stramonium]]
-- [[atropa-belladonna]]
-- [[nicotiana-sylvestris]]
-- [[lantana-camara]]
-- [[buddleja-davidii]]
-- [[jasminum-officinale]]
-- [[nicotiana-tabacum]]

@@ -1,5 +1,5 @@
 ---
-title: [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] Enrichment in Maui Wowie Cannabis Endorhiza
+title: Sphingomonas Wittichii Maui Wowie
 created: 2026-05-09
 tags: [microbiome, sphingomonas, cannabis, endorhiza, cultivar-specificity]
 date: 2026-05-09
@@ -88,38 +88,3 @@ enrichment in Cannabis. Each cultivar tested in the study showed distinct
 [[cannabis-cultivar-microbial-community-effects]] signatures, with at least one highly discriminatory
 bacterial taxon. This pattern suggests that microbiome engineering
 strategies for Cannabis could be optimized at the cultivar level, matching
-specific bacterial inoculants to the cultivars most likely to support their
-colonization and provide reciprocal benefits to plant health and secondary
-metabolite production.
-
-## Comparison with Other Proteobacteria-Specific Differences
-
-The study found that significant OTU abundance differences between strains
-were composed mostly of Proteobacteria from the Pseudomonadales,
-Burkholderiales, Sphingomonadales, and Rhizobiales orders. S. wittichii
-belongs to the Sphingomonadales, placing it within this broader pattern of
-proteobacterial [[cannabis-microbiome-cultivar-specificity]]. Alongside Bacteroidetes orders
-Sphingobacteriales and Flavobacteriales, these Proteobacteria accounted for
-the majority of strain-differentiating OTUs. The fact that S. wittichii
-was identified to species level, while most other discriminatory OTUs were
-identified only to higher taxonomic ranks, makes it one of the most
-specific microbial markers of Cannabis cultivar identity found in the study.
-Future research could investigate whether S. wittichii colonization
-influences Maui Wowie's characteristic terpene or cannabinoid profile,
-potentially linking this cultivar-specific microbial association to the
-chemotype that gives Maui Wowie its distinctive properties.
-
-## Sphingomonas Metabolic Capabilities
-
-The genus Sphingomonas is characterized by the presence of
-sphingoglycolipids in its outer membrane rather than the lipopolysaccharides
-found in most other Gram-negative bacteria, a feature that contributes to
-its ability to survive in oligotrophic and [[fungi-in-stressful-environments]].
-Sphingomonas species are known for their capacity to degrade a wide range
-of aromatic compounds, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and
-xenobiotics. In the plant root environment, this metabolic versatility may
-enable Sphingomonas to process [[ingham-tannins-terpenes-phenolic-compounds]] released by plant roots
-as exudates or by the decomposition of organic matter in the rhizosphere.
-The ability of S. wittichii to colonize the Maui Wowie endorhiza
-specifically may reflect a compatibility between its metabolic capabilities
-and the particular blend of root exudates produced by this cultivar.

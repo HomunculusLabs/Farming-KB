@@ -1,5 +1,5 @@
 ---
-title: "teaming with microbes bacteria and archaea in soil in Soil"
+title: Teaming With Microbes Bacteria And Archaea In Soil
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -19,7 +19,7 @@ soil: coccus (spherical), bacillus (rod-shaped), and spiral.
 
 ## Reproduction and Population Control
 
-Bacteria reproduce by single cell division. Under laboratory conditions, one
+Bacteria reproduce by [[fungal-single-cell-protein-production]] division. Under laboratory conditions, one
 solitary bacterium can produce 5 billion offspring in 12 hours if food is
 sufficient. In nature, however, soil bacteria are limited by moisture
 requirements, natural conditions, and predators -- protozoa chief among them.
@@ -31,7 +31,7 @@ killed by environmental changes and then consumed by other decomposers.
 Bacteria decompose plant and animal material to ingest nitrogen, carbon
 compounds, and other nutrients. These nutrients are held immobilized inside
 bacterial cells and released (mineralized) only when bacteria are consumed by
-protozoa and nematodes or die and are themselves decayed. Because bacteria
+[[teaming-with-microbes-protozoa-and-nematodes]] or die and are themselves decayed. Because bacteria
 attach to soil particles, the nutrients they contain remain in the soil rather
 than leaching away.
 
@@ -43,7 +43,7 @@ right in the rhizosphere where roots can absorb it.
 
 Individual plants can control the numbers and kinds of bacteria attracted to
 the rhizosphere by the exudates they produce. During different times of the
-[[savory-growing-season-and-non-growing-season-management]], rhizosphere bacterial populations wax and wane depending on
+[[savory-growing-season-and-non-growing-season-management]], [[cannabis-rhizosphere-bacterial-communities]] populations wax and wane depending on
 the plant's nutrient needs.
 
 ## Feeding Mechanisms
@@ -53,7 +53,7 @@ best decomposing young, still-fresh plant material ("green" material) rich in
 sugars, which are easier for bacteria to digest than complex carbon compounds
 ("brown" material). Bacteria use enzymes to break the bonds holding organic
 chains together and digest food -- all done outside the organism before
-ingestion. They take in food directly through cell walls via [[diffusion-osmosis-and-active-transport-in-plants]],
+ingestion. They take in food directly through [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] via [[diffusion-osmosis-and-active-transport-in-plants]],
 where membrane proteins act as molecular pumps.
 
 ## Aerobic vs. Anaerobic Bacteria
@@ -67,7 +67,7 @@ Two main groups exist:
   foster pathogenic bacteria and kill beneficial aerobic bacteria.
 - **Aerobic bacteria** require air and do not normally cause bad smells.
   Actinomycetes (Streptomyces spp.) are aerobic bacteria that grow filaments
-  like fungal hyphae and produce volatile chemicals giving soil its clean,
+  like [[fungal-hyphae-and-mycelium]] produce volatile chemicals giving soil its clean,
   earthy aroma. They are particularly adept at decaying cellulose and chitin --
   two difficult-to-digest carbon compounds. They also connect soil particles,
   making themselves too large to be eaten by protozoan ciliates.
@@ -88,35 +88,3 @@ substance for movement.
 Bacteria play crucial roles in cycling carbon, sulfur, and nitrogen. Key
 nitrogen-fixing genera include Azotobacter, Azospirillum, Clostridium (free-
 living in soil), and Rhizobium (symbiotic in legume root nodules, forming
-visible nodules). Nitrifying bacteria -- Nitrosomonas converting ammonium to
-nitrites, and Nitrobacter converting nitrites to nitrates -- require pH above
-7. Denitrifying bacteria convert nitrogen salts back to atmospheric N2,
-keeping the [[query-how-does-the-nitrogen-cycle-work-in-a-garden]] moving.
-
-## Pathogens and Defenses
-
-Thousands of bacterial pathogens exist in soil, causing diseases like citrus
-canker, potato diseases, fire blight, and galls (Agrobacterium tumefaciens).
-However, soil bacteria produce many medicinal antibiotics. Pseudomonas
-produces phenazines that combat fungal wheat diseases. High bacterial
-diversity ensures nonpathogenic bacteria outcompete pathogens for space and
-nutrients. Bacteria also break down pollutants and toxins -- some can consume
-gasoline or oil spills.
-
-## Bacterial vs. Fungal Dominance
-
-Disturbed soils (rototilled, agricultural) have far more bacteria than fungi,
-with fungal-to-bacterial (F:B) ratios of 1:1 or less. Forest soils have ten
-times more fungi than bacteria. Annuals, grasses, and vegetables prefer
-bacterially dominated soils with nitrates; perennials, shrubs, and trees
-prefer fungally dominated soils with ammonium. Bacterial dominance correlates
-with alkaline pH from bioslime production.
-
-## See Also
-
-- [[teaming-with-microbes-actinomycetes]]
-- [[teaming-with-microbes-mineralization-and-immobilization]]
-- [[teaming-with-microbes-fb-ratio]]
-- [[teaming-with-microbes-soil-ph-and-biology]]
-- [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]

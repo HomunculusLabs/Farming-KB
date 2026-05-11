@@ -5,6 +5,7 @@ tags: [medicinal-mushrooms, ganoderma, reishi, cultivation, immunology, triterpe
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - /Users/t3rpz/wiki/concepts/ganoderma-lucidum-reishi-comprehensive-profile.md
   - /Users/t3rpz/wiki/concepts/reishi-mushroom-medicinal-properties.md
   - /Users/t3rpz/wiki/concepts/reishi-cultivation-guide.md

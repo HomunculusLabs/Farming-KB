@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Natto
 
-Natto is a traditional Japanese fermented soybean food known for its distinctive sticky, stringy texture and strong aroma. It has been consumed in Japan for over a thousand years, particularly in the eastern Kanto region. Natto is made by inoculating steamed soybeans with Bacillus subtilis var. natto (formerly Bacillus natto), a soil bacterium that thrives at high temperatures and produces the characteristic viscosity and flavor through its fermentation activity. (see [[comparison-fermented-vegetables-vs-canning]]).
+Natto is a traditional Japanese fermented soybean food known for its distinctive sticky, stringy texture and strong aroma. It has been consumed in Japan for over a thousand years, particularly in the eastern Kanto region. Natto is made by inoculating steamed soybeans with [[bacillus-subtilis]] var. natto (formerly Bacillus natto), a soil bacterium that thrives at high temperatures and produces the characteristic viscosity and flavor through its fermentation activity.
 
 ## Bacillus Subtilis Natto
 
@@ -44,13 +44,13 @@ The natto bacterium is a subspecies of Bacillus subtilis, a common soil-dwelling
 
 Natto requires very soft, well-cooked beans:
 
-Pressure cooker method (recommended):
+[[double-layer-tinfoil-jar-covering-pressure-cooker-method]] (recommended):
 - Drain soaked beans, add fresh water to cover
 - Cook at pressure for 45-60 minutes
 - Beans should crush easily between your fingers; they should be almost falling apart
 - Excess softness is better than undercooking — the beans need to be easily penetrated by bacteria
 
-Boiling method:
+[[pf-tek-spore-syringe-sterilization-boiling-method]]:
 - Boil for 3-4 hours, adding water as needed to keep beans submerged
 - Check frequently — beans must be very soft
 
@@ -69,7 +69,7 @@ After cooking:
 
 - Commercial natto starter (Bacillus subtilis natto spores) — most reliable, available from Japanese suppliers and online
 - Store-bought natto — use 1-2 tablespoons of fresh natto as a starter; mash and mix with a small amount of sterile water to create a slurry
-- Traditional method: wrap steamed beans in rice straw (warazuri) — Bacillus subtilis naturally colonizes rice straw
+- Traditional method: wrap steamed beans in [[fukuoka-rice-straw-mulch-central-technique]] (warazuri) — Bacillus subtilis naturally colonizes rice straw
 
 ### Inoculation Process
 
@@ -94,7 +94,7 @@ After cooking:
    - Shallow glass or ceramic dishes
    - Foil trays
    - Traditional natto boxes (cedar boxes with paper wrapping)
-   - Canning jar rings with plastic wrap stretched across (placed bean-side down)
+   - [[pf-tek-canning-jar-lid-configuration]] rings with plastic wrap stretched across (placed bean-side down)
 3. Cover loosely with plastic wrap, cheesecloth, or paper towels
 4. Place a wet paper towel or damp cloth nearby to maintain humidity (prevents beans from drying out)
 5. Incubate at target temperature
@@ -147,4 +147,3 @@ Other uses:
 - Blended into smoothies (for the adventurous)
 
 ## Nutritional Profile
-

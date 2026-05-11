@@ -7,9 +7,9 @@ tags:
   - endophyte
   - bioremediation
   - plastic-degradation
-  - permaculture
+  - [[permaculture]]
   - saprophyte
-  - endophytic-fungi." Applied and Environmental Microbiology 77(17):
+  - [[endophytic-fungi]]." Applied and Environmental Microbiology 77(17):
     6076-6084.
   - Barratt, S.R. et al. (2003). "Degradation of polyester polyurethane
     by fungi." Applied Microbiology and Biotechnology 61(4): 364-369.
@@ -38,7 +38,7 @@ and subtropical regions.
 ## Taxonomy
 
 - **Kingdom:** Fungi
-- **Division:** Ascomycota
+- **Division:** [[ascomycota]]
 - **Class:** Sordariomycetes
 - **Order:** Xylariales
 - **Family:** Pestalotiopsidaceae
@@ -56,7 +56,7 @@ over 200 descrgreen--growth Morphology
 - **Colony:** On PDA, 5–7 cm diameter in 7 days at 25°C; circulamycelium to
   cottony, white to cream-colored aerial mycelium
 - **Reverse:** Pale yellow to brownish, sometimes dark pigmentation
-- **Growth rate:** Moderate to rapid; optimum 25–28°C
+- **[[soil-temperature-plant-growth-rate-doubling-rule]]:** Moderate to rapid; optimum 25–28°C
 
 ### Conidiomata and Conidia
 
@@ -76,7 +76,7 @@ Species-level identification requires .
 P. microspora has a **pantropical to subtropical distribution**:
 
 - **Range:**  (Amazon Basin), , [[psilocybe-southeast-asia-pacific]],
-  Africa, and Pacific islands
+  Africa, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - **Host plants:** Over 30 genera including Theobroma (cacao), Hevea (rubber),
   palms, orchids, and tropical hardwoods
 - **Substrates:** Living plant tissues (endophytic), [[dighton-fungal-decomposition-leaf-litter-dynamics]], decaying
@@ -88,57 +88,3 @@ P. microspora has a **pantropical to subtropical distribution**:
 
 The capacity of P. microspora to degrade polyurethane is its most
 scientifically significant property:
-
-- **Substrate:** Degrades both polyester-based and polyether-based PU
-- **Mechanism:** Extracellular polyurethanase enzymes hydrolyze the polymer
-  backbone into oligomers and monomers
-- **Anaerobic capability:** Unique among PU-degrading fungi — can digest PU
-  anaerobically, suggesting landfill applications
-- **Rate:** 30–50% weight loss within 6 weeks; complete degradation of thin
-  films within 8–12 weeks
-- **Carbon source:** Can utilize PU as sole carbon source
-
-The anaerobic degradation capability distinguishes P. microspora from other
-known plastic-degrading fungi.
-
-## Secondary Metabolites
-
-P. microspora produces a diverse array of bioactive secondary metabolites:
-
-- **Pestalotiopsins:** Chlorinated benzophenones with antifungal and
-  antibacterial activity
-- **Isocoumarins:** Including pestalotin (plant growth regulator analog) and
-  novel hydroxylated isocoumarins
-- **Pestalotiopyrone:** Pyrone derivatives with cytotoxic activity
-- **Xanthone derivatives:** Novel xanthones with antioxidant properties
-
-These metabolites likely serve ecological functions in competition with
-other microorganisms within host plant tissues.
-
-## Cultivation
-
-- **Media:** PDA, MEA, or oatmeal agar support robust growth
-- **Temperature:** Optimum 25–28°C; tolerates 15–35°C
-- **pH:** Broad tolerance, pH 4–8; optimum near 6.0
-- **Storage:** Viable on PDA slants at 4°C for 6–12 months; long-term in
-  15% glycerol at –80°C
-
-## Permaculture and Bioremediation Applications
-
-P. microspora has potential applications in designed ecological systems:
-
-- **Plastic waste treatment:** Could supplement composting or anaerobic
-  digestion systems receiving PU-contaminated organic waste
-- **Endophyte-mediated plant protection:** Metabolite production may confer
-  disease resistance to host plants in agroforestry systems
-- **Bioprospecting model:** Demonstrates value of exploring endophytic
-  fungi from biodiverse ecosystems for novel bioremediation agents
-## Related Species
-
-- **Pestalotiopsis steymarkii:** Amazonian endophyte; also degrades
-  cellulose-rich substrates
-
-## See Also
-- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
-- [[teaming-with-nutrients-plant-nutrient-essentials-npk]]
-- [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]]

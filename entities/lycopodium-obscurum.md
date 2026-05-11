@@ -15,7 +15,7 @@ sources:
   - Wagner, W.H. & Beitel, J.M. (1993). "Lycopodiaceae." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 2. Oxford University Press.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Jones, G.P. (1987). "Lycopodium Alkaloids." In: S.W. Pelletier (ed.), "Alkaloids: Chemical and Biological Perspectives." Wiley.
-  - Flora of North America Editorial Committee (1993). "Lycopodium obscurum." FNA Vol. 2: 22–23.
+  - Flora [[berry-growing]] Editorial Committee (1993). "Lycopodium obscurum." FNA Vol. 2: 22–23.
 ---
 
 ## Overview
@@ -54,11 +54,11 @@ A single genet may cover several square meters through clonal expansion over dec
 
 The species is distributed across much of temperate North America, from Newfoundland and Quebec west to Minnesota and south to Georgia and Arkansas.
 
-Disjunct populations occur in the Pacific Northwest and in montane regions of the Appalachian chain.
+Disjunct populations occur in the [[psilocybin-north-america-pacific-northwest]] and in montane regions of the Appalachian chain.
 
 It is most abundant in mixed hardwood-conifer forests, boreal spruce-fir forests, and northern hardwood stands.
 
-Typical habitats include moist, acidic forest floors with deep organic duff, often on slopes and ravines.
+Typical habitats include moist, acidic forest floors with [[coleman-deep-organic-farming]] duff, often on slopes and ravines.
 
 The species is associated with mature forest conditions and is sensitive to heavy disturbance, canopy removal, and soil compaction.
 
@@ -76,7 +76,7 @@ Fertilization requires a film of water for motile sperm to reach the archegonia,
 
 The long-lived rhizomatous growth habit allows extensive clonal spread, and many populations consist primarily or entirely of vegetatively propagated clones.
 
-Spore dispersal occurs from July through September and depends on wind currents from the elevated strobili.
+[[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] occurs from July through September and depends on wind currents from the elevated strobili.
 
 Spore banks may persist in soil for several years, providing a reservoir for population recovery after disturbance.
 
@@ -87,40 +87,3 @@ The species is an indicator of old-growth or late-successional forest conditions
 ## Ethnobotanical and Medicinal Use
 
 The dry, highly flammable spores of *Lycopodium obscurum* have been used historically as a flash powder for theatrical effects and early photography.
-
-Indigenous peoples of [[polypore-fungi-eastern-north-america]] America used the plant medicinally, including the Cherokee, who applied it as a poultice for wounds and skin conditions.
-
-The Iroquois used decoctions of the plant to treat fevers and urinary complaints.
-
-The spores were applied as a dusting powder to prevent skin irritation and to absorb moisture in wound dressings.
-
-The species contains lycopodium alkaloids, including lycodine and obscurine, which have attracted pharmacological interest.
-
-Modern commercial harvest of lycopodium spores primarily targets *Lycopodium clavatum*, but *L. obscurum* has been collected when available.
-
-The distinctive appearance of the sterile branches has made the species popular in the commercial florist trade for wreath-making and holiday decoration.
-
-Over-collection for ornamental use has contributed to population declines in some areas.
-
-## Conservation
-
-**Lycopodium obscurum** is considered threatened or of special concern in several states at the margins of its range.
-
-Habitat loss from logging, development, and forest fragmentation has reduced populations in the southern Appalachian and Great Lakes regions.
-
-The species' dependence on mature forest conditions and slow reproductive rate limit its ability to recolonize disturbed sites.
-
-Commercial collection for the floral trade has been identified as a significant threat in some states, leading to harvest regulations.
-
-Conservation recommendations include protection of mature forest habitat, restrictions on wild collection, and maintenance of forest floor integrity.
-
-The species is listed as endangered in Ohio and New Jersey and as threatened in Indiana and Tennessee.
-
-[[dighton-fungi-climate-change-feedback]] poses a long-term threat by shifting the distribution of suitable cool, moist forest habitats northward.
-
-## See Also
-
-- [[equisetum-arvense]]
-- [[pteridium-aquilinum]]
-- [[adiantum-pedatum]]
-- [[dryopteris-filix-mas]]

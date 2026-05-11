@@ -1,5 +1,5 @@
 ---
-title: agara - agara galbulimima belgraveana new guinea tree New Guinea Tree
+title: Agara [[galbulimima-belgraveana]] New Guinea Tree
 created: 2026-04-28
 tags: [ethnobotany, papua-new-guinea, australia, malaysia,
   himantandraceae, alkaloids, hallucinogenic-plants, schultes]
@@ -28,13 +28,13 @@ family related to the magnolias.
 Galbulimima belgraveana is a tall forest tree native to the rainforests of
 Malaysia and Australia, with its most significant ethnobotanical use
 documented in Papua New Guinea. The tree is one of four species in the
-genus Galbulimima, all of which are found in tropical rainforest habitats
+genus Galbulimima, all of which are found in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] habitats
 in the Australasian region. The genus is distributed across New Guinea,
 northeastern Australia, and parts of the Malay Archipelago, where it
 occupies a place in the canopy or subcanopy of primary and secondary
 rainforests.
 
-The wide geographic distribution of Galbulimima across multiple countries
+The wide [[geographic-distribution-of-psilocybe-species]] Galbulimima across multiple countries
 and indigenous cultural areas suggests that its psychoactive properties may
 have been discovered independently by different peoples. However, detailed
 documentation of traditional use outside of Papua New Guinea is limited,
@@ -57,7 +57,7 @@ intoxication, followed by a deep sleep during which the user experiences
 visions and fantastic dreams. This progression from initial agitation or
 disorientation through sedation to a visionary dream state is reminiscent
 of the effects produced by several other psychoactive plant preparations,
-particularly those containing tropane alkaloids, which typically produce an
+particularly those containing [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]], which typically produce an
 initial period of delirium and agitation before settling into a state of
 sedation and hallucination.
 
@@ -88,58 +88,3 @@ botanically isolated plant family related to the magnolias (Magnoliaceae).
 The Himantandraceae contains a small number of species in one or two genera
 and is considered a relictual lineage, meaning it represents an ancient
 evolutionary branch of the flowering plant tree of life with few surviving
-members.
-
-The relationship to the magnolia family is significant from a phytochemical
-perspective, as the Magnoliales (the order containing both families) are
-known for producing diverse and often biologically active alkaloids.
-Magnolia species themselves contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including
-magnolol and honokiol, which have anxiolytic and other neurological
-effects. The evolutionary proximity to magnolias may help explain the
-extraordinary chemical complexity of Galbulimima belgraveana.
-
-## The Admixture: Ereriba (Homalomena sp.)
-
-Ereriba, an undetermined species of Homalomena, is used as an admixture to
-the agara preparation. Homalomena is a genus of herbs in the aroid family,
-Araceae, with approximately 140 species native to tropical Asia and South
-America. The active chemical constituent of the ereriba used in the agara
-preparation is unknown, and the specific role of this admixture in the
-psychoactive effects of the drink remains unclear.
-
-The Araceae is not generally known as a family of psychoactive plants,
-though some genera (such as Acorus, sweet flag) have documented psychoactive
-properties. It is possible that ereriba contributes psychoactive compounds
-to the preparation, or that it serves primarily to modify the absorption,
-metabolism, or subjective experience of the Galbulimima alkaloids.
-
-## Cultural Context in Papua New Guinea
-
-The use of agara in Papua New Guinea reflects the rich ethnopharmacological
-traditions of the region, which include the use of several other notable
-psychoactive plants. Papua New Guinea has a particularly high diversity of
-psychoactive plant species relative to its geographic size, reflecting both
-the extraordinary botanical diversity of its rainforests and the long
-history of indigenous experimentation with psychoactive flora. The
-traditions of Papua New Guinea remain among the least documented of any
-major ethnopharmacological region.
-
-## Modern Research Interest
-
-Beyond its traditional use, Galbulimima belgraveana has attracted
-considerable interest from the pharmaceutical industry due to the structural
-novelty and biological activity of its alkaloids. Research has focused
-primarily on the potential of himbacine and related compounds as therapeutic
-agents, particularly for neurological conditions. The traditional use of the
-plant as a psychoactive agent continues to stimulate interest in the
-identification of the specific visionary compounds among the 28 known
-alkaloids.
-
-## See Also
-
-- [[galbulimima-belgraveana]]
-
-- [[sweet-flag-acorus-calamus-ethnobotany]]
-- [[golden-guide-amanita-muscaria-and-soma]]
-
-- [[boletus-manicus-new-guinea-psychoactive-bolete]]

@@ -1,5 +1,5 @@
 ---
-title: Ergot Fungi and Amanita as Neurotropic Species
+title: Ergot Amanita Neurotropic Fungi Groups
 created: 2026-04-28
 tags:
   - mycology
@@ -25,7 +25,7 @@ type: concept
 Guzman, Allen, and Gartz (1998) classified 216 [[mexico-center-neurotropic-fungal-biodiversity]] species
 into four major groups. Beyond the psilocybin-containing fungi that
 dominate popular understanding, two important groups contain distinct
-neuroactive chemistries: the ibotenic acid fungi (Amanita species) and
+neuroactive chemistries: the [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]] (Amanita species) and
 the ergot fungi (Claviceps and Cordyceps). These represent fundamentally
 different pharmacological mechanisms and cultural histories from the
 psilocybin-containing species.
@@ -37,7 +37,7 @@ ibotenic acid and muscimol content:
 
 ### Amanita muscaria (L.: Fr.) Hook.
 
-The fly agaric is the most iconic neurotropic mushroom in the world. It
+The [[amanita-muscaria-fly-agaric-history-and-pharmacology]] is the most iconic neurotropic mushroom in the world. It
 contains several recognized forms, subspecies, and varieties:
 
 - A. muscaria ssp. muscaria
@@ -48,9 +48,9 @@ contains several recognized forms, subspecies, and varieties:
 - var. formosa (Pers.: Fr.) Bertillon
 - var. persicina Jenkins
 
-Amanita muscaria grows in mycorrhizal association with Pinus and Betula
+[[amanita-muscaria]] grows in mycorrhizal association with Pinus and Betula
 in forests of the northern hemisphere, including Mexico. It has also been
-introduced to pine plantations in tropical regions, including Brazil
+introduced to pine plantations [[fukuoka-natural-farming-in-tropical-regions]], including Brazil
 (Homrich, 1965), Colombia, Tanzania (Africa), Australia, and New Zealand.
 Its distribution type is classified as Eurasian/Northern hemisphere.
 
@@ -77,7 +77,7 @@ in the neurotropic [[ustilaginomycetes-smut-fungi-classification-diversity]].
 
 ## Group 3: Ergot Fungi (Claviceps and Cordyceps)
 
-The ergot fungi produce well-known ergot alkaloids and represent a
+The ergot fungi produce well-known [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] and represent a
 fundamentally different class of neurotropic compounds from both
 psilocybin and ibotenic acid.
 
@@ -88,62 +88,3 @@ Five species of Claviceps are recognized as neurotropic:
 - **C. purpurea** (Fr.: Fr.) Tul.: The classic ergot of rye, the most
   widely known and distributed species. Also known as C. microcephala.
   This species produces sclerotia on grasses and has been responsible
-  for epidemic ergotism throughout European history. Multiple
-  taxonomic forms and synonymies exist (Grasso, 1955).
-- **C. nigricans** Tul.
-- **C. paspali** F. Stev. and J.G. Hall: According to Farr et al.
-  (1989), C. rolfesii is a synonym of C. paspali.
-- **C. rolfesii** F. Stev. and J.G. Hall: Synonym of C. paspali.
-- **C. tripsicii** F. Stev. and J.G. Hall
-
-[[bloomfield-ergot-claviceps-purpurea-ergotism]] and its allies are confined to temperate regions.
-Three species (C. paspali, C. purpurea, C. rolfesii, and C. tripsaci)
-are reported from the United States.
-
-### Cordyceps (2 Species)
-
-Two species of Cordyceps are considered neurotropic, probably due to
-their taxonomic relationship to Claviceps:
-
-- **C. capitata** (Holmsk.: Fr.) Link: Grows on Elaphomyces species
-  (truffle-like fungi). In Mexico, this species is used by the Trique
-  Indians of Alta Mixteca (Oaxaca) in special nocturnal ceremonies,
-  either eaten with Psilocybe muliercula or alone. It is called
-  "mujercitas" (little women).
-- **C. ophioglossoides** (Fr.) Link: Called "hombrecitos" (little men)
-  by the Trique Indians. Used alongside C. capitata and P. muliercula.
-
-These Cordyceps species are very important to the Indians of the Nevado
-de Toluca region in Mexico. In the ceremony, a specimen of Elaphomyces
-(the host fungus of these Cordyceps) is placed at the center of the
-room as a "director" of the ceremony. The Trique also use Elaphomyces
-species (E. granulatus, E. muricatus, E. reticulatus) to help heal
-wounds and to "rejuvenate the organism."
-
-However, Hofmann (in Heim and Wasson, 1958) found no indoles in
-specimens of C. capitata and C. ophioglossoides that had been gathered
-in a Mexican market as sacred fungi. These specimens had been preserved
-for a long time, and the age of the fungi likely accounts for the
-negative result.
-
-## Group 4: Sacred Fungi Without Chemical Confirmation
-
-A fourth group consists of fungi used as [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] by indigenous
-peoples but for which no reliable chemical studies confirm neurotropic
-properties. This group includes:
-
-### Boletes (8 Species in 2 Genera)
-
-- **Boletus** (6 species): Including B. flammeus R. Heim and B.
-  nigroviolaceus Corner
-- **Heimiella** (2 species)
-## Related Topics
-
-- The pharmacology of Amanita muscaria is covered extensively in
-  [[bloomfield-ergot-claviceps-purpurea-ergotism]].
-- The full checklist of all 216 neurotropic species is in
-  [[mexico-neurotropic-fungi-diversity-center]].
-
-## See Also
-
-- [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]

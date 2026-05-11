@@ -24,7 +24,7 @@ sources:
 
 It is commonly known as **torch ginger**, **red ginger lily**, **philodendron* (Indonesia), **tuhau* (Sabah), and **bunga kantan** (Malaysia).
 
-The species is valued both as an ornamental plant for its large, showy inflorescences and as a culinary herb in Southeast Asian cuisines.
+The species is valued both as an ornamental plant for its large, showy inflorescences and as a culinary herb in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines.
 
 Torch ginger is one of the most recognizable tropical flowers, with inflorescences reaching 30–60 cm in height and displaying vivid red, pink, or white bracts.
 
@@ -65,17 +65,17 @@ Individual flowers are tubular, 5–8 cm long, with a labellum marked in contras
 
 The species is native to Peninsular Malaysia, Sumatra, Borneo, and Java, with natural populations extending to southern Thailand.
 
-It grows in lowland to lower montane tropical forests, typically at elevations below 1,200 meters.
+It grows in lowland to lower montane [[fungal-biodiversity-tropical-forests]], typically at elevations below 1,200 meters.
 
-Natural habitats include riverbanks, forest margins, disturbed areas, and secondary growth forests.
+[[mushroom-natural-habitats]] include riverbanks, forest margins, disturbed areas, and secondary [[fungal-roles-in-old-growth-forests]].
 
 The plant thrives in humid, shaded to partially shaded environments with rich, well-drained volcanic or alluvial soils.
 
 It has been widely cultivated and naturalized throughout tropical Southeast Asia, including the Philippines, Sulawesi, and Bali.
 
-Escaped or planted populations are found in Hawaii, Costa Rica, and other tropical regions where it is grown as an ornamental.
+Escaped or planted populations are found in Hawaii, Costa Rica, and other [[fukuoka-natural-farming-in-tropical-regions]] where it is grown as an ornamental.
 
-The species is invasive in some Pacific islands, where it can form dense monocultures in disturbed forest areas.
+The species is invasive in some [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], where it can form dense monocultures in disturbed forest areas.
 
 ## Culinary and Cultural Use
 
@@ -88,50 +88,3 @@ The flavor is subtle and floral, with hints of ginger and a slightly astringent 
 In Sabah (Malaysian Borneo), the **tuhau** variety is specifically cultivated for its edible stems and flower buds.
 
 Tuhau stems are finely shredded, mixed with chili and vinegar, and served as a condiment with rice and grilled fish.
-
-In Thai cuisine, young inflorescences are occasionally used in certain regional curries and salads.
-
-The flowers are also used as a traditional garnish for presentation in high-end Southeast Asian restaurants.
-
-In addition to culinary use, the species holds [[ethnomycology-cultural-significance-sacred-fungi]] in traditional Malay weddings and ceremonial occasions.
-
-## Cultivation
-
-Torch ginger is propagated primarily by division of the rhizomatous rootstock, though [[jeavons-seed-propagation-techniques]] is also possible.
-
-Plants prefer partial shade (30–60% light) but tolerate full sun in humid tropical conditions with adequate moisture.
-
-Optimal growth occurs at 25–30°C with consistent humidity above 70% and annual rainfall of 1,500–3,000 mm.
-
-Soils should be rich in [[hamilton-composting-and-organic-matter-management]], slightly acidic (pH 5.5–6.5), and well-drained to prevent rhizome rot.
-
-Under favorable conditions, plants begin flowering within 12–18 months of planting from divisions.
-
-Flower production is year-round in equatorial climates, with peak flowering often coinciding with wet seasons.
-
-Commercial cultivation for cut flower production is practiced in Hawaii, Thailand, and Malaysia.
-
-Pests include mealybugs, scale insects, and nematodes; fungal rhizome rot is the most significant disease problem.
-
-## Bioactive Compounds and Ethnobotany
-
-Phytochemical studies have identified several bioactive constituents including diterpenes, flavonoids, and phenolic acids.
-
-[[permaculture-designers-manual-essential-oil-plants]] extracted from the inflorescence contains pinene, linalool, and various sesquiterpenes.
-
-The leaves and rhizomes have been used in traditional Malay medicine for treating wounds, earaches, and stomach ailments.
-
-Laboratory studies have demonstrated antioxidant, antimicrobial, and anti-inflammatory activities for leaf and flower extracts.
-
-The rhizome has shown cytotoxic activity against certain [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in preliminary in vitro screening.
-
-Poultices made from pounded leaves are traditionally applied to reduce swelling and relieve joint pain in folk medicine.
-
-The species is planted in traditional Malay gardens both for practical use and as a symbol of prosperity.
-
-## See Also
-
-- [[alpinia-galanga]]
-- [[elettaria-cardamomum]]
-- [[curcuma-longa]]
-- [[syzygium-aromaticum]]

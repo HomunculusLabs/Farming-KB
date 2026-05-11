@@ -11,7 +11,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mandala Seeds official cannabis-african-indian-strain-descriptions-clarke and breeding documentation.
+  - oner-satori-mandala-seeds-nepalese-high-thc-strain-profile official cannabis-african-indian-strain-descriptions-clarke and breeding documentation.
   - Leafly Strain Database. "Satori." https://www.leafly.com/strains/satori
   - AllBud Strain Reviews. "Satori." https://www.allbud.com/
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and
@@ -27,9 +27,9 @@ reflecting the strain's reported ability to produce a clear, meditative, and
 uplifting cerebral experience.
 
 Satori was bred from a carefully selected Nepalese landrace crossed with
-a fast-flowering indica hybrid. The result is a vigorous, high-yielding
+a fast-flowering [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]. The result is a vigorous, high-yielding
 strain that retains the energetic, creative sativa effects of its Himalayan
-parentage while maintaining a manageable flowering time and structure.
+parentage while maintaining a manageable [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] and structure.
 
 ## Lineage
 
@@ -40,7 +40,7 @@ temperatures. Nepalese landraces are valued for their complex terpene
 profiles and spiritual, uplifting effects.
 
 **Parent 2:** Fast-flowering indica hybrid — contributes reduced flowering
-time, compact bud structure, and increased [[cannabis-glandular-trichome-types-resin-production-clarke]]. The indica
+time, compact [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], and increased [[cannabis-glandular-trichome-types-resin-production-clarke]]. The indica
 parent also adds a grounding body component that balances the sativa energy.
 
 The approximate sativa-to-indica ratio is reported at 70:30, reflecting
@@ -87,52 +87,3 @@ delivery through [[beta-caryophyllene-entourage-effects-cannabis]].
 
 **Caryophyllene** (moderate): Adds peppery, spicy undertones and
 contributes anti-inflammatory properties through CB2 [[tihkal-receptor-binding-serotonin]].
-
-**Limonene** (present): Contributes citrus notes and mood-elevating
-effects. Secondary in concentration but perceptible in the flavor.
-
-**Pinene** (trace): Adds subtle pine notes and may support mental
-clarity and bronchodilation.
-
-## Cannabinoid Profile
-
-THC content ranges from 16–20% in well-grown phenotypes, with some
-selective cuts reaching 22%. CBD content is typically low, below 0.2%.
-The ratio favors a primarily psychoactive, cerebrally focused experience.
-
-## Effects
-
-The onset is gradual but builds to a strong, clear-headed cerebral high.
-Users consistently describe a sense of mental expansion, creative flow,
-and meditative clarity — consistent with the strain's Zen-inspired name.
-
-The effects are predominantly uplifting and energetic without being
-overwhelmingly racy or anxiety-inducing. A gentle body relaxation develops
-in the background, preventing the cerebral effects from becoming scattered.
-
-Many users report enhanced appreciation of music, art, and nature. The
-strain is popular among artists, musicians, and creative professionals
-for its ability to promote focused creativity. Duration is typically
-2.5–3.5 hours.
-
-## Cultivation
-
-Satori is considered moderately easy to grow and is well-suited for
-both novice and experienced cultivators. Its Nepalese heritage makes it
-unusually cold-tolerant for a sativa, capable of withstanding
-temperatures as low as 10°C in late flowering without significant damage.
-
-Flowering time is 8–9 weeks indoors, with outdoor harvest in late September
-to early October in the Northern Hemisphere. Yields are above average:
-400–500 g/m² indoors and 500–700 g per plant outdoors.
-
-The strain is naturally resistant to mold and pests, making it suitable
-for outdoor cultivation in temperate and cooler climates. It responds
-well to topping and LST but can become unwieldy indoors without height
-management.
-
-## See Also
-
-[[blue-dream]], [[cannabis-indoor-growing-basics]],
-[[green-crack]], [[super-lemon-haze]]
-for comparison with other sativa-dominant and landrace-influenced strains.

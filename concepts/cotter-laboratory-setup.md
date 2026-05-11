@@ -1,5 +1,5 @@
 ---
-title: [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]] for mushroom-cultivation
+title: Cotter Laboratory Setup
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -8,7 +8,7 @@ sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Laboratory Setup for Mushroom Cultivation
 
-Setting up a home mushroom cultivation lab enables sterile tissue culture, spawn production, and strain isolation. According to Tradd Cotter's "Organic Mushroom Farming and Mycoremediation," virtually any enclosed space can function as a lab with proper preparation.
+Setting up a home mushroom cultivation lab enables sterile tissue culture, [[cotter-grain-spawn-production]], and strain isolation. According to Tradd Cotter's "[[norwegian-woodland-party-organic-mushroom-milieu]] Farming and Mycoremediation," virtually any enclosed space can function as a lab with proper preparation.
 
 ## Space Requirements
 
@@ -16,13 +16,13 @@ Any enclosed room works — a closet, partitioned room, or even a sanitized bath
 
 ## Essential Equipment
 
-- Pressure cooker or sterilizer (rated for 15 PSI; metal-to-metal seals preferred)
-- Laminar flow hood with HEPA filter
+- [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] or sterilizer (rated for 15 PSI; metal-to-metal seals preferred)
+- [[comparison-laminar-flow-hood-vs-fruiting-chamber]] with HEPA filter
 - Agar supplies (powdered agar, potatoes or malt extract)
 - Petri plates (glass reusable or disposable plastic)
 - Erlenmeyer flasks or wide-bottomed glass containers
 - Inoculation loops, scalpels, and dental picks
-- Alcohol lamp for flame sterilization
+- Alcohol lamp for [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
 - 70% isopropyl alcohol spray, nitrile or latex gloves, Parafilm or tape
 - Infrared temperature gauge (~$30 at hardware stores) and colored permanent markers
 
@@ -78,7 +78,7 @@ Label plates with date, recipe, and additives using color-coded markers. Seal cu
 
 ## Alternative Agar Bases
 
-Potato agar is difficult for bacteria to grow on, ideal for beginners. For picky species, substitute powdered brewer's malt, dog or rabbit food, tomato juice, cattle feed, cornmeal, or beet pulp. Adding a tablespoon of finely ground sawdust or wheat straw powder from the mushroom's preferred fruiting substrate can help cultures adapt. The [[mushroom-agar-media-recipes]] reference provides detailed formulations for many species.
+Potato agar is difficult for bacteria to grow on, ideal for beginners. For picky species, substitute powdered brewer's malt, dog or rabbit food, tomato juice, cattle feed, cornmeal, or beet pulp. Adding a tablespoon of finely ground sawdust or wheat straw powder from the mushroom's preferred [[pf-tek-maximum-fruiting-substrate-formula]] can help cultures adapt. The [[mushroom-agar-media-recipes]] reference provides detailed formulations for many species.
 
 ## Adding Antibiotics to Agar
 
@@ -88,13 +88,3 @@ Ampicillin and streptomycin limit bacterial contaminants. Sterile, injectable pe
 
 - Wipe down the entire laminar flow hood interior with 70% isopropyl alcohol before work
 - Wipe down all tools and gloves before beginning transfers
-- Leave the room and shut the door for at least one hour after sanitizing
-- Never open a contaminated plate near the laminar flow hood
-- Shower and put on clean clothes before lab work; hair is a major contamination source
-- Work slowly and deliberately — rushing causes more contamination than any other factor
-
-The primary contamination vector is airborne spores, addressed directly by the flow hood. Humans shed millions of particles per hour, so keep your face back from the work area. Flame-sterilize scalpels and loops between every transfer, and always pressure-cook media at 15 PSI for at least 20 minutes.
-
-## From Lab to [[spawn-production]]
-
-Once clean cultures are established on agar, the next step is transferring mycelium to grain for spawn production. The [[cotter-spawn-production]] method follows directly from these lab techniques: grain jars are sterilized in the same pressure cooker, inoculated under the same flow hood, and incubated until fully colonized. The [[mycoremediation]] applications that Cotter explores in his later chapters all depend on producing large volumes of clean spawn, which in turn depends on this laboratory foundation.

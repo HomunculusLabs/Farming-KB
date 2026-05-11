@@ -1,6 +1,6 @@
 ---
-title: fukuoka bushman scrabbling existence not natural Existence Is Not True Nature
-author: Masanobu Fukuoka
+title: Fukuoka Bushman Scrabbling Existence Not Natural
+author: [[masanobu-fukuoka]]
 source: The Road Back to Nature
 tags: [fukuoka, hunter-gatherer, bushmen, africa, ecology, natural-farming, ecological-balance, primitive-living]
 created: 2026-05-08
@@ -10,7 +10,7 @@ created: 2026-05-08
 
 ## Overview
 
-Masanobu Fukuoka used the example of the African Bushman to challenge the romantic notion that primitive peoples live in harmony with nature. While praising the Bushman's character and spirit, Fukuoka argued that the barren environment they inhabit is evidence not of natural abundance but of ecological collapse. True nature, he insisted, tends toward greater abundance — and the Bushman's environment of scarcity represents a fallen world.
+Masanobu Fukuoka used the example of the African Bushman to challenge the romantic notion that primitive peoples live in harmony with nature. While praising the Bushman's character and spirit, Fukuoka argued that the barren environment they inhabit is evidence not of [[gadd-saprotrophic-fungi-15n-13c-natural-abundance-isotopes]] but of ecological collapse. True nature, he insisted, tends toward greater abundance — and the Bushman's environment of scarcity represents a fallen world.
 
 ## The Television Programs
 
@@ -38,7 +38,7 @@ Fukuoka rejected the idea that the Bushman represented a window into pristine, p
 
 > "His seems to be a natural existence but is nothing of the sort. The nature in the background is just too poor. I would say in fact that this is an unnatural existence."
 
-He argued that if the Bushman truly led a primitive life in a functioning [[fukuoka-natural-ecosystem-food-chain-interconnection]], and if he practiced natural farming, "there would be a greater abundance of nature around." The current scarcity indicated that the [[fukuoka-ecological-balance-principles]] between the Bushmen, animals, and plants had been destroyed.
+He argued that if the Bushman truly led a primitive life in a functioning [[fukuoka-natural-ecosystem-food-chain-interconnection]], and if he practiced [[cho-loess-powder-in-natural-farming]], "there would be a greater abundance of nature around." The current scarcity indicated that the [[fukuoka-ecological-balance-principles]] between the Bushmen, animals, and plants had been destroyed.
 
 ## The Question of Causation
 
@@ -46,7 +46,7 @@ Fukuoka acknowledged uncertainty about what caused the destruction:
 
 > "To determine what or who caused this destruction will require closer investigation."
 
-However, his broader philosophical framework suggested that human activity — whether the Bushmen's own ancestors or external forces — had at some point disrupted the natural order, leading to the barren conditions observed today. This aligns with his general principle that wherever nature appears degraded, human interference is ultimately to blame.
+However, his broader philosophical framework suggested that human activity — whether the Bushmen's own ancestors or external forces — had at some point disrupted the [[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]], leading to the barren conditions observed today. This aligns with his general principle that wherever nature appears degraded, human interference is ultimately to blame.
 
 ## The Ideal Vision of Nature
 
@@ -87,31 +87,3 @@ This is distinct from:
 The goal is forward-looking: to know true nature and actively help it recover.
 
 ## The Acacia Tree as Model of Natural Abundance
-
-To illustrate what natural abundance looks like, Fukuoka pointed to the acacia tree:
-
-> "Not only does it enrich the soil each year, when its flowers bloom, it provides an almost infinite supply of pollen for the honey bees and it scatters an incredibly large number of seeds that surely appear wasteful but provide nourishment for the insects and birds."
-
-The acacia demonstrates nature's inherent tendency toward "thriving abundance" — it doesn't merely survive but actively enriches its environment. This is the standard against which the Bushman's barren landscape falls short.
-
-## Implications for Development Work
-
-Fukuoka's analysis has direct implications for how we think about development and conservation in Africa and elsewhere:
-
-1. **Preserving the status quo is not enough**: The Bushman's current environment is already degraded
-2. **Primitive does not equal natural**: Indigenous practices may not reflect ecological health
-3. **Revegetation is possible and necessary**: Nature can recover if given the chance
-4. **Food scarcity is not natural**: In a healthy ecosystem, food should be abundant
-5. **The goal is abundance, not survival**: We should aim for thriving ecosystems, not merely sustainable subsistence
-
-## Connection to Desert Revegetation
-
-This analysis connects directly to Fukuoka's broader work on desert revegetation. His travels in Africa and the Middle East, along with his seed ball experiments, were motivated by the conviction that even severely degraded environments could be restored to abundance. The Bushman's homeland, in his view, was a candidate for such restoration.
-
-## See Also
-
-- [[fukuoka-bushman-philosophy-great-spirit]] — The Bushman and the Great Spirit
-- [[fukuoka-bushman-world-ecological-balance]] — Ecological balance and the Bushman
-- [[fukuoka-road-back-desert-reclamation]] — [[fukuoka-desert-reclamation-projects]] methods
-- [[fukuoka-road-desert-revegetation-travels]] — Fukuoka's travels to arid regions
-- [[fukuoka-nature-perfect-imperfect-philosophical-perspective]] — Nature's fundamental perfection

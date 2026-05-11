@@ -32,7 +32,7 @@ regions of Europe and Asia.
 
 ## Taxonomy and Morphology
 
-**Classification:** Kingdom Fungi → Phylum Basidiomycota → Class Agaricomycetes
+**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] → Phylum Basidiomycota → Class Agaricomycetes
 → Order Hymenochaetales → Family Hymenochaetaceae → Genus *Phellinus* →
 *P. pomaceus*.
 
@@ -64,17 +64,17 @@ America, where it may be confused with similar *Phellinus* species.
 The fungus grows almost exclusively on dead or moribund branches and trunks of
 broadleaf trees. Primary hosts include stone fruits (*Prunus* spp.), apples
 (*Malus domestica*), pears (*Pyrus communis*), and occasionally oaks (*Quercus*
-spp.) and beech (*Fagus sylvatica*).
+spp.) and beech (*[[fagus-sylvatica]]*).
 
-Fruiting occurs on standing dead wood, broken branches, and exposed roots.
+Fruiting occurs on standing [[fungal-dead-wood-diversity]], broken branches, and exposed roots.
 Sporulation typically occurs from late summer through autumn, though perennial
 basidiocarps may persist and produce spores over multiple years.
 
 ## Pathogenicity and Plant Disease
 
-*P. pomaceus* is recognized as a significant pathogen of fruit trees in
+*P. pomaceus* is recognized as a significant pathogen of [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]]
 orchards across Europe. It colonizes through pruning wounds, frost cracks, and
-other bark injuries, establishing a slow-progressing white rot in the
+other bark injuries, establishing a slow-progressing [[brown-rot-and-white-rot-fungi-in-mycoremediation]] in the
 sapwood and heartwood.
 
 Infected trees show progressive branch dieback, reduced vigor, and premature
@@ -86,59 +86,5 @@ in a complex of canker and decay diseases. Management focuses on wound hygiene,
 removal of infected branches, and promotion of tree vigor through balanced
 nutrition.
 
-The economic impact on commercial fruit production is moderate but persistent,
+The economic impact on commercial [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] is moderate but persistent,
 as infections are chronic and difficult to eradicate once the fungus is
-established within the wood.
-
-## Bioactive Compounds
-
-Like other members of the Hymenochaetaceae, *P. pomaceus* produces a range of
-bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. Polysaccharides extracted from the fruiting
-body have demonstrated immunomodulatory activity in vitro, including
-stimulation of murine macrophage phagocytosis.
-
-Hispidin and its derivatives, characteristic phenolic compounds of the
-Hymenochaetaceae, are present in *P. pomaceus*. These compounds exhibit
-antioxidant and anti-inflammatory properties in cell-based assays.
-
-Preliminary screening has identified weak antibacterial activity against
-Gram-positive bacteria, though the compounds responsible have not been fully
-characterized. The bioactive profile of *P. pomaceus* is considerably less
-studied than that of closely related species like *P. linteus* and *P.
-igniarius*.
-
-## Ecological Role
-
-As a white-rot fungus, *P. pomaceus* plays a role in the decomposition of
-hardwood in temperate forest ecosystems. Its ability to degrade lignin
-contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and carbon mineralization in dead wood.
-
-The fungus serves as a microhabitat for invertebrates, including beetle larvae
-that bore into the woody basidiocarps. [[brassinosteroid-fungal-fruiting-body-morphology]] bodies on standing dead
-wood also provide perching and foraging substrate for birds.
-
-In forest pathology, *P. pomaceus* contributes to the natural pruning process
-by weakening and eventually breaking dead branches from living trees. This
-creates canopy gaps that influence understory light regimes and regeneration
-dynamics.
-
-## Related Species
-
-*Phellinus pomaceus* is part of the morphologically similar *P. pomaceus*
-species complex. It is most readily confused with *P. igniarius*, from which
-it differs by its smaller spores and association with fruit trees rather than
-willows and birches.
-
-Other similar species include *P. tuberculosus* (found on *Prunus* but with
-larger pores) and *P. torulosus* (a more robust species on oak). Molecular
-phylogenetic studies have revealed that the traditional circumscription of
-*Phellinus* is polyphyletic, with many species now reassigned to other genera
-within Hymenochaetaceae.
-
-## See Also
-
-- [[phellinus-linteus]]
-- [[inonotus-obliquus]]
-- [[fomes-fomentarius]]
-- [[coriolopsis-gallica]]
-- [[trametes-hirsuta]]

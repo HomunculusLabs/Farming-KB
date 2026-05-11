@@ -7,6 +7,7 @@ tags: [mycology, contamination, troubleshooting, mushroom-cultivation,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - troubleshooting-mushroom-contamination
   - trichoderma-forest-green-mold-guide
   - substrate-contamination

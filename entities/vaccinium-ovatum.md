@@ -66,7 +66,7 @@ The species occurs along the Pacific coast from southeastern Alaska and coastal 
 
 It extends into the Coast Ranges and western slopes of the Cascade and Sierra Nevada foothills, typically below 800 m elevation.
 
-Optimal habitat is the understory of coniferous and mixed evergreen forests, especially under *Pseudotsuga menziesii*, *Sequoia sempervirens*, and *Picea sitchensis*.
+Optimal habitat is the understory of coniferous and mixed evergreen forests, especially under *[[pseudotsuga-menziesii]]*, *[[sequoia-sempervirens]]*, and *[[picea-sitchensis]]*.
 
 It tolerates full sun along the coast but prefers partial to deep shade inland, where it can persist for decades as a stable understory dominant.
 
@@ -74,11 +74,11 @@ The species grows best on acidic (pH 4.5–6.0), well-drained, humus-rich soils 
 
 ## Edible and Culinary Use
 
-Evergreen huckleberries are among the most prized wild berries of the Pacific Northwest, with a complex sweet-tart flavor superior to commercial blueberries.
+Evergreen huckleberries are among the most prized [[berry-growing]] the Pacific Northwest, with a complex sweet-tart flavor superior to commercial blueberries.
 
 Berries are eaten fresh, dried, or processed into jams, pies, syrups, and beverages; they have historically been an important food for Indigenous peoples of the region.
 
-Nutritional analysis shows high anthocyanin content (primarily delphinidin and cyanidin glycosides), vitamin C, and antioxidants.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows high anthocyanin content (primarily delphinidin and cyanidin glycosides), vitamin C, and antioxidants.
 
 Berry harvest occurs from late July through October, with peak quality in September; individual bushes may produce 0.5–3 kg of fruit per year.
 
@@ -87,36 +87,3 @@ Commercial wild harvesting continues in parts of Oregon and California, with ber
 The berries freeze well and maintain flavor and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] for over a year in frozen storage.
 
 ## Cultivation and Permaculture Applications
-
-Propagation is primarily from seed (requiring cold stratification at 2–4°C for 90 days) or semi-hardwood cuttings taken in late summer.
-
-Established plants are extremely long-lived, with documented specimens exceeding 100 years in undisturbed forest sites.
-
-The species is slow to establish from seed (germination 30–60 days, seedlings reaching 15–30 cm in 2 years) but grows steadily once rooted.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], evergreen huckleberry serves as a productive, shade-tolerant understory shrub in food forest systems.
-
-It pairs well with *Rubus* species, *Sambucus*, and *Aronia* in multi-layered edible landscapes, occupying the shrub layer beneath fruit or nut trees.
-
-Its evergreen foliage provides year-round visual interest, making it popular in ornamental native plantings, hedgerows, and container cultivation.
-
-Plants tolerate moderate pruning and can be shaped as informal hedges; they also adapt well to container cultivation with acidic potting mixes.
-
-## Ecological Role
-
-The flowers provide early-season nectar and pollen for native bees, bumblebees, and hummingbirds, supporting pollinator populations in forest-edge habitats.
-
-Berries are consumed by numerous bird species including robins, thrushes, grouse, and band-tailed pigeons, as well as by black bears, coyotes, and foxes.
-
-The dense evergreen canopy provides year-round cover and nesting habitat for songbirds and small mammals.
-
-Like all *Vaccinium* species, it forms [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations essential for [[plant-nutrient-uptake-mechanisms]] in acidic, low-fertility soils.
-
-## See Also
-
-- [[vaccinium-myrtillus]]
-- vaccinium parvifolium
-- [[sambucus-nigra]]
-- [[morus-alba]]
-- rubus occidentalis
-- [[amelanchier-alnifolia]]

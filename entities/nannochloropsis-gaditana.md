@@ -87,26 +87,3 @@ The species can form dense blooms under conditions of high [[ph-and-nutrient-ava
 As a primary producer, *N. gaditana* contributes to marine [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]] and forms the base of short food chains supporting zooplankton, larval fish, and filter-feeding invertebrates in coastal ecosystems.
 
 ## Strain Improvement
-
-The *N. gaditana* genome (~29 Mb) was published in 2012, revealing a compact gene set with expanded families of lipid metabolism enzymes. This genomic resource has accelerated metabolic engineering efforts targeting enhanced EPA production.
-
-CRISPR-Cas9 genome editing has been successfully applied to knock out competing lipid pathways and overexpress key desaturase and elongase genes. Strains with EPA titers exceeding 4% of dry weight have been reported using targeted engineering.
-
-Adaptive laboratory evolution under high-light, high-salinity, and temperature stress has yielded strains with improved outdoor cultivation robustness. These domesticated lines show 15–30% higher biomass productivity in pilot-scale photobioreactors.
-
-## Related Species
-
-*Nannochloropsis oceanica* is the most extensively studied congener, with a fully sequenced genome and established transformation protocols. It produces EPA at levels comparable to *N. gaditana* and is widely used in commercial operations.
-
-*Nannochloropsis oculata* and *Nannochloropsis salina* are additional species in the genus with similar EPA-producing capabilities. *N. salina* is notably halotolerant, thriving in salinities up to 70 ppt.
-
-The genus was historically placed within the Eustigmatophyceae based on pigment analysis. Molecular phylogenetics has confirmed this placement and refined species boundaries, with several formerly ambiguous isolates now assigned to *N. gaditana* or *N. oceanica* based on 18S rRNA and ITS sequencing.
-
-## See Also
-
-- [[dunaliella-salina]]
-
-- [[arthrospira-platensis]]
-- [[glycine-max]]
-- aquaculture
-- [[cannabis-anti-inflammatory-applications]]

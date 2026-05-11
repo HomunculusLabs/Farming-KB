@@ -20,11 +20,11 @@ sources:
 
 Rosa canina, commonly known as dog rose, is a deciduous climbing shrub in the family Rosaceae. Native to Europe, northwest Africa, and western Asia, it is one of the most widespread and ecologically significant wild rose species. The plant is best known for its bright red hips, which are among the richest natural sources of vitamin C.
 
-Dog rose has been used medicinally for centuries, particularly in European folk traditions where rose hip preparations treat colds, digestive complaints, and joint inflammation. Modern clinical research has validated anti-inflammatory and antioxidant properties of rose hip extracts.
+Dog rose has been used medicinally for centuries, particularly in European folk traditions where rose hip preparations treat colds, digestive complaints, and joint inflammation. Modern [[hofmann-lsd-clinical-research-early-studies]] has validated anti-inflammatory and antioxidant properties of rose hip extracts.
 
-The species name "canina" (dog-like) was applied by Roman naturalists who believed the root could cure rabies. This etymology is historically incorrect but has persisted as the species' common name across European languages.
+The species name "canina" (dog-like) was applied by Roman naturalists who believed the root could cure rabies. This etymology is historically incorrect but has persisted as the species' common name across [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]].
 
-Rosa canina is a pioneer species colonizing hedgerows, forest edges, scrubland, and coastal dunes. Its vigorous growth and thorny habit make it an effective barrier plant and wildlife habitat in agroforestry and permaculture systems.
+Rosa canina is a pioneer species colonizing hedgerows, forest edges, scrubland, and coastal dunes. Its vigorous growth and thorny habit make it an effective barrier plant and [[hemenway-backyard-wildlife-habitat]] in agroforestry and permaculture systems.
 
 ## Taxonomy and Morphology
 
@@ -40,15 +40,15 @@ Rose hips are ellipsoid to ovoid, 1.5-2.5 cm long, turning bright red or orange-
 
 ## Distribution and Habitat
 
-Rosa canina is native to Europe, North Africa (Morocco, Algeria, Tunisia), and western Asia (Turkey, the Caucasus, Iran). It has been widely naturalized in temperate regions worldwide, including North America, South America, Australia, and New Zealand.
+Rosa canina is native to Europe, North Africa (Morocco, Algeria, Tunisia), and western Asia (Turkey, the Caucasus, Iran). It has been widely naturalized in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including North America, South America, Australia, and New Zealand.
 
 The species occurs across a broad ecological range, from sea level to 1,500 meters elevation. It thrives in hedgerows, woodland edges, scrub, coastal cliffs, and railway embankments. It tolerates both acidic and alkaline soils.
 
-Dog rose is a key component of European hedgerow flora, often co-occurring with hawthorn (Crataegus monogyna), blackthorn (Prunus spinosa), and hazel (Corylus avellana). These multi-species hedges provide critical habitat connectivity in agricultural landscapes.
+Dog rose is a key component of European hedgerow flora, often co-occurring with hawthorn ([[crataegus-monogyna]]), blackthorn ([[prunus-spinosa]]), and hazel ([[corylus-avellana]]). These multi-species hedges provide critical habitat connectivity in agricultural landscapes.
 
 The plant is shade-tolerant enough to establish at forest edges but flowers and fruits most prolifically in full sun. It regenerates vigorously after cutting, making it a resilient component of managed hedgerows.
 
-Root symbiosis with arbuscular mycorrhizal fungi (Glomus spp.) enhances phosphorus uptake and drought tolerance. Natural hybrids with other Rosa species are common, particularly with Rosa rubiginosa and Rosa arvensis.
+Root symbiosis with [[arbuscular-mycorrhizal-fungi]] (Glomus spp.) enhances phosphorus uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]. Natural hybrids with other Rosa species are common, particularly with Rosa rubiginosa and Rosa arvensis.
 
 ## Cultivation and Permaculture Applications
 
@@ -56,9 +56,9 @@ Rosa canina is propagated from seed (requiring warm stratification followed by 2
 
 In permaculture systems, dog rose serves multiple functions: as a wildlife hedge, soil stabilizer on slopes, livestock barrier, and edible fruit producer. The thorny canopy provides nesting sites for birds and shelter for small mammals.
 
-The plant is widely used in ecological restoration for hedgerow creation and riparian buffer establishment. Its deep root system (up to 2 meters) helps control soil erosion on banks and slopes. The leaf litter decomposes to form a humus-rich soil layer.
+The plant is widely used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] for hedgerow creation and riparian buffer establishment. Its deep root system (up to 2 meters) helps control soil erosion on banks and slopes. The leaf litter decomposes to form a humus-rich soil layer.
 
-Companion planting combinations include dog rose in mixed hedges with fruiting shrubs (Ribes, Rubus), nitrogen-fixing species (Caragana, Elaeagnus), and native woodland plants. The multi-layered structure supports diverse pollinator and bird communities.
+[[cervantes-companion-planting-pest-deterrent]] combinations include dog rose in mixed hedges with fruiting shrubs (Ribes, Rubus), nitrogen-fixing species (Caragana, Elaeagnus), and native woodland plants. The multi-layered structure supports diverse pollinator and bird communities.
 
 ## Nutritional and Chemical Profile
 
@@ -84,25 +84,6 @@ Clinical trials have demonstrated that a standardized rose hip powder (LitoZin) 
 
 Antioxidant activity is exceptional, with rose hip extracts showing potent radical scavenging in DPPH, ORAC, and FRAP assays. The combination of vitamin C, carotenoids, and flavonoids provides synergistic antioxidant protection.
 
-Immunomodulatory effects include enhancement of phagocytic activity and reduction of C-reactive protein levels. Topical applications of rose hip seed oil improve skin elasticity, reduce scarring, and alleviate dermatitis symptoms.
+Immunomodulatory effects include enhancement of phagocytic activity and reduction of C-reactive protein levels. [[cannabis-topical-applications]] of rose hip seed oil improve skin elasticity, reduce scarring, and alleviate dermatitis symptoms.
 
 ## Harvesting and Uses
-
-Rose hips are typically harvested in autumn after the first frost, which softens the fruit and may increase sugar content. Hips can be dried for tea, processed into jams and syrups, or cold-pressed for seed oil.
-
-The hairy seeds inside the hips are an irritant and must be removed before consumption. Traditional methods include straining cooked hips through cloth or using specialized seed-removal mills in commercial processing.
-
-Rose hip tea is the most common preparation, made by steeping 1-2 teaspoons of dried, chopped hips in boiling water for 10-15 minutes. The resulting infusion is rich in vitamin C and has a pleasant tart-sweet flavor.
-
-Culinary applications extend beyond tea to include rose hip jam, jelly, syrup, wine, and vinegar. In Scandinavian cuisine, rose hip soup (nyponsoppa) is a traditional winter dessert served with cream or ice cream. The petals are also edible and can be used to make rose water or infused honey.
-
-## See Also
-
-- [[prunus-spinosa]]
-- [[crataegus-monogyna]]
-- [[rubus-fruticosus]]
-- [[sambucus-nigra]]
-- [[cannabis-anti-inflammatory-applications]]
-- [[permaculture-plants-medicinal-herbs-healing]]
-- [[permaculture]]
-- [[pollinator-habitat]]

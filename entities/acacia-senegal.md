@@ -28,7 +28,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Brenan, J.P.M. (1983). "Manual on Taxonomy of Acacia Species." FAO, Rome.
-  - Maundu, P. & Tengnäs, B. (2005). "Useful Trees and Shrubs for Kenya." World Agroforestry Centre, Nairobi.
+  - Maundu, P. & Tengnäs, B. (2005). "Useful [[nitrogen-fixing-trees-and-shrubs]] for Kenya." World Agroforestry Centre, Nairobi.
   - Fagg, C.W. & Allison, G.E. (2004). "Acacia senegal and the gum arabic trade." ODI Forestry Programme, London.
   - Chikamai, B.N. & Odera, J.A. (2002). "Commercial prospects for gum arabic." In: "Proceedings of the Regional Conference on Gum Arabic," Khartoum.
   - Aronson, J. (2011). "Restoration of Arid and Semi-Arid Lands." Springer, Dordrecht.
@@ -75,7 +75,7 @@ Sustainability concerns have driven development of improved tapping and harvesti
 
 ## Ecological Role and Agroforestry
 
-As a nitrogen-fixing legume, A. senegal contributes significantly to soil fertility in marginal environments. Its association with rhizobial bacteria enables atmospheric nitrogen fixation, enriching soils for intercropped cereals such as millet and sorghum.
+As a nitrogen-fixing legume, A. senegal contributes significantly to soil fertility in marginal environments. Its association with rhizobial bacteria enables atmospheric [[biological-nitrogen-fixation-agriculture]], enriching soils for intercropped cereals such as millet and sorghum.
 
 The tree's extensive root system stabilizes soils and reduces wind erosion, making it a critical component of desertification control programs across the Sahel. Fallen leaves contribute [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil surface.
 
@@ -87,32 +87,4 @@ The species also serves as a windbreak, reduces sand encroachment, and provides 
 
 In traditional African medicine, various parts of A. senegal are used therapeutically. Gum arabic is consumed as a demulcent for sore throats, coughs, and gastrointestinal complaints. It is also used as a traditional remedy for diarrhea and dysentery.
 
-The bark is used in tanning leather and as an astringent. Decoctions of bark and roots are applied to wounds, skin infections, and inflammatory conditions. The leaves provide fodder for livestock, particularly during the dry season when other forage is scarce.
-
-Wood is used for fuel, [[mollison-designers-charcoal-production-biochar-soil-amendment]], and light construction. It produces a hot, clean-burning charcoal. The pods are eaten by livestock and occasionally by humans during famine periods.
-
-## Cultivation
-
-Propagation is primarily from seed, though direct sowing has variable success. Seed pretreatment — mechanical scarification or acid scarification — significantly improves germination rates from below 20% to above 80%.
-
-Seedlings are raised in nursery beds for 3–6 months before transplanting at the onset of rains. Spacing of 4 × 4 meters to 10 × 10 meters is typical, depending on the intended agroforestry configuration. Survival rates of 60–80% can be achieved with adequate [[fukuoka-weed-management-and-green-manure]].
-
-Tapping for gum begins when trees are 4–5 years old, with peak production at 15–20 years. Trees can remain productive for 25–30 years. Sustainable harvesting involves rotating tapping among trees and limiting the number and severity of incisions per season.
-
-## Related Species
-
-Acacia senegal is part of the A. senegal species complex, which includes several closely related taxa that were formerly treated as subspecies or varieties. These include A. senegal var. kerensis (East Africa), var. leiorhachis (Kenya/Tanzania), and var. rostrata (Sahel).
-
-Other African acacias that produce commercially significant gums include A. seyal (producing talha gum, a lower-grade alternative) and A. polyacantha. A. seyal is distinguished by its smooth, powdery bark and lack of recurved thorns.
-
-In agroforestry contexts, A. senegal is frequently compared to other multipurpose leguminous trees including Faidherbia albida, Prosopis glandulosa, and Leucaena leucocephala. Its advantage over these alternatives lies in its gum-producing capability and superior drought tolerance.
-
-## See Also
-
-- acacia senegal
-- fabaceae
-- [[agroforestry]]
-- sahel
-- gum arabic
-- [[azadirachta-indica]]
-- [[prosopis-glandulosa]]
+The bark is used in tanning leather and as an astringent. Decoctions of bark and roots are applied to wounds, skin infections, and [[cannabis-for-inflammatory-conditions]]. The leaves provide fodder for livestock, particularly during the dry season when other forage is scarce.

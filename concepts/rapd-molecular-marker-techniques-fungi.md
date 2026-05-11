@@ -8,7 +8,7 @@ sources: []
 ---
 # RAPD and Molecular Marker Techniques for Fungi
 Random Amplified Polymorphic DNA (RAPD) and related molecular marker techniques
-provide powerful tools for fungal taxonomy, [[aspergillus-fumigatus-population-genetics]], and diversity
+provide powerful tools for [[fungal-taxonomy]], [[aspergillus-fumigatus-population-genetics]], and diversity
 assessment. These PCR-based methods require no prior knowledge of DNA sequence
 and can generate genetic fingerprints from small amounts of tissue.
 ## Arbitrarily Primed PCR (apPCR/RAPD)
@@ -18,18 +18,18 @@ sequences in arbitrary locations throughout the genome. When complementary
 sequences are found in opposite orientation on separate strands, a
 double-stranded PCR product is generated.
 ### Applications of RAPD in Mycology
-- **Taxonomic discrimination**: distinguishing among fungal taxa with few
+- **Taxonomic discrimination**: distinguishing among [[undescribed-fungal-taxa]] with few
   morphological characters
-- **Population genetics**: assessing [[biodiversity-fungal-genetic-diversity]] within and between fungal
+- **[[fungal-species-recognition-population-genetics]]**: assessing [[biodiversity-fungal-genetic-diversity]] within and between fungal
   populations
 - **Strain identification**: differentiating among isolates of the same species
 - **Monitoring species**: tracking temporal and/or spatial patterns of fungal
   populations
 ### Advantages of RAPD
 - Requires no prior sequence knowledge of the target organism
-- Uses very small amounts of starting material (single spores or small tissue
+- Uses very small amounts of [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] (single spores or small tissue
   pieces)
-- Relatively rapid and inexpensive compared to DNA sequencing
+- Relatively rapid and inexpensive compared to [[environmental-dna-sequencing-fungi]]
 - Can accommodate large numbers of samples in a short period
 - Applicable to any organism without species-specific primer design
 ### Limitations of RAPD
@@ -76,7 +76,7 @@ efforts.
 ## Allozyme Analysis
 Allozyme analysis was the first widely used molecular technique for assessing
 fungal genetic diversity. It screens functional enzymes for differences in
-electrophoretic mobility due to amino acid substitutions. These reflect
+electrophoretic mobility due to [[cho-fish-amino-acid-preparation]] substitutions. These reflect
 mutations in genomic DNA. Limitations include the small number of detectable
 polymorphisms (only functional proteins are assessed) and the confounding
 influence of environmental conditions on gene expression.
@@ -88,22 +88,3 @@ Species-specific PCR primers can be designed from known DNA sequences to
 amplify 200-300 bp regions for genetic analysis (Erlich 1992). This approach
 enables rapid detection and identification of target species in environmental
 samples, quantitative assessment through real-time PCR (qPCR), and monitoring
-of specific [[bloomfield-fungal-pathogens-and-parasites]] or [[singh-entomopathogenic-fungi-biocontrol-agents]] in field settings.
-Multiplex PCR assays can simultaneously detect multiple fungal species in a
-single reaction, providing efficient screening for disease complexes. Digital
-PCR (dPCR) offers absolute quantification without the need for standard
-curves, useful for monitoring low-abundance pathogens in environmental samples.
-## Choosing a Molecular Method
-The choice of method depends on the research question:
-- **Species identification**: ITS sequencing is the gold standard
-- **Population genetics**: RAPD, AFLP, or microsatellites
-- **Phylogenetics**: multi-gene DNA sequencing
-- **Rapid screening**: RAPD or species-specific PCR
-- **Environmental detection**: qPCR or metabarcoding
-- **Strain typing in outbreaks**: microsatellites or whole-genome sequencing
-## See Also
-- [[fungal-dna-barcoding]]
-- [[fungal-metagenomics]]
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[permanent-marker]]

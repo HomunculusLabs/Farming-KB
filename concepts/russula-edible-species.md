@@ -88,19 +88,3 @@ Russula mushrooms do not have the intense umami flavor of porcini or the complex
 
 - [[russula-olivacea]]
 - [[russula-integra]]
-- [[russula-ochroleuca]]
-
-- [[suillus-edible-species]]
-
-- [[bolete-mushrooms-ecology-edibility]]
-
-- edible-wild-mushroom-guide
-
-## Related
-
-- [[mycorrhizal-fungi]]
-
-- [[fungal-poisons-and-toxicology]]
-
-## Merged: Mushroom Fruiting Seasons Guide
-The seasonal timing of mushroom fruiting is governed primarily by temperature, rainfall, and humidity patterns. Different mushroom species have evolved to fruit at specific times of year when environmental conditions are most favorable for spore production and dispersal. See [[oyster-mushroom-species-variety]] include several that fruit during cooler spring weather. See edible-wild-mushroom-guide, [[chanterelle-guide]], [[amanita-genus-morphology]] species from other genera. White spore prints are found in [[growing-gourmet-tree-species-guide-mushroom-cultivation]], Russula, [[mushroom-spore-printing-and-storage]] and Volvariella. Related: [[mushroom-contaminant-identification-key]], [[psilocybe-cubensis-potency-variation-by-flush]], [[agaricus-species-guide]]

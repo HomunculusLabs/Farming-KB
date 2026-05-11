@@ -1,11 +1,11 @@
 ---
-title: Phosphorylation Methods for gottlieb-psilocybin-production-extraction-methods Comparative Review
+title: Phosphorylation Methods Psilocybin Production Comparison
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
-topic: tryptamine_chemistry
+topic: [[tryptamine]]_chemistry
 related:
-  - zwitterionic-phosphate-intermediate-psilocybin-synthesis.md
-  - four-hydroxyindole-psilocin-synthesis-route-shirota.md
-  - acetyl-protection-route-psilocin-psilocybin-synthesis.md
+  - [[zwitterionic-phosphate-intermediate-psilocybin-synthesis]].md
+  - [[four-hydroxyindole-psilocin-synthesis-route-shirota]].md
+  - [[acetyl-protection-route-psilocin-psilocybin-synthesis]].md
 created: 2026-05-09
 ---
 
@@ -28,7 +28,7 @@ large-scale production.
 Psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine, meaning the
 phosphate ester is attached to the phenolic oxygen at the 4-position
 of the indole ring. The molecule also contains a tertiary
-dimethylamine on the side chain. Both the phenol and the amine are
+dimethylamine on the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. Both the phenol and the amine are
 nucleophilic sites that can potentially react with phosphorylating
 agents, creating a selectivity problem.
 
@@ -88,62 +88,3 @@ It requires specialized resin, careful pH control, and produces
 large volumes of aqueous waste. For gram-scale production, these
 requirements become prohibitive. Shirota's route avoids this
 entirely by exploiting the zwitterionic precipitation of
-intermediate 8.
-
-## Yield Comparison Across Methods
-
-| Method | Yield (psilocybin) | Purification |
-|--------|-------------------|--------------|
-| Troxler 1959 | ~20% | Chromatography |
-| Hofmann 1959 | ~20% | Chromatography |
-| Nichols/Frescas | 47% | Anion-exchange |
-| Shirota 2003 | >72% | Filtration only |
-
-The improvement from 20-47% to greater than 72% represents a
-substantial advance. The elimination of chromatographic or
-ion-exchange purification is equally significant, as it reduces
-both the time and the cost of production by orders of magnitude.
-
-## Psilocybin Spectroscopic Data
-
-The final product from Shirota's route shows: mp 190-198°C (lit.
-185-195°C, 210-212°C). The 1H NMR (D2O, 400 MHz) shows the
-characteristic pattern: δ 7.22 (1H, d, J = 7.6 Hz, H-7), 7.18
-(1H, s, H-2), 7.13 (1H, t, J = 7.6 Hz, H-6), 6.98 (1H, d, J =
-7.6 Hz, H-5), 3.44 (2H, t, J = 7.2 Hz, H2-2'), 3.28 (2H, t, J =
-7.2 Hz, H2-1'), 2.86 (6H, s, NMe2).
-
-The 31P NMR (CD3OD, 162 MHz) shows δ -4.48, confirming the
-phosphate moiety. The HRESIMS gives m/z 285.0991 [M+H]+ (calcd
-for C12H18N2O4P, 285.1004), confirming the molecular formula.
-
-## Regulatory Context
-
-Shirota notes that "since June 6, 2002, fungi containing psilocin
-and psilocybin have been regulated by the Narcotics and
-Psychotropic Control Law in Japan." The identification of magic
-mushrooms "using morphologic and microscopic analyses is quite
-difficult without experts," so chromatographic methods including
-TLC, GC, and HPLC are "usually employed." For these analyses,
-pure standard compounds are always needed, creating ongoing demand
-for reliable synthetic routes to [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]].
-
-The synthesis described addresses this need directly, providing
-a practical method for producing analytical standards in the
-quantities required by forensic and regulatory laboratories.
-The chromatography-free nature of the route makes it particularly
-suited to laboratories that may not have access to advanced
-purification equipment.
-
-## Legacy and Influence
-
-Shirota's route has become the standard reference for practical
-[[psilocin-psilocybin-synthesis-shirota]] in the research literature. Its combination
-of high yield, chromatography-free purification, and commercially
-available starting materials set a benchmark that subsequent
-synthetic efforts have sought to match. The zwitterionic
-## See Also
-
-- [[psilocybin-phosphorylation-via-zwitterionic-intermediate]]
-- [[phosphorylation-of-tryptamines]]
-- [[zwitterionic-intermediates-tryptamine-phosphorylation]]

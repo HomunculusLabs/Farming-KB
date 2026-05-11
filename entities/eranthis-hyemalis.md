@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-Eranthis hyemalis, commonly known as winter aconite, is a low-growing perennial tuberous plant in the family Ranunculaceae. It is one of the earliest flowering plants in temperate regions, often blooming through snow in January and February.
+Eranthis hyemalis, commonly known as winter aconite, is a low-growing perennial tuberous plant in the family Ranunculaceae. It is one of the earliest flowering plants in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], often blooming through snow in January and February.
 
-The species produces cheerful yellow cup-shaped flowers above a ruff of bright green leafy bracts. It is native to southern Europe from France to Bulgaria and has become widely naturalized across northern Europe and North America.
+The species produces cheerful yellow cup-shaped flowers above a ruff of bright green leafy bracts. It is native to southern Europe from France to Bulgaria and has become widely naturalized across northern Europe and [[guzman-psilocybin-mushrooms-north-america]].
 
 All parts contain cardiac glycosides similar to those found in hellebores, making the plant toxic if ingested. Despite this, it is extensively planted in gardens for its valuable late-winter color.
 
@@ -28,7 +28,7 @@ The genus name Eranthis derives from the Greek "er" (spring) and "anthos" (flowe
 
 Eranthis hyemalis is a member of the tribe Caltheae within Ranunculaceae. It is most closely related to the genus Caltha (marsh marigolds) based on molecular evidence.
 
-The species is sometimes called "winter wolf's bane" in older herbals, though this name is now largely disused. It has no relationship to the true wolfsbane (Aconitum lycoctonum).
+The species is sometimes called "winter wolf's bane" in older herbals, though this name is now largely disused. It has no relationship to the true wolfsbane ([[aconitum-lycoctonum]]).
 
 ## Taxonomy
 
@@ -40,7 +40,7 @@ Chromosome number is 2n = 16. Phylogenetic analyses support placement of Eranthi
 
 The genus shows an interesting disjunct distribution, with species in Europe (E. hyemalis), eastern Asia (E. cilicica, E. lobulata), and North America (E. hymenocalyx). This pattern reflects ancient vicariance events.
 
-Eranthis hyemalis is sometimes confused with Eranthis cilicica from Turkey, which has larger flowers and more deeply divided bracts. The two species hybridize readily in cultivation.
+Eranthis hyemalis is sometimes confused with [[eranthis-cilicica]] from Turkey, which has larger flowers and more deeply divided bracts. The two species hybridize readily in cultivation.
 
 ## Morphology
 
@@ -66,7 +66,7 @@ Eranthis hyemalis is native to southern and central Europe, from eastern France 
 
 The species is widely naturalized across northern Europe, particularly in the United Kingdom, Netherlands, and Germany. Naturalized populations persist around old estates, churchyards, and parkland.
 
-It has also naturalized in parts of eastern North America. In all naturalized regions, it spreads slowly by seed in suitable woodland habitats.
+It has also naturalized in parts of [[polypore-fungi-eastern-north-america]]. In all naturalized regions, it spreads slowly by seed in suitable woodland habitats.
 
 The plant grows in dappled shade beneath deciduous trees, completing its growth cycle before the tree canopy closes in late spring. It prefers moist, humus-rich, alkaline soils.
 
@@ -82,39 +82,8 @@ Planting is done from dried tubers in late summer or early autumn. Tubers should
 
 Once established, the plant spreads by self-seeding to form extensive colonies. It can become a spectacular ground cover in suitable sites, carpeting woodland floors with gold in late winter.
 
-The species associates beautifully with snowdrops (Galanthus nivalis), crocuses, and early iris species. This combination creates the classic "late winter bulb garden" effect.
+The species associates beautifully with snowdrops ([[galanthus-nivalis]]), crocuses, and early iris species. This combination creates the classic "late winter bulb garden" effect.
 
 Winter aconite is one of the first nectar sources available to early-emerging bees and flies. Honeybees actively forage on the flowers during warm winter days when few other plants are in bloom.
 
 Notable cultivars include 'Flore Pleno' with double flowers and 'Guinea Gold' with bronze-tinted bracts. The species is hardy to USDA zones 3–7 and RHS hardiness rating H7.
-
-No significant pests or diseases trouble this species in cultivation. Slugs may damage emerging foliage in wet springs but rarely cause serious harm.
-
-## Toxicity
-
-Like many Ranunculaceae, Eranthis hyemalis contains toxic compounds including ranunculin and cardiac glycosides. The tubers are the most toxic part, containing the highest concentration of these compounds.
-
-Ingestion causes nausea, vomiting, and abdominal pain. Severe poisoning can produce cardiac arrhythmias, though cases are rare due to the plant's small size and bitter taste.
-
-Handling the tubers may cause skin irritation in sensitive individuals. Gardeners should wear gloves when planting or dividing the small, easily bruised tubers.
-
-Despite the toxicity, winter aconite has been used in traditional European folk medicine in minute doses. Historical applications included treatment of gout and dropsy, though such uses are now obsolete.
-
-The toxic properties serve as an effective defense against herbivory. Deer, rabbits, and voles consistently avoid both the foliage and tubers.
-
-Eranthis hyemalis is frequently used as a model species in studies of plant phenology under climate change. Its extremely early flowering makes it a sensitive indicator of warming trends in temperate regions.
-
-Records from the UK Phenology Network show that flowering has advanced by approximately three weeks since the 1950s. This shift parallels warming trends in late winter temperatures across western Europe.
-
-## See Also
-
-- [[helleborus-niger]]
-- [[galanthus-nivalis]]
-- [[caltha-palustris]]
-- [[colchicum-autumnale]]
-- [[narcissus-pseudonarcissus]]
-- [[crocus-sativus]]
-- [[aconitum-napellus]]
-- [[anemone-nemorosa]]
-- [[digitalis-purpurea]]
-- [[convallaria-majalis]]

@@ -16,11 +16,11 @@ The mechanism operates as follows:
 
 1. **Statolith settling**: In specialised cells called columella cells (in root caps) or endodermal cells (in shoots), dense amyloplasts sediment to the lowest point of the cell under gravity. These starch grains are 1.5-3 times denser than the surrounding cytoplasm.
 
-2. **Signal detection**: The settling of statoliths against the lower cell wall or endoplasmic reticulum triggers a chain of biochemical events. The leading theory is that the pressure of statoliths on membrane-bound structures (possibly mechanosensitive ion channels or the endoplasmic reticulum) initiates a signal transduction cascade.
+2. **Signal detection**: The settling of statoliths against the lower cell wall or endoplasmic reticulum triggers a chain of biochemical events. The leading theory is that the pressure of statoliths on membrane-bound structures (possibly mechanosensitive ion channels or the endoplasmic reticulum) initiates a [[fungal-environmental-sensing-signal-transduction]] cascade.
 
 3. **Asymmetric auxin distribution**: The signal from the statoliths leads to a redistribution of the plant [[plant-memory-and-spatial-awareness]] hormone auxin (indole-3-acetic acid, IAA). In roots, auxin accumulates on the lower side; in shoots, auxin also accumulates on the lower side but produces the opposite growth effect.
 
-4. **Differential cell elongation**: Auxin inhibits cell elongation in roots but promotes it in shoots. Therefore:
+4. **Differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]**: Auxin inhibits cell elongation in roots but promotes it in shoots. Therefore:
    - **Roots**: Cells on the lower side elongate less (or the upper side elongate more), causing the root to bend downward.
    - **Shoots**: Cells on the lower side elongate more, causing the shoot to bend upward.
 
@@ -30,7 +30,7 @@ This counterintuitive finding—that the same hormone (auxin) accumulating on th
 
 ### Starchless Mutants
 
-Strong genetic evidence comes from starchless mutants of Arabidopsis thaliana. Plants engineered to lack the enzyme ADP-glucose pyrophosphorylase (required for starch synthesis) produce amyloplasts without starch. These "starchless" plants show significantly reduced gravitropic sensitivity, particularly in their roots. When starch synthesis is partially restored, gravitropic responsiveness returns proportionally.
+Strong genetic evidence comes from starchless mutants of [[arabidopsis-thaliana]]. Plants engineered to lack the enzyme ADP-glucose pyrophosphorylase (required for starch synthesis) produce amyloplasts without starch. These "starchless" plants show significantly reduced gravitropic sensitivity, particularly in their roots. When starch synthesis is partially restored, gravitropic responsiveness returns proportionally.
 
 However, starchless mutants are not completely insensitive to gravity, suggesting that either non-starch components of amyloplasts (such as proteins or lipids) contribute to their density, or that alternative gravity-sensing mechanisms exist alongside the statolith system.
 
@@ -40,7 +40,7 @@ When plants are placed in a centrifuge, they orient their growth in the directio
 
 ### Clinostat Experiments
 
-Plants grown on a clinostat (a slowly rotating device that cancels the directional effect of gravity by constantly changing the plant's orientation) fail to show normal gravitropic responses. However, they still grow, just without orientation to gravity—roots and shoots grow in random directions. This shows that while gravity sensing can be disrupted, it is not essential for cell division or basic growth.
+Plants grown on a clinostat (a slowly rotating device that cancels the directional effect of gravity by constantly changing the plant's orientation) fail to show normal [[fungal-tropisms-and-gravitropic-responses]]. However, they still grow, just without orientation to gravity—roots and shoots grow in random directions. This shows that while gravity sensing can be disrupted, it is not essential for cell division or basic growth.
 
 ## The Auxin Redistribution Pathway
 
@@ -87,35 +87,3 @@ Gravitropism does not operate in isolation. Plants constantly integrate multiple
 The integration of these multiple signals allows plants to optimise their orientation in complex natural environments.
 
 ## Time-Scale of Gravitropic Response
-
-The gravitropic response is remarkably fast:
-
-- **Seconds**: Statoliths begin settling immediately after reorientation.
-- **Minutes**: Auxin redistribution is detectable within 2-5 minutes.
-- **10-30 minutes**: Differential cell elongation begins, and visible curvature starts.
-- **Hours**: Full reorientation is typically completed within 2-12 hours depending on species, temperature, and conditions.
-
-## Gravitropism and Space Biology
-
-The study of gravitropism has taken on new significance with space exploration. Plants grown in microgravity (on the International Space Station) show disoriented growth patterns, confirming the centrality of gravity sensing in normal plant development. Understanding how plants grow without gravity is essential for long-duration space missions and potential extraterrestrial agriculture.
-
-Experiments have shown that while plants cannot sense gravity in microgravity, they can still sense light and mechanical stimulation. Plants grown in space with appropriate lighting can develop relatively normally, but root orientation is random without gravitational cues. Interestingly, scientists have used centrifuges in space to provide artificial gravity, and plants grown under these conditions orient normally—demonstrating that the system responds to any acceleration force, not specifically to Earth's gravity.
-
-## Practical Applications
-
-Understanding gravitropism has practical agricultural applications:
-
-- **Transplanting**: Minimising root disturbance during transplanting preserves the root cap and gravitropic sensitivity.
-- **Trellising and pruning**: Training vines and fruit trees works with or against natural gravitropic tendencies.
-- **Bedding plant production**: Commercial growers manipulate gravitropism by gradually tilting plants to produce stronger, straighter stems.
-- **Root architecture**: Breeding programs can select for gravitropic response characteristics that optimise root distribution for specific soil conditions.
-
-## See Also
-
-- [[plant-vision-and-light-perception]]
-- [[plant-mechanosensation-and-touch-response]]
-- [[photoperiodism:-flowering-time-measurement]]
-
-## Source
-
-- Chamovitz, D. (2012). *What a Plant Knows: A Field Guide to the Senses of Your Garden — and Beyond*. Oneworld Publications.

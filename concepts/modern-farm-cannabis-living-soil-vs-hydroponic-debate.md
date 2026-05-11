@@ -88,35 +88,3 @@ This suggests that using ruminant milk in LAB fermentation is critical for hexan
 ## Cannabinoid Biosynthesis Context
 
 Cannabinoids are terpenophenolic compounds (part terpene, part phenol group). The biosynthetic pathway:
-
-1. Olivetolic acid production (stimulated by UV-B light exposure increases olivetolic acid)
-2. Geranyl pyrophosphate (GPP) from the MEP pathway (plastidial isoprenoid pathway)
-3. Condensation via CBGAS (cannabigerolic acid synthase) to form CBGA
-4. Subsequent conversion by THCAS, CBDAS, etc. to specific acidic cannabinoids
-5. Acidic cannabinoids are found in fresh material with carboxyl (-COOH) group
-6. Decarboxylation (curing, heating) removes -COOH to produce neutral cannabinoids (THC, CBD)
-7. Terpene biosynthesis runs in parallel, sharing the GPP precursor
-
-The hexanoate hypothesis targets olivetolic acid production specifically, proposing that exogenous hexanoate increases the supply of hexanoyl-CoA, thereby potentially lifting a bottleneck in overall cannabinoid yield.
-
-## Living Soil vs Hydroponic Implications
-
-This hypothesis provides a potential mechanistic basis for widely reported differences between living-soil and [[hydroponic-cannabis]]:
-
-- Living soil systems contain diverse microbial communities including LAB species
-- These microbes produce fatty acids and other metabolites that may feed biosynthetic pathways
-- Hydroponic systems lack this microbial input unless deliberately inoculated
-- The observed increases in trichome-to-calyx ratio and terpene production with LAB application may reflect enhanced precursor availability
-- The terpenophenolic nature of cannabinoids means terpene and cannabinoid biosynthesis are linked
-- Enhanced precursor supply could boost both pathways simultaneously
-
-## Limitations and Open Questions
-
-- The hexanoate hypothesis remains untested under controlled experimental conditions
-- LAB serum is a complex mixture; other metabolites beyond hexanoate may contribute
-- The relative importance of defense priming vs direct precursor supply is unclear
-- Dose-response relationships for hexanoate application to cannabis have not been established
-- Whether CsAAE1 activity is actually substrate-limited in vivo is unknown
-- Hydroponic systems can be inoculated with microbes, potentially narrowing the gap
-- Alternative hexanoate sources (coconut oil, palm kernel oil) have not been tested
-- The interaction between LAB application and other soil microbial communities is unexplored

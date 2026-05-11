@@ -1,5 +1,5 @@
 ---
-title: THC Therapeutic Profile
+title: Cannabis Thc Therapeutic Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,14 +9,14 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # THC Therapeutic Profile
 
-Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of therapeutic [[four-prime-cannabinoids-comparative-profile]] effects alongside its psychoactive properties.
+Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in cannabis and the most studied cannabinoid. It binds directly to CB1 and CB2 receptors, producing a wide range of [[cbd-therapeutic-effects]] alongside its psychoactive properties.
 
 ## Key Therapeutic Effects
 
 ### Analgesic (Pain Relief)
 - CB1 activation in pain pathways reduces pain signaling
 - Effective for neuropathic, inflammatory, and nociceptive pain
-- Opioid-sparing: reduces opioid requirements in chronic pain patients
+- Opioid-sparing: reduces opioid requirements in [[cannabis-chronic-pain-management]] patients
 
 ### Antiemetic (Anti-Nausea/Vomiting)
 - Strongest evidence for chemotherapy-induced nausea
@@ -29,7 +29,7 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 - Useful for cachexia in cancer, eating disorders
 
 ### Muscle Relaxant
-- Reduces spasticity in multiple sclerosis
+- Reduces spasticity in [[blesching-cannabis-multiple-sclerosis]]
 - Useful for muscle spasms, cramps, tremor
 - THC:CBD 1:1 ratio (Sativex) is most studied formulation
 
@@ -46,7 +46,7 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 
 ### Desired Effects (at therapeutic doses)
 - Euphoria, relaxation, altered time perception
-- Enhanced sensory perception (music, food, art)
+- Enhanced [[plant-sensory-perception]] (music, food, art)
 - Reduced anxiety (low doses only)
 - Creative thinking, introspection
 
@@ -73,3 +73,20 @@ Delta-9-tetrahydrocannabinol (THC) is the primary psychoactive compound in canna
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-for-chronic-pain]] — for pain applications
 - [[cannabis-for-cancer-patients]] — for antiemetic/appetite applications
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]
+- [[cannabis-cbd-therapeutic-profile]]
+- [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
+- [[cannabis-terpene-profile]]
+- [[cannabis-thc-acetate-preparation]]

@@ -16,7 +16,7 @@ type: concept
 Brugmansia is a genus of arborescent plants closely related to Datura,
 belonging to the Solanaceae (Nightshade Family). In *Plants of the
 Gods*, Schultes, Hofmann, and Ratsch document the genus as one of the
-most important hallucinogenic plants of South America, where several
+most important hallucinogenic plants of [[guzman-psilocybin-mushrooms-south-america]], where several
 species have been used as hallucinogens for millennia. Known by many
 names — Borrachero, Campanula, Floripondio, Huanto, Haucacachu,
 Maicoa, Toe, Tongo — Brugmansia species are suspected to be all
@@ -47,7 +47,7 @@ about 12 by 9 mm.
 
 ### Other Species
 
-Brugmansia suaveolens and B. insignis occur in warmer parts of South
+[[brugmansia-suaveolens]] and B. insignis occur in warmer parts of South
 America, especially in western Amazonia, where they are employed alone
 or mixed with other plants, usually under the name Toe. Most species
 prefer cool, wet highlands above 6,000 feet (1,830 m). The Golden
@@ -58,7 +58,7 @@ Angel's Trumpet (B. aurea) has both yellow and white flower forms.
 All species of Brugmansia contain potent hallucinogenic tropane
 alkaloids. The entire plant contains these alkaloids, with the highest
 concentrations typically found in seeds and flowers. B. sanguinea
-flowers contain essentially atropine and only traces of scopolamine
+flowers contain essentially [[atropine]] and only traces of [[scopolamine]]
 (hyoscine). In the seeds approximately 0.17% total alkaloids are
 present; of those, 78% are scopolamine. In addition to their use as
 hallucinogens, all species have played major roles as medicines for
@@ -88,42 +88,3 @@ analgesic properties, derived from tropane alkaloids, made them
 valuable treatments for rheumatic pains, asthma, and other conditions.
 The book notes that all species served as important elements in the
 ethnopharmacopoeia of Andean and Amazonian peoples.
-
-## Ayahuasca Additives
-
-Brunfelsia species (also Solanaceae) serve as Ayahuasca additives,
-demonstrating the interconnected use of Nightshade family plants in
-Amazonian medicine. Scopoletine has been found in Brunfelsia, though
-this compound is not known to be psychoactive. This practice of adding
-tropane-containing plants to Ayahuasca brews creates complex
-between the beta-carboline MAO inhibitors of Banisteriopsis and the
-tropane alkaloids of the additives.
-
-## Toxicity and Dangers
-
-Brugmansia species are extremely toxic. The tropane alkaloids they
-contain can cause potentially fatal poisoning. Symptoms of overdose
-include dry mouth, dilated pupils, tachycardia, hallucinations,
-delirium, and respiratory failure. The difference between a
-therapeutic, psychoactive, and lethal dose is narrow. Despite these
-dangers, indigenous South American cultures developed sophisticated
-methods for using these plants safely in ritual contexts, with
-knowledge passed down through generations of shamans and healers.
-
-## Modern Horticultural Popularity
-
-Many Brugmansia species are widely cultivated as ornamental plants in
-tropical and subtropical gardens worldwide, prized for their large,
-fragrant, trumpet-shaped flowers. This horticultural popularity
-exists alongside awareness of their toxicity, creating a paradox
-where one of the most powerful traditional hallucinogens is also a
-common garden plant. In the horticultural literature, B. aurea has
-frequently been misidentified as Brugmansia (or Datura) arborea,
-which is in reality a much less common plant.
-
-## Related Topics
-
-- [[solanaceous-hallucinogens-pharmacology]] - pharmacology
-- [[plants-of-the-gods-nightshade-hexing-herbs]] - related Nightshades
-- [[datura-stramonium]] - Jimsonweed profile
-- [[hallucinogenic-plants-history-ethnobotany]] - general survey

@@ -37,7 +37,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 - Spores germinate as amoebae or amoeboflagellates
 - Many species produce both flagellated and non-flagellated trophic cells
 
-**Distribution**: Probably ubiquitous. Collected from subarctic North America, temperate and desert North America, Caribbean, Brazil, Melanesia, Micronesia, Polynesia, Japan, Southeast Asia, England, Africa. Most species appear cosmopolitan; endemism likely does not exist.
+**Distribution**: Probably ubiquitous. Collected from subarctic [[guzman-psilocybin-mushrooms-north-america]], temperate and desert North America, Caribbean, Brazil, Melanesia, Micronesia, Polynesia, Japan, Southeast Asia, England, Africa. Most species appear cosmopolitan; endemism likely does not exist.
 
 **Habitat preferences**:
 - Dead aerial plant parts (stems, leaves, inflorescences)
@@ -50,7 +50,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Microhabitat specificity**: Species assemblages differ more between microhabitats than between habitats. Litter assemblages from grasslands are similar to those from forests. In tropical rainforests (Puerto Rico), the distinction between litter and aerial microhabitats is less pronounced.
 
 **Sampling predictions**:
-- Temperate/boreal forests: 50,000-ha plot may contain most known species
+- Temperate/[[biodiversity-fungi-temperate-boreal-forests]]: 50,000-ha plot may contain most known species
 - Hawaiian forest sites (few hectares each) have yielded 80%+ of described species in <40 collections
 - Temperate grasslands: most species except bark/rotting wood specialists
 - Arid/desert ecosystems: fewer species, mostly litter and bark inhabitants
@@ -76,15 +76,15 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 **Fruiting body types**:
 - **Sporangium**: Small, discrete structure (most common)
 - **Plasmodiocarp**: Elongated, wormlike, netted
-- **Aethalium**: Massive, mound-shaped (Fuligo septica can exceed 20 cm across)
+- **Aethalium**: Massive, mound-shaped ([[fuligo-septica]] can exceed 20 cm across)
 - **Pseudoaethalium**: Clustered sporangia appearing as a single mass
 
 **Distribution**: Most species are cosmopolitan. Some tropical, some temperate, some habitat-restricted (e.g., Barbeyella minutissima in montane spruce-fir forests). Erionema aureum is common in Old World but absent from New World.
 
 **Biogeographic patterns**:
 - Greatest known diversity from temperate forests (reflects collector activity)
-- Tropical forests may have fewer species; fruiting bodies may disappear faster due to rainfall and myxomyceticolous fungi
-- ~250 species estimated for 50,000-ha temperate deciduous forest plot (80% of eastern North American species)
+- [[fungal-biodiversity-tropical-forests]] may have fewer species; fruiting bodies may disappear faster due to rainfall and myxomyceticolous fungi
+- ~250 species estimated for 50,000-ha temperate deciduous forest plot (80% of [[polypore-fungi-eastern-north-america]] American species)
 - Montane spruce-fir forests support distinctive assemblages with restricted species
 
 **Major collections**: US National Fungus Collections (50,000-60,000 specimens), New York Botanical Garden, Academy of Natural Sciences Philadelphia, Fairmont State College, University of Florida
@@ -141,7 +141,7 @@ Mycetozoans are found worldwide in terrestrial habitats. Despite their name ("an
 ### Moist Chamber Technique
 - Standard method for most mycetozoans
 - Substrata placed in Petri dishes on moistened paper or agar
-- Incubated at ambient temperature; examined periodically over several weeks
+- Incubated at [[jadam-ambient-temperature-principle]]; examined periodically over several weeks
 - Works for all groups, especially larger myxomycetes that won't fruit in harsh field conditions
 
 ### Field Collection

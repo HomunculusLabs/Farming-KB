@@ -1,6 +1,6 @@
 ---
 title: Psilocybin and psilocybin-psilocin-chemistry-and-pharmacology-emcdda
-source: raw/papers/carolina-mushrooms_08qxp.md
+source: carolina-mushrooms_08qxp.md
 tags: [chemistry, pharmacology, tryptamines, mycology, hallucinogens]
 created: 2026-05-09
 ---
@@ -88,44 +88,3 @@ exclusive to psychoactive species and should not be the sole criterion.
 - Psilocybin is stable when dried and stored cool, dark, and airtight
 - Fresh mushrooms degrade rapidly; drying is essential for preservation
 - Desiccant-based drying (silica gel) is effective for long-term storage
-- Frozen storage can extend potency for extended periods
-
-## Historical Context
-
-Psilocybin was first isolated by Albert Hofmann in 1958 at Sandoz
-Laboratories, following R. Gordon Wasson's identification of
-Psilocybe mexicana. The name derives from Greek "psilos" (bare) and
-"kubē" (head), referencing the characteristic bare cap.
-
-## Analytical Detection
-
-Psilocybin and psilocin are detected via:
-- **HPLC** with UV or fluorescence detection
-- **LC-MS/MS** for high-sensitivity quantification
-- Urinary psilocin-O-glucuronide serves as the primary biomarker
-- Detection window: typically 1-3 days post-ingestion
-
-## Tolerance
-
-Short-term tolerance develops rapidly to both physical and psychological
-effects of psilocybin, meaning dosages may need to increase for repeated
-use within a short period. Tolerance typically resets within 3-7 days of
-abstinence. There is no evidence of psychological or physical dependence,
-and no withdrawal symptoms occur.
-
-## See Also
-
-- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
-
-- [[psilocybin-chemistry-stability-indigenous-knowledge]]
-
-- [[hallucinogenic-mushroom-dosage-effects]] — dosing and acute effects
-- [[amanita-muscaria-vs-psilocybe]] — comparison with Amanita species
-
-## References
-
-- Hillebrand J, Olszewski D, Sedefov R. Hallucinogenic mushrooms:
-  an emerging trend case study. EMCDDA, 2006.
-- Hofmann A et al. Psilocybin, ein psychotroper Wirkstoff. Experientia, 1958.
-- Hasler F et al. Acute psychological and physiological effects of
-  psilocybin. Pharmacopsychiatry, 2004.

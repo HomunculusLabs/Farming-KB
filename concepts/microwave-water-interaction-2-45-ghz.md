@@ -59,7 +59,7 @@ In the NASA sterilization system, only trace amounts of water (~9 μL/cm²) are 
 As the water film heats above 100°C, localized steam generation occurs at the microbial cell surfaces. The combination of:
 
 1. **Direct thermal effects** — protein denaturation, membrane disruption
-2. **Steam pressure effects** — physical disruption of cell walls and membranes
+2. **Steam pressure effects** — physical disruption of [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] and membranes
 3. **Rapid thermal cycling** — thermal shock causing structural damage
 
 contributes to microbial inactivation far more efficiently than dry heating at equivalent temperatures.
@@ -68,7 +68,7 @@ contributes to microbial inactivation far more efficiently than dry heating at e
 The MSC-22484 researchers noted that [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] may involve non-thermal mechanisms beyond simple heating:
 
 - **Electroporation**: Oscillating fields may create transient pores in microbial membranes
-- **Resonance effects**: Specific molecular bonds may absorb energy at particular frequencies
+- **Resonance effects**: Specific [[molecular-bonds-and-chemistry-for-gardeners]] may absorb energy at particular frequencies
 - **Magnetic field interactions**: Oscillating magnetic fields may affect metabolic processes
 
 The relative contribution of thermal vs. non-thermal effects remains a subject of scientific debate, but the practical efficacy of the combined mechanism is well-established in the NASA data.
@@ -87,52 +87,3 @@ The penetration depth (the distance at which microwave power drops to 1/e, or ~3
 For surface sterilization, shallow penetration at 2.45 GHz is actually advantageous — energy is deposited at or near the surface where contamination resides, rather than passing through to heat underlying materials unnecessarily.
 
 ## Engineering Considerations
-
-### Waveguide Design
-The NASA system used rectangular waveguides to conduct microwave energy from the magnetron to the target surfaces. Waveguide dimensions must be precisely matched to the frequency — the standard WR-284 waveguide for 2.45 GHz has internal dimensions of 72.1 mm × 34.0 mm.
-
-### Antenna Configurations
-Two antenna types were employed in the NASA system:
-
-1. **Rectangular waveguide antenna**: Provides a directed beam for illuminating specific surface areas
-2. **Dipole antennas**: Used with a coaxial [[coaxial-power-splitter-waveguide-microwave-sterilization]] to provide broader coverage from multiple angles
-
-### Standing Wave Mitigation
-Reflective surfaces within the sterilization chamber can create standing wave patterns, resulting in hot spots (areas of intense heating) and cold spots (areas of insufficient exposure). Solutions include:
-
-- **Mode stirrers**: Rotating metal fins that scatter the microwave field
-- **Turntables**: Rotating the target through the field pattern
-- **Multiple feed points**: Using several antennas to create overlapping field patterns
-- **Impedance matching**: Tuning the waveguide system to minimize reflections
-
-### Moisture Control System
-The trace water introduction system in the NASA design ensures uniform wetting of the target surface. This is critical because:
-
-- Dry areas receive no microwave absorption and remain unsterilized
-- Excessive water creates steam pockets that can shield underlying surfaces
-- Water distribution must be consistent and repeatable across treatment cycles
-- The 9 μL/cm² specification represents the optimal balance between absorption efficiency and steam management
-
-## Applications in Other Fields
-
-The 2.45 GHz water interaction principle extends beyond sterilization into numerous industrial and scientific applications:
-
-- **Food processing**: Microwave cooking, drying, pasteurization, and thawing leverage the same water-absorption mechanism
-- **Wood processing**: Microwave drying of lumber exploits water's dielectric properties for rapid moisture removal
-- **Chemical synthesis**: Microwave-assisted organic synthesis uses polar solvent heating to accelerate reaction rates
-- **Medical treatment**: Microwave diathermy uses tissue water heating for therapeutic deep-tissue warming
-- **Materials science**: Microwave sintering of ceramics uses water or other polar molecules as coupling agents to initiate heating
-
-## Safety Considerations
-
-2.45 GHz microwave radiation can cause thermal tissue damage at high power densities. The IEEE standard for human exposure limits general public exposure to 1 mW/cm² averaged over any 30-minute period. Microwave sterilization equipment must be properly shielded and interlocked to prevent operator exposure.
-
-## References
-
-- NASA Tech Briefs MSC-22484: [[microwave-surface-sterilization]]
-- Metaxas, A.C. (1996). *Foundations of Electroheat: A Unified Approach*.
-- Von Hippel, A.R. (1954). *Dielectric Materials and Applications*.
-
-## See Also
-- [[trace-water-flash-steam-microwave-sterilization]]
-- [[trace-water-enhanced-microwave-sterilization]]

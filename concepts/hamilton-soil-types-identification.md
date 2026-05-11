@@ -11,7 +11,7 @@ type: concept
 
 # Soil Types and Identification in Organic Gardening
 
-Geoff Hamilton regarded the soil as the basic raw material of the
+[[geoff-hamilton]] regarded the soil as the basic raw material of the
 gardener's art, never to be dismissed as mere "dirt." It is far more
 than a collection of mineral particles used to anchor roots. A large
 part of its makeup is [[hamilton-composting-and-organic-matter-management]] in various stages of decay, along
@@ -30,7 +30,7 @@ intended.
 
 Soil is made up of three distinct layers:
 
-- **Topsoil**: Formed over years by the addition of organic matter
+- **Topsoil**: Formed over years by the addition of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
   following the decomposition of dead plants and animals. It is
   inhabited by a wide range of living organisms, and the majority of
   feeding roots exist here. Topsoils can be improved and deepened by
@@ -60,7 +60,7 @@ A dry, light soil that feels gritty between the fingers. Sand particles
 range from 0.2mm to 2mm. Sandy soil is easy to work and warms up
 quickly in spring, allowing earlier cultivation. Because it is
 free-draining, nutrients tend to be lost easily, so it needs extra
-organic matter and fertilizer.
+[[savory-soil-organic-matter-and-decomposition-dynamics]] fertilizer.
 
 ### Silt
 
@@ -88,32 +88,3 @@ usually acid, needing lime for a wider plant range.
 
 To identify your soil type, take a handful and rub a little between
 finger and thumb. Clay feels sticky and rolls into a ball. Sand is
-coarse and gritty, silt feels silky smooth, chalk has a dry crumbly
-feel and grayish-white color, and peat is black and moist.
-
-## Soil Mixtures: Loams
-
-Most soils contain a mixture of minerals. A soil described as "clay"
-indicates its major constituent. Soil mixtures are known as loams. A
-soil of 50 percent clay and silt and 50 percent sand is a "medium
-loam." High sand content gives "sandy loam," while more clay gives
-"heavy loam."
-
-## Heavy vs. Light Soils
-
-Soils can be heavy or light regardless of type. Heavy soil contains
-more clay, with very small particles that pack together, preventing
-free water passage. It is hard to work initially but becomes an
-excellent moisture and nutrient retainer once ameliorated. Light soils
-are easy to dig and warm quickly but allow free drainage, requiring
-constant additions of organic matter and more fertilizer.
-
-## Acidity and Alkalinity
-
-Soil may be acid or alkaline depending on lime content. Lime makes some
-nutrients unavailable to plants. The ideal organic approach is to test
-your soil and adjust pH according to the plants you wish to grow, using
-natural lime sources rather than chemical amendments. See
-[[hamilton-organic-soil-management]]
-- [[hamilton-alternative-soil-conditioners]]
-- [[soil-building-permaculture]]

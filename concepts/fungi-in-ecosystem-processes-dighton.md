@@ -88,19 +88,3 @@ Several themes recur across all chapters:
 1. **Functional redundancy vs specificity** — different fungal species can fill similar ecological roles, but some functions are species-specific
 2. **Environmental controls** — temperature, moisture, and nutrient availability are universal controllers of fungal activity
 3. **Scale dependence** — fungal effects operate from microscopic (hyphal tip) to landscape (forest stand) scales
-4. **Feedback loops** — fungi modify their environment in ways that feed back to affect their own activity
-5. **Global change sensitivity** — fungal-mediated processes are among the most sensitive indicators of environmental change
-
-## Related
-
-- [[acremonium-strictum]]
-- [[dactylaria-brochopaga]]
-- [[phoma-exigua]]
-- [[lichens-primary-production-soil-formation-dighton]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[fungi-forest-fire-succession-litter-dighton]]
-- [[fungal-biodiversity-ecosystem-function]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-contributions-soil-structure]]
-- fungal-community-ecology
-- [[fungal-decomposition-wood-litter]]

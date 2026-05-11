@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [regenerative, farming, desertification, regenerative]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Desert Reclamation: Stopping the Advance of Deserts
@@ -86,36 +87,3 @@ Kudzu, lespedeza, Scotch broom, and certain other plants of the pea family shoul
 Counting on glossy-leaved angiosperms such as the chinquapin and oak, and gymnosperms such as cryptomeria, Japanese cypress, and pine, efforts must be devoted to increasing smaller organisms such as ferns, mosses, and soil microbes. Following this, plants resistant to cold such as the sesames and minor cereals will surely grow. There will also be gourd family vegetables and green manure plants.
 
 ## The Absurdity Approach
-
-No matter where one goes, the nature there today is probably not the same as in the past. The nature we see is unnatural; it is total absurdity, and the best way to deal with absurdity is to use an absurd approach. Start from scratch, sowing anything at all. The scientist decides what seems to work well and begins from there, but Fukuoka's method is different.
-
-The scientist conducts soil tests, determines physical properties, and tells the farmer what to grow based on analytical results. The natural farming approach instead sows a broad mixture and observes what responds.
-
-## Learning from Failure
-
-Nature, seen superficially, is stingy and generous. That is why "do-nothing" natural farming is possible. On the other hand, the deeper we pursue the [[roger-heim-scientific-study-psilocybin]] of nature, the more we realise nature to be a complicated organic entity that cannot be comprehended with knowledge.
-
-If we attempt to grasp the essence of nature and practice a natural way of farming that makes use of this, the result would be an incredibly complicated and rigorous method. These are the two sides of natural farming. In any case, natural farming starts with the skillful sowing of seed; but the intellect cannot discern what is skillful and what is not.
-
-## The Three-Year Plan
-
-The approach requires commitment:
-- Year 1: Sow widely, expect 99% failure, observe what survives
-- Year 2: Resow whatever showed even slight survival, expand observations
-- Year 3: Develop a plan based on accumulated observations
-
-This patient, observational approach contrasts sharply with the engineering mentality of conventional desert agriculture, which attempts to force results through water infrastructure and soil amendment.
-
-## The Role of Microbes and Insects
-
-The seeds of many different types of plants -- as well as microbes, insects, and small animals where possible -- should be sown and carefully watched. Anything that grew, no matter how small, would certainly provide some sort of clue. Natural farming begins by sowing different seeds and determining what will grow.
-
-## Aerial Seeding Vision
-
-The only way in which an entire vast region can be revegetated at once is to scatter the seeds of grasses, trees, and vegetables for greening the deserts from airplanes. The vision is to use aircraft to distribute clay-encased seed pellets over vast areas of desert, allowing natural processes to select which species establish.
-
-Fukuoka's ultimate desire was to run tests on methods of scattering drought-hardy coated seeds over arid lands by airplane. The [[fukuoka-california-desertification-myth-natural-aridity]] analysis and the Somalia experiments were steps toward this larger vision. See [[fukuoka-seed-ball-methods-advanced]].
-
-## From Desert to Green Plain
-
-The same approach and methods for converting farms managed with scientific techniques to natural farms can be used for changing a desert land into a green plain. This is because the fundamental problem is the same: human interference has destroyed the natural vegetation succession, and the solution is to remove the interference and allow natural processes to re-establish.

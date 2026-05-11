@@ -20,7 +20,7 @@ encountered in temperate ecosystems. It is a member of the Mucoraceae
 family, characterized by rapid, cottony colony growth and the production
 of large, globose sporangia. The species is of particular interest in
 the context of [[gadd-fungal-ecology-endophytes]] because it has been documented growing on
-the sporocarps (fruiting bodies) of myxomycetes (slime molds), as noted
+the sporocarps ([[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]) of myxomycetes ([[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]), as noted
 in the source text by Helfer (1991). This fungicolous association
 places M. hiemalis among the diverse assemblage of fungi that colonize
 the fruiting structures of other fungal organisms.
@@ -53,12 +53,12 @@ the fruiting structures of other fungal organisms.
   distinguishing Mucor from Rhizopus
 
 ### Ecology and Habitat
-- Common soil fungus in temperate regions worldwide
+- Common soil fungus in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide
 - Frequently isolated from decaying plant material, compost,
   and stored food products
 - Grows well at lower temperatures (optimum 15 to 25 degrees
   Celsius), reflecting its association with cooler seasons
-- Found in diverse substrates including forest litter, dung,
+- Found in diverse substrates including [[aact-forest-litter-fungi-mycorrhizal-ingham]], dung,
   and soil
 - Capable of rapid colonization of nutrient-rich substrates
 
@@ -88,39 +88,3 @@ the fruiting structures of other fungal organisms.
   within sporangia
 - Sporangiospores are dispersed by wind or water and germinate
   rapidly on suitable substrates
-- Sexual reproduction occurs through zygospore formation when
-  compatible mating types encounter each other
-- Zygospores are resistant resting structures that can persist
-  in soil
-
-### Research Methods
-- Isolation on general-purpose media such as potato dextrose
-  agar (PDA) or malt extract agar (MEA)
-- [[fungal-microscopic-examination-mounting-media-techniques]] of sporangial morphology for species
-  identification
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA sequencing
-- Temperature growth studies to distinguish from thermotolerant
-  Mucor species
-
-### Economic Significance
-- Generally considered a saprobe of minor economic importance
-- Occasionally causes soft rot of stored fruits and vegetables
-- As an agent of mucormycosis, of clinical significance in
-  hospital settings
-- Its fungicolous lifestyle on myxomycetes contributes to
-  understanding of [[air-pollution-fungal-community-responses]] structure
-
-## Relevance
-Mucor hiemalis exemplifies the ecological versatility of zygomycete
-fungi. Its documented association with myxomycete sporocarps, as
-recorded in the source text, highlights the importance of
-fungicolous relationships even among basal fungal lineages. The
-species contributes to soil microbial diversity and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]],
-and its study provides broader insights into the complex
-interrelationships within [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
-
-## See Also
-
-- [[pythium-ultimum]]
-- [[botrytis-cinerea]]
-- [[mucor-piriformis]]

@@ -25,7 +25,7 @@ sources:
 ---
 # Zingiber officinale
 
-**Zingiber officinale** Roscoe (1807), commonly known as **ginger**, is a flowering plant in the family Zingiberaceae, cultivated worldwide for its rhizome, which is used universally as a spice, flavoring agent, and medicinal herb. One of the oldest and most extensively documented [[ingham-tannins-terpenes-phenolic-compounds]] responsible for its characteristic aroma, flavor, and diverse pharmacological activities.
+**Zingiber officinale** Roscoe (1807), commonly known as **ginger**, is a flowering plant in the family Zingiberaceae, cultivated worldwide for its rhizome, which is used universally as a spice, flavoring agent, and [[medicinal-herb-growing]]. One of the oldest and most extensively documented [[ingham-tannins-terpenes-phenolic-compounds]] responsible for its characteristic aroma, flavor, and diverse pharmacological activities.
 
 ## Taxonomy
 
@@ -60,7 +60,7 @@ The genus name *Zingiber* derives from the Sanskrit *śṛṅga-vera* (शृङ
 
 ## Chemical Composition
 
-The rhizome contains two [[ascomycota-phylogeny-major-classes-lineages]] of bioactive compounds:
+The rhizome contains two [[ascomycota-phylogeny-major-classes-lineages]] of [[cordyceps-cancer-bioactive-compounds]]:
 
 ### Volatile Oils (1–3% of fresh weight)
 
@@ -70,7 +70,7 @@ Over 80 identified constituents, dominated by **zingiberene** (30–35%), **β-b
 
 Responsible for ginger's pungency and most pharmacological activity:
 - **[6]-Gingerol** — most abundant; major contributor to pungency and [[medicinal-mushroom-antioxidant-anti-inflammatory]] effects
-- **[8]-Gingerol** and **[10]-Gingerol** — homologs with different side chain lengths
+- **[8]-Gingerol** and **[10]-Gingerol** — homologs with different [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] lengths
 - **[6]-Shogaol** — dehydration product formed during drying/heating; more pungent than gingerols
 - **[6]-Paradol** — further metabolite with potent bioactivity
 - **Zingerone** — formed during cooking; milder pungency
@@ -81,69 +81,10 @@ Other constituents include starch, proteins, lipids, minerals (Ca, P, Fe, Mg, K,
 
 ### Antiemetic Activity
 
-Ginger is one of the most well-studied herbal antiemetics, with strong evidence for nausea of pregnancy (1–1.5 g/day; no adverse fetal effects), postoperative nausea (0.5–1 g; comparable to metoclopramide), and motion sickness. Mechanism involves 5-HT₃ receptor antagonism, enhanced gastric emptying, and vasopressin modulation.
+Ginger is one of the most well-studied herbal antiemetics, with strong evidence for nausea of pregnancy (1–1.5 g/day; no adverse fetal effects), postoperative nausea (0.5–1 g; comparable to metoclopramide), and [[blesching-cannabis-motion-sickness]]. Mechanism involves 5-HT₃ receptor antagonism, enhanced gastric emptying, and vasopressin modulation.
 
 ### Anti-inflammatory and Analgesic Effects
 
 Gingerols and shogaols inhibit COX-1/COX-2 and 5-LOX enzymes, suppress NF-κB signaling, and reduce TNF-α, IL-1β, and IL-6. Clinical evidence supports use for osteoarthritis knee pain (500 mg 2–3× daily, comparable to ibuprofen) and dysmenorrhea.
 
 ### Antioxidant Activity
-
-Ginger exhibits potent antioxidant effects through direct free radical scavenging, enhancement of endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase), and metal chelation/lipid peroxidation inhibition.
-
-### Metabolic Effects
-
-- **Anti-diabetic:** Reduces fasting blood glucose, HbA1c, and insulin resistance in [[mushroom-cancer-clinical-trials-overview]] at 2–3 g/day
-- **Lipid-lowering:** Reduces serum triglycerides, LDL cholesterol, and total cholesterol
-- **Anti-obesity:** Promotes thermogenesis and fat oxidation via [6]-gingerol-enhanced norepinephrine-induced lipolysis
-- **Antiplatelet:** Inhibits platelet aggregation via thromboxane synthase inhibition
-
-### Antimicrobial Activity
-
-Active against *S. aureus*, *E. coli*, *S. typhi*, *P. aeruginosa*, and *S. mutans* (antibacterial); moderate activity against *C. albicans* and *Aspergillus* spp. (antifungal); preliminary evidence against RSV and rhinovirus (antiviral).
-
-## Cultivation
-
-Major producers include India (~35% of world production), China, Nepal, Nigeria, Thailand, Indonesia, and Jamaica.
-
-| Parameter | Optimal Range |
-|-----------|--------------|
-| Temperature | 25–35°C (growth); 20–25°C (rhizome maturation) |
-| Rainfall | 1500–3000 mm annually |
-| Soil | Well-drained, loamy, rich in [[hamilton-composting-and-organic-matter-management]], pH 5.5–6.5 |
-| Propagation | Vegetative (rhizome pieces with 1–2 buds), 3–5 cm deep |
-| Harvest | 8–10 months (mature); 5–6 months (young "green" ginger) |
-| Yield | 15–25 tonnes/ha |
-
-## Culinary Uses
-
-Used fresh (grated, sliced, julienned in Asian cuisines), dried as powder (Indian masalas, baking, beverages), pickled as gari (Japanese sushi accompaniment), candied/crystallized as confectionery, and in ginger beer/ale and teas. The [[permaculture-designers-manual-essential-oil-plants]] is used in food flavoring and perfumery.
-
-## Traditional Medicine
-
-### Ayurveda
-
-Known as *ardraka* (fresh) or *śuṇṭhī* (dried), classified as a *dipana* (digestive stimulant) and *āma-pācaka* (toxin digester). Key formulations include Trikatu (ginger + black pepper + long pepper). Used for bloating, rheumatoid arthritis, cough, and foodborne illness.
-
-### Traditional Chinese Medicine
-
-Known as *shēng jiāng* (生薑, fresh) or *gān jiāng* (乾薑, dried). Used to disperse cold, warm the middle jiao, arrest vomiting, release the exterior (early wind-cold), and warm the lungs. Dried form is considered more strongly interior-warming.
-
-### Western Herbalism
-
-Carminative, spasmolytic, circulatory stimulant ("warming" remedy), anti-nauseant, diaphoretic, and anti-inflammatory for arthritis and muscle pain.
-
-## Safety and Precautions
-
-Ginger is generally safe at culinary and therapeutic doses (1–4 g/day dried):
-
-- **Side effects:** Mild heartburn, diarrhea, mouth irritation at high doses
-- **Pregnancy:** Safe for nausea up to 1.5 g/day; avoid >4 g/day (theoretical uterine stimulation risk)
-- **[[cannabis-drug-interactions-and-contraindications]]:** Potentiates anticoagulants (warfarin, aspirin); enhances hypoglycemic drugs; may reduce absorption of concurrent medications
-## See Also
-
-- [[sesamum-indicum]]
-
-- [[zingiber-montana]]
-
-- [[piper-nigrum-entity]] — Black pepper, combined with ginger in traditional formulations

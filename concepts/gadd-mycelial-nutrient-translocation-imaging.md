@@ -36,7 +36,7 @@ By combining measured diffusion coefficients with distributions of vacuole size 
 
 ## Photon-Counting Scintillation Imaging (PCSI)
 
-At the millimetre to centimetre scale, researchers developed a novel non-invasive technique to track radiolabelled 14C-amino-isobutyrate (14C-AIB) movement in [[fungal-mycelial-networks-nutrient-translocation]] growing over inert scintillation screens. PCSI provides continuous, real-time imaging of nitrogen distribution without destructive sampling.
+At the millimetre to centimetre scale, researchers developed a novel non-invasive technique to track radiolabelled 14C-amino-isobutyrate (14C-AIB) movement in [[fungal-mycelial-networks-nutrient-translocation]] growing over inert scintillation screens. PCSI provides continuous, real-time imaging of [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]] without [[fungal-destructive-sampling-herbarium-dna-extraction]].
 
 ### Colony Development Phases
 
@@ -52,11 +52,11 @@ Superimposed on the net translocation pattern, a pronounced pulsatile component 
 
 ### Route-Switching
 
-In larger sand microcosms, not all cords transported simultaneously. Some cords showed delayed activation—a phenomenon termed "route-switching"—where previously inactive cords became transient transport pathways before signal declined again. Other cords exhibited multiple filling phases at different times. This dynamic routing behaviour suggests sophisticated regulation of transport pathway selection.
+In larger sand microcosms, not all cords transported simultaneously. Some cords showed delayed activation—a phenomenon termed "route-switching"—where previously inactive cords became transient [[the-apoplastic-symplastic-and-transcellular-transport-pathways]] before signal declined again. Other cords exhibited multiple filling phases at different times. This dynamic routing behaviour suggests sophisticated regulation of transport pathway selection.
 
 ## Network Analysis at the Centimetre to Metre Scale
 
-To understand how the architecture of corded networks supports nutrient transport, graph-theoretic network analysis was applied. Cords were represented as links connecting nodes at branch points and anastomoses, and wood resources served as hub nodes with many connections.
+To understand how the architecture of corded networks supports [[ingham-mycorrhizal-fungi-nutrient-transport-colonization]], graph-theoretic network analysis was applied. Cords were represented as links connecting nodes at branch points and anastomoses, and wood resources served as hub nodes with many connections.
 
 ### Network Measures
 
@@ -68,11 +68,11 @@ In silico removal of nodes and links revealed that fungal networks show intermed
 
 ### Dynamic Network Evolution
 
-Network architecture is not static: initial proliferation produces many links, followed by selection and reinforcement of a subset into strong cords, and eventual regression of the remainder to leave a sparser, more efficient network. The average node degree stabilizes at approximately 3.5 after excluding residual degree-2 nodes on main connecting cords.
+[[mycelial-network-architecture]] is not static: initial proliferation produces many links, followed by selection and reinforcement of a subset into strong cords, and eventual regression of the remainder to leave a sparser, more efficient network. The average node degree stabilizes at approximately 3.5 after excluding residual degree-2 nodes on main connecting cords.
 
 ## Current Limitations and Future Directions
 
-A complete anatomical description of how transport pathways map onto individual hyphae within differentiating cords remains elusive, even with confocal microscopy, when structures are in their natural dry state. Serial EM sectioning with 3D reconstruction may address this gap. The immense plasticity of mycelial networks also makes quantitative comparisons between experiments challenging, requiring sophisticated analytical approaches to accommodate colony-level variability.
+A complete anatomical description of how transport pathways map onto individual hyphae within differentiating cords remains elusive, even with confocal microscopy, when structures are in their natural dry state. Serial EM sectioning with 3D reconstruction may address this gap. The immense plasticity of [[fungal-pulsatile-nutrient-transport-mycelial-networks]] also makes quantitative comparisons between experiments challenging, requiring sophisticated analytical approaches to accommodate colony-level variability.
 
 ## See Also
 

@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora of North America Editorial Committee (1993). "Thelypteris." Flora of North America, Vol. 2.
+  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Thelypteris." Flora of North America, Vol. 2.
   - Smith A.R. (1993). "Thelypteridaceae." Flora of North America, Vol. 2, pp. 152–166.
   - Wagner W.H. Jr. & Beitel J.M. (1993). "Thelypteris." Michigan Flora Online.
   - USDA NRCS (2024). "Thelypteris noveboracensis Plant Profile." plants.usda.gov.
@@ -19,8 +19,8 @@ sources:
 ## Overview
 
 Thelypteris noveboracensis, commonly known as the New York fern, is a
-deciduous perennial fern native to eastern North America. It is one of the
-most recognizable woodland ferns in the northeastern United States due to its
+deciduous perennial fern native to [[polypore-fungi-eastern-north-america]]. It is one of the
+most recognizable woodland ferns in the northeastern [[dmt-containing-plants-united-states-halpern]] due to its
 distinctive tapering fronds that are noticeably shorter at the base.
 
 The species epithet "noveboracensis" means "of New York," reflecting the
@@ -29,11 +29,11 @@ describes the frond shape: "New York fern tapers at both ends," contrasting
 with the evenly sized pinnae of many co-occurring ferns.
 
 New York fern often forms extensive colonies through its creeping rhizome,
-creating dense ground cover in moist woodlands. This colonial habit makes it
-an effective species for erosion control and naturalistic landscaping.
+creating dense [[fukuoka-citrus-orchard-ground-cover-cultivation]] in moist woodlands. This colonial habit makes it
+an effective species [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] and naturalistic landscaping.
 
 The species is considered an indicator of rich, moist forest habitats and is
-frequently used in ecological assessments to evaluate forest floor conditions.
+frequently used in ecological assessments to evaluate [[fungal-ecology-forest-floor]] conditions.
 Its abundance often increases after canopy disturbance that raises light
 levels at the forest floor.
 
@@ -88,62 +88,3 @@ ferns.
 
 Elevation ranges from near sea level to approximately 1,200 m in the southern
 Appalachians. At higher elevations it is typically restricted to moist
-coves, ravine bottoms, and north-facing slopes with reliable moisture.
-
-New York fern responds positively to moderate canopy disturbance. Gap-phase
-dynamics that increase light availability at the forest floor often trigger
-vigorous colonial expansion, with dense fern mats developing within 3–5 years
-of canopy opening.
-
-## Ecology and Interactions
-
-Thelypteris noveboracensis plays an important role in forest-floor nutrient
-cycling. Its deciduous fronds decompose relatively quickly, contributing
-organic matter to the soil surface and supporting detritivore communities.
-
-The dense colonies formed by this species provide habitat cover for ground-
-nesting birds, small mammals, amphibians, and ground-dwelling invertebrates.
-The frond canopy creates a microclimate that retains soil moisture and
-moderates temperature extremes.
-
-New York fern is palatable to white-tailed deer, and heavy browsing can
-significantly reduce frond height and colony density. In areas with high deer
-populations, T. noveboracensis may be replaced by less palatable species such
-as Dryopteris marginalis and Polystichum acrostichoides.
-
-Spore production is reliable but dispersal distance is limited. The creeping
-rhizome is the primary mechanism of colony expansion, with rhizome extension
-rates of 10–30 cm per year documented in favorable sites.
-
-The glandular hairs on the rachis may provide some defense against insect
-herbivory. However, the species is occasionally defoliated by the
-specialist sawfly Tenthredo grandis, which feeds almost exclusively on
-Thelypteris species.
-
-## Cultivation and Uses
-
-Thelypteris noveboracensis is cultivated as a shade-garden perennial,
-particularly in naturalistic and woodland-style landscapes. Its colonial
-habit makes it effective for mass plantings, erosion control on shaded slopes,
-and as a living mulch beneath deciduous trees.
-
-The species is propagated most easily by division of the creeping rhizome in
-early spring. Spore propagation is possible but slow, requiring 6–12 months
-for gametophyte development and sporophyte emergence under controlled
-conditions.
-
-New York fern prefers partial to full shade with consistently moist soil. It
-tolerates brief dry periods but performs best with regular moisture. It is
-hardy to USDA Zone 3, making it suitable for cold-climate gardens.
-
-The species has limited ethnobotanical significance. Indigenous peoples did
-## See Also
-
-- [[dryopteris-filix-mas]]
-- [[dryopteris-marginalis]]
-- [[onoclea-sensibilis]]
-- [[athyrium-filix-femina]]
-- [[pteridium-aquilinum]]
-- [[osmunda-regalis]]
-- [[dennstaedtia-punctilobula]]
-- [[polystichum-acrostichoides]]

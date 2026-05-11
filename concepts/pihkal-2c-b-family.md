@@ -37,7 +37,7 @@ for understanding relative potency and character across the series.
 ## 2C-B (2,5-Dimethoxy-4-Bromophenethylamine)
 
 2C-B is the most famous member and template for the broader series.
-First synthesized by Shulgin in 1974, it gained popularity as an MDMA
+First synthesized by Shulgin in 1974, it gained popularity as an [[mdma]]
 substitute before being scheduled.
 
 **Dosage:** 12-24 mg (oral)
@@ -47,14 +47,14 @@ substitute before being scheduled.
 Shulgin described 2C-B as producing colorful visuals with manageable
 body load, noting empathogenic qualities at lower doses and more
 psychedelic character at higher doses. At 12-15 mg, users report mild
-stimulation and enhanced sensory perception. Above 20 mg, effects
+stimulation and enhanced [[plant-sensory-perception]]. Above 20 mg, effects
 become increasingly visual and introspective.
 
 ## 2C-I (2,5-Dimethoxy-4-Iodophenethylamine)
 
 **Dosage:** 14-22 mg (oral)
 **Duration:** 6-10 hours
-**Shulgin Rating:** +++
+**[[shulgin-rating-scale]]:** +++
 
 The iodine substitution produces a compound with longer
 duration than 2C-B. Shulgin noted 2C-I as having stronger visual effects
@@ -88,50 +88,3 @@ physical sensation. The sulfur atom introduces metabolic considerations,
 and Shulgin advised caution with dose escalation.
 
 ## 2C-T-7 (2,5-Dimethoxy-4-Propylthiophenethylamine)
-
-**Dosage:** 10-30 mg (oral)
-**Duration:** 8-15 hours
-**Shulgin Rating:** +++
-
-2C-T-7 gained notoriety for its potency and extended duration. Shulgin
-described it as a powerful compound with strong visual and cognitive
-effects. The propylthio group increases both potency and duration
-relative to 2C-T-2. Safety concerns emerged after several reported
-fatalities, often involving co-administration with other substances,
-particularly MAOIs. This underscores Shulgin's repeated emphasis on
-careful dosing and avoiding drug combinations.
-
-## Synthesis Overview
-
-The 2C compounds share a common synthetic pathway. Starting from
-2,5-dimethoxybenzaldehyde, a nitrostyrene intermediate is formed via
-Henry reaction with nitromethane, then reduced with lithium aluminum
-hydride to yield the target phenethylamine. The 4-position substituent
-is introduced either before or after the reduction step. Shulgin
-detailed these syntheses in PIHKAL Part 1, noting that the chemistry
-is relatively accessible but requires careful purification and
-analytical verification.
-
-## Safety Notes
-
-Several important safety considerations apply across the 2C family:
-
-- **Dose sensitivity:** Effects increase nonlinearly, especially for
-  2C-E and 2C-T-7. Small increases above threshold produce dramatically
-  stronger experiences.
-- **Duration variability:** Individual metabolism significantly affects
-  duration. What lasts 6 hours for one may persist 10+ for another.
-- **Vasoconstriction:** Many 2C compounds produce peripheral
-  vasoconstriction, potentially hazardous for cardiovascular conditions.
-- **[[lsd-set-and-setting-framework]]:** Intensity demands careful attention to mental
-  state and physical environment.
-- **Pharmacological uncertainty:** Limited formal research exists for
-  most 2C compounds. Shulgin's work remains the primary reference.
-
-## Relationship to Other Families
-
-The 2C compounds are closely related to the [[phenethylamine-chemistry-basics]] research.
-## See Also
-
-- [[pihkal-doa-family]] — DOx amphetamine derivatives
-- [[phenethylamine-chemistry-basics]] — Biography of the chemist

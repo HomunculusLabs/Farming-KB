@@ -10,7 +10,7 @@ sources:
 
 ## What Is Humus
 
-Humus is the relatively stable, dark brown to black organic material that remains after plant and animal residues have been substantially decomposed by soil organisms. It is the end product of the [[soil-food-web]]'s decomposition processes. Unlike fresh organic matter, humus is resistant to further rapid decomposition and can persist in soil for decades to centuries, providing long-term benefits to soil structure, fertility, and biological activity.
+Humus is the relatively stable, dark brown to black organic material that remains after plant and animal residues have been substantially decomposed by soil organisms. It is the end product of the [[soil-foodweb]]'s decomposition processes. Unlike fresh organic matter, humus is resistant to further rapid decomposition and can persist in soil for decades to centuries, providing long-term benefits to soil structure, fertility, and biological activity.
 
 Humus is not a single chemical compound but rather a complex mixture of modified lignin, proteins, polysaccharides, fats, waxes, and other organic molecules that have been transformed by microbial activity into long, complex carbon chains.
 

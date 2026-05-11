@@ -1,5 +1,5 @@
 ---
-title: Phycomyces phycomyces anemotropism comparison mushroom tropism mechanisms with Mushroom Tropism Mechanisms
+title: Phycomyces Anemotropism Comparison Mushroom Tropism Mechanisms
 source: Badham 1982 - Tropisms in the Mushroom [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 type: concept
 tags: [mycology, phycomyces, anemotropism, tropism, psilocybe-cubensis, evaporative-demand, ethylene, wind-response]
@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-Edmond R. Badham's 1982 study of *Psilocybe cubensis* tropisms drew explicit comparisons with the well-studied wind responses of *Phycomyces blakesleeanus*, a zygomycete fungus. The anemotropic responses of these two distantly related fungi share a common mechanistic basis in **evaporative demand and water vapor gradients**, but differ in complexity, sensory integration, and the role of specific gas signals like ethylene.
+Edmond R. Badham's 1982 study of *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* tropisms drew explicit comparisons with the well-studied wind responses of *Phycomyces blakesleeanus*, a zygomycete fungus. The anemotropic responses of these two distantly related fungi share a common mechanistic basis in **evaporative demand and water vapor gradients**, but differ in complexity, sensory integration, and the role of specific gas signals like ethylene.
 
 ## Phycomyces as a Model Organism for Tropism Research
 
@@ -61,7 +61,7 @@ Badham proposed that the same water-vapor-based mechanism explains Phase 1 anemo
 The most significant difference is that *P. cubensis* exhibits a **two-phase tropic program**, while *Phycomyces* shows continuous sensory integration:
 
 - **Phycomyces** can respond to multiple stimuli simultaneously and integrates them into a net growth direction. The sporangiophore bends toward light, away from barriers, and toward humidity in a continuously updated manner.
-- **P. cubensis** switches between discrete tropic modes. Phase 1 (anemotropism) operates until sporulation, then Phase 2 (negative geotropism) takes over. The two phases appear to be gated by developmental stage rather than continuously integrated.
+- **P. cubensis** switches between discrete tropic modes. Phase 1 (anemotropism) operates until sporulation, then Phase 2 ([[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]) takes over. The two phases appear to be gated by developmental stage rather than continuously integrated.
 
 ### Gravitropic Sensitivity
 
@@ -78,72 +78,13 @@ Russo, Halloran, and Gallori proposed that **ethylene** may be involved in the a
 - Stress responses
 - Growth regulation
 
-Their finding that ethylene participates in fungal tropism opened the possibility that other volatile signaling molecules could modulate [[pf-tek-mushroom-growth-timeline]] direction.
+Their finding that ethylene participates in fungal tropism opened the possibility that other [[plant-olfaction-and-volatile-signaling]] molecules could modulate [[pf-tek-mushroom-growth-timeline]] direction.
 
 ### Implications for Psilocybe cubensis
 
-Badham noted that wind could cause a redistribution of gases **other than water vapor** around the *P. cubensis* stipe. If ethylene or similar volatile compounds are involved in mushroom tropisms, the boundary layer redistribution caused by wind would also create asymmetric concentrations of these signaling molecules. This could provide an additional or alternative mechanism for Phase 1 anemotropic curvature:
+Badham noted that wind could cause a redistribution of gases **other than water vapor** around the *P. cubensis* stipe. If ethylene or similar [[mycovolatiles-fungal-volatile-compounds]] are involved in [[adaptive-significance-mushroom-tropisms-spore-dispersal]], the boundary layer redistribution caused by wind would also create asymmetric concentrations of these signaling molecules. This could provide an additional or alternative mechanism for Phase 1 anemotropic curvature:
 
 1. Wind creates asymmetric boundary layers.
 2. Endogenously produced ethylene (or other volatiles) accumulates differently on windward vs. leeward sides.
 3. Concentration gradients of these signaling molecules produce differential growth rates.
 4. The stipe curves toward the side with lower signaling molecule concentration (or higher evaporative demand).
-
-The ethylene hypothesis remains speculative for *P. cubensis*, as Badham did not directly measure ethylene production or test ethylene inhibitors.
-
-## Cohen et al. (1975) — Dual Wind Responses in Phycomyces
-
-Cohen, Jan, Matricon, and Delbrück documented that *Phycomyces* exhibits both **anemotropism** (growth toward wind) and an **avoidance response** (growth away from barriers). These are mechanistically distinct:
-
-- **Anemotropism** is driven by the humidity gradient created by wind.
-- **Avoidance response** involves sensing the proximity of a solid object, possibly through ethylene detection.
-
-*P. cubensis* appears to show primarily anemotropic behavior during Phase 1, with no clear analog of the *Phycomyces* avoidance response. However, the cespitose spacing effect observed in *P. cubensis* — where stipes in a cluster grow apart from each other — may represent a similar function achieved through anemotropism rather than a dedicated avoidance response.
-
-## Force vs. Gradients: Alternative Explanations
-
-Badham considered two categories of explanation for Phase 1 curvature:
-
-### 1. Evaporative Demand Gradient (Preferred)
-
-The wind redistributes gases and moisture asymmetrically, creating a physiological gradient that cells respond to individually. This is consistent with the *Phycomyces* water vapor model and explains why:
-
-- Sterile mutants show normal Phase 1 response (no gill hormone needed).
-- Rotation equalizes the effect (equal boundary layers on all sides = straight growth).
-- The response works in both light and darkness.
-
-### 2. Mechanical Force
-
-The mushroom responds to the physical force of wind pressing against it, similar to how *Phycomyces* responds to centrifugal force. This is a simpler explanation but fails to account for:
-
-- Why rotation perpendicular to wind produces upward growth (the force is still present).
-- Why the response is the same in darkness (mechanical force doesn't require light).
-
-Badham favored the gradient explanation but acknowledged that mechanical force cannot be entirely ruled out.
-
-## Research Gaps and Future Directions
-
-The comparison between *Phycomyces* and *P. cubensis* tropism mechanisms suggests several unanswered questions:
-
-1. **Does *P. cubensis* produce ethylene or other volatile signaling molecules** during basidiocarp development?
-2. **Can ethylene inhibitors** (such as silver thiosulfate or 1-MCP) alter Phase 1 anemotropic curvature?
-3. **What is the gill-derived substance** that triggers Phase 2 geotropism — is it a known plant hormone, a novel fungal compound, or a modified endocannabinoid-like molecule?
-4. **Do other basidiomycetes** show similar two-phase tropic programs, or is this unique to coprophilous species?
-5. **Can the boundary layer redistribution model** be directly tested with modern humidity sensors and computational fluid dynamics?
-## Related
-
-- [[wind-tunnel-methodology-mushroom-tropism-research]] Concepts
-
-- [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] — The two-phase model for P. cubensis
-- [[anemotropism-in-fungi]] — Wind-directed growth in [[brassinosteroid-fungal-fruiting-body-morphology]] bodies
-- [[evaporative-demand-hypothesis-mushroom-tropism]] — The boundary layer redistribution mechanism
-- [[sporeless-mutant-geotropism-link-psilocybe-cubensis]] — Sterile mutant evidence for Phase 2 regulation
-- [[cespitose-fruiting-body-spacing-and-tropism]] — Spacing function of anemotropic growth
-
-## Sources
-
-- Badham, E. R. (1982). Tropisms in the mushroom *Psilocybe cubensis*. *Mycologia*, 74(2), 275–279.
-- Cohen, R. J., Jan, Y. N., Matricon, J., & Delbrück, M. (1975). Responses of the sporangiophores of *Phycomyces*. *J. Gen. Physiol.*, 66, 67–95.
-- Dennison, D. S. (1961). Tropic responses of *Phycomyces* sporangiophores to gravitational and centrifugal stimuli. *J. Gen. Physiol.*, 45, 23–36.
-- Johnson, D. L., & Gamow, R. I. (1971). The avoidance response in *Phycomyces*. *J. Gen. Physiol.*, 57, 41–49.
-- Russo, V. E. A., Halloran, B., & Gallori, E. (1977). Ethylene is involved in the autochemotropism of *Phycomyces*. *Plant*, 134, 61–67.

@@ -1,10 +1,11 @@
 ---
-title: cervantes cannabis butter cooking and Cooking Oil Extraction
+title: Cervantes Cannabis Butter Cooking
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, edibles, butter, cooking, extraction]
 ---
@@ -25,7 +26,7 @@ or alcohol. Dissolving the resin in butter, oil, or alcohol
 makes it bioavailable for absorption by the body. Cannabis
 butter contains about 80 percent of the cannabinoids that
 were in the original foliage used to make it. This represents
-a significant retention rate for home extraction methods.
+a significant retention rate for home [[arbuscular-mycorrhizal-spore-extraction-methods]].
 
 Well-made [[cervantes-hash-cannabis-oil-production]] is extremely potent, often registering
 more than 70 percent THC when made from quality starting
@@ -84,45 +85,6 @@ Instructions:
    out remaining oil. Press leaves thoroughly.
 6. Let the mix stand and cool. Once separated, put the mix
    into the freezer. The water will freeze in 4-6 hours.
-7. Pour off the cannabis oil once water is frozen.
+7. Pour off the [[cannabis-oil-capsules-preparation]] once water is frozen.
 
 Important note: olive and peanut oil will coagulate in the
-freezer and cannot be poured off. Use a spatula to scrape the
-oil from the frozen water.
-
-## Storage and Shelf Life
-
-- Cannabis oil liquefies at room temperature.
-- It will keep for about one month at room temperature.
-- Store in the freezer for longer-term preservation.
-- Use cannabis oil in recipes as you would any vegetable oil.
-
-## Dosage Considerations
-
-Edible cannabis products are significantly more potent than
-many consumers expect. The effects take 30 minutes to 2 hours
-to fully manifest and can last 4-8 hours or longer. Key
-guidelines for safe consumption:
-
-- Start with a very small amount, especially when using a
-  new batch.
-- Wait at least 2 hours before consuming more.
-- Effects from edibles are typically more body-focused and
-  longer-lasting than smoked cannabis.
-- Keep edibles clearly labeled and stored away from children
-  and pets.
-
-## Starting Material Quality
-
-The quality of the butter or oil depends on the starting
-material. Leaf and trim produce milder products, while using
-bud material yields much more potent infusions. The ratio of
-cannabis to fat can be adjusted based on desired potency.
-Using more cannabis or higher-quality material increases
-potency proportionally.
-
-## See Also
-
-- [[cervantes-hash-making-extracts]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[cervantes-cannabinoids-thc-cbd-chemistry]]

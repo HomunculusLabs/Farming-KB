@@ -33,7 +33,7 @@ For livestock herds, age structure similarly reveals whether a herd is
 expanding, stable, or declining. Knowing the size of a population seldom
 helps decide what to do about it, whereas the age structure often does. This
 understanding shifts the focus from simple counts to the more nuanced
-management of population dynamics, including breeding stock selection and
+management of [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]], including breeding stock selection and
 culling priorities.
 
 ## Breeding Herd Management
@@ -47,7 +47,7 @@ weight in breeding herds depends on anything outside quality of handling,
 health, and nutrition.
 
 Having worked with vast buffalo herds and cattle herds of up to five thousand,
-Savory has no doubt that for watershed management in brittle environments, the
+Savory has no doubt that for [[ozier-pdc-hydro-cycle-and-watershed-management]] in [[savory-brittle-environments]], the
 larger the herd the better. Herds of two to five thousand head followed by
 longer recovery produce far better results than small ones of two to five
 hundred followed by shorter recovery periods. Unfortunately, land division
@@ -68,7 +68,7 @@ calving rates and large calves and then go broke because of no profit. Had
 the goal been profit and been kept clearly in mind, the high costs associated
 with producing the calving rate and calf weight would have been detected and
 rectified. The stock grower seeking to strengthen the operation might consider
-higher stocking rate, better breeding and culling, better biological planning,
+higher [[savory-stock-density-vs-stocking-rate]], better breeding and culling, better biological planning,
 or improved production policies.
 
 ## Calving and Breeding Season Timing
@@ -88,33 +88,3 @@ cases, annual supplementary feed costs can be drastically lowered. Such a
 change requires careful planning over a few seasons as dollars are shifted
 from supplementation to fencing for a higher marginal reaction in the long
 run.
-
-## Goal Confusion in Herd Decisions
-
-Savory identifies a common trap: goal confusion in herd management decisions.
-Some families producing registered livestock may represent generations of
-love, pride, and toil. Even when they see that the herd runs at a loss, they
-naturally want to stick by the breed. Goals must be broad enough to preclude
-self-contradiction. If profit comes first, then profit from livestock is
-specific enough. Circumstances may arise when a particular kind of livestock
-cannot render a profit, and to stay in business the manager must change.
-
-## The Type of Livestock Matters
-
-The choice of livestock species and type has ecological implications beyond
-production. Almost any livestock can produce adequate [[savory-plant-succession-and-community-dynamics]] and improve soil respiration. On some soils, horses have a much
-better impact than cattle. The vegetation also influences the type of animal
-selected: where sheep and goats can trample short vegetation, very tall old
-grass clumps escape, and only larger animals such as cattle will serve.
-
-Similarly, farmers may have an unstated goal of high yield per acre and lose
-sight of profit being governed by the costs of producing that high yield. The
-holistic goal must always be kept clearly in mind when making breeding and
-culling decisions, ensuring that herd composition serves all three parts of
-the goal: quality of life, production, and future landscape description.
-
-## See Also
-
-- [[savory-livestock-grazing-planning]]
-- [[savory-ranch-financial-planning]]
-- [[savory-livestock-nutrition-and-supplementation]]

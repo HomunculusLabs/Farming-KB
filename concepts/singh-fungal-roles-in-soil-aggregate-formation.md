@@ -88,10 +88,3 @@ Key factors mediating fungal effects on aggregate water stability include:
   group) form stronger organo-mineral associations with fungal products than
   kaolinite or sand-dominated soils.
 - **Land management**: Tillage disrupts hyphal networks and reduces GRSP
-  concentrations, while no-till and conservation agriculture practices preserve
-  fungal contributions to soil structure. This has implications for [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]].
-
-## Related Concepts
-
-- [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
-- [[singh-mycorrhizal-response-under-salinity-stress]]

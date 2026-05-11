@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-The question of whether large mushroom polysaccharide molecules can be effectively absorbed when administered orally has significant implications for their practical use in cancer therapy and prevention. While many mushroom polysaccharides have shown potent anti-cancer activity when administered intravenously or intraperitoneally, their oral bioavailability varies considerably depending on molecular size, chemical structure, and formulation.
+The question of whether large [[mushroom-polysaccharide-chemistry]] molecules can be effectively absorbed when administered orally has significant implications for their practical use in cancer therapy and prevention. While many mushroom polysaccharides have shown potent anti-cancer activity when administered intravenously or intraperitoneally, their [[first-pass-metabolism-and-oral-bioavailability]] varies considerably depending on molecular size, chemical structure, and formulation.
 
 ## The Oral Administration Imperative
 
@@ -57,7 +57,7 @@ This finding has significant implications:
 
 ## Gastrointestinal Absorption Mechanisms
 
-Several mechanisms may explain how protein-bound polysaccharides like PSK and PSP achieve oral bioavailability despite their large size:
+Several mechanisms may explain how protein-bound polysaccharides like [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]] achieve oral bioavailability despite their large size:
 
 1. **Protein moiety-facilitated absorption**: The protein component may interact with gastrointestinal transport mechanisms
 2. **M-cell uptake**: Specialized M-cells in the gut-associated lymphoid tissue (GALT) can transport macromolecules
@@ -79,19 +79,12 @@ Despite decades of clinical use of PSK and PSP in humans, bioavailability and ph
 
 ## Practical Implications
 
-The bioavailability differences among mushroom compounds have direct practical consequences:
+The bioavailability differences among [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]] have direct practical consequences:
 
-- **PSK and PSP**: Can be used as convenient, self-administered oral supplements for cancer patients
+- **PSK and PSP**: Can be used as convenient, self-administered oral supplements [[cannabis-for-cancer-patients]]
 - **Lentinan and Schizophyllan**: Require hospital visits for intravenous administration
 - **Acid-treated glucans**: May offer a future pathway for making currently IV-only compounds available orally
 
-For cancer prevention through [[cancer-prevention-dietary-mushroom-intake]] intake, the oral bioavailability of mushroom polysaccharides is essential, as prevention requires long-term consistent intake that is only practical through oral consumption.
+For [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]] through [[cancer-prevention-dietary-mushroom-intake]] intake, the oral bioavailability of mushroom polysaccharides is essential, as prevention requires long-term consistent intake that is only practical through oral consumption.
 
 ## See Also
-- [[psk-psp-polysaccharide-peptides]]
-- [[mushroom-cancer-clinical-trials-overview]]
-- [[psk-gastric-cancer-clinical-trials]]
-- kappa opioid receptor
-- [[cancer-prevention-dietary-mushroom-intake]]
-- [[medicinal-mushroom-guide-agaricus-blazei]]
-- [[agaricus-blazei-murill-research]]

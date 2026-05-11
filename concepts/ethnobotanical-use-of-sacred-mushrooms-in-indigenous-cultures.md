@@ -1,5 +1,5 @@
 ---
-title: Ethnobotanical Use of Sacred Mushrooms in Indigenous Cultures
+title: Ethnobotanical Use Of Sacred Mushrooms In Indigenous Cultures
 concept_type: topic
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 created: 2026-05-09
@@ -10,7 +10,7 @@ tags: [ethnobotany, sacred-mushrooms, indigenous, mexico, new-guinea, siberia]
 
 ## Overview
 
-The use of neurotropic fungi as sacred or entheogenic substances spans millennia and multiple continents. The most extensively documented traditions involve **indigenous peoples of Mexico** and **aboriginal groups of New Guinea**, with additional records from **Siberian Russia**. These cultural practices are not merely recreational but are embedded within complex spiritual, healing, and cosmological frameworks. Guzmán (1997) documented more than **200 common names** for neurotropic fungi across [[mexican-indigenous-nomenclature-sacred-mushrooms]] languages, reflecting the deep cultural significance of these organisms.
+The use [[distribution-of-neurotropic-fungi]] as sacred or entheogenic substances spans millennia and multiple continents. The most extensively documented traditions involve **indigenous peoples of Mexico** and **aboriginal groups of New Guinea**, with additional records from **Siberian Russia**. These cultural practices are not merely recreational but are embedded within complex spiritual, healing, and cosmological frameworks. Guzmán (1997) documented more than **200 common names** for neurotropic fungi across [[mexican-indigenous-nomenclature-sacred-mushrooms]] languages, reflecting the deep [[amanita-muscaria]] of these organisms.
 
 ## Mexico: The Heartland of Sacred Mushroom Traditions
 
@@ -20,7 +20,7 @@ The earliest written records of sacred mushroom use in Mexico come from the Span
 
 ### Schultes and the Rediscovery (1939)
 
-**Richard Evans Schultes** (1939) published the first modern academic account of psychoactive mushroom use among Mexican Indians, reviving Western scholarly interest after nearly four centuries of colonial suppression. His work identified several species used by the Mazatec, Chinantec, and Zapotec peoples of Oaxaca.
+**[[richard-evans-schultes]]** (1939) published the first modern academic account of [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] use among Mexican Indians, reviving Western scholarly interest after nearly four centuries of colonial suppression. His work identified several species used by the Mazatec, Chinantec, and Zapotec peoples of Oaxaca.
 
 ### The Wasson-Heim Era (1953–1960)
 
@@ -41,7 +41,7 @@ Multiple ethnic groups in southern and central Mexico maintain active traditions
 - Common names: "nti-xi-tho" (that which springs forth), "nise" (little bird)
 
 **Zapotec (Oaxaca)**:
-- Use *Psilocybe zapotecorum* and related species
+- Use *[[psilocybe-zapotecorum]]* and related species
 - The species epithet "zapotecorum" honors this tradition
 - Mushrooms called "derrumbes" (landslides) in Spanish, referencing their psychoactive effects
 
@@ -88,39 +88,3 @@ The Siberian *Amanita* tradition differs fundamentally from Mexican [[powell-may
 - **Preparation**: Often dried, sometimes eaten with other foods to modulate effects
 
 ## New Guinea: Melanesian Mushroom Traditions
-
-### Documentation by Singer and Heim
-
-**Rolf Singer** (1958, 1960) and **Roger Heim** (1965, 1978) reported the use of neurotropic fungi among several aboriginal groups in **New Guinea**, including:
-
-- **Psilocybe** species used in ceremonial contexts
-- **Boletaceous** fungi (boletes) reported as hallucinogenic by indigenous informants
-- **Russula** species included in the category of sacred fungi
-
-### Cultural Context
-
-The New Guinea traditions share some [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with Mexican practices:
-
-- Mushrooms are used in communal or shamanic ceremonies
-- Specific species are associated with particular rituals or outcomes
-- The mushrooms are regarded as manifestations of spiritual forces rather than mere drugs
-
-However, the chemical basis of some reported species remains contested. Ott (1993) argued that the boletes reported by Heim do not possess genuine neurotropic properties, suggesting that the sacred status of some New Guinea fungi may derive from cultural associations rather than pharmacology.
-
-## The Church of the Fungus at Chignahuapan
-
-Guzmán et al. (1975) documented a remarkable case of fungal veneration in **Chignahuapan, Puebla, Mexico**: a church was built specifically in honor of **[[guzman-ganoderma-lobatum-church-cult-chignahuapan-puebla]]**, a bracket fungus. The church features an arresting sketch of Christ with sun and moon on either side, decorating the inner surface of the fungus. Local indigenous people regard the fungus as a saint.
-
-While *G. lobatum* has no confirmed neurotropic properties, its veneration likely derives from association with *Psilocybe* species common to the region. This case illustrates how the sacred status of fungi can transfer between species based on cultural proximity and shared habitat.
-
-## Nomenclature and Linguistic Diversity
-
-Guzmán (1997) cataloged over 200 indigenous names for neurotropic fungi across Mexico alone, including Nahuatl terms such as:
-
-- **"Teonanácatl"**: Divine mushroom (the most famous term)
-- **"Apipiltzin"**: Kid or little boy
-- **"Atkad"**: Mayor or leader
-- **"Di nizé taaya"**: Fungus of the genius
-- **"Shi thó"**: That eruptions thing
-
-The sheer linguistic diversity of mushroom terminology reflects the deep integration of these fungi into the cultural, spiritual, and medical practices of indigenous communities throughout Mesoamerica. Many of these terms encode not just identification but also the perceived effects, spiritual attributes, and ritual roles of the mushrooms.

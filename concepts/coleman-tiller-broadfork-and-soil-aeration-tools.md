@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - eliot-coleman-winter-harvest-handbook.md
 created: 2026-04-28
 type: concept

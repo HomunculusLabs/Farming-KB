@@ -36,13 +36,13 @@ MHB influence the chemical composition of root exudates, making them more favora
 
 MHB can alter the soil conditions around roots to favor mycorrhizal fungi:
 
-- **Nutrient mobilization**: Solubilizing phosphate and other minerals, creating conditions that favor mycorrhizal dependency
-- **pH modification**: Localized pH changes can affect the availability of nutrients and the activity of mycorrhizal fungi
+- **[[gadd-mycorrhizal-mineral-weathering-nutrient-mobilization]]**: Solubilizing phosphate and other minerals, creating conditions that favor mycorrhizal dependency
+- **pH modification**: Localized pH changes can affect the availability of nutrients and the activity [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
 - **Competition suppression**: Antagonizing soil microorganisms that compete with mycorrhizal fungi
 
 ### Biocontrol Synergy
 
-MHB can enhance the mycorrhizal-biocontrol|biocontrol properties of mycorrhizal associations:
+MHB can enhance the mycorrhizal-biocontrol|biocontrol properties of [[plants-without-mycorrhizal-associations]]:
 
 - Production of antibiotics and siderophores that suppress soil-borne pathogens
 - Priming of plant defense responses that complement mycorrhiza-induced resistance
@@ -56,7 +56,7 @@ The discovery of MHB led to the expansion of the rhizosphere concept to include 
 - **Mycorrhizosphere**: The zone around mycorrhizal roots, including both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] communities
 - **Hyphosphere**: The zone surrounding individual mycorrhizal hyphae
 
-AMF hyphae serve as conduits for plant-derived carbon into soil, fueling microbial activity in the mycorrhizosphere and hyphosphere. Between 10-20% of net photosynthate is allocated to mycorrhizal structures and eventually enters soil carbon pools, profoundly shaping the microbial communities in these zones.
+AMF hyphae serve as conduits for plant-derived carbon into soil, fueling microbial activity in the mycorrhizosphere and hyphosphere. Between 10-20% of net photosynthate is allocated to mycorrhizal structures and eventually enters soil carbon pools, profoundly shaping the [[cannabis-rhizosphere-microbial-communities]] in these zones.
 
 ## Key Bacterial Groups
 
@@ -66,7 +66,7 @@ Pseudomonas spp. are among the most studied MHB:
 
 - Produce iron-chelating siderophores that sequester iron from pathogens
 - Generate antibiotics (e.g., 2,4-diacetylphloroglucinol, pyoluteorin)
-- May produce plant growth regulators (auxins, cytokinins)
+- May produce [[singh-fungal-plant-growth-regulators-production]] (auxins, cytokinins)
 - Some strains are nitrogen-fixing (e.g., Pseudomonas putida GR12-2)
 
 ### Bacillus Species
@@ -87,47 +87,3 @@ Bacillus spp. contribute to mycorrhization through:
 ## Combined Inoculation Strategies
 
 ### AMF + PGPR in Micropropagation
-
-Micropropagated plants are produced in sterile conditions and lack any rhizosphere microbiome. Combined inoculation of AMF and PGPR during the weaning stage addresses multiple challenges:
-
-1. **AMF** provides improved nutrient and water uptake, soil aggregation, and some pathogen protection
-2. **PGPR** provides rapid biocontrol through antibiotic and [[singh-fungal-siderophore-production-iron-acquisition]], ethylene reduction, and ISR
-3. **Combined** inoculation often produces additive or synergistic effects, as the two groups target different aspects of plant-microbe interaction
-
-The three functional categories for AMF are:
-- Biofertilizers (nutrient and water uptake enhancement)
-- Biocontrol agents (pathogen suppression)
-- Bioregulators (hormonal effects on plant development)
-
-### Application in Agriculture
-
-For commercial viability, biological inoculants should provide at least a 4-fold return on inoculum cost. Combined AMF-PGPR inoculants are most attractive for:
-
-- High-value horticultural crops
-- [[coleman-deep-organic-farming-philosophy]] systems
-- Restoration of degraded lands
-- Low-input tropical agriculture
-
-## Synergistic Effects
-
-The synergy between AMF and MHB arises from complementary mechanisms:
-
-- MHB improve conditions for AMF establishment; established AMF improve conditions for bacterial colonization through carbon supply
-- AMF extend the effective root zone, increasing the soil volume where MHB can be active
-- Both organisms contribute to induced systemic resistance through different signaling pathways
-- Combined effects on soil aggregation and water-holding capacity exceed individual contributions
-
-## See Also
-
-- [[fungal-biology-fundamentals]]
-- [[ectomycorrhizal-ecology]]
-- [[mycorrhizal-biocontrol]] — Pathogen suppression by mycorrhizal fungi
-- plant-growth-promoting-rhizobacteria — Broader category of beneficial root bacteria
-- rhizosphere — The soil zone around plant roots
-- siderophore — Iron-chelating compounds produced by MHB and mycorrhizal fungi
-
-## Related
-
-- [[fungal-bacterial-partnerships-mycorrhizosphere]]
-- [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
-- fungal-symbiosis-with-plants-beyond-mycorrhizae

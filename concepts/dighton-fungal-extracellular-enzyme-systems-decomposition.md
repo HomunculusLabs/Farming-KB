@@ -17,8 +17,8 @@ type: concept
 # Fungal Extracellular Enzyme Systems in Decomposition
 
 Decomposition is fundamentally a product of enzyme activity, where the
-types of enzymes required depend on the chemical constituents of the
-substrate being decomposed. Fungi secrete extracellular enzymes into
+types of enzymes required depend on the [[guzman-magic-mushrooms-chemical-constituents]] of the
+substrate being decomposed. Fungi secrete [[fungal-extracellular-enzymes]] into
 their environment, and the absorption of reaction products is never 100%
 efficient, leaving resources for other organisms. The ability of
 different fungal species to produce specific enzymes dictates the
@@ -34,12 +34,12 @@ polymers:
 **Lignin** is attacked by [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]],
 glucose oxidase, cellobiose oxidase, arylalcohol oxidase,
 glyoxaloxidase, and laccases. These [[singh-ligninolytic-enzymes-fungal-bioremediation]] are produced
-primarily by white rot basidiomycetes and are critical for breaking
+primarily [[fungal-degradation-of-pcbs-by-white-rot-fungi]] basidiomycetes and are critical for breaking
 down the most recalcitrant plant polymer.
 
 **Cellulose** is degraded by exo-1,4-beta-glucanase, endo-1,4-beta-
 glucanase, and 1,4-beta-glucosidases. Linkins et al. (1984) discussed
-factors affecting extracellular cellulase activity, particularly the
+[[factors-affecting-mycoremediation-efficiency]] extracellular cellulase activity, particularly the
 positive influence of temperature and the cellulose:lignin ratio.
 Cellulose becomes unavailable for microbial use when the cellulose:lignin
 ratio declines below 0.5.
@@ -63,7 +63,7 @@ produce enzymes to sequester nutrients from organic sources. Sinsabaugh
 et al. (1993) developed a model containing both fungal (microbial) and
 soil nutrient controls over enzyme expression.
 
-In wood decomposition, production of lignocellulase enzyme did not
+In [[fungal-wood-decomposition-spatial-variation]], production of lignocellulase enzyme did not
 differ between locations in a temperate [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. However,
 rates of nitrogen and phosphorus immobilization varied considerably.
 The spatial variability of lignocellulase was much less than for acid
@@ -72,7 +72,7 @@ degree of edaphic (soil condition) control over enzyme expression.
 
 ## Enzyme Competence and Fungal Succession
 
-Different fungi have different enzymatic capabilities, so their
+Different fungi have different [[fungal-enzymatic-capabilities]], so their
 appearance on a resource is dictated by three factors: (1) their ability
 to utilize the resource, (2) their rate of arrival at the resource by
 growth or spore transport, and (3) their competitive ability against
@@ -87,35 +87,3 @@ changes from "sugar" fungi to basidiomycetes in relation to changing
 available resources and climatic stresses.
 
 ## Scale of Enzyme Activity
-
-The filamentous growth form of fungi is critical to their enzymatic
-function. Because degradative products of enzyme activity can be
-absorbed along the length of the hyphae, fungi do not need to produce
-the same concentration of enzymes as bacteria, which rely on diffusion
-of substrates to the cell surface. Fungal hyphae of small diameter
-(less than 5 micrometers) allow enzyme expression and changes in leaf
-litter chemistry at a microscale resolution.
-
-Recent studies using microscopic Fourier transform infrared (FT-IR)
-spectrometry have begun to reveal real-time microscale (100 by 100
-micrometer) multichanges in leaf surface carbohydrate chemistry caused
-by fungal colonization. Scaling these observations to ecosystem levels
-and relating them to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] remains a challenge.
-
-## Non-Fungal Contributors
-
-Saprotrophic fungi do not perform decomposition in isolation. Plant and
-animal remains may be comminuted by soil fauna and subjected to enzyme
-attack by bacteria and actinomycetes. Interactions among these organisms
-are important in determining decomposition rate and soil biota
-diversity. The decomposition process is also dynamic, with different
-organisms present at different stages of resource decay.
-
-## See Also
-
-- [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- fungal-enzyme-activity-nutrient-availability
-- [[saprotrophic-fungi]]
-- [[decomposition]]
-- [[ligninolytic-enzymes]]

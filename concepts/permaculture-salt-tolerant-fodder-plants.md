@@ -88,34 +88,3 @@ Native to waterlogged saltlands of Western Australia. Important for the most sev
 **Acacia spp** -- Numerous wattle species tolerate saline conditions including A. ampliceps, A. cyclops, A. ligulata, A. salicina, A. saligna, A. stenophylla, and A. pendula.
 
 **Eucalyptus spp** -- E. sargentii, E. occidentalis, E. spathulata, E. platypus, and others tolerate saline conditions.
-
-**Colophospermum mopane** (Mopane) -- A moderately tall (to 23 m) leguminous tree native to central and southern Africa. Grows on poor soils with bad drainage where not even useful grasses will grow. Amazing ability to withstand dry, saline sites.
-
-**Dalbergia sissoo** (Sissoo) -- A fast growing leguminous tree to 30 m, adapts well to semi-arid conditions.
-
-**Ziziphus mauritiana** (Indian Jujube) -- Can be grafted onto Z. nummularis for saline conditions.
-
-## Coastal and Ocean-Side Plants
-
-### Ground Covers
-
-**Arctotis stoechadifolia** (African Daisy) -- This bushy, creeping perennial (to 25 cm) is native to South Africa. Half hardy to frost, extremely good sand binder. In sand it builds [[hamilton-composting-and-organic-matter-management]] well. Survives hot dry summers. Proven to stabilise heavy soils such as dam walls.
-
-**Arctostaphylos uva-ursi** (Bearberry, Kinnikinik) -- A trailing or creeping shrub (rarely exceeding 75 cm) of the northern temperate region. Frost hardy. Red berries usually eaten cooked, preserved or made into jams and jellies. Dried leaves used as tea.
-
-**Apium prostratum** (Sea Celery) -- A small, squat herb growing on coastal headlands and dunes. Has a striking resemblance to celery. Used as a parsley to allay scurvy. Potential to be bred as a vegetable.
-
-**Sarcocornia quinqueflora** (Chicken Claws, Beaded Glasswort) -- Forms extensive colonies on tidal mudflats. The fleshy stem absorbs the flavour of pickles.
-
-**Sesuvium portulacastrum** (Sea Purslane) -- Fleshy-leaved, shrubby herb native to beaches and mudflats. Leaves make an excellent vegetable and pickles ingredient.
-
-**Suaeda australis** (Sea Blight) -- Fleshy-leaved plant native to most of the coast of Australia. Early settlers used the plant as a vegetable.
-
-## Permaculture Integration
-
-- Use salt-tolerant grasses and legumes to reclaim [[permaculture-earthworks-and-water-harvesting]] for drainage and water table management
-- Combine with mollison-native-seed-forage-systems-and-arid-species-lists
-- [[salt-tolerant-fodder-species]]
-- permaculture-plants-salt-tolerant-fodder-systems
-
-- [[salt-tolerant-fodder-plants]]

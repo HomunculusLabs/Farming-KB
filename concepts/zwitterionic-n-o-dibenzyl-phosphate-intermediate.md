@@ -40,7 +40,7 @@ A similar observation had been reported by Nichols and Frescas (1999),
 who attributed the insoluble material to hydrolytic cleavage of one
 O-benzyl group, forming a zwitterionic O-monobenzyl phosphate mixture.
 However, the Shirota team's more detailed investigation using
-preparative reversed-phase HPLC and comprehensive 2D NMR analysis
+preparative reversed-phase HPLC and comprehensive 2D [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]
 revealed a different structural assignment.
 
 ### Mechanism of Formation
@@ -80,7 +80,7 @@ The 1H NMR spectrum showed signals for two distinct benzyl groups:
 The aromatic protons of the two benzyl groups appeared as separate sets:
 the N-benzyl group at 7.56-7.45 ppm and the O-benzyl group at
 7.31-7.20 ppm. The psilocin core protons and the dimethylaminoethyl
-side chain were shifted to low field compared to free psilocin,
+[[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] were shifted to low field compared to free psilocin,
 consistent with the positive charge on the nitrogen.
 
 ### 13C NMR Evidence (CD3OD, 100 MHz)
@@ -88,60 +88,3 @@ consistent with the positive charge on the nitrogen.
 Key carbon resonances confirmed the zwitterionic structure:
 
 - **N-benzyl methylene**: 69.2 ppm
-- **O-benzyl methylene**: 69.1 ppm (split, due to phosphorus coupling)
-- **C-2' (side chain)**: 67.6 ppm
-- **NMe2**: 50.3 ppm -- significantly deshielded compared to free
-  psilocin (45.3 ppm), confirming the quaternary ammonium character
-- **C-1' (side chain)**: 21.5 ppm -- shifted compared to psilocin
-  (25.1 ppm)
-
-### 31P NMR Evidence
-
-The 31P NMR spectrum showed a single phosphorus resonance at -5.45 ppm
-in CD3OD, confirming the presence of a phosphate monoester group. This
-chemical shift is consistent with a benzyl phosphate monoester.
-
-### HMBC Correlations
-
-The HMBC experiment provided definitive proof of the benzyl group
-placement. Cross-peaks were observed between:
-
-- The N-benzyl methylene protons (4.56 ppm) and the quaternary
-  ammonium nitrogen (via correlations to nearby carbons), confirming
-  the benzyl group is directly linked at the nitrogen of the
-  N,N-dimethyl part.
-- The O-benzyl methylene protons (4.98, 4.96 ppm) and the phosphorus
-  atom, confirming the benzyl group is linked to the phosphate.
-
-### NOESY Correlations
-
-The NOESY spectrum provided additional support through space
-correlations consistent with the zwitterionic structure.
-
-## Chemical Properties
-
-Compound 8 is obtained as a white powder, insoluble in dichloromethane
-but soluble in methanol and DMSO. Its zwitterionic nature is the key to
-its practical utility: it precipitates from dichloromethane while excess
-dibenzyl phosphate byproduct remains in solution, enabling purification
-by simple filtration. This is in stark contrast to the O,O-dibenzyl
-phosphate (compound 7), which is soluble in organic solvents and would
-require chromatographic purification.
-
-The molecular formula is C26H29N2O4P, with HRMS confirming [M + H]+ at
-m/z 465.1883 (calculated 465.1943). The ESI mass spectrum shows a base
-peak at m/z 465.2 [M + H]+ and significant fragment ions at m/z 385.2
-and 295.2.
-
-The discovery of compound 8 was critical for achieving a practical
-large-scale synthesis of psilocybin. The zwitterionic nature of 8
-enables its isolation in over 85% yield by simple filtration, avoiding
-chromatographic purification entirely. Compound 8 is then converted to
-psilocybin by [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]], which simultaneously removes
-both benzyl groups (from nitrogen and from phosphate) to give the
-target molecule in high yield.
-
-## See Also
-
-- [[zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[psilocybin-and-psilocin-chemical-synthesis]]

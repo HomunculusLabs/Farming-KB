@@ -1,23 +1,23 @@
 ---
-title: Coleman Winter Harvest and Post-Harvest Handling
-source: raw/papers/eliot-coleman-winter-harvest-handbook.md
+title: Coleman Winter Harvest Post Harvest Handling
+source: eliot-coleman-winter-harvest-handbook.md
 tags: [winter-harvest, post-harvest, washing-system, eliot-coleman, produce-handling, cold-storage]
 created: 2026-05-09
 ---
 
 # Coleman Winter Harvest and Post-Harvest Handling
 
-The winter harvest system at Four Season Farm extends beyond
+The winter harvest system at [[coleman-four-season-farm]] extends beyond
 growing crops to encompass the complete chain from field to
 customer, including harvest methods, washing, packing, and
 cold storage.
 
 Post-harvest handling in winter presents unique challenges
-that differ significantly from summer vegetable production.
+that differ significantly from summer [[coleman-french-historical-winter-vegetable-production]].
 
 ## Winter Harvest Techniques
 
-Winter vegetables are harvested differently than summer crops.
+[[coleman-cold-hardy-winter-vegetables]] are harvested differently than summer crops.
 Growth is slow during the short days of the Persephone period,
 and plants are essentially in a state of suspended animation.
 
@@ -67,7 +67,7 @@ Cold storage is essential for maintaining quality and extending
 shelf life, even for crops that were already growing in cold
 conditions.
 
-The temperature differential between the growing environment
+The temperature differential between the [[cannabis-growing-environment-setup]]
 and storage should be minimized to avoid thermal shock that
 can damage leaf tissue and accelerate deterioration.
 
@@ -82,68 +82,9 @@ to just a few days for summer-harvested greens.
 ## Packing and Presentation
 
 Winter vegetables command premium prices in direct-market
-settings. Coleman emphasizes washing and packing promptly
+settings. Coleman emphasizes [[coleman-winter-harvest-washing-and-packing]] promptly
 after harvest to lock in freshness. Clean, well-presented
 produce in appropriate containers reinforces the value
 proposition of locally grown winter vegetables to customers.
 Packing materials should protect delicate leaves from crushing
 while allowing some breathability to prevent moisture buildup.
-
-## Seasonal Harvest Calendar
-
-The winter harvest season at Four Season Farm extends from
-roughly October through May, with different crops reaching
-maturity at different times.
-
-October and November see the peak of fall-planted crops
-approaching harvestable size.
-
-December through February is the Persephone period when
-growth nearly stops; existing crops are maintained and
-gradually harvested as needed.
-
-March and April bring the return of active growth, and
-spring-planted crops begin to reach maturity.
-
-The cool house extends harvest availability for tender crops
-that would not survive the coldest months in unheated houses.
-
-## Handling Challenges
-
-Winter harvesting presents physical challenges for workers.
-Cold temperatures make fine motor tasks more difficult, and
-the need to reseal row covers quickly adds time pressure.
-Frozen ground makes root vegetable harvesting demanding,
-requiring more force to extract roots. Workers need insulated
-gloves that allow dexterity, waterproof boots, and layered
-clothing. Scheduling harvests for mid-afternoon helps reduce
-cold exposure for both workers and crops.
-
-## Quality Maintenance
-
-Winter vegetables maintain exceptional eating quality
-because the cold growing conditions concentrate sugars
-and flavors in the plant tissue.
-
-However, this quality can be easily lost through rough
-handling, delayed cooling, or improper storage.
-
-Gentle handling during all stages from cutting to packing
-is essential to preserve the premium quality that justifies
-the higher prices winter vegetables command.
-
-Regular monitoring of storage temperatures and humidity
-levels ensures that conditions remain optimal throughout
-the holding period.
-## See Also
-
-- [[coleman-cool-house-minimal-supplementary-heat]] — The
-  cool house infrastructure that enables winter washing
-- [[coleman-baby-leaf-salad-mix-quality-standards]] — Quality
-  standards for baby leaf production
-- [[coleman-winter-greens-variety-selection]] — Crop selection
-  for winter harvest
-- [[coleman-greenhouse-interior-design-and-management]] —
-  Interior layout including washing station design
-- [[coleman-cold-hardiness-testing-ratings]] — Cold tolerance
-  ratings for specific varieties

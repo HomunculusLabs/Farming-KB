@@ -61,21 +61,21 @@ Optimal growth occurs in deep, well-drained loamy or sandy soils with a pH of 6.
 
 ## Cultivation and Permaculture Applications
 
-Almond trees are propagated commercially by budding onto rootstocks, primarily *P. dulcis* seedling rootstocks and hybrid rootstocks such as × *Prunus persica* × *P. amygdalus* (peach-almond hybrids).
+Almond trees are propagated commercially by budding onto rootstocks, primarily *P. dulcis* seedling rootstocks and hybrid rootstocks such as × *[[prunus-persica]]* × *P. amygdalus* (peach-almond hybrids).
 
 Trees begin bearing at 3–4 years from planting, with full production reached at 7–8 years. Commercial yields range from 1,500–4,000 kg of kernel per hectare under irrigated conditions.
 
 ### Agroforestry Integration
 
-In permaculture systems, almonds function as the upper canopy layer in food forests and silvopastoral designs. Their early bloom provides critical nectar resources for emerging pollinators when few other plants are flowering.
+In permaculture systems, almonds function as the upper [[canopy-layer-design-food-forests]] in food forests and silvopastoral designs. Their early bloom provides critical nectar resources for emerging pollinators when few other plants are flowering.
 
-The extensive root system helps stabilize soil on slopes and improves soil structure through root channels and annual leaf litter deposition. Leaf fall contributes [[hamilton-composting-and-organic-matter-management]] and supports soil microbial communities.
+The extensive root system helps stabilize soil on slopes and improves soil structure through root channels and annual leaf litter deposition. Leaf fall contributes [[hamilton-composting-and-organic-matter-management]] and supports soil [[cannabis-rhizosphere-microbial-communities]].
 
-Almond orchards are increasingly used in combination with sheep grazing (silvopasture), where livestock manage understory vegetation while receiving shade and supplementary forage from fallen nuts.
+Almond orchards are increasingly used in combination with [[permaculture-designers-manual-sheep-grazing]] (silvopasture), where livestock manage understory vegetation while receiving shade and supplementary forage from fallen nuts.
 
 ### Cultivation Challenges
 
-The primary challenges in almond cultivation include spring frost damage during the critical bloom period, susceptibility to fungal diseases (particularly shot hole disease caused by *Wilsonomyces carpophilus*), and high water requirements during kernel fill.
+The primary challenges in almond cultivation include spring frost damage during the critical bloom period, susceptibility to [[duggar-mushroom-insect-pests-and-fungal-diseases]] (particularly shot hole disease caused by *Wilsonomyces carpophilus*), and high water requirements during kernel fill.
 
 Major insect pests include the navel orangeworm (*Amyelois transitella*), the most damaging pest in California production, and various aphid and mite species. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management combining pheromone mating disruption and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents has reduced pesticide dependence in commercial orchards.
 
@@ -87,23 +87,4 @@ Almond kernels are approximately 50% fat, 21% protein, and 22% carbohydrates by 
 
 Key micronutrients include vitamin E (26 mg/100 g), magnesium (268 mg/100 g), calcium (269 mg/100 g), and potassium (733 mg/100 g). Almonds are among the richest plant sources of vitamin E.
 
-Almond flour serves as a gluten-free baking alternative, and almond oil is used in cooking, cosmetics, and traditional medicine. The hulls serve as livestock feed, and the shells are used as biomass fuel and soil amendment.
-
-## Ecological Role
-
-The early-season flowers of *P. dulcis* are a critical nectar and pollen source for honeybees and native pollinators in Mediterranean climates, supporting colony health at a time of seasonal scarcity.
-
-The trees provide nesting sites and habitat structure for birds in agricultural landscapes. Fallen almonds sustain wildlife including deer, rodents, and birds through autumn and winter months.
-
-The deep root system (extending 2–4 meters in mature trees) helps break up compacted subsoil layers and accesses mineral nutrients unavailable to shallow-rooted understory plants. This "nutrient pumping" effect benefits the entire plant community in agroforestry systems.
-
-In Mediterranean fire-prone landscapes, almond orchards can serve as firebreaks due to their relatively low canopy fuel load and high moisture content during the summer fire season compared to native chaparral vegetation.
-
-## See Also
-
-- [[juglans-regia]]
-- [[castanea-mollissima]]
-- [[ficus-carica]]
-- [[caragana-arborescens]]
-- [[agroforestry]]
-- [[food-forest]]
+Almond flour serves as a gluten-free baking alternative, and almond oil is used in cooking, cosmetics, and traditional medicine. The hulls serve as [[livestock-feed-formulation]], and the shells are used as biomass fuel and soil amendment.

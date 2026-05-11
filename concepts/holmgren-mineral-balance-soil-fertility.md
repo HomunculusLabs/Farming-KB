@@ -1,5 +1,5 @@
 ---
-title: "holmgren mineral balance soil fertility and Soil Fertility in permaculture"
+title: Holmgren Mineral Balance Soil Fertility
 created: 2026-04-26
 tags:
   - soil
@@ -11,13 +11,14 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
 # Mineral Balance and Soil Fertility in Permaculture
 
 [[holmgren-soil-humus-carbon-storage-rebuilding]] and
-sustainable agriculture. While Permaculture has emphasised biological solutions,
+[[phosphate-accumulators-sustainable-agriculture]]. While Permaculture has emphasised biological solutions,
 Holmgren argues that understanding and correcting mineral imbalances is essential
 to achieving truly productive and healthy food systems.
 
@@ -38,7 +39,7 @@ design solution for maximum power of terrestrial life.
 
 ## The Fertility Matrix
 
-Most agricultural and garden soils have evolved through stages of development.
+Most agricultural and [[ph-and-nutrient-availability-garden-soils]] have evolved through stages of development.
 Virgin fertility (on the better soils at least) tended to be reasonably balanced.
 Pioneer exploitation quickly or slowly depleted the level of nutrients and created
 imbalances. Modern fertilising has managed to increase nutrient levels and
@@ -80,57 +81,10 @@ indicate a balanced soil.
 
 ## Calcium-Potassium Dynamic
 
-In clay soils, the balance between calcium and magnesium is the most powerful
+In clay soils, the balance between [[dynamic-accumulator-plants-calcium-and-magnesium]] is the most powerful
 factor in determining how friable and open the soil is to air and water, as well
 as the ability of the soil to store water, carbon, and nutrients. These factors
 control biological productivity, ease of management, and resistance to erosion.
 
-The balance between calcium and potassium is the strongest soil factor in
+The balance between [[cho-water-soluble-calcium-and-potassium]] is the strongest soil factor in
 determining how lush or woody vegetation will be:
-
-- When calcium is relatively high, herbaceous vegetation tends to be soft, lush,
-  palatable to animals, and broken down rapidly to humus by bacteria. Fruits tend
-  to be sweet and long-keeping.
-- When potassium is relatively high, herbaceous plants are fibrous and less
-  palatable, resist breakdown, and fungal decay dominates over bacteria. Fruits
-  tend to be more acid and do not keep as well; woody plants do well and wood is
-  more durable.
-
-## Organic Matter Quality
-
-[[savory-soil-organic-matter-and-decomposition-dynamics]] composts made in different ways and with different ingredients
-vary greatly in their quality as sources of soil fertility. Organic materials
-produced from a balanced system will maintain that system in balance if carefully
-recycled. Recycling within an unbalanced system will be successful to varying
-degrees, dependent on the nature and severity of the underlying imbalances.
-
-Fertilising programs to maintain balance are quite different from those necessary
-to establish balance. Just because a soil fertiliser produces a good result does
-not mean that more will produce a better result -- a critical caveat against the
-typical agricultural tendency towards over-application.
-
-## Rock Minerals as Medicine
-
-Rock minerals are powerful medicine that can easily be overused or misused.
-Permaculturalists have tended to ignore the powerful positive changes to long-term
-soil productivity and health that can be effected by carefully selected and timed
-mineral applications. This is understandable given the history of detrimental
-effects of incorrect use of mostly soluble minerals.
-
-However, permaculturalists who ignore the potential benefits may design systems
-that do not provide the mineral balance essential for livestock and human health.
-Better understandings based on the combined use of chemistry (rock minerals) and
-biology (plants, animals, and microbes) are emerging that can provide more
-reliable ways to achieve high productivity and healthy balance.
-
-## Practice at Melliodora
-
-At Melliodora, [[biodynamic-preparations]]) is the
-current focus, given that the basic mineral balance is considered reasonable.
-
-See also: [[holmgren-soil-humus-carbon-storage-rebuilding]],
-holmgren-living-soil-ethic
-
-## See Also
-
-- [[holmgren-vegetation-patterns-biomass-fertility]]

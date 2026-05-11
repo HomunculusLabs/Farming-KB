@@ -2,8 +2,8 @@
 title: "Piper nigrum"
 created: 2026-04-28
 type: species
-tags: [species, plant, piperaceae, herbal, spice, alkaloid, permaculture, tropical,
-  cash-crop, piperine]
+tags: [species, plant, piperaceae, herbal, spice, alkaloid, [[permaculture]], tropical,
+  cash-crop, [[piperine]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,10 +18,10 @@ exploration and colonial expansion. The plant's pharmacological significance
 extends beyond culinary use: its primary alkaloid, piperine, is a potent
 bioavailability enhancer that increases the absorption of numerous drugs and
 nutrients by inhibiting hepatic and intestinal drug-metabolising enzymes.
-Black pepper is cultivated extensively across tropical regions, with Vietnam,
+[[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] is cultivated extensively across [[fukuoka-natural-farming-in-tropical-regions]], with Vietnam,
 India, Brazil, and Indonesia as the leading producers. The vine's climbing
 habit and partial shade tolerance make it suitable for integration into
-permaculture agroforestry systems.
+permaculture [[agroforestry]] systems.
 ## Taxonomy and Naming
 - **Kingdom:** Plantae
 - **Division:** Magnoliophyta
@@ -84,66 +84,7 @@ Piperine (1-piperoylpiperidine) is the primary bioactive alkaloid
 - **Bioavailability enhancement:** Piperine inhibits CYP3A4 and P-
   glycoprotein, the primary drug-metabolising enzyme and efflux
   transporter in the gut and liver; this increases the bioavailability
-  of co-administered compounds by 30–200%, including curcumin (2000%
+  of co-administered compounds by 30–200%, including [[curcumin]] (2000%
   increase), resveratrol, beta-carotene, and numerous pharmaceuticals
 - **Thermogenesis:** Activates TRPV1 receptors, increasing metabolic
   rate and fat oxidation; investigated for anti-obesity applications
-- **Anti-inflammatory:** Inhibits NF-κB and COX-2 pathways; reduces
-  pro-inflammatory cytokine production
-### Volatile Oil Constituents
-The [[permaculture-designers-manual-essential-oil-plants]] (1–3%) provides pepper's characteristic aroma:
-- **β-Caryophyllene (15–30%):** Sesquiterpene; dietary CB2 receptor
-  agonist; anti-inflammatory
-- **Limonene (10–20%):** Monoterpene; citrus aroma; antioxidant
-- **α-Pinene, β-pinene (5–10% each):** Piney aroma; antimicrobial
-- **3-Carene, sabinene, myrcene, linalool:** Minor constituents
-  contributing to the complex aromatic profile
-### Other Constituents
-- **Piperettine, piperanine, piperlongumine:** Minor alkaloids with
-  cytotoxic and anti-cancer activities in preclinical studies
-- **Chavicine:** Geometric isomer of piperine; contributes to pungency
-- **Vitamins:** Rich in vitamin K; contains vitamin A, C, and B-complex
-- **Minerals:** Manganese, iron, potassium, calcium, magnesium
-## Cultivation and Permaculture Integration
-### Cultivation Requirements
-| Parameter | Optimal Range | Notes |
-|-----------|--------------|-------|
-| Temperature | 23–32°C | Growth ceases below 15°C; killed by frost |
-| Rainfall | 1250–2500 mm/year | Requires 125–150 mm during flowering |
-| Soil pH | 5.5–6.5 (acidic) | Tolerant of poor soils but responds to [[hamilton-composting-and-organic-matter-management]] |
-| Soil type | Loamy, well-drained, rich in organic matter | Sandy loam preferred; heavy clay unsuitable |
-| Sunlight | Partial shade to full sun | Shade during establishment; full sun for mature vines |
-| Support | Living trees or trellis | Requires support to climb; 2–6 m support height |
-
-### Permaculture Functions
-- **Agroforestry integration:** Grows as an understorey vine on
-  nitrogen-fixing support trees (Gliricidia, Erythrina, Leucaena);
-  multi-strata system produces pepper, timber, and legume benefits
-- **Income diversification:** High-value cash crop for smallholder
-  systems; intercropped with coffee, coconut, areca nut, and cardamom
-- **Soil protection:** Dense leaf canopy and root mat reduce erosion
-  on tropical slopes
-- **Biodiversity support:** Flowers attract pollinators; fruit
-  attracts frugivorous birds
-## Historical and Economic Significance
-Black pepper was known as "black gold" in antiquity. Roman demand was
-## See Also
-
-- [[2c-h-entity]]
-- [[jujube-entity]]
-- [[2c-se-entity]]
-- [[2c-t-9-entity]]
-- [[piper-auritum]]
-- [[4-ma-entity]]
-- [[g-5-entity]]
-- [[2c-f-entity]]
-- [[lepidium-meyenii-entity]]
-- [[2c-t-8-entity]]
-- [[2c-c-entity]]
-- [[ip-entity]]
-- [[tp-entity]]
-
-- [[piper-guineense-entity]]
-- [[zingiber-officinale]]
-- [[piperine]]
-- [[capsicum-annuum]]

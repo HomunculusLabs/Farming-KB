@@ -20,9 +20,9 @@ sources:
 
 ## Overview
 
-**Capsicum baccatum** is a species of chili pepper native to South America, widely cultivated for its distinctive floral aroma and moderate to high pungency.
+**Capsicum baccatum** is a species of chili pepper native to [[guzman-psilocybin-mushrooms-south-america]], widely cultivated for its distinctive floral aroma and moderate to high pungency.
 
-It ranks among the most economically significant pepper species worldwide, second only to *Capsicum annuum* in South [[fukuoka-american-agricultural-decline]] production.
+It ranks among the most economically significant pepper species worldwide, second only to *[[capsicum-annuum]]* in South [[fukuoka-american-agricultural-decline]] production.
 
 Common names include **ají** (South America), **pepperoncini** (Italy, when pickled), and **bishop's crown** (ornamental varieties).
 
@@ -69,11 +69,11 @@ The center of diversity is located in the tropical and subtropical valleys of th
 
 Naturalized populations have been reported in parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Africa, and [[psilocybe-southeast-asia-pacific]] following historical trade routes.
 
-The species thrives in warm temperate to subtropical climates with well-drained soils and moderate rainfall.
+The species thrives in warm temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with well-drained soils and moderate rainfall.
 
 ## Culinary Use and Varieties
 
-*C. baccatum* is the dominant pepper species in traditional South American cuisine, particularly in Peru, Bolivia, and Ecuador.
+*C. baccatum* is the dominant pepper species in traditional [[chiric-caspi-brunfelsia-south-american-hallucinogen]] cuisine, particularly in Peru, Bolivia, and Ecuador.
 
 **Ají amarillo** is the most commercially important cultivar, forming the flavor base of Peruvian cuisine including dishes like ají de gallina and causa limeña.
 
@@ -88,40 +88,3 @@ Ají amarillo is prized for its unique fruity, citrus-like flavor profile with m
 The species has gained popularity in international markets for its complex flavor, which differs markedly from the grassy, earthy notes of *C. annuum*.
 
 Several cultivars are pickled whole for use as condiments, particularly in Italian and Mediterranean cuisine.
-
-## Cultivation
-
-*C. baccatum* is typically grown as an annual in temperate regions and as a perennial in tropical and subtropical zones.
-
-Seeds require warm conditions (25–30°C) for reliable germination, with emergence occurring within 7–14 days.
-
-Plants prefer full sun exposure and well-drained, fertile soils with a pH range of 6.0–6.8.
-
-Flowering begins 60–80 days after transplanting, with fruit maturation occurring 90–120 days post-transplant.
-
-Yields average 15–25 tonnes per hectare under commercial cultivation, though specific cultivar and growing conditions significantly influence output.
-
-The species shows moderate tolerance to drought and [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] compared to *C. annuum*, making it suitable for warmer growing regions.
-
-Common pests include aphids, whiteflies, and thrips, while major diseases include tobacco mosaic virus and [[amf-biocontrol-phytophthora-root-exudate-modification]] rot.
-
-## Bioactive Compounds and Nutrition
-
-Like other *Capsicum* species, *C. baccatum* contains capsaicinoids responsible for pungency, primarily capsaicin and dihydrocapsaicin.
-
-Total capsaicinoid content ranges from 0.1% to 0.8% dry weight depending on the cultivar and growing conditions.
-
-The species is notably rich in **capsanthin** and **capsorubin**, carotenoid pigments responsible for the vibrant red color of ripe fruits.
-
-Vitamin C content is exceptionally high in fresh fruits, reaching 200–400 mg per 100 g in some cultivars.
-
-Flavonoids including quercetin and luteolin have been identified in pericarp tissue.
-
-The distinct floral and fruity aroma is attributed to a complex profile of volatile esters, lactones, and terpenes not commonly found in other pepper species.
-
-## See Also
-
-- [[capsicum-chinense]]
-- [[pimenta-dioica]]
-- [[cuminum-cyminum]]
-- [[myristica-fragrans]]

@@ -19,7 +19,7 @@ breaking down whole fish or fish byproducts into a nutrient-rich liquid.
 Unlike fish emulsion, hydrolysate is produced using cold processing that
 preserves amino acids, proteins, and beneficial oils. It provides a
 balanced source of nitrogen, phosphorus, potassium, and micronutrients
-while feeding the [[soil-food-web]] uses to build humus, cycle nutrients, and
+while feeding the [[soil-foodweb]] uses to build humus, cycle nutrients, and
 suppress pathogens. In this way, fish hydrolysate works more like a
 pre-digested food source for soil biology than a conventional fertilizer.
 

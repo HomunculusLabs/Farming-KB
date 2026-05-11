@@ -88,31 +88,3 @@ distribution, known from Europe, India, Russia, Canada, USA, Chile, Peru,
 New Zealand, Australia, and Tasmania, but is surprisingly absent from Mexico.
 
 ## Anthropogenic Distribution Patterns
-
-Human activity has significantly influenced the distribution of several
-neurotropic species. Amanita muscaria has been introduced to pine
-plantations far beyond its natural range, establishing populations in
-Brazil, Colombia, Tanzania, Australia, and New Zealand. Psilocybe
-cubensis likely reached the Americas through the colonial-era slave trade,
-carried with cattle from Africa. Copelandia cyanescens and other tropical
-species may have spread through similar anthropogenic mechanisms. These
-human-mediated dispersal events complicate biogeographic analysis and
-require careful consideration when interpreting species distribution
-patterns. Distinguishing natural from anthropogenic distributions is
-essential for understanding the true evolutionary history of these fungi.
-
-## Psilocybe cubensis: An Introduced Species?
-
-Psilocybe cubensis, common in Mexico, Central, and South America growing on
-cow dung, does not occur in Europe. Since cattle in the Americas were
-introduced by the Spanish in the 16th-17th centuries, Guzmán (1983)
-proposed that P. cubensis was introduced to the Americas through the slave
-trade during the Spanish colonial period. This hypothesis explains the
-species' distribution pattern and its absence from Europe despite the
-availability of suitable substrates. See
-neurotropic-fungi-in-south-america
-for more on this distribution.
-
-## See Also
-
-- [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]

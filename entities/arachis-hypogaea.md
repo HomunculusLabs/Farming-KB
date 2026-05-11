@@ -88,26 +88,3 @@ As a legume, A. hypogaea forms symbiotic relationships with nitrogen-fixing rhiz
 The extensive root system improves soil structure and reduces erosion on sandy soils. Peanut production is particularly important in conservation agriculture systems in semi-arid tropics.
 
 The crop provides habitat and forage for [[coleman-beneficial-insects-and-ecological-pest-control]] including pollinators and predatory species. Intercropping peanuts with cereals can enhance overall farmland biodiversity.
-
-Peanut hay (the dried vines after harvest) is a valuable livestock feed, containing 8–12% protein. This dual-purpose nature makes peanuts especially important for smallholder farming systems.
-
-## Uses and Processing
-
-Peanut oil is the primary product of global peanut production, used for cooking, frying, and food manufacturing. High-oleic cultivars with extended shelf life have gained significant market share since the 1990s.
-
-Peanut butter, made from roasted and ground kernels, is a staple food in [[psilocybin-north-america-pacific-northwest]] and is increasingly popular globally. Roasted peanuts, boiled peanuts, and peanut confections are major snack products.
-
-Industrial uses include peanut oil as a biofuel feedstock, as a base for paints and varnishes, and in soap manufacturing. The protein fraction is used in animal feed formulations.
-
-Peanut skins, a byproduct of blanching, are rich in polyphenols and are being investigated as functional food ingredients. Arachidin-1, an isoflavonoid from peanut roots, has potent antioxidant and anti-inflammatory properties.
-
-## See Also
-
-- [[vigna-radiata]]
-- [[cicer-arietinum]]
-- [[phaseolus-vulgaris]]
-- [[aflatoxin]]
-- resveratrol
-- [[porphyra-umbilicalis]]
-- [[psophocarpus-tetragonolobus]]
-- [[vigna-unguiculata]]

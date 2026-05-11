@@ -2,7 +2,7 @@
 title: powell universal symbology in entheogenic visions in Entheogenic Visions
 created: 2026-04-28
 tags: [symbology, visionary-experience, entheogens, symbols, archetypes,
-  shamanism, information-theory]
+  [[shamanism]], information-theory]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -41,12 +41,12 @@ wisdom; the Australian aborigines, who revered the Rainbow Serpent; the
 ancient epic of Gilgamesh, in which a serpent tells of a plant conferring
 immortality; the peoples of India, who worshipped Nagas or wise serpents; and
 in the Eden of the [[allegro-old-testament-figures-as-fertility-deities]], where the serpent offers [[tree-of-knowledge-and-forbidden-fruit-theory]]
-from the tree of knowledge. In every case, the serpent symbolises a wise,
+from the [[stropharia-cubensis-tree-of-knowledge]]. In every case, the serpent symbolises a wise,
 divine, or spiritual life-force.
 
 ## The Higher Language of the Psyche
 
-Powell argues that universally powerful visionary symbols constitute a
+Powell argues that universally powerful [[visionary-symbols-and-universal-archetypes]] constitute a
 "higher language" of the psyche, one in which the visual elements are far
 richer in meaning and informational content than the words of spoken language.
 The direct perception of visionary symbols choreographed together in a
@@ -88,12 +88,3 @@ serve as a powerful universal symbol because they contain a wealth of
 informative relations, capturing a tremendous amount of meaning. However,
 symbols can only be understood relative to the observer's existing network of
 knowledge; a newborn or a person from a radically different culture would not
-perceive the same meaning.
-
-## Naranjo on the Language of [[powell-sleeping-dreams-and-waking-dreams]],
-[[powell-entheogens-as-epistemological-tools]],
-[[powell-shamanic-wisdom-and-ritual-practice]]
-
-## See Also
-
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]

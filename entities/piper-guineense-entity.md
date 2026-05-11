@@ -22,7 +22,7 @@ sources:
 
 # Piper guineense
 
-**Piper guineense**, known as **West African black pepper**, **Uziza pepper**, **Ashanti pepper**, **Benin pepper**, or **Guinea pepper**, is a flowering vine in the family Piperaceae. It is native to the tropical forests of West and Central Africa and is widely used as a spice and medicinal plant across the region. Despite the common name, it is not closely related to true black pepper (*Piper nigrum*), though both belong to the same genus.
+**Piper guineense**, known as **West African [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]**, **Uziza pepper**, **Ashanti pepper**, **Benin pepper**, or **Guinea pepper**, is a flowering vine in the family Piperaceae. It is native to the [[fungal-biodiversity-tropical-forests]] of West and Central Africa and is widely used as a spice and medicinal plant across the region. Despite the common name, it is not closely related to true black pepper (*[[piper-nigrum-entity]]*), though both belong to the same genus.
 
 ## Taxonomy
 
@@ -49,7 +49,7 @@ The species was first formally described by Heinrich Christian Friedrich Schumac
 
 ## Distribution and Habitat
 
-*P. guineense* is native to the tropical rainforest belt of West and Central Africa, from Senegal eastward through Nigeria, Cameroon, Gabon, Congo, and into the Democratic Republic of Congo and northern Angola. It grows naturally in the understory of lowland and premontane moist forests, typically at elevations of 0–1,500 meters. It prefers humid, shaded conditions with well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]].
+*P. guineense* is native to the [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] belt of West and Central Africa, from Senegal eastward through Nigeria, Cameroon, Gabon, Congo, and into the Democratic Republic of Congo and northern Angola. It grows naturally in the understory of lowland and premontane moist forests, typically at elevations of 0–1,500 meters. It prefers humid, shaded conditions with well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 ## Culinary Uses
 
@@ -69,7 +69,7 @@ The seeds and leaves contain a rich array of [[query-what-are-the-main-bioactive
 - **Alkaloids:** Piperine, piperettine, piperlonguminine
 - **Flavonoids:** Quercetin, rutin, and other glycosylated flavonoids
 - **Lignans:** Dihydrocubebin, cubebin
-- **Phenolic compounds:** Chlorogenic acid, caffeic acid derivatives
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Chlorogenic acid, caffeic acid derivatives
 - **Nutritional value:** Seeds contain ~7% protein, ~8% fat, ~50% carbohydrates, significant amounts of calcium, iron, and vitamins A and C
 
 ## Medicinal Properties
@@ -81,57 +81,9 @@ The seeds and leaves contain a rich array of [[query-what-are-the-main-bioactive
 - **Respiratory system:** Treatment of coughs, colds, bronchitis, and asthma; leaves are used as steam inhalants
 - **Gastrointestinal:** Relief from stomach ache, indigestion, flatulence, and intestinal parasites
 - **Reproductive health:** Uterine stimulant; used to aid menstruation and ease labor pains
-- **Pain relief:** Analgesic for headaches, toothache, and joint pain
+- **[[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]:** Analgesic for headaches, toothache, and joint pain
 - **Antimicrobial:** Treatment of skin infections and wounds
 - **Lactation enhancement:** Postpartum spice to promote milk production
 - **Fever reduction:** Used in traditional fever management
 
 ### Scientific Validation
-
-- **Antimicrobial activity:** Essential oils show significant activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus niger*
-- **Anti-inflammatory:** Ethanolic extracts inhibit carrageenan-induced paw edema in animal models
-- **Antioxidant:** High radical scavenging activity attributed to flavonoids and phenolic acids
-- **Antinociceptive:** Analgesic effects demonstrated in hot-plate and acetic acid writhing tests
-- **Antimalarial:** Moderate activity against *Plasmodium falciparum* in vitro
-- **Insecticidal:** Essential oil shows repellent and larvicidal activity against mosquitoes
-
-## Cultivation and Permaculture Applications
-
-*P. guineense* is an excellent candidate for integration into tropical agroforestry and permaculture systems:
-
-- **Propagation:** Primarily by seed (soaking improves germination) or stem cuttings; cuttings from mature vines root readily in humid conditions
-- **Support system:** Requires a trellis, living fence, or shade tree for climbing; in agroforestry, it can be grown on cacao, mango, or citrus trees
-- **[[growing-gourmet-light-requirements-mushroom-fruiting]]:** Partial shade (40–70% shade), making it ideal for understory cultivation
-- **Soil:** Prefers rich, well-drained loamy soils with pH 5.5–6.5; benefits from organic matter amendments
-- **Water:** Requires consistent moisture; drought-sensitive
-- **Harvest:** Leaves can be harvested beginning 6–8 months after planting; fruits typically appear in the second year
-- **Yield:** Established vines produce 1–3 kg dried fruit per plant per year
-
-### Companion Planting
-
-- Compatible with shade trees including cacao, coffee, kola, and fruit trees
-- Can serve as a ground cover or climbing vine in food forest systems
-- Its aromatic properties may help deter certain insect pests
-
-## Economic Importance
-
-Uziza pepper is an important cash crop for smallholder farmers in West Africa. It is sold in local markets and increasingly in international specialty spice markets. The dried seeds command premium prices in urban markets of Lagos, Abuja, Accra, and Douala. Commercial cultivation remains limited, with most supply coming from wild harvesting and semi-managed garden plants.
-
-## Conservation
-
-While not currently listed as threatened, wild populations face pressure from deforestation and forest fragmentation across West Africa. The species' dependence on forest habitats makes it vulnerable to land-use change. Domestication efforts and cultivation promotion could reduce pressure on wild populations while providing economic benefits to farming communities.
-
-## Related Species
-
-- *Piper nigrum* (true black pepper) — South/Southeast Asian origin
-- *Piper longum* (Indian long pepper) — Ayurvedic medicinal plant
-- *[[plants-of-the-gods-piper-methysticum-kava]]* (kava) — Pacific Islands psychoactive species
-- *Piper betle* (betel leaf) — South Asian masticatory
-- *Piper cubeba* (cubeb) — Indonesian medicinal spice
-
-## See Also
-
-- [[aspergillus-niger]]
-- [[piper-nigrum-entity]]
-- [[piper-longum]]
-- [[capsicum-annuum]] (comparison of pungent spices)

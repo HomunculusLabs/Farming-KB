@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the Neurotropic Fungi
 type: concept
 ---
@@ -86,13 +87,3 @@ Current research on neurotropic fungi extends well beyond taxonomy into clinical
 Citizen science platforms such as iNaturalist and Mushroom Observer have democratized the documentation of neurotropic fungi distributions, partially addressing the mycologist distribution bias identified by Guzmán, Allen, and Gartz. These platforms have enabled the discovery of range extensions and potentially new species in regions previously considered well-explored, demonstrating that the mapping of global diversity remains an ongoing project.
 
 ## Related Topics
-
-- [[guzman-psilocybin-mushrooms-africa]]
-- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
-
-## See Also
-
-- five-historical-periods-neurotropic-fungi-discovery-guzman-2000
-- [[distribution-of-neurotropic-fungi]]
-- [[psilocybe-mexicana]]
-- [[neurotropic-fungi]]

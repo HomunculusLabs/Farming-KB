@@ -88,25 +88,3 @@ The study of mycelial network resilience has inspired applications in several fi
 ## Comparison to Engineered and Biological Networks
 
 Mycelial networks occupy an interesting middle ground in the spectrum of biological and engineered networks:
-
-- **Trees and river networks**: These are branching networks with no cycles (alpha index = 0). They are efficient for one-way transport but have no redundancy — cutting any branch disconnects everything downstream.
-- **Mycelial networks**: Moderate redundancy (alpha index typically 0.2-0.5). They balance the metabolic cost of maintaining hyphal material against the benefit of transport resilience.
-- **Leaf venation networks**: Higher redundancy than mycelial networks, with many cross-connections that maintain water transport even when veins are damaged by herbivory.
-- **Brain neural networks**: Extremely high connectivity and redundancy, reflecting the brain's need for robust information processing despite neuron loss.
-- **Power grids and road networks**: Variable redundancy depending on design philosophy. Modern critical infrastructure often targets mycelial-like redundancy levels as a cost-effective resilience strategy.
-
-The key insight from comparing mycelial networks to these other systems is that fungi achieve near-optimal resilience for their metabolic investment. They do not over-invest in redundancy (which would waste carbon and energy) but maintain enough alternative pathways to survive common forms of damage. This "just enough" resilience strategy may be the most efficient approach for systems that face unpredictable but non-catastrophic disturbances.
-
-## Temporal Dynamics of Network D mycelial network structure rk structure changes significantly over time as the colony grows and encounters resources:
-
-1. **Initial exploration phase**: The colony grows as a simple branching tree, with hyphae radiating outward from the inoculum. During this phase, the network has no redundancy (beta index near 1.0) and is vulnerable to any damage that severs a main branch.
-
-2. **Resource contact phase**: When hyphal tips encounter new resource patches, growth patterns change. The fungus produces denser branching near the resource, and cords may form to connect the new patch back to the original inoculum. Cross-connections between branches begin to form, creating the first cycles in the network.
-
-3. **Network consolidation phase**: After multiple resources are connected, the fungus reinforces high-capacity transport pathways (thick cords) between resource patches while maintaining thin exploratory hyphae at the colony margin. The network becomes increasingly modular, with dense clusters around resources connected by high-capacity cords.
-
-4. **Remodeling phase**: As resources are depleted or new ones discovered, the fungus abandons unproductive network sections and reallocates resources. This continuous remodeling means that the network's resilience profile changes over time, typically increasing as the colony matures and establishes more connections.
-
-## See Also
-- [[biological-network-theory]]
-- [[mycelial-network-nutrient-transport-imaging-gadd]]

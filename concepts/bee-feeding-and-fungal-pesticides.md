@@ -5,17 +5,18 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Bee Feeding and Fungal Pesticides
 
 ## Overview
 
-Fungal pesticides (mycopesticides) use entomopathogenic fungi -- fungi that parasitize and kill insects -- as alternatives to chemical pesticides. The primary genera are Metarhizium (green mold), Beauveria (white mold), Hirsutella, and Paecilomyces. These fungi can target specific pest insects while sparing beneficial organisms, including pollinators. This selectivity makes them particularly valuable in agricultural systems where bee health is critical.
+Fungal pesticides (mycopesticides) use entomopathogenic fungi -- fungi that parasitize and kill insects -- as alternatives to [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. The primary genera are Metarhizium (green mold), Beauveria (white mold), Hirsutella, and Paecilomyces. These fungi can target specific pest insects while sparing beneficial organisms, including pollinators. This selectivity makes them particularly valuable in agricultural systems where bee health is critical.
 
 ## The Discovery of Presporulating Mycelium
 
-Paul Stamets discovered that the mycelium of parasitic fungi prior to sporulation acts as a "Trojan horse," attracting insect victims rather than repelling them. While studying Metarhizium anisopliae for carpenter ant control, he noticed white wedge-shaped sectors of growth that lacked or had delayed spore formation. After successive transfers, he isolated a nonsporulating mycelial phenotype that was still lethal to insects but emitted attractants and feeding stimulants.
+Paul Stamets discovered that the mycelium of parasitic fungi prior to sporulation acts as a "Trojan horse," attracting insect victims rather than repelling them. While studying [[metarhizium-anisopliae]] for carpenter ant control, he noticed white wedge-shaped sectors of growth that lacked or had delayed spore formation. After successive transfers, he isolated a nonsporulating mycelial phenotype that was still lethal to insects but emitted attractants and feeding stimulants.
 
 This was a key discovery because:
 - Insects can detect entomopathogenic spores and avoid them
@@ -25,7 +26,7 @@ This was a key discovery because:
 
 ### Patent and Commercial Development
 
-Stamets was awarded a patent (US Patent 9,504,258) for "Mycotecture and Myco-materials" which included presporulating mycelium approaches for pest control. The discovery opened the door to "bait stations" where fungal mycelium is offered as food to target pests, rather than sprayed as spores over entire fields. This dramatically reduces non-target exposure.
+Stamets was awarded a patent (US Patent 9,504,258) for "Mycotecture and Myco-materials" which included presporulating mycelium approaches [[insectary-plants-for-pest-control]]. The discovery opened the door to "bait stations" where fungal mycelium is offered as food to target pests, rather than sprayed as spores over entire fields. This dramatically reduces non-target exposure.
 
 ## How Entomopathogenic Fungi Work
 
@@ -45,7 +46,7 @@ The insect cuticle is the first and most important barrier to infection. Entomop
 - **Lipases**: Degrade the epicuticular wax layer
 - **Esterases**: Help penetrate the outer lipid barrier
 
-The combination of enzymatic degradation and mechanical pressure from the growing germ tube allows the fungus to penetrate the cuticle within 12-24 hours of attachment.
+The combination of [[enzymatic-degradation-in-mycoremediation]] and mechanical pressure from the growing germ tube allows the fungus to penetrate the cuticle within 12-24 hours of attachment.
 
 ### Hemocoel Colonization and Death
 
@@ -63,8 +64,8 @@ Death typically occurs 3-7 days after infection, depending on the fungus, the in
 
 The Varroa destructor mite is the most significant threat to managed honey bees worldwide. Entomopathogenic fungi have been investigated as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against Varroa:
 
-- **Metarhizium anisopliae**: Strains of M. anisopliae have shown efficacy against Varroa in laboratory and field trials. Application methods include dusting hives with fungal spores or placing spore-impregnated materials inside the hive
-- **Beauveria bassiana**: Also effective against Varroa in controlled studies, with some commercial products available for beekeepers
+- **Metarhizium anisopliae**: Strains of M. anisopliae have shown efficacy against Varroa in laboratory and field trials. [[compost-tea-application-methods]] include dusting hives with fungal spores or placing spore-impregnated materials inside the hive
+- **[[beauveria-bassiana]]**: Also effective against Varroa in controlled studies, with some commercial products available for beekeepers
 - **Hirsutella thompsonii**: A natural mite pathogen that has been evaluated for Varroa control
 
 A key advantage of fungal control over chemical acaricides is that mites do not develop resistance as readily. Fungi attack through multiple mechanisms (enzymatic penetration, toxin production, mechanical disruption), making resistance evolution less likely than with single-target chemical agents.
@@ -87,50 +88,3 @@ Key safety considerations:
 - Spore-based products risk infecting non-target insects if not carefully formulated
 - The presporulating mycelium approach offers greater selectivity
 - Field application must consider foraging patterns and exposure risks
-- Regulatory frameworks for fungal biopesticides are still developing
-- Some studies suggest sublethal effects of fungal exposure on bee behavior and longevity, though these are generally much less severe than chemical pesticide effects
-
-## The Biopesticide Market
-
-The pesticide industry market in the United States exceeds $9 billion, of which approximately 5% ($450 million) is from biopesticides. The biopesticide market share is increasing at 15% per year. The environmental persistence and inherent toxicity of conventional pesticides have only recently been recognized, driving interest in fungal alternatives.
-
-Major commercial mycopesticide products include:
-- **Metarhizium-based**: BioCane (sugarcane), Green Guard (locusts, grasshoppers), MetaShield (various crops)
-- **Beauveria-based**: BotaniGard (greenhouse pests), Mycotrol (field crops), Naturalis (ornamentals)
-- **Isaria-based**: NoFly (whiteflies), PFR-97 (various insects)
-
-## Key Species
-
-- **Metarhizium anisopliae**: Green mold; used against termites, carpenter ants, and various crop pests. Broad host range but strain-specific. Found worldwide in soils
-- **Beauveria bassiana**: White mold; broad-spectrum entomopathogen used against whiteflies, thrips, and beetles. One of the most commercially successful biopesticide agents
-- **Hirsutella spp.**: Used against mites and other arthropods. H. thompsonii is a natural pathogen of eriophyid mites
-- **Paecilomyces spp.**: Various insect pathogen species. P. fumosoroseus (now reclassified as Isaria fumosorosea) is used against whiteflies and thrips
-- **Lecanicillium spp.**: Pathogens of aphids, whiteflies, and scale insects. L. lecanii is used in greenhouse biocontrol
-
-## Advantages Over Chemical Pesticides
-
-- Species-specific targeting possible through strain selection
-- No toxic residue accumulation in honey, wax, or the environment
-- Self-replicating in the environment (unlike chemical pesticides that must be reapplied)
-- Insects do not develop resistance as easily due to multi-target attack
-- Compatible with [[coleman-deep-organic-farming-philosophy]] systems
-- Safe for humans, mammals, and most [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] at recommended [[ingham-compost-tea-application-rates-and-timing]]
-- Can be integrated into integrated pest management (IPM) programs
-
-## Challenges and Limitations
-
-- **Environmental sensitivity**: Fungal efficacy depends on temperature, humidity, and UV exposure. Spores degrade rapidly in direct sunlight
-- **Production costs**: Mass production of viable spores can be expensive compared to chemical synthesis
-- **Storage and shelf life**: Spore viability declines over time; formulations require careful storage
-- **Regulatory hurdles**: Biopesticide registration varies by country and can be as costly as chemical pesticide registration
-- **Variable field performance**: Results can be inconsistent compared to chemical pesticides, particularly in arid environments
-- **Public perception**: Some consumers are wary of "fungus" on their food, despite its safety
-
-## Related
-
-- [[mycorestoration-framework]] -- umbrella concept including mycopesticides
-- [[fungal-biopesticides]] -- detailed biopesticide guide
-- [[beekeeping-basics]] -- beekeeping fundamentals
-- bee feeding and fungal pesticides -- bee feeding and nutrition
-- [[mycelium-running-pest-control-with-fungi]]
-- [[lichens-primary-production-soil-formation-dighton]]

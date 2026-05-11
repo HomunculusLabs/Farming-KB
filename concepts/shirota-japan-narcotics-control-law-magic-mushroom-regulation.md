@@ -8,13 +8,13 @@ tags: [legal, regulation, japan, psilocybin, magic-mushrooms, drug-policy, shiro
 
 ## Overview
 
-The Shirota, Hakamata, and Goda (2003) paper on the synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] opens with a discussion of the regulatory context that motivated the research. On June 6, 2002, fungi containing psilocin and psilocybin were regulated by the Narcotics and Psychotropic Control Law in Japan. This regulatory change created an urgent need for reliable standard compounds for the forensic identification of [[guzman-magic-mushrooms-african-species]], which in turn drove the development of the concise large-scale synthesis described in the paper.
+The Shirota, Hakamata, and Goda (2003) paper on the synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] opens with a discussion of the regulatory context that motivated the research. On June 6, 2002, fungi containing [[psilocin-and-psilocybin-chemistry]] were regulated by the Narcotics and Psychotropic Control Law in Japan. This regulatory change created an urgent need for reliable [[shirota-forensic-standard-compounds-magic-mushroom-identification]] for the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of [[guzman-magic-mushrooms-african-species]], which in turn drove the development of the concise large-scale synthesis described in the paper.
 
 ## The Regulatory Change of 2002
 
-Prior to June 2002, magic mushrooms containing psilocybin and psilocin existed in a legal gray area in Japan.
+Prior to June 2002, magic mushrooms containing [[hplc-analysis-of-psilocybin-and-psilocin]] existed in a legal gray area in Japan.
 
-While the active compounds themselves were controlled substances, the fresh mushrooms containing them were not specifically prohibited by law.
+While the active compounds themselves were [[controlled-substances-act-and-psychedelic-research]], the fresh mushrooms containing them were not specifically prohibited by law.
 
 This loophole allowed the open sale of magic mushrooms in shops and through mail-order distributors throughout Japan.
 
@@ -52,7 +52,7 @@ Both compounds are present in mushrooms at relatively low concentrations, typica
 
 Isolating gram quantities of pure psilocin or psilocybin from mushrooms would require processing very large amounts of fungal material.
 
-These practical difficulties made chemical synthesis the preferred route for producing the standard compounds needed by forensic laboratories.
+These practical difficulties made [[psilocin-chemical-synthesis]] the preferred route for producing the standard compounds needed by forensic laboratories.
 
 ## Forensic Identification Methods
 
@@ -87,45 +87,3 @@ The ability to produce psilocin and psilocybin on a gram scale, using simple equ
 ## Broader Regulatory Context
 
 Japan's 2002 regulation of magic mushrooms was part of a broader international trend toward controlling psilocybin-containing fungi.
-
-The Netherlands, long a haven for legal magic mushroom sales, banned the sale of fresh [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in 2008 following several high-profile incidents involving tourists.
-
-The United Kingdom had controlled psilocybin and psilocin since the 1971 Misuse of Drugs Act, but the mushrooms themselves were not specifically banned until the 2005 Drugs Act closed this loophole.
-
-The United States has controlled psilocybin and psilocin under Schedule I since the Controlled Substances Act of 1970.
-
-However, the legal status of the mushrooms themselves has been subject to varying interpretation across US state and federal jurisdictions.
-
-Japan's approach of specifically listing the fungi rather than just the active compounds was a model for other jurisdictions.
-
-## Implications for Research
-
-The regulatory context that motivated the Shirota synthesis illustrates a broader tension in drug policy.
-
-Regulations that control psychoactive substances also create legitimate needs for those substances in research and forensic contexts.
-
-The ability to synthesize controlled substances is essential for forensic identification, pharmacological research, and the development of analytical methods.
-
-Restrictions on the synthesis of controlled substances can impede legitimate scientific and law enforcement activities.
-
-Policymakers must balance public health protection against the practical needs of forensic science and academic research.
-
-The Shirota paper represents an example of how regulatory changes can drive scientific innovation.
-
-The need for standard compounds created by the 2002 law motivated the development of an improved synthetic method.
-
-## See Also
-
-- [[japan-psilocybin-mushroom-regulation-narcotics-control-law-2002-forensic]]
-
-- [[japan-narcotics-control-law-psilocybin-fungi-2002]]
-- [[shirota-forensic-standard-compounds-magic-mushroom-identification]]
-
-- [[shirota-psilocin-psilocybin-synthesis]]
-- [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
-
-## Sources
-
-- Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin. *J. Nat. Prod.*, 66, 885-887.
-- Adlaf, E.M. et al. (2000). CMAJ, 162, 1677-1680. (Cited by Shirota regarding mushroom popularity.)
-- Tsujikawa, K. et al. (2003). Japanese forensic context for magic mushroom identification.

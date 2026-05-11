@@ -3,6 +3,7 @@ title: Garden Microclimates
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "Hemenway - Gaia's Garden"
 type: concept
 tags: [climate, gardening, microclimate]
@@ -86,10 +87,3 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

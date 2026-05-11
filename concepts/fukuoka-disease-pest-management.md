@@ -1,10 +1,11 @@
 ---
-title: "Fukuoka's Disease and Pest Management"
+title: Fukuoka Disease Pest Management
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -12,11 +13,11 @@ sources:
 
 **Updated:** 2026-04-18
 
-Masanobu Fukuoka farmed without pesticides for over 30 years and developed a comprehensive understanding of how disease and pest management works in a [[comparison-natural-farming-vs-permaculture]] system. His approach was not to eliminate pests but to understand and work with the ecological relationships that naturally keep pest populations in check. His decades of observation provide one of the most detailed records of natural pest management in a working farm system.
+[[masanobu-fukuoka]] farmed without pesticides for over 30 years and developed a comprehensive understanding of how disease and pest management works in a [[comparison-natural-farming-vs-permaculture]] system. His approach was not to eliminate pests but to understand and work with the ecological relationships that naturally keep pest populations in check. His decades of observation provide one of the most detailed records of natural pest management in a working farm system.
 
 ## Core Philosophy: Insects Are Not Pests
 
-Fukuoka's fundamental position: "A thousand plant diseases exist in nature, yet in truth there are none." He argued that diseases and insect damage are self-defense measures taken by nature to restore balance when the natural order has been disturbed. "Pests are a divine warning that something has gone wrong, that the natural balance of rice plants has been upset."
+Fukuoka's fundamental position: "A thousand plant diseases exist in nature, yet in truth there are none." He argued that diseases and insect damage are self-defense measures taken by nature to restore balance when the natural order has been disturbed. "Pests are a divine warning that something has gone wrong, that the [[fukuoka-pesticide-cascade-collapse-natural-balance]] of rice plants has been upset."
 
 ### Why Pesticide Solutions Fail
 
@@ -43,7 +44,7 @@ Fukuoka's rice fields supported a rich diversity of life that functioned as a na
 
 ### Contrast with Sprayed Fields
 
-In neighboring conventionally farmed fields, the absence of dragonflies, frogs, sparrows, and swallows indicated a dead ecosystem. These fields depended entirely on chemical inputs for pest control, and even then faced recurring pest outbreaks.
+In neighboring conventionally farmed fields, the absence of dragonflies, frogs, sparrows, and swallows indicated a dead ecosystem. These fields depended entirely on chemical inputs [[insectary-plants-for-pest-control]], and even then faced recurring pest outbreaks.
 
 ## Specific Pest Observations
 
@@ -71,7 +72,7 @@ Fukuoka's professional experience with the yellow rice borer eradication program
 
 - Before WWII, mites were not a major problem; lime-sulfur spray was sufficient
 - After WWII, organophosphate and organochlorine pesticides destroyed natural predators, leading to recurring mite outbreaks
-- New pesticides were developed but "only aggravated the problems of pest control and pesticide pollution"
+- New pesticides were developed but "only aggravated the problems of [[knf-pest-control-and-soap-water]] pesticide pollution"
 - Mites are extremely sensitive to microclimatic changes
 - Black wattle used as windbreak or shade tree causes mite and scale populations to "drop dramatically or almost entirely vanish"
 - The interplanting of evergreen trees with deciduous trees is also effective
@@ -82,65 +83,8 @@ Fukuoka's professional experience with the yellow rice borer eradication program
 - Once one of the three major citrus pests in Japan
 - Disappeared naturally with the release of the vedalia ladybug more than 40 years ago
 - After WWII, organophosphate pesticide spraying caused serious outbreaks by destroying the vedalia
-- In Fukuoka's natural orchard, where strong pesticides were not used, ladybugs continued to control cottony-cushion scale effectively
+- In Fukuoka's [[fukuoka-natural-orchard-ground-cover]], where strong pesticides were not used, ladybugs continued to control cottony-cushion scale effectively
 
 ### Red Wax Scale
 
 - Was a major citrus pest requiring pine rosin mixture spray
-- Parasitic wasps emerged during wartime when rosin was unavailable, eliminating the need for extermination
-- After the war, farmers used a potent fluorine pesticide against the scale, causing severe outbreaks
-- When the toxic fluorine pesticide was banned, infestation declined almost immediately
-- "The most intelligent way of controlling this particular pest is not to spray"
-
-### Long-Horned Beetles
-
-- Enter at the base of citrus and chestnut trees
-- Tend to attack weakened trees and trees in neglected orchards
-- Direct removal of larvae is the appropriate control measure
-
-### Mediterranean Fruit Fly and Codling Moth
-
-- Fukuoka warned about the risk of introducing these foreign pests through international fruit trade
-- The medfly attacks all major fruit and vegetable crops; the codling moth ravages apples, pears, and rose family fruits
-- Larval worms and maggots bury deep into fruit where outside spraying has no effect
-- Once established, extermination would be "difficult if not impossible"
-- "The free movement of fruit may satisfy the fleeting desires of people, but the price we will have to pay will be enormous"
-
-## Principles of Natural Pest Management
-
-From Fukuoka's decades of observation, several principles emerge:
-
-1. **Healthy plants resist pests:** Plants grown in healthy soil with adequate nutrition (from natural sources) have innate resistance to disease and insect attack
-2. **Diversity prevents outbreaks:** Mixed cropping and diverse ecosystems prevent any single pest from building up damaging populations
-3. **Natural predators exist:** Every pest has natural enemies; the goal is to maintain conditions favorable to these predators
-4. **Pesticides create pests:** Chemical pesticides destroy natural predator populations and create conditions for pest outbreaks
-5. **Tree form matters:** In orchards, the natural form of the tree provides good ventilation and light penetration, reducing disease and pest pressure
-6. **Patience:** Nature has its own timeline for restoring balance; intervention often makes things worse
-
-## The Black Wattle as Pest Management Tool
-
-Fukuoka's observations on black wattle (Acacia mearnsii) as a pest management aid:
-
-- The black wattle grows throughout the year, sending out new shoots that attract aphids and scales
-- These in turn support growing populations of ladybugs
-- Planting five or so black wattles per quarter-acre "keeps scales and mites down to a minimum"
-- The wattle produces tannin, which excretes a substance that repels insects
-- Changes in microclimate (shade, breeze) caused by the wattle directly affect pest populations
-- "One important role of the black wattle is to serve as a protective tree for beneficial insects"
-
-## Ecological Measures vs. Chemical Controls
-
-"Most damage caused by plant diseases and pests can be resolved by ecological measures." Fukuoka's approach is to:
-
-1. Maintain healthy soil and healthy plants
-2. Preserve and encourage natural predator populations
-3. Use [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and crop diversity
-4. Allow natural [[fukuoka-ecological-balance-principles]] to develop
-5. Intervene only when absolutely necessary, and only with the gentlest methods (e.g., machine oil emulsion or lime-sulfur, not broad-spectrum chemicals)
-
-## See Also
-
-- [[fukuoka-natural-orchard-management]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-fruit-tree-pest-control]]
-- [[fukuoka-orchard-soil-building-without-fertilizers]]

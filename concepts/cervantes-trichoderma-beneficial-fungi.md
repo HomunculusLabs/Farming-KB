@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -86,23 +87,3 @@ with liquid fertilizer or via drip irrigation, and/or watered in.
 Trichoderma products contain [[savory-living-organisms-as-tools]] that will reproduce after
 application, so a small amount will do a lot. It is nontoxic and
 environmentally safe.
-
-## Integration with Other Inputs
-
-Trichoderma works well alongside other beneficial soil organisms and
-amendments. Products containing [[comparison-humic-acid-vs-fulvic-acid]], trichoderma, and
-beneficial bacteria provide a comprehensive biological approach to root
-zone management. See [[cervantes-organic-amendments-chart]] lists organic inputs
-that support beneficial fungal populations.
-
-## Environmental Conditions for Trichoderma
-
-Trichoderma thrives in well-aerated, moist soils with adequate organic
-matter. Soil temperatures between 65-75F (18-24C) are ideal. Avoid
-overwatering, which can create anaerobic conditions hostile to
-beneficial fungi. Proper [[cervantes-compost-tea-organic-brewing]] - brewing teas with
-  beneficial organisms
-- [[cervantes-organic-amendments-chart]] - inputs for soil biology
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water quality affects
-  beneficial organisms
-- [[trichoderma]]

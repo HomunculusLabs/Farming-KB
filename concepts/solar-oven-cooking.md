@@ -3,14 +3,14 @@ title: Solar Oven Cooking
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, energy, off-grid, equipment, food, sustainability]
+tags: [[homesteading]], energy, off-grid, equipment, food, sustainability]
 sources: []
 ---
 
 # Solar Oven Cooking
 
 Solar ovens use concentrated sunlight to cook food without fuel, electricity,
-or flame. They are a practical off-grid cooking [[solar-cooking-methods]] solution, especially in sunny
+or flame. They are a practical off-grid cooking solution, especially in sunny
 climates, and can reach temperatures of 250-400F (121-204C) depending on
 design. This guide covers the three main types, construction, cooking
 techniques, and recipes.
@@ -35,7 +35,7 @@ A insulated box with a dark interior, a transparent lid, and reflective
 panels that fold out to direct light into the box.
 
 **Characteristics:**
-- Temperature range: 200-300F (93-149C)
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 200-300F (93-149C)
 - Cooking style: slow, similar to a crock pot
 - Advantages: stable temperature, easy to use, good for baking
 - Disadvantages: heavier, slower to heat up
@@ -70,9 +70,9 @@ point where the cooking pot is positioned.
 ## Building a Box Solar Oven (DIY)
 
 ### Materials
-- Cardboard box (inner) — medium size, roughly 18x18x12 inches
+- [[cardboard-box-inoculation-hood-draft-prevention-mycology]] (inner) — medium size, roughly 18x18x12 inches
 - Cardboard box (outer) — 2-3 inches larger on all sides
-- Aluminum foil — heavy duty, for reflective panels
+- Aluminum foil — [[oner-peptide-limestone-city-seeds-heavy-duty-fruity-sweet-tooth-durban-poison]], for reflective panels
 - Black spray paint — high-heat rated, for interior
 - Glazing — tempered glass or oven-safe polycarbonate
 - Insulation — crumpled newspaper, foam board, or wool
@@ -95,7 +95,7 @@ hours. More durable versions using plywood or sheet metal cost $50-150.
 
 ## Cooking Times and Techniques
 
-Solar cooking is slower than conventional methods. Plan for 1.5-2x the
+Solar cooking is slower than [[microwave-sterilization-versus-conventional-methods-comparison]]. Plan for 1.5-2x the
 normal cooking time.
 
 ### General Guidelines

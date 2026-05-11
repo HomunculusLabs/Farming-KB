@@ -15,14 +15,14 @@ sources:
   - Boskou D (2015). staycare-fungal-treatment-of-olive-oil-mill-wastewater: Chemistry and Technology. AOCS Press.
   - Lourens ACU et al. (2004). "Oleuropein — a lead compound for the treatment of hypertension." Phytomedicine, 11, 38–39.
   - FAO (2023). "FAOSTAT: Olives — area harvested, production quantity." Food and Agriculture Organization.
-  - Conceição M et al. (2021). "Olive oil authentication: A review." Food Control, 123, 107844.
+  - Conceição M et al. (2021). "[[olive-cultivation-and-olive-oil-production]] authentication: A review." Food Control, 123, 107844.
 ---
 
 ## Overview
 
 *Olea europaea* L., the olive, is an evergreen tree in the family Oleaceae native to the Mediterranean basin, parts of Asia, and Africa.
 
-It is one of the oldest cultivated [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], with archaeological evidence of olive oil production dating back approximately 6,000 years.
+It is one of the oldest cultivated [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], with archaeological evidence [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] production dating back approximately 6,000 years.
 
 The species is renowned for its fruit, which yields olive oil — a cornerstone of Mediterranean cuisine and one of the most widely consumed culinary oils globally.
 
@@ -52,9 +52,9 @@ The olive was first domesticated in the Levant approximately 5,000–6,000 years
 
 Olive oil production spread throughout the Mediterranean during the Bronze Age, becoming a major commodity in Minoan, Greek, and Roman economies.
 
-The olive branch was adopted as a symbol of peace and victory in ancient Greek culture, a symbolism that persists to the present day.
+The olive branch was adopted as a symbol of peace and victory in [[ancient-greek-mystery-cults-comparison]] culture, a symbolism that persists to the present day.
 
-Spanish missionaries introduced olives to the Americas in the 16th century, and the tree is now cultivated in California, South America, Australia, and South Africa.
+Spanish missionaries introduced olives to the Americas in the 16th century, and the tree is now cultivated in California, [[guzman-psilocybin-mushrooms-south-america]], Australia, and South Africa.
 
 Global olive oil production exceeds 3 million tonnes annually, with Spain, Italy, Greece, Tunisia, and Turkey accounting for approximately 80% of world output.
 
@@ -78,40 +78,12 @@ Yields range from 2–12 tonnes of fruit per hectare depending on cultivar, tree
 
 Key pests include the olive [[fukuoka-australia-fruit-fly-incident]] (*Bactrocera oleae*), olive moth (*Prays oleae*), and black scale (*Saissetia oleae*).
 
-Verticillium wilt (*Verticillium dahliae*) is the most serious soil-borne disease, capable of killing mature trees.
+Verticillium wilt (*[[verticillium-dahliae]]*) is the most serious soil-borne disease, capable of killing mature trees.
 
 ## Chemistry and Pharmacology
 
 Olive oil is composed primarily of triacylglycerols (97–99%), with oleic acid (C18:1, omega-9) constituting 55–83% of total [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
-Minor bioactive constituents include squalene (0.2–0.7%), tocopherols (100–300 mg/kg), phytosterols (1000–2500 mg/kg), and phenolic compounds (50–1000 mg/kg).
+Minor bioactive constituents include squalene (0.2–0.7%), tocopherols (100–300 mg/kg), phytosterols (1000–2500 mg/kg), and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] (50–1000 mg/kg).
 
 Oleuropein, the predominant phenolic glycoside in olives, is hydrolyzed during oil processing to hydroxytyrosol and tyrosol.
-
-Hydroxytyrosol exhibits potent antioxidant, anti-inflammatory, and cardioprotective activities in clinical and preclinical studies.
-
-Extra virgin olive oil (EVOO) retains the highest phenolic content and is associated with reduced cardiovascular disease risk in Mediterranean diet epidemiological studies.
-
-Oleocanthal, a phenolic compound in EVOO, has been shown to inhibit cyclooxygenase-1 and -2 with an ibuprofen-like mechanism.
-
-## Ecology and Applications
-
-Olive groves form characteristic Mediterranean agroecosystems that support significant biodiversity, including birds, insects, and understory flora.
-
-The trees are used in agroforestry systems, intercropped with cereals, legumes, or grazing livestock in traditional Mediterranean farming.
-
-Olive wood is dense, fine-grained, and highly valued for woodworking, carving, and decorative items.
-
-Olive leaves contain oleuropein at concentrations of 60–90 mg/g dry weight and are used in traditional medicine and dietary supplements.
-
-Waste from olive oil processing ([[fungal-olive-mill-wastewater-treatment]] wastewater and pomace) poses environmental challenges but can be composted or used for bioenergy production.
-
-The species is increasingly planted in arid-region restoration projects due to its [[dighton-fungal-drought-tolerance-plant-water-relations]], soil stabilization capacity, and economic value.
-
-## See Also
-
-- [[cinnamomum-camphora]]
-- [[rosa-damascena]]
-- [[pimenta-dioica]]
-- [[ceratonia-siliqua]]
-- [[prunus-dulcis]]

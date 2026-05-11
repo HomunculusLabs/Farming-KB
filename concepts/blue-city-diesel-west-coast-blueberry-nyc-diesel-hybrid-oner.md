@@ -14,11 +14,11 @@ With a tested THC potency of 22.5%, Blue City Diesel ranks among the more potent
 
 ## Genetic Lineage
 
-The two parent strains that form Blue City Diesel represent iconic cannabis lineages from opposite coasts [[huckleberries-and-wild-berries-of-north-america]]:
+The two parent strains that form Blue City Diesel represent iconic cannabis lineages from opposite coasts [[berry-growing]]:
 
 **West Coast Blueberry** contributes the strain's distinctive blue-tinged appearance and sweet berry flavor profile. Blueberry genetics, originally developed by DJ Short in the 1970s and 1980s, are among the most influential in modern [[cannabis-breeding-basics]]. The Blueberry lineage is known for producing colorful, flavorful buds with moderate to heavy [[cannabis-resin-production-and-quality-traits-clarke]] a relaxing, euphoric effect profile.
 
-**New York City Diesel** (also known as [[sour-diesel]] el]] or [[nyc-diesel]] el]]) contributes the pungent, fuel-like aroma and the energetic, uplifting cerebral effects that the Diesel family is famous for. NYC Diesel itself is believed to descend from Chemdawg and Afghan indica genetics, with the Sour Diesel line becoming one of the most popular and widely cultivated strains in modern cannabis history.
+**New York City Diesel** (also known as [[sour-diesel]] or [[nyc-diesel]]) contributes the pungent, fuel-like aroma and the energetic, uplifting cerebral effects that the Diesel family is famous for. NYC Diesel itself is believed to descend from Chemdawg and Afghan indica genetics, with the Sour Diesel line becoming one of the most popular and widely cultivated strains in modern cannabis history.
 
 The combination of these two genetic lines produces a hybrid that expresses both the visual beauty and flavor complexity of the Blueberry side with the potency and cerebral stimulation of the Diesel heritage.
 
@@ -88,34 +88,3 @@ The uplifting mood effects may also benefit patients managing depression, anxiet
 ---
 
 ## Cultivation Recommendations
-
-Based on the source material, growers cultivating Blue City Diesel should consider:
-
-- **Grow method:** ScrOG setup with organic nutrients is recommended by the breeder
-- **Odor management:** Essential during late flowering; plan for carbon filtration
-- **Harvest timing:** Do not extend beyond 55 days; harvest promptly at maturity
-- **Space requirements:** Compact size suits small to medium grow spaces
-- **Experience level:** Suitable for beginners due to hardy, forgiving nature
-- **Training:** Responds well to standard [[cannabis-sativa-indoor-training-techniques]] given its manageable height
-
-The strain's combination of high potency, short flowering time, compact stature, and beginner-friendly growing characteristics makes it one of the more practical choices for both novice and experienced cultivators seeking a premium sativa-dominant hybrid.
-
----
-
-## Terpene Profile Analysis
-
-The flavor characteristics of Blue City Diesel suggest a terpene profile dominated by myrcene (contributing the musky, earthy base notes), limonene (adding subtle citrus brightness that complements the berry sweetness), and caryophyllene (providing the peppery Diesel undertones). The blue-tinged appearance indicates the presence of anthocyanins, flavonoid pigments that develop in response to cooler temperatures during the late flowering stage.
-
-The combination of berry sweetness with Diesel pungency is relatively uncommon in cannabis breeding, as these flavor families are often associated with very different genetic lineages. Blue City Diesel represents a successful fusion of two contrasting [[cannabis-terpene-profiles]].
-
----
-
-## Comparison to Parent Strains
-
-When compared directly to its parent strains, Blue City Diesel carves out a distinct identity. Versus West Coast Blueberry, it offers higher potency, shorter flowering time, and more cerebral effects. Versus NYC Diesel, it provides a sweeter flavor profile, more compact growth, and reduced stretch. The strain successfully captures the most desirable traits from each parent while minimizing their respective drawbacks, inheriting the beauty and sweetness of Blueberry without the excessive flowering time and the potency of Diesel without the extreme height.
-
-This cross-coastal collaboration between Canadian and American breeders demonstrates how combining geographically distinct genetic lines can produce hybrids with unique and desirable characteristics.
-
----
-
-*See also: super-lemon-haze-genetics-cultivation-effects, oner-chemdawg-origin-legend*

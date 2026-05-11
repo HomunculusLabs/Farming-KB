@@ -40,8 +40,8 @@ sources:
 ### Related Species
 
 - **Tagetes erecta** (African marigold): Larger ornamental, used in Day of the Dead celebrations
-- **Tagetes patula** (French marigold): Common [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] species
-- **Tagetes minuta** (Huacatay): South American culinary herb and pest repellent
+- **Tagetes patula** ([[comparison-french-marigold-vs-mustard-biofumigation]]): Common [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] species
+- **[[tagetes-minuta]]** (Huacatay): [[chiric-caspi-brunfelsia-south-american-hallucinogen]] culinary herb [[permaculture-plants-insectary-and-pest-repellent]]
 - **Tagetes tenuifolia** (Signet marigold): Edible flowers, compact ornamental
 
 ## Morphology
@@ -80,65 +80,10 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 
 ### Aztec and Mesoamerican Ritual
 
-- **Ritual entheogen**: *T. lucida* was used by the Aztecs (Nahuatl: *yauhtli*) in religious ceremonies, often in combination with *Nicotiana rustica* (wild tobacco) to enhance psychoactive effects
+- **Ritual entheogen**: *T. lucida* was used by the Aztecs (Nahuatl: *yauhtli*) in [[entheogenic-folk-religious-ceremonies]], often in combination with *[[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]* (wild tobacco) to enhance psychoactive effects
 - **Violeta ceremony**: In some Mesoamerican traditions, the dried herb is prepared as a tea or smoked to induce vivid dreams, altered perception, and mild trance states
 - **Day of the Dead (Día de los Muertos)**: Used alongside other marigold species (*cempasúchil*) to honor deceased ancestors; believed to guide spirits with its fragrance
 - **Rain ceremonies**: Aztec priests used *yauhtli* in rituals dedicated to Tlaloc, the rain god
 - **Shamanic divination**: Huichol and other [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] groups have used the herb in vision quests and healing ceremonies
 
 ### Traditional Medicine
-
-- **Gastrointestinal**: Tea from leaves and flowers used for colic, diarrhea, indigestion, and intestinal parasites
-- **Respiratory**: Infusion for coughs, colds, and bronchitis; expectorant properties attributed to essential oil
-- **Nervous system**: Mild sedative and anxiolytic; used for insomnia, anxiety, and nervous tension
-- **Analgesic**: Topical application of crushed leaves for headaches, toothaches, and joint pain
-- **Antimicrobial**: Traditional use for wound healing and skin infections; supported by modern antimicrobial studies
-
-## Culinary Uses
-
-- **French tarragon substitute**: *T. lucida* is an excellent substitute for *Artemisia dracunculus* (French tarragon), which is difficult to grow in hot climates; the anise flavor is very similar
-- **Mexican cuisine**: Used to flavor atole (warm corn-based beverage), quesadillas, tamales, and egg dishes
-- **Herbal tea**: Dried leaves brewed as a soothing, anise-flavored tea — called "té de anís" or "té de pericón" in Mexico
-- **Seasoning**: Fresh or dried leaves added to soups, stews, sauces, and salad dressings
-- **Edible flowers**: Golden petals used as garnish; mild anise flavor
-- **Liqueur flavoring**: Used in some traditional Mexican herbal liqueurs
-
-## Permaculture and Companion Planting
-
-### Pest Repellent Properties
-
-*Tagetes lucida* is an exceptional companion plant due to its multiple pest-deterrent mechanisms:
-
-- **Root exudates**: Release thiophenes and other compounds that repel root-knot nematodes (*Meloidogyne* spp.) in soil — making it valuable as a preceding or interplanted crop for nematode-susceptible vegetables (tomatoes, peppers, eggplant)
-- **Volatile oils**: Airborne essential oil compounds deter aphids, whiteflies, and certain beetle species
-- **Antifungal properties**: Root exudates suppress soil-borne fungal pathogens including *Fusarium* and *Verticillium* species
-- **Spider mite deterrence**: Neighboring plants show reduced spider mite infestation when interplanted with *T. lucida*
-
-### Companion Planting Combinations
-
-| Companion | Benefit | Mechanism |
-|-----------|---------|-----------|
-| Tomatoes | Nematode control, improved flavor | Root exudates, thiophenes |
-| Peppers | Nematode control | Root exudates |
-| Eggplant | Fusarium suppression | Antifungal compounds |
-| Basil | Synergistic pest repellency | Combined volatile oils |
-| Brassicas | Cabbage moth deterrence | Airborne repellents |
-| Roses | General pest protection | Aphid deterrence |
-| Fruit trees | Understory mulch, insect attraction | Ground cover, pollinator support |
-
-### Permaculture Functions
-
-1. **[[nutrient-dynamic-accumulator-reference]]**: Deep-rooted habit brings up minerals from subsoil; leaves can be used as nutrient-rich mulch
-2. **Pollinator attractant**: Long blooming period provides nectar and pollen for beneficial insects
-3. **Chop-and-drop mulch**: Foliage contains pest-deterring compounds that persist in mulch, creating a protective barrier
-4. **[[permplant-willows-salix-erosion-control-fodder]]**: Dense root system stabilizes soil on slopes and in food forest understories
-5. **Ornamental value**: Attractive golden flowers enhance aesthetic diversity in polycultures
-6. **Living fence/hedge**: Can be planted as a low hedge that doubles as a pest barrier
-
-### Soil Improvement
-
-## See Also
-- [[artemisia-dracunculus]]
-- [[food-forest]]
-- [[root-exudates]]
-- [[tagetes-minuta]]

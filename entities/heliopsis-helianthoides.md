@@ -23,7 +23,7 @@ sources:
 
 Heliopsis helianthoides, commonly known as the oxeye sunflower, false
 sunflower, or smooth oxeye, is a rhizomatous perennial herb in the family
-Asteraceae. Native to eastern and central North America, it is widely
+Asteraceae. Native to eastern and central [[guzman-psilocybin-mushrooms-north-america]], it is widely
 cultivated for its showy, long-blooming yellow flowers and exceptional garden
 reliability. Despite its common name, it is not closely related to true
 sunflowers (Helianthus) but belongs to the tribe Heliantheae.
@@ -88,63 +88,7 @@ are in 2–3 rows, lanceolate, 8–12 mm long, with ciliate margins.
 Achenes are 4–6 mm long, broadly wedge-shaped, compressed, and dark brown
 with two short awns or a coroniform pappus. Each flower head produces 50–100
 achenes. Seeds are dispersed by wind and by birds. Viability persists for 2–3
-years. Self-seeding is moderate in garden conditions.
-
-## Distribution and Habitat
-
-Heliopsis helianthoides is native to eastern and central North America,
-ranging from Quebec and Ontario south to Georgia and Texas, and west to
-Minnesota and Oklahoma. It occurs naturally in prairies, open woodlands,
-thickets, stream banks, and roadsides at elevations up to approximately 1,500
-meters.
-
-The species occupies a broad ecological range, from dry, rocky upland prairies
-to mesic bottomland forests. It is particularly common along forest edges and
-in disturbed sites with full to partial sun. It is adaptable to clay, loam,
-and sandy soils and tolerates both acidic and alkaline conditions.
-
-## Ecology
-
-Heliopsis helianthoides is a major nectar and pollen resource for native bees,
-butterflies, and beneficial insects. The open disc florets are accessible to
-short-tongued pollinators, while the landing platform formed by the ray florets
-accommodates larger visitors. Primary pollinators include bumblebees (Bombus
-spp.), sweat bees (Lasioglossum spp.), leafcutter bees (Megachile spp.), and
-various butterfly species.
-
-The foliage serves as a host plant for the larvae of several moth species,
-including the silvery checkerspot (Chlosyne nycteis) and the painted lady
-(Vanessa cardui). Goldfinches and other seed-eating birds consume the achenes
-in fall and winter. The dense clumps provide cover for small mammals and birds.
-
-The species is relatively pest-free in cultivation. Aphids may colonize new
-growth, and powdery mildew can affect plants in humid conditions with poor air
-circulation. Deer browsing is moderate; the coarse foliage is not preferred
-but will be consumed when other forage is scarce.
-
-## Cultivation and History
-
-Heliopsis helianthoides is easily grown from seed, which germinates in 14–21
-days without stratification. Division of mature clumps in spring or autumn is
-the most common vegetative propagation method. Plants establish quickly and
-typically flower in their second year from seed, though first-year flowering
-is possible with early sowing.
-
-Full sun to light shade and average to dry soils are preferred. Once
-established, the species is remarkably drought-tolerant and requires minimal
-supplemental irrigation. Deadheading extends the bloom period and reduces
-self-seeding. Cutting back stems by one-third in late May produces a more
-compact, later-blooming plant. The species was introduced to European gardens
-in the early 18th century and has remained popular in perennial borders and
-naturalistic plantings.
 
 ## See Also
-
-- [[rudbeckia-hirta]] — Black-eyed Susan, similar-looking native Asteraceae perennial
-- [[rudbeckia-fulgida]] — Orange coneflower, co-occurring Heliantheae species
-- [[coreopsis-grandiflora]] — Large-flowered tickseed, cultivated Asteraceae perennial
-- [[echinacea-purpurea]] — Purple coneflower, companion prairie native for pollinators
-- [[helenium-autumnale]] — Common sneezeweed, fall-blooming Asteraceae with similar form
-- [[silphium-perfoliatum]] — Cup plant, tall native prairie Asteraceae perennial
-- [[helianthus-tuberosus]] — Jerusalem artichoke, related Heliantheae member
-- [[chrysanthemum-morifolium]] — Chrysanthemum, cultivated Asteraceae with similar flower form
+- [[garden-myths-native-plants-and-invasive-species]]
+- [[hamilton-shade-garden-plants]]

@@ -88,34 +88,3 @@ of Leary — the self-appointed prophet of psychedelic consciousness — followi
 Hollingshead "around for days on end" subverts the conventional narrative of Leary as the
 autonomous agent of the psychedelic revolution. The mayonnaise jar itself becomes a
 symbol of the accidental and informal channels through which powerful psychoactive
-substances entered academic settings.
-
-The rapid spread of LSD from Hollingshead to Leary to Alpert and Metzner illustrates
-the contagious quality of the psychedelic experience. For McKenna, this contagion is not
-a defect but one of its defining characteristics — evidence that these substances tap
-into something fundamental in human nature.
-
-## Ethnopharmacology at Harvard
-
-McKenna frames the Harvard years as "the birth of ethnopsychopharmacology," the
-interdisciplinary study of how psychoactive plants have shaped human consciousness,
-culture, and social organisation. This birth took place "under Schultes's watchful eye,"
-acknowledging that the rigorous botanical and ethnographic groundwork laid by Schultes
-provided the foundation upon which the more revolutionary ideas of Leary were built.
-
-The tension between Schultes's careful documentation and Leary's enthusiastic
-proselytising would define the public reception of psychedelic research for decades.
-McKenna suggests that the excesses of the Leary era were partly responsible for the
-suppression of legitimate research, but were also an understandable response to the
-genuinely revolutionary implications of the psychedelic experience.
-
-## Legacy and Assessment
-
-McKenna's treatment of the Harvard episode is more sympathetic to Leary than many
-academic accounts, while acknowledging the strategic errors that led to the project's
-downfall. The shift from psilocybin to LSD was, in McKenna's view, the critical error —
-not because LSD was without value, but because the substitution represented a capitulation
-to expediency over authenticity.
-
-The Harvard Psilocybin Project established enduring themes: the tension between
-scientific and spiritual approaches, the role of charismatic individuals in shaping

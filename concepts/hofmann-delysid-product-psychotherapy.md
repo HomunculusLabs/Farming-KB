@@ -88,52 +88,6 @@ after intensive psychological preparation of the patients. This method
 attempted to induce a mystical-religious experience through the shock
 effects of LSD, which could then serve as a starting point for
 restructuring and curing the patient's personality in accompanying
-psychotherapeutic treatment. The term "psychedelic," meaning
-"mind-manifesting" or "mind-expanding," was introduced by Humphry
-Osmond, a pioneer of LSD research in the United States.
-
-## Mechanism of Therapeutic Action
-
-LSD's benefits as a psychotherapeutic adjunct derive from properties
-diametrically opposed to tranquilizer-type psychopharmaceuticals.
-Whereas tranquilizers tend to cover up the patient's problems and
-conflicts, reducing their apparent gravity, LSD makes them more exposed
-and more intensely experienced. In LSD inebriation the accustomed world
-view undergoes deep-seated transformation and disintegration. Connected
-with this is a loosening or even suspension of the I-you barrier,
-helping patients release themselves from fixation and isolation.
-
-A significant psychotherapeutic characteristic was the tendency of long
-forgotten or suppressed experiences to reappear in consciousness.
-Traumatic events became accessible to treatment through what French
-psychiatrist Jean Delay called not a reminiscence but a reviviscence, a
-true reliving rather than ordinary recollection.
-
-## LSD for the Terminally Ill
-
-One medicinal use touching on fundamental ethical questions was
-administration to the dying. Observations in American clinics showed
-that severe painful conditions of cancer patients no longer responsive
-to conventional pain medication could be alleviated or abolished by LSD.
-The diminution of pain sensitivity occurred because patients became
-psychologically dissociated from their bodies. In many cases it proved
-beneficial for a member of the clergy or psychotherapist to guide the
-patient's thoughts in a religious direction. Numerous case histories
-described patients who, freed from pain in LSD ecstasy and reconciled
-to their fate, faced their earthly demise fearlessly and in peace.
-
-## Pioneers of LSD Psychotherapy
-
-The pioneers in the use of LSD as a drug aid in psychoanalysis and
-psychotherapy included A. K. Busch and W. C. Johnson, S. Cohen and B.
-Eisner, H. A. Abramson, H. Osmond, and A. Hoffer in the United States;
-R. A. Sandison in England; W. Frederking and H. Leuner in Germany; and
-G. Roubicek and S. Grof in Czechoslovakia. The most recent comprehensive
-publication was [[hofmann-lsd-sandoz-research-program]] for broader psychiatric research context
-- [[hofmann-lsd-sandoz-research-program]] for the [[hofmann-lsd-sandoz-research-program]] environment
-- [[hofmann-sandoz-crisis-lsd-withdrawal]] for the eventual cessation of
-  Delysid distribution
 
 ## See Also
-
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]

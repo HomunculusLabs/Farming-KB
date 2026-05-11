@@ -88,26 +88,3 @@ deadly poisonous species can be fatal.
 ## Odor, Taste, and Chemical Tests
 
 Odor and taste provide important supplementary identification
-characters. Many species have distinctive odors ranging from pleasant
-almond or anise to unpleasant farinaceous, phenolic, or putrid smells.
-Chemical tests using reagents such as potassium hydroxide (KOH),
-ammonia, or iron salts produce diagnostic color changes in fungal
-tissue. These macrochemical reactions are standard tools in
-professional mycological identification.
-
-## Microscopic Features
-
-[[fungal-microscopic-examination-mounting-media-techniques]] of spores and tissues is essential for accurate
-identification. Spore shape (globose, ellipsoid, amygdaliform, angular),
-size, color in deposit, and ornamentation (smooth, warty, ridged) are
-critical diagnostic characters. Hymenium structure, including basidia
-and sterile cells (cystidia), provides additional taxonomic information.
-Many morphologically similar species can only be distinguished
-microscopically. See mushroom-identification for field guides and
-[[fungal-biodiversity]] for the scope of morphological diversity.
-
-## Related Concepts
-
-- [[mushroom-life-cycle]]
-- [[orchard-fungal-ecology]]
-- [[fungal-biodiversity]]

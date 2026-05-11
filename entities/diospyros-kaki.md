@@ -87,21 +87,3 @@ In Japan, dried persimmons (hoshigaki) are a traditional winter delicacy, produc
 The species was introduced to the [[dmt-containing-plants-united-states-halpern]] by Commodore Matthew Perry's expedition in 1855 and subsequently to southern Europe. Italian, Spanish, and Israeli growers have developed significant persimmon industries serving European markets.
 
 In Korean culture, dried persimmon (gotgam) is traditionally stuffed with walnuts and served as a seasonal delicacy during the Lunar New Year. In Brazil, persimmon cultivation has expanded rapidly since the 1990s, with the country now ranking among the top five global producers.
-
-The wood of Diospyros species is exceptionally hard and dense, with several related species in the genus producing the commercially valuable ebony timber. While D. kaki wood is not harvested for ebony, it has been used locally for tool handles and woodworking.
-
-## See Also
-
-- [[citrus-sinensis]]
-- [[actinidia-deliciosa]]
-- [[vaccinium-corymbosum-entity]]
-- [[persea-americana]]
-- [[quercetin]]
-- [[ficus-carica]]
-- [[carya-illinoinensis]]
-- [[castanea-sativa]]
-- [[myrcene]]
-- [[elettaria-cardamomum]]
-- [[curcuma-longa]]
-- [[musa-acuminata]]
-- [[ananas-comosus]]

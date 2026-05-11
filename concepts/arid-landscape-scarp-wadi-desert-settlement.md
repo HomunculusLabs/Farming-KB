@@ -1,7 +1,7 @@
 ---
-title: "mollison-pdc-arid-landscape-settlement"
+title: Arid Landscape Scarp Wadi Desert Settlement
 created: 2026-04-28
-tags: [permaculture, arid-landscapes, desert-farming, water-harvesting]
+tags: [[permaculture]], arid-landscapes, desert-farming, water-harvesting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -89,61 +89,9 @@ All desert peoples dry food: dates, apricots, and desert nuts are
 long-storage staples. Drying rooms cut into opposite scarps facing hot
 sun desiccate food very quickly.
 
-## Island Deserts
-
-On low islands, a special arid condition exists due to finite water
-lenses floating above salt water. These can be tropical paradises if
-tree cover is maintained. Planting begins at the inland edge and works
-outward. The critical principle is protecting the freshwater lens with
-vegetation that prevents saltwater intrusion.
-
-A freshwater lens is an amazing structure, maintaining itself through a
-natural density balance. Islands with tree cover sustain these lenses;
-deforested islands lose them rapidly. Planting at the inland margin
-with appropriate species is essential before any outward expansion.
-
-## Wadi Systems and Flash Flood Management
-
-When it rains in the desert, it pours. Water surges through wadis three
-to six feet high, picking up enormous loads of sand. This water soaks
-into wadi soil and supports quite reasonable vegetation with trees,
-desert pines, and hardy acacias. These green areas can persist for a
-couple of years after a single rain.
-
-The most productive approach combines silt traps, absorption pans,
-stone mulch around trees, drip irrigation where needed, and careful
-placement of species by water requirement. Gardens must be walled
-against flood while trees tolerate seasonal inundation.
-
-## Windbreak Design for Desert Settlements
-
-Wind is a constant force in arid landscapes, accelerating erosion and
-desiccating plants. Strategic windbreak design is essential for
-settlement viability and agricultural productivity:
-
-- **Multi-row windbreaks:** A combination of tall trees, medium shrubs,
-  and low [[permaculture-plants-food-forest-ground-covers-bamboos]] provides complete wind filtering from ground
-  level to canopy height
-- **[[comparison-living-fences-vs-hedgerows]]:** [[mulch-types-and-effects]] describes how
-  pruned branches from windbreak species can simultaneously provide
-  mulch for garden beds
-- **Species selection:** Choose drought-tolerant windbreak species such
-  as casuarina, tamarisk, mesquite, acacia, and oleander (where
-  non-toxic livestock access is not needed)
-- **Orientation:** Plant windbreaks perpendicular to prevailing dry
-  winds, typically to the west and southwest in most desert regions
-- **Porosity:** Ideal windbreaks are 40-60% porous; solid walls create
-  damaging turbulence on the leeward side
-
-## Soil Building in Arid Environments
-
-Desert soils are typically low in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] but rich in minerals.
-Building soil in these conditions requires specific strategies:
-
-- **[[hamilton-concentrated-organic-fertilizer-products]] matter:** Rather than spreading compost thinly,
-  concentrate it in planting holes and swale bottoms where moisture
-  accumulates
-- **Biochar incorporation:** Charcoal from cooking fires, when
 ## See Also
-
-- [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]]
+- [[mollison-pdc-arid-landscape-settlement]]
+- [[desert-and-arid-lands-permaculture]]
+- [[dighton-fungi-desert-arid-ecosystems]]
+- [[permaculture-plants-acacia-species-arid-reclamation]]
+- [[comparison-arid-vs-tropical-permaculture]]

@@ -87,36 +87,3 @@ problems during fungal growth and can achieve higher leaching
 efficiencies. Two-step processes have been demonstrated for leaching
 nickel from lateritic ores, copper from oxidized ores, and metals from
 fly ash and electronic waste.
-
-### Plate Technique
-
-The plate technique involves growing fungi on the surface of solidified
-media containing powdered minerals. During growth, acids are formed that
-solubilize metals, creating visible clear zones that allow optical
-measurement of leaching activity. This method is primarily used for
-screening and research purposes.
-
-## Substrates and Metals Leached
-
-Fungal organic acid leaching has been demonstrated for diverse
-substrates including: lateritic nickel ores (Ni, Co, Fe); oxidized
-copper and lead-zinc ores (Cu, Zn); fly ash (Al, Cd, Cr, Cu, Fe, Mn,
-Ni, Pb, Zn); electronic waste (Al, Cu, Ni, Pb, Sn, Zn); bauxite,
-kaolinite, and clay minerals (Al, Si, Fe, Mn); and contaminated soils
-(Zn, Pb, Cu).
-
-## Role in Bioremediation
-
-Fungal organic acid production contributes to bioremediation through
-several mechanisms: solubilization of metals from contaminated solids
-for subsequent recovery; immobilization of toxic metals as insoluble
-oxalates; acidification of contaminated environments enhancing metal
-mobility; and complexation of metals for facilitated transport and
-removal. The dual nature of oxalic acid in both mobilizing and
-immobilizing metals makes it particularly versatile in remediation
-strategies.
-
-## See Also
-
-- [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]
-- [[staycare-fungal-heterotrophic-leaching-biosorption]]

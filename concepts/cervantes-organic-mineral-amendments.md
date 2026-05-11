@@ -1,10 +1,11 @@
 ---
-title: cervantes organic mineral amendments Amendments
+title: Cervantes Organic Mineral Amendments
 created: 2026-04-26
 tags: [cannabis, soil, amendments, organic, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -12,7 +13,7 @@ type: concept
 # Organic Mineral Amendments
 
 Organic mineral amendments provide slow-release
-sources of essential plant nutrients and improve
+sources of [[teaming-with-nutrients-essential-plant-nutrients]] and improve
 soil structure over time. Unlike synthetic
 fertilizers, these natural rock and mineral-based
 products feed the soil ecosystem and build
@@ -44,7 +45,7 @@ Rock phosphate (hard) is a calcium or lime-based
 phosphate rock that is finely ground to the
 consistency of talcum powder. The rock powder
 contains over 30 percent phosphate and numerous
-trace elements, but it is available very, very
+[[teaming-with-nutrients-micronutrients-and-trace-elements]], but it is available very, very
 slowly. Rock phosphate is an excellent long-term
 soil amendment that becomes available to plants
 over years as soil microbes break it down.
@@ -61,12 +62,12 @@ silicate that gives the minerals in which it
 occurs a green tint. It is mined from ancient
 seabed deposits of shells and organic material
 rich in iron, phosphorus, potash (5 to 7 percent),
-and numerous micronutrients. Some organic gardeners
+and numerous micronutrients. Some [[soil-food-web-and-building-living-soil]]
 do not use greensand because it is such a limited
 resource.
 
 Greensand slowly releases its nutrients over
-about four years. This slow release makes it too
+about four years. This [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]] makes it too
 slow-acting for indoor gardens, but excellent for
 outdoor beds where long-term soil building is the
 goal.
@@ -87,37 +88,3 @@ and may contain many trace elements. It releases
 too slowly to be practical for indoor gardens but
 is valuable for building potassium reserves in
 outdoor soil over time.
-
-## Langbeinite (Sul-Po-Mag)
-
-Langbeinite, also sold as Sul-Po-Mag (sulfate of
-potash magnesia), is a naturally occurring mineral
-that provides potassium, magnesium, and sulfur in
-a readily available form. It is especially useful
-when soils need all three of these secondary
-nutrients without adding unwanted chloride or
-sodium. It has a neutral pH and does not affect
-soil acidity.
-
-## Kelp Meal
-
-Kelp meal is derived from seaweed and contains
-60 to 70 trace minerals that are already chelated,
-existing in a water-soluble and mobile form in the
-soil. It also contains [[ingham-natural-growth-regulators-soil-microbes]] hormones
-(cytokinins) that can stimulate plant development.
-Kelp meal releases nutrients moderately quickly
-and helps plants withstand light frosts.
-
-## Wood Ashes
-
-Wood ashes have a pH from 9.0-11.0 and are rich
-in phosphorus (about 5 percent) and potash (over
-2 percent). They are an excellent water-soluble
-fertilizer but are easy to overapply because of
-the high pH. Do not use wood ashes from fireplaces
-that have been burning trash, as they may contain
-toxic residues. See
-[[cervantes-organic-amendments-chart]]
-- [[cervantes-dolomite-lime-ph-buffering]]
-- [[cervantes-nutrient-management]]

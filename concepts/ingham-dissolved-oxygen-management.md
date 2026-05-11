@@ -1,5 +1,5 @@
 ---
-title: aact-dissolved-oxygen-fine-bubble-aeration-ingham Management in Compost compost-tea-brewing-equipment-ingham
+title: [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]] Management
 created: 2026-04-28
 tags: [compost-tea, dissolved-oxygen, aeration, brewing, water-quality]
 date: 2026-04-28
@@ -88,30 +88,3 @@ with established protocols for your conditions.
 Below approximately 6 mg O2 per liter (6 ppm), conditions shift
 toward [[aact-nematode-protozoa-management-ingham]] are also oxygen-dependent and will be lost if the
 brew goes anaerobic.
-
-## Oxygen Demand During Brewing
-
-The oxygen demand in a compost tea brew changes over time. When
-food is first added, [[aact-aeration-oxygen-management-ingham]] accordingly. The initial food addition
-and its composition are the primary factors determining the
-magnitude of the oxygen dip. See also [[aact-brewing-ingredients-ingham]].
-
-## Oxygen Probes and Calibration
-
-Dissolved oxygen probes require regular calibration to provide
-accurate readings. Calibration should be done according to the
-manufacturer's instructions, using a zero-oxygen solution and a
-saturated-oxygen solution. Probe maintenance includes keeping the
-membrane clean and replacing it on schedule. A poorly maintained
-probe gives misleading readings that can lead to incorrect
-management decisions. Despite maintenance requirements, the DO
-probe remains the most reliable tool for real-time monitoring.
-
-## Aeration System Design
-
-The design of the aeration system must match the biological demand
-created by your recipe. Systems that provide adequate aeration for
-a simple bacterial tea may not be sufficient when [[ingham-paper-cardboard-fungal-foods-compost]] and
-higher organism diversity are targeted. The air pump capacity,
-diffuser design, and bubble pattern all affect oxygen transfer
-efficiency. Coarse bubbles from diffusers at the bottom of the

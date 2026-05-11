@@ -3,8 +3,9 @@ title: Rattan and Cane
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: permaculture, design]
+tags: [[permaculture]], design]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 
@@ -28,12 +29,12 @@ Rattan palms are climbing palms with the following characteristics:
 - Long, slender, flexible stems (canes) that climb using whip-like flagella
 - Stems range from a few millimetres to over 10cm in diameter
 - Can grow to lengths of over 100 metres in mature forest
-- Typically found in lowland and montane tropical forests
+- Typically found in lowland and montane [[fungal-biodiversity-tropical-forests]]
 - Require support trees for climbing (forest trees, plantation trees)
 
 ### Growth Cycle
 
-Rattan has a relatively fast growth rate compared to timber trees:
+Rattan has a relatively fast [[soil-temperature-plant-growth-rate-doubling-rule]] compared to timber trees:
 - Commercial-sized canes (2-5cm diameter) can be harvested in 7-15 years
 - Some species produce harvestable cane in as little as 5-7 years
 - after harvest, new shoots emerge from the root system
@@ -86,51 +87,3 @@ The manual references bamboo extensively alongside other cane species. While bam
 - Traditional craft skills and markets
 
 ## Management for Sustainable Harvest
-
-### Forest Integration
-
-Rattan management integrates with forest systems through:
-- Planting rattan seedlings under established timber trees
-- Using existing forest trees as support structures
-- Managing rattan density to prevent overcrowding
-- Rotating harvest areas to allow regeneration
-
-### Harvesting Techniques
-
-Sustainable rattan harvesting involves:
-- Cutting mature canes at ground level
-- Leaving younger canes to grow
-- Pulling harvested canes from the canopy (traditionally done by hand)
-- Processing canes soon after harvest to prevent deterioration
-- Managing support trees to maintain climbing structure
-
-### Post-Harvest Processing
-
-1. **Cleaning**: Remove leaf sheaths and debris
-2. **Drying**: Air dry in shade or sun (affects final quality)
-3. **Straightening**: Heat and bend to straighten curved sections
-4. **Sizing**: Sort by diameter and length
-5. **Treatment**: Oil or chemical treatment to prevent pest damage
-6. **Storage**: Store in dry, well-ventilated conditions
-
-## Integration with Permaculture Design
-
-### In Tropical Food Forests
-
-Rattan can be integrated into food forest systems as:
-- Understory climbing species among comparison [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
-- Additional income source from established orchards
-- Support species providing craft materials
-- Part of the species diversity that strengthens the overall system
-
-### In Community Forests
-
-Community-managed forests can include rattan as a valuable non-timber product that:
-- Provides regular income between timber harvest cycles
-- Incentivizes forest conservation (economic value of standing forest)
-- Supports traditional craft skills
-- Requires minimal management input once established
-
-### As Part of Multi-Strata Systems
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

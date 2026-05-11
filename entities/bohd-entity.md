@@ -77,7 +77,7 @@ RBOS as the alert to there being an oxygen on the benzyl carbon of a
 phenethylamine (it is a benzyl alcohol); (2) if there is just one more letter
 (a third and last letter) it will identify the 2C-X parent from which it has
 been derived [RBS comes from 2C-B, RDS comes from 2C-D, RHS comes from
-homopiperonylamine (MDPEA) rather than from 2C-H, RMS comes from mescaline, and
+homopiperonylamine (MDPEA) rather than from 2C-H, RMS comes from [[mescaline]], and
 in every case the beta-substituent is a methoxy group]; and (3) if there are
 four letters, then the fourth letter is as above, and the third letter (the next
 to last letter) is the substituent on that benzylic oxygen. With a three letter
@@ -88,11 +88,3 @@ and an RES is for an ethyl group.
 Complex, yes. But both systems are completely straightforward, and flexible for
 future creations. A few additional examples of similar beta-ethanolamines are
 scattered throughout Book II and they have, in general, proved to be
-uninteresting, at least as potential psychedelic compounds.
-
-## Related Compounds
-
-- [[2c-b-compound-profile]] -- 2,5-dimethoxy-4-bromophenethylamine, the 2C-X parent compound
-
-- [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
-- [[bod-entity]]

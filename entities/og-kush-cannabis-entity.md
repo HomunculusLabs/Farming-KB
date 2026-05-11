@@ -6,6 +6,7 @@ tags: [cannabis-strain, hybrid, indica-dominant, californian-genetics, terpene-p
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "General oner-cannabis-breeding-fundamentals and cultivation knowledge"
 ---
 
@@ -87,31 +88,3 @@ OG Kush has been used as a breeding parent more extensively than almost any othe
 - **Tahoe OG:** OG Kush phenotype selected for increased potency and shorter flowering time (7–8 weeks); favored by commercial growers
 - **Ghost OG:** Cut selected for dense resin production and potent sedation; popular in California medical cannabis community
 - **Larry OG:** OG Kush × unknown — selected for exceptional resin coverage and complex flavor tropicana cookies cana Cookies:** Girl Scout Cookies × Tangie — OG Kush lineage through GSC; known for vibrant orange-purple colorat wedding cake ing Cake:** Girl Scou triangle kush riangle Kush — multiple OG Kush lineages; one of the best-selling strains in US dispensaries (2018– to:** Sunset Sherbet × Thin Mint GSC — OG Kush through GSC lineage; extremely popular for dessert-like flavor and balanced effects
-
-## Cultural Significance
-
-OG Kush became synonymous with premium California cannabis in the late 1990s and 2000s. It defined the "kush" branding trend that dominates dispensary menus globally. The strain has been referenced extensively in hip-hop culture — artists including Snoop Dogg, Wiz Khalifa, and Cypress Hill have name-dropped OG Kush in lyrics. It is widely regarded among cannabis enthusiasts as a benchmark for quality and potency, frequently used as a reference point in strain reviews and taste comparisons. DNA Genetics, Reserva Privada, and other seed companies have released numerous "OG" crosses, cementing the strain's position as the most commercially significant breeding line in modern cannabis. The "OG" naming convention has since been applied to hundreds of strains with varying degrees of actual OG Kush ancestry, leading to significant genetic dilution and consumer confusion in commercial markets.
-
-## Field Identification Tips
-
-- **Aroma:** Immediate, unmistakable fuel-diesel-citrus-pine scent when flower is gently squeezed or broken open
-- **Trichome density:** Extremely heavy; visible frosty layer on mature flowers even without magnification
-- **Calyx structure:** Large, chunky calyxes with swollen tips; dense packing gives buds a rock-hard texture
-- **Color range:** Green to dark green with occasional purple-blue pigmentation under cool conditions; orange pistils contrast sharply
-- **Clone identification:** True OG Kush exhibits a distinctive leaf morphology with medium-width leaflets; many commercial "OG" crosses show hybrid leaf patterns that deviate from the original clone
-
-## Market and Commercial Significance
-
-- **Dispensary prevalence:** OG Kush and its direct descendants are estimated to account for 15–25% of all cannabis sales in licensed US dispensaries as of the mid-2020s
-- **Price premium:** Authentic OG Kush clone material and seed lines command significant price premiums; flower from verified OG Kush genetics typically sells at 20–40% above market average
-- **Seed market:** Feminized OG Kush seeds from breeders including DNA Genetics, Barney's Farm, and Fast Buds are widely available; autoflowering variants have been developed by crossing with ruderalis genetics
-- **Extract market:** OG Kush is a preferred starting material for hash, rosin, and hydrocarbon extracts due to high terpene content and resin production; live resin and sauce preparations from OG Kush are particularly valued for flavor preservation
-- **Awards:** OG Kush and its descendants have won numerous Cannabis Cup awards at High Times events and industry competitions throughout the 2000s and 2010s
-- **Counterfeit risk:** Due to the genetic dilution described above, many products labeled "OG Kush" in commercial markets contain minimal actual OG Kush ancestry; verified clone-only genetics remain the gold standard
-
-## See Also
-
-- [[kosher-kush-entity]]
-
-- [[jack-herer-cannabis-strain]]
-- [[cannabis-sativa]]

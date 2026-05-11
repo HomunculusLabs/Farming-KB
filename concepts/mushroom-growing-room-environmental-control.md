@@ -5,6 +5,7 @@ updated: 2026-05-02
 type: concept
 tags: [mushroom-cultivation, mycology]
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 --- title: duggar-mushroom-growing-room-design chen-maitake-growth-parameters-environmental-control System created: 2026-04-26 tags: [mycology, mushroom-cultivation, environmental-control, ventilation, stamets date: 2026-04-25 updated: 2026-04-25 sources: [raw/papers/the-mushroom-cultivator-stamets.md] type: concept --- # duggar-mushroom-growing-history-and-methods Room [[chen-maitake-growth-parameters-environmental-control]] System The [[duggar-mushroom-growing-history-and-methods]] room must maintain a selected query-what-is-the-ideal-temperature-range-for-growing-cannabis at high relative humidities. This is accomplished through adequate insulation and an environmental control system providing heating, cooling, humidification, and air handling. [[coprinus-atrementarius-entity-the-mushroom-cultivator]] [[fruiting-conditions]]:   supplies oxygen to [[falconer-growing-mushrooms-in-sheds]].    carries away co2 produced by agaricus*: 2-3 changes per hour.
@@ -87,32 +88,3 @@ Three primary methods:
 3.  **Evaporative pad systems** — air passes through water-saturated
     absorbent material, similar to a "swamp cooler." Provides both
     humidification and [[blesching-cannabis-fever-temperature-regulation]].
-
-## Thermostats and Humidistats
-
-Standard on/off instruments cause surges in heat and humidity. **Modulating
-thermostats** supply heat continuously in proportion to deviation from
-the desired temperature. Hand valves used alone or with on/off
-instruments provide similar positive control by keeping supply volume
-just below the cut-off point.
-
-## Lighting
-
-Photosensitive species require light for proper development:
-
--   Fluorescent fixtures provide broadest coverage; mount on side walls
-    or ceiling above the center aisle.
--   Remove ballasts outside the room to eliminate heat and drying.
--   Best tubes: those closest to natural outdoor light with at least 140
-    microwatts/10nm/lumen of blue spectra (440-495 nm).
--   "Daylite 65" (6500K) and "Vita-Lite" (5500K) fluorescent tubes are
-    recommended.
-
-## Monitoring Equipment
-
-Essential for the sensitive [[cannabis-growing-environment-setup]]:
-
--   Maximum-minimum thermometers for temperature fluctuations.
--   Hygrometers or sling psychrometers for humidity (calibrate
-    periodically).
--   Advanced equipment: CO2 detectors, [[cervantes-moisture-meters-watering-technique]], anemometers,

@@ -88,16 +88,3 @@ least four times within the Agaricales, in lineages leading to
 evolution of the same pathway is strong evidence that psilocybin
 production confers a selective advantage, though the nature of this
 advantage remains under investigation.
-
-The horizontal gene transfer hypothesis is supported by the compact
-genetic organization of the psilocybin gene cluster, a pattern more
-typical of bacterial [[fungal-elicitors-enhanced-secondary-metabolite-production]] pathways. This insight has
-practical implications for both taxonomy and biotechnological production
-of psilocybin and related compounds. See [[fungal-biodiversity]] for
-broader context on fungal evolutionary patterns.
-
-## See Also
-
-- [[psilocybin-mushrooms-biology]]
-- [[psilocybin-pharmacology]]
-- [[fungal-biodiversity]]

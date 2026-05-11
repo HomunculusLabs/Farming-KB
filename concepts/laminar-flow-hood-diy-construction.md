@@ -1,5 +1,5 @@
 ---
-title: DIY comparison-laminar-flow-hood-vs-fruiting-chamber Hood Construction
+title: Laminar Flow Hood Diy Construction
 created: 2026-04-13
 updated: 2026-04-15
 type: concept
@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/laminar-flow-hood-construction-1.md]
 ---
 # DIY Laminar Flow Hood Construction
 
-A laminar flow hood is the single most important piece of [[mushroom-cultivation-sterile-technique]] in [[accessible-mushroom-cultivation-for-disabilities]]. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and spore handling.
+A laminar flow hood is the single most important piece of [[mushroom-cultivation-sterile-technique]] in [[accessible-mushroom-cultivation-for-disabilities]]. It provides a continuous stream of HEPA-filtered air, creating a sterile workspace for inoculation, agar work, and [[spore]] handling.
 
 ## How It Works
 
@@ -16,7 +16,7 @@ Air is drawn through a three-stage filtration system:
 
 1. **Blower** draws [[stamets-growing-room-air-circulation-co2-management]] into the unit
 2. **Filter pad** (prefilter) traps large dust particles
-3. **HEPA filter** (H14 class per EN 1822) removes 99.9% of airborne contamination including fungi, bacteria, and dust
+3. **[[hepa-filter-selection-and-testing]]** (H14 class per EN 1822) removes 99.9% of airborne contamination including fungi, bacteria, and dust
 4. **Sterile laminar air** flows into the working area
 
 ## Critical Parameters
@@ -88,57 +88,3 @@ Choose a blower rated for the calculated airflow at the required pressure:
 | Centrifugal blower (G2E140-AI28-01) | 114 EUR |
 | Prefilter pad (E360) | 15 EUR |
 | HEPA filter (305 x 610 x 78 mm) | 131 EUR |
-| Press boards | 24 EUR |
-| Hardware (screws, etc.) | 20 EUR |
-| **Total** | **304 EUR** |
-
-## Usage Protocol
-
-Before working in the flow hood:
-1. Turn on the blower
-2. Wipe the sterile area with alcohol-soaked paper
-3. Let the blower run for **30 minutes**
-4. Repeat the alcohol wipe of the sterile area
-5. Begin work — keep movements slow and deliberate
-6. Never block the airflow with hands or objects
-7. Work items should be placed downstream (between filter and operator)
-
-## Flow Hood vs Steam Method
-
-| Aspect | Flow Hood | Steam Method |
-|--------|-----------|--------------|
-| Space | Large working area | Limited |
-| Visibility | Excellent | Limited by steam |
-| Duration | Can work for hours | Limited by heat |
-| Cost | ~300 EUR | Minimal |
-| Space required | Needs dedicated area | Any kitchen |
-| Best for | High-volume, [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] | Occasional transfers |
-
-## See Also
-
-- [[laminar-flow-hood-guide]] — laminar flow hood usage guide
-- [[mushroom-sterile-technique-detailed]] — detailed sterile procedures
-- [[mushroom-grow-equipment]] — equipment guide
-- [[mushroom-laminarar-flow-hood]] — laminar flow hood overview
-
-## Multi-Station Design (Forister & Burger)
-
-Forister and Burger (University of California, Davis) described an innovative construction connecting two laminar flow hoods to a single blower via dryer vent hose. This approach serves multiple workstations from one blower, reducing overall cost.
-
-### Fan Housing
-
-The fan housing is built from 3/4" plywood cut from a 4' x 8' sheet:
-1. Assemble a square open-top box from SIDEs and ENDs with bottom, using rabbet joints (3/4" wide, 1/2" deep)
-2. Build a fan hood from #2 pine that fits inside the box, attached to the blower outlet with #10 3/4" screws
-3. The top center piece has 4" diameter holes for air distribution
-4. Hose attachments are made from 4" aluminium irrigation pipe, 3" long
-5. The blower used was a Dayton #5C094 direct-drive unit
-
-### Hood Construction
-
-Each laminar flow hood features:
-- Double-layer 3/4" plywood bottom (laminated with Formica for easy cleaning)
-- HEPA filter (24" x 30" x 6") set back from the table by the width of an egg crate white panel
-- Egg crate lighting panel between filter face and working area for even light distribution
-- 1" x 12" pine enclosure dadoed to receive the filter edges for better sealing
-- Clear plexiglas hood top formed from a single continuous piece of 1" angle aluminium

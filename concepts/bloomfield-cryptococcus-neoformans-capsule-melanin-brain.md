@@ -1,5 +1,5 @@
 ---
-title: bloomfield cryptococcus neoformans capsule melanin brain Capsule Melanin and Brain Colonization
+title: Bloomfield Cryptococcus Neoformans Capsule Melanin Brain
 created: 2026-04-28
 tags:
   - mycology
@@ -44,13 +44,13 @@ It acts by binding to ergosterol, a lipid molecule in the fungal plasma membrane
 
 Amphotericin is often combined with 5-fluorocytosine, which impairs RNA function and DNA synthesis. The two drugs act synergistically, allowing lower doses of each and reducing side effects. Fluconazole, an azole antifungal, is a third effective drug. It blocks ergosterol synthesis by inhibiting the enzyme 14-alpha-demethylase.
 
-Before the 1950s, death was swift and certain for patients with cryptococcal meningitis. In 2001, Pfizer made the landmark decision to offer an unlimited free supply of fluconazole (marketed as Diflucan) to fifty of the world's poorest nations, where the drug had been unaffordable at approximately $10 per daily dose. This donation represented one of the largest corporate philanthropic efforts in the history of infectious disease treatment.
+Before the 1950s, death was swift and certain for patients with cryptococcal meningitis. In 2001, Pfizer made the landmark decision to offer an unlimited free supply of fluconazole (marketed as Diflucan) to fifty of the world's poorest nations, where the drug had been unaffordable at approximately $10 per daily dose. This donation represented one of the largest corporate philanthropic efforts in the history of infectious [[ingham-root-disease-treatment]].
 
 ## The Polysaccharide Capsule
 
 A conspicuous feature of Cryptococcus cells is the presence of a capsule built from mixtures of sugar molecules that extends as a wide halo around every cell. This capsule helps the fungus avoid detection and destruction by the immune system. The polysaccharide capsule is a primary virulence factor, masking the yeast from phagocytic immune cells.
 
-Medical mycologists spend considerable time studying the interactions between the capsule and host immune defenses. The capsule is not a static structure; it can be shed and re-formed, and its composition varies depending on growth conditions. The sheer size of the capsule relative to the yeast cell makes it difficult for phagocytes to engulf the pathogen.
+Medical mycologists spend considerable time studying the interactions between the capsule and host immune defenses. The capsule is not a static structure; it can be shed and re-formed, and its composition varies depending on [[psilocybin-potency-variation-species-strain-growth-conditions]]. The sheer size of the capsule relative to the yeast cell makes it difficult for phagocytes to engulf the pathogen.
 
 This allows Cryptococcus to persist in the bloodstream and cross the blood-brain barrier. The capsule also has immunomodulatory effects: it can deplete complement proteins and interfere with the signaling molecules that coordinate the immune response. The result is a pathogen that is not merely hidden from the immune system but actively subverts it.
 
@@ -62,7 +62,7 @@ Cryptococcus can manufacture melanin from L-dopa, dopamine, or the hormone epine
 
 Some mycologists believe that melanin production explains why Cryptococcus preferentially colonizes the brain. The fungus may attempt to grow in other locations in the body, but in the absence of precursors for melanin synthesis, its yeast cells cannot become pigmented and are vulnerable to removal by immune defenses.
 
-The concept that a fungus might steal chemical components from its host in order to protect itself from the host's own defenses illustrates the insidious nature of human mycoses. This neurotropism is not unique to Cryptococcus, but the sophistication of its melanin-based survival strategy in the brain environment is unparalleled among human fungal pathogens.
+The concept that a fungus might steal chemical components from its host in order to protect itself from the host's own defenses illustrates the insidious nature of human mycoses. This neurotropism is not unique to Cryptococcus, but the sophistication of its melanin-based survival strategy in the brain environment is unparalleled among [[human-fungal-pathogens]].
 
 ## Fungal Melanins: Broader Context
 
@@ -70,13 +70,13 @@ Fungal melanins are complex chemicals synthesized by the assembly of masses of r
 
 The energy from these radiation sources is transferred deep into the molecular structure of the pigment and emitted as heat, diminishing the damaging effects upon the living interior of the cell. Resistance to ultraviolet light is one function of melanin that allows melanized fungi to live on exposed surfaces like garden sheds and marble statues. The translucent cells of other species are restricted to subterranean habitats by contrast.
 
-Melanized fungi coat the surface of buildings and ancient statuary, pit and penetrate stone, and hasten its disintegration. Soot from automobiles is often blamed for masonry discoloration, but the pollution is frequently fungal in origin. Radiation-tolerant fungi have been reported flourishing in the contaminated soils around the Chernobyl reactor in Ukraine, thriving amid levels of radioactivity that would be lethal to most organisms.
+Melanized fungi coat the surface of buildings and ancient statuary, pit and penetrate stone, and hasten its disintegration. Soot from automobiles is often blamed for masonry discoloration, but the pollution is frequently fungal in origin. Radiation-tolerant fungi have been reported flourishing in the [[fungal-competition-survival-contaminated-soils]] around the Chernobyl reactor in Ukraine, thriving amid levels of radioactivity that would be lethal to most organisms.
 
 ## Albino Mutants and Melanin Research
 
 Much information on melanin's significance comes from comparing normal pigmented fungi with albino versions. These translucent doppelgangers are created by poisoning the melanin-manufacturing enzymes or by disrupting the genes that encode them. In almost every contest between colored and colorless, the albinos are conquered.
 
-They are fine on agar, but shine ultraviolet light on them and they shrivel, change the temperature and they perish, or attack them with cell wall degrading enzymes and they explode. Research on the melanized fungus Wangiella dermatitidis, another human pathogen, has provided additional insights into the role of pigmentation in fungal survival.
+They are fine on agar, but shine ultraviolet light on them and they shrivel, change the temperature and they perish, or attack them with cell wall degrading enzymes and they explode. Research on the melanized fungus [[bloomfield-phaeohyphomycosis-wangiella-dermatitidis-melanized-brain-pathogen]], another human pathogen, has provided additional insights into the role of pigmentation in fungal survival.
 
 The consistency of results across multiple melanized species reinforces the conclusion that melanin is a critical factor in environmental resilience and pathogenicity. Albino mutants of Cryptococcus are more susceptible to oxidative damage by immune cells and show reduced survival at elevated temperatures, suggesting that melanin contributes to thermotolerance as well as [[bacillus-pumilus-radiation-resistance-surface-decontamination]].
 
@@ -87,50 +87,3 @@ In 1976, June Kwon-Chung at the National Institutes of Health made a landmark di
 It was named Filobasidiella neoformans and recognized as a relative of wood-decaying jelly fungi. When the basidiospores germinated, they produced the much larger yeast cells recognized as Cryptococcus. This showed that the yeasts proliferating in the brain represent the asexual phase (anamorph) of a fungus whose genome also encodes a sexual, spore-producing hyphal basidiomycete stage (the teleomorph, Filobasidiella).
 
 The teleomorph requires fusion of two compatible yeast cells, equipping it with two copies of each chromosome, followed by meiosis to distribute single chromosome sets to the basidiospores. According to formal nomenclatural rules, the name of the teleomorph has precedence. But it is not practical to scrap a name recognized by clinicians worldwide, and this strange situation, in which a single organism has two scientific names, persists.
-
-## Mating Types and Same-Sex Reproduction
-
-The sexual stage is formed by compatible strains referred to as the a-strain and the alpha-strain. Both strains occur in the environment, but over 95 percent of all human infections are caused by the alpha-strain. This striking bias is explained by the discovery that the alpha-strain can produce basidiospores without mating, providing a shortcut for spore production even when growing alone in pigeon droppings.
-
-This phenomenon of same-sex reproduction (monokaryotic fruiting) allows a single strain to complete a spore-producing cycle without encountering a compatible partner. The ability to reproduce both sexually and asexually, and to complete a pseudo-sexual cycle as a single strain, gives Cryptococcus remarkable reproductive flexibility. This flexibility may contribute to the success of the alpha-strain as a pathogen, since it can generate infectious spores in the absence of mating partners.
-
-## Environmental Reservoir
-
-The natural reservoir of the sexual stage was found inside the flowers of eucalyptus trees. The fungus thrives in pigeon droppings because bird excrement contains high concentrations of creatinine, a nitrogenous compound that Cryptococcus can uniquely utilize as a nitrogen source for protein manufacture.
-
-Pigeon manure filtrate agar was developed as a specialized culture medium on which compatible strains mate and form the Filobasidiella stage. The basidiospores of Filobasidiella are smaller than the yeast cells of Cryptococcus and are more likely to penetrate deep into the lungs upon inhalation, making them potentially more infectious than the yeast form.
-
-The association with both eucalyptus flowers and pigeon guano illustrates the ecological versatility of this pathogen. Cryptococcus has been isolated from soil, tree bark, bird droppings, and even from the air in urban environments, reflecting its ability to survive in diverse habitats.
-
-## Host Range and Evolutionary History
-
-The broad host range of Cryptococcus argues for a lengthy evolutionary history. Besides humans, infections have been reported in bats, camels, cats, cheetahs, civets, cows, dogs, dolphins, ferrets, foxes, goats, guinea pigs, horses, koalas, mangabeys, mice, pigs, rats, shrews, snakes, and a variety of birds. The yeast may have colonized the brains of other hominids millions of years before modern humans appeared.
-
-Its cells possess melanin, a polysaccharide capsule, the ability to grow at human body temperature, an affinity for creatinine-rich environments, and a sexual cycle that produces small, readily inhaled basidiospores. The convergence of so many adaptations for animal parasitism suggests that Cryptococcus is not merely an opportunist but a pathogen with a deep evolutionary relationship with animal hosts.
-
-## Opportunism vs. Adaptation
-
-Medical mycologists do not regard Cryptococcus as a well-adapted pathogen. After all, it is rebuffed by most people unless their immune systems are damaged. For this reason, researchers wear latex gloves rather than biohazard suits when handling cultures of the fungus. It is a perfect example of an opportunist, a microorganism that ordinarily lives on dead tissues or feces but is sufficiently robust to tolerate occasional incarceration in a living host.
-
-At professional meetings, medical mycologists come close to expressing pity for opportunistic fungi. More time is spent discussing the hostility of the host than the virulence of the pathogen. However, the broad host range and numerous specific adaptations argue against relegating Cryptococcus to the status of a reluctant intruder. Its cells possess too many features suited for life inside animal tissues.
-
-## Related Melanized Pathogens
-
-Other fungi that infect humans also synthesize melanin. Wangiella dermatitidis is one of these rare causes of human disease with a tendency to invade the brain. At autopsy, a brain slice from someone infected with this fungus shows tiny islands of yeasts intermingled with jet-black hyphae.
-
-Laboratory mice survive infections by albino mutants of Wangiella, but perish when injected with the melanized strains. In culture, Wangiella switches from budding yeasts to tip-growing hyphae to penetrate agar, and may transform itself in the same fashion when it travels through solid tissues. A cluster of Wangiella infections was tracked to a Japanese hot tub where the melanized fungus was driven into skin by metal burrs on a water nozzle.
-
-## Decomposition and Forensic Mycology
-
-The relationship between fungal decomposers and potential human infection raises intriguing questions about the natural process of human decay from a mycological perspective. The mycelium of the basidiomycete Hebeloma syriense colonizes buried bodies, so that the appearance of its fruiting bodies can be evidence of a crime scene. Its common name is the "corpse finder." This forensic dimension of mycology remains largely unexplored.
-
-## See Also
-
-- [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]]
-
-- bloomfield-mushroom-poisons-and-toxidromes for broader discussion of fungal poisons
-- [[bloomfield-fungal-secondary-metabolites]] for melanin and other [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]
-- [[bloomfield-yeast-saccharomyces-fungal-pathogens]] for yeast biology and dimorphism
-- [[cryptococcus-neoformans]]
-- [[decomposition]]
-- [[fungal-melanin]]

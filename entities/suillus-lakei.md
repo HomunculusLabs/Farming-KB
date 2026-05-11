@@ -24,10 +24,10 @@ sources:
 
 *Suillus lakei*, commonly known as the western painted Suillus or the matte
 Jack, is an ectomycorrhizal bolete associated primarily with Douglas-fir
-(*Pseudotsuga menziesii*) in western North America. It is a medium-sized
+(*[[pseudotsuga-menziesii]]*) in western [[guzman-psilocybin-mushrooms-north-america]]. It is a medium-sized
 mushroom recognized by its dry, fibrillose-scaly cap that develops a
 distinctive reddish-brown to pinkish-brown coloration with age, and its
-characteristic partial veil that often leaves a persistent ring on the stipe.
+characteristic [[partial-veil-tropism-protection-before-spore-release]] that often leaves a persistent ring on the stipe.
 
 The species is edible when thoroughly cooked but is considered second-tier
 among Suillus for the table due to its sometimes slimy cuticle and variable
@@ -77,7 +77,7 @@ Alaska through British Columbia, Washington, Oregon, and California, with
 disjunct populations reported in the Rocky Mountains of Idaho and Montana.
 
 It fruits from late summer through late autumn (September–November in the
-Pacific Northwest), occasionally extending into early winter in mild coastal
+[[psilocybin-north-america-pacific-northwest]]), occasionally extending into early winter in mild coastal
 climates.
 
 The species is an obligate ectomycorrhizal associate of Douglas-fir
@@ -87,55 +87,3 @@ is present nearby but is essentially a Douglas-fir specialist. Fruitings are
 most abundant in young to mid-successional stands, particularly in recently
 disturbed sites such as clear-cuts, burns, and road edges where Douglas-fir
 has regenerated.
-
-## Edibility and Culinary Use
-
-*Suillus lakei* is edible and generally regarded as acceptable when
-properly prepared. The cap is the preferred part — the pore surface and
-tube layer can become soft and mucilaginous with cooking.
-
-Preparation recommendations include removing the cap cuticle (which can be
-peeled easily when fresh) and the tube layer before cooking. The stipe,
-while edible, is fibrous and less desirable.
-
-**Important:** Like all Suillus species, *S. lakei* should be cooked
-thoroughly before consumption. Raw or undercooked specimens can cause
-gastrointestinal distress in sensitive individuals. Some foragers also
-report allergic-type reactions to Suillus species, particularly when
-consumed with alcohol.
-
-## Ecological Role
-
-As a Douglas-fir ectomycorrhizal symbiont, *Suillus lakei* plays an
-important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The mycelium extends the
-effective root surface area of its host, enhancing uptake of phosphorus,
-nitrogen, and micronutrients from the soil.
-
-The species is particularly prominent in early-successional Douglas-fir
-forests, where it contributes to seedling establishment on disturbed sites.
-Its abundance in recently logged or burned areas suggests it plays a role in
-reforestation and stand recovery following disturbance.
-
-The fruiting bodies are consumed by various forest mammals including deer,
-squirrels, and slugs. The mycelium may also serve as a food source for
-soil microarthropods and nematodes.
-
-## Related Species
-
-| Species | Key Differences |
-|---------|----------------|
-| *Suillus cavipes* | Hollow stipe; associated with larch (*Larix*), not Douglas-fir |
-| *Suillus brevipes* | Very short stipe; cap smoother, less scaly; same Douglas-fir host |
-| *Suillus pungens* | Strong pungent odor; more western coastal distribution |
-| *Suillus grevillei* | Cap viscid when wet; associated with larch, not Douglas-fir |
-
-*Suillus lakei* is most reliably distinguished from other Douglas-fir
-Suillus species by its dry, fibrillose-scaly cap and persistent ring.
-The combination of Douglas-fir association, dry cap, and well-developed
-annulus is diagnostic.
-
-## See Also
-
-- [[suillus-brevipes]] — Short-stiped Douglas-fir Suillus
-- [[leccinum-scabrum]] — Birch-associated scaber stalk bolete
-- [[ectomycorrhiza]] — Root-fungal mutualism

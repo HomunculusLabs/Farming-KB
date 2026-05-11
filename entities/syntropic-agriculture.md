@@ -87,37 +87,3 @@ Ground cover species and herbaceous layers include beans, squash, cassava, and v
 ## Benefits
 
 Soil regeneration is the most consistently documented benefit. Syntropic systems in degraded areas have shown rapid recovery of soil organic matter, increased aggregate stability, and restored microbial communities within 5 to 10 years.
-
-Water cycling improves dramatically as mulch layers and root systems increase infiltration and reduce surface runoff. Restored farms in Bahia, Brazil have documented rising water table levels and re-emergence of dried springs.
-
-Biodiversity increases as the stratified planting design provides habitat for multiple trophic levels. Pollinator populations, predatory insect communities, and avian diversity all increase relative to conventional or monoculture systems.
-
-Economic returns are front-loaded through the continuous harvest model. While establishment costs are higher than conventional agriculture, the diversity of harvestable products from multiple strata reduces financial risk and provides year-round income streams.
-
-## Challenges and Limitations
-
-High initial labor requirements and input costs present a significant barrier to adoption. The first 3 years require substantially more labor than conventional farming, with returns lagging until the system begins producing at scale.
-
-Knowledge intensity is considerable. Successful implementation requires deep understanding of local ecology, species interactions, and successional dynamics. The system does not follow standardized recipes and must be adapted to each site.
-
-Scaling syntropic agriculture to industrial commodity production remains unproven. Current applications are best suited to diversified horticulture, fruit production, and smallholder farming rather than large-scale grain or fiber production.
-
-Peer-reviewed scientific literature on syntropic agriculture remains limited, with most evidence coming from practitioner reports and case studies. Formal research is increasing but long-term controlled studies are still needed.
-
-### Climate Resilience
-
-Syntropic systems demonstrate notable resilience to extreme weather events compared to conventional monocultures. The dense, stratified canopy reduces soil temperature during heat waves, while the continuous ground cover and mulch layers protect against erosion during heavy rainfall events.
-
-During drought conditions, the deep root networks of climax species access subsoil water reserves and redistribute moisture through hydraulic lift. This shared water access helps understory crops survive dry periods that would devastate exposed monocultures.
-
-Carbon sequestration potential is substantial. The continuous accumulation of above-ground and below-ground biomass, combined with increasing soil organic carbon, positions syntropic agriculture as a viable climate mitigation strategy. Estimates suggest carbon accumulation rates of 2 to 10 tonnes per hectare per year during the establishment phase.
-
-## See Also
-
-- [[tompkins-radionic-agriculture-pesticides]]
-
-- [[agroforestry]]
-- [[cover-cropping-guide]]
-- [[chop-and-drop]]
-- [[korean-natural-farming]]
-- [[ernst-gotsch]]

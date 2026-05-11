@@ -15,7 +15,7 @@ and function.
 ## Mycorrhizal Types Across Biomes
 
 ### Arbuscular Mycorrhizal Fungi (AMF)
-The most widespread type, found in tropical forests (extremely
+The most widespread type, found in [[fungal-biodiversity-tropical-forests]] (extremely
 high diversity), temperate grasslands (AMF dominate), agricultural
 fields (reduced by tillage), and arid lands (critical for water
 uptake). Hundreds of species in Glomerales await description.
@@ -36,8 +36,8 @@ in acidic, nutrient-poor soils.
 Multiple complementary methods are employed:
 - Fruiting body surveys: seasonal recording; biased toward
   visible species
-- Root tip analysis: direct microscopic examination of roots
-- Molecular identification: DNA from roots or soil; detects
+- Root tip analysis: direct [[fungal-microscopic-examination-mounting-media-techniques]] of roots
+- [[biodiversity-fungal-molecular-identification-dna-barcoding]]: DNA from roots or soil; detects
   non-fruiting species
 - Spore extraction: soil washing and counting for AMF
 - Trap plant cultivation: bait plants in soil samples
@@ -51,7 +51,7 @@ temperate forests show increasing EMF importance.
 
 ### Elevation Gradients
 AMF diversity generally decreases with elevation while EMF
-diversity may peak at mid-elevations. Ericoid mycorrhizae
+diversity may peak at mid-elevations. [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
 increase in importance at high elevations.
 
 ### Successional Changes
@@ -61,11 +61,11 @@ Disturbance reduces diversity; recovery takes decades.
 
 ## AMF Functional Roles
 Beyond nutrient exchange, AMF provide phosphorus uptake from
-micropores, enhanced drought tolerance, pathogen protection,
+micropores, enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]], pathogen protection,
 soil aggregate stabilization via glomalin, and carbon
 sequestration through deep hyphal carbon deposition.
 
-Conventional tillage reduces colonization 40-70% versus
+[[comparison-no-till-vs-conventional-tillage]] reduces colonization 40-70% versus
 no-till. Phosphorus fertilization suppresses colonization
 by removing plant dependency on fungal nutrient uptake.
 
@@ -88,13 +88,3 @@ bias, and difficulty linking sequences to functional traits.
 ## Climate Change Impacts
 Warming shifts EMF communities toward warm-adapted species.
 Altered precipitation affects AMF sporulation. Elevated CO2
-may increase mycorrhizal dependency. Host range shifts
-create compatibility gaps with local fungal communities.
-
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[mycorrhizal-networks-and-forest-communication]]
-- [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]

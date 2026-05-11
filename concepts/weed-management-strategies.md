@@ -9,7 +9,7 @@ sources: []
 
 # Weed Management Strategies
 
-Weed management in regenerative and organic systems focuses on prevention, competition, and targeted removal rather than total eradication. A completely weed-free garden is neither realistic nor desirable — some weeds provide habitat for beneficial insects, cycle nutrients, and protect soil. The goal is to manage weeds to a level where they do not significantly reduce crop yields.
+Weed management in regenerative and organic systems focuses on prevention, competition, and targeted removal rather than total eradication. A completely weed-free garden is neither realistic nor desirable — some weeds provide [[query-how-do-i-design-habitat-for-beneficial-insects]] insects, cycle nutrients, and protect soil. The goal is to manage weeds to a level where they do not significantly reduce crop yields.
 
 ## Understanding Weeds
 
@@ -79,7 +79,7 @@ A propane torch is used to briefly flame weeds, killing them by rupturing plant 
 
 ### Tilling
 
-Mechanical tillage destroys weeds by cutting, burying, and uprooting. However, tilling also brings buried weed seeds to the surface, creating a long-term weed management problem.
+Mechanical [[fukuoka-why-tillage-destroys-soil]] weeds by cutting, burying, and uprooting. However, tilling also brings buried weed seeds to the surface, creating a long-term weed management problem.
 
 - **Short-term**: Tilling effectively eliminates existing weeds
 - **Long-term**: Tilling increases the weed seed bank by triggering germination of buried seeds. Each tilling event germinates a new wave of weeds.
@@ -90,8 +90,8 @@ Mechanical tillage destroys weeds by cutting, burying, and uprooting. However, t
 
 Regular mowing prevents annual weeds from setting seed and gradually weakens perennial weeds by depleting their root reserves.
 
-- **Best for**: Pathways, cover crop termination, field margins, and large areas
-- **Frequency**: Mow before weeds flower. For perennial weeds, repeated mowing every 2-3 weeks through the growing season depletes root reserves over 2-3 years.
+- **Best for**: Pathways, [[cover-crop-termination]], field margins, and large areas
+- **Frequency**: Mow before weeds flower. For perennial weeds, repeated mowing every 2-3 weeks through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] depletes root reserves over 2-3 years.
 - **Mulching mower**: Returns clippings to the soil surface as organic matter
 
 ## Solarization
@@ -103,7 +103,7 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 1. **Prepare the soil**: Till or cultivate the area to break up clods and smooth the surface. Remove large debris and rocks.
 2. **Moisten the soil**: Water thoroughly to a depth of 12 inches. Moist soil conducts heat better than dry soil.
 3. **Cover with clear plastic**: Use UV-stabilized clear polyethylene (1-4 mil thickness). Clear plastic traps more heat than black plastic. Lay plastic flat on the soil surface, burying all edges in a trench to seal.
-4. **Duration**: Leave in place for 4-8 weeks during the hottest part of summer (June-August in most temperate regions). Longer duration = more complete kill.
+4. **Duration**: Leave in place for 4-8 weeks during the hottest part of summer (June-August in most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]). Longer duration = more complete kill.
 5. **Remove and plant**: Remove plastic and plant immediately. Do not till after solarization — this brings unsterilized soil to the surface.
 
 ### Soil Temperature Requirements
@@ -120,7 +120,7 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 - Excellent for: annual weeds, soil-borne fungi (Verticillium, Fusarium), nematodes
 - Poor for: perennial weeds with deep roots (bindweed, quackgrass, nutsedge) — solarization only reaches the top 6 inches
 - Best results: in hot, sunny climates with long summer days
-- Side benefit: soil nutrient availability may increase after solarization (ammonification of organic nitrogen)
+- Side benefit: soil [[ph-and-nutrient-availability-garden-soils]] may increase after solarization (ammonification of organic nitrogen)
 
 ## Sheet Mulching (Lasagna Gardening)
 
@@ -147,4 +147,3 @@ Sheet mulching smothers existing vegetation and weed seeds under multiple layers
 - Takes several months for full effectiveness — not an instant solution
 - Heavy cardboard may impede water infiltration initially
 - See [[no-till-gardening-method]] for integrating sheet mulching into no-till systems
-

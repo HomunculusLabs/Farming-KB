@@ -87,10 +87,3 @@ effectively extracts beta-glucans and many polysaccharides. Ethanol or
 dual extraction captures the lipophilic triterpenoids and other non-polar
 compounds. Freeze-drying preserves heat-sensitive compounds better than
 spray-drying.
-
-## See Also
-
-- [[medicinal-mushrooms-compounds-and-benefits]]
-
-- [[fruiting-chamber-design-and-environmental-control]]
-- grain-spawn-production

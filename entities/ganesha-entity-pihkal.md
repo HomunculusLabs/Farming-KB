@@ -7,7 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # GANESHA
-PIHKAL entry #85. G; 2,5-DIMETHOXY-3,4-DIMETHYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #85. G; 2,5-DIMETHOXY-3,4-DIMETHYLAMPHETAMINE.
 ## Chemical Name
 G; 2,5-DIMETHOXY-3,4-DIMETHYLAMPHETAMINE
 ## Dosage and Duration
@@ -88,37 +88,6 @@ the 3- and the 4-positions that are part of the GANESHA concept. And
 A solution of 15.4 g 2,5-dimethoxy-3,4-dimethylbenzaldehyde
 (see under 2C-G for the preparation) in 50 mL nitroethane was treated
 with 3 g anhydrous ammonium acetate and heated on the [[scythian-cannabis-steam-bath-ritual]] for
-12 h. The excess nitroethane was removed under vacuum, and the
-residual oil was diluted with a equal volume of MeOH. There was the
-slow generation of deep red cottage-cheese-like crystals which were
-removed by filtration and air-dried to constant weight (9.3 g) with a
-mp 71-74 deg C. Recrystal-lization from MeOH (10 ml/g) gave an
-analytical sample of
-1-(2,5-dimethoxy-3,4-dimethylphenyl)-2-nitropropene with a mp of 82 deg C
-sharp. Anal. (C13H17NO4) C,H,N. The NMR spectra (in CDCl3) and CI
-mass spectrograph (MH+ = 252) were proper.
-To a suspension of 3.3 g LAH in 200 mL refluxing THF, well stirred and
-maintained under an inert atmosphere, there was added 4.2 g
-1-(2,5-dimethoxy-3,4-dimethylphenyl)-2-nitropropene in 25 mL THF. The
-mixture was held at reflux for 48 h. After cooling, 3.3 mL H2O was
-added cautiously to decompose the excess hydride, followed by 3.3 mL
-15% NaOH and finally another 10 mL H2O. The inorganic solids were
-removed by filtration, and washed with additional THF. The combined
-filtrate and washes were stripped of solvent under vacuum, and the
-residue (4.7 g of a deep amber oil) dissolved in dilute HCl. This was
-washed with CH2Cl2 (3x75 mL), then made basic with 5% NaOH and
-extracted with CH2Cl2. Removal of the solvent under vacuum yielded an
-amber oil that was distilled (105-115 deg C at 0.4 mm/Hg) to give 1.2 g
-of a white oil. This was dissolved in 8 mL IPA, neutralized with 15
-drops of concentrated HCl, and diluted with 250 mL anhydrous Et2O.
-After a period of time, there was a spontaneous appearance of white
-crystals which were removed by filtration, Et2O washed, and air dried.
-Thus was obtained 1.0 g of 2,5-dimethoxy-3,4-dimethylamphetamine
-hydrochloride (GANESHA) with a mp of 168-169 deg C. This was not
-improved by recrystallization from either EtOAc or nitroethane. Anal.
-(C13H22ClNO2) N.
-## Safety Notes
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[ganesha-entity]]
-- [[pihkal-introduction-and-methodology]]
-- PIHKAL (the source book)
-- [[qualitative-comments-methodology-pihkal]]
+
+## See Also
+- [[ethyl-j-entity-pihkal]]

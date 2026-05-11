@@ -25,7 +25,7 @@ The species is named for its distinctive perfoliate leaves — pairs of opposite
 
 ## Taxonomy and Morphology
 
-**Silphium perfoliatum** L. was described by Linnaeus in 1753. The genus *Silphium* belongs to the tribe Heliantheae within Asteraceae and contains approximately 20 species, all native to North America.
+**Silphium perfoliatum** L. was described by Linnaeus in 1753. The genus *Silphium* belongs to the tribe Heliantheae within Asteraceae and contains approximately 20 species, all native to [[guzman-psilocybin-mushrooms-north-america]].
 
 Plants grow 1.5–3 m tall from a deep, fibrous root system with thick rhizomes. Stems are stout, square in cross-section, and glabrous to slightly roughened. The opposite leaves are large, ovate to triangular, 15–30 cm long, with serrate margins.
 
@@ -43,7 +43,7 @@ The root system is exceptionally deep, with taproots documented extending 2+ met
 
 Cup plant is native to the central and eastern United States and southern Ontario. Its range extends from the Great Lakes region south to Georgia and Alabama and west to the Dakotas, Nebraska, and Oklahoma.
 
-The species occupies mesic to wet prairies, riverbottom forests, savannas, and roadside ditches. It prefers rich, moist soils with high organic matter content but tolerates moderate drought once established. It is hardy to USDA zones 3–8.
+The species occupies mesic to wet prairies, riverbottom forests, savannas, and roadside ditches. It prefers rich, moist soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content but tolerates moderate drought once established. It is hardy to USDA zones 3–8.
 
 In its native range, cup plant is a dominant or codominant species in tallgrass prairie wetland communities. It is often found alongside big bluestem, switchgrass, and various native sunflowers in remnant prairie habitats.
 
@@ -55,7 +55,7 @@ European research has focused on cup plant as a perennial alternative to maize f
 
 *Silphium* species contain sesquiterpene lactones, triterpenoids, and resin acids. *S. perfoliatum* produces several bioactive sesquiterpene lactones including silphinin and related guaianolide-type compounds.
 
-The resinous sap has been reported to have mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Native American traditional use of the resin as a chewing gum suggests astringent and potentially antiseptic qualities, though modern pharmacological studies are limited.
+The resinous sap has been reported to have mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. [[halpern-sacramental-peyote-and-native-american-church]] traditional use of the resin as a chewing gum suggests astringent and potentially antiseptic qualities, though modern pharmacological studies are limited.
 
 The leaves contain moderate levels of protein and minerals, which has contributed to interest in the species as a forage crop. Unlike many Asteraceae species, *S. perfoliatum* does not accumulate toxic levels of pyrrolizidine alkaloids.
 
@@ -63,7 +63,7 @@ The leaves contain moderate levels of protein and minerals, which has contribute
 
 Indigenous peoples of the prairie region used *S. perfoliatum* in several ways. The resinous sap was chewed as gum, and the dried sap was burned as incense in ceremonial contexts. The Cherokee used root preparations as a tonic and for treating lung ailments.
 
-Early Euro-American settlers adopted some indigenous uses, particularly chewing the gum-like resin. The species was also used as a general tonic in 19th-century herbal medicine, though it never achieved the commercial prominence of other prairie medicinal plants.
+Early Euro-American settlers adopted some indigenous uses, particularly chewing the gum-like resin. The species was also used as a general tonic in 19th-century [[childrens-herbal-medicine]], though it never achieved the commercial prominence of other prairie medicinal plants.
 
 The water-collecting leaf cups were sometimes used as emergency drinking water sources by travelers on the prairie. This practical use contributed to several of the species' common names, including "cup plant" and "Indian cup."
 
@@ -85,16 +85,6 @@ Cup plant has gained attention in recent decades as a potential bioenergy crop d
 
 The species is also being investigated as a biogas substrate, with methane yields comparable to maize silage. Its perennial growth habit eliminates annual replanting costs and reduces soil erosion compared to row crop bioenergy systems.
 
-In ornamental horticulture, cup plant is used in large-scale native plantings, rain gardens, and ecological landscaping. Its imposing height and bold foliage make it suitable for the back of borders and as a specimen plant in prairie-style gardens.
+In ornamental horticulture, cup plant is used in large-scale native plantings, rain gardens, and [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]]. Its imposing height and bold foliage make it suitable for the back of borders and as a specimen plant in prairie-style gardens.
 
-Established plants are extremely long-lived, with individual clumps persisting for decades. Division is the primary vegetative propagation method, as seed-grown plants require 2–3 years to reach flowering size. Plants are spaced 60–90 cm apart in cultivation.
-
-The species has low [[hamilton-pest-and-disease-control-organic]] pressure in cultivation. [[cervantes-powdery-mildew-prevention-treatment]] may occur in humid conditions but rarely affects plant health. Deer browsing is generally light due to the coarse foliage and rough stem texture.
-
-## See Also
-
-- [[rudbeckia-laciniata]]
-- [[coreopsis-tinctoria]]
-- [[echinacea-purpurea]]
-- [[panicum-virgatum]]
-- [[achillea-millefolium]]
+Established plants are extremely long-lived, with individual clumps persisting for decades. Division is the primary [[hamilton-vegetative-propagation]] method, as seed-grown plants require 2–3 years to reach flowering size. Plants are spaced 60–90 cm apart in cultivation.

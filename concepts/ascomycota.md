@@ -1,6 +1,6 @@
 ---
 title: Ascomycota
-source: Biodiversity of Fungi (Mueller, Bills & Foster, 2004)
+source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
 type: concept
 tags: [mycology, ascomycota, taxonomy, fungi, phylogeny, yeast, penicillium]
 created: 2026-05-09
@@ -8,21 +8,21 @@ created: 2026-05-09
 
 # Ascomycota
 
-The Ascomycota is the largest phylum of the Kingdom Fungi, with approximately
+The Ascomycota is the largest phylum of the [[fungal-taxonomy-and-kingdom-fungi]], with approximately
 32,000 described species. It is characterized by the production of meiospores
 (ascospores) within sac-shaped cells called asci (singular: ascus). The
 phylum includes an extraordinary range of organisms, from single-celled yeasts
-to complex cup fungi and truffles, from plant pathogens to the organisms that
+to complex [[bloomfield-truffle-evolution-cup-fungi-hypogeous]] and truffles, from plant pathogens to the organisms that
 give us penicillin and brewer's yeast. Some of the most economically and
 [[biodiversity-medically-important-fungi-isolation]] on Earth belong to this phylum.
 
 ## Defining Characteristics
 
 The defining feature of the Ascomycota is the ascus — a specialized cell in
-which sexual reproduction occurs through the formation of ascospores. Typically,
+which [[basidiomycete-mating-systems-sexual-reproduction]] occurs through the formation of ascospores. Typically,
 each ascus contains eight ascospores (though this number varies), produced
 through a process involving meiosis followed by a mitotic division. The asci
-are often contained within fruiting bodies called ascomata (formerly
+are often contained within [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] called ascomata (formerly
 ascocarps), which take diverse forms including cups (apothecia), flasks
 (perithecia), and closed spheres (cleistothecia).
 
@@ -88,60 +88,3 @@ successful group of fungi, including:
 Major orders within the Euascomycetes include:
 
 - **Pezizales**: Cup fungi and truffles, including many edible species
-  such as morels (*Morchella*) and truffles (*Tuber*)
-- **Eurotiales**: Includes *Penicillium* (source of penicillin and
-  numerous industrial enzymes) and *Aspergillus* (used in fermentation
-  and food production, but also including pathogenic species)
-- **Hypocreales**: Includes *Neurospora crassa* (a model organism in
-  genetics) and *Trichoderma* (used in biological control of plant
-  pathogens)
-- **Sordariales**: Important model organisms for studying fungal genetics
-  and sexual reproduction
-- **Dothideales and Pleosporales**: The largest orders of bitunicate
-  ascomycetes, including many plant pathogens
-- **Erysiphales**: The [[biodiversity-powdery-mildews]], obligate plant parasites of
-  enormous agricultural importance
-- **Laboulbeniales**: Ectoparasitic fungi on insects, with highly
-  reduced thalli
-- **Lecanorales**: The largest order of lichen-forming fungi
-
-## Economic and Medical Importance
-
-The Ascomycota has had a profound impact on human civilization:
-
-- **Food**: *Saccharomyces cerevisiae* is essential for bread baking, beer
-  brewing, and wine making. *Penicillium roqueforti* and *P. camemberti*
-  are used in cheese production. Truffles and morels are among the most
-  expensive foods in the world.
-- **Medicine**: *[[penicillium-chrysogenum]]* is the source of penicillin, the
-  first antibiotic. *Cyclosporine* from *Tolypocladium inflatum* revolutionized
-  organ transplantation.
-- **Industry**: Ascomycete fungi are used in the production of citric acid,
-  antibiotics, steroids, enzymes, and various organic chemicals.
-- **Plant pathology**: Many devastating plant diseases are caused by
-  ascomycetes, including powdery mildews, Dutch elm disease, and chestnut
-  blight.
-- **Human health**: *[[aspergillus-fumigatus]]* causes aspergillosis in
-  immunocompromised patients. *Candida* species cause opportunistic
-  infections. *Pneumocystis jiroveci* causes pneumonia in AIDS patients.
-
-## Phylogenetic Relationships
-
-The Ascomycota and Basidiomycota are monophyletic sister taxa, together
-comprising more than 95% of all known fungal species. Their most recent
-common ancestor existed within the crown fungi clade, and the divergence
-of these two phyla appears to have been accompanied by the evolution of
-the dikaryotic state — a unique cellular condition where cells contain
-two genetically distinct nuclei.
-
-Within the Ascomycota, relationships between the major orders are still
-being resolved. Most analyses show well-supported terminal clades linked
-by poorly supported basal nodes, suggesting a rapid early radiation of
-the group. The increasing use of multi-gene phylogenetic analyses and
-whole-genome sequencing is gradually resolving these relationships.
-
-## See Also
-
-- [[kingdom-fungi-phylogeny]]
-- [[arbuscular-mycorrhizal-fungi]]
-- fungal specimen preservation

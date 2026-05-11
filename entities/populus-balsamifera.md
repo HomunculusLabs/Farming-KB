@@ -87,34 +87,3 @@ Harvesting occurs in late winter to early spring before bud break, when resin co
 The inner bark has been used as a food source by several Indigenous groups. It can be dried and ground into a flour or eaten fresh in strips during spring when sugar content peaks. The cambium layer is sweet and nutritious, though harvesting it kills the tree.
 
 ## Cultivation
-
-Propagation is primarily from hardwood cuttings, softwood cuttings, or seed. Seed viability declines rapidly, and germination requires exposed mineral soil with continuous moisture. Vegetative propagation from cuttings is the standard nursery method.
-
-Growth rate is rapid under favorable conditions, typically 1–2 meters per year during the first decade. Maximum height is usually reached within 40–60 years. The species is relatively short-lived for a tree, with a typical lifespan of 60–100 years.
-
-Balsam poplar is hardy to USDA zone 1, making it one of the most cold-tolerant ornamental trees available. It requires full sun and abundant moisture for optimal growth. In drier sites, supplemental irrigation is necessary for establishment.
-
-Pests include the poplar borer (*Saperda calcarata*), which tunnels in the trunk, and various leaf-feeding caterpillars. Cytospora canker (*Valsa sordida*) is the most significant [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], causing branch dieback in stressed trees.
-
-Poplar leaf rust (*Melampsora* spp.) causes premature defoliation in wet years and can reduce growth by 20–30%. Septoria leaf spot is also common but rarely causes significant damage. Genetic resistance to major pathogens varies widely among provenances, with northern populations generally more resistant than southern ones.
-
-## See Also
-
-- [[populus-tremuloides]]
-- [[populus-deltoides]]
-- [[salix-alba]]
-- [[salix-babylonica]]
-- [[salix-nigra]]
-- [[betula-pendula]]
-- [[betula-nigra]]
-- [[picea-abies]]
-- [[picea-sitchensis]]
-- [[abies-sibirica]]
-- [[acer-saccharum]]
-- [[quercus-robur]]
-- [[ulmus-americana]]
-- [[ulmus-rubra]]
-- [[abies-grandis]]
-- [[larix-decidua]]
-- [[cedrus-libani]]
-- [[tsuga-heterophylla]]

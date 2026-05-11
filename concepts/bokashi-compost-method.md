@@ -88,16 +88,3 @@ Containers should always include a spigot or drainage layer at the bottom.
 
 Over-moistening the ingredients leads to similar spoilage. The mixture should
 feel like a wrung-out sponge — moist but not dripping. Excess water favors
-undesirable organisms over the beneficial lactic acid bacteria.
-
-Using chlorinated tap water can kill the inoculant microorganisms. If tap
-water is the only option, let it sit uncovered for 24 hours to off-gas
-chlorine, or use dechlorinated water for best results.
-
-Failing to press out air pockets during layering leaves oxygen in the pile,
-which allows competing aerobic organisms to colonize the material. Each layer
-should be firmly compacted before adding the next.
-
-## Bokashi as Compost Tea Base
-
-As Carandang notes, bokashi makes an excellent [[designer-compost-bokashi-method]]

@@ -10,7 +10,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka (1985). "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution." Japan Publications.
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - [[masanobu-fukuoka]] (1985). "The Natural Way of Farming: The [[microdosing-theory-and-practice]] of fukuoka-sowing-green-philosophy-one-grain-revolution." Japan Publications.
   - Masanobu Fukuoka (1978). "The One-Straw Revolution." Rodale Press.
 ---
 
@@ -28,8 +29,8 @@ revegetation.
 
 ## Purpose and Principles
 
-The clay pellet serves multiple protective and ecological functions. Seeds
-enclosed in hard clay pellets will not sprout until rain has fallen and
+The clay pellet serves multiple protective and [[fungal-melanin-biosynthesis-ecological-functions]]. Seeds
+enclosed in hard [[fukuoka-desert-revegetation-clay-pellets]] will not sprout until rain has fallen and
 conditions are suitable for germination. The coating shields seeds from
 being eaten by mice and birds during the weeks or months before conditions
 become favorable.
@@ -62,7 +63,7 @@ basket or mixer. Clay powder is sprinkled over the seeds while a water
 mist is sprayed onto the mixture with an atomizer and the basket is moved
 in a swirling motion. The seeds become coated with clay and grow in size,
 producing small pellets a quarter to half inch in diameter. For large
-quantities, a concrete mixer may be used.
+quantities, a [[clay-seed-pellet-production-method-concrete-mixer]] may be used.
 
 Topsoil-containing clay may be used, but if pellets crumble too early, the
 seed will be devoured by rodents. For those preferring a synthetic
@@ -80,66 +81,10 @@ ground cover of clover.
 This approach eliminates the need for raising seedlings in flooded nursery
 beds and transplanting them — the most labor-intensive steps in
 conventional rice cultivation. The pellets are simply scattered by hand
-over the straw mulch in mid-November or later.
+over the [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] mid-November or later.
 
 ## Desert Revegetation
 
 Fukuoka's most ambitious application of clay pellet seeding was his
 proposal to green the world's deserts. He advocated preparing pellets
 containing a diverse seed mixture and scattering them by hand over barren
-land.
-
-The seed mixture includes green manure trees such as acacias and black
-wattle that grow in areas with annual rainfall under two inches, plus
-clover, alfalfa, bur clover, and other green manure plants, along with
-grain and vegetable seeds. The mixture is given a double coating of earth
-and clay.
-
-After scattering, the pellets lie dormant until rain falls. A year later,
-several of the plants will have survived, providing information about what
-is suited to the local climate and soil. Any plants that establish will
-do, as long as the desert is rapidly blanketed with green cover.
-
-## The Rain Cycle Theory
-
-Fukuoka proposed a counterintuitive theory about desert formation. While
-standing in an American desert, he realized that "rain does not fall from
-the heavens; it issues forth from the ground." Deserts do not form because
-there is no rain. Rather, rain ceases to fall because vegetation has
-disappeared.
-
-Building dams and irrigation systems treats the symptom, not the cause.
-The strategy must be to restore vegetation first, which will in turn bring
-back the rains. Clay pellet seeding provides the mechanism for initiating
-this cycle with minimal human intervention.
-
-Fukuoka argued against elaborate scientific studies to determine why
-deserts spread. The causes extend back in an endless chain of interwoven
-events beyond human comprehension. In nature, he insisted, there is no
-[[fukuoka-textdoc-no-cause-and-effect-in-nature]] — only an interconnected whole.
-
-## Relationship to Seed Balls
-
-Clay pellet seeding is closely related to seed balls, also known as
-"nendo dango" in Japanese. Both involve encasing seeds in a clay matrix
-for aerial broadcasting. The technique has been widely adopted in guerrilla
-gardening and ecological restoration.
-
-## Practical Results
-
-Fukuoka conducted demonstrations in several countries, including barren
-land in Africa, India, and the Philippines. The principle has been
-validated by independent researchers working on [[clay-seed-pellet-composition-and-aerial-seeding-method]] and direct
-seeding techniques in arid environments.
-
-## Limitations
-
-The method depends on adequate rainfall for germination. Hyper-arid deserts
-with annual rainfall below 100 mm may require modified seed selection.
-Fukuoka's approach of maximum diversity lets nature select which plants
-are appropriate for each site.
-
-## See Also
-- [[natural-farming]]
-- [[green-manure-cover-crops]]
-- [[fukuoka-desert-revegetation-natural-farming]]

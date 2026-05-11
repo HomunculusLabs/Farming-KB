@@ -18,10 +18,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 # Postwar Japanese Agricultural Mechanization and Village Collapse
-Masanobu Fukuoka presents a detailed analysis of how post-World War II mechanization
+[[masanobu-fukuoka]] presents a detailed analysis of how post-World War II mechanization
 and modernization systematically destroyed Japanese farming village culture,
 self-sufficiency, and [[fukuoka-ecological-balance-principles]]. His account traces the transformation from
 labor-intensive to capital-intensive agriculture and its cascading social and
@@ -36,7 +37,7 @@ materialized. Yet this prosperity came at the direct expense of the farming
 population, who effectively "tightened the noose about their own neck."
 ## The Motorized Transport-Tiller as Turning Point
 The arrival of the motorized transport-tiller marked a fundamental turning point
-in Japanese agriculture. This was rapidly followed by three-wheeled vehicles and
+in [[fukuoka-breakdown-japanese-agriculture]]. This was rapidly followed by three-wheeled vehicles and
 trucks, then ropeways, monorails, and paved roads extending to the furthest
 village corners. These developments completely altered the farmer's notions of
 time and space, creating expectations of speed and efficiency that had never
@@ -87,38 +88,3 @@ communities operating on the principle of "Mu" (nothingness) — the understandi
 that philosophy itself was unnecessary. Farmers preferred to live common lives
 without knowledge or learning. This was not ignorance but a profound wisdom:
 there was no time for philosophizing because life was never so empty as to
-provoke existential questioning. Theirs was a philosophy embodied in the
-principle that "philosophy is unnecessary." The farming village was, in
-Fukuoka's words, "above all a society of philosophers without a need for
-philosophy."
-## The Self-Sufficient Village
-Fukuoka describes pre-mechanization villages as places where farmers were
-self-supporting and independent, living proud, noble lives in the great
-outdoors. Despite poverty and low social status, they experienced daily joy and
-pride in tending what he calls "the gardens of God." They went out to work at
-sunrise and returned at sunset, each day "as wide and infinite as the universe
-and yet just one small frame in the unending flow of existence." These farmers
-were "creatures of nature, and being close to God, experienced the daily joy
-and pride of tending the gardens of God."
-## The "Do-Nothing" Movement
-Fukuoka frames [[comparison-natural-farming-vs-permaculture]] as part of a broader "do-nothing" movement — a
-spiritual and cultural shift from aggressive expansion to consolidation and
-convergence. He argues that the age of materialistic expansion is at an end, and
-humanity must hurry to establish a new way of life and a spiritual culture
-founded on communion with nature. To achieve this, man must look back over
-everything he has done and rid himself of false visions and concepts. Natural
-farming is more than just a revolution in agricultural techniques; it is the
-practical foundation of a spiritual movement.
-## Ecological Cascades from Pesticide Application
-Fukuoka provides detailed examples of ecological chain reactions triggered by
-pesticide use. Toxic chemicals are applied at least eight times per year on
-Japanese rice fields. The first application does not kill rice leafhoppers but
-eliminates tens of thousands of young spiders per square yard, along with swarms
-## See Also
-
-- [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]]
-
-- [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]]
-- [[fukuoka-breakdown-japanese-agriculture]]
-
-- [[natural-farming]]

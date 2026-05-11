@@ -88,27 +88,3 @@ community worship and celebration.
 
 Research by Charles Grob, Dennis McKenna, and others has confirmed that
 membership in these churches and long-term ceremonial participation is
-associated with no adverse health effects and with reductions in
-addictions and other psychopathologies.
-
-## William James and the Spectrum of Consciousness
-
-Metzner framed the significance of these hybrid developments by recalling
-William James's observation, made after his personal research with nitrous
-oxide nearly 100 years earlier: "Our normal waking consciousness, rational
-consciousness as we call it, is but one special type of consciousness,
-whilst all about it, parted from it by the filmiest of screens, there lie
-potential forms of consciousness entirely different. No account of the
-universe in its totality can be final which leaves these other forms of
-consciousness quite disregarded."
-## See Also
-
-- [[set-and-setting-hypothesis]]
-- [[shamanic-entheogenic-ceremonies]]
-
-## References
-
-- Metzner, R. (1998). "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism." JPDA 30(4).
-- Metzner, R. (Ed.) (1999). Ayahuasca — Human Consciousness and the Spirits of Nature. Thunder's Mouth Press.
-- James, W. (1901/1958). Varieties of Religious Experience. New American Library.
-- Grob, C.S. et al. (1996). "Human psychopharmacology of hoasca." J. Nervous & Mental Disease 184(2).

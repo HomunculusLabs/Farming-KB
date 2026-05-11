@@ -88,27 +88,3 @@ Hepatoprotective effects have been demonstrated in rodent models of chemically i
 ## Varieties and Cultivars
 
 Several cultivated varieties of C. coronarium have been developed, differing in leaf morphology, growth habit, and flavor intensity. Broad-leaf types (var. spatiosum) produce wider, more rounded leaf segments and are preferred for stir-fry applications.
-
-Narrow-leaf types (var. coronarium) have finely divided, feathery foliage and a more pronounced aromatic flavor. These are preferred for soups and hot pot preparations where the delicate texture and strong aroma contribute to the broth.
-
-Ornamental forms of the species have been bred for showy, double-flowered heads in yellow, white, and orange. These ornamental varieties are less palatable than leaf-type cultivars but are widely planted in gardens for cut flower production.
-
-Seed catalogs typically distinguish between "edible" and "ornamental" strains. Edible strains are selected for rapid leaf production, delayed bolting, and tender stems. Ornamental strains prioritize flower quality over foliage characteristics.
-
-## Companion Planting and Ecology
-
-Chrysanthemum coronarium provides ecological benefits in diversified vegetable gardens and farms. The flowers attract pollinators including bees, butterflies, and hoverflies, which also visit neighboring crop plants for pollination services.
-
-The aromatic foliage may provide mild pest deterrence. Interplanting with brassicas and other susceptible crops has been suggested to reduce aphid and whitefly populations, though scientific evidence for companion effects is limited.
-
-As a member of the Asteraceae, garland chrysanthemum contributes to garden biodiversity and can serve as a trap crop for certain pests. The species is not known to be invasive in temperate agricultural settings, though naturalized populations can establish in disturbed areas.
-
-## See Also
-
-- [[coriandrum-sativum]]
-- [[eryngium-foetidum]]
-- [[allium-tuberosum]]
-- [[daucus-carota]]
-- [[nasturtium-officinale]]
-- [[taraxacum-officinale]]
-- [[urtica-dioica]]

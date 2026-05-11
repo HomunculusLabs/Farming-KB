@@ -61,7 +61,7 @@ for sexual reproduction. In Basidiomycota, mating compatibility is typically
 controlled by two unlinked loci (bipolar mating) or four alleles at two loci
 (tetrapolar mating). Tetrapolar mating systems can produce hundreds or
 thousands of compatibility groups, making outcrossing between nearly any two
-individuals possible and promoting genetic diversity.
+individuals possible and promoting [[biodiversity-fungal-genetic-diversity]].
 
 Homothallic species can complete the sexual cycle with a single isolate,
 carrying both mating types within one genome. *[[genetic-improvement-agaricus-bisporus-molecular-approaches]]* is primarily
@@ -73,7 +73,7 @@ Plasmogamy (cytoplasmic fusion of two compatible hyphae) brings haploid nuclei
 from each parent together in the same cell. In many Basidiomycota, plasmogamy
 is followed by an extended dikaryotic phase where cells contain two genetically
 distinct haploid nuclei (n+n). In Basidiomycota, a specialized structure called
-a clamp connection ensures each new cell receives one nucleus of each type
+a [[clamp-connection-formation-and-nuclear-migration]] ensures each new cell receives one nucleus of each type
 during cell division.
 
 Karyogamy (nuclear fusion) produces a diploid zygote nucleus within specialized
@@ -84,24 +84,7 @@ ascospores per ascus.
 ## Fruiting Body Development
 
 In mushroom-forming fungi (Agaricomycetes), sexual reproduction culminates in
-the formation of complex multicellular fruiting bodies (basidiocarps).
-Environmental triggers (temperature change, humidity increase, light exposure)
+the formation of complex multicellular [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (basidiocarps).
+[[fungal-fruiting-body-formation-environmental-triggers]] (temperature change, humidity increase, light exposure)
 induce the dikaryotic mycelium to form dense hyphal knots called primordia.
 These minute structures (1-2 mm) contain all the tissue types that will
-develop into the mature mushroom.
-
-## Spore Production and Discharge
-
-Basidia develop on the hymenial surface and each produces four basidiospores
-on slender stalks called sterigmata. Active [[bloomfield-fungal-spore-discharge-and-dispersal]] (ballistospory)
-uses a microscopic water droplet mechanism called the [[bullers-drop-spore-discharge]]:
-condensation on the spore surface rapidly merges with a droplet on the
-basidium, generating sufficient force to propel the spore 1-10 mm into the
-air. A single large mushroom can release millions of spores per hour for
-several days during peak sporulation.
-
-## See Also
-
-- [[bloomfield-fungal-reproduction-and-chemical-communication]]
-- [[stamets-mushroom-genetics-mating-systems-reproduction]]
-- [[bloomfield-fungal-life-cycle-spiral-versus-circle]]

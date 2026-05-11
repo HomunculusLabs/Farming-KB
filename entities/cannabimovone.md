@@ -87,30 +87,3 @@ The compound has not been identified as a significant metabolite in any commerci
 As a naturally occurring phytocannabinoid with no psychoactive effects documented, cannabimovone is not individually scheduled under the UN Convention on Psychotropic Substances or the US Controlled Substances Act.
 
 In jurisdictions where cannabis is regulated, it would fall under the general regulatory framework for cannabis-derived compounds. The legal status of individual minor cannabinoids varies significantly by jurisdiction.
-
-The absence of commercial synthetic routes or marketed products containing isolated cannabimovone means it has not been subject to specific regulatory review. Should future research identify bioactivity, this may change.
-
-## Research Potential
-
-The structural uniqueness of cannabimovone makes it an interesting target for synthetic organic chemistry and pharmacological research.
-
-Total synthesis has not been reported, and the compound is not available from commercial chemical suppliers. Isolation from plant material requires multi-gram quantities of plant biomass for milligram-scale recovery.
-
-The rearranged carbon skeleton could represent a novel pharmacophore if receptor binding studies eventually identify activity. This is speculative but follows the pattern of other minor cannabinoids (like CBG and CBC) that showed unexpected bioactivities when finally investigated.
-
-Advances in cannabis tissue culture and metabolic engineering may eventually enable sufficient production for systematic pharmacological screening of cannabimovone and other rare cannabinoids.
-
-## Related Compounds
-
-Cannabimovone belongs to the oxidized cannabinoid family, which includes cannabinol (CBN), cannabielsoin (CBE), cannabicyclol (CBL), and cannabicitran (CBT).
-
-Unlike these better-known compounds, cannabimovone features a skeletal rearrangement not shared by other cannabinoids. This makes it structurally unique within the known phytocannabinoid family.
-
-Other rare cannabinoids with non-classical structures include cannabichromene (CBC), which forms via a distinct cyclization of CBGA, and the recently discovered Δ²-THC and hexahydrocannabinol (HHC) variants.
-
-## See Also
-
-- [[cannabis-minor-cannabinoids]] — principal psychoactive cannabinoid
-- [[cannabis-terpene-profiles]] — sesquiterpene with CB₂ receptor affinity
-- [[blue-dream]] — high-THC cultivar with complex cannabinoid profiles
-- [[wedding-cake]] — modern hybrid with elevated minor cannabinoids

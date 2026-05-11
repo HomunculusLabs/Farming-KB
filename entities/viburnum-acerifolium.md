@@ -11,8 +11,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Weakley, A.S. (2023). Flora of the Southeastern United States. University of North Carolina Herbarium.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
+  - Weakley, A.S. (2023). Flora of the Southeastern dmt-containing-plants-united-states-halpern. University of [[north-carolina-mycodiversity]] Herbarium.
+  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada. New York Botanical Garden.
   - USDA NRCS (2024). "Viburnum acerifolium" PLANTS Database. https://plants.usda.gov/
   - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
 ---
@@ -20,7 +20,7 @@ sources:
 ## Overview
 
 Viburnum acerifolium, commonly known as the mapleleaf viburnum, is a deciduous
-shrub native to eastern North America. It is named for its deeply lobed leaves
+shrub native to [[polypore-fungi-eastern-north-america]]. It is named for its deeply lobed leaves
 that closely resemble those of maple trees.
 
 The species typically grows 1.5 to 2 meters tall and forms loose, open thickets
@@ -56,7 +56,7 @@ The bark is thin, grayish-brown, and develops a slightly warty texture with age.
 
 Viburnum acerifolium ranges from southern Maine and Quebec west to Wisconsin
 and Iowa, and south to northern Georgia and eastern Texas. It is most abundant
-in the Appalachian region and the Ozark Plateau.
+in the [[bolete-fungi-appalachian-region]] and the Ozark Plateau.
 
 The species occurs in dry to mesic deciduous forests, often on rocky slopes and
 wooded hillsides. It tolerates a range of soil conditions from acidic to
@@ -71,7 +71,7 @@ southern Appalachians. It is hardy to USDA Zone 4.
 
 ## Ecology and Wildlife Value
 
-The flowers are attractive to a wide range of pollinators, including native bees,
+The flowers are attractive to a wide range of pollinators, including [[query-how-to-attract-native-bees-and-beneficial-insects]],
 syrphid flies, butterflies, and moths. The extended bloom period of roughly two
 weeks provides an important nectar source in late spring forest understories.
 
@@ -88,54 +88,3 @@ the forest understory. Its rhizomatous growth habit helps stabilize soil on
 slopes and disturbed sites.
 
 ## Cultivation
-
-Mapleleaf viburnum is readily propagated from seed, which requires a period of
-cold stratification for 60 to 90 days. Softwood cuttings taken in early summer
-also root reliably under mist.
-
-The species prefers partial shade to full shade and well-drained loamy soils.
-It is adaptable to drier, rockier conditions than many other viburnums once
-established.
-
-In the landscape, it works well as a mass planting, naturalistic hedge, or
-woodland garden specimen. Its compact size makes it suitable for smaller
-residential properties.
-
-Pruning is rarely needed except to remove dead wood or control spread. The
-species is notably free of serious pest and disease problems compared to
-cultivated viburnum varieties.
-
-Space plants 0.9 to 1.5 meters apart for mass plantings. Growth rate is slow
-to moderate, typically reaching mature size in 5 to 8 years.
-
-## Uses and Ethnobotany
-
-Indigenous peoples of eastern North America used the bark and root bark of
-Viburnum acerifolium medicinally. The Cherokee applied preparations to cramps
-and as a general tonic, while the Iroquois used bark infusions for various
-ailments.
-
-The Meskwaki reportedly used a root decoction as a remedy for stomach troubles.
-These traditional uses are documented in ethnobotanical surveys but have not
-been extensively studied in modern pharmacological research.
-
-The showy fruit and fall color make this species increasingly popular in native
-plant landscaping and ecological restoration projects. It is commonly included in
-pollinator gardens, rain gardens, and naturalized woodland plantings.
-
-Mapleleaf viburnum is deer-resistant once established, though young plants may
-experience moderate browsing pressure. Its tolerance of dry shade makes it a
-valuable addition to challenging landscape sites.
-
-## See Also
-
-- [[viburnum-lantana]]
-
-- [[viburnum-dentatum]]
-- [[viburnum-lentago]]
-- [[viburnum-opulus]]
-- [[viburnum-prunifolium]]
-- [[lonicera-japonica]]
-- [[sambucus-nigra]]
-- [[cornus-florida]]
-- [[hamamelis-virginiana]]

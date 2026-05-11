@@ -7,6 +7,7 @@ tags: [energy, off-grid, homesteading, water, infrastructure, sustainability,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - wind-power-basics
   - biogas-digester-basics
   - basic-electrical-for-homestead

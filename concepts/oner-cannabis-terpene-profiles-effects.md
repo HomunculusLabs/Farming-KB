@@ -88,24 +88,3 @@ compounds) create pungent, fuel-like aromas:
 The Haze family has a distinctive terpene signature that comes through in many crosses:
 
 - **Amnesia Haze**: "Fresh, fruity smoke and feeling the tangy sweetness play across
-  your tongue"
-- **Devil's Harvest Haze**: "That familiar Haze smell will fill the air"
-- **Santa Muerte**: "Unmistakable smell of the Haze parent will cut right through the
-  air" with a "spicy taste"
-- **Wild Thailand**: "Spicy, Haze-y Asian taste of pure sativas"
-
-## Curing and Terpene Development
-
-Oner repeatedly emphasizes that curing is essential for developing full terpene
-expression:
-
-- Amnesia Haze breeders recommend "at least 2 weeks of curing to really bring out the
-  flavor"
-- CookieWreck: "Give your cut buds a nice long curing period to draw out the best
-  flavors and smells"
-- [[oner-cannabis-phenotypes-genetic-expression]]
-- [[oner-cannabis-hashish-production]]
-
-## See Also
-
-- [[cannabis-terpene-entourage-effect-profiles]]

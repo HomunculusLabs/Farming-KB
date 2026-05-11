@@ -89,22 +89,5 @@ That is why serine protease inhibitors, beta-lactamase inhibitors, and some cova
 
 Catalytic triads are major drug targets because they appear in proteases, lipases, esterases, beta-lactamases, and viral processing enzymes.
 
-Aspirin irreversibly acetylates a catalytic serine in cyclooxygenase, although that active site is not simply a classic protease triad.
-
-Organophosphate nerve agents and pesticides phosphorylate active-site serines in acetylcholinesterase and related enzymes.
-
-The resulting adduct can age into a form that is difficult for oxime antidotes to reactivate.
-
-Beta-lactam [[ingham-manure-antibiotics-chemical-residues-composting|antibiotics]] exploit serine transpeptidases by mimicking the D-Ala-D-Ala substrate and trapping the enzyme as an acyl complex.
-
-Beta-lactamases evolved to reverse that strategy, so inhibitors often target their catalytic serine or metal-dependent alternatives.
-
-Cysteine protease inhibitors are important in antiviral, antiparasitic, and inflammatory [[enzyme-kinetics-michaelis-menten-model]] because active-site chemistry determines kcat and sometimes KM.
-
-They also connect to [[md-family-structure-activity]] relationship medicinal chemistry when inhibitors are optimized for selectivity, residence time, and reactivity.
-
-The oxyanion hole is a companion motif that stabilizes tetrahedral intermediates during acylation and deacylation.
-
-Covalent catalysis, general acid-base catalysis, transition-state stabilization, and substrate proximity effects all converge in the triad mechanism.
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]
+## See Also
+- [[mckenna-catalytic-psychedelics-and-culture]]

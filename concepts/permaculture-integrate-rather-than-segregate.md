@@ -1,5 +1,5 @@
 ---
-title: "[[permaculture-principle-apply-self-regulation]]: Integrate Rather Than Segregate"
+title: Permaculture Integrate Rather Than Segregate
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, integration, diversity, guilds, holmgren, polyculture]
 ---
@@ -88,36 +88,3 @@ A farmers' market integrates producers and consumers directly, eliminating the e
 and information losses of long supply chains. Community-supported agriculture
 integrates financial support, risk sharing, and food distribution into a single
 relationship. Local currencies keep economic energy circulating within communities
-rather than draining it to distant financial centers.
-
-## The Efficiency of Redundancy
-
-One counter-intuitive insight from this principle is that redundancy — having
-multiple elements perform the same function — is not wasteful but efficient at
-the system level. A forest with many tree species is more productive than a
-monoculture plantation, despite "wasting" resources on species that don't
-maximize timber yield. The lost efficiency at the element level is more than
-compensated by gained resilience and functionality at the system level.
-
-## Practical Applications
-
-In practice, the principle asks designers to constantly look for opportunities
-to connect elements that are currently separated.
-
-Key strategies for applying this principle include:
-
-- **Multi-functional elements**: Every element should serve multiple functions
-- **Multi-element support**: Every important function should be supported by
-  multiple elements
-- **Relative location**: Place elements so they can serve each other through
-  proximity and connection
-- **Stacking**: Use vertical space to integrate multiple layers of production
-- **Edge effect**: Create interfaces between different systems where beneficial
-  interactions occur
-
-## See Also
-
-- [[permaculture-ethical-principles-holmgren]]
-- [[permaculture-catch-and-store-energy]]
-- [[permaculture-design-from-patterns-to-details]]
-- permaculture use and value diversity

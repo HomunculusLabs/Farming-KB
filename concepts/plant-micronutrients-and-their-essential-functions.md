@@ -9,15 +9,15 @@ sources: ["raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.
 
 # Plant Micronutrients and Their Essential Functions
 
-Micronutrients (trace minerals) are required by plants in only tiny amounts, but they are every bit as essential as the macronutrients. According to Von Liebig's Law of the Minimum, if even the least-used nutrient is absent, the plant cannot grow and reproduce. The eight recognized micronutrients are boron, chlorine, copper, iron, manganese, zinc, molybdenum, and nickel.
+Micronutrients ([[dynamic-accumulator-plants-trace-minerals]]) are required by plants in only tiny amounts, but they are every bit as essential as the macronutrients. According to [[von-liebig-law-of-the-minimum-and-fertilizer-history]]'s Law of the Minimum, if even the least-used nutrient is absent, the plant cannot grow and reproduce. The eight recognized micronutrients are boron, chlorine, copper, iron, manganese, zinc, molybdenum, and nickel.
 
 ## Boron (B)
 
-Boron connects carbohydrate chains in cell walls, providing [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]. It is necessary for the formation of pollen tubes (affecting fruit set) and plays a role in balancing sugar versus starch levels and their translocation throughout the plant.
+Boron connects carbohydrate chains in [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], providing [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]. It is necessary for the formation of pollen tubes (affecting fruit set) and plays a role in balancing sugar versus starch levels and their translocation throughout the plant.
 
 Boron also helps transport potassium ions across cell membranes, contributing to stomatal regulation. Uniquely among mineral nutrients, boron does not need to be an ion to enter plant cells -- it is usually taken up as boric acid B(OH)3, using three transport mechanisms: diffusion, facilitative transport, and [[diffusion-osmosis-and-active-transport-in-plants]].
 
-**Immobile in plants.** Deficiency symptoms: damage at growing tips, flower/fruit formation problems.
+**Immobile in plants.** [[knf-calcium-deficiency-symptoms]]: damage at growing tips, flower/fruit formation problems.
 
 ## Chlorine (Cl)
 
@@ -47,7 +47,7 @@ Manganese frees oxygen during photosynthesis by accepting electrons from water. 
 
 ## Zinc (Zn)
 
-Zinc is a component of many enzymes involved in oxidation-reduction reactions. Critically, zinc helps produce auxins (the main plant growth hormone). It is needed to synthesize chlorophyll and carbohydrates, activates enzymes for RNA and DNA production, and helps cells withstand cold temperatures.
+Zinc is a component of many enzymes involved in oxidation-reduction reactions. Critically, zinc helps produce auxins (the main plant [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]]). It is needed to synthesize chlorophyll and carbohydrates, activates enzymes for RNA and DNA production, and helps cells withstand cold temperatures.
 
 **Mobile in plants.** Deficiency symptoms: slow then no growth, lack of stem elongation, yellowing. Appears in middle-aged leaves.
 
@@ -83,19 +83,8 @@ Nutrients can also be classified by their biochemical role:
 
 - **Structural**: N, S, P, B -- form proteins and cell wall components
 - **Energy/storage**: N, S, P -- electron bonding for energy transfer
-- **Enzyme activators/electron transport**: K, Mg, Ca, Mn, Zn, Fe, Cu, Mo
+- **Enzyme activators/[[electron-transport-chain-mitochondrial-respiration]]**: K, Mg, Ca, Mn, Zn, Fe, Cu, Mo
 - **Membrane function**: P, Cl, Na, K
 - **Electrical balance**: Cl, K, Ca, Mg
 
 ## Related
-
-- [[permitted-vs-forced-functions]] Topics
-
-- [[plant-enzymes-and-cofactors]] -- how micronutrients activate enzymes
-- [[plant-hormones-and-chemical-signaling-systems]]
-- [[plant-cell-membrane-transport-proteins]]
-- [[plant-nutrient-mobility-in-soil]]
-
-[[teaming-with-nutrients-micronutrients-and-trace-elements]]
-[[von-liebig-law-of-the-minimum-and-fertilizer-history]]
-[[teaming-with-nutrients-ph-testing-and-soil-amendment]]

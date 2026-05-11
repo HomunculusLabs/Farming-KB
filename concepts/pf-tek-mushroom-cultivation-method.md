@@ -88,27 +88,3 @@ Inoculation must be performed in the cleanest possible environment:
 ## Colonization Phase
 
 After inoculation, place jars in a warm, dark location. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is
-75-80°F (24-27°C). Lower temperatures slow colonization significantly; higher
-temperatures promote contamination. A standard room temperature of approximately
-75°F works well.
-
-Within 3-7 days, white fluffy mycelium should become visible at the inoculation
-points against the glass. Colonization of the entire jar typically takes 14-21
-days. If any jar shows contamination (green, black, pink, or off-color growth),
-remove it immediately to prevent spreading.
-
-## Fruiting Phase
-
-Once jars are fully colonized (completely white throughout), proceed to fruiting:
-
-1. Remove the substrate cakes from the jars. Tap the jars gently to release the
-   cakes. The dry vermiculite barrier should brush off easily.
-
-2. Rinse each cake briefly under cold running water to remove loose vermiculite.
-
-3. Roll each cake in dry vermiculite to create a protective moisture-retaining
-   coating. Place on a piece of aluminum foil in the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]].
-
-## See Also
-
-- [[mushroom-cultivation-methods]]

@@ -2,7 +2,8 @@
 title: Spider Mites - query-how-to-use-neem-oil-for-cannabis-pest-control Guide
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -87,46 +88,3 @@ Key considerations for predator use:
 - Release predators as soon as spider mites are seen on [[permaculture-pyrethrum-daisy]] (aerosol) — the [[query-what-are-the-best-natural-building-methods]] miticide; apply 2-3 times at 5-10 day intervals
 - Horticultural oil — smothers eggs; can be mixed with pyrethrum
 - Insecticidal soap — 2-3 applications at 5-10 day intervals
-- Cinnamaldehyde (extracted from cinnamon) — kills mites on contact
-
-## Chemical Controls
-
-For severe infestations where organic methods are insufficient:
-
-- Synthetic hormone Stirrup enhances miticide effectiveness
-- Nicotine sulfate — effective but must be used with caution
-- Heavy-duty chemical miticides are available but are NOT recommended on plants that will be consumed by humans
-- If using any chemical miticide, ensure it is a contact poison and not systemic
-- Avoid products related to DDT (such as dicofol/Kelthane) — these are unsafe for consumable crops
-
-Rotate sprays so mites do not develop immunity. Spider mites develop resistance to synthetic pyrethrum quickly. Eggs hatch in 5-10 days, so the second spraying targets newly hatched mites.
-
-## Prevention
-
-Prevention is the most important first step in spider mite control:
-
-1. **Cleanliness** — Clean room daily, disinfect tools, avoid introducing pests on clothes, shoes, or equipment
-2. **Quarantine** — Isolate new plants and cuttings before introducing to the main garden
-3. **Mother plant care** — Spray mother plants regularly with miticides; treat three days before taking cuttings
-4. **Environmental management** — Maintain humidity and temperature at levels unfavorable to mites
-5. **Regular monitoring** — Inspect plants weekly with a magnifying glass, focusing on leaf undersides
-6. **Introduce predatory mites preventatively** — Release before any spider mites are seen for best results
-
-## Progressive Control Strategy
-
-1. **Cleanliness** — Clean room daily, disinfect tools, avoid introducing pests on clothes
-2. **Hostile environment** — Adjust humidity, temperature, and water spray
-3. **Barriers** — Tanglefoot around pot lips, stems, and drying lines
-4. **Dip cuttings** — Dip in pyrethrum, horticultural oil, or neem oil
-5. **Remove damaged foliage** — Remove anything more than 50% damaged
-6. **Predatory mites** — Release before infestations grow out of hand
-7. **Spray** — Apply pyrethrum or neem oil; rotate sprays
-
-## See Also
-
-- gaias-garden-host-plants-beneficial-insects — predator and parasite options
-- [[cannabis-disease-guide]] — broader disease reference
-- thrips-cannabis|Thrips — another common cannabis pest with similar damage patterns
-- [[query-how-to-prevent-and-treat-spider-mites-on-cannabis]]
-- [[cervantes-spider-mites-identification-control]]
-- [[greg-green-spider-mites-and-common-pests]]

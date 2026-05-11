@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,39 +88,3 @@ The same principle applies to fruit trees. In Fukuoka's [[fukuoka-natural-orchar
 Fukuoka connected pest problems directly to soil health. When fields are repeatedly plowed and fertilized, the soil becomes a dead mineral medium rather than a living ecosystem. Without the complex community of microorganisms, nematodes, earthworms, insects, and other organisms that inhabit healthy soil, crops become vulnerable to attack. The soil microbes that abound in the soil live and die, supplying growing plants with nutrients absorbed through the plant roots. All three, animals, plants, and microbes, are one; they prey on each other and they also coexist and mutually benefit each other.
 
 When man applies [[cervantes-chemical-fertilizers-guide]] and pesticides, he destroys this living community. The land developed with a bulldozer and left virtually bare for ten years is washed free of its topsoil. Levees and walkways made of concrete upset and destroy the community of soil microbes, gradually turning the soil into dead mineral matter. It is this dead soil that produces weak, pest-susceptible crops.
-
-## Natural Pest Balance in the Field Ecosystem
-
-Fukuoka described the rice paddy as a complete ecosystem in which frogs, dragonflies, spiders, aquatic insects, and microorganisms all play roles in maintaining pest balance. In a healthy paddy, these organisms form a self-regulating community that keeps pest populations in check without any human intervention. The natural farmer's role is not to eliminate pests but to maintain the conditions under which this natural balance can operate.
-
-When green manure thriving at the foot of the rice plants and algae growing on the flooded field are thought to detract from yields because they shield the sun, this reflects a limited understanding. The total energy absorbed by the rice, green manure, algae, and earth is greater than the energy stored from the sun's rays by the rice plants alone. The quality of the energy produced within the plant by conversion from absorbed energy must also be taken into account.
-
-## The Energy Balance of Natural vs. Chemical Farming
-
-Fukuoka calculated that the energy inputs of modern agriculture far exceed its energy outputs. Chemical fertilizers require fossil fuel energy for manufacture and transport. Pesticides and herbicides add further energy costs. Machinery consumes diesel fuel. Irrigation pumps require electricity. The food produced contains fewer calories than all these inputs combined, when properly accounted for.
-
-Natural farming reverses this equation. The sun provides the energy for photosynthesis. Nitrogen is fixed by clover and other legumes. Soil microorganisms make nutrients available. No external energy inputs are required beyond the human labor of harvesting. The net energy output of a natural farm is positive, while the net energy output of a chemical farm is negative. This energy imbalance is itself a sign of the centrifugal expansion phase that Fukuoka identifies as unsustainable.
-
-## Practical Implications
-
-For the practicing farmer, Fukuoka's philosophy means:
-
-1. Study the fields that escape damage rather than focusing on damaged areas.
-2. Ask why an outbreak occurred rather than immediately reaching for a pesticide.
-3. Recognize that luxuriant, over-fertilized growth invites pest attack as a natural corrective measure.
-4. Understand that healthy soil supporting a full ecosystem of microorganisms, insects, and plants provides its own pest management.
-5. Accept that some level of pest presence is normal and even necessary for [[fukuoka-ecological-balance-principles]].
-6. Build soil biology through ground covers, mulching, and minimal disturbance rather than through chemical inputs.
-7. Embrace diversity in the farming system as a natural defense against concentrated pest attack.
-
-## Wikilinks
-
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-pest-ecology]]
-- [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
-- [[fukuoka-natural-livestock-farming]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-
-## See Also
-
-- [[fukuoka-textdoc-natures-refuse-processing-microbial-self-governance]]

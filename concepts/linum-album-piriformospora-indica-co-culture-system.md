@@ -87,10 +87,3 @@ upregulation, channeling metabolic flux toward lignan biosynthesis. This
 approach provides a biotechnological alternative for large-scale production of
 podophyllotoxin that does not depend on endangered plant species. The system is
 protected under Indian patent application 1266/DEL/2007.
-
-## See Also
-
-- [[linum-usitatissimum]]
-
-- [[mycorrhizal-helper-bacteria-mycorrhizosphere-interactions]]
-- [[chenopodium-album]]

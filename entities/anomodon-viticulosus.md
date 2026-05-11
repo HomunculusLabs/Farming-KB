@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Smith, A.J.E. (2004). The Moss Flora of Britain and Ireland. 2nd ed. Cambridge University Press.
-  - Crum, H.A. & Anderson, L.E. (1981). Mosses of Eastern North America. Columbia University Press.
+  - Crum, H.A. & Anderson, L.E. (1981). Mosses of [[polypore-fungi-eastern-north-america]]. Columbia University Press.
   - Frahm, J.P. & Frey, W. (1992). Moosflora. 3rd ed. Ulmer Verlag.
   - Ignatov, M.S. & Ignatova, E.A. (2004). "Flora of the bryophytes of Russia." Arctoa, Supplement 2.
   - Glime, J.M. (2017). "Anomodon." Bryophyte Ecology, Vol. 2.
@@ -74,76 +74,17 @@ serving as the main propagule.
 ## Distribution and Habitat
 
 Anomodon viticulosus is distributed across temperate Europe, western Asia, and
-eastern North America. In Europe, it occurs from southern Scandinavia and the
+eastern [[guzman-psilocybin-mushrooms-north-america]]. In Europe, it occurs from southern Scandinavia and the
 British Isles southward through central Europe to the Mediterranean region.
 
 The species is absent from the most oceanic and the most continental parts of
 Europe. It reaches its greatest abundance in the lowland and colline zones of
 central and western Europe.
 
-In North America, Anomodon viticulosus is found in the Appalachian Mountains
-and the northeastern United States, extending westward to the Great Lakes region.
+In [[huckleberries-and-wild-berries-of-north-america]], Anomodon viticulosus is found in the Appalachian Mountains
+and the northeastern [[dmt-containing-plants-united-states-halpern]], extending westward to the Great Lakes region.
 Eastern Asian populations have been assigned to the closely related A. minor.
 
 The moss is primarily corticolous, growing on the bark of deciduous trees with
 basic to neutral bark chemistry. Preferred host trees include Fraxinus excelsior
-(ash), Ulmus glabra (wych elm), Acer pseudoplatanus (sycamore), and Tilia
-species (limes).
-
-Anomodon viticulosus is occasionally found on limestone outcrops, stone walls,
-and concrete structures when growing near suitable tree hosts. It prefers shaded
-to moderately shaded locations with high atmospheric humidity.
-
-The species is most abundant in old-growth and mature secondary forests with
-large, bark-rich trees. It is sensitive to forest management practices that
-reduce tree age and diversity, particularly the removal of ash and elm trees.
-
-## Ecology and Reproduction
-
-Anomodon viticulosus reproduces both sexually through spores and vegetatively
-through stem fragmentation. The species is autoicous, with antheridia and
-archegonia borne on separate branches of the same plant.
-
-Fertilization occurs in autumn to early winter, with capsules maturing the
-following spring. Vegetative reproduction is the dominant mode of propagation.
-Stem fragments readily establish new colonies on suitable bark surfaces.
-
-The moss plays an important ecological role in forest canopy communities. Its
-extensive mats retain moisture and create microhabitats for invertebrates.
-
-The species is sensitive to sulfur dioxide and other atmospheric pollutants.
-It declined significantly during the twentieth century due to industrial air
-pollution. Recovery has been observed in many areas following improvements in
-air quality since the 1980s.
-
-## Conservation
-
-Anomodon viticulosus is globally secure and widespread across its European range.
-It is listed as Least Concern by the IUCN and all national conservation agencies.
-
-The species has recovered significantly in many European countries following
-improvements in air quality. Populations in the British Isles, Germany, and
-central Europe have increased since the 1990s.
-
-The primary long-term threat is the loss of suitable host trees, particularly
-Fraxinus excelsior due to ash dieback caused by Hymenoscyphus fraxineus. Ulmus
-species have already been severely reduced by Dutch elm disease.
-
-Conservation of this species depends on maintaining diverse, mature deciduous
-woodlands with a mix of ash, elm, sycamore, and lime trees. Retention of
-old-growth characteristics in managed forests is important for sustaining
-epiphytic moss communities.
-
-No targeted conservation actions are specifically needed for A. viticulosus,
-but broader woodland conservation and air quality protection benefit the species.
-
-## See Also
-
-- [[hypnum-cupressiforme]]
-- [[pleurozium-schreberi]]
-- [[climacium-dendroides]]
-- [[rhytidiadelphus-triquetrus]]
-- [[thuidium-delicatulum]]
-- [[dicranum-scoparium]]
-- [[mnium-hornum]]
-- [[aulacomnium-palustre]]
+(ash), [[ulmus-glabra]] (wych elm), Acer pseudoplatanus (sycamore), and Tilia

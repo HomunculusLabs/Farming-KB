@@ -2,7 +2,7 @@
 title: 2C-SE (2,5-Dimethoxy-4-methylselenophenethylamine)
 created: 2026-04-16
 updated: 2026-04-16
-type: [[meta-dob-entity-pihkal|entity]]
+type: [[meta-dob-entity-pihkal]]
 tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
@@ -82,18 +82,9 @@ accumulated in. Shulgin would have called it HARDINAMINE in honor of Dr. Hardin
 Jones, who always argued that the continuing use of drugs would burn out the
 pleasure center of the brain. 2C-PO would quite literally do this.
 
-There was an interesting observation: during synthesis of the starting material,
+There was an interesting observation: during synthesis of the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]],
 a quantity of CH3SeH was released into the environment. Within minutes, there
 were two beautiful dragonflies in the lab. "A coincidence certainly, but
 somehow, it was a nice message to receive."
 
-The most promising selenium analogues would be Se-[[ethyl-j-entity-pihkal|ethyl]], Se-propyl, and
-Se-isopropyl (2C-SE-2, 2C-SE-4, 2C-SE-7). 2C-SE-21 would be the first
-centrally active drug with both fluorine and selenium.
-
-## Related Compounds
-
-- [[2c-t-2]] -- 2,5-dimethoxy-4-ethylthiophenethylamine
-
-- [[2c-t-7-entity]]
-- [[alexander-shulgin]]
+The most promising selenium analogues would be Se-[[ethyl-j-entity-pihkal]], Se-propyl, and

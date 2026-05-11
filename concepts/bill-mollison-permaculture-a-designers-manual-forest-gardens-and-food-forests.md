@@ -88,16 +88,3 @@ wildlife habitat, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], water
 regulation, and aesthetic beauty. This multi-yield approach exemplifies the
 [[permaculture-design]] of multifunctionality and reflects the
 comprehensive productivity of natural forest ecosystems.
-
-## See Also
-
-- [[mollison-designers-mulch-pit-interplanting-technique]]
-- [[mollison-designers-termite-and-ant-mound-niche-gardening]]
-- [[mollison-guinea-pig-integration-in-permaculture-gardens]]
-- [[mollison-town-permaculture-urban-food-systems]]
-- [[mollison-wildfire-dynamics-and-firestorm-behavior]]
-- [[permaculture-designers-manual-education-strategies]]
-- [[permaculture-designers-manual-sacred-groves]]
-- [[permaculture-designers-manual-sea-vegetables]]
-- [[permaculture-designers-manual-seed-exchange]]
-- [[permaculture-designers-manual-sheep-grazing]]

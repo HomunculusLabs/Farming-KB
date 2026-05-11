@@ -88,32 +88,3 @@ Sessile oak wood is hard, heavy (density 0.65–0.75 g/cm³ at 12% moisture), st
 The wood is used for furniture, flooring, cabinetry, cooperage (wine and whiskey barrels), shipbuilding, and [[singh-wood-rot-fungi-structural-timber-decay]]. Quarter-sawn oak veneer is highly valued for decorative panelling. The broad medullary rays produce a distinctive "tiger stripe" figure on radial cuts.
 
 Historically, sessile oak was the preferred species for shipbuilding in northern Europe due to its natural resistance to decay and its [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]. It remains the primary oak species used in French wine barrel production (merrain), prized for its fine grain and moderate tannin extraction.
-
-### Hybrids
-
-Hybridization with [[quercus-robur]] (Q. × rosacea Bechst.) is common across overlapping ranges. Hybrids are morphologically intermediate and can complicate species identification. Introgression is extensive in some populations.
-
-In the Arboretum de Versailles and other European collections, numerous interspecific hybrids involving Q. petraea have been documented. These are primarily of taxonomic interest but occasionally show horticultural promise for improved [[dighton-fungal-drought-tolerance-plant-water-relations]] or disease resistance.
-
-## Conservation Status
-
-Quercus petraea is assessed as **Least Concern** by the IUCN. The species has a vast native range and large populations across Europe.
-
-However, **oak decline** (a complex of drought stress, root pathogens including *Phytophthora* spp., and insect damage) is affecting oak forests across Europe. [[dighton-fungi-climate-change-feedback]] is expected to increase drought stress, particularly at the southern and lowland margins of the species' range. Provenance trials indicate that southern populations are more drought-adapted, informing assisted migration strategies.
-
-Regeneration failure in some managed forests has been attributed to browsing pressure from excessive deer populations and competition from shade-tolerant species such as beech. In the British Isles, changes in silvicultural practice have been recommended to promote oak regeneration, including reduced deer densities and canopy gaps timed to coincide with mast years.
-
-Several European countries maintain **genetic conservation programs** for Q. petraea, recognizing its ecological and economic importance. Gene conservation stands and seed orchards preserve the broad genetic diversity found across the species' range.
-
-## See Also
-
-- [[quercus-robur]]
-- [[quercus-ilex]]
-- [[quercus-alba]]
-- [[quercus-rubra]]
-- [[fagus-sylvatica]]
-- [[fagus-grandifolia]]
-- [[castanea-sativa]]
-- [[betula-pendula]]
-- [[pinus-sylvestris]]
-- [[picea-abies]]

@@ -6,11 +6,12 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Pear and Apple Pollination and Harvesting
 
-Successful fruit production in Holzer's permaculture system depends not only on variety selection and microclimate management but also on understanding pollination requirements and proper harvesting timing. These practical aspects of [[holzer-fruit-growing-marginal-climates]] are crucial for achieving reliable yields year after year, especially in marginal climates where the margin for error is small.
+Successful [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] in Holzer's permaculture system depends not only on [[coleman-winter-greens-variety-selection]] [[climate-and-microclimate-management]] but also on understanding pollination requirements and proper harvesting timing. These practical aspects of [[holzer-fruit-growing-marginal-climates]] are crucial for achieving reliable yields year after year, especially in marginal climates where the margin for error is small.
 
 ## Pollination Requirements
 
@@ -30,11 +31,11 @@ In the fruit forest system, natural diversity ensures pollination. When hundreds
 
 ### Wild Pollinators
 
-Wild fruit trees planted as hedges and windbreaks contribute to the pollination network. Crab apples (Malus sylvestris) serve as excellent pollinators for cultivated apples, and wild pears (Pyrus pyraster) pollinate cultivated pears. The Cornelian cherry (Cornus mas) flowers extremely early in spring, providing a critical early nectar source for emerging pollinators.
+[[holzer-wild-fruit-trees-and-hedges]] planted as [[hamilton-hedges-and-windbreaks]] contribute to the pollination network. Crab apples (Malus sylvestris) serve as excellent pollinators for cultivated apples, and wild pears (Pyrus pyraster) pollinate cultivated pears. The Cornelian cherry (Cornus mas) flowers extremely early in spring, providing a critical early nectar source for emerging pollinators.
 
 ### Bee Integration
 
-If there are enough bee colonies nearby, the number of pollinated flowers will increase dramatically along with the size of the yield. Holzer integrates beekeeping into his overall system, recognising that fruit blossoms provide a rich source of food for bees, while bees provide essential pollination services for fruit trees.
+If there are enough bee colonies nearby, the number of pollinated flowers will increase dramatically along with the size of the yield. Holzer integrates beekeeping into his overall system, recognising that fruit blossoms provide a rich source of food for bees, while bees provide essential pollination services [[query-how-to-design-a-food-forest-guild-for-fruit-trees]].
 
 The fruit blossoms provide a great number of insects with a rich source of food. Bees, which play a substantial role in pollinating fruit trees, particularly benefit from the fruit blossoms.
 
@@ -86,39 +87,3 @@ Pears in Holzer's system are categorised by their harvest and use:
 - Summer pears (Coloree de Juillet, Clapp's Favourite, Williams' Bon Chretien, Salzburger Pear): Harvest in July-August, cannot be stored long, eaten fresh or processed immediately
 - Autumn pears (Beurre Alexandre Lucas, Beurre Hardy, Comtesse de Paris, Louise Bonne, Conference Pear): Harvest in September-October, store for weeks to months
 - Winter pears (Doyenne Bossoch, Rote Pichelbirne, Specbirne, Subira): Harvest in October-December, develop best flavour after storage
-
-### Pear Storage
-
-Pears require careful handling for successful storage:
-- Harvest before fully ripe (when still firm)
-- Handle gently to avoid bruising -- pears are more easily damaged than apples
-- Store at cool temperatures (2-4 degrees C) with high humidity
-- Check regularly and remove any fruit showing signs of rot
-- Some varieties (Beurre Alexandre Lucas, Louise Bonne) store well until November-December
-
-### Special Purpose Pears
-
-Several of Holzer's recommended varieties have particular processing uses:
-- Subira: Exceptionally good for schnapps, thrives at high altitudes in harsh climates
-- Rote Pichelbirne: Good for cider and drying
-- Specbirne: Particularly good for cider, also well suited to drying
-- Beurre Gris: Very good for drying
-
-## Storage Conditions
-
-On the Krameterhof, fruit is stored in [[sepp-holzer-earth-cellars-and-philosophy]] and [[holzer-roundwood-shelters-earth-cellars]] that maintain cool, stable temperatures without energy input. The key factors for successful fruit storage are:
-
-1. Temperature: Cool but not freezing (2-4 degrees C for most varieties)
-2. Humidity: High enough to prevent shrivelling (85-90%)
-3. Ventilation: Some air circulation to prevent mould and gas buildup
-4. Separation: Different varieties should be stored separately, as ripening fruits produce ethylene gas that accelerates ripening of nearby fruit
-5. Inspection: Regular checking and prompt removal of any spoiled fruit
-
-## Quality at Altitude
-
-At high altitude, plums, pears, and apples develop a very intense flavour because of the cooler temperatures and longer ripening period. This quality advantage is one of the strongest arguments for mountain permaculture. The intense flavour makes high-altitude fruit particularly valuable for processing into juices, ciders, spirits, and preserves, where concentrated flavour commands premium prices.
-
-The locations given for each variety are only general guidelines and should show where the best conditions for each variety can be found. The condition of poor soils can, however, be improved to a degree with green manure, by sowing supporting plants and creating microclimates. This can allow the majority of varieties to thrive on soils which first appear to be quite unsuitable.
-
-See also: [[holzer-fruit-growing-marginal-climates]], [[holzer-roundwood-shelters-earth-cellars]], holzer-fruit-tree-planting-method
-- [[permaculture-multi-purpose-plants]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -86,12 +87,3 @@ rusty brown colorations typical of Hypholoma sublateritium.
 
 Fragrance signature: A fresh, sweet, forest-like, pleasant
 fragrance, similar to [[stump-inoculation-techniques]] for outdoor [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]].
-
-### Spawn Expansion
-Nutrified agar into liquid fermentation for 48 hours. The broth
-should be fortified with 2-5 grams of sawdust per liter. Once
-fermented, the liquid inoculum is transferred into sterilized
-grain which can be expanded two or three more generations. See
-[[shiitake-mushroom-cultivation]] for spawn expansion methods. The
-grain spawn can inoculate sterilized sawdust/chips, but the spawn
-rate should not exceed 10% (moist spawn/moist sawdust).

@@ -27,7 +27,7 @@ Russulaceae, widely distributed across coniferous and mixed forests of North
 America and Europe.
 
 It is best known as the host species for the prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]]
-*Lactarius rubidus*, which parasitizes *R. brevipes* fruiting bodies, transforming
+*Lactarius rubidus*, which parasitizes *R. brevipes* [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], transforming
 them into the commercially valuable "candy cap" mushroom.
 
 In its unparasitized form, *R. brevipes* is generally considered mediocre as an
@@ -80,61 +80,11 @@ iron salts negative; guaiac negative.
 *Russula brevipes* is widely distributed across temperate coniferous forests
 of the Northern Hemisphere.
 
-- **North America:** Pacific Northwest to California, Rocky Mountains, across
+- **[[guzman-psilocybin-mushrooms-north-america]]:** [[psilocybin-north-america-pacific-northwest]] to California, Rocky Mountains, across
   Canada to the northeastern US. Particularly abundant under Douglas-fir
-  (*Pseudotsuga menziesii*) and ponderosa pine (*Pinus ponderosa*).
-- **Europe:** Widely recorded in Scandinavian and Central European conifer
+  (*[[pseudotsuga-menziesii]]*) and ponderosa pine (*[[pinus-ponderosa]]*).
+- **Europe:** Widely recorded in Scandinavian and [[psilocybe-bohemica-central-european]] conifer
   forests, though some European collections may represent cryptic species.
 - **Asia:** Reported from Japan and Korea in association with conifers.
 
 The species is strictly ectomycorrhizal, forming associations primarily with:
-- **Pinus** (pine)
-- **Pseudotsuga** (Douglas-fir)
-- **Picea** (spruce)
-- **Abies** (fir)
-
-Fruiting occurs from late summer through autumn, often in large scattered
-groups on forest floors with thick duff layers.
-
-## Ecology and Permaculture Value
-
-As an ectomycorrhizal partner of major timber and reforestation species,
-*R. brevipes* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-
-- **[[arbuscule-isolation-and-nutrient-exchange-mechanisms]]:** Facilitates phosphorus and nitrogen uptake for host
-  trees in exchange for photosynthetic carbon.
-- **Soil health:** Contributes to soil aggregation and organic matter
-  decomposition through enzymatic activity.
-- **Food web:** Serves as a food source for small mammals, deer, and insect
-  larvae; supports diverse forest ecosystems.
-- **Parasitic relationship:** *Lactarius rubidus* selectively parasitizes
-  *R. brevipes* fruiting bodies, transforming the host's context into the
-  intensely maple-scented, commercially valuable candy cap mushroom.
-
-In permaculture and forest garden design, maintaining populations of
-ectomycorrhizal Russula species supports overall tree health and resilience,
-particularly in conifer-dominated food forests and agroforestry systems.
-
-## Edibility
-
-- **Unparasitized:** Edible but mediocre — hard, brittle flesh with mild
-  flavor. Requires long, slow cooking. Some specimens develop slight acridity.
-- **Parasitized by *Lactarius rubidus*:** Transformed into candy caps, which
-  are highly prized for their intense maple-sugar aroma and used in
-  desserts, cookies, and ice cream.
-- **Caution:** As with all *Russula* species, positive identification is
-  essential. Some lookalikes in the genus are acrid or mildly toxic.
-
-## Similar Species
-
-- ***Russula delica*** — European species, nearly identical; considered
-  conspecific by some authorities.
-- ***Russula cascadensis*** — Pacific Northwest, smaller with more yellowish
-  cap tones.
-- ***Russula vesicatoria*** — Peppery taste eliminates it as edible.
-
-## See Also
-
-- [[russula-cyanoxantha]]
-- [[russula-xerampelina]]
-- [[russula-virescens]]

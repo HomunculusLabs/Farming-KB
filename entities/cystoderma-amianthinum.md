@@ -59,11 +59,11 @@ Surface is covered with fine, granular to mealy squamules over a pale yellow to 
 
 The squamulose surface is formed by a distinctive layer of sphaerocysts and filamentous hyphae, a key microscopic feature of the genus.
 
-The cap margin is typically appendiculate with fragments of the partial veil when young, becoming smooth with age.
+The cap margin is typically appendiculate with fragments of the [[partial-veil-tropism-protection-before-spore-release]] when young, becoming smooth with age.
 
 Gills are free, crowded, white to pale cream, with entire edges and occasional lamellulae interspersed.
 
-Spore print is white. Basidiospores are broadly ellipsoid, smooth, amyloid, 4–5.5 × 3–4 µm, with a prominent apiculus.
+[[boil-a-bag-spore-print-technique-jarrold]] is white. Basidiospores are broadly ellipsoid, smooth, amyloid, 4–5.5 × 3–4 µm, with a prominent apiculus.
 
 The stipe is 3–7 cm tall and 3–6 mm thick, cylindrical, with a distinct persistent annulus that is similarly granular-squamulose.
 
@@ -77,7 +77,7 @@ Cystoderma amianthinum has a broad circumboreal distribution across Europe, [[ps
 
 In Europe it is found from Scandinavia to the Mediterranean, though it is more common in northern and central regions.
 
-The species is saprotrophic, fruiting on decaying conifer needles, twigs, and forest floor litter, particularly under spruce and pine.
+The species is saprotrophic, fruiting on decaying conifer needles, twigs, and [[fungal-ecology-forest-floor]] litter, particularly under spruce and pine.
 
 Fruiting occurs from July through October, often in scattered groups or small troops on acidic forest soils.
 
@@ -88,44 +88,3 @@ It may also occur in mixed woodlands, especially where coniferous litter accumul
 Cystoderma amianthinum is generally considered edible but of little culinary interest due to its small size and thin flesh.
 
 Some field guides list it as edible, while others recommend avoiding it due to the presence of toxic lookalikes in the Cystoderma genus.
-
-The related C. carcharias (orange-flecked parasol) is also considered edible, but C. fallax and C. haematospermum contain toxic compounds.
-
-The most dangerous lookalike is C. marginatum, which some authorities consider synonymous but others separate as a potentially toxic taxon.
-
-Given the taxonomic complexity and small stature, most experienced foragers simply pass over this species without collecting.
-
-## Chemistry
-
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of Cystoderma species has revealed the presence of several bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]].
-
-C. amianthinum contains small amounts of sterols and [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] typical of Agaricaceae, including ergosterol and its derivatives.
-
-Some Cystoderma species produce toxic peptides and alkaloids, though these have not been conclusively identified in C. amianthinum.
-
-The genus is poorly studied biochemically compared to more commercially significant mushrooms, representing an area for further research.
-
-## Ecology
-
-Cystoderma amianthinum contributes to decomposition of coniferous litter in forest ecosystems, breaking down complex [[fungal-volatile-organic-compounds-communication]].
-
-Its fruiting bodies provide a minor food source for invertebrates, including collembola and various fungivorous beetles.
-
-The persistent annulus and granular cap surface may serve as adaptations to [[aquatic-fungi-spore-dispersal-ingold]] in the often-windy forest floor microenvironment.
-
-## Similar Species
-
-Identification within the Cystoderma genus requires careful attention to cap color, spore color, and microscopic features.
-
-- **C. carcharias** — larger, with orange-brown granules on the cap and a more robust stature
-- **C. fallax** — greyish cap with a bitter taste, contains potentially toxic compounds
-- **C. granulosum** — very similar, often considered a synonym; some authorities separate it based on spore size differences
-- **C. marginatum** — brownish cap with a more pronounced umbo and brown-tinged annulus
-- **Lepiota cristata** (stinking dapperling) — similar size and habitat but with a distinctive foul odor and brown-spotted cap
-
-## See Also
-
-- [[agaricus-campestris]]
-- [[russula-delica]]
-- [[mycena-pura]]
-- [[conocybe-cyanopus]]

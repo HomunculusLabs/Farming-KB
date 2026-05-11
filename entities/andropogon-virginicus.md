@@ -12,9 +12,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Campbell, J.J.N. (1985). "Andropogon." In Flora of North America Editorial Committee, Flora of North America North of Mexico, Vol. 25. Oxford University Press.
+  - Campbell, J.J.N. (1985). "Andropogon." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America North of Mexico, Vol. 25. Oxford University Press.
   - Hitchcock, A.S. & A. Chase (1950). Manual of the Grasses of the United States, 2nd ed. USDA Miscellaneous Publication No. 200.
-  - Peet, R.K. & T.R. Wentworth (1998). "Old-Field Vegetation Succession in the North Carolina Piedmont." Journal of the Torrey Botanical Society, 125(3), 215-224.
+  - Peet, R.K. & T.R. Wentworth (1998). "Old-Field Vegetation Succession in the [[north-carolina-mycodiversity]] Piedmont." Journal of the Torrey Botanical Society, 125(3), 215-224.
   - Harper, R.M. (1914). "A Consideration of the Fortunate Accident That Made the Cutover Lands of the Gulf States So Valuable for Agriculture." Journal of Forestry, 12(4), 394-398.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 Andropogon virginicus, commonly known as broomsedge bluestem or broomsedge, is a perennial bunchgrass native to the eastern and central United States.
 
-It is one of the most recognizable and widespread old-field indicator species in the southeastern United States, often dominating abandoned agricultural land.
+It is one of the most recognizable and widespread old-field indicator species in the southeastern United States, often dominating abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Despite its common name, broomsedge is not a sedge but a true grass belonging to the tribe Andropogoneae.
 
@@ -50,7 +50,7 @@ Reproduction is primarily by seed, though plants can slowly increase in size thr
 
 Andropogon virginicus is native to the eastern and central United States, from New York and Massachusetts south to Florida and west to Texas, Oklahoma, and Kansas.
 
-It also occurs in parts of Mexico, Central America, and has been introduced in Hawaii, Japan, Australia, and parts of Africa.
+It also occurs in parts of Mexico, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and has been introduced in Hawaii, Japan, Australia, and parts of Africa.
 
 The species is a classic old-field successional grass, aggressively colonizing disturbed sites including abandoned farmland, roadsides, logged areas, and burned sites.
 
@@ -60,7 +60,7 @@ Broomsedge reaches its greatest abundance on acidic soils with pH below 5.5, whe
 
 It is tolerant of both drought and periodic flooding, reflecting its broad ecological amplitude.
 
-In fire-prone ecosystems, broomsedge increases after burning due to its ability to resprout from the basal crown and its prolific seed production.
+In fire-prone ecosystems, broomsedge increases after burning due to its ability to resprout from the basal crown and its prolific [[cannabis-controlled-pollination-seed-production]].
 
 ## Ecological Role
 
@@ -76,7 +76,7 @@ The fluffy seed heads are used as nesting material by some bird species.
 
 However, dense broomsedge stands can suppress the establishment of more palatable forage species and desirable native wildflowers.
 
-In prescribed fire management, broomsedge is an important fuel source that carries fire through old-field and pine savanna ecosystems.
+In prescribed [[permaculture-fire-management]], broomsedge is an important fuel source that carries fire through old-field and pine savanna ecosystems.
 
 The species serves as a larval host for several skipper butterflies and supports a modest diversity of grass-feeding insects.
 
@@ -87,38 +87,3 @@ Broomsedge is considered a low-quality forage grass because its nutritional valu
 Crude protein content drops from approximately 8 to 10 percent during early growth to below 4 percent by the time seed heads appear.
 
 Livestock will graze young shoots in spring but avoid mature plants, which become coarse and unpalatable.
-
-In pastures, dense broomsedge stands are often treated as a symptom of declining soil fertility and pasture mismanagement.
-
-The species is sometimes used in erosion control plantings on disturbed sites, particularly on acidic soils where more productive species struggle.
-
-It has limited value as hay because the stems become woody and the leaves lose palatability quickly.
-
-Some land managers use broomsedge density as a visual indicator for when to apply lime and phosphorus to improve pasture productivity.
-
-## Cultivation and Landscape Use
-
-Although primarily considered a weed in agricultural contexts, Andropogon virginicus has gained recognition in ecological landscaping and restoration projects.
-
-Its silvery autumn seed heads and upright habit provide visual interest in meadow plantings and native grass gardens.
-
-The species is available from native plant nurseries specializing in regional ecotypes for restoration use.
-
-In prairie and savanna restorations, broomsedge is sometimes included in seed mixes to provide early successional cover and wildlife habitat.
-
-No named cultivars are widely available, though regional seed sources offer locally adapted genotypes.
-
-Plants require full sun and tolerate poor soils, drought, and seasonal wetness, making them suitable for difficult landscape sites.
-
-Maintenance is minimal once established, though periodic prescribed fire or mowing prevents excessive thatch accumulation.
-
-## See Also
-
-- [[andropogon-gerardii]]
-- [[panicum-virgatum]]
-- [[bouteloua-gracilis]]
-- [[bouteloua-curtipendula]]
-- [[deschampsia-caespitosa]]
-- [[muhlenbergia-capillaris]]
-- [[pennisetum-setaceum]]
-- [[sporobolus-heterolepis]]

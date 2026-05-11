@@ -44,7 +44,7 @@ regardless of the angle of the fence itself.
 On sloping ground, fencing built across a slope can act as a barrier
 that prevents frost-laden air from moving downhill and out of the
 garden, creating a frost pocket. To avoid this problem, raise the
-bottom of the fence slightly to allow cold air to flow underneath.
+bottom of the fence slightly to allow [[hemenway-cold-air-drainage-and-frost-management]] to flow underneath.
 Leave at least 1ft (30cm) of space between the bottom of the fence
 and the ground so that cold air can drain away. This is a critical
 consideration for gardens on slopes where late spring frosts can
@@ -88,26 +88,6 @@ timber to keep the gravel contained.
   sloping ground as they follow the land naturally
 - Panel fencing needs extra panels and longer posts on slopes; erect
   in vertical steps
-- Leave at least 1ft (30cm) under cross-slope fences for cold air
-  drainage to prevent frost pockets
-- Slatted or permeable barriers slow wind effectively; solid barriers
-  create damaging turbulence on the lee side
-- Hedges are the best windbreaks but need significant growing room on
-  both sides
-- Sink fence posts deep and fix windbreak material with battens for
-  stability
-- Enhance walls by planting in gaps or training climbers on trellis
-- Wooden railroad tie steps are an inexpensive solution for linking
-  different garden levels
-- Protect fruit blossom and tender crops from wind by ensuring
-  boundaries provide effective shelter without creating frost traps
-- When planning fencing, consider how it will look from the house and
-  whether it complements the overall garden style
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] for more on Query How To Make And Use Plant Based Foliar Sprays For Pest And Disease Prevention.
 
 ## See Also
-
-- [[hamilton-climbing-plants-organic]]
 - [[hamilton-garden-layout-beds-borders-paths]]

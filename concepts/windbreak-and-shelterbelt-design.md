@@ -9,7 +9,7 @@ sources: []
 
 # Windbreak and Shelterbelt Design
 
-Windbreaks and shelterbelts are linear plantings of trees and shrubs arranged to reduce wind speed, protect crops and buildings, conserve soil moisture, and provide wildlife habitat. They are foundational elements in [[permaculture-design|permaculture]] site design and [[hedgerow-planting]].
+Windbreaks and shelterbelts are linear plantings of trees and shrubs arranged to reduce wind speed, protect crops and buildings, conserve soil moisture, and provide [[hemenway-backyard-wildlife-habitat]]. They are foundational elements in [[permaculture-design]] site design and [[hedgerow-planting]].
 
 ## Windbreak vs Shelterbelt
 
@@ -46,7 +46,7 @@ Optimal density allows 40-60% of wind to pass through the barrier:
 ### Orientation
 
 - Orient perpendicular to the prevailing wind direction
-- In most of North America, prevailing winter winds are from the northwest; summer winds from the southwest
+- In most [[berry-growing]], prevailing winter winds are from the northwest; summer winds from the southwest
 - In regions with multiple wind directions, a multi-row design with different orientations may be needed
 - Use local weather data to determine predominant wind direction
 
@@ -104,16 +104,16 @@ A well-designed windbreak uses multiple rows with different functions:
 ### Shrubs
 - Caragana (Siberian pea shrub): Hardy, nitrogen-fixing, edible seeds
 - Dogwood (Cornus spp.): Red stems, wildlife food
-- Lilac (Syringa vulgaris): Fragrant flowers, dense growth
-- Ninebark (Physocarpus opulifolius): Hardy, attractive foliage
+- Lilac ([[syringa-vulgaris]]): Fragrant flowers, dense growth
+- Ninebark ([[physocarpus-opulifolius]]): Hardy, attractive foliage
 - Serviceberry (Amelanchier spp.): Edible berries, multi-season interest
 - Chokecherry (Prunus virginiana): Wildlife food, erosion control
 - Hazelnut (Corylus spp.): Edible nuts, wildlife food
 
 ### Considerations
 - **Native species preferred**: Better adapted, support more wildlife, less maintenance
-- **Mixed species**: Avoid monoculture — diverse plantings resist pests and diseases
-- **Nitrogen fixers**: Include leguminous trees and shrubs to improve soil fertility
+- **Mixed species**: Avoid monoculture — diverse plantings resist [[mushroom-pests-and-diseases]]
+- **Nitrogen fixers**: Include leguminous trees and shrubs to [[query-how-does-rock-dust-improve-soil-fertility]]
 - **Wildlife value**: Select species providing food, nesting, and cover
 
 ## Establishment
@@ -147,4 +147,3 @@ A well-designed windbreak uses multiple rows with different functions:
 - Monitor for invasive species and manage promptly
 
 ## Benefits
-

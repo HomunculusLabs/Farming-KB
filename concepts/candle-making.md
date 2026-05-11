@@ -15,9 +15,9 @@ Candle making is one of the oldest homestead crafts, transforming beeswax, tallo
 
 ### Beeswax
 
-Beeswax is the premium homestead candle wax. It burns clean with a natural honey scent, produces a warm flame, and has the highest melting point of common candle waxes (144-147 F). Beeswax candles drip less, burn longer, and release negative ions when burned. Raw beeswax [[beeswax-candle-making]] should be filtered before use to remove debris and propolis.
+Beeswax is the premium homestead candle wax. It burns clean with a natural honey scent, produces a warm flame, and has the highest melting point of common candle waxes (144-147 F). Beeswax candles drip less, burn longer, and release negative ions when burned. Raw beeswax should be filtered before use to remove debris and propolis.
 
-Rendering beeswax [[beeswax-candle-making]]: Melt cappings and crushed comb in a double boiler. Strain through cheesecloth or a fine mesh filter into molds. Pour wax into blocks for storage. One pound of beeswax yields approximately 20 taper candles or 4-6 pillars.
+Rendering beeswax: Melt cappings and crushed comb in a double boiler. Strain through cheesecloth or a fine mesh filter into molds. Pour wax into blocks for storage. One pound of beeswax yields approximately 20 taper candles or 4-6 pillars.
 
 ### Tallow
 
@@ -39,7 +39,7 @@ Pillar candles are free-standing candles poured into molds. They require harder 
 
 ### Container Candles
 
-Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides structural support. These are the easiest candles for beginners and are popular gifts.
+Container candles are poured directly into jars, tins, or ceramic vessels. Softer waxes like soy work well here since the container provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. These are the easiest candles for beginners and are popular gifts.
 
 ### Votives and Tealights
 
@@ -59,7 +59,7 @@ Wick materials include cotton (most common for beeswax), paper core, and hemp. A
 
 Beeswax candles carry a natural honey scent. For additional fragrance:
 
-- Add essential oils at 185-195 F (just below pouring temperature)
+- Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] at 185-195 F (just below pouring temperature)
 - Use 0.5-1 ounce of essential oil per pound of wax
 - Good essential oils for candles: lavender, cedar, cinnamon, sweet orange, pine
 - Stir gently for 2 minutes after adding oil to ensure even distribution

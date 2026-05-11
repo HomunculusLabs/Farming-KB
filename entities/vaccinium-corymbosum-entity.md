@@ -51,7 +51,7 @@ The genus name is of uncertain etymology, possibly from Latin *vacca*
 | **Spread** | 1–2 m, forming rounded mounds with age |
 | **Lifespan** | 40–60+ years; peak production at 8–15 years |
 | **Root system** | Shallow, fibrous, fine hair roots lacking root hairs; |
-| | ericoid mycorrhizae essential for [[plant-nutrient-uptake-mechanisms]] in acid soils |
+| | [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] essential for [[plant-nutrient-uptake-mechanisms]] in acid soils |
 | **Bark** | Grey-brown, smooth on young stems, fissured on older canes |
 | | New growth often reddish or green with waxy bloom |
 
@@ -79,71 +79,12 @@ The genus name is of uncertain etymology, possibly from Latin *vacca*
 
 ## Distribution and Habitat
 
-- **Native range:** Eastern North America, Nova Scotia to Georgia and
+- **Native range:** Eastern [[guzman-psilocybin-mushrooms-north-america]], Nova Scotia to Georgia and
   Alabama, west to Minnesota and eastern Texas. Center of diversity in
-  the Appalachian region and Atlantic coastal plain.
+  the [[bolete-fungi-appalachian-region]] and Atlantic coastal plain.
 - **Habitat:** Acidic bogs, swamps, sandy barrens, woodland margins.
   Associates with sphagnum moss and other Ericaceae. Naturally on acidic
   soils (pH 3.5–5.5) with high [[hamilton-composting-and-organic-matter-management]].
-- **Current distribution:** Cultivated across temperate regions worldwide.
-- **Major areas:** Pacific Northwest, Michigan, New Jersey, North Carolina,
+- **Current distribution:** Cultivated across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
+- **Major areas:** [[psilocybin-north-america-pacific-northwest]], Michigan, New Jersey, [[north-carolina-mycodiversity]],
   Chile, Peru, Spain, Poland. Global production exceeds 1.8 million tonnes.
-
-## Nutritional Composition
-
-Per 100 g raw highbush blueberries:
-- **Energy:** 57 kcal | **Total sugars:** 10 g (glucose, fructose)
-- **Fiber:** 2.4 g | **Vitamin C:** 9.7 mg (11% DV)
-- **Vitamin K:** 19.3 µg (16% DV) | **Vitamin E:** 0.57 mg (4% DV)
-- **Manganese:** 0.336 mg (15% DV)
-- **Anthocyanins:** 55–300 mg/100 g (cultivar-dependent)
-- **ORAC:** 4,669 µmol TE/100 g (among highest of common fruits)
-
-## Permaculture Functions
-
-- **Food production:** High-value fruit with extended harvest through
-  cultivar selection (8–12 weeks continuous). Yields of 4–9 kg per mature
-  bush achievable in home gardens.
-- **Pollinator support:** Spring flowers provide critical early-season
-  nectar and pollen for native bees, bumblebees, and honeybees.
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Dense, shallow roots stabilize soil on slopes.
-  Suitable for riparian buffers in acidic soils.
-- **Ornamental value:** Multi-season interest — white spring flowers,
-  blue summer fruit, spectacular red-orange fall foliage.
-- **Wildlife habitat:** Fruit consumed by 50+ bird species and mammals.
-  Dense foliage provides cover and nesting sites.
-- **Acid soil companion:** Thrives where many crops fail. Companions well
-  with cranberry, lingonberry, rhododendron, and conifers that maintain
-  acidic conditions through needle litter.
-- **Guild member:** Food forest understory beneath taller trees. Compatible
-  with pine, oak, and chestnut overstories.
-
-## Cultivation Notes
-
-- **Soil:** Critical — pH 4.0–5.5 required. Above 5.5, iron chlorosis
-  develops. Amend alkaline soils with elemental sulfur (60–100 g/m²) and
-  incorporate peat moss, pine needles, or sawdust.
-- **Planting:** 1–1.5 m apart for hedgerows, 2–3 m for individuals. Set
-  5 cm deeper than nursery level. Mulch heavily (10–15 cm) with pine bark.
-- **Irrigation:** Shallow roots need consistent moisture, especially during
-  fruit development. [[comparison-drip-irrigation-vs-passive-irrigation]] ideal (25–40 mm/week [[savory-growing-season-and-non-growing-season-management]]).
-- **Fertilization:** Minimal nitrogen; ammonium sulfate preferred (acidifies
-  soil). Foliar iron/magnesium sprays for high-pH situations.
-- **Pruning:** Remove oldest canes (>6 years) at ground level. Maintain mix
-  of 1–4-year-old canes. Prune during late winter dormancy.
-- **Pest management:** Bird netting essential for commercial yields. Major
-  insects: blueberry maggot, spotted wing drosophila, cranberry fruitworm.
-
-## Notable Cultivars
-
-## See Also
-
-- [[morella-inodora]]
-
-- [[morella-caroliniensis]]
-
-- [[morella-cerifera]]
-
-- [[ribes-nigrum]]
-- [[symphytum-officinale]]
-- [[food-forest]]

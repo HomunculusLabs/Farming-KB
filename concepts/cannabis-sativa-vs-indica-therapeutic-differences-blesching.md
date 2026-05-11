@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-sativa-vs-indica-guide]] Indica Therapeutic Differences
+title: Cannabis Sativa Vs Indica Therapeutic Differences Blesching
 source: uwe-blesching-the-cannabis-health-index
 tags: [sativa, indica, cannabis-strains, thc, cbd, therapeutic-window, modes-of-administration, endocannabinoid-system]
 ---
@@ -88,62 +88,3 @@ of apprehension and anxiety instead of alleviating them.
 ## Modes of Administration
 
 Cannabis may be administered through several distinct modes, each with different
-pharmacokinetic profiles. Inhalation via vaporization quickly reaches the
-bloodstream, with effects experienced in minutes or even seconds. However, effects
-from inhalation are of shorter duration compared to other modes. When inhaling,
-take one short to medium inhalation and wait 5 to 10 minutes before deciding
-whether to increase the dose. The line between an effective dose and an adverse
-effect is thin, so patience and precision are essential.
-
-If eaten, cannabis may take 45 minutes to an hour and a half for absorption through
-the gastrointestinal tract. Effects are delayed, last much longer, and are
-noticeably different compared to inhalation. Patients should use an exact and
-measured amount, preferably on an empty stomach, and wait at least one hour (two
-hours on a full stomach) before increasing the dose. Topical creams deliver
-medicine to specific problem areas with absorption rates similar to ingestion but
-more localized and less systemic. Tinctures in dropper bottles allow for precise
-dosing and can be used orally or topically. The choice of administration mode
-should be tailored to the patient's specific condition, desired onset time, and
-duration of effect.
-
-## Safety Profile and Harm Reduction
-
-Cannabis is neither dangerous nor harmless, and consideration of its medicinal use
-should include a risk versus benefit analysis focused on the specific therapeutic
-needs of the individual. According to U.S. government sources, there were zero
-deaths attributed to the exclusive use of cannabis between January 1997 and June
-2005. Compared to pharmaceuticals, cannabis carries a considerably reduced risk of
-adverse side effects including death. An FDA report comparing marijuana to seventeen
-common FDA-approved pharmaceuticals used to treat similar conditions found that
-between 1997 and 2005, no deaths were attributed to exclusive cannabis use, while
-the FDA recorded 10,008 deaths from the seventeen pharmaceutical drugs studied.
-
-Potential adverse effects include increased appetite, reduced attention span, dry
-mouth, and decreased cognitive and motor skills. More serious side effects, more
-common when ingested or used at higher doses, include ataxia, anxiety, slight
-heart rate increase, and panic upon first-ever use. To reduce risk, start with a
-small measured amount and slowly increase until the desired effect is achieved. 
-
-## Key Points
-
-- Sativa strains have higher THC:CBD ratios — stimulating, daytime, mental/
-  emotional, better for depression and alertness.
-- Indica strains have lower THC:CBD ratios — sedating, nighttime, physical,
-  better for anxiety, inflammation, and insomnia.
-- The THC:CBD ratio determines whether CB1 (neurological/mental) or CB2
-  (immune/inflammatory) receptor pathways are preferentially activated.
-- Finding the [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] window requires starting low, going slow,
-  and precisely tracking dose and response for each administration mode.
-- Vaporization produces near-instant effects with shorter duration; ingestion
-  produces delayed but longer-lasting effects requiring careful dose management.
-
-## See Also
-
-- [[cannabidiol-cbd-therapeutic-profile-blesching]]
-- [[beta-caryophyllene-dietary-cannabinoid-blesching]]
-- [[mind-body-medicine-and-endocannabinoid-system]]
-- [[anandamide-bliss-molecule]]
-
-## References
-
-- Blesching, U. (2015). The Cannabis Health Index. North Atlantic Books.

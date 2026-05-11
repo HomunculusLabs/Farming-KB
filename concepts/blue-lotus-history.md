@@ -16,7 +16,7 @@ fascinating parallels between its ritual significance across cultures.
 
 ## Botanical Identity
 
-Two species are discussed: Nymphaea ampla (the white water lily) and N.
+Two species are discussed: [[nymphaea-ampla]] (the white water lily) and N.
 caerulea (the Egyptian blue water lily). Nymphaea ampla has thickish dentate
 leaves, purple beneath, measuring 5.5 to 11 inches across, with beautiful
 showy white flowers and 30 to 90 yellow stamens. N. caerulea has oval,
@@ -49,8 +49,8 @@ properties.
 
 There is evidence that Nymphaea may have been employed as a hallucinogen in
 both the Old and New Worlds. The isolation of the psychoactive alkaloid
-apomorphine from Nymphaea has offered chemical support to this speculation.
-Nuciferine and nornuciferine have also been isolated from N. ampla; these
+[[apomorphine]] from Nymphaea has offered chemical support to this speculation.
+[[nuciferine]] and nornuciferine have also been isolated from N. ampla; these
 alkaloids may be responsible for the psychotropic activity.
 
 N. ampla has recently been reported to be used in Mexico as a recreational
@@ -82,52 +82,8 @@ cross-cultural recognition of the plant's psychoactive properties.
 
 ## Modern Rediscovery
 
-The contemporary interest in Nymphaea caerulea as a psychoactive plant
+The contemporary interest in [[nymphaea-caerulea]] as a psychoactive plant
 represents a rediscovery of ancient knowledge. The blue lotus has become
 popular in modern ethnobotanical circles, though Schultes and Hofmann's
 account focuses primarily on its historical and archaeological significance
 rather than contemporary recreational use.
-
-## Limitations of the Record
-
-Schultes and Hofmann acknowledge that the evidence for Nymphaea as a true
-hallucinogen, while suggestive, is less definitive than for other plants
-they discuss. The psychoactive alkaloids are present but occur in
-relatively low concentrations. The historical and iconographic evidence is
-strong, but direct ethnographic documentation of ceremonial use is more
-limited than for plants like Teonanacatl or Ayahuasca.
-
-## Apomorphine and Nuciferine
-
-The psychoactive constituents of Nymphaea deserve special attention.
-Apomorphine, isolated from the rhizomes of N. ampla, is a dopamine agonist
-with known psychoactive properties. It has been used in modern medicine for
-various purposes, and its presence in Nymphaea provides a pharmacological
-basis for the plant's reported psychoactive effects. Nuciferine and
-nornuciferine, also isolated from N. ampla, are aporphine alkaloids that may
-contribute to the overall psychoactive profile.
-
-## Egyptian Iconography and Symbolism
-
-In Egyptian civilization, the water lily was one of the most symbolically
-charged plants. Nymphaea caerulea appears extensively in tomb paintings,
-temple reliefs, and funerary objects. The flower's daily cycle of opening at
-dawn and closing at night was associated with the sun god Ra and the cycle
-of death and rebirth. The blue lotus was also associated with the concept of
-creation and the emergence of the sun from the primordial waters.
-
-## Modern Context
-
-The contemporary interest in Nymphaea caerulea represents a revival of
-ancient ethnobotanical knowledge. While Schultes and Hofmann's account
-focuses on historical and archaeological significance, modern research has
-confirmed the presence of psychoactive alkaloids and has documented
-contemporary traditional use in parts of Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
-
-See also: pre-columbian-mushroom-use,
-mushroom-symbolism-in-ancient-cultures
-- mexican-mushroom-stones-archaeological-evidence
-- [[lotus-corniculatus]]
-## See Also
-- [[nymphaea-ampla]]
-- [[nymphaea-caerulea]]

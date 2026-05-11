@@ -87,30 +87,3 @@ Gray birch has limited commercial timber value due to its small size and relativ
 The species is occasionally used in ornamental plantings, particularly in naturalistic landscapes and wildlife gardens. Its graceful form, attractive bark, and tolerance of poor soils make it useful for [[permaculture-difficult-sites-plant-guide]].
 
 Gray birch is hardy to USDA zone 3 (−40 °C) and tolerates a wide range of soil conditions. It transplants easily and establishes rapidly, making it useful for stabilizing disturbed soils.
-
-In ecological restoration, gray birch is planted as a nurse crop to provide early shade and organic matter input on degraded sites. It facilitates the establishment of more long-lived climax species by improving soil conditions.
-
-The species is highly susceptible to bronze birch borer (Agrilus anxius), which can cause rapid mortality of stressed trees. Healthy, vigorously growing individuals in favorable sites are more resistant to infestation.
-
-Leaf miners of the genus Fenusa are common on gray birch, creating blotch mines that reduce photosynthetic area but rarely cause significant harm. Severe infestations may contribute to growth decline in already stressed trees.
-
-## Hybridization and Related Species
-
-Gray birch hybridizes with paper birch (Betula papyrifera) where their ranges overlap, producing B. × purpusii. This hybrid exhibits intermediate characteristics, including bark that is more papery than gray birch but less exfoliating than paper birch.
-
-The hybrid is more vigorous than either parent and occupies a broader range of site conditions. It can complicate species identification in areas of sympatry, particularly in the transitional zone between boreal and temperate forests.
-
-Gray birch is sometimes confused with young paper birch, which also displays white bark with dark markings. The non-peeling bark, more triangular leaves, and smaller mature size of gray birch help distinguish it in the field.
-
-## See Also
-
-- [[betula-pendula]]
-- [[betula-nigra]]
-- [[betula-alleghaniensis]]
-- [[populus-tremuloides]]
-- [[quercus-alba]]
-- [[acer-saccharum]]
-- [[acer-rubrum]]
-- [[pinus-sylvestris]]
-- [[ulmus-americana]]
-- [[nyssa-sylvatica]]

@@ -1,5 +1,5 @@
 ---
-title: "2C-T-8 -- 2,5-DIMETHOXY-4-CYCLOPROPYLMETHYLTHIOPHENETHYLAMINE -- 2c-b-[[aleph-7-pihkal-entry-7|pihkal]]-entry-20 #44"
+title: 2C T 8 [[2-4-dma-entity-pihkal]]
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -89,12 +89,6 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Extensions and Commentary
 
-With 2C-T-8, there are as many negatives as there are positives, and the particular substitution pattern is not one to set the world on fire. The first step was made towards the synthesis of the 3-carbon counterpart, 2,5-dimethoxy-4-cyclopropylmethylthioamphetamine, [[aleph-6-pihkal-entry-6|ALEPH]]-8. The above benzaldehyde (2.2 g) was cooked overnight on the [[scythian-cannabis-steam-bath-ritual]] in nitroethane (20 mL) containing ammonium acetate (0
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related compounds in the 2C-T series
-
 ## See Also
-
-- [[tma-5-entity-pihkal]]
+- [[methyl-j-entity-pihkal]]
+- [[5-toet-entity-pihkal]]

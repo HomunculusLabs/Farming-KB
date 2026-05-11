@@ -1,5 +1,5 @@
 ---
-title: "stamets-panaeolus-cyanescens-copelandia-identification-ecology: Australia Distribution and Ecology"
+title: Allen Pans Cyanescens Australia Distribution
 created: 2026-04-28
 tags: [panaeolus, cyanescens, copelandia, australia, distribution,
   dung-inhabiting, blue-meanies, identification, allen]
@@ -35,7 +35,7 @@ still be found in abundance during favorable seasons.
 
 ### Tasmania
 
-Surprisingly, *Copelandia cyanescens* has been documented in Tasmania,
+Surprisingly, *[[copelandia-cyanescens]]* has been documented in Tasmania,
 representing one of the most southerly records for this typically tropical
 species. This suggests the species has broader climatic tolerance than
 commonly assumed, possibly aided by microclimatic conditions in dung
@@ -55,12 +55,12 @@ as its primary substrate. In Australia, it is most commonly found on:
 
 - Cow dung (most widespread substrate)
 - Water buffalo dung (Northern Territory and far north Queensland)
-- Horse dung (less common but documented)
+- [[horse-dung-rice-grain-substrate-preparation]] (less common but documented)
 - Occasionally on enriched soil in pastures
 
 The species typically fruits 3-7 days after substantial rainfall when
 temperatures are warm. It is gregarious, often producing dense clusters of
-fruiting bodies on a single dung pat. Unlike *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, which can
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] on a single dung pat. Unlike *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, which can
 also fruit from enriched soil, *C. cyanescens* is more strictly associated
 with dung itself.
 
@@ -88,39 +88,3 @@ blue-staining reaction. Almost any handling of fresh specimens causes rapid
 oxidation to deep blue or blue-green, particularly at the base of the stipe.
 This blueing is caused by the oxidation of psilocine, one of the two major
 psychoactive alkaloids present. The intensity and speed of blueing often
-correlates with potency.
-
-## Potency and Chemistry
-
-*Copelandia cyanescens* is among the most potent of all psilocybian
-mushrooms. Analysis by various researchers has shown it contains both
-psilocybin and psilocine in relatively high concentrations. The species
-consistently ranks among the top five most potent psilocybian mushrooms
-worldwide. Some reports suggest Australian specimens may be slightly less
-potent than those from Southeast Asian or Hawaiian collections, though this
-may reflect environmental variables rather than genetic differences.
-
-## Similar Species and Confusion Risks
-
-Several non-psychoactive species may be confused with *Copelandia
-cyanescens*. *Panaeolus antillarum* (the "hysteria fungus") is larger and
-does not contain psilocybin despite historical claims. *Panaeolus
-foenisecii* (the "mower's mushroom") is common in lawns but does not stain
-blue. The key distinguishing feature is always the blue-staining reaction:
-genuine *C. cyanescens* will stain blue rapidly when bruised, while non-
-psychoactive lookalikes will not.
-
-## Seasonal Patterns
-
-In tropical Northern Territory, fruiting is strongly seasonal, occurring
-during the wet season (November through April). In subtropical Queensland and
-NSW, the season extends from spring through autumn, with peak fruiting after
-heavy summer rains. In Tasmania and New Zealand, the season is more compressed,
-typically late summer through autumn. The species requires sustained warmth
-combined with high humidity to fruit prolifically.
-## See Also
-
-- [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
-
-- [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[allen-subtropical-australia-hunting-techniques]]

@@ -19,11 +19,11 @@ sources:
 
 # Psilocybin Therapeutic Applications
 
-The clinical research on psilocybin for treating mental health conditions, including depression, anxiety, PTSD, addiction, and end-of-life distress. (see [[psilocybin-clinical-trials]]).
+The clinical research on psilocybin for treating mental health conditions, including depression, anxiety, PTSD, addiction, and end-of-life distress.
 
 ## Overview
 
-Modern clinical research into psilocybin-assisted therapy represents a renaissance following decades of prohibition. Since the early 2000s, research centers at institutions including Johns Hopkins, Imperial College London, NYU, and UCLA have conducted controlled clinical trials demonstrating significant therapeutic potential across multiple conditions. (see [[roland-griffiths]]).
+Modern clinical research into psilocybin-assisted therapy represents a renaissance following decades of prohibition. Since the early 2000s, research centers at institutions including Johns Hopkins, Imperial College London, NYU, and UCLA have conducted controlled clinical trials demonstrating significant therapeutic potential across multiple conditions.
 
 ## Depression
 
@@ -37,7 +37,7 @@ The most extensively studied application. Key findings:
 
 ### Mechanism
 
-Psilocybin's antidepressant effect is attributed to the **suppression of the Default Mode Network**, which in depressed individuals is often hyperactive and associated with excessive rumination and rigid negative self-referential thinking. The ego-dissolution experience may allow patients to step outside entrenched depressive thought patterns, while the neuroplastic changes triggered by psilocybin create a window for lasting change.
+Psilocybin's antidepressant effect is attributed to the **suppression of the [[default-mode-network-and-ego-dissolution]]**, which in depressed individuals is often hyperactive and associated with excessive rumination and rigid negative self-referential thinking. The ego-dissolution experience may allow patients to step outside entrenched depressive thought patterns, while the neuroplastic changes triggered by psilocybin create a window for lasting change.
 
 ## End-of-Life Anxiety and Depression
 
@@ -53,7 +53,7 @@ One of the earliest and most consistently successful applications:
 Psilocybin has shown promise for treating various forms of addiction:
 
 ### Alcohol Use Disorder
-- A pilot study at NYU (2015) found that psilocybin-assisted treatment significantly reduced drinking behavior in patients with alcohol dependence, with effects persisting at 36-week follow-up.
+- A pilot study at NYU (2015) found that psilocybin-assisted treatment significantly reduced drinking behavior in patients with [[cannabis-for-alcohol-dependence]], with effects persisting at 36-week follow-up.
 - Participants reported that the psychedelic experience changed their relationship with alcohol, reducing craving and increasing motivation for abstinence.
 
 ### Nicotine/Tobacco Addiction
@@ -70,7 +70,7 @@ A small pilot study at the University of Arizona (2006) found that psilocybin re
 
 - The FDA granted Breakthrough Therapy designation for psilocybin in PTSD in 2022.
 - Research is ongoing; early evidence suggests psilocybin may help patients process traumatic memories by allowing emotional engagement without being overwhelmed by fear or avoidance.
-- Psilocybin's ability to promote emotional processing and neuroplasticity may complement existing trauma-focused therapies.
+- Psilocybin's ability to promote [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] and neuroplasticity may complement existing trauma-focused therapies.
 
 ## The Therapeutic Model
 
@@ -88,18 +88,40 @@ This model emphasizes **set and setting** -- the psychological preparation and t
 - Australia's Therapeutic Goods Administration approved psilocybin for prescribed use in treatment-resistant depression in 2023.
 - Oregon's licensed psilocybin therapy program became operational in 2023.
 - Colorado's regulated psilocybin program is being implemented following the 2022 passage of Proposition 122.
-- The Multidisciplinary Association for Psychedelic Studies (MAPS) and the Usona Institute are among the leading organizations conducting clinical trials.
+- The [[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies (MAPS) and the Usona Institute are among the leading organizations conducting clinical trials.
 
 ## Limitations and Considerations
 
-- Psilocybin is not appropriate for individuals with personal or family history of psychosis or bipolar disorder.
+- Psilocybin is not appropriate for individuals with personal or family history of psychosis or [[blesching-cannabis-bipolar-disorder]].
 - The therapeutic effects depend heavily on the therapeutic model and the skill of the guides/therapists.
 - Long-term effects and optimal dosing protocols are still being studied.
 - Most studies to date have been small; larger Phase 3 trials are needed for full regulatory approval.
 
+
+## Practical Considerations
+Implementation requires careful attention to local conditions,
+available resources, and the specific goals of the practitioner.
+Documenting results and adapting approaches based on observed
+outcomes leads to continuous improvement over time.
+
+
+## Integration Strategies
+Combining multiple approaches often yields better results than
+relying on any single technique. Consider how this topic relates
+to broader system design and look for synergies between methods
+that can amplify overall effectiveness.
+
+
+## See Also
+- [[metzner-ayahuasca-therapeutic-potential]]
+- [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
+- [[cannabis-sativa-vs-indica-therapeutic-differences-blesching]]
+- [[cannabis-sativa-vs-indica-therapeutic-differences]]
+- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
 ## Related Topics
 
 - [[psilocybin-psychological-mechanisms]] for the neuroscience
 - [[psychedelic-integration-practices]] for post-session integration
-- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
+- [[psychedelic-mushroom-set-and-setting]] for the set [[set-and-setting-framework]]
 - [[psychedelic-harm-reduction]] for safety considerations
+

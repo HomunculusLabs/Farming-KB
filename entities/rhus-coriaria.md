@@ -11,7 +11,7 @@ tags:
   - medicinal-plant
   - mediterranean
   - middle-eastern-cuisine
-  - permaculture
+  - [[permaculture]]
   - drought-tolerant
   - antioxidant
   - traditional-medicine
@@ -88,52 +88,7 @@ The spice has a tart, astringent, fruity flavor reminiscent of lemon, though mor
 and less acidic. The primary souring compounds are malic and citric acids, which constitute
 up to 20% of the dried fruit weight.
 
-### Culinary Applications
-
-- **Za'atar blend:** Sumac mixed with thyme, sesame seeds, and salt — the iconic Middle Eastern
-  spice mixture used on flatbreads, eggs, and roasted vegetables.
-- **Meat and fish:** Sprinkled on grilled meats, kebabs, and fish as a finishing spice.
-- **Salads and dips:** Added to fattoush, hummus, and other mezze dishes for acidity and color.
-- **Beverages:** Sumac-ade (a refreshing infusion) is consumed throughout the Levant.
-- **Pickling:** Used as a souring agent in some pickle recipes.
-
-## Bioactive Compounds
-
-The fruits are rich in bioactive phytochemicals:
-
-- **Anthocyanins:** Delphinidin-3-galactoside and cyanidin-3-galactoside are the primary
-  pigments responsible for the red color.
-- **Tannins:** Gallotannins and ellagitannins (including corilagin, chebulagic acid, and
-  punicalagin) contribute astringency and antioxidant activity.
-- **Organic acids:** Malic acid (primary), citric acid, and ascorbic acid provide tartness.
-- **Flavonoids:** Quercetin, myricetin, kaempferol, and their glycosides.
-- **[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]:** The [[permaculture-designers-manual-essential-oil-plants]] contains alpha-pinene, beta-caryophyllene, and
-  limonene.
-
-## Pharmacology and Health Effects
-
-Traditional uses include treatment of digestive complaints, wound healing, and fever reduction.
-Modern research supports several bioactivities:
-
-- **Antioxidant activity:** Sumac extracts show potent radical-scavenging activity, exceeding
-  that of many common spices in ORAC and DPPH assays.
-- **Antibacterial:** Demonstrated activity against *Staphylococcus aureus*, *Salmonella*,
-  and *E. coli* in vitro.
-- **Anti-inflammatory:** Gallotannins inhibit COX-2 and NF-kB signaling pathways.
-- **Hypoglycemic effect:** Animal studies show blood sugar reduction; human trials are limited.
-- **Anticancer:** Preliminary in vitro studies show antiproliferative effects on [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
-  lines, attributed to anthocyanin and tannin content.
-
-## Permaculture Applications
-
-*Rhus coriaria* is well-suited to dryland permaculture systems. Its extensive root network
-prevents erosion on degraded hillsides. It provides windbreak, wildlife habitat, and
-pollinator forage. The multi-use harvest (spice, dye, tannin) makes it economically valuable
-in agroforestry. It serves as a nurse plant for establishing [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and understory
-crops in Mediterranean food forests.
-
 ## See Also
-
-- [[pistacia-lentiscus]]
-- [[piper-nigrum-entity]]
-- [[capsicum-annuum]]
+- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]
+- [[shanshi-coriaria-thymifolia-andean-entheogen]]
+- [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]

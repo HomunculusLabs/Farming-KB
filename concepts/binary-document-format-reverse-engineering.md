@@ -1,5 +1,5 @@
 ---
-title: Binary binary [[document-format-conversion-fidelity]] reverse engineering Reverse Engineering
+title: Binary Document Format Reverse Engineering
 created: 2026-04-28
 tags: [reverse-engineering, file-formats, document-processing,
       data-recovery, legacy-systems]
@@ -17,7 +17,7 @@ Binary document format reverse engineering is the process of analyzing
 proprietary file formats used by word processors, spreadsheets, and other
 applications to extract structured data without access to official format
 documentation. This practice is essential for data migration, digital
-preservation, forensic analysis, and building interoperability tools.
+preservation, [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]], and building interoperability tools.
 
 ## Motivation
 
@@ -89,9 +89,8 @@ metadata extraction, and `Kaitai Struct` for declarative binary format
 description and parsing.
 
 ## See Also
-
-- [[microsoft-word-document-format]]
-- [[japanese-document-processing]]
 - [[microsoft-word-document-format-history]]
-- ole2 compound binary file format
-- ole2 compound binary file format
+- [[microsoft-word-document-format]]
+- [[document-format-conversion-fidelity]]
+- [[fukuoka-document-processing-research]]
+- [[document-automation-administration]]

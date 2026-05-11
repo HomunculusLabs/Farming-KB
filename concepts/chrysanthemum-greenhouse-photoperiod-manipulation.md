@@ -88,39 +88,3 @@ incomplete phytochrome conversion.
 ## Synchronous Flowering and Harvest
 
 One of the major commercial advantages of photoperiod manipulation is the
-ability to produce an entire crop that flowers simultaneously. When
-night-interruption lighting is withdrawn uniformly across a greenhouse, all
-plants transition from vegetative to [[knf-reproductive-growth-stage]] at the same time,
-producing a synchronized flush of flowers that can be harvested in a single
-pass. This synchronization dramatically reduces labor costs compared to
-repeated spot-harvesting of plants flowering at different times, and it
-ensures a consistent product for market.
-
-## Economic Impact
-
-Chrysanthemum photoperiod manipulation transformed the global floriculture
-industry by making year-round production economically viable. Before the
-development of controlled-environment flowering techniques, chrysanthemums
-were available only seasonally, and prices fluctuated dramatically with
-supply. The ability to schedule flowering for specific market windows such
-as Mother's Day, Valentine's Day, and other holidays stabilizes supply,
-reduces waste, and maximizes the return per square meter of greenhouse
-space. Modern operations can program multiple [[cannabis-flowering-cycles]] per year from
-the same facility.
-
-## Photoperiod Response Groups in Cultivars
-
-Not all chrysanthemum cultivars share identical photoperiod requirements.
-Breeders have developed response groups classified by the number of short
-days needed to reach flowering, typically ranging from 6 to 10 weeks. Early-
-season cultivars may require as few as 7 to 8 short days before flower bud
-initiation, while late-season types need 10 to 12 weeks of short days.
-Growers select cultivars based on their target harvest date and available
-greenhouse infrastructure, matching the response group to the desired
-production schedule. This cultivar diversity allows staggered planting and
-harvesting programs that maximize greenhouse utilization across the calendar
-year.
-
-## See Also
-
-- [[commercial-photoperiod-manipulation-agriculture]]

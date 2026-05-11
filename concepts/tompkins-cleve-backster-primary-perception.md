@@ -1,7 +1,7 @@
 ---
-title: Tompkins tompkins [[cleve-backster]] primary perception Primary Perception
+title: Tompkins [[cleve-backster]] Primary Perception
 created: 2026-04-28
-tags: [plant-perception, backster-effect, galvanometer, esp, polygraph,
+tags: [[plant-perception]], backster-effect, galvanometer, esp, polygraph,
       consciousness, plant-intelligence]
 date: 2026-04-25
 updated: 2026-04-25
@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-Cleve Backster was America's foremost lie-detector examiner whose chance
+[[cleve-backster-plant-perception-experiments]] was America's foremost lie-detector examiner whose chance
 experiment in 1966 opened a scientific Pandora's box. Working late in his
 polygraph school in Times Square, Backster attached electrodes from one of
 his lie detectors to the leaf of a Dracaena massangeana, a tropical plant
@@ -88,36 +88,3 @@ plants showed similar reactions to Backster's minor emotional
 adventures among the crowd.
 
 ## The Concept of Primary Perception
-
-Backster rejected the term ESP, reasoning that since plants lack eyes,
-ears, or a nervous system, their perceiving faculty must be more
-fundamental than the five human senses. He hypothesized that the five
-senses might be limiting factors overlying a "primary perception"
-common to all nature. Plants might "see better without eyes" than
-humans do with them. Under normal circumstances, plants seem attuned
-to animal life rather than to other plants, since mobile beings require
-careful monitoring.
-
-## Scientific Implications
-
-The Backster Effect challenged the fundamental assumption that plants
-are unfeeling automatons. While controversial, the experiments
-suggested that some form of communication exists between living
-organisms that operates beyond currently understood physical laws.
-The phenomenon seemed to work on a multi-input basis operating beyond
-conventional sensory mechanisms, implying a "paranormal matrix" that
-binds all life together in a unique communications grid. Backster
-wisely avoided publicity and concentrated on establishing the
-scientific bona fides of his discovery, never claiming a new finding
-but rather an uncovering of what had been known and forgotten.
-
-## Related Topics
-
-- [[tompkins-plant-electrical-signals]] for the broader study of
-  bioelectrical phenomena in plants
-- [[tompkins-plant-perception-experiments]] for the scientific
-  community's response to the Backster Effect
-
-## See Also
-
-- [[cleve-backster-plant-perception-experiments]]

@@ -2,7 +2,7 @@
 title: "masanobu-fukuoka-natural-farming-philosophy fukuoka-do-nothing-farming-philosophy-and-practice — Refined (Sowing Seeds in the Desert)"
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
+sources: "masanobu-fukuoka-natural-farming-philosophy, Sowing Seeds in the Desert (Chelsea Green, 2012)"
 wikilinks: "fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-clay-seed-ball-preparation fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-natural-farming-climate-change fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-do-nothing-farming fukuoka-road-back-to-nature-overview"
 type: concept
 tags: [fukuoka, natural-farming]
@@ -35,10 +35,10 @@ nature, and the only deity he would ever worship.
 ## Non-Intervention vs. Abandonment
 
 Fukuoka's first attempt to practice his insight was a "magnificent failure." He
-let nature have a free hand in his father's citrus orchard — he failed to prune
+let nature have a free hand in his father's [[fukuoka-citrus-orchard-establishment-bare-hillside]] — he failed to prune
 the trees, [[solomon-insects-and-diseases-integrated-approach]] appeared, and he wiped out more than two hundred
 trees. This taught him the critical distinction between non-intervention and
-taking human responsibility. It was not natural farming; it was abandonment.
+taking human responsibility. It was not [[cho-loess-powder-in-natural-farming]]; it was abandonment.
 Natural farming requires human presence and active observation, but it rejects
 the idea that human manipulation improves upon nature's processes.
 
@@ -47,7 +47,7 @@ the idea that human manipulation improves upon nature's processes.
 One principle Fukuoka followed as he developed his farming technique was to
 consider how one could do as little as possible. This was not laziness but the
 belief that if nature were given the opportunity, it would do everything on its
-own. His method was the opposite of modern agriculture's approach. Instead of
+own. His method was the opposite of [[fukuoka-critique-modern-agriculture]]'s approach. Instead of
 asking "How about doing this?" or "How about doing that?" he asked "How about
 not doing this? How about not doing that?" He ultimately concluded there was no
 need to plow, no need to apply fertilizer, no need to make compost, no need to
@@ -76,7 +76,7 @@ Fukuoka proposed that the commonsense understanding of time as a linear flow
 from past through present to future is an artifact of human measurement.
 Transcendent time is a continuous moment of the present. When one sees and
 operates within that time, it is the unity of all things that is perceived. He
-proposed a "Dharma Wheel Theory of Flux in All Things" as an alternative to
+proposed a "[[fukuoka-dharma-wheel-theory-evolution]] of Flux in All Things" as an alternative to
 Darwin's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] selection. Nature expands in all directions,
 three-dimensionally, and at the same time contracts and converges. Its center is
 forever motionless and forever one.
@@ -87,32 +87,4 @@ Larry Korn, Fukuoka's translator, explained that when people asked Fukuoka
 whether natural farming could be mixed with conventional or organic practices,
 he was adamant that it could not. One either lives in the absolute world of
 nature, or in the fantasy world of human thoughts. There is no middle ground.
-This philosophical absolutism is the key distinction between natural farming and
-[[coleman-deep-organic-farming-philosophy]], which Fukuoka saw as merely a lesser form of the same mistake —
-still imposing human judgment on natural processes.
-
-## The Philosophy Is Everything
-
-Fukuoka told his students repeatedly that the philosophy was everything, and the
-farming was merely an example of the philosophy. "If you do not understand the
-philosophy," he said, "the rest becomes empty activity." This book, "Sowing
-Seeds in the Desert," is his most explicit philosophical statement, detailing
-the worldview from which all his farming practices and his plan for revegetating
-the world's deserts proceed directly.
-
-## The True Meaning of Nature
-
-In nature, Fukuoka argued, there are no beneficial or harmful insects. Plants,
-people, butterflies, and dragonflies appear separate but each is an equal
-participant. They share the same mind and life spirit. They form a single living
-organism. To speak of creatures as [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], harmful insects,
-pathogenic bacteria, or troublesome birds is like saying the right hand is good
-and the left hand is bad. Nature is an endless cycle in which all things
-participate in the same dance of life and death.
-
-## See Also
-
-- [[fukuoka-sowing-natural-farming-climate-change]] — Natural farming as response
-to global [[fukuoka-road-do-nothing-farming]] — Earlier
-articulation of do-nothing farming from The Road Back to Nature -
-[[fukuoka-road-back-to-nature-overview]] — Overview of Fukuoka's earlier book
+This philosophical absolutism is the key distinction between [[korean-natural-farming]]

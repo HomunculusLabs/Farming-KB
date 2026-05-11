@@ -20,7 +20,7 @@ Campanula cenisia, commonly known as the Cenis bellflower or Mont Cenis harebell
 
 The species is named after Mont Cenis, a pass in the Cottian Alps between France and Italy where it was first described. It is one of the most compact Campanula species, rarely exceeding 5 cm in height.
 
-Campanula cenisia is prized in rock gardens and alpine troughs for its neat habit and floriferous display. Its compact growth and tolerance of harsh conditions make it a reliable choice for cultivated alpine settings.
+Campanula cenisia is prized in rock gardens and alpine troughs for its neat habit and floriferous display. Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and tolerance of harsh conditions make it a reliable choice for cultivated alpine settings.
 
 It belongs to the section Rapunculus of the genus Campanula, a group of predominantly Eurasian species with rotate-campanulate corollas. Within this section, C. cenisia is distinguished by its scapose stems and cushion-forming habit.
 
@@ -66,13 +66,13 @@ It has not been recorded from the Dolomites or other predominantly limestone Alp
 
 ## Ecology
 
-Campanula cenisia flowers from July to August, coinciding with the brief alpine growing season. Flowers are visited by small solitary bees and flies adapted to the alpine environment.
+Campanula cenisia flowers from July to August, coinciding with the brief alpine [[extending-growing-season]]. Flowers are visited by small [[comparison-honey-bees-vs-native-solitary-bees]] and flies adapted to the alpine environment.
 
 The cushion growth form traps warmth and reduces wind exposure, creating a favorable microclimate. This trait is shared with many high-altitude specialists in the Alps.
 
 Temperature within the cushion can be 5–10 °C above ambient air temperature on sunny days. This warming effect accelerates seed development and extends the effective growing period.
 
-The species reproduces primarily by seed, with limited vegetative spread through slow lateral growth of rosettes. Seed dispersal occurs through wind shaking the upright capsules.
+The species reproduces primarily by seed, with limited vegetative spread through slow lateral growth of rosettes. [[clay-pellet-seed-dispersal]] occurs through wind shaking the upright capsules.
 
 Seed viability is high (typically 70–85% germination after stratification), reflecting adaptation to the unpredictable alpine environment. Seedlings establish in microsites where fine sediment accumulates between rock fragments.
 
@@ -82,39 +82,8 @@ Campanula cenisia co-occurs with other acidophile alpines including [[gentiana-a
 
 Campanula cenisia requires well-drained, gritty, acidic to neutral soil in full sun. It is hardy to USDA zone 4, tolerating deep frost and snow cover without damage.
 
-Propagation is by seed sown in late winter or by division of established cushions in early spring. Seeds require cold stratification for 4–6 weeks to germinate reliably.
+Propagation is by seed sown in late winter or by division of established cushions in [[coleman-overwintered-onions-and-early-spring-crops]]. Seeds require cold stratification for 4–6 weeks to germinate reliably.
 
 Seedlings grow slowly and may take 3–4 years to reach flowering size. This slow development reflects the resource-limited alpine environment to which the species is adapted.
 
-In cultivation, the species resents winter wet and root disturbance. It performs best in trough gardens, crevice plantings, and raised beds with sharp drainage.
-
-The plant is long-lived once established, forming tight mounds to 10 cm across over several years. It is notably resistant to slug and snail damage compared to larger Campanula species.
-
-Campanula cenisia has received the Royal Horticultural Society's Award of Garden Merit (AGM), confirming its reliability in cultivation. It is sometimes offered by specialist alpine nurseries under the name "Cenis harebell."
-
-The species is occasionally confused with Campanula cochlearifolia in cultivation, but C. cenisia is distinguished by its larger flowers, more compact cushion habit, and preference for acidic substrates. Both species may be grown together in a mixed alpine trough for contrasting textures.
-
-## Conservation
-
-Campanula cenisia is classified as Least Concern globally due to its occurrence across multiple Alpine protected areas. However, climate warming may shift suitable habitat upward, reducing available area.
-
-The species is locally rare at the edges of its range in the northern Apennines. Small, isolated populations there are vulnerable to grazing pressure and habitat degradation.
-
-Collection from wild populations for horticultural use has been reported but is not currently a major threat. Most cultivated material derives from seed-grown nursery stock.
-
-The small, rare populations in the northern Apennines may warrant subspecific recognition based on preliminary morphometric data. Taxonomic study of these peripheral populations is ongoing.
-
-Monitoring of Alpine plant communities under long-term climate plots has documented upward range shifts of 20–30 meters per decade in related species. Campanula cenisia, already restricted to higher elevations, has limited room for further upslope migration.
-
-## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-cochlearifolia]]
-- [[campanula-barbata]]
-- [[gentiana-acaulis]]
-- [[campanula-zoysii]]
-- [[campanula-raineri]]
-- [[primula-auricula]]
-- [[ranunculus-glacialis]]
-- [[campanula-persicifolia]]
-- [[campanula-garganica]]
+In cultivation, the species resents winter wet and root disturbance. It performs best in trough gardens, crevice plantings, [[sepp-holzer-terrace-systems-and-raised-beds]] with sharp drainage.

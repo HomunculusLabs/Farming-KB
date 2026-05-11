@@ -44,6 +44,30 @@ The book opens with a quote from M.C. Cooke's *British Fungi* (1871): "It is ind
 - *The Amoeba in the Room* (2014) — Microbial life
 - *Fungi: A Very Short Introduction* (2016) — Oxford University Press
 
+## Teaching and Academic Role
+
+As professor of botany at Miami University in Oxford, Ohio, Money taught courses on
+mycology, microbiology, and plant biology for over two decades. He served as department
+chair and mentored numerous graduate students in fungal biomechanics. His teaching
+philosophy emphasized storytelling as a vehicle for scientific understanding — a approach
+that directly shaped his popular books.
+
+## Writing Style and Influence
+
+Money's prose is distinctive in scientific writing for its literary quality. He employs
+humor, historical anecdote, and vivid metaphor without sacrificing accuracy. Critics have
+compared his style to that of Stephen Jay Gould — blending deep expertise with narrative
+accessibility. His willingness to address the human side of science, including the
+eccentricities and rivalries of early mycologists, gives his work unusual warmth.
+
+## Recognition
+
+Money received the Fellow of the American Association for the Advancement of Science
+designation and has been featured in documentary films about fungi. His 2011 book
+*Mushroom* was selected as one of the best science books of the year by multiple outlets.
+He continues to advocate for fungal conservation and the recognition of fungi as a
+separate kingdom deserving of dedicated ecological protection.
+
 ## Legacy
 
 Money's ability to explain complex mycological concepts in vivid, literary prose has made him one of the most effective science communicators in mycology. His documentation of [[buller-ahr]]'s and [[ingold-cecil-t]]'s work ensures their contributions remain accessible to new generations.

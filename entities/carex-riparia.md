@@ -53,11 +53,11 @@ In the British Isles, it is most abundant in lowland areas of southern and centr
 
 The species is strongly associated with permanently moist to waterlogged soils along rivers, streams, lakes, and canals. It tolerates shallow standing water for extended periods and is characteristic of tall-herb fen communities.
 
-It is a dominant species of the Magnocaricion alliance, a community type of eutrophic tall-herb fens. It frequently co-occurs with Phragmites australis, Typha latifolia, and Carex acutiformis.
+It is a dominant species of the Magnocaricion alliance, a community type of eutrophic tall-herb fens. It frequently co-occurs with [[phragmites-australis]], [[typha-latifolia]], and Carex acutiformis.
 
 Soil preference is for mineral-rich, moderately calcareous substrates with high organic matter content. It thrives in eutrophic conditions and may decline under extreme oligotrophy.
 
-Annual above-ground productivity can reach 800 to 1,200 grams per square metre in optimal conditions, making it one of the most productive temperate sedge species. This high productivity underpins its value in constructed wetland systems.
+Annual above-ground productivity can reach 800 to 1,200 grams per square metre in optimal conditions, making it one of the most productive temperate sedge species. This high productivity underpins its value in [[comparison-constructed-wetland-vs-backyard-pond]] systems.
 
 ## Ecology
 
@@ -73,45 +73,18 @@ Carex riparia supports a rich invertebrate fauna, including sedge-specialist mot
 
 The species is moderately tolerant of shading but achieves maximum vigour in full sun. In successional wetlands, it is eventually replaced by reedbed communities dominated by Phragmites australis.
 
-Water depth tolerance ranges from saturated soils to approximately 50 centimetres of standing water during the growing season. Deeper or more prolonged inundation reduces vigour and may lead to local dieback.
+Water depth tolerance ranges from saturated soils to approximately 50 centimetres of standing water during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Deeper or more prolonged inundation reduces vigour and may lead to local dieback.
 
 Winter hardiness is excellent across its range. The rhizome system survives prolonged freezing and regrows rapidly in spring once soil temperatures exceed 5 degrees Celsius.
 
 ## Cultivation and Uses
 
-Carex riparia is used in constructed wetland and wastewater treatment systems across Europe. Its vigorous growth, deep root system, and tolerance of fluctuating water levels make it effective at nutrient removal.
+Carex riparia is used in constructed wetland and [[constructed-wetland-design]] systems across Europe. Its vigorous growth, deep root system, and tolerance of fluctuating water levels make it effective at nutrient removal.
 
 Propagation is primarily vegetative, through division of rhizome sections in early spring. Seed germination is possible but erratic, requiring cold stratification and exposure to light.
 
-The species is available from specialist wetland plant nurseries and is widely planted in ecological engineering projects, including stormwater detention basins, sewage treatment wetlands, and riverbank stabilisation schemes.
+The species is available from specialist wetland plant nurseries and is widely planted in ecological engineering projects, including stormwater detention basins, sewage [[mollison-designers-wastewater-treatment-wetlands]], and riverbank stabilisation schemes.
 
 Historically, the leaves were used for thatching in some rural European communities, though Phragmites australis was generally preferred. The robust culms were occasionally used for rough binding.
 
 No pharmacological properties have been documented. The species has no known applications in herbal or conventional medicine.
-
-The species shows moderate tolerance of heavy metals in contaminated soils, making it a candidate for phytoremediation in industrial brownfield wetland restoration. However, growth rates are reduced in severely contaminated substrates.
-
-Conservation status is generally secure across much of its range, though it has declined significantly in heavily drained agricultural landscapes. It is protected under regional conservation legislation in several European countries.
-
-## Related Species
-
-Carex riparia is most closely related to Carex acutiformis, from which it can be distinguished by its larger overall stature, longer female spikes on longer peduncles, and broader leaves with non-fibrillose sheaths.
-
-Carex rostrata is a species of deeper water with distinctly beaked utricles. Carex rostrata typically occupies floating mats and quaking bog margins rather than firm riparian substrates.
-
-Carex vulpina is shorter and more slender, with shorter, more reddish-brown female spikes. Carex vulpina favours more eutrophic and disturbed habitats compared to the stream sedge.
-
-Carex paniculata forms very large, dome-shaped tussocks in fens and ditches. Its inflorescence is more compact and paniculate, and the plant tends to grow in more oligotrophic conditions than Carex riparia.
-
-## See Also
-
-- [[carex-vulpina]]
-- [[carex-rostrata]]
-- [[carex-nigra]]
-- [[carex-paniculata]]
-- [[carex-hirta]]
-- [[carex-stricta]]
-- [[carex-vesicaria]]
-- [[carex-flacca]]
-- [[carex-pilulifera]]
-- [[scirpus-cyperinus]]

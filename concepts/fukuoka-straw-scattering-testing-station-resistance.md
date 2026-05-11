@@ -1,16 +1,17 @@
 ---
-title: Fukuoka: Straw Scattering Method and Testing Station Resistance
+title: Fukuoka Straw Scattering Testing Station Resistance
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, natural-farming, philosophy]
+tags: [fukuoka, [[natural-farming]], philosophy]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 ## The Simple Act of Scattering Straw
 
-Fukuoka's method of returning rice straw to the fields is deceptively simple but was met with decades of resistance from agricultural institutions. The basic practice is this: after the rice is harvested and threshed, scatter the straw back over the field uncut. The more disorderly the scattered straw, the better. The barley grows up through the spaces left between the straw. The layer of straw should be thick. It is best to return all the straw to the field, whether you have three, four, or five hundred pounds of it.
+Fukuoka's method of returning [[fukuoka-rice-straw-mulch-central-technique]] to the fields is deceptively simple but was met with decades of resistance from agricultural institutions. The basic practice is this: after the rice is harvested and threshed, scatter the straw back over the field uncut. The more disorderly the scattered straw, the better. The barley grows up through the spaces left between the straw. The layer of straw should be thick. It is best to return all the straw to the field, whether you have three, four, or five hundred pounds of it.
 
 - Just scatter it all, right over the barley shoots
 
@@ -20,7 +21,7 @@ Fukuoka's method of returning rice straw to the fields is deceptively simple but
 
 - When he asked Fukuoka why not, he was told that he had laid the straw down too tidily
 
-- One does not arrange the rice straw carefully, tie it up in bundles, or cut it up
+- One does not arrange the [[fukuoka-rice-straw-mulch-fertility-cycle]] carefully, tie it up in bundles, or cut it up
 
 - It has to be scattered loosely
 
@@ -48,7 +49,7 @@ Before Fukuoka demonstrated otherwise, farmers in Hokkaido were all told to burn
 
 - It was hellish work, yet the farmers went at it earnestly
 
-Fukuoka, who was a plant pathologist by training, tried isolating the agents of rice blast disease and other infectious pathogens from fallen leaves. But he never succeeded. The fact that he, who was good at isolating pathogens, failed to do so could only mean that the pathogens were dead. If they were dead, then it was okay to return the straw to the fields.
+Fukuoka, who was a plant pathologist by training, tried isolating the agents of [[fukuoka-textdoc-non-causality-rice-blast-disease]] and other infectious pathogens from fallen leaves. But he never succeeded. The fact that he, who was good at isolating pathogens, failed to do so could only mean that the pathogens were dead. If they were dead, then it was okay to return the straw to the fields.
 
 ## The Nine-Year Delay at Ehime Testing Station
 
@@ -87,46 +88,3 @@ It took five years for other plant pathologists to come to the same conclusion F
 - All this time Fukuoka had been waiting for others to try these things out for themselves
 
 - Unfortunately, government research centers and universities do not do studies of this sort; they work only in the opposite direction
-
-## Direct-Seeded No-Till Complete Method
-
-Fukuoka described his complete method in detail:
-
-- In early October, take no more than a pint of [[cannabis-flushing-before-harvest]] ing the rice, take four to ten quarts of barley seed, place it in a basket, and scatter it over the field
-
-- This also takes about an hour
-
-- After the rice is harvested and threshed, scatter the straw back over the field uncut
-
-- For rice seed, scatter it from mid-November to January
-
-- First you have clover, then barley growing, then rice sown on top
-
-- Stay out of the fields until it is time to cut the barley
-
-- One hour to sow the seed, two or three hours to scatter the straw, and seeding is over
-
-- Keep out of the field until harvest time
-
-- If you want yields over 20 bushels per quarter-acre, apply chicken manure -- but do not apply anything else
-
-- Take home the grain but make sure to return all the hulls to the field
-
-- Do not take out so much as a single barley or rice straw
-
-## The Best Yields at Ehime Station
-
-Fukuoka noted that the method getting the highest yields at the Ehime Prefectural Agriculture Testing Station was direct-seeded, no-till cultivation.
-
-- The grain was winter-seeded, sown in October and December
-
-- Both barley and rice were seeded together
-
-- This method was very similar to what Fukuoka first reported in 1961
-
-- It took researchers in Ehime and Aichi Prefecture a while, but a few finally gave it a try
-
-## Testing Stations Still Resist [[fukuoka-straw-scattering-controversy-plant-pathology]]
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.

@@ -17,7 +17,7 @@ type: concept
 # Soil Flushing and Nutrient Leaching
 
 Soil flushing is an emergency corrective technique used when cannabis
-plants develop severe nutrient problems that cannot be resolved through
+plants develop severe [[query-how-to-read-cannabis-plants-for-nutrient-problems]] that cannot be resolved through
 normal feeding adjustments. [[green-cannabis-grow-bible-nutrient-management-ppm]] where it cannot access essential elements.
 - pH levels have drifted far outside the acceptable range and cannot be
   corrected through normal pH adjustment methods.
@@ -63,9 +63,9 @@ For containers without drainage, a more involved procedure is required:
 
 ### Survival Rate
 
-Greg Green notes that very few plants survive an emergency soil flush.
+[[greg-green]] notes that very few plants survive an emergency soil flush.
 The procedure causes the plant a great deal of shock because it
-effectively strips the growing medium of all nutrients -- both the
+effectively strips the [[cervantes-green-algae-growing-medium]] of all nutrients -- both the
 harmful excess and the beneficial elements the plant needs.
 
 ### Recovery Timeline
@@ -87,41 +87,3 @@ The best approach is to avoid situations that require emergency flushing:
 - Follow proper [[green-cannabis-grow-bible-nutrient-management-ppm]]
   regularly to prevent drift into dangerous ranges.
 - Use quality [[nutrient-lockout]]
-
-Flushing is sometimes attempted as a remedy for [[cannabis-nutrient-lockout-and-ph]] -- a
-condition where the plant cannot access nutrients due to chemical
-reactions in the medium. Lockout can be caused by:
-
-- pH problems that prevent [[plant-nutrient-uptake-mechanisms]].
-- Chemical reactions creating toxic substances that block roots.
-- Reactions that change the chemical properties of other nutrients.
-- Contaminants introduced into the growing solution.
-
-While flushing may help in some lockout situations, Greg Green notes that
-the most reliable cure is often a complete transplant into fresh soil or
-fresh hydroponics solution, especially when the cause of lockout is
-unknown.
-
-## Pre-Harvest Flushing
-
-Many growers also perform a lighter flush in the final one to two weeks
-before harvest. This is different from the emergency flush -- it involves
-watering with plain, pH-balanced water (no nutrients) to allow the plant
-to use up stored nutrients in its tissues. The goal is to improve the
-smoothness of the final smoke by reducing residual nutrient salts in the
-bud. This practice is widely debated but commonly employed.
-
-## Summary
-
-Soil flushing is an emergency technique that involves running large
-volumes of water through the growing medium to remove excess nutrients,
-salts, and contaminants. It is a drastic measure with a low survival
-rate that should only be attempted as a last resort. The procedure
-involves repeatedly saturating the soil and monitoring the runoff until
-it runs clear. Plants that survive require approximately two weeks to
-
-## See Also
-
-- [[green-cannabis-soil-mixes]]
-
-- [[cannabis-soil-and-nutrients]]

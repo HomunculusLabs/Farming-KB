@@ -75,72 +75,16 @@ Datura innoxia contains tropane alkaloids characteristic of the
 genus Datura and the broader Solanaceae family. The principal
 active compounds are:
 
-- **Scopolamine (hyoscine):** A tropane alkaloid with potent
+- **[[scopolamine]] (hyoscine):** A tropane alkaloid with potent
   anticholinergic properties. Scopolamine is the primary
   psychoactive agent in many Datura species, producing
   deliriant effects including hallucinations, amnesia, and
   dissociative states.
 
-- **Hyoscyamine:** The levorotatory isomer of atropine,
+- **[[hyoscyamine]]:** The levorotatory isomer of [[atropine]],
   hyoscyamine acts as a competitive antagonist of muscarinic
   acetylcholine receptors, contributing to the anticholinergic
   toxidrome associated with Datura ingestion.
 
 - **Atropine:** The racemic mixture of hyoscyamine, atropine
   is a well-known anticholinergic alkaloid with effects on the
-  central nervous system including mydriasis (pupil dilation),
-  tachycardia, and in high doses, delirium and hallucinations.
-
-The tropane alkaloid content varies significantly depending on
-the plant part, growing conditions, and developmental stage.
-All parts of the plant are considered toxic, with the seeds and
-leaves typically containing the highest concentrations of active
-alkaloids.
-
-## Ethnobotanical Uses
-
-Datura innoxia is known as Toloache to the indigenous peoples of
-Mexico and the American Southwest. The name derives from the
-Nahuatl language and has been applied to several Datura species
-used in Mesoamerican ethnomedicine.
-
-Traditional uses of Toloache are diverse and deeply rooted in
-indigenous cultural practice:
-
-- **Puberty rites:** Among several Mexican and Southwestern
-  tribes, Toloache was administered to adolescents during
-  initiation ceremonies marking the transition to adulthood.
-
-- **Divination:** Shamans and ritual specialists used Toloache
-  to induce visionary states for prophetic purposes, seeking
-  guidance from spirits regarding communal decisions, hunting
-  success, and future events.
-
-- **Healing ceremonies:** The plant was employed in the treatment
-  of various ailments, and its psychoactive effects were believed
-  to help healers diagnose the spiritual causes of disease.
-
-The Solanaceae represents one of the most highly evolved families
-of the flowering plants, and Datura species exemplify the
-extraordinary chemical complexity that can arise from this
-advanced lineage.
-
-## Cultural Significance
-
-In some [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]], the Toloache plant is believed
-to be inhabited by a malevolent spirit, reflecting the dangerous
-and unpredictable nature of its effects. The line between
-medicine and poison is exceptionally thin with Datura species,
-and improper use can lead to severe anticholinergic toxicity,
-including hospitalization and death.
-
-This ambivalent relationship, combining reverence and fear,
-is characteristic of many powerful psychoactive plants in
-indigenous pharmacopoeias worldwide.
-## See Also
-- [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-- [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-- [[datura-metel]]
-- [[duboisia-hopwoodii]]
-- tropane-alkaloids
-- Scopolamine

@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Rubus ursinus is a deciduous trailing bramble native to western North America.
+Rubus ursinus is a deciduous trailing bramble native to western [[guzman-psilocybin-mushrooms-north-america]].
 
 It is commonly called the California blackberry, Pacific blackberry, or trailing blackberry.
 
@@ -78,7 +78,7 @@ Optimal soil pH ranges from 5.5 to 7.0.
 
 ## Cultivation and Uses
 
-Rubus ursinus is the foundation species for the trailing blackberry industry of the Pacific Northwest.
+Rubus ursinus is the foundation species for the trailing blackberry industry of the [[psilocybin-north-america-pacific-northwest]].
 
 Major commercial cultivars including 'Marion', 'Boysenberry', 'Loganberry', and 'Tayberry' all derive from it.
 
@@ -87,62 +87,3 @@ Major commercial cultivars including 'Marion', 'Boysenberry', 'Loganberry', and 
 It is estimated to contribute over 50% of the parentage in modern trailing blackberry cultivars.
 
 Commercial production requires a trellis system to support the trailing canes.
-
-Canes are typically trained on a V-shaped or T-shaped wire trellis 1.5-2 meters tall.
-
-Plants are spaced 1.5-3 meters apart in rows 3-4 meters wide.
-
-Irrigation is essential for commercial production, particularly during fruit development.
-
-Harvest occurs from mid-June through August depending on the cultivar and location.
-
-Yields range from 5-15 tonnes per hectare for well-managed plantings.
-
-The leaves were brewed as a tea for gastrointestinal ailments and as a uterine tonic during pregnancy.
-
-## Ecological Role
-
-The trailing habit of Rubus ursinus provides dense ground cover valuable for wildlife habitat.
-
-Many bird species including thrushes, robins, and waxwings rely on the fruit as a late-summer food source.
-
-Black bears, coyotes, raccoons, and numerous small mammals consume the berries and disperse seeds.
-
-The dense thickets offer nesting sites and protective cover for songbirds and small mammals.
-
-The flowers attract a wide range of pollinators including native bees, honey bees, and butterflies.
-
-Rubus thickets serve as nurse sites for the establishment of tree seedlings in successional habitats.
-
-The species is an early successional colonizer following disturbance such as logging or fire.
-
-It can become aggressive in disturbed sites, though it is generally less invasive than introduced Rubus species.
-
-## Notable Cultivars
-
-'Marion' (1956): Oregon State University release, named after Marion County. Flavor is considered the standard for trailing blackberries.
-
-'Boysenberry' (1920s): A complex hybrid believed to be Rubus ursinus crossed with loganberry and other Rubus species.
-
-'Loganberry' (1881): A natural hybrid between Rubus ursinus and Rubus idaeus discovered by Judge James Logan.
-
-'Tayberry' (1979): Scottish cross between Rubus ursinus and Rubus idaeus, named for the River Tay.
-
-'Waldo' (1989): Oregon release, thornless, with firm fruit suitable for fresh market.
-
-'Obsidian' (2005): Oregon release, very large fruit, excellent flavor, suited to fresh market and processing.
-
-'Chester' (1985): Thornless, late-season, very productive, widely adapted.
-
-## See Also
-
-- [[rubus-idaeus]]
-- [[rubus-occidentalis]]
-- [[rubus-fruticosus]]
-- [[fragaria-vesca]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-myrtillus]]
-- [[quercus-robur]]
-- [[betula-pendula]]
-- [[prunus-spinosa]]

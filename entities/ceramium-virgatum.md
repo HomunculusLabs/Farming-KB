@@ -87,26 +87,3 @@ Ceramium virgatum is not harvested commercially for food or industrial purposes,
 In traditional medicine, coastal communities in parts of Europe and Asia have used Ceramium poultices for skin ailments. These applications are largely anecdotal and have not been validated by controlled clinical studies.
 
 The species has value as a laboratory organism for studies of red algal physiology, particularly research on carrageenan biosynthesis and the effects of UV radiation on phycobiliprotein composition.
-
-Ornamental use in marine aquaria is limited, though the species can serve as a nutrient export organism in refugium systems due to its rapid growth under artificial lighting.
-
-## Invasive Potential and Management
-
-Ceramium virgatum is widely distributed and considered native across most of its range. However, its tolerance of disturbed environments and ability to spread via hull fouling and ballast water give it characteristics of a potential invasive species.
-
-In some non-native regions, Ceramium has been introduced through shipping and aquaculture transfers. Once established, it can form dense mats that outcompete native algal species for space and light.
-
-Management of introduced Ceramium populations focuses on preventing further spread through hull cleaning regulations and ballast water treatment. Physical removal of established populations has proven largely ineffective due to rapid regrowth from fragments.
-
-Monitoring programs use Ceramium abundance as one metric for assessing the ecological health of intertidal communities, with increasing Ceramium cover indicating nutrient enrichment or habitat disturbance.
-
-## See Also
-
-- [[gelidium-amansii]]
-- [[bangia-atropurpurea]]
-- [[pyropia-yezoensis]]
-- [[ulva-lactuca]]
-- [[kappaphycus-alvarezii]]
-- [[laminaria-digitata]]
-- [[eucheuma-denticulatum]]
-- [[himanthalia-elongata]]

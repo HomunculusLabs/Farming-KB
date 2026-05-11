@@ -88,32 +88,3 @@ for colonization, and providing appropriate fruiting conditions. See
 ## Dosage
 
 Psilocybin mushroom potency varies considerably between species and
-growing conditions. Approximate dried dosage ranges for P. cubensis:
-
-- **Light dose**: 0.5 to 1.0 grams, mild perceptual changes
-- **Moderate dose**: 1.0 to 2.5 grams, clear hallucinogenic effects
-- **Strong dose**: 2.5 to 5.0 grams, intense [[leary-psychedelic-experience-bardo-mapping]]
-- **Heroic dose**: 5.0+ grams, potentially overwhelming ego dissolution
-
-See [[psilocybin-mushroom-potency-and-dosage-guide]] for detailed data.
-
-## Ethnobotanical History
-
-The use of psilocybin mushrooms in Mesoamerican cultures extends back
-thousands of years. The Aztecs, Maya, and other civilizations
-incorporated these mushrooms into religious ceremonies, divination, and
-healing practices. Spanish conquistadors attempted to suppress their
-use, but the traditions survived in remote indigenous communities.
-
-The rediscovery by R. Gordon Wasson and his wife Valentina in the 1950s,
-when they participated in a Mazatec mushroom ceremony led by Maria
-Sabina, brought psilocybin mushrooms to Western science, ultimately
-leading to the identification of psilocybin by Albert Hofmann in 1958.
-See [[ethnomycology-psychoactive-fungi]] for broader ethnobotanical
-context.
-
-## Related Topics
-
-- [[psilocybin]]
-- [[mushroom-cultivation]]
-- [[mycology]]

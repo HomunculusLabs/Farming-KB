@@ -20,7 +20,7 @@ sources:
 
 *Stipa tenuissima*, commonly known as Mexican feather grass or fine needle grass, is a fine-textured ornamental [[savory-perennial-grass-and-desertification]] in the family Poaceae.
 
-It is native to open grasslands and rocky slopes in the southwestern [[dmt-containing-plants-united-states-halpern]], Mexico, and parts of South America.
+It is native to open grasslands and rocky slopes in the southwestern [[dmt-containing-plants-united-states-halpern]], Mexico, and parts of [[guzman-psilocybin-mushrooms-south-america]].
 
 The species is widely cultivated for its delicate, hair-like inflorescences that sway gracefully in the slightest breeze.
 
@@ -56,7 +56,7 @@ It has been widely introduced outside its native range as an ornamental, particu
 
 Naturalized populations are established in Australia, New Zealand, South Africa, and coastal California.
 
-In Australia, it is classified as a Weed of National Significance due to its impact on native grassland ecosystems.
+In Australia, it is classified as a Weed of National Significance due to its impact on native [[biodiversity-fungi-grassland-ecosystems]].
 
 It invades roadsides, pastures, and conservation reserves, displacing native understory species.
 
@@ -68,7 +68,7 @@ It performs best in full sun with very well-drained soil, tolerating sandy, grav
 
 Once established, plants are extremely drought-tolerant and require little to no supplemental irrigation.
 
-Overwatering or planting in heavy, moisture-retentive soils leads to root rot and rapid decline.
+Overwatering or planting in heavy, moisture-retentive soils leads to [[cannabis-root-rot-prevention-and-treatment]] and rapid decline.
 
 Grooming involves combing out dead foliage with a rake or cutting back to near ground level in late winter.
 
@@ -76,7 +76,7 @@ Plants self-seed freely in favorable conditions, which can lead to unwanted spre
 
 [[hamilton-pest-and-disease-control-organic]] issues are rare, making it a low-maintenance choice for xeriscaping and gravel gardens.
 
-In regions where the species is invasive, responsible cultivation includes deadheading before seed dispersal.
+In regions where the species is invasive, responsible cultivation includes deadheading before [[clay-pellet-seed-dispersal]].
 
 ## Ecology and Invasive Potential
 
@@ -87,34 +87,3 @@ The fine, hair-like awns can cause mechanical injury to grazing animals, particu
 Invasive populations in Australia form dense mats that suppress native wildflower diversity in grassland ecosystems.
 
 The species is highly flammable when dry, increasing fire risk in invaded grassland and chaparral communities.
-
-Seed dispersal occurs via wind, animal fur, and human movement of contaminated soil and plant material.
-
-Each plant can produce thousands of seeds annually, with high germination rates in disturbed soils.
-
-In California, it is listed as an invasive plant by the California Invasive Plant Council.
-
-## Notable Uses
-
-Mexican feather grass is extensively used in mass plantings, container gardens, and meadow-style landscape designs.
-
-Its fine texture and movement make it an effective contrast plant against bolder-foliaged perennials and succulents.
-
-Landscape designers use it in contemporary minimalist gardens for its architectural, cloud-like form.
-
-The dried flower stems are harvested for floral arrangements and dried flower crafts.
-
-In xeriscaping, it serves as a low-water alternative to thirsty turf grasses in ornamental applications.
-
-The species is popular in green roof designs in Mediterranean climates due to its [[dighton-fungal-drought-tolerance-plant-water-relations]] and shallow root system.
-
-## See Also
-
-- [[muhlenbergia-capillaris]]
-- [[deschampsia-flexuosa]]
-- [[festuca-glauca]]
-- [[bouteloua-gracilis]]
-- [[pennisetum-setaceum]]
-- [[panicum-virgatum]]
-- [[miscanthus-sinensis]]
-- [[molinia-caerulea]]

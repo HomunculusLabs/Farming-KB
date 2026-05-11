@@ -1,10 +1,11 @@
 ---
-title: [[mollison-course-coppice-forest-management]] keyline water harvesting dams and comparison-dam-construction-vs-swale-design
+title: Mollison Course Keyline Water Harvesting Dams
 created: 2026-04-28
 tags: [permaculture, keyline, water-harvesting, dams, earthworks, contour, landscape-design, irrigation, runoff, storage]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -87,13 +88,3 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

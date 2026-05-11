@@ -22,9 +22,9 @@ created: 2026-04-28
 
 Ergonovine, also known as ergometrine, is a naturally occurring lysergamide ergot alkaloid produced by *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* and related fungi. It is distinguished from other ergot alkaloids by the presence of a primary amide at the C-8 position rather than the more complex peptide side chains of the ergopeptine group.
 
-The compound was first isolated in 1935 by Dudley and Moir and subsequently synthesized by Stoll and Hofmann in 1943. Its primary medical significance lies in its potent oxytocic activity — the ability to induce uterine contractions. Ergonovine has been used in obstetrics since the 1940s for the prevention and treatment of postpartum hemorrhage.
+The compound was first isolated in 1935 by Dudley and Moir and subsequently synthesized by Stoll and Hofmann in 1943. Its primary medical significance lies in its potent oxytocic activity — the ability to induce uterine contractions. Ergonovine has been used in obstetrics since the 1940s for the [[cannabis-root-rot-prevention-and-treatment]] of postpartum hemorrhage.
 
-Beyond its medical applications, ergonovine has psychoactive properties at doses exceeding therapeutic ranges. It was among the compounds Albert Hofmann self-experimented with during his investigation of ergot alkaloids at Sandoz Laboratories in the 1940s, contributing to the broader research program that led to the discovery of LSD-25.
+Beyond its [[oner-sativa-medical-applications]], ergonovine has psychoactive properties at doses exceeding therapeutic ranges. It was among the compounds Albert Hofmann self-experimented with during his investigation of ergot alkaloids at Sandoz Laboratories in the 1940s, contributing to the broader research program that led to the discovery of LSD-25.
 
 ## Chemical Properties
 
@@ -44,7 +44,7 @@ The compound contains two stereocenters at C-5 and C-8, with the naturally occur
 
 Ergonovine acts primarily as an agonist at α-adrenergic receptors and serotonin (5-HT) receptors, with additional activity at dopamine D₂ receptors. Its uterotonic effects are mediated through direct smooth muscle stimulation of uterine tissue, with partial contribution from α-adrenergic receptor activation.
 
-The compound exhibits partial agonist activity at 5-HT₁A, 5-HT₂A, and 5-HT₂C receptor subtypes. This serotonin receptor profile underlies both its psychoactive effects at supratherapeutic doses and contributes to its vasoconstrictive properties. The affinity for 5-HT₂A receptors is notably lower than that of LSD, accounting for the weaker psychedelic potency.
+The compound exhibits partial agonist activity at 5-HT₁A, 5-HT₂A, and 5-HT₂C receptor subtypes. This [[serotonin-receptor-interference-psychedelic-mechanism]] profile underlies both its psychoactive effects at supratherapeutic doses and contributes to its vasoconstrictive properties. The affinity for 5-HT₂A receptors is notably lower than that of LSD, accounting for the weaker psychedelic potency.
 
 Ergonovine undergoes rapid hepatic metabolism, primarily via N-deethylation and hydroxylation. The elimination half-life is approximately 2 hours, with metabolites excreted through the kidneys. This rapid metabolism limits the duration of both therapeutic and psychoactive effects compared to the ergopeptine alkaloids.
 
@@ -52,7 +52,7 @@ Ergonovine undergoes rapid hepatic metabolism, primarily via N-deethylation and 
 
 At therapeutic doses (0.2 mg intramuscular or intravenous), ergonovine produces rapid uterine contraction within 1–3 minutes of intravenous administration or 5–15 minutes of intramuscular injection. Effects persist for approximately 45–120 minutes. Common side effects include nausea, vomiting, hypertension, and headache.
 
-At psychoactive doses (2–5 mg orally, though exact thresholds are poorly documented), ergonovine produces mild alterations in perception and cognition. Effects include visual distortion, mild euphoria, and changes in spatial awareness. The experience is generally described as substantially weaker than LSD or psilocybin, with more somatic (body-focused) effects.
+At psychoactive doses (2–5 mg orally, though exact thresholds are poorly documented), ergonovine produces mild alterations in perception and cognition. Effects include visual distortion, mild euphoria, and changes in [[plant-gravitropism-and-spatial-awareness]]. The experience is generally described as substantially weaker than LSD or psilocybin, with more somatic (body-focused) effects.
 
 Albert Hofmann documented his self-experiment with ergonovine in his autobiography, describing it as producing "a slight dizziness and a feeling of heaviness in the legs" without the full psychedelic spectrum of LSD. This relatively mild psychoactivity is consistent with the compound's lower affinity for 5-HT₂A receptors.
 
@@ -64,11 +64,11 @@ The drug is also used diagnostically in cardiac stress testing. The ergonovine p
 
 ## Legal Status
 
-Ergonovine is a prescription medication worldwide and is not specifically scheduled as a controlled substance in most jurisdictions. It is regulated as a prescription drug under pharmaceutical laws. In the United States, it is available only with a prescription and is not classified under the Controlled Substances Act.
+Ergonovine is a prescription medication worldwide and is not specifically scheduled as a controlled substance in most jurisdictions. It is regulated as a prescription drug under pharmaceutical laws. In the United States, it is available only with a prescription and is not classified under the [[controlled-substances-act-and-psychedelic-research]].
 
 ## Synthesis and Production
 
-Ergonovine is produced commercially through fermentation of *Claviceps purpurea* cultures on rye or other cereal substrates. The fungal sclerotia (ergots) are harvested and processed to extract the full alkaloid complex, from which ergonovine is isolated through fractional crystallization.
+Ergonovine is produced commercially through fermentation of *[[claviceps-purpurea]]* cultures on rye or other cereal substrates. The fungal sclerotia (ergots) are harvested and processed to extract the full alkaloid complex, from which ergonovine is isolated through fractional crystallization.
 
 Total synthesis was first achieved by Stoll and Hofmann at Sandoz in 1943, starting from lysergic acid. This partial [[four-hydroxyindole-psilocin-synthesis-route-shirota]] converts lysergic acid to ergonovine through amide formation at the C-8 carboxyl group. The process established the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between lysergic acid and the natural ergot alkaloids.
 
@@ -88,30 +88,3 @@ Ergonovine belongs to the ergoline class of alkaloids, sharing the tetracyclic e
 
 Key related compounds include:
 - **Methylergonovine** — N-methyl derivative, more commonly prescribed
-- **Ergotamine** — ergopeptine with tripeptide side chain, used for migraine
-- **Ergine** (LSA) — amide of lysergic acid with dimethylamine, naturally occurring in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
-- **LSD-25** — diethylamide derivative with potent psychedelic activity
-
-## Toxicology and Contraindications
-
-Ergonovine carries significant risk at supratherapeutic doses. Overdose can produce sustained hypertension, severe vasoconstriction, and peripheral ischemia. In extreme cases, ergotism-like symptoms may develop, including gangrene of the extremities due to prolonged vasospasm.
-
-The drug is contraindicated in patients with hypertension, cardiovascular disease, hepatic or renal impairment, and sepsis. It must not be used during pregnancy before delivery, as premature uterine contractions can compromise fetal oxygenation. Drug interactions with vasoconstrictors, sympathomimetic agents, and other ergot alkaloids can amplify adverse cardiovascular effects.
-
-The therapeutic index of ergonovine is relatively narrow compared to modern uterotonics like oxytocin. Methylergonovine has largely replaced ergonovine in clinical practice due to its improved [[cannabis-safety-profile-and-overdose-risk]]. Nevertheless, ergonovine remains available and is used in resource-limited settings where methylergonovine may not be accessible.
-
-## Natural Occurrence
-
-Ergonovine is produced by several *Claviceps* species in addition to *C. purpurea*, including *C. paspali* and *C. fusiformis*. The alkaloid content of ergot sclerotia varies significantly depending on the fungal strain, host plant, and environmental conditions.
-
-In ergot sclerotia, ergonovine typically constitutes 0.1–0.5% of dry weight, making it a minor component compared to the ergopeptine alkaloids. The ratio of ergonovine to ergopeptines varies between *Claviceps* species and is influenced by the stage of sclerotial development at harvest.
-
-Ergonovine has not been reliably detected in [[golden-guide-morning-glory-and-ololiuqui]] species (*Ipomoea* spp.) or other Convolvulaceae, which produce ergine (LSA) as their primary lysergamide alkaloid. This distribution suggests that ergonovine synthesis is largely restricted to the *Claviceps* genus and does not occur widely across lysergamide-producing plants.
-
-## See Also
-
-- [[ergometrine]]
-- [[claviceps-purpurea]]
-- [[lsd]]
-- [[psilocybin]]
-- [[harmine]]

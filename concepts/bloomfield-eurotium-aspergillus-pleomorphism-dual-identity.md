@@ -7,7 +7,7 @@
 The relationship between Eurotium and Aspergillus illustrates one of the most
 perplexing problems in mycology: a single organism known by two names because its
 sexual (teleomorphic) and asexual (anamorphic) stages were discovered and described
-independently. Eurotium produces closed spherical fruiting bodies called cleistothecia
+independently. Eurotium produces closed spherical [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] called cleistothecia
 containing sexual spores, while Aspergillus produces asexual conidia on distinctive
 stalks. The same organism cycles between these two identities in an endless loop of
 sex followed by celibacy followed by sex — a phenomenon called pleomorphism that
@@ -29,7 +29,7 @@ compatible genetics merge, they produce the cleistothecium of Eurotium. The cycl
 is continuous: Eurotium forms Aspergillus forms Eurotium.
 
 The reason a single organism bears two names is due to an incomplete understanding of
-its life cycle — the two stages look so different that they were assumed to be separate
+its [[agaricus-campestris-biology-and-life-cycle]] — the two stages look so different that they were assumed to be separate
 species when first encountered.
 
 ## Catching Aspergillus from the Sky
@@ -40,9 +40,9 @@ leave it for a day. The plate will likely sprout the conidium-producing stalks o
 Aspergillus. If the experiment fails, the fungus is certain to appear on the second or
 third attempt.
 
-This ubiquity reflects the effectiveness of the asexual dispersal strategy. The
+This ubiquity reflects the effectiveness of the asexual [[stinkhorn-fungi-phallales-spore-dispersal-strategy]]. The
 conidia are produced in enormous numbers and are adapted for aerial transport. Once
-isolated, the culture can be maintained indefinitely by seeding fresh agar medium with
+isolated, the culture can be maintained indefinitely by seeding fresh [[agar-medium-preparation]] with
 spores from an older plate.
 
 ## The Naming Confusion
@@ -88,44 +88,3 @@ sexual spores.
 The dual-naming system has practical consequences beyond academic confusion. Medical
 mycologists treating Aspergillus infections may be unaware that the same organism has
 a sexual stage that could generate new genetic combinations with increased drug
-resistance. Plant pathologists tracking Aspergillus contamination in crops may
-underestimate the organism's evolutionary potential if they consider only the asexual
-stage. Modern molecular techniques are gradually resolving these issues by allowing
-researchers to connect anamorph and teleomorph stages through [[environmental-dna-sequencing-fungi]], but the
-historical legacy of dual nomenclature persists in the literature and in regulatory
-frameworks governing food safety and plant quarantine.
-
-## One Name: The Taxonomic Reform
-
-The International Code of Nomenclature for algae, fungi, and plants has undergone
-significant reforms to address the anamorph-teleomorph problem. Under current rules,
-a single fungus should bear a single name, typically the one that was published first.
-For many well-known dual-named fungi, this means the older Aspergillus name takes
-priority over the later Eurotium name, even for the sexual stage.
-
-However, the transition has been slow and contentious. Many mycologists who work
-primarily with the sexual stages prefer the teleomorph names, while those who work
-with the asexual stages prefer the anamorph names. The result is a period of taxonomic
-instability where both names may appear in the literature, sometimes in the same paper,
-creating confusion for students, clinicians, and regulators alike. The reform
-represents a necessary correction to a system that assigned separate identities to
-what is fundamentally the same organism, but the practical difficulties of implementing
-a universal name change should not be underestimated.
-
-## Ecological Significance of the Two Strategies
-
-The maintenance of both sexual and asexual reproductive modes gives organisms like
-Eurotium/Aspergillus a powerful evolutionary flexibility. The asexual conidial stage
-allows rapid colonization of new food sources — a single spore landing on a suitable
-substrate can generate millions of clone spores within days, flooding the local
-environment with genetically identical progeny. The sexual stage, triggered by the
-encounter between compatible colonies, generates novel genetic combinations that may
-prove advantageous in changing environments. This dual strategy — combining the speed
-of clonal reproduction with the adaptive power of sex — helps explain why Aspergillus
-species are among the most successful and ubiquitous of all fungi, found in every
-ecosystem on Earth from [[mollison-designers-tropical-soils-and-cation-exchange-management]] to Arctic ice.
-
-## See Also
-- [[bloomfield-fungal-pleomorphy-tulasne-brothers-anamorph-teleomorph]]
-- [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
-- [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]

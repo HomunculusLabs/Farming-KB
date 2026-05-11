@@ -2,13 +2,14 @@
 title: Fractals, Branching, and Conduit Design
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - pattern-understanding
   - design-methodology
   - mollison-designers-manual
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,44 +87,3 @@ enabling collection and servicing to occur, or create better mutual
 exchange between the species in the garden.
 
 ## The Ratio of Large to Small Conduits
-
-The high-pressure/low-flow nature of minor branches demands a very
-large total cross-sectional area of these in relation to the main
-supply arteries. Such small conduits may develop areas which in sum
-are 300-1,600 times that of the supply artery (our main roads are
-therefore much less in area than the foot tracks that lead off them).
-
-As an applied strategy, multiple small paths enhance our access to
-food systems, or in fact any system where we both take and give
-materials.
-
-## Branching as Response to External Forces
-
-Branching in trees is as often a result of external forces (wind and
-salt pruning, secateurs, or insect attack) as it is a result of
-internal cell patterns; it is as much forced upon things as it is the
-"best thing to do." We must therefore see the branched form as an
-interaction between an organism or process, the purpose it serves, and
-the external forces of the media in which the organism is immersed.
-
-## Resilience Through Redundancy
-
-In organisms, the multiple branches give the being a chance to
-recover from injury, preserve information, and permit regrowth in the
-event of minor damage. It is a fool-proof system of interchange.
-Another way to effect interchange is to elaborate on the walls of
-larger conduits by involutions, attached fins, irregular surfaces, or
-to create spirals in fluids or gases by bending or spiralling the
-conduits themselves.
-
-This principle of redundancy through branching is directly applicable
-to [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]: multiple access routes, multiple water
-distribution paths, multiple species performing similar functions, and
-multiple yields from a single element all contribute to system
-resilience.
-
-## See Also
-
-- [[mollison-stream-orders-and-branching-magnitudes]]
-- [[mollison-boundary-harmonics-and-edge-geometry]]
-- [[mollison-water-harvesting-management-permaculture]]

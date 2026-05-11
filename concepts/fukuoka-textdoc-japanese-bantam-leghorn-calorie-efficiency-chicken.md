@@ -1,11 +1,12 @@
 ---
-title: "fukuoka textdoc japanese bantam leghorn calorie efficiency chicken vs White Leghorn: Calorie Efficiency in Livestock"
+title: Fukuoka Textdoc Japanese Bantam Leghorn Calorie Efficiency Chicken
 created: 2026-04-28
 tags: [livestock, chickens, calorie-efficiency, bantam, leghorn, energy-input, feed-conversion, native-breeds, poultry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "The Natural Way of Farming - [[masanobu-fukuoka]] (administrator-microsoft-word-fukuoka-textdoc.md)"
 type: concept
 ---
 
@@ -68,7 +69,7 @@ on a global scale.
 Nonetheless, people persist in believing that raising large numbers of chickens that
 are good egg-layers or improved breeds of hogs and cattle with a high feed conversion
 efficiency in enclosures is the only workable approach to mass production; they are
-convinced that this is intelligent, economical livestock farming. The very opposite
+convinced that this is intelligent, economical [[fukuoka-natural-livestock-farming]]. The very opposite
 is true.
 
 Artificial livestock practices consisting essentially of the conversion of feed into
@@ -87,57 +88,3 @@ Moreover, such methods yield higher rates of energy loss than other forms of ani
 husbandry. Native breeds and varieties such as Jersey cattle, which are thought to
 be of lower productivity, actually have a higher feed efficiency and do not lead to
 depletion of the land. Being closer to nature, the wild boar and the black Berkshire
-pig are in fact more economical than the supposedly superior white Yorkshire breed.
-
-Profits aside, it would be better to raise small goats than dairy cattle. And raising
-deer, boars, rabbits, chickens, wildfowl, and even edible rodents, would be even
-more economical — and better protect nature — than goats.
-
-## The Goat as the Wise Choice
-
-In a small country like Japan, rather than raising large dairy cattle, which merely
-impoverishes the soil, it would be far wiser for each family to keep a goat. Breeds
-that are better milk producers but basically weak, such as Saanen, should be avoided
-and strong native varieties that can live on roughage raised.
-
-The goat, which is called the poor man's cattle because it takes care of itself and
-also provides milk, is in fact inexpensive to raise and does not weaken the
-productivity of the land.
-
-## Land Requirements by Diet Type
-
-It takes 200 square yards of land to support one human being living on grains, 600
-square yards to support someone living on potatoes, 1,500 square yards for someone
-living on milk, 4,000 square yards for someone living on pork, and 10,000 square
-yards for someone subsisting entirely on beef.
-
-If the entire human population on earth were dependent on a diet of just beef,
-humanity would have already reached its limits of growth. The world population could
-grow to three times its present level on a diet of pork, five times on milk, and far
-more on grains. The choice of diet is therefore not merely a personal preference but
-a civilizational determinant.
-
-## The Ideal Livestock Vision
-
-If poultry and livestock are to truly benefit man, they must be capable of feeding
-and fending for themselves under the open sky. Only then will food become naturally
-plentiful and contribute to man's well-being.
-
-In Fukuoka's idealized vision of livestock farming, he sees bees busily making the
-rounds of clover and vegetable blossoms thickly flowering beneath trees laden heavy
-with fruit; he sees semi-wild chickens and rabbits frolicking with dogs in fields
-of growing wheat, and great numbers of ducks and mallards playing in the [[fukuoka-textdoc-creating-rice-paddy-natural-methods]];
-at the foot of the hills and in the valleys, black pigs and boars grow fat on worms
-and crayfish, and from time to time goats peer out from the thickets and trees.
-
-This scene might be taken from an out-of-the-way hamlet in a country untarnished by
-modern civilization. The real question for us is whether to view it as a picture of
-primitive, economically disadvantaged life or as an organic partnership between man,
-animal, and nature. An environment comfortable for small animals is also an ideal
-setting for man.
-
-## Related Concepts
-
-- [[fukuoka-textdoc-natural-livestock-caloric-efficiency]] for broader caloric analysis
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]] for energy accounting
-- [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] for diet and land

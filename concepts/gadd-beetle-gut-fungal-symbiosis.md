@@ -1,5 +1,5 @@
 ---
-title: Beetle Gut Fungal Symbiosis
+title: Gadd Beetle Gut Fungal Symbiosis
 created: 2026-04-28
 tags:
   - insect-symbiosis
@@ -16,9 +16,9 @@ type: concept
 
 # Beetle Gut Fungal Symbiosis
 
-The gut of beetles (Coleoptera) is a remarkably rich and underexplored
+The [[fungi-in-the-gut-of-beetles]] (Coleoptera) is a remarkably rich and underexplored
 habitat for yeasts and other fungi. Research by Blackwell and colleagues
-has revealed diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in beetle guts, from
+has revealed diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] [[fungi-in-the-environment-fungi-in-beetle-guts]], from
 mushroom-feeding beetles harbouring undescribed yeast species to
 wood-boring beetles with specialised xylose-fermenting yeasts in their
 hindguts.
@@ -52,7 +52,7 @@ arthropod-associated yeasts diverged from free-living relatives or are
 they repeatedly acquired from the habitat? Do distantly related beetles
 using similar basidiomata share similar yeasts? Evidence suggests a
 combination of co-evolved specific associations and opportunistic
-acquisition from fungal fruiting body habitats.
+acquisition from [[brassinosteroid-fungal-fruiting-body-morphology]] habitats.
 
 ## Symbiotaphrina and anobiid beetles
 
@@ -61,7 +61,7 @@ well-studied system. These fungi are not true yeasts but pezizomycete
 ascomycetes that have secondarily assumed the yeast habit. They play a
 role in detoxification of food resources, with the beetle providing
 habitat and the fungus contributing hydrolytic enzymes including
-detoxifying enzymes that break down plant defensive compounds.
+detoxifying enzymes that [[query-can-fungi-break-down-plastic-pollution]] plant defensive compounds.
 
 ## The Pichia stipitis clade and wood-boring beetles
 
@@ -69,7 +69,7 @@ In the passalid beetle Odontotaenius disjunctus, a single yeast taxon
 similar to Pichia stipitis was isolated from over 400 individuals. P.
 stipitis is a xylose-fermenting and -assimilating yeast, rare attributes
 among Saccharomycetes. Xylose forms the backbone of hemicellulose in
-plant cell walls, making this capability significant for wood digestion.
+plant [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], making this capability significant for wood digestion.
 Members of the P. stipitis clade have been isolated from multiple
 wood-boring beetle families across different geographic regions.
 
@@ -88,54 +88,3 @@ parabasalids.
 
 The larval hindgut of O. disjunctus is smaller, less differentiated, and
 sparsely populated compared to adults. Adults feed larvae a mixture of
-chewed wood and frass plastered on gallery walls, which may serve as an
-initial microbial source. Because the hindgut cuticle is shed during
-moults, microbes must be replenished between larval moults and after
-pupal metamorphosis. This dependency likely drove the evolution of
-parental care in passalid beetles.
-
-## Functional roles of gut fungi
-
-Proposed functions of gut microbes in wood-boring insects include
-cellulose, hemicellulose, and [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]; pheromone production;
-detoxification of foodstuffs; [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]; and vitamin synthesis.
-However, arthropods including termites and wood-boring beetles produce
-endogenous cellulases, requiring caution in attributing all digestive
-functions to gut microbes. The yeasts may instead process metabolic
-byproducts, provide vitamins, or enhance the efficiency of host
-enzymes.
-
-## Comparison with termite gut systems
-
-The compartmentalised passalid hindgut segregates several classes of
-microbes hypothesised to have functions similar to termite gut
-communities. Both termites and passalid beetles are wood-ingesting
-detritivores with microbes restricted to the hindgut. Functional
-parallels include potential contributions to lignocellulose degradation
-and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], though the specific microbial taxa differ.
-
-## Biotechnological implications
-
-The P. stipitis clade is of considerable biotechnological interest.
-Xylose fermentation is essential for efficient bioethanol production
-from lignocellulosic biomass, as xylose constitutes approximately 30%
-of hardwood hemicellulose. Understanding the ecology and physiology of
-these yeasts in their natural beetle gut habitat may inform industrial
-[[vic-high-true-breeding-strain-development-stabilization]] for biofuel production.
-
-## Broader significance
-
-The discovery of extensive yeast diversity in beetle guts, including
-species from novel clades, highlights insect guts as a reservoir of
-[[biodiversity-fungal-biodiversity-estimation-methods]]. Community-level approaches are essential to
-understand gut inhabitants. The insect gut is considered a 'hot spot'
-of microbial gene exchange and adaptation, with important implications
-for insect speciation, habitat utilisation, and survival.
-
-## Related
-
-- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
-
-- [[gadd-fungal-ecology-saprotrophs]]
-- [[gadd-fungal-nutrition-metabolism]]
-- [[gadd-fungal-biodegradation-bioremediation]]

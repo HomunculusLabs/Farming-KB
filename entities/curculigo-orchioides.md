@@ -88,33 +88,5 @@ Classified as a *Vajikarna* (aphrodisiac) herb in the *Bhava Prakasha
 Nighantu*, prescribed for male sexual debility, oligospermia, general
 fatigue, post-illness convalescence, and urinary disorders.
 
-Key ingredient in *Musli Pak*, a classical Ayurvedic tonic combining
-*C. orchioides* with [[ashwagandha-withania-somnifera]],
-ghee, sugar, and warming spices.
-
-### Validated Bioactivities
-
-- **Aphrodisiac:** Increased mounting frequency, improved sperm count and
-  motility, elevated testosterone in animal studies
-- **Adaptogenic:** Reduced cortisol and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] biomarkers in
-  forced-swim and restraint-stress models
-- **Anti-osteoporotic:** Curculigoside inhibits osteoclast differentiation
-  in ovariectomized rats
-- **Immunomodulatory:** Polysaccharide fractions enhanced macrophage
-  phagocytosis and NK cell activity
-- **Antioxidant:** DPPH and hydroxyl radical scavenging comparable to
-  ascorbic acid at equivalent concentrations
-
-⚠️ Limited human clinical data. Most evidence from animal models.
-
-## Cultivation
-
-Propagation primarily by rhizome division; [[cannabis-seed-germination-methods]] possible
-with stratification. Requires well-drained sandy loam (pH 6.0–7.5),
-40–60% shade, regular moisture, and 20–35°C temperatures.
-Rhizomes harvestable at 18–24 months; yields 1,500–2,500 kg/ha dried.
-
 ## See Also
-
-- [[asparagus-racemosus]] — Co-ingredient in Musli Pak formulation
-- [[withania-somnifera]] — Key rasayana herb often combined with *C. orchioides*
+- [[berry-and-small-fruit-growing]]

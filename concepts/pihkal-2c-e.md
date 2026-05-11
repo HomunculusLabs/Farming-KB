@@ -82,48 +82,9 @@ both experience and preparation.
 
 He appreciated 2C-E's capacity for producing genuine philosophical insight
 and personal growth, describing experiences as "thought-provoking" and
-noting states comparable to high-dose LSD or mescaline. He was particularly
+noting states comparable to high-dose LSD or [[mescaline]]. He was particularly
 impressed by its visual richness.
 
 ## Pharmacology
 
-2C-E acts primarily as a serotonin 5-HT2A receptor agonist with high
-affinity (Ki in the low nanomolar range). Additional activity at 5-HT2C may
-contribute to pronounced body load and anxiogenic potential. Metabolism
-occurs through hepatic oxidative deamination and O-demethylation, with the
-ethyl group potentially undergoing omega-oxidation as a secondary pathway.
-
-## Safety and Harm Reduction
-
-The combination of heavy body load and demanding cognitive effects can be
-overwhelming for inexperienced users. Accurate dosing is critical. The
-compound causes significant cardiovascular stimulation (elevated heart rate
-and blood pressure). Vasoconstriction can cause extremity discomfort.
-
-Harm reduction includes thorough preparation, an experienced sitter, a safe
-environment, and planning for a full day and night. Individuals with
-cardiovascular conditions should avoid 2C-E entirely.
-
-## Comparison to Related Compounds
-
-Compared to 2C-B, 2C-E is significantly more intense visually and
-cognitively, with heavier body load and longer duration. 2C-B is more
-recreational and empathogenic. Against 2C-I, 2C-E produces more structured
-and immersive visuals with heavier body load. Compared to LSD, 2C-E has
-similar intensity but different visual aesthetics and more pronounced
-physical effects.
-
-## Historical and Cultural Significance
-
-2C-E emerged in the research chemical market in the mid-2000s and developed
-a reputation as one of the most powerful 2C compounds. It attracted a
-dedicated following among experienced users seeking transformative
-experiences. The compound was emergency-scheduled by the DEA in 2012 and
-permanently placed in Schedule I. It maintains a reputation as one of the
-most respected and demanding members of the 2C family.
-
-## See Also
-
-- [[pihkal-2c-i]]
-- [[pihkal-dom]]
-- [[pihkal-introduction-and-methodology]]
+2C-E acts primarily as a [[serotonin]] 5-HT2A receptor agonist with high

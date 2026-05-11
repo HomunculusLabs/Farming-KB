@@ -88,10 +88,3 @@ High nitrogen rates increase plant K demand. See also [[plant-available-nitrogen
 
 ## Connections
 - [[plant-available-nitrogen-ammonium-nitrate]]
-- [[soil-food-web]]
-- [[dynamic-accumulators]]
-- [[composting]]
-- [[biochar]]
-- [[potato-cultivation-guide]]
-- [[soil-nutrient-cycling]]
-- [[cation-exchange-capacity]]

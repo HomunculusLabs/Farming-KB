@@ -32,11 +32,11 @@ created: 2026-05-07
 
 ## Overview
 
-Purpureocillium lilacinum is a soil-borne ascomycete fungus in the order Hypocreales, family Ophiocordycipitaceae. It is best known for its nematophagous activity against plant-parasitic root-knot nematodes (Meloidogyne spp.), making it one of the most widely commercialized fungal biocontrol agents in agriculture.
+Purpureocillium lilacinum is a soil-borne ascomycete fungus in the order Hypocreales, family Ophiocordycipitaceae. It is best known for its nematophagous activity against plant-parasitic root-knot nematodes (Meloidogyne spp.), making it one of the most widely commercialized fungal [[singh-entomopathogenic-fungi-biocontrol-agents]] in agriculture.
 
 The species was originally described as *Penicillium lilacinum* by Thom in 1910 and later transferred to *Paecilomyces* before its current placement in *Purpureocillium* following a 2011 taxonomic revision.
 
-It produces a distinctive lilac-to-violet pigment on culture media, which gives the species its epithet. Beyond nematode biocontrol, P. lilacinum is increasingly recognized as an emerging opportunistic pathogen in immunocompromised humans, a dual nature that complicates its agricultural use.
+It produces a distinctive lilac-to-violet pigment on [[agar-culture-media]], which gives the species its epithet. Beyond nematode biocontrol, P. lilacinum is increasingly recognized as an emerging opportunistic pathogen in immunocompromised humans, a dual nature that complicates its agricultural use.
 
 ## Taxonomy and Classification
 
@@ -64,7 +64,7 @@ P. lilacinum is a cosmopolitan soil fungus found on every inhabited continent. I
 
 It has been isolated from a wide range of substrates including forest soils, cultivated fields, rhizosphere soil, decomposing [[hamilton-composting-and-organic-matter-management]], and insect cadavers. It thrives in warm, moist conditions with optimal growth at 25–30°C.
 
-The species is frequently recovered from soils previously cropped with nematode-susceptible plants, suggesting it may respond to nematode root exudates as a colonization signal.
+The species is frequently recovered from soils previously cropped with nematode-susceptible plants, suggesting it may respond to nematode [[mycorrhiza-root-exudates]] as a colonization signal.
 
 ## Biocontrol Activity
 
@@ -87,35 +87,3 @@ Leucinostatins are peptide-like secondary metabolites with antifungal, antitumor
 The species also produces paecilotoxins, lilacinins, and various polyketide-derived pigments responsible for the characteristic violet colony coloration.
 
 ## Medical Significance
-
-P. lilacinum has emerged as an important opportunistic pathogen in immunocompromised patients, particularly those with hematological malignancies, organ transplants, or HIV/AIDS.
-
-Infections include keratitis (the most common presentation), endophthalmitis, sinusitis, disseminated cutaneous infections, and rarely fungemia. Treatment is complicated by intrinsic resistance to multiple antifungal classes including fluconazole and amphotericin B at standard doses.
-
-Voriconazole and terbinafine have shown the most consistent in vitro activity. The clinical relevance of this pathogenicity has led to regulatory scrutiny of agricultural formulations in some jurisdictions.
-
-## Cultivation and Formulation
-
-Industrial production uses submerged liquid fermentation in bioreactors at 25–28°C with aeration.
-
-Standard media contain molasses, corn steep liquor, or soybean meal as carbon and nitrogen sources. Conidial yields of 10⁹–10¹⁰ conidia per liter are achievable in optimized fermentation.
-
-Commercial formulations include wettable powders, granular products for soil application, and seed-coating treatments. Shelf stability of conidia is improved by desiccation to below 5% moisture content and storage at 4°C.
-
-Field [[ingham-compost-tea-application-rates-and-timing]] typically range from 2–4 kg product per hectare, applied at planting or as a soil drench. Efficacy is highest in sandy, well-drained soils with moderate organic matter.
-
-Combination applications with [[pgpr-mycorrhizal-inoculants-microplant-establishment]] or rhizobacteria can produce synergistic effects, improving both nematode suppression and plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] simultaneously.
-
-## Related Species
-
-*Purpureocillium* is a monotypic genus established in 2011. Previously, *P. lilacinum* was classified in *Paecilomyces*, a polyphyletic genus now split into several genera.
-
-The closest relatives within Ophiocordycipitaceae include *Ophiocordyceps* and *Tolypocladium*. *P. lilacinum* is distinguished from these by its lilac pigmentation and nematophagous specialization.
-
-Ecologically similar nematophagous fungi include *Pochonia chlamydosporia* (Clavicipitaceae) and *Arthrobotrys* spp. (Orbiliomycetes), which employ different nematode-trapping strategies.
-
-## See Also
-
-- [[metarhizium-anisopliae]] — broad-spectrum entomopathogen
-- [[hypoxylon-fuscum]] — wood-decay Xylariaceae endophyte
-- [[natural-farming-guide-biological-pest-control-predators]] — IPM strategies overview

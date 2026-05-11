@@ -14,12 +14,12 @@ sources:
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada Publication 1828.
   - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A ghouled-field-guide-historical-context." USDA Forest Service Research Paper PNW-143.
   - Pitcher, D. & McKern, J. (1998). "Vaccinium deliciosum: Taxonomy, distribution, and ecology." Madroño, 45(3), 187-194.
-  - Höerdemann, M.L. (2018). "Huckleberries of the Pacific Northwest." Mountaineers Books.
+  - Höerdemann, M.L. (2018). "Huckleberries of the [[psilocybin-north-america-pacific-northwest]]." Mountaineers Books.
 ---
 
 ## Overview
 
-**Vaccinium deliciosum** (Cascade huckleberry, blue huckleberry, tall huckleberry) is a deciduous shrub in the family Ericaceae native to western North America. It is closely related to and frequently confused with V. membranaceum, but differs in leaf texture, berry color, and habitat preference.
+**Vaccinium deliciosum** (Cascade huckleberry, blue huckleberry, tall huckleberry) is a deciduous shrub in the family Ericaceae native to western [[guzman-psilocybin-mushrooms-north-america]]. It is closely related to and frequently confused with V. membranaceum, but differs in leaf texture, berry color, and habitat preference.
 
 The species produces sweet, flavorful berries ranging from blue to dark purple. The specific epithet "deliciosum" reflects the exceptional palatability of the fruit, which is considered among the finest huckleberries and wild berries of north america in the Pacific Northwest.
 
@@ -51,7 +51,7 @@ Habitat preferences include moist to mesic conditions with well-drained, acidic 
 
 V. deliciosum often co-occurs with V. membranaceum but tends to occupy slightly moister and higher-elevation microsites. The two species can be distinguished in the field by leaf texture and berry surface characteristics.
 
-Hybridization between V. deliciosum and V. membranaceum occurs in zones of overlap, producing intermediates that can complicate field identification. These natural hybrids often exhibit traits intermediate between the parent species.
+Hybridization between V. deliciosum and V. membranaceum occurs in zones of overlap, producing intermediates that can complicate [[palmer-mushroom-hunting-field-identification]]. These natural hybrids often exhibit traits intermediate between the parent species.
 
 The species shows moderate shade tolerance but produces the most fruit in open or partially shaded conditions. In closed-canopy forests, plants may persist vegetatively but produce few berries.
 
@@ -81,27 +81,10 @@ The species is an important component of post-disturbance succession in subalpin
 
 ## Cultivation
 
-Cultivation of V. deliciosum faces challenges similar to those of V. membranaceum. The species requires acidic soils, specific mycorrhizal associations, and cool montane conditions that are difficult to maintain at low elevation.
+Cultivation of V. deliciosum faces challenges similar to those of V. membranaceum. The species requires acidic soils, specific [[plants-without-mycorrhizal-associations]], and cool montane conditions that are difficult to maintain at low elevation.
 
 Propagation from seed requires cold stratification for 60–90 days. Germination rates are variable and often low, with seedling growth being extremely slow during the first two years.
 
 The species has potential as an ornamental plant for cool-climate gardens, valued for its pendulous pink flowers and fall color. However, it remains rare in the nursery trade due to propagation difficulties.
 
 Hybridization with cultivated blueberries has been explored as a pathway to domestication. Early-generation hybrids show promise for combining huckleberry flavor with improved horticultural characteristics.
-
-## See Also
-
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-vitis-idaea]]
-- [[vaccinium-ovatum]]
-- [[gaylussacia-baccata]]
-- [[arctostaphylos-patula]]
-- [[vaccinium-fuscatum]]
-- [[pinus-sylvestris]]
-- [[pseudotsuga-menziesii]]
-- [[juniperus-communis]]
-- [[taxus-baccata]]
-- [[larix-decidua]]
-- [[sequoia-sempervirens]]
-- [[sequoiadendron-giganteum]]

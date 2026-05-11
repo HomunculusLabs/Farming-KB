@@ -1,5 +1,5 @@
 ---
-title: "mckenna philo judaeus logos hearing to beholding and the Logos: From Things Heard to Things Beheld in Tryptamine Experience"
+title: Mckenna Philo Judaeus Logos Hearing To Beholding
 source: mckenna_t-tryptamines_consciousness.md
 tags: [mckenna, logos, philo-judaeus, tryptamine, language, synesthesia, hermeticism, phenomenology]
 ---
@@ -8,7 +8,7 @@ tags: [mckenna, logos, philo-judaeus, tryptamine, language, synesthesia, hermeti
 
 ## The Philonic Logos and Tryptamine Synesthesia
 
-In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness, Terence McKenna invoked the first-century Hellenistic Jewish philosopher Philo Judaeus to describe a pivotal transition within the DMT experience.
+In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness, [[terence-mckenna]] invoked the first-century Hellenistic Jewish philosopher Philo Judaeus to describe a pivotal transition within the [[extraterrestrial-contact-and-dmt-experience]].
 
 Philo wrote that when the Logos becomes perfect, it passes "from things heard to things beheld."
 
@@ -34,7 +34,7 @@ In Philo's epistemological framework, ordinary human cognition proceeds incremen
 
 The perfected state represents a culmination of this progression: the Logos is no longer something heard about or discussed abstractly but something directly witnessed and experienced as a present reality.
 
-This progression from acoustic to visual cognition is, for Philo, the trajectory of the soul toward divine understanding—a trajectory that McKenna argued could be replicated through the use of tryptamine hallucinogens.
+This progression from acoustic to visual cognition is, for Philo, the trajectory of the soul toward divine understanding—a trajectory that McKenna argued could be replicated through the use of [[psilocybin-and-tryptamine-hallucinogens]].
 
 ## Application to Tryptamine Phenomenology
 
@@ -48,9 +48,9 @@ The experience unfolds in distinguishable phases that correspond to Philo's epis
 
 The initial moments of the DMT experience are dominated by sound.
 
-McKenna described the characteristic "ripping cellophane" or "crumpling plastic film" noise, ascending tones, and eventually the voices of the elf-like entities that populate the hyperspace dimension.
+McKenna described the characteristic "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or "crumpling plastic film" noise, ascending tones, and eventually the voices of the elf-like entities that populate the hyperspace dimension.
 
-A friend suggested that the ripping sound was "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the organic matrix"—a metaphor that captures the sense of a communication channel being forcibly opened between ordinary consciousness and some other mode of being.
+A friend suggested that the ripping sound was "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the [[mckenna-radio-entelechy-organic-matrix-ripping]]"—a metaphor that captures the sense of a communication channel being forcibly opened between ordinary consciousness and some other mode of being.
 
 These sounds carry unmistakable linguistic content—a kind of alien speech that the experiencer can hear but not yet comprehend through ordinary linguistic categories.
 
@@ -87,63 +87,3 @@ The experiencer does not interpret these objects through a hermeneutic process; 
 The Logos has become visible.
 
 McKenna was emphatic that this is not hallucination in the ordinary sense. These objects have an ontological status that distinguishes them from the products of ordinary imagination.
-
-They are self-transforming, autonomous, and possessed of an intelligence that exceeds the experiencer's own.
-
-They are, in the most literal sense, the Logos made manifest—a divine communication that bypasses the mediation of language and presents itself directly to consciousness in the form of visual objects saturated with meaning.
-
-## The Ursprache and Primal Language Traditions
-
-McKenna connected the Philonic Logos to a broader lineage of primal language concepts in Western esoteric thought.
-
-He referenced Robert Graves's idea of a primal poetic language in *The White Goddess*, in which the original relationship between words and things was not arbitrary but motivated—a language in which the name of a thing participated in the nature of the thing itself.
-
-He referenced the Kabbalistic concept of language in the *Zohar*, in which the Hebrew letters are understood as the building blocks of creation, each carrying intrinsic power and meaning.
-
-And he referenced the notion of an original *Ursprache*—a primordial tongue that precedes and underlies all human languages and preserves the original connection between sound, form, and meaning.
-
-In this framework, the tryptamine experience grants access to a pre-linguistic or trans-linguistic mode of cognition in which the fundamental relationship between mind, language, and reality is laid bare.
-
-The glossolalia induced by tryptamines is not random vocalization but the expression of this underlying structural language—a kind of assembly language that lies behind all human speech.
-
-The experiencer discovers they can make the extradimensional objects visible through vocalization, suggesting that the relationship between sound and form in this primal language is not arbitrary (as in human language) but intrinsic and causal.
-
-This is fundamentally different from classical Pentecostal glossolalia, which McKenna noted produces "pools of saliva eighteen inches across on the floors of South American churches."
-
-After classical glossolalia, practitioners turn to ask bystanders, "Did I do it?" The tryptamine-induced phenomenon is a brain state allowing expression of something that lies behind language entirely—a structural capacity for meaning-making that predates any particular human tongue.
-
-## Implications for the Evolution of Language
-
-McKenna drew a radical implication from this Philonic framework: if meaning can be beheld directly in the tryptamine state, then human language as it currently exists is merely a shadow of a more fundamental cognitive capacity.
-
-He speculated that a human language might be possible "in which the intent of meaning is actually beheld in three-dimensional space," and that given sufficient cultural engagement with this capacity over thousands of years, it could become a "cultural convenience" comparable to mathematics.
-
-This connects to McKenna's broader eschatological framework, in which history is the process by which humanity discovers progressively deeper dimensions of the Logos.
-
-The tryptamine experience represents an anticipation of this culmination—a glimpse of a mode of cognition in which the separation between signifier and signified, between language and reality, has been overcome.
-
-The trajectory from Philo's "things heard" to "things beheld" is not merely an individual epistemological progression but a species-level evolutionary trajectory.
-
-## The Logos as Living Intelligence
-
-Central to McKenna's interpretation is that the Logos encountered in the tryptamine state is not a philosophical abstraction but a living presence—an active intelligence with which the experiencer enters into genuine dialogue.
-
-This stands in sharp contrast to the academic treatment of Philo, in which the Logos is typically understood as a conceptual mediator within an elaborate theological system.
-
-For McKenna, Philo's description was not theoretical but descriptive: an account of an experiential reality that could be verified through the judicious use of tryptamine hallucinogens.
-
-The entities encountered in the DMT space are manifestations of the Logos in its visual, beheld form—meaning itself, presented for direct apprehension by a consciousness temporarily liberated from the constraints of ordinary linguistic cognition.
-
-## See Also
-
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- [[mckenna-tryptamine-glossolalia-and-primal-language]]
-- [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]
-- [[mckenna-valis-hibernation-of-the-logos]]
-
-## References
-
-- McKenna, T. (1983/1992). Tryptamine Hallucinogens and Consciousness. *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
-- Philo of Alexandria. Works on the Logos, particularly *De Opificio Mundi* and *Legum Allegoriae*.
-- McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
-- Graves, R. (1948). *The White Goddess*. Farrar, Straus and Giroux.

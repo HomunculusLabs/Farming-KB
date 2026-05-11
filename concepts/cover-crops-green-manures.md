@@ -5,17 +5,18 @@ updated: 2026-04-19
 type: concept
 tags: [soil, agriculture, permaculture]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 # Permaculture Cover Crops and Green Manures
 
 **Updated:** 2026-04-18
 
-Cover crops and green manures are plants grown primarily to benefit the soil rather than for harvest. They are one of the most powerful tools in the ecological gardener's toolkit, building soil fertility, preventing erosion, suppressing weeds, and improving soil structure with minimal cost and effort.
+Cover crops and green manures are plants grown primarily to benefit the soil rather than for harvest. They are one of the most powerful tools in the ecological gardener's toolkit, [[building-soil-fertility-long-term]], preventing erosion, suppressing weeds, and improving soil structure with minimal cost and effort.
 
 ## What Are Cover Crops?
 
-Cover crops are plants grown to cover and protect bare soil between main crop rotations. Green manures are cover crops that are intentionally incorporated into the soil (or cut and used as mulch) to add organic matter and nutrients. The terms are often used interchangeably.
+Cover crops are plants grown to cover and protect bare soil between main crop rotations. Green manures are cover crops that are intentionally incorporated into the soil (or cut and used as mulch) to add [[savory-soil-organic-matter-and-decomposition-dynamics]] nutrients. The terms are often used interchangeably.
 
 ## Functions of Cover Crops
 
@@ -31,8 +32,8 @@ Leguminous cover crops fix atmospheric nitrogen through symbiotic bacteria (Rhiz
 ### Organic Matter Addition
 All cover crops add organic matter when cut or incorporated:
 - **Annual ryegrass:** Produces massive root mass and top growth; excellent for building soil structure
-- **Buckwheat:** Fast-growing summer cover; produces abundant organic matter in 6 weeks; attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- **Oats:** Fast-growing fall cover; winter-kills in cold climates leaving a mulch layer
+- **Buckwheat:** Fast-growing summer cover; produces abundant [[maintaining-organic-matter-in-vegetable-gardens]] 6 weeks; attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Oats:** Fast-growing fall cover; winter-kills [[query-how-do-i-grow-figs-in-cold-climates]] leaving a mulch layer
 - **Sorghum-sudangrass:** Produces enormous biomass in hot weather; deep roots break compaction
 
 ### Erosion Control
@@ -49,14 +50,14 @@ Cover crops outcompete weeds for light, water, and nutrients:
 - **Hairy vetch:** Dense mat suppresses weeds when established
 
 ### Soil Structure Improvement
-Cover crop roots improve soil structure:
+Cover crop roots [[query-how-do-fungi-improve-soil-structure]]:
 - **Daikon radish:** Deep taproot (3-6 feet) breaks hardpan and compaction; decomposes leaving channels for water infiltration
 - **Hairy vetch:** Deep roots improve soil aggregation
 - **Alfalfa:** Very deep taproot (10-20 feet) breaks subsoil compaction
 
 ### Pest Management
 Some cover crops disrupt [[hamilton-pest-and-disease-control-organic]] cycles:
-- **Buckwheat:** Attracts beneficial insects; smothers weeds that harbor pests
+- **Buckwheat:** Attracts [[hamilton-beneficial-insects-and-biological-pest-control]]; smothers weeds that harbor pests
 - **Marigold:** Root exudates suppress soil nematodes
 - **Sudangrass:** Produces compounds toxic to certain soil pathogens
 
@@ -87,44 +88,3 @@ Some cover crops disrupt [[hamilton-pest-and-disease-control-organic]] cycles:
 - **Need beneficial [[hemenway-insectary-plants-and-beneficial-insects]]?** Buckwheat, clover, phacelia
 
 ## Management
-
-### Planting
-- Broadcast seed and rake lightly, or drill at recommended depth
-- Inoculate legume seed with appropriate Rhizobium bacteria for maximum nitrogen fixation
-- Plant 4-6 weeks before first frost for fall cover crops
-- Cut or incorporate at [[cannabis-flowering-stage-management]] (before seeds set)
-
-### Termination
-- **Chop and drop:** Cut at soil level and leave as mulch (no-till method; preserves soil life)
-- **Tillage:** Incorporate into soil with a tiller (faster decomposition but damages soil life)
-- **Crimping:** Roll cover crop flat with a roller crimper (no-till; effective for rye and vetch)
-- **Winter-kill:** Oats and buckwheat die in freezing weather, leaving a mulch layer
-
-### Timing
-- Allow 2-4 weeks between cover crop termination and planting the next crop (for decomposition)
-- In no-till systems, plant directly through the residue
-
-## Cover Crops in Permaculture Systems
-
-- **Orchards:** White clover or crimson clover as permanent living mulch under fruit trees
-- **Vegetable gardens:** Buckwheat between spring and fall crops; winter rye over winter
-- **Food forests:** Nitrogen-fixing ground covers (clover, vetch, birdsfoot trefoil) between trees
-- **Bare soil:** Any cover crop to prevent erosion and build soil
-- **New beds:** Cover crop for one season before planting to build soil fertility
-
-## See Also
-
-- [[gaias-garden-cover-crops-soil-building]]
-- [[permaculture-nitrogen-fixing-trees-guide]]
-- mollison-mulching-and-soil-health
-- mollison-soil-improvement-and-rehabilitation
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 4: Bringing the Soil to Life
-
-## Related
-
-- [[humus-formation-and-soil-organic-matter]]
-- [[ozier-pdc-composting-and-soil-building]]
-- [[nitrogen-fixing-trees-and-shrubs]]

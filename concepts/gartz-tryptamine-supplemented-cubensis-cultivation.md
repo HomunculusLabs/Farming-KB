@@ -87,16 +87,3 @@ degrades more rapidly than psilocybin when exposed to light, heat, and oxygen.
 See [[psilocybin-degradation-volatility-and-specimen-age]] for details on
 alkaloid stability. The toxicity profile of mushrooms with elevated psilocin
 has not been separately characterized.
-
-## Modern Relevance
-
-The biosynthetic flexibility demonstrated by Gartz has informed modern
-metabolic engineering approaches. The identification of the psilocybin
-biosynthetic gene cluster (PsiD, PsiH, PsiK, PsiM) has enabled heterologous
-production of psilocybin in [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] expression systems.
-
-## See Also
-
-- [[oss-oeric-dosage-guidelines-and-potency]]
-- [[oss-oeric-growing-parameters-cubensis]]
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]

@@ -88,28 +88,3 @@ ratio, favoring the more relaxing and grounding properties of these
 strains for managing PTSD symptoms.
 
 ## Mind-Body Perspective
-
-Psychosomatic researchers reported that WWII combat veterans with
-decades-long PTSD possessed a chronically different thyroid hormone
-profile than normal men, especially elevated T3 concentrations. T3 is a
-potent, fast-acting hormone that readily enters the brain and is
-involved in fight-or-flight responses. Scientists hypothesize that this
-constantly elevated stress hormone profile is part of the mechanism of
-PTSD. PTSD is described as a temporary breakdown of a natural and
-balanced response between body and mind, imagination and will, or
-feeling and action. Many PTSD symptoms are coping mechanisms that
-initially help avoid the traumatic memory but become liabilities over
-time, including irrational fears, aggression, substance abuse, and
-social isolation.
-
-## Summary
-
-Cannabis shows promising potential for [[cannabis-anxiety-and-ptsd-treatment]] through multiple
-mechanisms: modulation of the amygdala's fear response via CB1
-receptors, facilitation of extinction learning, reduction of nightmares
-and flashbacks, and improvement in sleep quality. The total CHI value of
-7 reflects early but compelling evidence, particularly from the Nabilone
-case study showing 72% of patients experienced significant relief from
-treatment-resistant nightmares. Indica-dominant strains with lower
-THC:CBD ratios are generally preferred for their calming, grounding
-effects.

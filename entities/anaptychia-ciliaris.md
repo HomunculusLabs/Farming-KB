@@ -87,21 +87,3 @@ The species is capable of surviving extended periods of desiccation. During dry 
 Vegetative reproduction through thallus fragmentation is probably the primary dispersal mechanism. Fragmented pieces can establish on new substrates if they land on suitable bark surfaces.
 
 ## Related Species
-
-*Anaptychia ciliaris* is the largest and most conspicuous member of the genus. Other *Anaptychia* species tend to be smaller, less densely ciliated, and more restricted in distribution.
-
-*Anaptychia runcinata* is a smaller species with narrower lobes and shorter cilia. It is more common in Mediterranean and warm-temperate regions.
-
-The genus is closely related to *Physcia* and *Physconia*, which share the Physciaceae family but lack the prominent cilia. *Physcia aipolia* is a common lookalike that can be distinguished by its white maculate upper surface and absence of marginal cilia.
-
-Some authorities have suggested merging *Anaptychia* into *Physcia*, but the morphological and chemical differences support maintaining the genera as separate.
-
-Within the Physciaceae, *A. ciliaris* is ecologically positioned as a mesophytic species, intermediate between strictly shade-adapted taxa and sun-loving nitrophytes. This ecological breadth contributes to its relatively wide geographic range.
-
-## See Also
-
-- [[xanthoria-parietina]]
-- [[flavoparmelia-caperata]]
-- [[cladonia-portentosa]]
-- [[lecanora-muralis]]
-- [[bryoria-fremontii]]

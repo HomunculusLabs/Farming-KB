@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Zhu, Y.P. (1998). "Chinese Materia Medica: Chemistry, Pharmacology and Applications." CRC Press.
+  - Zhu, Y.P. (1998). "Chinese herbal-materia-medica: Chemistry, Pharmacology and Applications." CRC Press.
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." People's Medical Publishing House.
   - Li, J. et al. (2017). "Polygala tenuifolia: A Review of Its Phytochemistry, Pharmacology, and Clinical Applications." Journal of Ethnopharmacology, 198, 16-30.
   - Chang, H.M. & But, P.P.H. (1986). "Pharmacology and Applications of Chinese Materia Medica." World Scientific Publishing.
@@ -18,15 +18,15 @@ sources:
 
 ## Overview
 
-Polygala tenuifolia is a perennial herbaceous plant in the family Polygalaceae, commonly known as Yuan Zhi (远志) in traditional Chinese medicine. The species is native to East Asia and has been used medicinally for over 2,000 years in China, Korea, and Japan.
+Polygala tenuifolia is a perennial herbaceous plant in the family Polygalaceae, commonly known as Yuan Zhi (远志) in traditional Chinese medicine. The species is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and has been used medicinally for over 2,000 years in China, Korea, and Japan.
 
 The dried root of Polygala tenuifolia is one of the most important cognitive-enhancing herbs in the traditional Chinese pharmacopoeia. It is classified as a tonic for the heart and mind, and is traditionally used to calm the spirit, improve memory, and promote mental clarity.
 
-Modern pharmacological research has identified numerous bioactive compounds in the root, including triterpenoid saponins (polygalasaponins), oligosaccharide esters (onjisaponins), and xanthone derivatives. These compounds exhibit neuroprotective, antidepressant, anxiolytic, and cognitive-enhancing properties in preclinical studies.
+Modern pharmacological research has identified numerous [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] the root, including triterpenoid saponins (polygalasaponins), oligosaccharide esters (onjisaponins), and xanthone derivatives. These compounds exhibit neuroprotective, antidepressant, anxiolytic, and cognitive-enhancing properties in preclinical studies.
 
-The species has gained significant attention in recent years as a natural nootropic and adaptogen, both within the traditional medicine community and among researchers investigating novel cognitive-enhancing compounds. Commercial extracts standardized to specific saponin or oligosaccharide ester content are now available as dietary supplements in several countries.
+The species has gained significant attention in recent years as a natural nootropic and adaptogen, both within the traditional medicine community and among researchers investigating novel cognitive-enhancing compounds. Commercial extracts standardized to specific saponin or oligosaccharide ester content are now available as [[medicinal-mushroom-dietary-supplements]] in several countries.
 
-Clinical trials in humans, while still limited, have shown promising results for cognitive function, particularly in elderly populations with mild cognitive impairment. Larger, well-controlled studies are needed to confirm these preliminary findings.
+[[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in humans, while still limited, have shown promising results for cognitive function, particularly in elderly populations with mild cognitive impairment. Larger, well-controlled studies are needed to confirm these preliminary findings.
 
 ## Taxonomy
 
@@ -52,11 +52,11 @@ The specific epithet "tenuifolia" derives from the Latin "tenuis" (slender) and 
 
 The Chinese name Yuan Zhi (远志) translates roughly as "high aspirations" or "far-reaching will," reflecting the traditional belief that the herb strengthens resolve, determination, and mental fortitude. This name has been used in Chinese medical texts since at least the Han Dynasty (206 BCE to 220 CE).
 
-Several Polygala species are used medicinally in different traditions. Polygala senega (senega snakeroot) is used in North American herbal medicine as an expectorant, while Polygala tenuifolia is primarily valued for its cognitive and psychoactive properties in East Asian medicine.
+Several Polygala species are used medicinally in different traditions. Polygala senega (senega snakeroot) is used in [[growing-gourmet-north-american-reishi-species]] [[childrens-herbal-medicine]] as an expectorant, while Polygala tenuifolia is primarily valued for its cognitive and psychoactive properties in East Asian medicine.
 
 ## Morphology
 
-Polygala tenuifolia is a small perennial herb growing 10 to 30 centimeters tall from a thick, woody rootstock. The root is the primary plant part used in medicine, and can reach 10 to 20 centimeters in length in mature plants.
+Polygala tenuifolia is a small perennial [[herb-growing-guide]] 10 to 30 centimeters tall from a thick, woody rootstock. The root is the primary plant part used in medicine, and can reach 10 to 20 centimeters in length in mature plants.
 
 The stems are slender, erect or ascending, and sparingly branched. They arise from a woody crown at the base of the plant and are typically green to purplish-green in color.
 
@@ -84,31 +84,6 @@ Triterpenoid saponins (polygalasaponins) are the major bioactive constituents, a
 
 Oligosaccharide esters (tenuifolisides) are another important class of compounds. Tenuifoliside A and related compounds have demonstrated significant neuroprotective and antidepressant activity in preclinical studies. These compounds are unique to Polygala species and contribute to the species' distinctive pharmacological profile.
 
-Xanthone derivatives including polygalaxanthone III have been identified as antioxidant and neuroprotective compounds. These phenolic compounds contribute to the free radical scavenging activity observed in root extracts.
+Xanthone derivatives including polygalaxanthone III have been identified as antioxidant and neuroprotective compounds. These [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] contribute to the free radical scavenging activity observed in root extracts.
 
 Additional constituents include polygalitol (a cyclitol), sucrose esters, flavonoids, and trace amounts of alkaloids. The overall chemical complexity of the root is believed to underlie the broad range of pharmacological activities reported for Yuan Zhi preparations.
-
-## Traditional and Modern Use
-
-In traditional Chinese medicine, Yuan Zhi is classified as acrid, bitter, and slightly warm in nature. It enters the Heart, Kidney, and Lung meridians according to the traditional classification system.
-
-The primary traditional indications are for calming the spirit (shen), tranquilizing the mind, resolving phlegm, and opening the orifices. It is prescribed for insomnia, palpitations, anxiety, forgetfulness, poor concentration, and emotional disturbances. Yuan Zhi is a key ingredient in several classical Chinese herbal formulas, including Kai Xin San (Happy Powder) and Gui Pi Tang (Restore the Spleen Decoction).
-
-Modern pharmacological research has provided support for several traditional uses. Preclinical studies demonstrate that Polygala tenuifolia root extracts enhance learning and memory in animal models, possibly through modulation of cholinergic neurotransmission and brain-derived neurotrophic factor (BDNF) signaling.
-
-Antidepressant and anxiolytic effects have been documented in multiple animal studies. The oligosaccharide esters and saponins appear to act through modulation of the hypothalamic-pituitary-adrenal (HPA) axis and monoamine neurotransmitter systems.
-
-The root is traditionally processed before use in Chinese medicine. Processing methods include stir-baking with Glycyrrhiza (licorice) root to reduce irritation of the throat, a common side effect of the raw herb. The processing also modifies the chemical composition of the root, potentially enhancing certain therapeutic properties.
-
-Yuan Zhi is typically dosed at 3 to 10 grams of dried root per day in decoctions, or equivalent amounts in powdered extract form. It is often combined with other cognitive-enhancing herbs such as Acorus (shi chang pu), Panax ginseng (ren shen), and Poria (fu ling) in traditional formulas.
-
-## See Also
-
-- [[ocimum-basilicum]]
-- [[passiflora-incarnata]]
-- [[melissa-officinalis]]
-- [[leonotis-leonurus]]
-- [[piper-methysticum]]
-- [[justicia-pectoralis]]
-- [[typha-latifolia]]
-- [[acacia]]

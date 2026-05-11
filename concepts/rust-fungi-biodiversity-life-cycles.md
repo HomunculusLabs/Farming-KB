@@ -1,5 +1,5 @@
 ---
-title: [[biodiversity-rust-fungi-urediniomycetes]]: Biodiversity, [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], and Collection
+title: Rust [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -88,21 +88,3 @@ host-range data.
 ## Major Genera and Species
 
 The genus Puccinia is the largest rust genus, with over 4,000
-described species infecting a vast range of angiosperm hosts.
-Other important genera include Uromyces (parasitic on Fabaceae
-and other families, often autoecious), Melampsora (salicicolous
-and other hosts), Cronartium (heteroecious, alternate hosts
-include Ribes and Castilleja), Gymnosporangium (cedar-apple
-rusts, heteroecious between Juniperus and Rosaceae), and
-Phragmidium (parasitic on Rosa species). The genus
-Pucciniastrum includes species pathogenic on Ericaceae and
-Betulaceae. Ravenelia is a tropical genus characterised by
-ornate teliospores with columnar cells. Endocronartium is an
-autoecious genus causing gall rusts on hard pines in western
-North America. Crossopsora and Sphaerophragmium are notable
-tropical genera, many of which remain poorly studied.
-
-## See Also
-- [[straminipiles-oomycetes-fungus-like-chromists]]
-- [[fungal-pathogens-in-agriculture]]
-- [[tropical-vs-temperate-fungal-diversity]]

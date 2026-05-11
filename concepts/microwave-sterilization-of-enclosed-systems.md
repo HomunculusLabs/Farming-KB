@@ -1,5 +1,5 @@
 ---
-title: "Microwave microwave sterilization of enclosed systems Systems"
+title: Microwave Sterilization Of Enclosed Systems
 tags:
   - sterilization
   - microwave
@@ -16,7 +16,7 @@ type: concept
 
 # Microwave Sterilization of Enclosed Systems
 
-Microwave sterilization of enclosed systems is a capability demonstrated
+[[microwave-sterilization]] of enclosed systems is a capability demonstrated
 through NASA research showing that 2.45 GHz microwave radiation can
 penetrate through [[microwave-penetration-through-elastomeric-materials-sterilization]] and sterilize the internal surfaces
 of fully sealed or enclosed assemblies. This finding is critical for
@@ -35,7 +35,7 @@ Conventional [[conventional-surface-sterilization-methods-limitations-comparison
 
 - **Autoclaving** requires the entire assembly to be disassembled and placed
   in a pressure vessel, which is often impractical.
-- **UV irradiation** cannot reach shadowed surfaces inside enclosed spaces.
+- **UV irradiation** cannot reach shadowed surfaces inside [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]].
 - **Chemical disinfectants** may not reach all internal surfaces through
   complex fluid paths, and residues are difficult to remove from sealed
   volumes.
@@ -45,7 +45,7 @@ Conventional [[conventional-surface-sterilization-methods-limitations-comparison
 ## Microwave Penetration Through Elastomers
 
 The NASA experiments demonstrated that microwave radiation at 2.45 GHz can
-effectively penetrate common elastomeric materials used in seals, gaskets,
+effectively penetrate common [[microwave-penetration-elastomeric-materials]] used in seals, gaskets,
 and flexible fittings. This means that microwave energy applied to the
 exterior of an elastomeric seal can reach and sterilize the contact surfaces
 on both sides of the seal simultaneously.
@@ -88,11 +88,3 @@ can be designed. Rather than requiring that all surfaces be directly
 exposed to the sterilization agent (as with UV), the system designer can
 use microwave-transparent materials at strategic points to allow energy to
 reach enclosed surfaces.
-
-The MSAP ([[microwave-sterilizable-access-port-nasa-space-biology]] for the engineered system using this capability
-- [[microwave-exposure-system-architecture-surface-sterilization]]
-- [[microwave-sterilization-system-hardware-architecture]]
-
-## See Also
-
-- [[elastomer-penetrating-microwave-sterilization-enclosed-systems]]

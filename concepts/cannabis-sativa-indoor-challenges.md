@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa Indoor Cultivation Challenges
+title: Cannabis Sativa Indoor Challenges
 source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev (2014)
 tags: [cannabis, sativa, indoor-growing, cultivation, challenges]
 created: 2026-05-08
@@ -7,10 +7,10 @@ created: 2026-05-08
 
 # Cannabis Sativa Indoor Cultivation Challenges
 
-Growing cannabis sativa strains indoors presents a unique set of
+Growing [[landrace-cannabis-sativa-strains]] indoors presents a unique set of
 challenges that have historically made these plants less popular among
 home growers than their indica counterparts. As S.T. Oner observes in
-Cannabis Sativa Volume 3, sativa has been the second child of the
+Cannabis Sativa Volume 3, sativa has been [[oner-sativa-renaissance-rise-of-the-second-child]] of the
 cannabis family for the last couple of decades. Since the advent of
 widespread indoor growing, which favored the short stature, hardiness,
 and heavy yields of indica plants, sativa has been standing behind
@@ -24,9 +24,9 @@ The most obvious challenge is height. Many sativa strains can reach
 14 feet when given adequate growing space and lighting. Indoor grow
 rooms typically have 7-10 feet of usable vertical space, meaning
 unmanaged sativa plants will quickly outgrow their environment. This
-necessitates height management techniques including Low Stress Training
+necessitates height management techniques including [[low-stress-training]]
 (LST), Screen of Green (ScrOG), topping, super cropping, and careful
-timing of the transition from vegetative to flowering light cycles.
+timing of the transition from [[query-how-to-transition-cannabis-from-vegetative-to-flowering]] light cycles.
 Royal Queen Seeds recommends that indoor growers of Amnesia Haze engage
 in LST to ensure crops do not grow too big and wild. Philosopher Seeds
 suggests pruning Amnesika 2.0 at the fifth internode and limiting
@@ -84,42 +84,7 @@ problems with the plants. It takes a lot of skills to pull off a 16-week
 flowering sativa well indoors, period. When some growers try and grow
 them, they screw up, and the final haul is sub-par at best, if not
 downright ragweed. This creates a negative feedback loop where bad
-experiences discourage further sativa cultivation attempts. The Rev
+experiences discourage further sativa [[lactarius-cultivation-attempts]]. The Rev
 recommends starting with hybrids rather than pure sativas, gradually
 developing the skills needed for more challenging varieties. He also
 suggests that smoking well-grown sativa would change many growers'
-opinions about the variety's value and desirability.
-
-## Harvest Quality and Yield Considerations
-
-Sativa plants grown indoors often produce lower yields per square foot than
-indicas, primarily due to their airy bud structure. The flowers tend to be
-less dense and more elongated, which can be misleading when assessing actual
-potency. However, sativa buds often contain higher concentrations of
-terpenes and cannabinoids relative to their weight, meaning the quality per
-gram can exceed that of denser indica flowers. Proper drying and curing
-techniques are especially important for sativas, as the loose bud structure
-makes them prone to overdrying. A slow cure of 4-8 weeks preserves the
-complex [[cannabis-terpene-profiles-sativa]] that distinguish premium sativa from average
-commercial product. The Rev emphasizes that patience during the finishing
-stages is critical for sativa quality.
-
-## The Sativa Revolution
-
-Despite these challenges, a sativa revolution is underway. As legal
-systems shift away from prohibition, growers who once had to hide in
-closets can now cultivate in larger spaces. [[cervantes-medical-marijuana-pharmacology]] users
-discovered that many had been numbing themselves with indicas when
-they really needed sativa's energizing, inspirational effects. Spanish
-breeders have been particularly successful at creating indoor-friendly
-sativa hybrids, taking advantage of southern Spain's climate that
-suits sativa growing. North American breeders are bringing sativa
-traits into indica plants, creating hybrids small enough for indoor
-growing but with sativa's cerebral effects. The future of indoor
-sativa cultivation looks increasingly promising as breeding and
-growing techniques continue to improve and evolve.
-
-## See Also
-- [[haze-breeding-lineage]]
-- [[low-stress-training]]
-- [[cannabis-sativa-indoor-challenges-and-solutions]]

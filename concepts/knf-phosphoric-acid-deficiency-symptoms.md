@@ -1,7 +1,7 @@
 ---
-title: "KNF cho-water-soluble-phosphoric-acid-preparation [[knf-calcium-deficiency-symptoms]]"
+title: Knf Phosphoric Acid Deficiency Symptoms
 created: 2026-04-28
-tags: [knf, natural-farming, phosphoric-acid, deficiency, plant-health]
+tags: [knf, [[natural-farming]], phosphoric-acid, deficiency, plant-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
@@ -87,42 +87,3 @@ sesame stem charcoal in [[plant-cell-structure-and-organelles]] and is fundament
 4. Blow air into the water with a tube once every two days to
    introduce oxygen. This aeration promotes phosphoric acid
    dissolution in the water.
-
-### Application Rates
-- Alone: Dilute 700 ml of crude WS-PA liquid with 20 liters of
-  water for application.
-- With WS-Ca: Dilute WS-PA with water in the ratio of 1:1000 when
-  used together with water-soluble calcium.
-
-## When to Apply WS-PA
-
-1. Apply WS-PA during the changeover period. It promotes the
-   differentiation of flower buds, resulting in high fertility and
-   improved yield.
-
-2. WS-PA improves the sugar content of fruits when applied during
-   the [[knf-reproductive-growth-stage]] stage.
-
-3. Apply WS-PA when the colors of leaves turn light or dark green,
-   indicating a potential phosphorus imbalance.
-
-## Environmental Conditions
-
-1. The optimum temperature ranges from 23 to 25 degrees C for both
-   [[casing-soil-preparation-and-application]] of WS-PA.
-
-2. Select a cool and shaded place with no direct sunlight for
-   storage and preparation.
-
-## Key Differences from Other Mineral Inputs
-
-Unlike water-soluble calcium which is most effective during the
-changeover and reproductive stages, WS-PA specifically targets the
-transition period between vegetative and reproductive growth. Its
-primary role is enabling the plant to shift resources from leaf
-production to flower and fruit development by supplying the
-phosphoric acid needed for cell division in reproductive tissues.
-
-## See Also
-
-- [[knf-water-soluble-phosphoric-acid-wspa]]

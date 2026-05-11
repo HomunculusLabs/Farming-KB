@@ -11,8 +11,8 @@ The cold house winter harvest system, developed by Eliot Coleman at Four Season 
 Harborside, Maine (USDA Zone 5), demonstrates that fresh vegetables can be produced
 year-round in cold climates using unheated greenhouses combined with simple, low-cost
 technologies. The system is built on three foundational components that work in synergy:
-cold-hardy vegetables, succession planting, and protected cultivation through double-
-layer climate modification. (see [[coleman-double-cover-microclimate-protection]]).
+cold-hardy vegetables, [[coleman-succession-planting]], and [[coleman-protected-cultivation]] through double-
+[[coleman-double-layer-climate-modification-temperature-data]]. (see [[coleman-double-cover-microclimate-protection]]).
 
 ## The Three Components
 
@@ -55,7 +55,7 @@ Planting continues through September and October, with the latest sowings intend
 reach harvestable size just as the day length begins increasing again in February.
 Each crop has specific ideal sowing dates that must be determined through local
 experimentation — the dates that work in coastal Maine will differ from those in the
-Midwest, the Pacific Northwest, or the South.
+Midwest, the [[psilocybin-north-america-pacific-northwest]], or the South.
 
 The succession approach means that greenhouses are never left empty. Within twenty-four
 hours of harvesting a crop, the bed is cleared, the soil is prepared, and the next
@@ -81,54 +81,10 @@ freezing solid.
 The inner layer also increases relative humidity, which provides additional freeze
 protection and reduces moisture stress on the plants. The soil itself acts as a thermal
 mass, absorbing heat during sunny days and releasing it slowly at night. No artificial
-heating, thermal storage systems, or insulating materials are required.
+heating, [[coleman-soil-heat-mass-passive-thermal-storage]] systems, or insulating materials are required.
 
 ## The Difference Between Season Extension and Harvest Extension
 
 A key conceptual insight from Coleman's work is the distinction between extending the
-growing season and extending the harvest season. In a heated greenhouse, the goal is
+[[savory-growing-season-and-non-growing-season-management]] extending the harvest season. In a heated greenhouse, the goal is
 to keep plants actively growing through the winter — this requires significant energy
-input to maintain temperatures at which photosynthesis and cell division proceed at
-useful rates. In the cold house system, the goal is different: crops are brought to
-near-maturity in the fall, and then maintained in a state of suspended animation
-through the winter. The harvest comes from cutting and re-cutting these established
-plants, not from new growth.
-
-This distinction is fundamental to the economics of the system. Maintaining harvest
-requires far less energy and intervention than maintaining growth. The plants survive
-winter conditions that would kill seedlings or actively growing plants, because mature
-plants are considerably more cold-hardy than juvenile ones. The cold house approach
-essentially converts the greenhouse into a large outdoor cold frame — not a heated
-growing environment but a protected storage environment for living crops.
-
-## Zone Considerations
-
-Coleman's system was developed in Zone 5, where winter temperatures can reach -20°F
-(-29°C). Over 85% of the continental United States is south of his location and
-receives more winter sunshine and milder temperatures. For growers in Zones 6 and 7,
-the cold house system is even easier and more productive. In Zones 8 and above,
-unheated greenhouses may provide sufficient protection without the inner row cover
-layer. The system is scalable — from a small backyard cold frame to commercial-scale
-hoop houses — and the principles remain the same regardless of scale.
-
-## Economic Advantages
-
-The cold house system offers compelling economics compared to heated greenhouse
-production. With no fuel costs for heating, the primary expenses are the greenhouse
-structure itself, row cover material, seeds, and labor. The return per square foot
-is high because the same space produces multiple crops per year through succession
-planting. Coleman's records show that the eight winter months of cold house production
-can generate gross revenue comparable to the four summer months of field production,
-while requiring far fewer inputs and less energy.
-
-The system also provides marketing advantages. Fresh, locally grown winter vegetables
-command premium prices and generate strong customer loyalty. The ability to offer
-salad greens, carrots, and other fresh produce in January creates a distinctive
-market presence that differentiates the farm from competitors who rely on storage
-crops or shipped-in produce during the winter months.
-
-## See Also
-
-- [[mobile-greenhouses]]
-- [[parisian-maraichage-history]]
-- [[winter-succession-planting-schedule]]

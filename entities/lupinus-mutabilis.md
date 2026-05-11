@@ -88,26 +88,3 @@ Root rot caused by *Fusarium* and *Rhizoctonia* species can reduce stands in wat
 ## Breeding and Genetic Improvement
 
 The most significant breeding achievement for tarwi has been the development of low-alkaloid "sweet" lines. Early work at the University of Cusco (Peru) and later programs in Germany and Poland reduced alkaloid content from 2–4% to below 0.02%.
-
-Breeding objectives include improving yield stability, reducing maturity period, and enhancing disease resistance. The species' partial outcrossing behavior provides genetic variability that breeders can exploit.
-
-Molecular characterization using SSR markers and SNP arrays has revealed high genetic diversity among Andean landraces, particularly in the Lake Titicaca region. This diversity provides a valuable resource for future breeding programs.
-
-## Cultural Significance
-
-Tarwi holds an important place in Andean food culture, particularly in Peru, Bolivia, and Ecuador. The seeds are sold in traditional markets and used in regional dishes that have been passed down through generations.
-
-In Ecuadorian cuisine, tarwi is a key ingredient in *ceviche de chocho* (lupin ceviche), where debittered seeds are marinated with citrus juice, onions, and tomatoes. This dish is a popular street food in highland cities.
-
-Archaeological evidence suggests tarwi was consumed alongside quinoa and kiwicha in pre-Columbian Andean civilizations. Its cultivation declined after the Spanish conquest but has experienced renewed interest in recent decades.
-
-## See Also
-
-- lupinus-albus
-- [[pisum-sativum]]
-- [[glycine-max]]
-- [[mucuna-pruriens]]
-- [[arracacia-xanthorrhiza]]
-- [[ullucus-tuberosus]]
-- [[oxalis-tuberosa]]
-- [[pachyrhizus-tuberosus]]

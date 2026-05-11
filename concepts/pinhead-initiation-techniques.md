@@ -5,6 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Pinhead Initiation Techniques
@@ -87,14 +88,3 @@ Evaporation of moisture from the casing surface is critical for pinning. It crea
 ## Border Breaks
 
 A phenomenon in Psilocybe cubensis culture where mushrooms form between the casing and the glass of mason jars. Caused by high humidity pockets and premature light stimulation. In tray culture with proper side light management, border breaks are uncommon.
-
-## Related
-
-- mushroom-environmental-parameters for species-specific pinning conditions
-- mushroom-lighting-and-environmental-requirements for light specifications
-
-- stamets-mushroom-growing-parameters-by-species
-- tropical-mushroom-spawn-production-materials
-- [[pinning-triggers]]
-- [[pleurotus-ostreatus]]
-- [[agaricus-brunnescens]]

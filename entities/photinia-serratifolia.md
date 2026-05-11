@@ -40,7 +40,7 @@ The bark on mature trunks is grey-brown and slightly fissured, and young twigs a
 
 Growth habit varies with conditions, from a large multi-stemmed shrub in exposed sites to a single-trunked small tree in sheltered valleys. The crown is broadly conical to rounded, with dense foliage that provides effective screening.
 
-Bud break occurs in early spring, with flowers appearing from April to May depending on latitude and elevation. The fruiting period extends from September through December.
+Bud break occurs in [[coleman-overwintered-onions-and-early-spring-crops]], with flowers appearing from April to May depending on latitude and elevation. The fruiting period extends from September through December.
 
 ## Distribution and Habitat
 
@@ -50,7 +50,7 @@ Several botanical varieties have been recognized within the species, reflecting 
 
 In its native range, it grows in broad-leaved evergreen and mixed forests at elevations of 500–2,200 meters. It is commonly found on mountain slopes, in valleys, and along forest margins.
 
-The species tolerates a range of soil types from acidic to slightly alkaline but performs best in well-drained, loamy soils with adequate organic matter. It prefers partial shade to full sun.
+The species tolerates a range of soil types from acidic to slightly alkaline but performs best in well-drained, loamy soils with adequate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. It prefers partial shade to full sun.
 
 Annual precipitation in its native range varies from 800 to 2,000 mm, indicating a preference for humid to subhumid climates. It can tolerate short periods of drought once established.
 
@@ -60,11 +60,11 @@ Associated canopy trees in native forests include species of Castanopsis, Lithoc
 
 The flowers attract a wide range of pollinators, including bees, hoverflies, and butterflies. The prolonged bloom period in spring provides an early-season nectar and pollen resource.
 
-The persistent red fruits are consumed by numerous bird species during autumn and winter, facilitating seed dispersal. Frugivorous birds such as bulbuls and thrushes are particularly important dispersal agents.
+The persistent red fruits are consumed by numerous bird species during autumn and winter, facilitating [[clay-pellet-seed-dispersal]]. Frugivorous birds such as bulbuls and thrushes are particularly important dispersal agents.
 
 Fruit persistence varies by climate, with fruits remaining on the plant for 3–5 months in mild winters. In regions with heavy bird populations, fruits may be stripped within weeks of ripening.
 
-In forest ecosystems, Photinia serratifolia serves as understory and canopy-edge vegetation. It contributes to the structural diversity of montane and subtropical forest communities.
+In [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], Photinia serratifolia serves as understory and canopy-edge vegetation. It contributes to the structural diversity of montane and subtropical forest communities.
 
 Deer and livestock generally avoid browsing the foliage, which may contain low concentrations of cyanogenic glycosides typical of many Rosaceae. This unpalatability can aid establishment in grazed landscapes.
 
@@ -74,40 +74,16 @@ Photinia serratifolia is widely planted in parks, gardens, and as a street tree 
 
 Propagation is primarily by seed, which requires stratification at 1–5°C for 60–90 days to break dormancy. Semi-hardwood cuttings taken in late summer also root readily under mist.
 
-Germination rates from fresh seed are typically 60–80%, declining significantly after one year of dry storage. Nursery production usually involves sowing stratified seed in spring trays and transplanting seedlings after one growing season.
+Germination rates from fresh seed are typically 60–80%, declining significantly after one year of dry storage. Nursery production usually involves sowing stratified seed in spring trays and transplanting seedlings after one [[extending-growing-season]].
 
 Grafting onto Photinia serratifolia rootstock is practiced for selected cultivars to ensure uniformity and vigor. Air layering of mature branches is an alternative method used in Chinese horticultural practice.
 
 The species responds well to pruning and can be shaped into hedges or maintained as a specimen tree. Young plants benefit from regular watering during establishment but are moderately drought-tolerant once mature.
 
-Fertilization with a balanced slow-release formulation in early spring supports vigorous vegetative growth and abundant flowering. Mulching around the root zone conserves moisture and suppresses weed competition.
+Fertilization with a balanced slow-release formulation in early spring supports vigorous [[cannabis-vegetative-growth-stage]] and abundant flowering. Mulching around the root zone conserves moisture and suppresses weed competition.
 
-Major pests include aphids, scale insects, and the photinia leaf miner, which can cause significant foliar damage if uncontrolled. Root rot from Phytophthora species can develop in poorly drained soils.
+Major pests include aphids, scale insects, and the photinia leaf miner, which can cause significant foliar damage if uncontrolled. [[cannabis-root-rot-prevention-and-treatment]] from Phytophthora species can develop in poorly drained soils.
 
 ## Uses and Significance
 
 In traditional Chinese landscaping, Photinia serratifolia has been valued for centuries as a garden specimen and boundary planting. Its year-round evergreen foliage and seasonal floral display make it a versatile ornamental.
-
-The wood is hard and dense, suitable for small-scale woodworking and tool handles in rural communities. However, its primary economic value remains ornamental horticulture.
-
-In Chinese traditional medicine, the leaves have occasionally been used in preparations for treating skin conditions and digestive complaints. These uses are not well documented in modern pharmacological literature.
-
-The species has been used in reforestation and land-reclamation projects in southern China due to its tolerance of poor soils and its soil-binding root system. It is also planted as a windbreak in some agricultural settings.
-
-Urban planners in several Chinese cities have adopted Photinia serratifolia as a street and parking-lot tree due to its tolerance of air pollution and compacted soils. Its dense canopy provides effective shade in paved environments.
-
-Extracts from the leaves have been investigated for antimicrobial and antioxidant properties, though these studies remain preliminary. The fruits are edible but tart and are not widely consumed by humans.
-
-The species has been introduced to gardens in Japan, Korea, Europe, North America, and New Zealand. In some areas, it has naturalized locally from garden plantings, though it is not considered invasive.
-
-## See Also
-
-- [[crataegus-laevigata]]
-- [[crataegus-monogyna]]
-- [[rhododendron-maximum]]
-- [[rhododendron-ponticum]]
-- [[kalmia-latifolia]]
-- [[vaccinium-corymbosum]]
-- [[camellia-japonica]]
-- [[camellia-sinensis]]
-- [[ilex-aquifolium]]

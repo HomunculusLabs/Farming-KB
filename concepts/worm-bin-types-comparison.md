@@ -9,11 +9,11 @@ sources: []
 
 # Worm Bin Types Comparison
 
-Vermicomposting is a cornerstone of homestead waste management, converting kitchen scraps and organic matter into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types [[knf-vs-chemical-farming-comparison]] used by homesteaders.
+Vermicomposting is a cornerstone of homestead [[off-grid-waste-management]], converting kitchen scraps [[hamilton-composting-and-organic-matter-management]] into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types used by homesteaders.
 
 ## Overview of Types
 
-1. **Plastic Bin (Single or Dual Chamber)** — Simple, low-cost, enclosed container
+1. **[[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] (Single or Dual Chamber)** — Simple, low-cost, enclosed container
 2. **Flow-Through Bin** — Large-scale continuous harvest system
 3. **Worm Tower** — In-garden buried system
 4. **Stacking Tray System** — Multi-tier vertical migration system
@@ -112,15 +112,15 @@ Commercial systems like the Worm Factory or Can-O-Worms use multiple stacked tra
 
 ## Worm Species
 
-Most homestead bins use one of two species [[ultra-low-green-manure-cover-crop-species]]:
+Most homestead bins use one of two species:
 - **Eisenia fetida (Red Wigglers):** Most common, hardy, reproduce quickly, tolerate a wide range of conditions
 - **Eisenia hortensis (European Nightcrawlers):** Larger, prefer cooler temperatures, good for garden beds
 
 ## Related Concepts
 
-- [[vermicomposting]] — Detailed guide on worm composting process and management
-- [[composting-methods-comparison]] — General composting methods including thermophilic composting as an alternative or complement to vermicomposting
-- [[cannabis-living-soil-guide]] — How worm castings contribute to living soil biology
+- [[vermicomposting]] — [[goat-husbandry-detailed-guide]] on worm composting process and management
+- [[composting-methods-comparison]] — General [[humanure-composting-methods-and-safety]] including thermophilic composting as an alternative or complement to vermicomposting
+- [[cannabis-living-soil-guide]] — How [[ingham-vermicompost-worm-castings]] contribute to living soil biology
 
 ## Key Maintenance Tips
 

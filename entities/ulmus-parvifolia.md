@@ -87,34 +87,3 @@ Chinese elm is susceptible to elm yellows, a phytoplasmal disease that causes ye
 Its disease resistance has made it an important genetic resource for elm breeding programs aimed at restoring American elm (*Ulmus americana*) to the North American landscape. Hybrids between *U. parvifolia* and *U. americana* have shown promising disease tolerance.
 
 Chinese elm also supports mycorrhizal associations with both arbuscular and [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]. These relationships enhance [[plant-nutrient-uptake-mechanisms]] in poor soils and may contribute to the species' tolerance of disturbed urban sites.
-
-The dense canopy provides significant shade, reducing ground-level temperatures by 3–5°C compared to unshaded surfaces. This microclimate effect benefits understory plantings and reduces urban heat island effects in paved environments.
-
-## Notable Cultivars
-
-Several named cultivars are available in the nursery trade. 'Drake' is a widely planted selection with a broad, rounded crown, small leaves, and excellent heat tolerance. It is the standard street tree cultivar in many southern California municipalities.
-
-'Aria' is a compact selection noted for its dense foliage and uniform canopy. 'Allee' features a more upright, vase-shaped form with strong [[comparison-central-leader-vs-open-center-fruit-tree-training]] and resistance to elm yellows. 'Bosque' was selected for its narrow, columnar habit suitable for confined urban spaces.
-
-'True Green' retains its foliage later into autumn than other cultivars, providing extended shade in warm climates. 'Seiju' is a dwarf form prized for bonsai, with extremely small leaves and slow growth rate.
-
-'Seedling' variants from Chinese nurseries are also available and offer genetic diversity but less predictable ornamental traits. Cultivar selection should account for hardiness zone, desired form, and intended landscape function.
-
-## See Also
-
-- [[ulmus-americana]]
-- [[ulmus-rubra]]
-- [[quercus-robur]]
-- [[quercus-suber]]
-- [[fagus-sylvatica]]
-- [[acer-saccharum]]
-- [[betula-pendula]]
-- [[platanus-occidentalis]]
-- [[tilia-cordata]]
-- [[salix-alba]]
-- [[acer-rubrum]]
-- [[salix-babylonica]]
-- [[populus-tremuloides]]
-- [[gleditsia-triacanthos]]
-- [[juglans-nigra]]
-- [[gymnocladus-dioicus]]

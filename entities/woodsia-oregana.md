@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora of North America Editorial Committee (1993). "Woodsia." Flora of North America North of Mexico, Vol. 2. Oxford University Press.
+  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Woodsia." Flora of North America North of Mexico, Vol. 2. Oxford University Press.
   - Dorn, R.D. (2000). Vascular Plants of Wyoming, 3rd ed. Mountain West Publishing.
   - Windham, M.D. (1993). "A revision of the genus Woodsia in North America." Contributions from the University of Michigan Herbarium, 19, 81–115.
   - US Forest Service (2022). "USDA Plants Profile: Woodsia oregana D.C. Eaton." plants.usda.gov.
@@ -55,7 +55,7 @@ Isolated populations also occur in the Sierra Nevada of California and the Black
 
 It is an obligate calcicole, strongly preferring limestone and dolomite substrates. Typical habitats include vertical cliff faces, rock crevices, talus fields, and exposed scree slopes at 1,500–3,500 meters elevation.
 
-The fern tolerates extreme exposure, full sun, and desiccating winds. It is frequently found in association with other rock-dwelling ferns such as *Cystopteris fragilis* and *Asplenium trichomanes*.
+The fern tolerates extreme exposure, full sun, and desiccating winds. It is frequently found in association with other rock-dwelling ferns such as *[[cystopteris-fragilis]]* and *[[asplenium-trichomanes]]*.
 
 Elevational distribution varies by latitude. In the southern Rockies, the species is restricted to elevations above 2,500 meters, while in the northern Cascades and Canadian populations it may occur as low as 1,200 meters.
 
@@ -71,11 +71,11 @@ Woodsia oregana plays a limited but meaningful role in alpine and subalpine plan
 
 The species provides microhabitat for small arthropods and occasionally serves as a nesting substrate for alpine birds and small mammals seeking sheltered crevices.
 
-Grazing pressure from mountain goats and bighorn sheep is minimal due to the fern's inaccessible habitat. However, recreational rock climbing has been identified as a localized threat in popular areas such as Rocky Mountain National Park and the Cascades.
+[[gadd-mycelial-network-resilience-grazing-pressure]] from mountain goats and bighorn sheep is minimal due to the fern's inaccessible habitat. However, recreational rock climbing has been identified as a localized threat in popular areas such as Rocky Mountain National Park and the Cascades.
 
 The species has not been formally listed as threatened or endangered but is tracked by several state heritage programs. Climate change-driven shifts in alpine moisture regimes may pose a long-term risk to populations at the lower elevational margins of its range.
 
-Population sizes at individual sites are typically small, ranging from a few dozen to several hundred ramets. The species' clonal growth habit means that apparent population size may overestimate genetic diversity.
+Population sizes at individual sites are typically small, ranging from a few dozen to several hundred ramets. The species' clonal growth habit means that apparent population size may overestimate [[biodiversity-fungal-genetic-diversity]].
 
 Epiphytic lichens and mosses frequently colonize the rocky substrates surrounding *W. oregana* colonies, creating micro-communities of cryptogamic plants on cliff faces.
 
@@ -85,37 +85,6 @@ Woodsia oregana is cultivated by specialized fern enthusiasts and alpine plant g
 
 A standard mix of 50% limestone chips, 30% coarse sand, and 20% organic matter replicates its natural substrate. The fern performs best in rock gardens, trough planters, or alpine house conditions.
 
-Watering should be moderate during the growing season with reduced moisture in winter to prevent crown rot. The species is hardy to at least USDA Zone 4.
+Watering should be moderate during the [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] reduced moisture in winter to prevent crown rot. The species is hardy to at least USDA Zone 4.
 
 Propagation is primarily by spore, which germinates readily on a surface of sterilized limestone gravel kept consistently moist. Spore-grown plants typically reach maturity in 2–3 years under optimal conditions.
-
-Spores are collected in late summer when sori turn brown and begin to dehisce. Fresh spores show higher germination rates than stored material.
-
-Division of established clumps is possible but slow, as the rhizomes are compact and delicately rooted in their rocky substrate. Commercial availability is limited, and most cultivated specimens originate from spore culture.
-
-Pests and diseases are rarely problematic in cultivation. The primary risk is crown rot from overwatering during winter dormancy, which can kill entire clumps if drainage is insufficient.
-
-## Related Species
-
-Woodsia oregana is part of a complex of closely related North American *Woodsia* species that differ primarily in scale morphology, frond dissection, and chromosome number.
-
-- *Woodsia scopulina* (Rocky Mountain woodsia) — larger fronds, more deeply lobed pinnae, found at similar elevations but on non-calcareous substrates
-- *Woodsia obtusa* (Blunt-lobed woodsia) — eastern North American counterpart, broader pinnae with blunt apices
-- *Woodsia ilvensis* (Rusty woodsia) — circumboreal species with distinctive rusty-colored indusial remnants
-
-Hybridization between *W. oregana* and *W. scopulina* has been reported in areas of sympatry in the northern Rockies, producing sterile triploid individuals with intermediate morphology.
-
-The genus *Woodsia* contains approximately 30 species worldwide, with the center of diversity in eastern Asia. Only about six species occur in North America, making *W. oregana* a significant component of the continent's rock fern diversity.
-
-## See Also
-
-- [[cystopteris-fragilis]]
-- [[asplenium-trichomanes]]
-- [[adiantum-capillus-veneris]]
-- [[cheilanthes-lanosa]]
-- [[cryptogramma-acrostichoides]]
-- [[polystichum-munitum]]
-- [[pteridium-aquilinum]]
-- [[dryopteris-filix-mas]]
-- [[polystichum-acrostichoides]]
-- [[onoclea-sensibilis]]

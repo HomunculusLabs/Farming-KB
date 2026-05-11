@@ -5,6 +5,7 @@ tags: [urban-agriculture, rooftop-farming, permaculture, container-gardening, co
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - mollison-urban-permaculture
   - holzer-urban-farming
   - green-roof-and-living-walls

@@ -1,7 +1,7 @@
 ---
 title: "Cannabis Mind-Body Molecules and Emotions Biology"
 source: "uwe-blesching-the-cannabis-health-index.md"
-source_author: "Uwe Blesching"
+source_author: "[[uwe-blesching]]"
 published: 2015
 tags: [cannabis, mind-body-medicine, endocannabinoid-system, neurotransmitters, emotions]
 ---
@@ -10,11 +10,11 @@ tags: [cannabis, mind-body-medicine, endocannabinoid-system, neurotransmitters, 
 
 ## Overview
 
-Uwe Blesching's *The Cannabis Health Index* connects the endocannabinoid
+Uwe Blesching's *The [[blesching-cannabis-health-index-autoimmune-conditions]]* connects the endocannabinoid
 system to mind-body medicine. Chapter II establishes that molecules and
 emotions exist in a two-way relationship: biochemical states influence
 emotional states, and conscious emotional interventions can alter
-biochemistry. The ECS bridges the CNS, autonomic nervous system, and
+biochemistry. The ECS bridges the CNS, [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], and
 immune system in this bidirectional communication network.
 
 ## The Two-Way Street: Molecules and Emotions
@@ -32,12 +32,12 @@ These promote relaxation, social bonding, and cognitive openness:
 
 - **Acetylcholine** — "I remember." Learning, memory, parasympathetic
   tone. Supports the "rest and digest" state.
-- **Anandamide (AEA)** — "I am at ease." Endogenous "bliss molecule."
+- **Anandamide (AEA)** — "I am at ease." Endogenous "[[anandamide-bliss-molecule]]."
   Binds CB1 and CB2 simultaneously, modulating nervous and immune
   function. Directly responsive to emotional state: stress degrades
   it via FAAH enzyme activation; relaxation and positive social
   experiences elevate it.
-- **Endogenous Opioids** — "It feels so good when the pain stops."
+- **[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]** — "It feels so good when the pain stops."
   Endorphins and enkephalins producing analgesia and euphoria.
   Synergize with the endocannabinoid system.
 - **GABA** — "I am melting." Primary inhibitory neurotransmitter.
@@ -46,7 +46,7 @@ These promote relaxation, social bonding, and cognitive openness:
   physical touch, childbirth, and positive social interactions.
   Promotes trust and empathy.
 - **Serotonin** — "I am happy." Regulates mood, sleep, appetite.
-  Low levels associated with depression and anxiety disorders.
+  Low levels associated with depression and [[cannabis-for-anxiety-disorders]].
 
 ## Constricting Molecules (Alertness, Stress, Defense)
 
@@ -59,8 +59,8 @@ Essential for survival but pathological when chronically elevated:
   anticipation. Dysregulation implicated in addiction, ADHD,
   Parkinson's disease.
 - **Norepinephrine** — "I am attentive!" Maintains alertness and
-  focus. Works with epinephrine in the stress response.
-- **Cortisol** — "I am stressed." Primary stress hormone. Chronic
+  focus. Works with epinephrine in the [[epinephrine-stress-response-endocannabinoid-modulation-blesching]].
+- **Cortisol** — "I am stressed." Primary [[abscisic-acid-plant-stress-hormone]]. Chronic
   elevation suppresses immunity, impairs memory, promotes abdominal
   fat storage, and damages cardiovascular health.
 - **Glutamate** — "I am excited." Primary excitatory neurotransmitter.
@@ -87,48 +87,4 @@ Blesching integrates "Chi" from traditional Chinese medicine with
 modern neurochemistry, proposing that vital energy corresponds to the
 balanced interplay of expansive and constricting molecules. Practices
 traditionally described as "building Chi" — meditation, breathwork,
-gentle movement (tai chi, yoga), social connection, gratitude — shift
-molecular balance toward expansive states through the ECS.
-
-The practical framework includes: (1) taking ownership of current
-state without judgment, (2) releasing suppressed emotions maintaining
-chronic constricting-molecule elevation, (3) identifying unhealthy
-mental-emotional habits (guilt, martyrdom, harbored anger), (4)
-building healthy habits (gratitude, compassion, forgiveness), (5)
-using conscious choice to redirect neurochemical cascades, (6)
-reprogramming limiting beliefs that perpetuate stress responses.
-
-## Implications for Cannabis Therapy
-
-CB1-dominant conditions (neurological, mental health) suggest
-anandamide/CB1 deficiency — favor higher THC:CBD ratios. CB2-dominant
-conditions (autoimmune, inflammation) suggest CB2 deficiency — favor
-higher CBD:THC ratios. Set and setting directly influence therapeutic
-outcomes through the molecule-emotion feedback loop. Mindfulness
-combined with cannabis amplifies effects by consciously directing
-the endocannabinoid response. The CHI score integrates evidence-based
-research with these mind-body considerations.
-
-## Evidence Context
-
-Approximately 85% of medical interventions lack solid scientific
-evidence, a finding supported by the Cochrane Collaboration. The CHI
-was developed to address this gap specifically for medical cannabis,
-providing evidence-graded evaluation across 100+ chronic conditions.
-The mind-body component is integral because emotional state measurably
-affects immune function, inflammation, pain perception, and healing
-through endocannabinoid-mediated pathways.
-
-## Key References
-
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books.
-- Mechoulam, R. & Gaoni, Y. — discovery of THC structure (1964)
-- Devane et al. — discovery of anandamide (1992)
-- Cochrane Collaboration — systematic reviews of evidence-based medicine
-
-## See Also
-
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[blesching-mind-body-medicine-psychosomatic-foundations]]
-- [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]
-- [[cannabis-subjective-therapeutic-window-dosing]]
+gentle movement ([[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]], yoga), social connection, gratitude — shift

@@ -1,6 +1,6 @@
 ---
 
-title: JADAM Pesticide for Slugs and Snails
+title: Jadam Pesticide For Slugs And Snails
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -30,9 +30,9 @@ JADAM's slug/snail control uses [[jadam-wetting-agent-jwa]] combined with sodium
 - Water: to 500L (132 gal)
 
 **With insect control** (slugs + aphids/mites/moths):
-- JWA: 3L + NaOH 1.5kg + JHS 5L (Jerusalem artichoke)
+- JWA: 3L + NaOH 1.5kg + JHS 5L ([[comparison-jerusalem-artichoke-vs-potato]])
 
-**With disease control**:
+**With [[hamilton-pest-and-disease-control-organic]]**:
 - JWA: 3L + NaOH 1.5kg + JS 1-2L
 
 ## Preparation Steps
@@ -73,10 +73,10 @@ Integrate with JNP for best results:
 - **Remove hiding places**: clear debris, reduce thick mulch in problem areas
 - **Beer traps**: shallow dishes of beer attract and drown slugs (supplementary)
 - **Copper barriers**: copper tape around beds deters slugs (they get electric shock)
-- **Diatomaceous earth**: sharp particles damage slug soft bodies (supplementary)
+- **[[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]**: sharp particles damage slug soft bodies (supplementary)
 - **Hand-picking**: early morning or evening patrols, drop in soapy water
 - **Reduce moisture**: improve drainage, avoid overhead watering at night
-- **Encourage predators**: ground beetles, ducks, frogs, toads
+- **Encourage predators**: [[ground-beetles-carabidae-and-biological-pest-control]], ducks, frogs, toads
 
 ## Pests Controlled
 

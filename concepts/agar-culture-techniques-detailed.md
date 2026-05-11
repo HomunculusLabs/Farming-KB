@@ -49,13 +49,13 @@ For long-term preservation, mycelium is grown in test tube slants:
 
 ## Pouring Plates
 
-Proper plate pouring technique is essential for contamination control:
+Proper plate pouring technique is essential for [[mushroom-contamination-control]]:
 - Allow sterilized agar to cool to approximately 120-130 deg F (49-54 deg C)
   before pouring; too hot will warp plates, too cool will cause premature
   solidification
 - Pour 20-25 mL per 100mm plate for a consistent depth of 3-4mm
 - Lift the plate lid only minimally, working near a flame or in a
-  laminar flow hood
+  [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - Allow plates to solidify undisturbed before moving
 - Store poured plates at room temperature for 24-48 hours before use to
   reveal any contamination from the pouring process
@@ -63,15 +63,15 @@ Proper plate pouring technique is essential for contamination control:
 ## Inoculation Techniques
 
 Several methods are used to introduce mycelium to agar plates:
-- **Spore streaking**: A spore print or spore syringe is streaked across
+- **Spore streaking**: A spore print or [[comparison-mushroom-liquid-culture-vs-spore-syringe]] is streaked across
   the agar surface in a zigzag pattern. Germination typically occurs
-  within 3-14 days depending on species and spore viability.
-- **Tissue culture**: A small piece of interior flesh from a fresh
+  within 3-14 days depending on species and [[pf-tek-spore-viability-degradation]].
+- **[[cervantes-tissue-culture-micropropagation]]**: A small piece of interior flesh from a fresh
   mushroom fruit body is placed on the agar surface. This preserves the
   exact genetics of the parent mushroom and is the preferred method for
   cloning desirable specimens.
 - **Agar-to-agar transfer**: A small wedge of colonized agar is cut and
-  transferred to a fresh plate. Used for strain isolation, cleaning
+  transferred to a fresh plate. Used for [[growing-gourmet-spore-germination-strain-isolation]], cleaning
   contaminated cultures, or expanding mycelium stock.
 
 ## Strain Isolation
@@ -87,35 +87,3 @@ However, some species naturally exhibit cottony mycelium and still fruit
 well, so morphology alone should not be the sole selection criterion.
 
 ## Antibacterial Agar Additives
-
-When working with contaminated specimens or wild collections,
-antibacterial agents can be added to agar to suppress bacterial growth:
-- Gentamicin sulfate at 50 mg/L is effective against most gram-negative
-  and gram-positive bacteria without inhibiting fungal growth
-- Chloramphenicol at 25-50 mg/L is a broad-spectrum antibiotic option
-- These should be filter-sterilized and added after the agar has cooled
-  to below 130 deg F to preserve antibiotic activity
-
-## Contamination Identification
-
-Early identification of contamination on agar plates saves time and
-resources. Common contaminants include:
-- **Bacterial colonies**: Appear as smooth, glossy, round colonies,
-  often with distinct coloration (yellow, white, orange). Bacterial
-  growth may have a mucus-like texture and produce a distinct odor.
-- **Mold contaminants**: Aspergillus species appear as dark green to
-  black powdery colonies; Trichoderma appears as rapidly expanding
-  green patches; Penicillium forms blue-green colonies with distinct
-  margins.
-- **Yeast**: Creamy, raised colonies that may resemble slow-growing
-  fungal mycelium but lack defined hyphal structure.
-
-## See Also
-- [[mushroom-sterile-technique-detailed]]
-- [[stamets-cultivator-liquid-culture-propagation-methods]]
-- [[cultivator-contaminants-of-mushroom-culture]]
-- [[mushroom-cultivator-stock-culture-preservation]]
-- [[mushroom-cultivator-tissue-culture-spore-germination]]
-- [[mushroom-cultivator-agar-media-formulas]]
-- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
-- [[cultivator-sterile-technique-and-agar-culture]]

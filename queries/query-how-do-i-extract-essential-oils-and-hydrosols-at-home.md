@@ -1,5 +1,5 @@
 ---
-title: "How Do I query how do i extract query how do i extract [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] hydrosols at home hydrosols at home Oils and Hydrosols at Home?"
+title: Query How Do I Extract Essential Oils And Hydrosols At Home
 tags: [query, essential-oils, hydrosols, distillation, aromatic-plants, herbalism]
 date: 2026-04-28
 updated: 2026-04-28

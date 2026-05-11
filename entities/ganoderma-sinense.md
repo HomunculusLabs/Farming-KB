@@ -88,24 +88,3 @@ As a weak pathogen, *G. sinense* can colonize living trees through root or trunk
 Chemically, *G. lucidum* contains higher total triterpenoids while *G. sinense* has a distinct polysaccharide composition with more galactose. Both species share the core β-glucan immunomodulatory activity.
 
 [[mushroom-cancer-clinical-trials-overview]] comparing the two species are limited. A small crossover study (n=40) found comparable effects on sleep quality and fatigue scores between *G. sinense* and *G. lucidum* extracts at equivalent polysaccharide doses.
-
-## Quality Control and Standardization
-
-The Chinese Pharmacopoeia specifies that Lingzhi (both species) must contain not less than 0.5% polysaccharides and 0.15% total triterpenoids. HPLC fingerprinting is used to differentiate *G. sinense* from *G. lucidum* in commercial products.
-
-Adulteration of *G. sinense* with cheaper *G. lucidum* (or vice versa) is a known quality concern. DNA barcoding using the ITS region provides reliable species identification. PCR-RFLP methods have been developed for rapid screening.
-
-Ganoderic acid 3-O-β-D-glucuronide is a marker compound specific to *G. sinense* that is absent or present in only trace amounts in *G. lucidum*. Its detection by HPLC confirms species identity in raw materials and finished products.
-
-## See Also
-
-- [[ganoderma-applanatum]]
-- [[phellinus-igniarius-entity]]
-- [[inonotus-obliquus]]
-- [[wolfiporia-extensa]]
-- [[sanghuangporus-baumii]]
-- [[fomes-fomentarius]]
-- [[armillaria-mellea-entity]]
-- [[tremella-fuciformis]]
-- [[paxillus-involutus]]
-- [[larrea-tridentata]]

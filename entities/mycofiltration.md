@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - Stamets, P. (2005). *Mycelium Running: How Mushrooms Can Help Save the World*. Ten Speed Press.
   - Stamets, P. (2010). "Mycocompounders and Mycofiltration." *Mycotechnology*, various proceedings.
   - Thomas, G., & Stamets, P. (2004). "Preliminary results of mycofiltration of *E. coli* from surface water." *Fungi* magazine.
@@ -87,49 +88,3 @@ Stamets' 2004 study demonstrated *Stropharia rugosoannulata* beds reduced *E. co
 4. **Mycelium inoculation:** Spawn at 10–20% by volume
 5. **Surface layer:** Straw mulch or wood chip cover
 6. **Water distribution:** Perforated pipe or level spreader
-
-### Maintenance
-- **Colonization:** 2–6 weeks for full colonization
-- **Lifespan:** 1–5 years; keep moist but not waterlogged
-- **Monitoring:** Regular influent/effluent water quality testing
-- **End of life:** Spent substrate can be composted or used as mulch
-
-## Advantages and Limitations
-
-### Advantages
-- Low cost; uses waste substrates (wood chips, straw)
-- Passive operation — no electricity or chemicals once established
-- Multi-contaminant removal (bacteria, nutrients, metals, organics)
-- Self-sustaining mycelial growth within the filter medium
-- Carbon sequestration; spent substrate contributes to soil carbon
-- Aesthetic integration as garden beds, swales, or berms
-
-### Limitations
-- Temperature sensitive (activity declines below 5°C and above 35°C)
-- Cannot handle high-velocity flows without pre-treatment
-- Variable performance depending on species selection and maintenance
-- Limited regulatory recognition as certified treatment technology
-- Heavy sediment loads can clog the mycelial mat over time
-
-## Integration with Permaculture
-
-- **Zone 2–3 placement:** Between intensive growing areas and waterways/wetlands
-- **Stacked functions:** Beds simultaneously grow edible mushrooms (*Stropharia rugosoannulata*, *Pleurotus ostreatus*)
-- **Edge effects:** Positioned at land/water interface for maximum beneficial edge habitat
-- **Earthworks integration:** Combined with swales, berms, and contour planting
-
-## Research Directions
-
-- **Genetic optimization:** Engineering strains with enhanced pollutant-degrading capabilities
-- **Composite systems:** Combining mycofiltration with constructed wetlands, biochar, and phytoremediation
-- **Pharmaceutical removal:** Addressing emerging contaminants (antibiotics, hormones, microplastics)
-
-## See Also
-
-- [[mycofiltration-overview]]
-- [[contamination-identification-prevention]]
-
-- [[stropharia-rugosoannulata]] — Wine cap mushroom, primary species for mycofiltration
-- [[trametes-versicolor-entity]] — Turkey tail, powerful enzymatic degrader
-- permaculture — Design framework integrating mycofiltration
-- Bioremediation — General biological contamination cleanup approaches

@@ -1,5 +1,5 @@
 ---
-title: Plant [[plant-olfaction-and-chemical-communication]] Sensing
+title: Plant Olfaction Chemical Sensing
 source: grahamholmes-what-a-plant-knowsindd.md
 tags:
   - botany
@@ -88,63 +88,3 @@ and chlorophyll and must attach to a host plant to extract nutrients. The
 remarkable aspect of dodder's behavior is how it locates its host. Research
 by Consuelo De Moraes and colleagues demonstrated that dodder seedlings can
 detect volatile chemicals emitted by potential host plants and actively grow
-toward them. In choice experiments, dodder consistently grew toward tomato
-plants over other species, and could even distinguish between healthy and
-diseased hosts based on their volatile profiles. The dodder seedling rotates
-as it grows, sampling the air in a manner analogous to a dog sniffing to
-locate the source of an odor. Once the dodder makes contact with a host, it
-forms haustoria — specialized structures that penetrate the host's vascular
-system. This ability to actively "sniff out" hosts demonstrates that plant
-olfaction can be every bit as directed and purposeful as animal olfaction.
-
-## Mechanisms of Plant Olfaction
-
-At the molecular level, plant olfaction relies on receptor proteins —
-typically located on cell membranes — that bind specific volatile molecules.
-When a volatile compound binds to its receptor, it triggers a signal
-transduction cascade inside the cell, often involving changes in calcium
-ion concentrations, activation of protein kinases, and ultimately changes
-in gene expression. While the specific receptors for many plant volatile
-signals have not yet been fully characterized, the general mechanism parallels
-animal olfaction. In animals, odorant molecules bind to G-protein-coupled
-receptors (GPCRs) on olfactory neuron cilia, triggering a nerve impulse. In
-plants, the receptors are different but the logic is similar: a chemical
-signal in the air is detected by a binding protein, converted into an
-intracellular signal, and transduced into a physiological response. Plants
-can also detect non-volatile chemicals through root exudates and other
-mechanisms, but airborne volatile detection represents the closest analogue
-to animal olfaction.
-
-## Terpenoids and Green Leaf Volatiles
-
-The volatile compounds that plants detect and produce belong to several
-chemical classes. Terpenoids (also called isoprenoids) are a large and diverse
-group that includes monoterpenes (C10), sesquiterpenes (C15), and their
-derivatives. These compounds contribute to the characteristic scents of many
-plants — the fragrance of pine trees, citrus, lavender, and herbs are all
-primarily due to terpenoids. Green leaf volatiles (GLVs) are C6 aldehydes,
-alcohols, and esters produced when plant cell membranes are damaged by
-herbivores or mechanical injury. The familiar "smell of cut grass" is largely
-due to GLVs such as (Z)-3-hexenal and (Z)-3-hexenol. Benzene derivatives
-and other aromatic compounds round out the major classes of plant volatiles.
-Each class of compound can carry different information — GLVs typically signal
-immediate damage, while terpenoids may signal sustained herbivore attack and
-serve longer-range communication. Plants have evolved the ability to detect
-and distinguish among these different chemical signals, mounting appropriate
-responses based on the specific threat or opportunity detected.
-
-## Role in Herbivore Defense
-
-Plant olfaction plays a central role in herbivore defense, operating at
-multiple levels. At the direct level, plants detect herbivore-associated
-molecular patterns (HAMPs) and volatile organic compounds (VOCs) from
-damaged tissue, triggering the production of defensive compounds that make
-the plant less palatable or nutritious. At the indirect level, plants emit
-volatiles that attract natural enemies of the herbivores — predatory mites,
-parasitic wasps, and other beneficial organisms. At the community level,
-volatile signals propagate warnings to neighboring plants, allowing them to
-pre-emptively activate their defenses. This multi-layered defense system,
-mediated by chemical sensing, demonstrates that plants are active participants
-in [[king-stropharia-ecological-interactions-permaculture]] rather than passive victims of herbivory. See also
-[[thigmomorphogenesis-plant-touch-response]] for how plants combine chemical
-sensing with mechanical sensing in their defense strategies.

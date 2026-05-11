@@ -11,7 +11,7 @@ type: concept
 
 # Off-Grid Mushroom Cultivation
 
-Mushroom cultivation can be adapted for off-grid and resource-limited situations
+[[mushroom-cultivation]] can be adapted for off-grid and resource-limited situations
 by choosing appropriate methods that minimize energy consumption. From solar
 pasteurization and cold-treatment to cardboard spawn creation and dehydration
 storage, growers can produce mushrooms without electricity or elaborate
@@ -34,8 +34,8 @@ harder. Paper, cardboard, dried vegetable waste, and cotton clothing all serve a
 viable substrates. For outdoor off-grid cultivation, leverage seasonal
 temperature windows by matching mushroom strains to your climate. Underground
 spaces such as bunkers, caves, wine cellars, and basements provide naturally
-stable [[greg-green-temperature-and-humidity-control]], though gas exchange must be managed to prevent
-carbon dioxide buildup using low-light plants, solar-powered LED lights, or
+stable [[greg-green-temperature-and-humidity-control]], though [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] must be managed to prevent
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] buildup using low-light plants, solar-powered LED lights, or
 passive ventilation.
 
 ## Cardboard Culture Spawn Creation
@@ -61,7 +61,7 @@ and repeat to build volume.
 Once initial cardboard sheets are colonized, expand by layering colonized sheets
 with fresh wet cardboard in a plastic tub, bin, or bucket. Each expansion takes
 a few days to a week. Build up a volume of "sheet spawn" to inoculate logs,
-stumps, wood chips, and pasteurized media. Cardboard spawn, though not sterile,
+stumps, [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]], and pasteurized media. Cardboard spawn, though not sterile,
 is quite clean and maintains vigor when transferred to different media types.
 Always maintain the culture by expanding onto different substrates rather than
 propagating over multiple generations on the same medium, which decreases vigor.
@@ -81,53 +81,10 @@ and freezing. For dehydration, allow colonized substrate to dry completely.
 Dried mushroom stems with bases can be stored in bundles in a cool, dry location
 and revived by wrapping in wet cardboard. [[cotter-oyster-mushroom-cultivation]] stem bases have
 remained viable for nine to twelve months using this method, provided they are
-not exposed to extreme heat or cold.
+not exposed to [[extreme-heat-preparedness]] or cold.
 
 For freezing environments, store spawn or mushroom stem bases outdoors in
 insulated containers such as sealed thermoses for several months. Drying the
 mushrooms first helps prevent cell crystallization. Bundle stems in clean, dry
 cardboard for insulation against temperature fluctuations. Cardboard cultures
 can also be frozen: submerge in water, freeze for several months, thaw slowly,
-and place on fresh wet cardboard to resume expansion.
-
-## Mushroom Rescue Modules for Disaster Relief
-
-Mushroom rescue modules are inexpensive, transportable protein generators
-capable of producing food within three weeks. For an estimated $50, a module
-contains twenty 5-gallon pots, 15 pounds of dried straw, 5 pounds of oyster
-spawn, a fuel stick for pasteurization, waterproof matches, plastic sheeting,
-rope, a mosquito trapping bucket, and Bti larvicide culture. Week one creates a
-mother culture; week two expands tenfold; week three creates 100 containers;
-and by weeks eight through eleven, assuming 20 percent contamination losses, the
-system can yield over 7,500 pounds of mushrooms.
-
-The modules also provide mosquito control: mycelium produces carbon dioxide and
-octenol (a mushroom extract mimicking human breath and sweat), attracting
-mosquitoes to a Bti-treated bucket where larvae are destroyed. [[query-how-to-grow-oyster-mushrooms-at-home]]
-produce almost double the protein of free-range chickens over a fourteen-week
-period (20 to 30 percent protein dry weight). Modules can also filter
-contaminated water and reduce pathogen loads, with [[oyster-mushroom-spent-substrate-recycling]] usable as
-livestock feed, mulch, or vermicomposting feedstock.
-
-## Key Points
-
-- Freezing straw at 0 degrees F for one week destroys most contamination without
-  electricity
-- Cardboard inoculation works best for oysters, blewits, and king stropharia
-- Incubate cardboard cultures at the coolest available temperature to minimize
-  contamination
-- Dehydrated spawn and stem bases remain viable for 9 to 12 months when kept
-  cool and dry
-- A $50 mushroom rescue module can yield over 7,500 pounds of mushrooms in
-  eleven weeks
-- Oyster mushrooms produce nearly double the protein of free-range chickens
-  over the same period
-- Underground spaces provide natural temperature and humidity stability for
-  off-grid fruiting
-- Always expand cultures onto different substrate types to maintain vigor
-
-## See Also
-
-- [[cotter-mushroom-rescue-modules-disaster-relief]]
-- [[cotter-spawn-production]]
-- [[cotter-urban-mushroom-cultivation]]

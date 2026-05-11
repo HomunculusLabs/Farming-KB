@@ -88,15 +88,3 @@ long enough at the coldest point. For most applications, maintaining
 
 Straw pasteurizes readily with hot water. Hardwood sawdust supplemented
 with bran or grain requires more careful treatment because the
-supplements are highly nutritious and attract contamination. Supplemented
-blocks may need full sterilization via autoclaving at 121 degrees C for
-small bags. Compost substrates for button mushrooms are pasteurized in
-bulk rooms during Phase II. For detailed methods, see
-[[cotter-pasteurization-sterilization-methods]] and
-[[bulk-substrate-preparation]].
-
-## See Also
-
-- [[bulk-substrate-preparation]]
-- [[contamination-identification-prevention]]
-- [[cotter-pasteurization-sterilization-methods]]

@@ -87,25 +87,3 @@ The species is red-listed or considered threatened in several European countries
 Habitat loss through clear-cut logging is the primary threat to [[growing-gourmet-north-american-reishi-species]] populations. Selective retention of large conifers during timber harvest can partially mitigate impacts, but full recovery requires decades of forest regrowth.
 
 [[dighton-fungi-climate-change-feedback]] poses an emerging threat through altered precipitation patterns and increased frequency of drought events. Extended dry periods cause thallus desiccation and reduced growth rates in already moisture-limited populations.
-
-## Similar Species
-
-Alectoria nigricans is a closely related species found at higher elevations and in more exposed Arctic-alpine habitats. It tends to be shorter, more densely branched, and darker in coloration than A. sarmentosa.
-
-Bryoria species, particularly Bryoria fuscescens, can appear superficially similar. Bryoria is distinguished by its typically darker color, different branching pattern (more irregular and less anastomosing), and the presence of pseudocyphellae.
-
-Usnea species are generally thicker, more robust, and possess a central chord (an elastic central axis visible when the thallus is pulled apart). Alectoria lacks this central chord entirely.
-
-Evernia prunastri (oakmoss) has a flattened, strap-like thallus with a grey-green upper surface and white lower surface, contrasting with the uniformly dark, cylindrical branches of Alectoria.
-
-## See Also
-
-- [[bryoria-fremontii]]
-- [[usnea-hirta]]
-- [[hypogymnia-physodes]]
-- [[peltigera-membranacea]]
-- [[cladonia-rangiferina]]
-- [[ramalina-fastigiata]]
-- [[flavoparmelia-caperata]]
-- [[spore]]
-- [[anaptychia-ciliaris]]

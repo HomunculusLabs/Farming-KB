@@ -87,15 +87,3 @@ Maintaining living roots in the soil through cover crops:
 - See [[comparison-crop-rotation-vs-cover-cropping]] planning
 
 ### Inoculation After Disturbance
-
-After soil disturbance, inoculation can help rebuild mycorrhizal populations:
-- Apply inoculum at planting time
-- Use mycorrhizal-fungi-basics-lowenfels
-- mycorrhizal-inoculation-methods-agriculture
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-## See Also
-- [[mycelial-networks]]
-- [[fungal-hyphae]]
-- [[mycorrhizal-fungi]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[glomalin-mycorrhizal-soil-aggregate-stabilizer-ingham]]

@@ -88,11 +88,3 @@ time. [[oyster-mushroom-shelf-cultivation]] systems where large substrate masses
 detection and rapid response are essential to minimize losses. In commercial
 Korean operations, green mold has been identified as the single most costly
 disease in terms of lost production and increased chemical control expenses.
-
-## Relationship to Substrate Type
-
-The choice of substrate material influences green mold susceptibility.
-Cotton [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]] tend to harbor more naturally occurring microorganisms
-that can compete with Trichoderma, while sawdust-based substrates may be more
-vulnerable due to their lower microbial diversity. Proper [[oyster-straw-substrate-preparation]]
-- [[oyster-brown-blotch-disease]]

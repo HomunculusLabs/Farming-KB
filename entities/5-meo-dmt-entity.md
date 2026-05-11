@@ -34,11 +34,11 @@ N-methyltransferase (TNMT).
 | Source | Tissue | Estimated Concentration | Region |
 |--------|--------|----------------------|--------|
 | Incilius alvarius (Colorado River toad) | Parotoid venom | 5–15% dried | Sonoran Desert |
-| Virola theiodora | Bark resin | 0.1–0.5% | Amazon Basin |
-| Virola surinamensis | Bark resin | 0.1–0.3% | N. South America |
+| [[virola-theiodora]] | Bark resin | 0.1–0.5% | Amazon Basin |
+| [[virola-surinamensis]] | Bark resin | 0.1–0.3% | N. [[guzman-psilocybin-mushrooms-south-america]] |
 | [[yopo-anadenanthera-peregrina-snuff]] (yopo) | Seeds | 0.01–0.05% | Caribbean/S. America |
-| Anadenanthera colubrina (vilca) | Seeds | 0.01–0.05% | South America |
-| Phalaris aquatica | Aerial parts | Trace | Worldwide |
+| [[anadenanthera-colubrina]] (vilca) | Seeds | 0.01–0.05% | South America |
+| [[phalaris-aquatica]] | Aerial parts | Trace | Worldwide |
 
 The most culturally significant source is Incilius alvarius, whose venom
 contains the highest naturally occurring concentration of 5-MeO-DMT known.
@@ -84,65 +84,6 @@ to other psychedelics.
 |-------|-----------|-----------------|
 | Threshold | 2–4 mg | Subtle warmth, mild perceptual shifts |
 | Light | 4–7 mg | Body sensations, mild visuals |
-| Common | 7–12 mg | Full psychedelic, ego dissolution likely |
+| Common | 7–12 mg | Full psychedelic, [[default-mode-network-and-ego-dissolution]] likely |
 | Strong | 12–18 mg | Complete ego death, overwhelming unity |
 | Heavy | 18–25 mg+ | "Whiteout" — self-obliteration, amnesia possible |
-
-### Subjective Effects
-
-- **Onset:** Immediate to 15 seconds — often a "freight train" rush
-- **Peak (2–5 min):** Complete ego dissolution; encounter with "the void"
-  or "pure awareness" — often categorized as mystical experience
-- **Visuals:** Less geometric than DMT/psilocybin; often white, formless
-  light or total collapse of visual field
-- **Physical:** Intense body load, vibrating, tingling, warmth; sometimes
-  described as full-body orgasmic energy
-- **Emotional tone:** Frequently blissful and ecstatic, though challenging
-  experiences are possible at high doses or with poor set/setting
-- **Afterglow:** Sustained hours-to-days enhancement of well-being,
-  emotional openness, and reduced anxiety following the experience
-- **Duration:** 15–40 minutes total with rapid return to baseline
-
-## Safety Profile and Risks
-
-- **Toxicity:** No confirmed human deaths from 5-MeO-DMT alone; LD50 in
-  rodents extremely high. Primary risks are psychological
-- **Cardiovascular:** Transient hypertension and tachycardia during peak;
-  contraindicated with cardiovascular disease
-- **Serotonin syndrome:** Theoretical risk with serotonergic drugs (SSRIs,
-  MAOIs, tramadol). MAOIs dangerously prolong and intensify effects
-- **Psychological risks:** Overwhelming experiences, trauma reactivation,
-  derealization, prolonged dissociation. History of psychosis = extreme caution
-- **Toad venom sourcing:** Collection raises animal welfare concerns.
-  Synthetic production is strongly preferred
-- **[[adverse-effects-and-harm-reduction-psilocybin]]:** Vaporization temperature control critical (170–190 °C).
-  Always have a sober sitter present
-
-## Clinical Research
-
-An observational study (Davis et al., 2019) of 362 participants using
-5-MeO-DMT in ceremonial group settings found significant reductions in
-depression and anxiety sustained at 4-week follow-up, with effect sizes
-comparable to psilocybin [[mushroom-cancer-clinical-trials-overview]]. Preliminary evidence suggests
-rapid reduction in PTSD symptoms and substance craving. Neuroimaging studies
-suggest rapid and sustained reductions in [[psilocybin-default-mode-network-ego-dissolution]] network activity.
-
-## Legal Status
-
-| Region | Status | Notes |
-|--------|--------|-------|
-| [[dmt-containing-plants-united-states-halpern]] | Schedule I | Illegal to possess, manufacture, or distribute |
-| Canada | Schedule III | Controlled substance |
-| United Kingdom | Class A | Misuse of Drugs Act |
-| Australia | Schedule 9 | Prohibited |
-| Mexico | Unregulated (2024) | Toad retreats in legal gray area |
-
-## See Also
-
-- [[2c-p]]
-- [[ayahuasca-pharmacology-maoi-interactions]]
-
-- [[turner-essential-psychedelics-5-meo-dmt-void-experience]]
-- [[brain-neuroscience-and-psychedelic-mechanism]]
-
-See also: [[peyote-and-psychoactive-cacti]]

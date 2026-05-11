@@ -88,24 +88,3 @@ The author traces the word "magic" to "Maga" -- "the Great Gift." The Amanita mu
 The Grail is one of Amanita muscaria's "greatest Gifts to mankind, a magical never-ending source of inspiration, enlightenment, healing, comfort, joy, and by its very existence, astonishment!"
 
 ### Ambrose, Amrita, Nectar
-
-All derive from the Indo-European root meaning "not-death":
-
-- **Greek Ambrosia:** Food/drink of the gods conferring immortality
-- **Persian Amarta:** The Haoma preparation
-- **Sanskrit Amrita:** The Soma preparation
-- **Greek Nectar:** Drink of the gods (etymologically connected)
-
-The living vessel produces all of these -- it is the source of the immortal drink across Indo-European cultures.
-
-## Archaeological Evidence
-
-### Broken Pottery at Eurasian Sites
-
-The author notes massive amounts of discarded pottery at some Eurasian archaeological sites, where pottery was deliberately broken before discarding. This practice would prevent anyone from using a contaminated living vessel by mistake -- a sanitation practice that makes sense only if the vessels were being used for biological cultivation.
-
-## The Author's Conclusion
-
-"The Grail when recreated with Amanita Muscaria matches the Grail of ancient legends perfectly. From it being a never-ending source of wisdom and inspiration to having the spicy smell of the Grail of legend. I believe that the fantastic ability of Amanita Muscaria to resurrect and live in a wooden or terra cotta cup or bowl is the source of the Grail legends, and of all Eurasian stories of magic cups or bowls. It is very unlikely if there is any other explanation for these ancient legends except Amanita Muscaria and its natural ability to do the seemingly impossible. Amanita Muscaria is NATURAL MAGIC."
-
-## See Also

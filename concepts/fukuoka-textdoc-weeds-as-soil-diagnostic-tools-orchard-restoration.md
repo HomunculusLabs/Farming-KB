@@ -88,35 +88,3 @@ Fukuoka's approach translates into specific practices for the orchard farmer:
 5. **Monitor changes over time**: Track which weed species appear and disappear. The changing composition is your progress report. Keep a simple journal noting dominant species each season.
 
 ## The Connection to Nondiscriminating Knowledge
-
-The practice of reading weeds as soil diagnostics is itself an exercise in what Fukuoka calls nondiscriminating knowledge. It requires setting aside preconceptions about which plants are "good" and which are "bad." The farmer must learn to see all plants as expressions of soil conditions, without judgment or preference.
-
-This shift in perception is difficult for farmers trained in conventional agriculture, where weeds are categorically defined as plants that reduce crop yields and must be eliminated. The natural farmer must unlearn this conditioning and develop the ability to see weeds as information rather than as threats. This perceptual shift is perhaps the most challenging aspect of natural farming — more difficult than any technical practice.
-
-Once the shift occurs, however, the farmer gains a powerful tool. Every walk through the orchard becomes a soil assessment. Every change in weed composition becomes a data point. The farmer develops an intuitive understanding of soil health that no laboratory test can match — not because it is more precise, but because it is more holistic, more continuous, and more responsive to the actual conditions of the living soil.
-
-## What This Means for Conventional Agriculture
-
-Conventional agriculture treats every weed as an enemy and every soil problem as requiring a chemical solution. Fukuoka's diagnostic approach reveals the poverty of this worldview. By spraying herbicides, farmers destroy the very organisms that could tell them what their soil needs and that are already working to fix the problems.
-
-The herbicide industry profits from a self-perpetuating cycle: spray herbicide, destroy weed community, lose diagnostic information, miss soil problems until they become severe, apply more chemicals to fix the now-advanced problems. The weeds were the free solution; the chemicals are the expensive problem.
-
-Consider the economic absurdity: farmers spend billions annually on soil testing laboratories, [[cervantes-chemical-fertilizers-guide]] formulated to correct specific deficiencies, and herbicides to eliminate weeds that were trying to correct those very deficiencies. The entire industry of soil chemistry and weed control exists largely because farmers destroyed the free diagnostic and remediation system that nature provided in the form of weed communities. Rebuilding that system requires nothing more than stopping the spraying and waiting.
-
-## The Deeper Philosophy
-
-This weed-based approach reflects a fundamental principle of natural farming: nature already knows what it is doing. The weeds that appear are not mistakes — they are the soil's own immune response. By learning to read weed communities as diagnostic indicators rather than treating them as enemies, the farmer aligns with nature's own soil-building processes.
-
-The farmer who can read weeds has no need for soil science in the conventional sense. The knowledge is direct, experiential, and holistic — the very kind of understanding that Fukuoka calls "nondiscriminating knowledge." It is knowledge gained through the body and the senses, not through instruments and calculations.
-
-This principle extends beyond agriculture to a general epistemology. The human habit of classifying phenomena as "good" or "bad" blinds us to the systemic functions that every organism serves. The weed is not a problem to be solved but a process to be understood. The pest is not an enemy to be destroyed but a population to be balanced. Nature does not make mistakes; it makes adjustments. The farmer who learns to read these adjustments gains access to information that no laboratory can provide.
-
-## Related Concepts
-
-- [[fukuoka-weed-ecology]]
-- [[fukuoka-natural-weed-management]]
-- [[fukuoka-weed-diversity-soil-nutrients]]
-- [[fukuoka-weed-succession-crop-selection-guide]]
-- [[fukuoka-cover-crop-lifespan-clover-decline-weed-reemergence]]
-- [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]
-- [[fukuoka-textdoc-vegetable-weed-family-replacement-orchard-soil-building]]

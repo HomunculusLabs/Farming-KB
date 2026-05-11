@@ -46,9 +46,9 @@ For larger harvests, cut stems back by one-third, leaving at least 4-6 leaves on
 
 ### Culinary Uses
 
-Fresh basil is a staple in Mediterranean cuisine and adds distinctive flavor to many dishes. The [[holly-basil-tulsi-guide|holy basil]] varieties offer spicier notes, while sweet basil provides classic Italian flavor. Use fresh leaves immediately for maximum flavor impact or store properly for later use.
+Fresh basil is a staple in Mediterranean cuisine and adds distinctive flavor to many dishes. The [[holy-basil-tulsi-guide|holy basil]] varieties offer spicier notes, while sweet basil provides classic Italian flavor. Use fresh leaves immediately for maximum flavor impact or store properly for later use.
 
-Common culinary applications include pesto, caprese salad, pasta dishes, and tomato-based sauces. Basil pairs well with [[garlic]], [[olive-oil]], tomatoes, cheeses, and summer vegetables. The leaves should be added at the end of cooking to preserve their delicate flavor and essential oils.
+Common culinary applications include pesto, caprese salad, pasta dishes, and tomato-based sauces. Basil pairs well with [[garlic]], [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]], tomatoes, cheeses, and summer vegetables. The leaves should be added at the end of cooking to preserve their delicate flavor and essential oils.
 
 ### Preservation Methods
 
@@ -100,4 +100,4 @@ The [[comparison-echinacea-vs-tulsi|echinacea and tulsi]] comparisons show how d
 - [[comparison-tulsi-vs-lemon-balm]]
 - [[comparison-echinacea-vs-tulsi]]
 - [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]]
-- [[query-how-to-grow-echinacea-and-what-are-its-medicinal-benefits]]
+- [[query-how-do-i-grow-echinacea-and-what-are-its-medicinal-benefits]]

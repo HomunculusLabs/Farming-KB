@@ -5,6 +5,7 @@ updated: 2026-04-24
 type: concept
 tags: [spiritual, god, nature, farming, philosophy, fukuoka, religion]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka on Spiritual Aspects of Farming and Nature Connection

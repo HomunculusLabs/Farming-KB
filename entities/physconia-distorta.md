@@ -88,26 +88,3 @@ Xanthoria parietina shares a similar habitat preference for nutrient-enriched ba
 Physconia distorta reproduces both sexually through ascospore production and asexually through soredia and isidia. Soredia are primarily produced on marginal soralia, which develop as erumpent powdery patches along the lobe margins.
 
 Apothecia are produced abundantly in mature thalli, releasing two-celled ascospores that are dispersed by wind. [[growing-gourmet-spore-germination-strain-isolation]] requires compatible algal photobiont cells, typically Trebouxia species, for successful establishment.
-
-The photobiont association with Trebouxia allows P. distorta to colonize relatively exposed bark surfaces where other foliose lichens with shade-adapted photobionts cannot establish. This contributes to the species' success in open agricultural landscapes.
-
-Asexual dispersal via soredia is considered the primary colonization mechanism. Soredia are readily dislodged by rain splash and wind, establishing new thalli on suitable bark surfaces within the local area.
-
-## Human Interactions
-
-Physconia distorta has been used in lichen biomonitoring programs across Europe as an indicator of bark eutrophication and nitrogen deposition. Its presence and abundance are recorded in national lichen surveys to assess air quality trends.
-
-The species is not known to have ethnobotanical uses, as its chemistry (physodic acid) is unpalatable and has no documented medicinal properties. However, its sensitivity to ammonia makes it a valuable ecological indicator.
-
-In lichenological education, P. distorta serves as a standard teaching species for spot test methodology and Physciaceae identification. Its reliable PD+ orange reaction makes it useful for introducing students to chemical identification techniques.
-
-## See Also
-
-- [[xanthoria-elegans]]
-- [[physcia-stellaris]]
-- [[flavoparmelia-caperata]]
-- [[melanelia-fuliginosa]]
-- [[lecanora-chlorotera]]
-- [[ramalina-farinacea]]
-- [[xanthoria-polycarpa]]
-- [[ramalina-fraxinea]]

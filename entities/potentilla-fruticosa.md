@@ -20,7 +20,7 @@ sources:
 
 Potentilla fruticosa, commonly known as shrubby cinquefoil or bush cinquefoil, is a compact deciduous shrub in the family Rosaceae. It is one of the most widely distributed woody plants in the Northern Hemisphere, with a circumpolar range spanning [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
 
-The species is renowned for its exceptionally long flowering period, often producing yellow, white, or orange flowers continuously from late spring through the first autumn frosts. This extended bloom time, combined with its compact size and [[dighton-fungal-drought-tolerance-plant-water-relations]], has made it one of the most popular landscape shrubs in temperate regions.
+The species is renowned for its exceptionally long flowering period, often producing yellow, white, or orange flowers continuously from late spring through the first autumn frosts. This extended bloom time, combined with its compact size and [[dighton-fungal-drought-tolerance-plant-water-relations]], has made it one of the most popular landscape shrubs in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Many botanists now place this species in the genus Dasiphora as Dasiphora fruticosa, based on molecular phylogenetic evidence separating it from herbaceous Potentilla. However, the name Potentilla fruticosa remains widely used in horticultural and ecological literature.
 
@@ -36,7 +36,7 @@ The leaves are pinnately compound with five to seven small, elliptic leaflets me
 
 Flowers are saucer-shaped, measuring 2 to 4 centimeters in diameter, with five broadly rounded petals surrounding a central cluster of numerous yellow stamens. The wild-type flower color is bright yellow, but cultivated selections range from white and cream to pink, orange, and red.
 
-Blooming typically begins in June and continues without interruption until October or the first hard frost in most temperate climates. This four-month flowering period is exceptionally long for a woody shrub and is one of the species' most valued ornamental traits.
+Blooming typically begins in June and continues without interruption until October or the first hard frost in most [[fukuoka-natural-farming-temperate-climates]]. This four-month flowering period is exceptionally long for a woody shrub and is one of the species' most valued ornamental traits.
 
 The bark on older stems is peeling and reddish-brown, providing subtle winter interest. The fine branching structure and persistent dried seed heads also contribute to winter texture in the landscape.
 
@@ -44,7 +44,7 @@ Root systems are fibrous and relatively shallow, spreading wider than the above-
 
 ## Distribution and Habitat
 
-Shrubby cinquefoil has one of the broadest natural distributions of any shrub species in the Northern Hemisphere. In North America, it occurs from Alaska and the Yukon east across Canada to Newfoundland, and south through the Rocky Mountains to New Mexico and California.
+Shrubby cinquefoil has one of the broadest natural distributions of any shrub species in the Northern Hemisphere. In [[guzman-psilocybin-mushrooms-north-america]], it occurs from Alaska and the Yukon east across Canada to Newfoundland, and south through the Rocky Mountains to New Mexico and California.
 
 In Eurasia, the species ranges from northern Scandinavia and the British Isles east across Siberia to the Russian Far East, China, and Japan. Isolated populations also occur in the mountains of central and southern Europe.
 
@@ -58,7 +58,7 @@ Elevational distribution ranges from sea level in northern latitudes to over 3,5
 
 Shrubby cinquefoil is one of the easiest landscape shrubs to grow, requiring minimal maintenance once established. It performs best in full sun with at least six hours of direct light daily, with reduced flowering in partial shade.
 
-The species is highly tolerant of urban air pollution and compacted soils, making it suitable for city planting sites. Its natural adaptation to harsh conditions means it rarely requires supplemental irrigation once roots are established.
+The species is highly tolerant of urban [[air-pollution-fungal-community-responses]] and compacted soils, making it suitable for city planting sites. Its natural adaptation to harsh conditions means it rarely requires supplemental irrigation once roots are established.
 
 The species is highly drought-tolerant and does not tolerate persistently wet or poorly drained soils. A light application of balanced fertilizer in [[coleman-overwintered-onions-and-early-spring-crops]] supports vigorous flowering, though the species is not a heavy feeder.
 
@@ -82,40 +82,8 @@ In alpine and subalpine communities, shrubby cinquefoil acts as a pioneer specie
 
 Snow cover provides essential winter protection in the coldest portions of the species' range. Plants exposed to winter desiccation without snow cover may experience stem dieback, though they typically recover vigorously from the base in spring.
 
-The species is increasingly recognized as a valuable component of pollinator-friendly planting schemes. Research from university extension services has documented high visitation rates by diverse native bee species on cultivated cinquefoil plantings.
+The species is increasingly recognized as a valuable component of pollinator-friendly planting schemes. Research from university extension services has documented high visitation rates by diverse [[comparison-native-bee-pollinators-vs-honeybees]] species on cultivated cinquefoil plantings.
 
 Deer and rabbit browsing pressure is generally low on shrubby cinquefoil compared to many other landscape shrubs. This relative herbivore resistance enhances its value in rural and suburban landscapes where wildlife damage is a concern.
 
 ## Landscape Uses
-
-Shrubby cinquefoil is one of the most versatile small shrubs for temperate landscapes. Its compact size, long bloom period, and low maintenance requirements make it suitable for foundation plantings, rock gardens, mixed borders, and mass plantings.
-
-The species is particularly effective in commercial landscapes and public plantings where minimal irrigation and care are available. It performs reliably in parking lot islands, median strips, and roadside plantings across its hardiness range.
-
-The long bloom season makes shrubby cinquefoil a favorite of landscape architects designing for extended seasonal interest. Few other shrubs of similar size can match its continuous four-month display of color.
-
-In rock gardens and alpine plantings, the compact mounding habit and fine-textured foliage create an attractive contrast with larger-leaved and bolder-textured plants. Dwarf cultivars are especially well suited to these settings.
-
-Shrubby cinquefoil is increasingly used in [[comparison-green-roof-vs-earth-sheltered]] and green infrastructure projects in northern climates. Its shallow root system, drought tolerance, and [[coleman-cold-hardiness-testing-ratings]] make it well adapted to the extreme conditions of extensive green roof substrates.
-
-The species pairs effectively with ornamental grasses, sedums, and other low-maintenance perennials in naturalistic and prairie-style plantings. Yellow-flowered cultivars create particularly harmonious combinations with blue-flowered perennials and silver-foliaged plants.
-
-Shrubby cinquefoil is an excellent choice for highway and roadside beautification projects due to its reliability across a broad geographic range. Its tolerance of salt spray and de-icing compounds makes it suitable for coastal and northern urban installations.
-
-## See Also
-
-- [[physocarpus-opulifolius]]
-- [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
-- [[viburnum-opulus]]
-- rosa-canina
-- agrimonia-eupatoria
-- [[filipendula-ulmaria]]
-- crataegus-monogyna
-- [[crataegus-pinnatifida]]
-- [[viburnum-dentatum]]
-- [[corylus-cornuta]]
-- [[salix-alba]]
-- [[betula-pendula]]
-- [[ligustrum-vulgare]]
-- [[fraxinus-pennsylvanica]]

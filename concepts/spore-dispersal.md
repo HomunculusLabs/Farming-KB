@@ -22,7 +22,7 @@ Many fungi employ active, explosive mechanisms to launch their
 spores. The basidiomycete group uses a specialized cell called a
 basidium from which spores are forcibly ejected. At the moment of
 release, a tiny drop of fluid (Buller's drop) forms at the base of
-each spore. As this droplet grows, surface tension forces build
+each spore. As this droplet grows, [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] forces build
 until the spore is catapulted horizontally with an initial
 acceleration exceeding 20,000 g. Pilobolus, the "hat-thrower"
 fungus that grows on herbivore dung, takes ballistics further. Its
@@ -57,11 +57,11 @@ such as those of truffles, are typically large and robust. These
 morphological adaptations reflect the selective pressures imposed
 by each dispersal mechanism.
 ## Ballistic Mechanisms in Detail
-The physics of fungal spore discharge have been studied extensively.
+The physics of [[bloomfield-fungal-spore-discharge-and-dispersal]] have been studied extensively.
 The mechanism involves precise coordination between spore geometry,
 surface tension, and the viscoelastic properties of the discharge
 fluid. Ascomycete cup fungi use a different mechanism: asci elongate
-and build turgor pressure until they rupture, spraying spore clouds
+and build [[bloomfield-turgor-pressure-and-hyphal-invasion]] until they rupture, spraying spore clouds
 above the cup surface. Puffballs and earthstars rely on external
 disturbance to release spores through apical pores, while Sphaerobolus
 launches an entire spore mass as a single projectile.
@@ -71,8 +71,8 @@ that maximize dispersal success. Changes in humidity, temperature,
 light intensity, and mechanical disturbance all trigger fruiting
 and spore discharge in different species. Many mushrooms require a
 drop in temperature followed by rain to initiate fruiting.
-Coprophilous fungi detect specific bile acids after passing through
-an animal gut, triggering spore germination only when deposited on
+[[antifungal-secondary-metabolites-coprophilous-fungi]] detect specific bile acids after passing through
+an animal gut, triggering [[growing-gourmet-spore-germination-strain-isolation]] only when deposited on
 fresh dung. Light-sensitive fungi orient their fruiting bodies
 toward light sources using phototropic growth.
 ## Spore Longevity and Dormancy
@@ -86,17 +86,5 @@ that prevent premature germination.
 ## Atmospheric Spore Transport
 Fungal spores are among the most abundant biological particles in
 the atmosphere, with concentrations reaching thousands per cubic
-meter during peak fruiting seasons. Long-distance dispersal events
+meter during peak [[azurescens-fruiting-seasons-and-conditions]]. Long-distance dispersal events
 transport spores hundreds or thousands of kilometers, connecting
-geographically separated populations. Intercontinental dispersal
-has been documented for several fungal pathogens, facilitated by
-wind currents and extreme weather events. Atmospheric spore
-monitoring networks track allergenic and pathogenic fungal spores
-for public health and agricultural protection.
-## See Also
-- [[basidiospore-discharge-mechanism]]
-- [[mushroom-life-cycle]]
-- [[mushroom-cultivation]]
-- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
-- [[aquatic-fungi-spore-dispersal-ingold]]

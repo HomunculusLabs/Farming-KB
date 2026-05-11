@@ -1,5 +1,5 @@
 ---
-title: "Tryptophan Biosynthesis from Chorismate"
+title: Tryptophan Biosynthesis From Chorismate
 created: 2026-04-28
 tags: [biochemistry, tryptophan, chorismate, biosynthesis, fungal-metabolism]
 date: 2026-04-28
@@ -12,8 +12,8 @@ type: concept
 
 Tryptophan biosynthesis is the branch of the [[psilocybin-compound-profile]], shikimate-pathway-in-fungi,
 into L-tryptophan through a sequence of reactions that construct
-the indole ring system and attach it to an alanine-derived amino
-acid side chain. This pathway operates in the cytosol of fungal
+the [[indole]] ring system and attach it to an alanine-derived amino
+acid [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. This pathway operates in the cytosol of fungal
 cells and requires the cofactor [[pyridoxal-phosphate]] (PLP) for
 the final transamination-like condensation step.
 
@@ -85,43 +85,6 @@ active site without release into the bulk solvent.
 ### Step 7: Tryptophan Formation
 
 Tryptophan synthase beta subunit catalyzes the condensation of
-indole with serine (activated as a pyridoxal phosphate Schiff base)
+indole with serine (activated as a [[pyridoxal-phosphate-coenzyme-chemistry]] Schiff base)
 to form L-tryptophan. This PLP-dependent reaction proceeds through
 a series of Schiff base intermediates, with the indole adding to
-the electrophilic carbon of the aminoacrylate intermediate. The
-reaction consumes one molecule of serine and releases water as
-a byproduct. The overall stoichiometry from chorismate to
-tryptophan requires glutamine (as nitrogen donor), PRPP, and
-serine.
-
-## Regulation of Tryptophan Biosynthesis
-
-The pathway is subject to tight feedback regulation at multiple
-levels:
-
-- **Anthranilate synthase inhibition:** L-tryptophan is a potent
-  allosteric inhibitor of anthranilate synthase, the first committed
-  enzyme of the pathway. In fungi, this enzyme is often feedback-
-  sensitive, shutting down the entire pathway when tryptophan
-  levels are sufficient.
-
-- **Transcriptional control:** The TRP genes encoding pathway
-  enzymes are regulated by transcription factors responsive to
-  tryptophan levels. In [[saccharomyces-cerevisiae]] and other fungi,
-  the GCN4 transcriptional activator coordinates expression of
-  [[fish-amino-acid]] biosynthetic genes under amino acid starvation.
-
-- **Enzyme complex formation:** The alpha and beta subunits of
-  tryptophan synthase form a multienzyme complex that enhances
-  catalytic efficiency through substrate channeling, preventing
-  the loss of volatile indole intermediate.
-
-## Connection to Tryptamine Alkaloid Biosynthesis
-
-Once synthesized, tryptophan can be decarboxylated by
-[[psilocybin-biosynthesis-pathway]] and related compounds.
-
-## Related Topics
-
-- shikimate-pathway-in-fungi
-- [[psilocybin-biosynthetic-metabolic-pathway]]

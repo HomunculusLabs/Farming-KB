@@ -88,19 +88,3 @@ boreal and temperate forest ecosystems.
 
 Beyond IAA production, PGPF influence the overall phytohormone balance
 in plants. Some fungi produce gibberellin-like compounds (Gibberella
-fujikuroi being the original source of gibberellic acid), cytokinins,
-or abscisic acid analogs. Other fungi modulate plant hormone levels
-indirectly by altering hormone biosynthesis or catabolism gene
-expression in host tissues. This hormonal modulation affects seed
-germination, root-shoot ratio, flowering time, fruit development, and
-senescence patterns.
-
-## Biocontrol of Plant Pathogens
-
-Many PGPF suppress plant diseases through multiple mechanisms:
-mycoparasitism (direct parasitism of pathogenic fungi, notably by
-Trichoderma), antibiosis (production of antibiotics and antifungal
-metabolites), competition for nutrients and ecological niches in the
-rhizosphere, and enzyme-mediated degradation of pathogen cell walls.
-The combined action of these [[singh-trichoderma-biocontrol-mechanisms-applications]] with direct growth
-promotion makes PGPF valuable components of [[integrated-pest-management]]

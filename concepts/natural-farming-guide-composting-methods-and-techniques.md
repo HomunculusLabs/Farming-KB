@@ -1,5 +1,5 @@
 ---
-title: natural farming guide composting methods and techniques and Techniques from comparison-natural-farming-vs-permaculture
+title: Natural Farming Guide Composting Methods And Techniques
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,11 +10,11 @@ tags: [composting, natural-farming]
 
 # Composting Methods and Techniques
 
-Composting is one of the most fundamental practices in natural farming, turning organic waste into nutrient-rich soil amendment. In a well-managed permaculture system, food scraps alone represent about 30% of household garbage that can be diverted from landfills back into the garden cycle. All waste should be sorted at the source in the household.
+Composting is one of the most fundamental practices [[mulching-in-natural-farming]], turning organic waste into nutrient-rich soil amendment. In a well-managed permaculture system, food scraps alone represent about 30% of household garbage that can be diverted from landfills back into the garden cycle. All waste should be sorted at the source in the household.
 
 ## Kitchen Composting
 
-Keep two buckets under the kitchen sink and add all food scraps except meat and dairy. Orange peels, banana peels, and eggshells should be crushed and cut up to [[query-can-fungi-break-down-plastic-pollution]] faster. Small paper scraps can also be added. Once a bucket is full, dump it in the compost heap. Commercial black plastic bins work well in urban environments because their dark color absorbs heat, speeding decomposition.
+Keep two buckets under the kitchen sink and add all food scraps except meat and dairy. Orange peels, banana peels, and eggshells should be crushed and cut up to [[query-can-fungi-break-down-plastic-pollution]] faster. Small paper scraps can also be added. Once a bucket is full, dump it in the compost heap. Commercial black plastic bins work well in [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] because their dark color absorbs heat, speeding decomposition.
 
 For a [[natural-farming-guide-raised-bed-and-intensive-gardening]]
 
@@ -37,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,16 +87,4 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the

@@ -87,15 +87,3 @@ both DNA and RNA from soil samples, facilitating molecular identification
 of [[biodiversity-fungi-plant-pathogens]] in complex samples.
 
 ## Important Considerations
-
-Several precautions must be observed when applying molecular methods to
-[[pcr-methods-fungal-identification-monitoring]]. Thermocyclers should be tested for accuracy and
-reproducibility. Transcripts may not directly reflect protein levels, so
-caution should be exercised in quantitative interpretations of cDNA
-levels. Excessive thermocycling beyond the plateau phase should be
-avoided for quantitative comparisons. Housekeeping genes such as GAPDH,
-beta-actin, and HPRT can serve as internal standards for normalization.
-
-As more recalcitrant taxa are sequenced, it will become feasible to
-design amplification primers specific to particular fungal groups,
-further enhancing our ability to assess [[biodiversity-fungal-species-abundance-diversity]] across diverse habitats and ecosystems.

@@ -88,23 +88,3 @@ Indoor growers can provide dormancy by placing plants in a cool location (2–5�
 Propagation is most commonly achieved through leaf cuttings, which root readily in moist peat. Gemmae (vegetative buds produced in winter) offer another reliable propagation method.
 
 [[cannabis-seed-germination-methods]] requires no stratification but benefits from surface sowing on wet peat. Seedlings reach flowering size in approximately 2–3 years.
-
-## Conservation Status
-
-*Drosera anglica* is listed as **Secure** (G5) globally by NatureServe, but individual state and provincial populations may be more vulnerable.
-
-Habitat loss through wetland drainage, peat extraction, and agricultural conversion is the primary threat to local populations. Eutrophication from agricultural runoff can also eliminate suitable habitat.
-
-In parts of its European range, the species has declined significantly due to land-use changes. It is protected under national legislation in several European countries.
-
-[[dighton-fungi-climate-change-feedback]] may impact circumboreal populations by altering hydrological regimes and raising temperatures beyond the species' thermal optimum for dormancy.
-
-## See Also
-
-- [[drosera-capensis]]
-- [[dionaea-muscipula]]
-- [[utricularia-vulgaris]]
-- [[sarracenia-flava]]
-- [[nepenthes-rajah]]
-
-- [[drosera-linearis]]

@@ -15,9 +15,9 @@ related:
 
 Earthing up (also called hilling) is the practice of drawing soil up
 around the base of growing plants. It serves multiple purposes: creating
-additional growing medium for tuber crops, suppressing weeds, protecting
+additional [[cervantes-green-algae-growing-medium]] for [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]], suppressing weeds, protecting
 crowns from frost, and improving drainage. The technique is most
-associated with potato growing but applies to several other vegetables
+associated with [[hamilton-potato-growing-organic]] but applies to several other vegetables
 including leeks, corn, and asparagus. Proper hilling technique is one
 of the most important skills a vegetable gardener can master.
 
@@ -53,7 +53,7 @@ the tubers must push through.
 Place seed pieces only a few inches deep in the prepared bed. Because
 the soil near the surface is warmer, the vines will emerge more quickly
 than they would from deeper planting. Quick emergence means a longer
-effective growing season and higher potential yield. The seed piece
+effective [[savory-growing-season-and-non-growing-season-management]] higher potential yield. The seed piece
 needs only enough soil cover to prevent drying before sprouting —
 typically 2-3 inches is sufficient.
 
@@ -88,63 +88,3 @@ increments as weeds emerge between the rows.
 ### Final Phase
 
 Continue until the vines start falling over, after which further hilling
-is not possible. If you hilled enough initially, there will be no
-potatoes exposed to light and no green potatoes to discard. At this
-point, hand-pull any weeds appearing among the vines. There should be
-next to none if the crop has grown well.
-
-## The Weed Control Bonus
-
-Each hilling pass serves a dual purpose: building the growing mound
-and controlling weeds. The hoe cuts weeds between the rows, and the
-pulled soil buries any remaining small weeds. With sharp hoe work
-during each hilling pass, weed pressure is steadily reduced throughout
-the season. By the time the canopy closes, the bed should be nearly
-weed-free without any additional effort. This dual benefit makes hilling
-one of the most labor-efficient weed management strategies available.
-
-## Other Crops That Benefit from Hilling
-
-### Leeks
-
-Gradually hilling up soil around leek stems as they grow blanches the
-stems, making them more tender and extending the edible white portion.
-The hilling technique is identical to potato hilling — pull soil from
-between the rows up against the stems. A properly hilled leek can have
-6-8 inches of blanched white stem.
-
-### Asparagus
-
-In areas where the ground can get severely frosty, covering the crowns
-by hilling up soil provides winter protection and insulation against
-freeze damage. The mound is removed in spring when growth resumes.
-
-### Corn
-
-Corn seed is planted shallowly and then hilled up as the plants grow.
-The gradual hilling suppresses weeds between the plants and provides
-additional root support as the stalks grow tall. Hilling also improves
-drainage around the root zone during wet periods.
-
-## Pest and Disease Monitoring
-
-Each hilling pass provides an opportunity to inspect the crop for pests
-and diseases. Potato beetle larvae, aphids, and early signs of blight
-are all easier to spot when you are working close to the plants during
-regular hilling intervals.
-
-## Summary
-
-Earthing up transforms a shallow planting into a productive, loose-soil
-growing environment. For potatoes, progressive hilling produces smoother
-tubers, prevents greening, suppresses weeds, and makes harvesting easier.
-The same principle benefits leeks, corn, asparagus, and other crops.
-The technique requires only a sharp hoe and regular attention during the
-early growing season.
-
-## See Also
-
-- [[agar-culture-techniques-detailed]]
-- [[allen-subtropical-australia-hunting-techniques]]
-- [[aphid-management-vegetable-garden-solomon]]
-- [[biodiversity-of-fungi-fungal-culture-preservation-techniques]]

@@ -88,32 +88,3 @@ soil, water, air, or substrate samples, amplifying fungal barcode regions
 using universal fungal primers, and sequencing the amplicons using high-
 throughput sequencing platforms. This approach can detect hundreds to
 thousands of fungal taxa in a single sample, including rare, unculturable, and
-cryptic species.
-
-However, eDNA metabarcoding has its own biases and limitations. Primer choice
-affects which taxa are amplified — no single primer pair perfectly matches all
-fungal groups. DNA extraction efficiency varies among taxa (some fungi are
-more difficult to lyse than others). The number of sequence reads per taxon is
-not a reliable proxy for biomass or activity, as it is influenced by copy
-number variation in the ribosomal DNA region, PCR amplification efficiency,
-and sequencing depth. Bioinformatic processing of sequence data involves
-subjective decisions about quality filtering, clustering thresholds, and
-taxonomic assignment that can significantly affect results.
-
-## Integrating Multiple Methods
-
-The most comprehensive fungal inventories combine multiple survey methods —
-fruiting body surveys, culturing, and molecular detection — to capture
-different facets of the fungal community. Each method reveals a different
-subset of the total diversity, and the overlap between methods is often
-surprisingly small. Studies that have compared methods at the same sites have
-consistently found that the union of all methods detects far more species than
-any single method alone. This complementarity argues strongly for multi-method
-approaches in any serious biodiversity inventory.
-
-## See Also
-- [[fungal-survey-inventory-methodology]]
-- [[am-fungal-survey-methods]]
-- [[fungal-taxonomy-and-kingdom-fungi]]
-- [[environmental-dna-metabarcoding-fungi]]
-- [[soil-fungal-community-isolation-survey-methods]]

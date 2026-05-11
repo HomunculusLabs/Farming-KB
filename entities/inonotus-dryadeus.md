@@ -12,8 +12,8 @@ updated: 2026-04-28
 sources:
   - Bernicchia, A. & Gorjón, S.P. (2013). Fungi Europaei, Vol. 12: Hymenochaetales. Candusso Edizioni.
   - Ryvarden, L. & Gilbertson, R.L. (1993). European Polypores, Part 2. Oslo: Fungiflora.
-  - Fischer, M.S. & Binder, M. (2013). "Species recognition, geographic distribution and host specificity of Inonotus and related genera in Europe." Mycologia, 105(4), 969-980.
-  - Schwarze, F.W.M.R., Engels, J. & Mattheck, C. (2000). Fungal Strategies of bloomfield-wood-decay-fungi-spalted-timber in Trees. Berlin: Springer.
+  - Fischer, M.S. & Binder, M. (2013). "Species recognition, [[geographic-distribution-of-psilocybe-species]] and host specificity of Inonotus and related genera in Europe." Mycologia, 105(4), 969-980.
+  - Schwarze, F.W.M.R., Engels, J. & Mattheck, C. (2000). [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]] of bloomfield-wood-decay-fungi-spalted-timber in Trees. Berlin: Springer.
   - Tabata, M. et al. (2014). "chaga-inonotus-obliquus-medicinal-profile sensu lato: Phylogenetic position and a new species, I. dryadeus." Mycoscience, 55, 124-135.
 created: 2026-04-28
 ---
@@ -59,7 +59,7 @@ Found from the British Isles and France eastward to Hungary and Romania, southwa
 
 Recorded also in North Africa (Morocco, Algeria) and parts of the Caucasus.
 
-The species is obligately associated with oaks (*Quercus robur*, *Q. petraea*, *Q. ilex*, *Q. suber*, *Q. coccifera*) and occasionally with other Fagaceae (*Castanea sativa*, *Fagus sylvatica*).
+The species is obligately associated with oaks (*[[quercus-robur]]*, *Q. petraea*, *Q. ilex*, *Q. suber*, *Q. coccifera*) and occasionally with other Fagaceae (*[[castanea-sativa]]*, *[[fagus-sylvatica]]*).
 
 Basidiocarps appear at the base of living or dead standing trees, typically emerging from root flares or from soil-covered buttress roots.
 
@@ -83,41 +83,7 @@ Like other Inonotus species, *I. dryadeus* produces a range of bioactive [[antif
 
 - **Polysaccharides:** β-glucans with demonstrated immunomodulatory activity in vitro
 - **Triterpenoids:** inotodiol, lanosterol derivatives, and betulinic acid
-- **Phenolic compounds:** hispidin analogues, fuscopol, and related pigments
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** hispidin analogues, fuscopol, and related pigments
 - **Sterols:** ergosterol, ergosterol peroxide
 
 Preliminary studies show moderate cytotoxic activity against human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines, though research lags behind that of *I. obliquus* (chaga).
-
-Extracts demonstrate antioxidant capacity comparable to other polypore fungi, with phenolic content correlating strongly with DPPH radical scavenging activity.
-
-## Ecological Role
-
-As a white-rot decomposer, *I. dryadeus* plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down recalcitrant lignin in oak heartwood.
-
-The fungus contributes to gap-phase dynamics in mature oak forests by facilitating the eventual senescence of old-growth trees.
-
-Dead basidiocarps and decayed wood provide habitat for invertebrates, including rare beetle species associated with hollow oaks.
-
-## Similar Species
-
-- **Inonotus obliquus** — sterile conk (chaga), forms on birch; more northerly distribution
-- **Inonotus hispidus** — annual polypore on ash and walnut; lacks guttation droplets
-- **Fuscoporia torulosa** — similar host range on oaks; pore surface lacks amber exudate
-- **Phellinus robustus** — perennial, smaller pores; more common on beech than oak
-
-## Cultivation and Research Notes
-
-The species has not been commercially cultivated. Research interest centers on its bioactive compounds and forest pathology management.
-
-In vitro culture is achievable on malt extract agar with oak sawdust supplementation. Optimal growth temperature is 25–28°C with moderate humidity.
-
-For arboricultural management, improving tree vigor through mulching, appropriate watering, and avoiding root disturbance are the primary strategies. No effective chemical controls exist for established infections.
-
-Monitoring programs in European parklands use systematic surveys of oak stands to detect early-stage fruiting before structural failure occurs.
-
-## See Also
-
-- [[inonotus-hispidus-entity]]
-- [[white-rot-fungi]]
-- [[polypore-fungi-eastern-north-america]]
-- [[fungi-in-the-environment-decomposition-wood-decay]]

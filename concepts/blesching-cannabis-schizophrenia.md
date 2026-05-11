@@ -33,7 +33,7 @@ causal factor for schizophrenia; in some instances it may be a co-factor.
 Based on current evidence, Blesching advises that it would be prudent for
 adolescents or young adults with a known family history of psychosis or
 schizophrenia to avoid cannabis or any other mind-altering substance,
-especially speed-based drugs such as cocaine or methamphetamines.
+especially speed-based drugs such as [[cocaine]] or methamphetamines.
 
 ## The Research Landscape
 
@@ -42,7 +42,7 @@ explored cannabinoids as potential treatments for schizophrenia:
 
 - Researchers from Sao Paulo, Brazil (2010) reviewed available studies on CBD
   and THC and their impact on psychiatric patients. Cannabidiol showed
-  therapeutic potential as an antipsychotic, anxiolytic, and antidepressant,
+  [[metzner-ayahuasca-therapeutic-potential]] as an antipsychotic, anxiolytic, and antidepressant,
   while THC emerged as a potential adjuvant in the treatment of
   schizophrenia. The authors concluded: "Cannabinoids may be of great
   therapeutic interest to psychiatry; however, further controlled trials are
@@ -61,9 +61,9 @@ explored cannabinoids as potential treatments for schizophrenia:
 
 ## Evidence-Based Confidence Level
 
-From Uwe Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI):
+From [[uwe-blesching]]'s [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI):
 
-The CHI value for cannabis in the context of schizophrenia and related
+The [[blesching-cannabis-prostate-cancer-chi-value-3]] for cannabis in the context of schizophrenia and related
 psychiatric conditions is derived from studies examining CBD as an
 antipsychotic agent. The evidence is considered preliminary but promising,
 with a combined CHI value of 14 from the anxiety/[[cannabis-schizophrenia-research-detailed]]
@@ -88,15 +88,3 @@ THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], or CBD-dominant preparation
 risk-benefit profile for individuals concerned about psychiatric side effects.
 
 ## Strain-Specific Considerations
-
-Indicas and indica-dominant hybrids, which tend to present with a lower
-THC:CBD/CBN ratio, are generally preferred for patients with psychiatric
-concerns. Many cannabis-using patients suffering from anxiety prefer the
-indicas' sedating, relaxing, and grounding effects. CBD has greater affinity
-for CB2 receptors, while THC binds relatively equally with both CB1 and CB2.
-
-## Related Topics
-
-- [[blesching-cannabis-ptsd-anxiety]]
-- [[blesching-cannabis-sleep-disorders]]
-- [[blesching-cannabinoid-pharmacology]]

@@ -28,10 +28,10 @@ created: 2026-05-07
 
 ## Overview
 
-*Russula integra* is a large, edible ectomycorrhizal mushroom in the family
+*Russula integra* is a large, edible [[ectomycorrhizal-mushroom-fruiting-ecology]] in the family
 Russulaceae. It is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of
 Europe and Asia, where it associates primarily with conifers, especially
-spruce (*Picea abies*) and pine (*Pinus sylvestris*).
+spruce (*[[picea-abies]]*) and pine (*[[pinus-sylvestris]]*).
 
 The species is valued as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in Central and Eastern Europe,
 particularly in Poland, Russia, and Scandinavia. Its firm flesh and mild nutty
@@ -74,7 +74,7 @@ smooth to finely pruinose.
 **Flesh:** White, firm, and compact. Odor is mild, pleasant, faintly fruity.
 Taste is mild to slightly acrid in older specimens.
 
-**Spore print:** Cream to pale ochre (IIb–IIc on Romagnesi color scale).
+**[[boil-a-bag-spore-print-technique-jarrold]]:** Cream to pale ochre (IIb–IIc on Romagnesi color scale).
 
 **Spores:** 7.5–10.5 × 6–8.5 µm, broadly ellipsoid to subglobose, ornamented
 with isolated warts 0.5–0.8 µm tall connected by occasional fine line
@@ -88,60 +88,3 @@ yields yellow to pale orange.
 *Russula integra* is found across temperate Europe from Scandinavia to the
 Mediterranean, extending eastward through Russia into Siberia and parts of
 northern China. It has also been reported from mountainous regions of Japan
-and the Korean Peninsula.
-
-The species forms ectomycorrhizal associations predominantly with conifers.
-Primary partners include Norway spruce (*Picea abies*), Scots pine (*Pinus
-sylvestris*), and fir (*Abies alba*). Occasional associations with broadleaf
-trees such as birch (*Betula*) and oak (*Quercus*) have been documented.
-
-Fruiting occurs from July to October in temperate zones, preferring moist,
-acidic forest soils rich in humus. It is most abundant in old-growth and
-mature coniferous forests with well-developed [[fungal-mycelial-networks-nutrient-translocation]].
-
-## Edibility and Culinary Use
-
-*Russula integra* is widely regarded as an excellent edible mushroom.
-The flesh remains firm after cooking and retains a mild, nutty flavor.
-
-In Eastern European and Russian culinary traditions, it is commonly pickled
-with bay leaves, black pepper, and vinegar. It is also suitable for drying,
-sautéing, and inclusion in cream sauces.
-
-As with all *Russula* species, proper identification is essential.
-Several red-capped *Russula* species are mildly to severely toxic, including
-*R. emetica* and *R. sanguinea*. The key distinguishing features of *R.
-integra* are its mild taste, cream spore print, and smooth cap surface.
-
-## Ecological Role
-
-As an ectomycorrhizal fungus, *R. integra* plays a significant role in forest
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The mycelial network facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between
-host trees and the soil, enhancing phosphorus and nitrogen uptake for the
-plant partner while receiving carbohydrates in return.
-
-The species contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition
-through its extramatrical mycelium. It is an important food source for small
-mammals, slugs, and insect larvae in forest floor ecosystems.
-
-## Similar Species
-
-*Russula integra* can be confused with several other red-capped russulas:
-
-- **R. rosea** (Pers.) — cap more uniformly pink, spores smaller (6–8 µm),
-  more acrid taste.
-- **R. paludosa** — larger, found in wet bog habitats, cap color more
-  purple-violet.
-- **R. emetica** — extremely acrid taste, associated with birch, gills do
-  not fork.
-- **R. xerampelina** — distinctive shrimp-like odor, darker red cap, bruise
-  stains brownish.
-## See Also
-
-- [[salix-integra]]
-
-- [[russula-virescens]]
-- [[russula-vesca]]
-- [[russula-xerampelina]]
-- [[cantharellus-cibarius-entity]]
-- [[boletus-edulis-entity]]

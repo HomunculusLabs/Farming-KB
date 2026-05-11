@@ -7,7 +7,7 @@
 
 ## Overview
 
-Two-component signalling systems are a major environmental sensing
+Two-component signalling systems are a major [[environmental-sensing-filamentous-fungi-read]]
 mechanism in filamentous fungi, enabling detection of and response to
 osmotic stress, light, nutrients, and other abiotic signals. These
 systems, originally discovered in prokaryotes, have been elaborated
@@ -72,7 +72,7 @@ intracellular conditions rather than extracellular signals directly.
 
 **Known functions:**
 - **Two kinases** involved in hyphal development and morphogenesis
-- **Three kinases** involved in light sensing (photoperception)
+- **Three kinases** involved in [[darwin-phototropism-experiments-plant-light-sensing]] (photoperception)
 - **One kinase** (osmotic-1) involved in osmoregulation — encodes a
   putative histidine kinase similar to bacterial osmosensors
 
@@ -88,63 +88,3 @@ cascades, which serve as central signal integration switches:
 
 - Histidine kinase activation leads to MAPKKK → MAPKK → MAPK
   phosphorylation cascades
-- Three MAP kinase pathways identified in N. crassa:
-  1. Hyphal growth, fusion, aerial growth, conidiation, female fertility
-  2. Osmoregulation and fungicide resistance
-  3. Cell integrity maintenance
-
-The osmoregulation pathway (HOG1 homolog, os-2 gene) is directly
-connected to the two-component system and has been shown to confer
-fungicide resistance, making these pathways targets for antifungal
-development.
-
-## Absence of Two-Component Signalling in Animals
-
-Two-component signalling systems are found in prokaryotes, plants,
-slime moulds, yeasts, and filamentous fungi — but are completely absent
-from animals. This makes histidine kinases attractive targets for
-antifungal drug development, as inhibitors would be selective for fungi
-without affecting human cellular signalling.
-
-The fungal-specific expansion of histidine kinases further increases
-the potential for selective targeting. Pathogenic fungi like M. grisea
-may depend on specific histidine kinases for host invasion and
-environmental adaptation that are absent from animal systems.
-
-## Why Filamentous Fungi Need More Sensors
-
-Filamentous fungi live in more complex, [[fungal-mycelial-foraging-heterogeneous-environments]] than
-yeasts. As hyphae grow through soil, wood, or plant tissue, they
-encounter constantly changing conditions: nutrient gradients, pH
-gradients, moisture gradients, competing organisms, and host defense
-compounds. The expansion of histidine kinases reflects the need to
-monitor a wider range of [[mushroom-cultivation-environmental-parameters]] simultaneously.
-
-Read argues that the possession of hyphae — allowing non-motile,
-heterotrophic organisms to explore and exploit heterogeneous
-environments — created evolutionary pressure for sophisticated sensory
-systems. Fungi combine features of both kingdoms: non-motility (like
-plants) with heterotrophy (like animals), and their signalling
-machinery reflects this dual heritage.
-
-## Conservation and Networking
-
-The conservation of downstream HPT and response regulator proteins
-across diverse fungi suggests these components serve as integration
-nodes. Multiple upstream histidine kinases can feed signals into the
-same phosphorelay, allowing the fungus to generate appropriate
-responses to complex combinations of environmental stimuli.
-
-Alternatively, some histidine kinases may not act through phosphorelays
-at all, instead regulating downstream targets through protein-protein
-interactions. The full signalling network topology remains to be
-elucidated.
-
-## See Also
-
-- [[fungal-calcium-signalling]]
-
-- [[gadd-environmental-sensing-filamentous-fungi]] - full sensory
-  overview
-- [[gadd-hyphal-tip-growth-and-branching-mechanisms]] - hyphal
-  responses to signals

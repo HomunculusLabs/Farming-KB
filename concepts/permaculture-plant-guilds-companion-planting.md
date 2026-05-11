@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plant Guilds and comparison-companion-planting-reference-vs-jadam-monoculture-critique
+title: Permaculture Plant Guilds Companion Planting
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -26,13 +26,13 @@ element form a guild.
 The key insight is that in the forest, the individual plants and animals and
 soil organisms are not nearly as important as how they all relate to each
 other. When birds eat berries from trees, they fly to the other side of the
-forest and plant new trees by passing the seeds. Bark beetles carry fungal
+forest and plant new trees by passing the seeds. [[dighton-fungus-cultivation-ants-termites-bark-beetles]] carry fungal
 spores into fallen trees, and fungi help break down wood back into soil that
 provides materials for new trees to grow.
 
 ## The Three Sisters Guild
 
-The quintessential crop guild is the traditional Native native american planting methods and indigenous agriculture of
+The quintessential crop guild is the traditional Native [[native-american-planting-methods-and-indigenous-agriculture]] methods and indigenous agriculture of
 corn, beans, and squash:
 - Corn provides a tall stalk for beans to climb
 - Runner beans trellis up the corn stalks and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] that is being lost
@@ -50,7 +50,7 @@ A practical orchard guild combines:
   disease transmission
 - Yarrow, clover, borage, nettles, and comfrey growing beneath the trees
 - Sheep rotated weekly between orchards to prevent overgrazing
-- Nitrogen-fixing ground covers building soil fertility
+- Nitrogen-fixing ground covers [[building-soil-fertility-long-term]]
 - Insectary plants attracting pollinators and predatory insects
 
 ## Relative Location
@@ -73,11 +73,11 @@ climbing plants and herbs and different kinds of trees, everything placed
 according to shade tolerance, heights, and water requirements.
 Vertical layers in a guild system:
 - Canopy: tall fruit and nut trees
-- Understorey: smaller fruiting trees and shrubs
+- Understorey: smaller fruiting [[nitrogen-fixing-trees-and-shrubs]]
 - Shrub layer: berry bushes and nitrogen-fixing shrubs
 - Herbaceous layer: perennial herbs, vegetables, and flowers
 - Ground cover: low-growing creepers and nitrogen-fixing legumes
-- Root layer: root crops and tubers
+- Root layer: [[permaculture-plants-root-crops-and-tubers]] tubers
 - Vine layer: climbing plants on trellises and trees
 
 ## Edge Effect in Guild Design
@@ -88,25 +88,3 @@ Ecological productivity always increases at the boundary between systems
 because resources from both are available.
 Energies and materials always accumulate at the edges -- soil and debris are
 blown by wind against fences or walls. Increased edge creates more surface
-area, more microclimates, and more productive landscapes. When building garden
-beds or ponds, edge is taken into account by avoiding simple rectangles or
-circles in favor of more complex shapes like tagasaste, mesquite, carob, honey locust, autumn olive, russian olive, sesbania
-- Shrubs: siberian pea shrub, tree medic, pigeon pea, lab-lab bean
-- Herbaceous: clover, lucerne/alfalfa, vetch, lupin, beans, peas, fenugreek
-
-### [[neem]] -- insecticide
-- Tobacco -- insecticide
-- Derris root (Derris elliptica) -- insecticide
-- Rhubarb -- insecticide
-- Sunn hemp (Crotalaria juncea) -- nematode control through [[amf-biocontrol-phytophthora-root-exudate-modification]]
-
-### Hedge and Barrier Plants
-
-Plants for windbreaks, privacy screens, and animal barriers:
-- Hedging: taupata, alder, hazel, russian olive, elderberry, hawthorn,
-## See Also
-- [[companion-planting]]
-- [[building-soil]]
-- [[permaculture-plant-stacking-vertical-guilds]]
-- [[companion-planting-guilds]]
-- [[natural-farming-guide-companion-planting-guilds]]

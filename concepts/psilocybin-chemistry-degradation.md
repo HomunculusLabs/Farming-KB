@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-chemistry-and-pharmacology]] Degradation in Fungal Specimens
+title: Psilocybin Chemistry Degradation
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 created: 2026-05-09
 tags: [mycology, psilocybin, chemistry, degradation, potency, tryptamine, baeocystin, indole]
@@ -87,64 +87,3 @@ hallucinations from airborne exposure alone. The effect ceased immediately upon
 leaving the room, suggesting volatile indole compounds in the air.
 
 ### Hofmann's Negative Result
-
-Hofmann (in Heim & Wasson, 1958) found no indoles in specimens of *Cordyceps
-capitata* and *C. ophioglossoides* collected by Wasson in a Mexican market.
-These were sacred fungi preserved for a long time before analysis. The age of
-the specimens likely explains the negative result — fresh specimens from the
-same location might have yielded different findings.
-
-## Conflicting Chemical Reports
-
-The literature contains numerous contradictory reports of active compounds in the
-same species. Key examples:
-
-### Panaeolina foenisecii
-- **Negative**: Mantle & Waight (1969), Ott & Guzmán (1976), Beug & Bigwood
-  (1982), Stijve (1987)
-- **Positive**: Robbers et al. (1969), Ola'h (1969), Fiussello & Ceruti-Scurti
-  (1972), Pollock (1976)
-
-### Psilocybe coprinifacies
-- European authors recognized it in Czechoslovakia, but Guzmán (1983) considered
-  it doubtful. Krieglsteiner (1986) treated *P. bohemica*, *P. maire*, and
-  *P. serbica* as synonyms of *P. cyanescens*, adding further confusion.
-
-### Mycena pura and Psilocybe caerulea
-- Bresinsky & Besl (1990) and Samorini (1989) considered reports of
-  neurotropic activity doubtful. Re-analysis failed to confirm active compounds.
-
-## Causes of Contradictory Results
-
-1. **Misidentification** — Researchers may have analyzed different species under
-  the same name, or mixtures of species identified as one taxon.
-
-2. **Age variation** — Fresh vs. dried vs. herbarium specimens yield dramatically
-  different results.
-
-3. **Analytical errors** — Early chromatographic and spectroscopic methods were
-  less reliable. Some studies used inappropriate reference standards.
-
-4. **Geographic variation** — Different populations of the same species may
-  differ in chemical profile due to substrate, climate, or genetics.
-
-## Implications for Research
-
-These findings underscore the necessity of:
-- Vouchered specimens with proper taxonomic identification
-- Analysis of fresh material whenever possible
-- Documentation of specimen age and [[spawn-storage-conditions]]
-- Replication of findings across multiple collections
-
-## References
-
-- Repke, D.B. et al. (1977). Age-dependent variation in baeocystin content.
-- Ohenoja, E. et al. (1987). Psilocybin decrease in herbarium specimens.
-- Ott, J. (1993). *Pharmacotheon*.
-- Bresinsky, A. & Besl, H. (1990). *Giftpilze*.
-- Stijve, T. (1995). Chemistry of psychoactive fungi.
-## See Also
-
-- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
-- [[field-guide-psilocybin-bluing-reaction-identification]]
-- [[taxonomic-confusion-misidentification-neurotropic-fungi]]

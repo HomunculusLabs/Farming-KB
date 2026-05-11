@@ -4,7 +4,7 @@ Microbial kill curves are graphical representations of the
 relationship between the intensity or duration of a sterilizing
 agent and the reduction in viable microbial population. These
 curves are fundamental to understanding and validating
-sterilization processes in mycology, food science, pharmaceutical
+sterilization processes in [[mycology]], food science, pharmaceutical
 manufacturing, and biomedical applications.
 
 ## Basics of Microbial Death Kinetics
@@ -88,12 +88,3 @@ because it informs decisions about sterilization times and
 temperatures for different substrates and container sizes.
 Grain substrates require longer sterilization times than
 smaller [[query-how-to-make-agar-plates-for-mushroom-cultivation]] because of the longer heat-up time needed
-to reach the target temperature throughout the mass. Similarly,
-larger jars or spawn bags require extended sterilization times
-(2+ hours) compared to small jars (1 hour) to ensure that the
-coldest point in the container receives adequate treatment.
-## See Also
-
-- [[pasteurization-vs-sterilization]]
-- autoclave sterilization
-- [[contamination-prevention-mycology]]

@@ -87,26 +87,3 @@ Watercress was initially included in the [[coleman-baby-leaf-salad-mix-quality-s
 ## 'Hakurei' Turnips
 
 'Hakurei' turnips and their greens have been an unexpected marketing success. The variety produces exceptionally sweet roots and tasty greens under cool greenhouse conditions and well-composted soil. Demand consistently exceeds supply.
-
-### Production Details
-
-- Turnips are sown at six rows per 30-inch bed
-- Seedlings are thinned to 2 to 3 inches in the row
-- Greens are cut off and sold separately from the roots, keeping both products in better condition
-- Outdoor harvest continues until late November under quick hoop protection
-- Cold house harvest extends until Christmas
-- In the cool house, production can continue all winter, though plantings from mid-November to mid-December may bolt to seed soon after roots reach golf-ball size
-
-## Strategic Integration
-
-These early spring crops are strategically integrated into the greenhouse rotation to maximize the productivity of every [[comparison-biointensive-vs-square-foot-gardening]] throughout the year. The general pattern is:
-
-- Overwintered crops occupy greenhouse space through the winter with minimal input
-- As soon as overwintered crops are harvested or no longer need protection, the space is prepared for early spring crops
-- Early spring crops mature weeks ahead of outdoor equivalents, commanding premium prices
-- The revenue from these early crops helps justify the investment in greenhouse infrastructure
-- After the spring crops are harvested, the beds transition to summer c [[cotter-growing-space-design-fruiting-rooms]] ed protected [[cotter-growing-space-design-fruiting-rooms]].
-
-## See Also
-- coleman-mobile-greenhouse-crop-rotation-patterns
-- [[coleman-greenhouse-summer-crops]]

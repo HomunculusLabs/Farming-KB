@@ -1,6 +1,6 @@
 ---
 title: "La Roja — Panama Red × Colombian Sativa (Jamaica Seeds)"
-source: "S.T. Oner — The Rev: Cannabis Sativa Vol. 3"
+source: "S.T. Oner — The Rev: [[blesching-cannabis-sativa-indica-classification]] Vol. 3"
 tags: [cannabis, sativa, strain-profile, panama-red, colombian, landrace, jamaica-seeds, heirloom, latin-american, outdoor-growing, red-calyx]
 ---
 
@@ -25,7 +25,7 @@ landrace genetics formed the backbone of the finest cannabis available.
 
 **Panama Red** is one of the most storied landrace sativas in cannabis history:
 
-- Originated in Panama, Central America
+- Originated in Panama, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
 - Was the "favorite strain of the 70s" before it largely disappeared from
   commercial markets
 - Known for its distinctive red-hued calyxes and long flowering period
@@ -38,14 +38,14 @@ widely imported to the United States during the 1960s and 1970s:
 
 - Grew freely in the fields of Colombia before commercial breeding programs
 - Produced loose, airy buds with a powerful cerebral high
-- Contributed genetics to countless modern hybrids
+- Contributed genetics to countless [[african-landrace-sativa-modern-hybrids]]
 - The "pot that made the 60s and 70s so special" according to strain historians
 - Like Panama Red, true landrace Colombian genetics have become increasingly
   scarce
 
 By combining these two heritage lines, Jamaica Seeds created a strain that
 captures the essence of classic Latin American sativa genetics while benefiting
-from modern breeding techniques that improved yield and manageability.
+from modern [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] that improved yield and manageability.
 
 ## Growth Characteristics
 
@@ -53,9 +53,9 @@ from modern breeding techniques that improved yield and manageability.
 
 La Roja is a **tall, vigorous sativa** that can reach impressive heights:
 
-- **Outdoor height**: Up to **14 feet** when given full growing season and
+- **Outdoor height**: Up to **14 feet** when given full [[savory-growing-season-and-non-growing-season-management]]
   adequate space
-- **Indoor challenges**: The extreme height makes indoor cultivation difficult
+- **[[cannabis-sativa-indoor-challenges]]**: The extreme height makes [[cannabis-sativa-indoor-cultivation-techniques]] difficult
   without significant training and height management
 - **Branching**: Strong lateral branching produces multiple bud sites
 - **Leaf structure**: Thin, sativa-typical leaves with long internodal spacing
@@ -77,74 +77,14 @@ cultivation**:
 - The payoff for managing the difficult structure is exceptional volume
 - Outdoor growers should provide full sun exposure and adequate spacing
 - Staking or trellising is essential — the heavy buds on tall, flexible stems
-  require structural support
+  require [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 
 ### Flowering
 
-- **Flowering time**: 12 weeks — long but typical for landrace-influenced
+- **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]**: 12 weeks — long but typical for landrace-influenced
   sativas
 - **Color development**: Reddish-purple hues emerge during late flowering,
   especially with cooler nighttime temperatures
 - **Bud density**: Moderate — buds are not as dense as modern hybrids but
   make up for it in volume
-- **Resin production**: Good trichome coverage despite the airy bud structure
-- **Harvest timing**: Late November in Mediterranean climates; early November
-  in more temperate regions
-
-### Yield
-
-The volume of production is where La Roja truly excels:
-
-- Plants produce the kind of volume that makes other growers jealous
-- The tall stature combined with strong branching means many bud sites
-- Total yield per plant can be impressive even if individual bud density is
-  moderate
-- The long flowering period is the trade-off for this exceptional production
-
-## Aroma and Flavor
-
-The terpene profile of La Roja reflects its Latin American landrace heritage:
-
-- **Aroma**: Earthy, herbal, with classic sativa musk
-- **Flavor**: Complex blend of tropical and earthy notes characteristic of
-  Panamanian and Colombian landraces
-- The flavor is less sweet than modern hybrids and more representative of
-  "old school" cannabis taste profiles
-- Curing enhances the complexity of the flavor significantly
-
-## Effect Profile
-
-The breeders describe the La Roja high as **"soaring"** — and this is not an
-exaggeration:
-
-- **Intensity**: Very strong — there appears to be minimal indica influence to
-  constrain the energetic sativa effect
-- **Character**: Crazy happy, energetic, and creative cerebral stimulation
-- **Duration**: Long-lasting — the effect builds and sustains over several
-  hours
-- **Physical component**: Minimal body effects; this is a predominantly
-  cerebral and uplifting experience
-- **Social effects**: Strong — promotes conversation, creativity, and social
-  interaction
-
-The breeders note that La Roja "will plant wings on your back and send you
-flying whether you like it or not." This description captures the assertive,
-unmistakably sativa nature of the high. For users accustomed to modern hybrid
-effects, La Roja provides a reminder of what pure sativa landraces were capable
-of before decades of indica-dominant breeding shifted the market.
-
-## Historical Significance
-
-La Roja holds particular value as a preservation effort for endangered genetics:
-
-- Both Panama Red and Colombian landrace strains have become increasingly rare
-  in their pure forms
-- Commercial breeding has largely moved toward faster-flowering, denser-budded
-  hybrids
-- The original effects and flavors of these landraces risk being lost
-- Strains like La Roja serve as genetic time capsules preserving the qualities
-  that made these landraces legendary
-- For cannabis historians and connoisseurs, La Roja represents a tangible
-  connection to the golden age of cannabis
-
-## See Also
+- **[[cannabis-glandular-trichome-types-resin-production-clarke]]**: Good trichome coverage despite the airy bud structure

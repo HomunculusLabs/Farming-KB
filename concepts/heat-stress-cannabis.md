@@ -88,16 +88,3 @@ When temperatures spike unexpectedly:
 
 - Increase ventilation immediately — open any available vents or exhaust systems
 - Turn off some lights temporarily to reduce heat load
-- Run lights during cooler nighttime hours instead of daytime
-- Add supplemental CO2 only if temperature can be kept below 85°F (29°C)
-- Increase watering frequency to compensate for increased transpiration
-- Avoid adding nutrients during heat stress — plants cannot process them efficiently
-- Use fans to increase air movement at the canopy level
-- Consider temporary measures like ice bottles in the reservoir or portable air conditioning
-
-## See Also
-
-- [[humidity-cannabis-growing]] — heat-humidity interaction
-- [[spider-mites-cannabis]] — reproduce faster in hot conditions
-- [[cannabis-pest-management-guide]] — comprehensive plant health
-- [[nutrient-movement-through-soil-to-plant-roots]]

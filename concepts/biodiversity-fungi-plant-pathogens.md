@@ -87,30 +87,3 @@ associated fungi spread on drying paper. Populations of
 sclerotium-forming fungi in soil have been assessed during
 autoecological studies of root-associated and plant pathogenic
 fungi using wet-sieving and elutriation techniques.
-
-## Biodiversity and Distribution Challenges
-
-Except for some economically important groups (mainly plant
-pathogens) and a few relatively conspicuous species, the
-number of collections of microfungus species is inadequate
-for portraying the extent of their distributions and likely
-biogeographic origins. Difficulties in accessing available
-data, most of which are not computerized, compound the
-problems faced even in assessing current knowledge. This
-taxonomic and distributional gap is particularly acute for
-plant pathogens in tropical regions, where the greatest
-diversity is expected but the least sampling has occurred.
-
-## Ecological Consequences
-
-[[biodiversity-ascomycete-diversity-taxonomy]]
-- biodiversity-fungi-plant-mutualisms
-- biodiversity-fungi-soil-ecosystems
-- [[rust-fungi]]
-- [[trichoderma-virens]]
-- [[cervantes-fusarium-vascular-wilt-diseases]]
-- [[fungal-plant-diseases]]
-
-## See Also
-
-- [[snow-mold-fungi-cold-temperature-plant-pathogens]]

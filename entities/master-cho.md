@@ -70,3 +70,19 @@ KNF has spread to over 30 countries and is practiced in cannabis cultivation, ve
 ## Related
 
 - [[cho-han-kyu]]
+
+## Historical Significance
+
+Han-Kyu Cho (Master Cho) contributed significantly to the body of
+knowledge in their field, influencing subsequent
+researchers and practitioners. Their work continues
+to be referenced in contemporary studies and remains
+relevant to ongoing discussions in the community.
+
+## See Also
+
+- [[master-cho-knf-ohn-oriental-herb-nutrient-recipe]]
+- [[knf-imo-four-soil-foundation-and-field-application]]
+- [[korean-natural-farming-imo-collection-fermented-plant-extracts]]
+- [[korean-natural-farming-lab-and-ohn-recipes]]
+- [[master-cho-knf-fpj-fermented-plant-juice-guide]]

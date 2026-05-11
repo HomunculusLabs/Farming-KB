@@ -1,5 +1,5 @@
 ---
-title: jadam jhs nutritional analysis Analysis as Fertilizer
+title: Jadam Jhs Nutritional Analysis
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -11,11 +11,11 @@ sources:
 # JHS Nutritional Analysis as Fertilizer
 
 **Updated:** 2026-04-18
-**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.289-290 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.289-290 ([[youngsang-cho]], 2016)
 
 ## Overview
 
-A unique advantage of JADAM [[jadam-herb-solution-jhs]] (JHS) is that it functions as both a pesticide and a fertilizer. This is "unimaginable with chemical pesticides." The book provides laboratory analysis of Korean pasque flower root (KPFR) JHS showing measurable nutrient content. When used at 3-20 L per 500 L of spray, JHS provides incidental foliar nutrition alongside [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
+A unique advantage of JADAM [[jadam-herb-solution-jhs]] (JHS) is that it functions as both a pesticide and a fertilizer. This is "unimaginable with [[comparison-parasitoid-wasps-vs-chemical-pesticides]]." The book provides [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] of Korean pasque flower root (KPFR) JHS showing measurable [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]. When used at 3-20 L per 500 L of spray, JHS provides incidental foliar nutrition alongside [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].
 
 ## Korean Pasque Flower Root JHS Analysis
 
@@ -79,7 +79,7 @@ A unique advantage of JADAM [[jadam-herb-solution-jhs]] (JHS) is that it functio
 
 ### Dual Function Advantage
 Chemical pesticides provide zero nutritional value and often harm soil biology. JHS simultaneously:
-1. Kills or repels insect pests (primary function)
+1. Kills or repels [[duggar-mushroom-insect-pests-and-fungal-diseases]] (primary function)
 2. Provides macro and micronutrients (secondary benefit)
 3. Feeds soil and leaf microorganisms through organic matter
 
@@ -88,13 +88,3 @@ Chemical pesticides provide zero nutritional value and often harm soil biology. 
 - Use 3-20 L (0.8-5.3 gal) per 500 L (132 gal) of water
 - For fog machines: use 10 L per 17 L of water
 - Can apply to all crops
-- Causes little concentration stress (unlike JS)
-- Use only clear top portion -- filter sediments
-
-## Cost Implications
-
-Since JHS costs only labor (herbs are free or very cheap), the incidental fertilizer value is essentially free. When combined with dedicated [[jadam-herb-solution-jhs]] - JHS making guide
-- [[jadam-liquid-fertilizer]] - Dedicated JLF for primary nutrition
-- [[jadam-element-function-reference]] - Plant nutrient function guide
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
-- [[jadam-making-organic-farming-inputs]]

@@ -1,7 +1,7 @@
 ---
 title: Terfas of Africa and the Orient
 created: 2026-04-28
-tags: [mycology, africa, asia, subterranean-[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with|fungi]]]
+tags: [[mycology]], africa, asia, subterranean-[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with|fungi]]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -26,7 +26,7 @@ valid species of *Terfezia* known, of which six to eight at most would
 include all of the larger edible forms. The family differs from the
 truffle family especially in that the internal veins have no outlet to
 the surface, and all plants are provided with a root-like process or
-rudimentary stipe to which the mycelium in the soil is attached.
+rudimentary stipe to which the [[mycelium]] in the soil is attached.
 
 ## Historical References
 Terfas were evidently always abundant in many parts of greater Greece,
@@ -79,7 +79,7 @@ required to point out favorable regions. When nearly mature, terfas
 absorb water more abundantly, causing a slight bulging and breaking of
 the soil around the roots of host plants. With a sharp stick or trowel,
 the fungus is readily removed, as it is seldom more than one or two
-inches [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus|beneath]] the surface. In Algeria the terfas vary from one to three
+inches [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] the surface. In Algeria the terfas vary from one to three
 inches or more in diameter and may be obtained in surprising quantity.
 
 ## Food Quality and Use
@@ -88,63 +88,3 @@ prepared by methods used for white potatoes. They are unusually rich in
 proteins and analyses compare favorably with those of truffles. They
 possess a rich flavor and mealy texture, yet possess only to a degree
 the deliciousness of the cultivated mushroom or the pervading aroma of
-the truffle. The price is more comparable to that of mushrooms,
-sometimes less than one franc per kilo.
-
-## Mycorrhizal Biology of Terfezia
-
-### Host Specificity
-*Terfezia* species show marked host specificity, forming associations
-primarily with *Helianthemum* (rock rose) and *Cistus* species in the
-Cistaceae family. *Tirmania* species associate with similar hosts but
-may show broader host ranges including *Artemisia* and other desert
-shrubs. The mycorrhizal relationship appears intermediate between
-full mutualism and partial parasitism: host plants benefit from
-improved mineral nutrition, but may suffer reduced growth when [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms|fungal]]
-demands are high.
-
-### Desert Adaptation Mechanisms
-*Terfezia* species have evolved remarkable adaptations to arid
-environments:
-- Sporocarps remain dormant underground for extended periods, often
-  months or years between fruiting events
-- Fruit body formation is triggered by specific rainfall thresholds,
-  ensuring adequate moisture for both [[steroidal-regulation-fungal-development-growth]] and spore
-  dispersal
-- The thick peridium prevents desiccation during sporocarp maturation
-- [[fungal-mycelial-networks-nutrient-translocation]] persist in deep soil layers where moisture is more
-  consistent than at the surface
-- Some species produce [[mycovolatiles-fungal-volatile-compounds]] only after sufficient rain,
-  timing aroma release to attract dispersers when conditions favour
-  [[growing-gourmet-spore-germination-strain-isolation]]
-
-### Seasonal Phenology
-Most *Terfezia* species fruit in spring (March-May) following winter
-and early spring rains. *Tirmania* species tend to fruit later,
-extending into autumn (October-November). This temporal separation
-may reduce competition between genera for host resources and animal
-dispersers. In years of exceptional rainfall, multiple fruiting
-events can occur, providing abundant harvests for collectors.
-
-## Cultural and Economic Significance
-
-### Traditional Knowledge Systems
-Indigenous communities across North Africa, the Middle East, and
-Central Asia possess detailed knowledge of terfa ecology, including:
-- Identification of productive collecting sites based on host plant
-  communities and soil conditions
-- Seasonal timing of collection based on weather patterns
-- [[amanita-preparation-methods]] that maximise flavour and nutritional value
-- Preservation techniques including drying and pickling
-- Rules governing access to productive collecting grounds
-
-This traditional ecological knowledge has been passed down through
-generations but is increasingly threatened by urbanisation, habitat
-destruction, and the displacement of pastoral communities from
-traditional lands.
-
-### Market Economics
-Terfas occupy an interesting economic position between common
-mushrooms and luxury truffles. Their market value is modest compared
-to [[european-truffles]], making them accessible to local communities
-rather than exclusive export commodities. Key market characteristics:

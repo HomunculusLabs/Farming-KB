@@ -11,7 +11,7 @@ sources: ["raw/papers/bill-mollison-permaculture-a-designers-manual.md"]
 
 updated: 2026-04-18
 
-Community finance encompasses the informal and formal economic structures that enable local self-reliance, keep capital circulating within a community, and reduce dependence on external financial systems. Bill Mollison's Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14) provides a comprehensive framework for building community-based economic systems.
+Community finance encompasses the informal and formal economic structures that enable local self-reliance, keep capital circulating within a community, and reduce dependence on external financial systems. [[bill-mollison]]'s Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14) provides a comprehensive framework for building community-based economic systems.
 
 ## The Informal Economy
 
@@ -79,37 +79,12 @@ The Yin-Yang symbol of Eastern spirituality, in which polar opposites form an in
 
 ## Local Economic Self-Reliance
 
-As we reduce our dependence on the global economy and replace it with household and local economies, we rebuild economic resilience at the most fundamental level. One permaculture strategy is to encourage household and local economic self-reliance as a foundation for broader community resilience.
+As we reduce our dependence on the global economy and replace it with household and local economies, we rebuild economic resilience at the most fundamental level. One permaculture strategy is to encourage household and local economic self-reliance as a foundation for broader [[permaculture-community-resilience]].
 
-At the same time, permaculture design tends to foster and stimulate new local forms of economic activity. The integration of food production, energy systems, and community enterprises creates economic webs that are more resistant to global economic shocks.
+At the same time, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] tends to foster and stimulate new local forms of economic activity. The integration of food production, energy systems, and community enterprises creates economic webs that are more resistant to global economic shocks.
 
 ## Global Integration as Inevitable
 
 Whether we are participating as a bioregional community in a globalised world or a corporation seeking market dominance, the dynamics of integration are the same. Rather than constantly struggling to keep the spiritual and the material in separate domains, we need to recognise that the gravitational pull toward integrated systems is always at work.
 
 ## Measuring Value in Energy Descent
-
-New measures of value in energy descent provide ethical and positive pathways for action. The conventional measures of economic success -- GDP growth, employment rates, stock market indices -- are poorly suited to an energy descent context. What matters is not the total throughput of energy and materials but the quality of life, ecological health, and community resilience that can be sustained.
-
-## Economic Efficiency at Local Scale
-
-Small-scale local businesses are generally more energy-efficient than large-scale global ones because they minimise transport costs, can adapt more quickly to changing conditions, and keep economic surplus circulating within the community rather than extracting it to distant shareholders.
-
-The proverb "the bigger they are, the harder they fall" applies to economic systems as well as physical structures. Large, centralised economic systems are vulnerable to disruption at single points of failure. Distributed, diversified local economies are more resilient.
-
-## LETSystems and Alternative Currencies
-
-LETS stands for Local Exchange and Trading System. It is an interest-free currency and information system, developed in Canada and popularised through the Permaculture movement. LETSystems allow community members to exchange goods and services without requiring national currency, building economic networks that are independent of the banking system.
-
-Other alternative economic structures mentioned by Holmgren include:
-- Ethical investment directing capital toward sustainable enterprises
-- Body corporate and cooperative structures for community ownership
-- Subscription farming connecting consumers directly with producers
-- Community land trusts separating land ownership from building ownership
-
-## The Spiritual and Material Economy
-
-Holmgren extends the integration principle to describe dynamics between the global economy and the spiritual realm. The same forces of segregation and integration that operate in ecology operate in human culture. Religious and cooperative groups have historically provided economic alternatives. The third permaculture principle (and even the second) can be seen as arising from these same cooperative impulses.
-- [[permaculture-design]]
-- [[community-land-trusts]]
-- [[bill-mollison]]

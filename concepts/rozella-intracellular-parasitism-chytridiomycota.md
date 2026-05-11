@@ -2,7 +2,7 @@
 title: "Rozella: rozella intracellular parasitism chytridiomycota in Chytridiomycota"
 created: 2026-04-26
 tags:
-  - mycology
+  - [[mycology]]
   - chytridiomycota
   - mycoparasitism
   - fungal-evolution
@@ -73,7 +73,7 @@ The interaction between Rozella allomycis and its host
 Allomyces has been particularly well studied. Ultrastructural
 investigations have revealed the detailed architecture of the
 host-parasite interface, including modifications to the host
-plasma membrane and the absence of a parasite cell wall during
+plasma membrane and the absence of a parasite [[chitin-chitosan-fungal-cell-wall]] during
 the intracellular growth phase. These observations have
 important implications for understanding how intracellular
 parasites maintain membrane integrity and exchange with
@@ -88,31 +88,3 @@ Allomyces species. It is one of the best-characterized
 members of the genus, with detailed ultrastructural and
 experimental studies available. The species produces
 zoospores that are attracted to Allomyces hyphae and
-encyst before penetration.
-
-### Rozella polyphagi
-
-A species with a broader host range than most Rozella
-species, capable of parasitizing multiple chytrid genera.
-This broader specificity makes it useful for experimental
-studies of host recognition and specificity mechanisms.
-
-### Rozella rhizoclonemi
-
-Parasitizes Rhizoclonium species, an algal host, demonstrating
-that some Rozella species can [[phytohormone-cross-kingdom-fungal-effects]] boundaries to
-parasitize hosts outside the fungi.
-
-## Ecological Significance
-
-Rozella species are likely important regulators of
-zoosporic fungal populations in aquatic environments.
-Their ability to parasitize common aquatic fungi, including
-plant pathogens such as Pythium species, means they may
-play a role in natural [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. However, their
-ecological impact is difficult to assess because they are
-rarely detected in routine surveys. Their small size,
-intracellular habitat, and lack of conspicuous fruiting
-structures make them easy to overlook.
-## See Also
-- [[mycorrhiza]]

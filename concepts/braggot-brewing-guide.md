@@ -88,28 +88,10 @@ English ale strains and Belgian strains tend to pair well with honey. American s
 ### Method Three: Combined Mash
 
 1. Include honey in the mash tun along with grain
-2. The honey's sugars dilute the wort, potentially lowering mash efficiency
-3. This method is less common but produces a well-integrated character
-
-## Recipe Development
-
-When developing a braggot recipe, consider these balance points:
-
-- Original gravity: Typically 1.060 to 1.090, though stronger versions exist
-- Honey-to-malt ratio: Start with roughly equal contributions from each
-- Bitterness: Should be moderate, enough to balance honey sweetness without overwhelming
-- Body: Honey ferments completely, so the malt provides most of the body
-- Alcohol: Typically 6-10% ABV, depending on starting gravity and yeast choice
-
-## Aging and Serving
-
-Most braggots benefit from aging, particularly those with higher alcohol content. Honey character evolves over time, becoming more integrated and subtle. Dark braggots can benefit from months of aging. Lighter braggots may be ready sooner.
-
-Braggot is typically served at cellar temperature (50-55 degrees F), similar to British ales. Serving too cold suppresses the honey character. Braggot can be still or lightly carbonated.
 
 ## See Also
-
-- [[beer-brewing-basics]] for general brewing technique
-- [[honey-varieties-guide]] for choosing the right honey
-- [[herbal-beer-ingredients]] for herbs that complement honey
-- [[ale-vs-lager-fermentation]] for yeast selection guidance
+- [[ingham-field-guide-aact-brewing-methodology]]
+- [[teaming-with-microbes-compost-tea-brewing-guide]]
+- [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]
+- [[ayahuasca-brewing-guide]]
+- [[ingham-molasses-types-brewing-effects]]

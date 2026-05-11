@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Codeine** (methylmorphine) is an opiate alkaloid found naturally in the opium poppy (*Papaver somniferum*) and is the most widely used opioid analgesic worldwide. It is classified as a weak opioid, with approximately one-tenth to one-sixth the analgesic potency of morphine.
+**Codeine** (methylmorphine) is an opiate alkaloid found naturally in the opium poppy (*[[papaver-somniferum]]*) and is the most widely used opioid analgesic worldwide. It is classified as a weak opioid, with approximately one-tenth to one-sixth the analgesic potency of morphine.
 
 Codeine is used medically as an analgesic for mild to moderately severe pain and as an antitussive for suppressing cough. It is administered orally, typically in doses of 15–60 mg for analgesia and 10–20 mg as a cough suppressant.
 
@@ -42,7 +42,7 @@ In addition to its [[brassinosteroid-natural-occurrence-plant-kingdoms]] in opiu
 
 The compound is stable under normal conditions but is susceptible to oxidation and should be stored protected from light.
 
-Codeine is structurally related to [[morphine]], thebaine, and [[mckenna-heroin-cocaine-and-synthetic-drugs]], all sharing the morphinan backbone characteristic of opiate alkaloids.
+Codeine is structurally related to [[morphine]], [[thebaine]], and [[mckenna-heroin-cocaine-and-synthetic-drugs]], all sharing the morphinan backbone characteristic of opiate alkaloids.
 
 ## Pharmacology
 
@@ -58,7 +58,7 @@ Codeine itself has weak direct agonist activity at mu-opioid receptors, estimate
 
 It also exhibits weak activity at kappa and delta opioid receptors, though these contributions to its clinical effects are considered minimal.
 
-Additional metabolic pathways include glucuronidation to codeine-6-glucuronide (an active metabolite with weak analgesic properties) and N-demethylation to norcodeine.
+Additional metabolic pathways include [[glucuronidation]] to codeine-6-glucuronide (an active metabolite with weak analgesic properties) and N-demethylation to norcodeine.
 
 The prodrug nature of codeine distinguishes it from most other clinically used opioids, which act directly on opioid receptors without requiring metabolic activation.
 
@@ -87,38 +87,3 @@ Codeine is indicated for the management of mild to moderately severe pain where 
 It is frequently formulated in combination products with acetaminophen (paracetamol), aspirin, or ibuprofen, which enhance analgesia through complementary mechanisms.
 
 As an antitussive, codeine remains one of the most effective prescription cough suppressants, though its use has declined in many countries due to safety concerns.
-
-In the United States, codeine is a Schedule II substance when combined with other analgesics and Schedule V in low-dose formulations (≤ 90 mg per dosage unit).
-
-The FDA issued a boxed warning in 2017 contraindicating codeine and tramadol in children under 12 years, and warning against use in adolescents 12–18 with certain risk factors.
-
-Many countries have progressively restricted codeine availability: the UK reclassified it as a prescription-only medicine in 2014 following concerns about over-the-counter dependence.
-
-India remains the world's largest producer of codeine and codeine-containing pharmaceutical preparations.
-
-## History
-
-Codeine was first isolated in 1832 by the French chemist Pierre Jean Robiquet from opium, marking it as one of the earliest alkaloids extracted from the opium poppy.
-
-Its name derives from the Greek word "kodeia" (κώδεια), meaning "poppy head" or "capsule," reflecting its botanical origin.
-
-Throughout the 19th and early 20th centuries, codeine was widely prescribed as a safer alternative to morphine, capitalizing on its lower addiction potential and more manageable side effect profile.
-
-The development of combination analgesics containing codeine and non-opioid agents in the mid-20th century expanded its therapeutic applications and commercial availability.
-
-The identification of CYP2D6 polymorphism in the 1990s fundamentally altered understanding of codeine pharmacology, revealing the genetic basis for its variable efficacy.
-
-Regulatory restrictions have intensified since the 2000s, with growing recognition of codeine's abuse potential, dependence risk, and the dangers posed to ultra-rapid metabolizers.
-
-Despite these restrictions, codeine remains one of the most commonly prescribed opioids globally, particularly in low- and middle-income countries where access to alternative analgesics may be limited.
-
-## See Also
-
-- [[morphine]]
-- [[lsd]]
-- [[dmt]]
-- [[serotonin]]
-- [[mescaline]]
-- [[nicotine]]
-- [[caffeine]]
-- [[blesching-cannabis-dopamine-endocannabinoid-system]]

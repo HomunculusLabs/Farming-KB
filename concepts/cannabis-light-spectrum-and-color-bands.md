@@ -77,3 +77,20 @@ See [[purple-and-color-changing-cannabis-strains]]
 - [[cannabis-indoor-growing-basics]] — indoor grow fundamentals
 - [[cannabis-hid-lighting-specifications]]
 - [[plant-micronutrients-and-their-essential-functions]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]
+- [[purple-and-color-changing-cannabis-strains]]
+- [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]]
+- [[cannabis-photoperiodism-and-light-cycles]]
+- [[mckenna-cannabis-cultural-style-and-feminine-plant]]

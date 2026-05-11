@@ -5,6 +5,7 @@ tags: [mycology, mushroom-cultivation, contaminants, pathogens, stamets]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -87,38 +88,3 @@ layer. Affected mushrooms develop brown spots, become distorted, and may wilt
 or become leathery in texture.
 
 ### Microscopic Characteristics
-
-- **Spores**: Single-celled, small (2-3 microns).
-- **Mycelium**: White, compact, not prominently aerial.
-
-### Medium of Spread
-
-Verticillium is primarily vectored by sciarid flies (fungus gnats). The flies
-carry spores on their bodies and deposit them on mushroom surfaces as they
-feed. Controlling the fly vector is essential for controlling Verticillium.
-
-### Measures of Control
-
-- Implement [[jadam-fly-control-livestock]] programs (screening, traps, biological controls).
-- Remove and destroy affected fruitbodies immediately.
-- Maintain proper sanitation and air filtration.
-- *[[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]* shows natural resistance to Verticillium.
-
-## Differential Diagnosis
-
-When a grey or white mold appears on mushrooms or casing:
-
-1. Culture on malt agar.
-2. Green colonies indicate *Trichoderma*.
-3. Not green: is the contaminant on casing surface or on the fruitbody?
-   - Casing surface, fast, aerial, cobweb-like = *Dactylium*.
-   - Fruitbody, spots or wilt = *Verticillium*.
-4. Confirm microscopically: two-celled 20-micron spores = *Dactylium*;
-   single-celled 4-5 micron = *Trichoderma*; single-celled 2-3 micron =
-   *Verticillium*.
-
-## See Also
-
-- [[mushroom-cultivator-contaminants-identification]]
-- [[trichoderma-forest-green-mold-guide]]
-- [[mushroom-growing-room-environmental-control]]

@@ -12,7 +12,7 @@ The Cannabis Health Index (CHI) is an evidence-based rating system developed by 
 
 ## Purpose and Context
 
-The CHI was developed to address a critical gap in medical cannabis: while the scientific literature on cannabis had grown to more than 15,000 entries at the U.S. National Library of Health, no systematic evidence-based model existed for evaluating the plant's therapeutic potential across the full spectrum of chronic conditions. The CHI fills this gap by:
+The CHI was developed to address a critical gap in medical cannabis: while the scientific literature on cannabis had grown to more than 15,000 entries at the U.S. National Library of Health, no systematic evidence-based model existed for evaluating the plant's [[metzner-ayahuasca-therapeutic-potential]] across the full spectrum of chronic conditions. The CHI fills this gap by:
 
 - Systematically reviewing available research for each condition
 - Accounting for the practical value of different study designs
@@ -29,7 +29,7 @@ The CHI evaluates cannabis's therapeutic potential on a graduated scale:
 | Rating | Level of Evidence | Description |
 |--------|------------------|-------------|
 | **Possible** | Laboratory / preclinical | In vitro studies, animal models, or preliminary human data suggesting therapeutic potential |
-| **Probable** | Clinical observation | Case studies, observational data, or small clinical trials supporting therapeutic use |
+| **Probable** | Clinical observation | Case studies, observational data, or small [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] supporting therapeutic use |
 | **Actual** | Strong clinical evidence | Controlled human trials, systematic reviews, or meta-analyses confirming therapeutic efficacy |
 
 This three-tier system allows users to quickly assess the strength of evidence supporting cannabis use for any given condition, from preliminary laboratory findings to well-established clinical results.
@@ -40,7 +40,7 @@ The CHI accounts for the varying reliability of different research methodologies
 
 ### High Reliability (contribute to "Actual" rating)
 - **Systematic reviews and meta-analyses**: Comprehensive analysis of multiple studies
-- **Randomized controlled trials (RCTs)**: Gold standard for clinical research
+- **Randomized controlled trials (RCTs)**: Gold standard for [[hofmann-lsd-clinical-research-early-studies]]
 - **Double-blind placebo-controlled studies**: Minimizes bias through blinding
 
 ### Moderate Reliability (contribute to "Probable" rating)
@@ -60,7 +60,7 @@ The CHI accounts for the varying reliability of different research methodologies
 The CHI covers an extensive range of conditions organized into categories:
 
 ### Cancer Types
-Brain cancer/glioma, breast cancer, bone cancer, cervical cancer, colon cancer, Kaposi's sarcoma, leukemia/lymphoma, liver cancer, lung cancer, melanoma, pancreatic cancer, prostate cancer, rhabdomyosarcoma, skin cancer, thyroid cancer
+Brain cancer/glioma, breast cancer, bone cancer, cervical cancer, colon cancer, Kaposi's sarcoma, leukemia/lymphoma, liver cancer, lung cancer, melanoma, [[blesching-cannabis-pancreatic-cancer]], prostate cancer, rhabdomyosarcoma, skin cancer, thyroid cancer
 
 ### Neurological Conditions
 Alzheimer's disease, ALS (Lou Gehrig's disease), epilepsy, Huntington's disease, [[blesching-cannabis-multiple-sclerosis]], Parkinson's disease, [[blesching-cannabis-tourette-syndrome]], neuropathies, neuroprotection
@@ -72,7 +72,7 @@ Anxiety, depression, PTSD, schizophrenia, [[blesching-cannabis-bipolar-disorder]
 Heart disease, hypertension, stroke
 
 ### Inflammatory Conditions
-Arthritis, atherosclerosis, inflammatory bowel disease, periodontitis, dermatitis, psoriasis
+Arthritis, atherosclerosis, [[blesching-cannabis-inflammatory-bowel-disease]], periodontitis, dermatitis, psoriasis
 
 ### Infectious Diseases
 HIV/AIDS, hepatitis, herpes, MRSA, colds and flu
@@ -84,58 +84,7 @@ Diabetes, chronic pain, migraine, fibromyalgia, insomnia, asthma, COPD, glaucoma
 
 A distinguishing feature of the CHI is its integration of evidence-based cannabinoid research with mind-body medicine techniques. The system recognizes that:
 
-1. The [[endocannabinoid-system-overview|endocannabinoid system]] serves as a biological bridge between the body and mind
+1. The [[endocannabinoid-system-overview]] serves as a biological bridge between the body and mind
 2. Emotional states influence physiological processes through ECS signaling
 3. Cannabis may facilitate deeper exploration of psychological factors in illness
 4. The therapeutic setting, intention, and emotional state influence outcomes
-
-The CHI framework includes guidance on:
-- Setting a conscious intention before cannabis use
-- Creating a supportive therapeutic environment
-- Using "powerful questions" for self-exploration during sessions
-- Processing emotions that surface during the cannabis experience
-- Integrating insights into daily life for lasting healing
-
-## Practical Usage Guide
-
-### Reading a CHI Rating
-When consulting the CHI for a specific condition:
-1. **Check the rating** (Possible / Probable / Actual) for an immediate evidence assessment
-2. **Note the study types** that contribute to the rating
-3. **Review the strain-specific considerations** if available
-4. **Consider the form of administration** (smoking, vaporizing, tincture, edible, topical)
-5. **Factor in individual variables** — body weight, tolerance, condition severity
-
-### Finding Your Therapeutic Window
-The CHI emphasizes the concept of a **[[cannabis-subjective-therapeutic-window-dosing]] window** — the dose range between sub-therapeutic and adverse effects. Key principles:
-
-- Start with a small, measured amount
-- For inhaled cannabis: wait 5–10 minutes between doses
-- For ingested cannabis: wait 1–2 hours between doses
-- More is not better — exceeding the window can worsen symptoms
-- The optimal dose varies by individual, condition, and cannabinoid profile
-
-### Strain Selection Considerations
-The CHI provides guidance on selecting between Cannabis sativa and Cannabis indica based on therapeutic goals:
-
-- **CB1 deficiency** (neurological/mental health conditions): Higher THC:CBD ratio (sativa-dominant)
-- **CB2 deficiency** (immune/inflammatory conditions): Lower THC:CBD ratio (indica-dominant)
-- Individual responses vary; experimentation within the therapeutic window is recommended
-
-## Limitations of the CHI
-
-- Ratings reflect the evidence available at the time of publication and may not include recent studies
-- The quality of cannabis research varies considerably; many studies have small sample sizes or methodological limitations
-- Strain naming conventions are inconsistent across the industry
-- Individual responses to cannabis are highly variable
-- The mind-body component, while valuable, is not independently evidence-rated
-- The CHI does not replace professional medical advice
-
-## Related Topics
-
-- [[endocannabinoid-system-overview]] — biological basis for cannabinoid therapy
-- cannabis sativa vs indica — strain differences and therapeutic implications
-- evidence based medicine hierarchy — understanding study design reliability
-- subjective therapeutic window — dosing principles for cannabis medicine
-- cannabis routes of administration — [[cannabis-methods-of-consumption]] and their effects
-- [[cannabis-safety-profile]] — risks, contraindications, and adverse effects

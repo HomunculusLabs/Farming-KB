@@ -1,21 +1,21 @@
 ---
-title: Earthquake Preparedness Guide
+title: Earthquake [[flood-preparedness-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [safety, homesteading, construction, engineering, environment]
+tags: [safety, [[homesteading]], construction, engineering, environment]
 sources: []
 ---
 
 # Earthquake Preparedness Guide
 
-Earthquakes strike without warning and can cause catastrophic damage to structures, infrastructure, and utilities. Unlike hurricanes or floods, there is no advance notice and no evacuation window. Preparation must be done in advance. This guide covers structural assessment, non-structural hazard mitigation, emergency supplies, and post-earthquake safety procedures. (see [[hurricane-preparedness-guide]]).
+Earthquakes strike without warning and can cause catastrophic damage to structures, infrastructure, and utilities. Unlike hurricanes or floods, there is no advance notice and no evacuation window. Preparation must be done in advance. This guide covers structural assessment, non-structural hazard mitigation, emergency supplies, and post-earthquake safety procedures.
 
 ## Understanding Earthquake Risk
 
 Earthquakes occur along fault lines, but damaging shaking can be felt hundreds of miles from the epicenter. Risk factors include:
 
-- **Proximity to known fault lines** — USGS seismic hazard maps (earthquake.usgs.gov) show risk by region
+- **Proximity to known fault lines** — USGS seismic hazard [[maps]] (earthquake.usgs.gov) show risk by region
 - **Soil type** — Soft soils (alluvium, landfill, liquefaction-prone soils) amplify shaking significantly
 - **Building age and construction type** — Unreinforced masonry, pre-1970s homes with cripple walls, and soft-story buildings are most vulnerable
 - **Topography** — Steep slopes are prone to earthquake-triggered landslides
@@ -32,7 +32,7 @@ Earthquakes occur along fault lines, but damaging shaking can be felt hundreds o
 
 ### Foundation Inspection
 
-The most critical structural element. A compromised foundation during an earthquake leads to partial or total building collapse. (see [[comparison-slip-form-stone-vs-timber-frame]]).
+The most critical structural element. A compromised foundation during an earthquake leads to partial or total building collapse.
 
 **Check for:**
 - Foundation bolts — Is the house bolted to its foundation? (Homes built before 1940 often are not)
@@ -110,7 +110,7 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 ### Food
 - Non-perishable food requiring no cooking (canned goods, dried fruit, granola, crackers)
 - Manual can opener
-- Camp stove with fuel for outdoor cooking
+- Camp stove with fuel [[query-how-to-build-a-cob-oven-for-outdoor-cooking]]
 - Comfort foods (stress management)
 
 ### Shelter and Warmth
@@ -139,7 +139,7 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 ### First Aid
 - Comprehensive first aid kit (see [[homestead-first-aid-guide]])
 - Include extra trauma supplies: splints, tourniquet, hemostatic gauze
-- Prescription medications (30-day minimum supply)
+- [[ayahuasca-interactions-with-prescription-medications]] (30-day minimum supply)
 
 ## During an Earthquake
 
@@ -147,4 +147,3 @@ Earthquakes can disrupt utilities (water, gas, electricity, sewage) for days to 
 1. DROP to your hands and knees
 2. Take COVER under a sturdy desk or table
 3. HOLD ON until the shaking stops
-

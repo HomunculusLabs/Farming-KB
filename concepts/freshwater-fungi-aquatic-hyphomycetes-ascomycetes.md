@@ -1,5 +1,5 @@
 ---
-title: Freshwater Fungi — freshwater fungi aquatic hyphomycetes ascomycetes and Ascomycetes
+title: Freshwater Fungi Aquatic Hyphomycetes Ascomycetes
 created: 2026-04-21
 updated: 2026-05-09
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Freshwater Fungi — Aquatic Hyphomycetes and Ascomycetes
 Freshwater habitats harbor diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that play essential roles
-in decomposition of organic matter and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in aquatic ecosystems.
+in decomposition of [[savory-soil-organic-matter-and-decomposition-dynamics]] [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 The best-studied group is the aquatic or "Ingoldian" hyphomycetes, but
 freshwater ascomycetes and other fungal groups are also ecologically
 important. These fungi are key agents in the breakdown of leaf litter that
@@ -71,12 +71,12 @@ composition shifts seasonally. Key considerations for researchers include:
 - Tropical species generally have higher temperature optima than temperate
   species
 - [[dighton-fungi-climate-change-feedback]] is expected to shift species distributions and alter
-  decomposition rates in streams
+  [[dighton-litter-quality-fungal-decomposition-rates]] in streams
 ## Freshwater Ascomycetes
 ### Diversity and Importance
 While aquatic hyphomycetes dominate the conidial pool in streams, freshwater
 ascomycetes (cup fungi and their relatives) are also significant components
-of freshwater fungal communities. They are found on submerged wood and
+of freshwater [[biodiversity-fungi-soil-fungal-communities]]. They are found on submerged wood and
 twigs in streams and ponds, decaying herbaceous material in still and
 flowing water, and foam in stream surfaces (a distinctive habitat for
 certain species).
@@ -88,21 +88,3 @@ gelatinous sheaths that aid in attachment to substrata.
 Freshwater ascomycetes contribute to:
 - Decomposition of woody debris, which is a slower process than leaf
   litter breakdown
-- Nutrient cycling through the release of [[dighton-fungal-dissolved-organic-carbon-production]] matter
-- Provision of food resources for aquatic invertebrates through the
-  production of conidia and spores
-- Creation of microhabitat complexity on submerged substrata
-## Trophic Significance
-The [[air-pollution-fungal-community-responses]] in freshwater systems occupies a critical trophic
-position. Fungi convert coarse particulate organic matter (leaf litter,
-wood) into fine particulate organic matter and dissolved organic matter that
-is more accessible to other organisms. Aquatic invertebrates, particularly
-shredder insects, consume fungal biomass along with leaf material, obtaining
-both carbon and essential nutrients. This "fungal shunt" is a major pathway
-for energy flow in woodland stream ecosystems.
-## See Also
-- [[saltmarsh-fungal-ecology]]
-- [[fungal-communities-water-aquatic-ecosystems]]
-- [[fungal-decomposition-kinetics]]
-- [[saprotrophic-decomposition]]
-- [[yeast-biodiversity-isolation-ecology]]

@@ -1,5 +1,5 @@
 ---
-title: Shamanism, Plant Ecstasy, and [[neurotropic-fungi-japan-east-asia-species-cultural-context]]
+title: Shamanism Plant Ecstasy
 aliases:
   - shamanism
   - plant ecstasy
@@ -88,61 +88,3 @@ shamanic cultures developed genuine, empirically grounded knowledge of psychoact
 plants — knowledge anticipating modern pharmacology by centuries. This was derived
 not from theoretical reasoning but from direct experience: shamans observed the
 effects of different plant combinations on their own consciousness, adjusting
-dosages over generations. It is, in McKenna's terms, a science of consciousness
-conducted not in laboratories but in the rain forest, using the human nervous
-system itself as instrument.
-
-## Borges: The Sect of the Phoenix and The Aleph
-
-McKenna drew extensively on Jorge Luis Borges to illuminate the phenomenology of
-the psychedelic experience. Borges's "The Sect of the Phoenix" describes a secret
-society existing throughout human history, transcending all cultural boundaries,
-united by a single mysterious rite. For McKenna, this was a perfect metaphor for
-the psychedelic subculture — a community of those who have experienced the
-transformative reality of the tryptamine vision, existing beneath conventional
-society, bound by knowledge incommunicable to outsiders. The parallel to the
-"black hole effect" is exact: members possess knowledge simultaneously the most
-important thing in the world and completely incommunicable to those who haven't
-shared the experience.
-
-Borges's "The Aleph" — a point in space containing all other points, from which
-the entire universe is perceived simultaneously — served as a metaphor for the
-hallucinogenic experience itself. The tryptamine state, like the Aleph, provides a
-perspective from which all reality is visible at once. The overwhelming quality of
-this experience — containing more information than any mind can process — is
-captured by Borges's image: a single point that is also the totality, a finite
-aperture opening onto infinity.
-
-## The Black Hole Effect and Cultural Transmission
-
-The "black hole effect" creates a fundamental challenge for cultural transmission.
-Psychedelic experiences, particularly DMT, generate insights extraordinarily
-difficult to communicate to those who haven't shared them. This is an
-epistemological barrier: the knowledge gained is non-propositional — it cannot be
-fully captured in statements but must be directly experienced. This makes
-transmission of shamanic knowledge across generations far more complex than
-ordinary cultural [[transcendent-other-and-plant-human-information-transfer]].
-
-This communicative impasse explains why psychedelic knowledge has been marginalized
-in Western culture. A society privileging propositional knowledge will inevitably
-be suspicious of claims based on direct experiential insight that cannot be fully
-articulated. The shaman's knowledge, grounded in the phenomenology of altered
-states, falls outside modernity's epistemological framework and is therefore
-discounted, even when addressing questions — the nature of consciousness, the
-relationship between mind and reality — central to the modern intellectual
-enterprise.
-
-## See Also
-
-- [[tryptamine-hallucinogens-dmt]]
-- [[psilocybin-mushroom-consciousness]]
-- [[dmt-hyperspace-entities]]
-- [[glossolalia-tryptamine-language]]
-
-## References
-
-- McKenna, T. (1983/1992). Tryptamine Hallucinogens and Consciousness. In *The
-  Archaic Revival*. HarperCollins.
-- Borges, J. L. (1949). The Aleph. In *The Aleph and Other Stories*.
-- Borges, J. L. (1952). The Sect of the Phoenix. In *Ficciones*.
-- Harner, M. (1973). *The Jívaro*. University of California Press.

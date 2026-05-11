@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Correas, E. et al. (2021). "The Unique Carnivorous Plant Drosophyllum lusitanicum." Annals of Botany 128(2): 167–180.
   - Paniagua, C. et al. (2017). "Phylogeny and Evolution of Carnivorous Plants." Botanical Journal of the Linnean Society 184(4): 551–572.
-  - Fleischmann, A. et al. (2010). "Distribution and Ecology of Drosophyllum lusitanicum." Carnivorous Plant Newsletter 39(2): 44–51.
+  - Fleischmann, A. et al. (2010). "[[copelandia-cyanescens-pantropical-distribution-and-ecology]] of Drosophyllum lusitanicum." Carnivorous Plant Newsletter 39(2): 44–51.
   - Gowda, H.S. et al. (2022). "The Genome of Drosophyllum Reveals Convergent Evolution." Nature Plants 8: 987–996.
   - Gonçalves, S. et al. (2011). "Antimicrobial Activity of Drosophyllum lusitanicum Extracts." Journal of Ethnopharmacology 133(2): 459–463.
 ---
@@ -88,57 +88,3 @@ The glandular hairs (tentacles) are non-mobile, unlike those of *Drosera*.
 While *Drosera* tentacles slowly bend toward captured prey to increase
 contact, *Drosophyllum* relies entirely on the adhesive strength of its
 mucilage to retain prey. The secretion contains a complex mixture of
-polysaccharides and proteins.
-
-Prey items include flying insects (flies, wasps, small moths) and crawling
-arthropods (ants, beetles). The plant's tall growth form and linear leaf
-arrangement may function as a passive aerial trap, intercepting flying insects
-in a manner analogous to cobwebs.
-
-Digestive enzymes identified include at least one aspartic protease, one
-cysteine protease, and several phosphatases. The digestive fluid pH is
-approximately 4.0–4.5. Nutrient absorption studies confirm uptake of both
-nitrogen and phosphorus from digested prey.
-
-## Bioactive Compounds
-
-*Drosophyllum lusitanicum* has attracted pharmacological interest due to its
-unique [[fungal-elicitors-enhanced-secondary-metabolite-production]] profile. The mucilage and leaf tissues contain
-plumbagin and related naphthoquinones, compounds also found in *Drosera* and
-*Pinguicula* species.
-
-Ethnobotanical records from Portugal and Spain document traditional use of
-*Drosophyllum* preparations for treating respiratory ailments and skin
-conditions. Modern in vitro studies confirm antibacterial activity against
-*Staphylococcus aureus* and *Escherichia coli*, attributed to plumbagin
-and flavonoid compounds.
-
-## Cultivation
-
-*Drosophyllum* has a reputation for being difficult to maintain long-term in
-cultivation, primarily because its moisture requirements differ from those of
-other carnivorous plants. The species is intolerant of waterlogged soil and
-requires a well-drained, sandy substrate.
-
-A recommended mix is 2 parts sand or perlite to 1 part peat moss. The plant
-should be watered from below using the tray method but only minimally — the
-soil should be moist but never saturated. Many growers top-water instead,
-allowing the substrate to dry slightly between waterings.
-
-[[cannabis-seed-germination-methods]] is the standard propagation method. Seeds germinate readily
-without stratification if sown on the surface of moist substrate. Germination
-typically occurs within 2–4 weeks at 20–25°C. Seedlings are vulnerable to
-damping-off and should be provided good [[stamets-growing-room-air-circulation-co2-management]].
-
-Mature plants benefit from full sun and warm conditions. In Mediterranean
-climates, outdoor cultivation is straightforward. In cooler climates, a
-greenhouse with good ventilation is recommended. Plants are relatively
-short-lived in cultivation, typically lasting 2–5 years.
-
-## See Also
-
-- [[drosera-capensis]]
-- [[aldrovanda-vesiculosa]]
-- [[sarracenia-purpurea]]
-- [[utricularia-vulgaris]]
-- [[myrica-gale]]

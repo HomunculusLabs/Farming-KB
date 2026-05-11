@@ -88,32 +88,3 @@ DeVine (Phytophthora palmivora) and Collego (Colletotrichum
 gloeosporioides), were formulated as aqueous spore suspensions
 applied by spraying. The perishable nature of DeVine was a major
 commercial disadvantage, driving the industry toward encapsulation.
-Many fungal biocides now use calcium alginate encapsulation. These
-experiences in agricultural biocontrol directly inform formulation
-strategies for environmental bioremediation applications.
-
-## Pasta-Like Extrusion Processes
-
-A specialized approach uses pasta-like extrusion to produce fungal
-formulations. Mycelial fragments are mixed with wheat flour, filler,
-and water into a dough, then extruded through dies to form uniform
-pellets. Species including Alternaria cassiae, Alternaria crassa,
-Colletotrichum truncatum, and [[fungal-hyphae]] and hydrophobic contaminants. Carbon sources
-within the formulation provide initial nutrition. The combination
-of appropriate adjuvants depends on the specific contaminant, soil
-type, and fungal species and requires site-specific optimization.
-
-## Challenges and Future Directions
-
-Relatively little research attention has focused on fungal formulation
-compared with the broader bioremediation effort. Key challenges include
-maintaining inoculum viability during storage and after field
-application, achieving adequate distribution of inoculum in large soil
-volumes, and overcoming competition from mycoremediation-basic-techniques
-- mycoremediation-bioreactor-design
-## See Also
-- [[mycoremediation]]
-- [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
-- [[formulation-and-delivery-of-fungal-inocula]]
-- [[staycare-fungal-formulation-in-situ-bioremediation]]
-- [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]

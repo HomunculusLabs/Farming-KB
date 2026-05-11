@@ -1,5 +1,5 @@
 ---
-title: [[fungicolous-fungi]] on Spores, Sclerotia, and Oospores
+title: Fungicolous Fungi Spores Sclerotia Oospores
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,14 +13,14 @@ major implications for plant pathology, biological control, and mycorrhizal
 ecology. See also [[fungal-sclerotia-and-resting-structures]] for details on
 the biology of these structures.
 ## Parasites of AM Fungal Spores (Glomales)
-Resting spores of arbuscular mycorrhizal fungi are particularly susceptible to
+Resting spores of [[arbuscular-mycorrhizal-fungi]] are particularly susceptible to
 necrotrophic parasites. Large proportions of spores from field soils are
 parasitized and nonviable -- their walls perforated by fine radial canals,
 often with internal projections.
 ### Key Parasites
 - **Acremonium and Verticillium species:** Most pathogenic to Gigaspora
   gigantea in sand dune soils
-- **Stachybotrys chartarum:** Efficient parasite of Glomales
+- **[[stachybotrys-chartarum]]:** Efficient parasite of Glomales
 - **Humicola fuscoatra and Anguillospora pseudolongissima:** Highly parasitic
   on Glomus epigaeum and G. fasciculatum
 - **44 species** of higher fungi found on G. gigantea in maritime sand dune
@@ -55,7 +55,7 @@ Fungal sclerotia provide a rich nutrient source for mycoparasitic fungi. Most
 sclerotial parasites are necrotrophs, though some show initial biotrophic
 phases where they establish contact before killing host tissue.
 ### On Sclerotinia Sclerotia
-- **Coniothyrium minitans:** Most common and best-studied parasite; distributed
+- **[[coniothyrium-minitans]]:** Most common and best-studied parasite; distributed
   worldwide; does not form appressoria
 - **Trichoderma virens:** Destroys sclerotia of S. sclerotiorum and related
   fungi
@@ -64,7 +64,7 @@ phases where they establish contact before killing host tissue.
 - **Microsphaeropsis centaureae:** Causes necrotic lesions
 ### On Verticillium Sclerotia
 - **Talaromyces flavus:** Most successful biocontrol agent against V. dahliae;
-  produces glucose oxidase (releases toxic hydrogen peroxide), plus
+  produces glucose oxidase (releases toxic [[cervantes-hydrogen-peroxide-sterilization]]), plus
   beta-1,3-glucanase and chitinase
 - **Clonostachys rosea:** Efficient destructive parasite contacting hosts with
   pseudoappressoria
@@ -74,8 +74,8 @@ phases where they establish contact before killing host tissue.
 - **T. harzianum:** Complex action involving chitinase and beta-1,3-glucanase
 - **T. virens:** Affects host mainly with toxic metabolites gliotoxin and
   gliovirin
-- **Laetisaria arvalis:** Potent biocontrol agent against R. solani and
-  Pythium ultimum
+- **[[laetisaria-arvalis]]:** Potent biocontrol agent against R. solani and
+  [[pythium-ultimum]]
 ### On Aspergillus Sclerotia
 - **Paecilomyces lilacinus:** Colonizes sclerotia of A. flavus and
   A. parasiticus, shortening their survival in soil
@@ -88,23 +88,3 @@ including chitinases, beta-1,3-glucanases, and proteases that dissolve host
 structural barriers.
 Physical parasitism involves directed hyphal growth toward the host (chemotropism
 in response to host-derived signals), coiling around host hyphae, formation of
-appressoria or pseudoappressoria for penetration, and intracellular
-colonization. The combination of enzymatic and mechanical strategies makes
-Trichoderma species among the most effective mycoparasites known.
-## Biocontrol Applications
-These mycoparasitic relationships are being harnessed for biological control of
-plant diseases:
-- T. virens and C. minitans: most efficient single agents and in combination
-  against Sclerotinia
-- T. flavus: most successful against Verticillium wilt
-- Nonpathogenic Rhizoctonia isolates: control pathogenic R. solani better than
-  commercial mycoparasites
-Integration of mycoparasites with other biocontrol organisms and reduced-risk
-chemical fungicides can enhance disease suppression while minimizing
-environmental impact. Formulation development (granular preparations, seed
-coatings, soil drenches) remains critical for practical deployment.
-## See Also
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[soil-fungal-isolation-techniques]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]
-- [[selective-agents-fungal-isolation-antibiotics-fungicides]]

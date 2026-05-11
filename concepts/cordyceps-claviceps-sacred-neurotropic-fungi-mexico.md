@@ -6,13 +6,13 @@ While Psilocybe species dominate discussions of neurotropic fungi, the genus Cor
 relative Claviceps have a significant but often overlooked ceremonial history in Mexico. Indigenous
 communities in central Mexico, particularly in the Nevado de Toluca region, have used Cordyceps
 species alongside Psilocybe mushrooms in traditional nocturnal ceremonies for centuries. These fungi
-occupy a unique position as non-psilocybin neurotropic organisms whose cultural importance may stem
-from their taxonomic relationship to Claviceps purpurea, the famous ergot fungus responsible for
+occupy a unique position as non-psilocybin [[ergot-fungi-claviceps-and-cordyceps-as-neurotropic-organisms]] whose cultural importance may stem
+from their taxonomic relationship to [[bloomfield-ergot-claviceps-purpurea-ergotism]], the famous ergot fungus responsible for
 ergotism epidemics throughout European history.
 
 ## Cordyceps Species in Mexican Ceremonial Use
 
-Two Cordyceps species are documented as sacred fungi in Mexican indigenous traditions. These species
+Two Cordyceps species are documented as sacred fungi in Mexican [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]. These species
 are notable because they are parasitic fungi that grow on subterranean Elaphomyces (deer truffle)
 hosts, creating a complex three-organism ecological and ceremonial relationship:
 
@@ -63,8 +63,8 @@ analysis. Given what is now understood about the volatility of neurotropic compo
 negative result is likely inconclusive rather than definitive.
 
 Repke et al. (1977) demonstrated that baeocystin disappears from Psilocybe specimens within 20-60
-days of collection. Ohenoja et al. (1987) detected decreasing psilocybin in herbarium specimens of
-Psilocybe semilanceata: 0.014% in specimens from 1869, compared to 0.67% from 1954 and 0.84% from
+days of collection. Ohenoja et al. (1987) detected decreasing psilocybin in [[herbarium-specimens-fungal-collections]] of
+[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]: 0.014% in specimens from 1869, compared to 0.67% from 1954 and 0.84% from
 1976. The Mexican indigenous practice of discarding dried specimens older than one year aligns
 precisely with these scientific observations.
 
@@ -76,7 +76,7 @@ fungi, plus two Cordyceps species, placing them in Group 3 of their four-group c
 ### Claviceps Species
 - **Claviceps purpurea** — The classic ergot, widely distributed in temperate grasslands worldwide
 - **Claviceps nigricans** — Less common, associated with specific grass hosts
-- **Claviceps paspali** — Found on Paspalum grasses in tropical and subtropical regions
+- **[[claviceps-paspali]]** — Found on Paspalum grasses in tropical and subtropical regions
 - **Claviceps rolfesii** — Tropical distribution, less well characterized chemically
 - **Claviceps tripsicii** — Associated with Tripsacum grasses, New World distribution
 
@@ -88,58 +88,3 @@ The ergot alkaloids produced by Claviceps species include a complex array of com
 - **Lysergic acid amides**: Including ergine (LSA) and related compounds
 
 These are chemically distinct from the psilocybin/psilocin tryptamines but share serotonergic
-receptor activity, which explains their hallucinogenic properties. The ergot alkaloids act primarily
-on serotonin, dopamine, and adrenergic receptors, producing a different spectrum of effects than
-the more purely serotonergic psilocybin.
-
-## The Nevado de Toluca Region
-
-The Nevado de Toluca (Xinantécatl) is a volcanic crater lake in the State of Mexico, situated at
-approximately 4,680 meters elevation. This region has been identified as a major center for
-indigenous use of neurotropic fungi. The high-altitude environment supports unique fungal ecology,
-and the indigenous communities maintain ceremonial traditions that are among the best-documented
-examples of multi-fungal sacramental practice in the world.
-
-## The Gasteromycete Connection
-
-Related to the Cordyceps ceremonial complex are several gasteromycete species (puffballs) used
-in Mexican indigenous practice:
-
-- **Lycoperdon mixtecorum** (syn. Vascellum qudenii)
-- **Lycoperdon marginatum** (syn. Lycoperdon candidum)
-
-Heim and Wasson (1962) first reported these as narcotic fungi among Mixtec Indians of Oaxaca. Ott
-et al. (1975) later investigated and found these species were actually common edible puffballs.
-However, the Mixtec also used at least six other gasteromycete species in their ceremonies, and some
-of these were found to contain psilocybin upon chemical analysis. This suggests that the ceremonial
-use of puffballs may involve both genuine psychoactive species and symbolic substitutions.
-
-## Conservation and Research Gaps
-
-Several factors make continued research on Mexican Cordyceps and Claviceps species difficult:
-
-1. **Collection rarity**: Cordyceps capitata was collected only once by Wasson in 1955 and has not
-   been reliably recollected since, despite extensive fieldwork
-2. **Habitat specificity**: These species depend on Elaphomyces hosts, which are themselves tied to
-   specific forest ecosystems that are under threat from deforestation
-3. **Cultural sensitivity**: Sacred ceremonial use means access to traditional knowledge is limited
-4. **Legal restrictions**: Modern drug laws make it difficult to conduct chemical analyses
-5. **Degradation**: The volatility of active compounds means field-fresh analysis is essential but
-   logistically challenging, requiring portable laboratory equipment at remote field sites
-
-## See Also
-
-- [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]
-- [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
-- [[psilocybin-stability-and-specimen-age]]
-- [[neurotropic-fungi-classification]]
-
-## Sources
-
-- Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide geographical distribution of the
-  neurotropic fungi, an analysis and discussion. Ann. Mus. civ. Rovereto, 14, 189-280.
-- Heim, R. & Wasson, R.G. (1958). Les champignons hallucinogènes du Mexique.
-- Ott, J. et al. (1975). On the supposed narcotic use of Lycoperdon mixtecorum and L. marginatum.
-- Repke, D.B. et al. (1977). Variations in indole alkaloid content of Psilocybe species.
-- Ohenoja, E. et al. (1987). Detection of decreasing psilocybin in herbarium specimens.

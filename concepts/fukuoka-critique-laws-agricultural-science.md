@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # A Critique of the Laws of Agricultural Science
@@ -87,11 +88,3 @@ The farmer's only real task is to stop interfering and allow nature to express i
 7. The interplay between ground cover plants, crops, and trees creates a multi-layered productive system.
 8. Success in natural farming comes from long-term patience and trust in ecological processes rather than quick technological fixes.
 9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
-10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
-
-## Practical Applications
-
-## See Also
-
-- [[fukuoka-pit-of-knowledge]]
-- [[fukuoka-soil-self-improvement-without-tillage]]

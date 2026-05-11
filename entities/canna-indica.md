@@ -40,7 +40,7 @@ The genus name *Canna* derives from the Celtic *canna* (reed or cane), referring
 - Herbaceous perennial, 1.5–3.0 m tall in optimal conditions
 - Forms dense clumps from thick, branching rhizomes
 - Dies back to ground level in frost; regrows from rhizomes in spring
-- Rapid growth rate: can reach full height within a single [[savory-growing-season-and-non-growing-season-management]]
+- Rapid [[soil-temperature-plant-growth-rate-doubling-rule]]: can reach full height within a single [[savory-growing-season-and-non-growing-season-management]]
 
 ### Leaves
 - Large, broad, paddle-shaped, 30–60 × 10–25 cm; alternate; green to bronze/burgundy/variegated; petioles sheathing
@@ -67,14 +67,14 @@ The genus name *Canna* derives from the Celtic *canna* (reed or cane), referring
 
 ## Distribution and Habitat
 
-Native range: southern US through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Caribbean into northern South America. Widely naturalized in:
+Native range: southern US through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and Caribbean into northern [[guzman-psilocybin-mushrooms-south-america]]. Widely naturalized in:
 
-- Tropical Africa, South Asia, and Southeast Asia
-- Pacific Islands, Australia (naturalized in eastern states)
+- Tropical Africa, South Asia, and [[psilocybe-southeast-asia-pacific]]
+- [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Australia (naturalized in eastern states)
 - Southern Europe (Mediterranean [[mollison-climate-zones-permaculture-strategies]])
 - Subtropical regions of the Americas outside native range
 
-Natural habitats include:
+[[mushroom-natural-habitats]] include:
 - Riparian zones and stream banks
 - Freshwater marshes and wet meadows
 - Disturbed sites, roadsides, and abandoned fields
@@ -84,55 +84,7 @@ Natural habitats include:
 
 - **Hardiness:** USDA Zones 7–11; dies back in Zone 7–8, evergreen in Zones 10–11
 - **Light:** Full sun to partial shade; best flowering in full sun
-- **Soil:** Prefers rich, moist loam; tolerates heavy clay and waterlogged conditions
+- **Soil:** Prefers rich, moist loam; tolerates [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] and waterlogged conditions
 - **Water:** Thrives in consistently moist to wet soils; can grow in standing water up to 15 cm
 - **Propagation:** Division of rhizomes (most common), seeds (require scarification)
 - **Garden uses:** Borders, water gardens, containers, privacy screens, pollinator planting
-
-## Edible Uses
-
-### Rhizomes
-Edible rhizomes used as food for millennia:
-- **Starch extraction:** Yields arrowroot-like starch called "achira" or "Queensland arrowroot"
-- **Cooking:** Boiled, roasted, or baked; mild, slightly sweet flavor
-- **Flour:** Dried ground rhizomes produce gluten-free flour for breads and porridges
-- **Nutrition:** Rich in complex carbohydrates, moderate fiber, low protein/fat
-
-### Shoots, Flowers, and Seeds
-- Young shoots cooked as vegetable (similar to bamboo shoots)
-- Flowers used as garnishes or in salads
-- Seeds extremely hard; roasted as coffee substitute; valued for ornamental bead-making
-
-## permaculture Applications
-
-*Canna indica* exemplifies "[[gaias-garden-stacking-functions-detailed]]":
-
-1. **Food:** Edible rhizomes and shoots
-2. **Ornamental:** Showy flowers and bold foliage
-3. **Water purification:** Constructed wetland component
-4. **Pollinator support:** Nectar for hummingbirds, butterflies, bees
-5. **Biomass:** Abundant leaf/stem material for mulch and compost
-6. **[[permplant-willows-salix-erosion-control-fodder]]:** Dense roots stabilize stream banks and slopes
-7. **Windbreak:** Tall growth shelters wind-sensitive crops
-8. **Microclimate:** Shade and humidity modification for understory
-
-**Guild partners:** Canopy (moringa, breadfruit), shrub (hibiscus, pigeon pea), ground cover (sweet potato, comfrey, vetiver), aquatic (taro, duck potato)
-
-## Medicinal Properties
-
-- **Anti-inflammatory:** Leaf poultices for wounds, burns, insect bites
-- **Antimicrobial:** Leaf extracts active against *Staphylococcus*, *E. coli*, *Candida*
-- **Diuretic:** Rhizome decoctions used traditionally
-- **Antipyretic:** Leaf infusions reduce fever
-- **Antioxidant:** Flavonoid-rich extracts with free radical scavenging
-- **Antidiabetic:** Rhizome extracts may lower blood glucose (animal models)
-
-## Invasive Potential
-
-Can become aggressive in tropical/subtropical climates — spreads via rhizome fragmentation and ballistic seed dispersal. Forms dense monocultures that may outcompete native wetland vegetation. Classified as invasive in parts of Australia and Pacific Islands. Management requires complete rhizome removal.
-
-## See Also
-
-- [[hugelkultur]]
-- [[moringa-oleifera]]
-- [[sativa-vs-indica-growing-challenges]]

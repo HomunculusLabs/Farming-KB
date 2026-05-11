@@ -27,7 +27,7 @@ Alan Chadwick taught students to line the bottom of seed flats with oak leaves a
 - **Chickweed** (*Stellaria media*) — prolific accumulator across many nutrient categories
 - **[[comparison-stinging-nettle-vs-horsetail]]** (*Urtica urens*) — high calcium alongside nitrogen and potassium
 - **Comfrey** (*Symphytum officinale*) — accumulates calcium, magnesium, and trace minerals
-- **Coltsfoot** (*Tussilago farfara*) — accumulates broadly
+- **Coltsfoot** (*[[tussilago-farfara]]*) — accumulates broadly
 - **Plantains** (*Plantago* spp.) — common weeds with notable calcium content
 - **Vetches** (*Vicia* spp.) — dual nitrogen-fixing and calcium accumulation
 
@@ -35,14 +35,14 @@ Alan Chadwick taught students to line the bottom of seed flats with oak leaves a
 
 - Alfalfa (*Medicago sativa*)
 - Borage (*Borago officinalis*)
-- Bracken fern (*Pteridium aquilinum*)
+- Bracken fern (*[[pteridium-aquilinum]]*)
 - Burdock (*Arctium minus*)
 - Calamus (*[[sweet-flag-acorus-calamus-ethnobotany]]*)
 - Caraway (*Carum carvi*)
 - Carrot leaves (*Daucus carota*)
 - Cattail (*Typha latifolia*)
 - Century plant
-- Chamomile (*Anthemis arvensis*, *Chamomilla recutita*)
+- Chamomile (*Anthemis arvensis*, *[[chamomilla-recutita-entity]]*)
 - Chives (*Allium* sp.)
 - Chicory (*Cichorium intybus*)
 - Cleavers (*Galium aparine*)
@@ -57,12 +57,12 @@ Alan Chadwick taught students to line the bottom of seed flats with oak leaves a
 - Lamb's quarters (*Chenopodium album*)
 - Lemon balm (*Melissa officinalis*)
 - Lupine (*Lupinus* spp.)
-- Meadowsweet (*Filipendula ulmaria*)
+- Meadowsweet (*[[filipendula-ulmaria]]*)
 - Mistletoe
 - Mullein (*Verbascum* spp.)
 - Mustards (*Brassica* spp.)
 - Oat straw
-- Parsley (*Petroselinum crispum*)
+- Parsley (*[[petroselinum-crispum]]*)
 - Peppermint (*Mentha piperita*)
 - Pigweed (*Amaranthus retroflexus*)
 - Purslane (*Portulaca oleracea*)
@@ -84,46 +84,6 @@ Alan Chadwick taught students to line the bottom of seed flats with oak leaves a
 - Watercress (*Nasturtium officinale*)
 - Willow (*Salix* spp.)
 - Wintergreen (*Gaultheria procumbens*)
-- Yarrow (*Achillea millefolium*)
+- Yarrow (*[[achillea-millefolium]]*)
 
 ## Magnesium Accumulators
-
-Magnesium is the central atom of the chlorophyll molecule and is essential for photosynthesis. Deficiency symptoms include interveinal chlorosis (yellowing between leaf veins) in older leaves.
-
-### Key Magnesium Accumulators
-
-- **Comfrey** (*Symphytum officinale*) — exceptionally high magnesium content
-- **Stinging nettle** (*Urtica urens*) — high magnesium alongside other nutrients
-- **Dandelion** (*Taraxacum vulgare*) — deep taproot accesses subsoil magnesium
-- **Chickweed** (*Stellaria media*)
-- **Bracken fern** (*Pteridium aquilinum*)
-- **Lamb's quarters** (*Chenopodium album*)
-- **Borage** (*Borago officinalis*)
-- **Clovers** (*Trifolium* spp.)
-- **Docks** (*Rumex* spp.)
-- **Plantains** (*Plantago* spp.)
-- **Vetches** (*Vicia* spp.)
-- **Meadowsweet** (*Filipendula ulmaria*)
-- **Horsetails** (*Equisetum* spp.)
-- **Yarrow** (*Achillea millefolium*)
-- **Willow** (*Salix* spp.)
-
-## Practical Use
-
-Calcium and magnesium accumulators are most valuable when:
-
-- Soil pH is acidic and lime application alone is insufficient
-- Sandy soils leach these cations rapidly
-- Crops prone to [[knf-calcium-deficiency-symptoms]] (blossom end rot in tomatoes, bitter pit in apples) are grown
-- Building long-term soil mineral reserves in perennial plantings
-
-Oak leaf compost is particularly valuable for seed-starting mixes where calcium availability is critical for young seedling development.
-
-## Related
-
-- [[dynamic-accumulator-plants-nitrogen]]
-- [[dynamic-accumulator-plants-potassium]]
-- [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[dynamic-accumulator-plants-trace-minerals]]
-- [[dynamic-accumulator-plants-nitrogen]]

@@ -40,7 +40,7 @@ The species earned the colloquial name "red gold" during the colonial era due to
 
 The genus *Toona* contains five to seven species distributed across South Asia, Southeast Asia, and eastern Australia. Molecular phylogenetic studies place *Toona* within the Cedreloideae subfamily of Meliaceae, closely related to *Cedrela* and *Swietenia*. The species epithet *ciliata* refers to the ciliate (hairy) leaf margin, a distinguishing morphological character.
 
-Chromosome number is 2n = 28. Genetic studies have revealed significant population structure across the species' range, with Australian populations showing marked differentiation from Asian populations. Infraspecific classification is contentious; some authorities recognize varieties based on leaf morphology and geographic distribution. The Australian populations are sometimes treated as a distinct variety, *T. ciliata* var. *australis*, distinguished by larger leaflets and more pronounced ciliation. However, molecular evidence does not strongly support formal varietal status.
+Chromosome number is 2n = 28. Genetic studies have revealed significant population structure across the species' range, with Australian populations showing marked differentiation from Asian populations. Infraspecific classification is contentious; some authorities recognize varieties based on [[cannabis-leaf-morphology-and-phyllotaxy]] [[geographic-distribution-of-psilocybe-species]]. The Australian populations are sometimes treated as a distinct variety, *T. ciliata* var. *australis*, distinguished by larger leaflets and more pronounced ciliation. However, molecular evidence does not strongly support formal varietal status.
 
 ## Morphology
 
@@ -82,39 +82,8 @@ The wood has good steam-bending properties and is used for curved furniture comp
 
 Mean annual increment in well-managed tropical plantations can reach 15–25 m³/ha/year, among the highest growth rates for any tropical hardwood species. Plantation-grown trees typically achieve merchantable height (6–8 m of clear bole) by age 10–12 on favorable sites.
 
-Propagation is primarily by seed, which requires no pre-treatment but germinates best when sown fresh. Seed viability declines rapidly after 12 months of storage. Vegetative propagation by cuttings and tissue culture has been developed for clonal plantation programs, particularly in China and Australia.
+Propagation is primarily by seed, which requires no pre-treatment but germinates best when sown fresh. Seed viability declines rapidly after 12 months of storage. [[hamilton-vegetative-propagation]] by cuttings [[pda-and-tissue-culture]] has been developed for clonal plantation programs, particularly in China and Australia.
 
-The species is susceptible to the cedar tip moth (*Hypsipyla robusta*), which attacks growing tips and causes forking and stem deformation. This pest is the major constraint on plantation establishment across the species' range. Integrated pest management strategies include mixed-species plantings, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and selective breeding for resistance. Provenance trials in Australia have identified Indonesian and Chinese sources with relatively greater Hypsipyla tolerance.
+The species is susceptible to the cedar tip moth (*Hypsipyla robusta*), which attacks growing tips and causes forking and stem deformation. This pest is the major constraint on plantation establishment across the species' range. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] strategies include mixed-species plantings, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and selective breeding for resistance. Provenance trials in Australia have identified Indonesian and Chinese sources with relatively greater Hypsipyla tolerance.
 
-The species has been successfully interplanted with nitrogen-fixing legumes in agroforestry systems. In Queensland, Australia, *T. ciliata* is grown in combination with *Alnus* spp. and *Casuarina* spp. to improve soil fertility while producing high-value timber. These mixed plantings also reduce Hypsipyla damage through increased canopy complexity and natural enemy populations.
-
-## Ecological Role
-
-In native rainforest ecosystems, *T. ciliata* is a canopy or emergent tree that contributes significantly to forest structure and biodiversity. The species provides food for a range of frugivorous birds and arboreal mammals. The fruits are consumed by cassowaries, fruit pigeons, and flying foxes, which serve as important seed dispersal agents.
-
-Several parrot species also feed on the seeds, though their heavy seed predation can limit natural regeneration in some areas. Leaf-feeding insects include a range of chrysomelid beetles and saturniid moth caterpillars.
-
-The tree is deciduous during the dry season in monsoonal climates, creating seasonal gaps in canopy cover that promote understory regeneration. Leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] is relatively rapid, returning nutrients to the forest floor and supporting diverse decomposer communities.
-
-Mycorrhizal associations are predominantly [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF), which enhance phosphorus uptake on the often phosphorus-deficient [[mollison-designers-tropical-soils-and-cation-exchange-management]] where the species grows. These associations are particularly important during seedling establishment on degraded or disturbed sites.
-
-The species is an important host for epiphytic orchids and ferns in its native rainforest habitat. Old-growth individuals support diverse epiphyte communities including *Dendrobium* orchids, *Platycerium* staghorn ferns, and various bromeliads. Loss of large old-growth trees through logging removes critical epiphyte habitat.
-
-Natural regeneration is often abundant in rainforest gaps and along watercourses but is limited in closed-canopy forest due to [[growing-gourmet-light-requirements-mushroom-fruiting]]. Seedling establishment is most successful on disturbed sites with exposed mineral soil. The species is classified as Least Concern by the IUCN, though natural populations in Australia are significantly depleted from historical levels. In parts of India and Southeast Asia, the species has been so heavily logged that mature trees are now rare outside protected areas.
-
-## See Also
-
-- [[cedrela-odorata]]
-- [[swietenia-macrophylla]]
-- [[toona-sinensis]]
-- [[melia-azedarach]]
-- [[ailanthus-altissima]]
-- [[eucalyptus-globulus]]
-- [[acacia-nilotica]]
-- gliricidia-sepium
-- [[robinia-pseudoacacia]]
-- [[morus-alba]]
-
-The bark and leaves contain bitter limonoid compounds including toonacilitin, which have shown antimalarial and insecticidal activity in laboratory studies. Traditional medicinal uses in India and Southeast Asia include treatment of fever, diarrhea, and wounds, though these applications have limited clinical validation.
-
-Recent research has focused on the anticancer and anti-inflammatory properties of toonacilitin and related compounds.
+The species has been successfully interplanted with nitrogen-fixing legumes in agroforestry systems. In Queensland, Australia, *T. ciliata* is grown in combination with *Alnus* spp. and *Casuarina* spp. to [[query-how-does-rock-dust-improve-soil-fertility]] while producing high-value timber. These mixed plantings also reduce Hypsipyla damage through increased canopy complexity and natural enemy populations.

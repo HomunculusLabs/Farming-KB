@@ -77,3 +77,13 @@ This intoxication was "much more pleasant than that produced by the straight ext
 The Ambrosia Society, founded by Teeter in cooperation with the author, is described as "an Educational, Scientific, Religious and Fraternal Association of individuals dedicated to understanding the ancient Sacrament." The society continues Teeter's research into the practical applications of Amanita muscaria, including cultivation of the [[amanita-muscaria-living-bread-sacrament]] and [[amanita-muscaria-sacramental-wine-preparation]] under modern conditions, as detailed in Chapter 15 of the book.
 
 ## See Also
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

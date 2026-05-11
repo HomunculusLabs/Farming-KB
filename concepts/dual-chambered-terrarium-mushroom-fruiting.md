@@ -1,5 +1,5 @@
 ---
-title: Dual Chambered Terrarium [[bacteria-and-microorganisms-in-mushroom-fruiting]]
+title: Dual Chambered Terrarium Mushroom Fruiting
 created: 2026-05-09
 tags: [mycology, cultivation, fruiting, terrarium, humidity]
 date: 2026-05-09
@@ -88,62 +88,3 @@ chamber. Perlite is a volcanic mineral expanded through heat, creating an extrem
 porous, lightweight material with enormous surface area for evaporation.
 
 ### Advantages of Perlite Over Standing Water
-
-1. **Dramatically increased surface area:** Perlite's porous surface provides far more
-   evaporation surface than a flat water surface
-2. **Better humidity stability:** Perlite acts as a humidity buffer, releasing moisture
-   gradually
-3. **Reduced contamination risk:** Standing water breeds bacteria; perlite is less
-   hospitable to contaminants
-4. **Self-regulating:** Perlite absorbs excess moisture when humidity is too high and
-   releases it when humidity drops
-
-### Perlite Setup
-
-1. Rinse perlite thoroughly to remove dust
-2. Drain excess water — perlite should be damp, not submerged
-3. Spread a 2-3 inch layer of damp perlite in the aquarium bottom
-4. Place the elevated platform on top of the perlite layer
-5. Mushroom cakes sit on the platform above the perlite
-
-## Placing the Mushroom Cakes
-
-Once fully colonized and consolidated, substrate cakes are removed from their jars
-and placed in the terrarium:
-
-1. Remove the colonized cake from the jar by gently tapping the inverted jar
-2. The tapered jar shape allows the cake to slide out; if stuck, gently tap the
-   jar bottom against a padded surface
-3. Place the cake on the elevated platform in the upper chamber
-4. Cakes can be placed directly on the platform or on small pieces of foil to
-   prevent direct contact with the perlite
-
-## Spraying Procedure
-
-A consistent misting regimen maintains appropriate moisture levels:
-
-- Use a fine mist spray bottle filled with clean water
-- Mist the chamber walls and air above the cakes, never directly onto the cakes
-- Spray 2-4 times per day depending on ambient conditions
-- After spraying, fan the chamber briefly to distribute moisture and exchange air
-- Signs of low humidity include cakes drying out, cracking, or producing small
-  stunted mushrooms with cracked caps
-
-## Symptoms of Low Humidity
-
-- **Cracked caps:** Radial cracks form as the cap expands in dry air
-- **Stunted growth:** Mushrooms remain small and fail to reach normal size
-- **Cakes drying:** The substrate cake shrinks and pulls away from its original shape
-- **Premature veil tearing:** The veil tears early, releasing spores prematurely
-
-## Drying and Preservation
-
-After harvest, mushrooms are preserved via cool desiccation using silica gel or DampRid
-in a sealed container. Properly dried mushrooms are crisp, snap cleanly when bent, and
-store indefinitely in airtight containers in a cool, dark location.
-
-## See Also
-
-- [[pf-tek-substrate-formula]]
-- [[mushroom-spore-syringe-inoculation]]
-- perlite humidification technique

@@ -88,31 +88,3 @@ The strain's commercial success in the regulated market has been consistent, wit
 ## Legacy and Genetic Offspring
 
 Sour Diesel has served as a genetic parent or contributor to an extraordinary number of subsequent elite cannabis cultivars, reflecting its status as one of the most important foundational strains in modern cannabis breeding.
-Its influence is comparable to that of Skunk #1 or Northern Lights in terms of the breadth and depth of its genetic contribution to subsequent cultivar development.
-Notable offspring and crosses include:
-
-- **Headband** (Sour Diesel × OG Kush): A balanced hybrid known for its pronounced cerebral pressure around the temples that inspired its name.
-- **Blue Diesel** (Sour Diesel × Blueberry): Combines Sour Diesel's energizing effects with Blueberry's sweet flavor profile.
-- **Sour Tangie** (Sour Diesel × Tangie): A citrus-forward cross with enhanced limonene content and an upbeat, creative effects profile.
-- **Chemdawg Sour Diesel**: A backcross to Chemdog lineage that intensifies the fuel-like aroma and potency.
-- **NYC Diesel**: A related but distinct strain sometimes confused with Sour Diesel, with a sweeter, more grapefruit-forward flavor profile.
-
-## Phenotype Variations
-
-Multiple distinct phenotypes of Sour Diesel have been identified and stabilized by different breeders over the decades, leading to some confusion in the marketplace.
-The "AJ's Sour Diesel" cut, reportedly the original New York City phenotype, is characterized by a particularly intense diesel aroma and tall, lanky plant structure.
-The "Rezdog Sour Diesel" is a backcrossed version stabilized by the breeder Rezdog, which aimed to preserve the original phenotype's characteristics while improving yield and reducing flowering time.
-The "ECSD" (East Coast Sour Diesel) is another well-regarded cut that is particularly popular among connoisseurs for its balanced effects and complex terpene profile.
-These different cuts can vary significantly in their cannabinoid and [[cannabis-terpene-profiles-sativa]], flowering times, and growth characteristics, making strain identification based solely on name unreliable in the commercial market.
-The lack of standardized naming conventions in the cannabis industry compounds this problem, and genetic testing has revealed that many commercially available "Sour Diesel" products bear limited genetic resemblance to the original phenotype.
-Consumers seeking authentic Sour Diesel are advised to source from reputable breeders who maintain documented provenance of their cuts.
-
-## See Also
-
-- [[chocolope]]
-
-- [[cannabis-terpene-profiles]]
-- [[blesching-cannabis-sativa-indica-classification]]
-- [[white-widow-entity]]
-- chemdog lineage
-- [[cannabis-terpene-entourage-effect]]

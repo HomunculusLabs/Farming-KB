@@ -11,8 +11,8 @@ type: concept
 
 Mycelium is the vegetative body of a fungus, consisting of a network of
 branching hyphae that extend through substrate, secreting enzymes to digest
-organic matter and absorbing nutrients. Understanding how mycelium grows and
-colonizes substrate is fundamental to successful mushroom cultivation because
+[[savory-soil-organic-matter-and-decomposition-dynamics]] absorbing nutrients. Understanding how mycelium grows and
+colonizes substrate is fundamental to successful [[accessible-mushroom-cultivation-for-disabilities]] because
 every cultivation decision, from substrate recipe to environmental conditions,
 is optimized for the mycelial growth phase.
 
@@ -69,81 +69,22 @@ Temperature significantly affects colonization speed. Most cultivated species
 have an optimal range of 22 to 26 degrees Celsius, with growth roughly doubling
 for every 10 degree increase within their viable range (up to their thermal
 maximum). However, temperatures above 28 degrees Celsius increasingly favor
-bacterial and mold competitors over mushroom mycelium.
+bacterial and mold competitors over [[antimicrobial-compounds-mushroom-mycelium]].
 
 Oxygen is essential. Mycelium respires aerobically during colonization,
 consuming oxygen and producing carbon dioxide. While mycelium tolerates higher
-CO2 levels than developing fruiting bodies, completely sealed containers will
+CO2 levels than developing [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], completely sealed containers will
 stall growth. Filter patches on jars and bags (typically 0.3 to 0.5 micron
 pore size) allow gas exchange while preventing spore ingress.
 
 Moisture content of the substrate must remain between 50 and 65 percent. Too
-dry, and hyphal growth slows dramatically. Too wet, and water fills the air
+dry, [[bloomfield-fungal-biology-and-hyphal-growth]] slows dramatically. Too wet, and water fills the air
 pores in the substrate, depriving mycelium of oxygen and promoting anaerobic
 bacterial growth.
 
 ## Enzymatic Activity
 
-Mycelium secretes a suite of extracellular enzymes to break down complex
+Mycelium secretes a suite of [[fungal-extracellular-enzymes]] to break down complex
 organic molecules into absorbable nutrients. Cellulases break down cellulose
 into glucose. Lignin peroxidases and manganese peroxidases degrade lignin, a
 complex polymer that few organisms can attack. Proteases break down proteins
-into amino acids. The specific enzyme profile varies by species and determines
-what substrates each fungus can colonize. [[agaricus-bisporus]] requires
-composted substrates where bacteria have partially broken down organic matter.
-
-## Mycelial Networking
-
-Mycelium is not merely a collection of independent hyphae. The network forms
-functional connections that allow
-[[mycelial-network-resource-sharing-plants]] across large distances. When one
-part of the network encounters a nutrient-rich zone, those resources can be
-distributed to hyphal tips in nutrient-poor areas, enabling exploration of
-larger volumes of substrate. This networking ability is part of what makes
-[[fungal-mycelium-hyphae-and-the-feeding-phase]] such an effective colonizer.
-
-## Consolidation
-
-After the substrate appears fully colonized, most cultivators recommend a
-consolidation period of 5 to 10 days before inducing fruiting. During this
-time, the mycelium strengthens its network and metabolizes remaining simple
-sugars that would otherwise attract contaminants when the substrate is exposed
-to [[fruiting-conditions]]. Consolidation is particularly important for
-substrates supplemented with grain bran or similar nutrient boosters.
-
-## Contamination Resistance During Colonization
-
-Healthy mycelium actively defends its territory against competing organisms.
-As colonization proceeds, the mycelium secretes a range of secondary
-metabolites including organic acids, antibiotics, and enzymes that inhibit
-bacterial and fungal competitors. This competitive exclusion is one reason why
-fully colonized substrate is far more resistant to contamination than freshly
-inoculated material.
-
-The speed of colonization is itself a defense mechanism. Mycelium that
-colonizes substrate rapidly occupies available niches before competitor
-spores can germinate and establish. This is why maintaining optimal
-temperature and moisture during colonization is critical — slow growth
-creates windows of vulnerability for contaminants. See
-[[substrate-pasteurization]] for substrate preparation methods that reduce
-initial competitor loads.
-
-## Grain Spawn Versus Direct Substrate Inoculation
-
-Most commercial and hobby cultivation uses grain spawn as an intermediate step.
-Grain (typically rye, millet, or wheat) is sterilized, inoculated with agar
-culture or spore syringe, and allowed to fully colonize. The resulting grain
-spawn is then used to inoculate the final fruiting substrate.
-
-Grain spawn offers several advantages over direct inoculation:
-
-- Each grain kernel becomes an independent colonization point, dramatically
-  accelerating spread through the bulk substrate
-- The many inoculation points reduce the distance mycelium must travel to
-  achieve full colonization
-- Fully colonized grain is highly contamination-resistant, making the transfer
-  to bulk substrate more forgiving than working with agar plates
-
-The [[substrate-pasteurization]] process prepares bulk substrates by
-eliminating most competitors while preserving heat-sensitive beneficial
-organisms that can assist the mushroom mycelium.

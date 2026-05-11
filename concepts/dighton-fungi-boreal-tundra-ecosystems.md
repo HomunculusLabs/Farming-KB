@@ -12,7 +12,7 @@ updated: 2026-04-26
 
 ## Overview
 
-Boreal and tundra ecosystems are characterized by cold temperatures, short growing seasons, and slow decomposition rates. Fungi -- particularly lichens, ericoid mycorrhizae, and ectomycorrhizae -- dominate these ecosystems due to their ability to tolerate environmental stress, persist through long periods of inactivity, and function at low temperatures. Their role in nutrient cycling and [[lichens-primary-production-soil-formation-dighton]] is disproportionately large relative to their biomass.
+Boreal and tundra ecosystems are characterized by cold temperatures, short growing seasons, and slow decomposition rates. Fungi -- particularly lichens, [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]], and ectomycorrhizae -- dominate these ecosystems due to their ability to tolerate environmental stress, persist through long periods of inactivity, and function at low temperatures. Their role in [[soil-protozoa-nutrient-cycling-and-mineralization]] [[lichens-primary-production-soil-formation-dighton]] is disproportionately large relative to their biomass.
 
 ## Mycorrhizal Distribution in Cold Ecosystems
 
@@ -31,8 +31,8 @@ In boreal heathlands, [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi
 - **70%** of soil N is hydrolysable organic N; **<1%** is extractable NH₄⁺ (Read and Kerley, 1995)
 - 26% is humin and other recalcitrant N; 1-4% is free amino acid N
 - Ericoid fungi produce proteases enabling host plants to access organic N (Stribley and Read, 1980; Bajwa and Read, 1985; Leake and Read, 1989, 1990a,b)
-- *Hymenoscyphus ericae* can decompose chitin and transfer ~40% of N from N-acetylglucosamine to host plants (*Vaccinium macrocarpon*, *Calluna vulgaris*) (Kerley and Read, 1995)
-- Salal (*Gautheria shallon*) ericoid mycorrhizae (*Oidiodendron maius*, *Acremonium strictum*) utilize glutamine, glutathione, and proteins as N sources (Xiao and Berch, 1999)
+- *Hymenoscyphus ericae* can decompose chitin and transfer ~40% of N from N-acetylglucosamine to host plants (*[[vaccinium-macrocarpon]]*, *Calluna vulgaris*) (Kerley and Read, 1995)
+- Salal (*Gautheria shallon*) ericoid mycorrhizae (*Oidiodendron maius*, *[[acremonium-strictum]]*) utilize glutamine, glutathione, and proteins as N sources (Xiao and Berch, 1999)
 
 ### Phosphorus Acquisition
 - Phosphatase enzymes release P from [[fungal-volatile-organic-compounds-communication]] (Pearson and Read, 1975; Mitchell and Read, 1981)
@@ -69,7 +69,7 @@ Mat-forming lichens are efficient nutrient traps (Crittenden, 1989):
 | Lichen Species | NO₃-N Retention | NH₄-N Retention |
 |----------------|-----------------|-----------------|
 | *Stereocaulon paschale* | 86-100% | 40-99% |
-| *Cladonia stellaris* | 62-99% | 50-97% |
+| *[[cladonia-stellaris]]* | 62-99% | 50-97% |
 
 ### Nitrogen Fixation
 
@@ -81,61 +81,10 @@ Lichens are critical winter feed for reindeer. In Svalbard, lichen communities h
 
 ### UV Protection Adaptations
 
-Lichen melanins reduce UVB/UVA penetration and shift light to higher wavelengths (Gauslaa and Solhaug, 2001). *Xanthoria parietina* produces the pigment parietin to protect against excessive light (Solhaug and Gauslaag, 1996).
+Lichen melanins reduce UVB/UVA penetration and shift light to higher wavelengths (Gauslaa and Solhaug, 2001). *[[xanthoria-parietina]]* produces the pigment parietin to protect against excessive light (Solhaug and Gauslaag, 1996).
 
 ### Necromass Nutrient Recycling
 
 Dead lichen material adds organic matter to soil. N is retranslocated from necromass (Crittenden, 1991) -- measured in *Cladonia stellaris* and *Stereocaulon paschale*.
 
 ## Lichen Soil Crusts in Cold Environments
-
-### Desert Soil Crust Analog
-
-Lange et al. (1994) demonstrated that soil crust lichens (*Acarospora schleicheri*, *Caloplaca volkii*, *Lecidella crystallina*) perform ecosystem functions in response to pulses of water and light:
-- Rapid photosynthetic response to nocturnal dew/fog
-- Peak photosynthesis sustained for ~3 hours before desiccation
-- Net carbon gain: ~126 mg C/m²/day; ~16 g C/m²/year
-- Annual gross primary production: ~32 g C/m²
-
-Similar rapid responses occur in cyanobacterial soil crust lichens in Utah arid soils (Lange et al., 1998).
-
-### Soil Stabilization
-
-Fungal hyphae in cryptogamic crusts physically bind mineral particles together:
-- Penetrate between soil particles, creating a stabilizing web
-- Polysaccharide secretions act as glue
-- Hydrophobic hyphae promote lateral water flow, reducing erosion
-- Longevity of fungi provides permanency not achievable by bacteria
-
-## Taiga Ecosystem Dynamics
-
-Lamontagne (1998) studied the mosaic of land cover in Alaskan taiga:
-- **Lichen patches** (24% of catchment): Net N mineralization 7x higher; nitrate N 40x higher than adjacent forest islands
-- **Forest islands** (27% of catchment): Nutrients utilized by immobilization into tree biomass
-- **Bedrock with crustose lichens** (49% of catchment)
-- Higher N mineralization in lichen patches attributed to lower N immobilization into lichen tissue vs. tree tissue
-- Lichen-dominated upper slopes export soluble mineral and [[dighton-fungal-dissolved-organic-carbon-production]] N via runoff to lower forest islands
-
-## Climate Change Implications for Boreal/Tundra Fungi
-
-- Cold-adapted plants show greatest increases in active carbon pool and translocation rates under elevated CO₂ (Potvin et al., 1984)
-- ECM and ericoid mycorrhizal communities likely affected more than AM communities by climate change (Dighton and Jansen, 1991)
-- Increased temperature will accelerate decomposition and mineralization, potentially reducing mycorrhizal dependence
-- Reduced snow cover and permafrost thaw will fundamentally alter the cold-soil fungal niche
-
-## Key References
-
-- Read, D.J. (1991a,b). Mycorrhizas in ecosystems. *Experientia* / *Adv. Ecol. Res.*
-- Read, D.J. and Kerley, S. (1995). N forms in heathland soil. *Funct. Ecol.*
-- Crittenden, P.D. (1989, 1991, 2000). Lichen nutrient dynamics and N fixation.
-- Cooper, E.J. and Wookey, P.A. (2001). Arctic lichen growth rates. *New Phytol.*
-- Lange, O.L. et al. (1994, 1998). Lichen photosynthesis in extreme environments. *Flora* / *Oecologia*.
-
-## See Also
-
-- [[fungal-diversity-boreal-forests-taiga]]
-- [[fungal-roles-in-old-growth-forests]]
-- fungal-biodiversity-forest-floor
-- [[decomposition]]
-- [[oidiodendron-maius]]
-- [[ectomycorrhiza]]

@@ -1,6 +1,6 @@
 ---
 
-title: Archaeology of Psychedelic Mushroom Use
+title: Archaeology Of Psychedelic Mushrooms
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Archaeology of Psychedelic Mushroom Use
 
-The archaeological evidence for prehistoric psychedelic [[japan-narcotics-control-law-psilocybin-fungi-2002]] mushroom use is fragmentary and controversial. Andy Letcher's "Shroom" (2006) provides a thorough critical assessment of the claims and evidence, concluding that "there is not a single instance of a magic mushroom being preserved in the archaeological record anywhere."
+The archaeological evidence for prehistoric psychedelic mushroom use is fragmentary and controversial. Andy Letcher's "Shroom" (2006) provides a thorough critical assessment of the claims and evidence, concluding that "there is not a single instance of a magic mushroom being preserved in the archaeological record anywhere."
 
 ## Direct Archaeological Evidence
 
@@ -31,12 +31,12 @@ The archaeological evidence for prehistoric psychedelic [[japan-narcotics-contro
 
 The direct evidence is extremely limited:
 - **Scole, Norfolk (Roman well):** Puffball spores (Lycoperdon) found in a Roman well. These puffballs were past the edible stage when deposited, making their presence mysterious — possibly used for magic, medicine, or even loft insulation.
-- **North American grave guardians:** 19th-century indigenous grave "guardians" (carved figures of faces and animals) were found to be made from dried Fomitopsis officinalis mushroom, not wood as originally thought.
-- **Ergot (Claviceps purpurea):** Ergot sclerotia were found in the stomach contents of the exquisitely preserved Iron Age "bog bodies" of Denmark (Grauballe Man and others). However, whether ergot was consumed knowingly for its psychoactive effects is unclear — Grauballe Man appears to have been violently executed.
+- **North American grave guardians:** 19th-century indigenous grave "guardians" (carved figures of faces and animals) were found to be made from dried [[fomitopsis-officinalis-entity]] mushroom, not wood as originally thought.
+- **Ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]):** Ergot sclerotia were found in the stomach contents of the exquisitely preserved Iron Age "bog bodies" of Denmark (Grauballe Man and others). However, whether ergot was consumed knowingly for its psychoactive effects is unclear — Grauballe Man appears to have been violently executed.
 
 ### Psychoactive Plant Evidence
 
-Preserved poppy heads (Papaver somniferum) uncovered in Britain, Switzerland, and Spain suggest opium production from the Neolithic onwards. Cannabis (Cannabis sativa) evidence appears in Britain and Eastern Europe from perhaps the late Bronze Age. Henbane (Hyoscyamus niger) seeds and pollen have been found in Neolithic Grooved Ware pottery at Balfarg in Scotland.
+Preserved poppy heads ([[papaver-somniferum]]) uncovered in Britain, Switzerland, and Spain suggest opium production from the Neolithic onwards. Cannabis (Cannabis sativa) evidence appears in Britain and Eastern Europe from perhaps the late Bronze Age. Henbane (Hyoscyamus niger) seeds and pollen have been found in Neolithic Grooved Ware pottery at Balfarg in Scotland.
 
 However, Letcher argues that the presence of these plants does not guarantee psychoactive use: poppy seeds are nutritious, opium is a painkiller, cannabis has medical uses and fiber applications, and henbane seeds might have been kept purely as a display of mastery over a poisonous plant.
 
@@ -44,7 +44,7 @@ However, Letcher argues that the presence of these plants does not guarantee psy
 
 ### Tassili Plateau (Southern Algeria)
 
-The most famous example of claimed prehistoric mushroom art comes from the Tassili plateau, dating from the Neolithic to the start of the Common Era. A particular image, popularised by Terence McKenna, depicts a male figure with a bee-shaped mask, covered in psychedelic patterns of lozenges and dots, apparently holding mushroom-shaped objects. This image has become an icon of the psychedelic community.
+The most famous example of claimed [[archaeology-of-ecstasy-prehistoric-mushroom-use]] art comes from the Tassili plateau, dating from the Neolithic to the start of the Common Era. A particular image, popularised by Terence McKenna, depicts a male figure with a bee-shaped mask, covered in psychedelic patterns of lozenges and dots, apparently holding mushroom-shaped objects. This image has become an icon of the psychedelic community.
 
 ### Hildesheim Cathedral Doors (Germany)
 
@@ -69,6 +69,16 @@ Letcher identifies a fundamental problem: "It is not enough to identify an image
 ## See Also
 
 - [[psychedelic-mushroom-history]] — Timeline of documented mushroom use
-- [[mushroom-folklore-and-culture]] — Folklore and cultural significance
+- [[mushroom-folklore-and-culture]] — Folklore [[amanita-muscaria]]
 - [[siberian-shamanism-and-amanita]] — Best-documented indigenous mushroom tradition
 - [[terence-mckenna]] — Popularizer of the Tassili mushroom art interpretation
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

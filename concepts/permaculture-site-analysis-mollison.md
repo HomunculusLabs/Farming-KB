@@ -88,12 +88,3 @@ practical to change. Mollison recommends producing a base map (1:500 to
 water, soils, vegetation, sectors, and zones. These overlays reveal
 interactions between factors and allow testing of alternative placements
 before committing to earthworks or plantings.
-
-## Connections
-- [[permaculture-pattern-understanding-design-process]]
-- [[permaculture-zones-and-sectors]]
-- [[keyline-design]]
-- [[swale]]
-- [[bill-mollison]]
-- [[soil-health-management]]
-- [[permaculture-designers-manual-settlement-types]]

@@ -3,7 +3,7 @@ title: Livestock Fencing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, homesteading, livestock, equipment, construction]
+tags: [animal-husbandry, [[homesteading]], livestock, equipment, construction]
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 Fencing is one of the most important investments on a homestead. Good fencing
 keeps animals where they belong, protects them from predators, and enables
-rotational grazing systems that improve pasture health. The right fence depends
+[[comparison-rotational-grazing-vs-continuous-grazing]] systems that improve pasture health. The right fence depends
 on the species, terrain, budget, and management style. This guide covers the
 major fencing types used in homestead livestock systems.
 
@@ -19,7 +19,7 @@ major fencing types used in homestead livestock systems.
 
 ### Overview
 Electric fencing is the most versatile and cost-effective option for
-rotational grazing and temporary paddocks. It works by delivering a brief,
+[[comparison-rotational-grazing-vs-set-stocking]] and temporary paddocks. It works by delivering a brief,
 high-voltage pulse that trains animals to respect the barrier. The psychological
 barrier is as important as the physical one.
 
@@ -76,7 +76,7 @@ Woven wire (field fence) provides a permanent physical barrier. It consists
   strand for extra height if needed.
 - **Wire gauge:** 12.5 gauge (lighter) to 10 gauge (heavier, more durable).
 - **Coating:** Class 1 galvanized (light duty) or Class 3 galvanized
-  (heavy duty, 2-3x the life). Always choose Class 3 for homestead use.
+  ([[oner-peptide-limestone-city-seeds-heavy-duty-fruity-sweet-tooth-durban-poison]], 2-3x the life). Always choose Class 3 for homestead use.
 
 ### Installation
 - Corner posts: 6-8 inch diameter wood posts, set 3-4 ft deep in concrete.

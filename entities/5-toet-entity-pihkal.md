@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 5-TOET
 
-PIHKAL entry #170. 4-ETHYL-2-METHOXY-5-METHYLTHIOAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #170. 4-ETHYL-2-METHOXY-5-METHYLTHIOAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,61 +88,7 @@ term "Twat" became regularly used, and the family was generally
 referred to as the "Toms and Twats." The almost-obscene meaning of the
 latter was progressively forgotten with usage, and has led to some
 raised eyebrows at occasional seminars when these compounds are
-discussed. And not only at seminars. Once at the between-acts
-intermission at the Berkeley Repertory Theater, the topic came up and
-the phrase was used. There was a stunned silence about us within the
-circle of hearing, and we seemed to have been given a little extra
-room immediately thereafter.
 
-As with the other members of the TOM's and TOET's, the phenethylamine
-homologue of 5-TOET was synthesized, but had never been started in
-human evaluation. The aldehyde from above,
-4-ethyl-2-methoxy-5-(methylthio)benzaldehyde, was condensed with
-nitroethane (as reagent and as solvent) and with ammonium acetate as
-catalyst to give the nitrostyrene as spectacular canary-yellow
-electrostatic crystals with a mp of 91-92 deg C. Anal. (C12H15NO3S) C,H.
-This was reduced with aluminum hydride (from cold THF-dissolved
-lithium aluminum hydride and 100% sulfuric acid) to the phenethylamine
-4-ethyl-2-methoxy-5-methylthiophenethylamine (2C-5-TOET) which, when
-totally freed from water of hydration by drying at 100 deg C under a hard
-vacuum, had a mp of 216-217 deg C. Anal. (C12H20ClNOS) C,H.
-## Synthesis
-A solution of 25 g 3-ethylphenol in 100 mL Et2O was
-equipped with a magnetic stirrer, and cooled to 0 deg C with an external
-ice bath. There was added 16 mL DMSO. Then, a total of 15 mL
-chlorosulfonic acid was added dropwise, over the course of 30 min.
-The reaction was allowed to return to room temperature and stirred
-overnight. The overhead Et2O phase was removed by decantation, and
-the light-colored residue was dissolved in 100 mL IPA. The clear
-solution spontaneously generated white crystals which were allowed to
-stand for 1 h, removed by filtration, and lightly washed with IPA.
-After air-drying, this crop of
-dimethyl-(2-ethyl-4-hydroxyphenyl)-sulfonium chloride weighed 20.0 g
-and had a mp of 168-170 deg C without obvious effervescence. A solution
-of 19.8 g of this sulfonium salt in 200 mL H2O was diluted with 500 mL
-MeOH, and there was added 30 g NaOH. This was heated to reflux on the
-[[scythian-cannabis-steam-bath-ritual]]. There was an initial deposition of some white solids, but
-after 36 h the solution was almost clear. The excess MeOH was removed
-under vacuum, and the non-volatiles were poured into 1 L H2O. This
-was acidified with HCl, and extracted with 3x100 mL CH2Cl2. The
-extracts were pooled, and the solvent removed under vacuum. The
-residue, 12.6 g of an amber oil, was distilled at 95-120 deg C at 0.3
-mm/Hg to give 10.0 g of 3-ethyl-4-(methylthio)phenol as an off-white
-oil. This spontaneously crystallized to a solid that had a mp of
-47-49 deg C. Recrystallization of an analytical sample from cyclohexane
-gave a mp of 47-48 deg C.
-To a solution of 9.7 g 3-ethyl-4-(methylthio)phenol in 50 mL MeOH
-there was added a solution of 4.6 g 85% KOH in 50 mL hot MeOH. There
-was then added 5.4 mL methyl iodide and the mixture was held at reflux
-on the steam bath for 18 h. Removal of the solvent under vacuum gave
-a residue that was poured into 1 L H2O and made strongly basic by the
-addition of 5% NaOH. This was extracted with 3x75 mL CH2Cl2, and the
-extracts were pooled and the solvent removed under vacuum. There
-remained 11.0 g of an almost white oil with a startling apple smell.
 ## See Also
-
 - [[2-toet-entity-pihkal]]
-
-- [[qualitative-comments-methodology-pihkal]]
 - [[ethyl-j-entity-pihkal]]
-- [[tomso-entity-pihkal]]

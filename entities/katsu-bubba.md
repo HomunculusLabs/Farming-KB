@@ -88,17 +88,3 @@ The strain is moderately resistant to common molds and pests but can be sensitiv
 Temperature control during late flowering can enhance the purple coloration that some phenotypes express. Nighttime temperatures below 15°C during the final two weeks of flowering promote anthocyanin development, resulting in more visually striking buds.
 
 Katsu Bubba plants typically reach a medium height of 80 to 120 centimeters indoors. Branching is moderate, with internode spacing that responds well to training techniques. The strain is considered intermediate in cultivation difficulty, suitable for growers with some prior experience.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, which are typical of high-THC cannabis strains. Some users report mild dizziness or headaches, particularly at higher doses or when consuming on an empty stomach.
-
-In rare cases, the strain's potent sedative effects can produce anxiety or paranoia, especially in individuals predisposed to these reactions or those who consume excessively. Starting with a small dose and waiting 15 to 30 minutes before redosing is recommended for new users.
-
-## See Also
-
-- [[granddaddy-purple]]
-- [[blue-dream]]
-- [[wedding-cake]]
-- [[zookies-cannabis]]
-- [[runtz-entity]]

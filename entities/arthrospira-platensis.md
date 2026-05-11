@@ -17,12 +17,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Habib, M.A.B. et al. (2008). "A review on culture, production and use of
-    spirulina as food for humans and feeds for domestic animals and fish."
-    Animal Feed Science and Technology, 151(2-4), 111-125.
-  - Soni, R.A. et al. (2017). "Microalgae in sustainable agriculture and
+    spirulina as food for humans and feeds for [[permaculture-domestic-animals]] and fish."
+    [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] Science and Technology, 151(2-4), 111-125.
+  - Soni, R.A. et al. (2017). "Microalgae in [[phosphate-accumulators-sustainable-agriculture]] and
     aquaculture." Journal of Algal Biomass Utilization, 8(1), 31-38.
   - Khan, Z. et al. (2005). "Role of Spirulina in the control of glycemia and
-    lipidemia in type 2 diabetes mellitus." Journal of Medicinal Food, 8(4),
+    lipidemia in type 2 [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]." Journal of Medicinal Food, 8(4),
     483-486.
   - Deng, R. & Chow, T.J. (2010). "Hypolipidemic, antioxidant, and
     antiinflammatory activities of microalgae Spirulina." Cardiovascular
@@ -87,58 +87,3 @@ latter being the dominant photosynthetic pigment.
   potassium, phosphorus, selenium
 - **Phytopigments**: Phycocyanin (10-20% dry weight), chlorophyll *a*,
   beta-carotene, xanthophylls
-
-### Bioactive Compounds
-
-- **Phycocyanin**: Biliprotein with antioxidant, anti-inflammatory,
-  hepatoprotective, and neuroprotective properties. Selectively inhibits
-  COX-2 and scavenges reactive oxygen species.
-- **Calcium spirulan**: Sulfated polysaccharide with antiviral and
-  immunomodulatory activity.
-- **Gamma-linolenic acid (GLA)**: Omega-6 fatty acid typically found only
-  in human breast milk and a few plant oils.
-- **Superoxide dismutase (SOD)**: Enzyme neutralizing superoxide radicals.
-
-## Cultivation
-
-Spirulina is cultivated in open raceway ponds or closed photobioreactors.
-Optimal growth occurs at pH 8.5-11, temperatures of 25-38°C, and high light
-intensity. The alkaline environment inhibits competing microorganisms.
-
-### [[permaculture]] and Sustainability
-
-- **Aquaculture integration**: Nutrient-rich wastewater from fish farms
-  serves as growth medium.
-- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Fixes CO₂ at ~10× the rate of terrestrial
-  plants per unit area.
-- **Land efficiency**: More protein per hectare than soy, corn, or cattle.
-- **Bioremediation**: Treats municipal and agricultural wastewater while
-  producing harvestable biomass.
-
-## Pharmacology and Health Effects
-
-### Antioxidant Activity
-
-Phycocyanin scavenges hydroxyl, alkoxy, and peroxyl radicals in vitro.
-Animal studies show reduced lipid peroxidation and enhanced endogenous
-antioxidant enzymes (glutathione peroxidase, catalase, SOD).
-
-### Anti-inflammatory and Immunomodulation
-
-Extracts inhibit NF-κB signaling, reducing TNF-α, IL-6, and IL-1β.
-Clinical evidence supports benefits in allergic rhinitis. Spirulina enhances
-innate immunity through macrophage activation, increased NK cell activity,
-and interferon-gamma production.
-
-### Metabolic Effects
-
-[[mushroom-cancer-clinical-trials-overview]] demonstrate reduced fasting blood glucose, HbA1c, and lipid
-profiles (total cholesterol, LDL, triglycerides) in type 2 diabetes and
-[[cannabis-metabolic-syndrome-research]]. Mechanisms include increased insulin sensitivity and
-inhibition of hepatic gluconeogenesis.
-
-### Heavy Metal Chelation
-
-## See Also
-- [[dom]]
-- [[phosphorus-plant-nutrition]]

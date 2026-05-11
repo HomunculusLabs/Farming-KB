@@ -42,7 +42,7 @@ Authority: Kunth (1817). The epithet refers to the Morán mining region in Hidal
 
 P. moranensis is found in mountainous regions of central and southern Mexico, extending into western Guatemala. It occurs at elevations of 800 to 3200 meters.
 
-The species grows on mossy rocks, cliff faces, road cuts, and steep banks in pine-oak forest and cloud forest zones. It frequently colonizes vertical or near-vertical substrates.
+The species grows on mossy rocks, cliff faces, road cuts, and steep banks in pine-oak forest and [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]] zones. It frequently colonizes vertical or near-vertical substrates.
 
 Habitats are characterized by high humidity and frequent moisture from cloud immersion or rainfall. Soils are typically thin, mineral-poor, and well-drained.
 
@@ -50,7 +50,7 @@ The species tolerates considerable temperature variation due to its montane dist
 
 ## Trapping Mechanism
 
-P. moranensis employs a flypaper trapping mechanism using glandular trichomes on the leaf surface. Pedunculate glands secrete a clear, sticky mucilage that covers the upper leaf surface.
+P. moranensis employs a flypaper trapping mechanism using glandular trichomes on the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]. Pedunculate glands secrete a clear, sticky mucilage that covers the upper leaf surface.
 
 Small insects including [[query-how-to-control-fungus-gnats-organically]], midges, and fruit flies are attracted to the glistening droplets and become trapped on contact. Struggling insects contact additional glands and become further immobilized.
 
@@ -62,7 +62,7 @@ Digestive enzymes including proteases, phosphatases, and esterases [[query-can-f
 
 P. moranensis is considered one of the easiest carnivorous plants to grow indoors. Its compact size and attractive flowers make it popular for windowsill and terrarium culture.
 
-**Substrate:** A mix of equal parts peat moss, perlite, and vermiculite works well. Some growers add crushed lava rock or pumice for improved drainage.
+**Substrate:** A mix of equal parts [[query-what-is-the-difference-between-coco-coir-and-peat-moss]], perlite, and vermiculite works well. Some growers add crushed lava rock or pumice for improved drainage.
 
 **Water:** Use distilled or rain water. Maintain a moist but not waterlogged substrate during the active [[savory-growing-season-and-non-growing-season-management]]. Reduce watering during the winter succulent phase.
 
@@ -74,7 +74,7 @@ Propagation is straightforward using leaf pullings. A single leaf placed on mois
 
 ## Ecological Role
 
-In its native montane habitats, P. moranensis contributes to the control of small flying insect populations. Its prey includes fungus gnats, whiteflies, and small dipterans common in humid forest environments.
+In its native montane habitats, P. moranensis contributes to the control of small flying insect populations. Its prey includes [[cervantes-fungus-gnats]], whiteflies, and small dipterans common in humid forest environments.
 
 The flowers attract pollinators including bees, butterflies, and hoverflies. The nectar guides on the lower lip direct pollinators toward the reproductive structures.
 
@@ -87,33 +87,3 @@ P. moranensis is an indicator species for humid montane forest conditions. Its p
 P. moranensis is part of the P. moranensis species complex, which includes several closely related Mexican taxa. Taxonomic boundaries within this complex have been historically contentious.
 
 The species exhibits considerable natural variation in flower color, leaf size, and rosette diameter across its range. Populations from higher elevations tend to produce more compact rosettes.
-
-Mexican Pinguicula species form a distinct clade characterized by seasonal heterophylly. Related species include P. esseriana, P. ehlersiae, P. agnata, and P. gigantea.
-
-Natural hybridization occurs where species ranges overlap in central Mexico. Hybrids often show intermediate morphology and may backcross with parent species.
-
-## Bioactive Compounds
-
-Pinguicula species, including P. moranensis, have been investigated for their bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]. The mucilage contains proteolytic enzymes with potential biotechnological applications.
-
-Traditional use of Pinguicula mucilage as a curdling agent for milk has been documented in European folk traditions. The enzyme rennin-like activity facilitates milk protein coagulation.
-
-Antimicrobial compounds isolated from Pinguicula leaf extracts have shown activity against gram-positive bacteria. These properties are attributed to phenolic compounds and iridoid glycosides.
-
-Research into the digestive enzymes of P. moranensis has contributed to understanding of plant carnivory at the molecular level. The enzyme profile overlaps with but is distinct from that of Drosera and Utricularia.
-
-## See Also
-
-- [[pinguicula-esseriana]]
-
-- [[drosera-rotundifolia]]
-- [[utricularia-vulgaris]]
-- [[sarracenia-purpurea]]
-- [[nepenthes-mirabilis]]
-- nitrogen
-- adaptation
-- habitat
-- evolution
-- enzyme
-- ecosystem
-- biodiversity

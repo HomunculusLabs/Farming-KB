@@ -12,7 +12,7 @@ Broadscale restoration is the large-scale repair of degraded landscapes through
 simple, low-cost interventions that slow water flow, rebuild [[soil-erosion-control-and-landscape-restoration|soil]], and allow
 natural systems to recover. Rather than expensive engineering projects, it
 relies on understanding natural patterns of water flow and plant succession to
-restore ecological function to damaged watersheds. This approach is central to
+restore [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] to damaged watersheds. This approach is central to
 [[broadscale-watershed-restoration-techniques]] used worldwide.
 ## The Core Principle
 The cheapest and easiest place to store water is in the soil. Grazing, logging,

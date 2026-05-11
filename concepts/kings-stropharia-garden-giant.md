@@ -1,5 +1,5 @@
 ---
-title: King Stropharia Garden Giant
+title: Kings Stropharia Garden Giant
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # King Stropharia (Garden Giant)
 
-King Stropharia (Stropharia rugosoannulata), commonly known as the Wine Cap mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation in temperate climates. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and food forest systems. (see [[psilocybin-mushrooms-overview]]).
+King Stropharia ([[stropharia-rugosoannulata]]), commonly known as the Wine Cap mushroom or Garden Giant, is a large, robust mushroom well-suited to outdoor cultivation [[query-how-to-grow-and-use-oca-in-temperate-climates]]. It is one of the easiest mushrooms to grow outdoors and integrates beautifully into permaculture garden designs, particularly in mulched garden beds, orchard understories, and food forest systems.
 
 ## Overview
 
-Originally described from Europe, King Stropharia has been widely adopted by permaculture practitioners and organic gardeners as a companion mushroom for garden beds. Paul Stamets popularized its use in "giant gardens" — integrated mushroom-vegetable polycultures where the mushroom bed serves as both a productive mushroom crop and a long-term mulch layer that benefits surrounding plants. (see [[garden-mushroom-growing]]).
+Originally described from Europe, King Stropharia has been widely adopted by permaculture practitioners and organic gardeners as a companion mushroom for garden beds. Paul Stamets popularized its use in "giant gardens" — integrated mushroom-vegetable polycultures where the mushroom bed serves as both a productive mushroom crop and a long-term mulch layer that benefits surrounding plants.
 
 ## Species Profile
 
@@ -36,11 +36,11 @@ One of the most fascinating aspects of King Stropharia biology is its ability to
 - The fungus then penetrates the nematode cuticle and digests it internally
 - This predatory ability helps control plant-parasitic nematodes in garden soils
 
-Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable biological control agent in integrated pest management systems.
+Research has shown that King Stropharia beds can significantly reduce populations of root-knot nematodes (Meloidogyne spp.) in infested soils, making it a valuable biological control agent in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] systems.
 
 ## Ecological Role
 
-In permaculture and garden systems, King Stropharia provides multiple ecological functions:
+In permaculture and garden systems, King Stropharia provides multiple [[fungal-melanin-biosynthesis-ecological-functions]]:
 
 - Decomposes wood chips and woody mulch, accelerating nutrient cycling
 - Creates soil structure through mycelial network development
@@ -144,7 +144,7 @@ Harvest when caps are fully expanded but before the gills darken significantly:
 
 ## Common Problems
 
-- Bed dries out: improve mulching and watering schedule
+- Bed dries out: improve mulching and [[cannabis-watering-schedule-and-frequency]]
 - Slugs and snails: use beer traps or hand-pick; avoid poisons in food gardens
 - Competing fungi: use fresh substrate and adequate spawn rates
 - No fruiting: insufficient rain/moisture; try a deep soaking

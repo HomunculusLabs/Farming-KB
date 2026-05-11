@@ -28,7 +28,7 @@ beings — are strikingly absent from the world's art historical record.
 
 ## McKenna's Observation
 
-Terence McKenna, who had extensive familiarity with Hindu iconography, Mahayana Buddhist
+[[terence-mckenna]], who had extensive familiarity with Hindu iconography, Mahayana Buddhist
 thanka paintings, and other major visual traditions, noted that while he "saw similarities
 between my LSD experiences and the iconography of Mahayana Buddhism," he was astonished by
 the "total absence of the motifs of DMT" in any artistic tradition known to him. "It is
@@ -38,7 +38,7 @@ millennia, suggesting that access to the experience is not the limiting factor.
 
 ## Contrast with LSD and Psilocybin Iconography
 
-The contrast with other psychedelic compounds is instructive. LSD experiences do find
+The contrast with other [[psychedelic-compounds-reference]] is instructive. LSD experiences do find
 parallels in existing visual traditions — the mandalas of Tibetan Buddhism, the
 haloed figures of Byzantine iconography, the swirling patterns of Art Nouveau. Psilocybin
 experiences, while more intense than LSD in certain respects, also show continuity with
@@ -56,15 +56,15 @@ McKenna proposed that the flying saucer or UFO might be "the central motif to be
 understood in order to get a handle on reality here and now." If the DMT motifs cannot
 be found in religious or mystical art, perhaps they have been displaced into the
 modern UFO phenomenon. The UFO, in this reading, is the culturally acceptable form
-through which the hyperspatial dimensions of the tryptamine experience manifest in
+through which the hyperspatial dimensions of the [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] manifest in
 collective imagination. The extraterrestrial framing provides a narrative container
-that makes the otherwise inexpressible content of the DMT experience communicable
+that makes the otherwise inexpressible content of the [[extraterrestrial-contact-and-dmt-experience]] communicable
 within modern Western categories.
 
 This hypothesis connects the absence of DMT motifs in historical art to their
 possible presence in contemporary popular culture. The UFO narrative, with its
 themes of alien contact, abduction, and transhuman intelligence, recapitulates many
-of the structural features of the DMT experience without requiring the ontological
+of the [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] of the DMT experience without requiring the ontological
 commitments that direct discussion of psychedelic phenomenology would entail.
 
 ## The Self Disguised as Extraterrestrial
@@ -72,7 +72,7 @@ commitments that direct discussion of psychedelic phenomenology would entail.
 McKenna extended this argument into a psychological framework: "We are alienated, so
 alienated that the Self must disguise itself as an extraterrestrial in order not to
 alarm us with the truly bizarre dimensions that it encompasses." Under this reading,
-the absence of DMT motifs in art is not a gap but a defense mechanism. The human psyche
+the absence of DMT motifs in art is not a gap but a [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]. The human psyche
 protects itself from the full implications of the tryptamine experience by
 transforming its content into more culturally manageable forms — gods, demons,
 angels, and, in the modern period, extraterrestrials.
@@ -88,42 +88,3 @@ attempts to articulate the DMT experience, the less others are able to understan
 The communicative difficulty extends to visual representation. McKenna described what
 he called the "black hole effect" surrounding DMT: "once one knows about it, it is very
 hard for others to understand what one is talking about. One cannot be heard. The more
-one is able to articulate what it is, the less others are able to understand." If this
-communicative black hole operates on verbal description, it likely operates with equal
-force on visual representation. Artists who have experienced DMT may find that the
-attempt to render its imagery on canvas or in stone results in work that fails to
-communicate the essential quality of the experience, leading them to abandon the
-attempt or to translate the content into more conventional symbolic forms.
-
-## Borges and the Unspeakable Secret
-
-McKenna connected this representational problem to Jorge Luis Borges's story The Sect
-of the Phoenix, in which a universal secret society preserves a practice that is
-simultaneously ubiquitous and unspeakable. "There are no decent words to name it, but
-it is understood that all words name it or rather inevitably allude to it." The DMT
-experience may occupy a similar position in human culture: everywhere present as a
-latent possibility of consciousness, yet everywhere unrepresentable in direct terms.
-Its motifs may indeed pervade human art, but in forms so transformed by cultural
-mediation that they are no longer recognizable as derivations of the tryptamine
-experience.
-
-## Implications for Visionary Art Traditions
-
-The absence question raises significant challenges for the study of visionary art.
-If the most intense and phenomenologically rich class of psychedelic experiences
-leaves no direct trace in the visual record, then the relationship between
-psychedelic experience and artistic production is far more mediated and selective
-than commonly assumed. Not all visionary experience is equally representable, and
-the most extraordinary experiences may be the least transmissible through visual
-media. This suggests that the visual art record provides, at best, a highly filtered
-and distorted window into the full range of human visionary experience.
-
-## See Also
-
-- [[mckenna-absence-dmt-motifs-art-mahayana-thanka-problem]]
-
-- [[mckenna-dmt-visual-cortex-intensity-fourth-dimensional-light-deployment]]
-
-- [[dmt-black-hole-effect-and-shamanic-practice]]
-- [[mckenna-critique-of-seti-and-cultural-blindness]]
-- [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]

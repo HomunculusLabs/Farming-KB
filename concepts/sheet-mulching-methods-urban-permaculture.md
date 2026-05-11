@@ -1,5 +1,5 @@
 ---
-title: "Sheet sheet mulching methods urban permaculture for pdc-urban-permaculture-design-principles"
+title: Sheet Mulching Methods Urban Permaculture
 created: 2026-04-28
 tags: [urban-permaculture, sheet-mulching, soil-building, no-till, lasagna]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Sheet Mulching Methods for Urban Permaculture
 
-Sheet mulching is a really basic, cool idea. The grass is full of
+[[sheet-mulching]] is a really basic, cool idea. The grass is full of
 nutrients because it is good at pulling minerals up from down in the
 subsoil. It becomes obvious pretty quick that it is a waste of time and
 resources to try and pull grass out of the ground and clear beds for
@@ -45,7 +45,7 @@ The sheet mulching process follows a layered approach:
    feeds the decomposition process.
 
 4. **Carbon Layer**: Cover with a thick layer (4-8 inches) of carbon-
-   rich material: straw, leaves, wood chips, or shredded bark.
+   rich material: straw, leaves, [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]], or shredded bark.
 
 5. **Compost Layer**: Add 2-3 inches of finished compost or topsoil.
 
@@ -58,7 +58,7 @@ The sheet mulching process follows a layered approach:
 
 ## How Sheet Mulching Works
 
-Sheet mulching mimics the natural process of forest floor creation. In
+Sheet mulching mimics the natural process of [[fungal-ecology-forest-floor]] creation. In
 nature, leaves fall and create a mat that suppresses weeds, retains
 moisture, and slowly breaks down to feed the soil. Sheet mulching
 accelerates this process by providing concentrated layers of organic
@@ -71,7 +71,7 @@ cardboard, aerating and enriching the soil as they go.
 
 ## Integration with Permaculture Systems
 
-Sheet mulching integrates naturally with other permaculture techniques.
+Sheet mulching integrates naturally with other [[urban-permaculture-techniques]].
 On the farm, there are subtle little sheet mulching projects all over.
 The process works especially well when combined with nitrogen-fixing
 [[gaias-garden-cover-crops-soil-building]]. Beans or peas can be trellised up from the cardboard while
@@ -88,46 +88,3 @@ area.
 In urban settings, sheet mulching is especially valuable because it
 requires no tilling or heavy equipment. It can be applied directly over
 lawns, driveways (after removing asphalt), and compacted urban soils.
-The process builds soil depth and fertility without disturbing existing
-soil structure or microbial communities.
-
-Sheet mulching also serves as a water conservation technique. The thick
-mulch layer reduces evaporation and helps maintain consistent soil
-moisture, reducing irrigation needs significantly. This is particularly
-important in urban areas where water access may be limited or expensive.
-
-## Using Scavenged Materials
-
-Urban permaculture practitioners can use scavenged cardboard from
-appliance stores, newspapers, coffee grounds from cafes, leaves from
-street trees, and wood chips from tree trimming services. The method
-turns waste streams into soil-building resources, embodying the
-permaculture principle of turning problems into solutions.
-
-## Soil Building Through Succession
-
-We can do the same thing by building up the soil and substituting our
-own herb, pioneer, and climax species. Depending upon the type of soil
-you start with (which might be eroded, salted, swampy, worn out, acid,
-alkaline, clayey, or sandy), it is possible to introduce plants that
-will easily survive and might be more useful than the existing
-vegetation.
-
-We can grow cover crops of clover or alfalfa or peas or beans which fix
-nitrogen in the soil, or buckwheat which is a phosphorus accumulator,
-or winter rye which suppresses weed growth. We can then turn them in to
-build up the fertility. We can introduce animals into a system and have
-them do our work for us while they happily live their lives.
-
-If we play our cards right, in 20 years we can end up with forests of
-hazelnuts and peaches and blueberries. That is the plan, a permanent
-agriculture.
-
-## See Also
-
-- faires-permaculture-soil-and-sheet-mulching
-- [[urban-permaculture-swales-raised-beds]]
-- [[urban-permaculture-nitrogen-fixing-green-manures]]
-- [[sheet-mulching]]
-- [[decomposition]]
-- [[water-conservation]]

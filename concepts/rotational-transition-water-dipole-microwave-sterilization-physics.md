@@ -1,5 +1,5 @@
 ---
-title: Rotational Transition Water Dipole nasa-microwave-sterilization-challenge-organisms-kill-kinetics Physics
+title: Rotational Transition Water Dipole Microwave Sterilization Physics
 concept_type: scientific_principle
 domain: physics
 source: Sterilizing Surfaces by Irradiation with Microwaves (NASA MSC-22484)
@@ -57,7 +57,7 @@ effectively heating the material. This process is called dielectric heating.
 The dielectric loss factor (ε″) of water at 2.45 GHz and room temperature is
 approximately 12, relatively high compared to most dry materials. Water
 absorbs microwave energy much more efficiently than dry substrate, and this
-selectivity of absorption is key to the sterilization mechanism.
+selectivity of absorption is key to the [[microwave-induced-steam-surface-sterilization-mechanism]].
 
 ## Selective Heating of Microbial Cells
 
@@ -72,12 +72,12 @@ and creating a destructive thermal gradient.
 ## Differential Effects on Vegetative Cells and Spores
 
 The NASA experiments (MSC-22484) demonstrated a critical distinction between
-vegetative cells and spores in their microwave susceptibility:
+vegetative cells and spores in their [[e-coli-pseudomonas-cepacia-microwave-susceptibility-surface-sterilization]]:
 
 - **Vegetative cells**: Contain abundant free water. Microwaves penetrate the
   [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] and couple with intrinsic water, heating from within. All tested
-  organisms (*Bacillus pumilus*, *Escherichia coli*, *Pseudomonas cepacia*)
-  were susceptible to dry microwave irradiation.
+  organisms (*[[bacillus-pumilus-radiation-resistance-surface-decontamination]]*, *Escherichia coli*, *[[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]]*)
+  were susceptible to dry [[microbial-kill-microwave-irradiation]].
 
 - **Spores**: Contain very little free water in their dormant state. The
   dehydration makes them relatively resistant because insufficient free water
@@ -88,48 +88,3 @@ vegetative cells and spores in their microwave susceptibility:
 Trace quantities of water (~9 µL/cm² of surface) overcome spore resistance:
 
 1. A thin water film is introduced onto the contaminated surface
-2. Microwave energy is absorbed through the same dipole rotational mechanism
-3. The water rapidly heats and flashes to steam
-4. Expanding steam contacts all exposed surfaces including microorganisms
-5. Combined [[phase-change-materials-thermal-energy-storage]] transfer and steam penetration destroy spores
-
-The small water quantity (~9 µL/cm²) means minimal total energy is added to
-the system, preserving the low thermal impact advantage.
-
-## Penetration Through Elastomeric Materials
-
-A significant NASA finding was that 2.45 GHz radiation penetrates certain
-elastomeric materials while still achieving [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] beyond them.
-Materials with low dielectric loss (low ε″) are relatively transparent at
-2.45 GHz, allowing energy to pass through with minimal absorption and reach
-water-containing surfaces in enclosed systems.
-
-## Practical Parameters
-
-| Parameter | Value |
-|-----------|-------|
-| Frequency | 2.45 GHz |
-| Exposure rate | 3.6 W/cm² |
-| Total exposure | 13.1 W-hr |
-| Trace water | ~9 µL/cm² |
-| Challenge organisms | Mixed ~2×10⁵ CFU |
-| Result | Complete sterilization (0 CFU) |
-
-## Comparison with Other Sterilization Mechanisms
-
-- **Autoclaving**: Conductive heat via steam at 121°C, 15 psi. Prolonged
-  exposure, significant thermal impact on all system materials.
-- **Gamma irradiation**: Ionizing radiation damaging DNA directly. Requires
-  specialized shielding and equipment.
-- **UV sterilization**: Thymine dimer formation in DNA. Line-of-sight limited.
-- **Chemical disinfection**: Protein denaturation via reactive chemicals.
-  Leaves residues.
-- **Microwave**: Effective against cells and spores (with trace water),
-  minimal thermal impact, no chemical residues, can sterilize through
-  elastomeric barriers.
-
-## See Also
-- [[microwave-water-interaction-2-45-ghz]]
-- [[challenge-microorganisms-microwave-surface-sterilization]]
-- [[microwave-penetration-through-elastomeric-materials-sterilization]]
-- [[trace-water-enhanced-microwave-surface-sterilization]]

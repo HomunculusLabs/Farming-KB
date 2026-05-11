@@ -2,7 +2,7 @@
 
 ## Overview
 
-Beeswax candles are made from the wax produced by [[comparison-honey-bees-vs-native-solitary-bees]] (Apis mellifera) to construct their honeycomb. Beeswax is one of the oldest and finest candle-making materials, prized for its clean burn, natural honey scent, long burn time, and drip resistance. Unlike paraffin (a petroleum byproduct), beeswax is a completely natural, renewable product that produces negative ions when burned, which some research suggests can help neutralize airborne pollutants, dust, and allergens. For beekeepers and homesteaders, beeswax candle making converts wax cappings and old comb from honey extraction into a valuable, practical product.
+Beeswax candles are made from the wax produced by [[comparison-honey-bees-vs-native-solitary-bees]] (Apis mellifera) to construct their honeycomb. Beeswax is one of the oldest and finest candle-making materials, prized for its clean burn, natural honey scent, long burn time, and drip resistance. Unlike paraffin (a petroleum byproduct), beeswax is a completely natural, renewable product that produces negative ions when burned, which some research suggests can help neutralize airborne pollutants, dust, and allergens. For beekeepers and homesteaders, beeswax candle making converts wax cappings and old comb from [[honey-extraction-and-processing]] into a valuable, practical product.
 
 ## Properties of Beeswax
 
@@ -14,7 +14,7 @@ Beeswax has unique physical and chemical properties that make it an excellent ca
 - **Scent**: Natural beeswax has a characteristic warm honey scent. The intensity varies with wax color and source. Lighter wax has a subtler scent; darker wax has a more pronounced honey aroma
 - **Hardness**: Beeswax is relatively hard and brittle at room temperature, which contributes to excellent drip resistance and long burn times but makes it prone to cracking if bent sharply
 - **Smoke and soot**: Beeswax candles produce virtually no smoke when properly wicked. The flame is warm and slightly larger than a comparable paraffin candle
-- **Ion emission**: When burned, beeswax releases negative ions that bind to positively charged particles in the air (dust, pollen, mold spores, odors), potentially improving indoor [[cervantes-air-quality-ventilation]]. While the effect is modest compared to mechanical air filtration, it is a unique benefit of beeswax candles
+- **Ion emission**: When burned, beeswax releases negative ions that bind to positively charged particles in the air (dust, pollen, mold spores, odors), potentially improving indoor [[cervantes-air-quality-ventilation]]. While the effect is modest compared to mechanical [[greg-green-odor-control-and-air-filtration]], it is a unique benefit of beeswax candles
 
 ## Sourcing Beeswax
 
@@ -88,44 +88,3 @@ Produces consistent, professional-looking candles in various shapes:
 Simplest melted method, ideal for using wax scraps and small quantities:
 
 1. Melt wax and pour into heat-safe glass jars, ceramic cups, or metal tins
-2. Use pre-tabbed wicks positioned in the center
-3. Pour at 70-75°C for the smoothest surface
-4. Cool at room temperature to minimize cracking
-5. Trim wick to 6-10 mm before burning
-
-## Troubleshooting Beeswax Candles
-
-- **Rough or bumpy surface**: Wax was poured at too low a temperature, or cooled too quickly. Pour at 75-80°C and cool at room temperature
-- **Sinking or concave top**: Normal shrinkage. Pour a second thin layer of hot wax to level the surface
-- **Cracking**: Wax cooled too quickly or is too cold during pouring. Allow candles to cool slowly at room temperature
-- **Tunneling (burning down the center only)**: Wick is too small for the candle diameter. Use a larger wick. Also caused by burning for too short a time — always allow the melt pool to reach the edges of the candle
-- **Smoky flame**: Wick is too large. Trim the wick shorter or use a smaller wick size. Also caused by drafts — move the candle to a sheltered location
-- **Poor scent throw**: Natural beeswax scent is subtle. For stronger fragrance, add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] at 5-10% of wax weight, or use a blend with a lower melting point wax to improve scent diffusion
-
-## Beeswax Candle Economics for Beekeepers
-
-For beekeepers, candle making is one of the most profitable ways to utilize wax byproducts:
-
-- **Yield**: A single healthy honey bee colony produces approximately 0.5-1 kg of excess wax per year, primarily from cappings removed during honey extraction. A hobbyist beekeeper with 5-10 hives can expect 3-10 kg of wax annually
-- **Value**: Raw beeswax sells for $10-20 per kg. Finished beeswax candles sell for $5-15 each, representing a significant value-add over raw wax. A 250g beeswax pillar candle can sell for $12-25 depending on quality and market
-- **Cost of production**: Aside from the beekeeper's time, the primary costs are wicking ($0.05-0.15 per candle) and packaging. Equipment costs are modest — a melting pot, molds, and basic tools represent a one-time investment of $50-150
-- **Market outlets**: Farmers markets, craft fairs, online marketplaces (Etsy), local shops, and direct sales to customers. Beeswax candles have strong appeal among eco-conscious consumers and those seeking natural, non-toxic home products
-- **Seasonal demand**: Peak demand occurs in autumn and winter (September-December) for holiday gift-giving and home ambiance. Spring demand centers on religious observances (Easter, Passover) where beeswax candles have traditional significance
-
-## Environmental and Health Benefits
-
-Beeswax candles are often promoted for their environmental and health advantages:
-
-- **Renewable and sustainable**: Beeswax is a natural, renewable resource produced by bees as part of their normal lifecycle. No petroleum inputs, synthetic chemicals, or industrial processing is required
-- **Non-toxic**: Pure beeswax candles contain no synthetic fragrances, dyes, or chemical additives. They produce no [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) when burned, unlike many scented paraffin candles
-- **Clean burn**: Beeswax burns soot-free when properly wicked, contributing to better indoor air quality. Paraffin candles can produce significant soot that deposits on walls, ceilings, and in lungs
-- **Negative ion production**: The negative ions released by burning beeswax may help reduce airborne pollutants, though the practical significance of this effect in normal room conditions is debated
-- **Biodegradable**: Beeswax and cotton wicks are fully biodegradable, producing no persistent waste. Paraffin is a petroleum product that is not biodegradable
-
-## Related Topics
-
-- [[tallow-candle-making]]
-- [[beekeeping-basics]]
-- [[honey-extraction-and-processing]]
-- [[bee-products-beyond-honey]]
-- [[homestead-winter-preparations]]

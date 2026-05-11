@@ -1,5 +1,5 @@
 ---
-title: Cool Greenhouse vs Cold Greenhouse — Temperature Management Comparison
+title: Coleman Cool Greenhouse Vs Cold Greenhouse Temperature Comparison
 source: eliot-coleman-winter-harvest-handbook.md
 tags: [greenhouse, cool-greenhouse, cold-greenhouse, eliot-coleman, winter-production, temperature-management, minimal-heat]
 created: 2026-05-10
@@ -9,13 +9,13 @@ created: 2026-05-10
 
 ## Overview
 
-Eliot Coleman distinguishes between two types of protected growing environments for winter vegetable production: the "cold greenhouse" (completely unheated) and the "cool greenhouse" (maintained at a minimal temperature just above freezing). Both systems have proven commercially viable at Four Season Farm in coastal Maine (USDA Zone 5), but they serve different purposes and involve different trade-offs in terms of cost, crop selection, and management intensity.
+Eliot Coleman distinguishes between two types of protected [[mushroom-growing-environments]] for [[coleman-french-historical-winter-vegetable-production]]: the "cold greenhouse" (completely unheated) and the "cool greenhouse" (maintained at a minimal temperature just above freezing). Both systems have proven commercially viable at Four Season Farm in coastal Maine (USDA Zone 5), but they serve different purposes and involve different trade-offs in terms of cost, crop selection, and management intensity.
 
 ## Terminology
 
 Coleman's definitions differ from British usage and should be understood clearly:
 
-- **Cold greenhouse**: Completely unheated structure. May have a heater installed for occasional use (e.g., early-starting warm-season transplants), but no heat is applied during winter vegetable production. Also called a "cold house." This is the primary production structure for the winter harvest system.
+- **Cold greenhouse**: Completely unheated structure. May have a heater installed for occasional use (e.g., early-starting warm-season transplants), but no heat is applied during winter vegetable production. Also called a "cold house." This is the [[lichens-primary-production-soil-formation-dighton]] structure for the winter harvest system.
 
 - **Cool greenhouse**: Maintained at a minimum temperature just above freezing, typically 32-34°F (0-1°C), using a supplemental heat source. Also called a "cool house." The thermostat is set low enough that heat runs only on the coldest nights.
 
@@ -25,7 +25,7 @@ Coleman's definitions differ from British usage and should be understood clearly
 
 ### Temperature Profile
 
-In a Zone 5 Maine winter, the cold greenhouse creates a single layer of climate modification. Typical temperature relationships:
+In a Zone 5 Maine winter, the cold greenhouse creates a single layer of [[coleman-double-layer-climate-modification-temperature-data]]. Typical temperature relationships:
 
 - Outdoor temperature: -15°F (-26°C)
 - Inside greenhouse: 10-15°F (-12 to -9°C) above outdoor temperature
@@ -87,41 +87,3 @@ Coleman's cool greenhouse at Four Season Farm uses a propane heater with the the
 ### Economic Analysis
 
 Coleman conducted a detailed cost-benefit analysis of the cool greenhouse approach:
-
-- When fuel prices are low, one additional crop per winter can pay for the entire heating cost
-- The economics depend heavily on local fuel costs and the value of the additional production
-- Wood heat (if locally available) significantly improves the economics
-- The marginal cost of heating from 0°F to 32°F is much lower than heating from 32°F to 65°F
-
-Despite the advantages, Coleman ultimately decided not to expand the cool greenhouse system, choosing instead to pursue the unheated cold house model. The original inspiration for the winter harvest was achieving production without heating, and the cold houses proved more than adequate for the core crop range.
-
-### Cool House Crop Schedule
-
-The cool house extends the harvest window for many crops:
-
-| Crop | Cold House Harvest | Cool House Harvest | Gain |
-|------|-------------------|-------------------|------|
-| Baby turnips | Limited/none | Dec-Mar | New crop |
-| Radishes | Limited | Oct-Apr | Extended |
-| Spring carrots | May 5 | April 1 | 6 weeks |
-| Lettuce | Nov-Mar | Oct-May | Extended |
-| Spinach | Nov-Apr | Oct-May | Extended |
-
-## Coleman's Recommendation
-
-After years of experimentation with both systems, Coleman offers the following guidance:
-
-- **Start with cold houses**: The unheated system is simpler, cheaper, and teaches the fundamentals
-- **For warmer climates**: Growers in Zones 6-8 may find cold houses entirely sufficient
-- **Consider cool houses for**: Specific high-value crops where the economics justify heating
-- **Minimal heat is the key**: If heating, set the thermostat as low as possible; the goal is frost prevention, not warmth
-
-The cold greenhouse remains Coleman's recommended approach for most small-scale growers. It aligns with the deep-organic philosophy of working with nature rather than overriding it, and it produces vegetables of exceptional quality without external energy inputs.
-
-## See Also
-
-- [[coleman-cold-greenhouse-double-layer-protection]]
-- [[coleman-cool-greenhouse]]
-- [[coleman-cool-house-minimal-supplementary-heat]]
-- [[coleman-cool-house-vs-cold-house-economics-winter-production]]
-- [[coleman-sunlight-and-winter-crop-growth-rates]]

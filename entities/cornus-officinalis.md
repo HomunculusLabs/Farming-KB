@@ -33,7 +33,7 @@ Ornamental interest in *C. officinalis* has grown substantially in temperate hor
 
 **Authority:** Philipp Franz von Siebold and Joseph Gerhard Zuccarini, as published in *Flora Japonica* (1830). The species should not be confused with *Cornus mas* (European cornelian cherry), which is closely related but has a distinct phytochemical profile and distribution.
 
-The genus *Cornus* comprises approximately 60 species distributed across temperate regions of the Northern Hemisphere. *C. officinalis* belongs to the subgenus *Cornus* (the cornelian cherry group), which includes *C. mas* and *C. chinensis*. Molecular phylogenetic studies support a close relationship between the East Asian and European cornelian cherry species, suggesting ancient divergence following Tertiary migration patterns.
+The genus *Cornus* comprises approximately 60 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. *C. officinalis* belongs to the subgenus *Cornus* (the cornelian cherry group), which includes *C. mas* and *C. chinensis*. Molecular phylogenetic studies support a close relationship between the East Asian and European cornelian cherry species, suggesting ancient divergence following Tertiary migration patterns.
 
 The plant grows as a deciduous shrub or small tree reaching 4–10 meters in height with a rounded to spreading crown.
 
@@ -59,7 +59,7 @@ Annual precipitation requirements range from 600–1,200 mm. The species tolerat
 
 Major commercial cultivation areas in China are concentrated in Henan, Shaanxi, and Sichuan provinces, with Henan's Nanyang region producing approximately 50% of the national supply.
 
-Intercropping with medicinal herbs such as *Astragalus membranaceus* and *Rehmannia glutinosa* is commonly practiced to maximize land use efficiency and diversify farmer income. Organic certification programs for *C. officinalis* cultivation have expanded in recent years, with GACP-compliant production now standard for export-grade material.
+Intercropping with medicinal herbs such as *[[astragalus-membranaceus]]* and *[[rehmannia-glutinosa]]* is commonly practiced to maximize land use efficiency and diversify farmer income. [[fukuoka-critique-organic-certification]] programs for *C. officinalis* cultivation have expanded in recent years, with GACP-compliant production now standard for export-grade material.
 
 Wild populations have been depleted by overharvesting, and most commercial material now derives from cultivated sources. The species is listed as Near Threatened on the IUCN Red List in parts of its range, with habitat loss from agricultural expansion and urbanization being the primary threats.
 
@@ -75,43 +75,16 @@ The galloyl glucoside fraction, including 7-O-galloyl-D-sedoheptulose and cornus
 
 Total phenolic content ranges from 50–80 mg GAE/g dry weight. Triterpenoids such as oleanolic acid and ursolic acid provide additional hepatoprotective and anti-tumor activities. [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] identified in the fruit include benzaldehyde, benzyl alcohol, and various fatty acid esters that contribute to the characteristic aroma.
 
-Morroniside demonstrates significant nephroprotective activity in diabetic nephropathy models by inhibiting TGF-β1/Smad signaling, reducing extracellular matrix deposition, and attenuating podocyte injury. It also exhibits anti-apoptotic effects on renal tubular epithelial cells under hyperglycemic conditions. These renal protective mechanisms align with the traditional TCM use of shan zhu yu as a kidney tonic.
+Morroniside demonstrates significant nephroprotective activity in diabetic nephropathy models by inhibiting TGF-β1/Smad signaling, reducing extracellular matrix deposition, and attenuating podocyte injury. It also exhibits anti-apoptotic effects on renal tubular epithelial cells under hyperglycemic conditions. These renal [[blesching-thc-heart-protective-mechanisms-myocardial-protection]] align with the traditional TCM use of shan zhu yu as a kidney tonic.
 
 Clinical evidence, primarily from Chinese clinical trials, supports the use of *C. officinalis* extracts as adjunctive therapy for diabetic nephropathy, osteoporosis, and menstrual disorders.
 
 The fruit is a key ingredient in Liu Wei Di Huang Wan, one of the most widely prescribed TCM formulas worldwide. This six-herb formula, first recorded in the 12th century, is used for kidney yin deficiency and is one of the most studied herbal prescriptions in modern [[hofmann-lsd-clinical-research-early-studies]].
 
-Additional pharmacological activities include anti-osteoporotic effects through stimulation of osteoblast differentiation and inhibition of osteoclast formation. Morroniside has shown neuroprotective effects in models of Alzheimer's and Parkinson's disease, reducing neuronal apoptosis and oxidative stress in hippocampal and dopaminergic neurons.
+Additional pharmacological activities include anti-osteoporotic effects through stimulation of osteoblast differentiation and inhibition of osteoclast formation. Morroniside has shown neuroprotective effects in models of Alzheimer's and Parkinson's disease, reducing neuronal apoptosis [[reactive-oxygen-species-and-oxidative-stress]] in hippocampal and dopaminergic neurons.
 
 ## Cultivation and Uses
 
 Propagation is primarily by seed, requiring 4–6 months of warm stratification followed by 2–3 months of cold stratification to break dormancy.
 
 Softwood cuttings under mist propagation have success rates of 60–80%. Grafting onto *Cornus mas* rootstock is practiced for [[fukuoka-citrus-orchard-establishment-bare-hillside]], providing improved [[dighton-fungal-drought-tolerance-plant-water-relations]] and disease resistance compared to own-rooted plants.
-
-Trees begin bearing fruit 5–7 years after planting from seed, or 3–4 years from grafted stock. Optimal planting density is 400–600 trees per hectare. Annual yields of dried fruit range from 1,500–3,000 kg per hectare for mature orchards.
-
-Harvesting occurs in September–October when fruits turn deep red. Processing involves removing the seeds (which contain a potentially irritating compound) and drying the pulp in sun or at 60–70°C to a moisture content below 13%. The dried fruit (shan zhu yu) is the standard medicinal form.
-
-[[aact-compost-quality-standards-ingham]] specified in the Chinese Pharmacopoeia require a minimum morroniside content of 0.60% and loganin content of 0.30% for medicinal-grade material. HPLC fingerprinting is used for batch-to-batch quality consistency. Adulteration with inferior *Cornus* species or synthetic iridoids has been reported in the herbal trade, necessitating rigorous authentication protocols.
-
-In TCM, the fruit is classified as sour, astringent, and slightly warm. It enters the liver and kidney meridians. Primary functions include tonifying liver and kidney yin, stabilizing and binding (reducing excessive sweating, urination, and vaginal discharge), and preventing leakage of essence.
-
-The fruit is contraindicated in cases of damp-heat accumulation and urinary retention. Common daily dosage in decoctions is 6–12 g. Processing methods include wine-frying and steaming with black beans, which modify the herb's properties for specific clinical applications.
-
-Beyond medicine, the fruits are used in food products including jams, juices, wines, and dried fruit snacks. The astringent flavor requires sweetening for palatability in food applications. Cornelian cherry preserves are traditional in Korean and Chinese cuisine, and the fruit's high antioxidant content supports its marketing as a functional food ingredient.
-
-The global market for *C. officinalis* extracts is growing, driven by demand from the nutraceutical and cosmetics industries. Standardized morroniside and loganin extracts are marketed for kidney support, anti-aging, and blood sugar management. The species has been introduced to Europe and [[psilocybin-north-america-pacific-northwest]] as an ornamental and potential crop for novel fruit production in temperate regions.
-
-## See Also
-
-- [[eucommia-ulmoides]]
-- [[panax-ginseng]]
-- [[schisandra-chinensis]]
-- [[rehmannia-glutinosa]]
-- [[paeonia-lactiflora]]
-- [[cornus-mas]]
-- [[scutellaria-baicalensis]]
-- [[glycyrrhiza-uralensis]]
-- [[astragalus-membranaceus]]
-- [[angelica-sinensis]]

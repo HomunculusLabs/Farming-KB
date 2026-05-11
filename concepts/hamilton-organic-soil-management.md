@@ -1,7 +1,7 @@
 ---
-title: Organic Soil Management and Composting
+title: Hamilton Organic Soil Management
 created: 2026-04-26
-author: Geoff Hamilton
+author: [[geoff-hamilton-organic-techniques]]
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
 updated: 2026-04-24
 type: concept
@@ -26,7 +26,7 @@ the activity of all the various organisms in the soil.
 
 Soil is made up of three layers: topsoil, subsoil, and parent material.
 Topsoil is formed over years by the decomposition of dead plants and
-animals and contains the organic matter, fungi, bacteria, insects, and
+animals and contains the [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], fungi, bacteria, insects, and
 worms necessary for healthy plant growth. The deeper this layer, the
 better, because plant roots have more space to grow and take up nutrients.
 
@@ -76,11 +76,11 @@ from two containers.
 
 ## Animal Manure
 
-Manure is a valuable source of plant nutrients and organic matter. Well-
+Manure is a valuable source of plant nutrients [[mollison-humus-and-organic-matter-in-soils]]. Well-
 rotted farmyard manure can be dug into the soil or spread as a mulch.
 The most effective way to incorporate manure is to dig a trench, put a
 layer of manure in the bottom, then half-fill with soil dug from the
-next trench. Cow manure is excellent and widely available. Horse manure
+next trench. Cow manure is excellent and widely available. [[coleman-french-maraicher-horse-manure-hotbed-system]]
 may contain weed seeds from hay. Poultry manure is very rich in nitrogen
 and should be used sparingly.
 
@@ -88,42 +88,3 @@ and should be used sparingly.
 
 Green manures are crops grown specifically to be dug back into the soil.
 They serve several purposes: providing organic matter, making plant
-nutrients available (especially from deep-rooting species), fixing
-nitrogen (leguminous crops), and suppressing weeds. On light soils, a
-winter green-manure crop prevents nutrient loss through leaching.
-
-Key green-manure crops include:
-- **Alfalfa**: Deep-rooting perennial legume, adds nitrogen
-- **Red clover**: Low-growing nitrogen-fixer with extensive root system
-- **Winter tare**: Tall winter-growing legume producing large amounts of
-  green matter
-- **Lupin**: Deep-rooting legume adding phosphates
-- **Phacelia**: Fast-growing, attracts hoverflies that eat greenfly
-- **Mustard**: Quick-growing weed suppressor (avoid after brassicas)
-- **Rye**: Extensive root system, good for winter cover
-
-## Mulching
-
-Mulching involves spreading a layer of organic matter over the soil
-surface where plants cannot be disturbed. This suppresses weeds, retains
-moisture, and gradually adds organic matter. Apply mulches in spring
-when the soil is moist. Materials include well-rotted manure, compost,
-[[staycare-spent-mushroom-compost-bioremediation]] compost, straw, and pine bark.
-
-## The Four Phases of Soil Management
-
-Hamilton outlines a complete soil management regime:
-1. Test soil pH and nutrient content
-2. Add bulky organic matter (compost, manure, or alternatives) during
-   the fall at 20-30 lb per square yard/meter
-3. Apply [[hamilton-organic-fertilizers-and-plant-nutrition]] as needed for specific plant requirements
-4. Use green-manure crops whenever beds are empty for any length of time
-5. Mulch during the growing season to retain moisture and suppress weeds
-
-The key insight is that healthy soil produces healthy plants that are
-naturally more resistant to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. By feeding the soil
-with natural materials, organic gardeners build a self-sustaining system
-that improves year after year.
-
-See also: [[hamilton-organic-weed-management]],
-[[hamilton-organic-lawn-care]]

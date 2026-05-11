@@ -9,20 +9,20 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Natural Farming Pest Management
 
-Organic pest management [[korean-natural-farming-imo-recipes]] works by building healthy ecosystems where pests are naturally controlled by predators, using cultural practices that reduce pest pressure, and applying targeted organic treatments only when necessary.
+Organic pest management works by building healthy ecosystems where pests are naturally controlled by predators, using cultural practices that reduce pest pressure, and applying targeted organic treatments only when necessary.
 
 ## Ecological Approach
 
 The foundation of natural pest management is a healthy ecosystem:
 - Healthy soil grows healthy plants that resist pests
-- Biodiversity provides natural predator populations
+- Biodiversity provides [[fukuoka-natural-predator-protection]] populations
 - No monocultures = no pest population explosions
 - Accept some pest damage — the goal is management, not eradication
 
 ## Cultural Practices
 
 ### Prevention (first line of defense)
-- **Crop rotation** breaks pest and disease cycles
+- **Crop rotation** breaks [[hamilton-pest-and-disease-control-organic]] cycles
 - **Healthy soil** with adequate nutrients produces resistant plants
 - **Proper spacing** ensures good airflow (reduces fungal diseases)
 - **Timely planting** avoids peak pest emergence windows
@@ -33,8 +33,8 @@ The foundation of natural pest management is a healthy ecosystem:
 - Nasturtiums: trap crop for aphids
 - Basil: repels tomato hornworms and flies
 - Garlic: deters aphids, cabbage maggots, and Japanese beetles
-- Borage: attracts beneficial insects, repels tomato hornworm
-- Dill: attracts parasitic wasps that control caterpillars
+- Borage: attracts [[hamilton-beneficial-insects-and-biological-pest-control]], repels tomato hornworm
+- Dill: attracts [[parasitic-wasps-biological-pest-control]] that control caterpillars
 - Calendula: attracts hoverflies and aphid-eating insects
 
 ### Trap Cropping
@@ -81,7 +81,7 @@ The foundation of natural pest management is a healthy ecosystem:
 
 ### Bacillus thuringiensis (Bt)
 - Soil bacterium that kills caterpillars when ingested
-- Safe for beneficial insects, humans, and animals
+- Safe [[query-how-do-i-design-habitat-for-beneficial-insects]], humans, and animals
 - Apply to foliage of plants being damaged by caterpillars
 - Most effective on young caterpillars
 

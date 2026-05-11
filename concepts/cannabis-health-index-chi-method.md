@@ -1,5 +1,5 @@
 ---
-title: Cannabis Health Index (CHI) Method
+title: Cannabis Health Index Chi Method
 aliases:
   - CHI
   - cannabis health index
@@ -12,7 +12,7 @@ sources:
   - "uwe-blesching-the-cannabis-health-index"
 synopsis: >-
   The Cannabis Health Index (CHI) is an evidence-based scoring system
-  developed by Uwe Blesching for evaluating the therapeutic potential of
+  developed by [[uwe-blesching]] for evaluating the [[metzner-ayahuasca-therapeutic-potential]] of
   cannabis across 100+ chronic conditions. It ranks research quality and
   integrates mind-body medicine principles with cannabinoid therapy for
   targeted, strain-specific treatment decisions.
@@ -37,7 +37,7 @@ systematic evidence-based model for the plant's safe and targeted use. (see [[bl
 The demand for evidence-driven healthcare has led to the establishment of
 13 evidence-based practice centers funded by the U.S. Department of
 Health, including institutions like the Mayo Clinic, Duke University,
-and Johns Hopkins.
+and [[johns-hopkins-psychedelic-research]].
 
 ## CHI Score
 
@@ -57,7 +57,7 @@ The CHI score helps patients and practitioners:
 
 1. Assess the overall evidence level for cannabis treating a specific
    condition
-2. Make informed decisions about strain selection and administration
+2. Make informed decisions about [[cultivator-strain-selection-and-stock-culture]] administration
    method
 3. Set realistic expectations for therapeutic outcomes
 4. Track personal response relative to established evidence
@@ -88,57 +88,3 @@ response through the ECS.
 ### The Intention
 Setting clear healing intentions before treatment, based on evidence
 that expectation and mindset modulate endocannabinoid activity and
-immune function.
-
-### The Exploration
-A guided self-assessment process including:
-
-- **Powerful Questions**: Self-guided inquiry for deeper healing
-- **Suggested Blessings**: Cultivating gratitude and positive emotional
-  states that support ECS function
-- **Suggested Affirmations**: Reinforcing healthy mental-emotional habits
-- **Anecdotes**: Learning from others' therapeutic experiences
-
-## Therapeutic Window
-
-The CHI emphasizes the concept of a subjective therapeutic window — the
-dose range at which a patient experiences optimal therapeutic benefit
-with minimal adverse effects. This window varies by individual, condition,
-and cannabis preparation, requiring careful self-observation and dose
-titration.
-
-## Conditions Covered
-
-The CHI addresses over 100 conditions organized by category:
-
-- **Aging/Anti-Aging**
-- **Infections**: Bacterial (MRSA, gonorrhea) and viral (HIV, hepatitis,
-  herpes)
-- **Cancer**: 15+ specific cancer types including brain, breast, lung,
-  prostate, pancreatic
-- **Cardiovascular**: Heart disease, hypertension, stroke
-- **Diabetes**: Type 1 and Type 2 management
-- **Eye diseases**: Glaucoma, macular degeneration
-- **Fibromyalgia**
-- **Inflammatory diseases**: Arthritis, IBD, atherosclerosis
-- **Mental disorders**: ADHD, anxiety, autism, depression, bipolar,
-  PTSD, schizophrenia
-- **Neurological**: Alzheimer's, ALS, epilepsy, Huntington's, MS,
-  Parkinson's, Tourette's
-- **Pain**: Chronic, neuropathic, migraine
-- **Skin diseases**: Acne, dermatitis, psoriasis
-- **Wound care**: Fractures, surgical wounds, spinal cord injuries
-
-## Integration with Conventional Medicine
-
-The CHI positions cannabis as a complementary approach within evidence-
-based medicine. It does not advocate replacing conventional treatments
-but rather provides a framework for informed decision-making about
-integrating cannabis therapy alongside other medical interventions.
-
-## See Also
-
-- [[endocannabinoid-system]]
-- [[tetrahydrocannabinol-thc]]
-- [[cannabidiol-cbd]]
-- [[anandamide]]

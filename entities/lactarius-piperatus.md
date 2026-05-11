@@ -87,4 +87,4 @@ The species is low in calories and provides modest amounts of protein, fiber, B 
 - ***[[chalciporus-piperatus]]
 
 - [[mushroom-cultivation-basics]]
-- [[amanita-muscaria-entity]]
+- [[amanita-muscaria]]

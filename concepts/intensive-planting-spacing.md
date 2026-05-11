@@ -9,13 +9,13 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Intensive Planting and Spacing
 
-Steve Solomon's analysis of plant spacing systems, from ultra-intensive [[intensive-vegetable-spacing-systems]] raised beds to wide-spaced drought gardening. Solomon himself once taught and practiced intensive gardening but came to believe that wider spacing produces better results with far less water and labor.
+[[steve-solomon]]'s analysis of plant spacing systems, from ultra-intensive raised beds to wide-spaced [[comparison-desert-gardening-vs-drought-gardening]]. Solomon himself once taught and practiced [[coleman-british-adoption-of-french-intensive-gardening]] but came to believe that wider spacing produces better results with far less water and labor.
 
 ## Solomon's Evolution
 
-During the 1970s, John Jeavons was writing about intensive gardening, and Solomon used those methods, wrote books recommending them, and promoted them widely. But by the 1980s, several things became apparent:
+During the 1970s, [[john-jeavons]] was writing about intensive gardening, and Solomon used those methods, wrote books recommending them, and promoted them widely. But by the 1980s, several things became apparent:
 
-- His trial plots with well-separated plants grew just as well as (and sometimes better than) his intensive vegetable garden
+- His trial plots with well-separated plants grew just as well as (and sometimes better than) his [[intensive-vegetable-spacing-systems]] garden
 - The labor and water requirements of intensive gardening were enormous
 - The supposed yield advantage per square foot was largely an illusion
 - Intensive gardening makes the gardener a slave to constant watering
@@ -126,6 +126,6 @@ The fundamental relationship: closer spacing demands more water. Solomon's four 
 ## Related
 
 - [[drought-gardening]] — Gardening with minimal water
-- [[drip-irrigation-guide]] — Watering techniques
+- [[drip-irrigation-guide]] — [[cannabis-watering-techniques-and-frequency]]
 - [[irrigation-systems]] — Sprinkler and fertigation methods
 - [[growing-food-in-hard-times]] — The philosophy of low-input gardening

@@ -1,5 +1,5 @@
 ---
-title: Caribbean Neurotropic Fungi Species Distribution
+title: Guzman Caribbean Neurotropic Fungi Species Distribution
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_authors: Guzmán, Allen & Gartz (1998)
 concept_category: biogeography
@@ -12,7 +12,7 @@ tags: [neurotropic-fungi, caribbean, biogeography, guzman, species-checklist, ps
 ## Overview
 
 The Caribbean islands represent a fascinating biogeographic theater for
-neurotropic fungi. Their tropical climates, isolation, and history of
+neurotropic fungi. Their [[fukuoka-natural-farming-tropical-climates]], isolation, and history of
 anthropogenic disturbance create conditions for both endemic species and
 widely distributed colonizers. Guzmán, Allen & Gartz (1998) documented
 neurotropic fungal species across numerous Caribbean territories, revealing
@@ -39,10 +39,10 @@ supplemented by widespread Panaeolus taxa and ergot fungi.
   Guzmán (1995).
 
 ### Granada
-- **Copelandia cyanescens** — Reported by Gerhardt (1996).
+- **[[copelandia-cyanescens-australia-nz]]** — Reported by Gerhardt (1996).
 
 ### Guadeloupe
-- **Claviceps paspali** — Reported by Grasso (1955).
+- **[[claviceps-paspali-alkaloids]]** — Reported by Grasso (1955).
 - **[[panaeolus-sphinctrinus]]** and **P. subbalteatus** — Reported by
   Ola'h (1969).
 - **Psilocybe cubensis** and **P. plutonia** — Reported by Pegler (1983)
@@ -58,7 +58,7 @@ supplemented by widespread Panaeolus taxa and ergot fungi.
 - **Claviceps paspali** — Reported by Grasso (1955).
 - **Panaeolus sphinctrinus** and **P. subbalteatus** — Reported by
   Ola'h (1969).
-- **Psilocybe caerulescens** var. **caerulescens** — Reported by Pegler
+- **[[psilocybe-caerulescens]]** var. **caerulescens** — Reported by Pegler
   (1983). An eastern Caribbean record for this primarily Mexican species.
 - **Psilocybe cubensis**, **P. plutonia**, and **P. yungensis** — Reported
   by Pegler (1983).
@@ -75,7 +75,7 @@ with nine species including two endemics:
   Reported by Gerhardt (1996) and Navarro & Betancourt (1992).
 - **Psilocybe cubensis** — Extensively documented by Heim (1956b, 1978),
   Singer & Smith (1958), and Guzmán et al. (1997b).
-- **Psilocybe guilartensis** Guzmán, Tapia & Espinosa — Endemic to Puerto
+- **[[psilocybe-guilartensis]]** Guzmán, Tapia & Espinosa — Endemic to Puerto
   Rico, described by Guzmán et al. (1997b).
 - **Psilocybe portoricensis** Guzmán, Tapia & Espinosa — Endemic to Puerto
   Rico, described by Guzmán et al. (1997b).
@@ -88,62 +88,3 @@ with nine species including two endemics:
 ## Biogeographic Patterns
 
 ### Island Endemism
-
-The Caribbean harbors at least two endemic Psilocybe species: P. guilartensis
-and P. portoricensis, both described from Puerto Rico by Guzmán et al. (1997b).
-Island endemism is relatively rare among psilocybian fungi, as most species
-are widely dispersed through spore transport. The Puerto Rican endemics
-suggest either long-term isolation with speciation or undersampling of
-neighboring islands.
-
-### Psilocybe cubensis as a Caribbean Anchor
-
-P. cubensis is the most consistently reported species across Caribbean
-territories, present in Cuba, Dominican Republic, Guadeloupe, Martinique,
-and Puerto Rico. The species was originally described from Cuba (Earle, 1906),
-and the Caribbean likely represents part of its native range. Its association
-with bovine dung means it has been widely distributed through livestock
-introduction across all inhabited Caribbean islands.
-
-### The Guadeloupe-Martinique Cluster
-
-Guadeloupe and Martinique share nearly identical species lists, including the
-unusual combination of P. caerulescens var. caerulescens and P. yungensis.
-These species are more typically associated with continental habitats, and their
-presence on these Lesser Antilles islands may reflect historical dispersal
-events from South or [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]].
-
-### Ergot Fungi Distribution
-
-Claviceps paspali appears in Bermuda, Guadeloupe, Martinique, and Puerto
-Rico, all islands with Paspalum grasses as hosts. The distribution of this
-ergot species is governed by the presence of its host plant rather than
-general climate suitability. C. purpurea is not reported from the Caribbean
-in this survey, suggesting the ergot mycoflora differs from that of
-continental North America and Europe.
-
-## Comparison with Central America
-
-The Caribbean neurotropic mycoflora overlaps significantly with Central
-America, sharing species such as C. cyanescens, P. cubensis, P. subcubensis,
-and C. paspali. However, the Caribbean lacks [[allegro-colour-and-consistency-of-the-amanita-muscaria]] records
-that characterize Guatemala. The Caribbean also has more Panaeolus species
-records per country than Central America, possibly reflecting the prevalence
-of cattle ranching on small island pastures.
-
-## Underexplored Territories
-
-Many Caribbean islands have no documented neurotropic fungal records,
-including Hispaniola (beyond the Dominican Republic), the Cayman Islands,
-Barbados, Trinidad and Tobago, and numerous Lesser Antilles islands. This
-almost certainly reflects a lack of mycological survey work rather than
-genuine absence, given the favorable tropical climate and widespread
-presence of cattle ranching throughout the region.
-
-## References
-
-- Guzmán, Allen & Gartz (2000). Ann. Mus. civ. Rovereto, 14, 189-280.
-- Guzmán, G., Tapia, F. & Espinosa, L. (1997b). New species of Psilocybe
-  from Puerto Rico. Mycotaxon, 64, 329-334.
-- Pegler, D.N. (1983). Agaric flora of the Lesser Antilles. Kew Bulletin
-  Additional Series IX.

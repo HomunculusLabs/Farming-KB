@@ -1,5 +1,5 @@
 ---
-title: "Brown Blotch Disease in query-how-to-grow-oyster-mushrooms-at-home"
+title: Oyster Brown Blotch Disease
 created: 2026-04-28
 tags: [disease, bacteria, fungus, brown-blotch]
 date: 2026-04-28
@@ -12,9 +12,9 @@ type: concept
 
 Brown blotch disease is a serious condition affecting oyster mushroom crops,
 causing significant quality and yield losses. The disease manifests in two
-forms: bacterial brown blotch caused by Pseudomonas tolaasii and fungal brown
+forms: bacterial brown blotch caused by [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]] and fungal brown
 blotch suspected to be caused by Verticillium fungicola. Both forms result in
-discoloration and deformation of fruiting bodies, reducing marketability. The
+discoloration and deformation [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], reducing marketability. The
 disease is very common in mushroom houses, particularly in Korea.
 
 ## Bacterial Brown Blotch Disease
@@ -52,16 +52,16 @@ conducive to bacterial brown blotch development. Yellowing of fruiting bodies
 can easily result from environmental stress factors even without bacterial
 infection, making accurate diagnosis important. The disease is favored by:
 
-- Fluctuating [[greg-green-temperature-and-humidity-control]] in growing houses
+- Fluctuating [[greg-green-temperature-and-humidity-control]] in [[mushroom-growing-houses]]
 - Free water on fruiting body surfaces
 - Excessive watering of cultivation beds
-- Poor air circulation combined with high moisture
+- Poor [[stamets-growing-room-air-circulation-co2-management]] combined with high moisture
 
 ### Control Measures
 
 Sanitation is the fundamental control measure for bacterial brown blotch:
 
-- Follow strict Oyster Contamination Control protocols at all times
+- Follow strict Oyster [[mushroom-contamination-control]] protocols at all times
 - Pasteurize substrates thoroughly and use only healthy spawn
 - [[environmental-control-mushroom-growing]] flies, which are well-known vectors of the pathogen
 - Maintain constant humidity and temperature in growing houses
@@ -87,48 +87,3 @@ treatment approaches.
 ### Symptoms
 
 Fungal brown blotch symptoms differ from the bacterial form:
-
-- Mushroom cap partially or entirely discolored yellow to brown, but spots
-  are less clearly defined than bacterial brown blotch
-- Fruiting body shape becomes abnormal with stunted growth
-- Mushrooms may stop growing entirely
-- Malformation of caps and stipes is common
-
-### Control Measures
-
-Fungal brown blotch does not respond to typical bactericides or chlorine
-disinfectants. Effective control requires fungicides:
-
-- Sporgon (prochloraz-manganese complex)
-- Benomyl
-- Thiabendazole
-
-The fact that fungicides are effective rather than bactericides confirms the
-fungal nature of this disease form. Integrated [[plant-disease-management-solomon]] combining
-sanitation with appropriate chemical treatment is recommended.
-
-## Diagnostic Differentiation
-
-Distinguishing between [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] brown blotch is important for
-selecting the correct treatment. Key differentiating features include:
-
-- Bacterial form: well-defined brown spots, sunken lesions, sticky
-  exudate, rotten fish odor; responds to chlorine treatment
-- Fungal form: diffuse yellow-brown discoloration, abnormal growth,
-  malformation; responds to fungicides but not chlorine
-
-Accurate diagnosis prevents wasted time and resources on ineffective
-treatments. Laboratory culture may be necessary for definitive identification
-in ambiguous cases.
-
-## See Also
-
-- [[oyster-viral-disease]]
-
-- [[oyster-mushroom-brown-blotch-disease]]
-
-- Oyster Disease Management
-- [[oyster-insect-pests]]
-- Oyster Fruiting Conditions
-- [[oyster-mushroom]]
-- [[fruiting-conditions]]

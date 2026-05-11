@@ -87,28 +87,3 @@ In North America, Norway maple supports fewer herbivorous insect species than na
 This reduced herbivore load is a key mechanism behind its invasiveness — fewer natural enemies and less leaf damage allow it to outcompete native trees. The dense shade cast by its canopy further suppresses native understory plants.
 
 Fallen Norway maple leaves decompose more slowly than those of many native species, creating a thick leaf litter layer that can inhibit [[cannabis-seed-germination-methods]] of understory plants. Allelopathic compounds in the leaves may contribute to this suppression effect.
-
-## Invasive Potential
-
-Norway maple is classified as invasive in several U.S. states and Canadian provinces, including Massachusetts, New York, Vermont, and Ontario. Conservation organizations recommend against planting it in areas adjacent to natural areas.
-
-The species produces abundant seed crops annually, with individual trees bearing thousands of viable samaras. Seeds have high germination rates and can persist in the soil seed bank for several years.
-
-Its shade tolerance allows it to establish beneath existing forest canopies and eventually dominate the understory. Over time, Norway maple can replace native sugar maple, red maple, and other native hardwood species in invaded stands.
-
-Management strategies include manual removal of saplings, girdling of mature trees, and targeted herbicide application to cut stumps. Prevention through public education and promotion of native alternative species is increasingly emphasized.
-
-Recommended native alternatives for landscaping include sugar maple (*Acer saccharum*), red maple (*Acer rubrum*), and Freeman maple (*Acer × freemanii*). These species provide similar ornamental value while supporting greater insect biodiversity.
-
-## See Also
-
-- [[acer-rubrum]]
-- [[fagus-sylvatica]]
-- [[tilia-cordata]]
-- [[platanus-occidentalis]]
-- [[quercus-rubra]]
-- [[populus-tremuloides]]
-- [[prunus-serotina]]
-- [[betula-nigra]]
-- [[salix-babylonica]]
-- [[liquidambar-styraciflua]]

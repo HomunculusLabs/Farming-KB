@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
+  - Guzmán G, Allen JW, Gartz J. A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
 type: concept
 ---
 
@@ -20,7 +20,7 @@ type: concept
 ## Overview
 
 Psilocybe cubensis (Earle) Singer is one of the most widely distributed and
-well-known neurotropic fungi in the world. Within the Guzmán, Allen and Gartz
+well-known [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] the world. Within the Guzmán, Allen and Gartz
 (1998) global checklist, it stands out as a pantropical species whose current
 distribution is intimately linked to the historical spread of cattle across the
 globe. The species is fundamentally coprophilous, growing almost exclusively on
@@ -40,11 +40,11 @@ blue when handled, a key indicator of psilocybin content.
 According to the 1998 checklist, P. cubensis has been recorded from an
 extraordinary range of tropical and subtropical locations:
 
-- North America: Gulf Coast states (Florida, Louisiana, Mississippi, Alabama,
+- [[guzman-psilocybin-mushrooms-north-america]]: Gulf Coast states (Florida, Louisiana, Mississippi, Alabama,
   Texas), Mexico (widespread in tropical and subtropical regions)
-- Central America: Guatemala, Honduras, Panama, Costa Rica, El Salvador, Belize
+- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]: Guatemala, Honduras, Panama, Costa Rica, El Salvador, Belize
 - Caribbean: Cuba, Jamaica, Puerto Rico, Trinidad, Dominican Republic, Martinique
-- South America: Colombia, Venezuela, Ecuador, Peru, Brazil, Bolivia, Argentina,
+- [[guzman-psilocybin-mushrooms-south-america]]: Colombia, Venezuela, Ecuador, Peru, Brazil, Bolivia, Argentina,
   French Guiana
 - Africa: Kenya (with some [[neurotropic-fungi-taxonomic-confusion-and-identification]] involving P. aquamarina)
 - Asia: Thailand, Vietnam, India, Sri Lanka, Nepal (tentative), Philippines,
@@ -88,58 +88,3 @@ Spanish colonial period. The reasoning follows several lines of evidence:
 4. **Current [[copelandia-cyanescens-pantropical-distribution-and-ecology]]**: The species is most diverse and
    abundant in precisely those tropical regions connected by historical trade
    routes.
-
-## Ecological Requirements
-
-P. cubensis requires:
-- Warm, humid tropical or subtropical conditions
-- Fresh cattle dung (or dung of other large herbivores)
-- Temperatures typically above 20 degrees Celsius
-- High humidity for fruiting
-
-These requirements explain its absence from temperate Europe despite the
-presence of cattle, and its naturalization across tropical cattle-grazing
-regions worldwide.
-
-## Chemical Profile
-
-P. cubensis is confirmed to contain both psilocybin and psilocin. It has been
-the subject of numerous chemical studies, including investigations by
-Chávez de la Mora (1961), Repke et al. (1977), and Gartz (1987, 1989). The
-species shows variation in alkaloid content depending on cultivation conditions,
-as demonstrated by Gartz (1987).
-
-## Recreational Use and Cultivation
-
-The paper notes that P. cubensis has become the most commonly used recreational
-neurotropic fungus worldwide. Its ease of cultivation on grain substrates and
-dung has made it the primary species in underground cultivation and illegal
-trade. This has led governments of many countries to prohibit its use and
-commerce. The species is frequently found in Europe not as a naturally growing
-fungus but as dried imported or locally cultivated material.
-
-## Related Species
-
-The checklist notes P. subcubensis Guzmán as a closely related species with a
-similar but more restricted distribution. Other species in the Section
-Cubenses include P. azurescens, P. cyanescens, and P. subaeruginosa, all of
-which are bluing species containing indole alkaloids.
-
-## Significance
-
-P. cubensis serves as a case study in how human activities, particularly
-agriculture and trade, have shaped the global distribution of a fungal species.
-Its probable African origin and subsequent spread through colonial-era cattle
-introduction and slave trade routes illustrates the complex interplay between
-mycology, history, and human migration that underlies much of the
-biogeography of neurotropic fungi.
-
-## See Also
-
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- psilocybe-cubensis-distribution-and-ecology
-- [[psilocybe-zapotecorum]]
-- [[copelandia-cyanescens]]
-- Neurotropic Fungi Diversity and Vegetation Types
-- [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] Bias and Underexplored Regions
-- Cosmopolitan and [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]] Species

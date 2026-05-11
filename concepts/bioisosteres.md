@@ -50,7 +50,7 @@ The best replacements solve multiple problems at once without destroying the pha
 
 ADME optimization is a major reason to use bioisosteres. Replacing a labile ester with an amide may increase plasma stability but may also reduce permeability or change distribution.
 
-Replacing a carboxylic acid with a tetrazole may preserve an anionic interaction while increasing lipophilicity and changing glucuronidation risk. Replacing a phenyl ring with pyridine may reduce logD and add a hydrogen-bond acceptor, but it may also introduce CYP binding or alter basicity nearby.
+Replacing a carboxylic acid with a tetrazole may preserve an anionic interaction while increasing lipophilicity and changing [[glucuronidation]] risk. Replacing a phenyl ring with pyridine may reduce logD and add a hydrogen-bond acceptor, but it may also introduce CYP binding or alter basicity nearby.
 
 Fluorination can block metabolism, alter pKa, change conformation through stereoelectronic effects, or increase lipophilicity depending on position. Heterocycles can remove aromatic metabolic hot spots, but they can also add hERG risk, phototoxicity, reactive metabolite formation, or poor chemical stability.
 
@@ -70,7 +70,7 @@ The practical workflow is to define which property of the acid is essential befo
 
 Aromatic rings often contribute hydrophobic contact, pi stacking, shape, and vector control, but they can increase lipophilicity and metabolic liability. Pyridine replacement can lower lipophilicity and introduce a lone pair that changes binding orientation or solubility.
 
-Thiophene, furan, and other heteroaromatics can preserve shape while changing electronics, but some may form reactive metabolites. Saturated replacements such as bicyclo[1.1.1]pentane, cubane, bicyclo[2.1.1]hexane, or spirocycles can add three-dimensionality and reduce aromatic count.
+Thiophene, furan, and other heteroaromatics can preserve shape while changing electronics, but some may form [[reactive-metabolites-and-bioactivation-toxicology]]. Saturated replacements such as bicyclo[1.1.1]pentane, cubane, bicyclo[2.1.1]hexane, or spirocycles can add three-dimensionality and reduce aromatic count.
 
 These saturated isosteres are attractive in modern structure activity relationship medicinal chemistry because high aromaticity is often associated with poor solubility and promiscuity. The tradeoff is synthetic complexity, limited commercial availability, and uncertain binding geometry compared with a flat phenyl ring.
 
@@ -87,43 +87,3 @@ Replacing an amide also changes conformational restriction, rotatable bond behav
 A good design specifies whether the amide's geometry, donor, acceptor, dipole, or cleavage site is the feature being replaced.
 
 ## Fluorine as a Bioisostere
-
-Fluorine is frequently described as a hydrogen bioisostere because it is small, but that phrase can be misleading. A carbon-fluorine bond is highly polar, strongly affects local electronics, and can alter conformation through gauche effects or dipole interactions.
-
-Strategic fluorination can block oxidative metabolism at a vulnerable carbon-hydrogen bond. It can lower the basicity of a nearby amine, change membrane permeability, or improve binding by fitting a hydrophobic pocket.
-
-It can also worsen clearance, increase lipophilicity, create poor solubility, or disrupt a necessary interaction. Fluorine is therefore better treated as a precise electronic and conformational tool than as a simple hydrogen replacement.
-
-## Practical Workflow
-
-A practical bioisostere campaign begins by identifying the liability that must be fixed. The liability may be poor potency, low selectivity, rapid microsomal clearance, low solubility, high efflux, chemical instability, reactive metabolite risk, or weak oral exposure.
-
-The chemist then [[maps]] which functional group contributes to that liability and which interactions must be preserved. Candidate replacements are chosen from precedent, matched molecular pair analysis, structural models, property calculations, and synthetic feasibility.
-
-Small focused analog sets are usually more informative than a large unsystematic library. Each analog should be tested for potency, selectivity, solubility, permeability, microsomal stability, plasma stability, protein binding, and safety flags when relevant.
-
-The best outcome is not necessarily the closest mimic, but the replacement that moves the whole property profile toward a developable compound.
-
-## Common Pitfalls
-
-Bioisosteres are not plug-and-play modules. A replacement that works in one target family may fail in another because water networks, pocket flexibility, and desolvation costs differ.
-
-Improving potency while worsening clearance or toxicity is not a true optimization success. Replacing a problematic group can create a new liability such as CYP inhibition, hERG binding, phototoxicity, reactive metabolite formation, or synthetic intractability.
-
-Computational similarity metrics can miss protonation, tautomerism, stereochemistry, and conformational population effects. Patent-driven substitutions can produce molecules that are legally distinct but pharmacologically inferior.
-
-The discipline is to treat every bioisostere as a hypothesis about molecular recognition and whole-organism behavior.
-
-## Related Concepts
-
-Bioisosteres connect directly to structure-activity relationships, pharmacophores, lead optimization, prodrug design, and [[glucuronidation]], [[reactive-metabolites-and-bioactivation-toxicology]], and transporter-mediated pharmacokinetics.
-
-In , the topic draws on heterocycle design, conformational analysis, stereoelectronic effects, and functional group interconversion. In pharmacology, the value of a bioisostere is judged by the full response profile, not by chemical resemblance alone.
-
-## References
-
-Langmuir's isostere concept and later medicinal chemistry practice established the vocabulary of classical bioisosterism.
-
-Modern reviews of medicinal chemistry emphasize matched molecular pairs, property-based design, aromatic ring replacement, and three-dimensional saturated bioisosteres.
-
-Current drug discovery uses bioisosteres as one tool among assay design, structural biology, ADME profiling, safety testing, and iterative synthesis.

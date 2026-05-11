@@ -88,16 +88,3 @@ It contains allicin, a compound with natural antibiotic and antifungal
 properties. Regular consumption is associated with cardiovascular
 benefits and immune system support. Growing your own organic garlic
 ensures maximum potency, as commercially grown garlic may be treated
-with chemicals that diminish its health-giving properties. The
-organic approach also ensures that the soil and growing conditions
-produce the most flavorful and nutritionally dense bulbs possible.
-
-## Summary
-
-Garlic is one of the simplest and most rewarding crops for the
-organic gardener. Its ease of cultivation, minimal pest problems,
-long storage life, and dual role as both food and companion plant
-make it an essential component of any [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. Success
-depends on selecting quality cloves, providing a sunny, well-drained
-site with plenty of [[hamilton-composting-and-organic-matter-management]], and harvesting at the right
-time for proper curing and storage.

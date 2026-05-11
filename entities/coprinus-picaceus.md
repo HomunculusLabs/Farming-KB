@@ -33,7 +33,7 @@ The taxonomy of the coprinoid fungi has undergone significant revision. The genu
 
 ### Basidiocarps
 - **Cap:** 4 to 8 cm in height when young, ovate to cylindrical, expanding with age. The cap surface is covered with prominent, recurved, dark brown to black scales over a grayispore-dispersalackground. This contrasting pattern gives rise to the common name "magpie inkcap"
-- **Gills:** Very crowded, free from the stipe, initially white but becoming black as the spores mature. The gills deliquesce (dissolve into an inky liquid) from the margin downward, facilitating [[soil-food-web]] and their nitrogen sources. Saprotrophic fungi typically have higher d15N values than [[malt-extract-agar]], or potato dextrose agar, but may require specific conditions to produce fruiting bodies
+- **Gills:** Very crowded, free from the stipe, initially white but becoming black as the spores mature. The gills deliquesce (dissolve into an inky liquid) from the margin downward, facilitating [[soil-foodweb]] and their nitrogen sources. Saprotrophic fungi typically have higher d15N values than [[malt-extract-agar]], or potato dextrose agar, but may require specific conditions to produce fruiting bodies
 - **Fruiting Induction:** Some coprinoid fungi require specific environmental triggers for basidiocarp development, including changes in temperature, light exposure, and substrate composition. Fruiting in culture is often erratic
 - **Spore Germination:** Basidiospores can be germinated on nutrient-poor agar media. The presence of compatible mating types is required for completion of the sexual cycle
 - **Microscopic Identification:** Features including spore size and shape, presence of a germ pore, cheilocystidia and pleurocystidia morphology, and pileipellis structure are diagnostic. Melzer's reagent and KOH mounts are standard
@@ -88,23 +88,3 @@ than assuming perfect predictability or control over outcomes.
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

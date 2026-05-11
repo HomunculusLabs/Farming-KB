@@ -49,7 +49,7 @@ On mature trunks it exfoliates in irregular plates and patches, revealing a mosa
 
 Leaves are alternate, simple, ovate to obovate, 6 to 15 cm long and 4 to 8 cm wide, with crenate to serrate margins. The upper surface is dark green and glossy, while the lower surface is lighter with pubescence along the veins. Young leaves often emerge with a bronze or purplish tint before maturing to green.
 
-Autumn color is exceptionally variable and often spectacular. Individual trees may display simultaneous mixtures of yellow, orange, pink, red, and purple foliage. The intensity and diversity of fall color rivals that of [[acer-rubrum]] and [[liquidambar-styraciflua]], making it one of the most reliable autumn-interest trees for temperate climates.
+Autumn color is exceptionally variable and often spectacular. Individual trees may display simultaneous mixtures of yellow, orange, pink, red, and purple foliage. The intensity and diversity of fall color rivals that of [[acer-rubrum]] and [[liquidambar-styraciflua]], making it one of the most reliable autumn-interest trees for [[fukuoka-natural-farming-temperate-climates]].
 
 ## Distribution and Habitat
 
@@ -57,7 +57,7 @@ The native range of *Parrotia persica* is restricted to the Hyrcanian forest reg
 
 This ancient forest biome spans northern Iran and extends into southeastern Azerbaijan, representing a Tertiary relict ecosystem of considerable conservation significance. The Caspian Hyrcanian mixed forests cover approximately 55,000 square kilometers and contain a floristic assemblage with strong affinities to the broadleaved forests of Europe and eastern Asia.
 
-Within its native range, the species occurs on steep, forested slopes and ravines. It prefers well-drained, acidic to neutral soils derived from limestone and volcanic substrates. Associated canopy species include hornbeam (*Carpinus betulus*), beech (*Fagus orientalis*), maple (*Acer velutinum*), and alder (*Alnus subcordata*).
+Within its native range, the species occurs on steep, forested slopes and ravines. It prefers well-drained, acidic to neutral soils derived from limestone and volcanic substrates. Associated canopy species include hornbeam (*[[carpinus-betulus]]*), beech (*[[fagus-orientalis]]*), maple (*Acer velutinum*), and alder (*Alnus subcordata*).
 
 The Hyrcanian forests are recognized as a UNESCO World Heritage Site and constitute one of the world's oldest continuous forest ecosystems.
 
@@ -65,9 +65,9 @@ These forests served as a glacial refugium for many temperate tree species durin
 
 ## Cultivation
 
-Persian ironwood was introduced to European cultivation in the mid-19th century and has since become a widely planted ornamental in temperate regions. It is hardy to USDA Zone 5 and tolerates a range of soil conditions, from acidic to slightly alkaline, provided drainage is adequate.
+Persian ironwood was introduced to European cultivation in the mid-19th century and has since become a widely planted ornamental in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is hardy to USDA Zone 5 and tolerates a range of soil conditions, from acidic to slightly alkaline, provided drainage is adequate.
 
-The species performs best in full sun to partial shade with consistent moisture during establishment. Once rooted, it demonstrates good drought tolerance and adaptability to urban conditions, including compacted soils and air pollution. These traits make it suitable for use as a specimen tree, in mixed borders, and in street plantings.
+The species performs best in full sun to partial shade with consistent moisture during establishment. Once rooted, it demonstrates good [[dighton-fungal-drought-tolerance-plant-water-relations]] and adaptability to urban conditions, including compacted soils and air pollution. These traits make it suitable for use as a specimen tree, in mixed borders, and in street plantings.
 
 Several cultivars have been selected for improved ornamental characteristics. 'Vanessa' is a columnar form with narrow upright branching, suitable for smaller gardens and confined spaces. 'Persian Spire' is a recent introduction noted for its tightly fastigiate habit and reliable red-purple autumn color.
 
@@ -83,17 +83,8 @@ The flowers are apetalous, appearing as dense clusters of showy crimson stamens 
 
 Fruit is a two-valved woody capsule approximately 1 cm long, containing two glossy black seeds. Capsules mature in late summer to early autumn but are relatively inconspicuous compared to the floral and foliage displays. Seed dispersal is primarily by gravity and possibly by birds.
 
-The species supports a modest community of herbivorous insects and associated predatory arthropods in its native forests. Its ecological role in cultivated landscapes outside its native range is less studied, though it is generally regarded as free of serious pest and disease problems.
+The species supports a modest community of herbivorous insects and associated predatory arthropods in its native forests. Its ecological role in cultivated landscapes outside its native range is less studied, though it is generally regarded as free of serious [[hamilton-pest-and-disease-control-organic]] problems.
 
 ## See Also
 
 - [[hamamelis-virginiana]]
-- [[liquidambar-styraciflua]]
-- [[fothergilla-gardenii]]
-- [[styrax-tonkinensis]]
-- [[betula-pendula]]
-- [[fagus-sylvatica]]
-- [[quercus-alba]]
-- [[acer-rubrum]]
-- [[carpinus-betulus]]
-- [[platanus-orientalis]]

@@ -5,7 +5,7 @@ tags:
   - legume
   - fabaceae
   - food-crop
-  - permaculture
+  - [[permaculture]]
   - nitrogen-fixer
   - ancient-crop
 date: 2026-05-08
@@ -70,7 +70,7 @@ Lentil domestication occurred in the Fertile Crescent, likely in what is now
 southeastern Turkey. Carbonized remains from Pre-Pottery Neolithic sites at
 Jericho and Tell Abu Hureyra are among the earliest legume evidence.
 
-The crop spread rapidly through the ancient world, consumed in Egypt, Greece,
+The crop spread rapidly through [[allegro-plants-and-drugs-in-the-ancient-world]], consumed in Egypt, Greece,
 and Rome, and referenced in the Bible and Quran. Today, lentils are grown on
 every inhabited continent, primarily between latitudes 30°N and 50°N.
 
@@ -88,43 +88,3 @@ with experimental plots reaching 3,000 kg/ha. Harvest is typically by
 swathing and combining due to uneven indeterminate maturity.
 
 Major constraints include Ascochyta blight (*Ascochyta lentis*), Fusarium
-wilt, rust (*Uromyces viciae-fabae*), and Sitona weevils. Lentil is
-susceptible to herbicide residues from previous cereal crops.
-
-## Nutritional and Medicinal Value
-
-Lentil seeds contain 25–28% protein, 55–65% carbohydrates, and 1–2% fat
-(dry weight). They are excellent sources of iron (6–8 mg/100 g), zinc,
-folate (180–230 µg/100 g), and dietary fiber (15–20 g/100 g).
-
-Their low glycemic index (GI 21–32) and high fiber content support blood
-glucose regulation and cardiovascular health. Lentils are a critical iron
-source for vegetarian and vegan diets.
-
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include phytic acid, tannins, and trypsin inhibitors
-that are partially reduced by cooking. Lentil sprouts contain elevated
-vitamin C and antioxidant levels. Contemporary research has investigated
-lentil-derived peptides for antihypertensive and antioxidant activity.
-
-## Ecology and Permaculture
-
-Lentil fixes nitrogen through symbiosis with *Rhizobium leguminosarum* sv.
-*viciae*, contributing 20–60 kg N/ha. This makes it a valuable pre-crop for
-nitrogen-demanding cereals in rotation sequences.
-
-In conservation agriculture, lentil disrupts cereal disease cycles and adds
-residual nitrogen. In permaculture systems, it serves as a low-growing
-nitrogen-fixing understory component, its shallow roots complementing
-deep-rooted perennials.
-
-Lentil-cereal intercrops often demonstrate land-equivalent ratios exceeding
-1.2, indicating significant yield advantages over monoculture.
-
-## See Also
-
-- [[vicia-faba]] — [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]], cool-season broad bean
-- [[vigna-radiata]] — mung bean, warm-season pulse crop
-- [[medicago-sativa]] — alfalfa, perennial nitrogen-fixing forage
-- trigonella-foenum-graecum — fenugreek, medicinal legume
-- [[comparison-crop-rotation-vs-cover-cropping]] — rotational strategies for legume integration
-- [[companion-planting]] — intercropping and companion strategies

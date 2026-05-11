@@ -16,17 +16,17 @@ sources:
 
 # Psilocybin Mushroom Identification Guide
 
-Key features for identifying psilocybin-containing mushrooms in the field, with emphasis on distinguishing them from potentially dangerous lookalikes. (see [[inocybe-geophylla]]).
+Key features for identifying psilocybin-containing mushrooms in the field, with emphasis on distinguishing them from potentially dangerous lookalikes.
 
 ## Critical Safety Warning
 
-Proper identification requires training, patience, and ideally expert guidance. Many poisonous mushrooms can cause serious illness or death. Never consume a mushroom based solely on written descriptions. This guide covers general features only. (see [[mushroom-identification]]).
+Proper identification requires training, patience, and ideally expert guidance. Many [[palmer-poisonous-mushrooms-deadly-species]] can cause serious illness or death. Never consume a mushroom based solely on written descriptions. This guide covers general features only.
 
 ## Key Identification Features
 
 ### 1. Blue Bruising (Bluing Reaction)
 
-The most characteristic feature of psilocybin mushrooms is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
+The most characteristic feature of [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
 
 - Bluing may appear on the stem, cap, gills, or flesh when damaged.
 - The reaction is not instantaneous; it may take seconds to minutes to develop.
@@ -39,9 +39,9 @@ A spore print is essential for identification. Place the cap gills-down on paper
 
 - Most psilocybin mushrooms produce a **purple-brown to dark purple-black** spore print.
 - *Psilocybe cubensis*: Purple-brown to nearly black.
-- *Psilocybe semilanceata*: Dark purple-brown.
-- *Psilocybe cyanescens*: Dark purplish-brown.
-- *Panaeolus cyanescens*: Black.
+- *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*: Dark purple-brown.
+- *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*: Dark purplish-brown.
+- *[[panaeolus-cyanescens-bali-omelette]]*: Black.
 
 ### 3. Gill Characteristics
 
@@ -116,3 +116,17 @@ Most psilocybin mushrooms have a mild, farinaceous (flour-like or mealy) odor. A
 - [[psilocybin-mushroom-global-distribution]] for geographic range
 - [[psychedelic-harm-reduction]] for comprehensive safety practices
 - [[psychedelic-mushroom-pharmacology]] for chemistry and dosage
+## Practical Cultivation Notes
+
+Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
+
+## Safety Considerations
+
+Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
+
+## See Also
+- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
+- [[acid-house-rave-culture-and-second-mushroom-boom]]
+- [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
+- [[adaptive-significance-mushroom-tropisms-spore-dispersal]]

@@ -1,5 +1,5 @@
 ---
-title: Plant [[plant-gravitropism-and-spatial-awareness]] Awareness
+title: Plant Gravitropism Spatial Awareness
 source: grahamholmes-what-a-plant-knowsindd.md
 tags:
   - botany
@@ -88,62 +88,3 @@ back. This allows plants to maintain characteristic architectures
 even on slopes or uneven terrain. The GSA system integrates gravity
 sensing with other inputs, including light direction and mechanical
 stimuli, as described in [[thigmomorphogenesis-plant-touch-response]].
-
-## Interaction Between Gravitropism and Phototropism
-
-In nature, plants rarely respond to a single directional cue. Gravity
-pulls roots down and shoots up, while light pulls shoots toward its source.
-The interaction between gravitropism and phototropism determines the final
-growth direction. When light comes from the side, phototropism bends the
-shoot toward light, but gravitropism simultaneously acts to keep the shoot
-vertical. The balance depends on light intensity and hormone gradients. In
-low light, gravitropism dominates; in strong directional light, phototropism
-may overcome gravitropism. Roots are negatively phototropic for blue light,
-growing away from light, which helps keep them in the soil. This integration
-of multiple directional signals gives plants robust spatial awareness in
-complex natural environments.
-
-## Clinostat Experiments and Microgravity
-
-Scientists have studied gravitropism using clinostats — devices that
-slowly rotate plants, preventing statoliths from settling in any one
-direction. Plants grown on clinostats show disoriented growth, with roots
-and shoots growing in random directions, confirming that continuous gravity
-sensing is required for normal orientation. Plants grown in the microgravity
-of space exhibit severe orientation problems. Experiments on the
-International [[space-station-closed-system-aseptic-access-sterilization]] have shown that seedlings in microgravity
-initially grow in random directions, though they eventually develop some
-orientation through light sensing. These experiments confirm the central
-role of gravity in plant [[plant-gravitropism-spatial-orientation]] and reveal the adaptability of
-plants when their primary reference frame is removed.
-
-## Statocyte Function and Root Navigation
-
-Root statocytes in the columella continuously monitor orientation relative
-to gravity, enabling roots to navigate complex soil environments. As a root
-grows, it encounters obstacles, moisture variation, and nutrient gradients.
-Gravitropism provides the baseline directional cue, while hydrotropism (toward
-water), chemotropism (toward nutrients), and thigmotropism (around obstacles)
-modify the path. This integration of multiple signals at the root tip allows
-sophisticated soil exploration. Chamovitz compares this to a form of spatial
-intelligence — the root tip effectively "decides" which direction to grow based
-on simultaneous sensory inputs. The root cap is continuously renewed as the
-root pushes through abrasive soil, with old statocyte cells sloughed off and
-replaced by new ones from the root meristem. See also [[thigmomorphogenesis-plant-touch-response]]
-for mechanical sensing during root growth.
-
-## Practical Applications and Comparison to Animal Systems
-
-Understanding gravitropism has practical implications for agriculture
-and horticulture. In indoor cultivation, plants under artificial light may
-lack directional light cues, making gravitropism the primary orientation
-mechanism. Root gravitropism affects planting depth, container design, and
-irrigation efficiency. Grafting and transplanting can disrupt root
-orientation, and understanding recovery helps improve transplant success.
-The comparison to animal vestibular systems is instructive: both use dense
-particles (amyloplasts in plants, otoliths in animals) that settle under
-gravity for directional information, and both convert mechanical stimuli
-into biochemical signals. The key difference is that plants use hormone
-redistribution and differential cell growth rather than nerves and muscles.
-Despite different mechanisms, the functional parallel is striking — both
-kingdoms have evolved gravity-sensing systems of comparable sophistication.

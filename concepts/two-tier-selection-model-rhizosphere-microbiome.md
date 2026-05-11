@@ -87,37 +87,3 @@ The transition from bulk soil to endorhiza is characterized by predictable taxon
 ## The Core Endorhiza Community
 
 Despite cultivar-specific differences in abundance, all Cannabis plants shared a core endorhiza community consisting of:
-
-- Pseudomonas
-- Cellvibrio (noted as an unusual core member, likely associated with root decay in post-harvest samples)
-- Oxalobacteraceae
-- Xanthomonadaceae
-- Actinomycetales
-- Sphingobacteriales
-
-With the exception of Cellvibrio, all prevalent core members are well-known [[endorhiza-endophytic-bacteria]] primarily within the orders Gammaproteobacteria and Alphaproteobacteria — consistent with observations from other plant systems including Arabidopsis and Populus.
-
-## Implications for Agriculture
-
-The two-tier model has practical implications for crop management and microbiome engineering:
-
-- **Soil management** is the primary lever for influencing the root microbiome, as it determines the available pool of colonizers. Amendments, crop rotation, and tillage practices shape the Tier 1 filter.
-- **Breeding for specific microbiome interactions** could select cultivars that preferentially recruit beneficial endophytes, effectively optimizing the Tier 2 filter for plant fitness.
-- **Inoculant development** must account for both soil compatibility and host genotype preference — a strain that thrives in one soil-plant combination may fail in another.
-- **[[fungal-elicitors-enhanced-secondary-metabolite-production]]** in Cannabis showed correlation with endorhiza community structure, suggesting the endophytic community may influence or be influenced by cannabinoid profiles.
-
-## Limitations and Open Questions
-
-- The first tier's filtering between rhizosphere and bulk soil was not always statistically significant, suggesting the transition may be more gradual than discrete.
-- Root decay confounds endorhiza measurements: post-harvest sampling showed high Cellvibrio (16.9% vs 0.095% in live plants), a cellulolytic decomposer.
-- The relative strength of each tier may shift with plant growth stage, season, and environmental stressors.
-- The molecular mechanisms by which host genotype selects specific endophytes remain poorly understood and are an active area of research.
-
-## Historical Context
-
-The concept of sequential filtering in root microbiome assembly built on decades of earlier work. Garbeva et al. (2004) first proposed that both plant species and soil type cooperatively shape rhizosphere communities, while Bulgarelli et al. (2012) provided the formal two-tier framework based on Arabidopsis root microbiome data. The Cannabis study by Winston et al. (2014) extended this model to a commercially important crop with unique secondary metabolite chemistry.
-
-## See Also
-
-- [[endorhiza-endophyte-bacteria-plant-roots]] — detailed coverage of endorhiza communities
-- [[cultivar-specificity-microbiome-plant-genotype]] — how different cultivars shape distinct microbiomes

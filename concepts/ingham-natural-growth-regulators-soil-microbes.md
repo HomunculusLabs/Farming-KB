@@ -42,7 +42,7 @@ Commercial root hormone products are microbial in origin, meaning
 they were originally produced by bacteria or fungi. However, these
 products are stabilized with preservatives and do not contain
 [[savory-living-organisms-as-tools]]. They provide a one-time dose of growth regulators
-but cannot sustain production over time. A healthy [[soil-food-web]], by
+but cannot sustain production over time. A healthy [[soil-foodweb]], by
 contrast, produces growth regulators continuously as long as the
 organisms remain active and have adequate food resources.
 

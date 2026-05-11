@@ -1,6 +1,6 @@
 ---
-title: Powell Psilocybin adverse-effects-and-harm-reduction-psilocybin
-psilocybinilocybin Harm Reduction"
+title: Powell Psilocybin Harm Reduction
+psilocybinilocybin [[adverse-effects-and-harm-reduction-psilocybin]]"
 created: 2026-04-26
 sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
@@ -12,14 +12,14 @@ updated: 2026-04-26
 
 # Psilocybin Harm Reduction
 
-While Powell is generally an advocate for psilocybin's potential, *The Psilocybin Solution* is
+While Powell is generally an advocate for psilocybin's potential, *The [[powell-psilocybin-solution-ecological-cognition-theory]]* is
 far from uncritical. Throughout the book he addresses risks, cautions, and the conditions under
 which psilocybin use can go wrong, providing what amounts to a harm reduction framework grounded
 in historical examples, psychological analysis, and indigenous wisdom.
 
 ## The Reality of Psychological Risk
 
-Powell acknowledges "the obvious dangers posed by the use of psychedelic substances — such as
+Powell acknowledges "the obvious dangers posed by the use of [[psychedelic-substances-comparison]] — such as
 their capacity to induce intense psychical terror (the so-called '[[emcdda-bad-trip-phenomenology-psychiatric-intervention]]')." He does not
 minimise this risk but contextualises it: native cultures have managed to "tame" psychedelics
 "through a learned appreciation of their scope of effect" while simultaneously acquiring "a
@@ -74,7 +74,7 @@ responsible use:
   both individuals and the sacred nature of the practice.
 - **Amazonian preparation**: Elaborate dietary restrictions and ceremonial structure provide
   psychological and physical preparation before the experience.
-- **Eleusinian precedent**: Robert Graves compared necessary preparation to that of ancient
+- **Eleusinian precedent**: [[robert-graves-british-mushroom-connection]] compared necessary preparation to that of ancient
   mystery school initiates who underwent extensive purification before the ceremony.
 
 ## The Danger of Sensation Seeking
@@ -88,20 +88,3 @@ stupefy like alcohol."
 The Aztec mushroom was "not some common drug like alcohol to be taken at the drop of a hat in
 order to drown one's sorrows or deaden oneself to reality." This fundamental distinction between
 entheogenic use and recreational drug use is Powell's core harm reduction principle. The
-mushroom demands engagement, not escapism.
-
-## Misinformation as a Form of Harm
-
-Powell identifies the spread of inaccurate information as itself a harm. He documents how
-Sahagun's sensationalised accounts — describing people who "flee, hang themselves, hurl
-themselves from a cliff" — were parodied by similar rumours surrounding LSD in the 1960s. In
-reality, of millions of LSD doses taken, there were only a handful of deaths through
-misadventure.
-
-He argues that "any psychedelic substance with a powerful mystique seems to instil fear in
-those who are unfamiliar with its effects and who are easily threatened by the unknown." This
-fear "often precedes persecution and the spreading of inaccurate information." Powell
-emphasises the importance of "an unconditional flow of informed, hysteria-free knowledge
-regarding the psychological action of visionary plants hallucinogenic-mushroom-health-risks-and-harm-reduction
-
-- [[powell-psilocybin-solution-psychedelics-and-problem-solving]]

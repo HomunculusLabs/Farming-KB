@@ -1,5 +1,5 @@
 ---
-title: [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers|Hamilton]] Organic Fertilizers
+title: Hamilton Organic Fertilizers And Plant Nutrition
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Hamilton Organic Fertilizers
 
-Plants need a wide and varied range of nutrients to be present in the soil for normal healthy growth. The use of concentrated fertilizer is one of the most controversial areas in organic gardening. Organic gardeners use products of natural origin rather than synthetic chemicals, but the principle remains the same: supplementing soil nutrients where organic matter alone is insufficient.
+Plants need a wide and varied range of nutrients to be present in the soil for normal healthy growth. The use of concentrated fertilizer is one of the most controversial areas [[hamilton-kelp-and-seaweed-in-organic-gardening]]. Organic gardeners use products of natural origin rather than synthetic chemicals, but the principle remains the same: supplementing soil nutrients where organic matter alone is insufficient.
 
 ## Why Use Fertilizers
 
-Fertilizers are normally required for several reasons. First, you may not be able to supply your soil with all the manure or compost needed to provide the necessary nutrients. Second, you may find that your soil is grossly deficient in one or more of the essential nutrients. To correct this by adding bulky organic material can take several years; it is more realistic to add concentrated organic fertilizer as well as the organic material. Third, many gardeners wish to make much higher demands on their soil than even the hardest-working colony of bacteria and fungi could cope with.
+Fertilizers are normally required for several reasons. First, you may not be able to supply your soil with all the manure or compost needed to provide the necessary nutrients. Second, you may find that your soil is grossly deficient in one or more of the essential nutrients. To correct this by adding bulky organic material can take several years; it is more realistic to add [[hamilton-concentrated-organic-fertilizer-products]] as well as the organic material. Third, many gardeners wish to make much higher demands on their soil than even the hardest-working colony of bacteria and fungi could cope with.
 
 ## Major Elements Required for Plant Growth
 
@@ -41,7 +41,7 @@ Treatment: Use an application of rock potash (10.5 percent potassium). Rock pota
 
 Needed in much larger quantities than many gardeners realize. Magnesium should be present in about the same quantities as phosphorus. It is also a component of chlorophyll, so a deficiency causes yellowing between the veins of the leaves, generally affecting older leaves first.
 
-A magnesium deficiency is sometimes caused by plants not being able to absorb the magnesium in the soil, perhaps because there is too much potassium present. This can also happen if the soil structure is poor or if there is insufficient organic matter.
+A [[query-how-to-fix-magnesium-deficiency-in-cannabis]] is sometimes caused by plants not being able to absorb the magnesium in the soil, perhaps because there is too much potassium present. This can also happen if the soil structure is poor or if there is insufficient organic matter.
 
 Treatment: Apply a dose of kelp meal, liquid kelp, or liquid animal manure.
 
@@ -49,7 +49,7 @@ Treatment: Apply a dose of kelp meal, liquid kelp, or liquid animal manure.
 
 Required in relatively large amounts. Calcium neutralizes certain acids formed in plants and helps in the manufacture of protein. Deficiency is rare in a well-managed organic garden, but plants sometimes develop an inability to distribute calcium through their systems. The classic example is blossom-end rot in tomatoes, when the tip of the fruit blackens and rots.
 
-Treatment: There is no specific cure for calcium deficiency. The only treatment is by correct cultivation methods, incorporating plenty of manure or compost, aimed at building up a balanced bionutrients-guide|nutrient level.
+Treatment: There is no specific cure for [[knf-calcium-deficiency-symptoms]]. The only treatment is by correct [[gourmet-medicinal-mushroom-oyster-cultivation-methods]], incorporating plenty of manure or compost, aimed at building up a balanced bionutrients-guide|nutrient level.
 
 ### Sulfur
 
@@ -88,22 +88,3 @@ Important to the growing tissue of all parts of the plant. Deficiencies are more
 Treatment: Boron deficiency must be prevented because, if deficiencies become apparent in a crop, it is too late to save it. Apply kelp meal, manure, or compost to ensure the next crop will not suffer.
 
 ### Molybdenum
-
-Instrumental in the production of protein. Deficiency causes whiptail in brassicas, where leaves become thin and straplike. Generally due to acid soil conditions.
-
-Treatment: Add lime to raise the pH of acid soil. Spray with liquid kelp fertilizer and apply kelp meal.
-
-## Preventing Trace Element Deficiencies
-
-The best treatment for trace-element deficiencies is to prevent them from occurring in the first place. This is normally very easily achieved in the organic garden by the continued use of bulky organic matter. Where deficiencies have occurred in your garden, take the precaution of treating the soil with kelp meal fertilizer annually.
-
-Where any trace element deficiencies have occurred in the past, give the soil a light application of kelp meal or calcified kelp pellets at the beginning of each season to make sure it does not happen again.
-
----
-
-## See Also
-
-- [[fertilizers-and-mycorrhizae]]
-- [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]
-- [[hamilton-nutrient-deficiencies-and-treatment]]
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]

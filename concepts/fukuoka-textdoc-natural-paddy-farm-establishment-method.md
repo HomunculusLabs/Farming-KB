@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,37 +88,3 @@ However, [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] of ci
 
 1. Years one to four: Cut weeds and underbrush twice yearly. Fruit trees grow among brush and assorted trees with irregular growth and poor harvests in some cases, but very little disease and insect damage.
 2. Years four to five: Broadcast clover seed over the entire orchard as underbrush recedes.
-3. Years five to six: Construct terrace-like steps and a road on the orchard slope using a hoe.
-4. As the orchard matures: The original weeds are replaced first with soft weeds such as chickweed, knotweed, and crabgrass, then with clover. The orchard begins to look like an orchard.
-
-### Building Soil Without Fertilizers
-
-Fukuoka found that his father's orchard, once regarded as one of the best locally, had failed to make a net profit over more than forty years. The first thirteen years were run at a loss, the next twenty at a profit, and the following ten in the red again. The answer was simple: while the trees were celebrated, the orchard soil had become depleted.
-
-Fukuoka resolved to raise fruit trees that grow as the soil enriches. One foot of topsoil holds enough nutrients to sustain fruit trees for ten years without fertilization. Three feet of rich soil can supply enough nutrients for about thirty years.
-
-## The Three-Dimensional Orchard Concept
-
-Fukuoka advocates for orchards that make full three-dimensional use of space:
-
-- Avoid monoculture of fruit trees. Plant deciduous fruit trees together with evergreen fruit trees.
-- Interplant green manure trees: acacias for nitrogen, myrtle for phosphoric acid and potash, alder, and podocarpus.
-- Include large trees, shrubs, and climbing fruit vines such as grapevine, akebia, and Chinese gooseberry.
-- Grow leguminous green manure plants and herbs as orchard undergrowth.
-- Grow forage crops and semiwild vegetables in abundance.
-- Allow both poultry and livestock to graze freely in the orchard.
-
-Such a [[fukuoka-natural-orchard-development]] is entirely different from conventional orchards employing high-production techniques. For the individual wishing to live in communion with nature, this is truly a paradise on earth.
-
-## Wikilinks
-
-- [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
-- [[fukuoka-textdoc-starting-natural-farm-site-design]]
-- [[fukuoka-textdoc-orchard-terracing-slope-management]]
-- [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
-- [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
-- [[fukuoka-natural-farming-philosophy]]
-
-## See Also
-
-- [[natural-farm-establishment-protective-forests-and-windbreaks]]

@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,50 +88,3 @@ his own efforts but was created and is supported by nature.
 Food is not something that man selects from within nature; it is a gift bestowed
 upon him from above. Its character as food lies neither exclusively in itself nor
 in man. A true natural diet becomes possible only when food, the body, and the
-soul fuse together completely within nature.
-
-True man with a truly healthy body and mind should be naturally equipped with the
-ability to take the right food from nature, without discrimination or error. To
-follow the will of the body and desire freely, to eat when food is delicious and
-forbear when it is not, to partake without restraint, without plan or intention,
-is to enjoy the most subtle and exquisite fare.
-
-## The Path Between Types
-
-Fukuoka does not advocate jumping directly to the non-discriminating diet. People
-should begin by discarding empty, self-indulgent diets and, failing to find
-satisfaction in a scientific diet, move on to a diet of principle. But they must
-then go beyond theory and strive toward the ultimate goal of becoming true people
-who partake of an ideal natural diet.
-
-The young people living primitively in the orchard huts on Fukuoka's mountain,
-eating a natural diet and practicing natural farming, stand closest to this
-ultimate goal. They have, in effect, become the natural people that the fourth
-type of diet requires.
-
-## The Contradiction of Urban Natural Diet
-
-Fukuoka notes the absurdity of attempting a natural diet in cities. Even if urban
-people succeed in obtaining natural food, without a natural body and spirit
-prepared to receive such food, merely consuming it does not constitute a natural
-diet. It would probably take almost superhuman skills and judgment to live on a
-complete natural diet in a city.
-
-To push upon people living in different environments and of different races and
-temperaments a rigid, standardized natural diet is an impossibility. This does not
-mean that various types of natural diet exist — rather, people must become natural
-people first, and the diet will follow naturally.
-
-## Trinity of Natural Living
-
-Natural farming, natural diet, and natural healing are all part of one whole.
-Without an established natural diet, farmers have no idea what they should produce.
-In the absence of natural farming, a true natural diet will never take hold. Both
-are achieved only by natural people. This trinity begins and is realized at once.
-The goal of all three elements is the creation of ideal man.
-
-## See Also
-
-- [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
-- [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]

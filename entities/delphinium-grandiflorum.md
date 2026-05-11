@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Wang, W.T. (1979). "Delphinium in Flora Reipublicae Popularis Sinicae." Science Press.
   - RHS (2023). "Delphinium grandiflorum — Plant Finder." rhs.org.uk.
-  - Warnock, M.J. (1997). "Delphinium." In: Flora of North America North of Mexico Vol. 3.
+  - Warnock, M.J. (1997). "Delphinium." In: Flora [[berry-growing]] North of Mexico Vol. 3.
   - Ley, L. (2008). "Border Flowers." Timber Press.
 ---
 
@@ -24,7 +24,7 @@ The species is distinguished from the taller border delphiniums (D. elatum hybri
 
 Delphinium grandiflorum has been cultivated in Chinese gardens for centuries and was introduced to Western horticulture in the early 19th century. It is valued for heat tolerance and a longer blooming period than tall delphiniums.
 
-Unlike D. elatum cultivars that often require staking, D. grandiflorum has sturdy, self-supporting stems. This compact habit makes it suitable for rock gardens, container growing, and front-of-border positions.
+Unlike D. elatum cultivars that often require staking, D. grandiflorum has sturdy, self-supporting stems. This compact habit makes it suitable for rock gardens, [[container-growing-vegetables-herbs]], and front-of-border positions.
 
 The species typically flowers from early to mid-summer (June–July in the northern hemisphere), with individual flowers lasting 7–10 days. A well-grown plant produces 3–5 flowering stems simultaneously, creating a substantial floral display despite the plant's modest size.
 
@@ -54,7 +54,7 @@ In China, D. grandiflorum is found in Heilongjiang, Jilin, Inner Mongolia, and H
 
 The plant grows in dry to mesic meadows, forest clearings, rocky slopes, and steppic grasslands at elevations of 200–2,000 meters. It tolerates continental climate extremes with cold winters (-30°C) and hot, dry summers.
 
-Naturalized populations have established in parts of eastern Europe and North America from garden escapes. The species is not considered invasive in any jurisdiction due to limited competitive ability in undisturbed habitats.
+Naturalized populations have established in parts of eastern Europe and [[guzman-psilocybin-mushrooms-north-america]] from garden escapes. The species is not considered invasive in any jurisdiction due to limited competitive ability in undisturbed habitats.
 
 In its native grassland habitats, D. grandiflorum often grows alongside species of Allium, Artemisia, and Stipa. These steppe communities are adapted to low precipitation (300–500 mm annually) and extreme temperature fluctuations.
 
@@ -82,39 +82,8 @@ The species is relatively short-lived as a perennial, typically persisting 3–5
 
 The deep blue flowers are highly attractive to bumblebees (Bombus species), which are the primary pollinators. The nectar spur length matches the tongue length of several long-tongued bumblebee species.
 
-Hummingbirds visit the flowers in North American gardens where both co-occur. The intense blue color is particularly visible to birds, which can see into the ultraviolet spectrum reflected by delphinium petals.
+Hummingbirds visit the flowers in [[growing-gourmet-north-american-reishi-species]] gardens where both co-occur. The intense blue color is particularly visible to birds, which can see into the ultraviolet spectrum reflected by delphinium petals.
 
 The finely divided foliage provides food for the larvae of several moth species, including the dot moth (Melanchra persicariae) in Eurasia. Caterpillar feeding damage is usually cosmetic and does not threaten plant health.
 
-Slugs and snails are the most significant pests, particularly damaging young shoots in spring. Physical barriers (crushed eggshells, copper tape) and biological controls are effective management strategies in organic gardens.
-
-Powdery mildew can affect foliage in late summer, especially in humid conditions with poor air circulation. Adequate spacing (25–30 cm between plants) and avoiding overhead watering reduce infection risk.
-
-## Toxicity and Uses
-
-All parts of Delphinium grandiflorum contain toxic diterpenoid alkaloids, including delphinine and ajacine. Ingestion can cause nausea, vomiting, muscular weakness, and in severe cases, respiratory paralysis.
-
-Livestock poisoning from Delphinium species is a significant concern in western North American rangelands. D. grandiflorum is less commonly implicated than taller species due to its smaller size and garden cultivation.
-
-The alkaloid concentration is highest in young growth and seeds, declining as plant tissue matures. Cattle are particularly susceptible to delphinium alkaloids, while sheep show greater tolerance at equivalent doses.
-
-In traditional Chinese medicine, preparations from related Delphinium species were used externally for pain relief and skin conditions. Modern pharmacological studies have investigated delphinium alkaloids for their neuromuscular effects.
-
-The primary use of D. grandiflorum is ornamental. Its intense blue flowers are valued in cottage gardens, rock gardens, alpine plantings, and as cut flowers for small arrangements.
-
-In the cut flower trade, D. grandiflorum fills a niche for smaller-scale blue flowers suitable for mixed bouquets. Individual stems last 5–7 days in water, longer with floral preservative.
-
-The species is also used in traditional Mongolian textile dyeing, where the flowers produce a blue-green pigment on wool. This use is localized and small-scale but represents an ethnobotanical connection to the plant's native range.
-
-## See Also
-
-- [[delphinium-elatum]]
-- [[delphinium-consolida]]
-- [[aconitum-napellus]]
-- [[ranunculus-acris]]
-- [[clematis-viticella]]
-- [[anemone-coronaria]]
-- [[thalictrum-delavayi]]
-- [[nigella-damascena]]
-- [[helleborus-orientalis]]
-- [[pulsatilla-vulgaris]]
+[[jadam-pesticide-for-slugs-and-snails]] are the most significant pests, particularly damaging young shoots in spring. Physical barriers (crushed eggshells, copper tape) and biological controls are effective [[weed-management-strategies]] [[plant-disease-management-in-organic-gardens]].

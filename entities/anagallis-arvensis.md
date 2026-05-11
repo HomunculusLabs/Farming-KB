@@ -13,7 +13,7 @@ sources:
   - Heywood, V.H. (1978). "Anagallis." In: Tutin, T.G. et al., Flora Europaea, Vol. 3. Cambridge University Press.
   - Usher, G. (1974). "A Dictionary of Plants Used by Man." Constable.
   - Meli, R. et al. (2010). "Cytotoxic saponins from Anagallis arvensis." Phytochemistry Letters.
-  - Duke, J.A. (2002). "Handbook of Medicinal Herbs." CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[medicinal-herbs-for-livestock]]." CRC Press.
   - Polunin, O. & Walters, M. (1985). "A Guide to the Vegetation of Britain and Europe." Oxford University Press.
 ---
 
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Anagallis arvensis, commonly known as scarlet pimpernel, is a small annual plant in the family Primulaceae. It is native to Europe, North Africa, and western Asia and has become widely naturalized across temperate regions worldwide.
+Anagallis arvensis, commonly known as scarlet pimpernel, is a small annual plant in the family Primulaceae. It is native to Europe, North Africa, and western Asia and has become widely naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is renowned for its distinctive flowers, which are typically bright scarlet-orange with a darker center. A less common blue-flowered form also occurs naturally in some populations.
 
@@ -41,7 +41,7 @@ The plant is a low-growing annual with prostrate or ascending stems 10 to 30 cen
 
 Leaves are opposite, sessile, and broadly ovate to elliptic in shape. Each leaf measures 8 to 20 millimeters long with entire margins and a somewhat fleshy texture.
 
-The leaf surface is smooth or sparsely hairy with conspicuous translucent gland dots. The presence of these pellucid dots is a diagnostic character for the genus Anagallis.
+The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is smooth or sparsely hairy with conspicuous translucent gland dots. The presence of these pellucid dots is a diagnostic character for the genus Anagallis.
 
 Flowers are solitary in the leaf axils and are borne on slender pedicels. The calyx is deeply five-lobed with lanceolate segments approximately 6 millimeters long.
 
@@ -55,7 +55,7 @@ The fruit is a globose capsule approximately 5 millimeters in diameter enclosed 
 
 Anagallis arvensis is native to Europe, the Mediterranean basin, and western Asia. It has been introduced to virtually every temperate region of the world through human activity.
 
-The species is now naturalized across North America, South America, southern Africa, Australia, and New Zealand. It is particularly common in agricultural landscapes worldwide.
+The species is now naturalized across [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], southern Africa, Australia, and New Zealand. It is particularly common in agricultural landscapes worldwide.
 
 The plant occupies a wide range of open, disturbed habitats including arable fields, gardens, vineyards, waste ground, and roadsides. It is tolerant of a broad spectrum of soil types and conditions.
 
@@ -81,47 +81,10 @@ In agricultural settings, the species is primarily a weed of spring-sown crops. 
 
 Several insect herbivores have been recorded on Anagallis arvensis. The flea beetle Longitarsus parvulus feeds on the foliage in European populations.
 
-Fungal pathogens include downy mildew caused by Peronospora anagallidis, which produces yellowing and necrosis on the upper leaf surface. Rust fungi of the genus Uromyces also infect the species.
+[[bloomfield-fungal-pathogens-and-parasites]] include downy mildew caused by Peronospora anagallidis, which produces yellowing and necrosis on the upper leaf surface. Rust fungi of the genus Uromyces also infect the species.
 
 The plant serves as an alternate host for certain plant viruses that affect economically important crops. Tomato spotted wilt virus has been detected in natural populations.
 
 ## Toxicology
 
 All parts of Anagallis arvensis contain triterpenoid saponins, with the highest concentrations found in the roots and seeds. The primary toxic compounds are anagalligenins and their glycosidic derivatives.
-
-Ingestion of significant quantities of the plant can cause nausea, vomiting, abdominal pain, and diarrhea. The saponins are irritating to the gastrointestinal mucosa.
-
-Severe poisoning is rare in humans due to the unpalatable nature of the plant. Most cases involve accidental ingestion by children attracted to the bright flowers.
-
-Livestock poisoning has been reported, particularly in grazing animals that consume large quantities of the plant in contaminated hay. Symptoms include salivation, bloating, and colic.
-
-The saponins also exhibit cytotoxic activity in vitro against various cancer cell lines. This pharmacological activity has generated research interest, though no clinical applications have been developed.
-
-The blue-flowered morph contains similar concentrations of saponins to the red-flowered form. Toxicity is not correlated with flower color.
-
-There is no evidence of cumulative toxicity from repeated low-level exposure. The saponins are poorly absorbed through the gastrointestinal tract and are largely excreted unchanged.
-
-## Cultural Significance
-
-Scarlet pimpernel is perhaps the most culturally referenced of all weed species in English literature. Its association with the fictional hero of the French Revolution has made it an enduring symbol of cunning and disguise.
-
-The plant's weather-responsive flowers made it a familiar feature of rural European folklore. In England, closing flowers were taken as a reliable forecast of approaching rain.
-
-In traditional Spanish herbalism, the plant was used externally as a wound treatment and poultice. The crushed leaves were applied to cuts and insect bites.
-
-In Italian folk medicine, Anagallis arvensis was used as a diuretic and as a treatment for skin conditions. The plant was also believed to have magical protective properties.
-
-The specific epithet arvensis reflects the plant's deep association with cultivated fields. In pre-herbicide European agriculture, scarlet pimpernel was one of the most recognizable and common arable weeds.
-
-## See Also
-
-- [[anagallis-tenella]]
-
-- [[primula-veris|Primula veris]]
-- [[primula-vulgaris|Primula vulgaris]]
-- [[lysimachia-vulgaris|Lysimachia vulgaris]]
-- [[digitalis-purpurea|Digitalis purpurea]]
-- [[galium-aparine|Galium aparine]]
-- [[centaurium-erythraea|Centaurium erythraea]]
-- [[plantago-major|Plantago major]]
-- [[veronica-officinalis|Veronica officinalis]]

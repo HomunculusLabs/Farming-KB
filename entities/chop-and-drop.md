@@ -88,24 +88,3 @@ Effective chop-and-drop species share several characteristics: rapid growth, hig
 **Tropical perennials:** Moringa (*[[comparison-moringa-oleifera-vs-moringa-stenopetala]]*), leucaena (*Leucaena leucocephala*), tithonia (*Tithonia diversifolia*), and gliricidia (*Gliricidia sepium*) are widely used in tropical chop-and-drop systems.
 
 **Grasses:** Guinea grass, napier grass, and sorghum provide high-carbon mulch that decomposes more slowly than legume material, providing longer-lasting weed suppression and erosion control.
-
-**Avoid species:** Invasive or aggressively spreading plants should not be used for chop and drop, as cutting stimulates regrowth and can worsen invasions. Plants with allelopathic properties that harm crop species should also be avoided.
-
-## Applications in Design
-
-In food forest design, chop-and-drop mulch pits are placed around fruit trees to create nutrient-rich zones. Companion plants are grown in the tree root zone and periodically cut to feed the tree.
-
-In alley cropping systems, rows of nitrogen-fixing trees or shrubs are established between crop rows and periodically cut. The mulch feeds the inter-row crops while the root systems improve soil structure.
-
-In [[biochar]] systems: woody chop-and-drop material can be charred before application, creating biochar-amended mulch with enhanced carbon sequestration properties.
-
-## See Also
-
-- [[biochar]]
-- [[food-forest]]
-- [[hugelkultur]]
-- [[moringa-oleifera]]
-- [[silvopasture]]
-- [[guild-planting]]
-- [[no-till-grain-strategy]]
-- permaculture

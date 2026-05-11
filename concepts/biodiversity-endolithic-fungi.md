@@ -11,16 +11,16 @@ type: concept
 
 Endolithic fungi are organisms that colonize and live inside rocks, minerals,
 calcified biological structures, and other hard substrates. These fungi
-represent a remarkable example of biological adaptation to extreme environments,
+represent a remarkable example of biological adaptation to [[fungal-biodiversity-in-extreme-environments]],
 capable of weathering rock surfaces, penetrating mineral matrices, and
 surviving in habitats where few other organisms persist. Their ecological roles
-span from [[dighton-fungal-rock-weathering-mineral-dissolution]] and soil formation to symbiotic relationships with
+span from [[dighton-fungal-rock-weathering-mineral-dissolution]] and soil formation to [[fungi-in-the-environment-symbiotic-relationships]] with
 algae and cyanobacteria.
 
 ## Definition and Habitat
 
 Endolithic fungi occur inside corals, calcified algae, and other calcareous
-substrata. They penetrate the interior of rock and mineral surfaces, occupying
+substrata. They penetrate the interior of rock and [[fungal-community-profiling-rock-mineral-surfaces-gadd]], occupying
 the pore spaces, fractures, and boundaries between mineral grains. The
 endolithic lifestyle includes several subcategories: euendoliths actively bore
 into rock, chasmoendoliths colonize pre-existing cracks and crevices, and
@@ -65,7 +65,7 @@ fascinating symbiotic relationships.
 Endolithic [[query-how-do-fungi-contribute-to-carbon-sequestration]] to rock weathering through both mechanical and
 biochemical processes. Mechanical weathering occurs through hyphal penetration
 into rock pores and along mineral grain boundaries, physically disrupting the
-substrate. Biochemical weathering involves the production of organic acids,
+substrate. [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]] involves the production of organic acids,
 including oxalic acid, which can dissolve carbonate minerals and chelate metal
 cations from silicate minerals.
 
@@ -73,13 +73,13 @@ The combination of these mechanisms makes endolithic fungi important agents of
 biological weathering and pedogenesis. Over geological time scales, their
 activity contributes significantly to the transformation of rock into soil,
 particularly in extreme environments where higher organisms are absent. Their
-role in soil development connects them to broader themes in [[biodiversity-fungi-soil-fungal-communities|biodiversity of fungi in soil ecosystems]].
+role in soil development connects them to broader themes in [[biodiversity-fungi-soil-fungal-communities]].
 
 ## Terrestrial Endolithic Fungi
 
 In terrestrial environments, endolithic fungi colonize diverse rock types
 including limestone, sandstone, granite, and volcanic rocks. In desert
-environments, endolithic microbial communities, often dominated by fungi, algae,
+environments, endolithic [[cannabis-rhizosphere-microbial-communities]], often dominated by fungi, algae,
 and cyanobacteria, represent one of the few life forms capable of persisting
 within rock surfaces. These communities are found several millimeters below the
 rock surface, where they are protected from extreme temperature fluctuations
@@ -87,23 +87,4 @@ and ultraviolet radiation.
 
 Species from multiple orders of Ascomycota and some Basidiomycota have been
 documented as endoliths, reflecting the broad phylogenetic diversity of fungi
-capable of this lifestyle. Molecular methods are revealing diversity far
-greater than culture-based studies suggest, as discussed in
-[[cryptic-species-fungal-biodiversity]].
-
-## Research Challenges and Significance
-
-Endolithic fungi are difficult to study because their habitat is opaque and
-sampling requires destructive techniques. Understanding these organisms is
-important for conservation of rock art and building stone, for understanding
-the earliest stages of soil formation, and for astrobiological research into
-the limits of life on Earth and potentially other planets. Their study also
-informs [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]] by
-expanding our knowledge of fungal adaptations to extreme conditions.
-
-## See Also
-
-- [[biodiversity-lichenized-fungi-symbiosis]]
-- [[biodiversity-fungi-soil-fungal-communities|biodiversity of fungi in soil ecosystems]]
-- [[cryptic-species-fungal-biodiversity]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
+capable of this lifestyle. [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] are revealing diversity far

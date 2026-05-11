@@ -87,31 +87,3 @@ Bone fractures are generally classified as closed or open (compound) fractures. 
 The Cannabis Health Index (CHI) rates the evidence for cannabis in fracture healing at a combined CHI value of 9, based on 4 studies reviewed. While the evidence base is modest, recent findings about CBD's role in bone healing are particularly significant.
 
 ## CBD and Fracture Healing
-
-A landmark 2015 study by an international team of researchers from Israel, Switzerland, and Sweden, published in the Journal of Bone and Mineral Research, discovered that CBD has the capacity to make fractured bones stronger while they heal. CBD works by enhancing the maturation of the collagenous matrix, which provides the basis for new mineralization of bone tissue.
-
-This means CBD not only strengthens fracture sites and makes them harder to break in the future, but also speeds the healing process itself. This dual action of strengthening and accelerating healing is unique among known bone healing agents.
-
-## Bone Density and Remodeling
-
-A 2009 study from the Bone Laboratory at the Hebrew University of Jerusalem showed that THC maintains bone remodeling and protects against age-related bone loss. A 2006 study from the same laboratory found that diminished endocannabinoid receptors increase bone loss, confirming the endocannabinoid system's direct role in bone health.
-
-A German study (2005) from the University of Bonn discovered that cannabinoids binding with CB1 and CB2 receptors regulate osteoclast (cells that remove bone tissue) activity and bone mineral density. This regulation of bone remodeling is relevant to both fracture vulnerability and healing capacity.
-
-## Conventional Fracture Treatment Challenges
-
-In the orthodox medical paradigm, a completely fractured bone is set and placed into a semi-permanent cast for 3 to 10 weeks. A University of Maryland study (2014) of over 200 pediatric patients discovered that 93 percent of kids with fractures had iatrogenic complications arising from semi-permanent casts, including swelling, skin breakdown, and poor healing due to inappropriate immobilization.
-
-Certain conditions such as osteoporosis, bone cancer, or brittle bone disease increase vulnerability to fractures. Long-term smokers are more vulnerable and can take up to twice as long to heal as non-smoking patients with the same injury.
-
-## Endocannabinoid System in Bone
-
-The endocannabinoid system plays a direct role in bone metabolism through CB1 receptors on bone-forming osteoblasts and CB2 receptors on bone-resorbing osteoclasts. CB1 activation stimulates bone formation while CB2 activation inhibits excessive bone resorption.
-
-This dual mechanism means the endocannabinoid system can simultaneously support new bone formation and prevent excessive bone loss, both of which are relevant to fracture healing and recovery of bone strength.
-
-## CBD's Unique Mechanism
-
-CBD's ability to enhance collagenous matrix maturation is distinct from its effects on cannabinoid receptors. The collagenous matrix serves as the scaffold for mineral deposition in healing bone. By improving the quality of this scaffold, CBD may produce bones that are structurally superior to those healed without cannabinoid support.
-
-This collagen-enhancing property appears to be relatively unique to CBD and may represent a novel mechanism for improving fracture outcomes that is not shared by conventional bone healing treatments.

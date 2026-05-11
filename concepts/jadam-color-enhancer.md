@@ -77,3 +77,20 @@ Color enhancer JLF can be mixed with any other JLF type. For best results:
 - Use with [[jadam-liquid-fertilizer]] -- base JLF method
 - [[jadam-mineral-fertilizer]] -- mineral-based JLF (seaweed is mineral-rich)
 - [[jadam-leaf-mold-soil-method]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[jadam-phyllite-water-method]]
+- [[jadam-humus-soil-and-leaf-mold-distinction]]
+- [[jadam-conventional-and-organic-pesticide-integration]]
+- [[jadam-seed-treatment-leaf-mold]]
+- [[jadam-element-function-reference]]

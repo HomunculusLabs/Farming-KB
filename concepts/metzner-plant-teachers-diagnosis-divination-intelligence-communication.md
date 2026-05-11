@@ -4,12 +4,12 @@
 A central concept in indigenous shamanic traditions involving entheogenic plants
 is that the plants themselves are teachers—that they possess an intelligence
 that communicates in an interior way to the person who ingests them. In his
-1998 comparative study, Ralph Metzner identifies the role of "plant teachers"
+1998 comparative study, [[ralph-metzner]] identifies the role of "plant teachers"
 as one of the five common features found across shamanistic indigenous
 societies' experiences with hallucinogenic plants. Indigenous healers refer to
 the entheogenic plants as "plant teachers" (doctores, maestros, profesores in
 Spanish-language traditions), a designation that reflects the fundamentally
-pedagogical nature of the relationship between humans and psychoactive flora.
+pedagogical nature of the relationship between humans [[entheogenic-plants-and-psychoactive-flora]].
 The plant does not merely produce effects upon the person; it actively
 communicates information, guidance, and knowledge.
 
@@ -26,7 +26,7 @@ treatment, or broader cosmological and philosophical insights.
 
 ### Contrast with the Pharmaceutical Model
 The concept of plant teachers stands in stark contrast to the Western
-pharmaceutical model, in which psychoactive substances are understood as
+pharmaceutical model, in which [[cultural-evolution-and-psychoactive-substances]] are understood as
 chemicals that act upon the brain's receptor sites to produce predictable
 pharmacological effects. In the pharmaceutical model, the drug is inert—it has
 no intention, no agency, and nothing to communicate. In the shamanic model,
@@ -88,58 +88,3 @@ ingesting it repeatedly over a period of weeks or months while following
 specific dietary and behavioral restrictions. This practice is understood as
 a way of building a relationship with the plant's spirit and receiving its
 teachings. The diet period often culminates in a deeper level of knowledge or
-ability that the plant has imparted to the practitioner.
-
-## Cross-Cultural Parallels
-
-### Mazatec Mushroom Veladas
-Among the Mazatec Indians of Mexico, the psilocybin-containing mushrooms are
-addressed as sacred beings and are treated with great respect. The healer
-sings to the mushrooms throughout the ceremony, invoking their assistance and
-guidance. The mushrooms are understood to communicate their teachings through
-the visions and experiences of the participants, who receive guidance about
-healing, morality, and the nature of reality.
-
-### Huichol Peyote Pilgrimage
-The Huichol people's relationship with peyote is similarly pedagogical. The
-long pilgrimage to Wirikuta to find the sacred cactus is understood as an
-educational journey in which the peyote teaches the pilgrims about creation,
-cosmology, and their place in the [[fukuoka-textdoc-natural-order-food-chain-unity]]. The singing and storytelling
-that accompany the peyote ceremony are understood as transmissions of the
-cactus's wisdom.
-
-### Bwiti Iboga Initiation
-Among the Fang people of Gabon and Zaire, iboga is used in initiation
-ceremonies in which the initiate's "head is opened up," after which they are
-able to converse with their ancestor spirits. The iboga plant is understood as
-a teacher that facilitates communication between the living and the dead,
-providing access to ancestral knowledge and guidance.
-
-## Implications for Modern Therapeutic Practice
-
-### The Amplifier Analogy Revisited
-The "amplifier analogy" used in Western [[metzner-psychedelic-psychotherapy-clinical-history]]—that the
-drug functions as a nonspecific amplifier of psychic contents—is compatible
-with the plant teacher concept but does not fully capture it. The plant teacher
-concept adds an agentic dimension: the plant is not merely amplifying what is
-already in the person's mind but is actively contributing information from its
-own perspective. The shamanic model thus suggests a more participatory and
-dialogical understanding of the [[leary-psychedelic-experience-bardo-mapping]] than the Western
-pharmacological model typically allows.
-
-### The Microscope Metaphor
-Metzner also notes the "microscope metaphor"—the idea that psychedelics could
-play the same role in psychology as the microscope does in biology, opening up
-realms and processes of the human mind that have hitherto been largely hidden
-or inaccessible. The plant teacher concept enriches this metaphor by suggesting
-that what is revealed through the "microscope" is not merely the contents of
-the individual psyche but also the presence and communications of nonhuman
-intelligences.
-
-## See Also
-- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
-- metzner-huichol-wirikuta-pilgrimage-and-peyote-ceremony-structure
-- metzner-bwiti-iboga-mirror-initiation-and-ancestor-communication
-- [[psychedelic-psychotherapy]]
-- [[ralph-metzner]]
-- [[peyote-ceremony]]

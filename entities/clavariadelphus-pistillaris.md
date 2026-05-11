@@ -59,7 +59,7 @@ No psychoactive or toxic compounds have been reported from this species.
 - **Habitat loss:** Logging and forest conversion reduce available mature coniferous habitat.
 - **Air pollution:** [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and acid rain negatively impact [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities.
 - **[[dighton-fungi-climate-change-feedback]]:** Warming temperatures and altered precipitation patterns may shift suitable habitat northward and to higher elevations.
-- **Soil disturbance:** Compaction and disruption of [[amanita-muscaria-entity]]
+- **Soil disturbance:** Compaction and disruption of [[amanita-muscaria]]
 
 - [[mushroom-cultivation-basics]]
 ## Practical Considerations

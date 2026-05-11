@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Critique of Organic Certification
@@ -87,9 +88,3 @@ Fukuoka argued that advances from organic gardening to natural farming "are like
 ## See Also
 
 - [[fukuoka-philosophy-of-non-intervention]]
-
-- [[organic-pest-and-disease-management]]
-
-- [[soil-food-web-nutrient-cycling]]
-
-- [[fukuoka-critique-organic-farming-ecology]]

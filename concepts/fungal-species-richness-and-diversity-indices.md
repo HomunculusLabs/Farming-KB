@@ -1,5 +1,5 @@
 ---
-title: Fungal Species fungal species richness and diversity indices Indices
+title: Fungal Species Richness And Diversity Indices
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Fungal Species Richness and Diversity Indices
 Assessing patterns of [[biodiversity-fungal-biodiversity-estimation-methods]] requires analytical approaches
-grounded in current methodologies of sampling design that account for
+grounded in current methodologies of [[macrofungal-sampling-design-plots-transects]] that account for
 effects of scale on patterns of biodiversity. The parameters that define
 a community and that are important for assessing biodiversity include
 species composition, types and intensities of interspecific interactions,
@@ -18,7 +18,7 @@ Most fungi consist of filaments (hyphae) forming mycelia capable of
 essentially unlimited growth. This indeterminate body structure differs
 significantly from most animals and plants, making the definition of an
 "individual" problematic. Sporocarps of one basidiomycete species on a
-forest floor can represent multiple ramets of a single genet or ramets
+[[fungal-ecology-forest-floor]] can represent multiple ramets of a single genet or ramets
 from multiple genets. Only molecular or isozymic analyses can untangle
 genetic structure. A clearly stated operational definition of "individual"
 relevant to the taxon of interest must be provided to facilitate
@@ -75,7 +75,7 @@ metrics use presence-absence data:
 - **Cody:** bc = [g(H) + l(H)]/2
 - **Routledge measures:** br, bI, bE
 ## Resemblance Functions
-Similarity indices quantify differences in species composition among
+[[fungal-beta-diversity-similarity-indices-zak-willig]] quantify differences in species composition among
 sites:
 - **Dice:** DI = 2j/(2j + a + b)
 - **Jaccard:** JI = j/(a + b - j)
@@ -88,30 +88,3 @@ method using arithmetic averages (UPGMA) provides a good starting
 point. The cophenetic correlation coefficient quantifies how well the
 dendrogram represents the multidimensional relationship among sites.
 ## Ordination Methods
-Ordination techniques arrange sampling units in a low-dimensional space
-to reveal patterns in [[core-endorhiza-bacterial-community-composition-cannabis]]. Principal Coordinates
-Analysis (PCoA) and Non-metric Multidimensional Scaling (NMDS) are
-widely used for fungal community data. NMDS is particularly popular
-because it accommodates non-linear species responses and various
-distance or dissimilarity measures. The stress value indicates goodness
-of fit, with values below 0.2 generally considered acceptable for
-ecological interpretation of fungal [[edaphic-determinants-cannabis-microbiome-community-structure]].
-## Power Analysis
-Power analysis is crucial for [[cannabis-microbiome-experimental-design]], helping to evaluate
-relationships among sample sizes, effect magnitudes, variance,
-significance levels, and statistical power. It is particularly
-important for interpreting nonsignificant results in fungal biodiversity
-studies.
-## Metabarcoding and Molecular Diversity
-The advent of high-throughput DNA sequencing has transformed fungal
-[[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]. Environmental DNA metabarcoding using ITS primers
-reveals cryptic diversity invisible to traditional fruiting body
-surveys. However, molecular methods introduce new challenges including
-primer bias, copy number variation, and the inability to distinguish
-viable from dead biomass. Integrating morphological and molecular
-approaches provides the most comprehensive [[monitoring-and-assessment-of-fungal-bioremediation]]
-community diversity.
-## Related
-- [[biodiversity-fungal-species-abundance-diversity]]
-- [[fungal-diversity-indices-community-analysis]]
-- [[fungal-beta-diversity-species-turnover]]

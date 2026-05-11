@@ -17,7 +17,7 @@ suspension method using pipettes or syringes for inoculating [[growing-gourmet-a
 All it takes is one mushroom or a few spores to develop a culture that
 will continue producing as much psilocybin as desired for years to come.
 Gottlieb notes that any part of the fungus can be used for inoculation,
-including spores or tissue from the carpophores (fruiting bodies).
+including spores or tissue from the carpophores ([[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]).
 
 ## Spore Print Collection
 
@@ -38,10 +38,10 @@ including spores or tissue from the carpophores (fruiting bodies).
    - Slides: place two face-to-face, seal edges with tape.
    - Paper: fold several times so the print is well inside.
 
-A single cap contains millions of spores. Spore prints serve multiple
+A single cap contains millions of spores. [[macrofungal-documentation-photography-spore-prints]] serve multiple
 purposes: identification (observing spore color or microscopic shape under
    and exchange between cultivators via correspondence clubs, and
-germination on agar media for culture establishment. Mycological
+germination on [[growing-gourmet-agar-media-formulation-guide]] for culture establishment. Mycological
 identification keys include descriptions of spore print colors and
 microscopic spore features for species verification.
 
@@ -82,43 +82,9 @@ Gottlieb describes preparing a spore suspension for inoculating agar:
 
 - Spores germinate in 3-5 days at room temperature as monokaryotic mycelial
   growth (radial growths visible at each inoculation point).
-- Monokaryotic mycelium from a single spore will grow for a while but will
+- Monokaryotic mycelium from a [[single-spore-isolation-and-monokaryon-culture]] will grow for a while but will
   eventually perish unless it mates with a compatible monokaryon.
 - When two compatible mycelial colonies grow into contact with each other,
   somatogamy (mating) occurs and the united mycelium becomes dikaryotic
   within a few days.
 - Any portion of the resulting dikaryotic mycelial tissue can then be used
-  to seed new cultures for broth cultivation.
-
-## Alternative: Tissue Culture Inoculation
-
-Since mature mushroom tissue is already dikaryotic, tissue culture bypasses
-the mating step entirely and provides a faster path to a viable culture:
-
-1. Place cap gills-down on a clean work area at least three feet from any
-   equipment (per pure culture technique).
-2. Wipe all dirt and slime from the cap with a Q-tip.
-3. Swab the entire cap surface with a 7% iodine solution for surface
-   sterilization.
-4. Pin the cap to the table with three dissecting needles placed at
-   equilateral points.
-5. Flame-sterilize an X-acto blade, let it cool for a moment.
-6. Carve away the outer skin of the mushroom with the blade.
-7. Cut tiny pieces of inner flesh, each the size of a match head.
-8. Spear each piece with the blade point.
-9. Lift the petri dish lid slightly, press the tissue firmly into the agar
-   surface, and close the lid immediately.
-10. Incubate all inoculated dishes at room temperature.
-
-The mycelium needs oxygen as it grows, so do not cap lids too tightly.
-Radial [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] appears in 3-5 days. Select the most vigorous
-appearing mycelia (largest, fastest-growing, uncontaminated) for transfer
-to broth jars. Stock cultures not used immediately can be refrigerated
-(tightened lids) for about one year.
-
-## See Also
-
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- psilocybin-mushroom-spore-print-identification
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]

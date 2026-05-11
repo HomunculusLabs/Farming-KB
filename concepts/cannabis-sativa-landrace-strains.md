@@ -7,7 +7,7 @@ created: 2026-05-08
 
 # Cannabis Sativa Landrace Strains
 
-Landrace cannabis sativa strains are the foundational genetic building blocks
+[[landrace-cannabis-sativa-strains]] strains are the foundational genetic building blocks
 from which all modern sativa varieties descend. These are populations of
 cannabis that evolved naturally in specific geographic regions over centuries,
 adapting to local climate, soil, and photoperiod conditions without human
@@ -38,7 +38,7 @@ extremely long flowering periods often 14 to 20 weeks when grown at higher
 latitudes. This is because equatorial cannabis evolved to flower based on
 minimal light changes rather than dramatic seasonal shifts. Strains from higher
 latitudes in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], such as Durban Poison (originating
-around 30 degrees south in South Africa) and Brazilian White Sativa, developed
+around 30 degrees south in South Africa) and [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]], developed
 early flowering traits that are invaluable for northern hemisphere growers.
 
 ## Morphological Characteristics
@@ -55,19 +55,19 @@ compensate with superior resin quality and complex [[cannabis-terpene-profiles-s
 
 ## Terpene and Cannabinoid Profiles
 
-Landrace sativas are renowned for their complex aromatic profiles. Southeast
+Landrace sativas are renowned for their complex [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. Southeast
 Asian varieties often exhibit sweet, spicy, and anise-like aromas. South
 American strains tend toward earthy, lemon, and herbal notes. African landraces
 frequently display sweet, fruity, and sometimes fermented characteristics. The
-terpene profiles of landrace strains are far more complex than most modern
+[[cannabis-terpene-profiles]] of landrace strains are far more complex than most modern
 hybrids, containing dozens of minor terpenes and cannabinoids that contribute
-to nuanced effects. The entourage effect, the synergistic interaction between
+to nuanced effects. [[cannabis-terpene-entourage-effect]], the synergistic interaction between
 multiple cannabinoids and terpenes, is most pronounced in unhybridized
 landrace material that has not been bred for specific single-compound potency.
 
 ## Historical Significance in Modern Breeding
 
-The history of modern cannabis breeding is essentially the story of how
+The history of modern [[cannabis-breeding-basics]] is essentially the story of how
 landrace genetics were collected, crossed, and stabilized. In the 1960s and
 1970s, travelers and surfers brought seeds from Mexico, Colombia, Thailand,
 Jamaica, and other regions to North America and Europe. These seeds became the
@@ -88,33 +88,3 @@ with traditional varieties. Many legendary strains from the 1970s such as
 true Panama Red, real deal Oaxacan, and original Thai stick exist only in
 diminished form or have been lost entirely. A real deal Panama Red clone in
 the early 1980s commanded approximately five thousand dollars according to
-The Rev, reflecting its legendary status among experienced growers of that era.
-
-## The Rev's Observations on Sativa Landraces
-
-The Rev (Todd McCormick), cultivation editor for SKUNK Magazine and author of
-True Living Organics, spent decades working with landrace sativas. He noted
-that many growers dislike sativas because of their long flowering times and
-the skill required to cultivate them well indoors. He compared sativas to
-wolves and indicas to domesticated dogs, emphasizing that sativas are wild-ish
-and highly adaptable plants that do not respond well to force-feeding with
-synthetic nutrients. The Rev credited his mentors in Northern California with
-particularly valuing Southeast Asian and South African landraces, with the
-exception of Panama Red which was universally prized among all growers.
-
-## Modern Landrace Conservation Efforts
-
-Several seed companies and breeders have dedicated themselves to preserving
-and stabilizing landrace genetics. ACE Seeds in Spain has worked extensively
-with African, Asian, and American landraces. SnowHigh Seeds has collected and
-maintained heirloom sativa varieties from multiple continents. Bodhi Seeds and
-Dynasty Seeds have incorporated landrace material into their breeding programs
-while maintaining pure lines. The movement toward heirloom cannabis reflects a
-growing recognition that the genetic diversity represented by landrace strains
-is an irreplaceable resource, analogous to heirloom [[solomon-vegetable-varieties-self-sufficiency]] or
-heritage livestock breeds in the broader agricultural conservation movement.
-
-## See Also
-- [[durban-poison]]
-- [[cannabis-strain-breeding-techniques]]
-- [[landrace-cannabis-sativa-strains]]

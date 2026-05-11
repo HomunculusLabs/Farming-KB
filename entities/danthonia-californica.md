@@ -11,8 +11,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Hickman, J.C. (1993). "The Jepson Manual: Higher Plants of California." University of California Press.
-  - Barkworth, M.E. et al. (2007). "Flora of North America Vol. 24: Poaceae." Oxford University Press.
-  - Thorp, J.K. & Hatch, S.L. (2002). "Field Guide to the Grasses of Texas." Texas A&M University Press.
+  - Barkworth, M.E. et al. (2007). "Flora [[berry-growing]] Vol. 24: Poaceae." Oxford University Press.
+  - Thorp, J.K. & Hatch, S.L. (2002). "[[field-guide-psilocybin-bluing-reaction-identification]] to the Grasses of Texas." Texas A&M University Press.
   - Burcham, L.T. (1957). "California Range Grasses." California Division of Forestry.
   - George, M.R. et al. (2013). "Annual Grassland Productivity in California." Rangeland Ecology & Management 66(3): 300-307.
 ---
@@ -25,7 +25,7 @@ It is native to western North America, ranging from British Columbia south throu
 
 The species is an important component of native grasslands, oak savannas, and coastal prairies throughout its range.
 
-California oatgrass is recognized as a high-quality forage species and a key native grass for ecological restoration projects.
+California oatgrass is recognized as a high-quality forage species and a key native grass for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
 ## Taxonomy and Morphology
 
@@ -77,7 +77,7 @@ It occurs on soils derived from a range of parent materials including serpentine
 
 The species is adapted to Mediterranean climate regimes with cool, wet winters and warm, dry summers.
 
-It persists under moderate grazing pressure and is one of the native perennials that can compete with invasive annual grasses in some California grassland settings.
+It persists under moderate [[gadd-mycelial-network-resilience-grazing-pressure]] and is one of the native perennials that can compete with invasive annual grasses in some California grassland settings.
 
 ## Cultivation and Uses
 
@@ -85,53 +85,6 @@ California oatgrass is highly regarded as a forage species for livestock and wil
 
 It greens up early in spring, providing high-quality, palatable forage at a time when many other grasses are just beginning growth.
 
-Nutritional analysis indicates moderate to high crude protein content, especially during the early growing season.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] indicates moderate to high crude protein content, especially during the early [[extending-growing-season]].
 
 The species maintains good forage quality into early summer, though palatability declines as plants mature and become coarse.
-
-It is relished by cattle, horses, and elk, and is considered one of the most palatable native grasses in western rangelands.
-
-Deer and other wildlife species also browse California oatgrass where it occurs in native habitats.
-
-In ecological restoration, Danthonia californica is a key species for re-establishing native perennial grassland communities.
-
-It is widely used in prairie and oak savanna restoration projects in Oregon and California.
-
-Seed is commercially available from native seed producers, though establishment from seed can be slow compared to introduced pasture species.
-
-Successful establishment typically requires site preparation including weed control, and one to two growing seasons for full stand development.
-
-Once established, plants are long-lived and relatively drought-tolerant, persisting in grazed and ungrazed conditions.
-
-The species has limited use in ornamental horticulture but is occasionally planted in native meadow gardens and ecological landscapes.
-
-## Ecology
-
-Danthonia californica plays an important ecological role in Pacific coast grassland ecosystems.
-
-It contributes to soil stabilization on slopes and in areas subject to seasonal flooding.
-
-The dense, fibrous root system extends 30 to 60 centimeters deep, improving soil structure and water infiltration.
-
-California oatgrass provides habitat and forage for a range of invertebrate species including grasshoppers, leafhoppers, and spittlebugs.
-
-Several species of butterflies and moths use Danthonia as a larval host plant.
-
-The seeds are consumed by granivorous birds including sparrows, juncos, and finches.
-
-In native grasslands, California oatgrass often co-occurs with species such as *Festuca idahoensis*, *Elymus glaucus*, *Koeleria macrantha*, and *Sporobolus heterolepis*.
-
-It is considered a fire-resilient species, resprouting from the base after low-intensity burns in grassland and oak woodland habitats.
-
-Prescribed burning has been used to maintain California oatgrass stands and reduce competition from invasive annual grasses.
-
-## See Also
-
-- [[danthonia-spicata]]
-- [[festuca-ovina]]
-- [[koeleria-macrantha]]
-- [[elymus-canadensis]]
-- [[panicum-virgatum]]
-- [[andropogon-gerardii]]
-- [[bromus-inermis]]
-- [[deschampsia-caespitosa]]

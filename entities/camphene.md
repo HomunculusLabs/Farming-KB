@@ -49,13 +49,13 @@ Camphene is structurally related to α-pinene, differing in the position of the 
 
 Camphene is a common constituent of conifer-derived essential oils and is widely distributed across the plant kingdom.
 
-**Coniferous trees** are the most abundant natural source. Camphene is found in the oleoresin and needle oil of species including Douglas fir (Pseudotsuga menziesii), Scots pine (Pinus sylvestris), Norway spruce (Picea abies), and various Abies and Tsuga species. In these oils, camphene typically constitutes 5–20% of the monoterpene fraction.
+**Coniferous trees** are the most abundant natural source. Camphene is found in the oleoresin and needle oil of species including Douglas fir ([[pseudotsuga-menziesii]]), Scots pine (Pinus sylvestris), Norway spruce (Picea abies), and various Abies and Tsuga species. In these oils, camphene typically constitutes 5–20% of the monoterpene fraction.
 
 **Cannabis sativa** produces camphene as a secondary monoterpene. It is found in virtually all cannabis chemovars but is most prominent in cultivars with piney, earthy, or woody aroma profiles. Strains expressing high myrcene and pinene tend to also contain elevated camphene levels.
 
-**Culinary and medicinal herbs** containing camphene include cypress (Cupressus sempervirens), nutmeg (Myristica fragrans), ginger (Zingiber officinale), black pepper (Piper nigrum), bergamot (Citrus bergamia), and holy basil (Ocimum tenuiflorum).
+**Culinary and medicinal herbs** containing camphene include cypress ([[cupressus-sempervirens]]), nutmeg ([[myristica-fragrans]]), ginger ([[zingiber-officinale]]), black pepper (Piper nigrum), bergamot (Citrus bergamia), and holy basil (Ocimum tenuiflorum).
 
-**Other sources** include camphor tree (Cinnamomum camphora), citronella (Cymbopogon winterianus), and valerian (Valeriana officinalis) root oil. Camphene is a minor component in many commercially important essential oils used in aromatherapy and fragrance production.
+**Other sources** include camphor tree ([[cinnamomum-camphora]]), citronella ([[cymbopogon-winterianus]]), and valerian (Valeriana officinalis) root oil. Camphene is a minor component in many commercially important essential oils used in aromatherapy and fragrance production.
 
 ## Pharmacology and Biological Activity
 
@@ -88,32 +88,3 @@ It is used in the production of synthetic camphor, flavor additives, and fragran
 The compound is employed as a food flavoring agent in small quantities, contributing earthy-pine notes to food products. It is listed on the FDA GRAS (Generally Recognized As Safe) registry for use as a flavoring substance.
 
 In traditional medicine, camphene-rich essential oils (particularly cypress and fir needle oils) have been used as expectorants, respiratory decongestants, and mild analgesics in topical rubs and inhalation preparations.
-
-## Safety and Regulatory Status
-
-Camphene has a well-established [[cannabis-safety-profile-and-overdose-risk]] for its common applications, though specific safety data is less extensive than for more widely studied terpenes like limonene and linalool.
-
-Acute toxicity is low, with oral LD₅₀ values in rodents exceeding 5 g/kg. Camphene is not classified as mutagenic, carcinogenic, or teratogenic based on available in vitro and in vivo data. Skin irritation potential is minimal at concentrations used in cosmetics and topical preparations.
-
-The primary safety concern is respiratory irritation from inhalation of concentrated camphene vapor. This is relevant primarily in occupational settings involving large quantities of conifer essential oils or in aromatherapy diffuser use in poorly ventilated spaces.
-
-**Regulatory status:** Camphene is approved as a food flavoring agent by the FDA (GRAS list) and by the European Food Safety Authority (EFSA). It is registered with the European Chemicals Agency (ECHA) under REACH regulations. Maximum permitted concentrations in cosmetics vary by jurisdiction but are generally 0.1–1.0% for leave-on products.
-
-## Similar Terpenes
-
-Camphene is structurally and functionally related to several other monoterpenes found in cannabis and essential oils.
-
-**α-Pinene** is the closest structural relative, sharing the bicyclic framework. Both contribute piney aromas and exhibit bronchodilatory and anti-inflammatory effects. Pinene is generally more abundant in cannabis than camphene.
-
-**Bornyl acetate** (a camphene derivative ester) shares the same bicyclic skeleton and is found in similar [[dmt-botanical-sources-pharmacology]]. It contributes balsamic-woody notes to essential oils and has its own anti-inflammatory profile.
-
-**Sabinene** is a structural isomer with similar woody-spicy aroma characteristics. It is more commonly associated with black pepper and juniper berry oils.
-
-## See Also
-
-- pinene
-- [[limonene]]
-- [[linalool]]
-- [[ocimene]]
-- [[valeriana-officinalis]]
-- [[piper-nigrum-entity]]

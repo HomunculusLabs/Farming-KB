@@ -89,53 +89,6 @@ including at least one aspartic protease and one cysteine protease, as well as
 phosphatases and ribonucleases. Digestive fluid pH is moderately acidic at
 approximately 3.5–4.5.
 
-The lid (operculum) does not close over the pitcher opening but serves as a
-landing platform and prevents excess rainwater from diluting the digestive
-fluid. This adaptation is particularly important given the species' wet winter
-habitat.
-
-## Ecology and Conservation
-
-*Cephalotus* supports a small inquiline community within its pitchers. Larvae
-of the non-biting midge *Metriocnemus* and various mite species have been
-documented as inhabitants. The extent of mutualistic decomposition is less
-studied than in *Darlingtonia* or *Sarracenia*.
-
-The species is pollinated primarily by small Diptera. [[cervantes-seed-production-storage]] is
-moderate, and germination in the wild occurs during the wet winter months.
-Vegetative propagation through stolons and root division also occurs naturally.
-
-Conservation status is currently listed as Least Concern by IUCN, though
-habitat loss from urban development and agriculture around Albany is an
-ongoing concern. The species is protected under Western Australian state law.
-Illegal wild collection for the horticultural trade has impacted some populations.
-
-## Cultivation
-
-*Cephalotus* is widely cultivated but has a reputation for being finicky.
-Plants are sensitive to root disturbance and can decline rapidly if
-overwatered, underwatered, or exposed to excessive heat without humidity.
-
-A well-draining substrate of sphagnum peat mixed with sand or perlite at 1:1
-is standard. The tray method works if drainage is adequate — the plant should
-never sit in water deeper than 1 cm. Some growers prefer top-watering to
-prevent waterlogging.
-
-Optimal temperatures range from 15–25°C during the [[savory-growing-season-and-non-growing-season-management]]. The species
-can tolerate brief periods above 30°C if humidity is maintained above 60%.
-A winter rest period with cooler temperatures (5–12°C) and reduced watering
-is beneficial but not strictly required.
-
-Propagation from seed is slow, requiring 6–12 weeks for germination. Leaf
-cuttings are the preferred vegetative method: a healthy pitcher leaf removed
-with a small heel of rhizome tissue will produce plantlets in 2–6 months
-under high humidity. Root division is possible but risks killing the parent
-plant.
-
 ## See Also
-
-- [[sarracenia-purpurea]]
-- [[dionaea-muscipula]]
-- [[drosera-rotundifolia]]
-- [[pinguicula-vulgaris]]
-- [[myrica-gale]]
+- [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
+- [[endophytic-fungi-hidden-symbionts-within-plants]]

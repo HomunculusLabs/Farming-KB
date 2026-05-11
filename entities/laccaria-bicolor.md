@@ -88,15 +88,3 @@ dynamics.
   compared to other mycorrhizal species
 
 ## Relevance
-Laccaria bicolor is a commercially important ectomycorrhizal fungus used
-in forestry inoculants worldwide. Its broad host range and biocontrol
-properties make it valuable for sustainable forestry and reforestation
-projects. In permaculture, it represents a model organism for understanding
-how mycorrhizal associations can reduce dependency on chemical pesticides
-and fertilizers in [[mollison-tree-crop-systems-permaculture]] systems.
-
-## See Also
-
-- [[paxillus-involutus]]
-- [[suillus-granulatus]]
-- [[cenococcum-geophilum]]

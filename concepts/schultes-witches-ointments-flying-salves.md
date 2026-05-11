@@ -1,7 +1,7 @@
 ---
 title: "schultes witches ointments flying salves and Flying Salves"
 created: 2026-04-28
-tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval, tropane, scopolamine]
+tags: [ethnobotany, witches-ointment, flying-salve, solanaceae, europe, medieval, tropane, [[scopolamine]]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md]
@@ -22,14 +22,14 @@ notorious witches' sabbat.
 
 The primary ingredients of witches' ointments were four plants of the
 Nightshade family (Solanaceae): Henbane (*[[henbane-hyoscyamus-niger-ethnobotany]]* and *H.
-albus*), Belladonna or Deadly Nightshade (*[[plants-of-the-gods-nightshade-hexing-herbs]],
+albus*), Belladonna or [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] (*[[plants-of-the-gods-nightshade-hexing-herbs]],
 [[schultes-mandrake-mandragora-officinarum]].
 
 The difference in effects among these plants is only one of relative
 concentration of their active alkaloids. Belladonna contains little
 scopolamine, but this alkaloid is the main component of Mandrake and
-especially of Henbane. It is apparently scopolamine, not atropine or
-hyoscyamine, that produces the hallucinogenic effects.
+especially of Henbane. It is apparently scopolamine, not [[atropine]] or
+[[hyoscyamine]], that produces the hallucinogenic effects.
 
 ## Preparation and Application
 
@@ -88,30 +88,3 @@ experience involves a complete dissolution of normal consciousness.
 These properties -- amnesia, toxicity, and delirium -- are
 characteristic of tropane alkaloid intoxication and distinguish the
 European witches' plants from the tryptamine-based and
-beta-carboline-based hallucinogens of the Americas.
-
-The witch's broomstick, one of the most enduring symbols of European
-witchcraft, may have originated as a practical applicator for the
-psychoactive ointments. The association of broomsticks with witches'
-flight thus has a concrete ethnopharmacological basis, linking one of
-the most familiar elements of Western folklore directly to the
-pharmacological properties of solanaceous plants.
-
-## Historical Persecution
-
-"Witches" persecuted during the Inquisition were often accused of
-using hallucinogenic plants of the Nightshade family, in particular
-Henbane and Mandrake. For this, many were tortured, murdered, and
-burned. The use of these plants as evidence of supernatural commerce
-represents one of the great tragedies of European history, in which
-ethnobotanical knowledge was criminalized and its practitioners
-persecuted under the guise of religious orthodoxy.
-
-The persecution of supposed witches was most intense between the
-fifteenth and seventeenth centuries, coinciding with the period when
-knowledge of these psychoactive plants was most widespread among rural
-populations. Folk healers, midwives, and herbalists -- predominantly
-women -- who possessed knowledge of the solanaceous plants' properties
-were particularly vulnerable to accusation. The demonization of plant
-knowledge effectively suppressed centuries of European ethnopharmacology
-and drove the practice of [[herbal-medicine]] underground for generations.

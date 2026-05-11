@@ -21,13 +21,13 @@ industrial enzymes, and bioremediation cocktails.
 
 ## The Enzymatic Arsenal of Fungi
 
-Fungi produce and secrete many types of extracellular enzymes,
+Fungi produce and secrete many types of [[fungal-extracellular-enzymes]],
 including [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], laccases,
 amylases, and cellulases. These enzymes function as "chemical
 scissors" that cleave the bonds of large molecules such as lignin
 embedded in woody plant tissue. As the mushroom's enzymes break
-down its growing substrate, smaller essential chemical units
-including carbon, organic nitrogen, minerals, and trace elements
+down its [[cervantes-rockwool-growing-substrate]], smaller essential chemical units
+including carbon, organic nitrogen, minerals, [[teaming-with-nutrients-micronutrients-and-trace-elements]]
 are released and transported through the fungal cell walls.
 
 Fungi vary in their ability to produce cellulases, ligninases,
@@ -35,15 +35,15 @@ peroxidases, and laccases, all used in combination to decompose
 woody plant material: primarily lignin, cellulose, and
 hemicellulose. White rot species are highly effective at breaking
 down lignin and complex polymers architecturally similar to lignin,
-including many chlorinated compounds. Brown rot fungi tend to be
+including many [[singh-fungal-degradation-of-chlorinated-compounds]]. Brown rot fungi tend to be
 more aggressive in breaking down cellulose.
 
 ## Eliciting Novel Metabolites from Fungal Biomass
 
 Understanding that fungi retool [[ligninolytic-enzyme-production-bioremediation]] in response to
-environmental triggers, researchers can construct enzyme
+[[fungal-fruiting-body-formation-environmental-triggers]], researchers can construct enzyme
 production units. The process begins with simple laboratory plating
-techniques: positioning a wedge of mushroom mycelium near a
+techniques: positioning a wedge of [[antimicrobial-compounds-mushroom-mycelium]] near a
 specific bacterium and observing their interaction over hours to
 days. Organisms that prevent linear growth of another may diffuse
 an inhibitive substance, creating a zone of inhibition. Others
@@ -88,37 +88,3 @@ Allow the tube to sit for one week before adding a solution, so
 the mycelium can heal and seal off holes. If done correctly, the
 solution should not flow through but rather sit and maintain a
 level throughout the experiment. Biological or chemical
-contaminants can be used to elicit specific metabolic responses
-harvestable as novel antibiotics or targeted enzymes.
-
-## Applications of Harvested Enzymes
-
-The metabolites produced through these methods have diverse
-applications. The process can create novel chemical cocktails
-specific to individual needs, whether anticancer compounds or
-antibiotics for rare infections. Comparing metabolites produced
-when a fungus is triggered by a specific contaminant against
-those produced without the contaminant allows researchers to
-identify the shift in metabolic function.
-
-Researchers can also screen strains to determine which are most
-proficient at producing compounds of interest at rates that would
-satisfy industrial demand for large-scale production. The
-Agrocybe genus, for example, is known for its wide spectrum of
-laccase activity, an oxide reductase enzyme useful for breaking
-down endocrine disruptors like BPA.
-
-## Species with Notable Enzyme Activity
-
-Several mushroom genera are recognized for their enzyme production:
-
-- **Agrocybe**: Wide laccase spectrum; breaks down BPA and other
-  endocrine disruptors; useful for mycofiltration projects.
-- **Pleurotus** ([[query-how-to-grow-oyster-mushrooms-at-home]]): Produce versatile enzyme
-  systems capable of biodegrading nearly all types of waste.
-- **Fomes fomentarius**: Demonstrates activity against E. coli
-  and other bacterial pathogens when stimulated.
-- **Shiitake ([[tabletop-mycofiltration-unit-construction]]
-- [[mycorrhizal-carbon-phosphorus-exchange]]
-- laccase and [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[fungal-biology-fundamentals]]

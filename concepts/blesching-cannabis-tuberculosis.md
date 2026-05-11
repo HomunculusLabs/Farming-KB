@@ -26,7 +26,7 @@ death from infectious disease worldwide.
 
 The [[blesching-cannabis-health-index-autoimmune-conditions]] lists tuberculosis among the bacterial
 infections catalogued in its comprehensive survey of cannabis research
-applications, and as one of the significant opportunistic infections
+applications, and as one of the significant [[blesching-cannabis-aids-opportunistic-infections]]
 encountered in AIDS patients.
 
 ## Tuberculosis as an Opportunistic Infection
@@ -45,7 +45,7 @@ weight loss.
 
 ## Bacterial Infections and the Immune System
 
-The Cannabis Health Index provides important context for understanding
+The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] provides important context for understanding
 how tuberculosis fits within the broader picture of bacterial infections
 and cannabinoid therapy:
 
@@ -88,36 +88,3 @@ an enzyme responsible for inflammation and pain.
 ## Tuberculosis in Differential Diagnosis
 
 Blesching notes that other diseases may look like a cold or flu but
-require different treatment approaches, and specifically lists
-tuberculosis among these conditions. This highlights the importance of
-accurate diagnosis, as TB symptoms can mimic those of less serious
-respiratory infections.
-
-Tuberculosis is also noted in the context of eye health, where it is
-listed among the causes of uveitis (inflammation of the uvea in the eye),
-alongside syphilis, herpes, and autoimmune diseases such as sarcoidosis.
-
-## Supporting Therapeutic Approaches
-
-While specific research on cannabis and tuberculosis is limited in The
-Cannabis Health Index, the broader principles of [[cancer-immune-modulation-mechanisms]] and
-antibacterial cannabinoid activity are relevant:
-
-- Cannabis has documented anti-inflammatory properties that may help
-  manage TB-related inflammation.
-- The endocannabinoid system plays a role in immune function modulation,
-  potentially supporting the body's defense against mycobacterial
-  infection.
-- Cannabinoids may help manage symptoms such as pain, wasting, and
-  loss of appetite associated with advanced tuberculosis.
-
-## Related Topics
-
-- [[blesching-cannabis-mrsa]] - Cannabis research against
-  drug-resistant bacteria
-- [[blesching-cannabis-aids-opportunistic-infections]] - Comprehensive
-  coverage of AIDS-related infections
-- [[blesching-cannabis-colds-and-flu]] - Differential diagnosis
-  including tuberculosis
-- [[blesching-cannabis-anorexia-cachexia]] - Wasting syndrome
-  management applicable to TB patients

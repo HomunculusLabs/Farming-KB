@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Satyavati, G.V. (1988). 'Gum Guggul (Commiphora mukul) — The Success Story of an Ancient Insight Leading to a Modern Discovery.' Indian Journal of Medical Research, 87, 327-335."
+  - "Satyavati, G.V. (1988). 'Gum Guggul (Commiphora mukul) — The [[ingham-vineyard-success-story]] of an Ancient Insight Leading to a Modern Discovery.' Indian Journal of Medical Research, 87, 327-335."
   - "Dev, S. (1997). 'Ancient-Modern Concordance in Ayurvedic Plants: Some Resins.' Proceedings of the Indian National Science Academy, 63B, 77-96."
   - "Urizar, N.L. et al. (2002). 'Guggulsterone Is a Farnesoid X Receptor Antagonist.' Molecular Endocrinology, 16(7), 1590-1600."
   - "Singh, V. et al. (1990). 'Guggulipid — A Hypolipidemic Agent.' Journal of the Association of Physicians of India, 38(5), 323-328."
@@ -25,10 +25,10 @@ Commiphora mukul, known as Guggul or Indian Bdellium, is a flowering shrub or
 small tree in the family Burseraceae. It is the source of guggul resin, one of
 the oldest and most important medicaments in Ayurvedic medicine.
 
-The species is native to arid regions of India, Pakistan, and Bangladesh. It
+The species is native to [[fukuoka-natural-farming-in-arid-regions]] of India, Pakistan, and Bangladesh. It
 produces a yellowish-brown oleoresin (guggul) from its bark, which has been
 used for over 3,000 years in traditional Indian medicine for treating
-inflammatory conditions, obesity, and lipid disorders.
+[[cannabis-for-inflammatory-conditions]], obesity, and lipid disorders.
 
 Modern pharmacological research has validated the resin's hypolipidemic and
 anti-inflammatory properties, leading to the development of standardized
@@ -88,59 +88,3 @@ ranges from 2.5–5.0%. These are the primary hypolipidemic compounds.
 
 Additional constituents include myrrhanol A, myrrhanone A, mukulol, and
 commipheric acids (A, B, C, D, E). The sesquiterpenoid fraction contributes
-anti-inflammatory and antimicrobial activities.
-
-Volatile oil content (approximately 2–4%) includes limonene, pinene,
-eugenol, and various sesquiterpene hydrocarbons. The [[permaculture-designers-manual-essential-oil-plants]] fraction
-contributes to the resin's characteristic balsamic aroma.
-
-## Pharmacology
-
-The hypolipidemic activity of guggulsterones has been extensively studied.
-Both E- and Z-isomers act as farnesoid X receptor (FXR) antagonists. FXR
-antagonism increases bile acid excretion, upregulates LDL receptor expression
-in hepatocytes, and reduces hepatic cholesterol synthesis.
-
-[[mushroom-cancer-clinical-trials-overview]] demonstrate significant reductions in total cholesterol
-(11–27%), LDL cholesterol (13–28%), and triglycerides (12–33%). HDL
-cholesterol may increase modestly. These effects are comparable to statins
-in mild-to-moderate hyperlipidemia.
-
-Anti-inflammatory activity is mediated through inhibition of NF-κB
-activation and reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6).
-The diterpenoid fraction (myrrhanol A) shows significant COX-2 inhibition.
-
-Additional pharmacological activities include thyroid-stimulating effects
-(increased T₃ and T₄ in hypothyroid models), antioxidant activity, and
-anti-arthritic effects in animal models of rheumatoid arthritis.
-
-## Traditional Use
-
-In classical Ayurveda, guggul is classified as *medohara* (fat-reducing) and
-*vedanasthapana* (pain-relieving). It is a central ingredient in *Kaishore
-Guggulu*, *Yogaraj Guggulu*, *Triphala Guggulu*, and *Simhanada Guggulu* —
-major classical formulations.
-
-Traditional indications include medoroga (obesity and lipid disorders),
-amavata (rheumatoid arthritis), vatarakta (gout), and various skin
-diseases. The resin is typically administered after purification (*shodhana*)
-through a traditional process involving boiling in *Triphala* decoction or
-cow's milk.
-
-Modern commercial products include standardized Guggulipid capsules (2.5%
-guggulsterones) approved in India for hyperlipidemia management. The resin
-is also used in traditional incense, perfumery, and as a binding agent in
-traditional pill formulations.
-
-## See Also
-
-- [[boswellia-serrata]]
-- [[curcuma-longa]]
-- [[withania-somnifera]]
-- ocimum-sanctum
-- [[zingiber-officinale]]
-- [[piper-nigrum-entity]]
-- [[cinnamomum-verum]]
-- [[commiphora-myrrha]]
-- [[astragalus-membranaceus]]
-- [[panax-ginseng]]

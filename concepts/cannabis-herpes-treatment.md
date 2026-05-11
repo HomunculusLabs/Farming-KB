@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Cannabis Treatment for Herpes
 
-Herpes simplex is a common virus belonging to the same family as the
+[[cannabis-antiviral-herpes-simplex-blesching]] is a common virus belonging to the same family as the
 chickenpox virus. There are currently eight known herpes viruses.
 According to orthodox medicine, all herpes viruses can exist in the body
 without any outward sign or symptom until a period of depressed immunity
@@ -23,7 +23,7 @@ outbreaks.
 ### Topical Cannabinoids for Post-Outbreak Pain
 
 A 2010 study conducted on humans in Munster, Germany, confirmed that
-topical cannabinoids significantly reduce nerve pain after a flare-up of
+topical cannabinoids significantly reduce [[blesching-cannabis-herpes-topical-antiviral-nerve-pain]] after a flare-up of
 the herpes virus. The majority of patients experienced pain reduction
 by more than 80%.
 
@@ -60,7 +60,7 @@ role in immune function and inflammatory response through CB2 receptor
 activation. Herpes outbreaks are triggered by periods of depressed
 immunity, and supporting the immune system through endocannabinoid
 modulation may help reduce outbreak frequency. The CB2 receptor's
-involvement in immune regulation suggests that cannabinoids targeting
+involvement in [[blesching-cannabis-homeostasis-and-immune-regulation]] suggests that cannabinoids targeting
 this pathway could support the body's natural antiviral defenses.
 
 ## Complementary Dietary Approaches
@@ -68,14 +68,14 @@ this pathway could support the body's natural antiviral defenses.
 Several common spices have demonstrated antiviral properties against
 herpes:
 
-- **Basil**: Extracts of Ocimum basilicum exhibit broad-spectrum
+- **Basil**: Extracts of [[ocimum-basilicum]] exhibit broad-spectrum
   antiviral activity including defense against herpes
 - **Cardamom**: Cineole, a major constituent, has shown promise against
   vaginal herpes infections in animal studies
 - **Clove**: Eugenine, a compound from clove extract, inhibits viral DNA
   synthesis in several strains of herpes (I and II), including
   acyclovir-resistant strains
-- **Coconut**: Crude extract of Cocos nucifera L. husk fiber inhibits
+- **Coconut**: Crude extract of [[cocos-nucifera]] L. husk fiber inhibits
   acyclovir-resistant Herpes simplex virus type I
 - **Turmeric**: Known for anti-inflammatory and antiviral properties
 
@@ -88,29 +88,3 @@ consciously associate a relationship between the outbreak of the skin
 lesions and the existence of repressed hostility."
 
 The connection between suppressed emotions and herpes outbreaks is
-particularly notable. People who believe it is not acceptable to feel
-angry may be conscious only of guilt. Since feeling angry is part of
-the human experience, unexpressed anger may shift into the physical
-realm. Herpes sores on the lips may represent guilt associated with
-affection or expressing affection, while genital herpes sores may
-represent guilt associated with sexual activity.
-
-People who are able to prevent or abort an outbreak acknowledge and
-appropriately express their emotions, fostering deeper intimacy with
-themselves and others. Those who have achieved remission have been able
-to change the beliefs that initially made suppression of "unacceptable"
-feelings seem necessary.
-
-## Key Healing Factors
-
-- Appropriately express anger and hostile experiences
-- Establish principles around the expression of affection and sexuality
-- Identify and change limiting beliefs about emotional expression
-- Address repressed emotions that may trigger immune suppression
-- Support immune function through stress reduction and adequate rest
-
-## Related Topics
-
-- [[cannabis-topical-applications]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[blesching-cannabis-immune-system-modulation]]

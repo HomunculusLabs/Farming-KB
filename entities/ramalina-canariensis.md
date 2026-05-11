@@ -41,13 +41,13 @@ The photobiont is a trebouxioid green alga. The medulla is white and loosely str
 
 The species occurs primarily in the laurel forest (*laurisilva*) belt between 400 and 1200 meters elevation. It grows as an epiphyte on the trunks and branches of *Laurus novocanariensis*, *Persea indica*, *Myrica faya*, and other characteristic laurel forest trees.
 
-It also extends into coastal scrub and xerophytic communities at lower elevations, where it grows on exposed branches of *Juniperus phoenicea* and other shrubs in areas influenced by oceanic moisture. These coastal populations tend to be smaller and more compact than those in humid laurel forest.
+It also extends into coastal scrub and xerophytic communities at lower elevations, where it grows on exposed branches of *[[juniperus-phoenicea]]* and other shrubs in areas influenced by oceanic moisture. These coastal populations tend to be smaller and more compact than those in humid laurel forest.
 
 ## Ecology and Symbiosis
 
 *Ramalina canariensis* contributes to the rich epiphytic lichen communities that characterize Macaronesian laurel forests. These forests host some of the highest lichen diversities in Europe, with over 500 species documented in the Canary Islands alone.
 
-The species is moderately sensitive to air pollution and desiccation. In the humid laurel forest environment, it benefits from consistent moisture from cloud immersion and fog drip, which sustain photosynthetic activity even during dry seasons.
+The species is moderately sensitive to [[air-pollution-fungal-community-responses]] and desiccation. In the humid laurel forest environment, it benefits from consistent moisture from cloud immersion and fog drip, which sustain photosynthetic activity even during dry seasons.
 
 Epiphytic lichens including *R. canariensis* play important roles in forest water cycling by intercepting atmospheric moisture and slowly releasing it to the forest floor through drip and decomposition. This contribution is particularly significant in the cloud-forest zones of the Canary Islands.
 
@@ -63,9 +63,9 @@ Usnic acid concentrations in *Ramalina* species vary with light exposure and moi
 
 ## Similar Species
 
-*Ramalina fastigiata* is the most widely distributed and frequently confused species. It differs in its more robust, densely branched habit and different medullary chemistry (containing evernic acid rather than sekikaic acid).
+*[[ramalina-fastigiata]]* is the most widely distributed and frequently confused species. It differs in its more robust, densely branched habit and different medullary chemistry (containing evernic acid rather than sekikaic acid).
 
-*Ramalina farinacea* has a more delicately branched, bluish-gray thallus and produces farinose soredia on branch surfaces. *R. fraxinea* is larger and more robust, with broader, more flattened branches and different chemistry.
+*[[ramalina-farinacea]]* has a more delicately branched, bluish-gray thallus and produces farinose soredia on branch surfaces. *R. fraxinea* is larger and more robust, with broader, more flattened branches and different chemistry.
 
 Within the Canary Islands, *R. cuspidata* and *R. tortuosa* occupy similar habitats but can be distinguished by branching pattern and secondary chemistry. Careful [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is often necessary for reliable identification of Macaronesian *Ramalina* species.
 
@@ -75,36 +75,16 @@ Within the Canary Islands, *R. cuspidata* and *R. tortuosa* occupy similar habit
 
 Remaining laurel forest fragments are protected within national parks and UNESCO World Heritage sites on several islands. However, [[dighton-fungi-climate-change-feedback]] poses a growing threat through altered cloud regimes and reduced humidity in the montane forest belt.
 
-Invasive species, particularly exotic trees that do not support the same epiphytic lichen communities, threaten remaining habitat quality. Conservation recommendations include forest restoration with native tree species and continued monitoring of epiphyte communities.
+Invasive species, particularly exotic trees that do not support the same epiphytic lichen communities, threaten remaining habitat quality. Conservation recommendations include [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] with native tree species and continued monitoring of epiphyte communities.
 
 ## Reproduction and Dispersal
 
 *Ramalina canariensis* reproduces through both sexual and vegetative means. Apothecia produce ascospores that require capture of compatible algal cells for successful establishment on new substrates.
 
-Vegetative propagation occurs through thallus fragmentation. Branch segments broken by wind, animal movement, or branch fall can establish on suitable bark surfaces. In the humid laurel forest environment, fragments rehydrate rapidly and have relatively high establishment success.
+[[hamilton-vegetative-propagation]] occurs through thallus fragmentation. Branch segments broken by wind, animal movement, or branch fall can establish on suitable bark surfaces. In the humid laurel forest environment, fragments rehydrate rapidly and have relatively high establishment success.
 
 The species does not produce soredia or isidia, which limits its capacity for short-range dispersal compared to sorediate *Ramalina* species. This [[fungal-dispersal-limitation-biogeographic-barriers]] may contribute to its restricted distribution within the Canary Islands.
 
 Wind transport of lightweight fragments between forest patches on different islands is possible during storm events, but long-distance oceanic dispersal is considered unlikely. Island biogeography patterns in Macaronesian lichens suggest most inter-island colonization occurred via rare chance events over geological timescales.
 
 ## Traditional Uses
-
-*Ramalina* species in the Canary Islands have been used historically as dye lichens, producing yellow to green colors depending on the mordant used. The usnic acid content provides the primary coloring capacity.
-
-In traditional Canarian folk medicine, *Ramalina* lichens were occasionally used in respiratory remedies, though this practice was less common than the use of *Cetraria islandica* and other more accessible species. The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of usnic acid provided some rationale for these applications.
-
-Lichens including *Ramalina* were also used in traditional wool dyeing by rural communities in the Canary Islands. These practices declined sharply in the mid-twentieth century with the introduction of synthetic dyes.
-
-## See Also
-
-- [[ramalina-fraxinea]]
-- [[evernia-prunastri]]
-- [[xanthoria-elegans]]
-- [[physcia-stellaris]]
-- [[hypogymnia-tubulosa]]
-- [[lecanora-muralis]]
-- [[usnea-barbata]]
-- [[alectoria-sarmentosa]]
-- [[anaptychia-ciliaris]]
-- [[mycelium]]
-- [[spore]]

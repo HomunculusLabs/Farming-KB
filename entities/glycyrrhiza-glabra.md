@@ -88,61 +88,8 @@ the enzyme that inactivates cortisol in the kidneys. This produces a
 pseudoaldosterone effect but also potentiates local cortisol activity in
 tissues. Glycyrrhetinic acid inhibits NF-κB signaling, COX-2 expression,
 and prostaglandin synthesis through multiple pathways.
-### Antiviral Activity
-Glycyrrhizin demonstrates broad-spectrum antiviral activity against:
-- Hepatitis viruses (HCV and HBV) — used clinically in Japan and China
-- HIV (inhibits viral replication and entry)
-- Influenza A and B viruses
-- Herpes simplex virus (HSV-1, HSV-2)
-- SARS-associated coronavirus (in vitro)
-- RSV (respiratory syncytial virus)
-### Gastrointestinal Protection
-Licorice stimulates mucus production in the stomach lining, increases
-mucosal blood flow, and promotes epithelial cell proliferation. The
-deglycyrrhized form (DGL) retains gastroprotective effects without
-mineralocorticoid side effects and is widely available for ulcer treatment.
-### Hepatoprotective Effects
-Glycyrrhizin reduces ALT and AST levels and improves liver histology in
-chronic hepatitis. Approved treatment for chronic hepatitis C in Japan
-(Stronger Neo-Minophagen C injection).
-### Respiratory Applications
-Traditional use for coughs and bronchitis supported by expectorant,
-antitussive, and anti-inflammatory activities. Common ingredient in herbal
-cough syrups and throat lozenges worldwide.
-### Traditional Chinese Medicine
-Known as "gan cao" (甘草, "sweet herb"), licorice is called the "harmonizer"
-in Chinese herbalism. It appears in approximately 50% of traditional
-formulas, where it is believed to moderate the properties of other herbs,
-enhance palatability, and harmonize the formula's overall action.
-## Safety and Contraindications
-### Glycyrrhizin-Induced Hypertension
-Excessive glycyrrhizin inhibits 11β-HSD2, causing pseudohyperaldosteronism:
-sodium retention, potassium excretion, hypokalemia, hypertension, and edema.
-The NOAEL is approximately 2 mg/kg body weight/day (~100–200 mg glycyrrhizin
-daily for most adults).
-### Contraindications
-- Hypertension, heart failure, or cardiovascular disease
-- Hypokalemia or patients on potassium-wasting diuretics
-- Pregnancy (associated with preterm birth at high doses)
-- Liver cirrhosis with cholestasis; renal impairment
-- Hormone-sensitive conditions (estrogenic activity)
-### Drug Interactions
-- Potentiates cardiac glycosides (digoxin)
-- Interacts with antihypertensives, diuretics, and corticosteroids
-- May reduce effectiveness of oral contraceptives and warfarin
-## Cultivation and Permaculture Relevance
-- Deep taproot improves soil structure and brings subsoil nutrients upward
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via rhizobial symbiosis improves soil fertility
-- [[dighton-fungal-drought-tolerance-plant-water-relations]] suits xeriscaping and arid-region food forests
-- Can serve as [[fukuoka-citrus-orchard-ground-cover-cultivation]] or understory crop in food forest systems
-- Harvestable roots at 3–4 years; commercial harvest at 4–5 years
-- Intercropping compatible with many fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
-## See Also
 
-- [[albizia-julibrissin]]
-- [[lomatium-dissectum]]
-- [[mullein]]
-- [[panax-ginseng]]
-- [[schisandra-chinensis]]
-- [[food-forest]]
-- [[picrorhiza-kurroa]]
+## See Also
+- [[blesching-cannabis-antibacterial-antiviral-immune-system]]
+- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]
+- [[glycyrrhiza-uralensis]]

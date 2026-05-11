@@ -1,10 +1,10 @@
 ---
-title: Plant bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7
+title: Tompkins Plant Chemical Communication
 created: 2026-04-26
 aliases: [allelopathy, plant signaling, [[solomon-root-exudates-and-allelopathy]] between plants]
 tags: [botany, biochemistry, ecology, chemical-ecology]
-related: [tompkins-plant-roots-intelligence, tompkins-plant-animal-relationships, tompkins-plant-growth-regulators]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plant-roots-intelligence]], [[tompkins-plant-animal-relationships]], [[tompkins-plant-growth-regulators]]
+sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -29,7 +29,7 @@ its most life-giving properties -- an invisible chemical interaction.
 
 ## Weeds as Soil Healers
 
-Pfeiffer demonstrated that weeds serve vital ecological functions rather
+Pfeiffer demonstrated that weeds serve vital [[fungal-melanin-biosynthesis-ecological-functions]] rather
 than being mere nuisances:
 
 - Sorrels, docks, and horsetails indicate soil becoming too acidic
@@ -88,55 +88,3 @@ Plants demonstrate remarkable chemical perception:
 
 - Parasitical plants recognize the slightest trace of their victim's
   odor and overcome all obstacles to crawl in its direction
-- Acacia trees enlist protective ants by rewarding them with nectar, in
-  return for defense against other insects and herbivorous mammals
-- Plants can identify which ants will steal their nectar, closing when
-  these ants approach and opening only when enough dew on their stems
-  keeps ants from climbing
-- Sundews ignore pebbles and metal but quickly detect the nourishment
-  in meat, reacting to weights as small as 1/78,000 of a grain
-
-## Defensive Chemistry
-
-Plants develop sophisticated chemical defenses:
-
-- Thorns, bitter tastes, and gummy secretions catch and kill unfriendly
-  insects
-- Over 500 varieties of carnivorous plants use chemical attractants to
-  lure prey to tentacles, sticky hairs, or funnel-like traps
-- The tentacles of carnivorous plants are not only mouths but "stomachs
-  raised on poles," digesting both meat and blood
-- Carrion lilies develop the smell of rotting meat in areas where only
-  flies abound
-- Night-blossoming flowers emit stronger fragrance at dusk to attract
-  nocturnal pollinators
-
-## Companion Planting Chemistry
-
-Traditional farming knowledge encoded chemical plant interactions:
-
-- Beans and cucumbers stimulate each other's growth
-- Beans and fennel inhibit each other
-- Apples stored with potatoes accelerate each other's deterioration
-- Weeds classified as "noxious" may actually be bringing depleted
-  minerals to the surface for crop plants to access
-
-## Key Quotes
-
-- "It is only our human egotistical point of view that labels a weed a
-  weed, and that if they were viewed as a functioning part of nature,
-  weeds would have much to teach." -- E. Pfeiffer
-- "In America, in our frenzied efforts to take advantage of high prices
-  for agricultural products, we are mining our soils instead of farming
-  them." -- J. Cocannouer
-- "If the cornflower were an evil weed, would not the farmers of the
-  world have grown to hate it before the appearance of the learned
-  agronomists?" -- V. Soloukhin
-
-## See Also
-
-- [[tompkins-lawrence-biological-interstellar-communication]]
-
-- [[plant-hormones-and-chemical-signaling-systems]]
-- [[plant-perception]]
-- [[plant-fungal-signaling-mycorrhiza]]

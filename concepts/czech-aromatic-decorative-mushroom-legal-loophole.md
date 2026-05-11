@@ -88,23 +88,3 @@ This dual reality of active enforcement coexisting with legal retail sales throu
 ## Lessons for Drug Policy
 
 The Czech aromatic and decorative goods case demonstrates several important principles for drug policy:
-
-1. **Regulatory specificity matters**: Vague or incomplete legal definitions create opportunities for circumvention that can persist for years, as evidenced by the biological kingdom ambiguity (plant vs. fungus) that affected multiple European countries
-2. **Retailer adaptability**: Commercial actors in drug markets are highly responsive to legal constraints and will rapidly develop workarounds, as demonstrated by the Prague shop's creative product classification
-3. **Information asymmetry**: Retailers understand both the legal framework and the actual market demand, giving them an advantage over regulators who may be slower to recognize and close loopholes
-4. **Labeling paradox**: Warning labels intended to discourage use can simultaneously serve as marketing by informing potential customers of a product's psychoactive properties
-5. **Cross-border complexity**: National legal frameworks are increasingly inadequate for regulating substances traded through international internet commerce
-6. **Iterative policy response**: The pattern of European legislation from 2001 to 2006 shows that drug policy is often reactive rather than proactive, with each legislative change prompting retailers to find new workarounds requiring further legislative action
-
-## How to Control Wild Fungi
-
-The broader European experience with regulating hallucinogenic mushrooms highlights a fundamental regulatory challenge: some countries had legal difficulties with not wanting to unjustly criminalise people who may own land where mushrooms grow wild. This concern led to several different legislative approaches. The UK and Ireland initially controlled mushrooms only "if treated or prepared," indicating intent of use. The Dutch Supreme Court ruled that mushrooms were under control when "dried or processed" but not when fresh. Germany's 2005 change from "plant" to "organism" addressed the biological classification issue. Denmark's approach of explicit [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] se [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] ybe cubensis or other fungi/spores containing psilocin or psilocybin" provided the most comprehensive coverage.
-
-The Prague aromatic and decorative goods case demonstrates that even these varied approaches may prove insufficient when retailers are motivated to find and exploit remaining gaps in the regulatory framework. The Czech case thus contributes to the broader European evidence base on the challenges of regulating naturally occurring psychoactive substances.
-
-## See Also
-
-- emcdda-hallucinogenic-mushroom-eu-legislation-timeline-2001-2006
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]
-- [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]

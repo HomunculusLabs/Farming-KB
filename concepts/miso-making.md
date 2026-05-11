@@ -9,9 +9,9 @@ sources: []
 
 ## What Is Miso
 
-Miso is a traditional Japanese fermented soybean paste. It is one of the most complex and time-intensive ferments in the culinary world, requiring months to years of aging to develop its characteristic deep umami flavor. Miso serves as the base for soups, marinades, glazes, dressings, and pickling brines. (see [[comparison-fermented-vegetables-vs-canning]]).
+Miso is a traditional Japanese fermented soybean paste. It is one of the most complex and time-intensive ferments in the culinary world, requiring months to years of aging to develop its characteristic deep umami flavor. Miso serves as the base for soups, marinades, glazes, dressings, and pickling brines.
 
-The essential components are: cooked soybeans, koji (rice or barley inoculated with Aspergillus oryzae), salt, and time. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+The essential components are: cooked soybeans, koji (rice or barley inoculated with [[aspergillus-oryzae]]), salt, and time.
 
 ## Koji Preparation
 
@@ -32,7 +32,7 @@ Koji is the foundational ingredient in miso making. It is steamed rice or barley
 
 ### Buying Koji
 
-For beginners, purchasing prepared koji rice or koji starter (koji-kin) is recommended. Many Japanese grocery stores and online suppliers carry both. Making koji from scratch requires careful temperature and humidity control.
+For beginners, purchasing prepared koji rice or koji starter (koji-kin) is recommended. Many Japanese grocery stores and online suppliers carry both. Making koji from scratch requires careful [[greg-green-temperature-and-humidity-control]] control.
 
 ## Soybean Preparation
 
@@ -40,7 +40,7 @@ For beginners, purchasing prepared koji rice or koji starter (koji-kin) is recom
 2. Soak the beans in plenty of water for 12-18 hours (they will roughly triple in volume)
 3. Drain and cook the beans:
    - Boiling: simmer for 3-4 hours until beans crush easily between fingers
-   - Pressure cooker: 45-60 minutes at pressure
+   - [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]: 45-60 minutes at pressure
 4. Cook beans until very soft — undercooked beans create hard pockets in the miso
 5. Reserve some of the cooking liquid (called bean broth) for adjusting texture
 
@@ -81,7 +81,7 @@ Salt serves two critical roles: inhibiting unwanted bacteria and controlling the
 4. Sprinkle a thin layer of salt on the surface (prevents mold)
 5. Place a weight (clean rocks, a sealed bag of water, or a plate) on top to keep the miso submerged
 6. Cover with breathable material (cloth or paper) secured with string
-7. Store in a cool, dark place — ideal temperature is 50-68F (10-20C)
+7. Store in a cool, dark place — [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is 50-68F (10-20C)
 
 ### Monitoring and Maintenance
 
@@ -123,6 +123,6 @@ Salt serves two critical roles: inhibiting unwanted bacteria and controlling the
 
 ## See Also
 
-- [[tempeh-making]] — another soybean fermentation using different fungi
-- [[natto-making]] — fermented soybeans using Bacillus subtilis
+- [[tempeh-making]] — another [[miso-tempeh-and-soybean-fermentation]] using different fungi
+- [[natto-making]] — fermented soybeans using [[bacillus-subtilis]]
 - [[vinegar-making]] — another traditional fermentation process

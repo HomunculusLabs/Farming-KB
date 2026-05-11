@@ -11,8 +11,8 @@ type: concept
 
 # Deep Bed Vegetable System
 
-The deep bed method of [[container-growing-vegetables-herbs]] has been practiced around
-the world for centuries. Geoff Hamilton championed this system as a way
+The deep [[coleman-french-intensive-bed-method]] of [[container-growing-vegetables-herbs]] has been practiced around
+the world for centuries. [[geoff-hamilton]] championed this system as a way
 to dramatically increase yields from small gardens. The system is
 basically simple: instead of vegetables being grown in long rows with
 an access path between each row, crops are grown in beds 4 feet (1.25m)
@@ -34,9 +34,9 @@ times the yield of a conventional bed of the same size.
 
 ## Benefits for Different Soil Types
 
-Deep beds dug in heavy soils drain more easily if they are raised. The
+[[organic-vegetable-garden-rotation-deep-beds]] dug in heavy soils drain more easily if they are raised. The
 water retention of light soils is improved by working extra bulky
-organic matter into the top couple of inches. Most crops can be grown
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] into the top couple of inches. Most crops can be grown
 successfully using the deep bed system. Exceptions include runner beans,
 which are not manageable in such short rows, and Brussels sprouts, which
 still need about 18 inches (45cm) spacing for good-sized sprouts.
@@ -88,47 +88,3 @@ them, harvested long before the beans are big enough to cause problems.
 
 Weeding is comparatively easy once plants have matured because close
 spacing means they cover the soil surface and effectively smother
-weeds. In early stages though, weeding can be time-consuming as it
-often has to be done by hand. Always start with a stale seedbed and
-cover the soil with a thick layer of well-rotted manure or compost.
-Planting through sheets of paper or plastic sheeting is also very
-effective at eliminating weeds entirely.
-
-## Cultivation Before Sowing
-
-Before sowing, rake about two handfuls of blood, fish, and bone meal
-per square yard into the top inch of soil, and cover with about 2
-inches (5cm) of well-rotted garden compost. If the bed was dug and
-manured in winter, the manure will have worked down, leaving the top
-layer liable to dry out. The additional compost helps retain moisture.
-
-## Feeding During the Season
-
-Crops that have been overwintering, such as spring cabbages, need an
-extra boost in spring. A little dried blood sprinkled around each
-plant should suffice. Gross feeders including tomatoes, zucchini,
-squashes, and peppers benefit from liquid kelp every two weeks during
-the [[savory-growing-season-and-non-growing-season-management]].
-
-## Spacing and Layout
-
-To make the best possible use of available space, sow seeds or
-seedlings in blocks or staggered rows, forming a triangular pattern
-where each plant is equidistant from those surrounding it. Leave a
-narrow access path between beds, about 12 to 18 inches (30 to 45cm)
-wide. The beds can be as long as is convenient for your garden.
-
-## Advantages Over Conventional Beds
-
-The comparatively shallow and compacted layer of topsoil in
-conventional beds means roots cannot penetrate deeply and must be
-planted further apart. [[permaculture-plants-root-crops-and-tubers]] may be distorted and smaller than
-those grown in deep beds of loose soil. The deep bed system with its
-loose, organically enriched soil encourages downward root penetration
-and dramatically increased yields per unit area.
-
-## See Also
-
-- [[hamilton-crop-rotation-and-vegetable-planning]]
-- [[hamilton-composting-and-organic-matter-management]]
-- [[hamilton-seed-sowing-techniques]]

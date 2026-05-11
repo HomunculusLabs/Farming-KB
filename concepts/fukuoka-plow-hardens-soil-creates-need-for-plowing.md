@@ -88,36 +88,3 @@ reexamined. The energy expenditure of plowing alone is enormous. Fukuoka's data 
 rice, while mechanized agriculture requires ten to fifty times as much energy input for the same
 output. Much of that excess energy goes into soil preparation — breaking up the very hardpan
 that previous tillage created.
-
-The cycle of destruction extends beyond the soil to the entire farming system. Chemical
-fertilizers, Fukuoka observes, "are effective only when the soil is dead." Pesticides "are
-effective only for protecting unhealthy plants." Farm machinery "is useful only when one has to
-cultivate a large area." Each of these tools is a response to a condition created by the
-previous intervention. Dead soil requires chemical fertilizer; chemically fed plants are weak
-and attract pests; weak plants on large areas require machinery to manage; machinery compacts
-the soil, requiring more plowing; plowing kills the soil, requiring more fertilizer. The cycle
-is self-reinforcing and escalates with each rotation.
-
-Fukuoka's own farming method demonstrates the alternative. His fields "have not been plowed or
-turned in over thirty years," yet they produce close to 22 bushels of rice and 22 bushels of
-winter grain per quarter-acre. The soil, left to the care of microorganisms and small animals,
-remains fertile and friable without any mechanical intervention. Straw is scattered over the
-field, clover grows as a cover crop, and the natural processes of decomposition and root growth
-maintain soil structure. "Compost does not have to be prepared if rice straw is applied to the
-fields half a year before the rice is sown." Nature, not the plow, builds the soil.
-
-The broader lesson is that modern agriculture has trapped itself in cycles of intervention that
-appear necessary only because the original damage has been forgotten or normalized. The plow
-that hardens the soil, the fertilizer that kills it, the pesticide that destroys its ecology —
-each is celebrated as progress while the problem it was meant to solve grows worse. Fukuoka's
-radical proposal is not a new technique but the abandonment of techniques that create the very
-problems they claim to solve.
-
-## See Also
-
-- [[fukuoka-shrine-grove-trees-grow-without-human-aid]]
-- [[fukuoka-nature-neither-living-nor-dead-holistic-biosystem]]
-- fukuoka chemical fertilizers effective only on dead soil
-- fukuoka pesticides kill natural enemies first
-- fukuoka no till direct seeded rice barley clover
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]

@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
   - raw/papers/marijuana-horticulture-cervantes.md
   - raw/papers/nutrient-and-dynamic-accumulators.md

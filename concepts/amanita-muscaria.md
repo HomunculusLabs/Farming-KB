@@ -4,7 +4,7 @@ source: carolina-mushrooms_08qxp.md
 mined: 2026-05-08
 tags: [amanita-muscaria, fly-agaric, ibotenic-acid, muscimol, gabaergic,
   toxic-mushrooms]
-aliases: [fly agaric, Amanita muscaria effects, muscimol pharmacology]
+aliases: [[amanita-muscaria-fly-agaric-history-and-pharmacology]], [[allegro-amanita-muscaria-properties-and-pharmacology]] effects, [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]
 ---
 
 # Amanita Muscaria — Pharmacology and Risks
@@ -21,7 +21,7 @@ A. muscaria does not contain serotonergic psychedelics. Its active compounds
 
 ### Ibotenic Acid
 
-Ibotenic acid is a glutamate receptor agonist, primarily activating
+[[ibotenic-acid]] is a glutamate receptor agonist, primarily activating
 AMPA and NMDA receptors. It is:
 
 - The predominant compound in fresh A. muscaria
@@ -88,39 +88,3 @@ is a historical misnomer.
 
 Typical dried doses range from 5–10 grams for mild effects, with
 significant individual variation. The narrow margin between desired
-and adverse effects makes dosing difficult.
-
-## Toxicity
-
-A. muscaria is not typically lethal to healthy adults, but it is not
-benign:
-
-- No confirmed fatalities from A. muscaria alone in modern medical
-  literature
-- Coma has been reported at very high doses, typically resolving
-  without lasting damage
-- The primary danger is behavioral: confusion and ataxia leading to
-  accidents
-- Children are at higher risk due to lower body weight
-- Interactions with alcohol and other CNS depressants can be dangerous
-
-## Risk as a Psilocybin Substitute
-
-The EMCDDA highlighted specific concerns about A. muscaria being marketed
-as a legal alternative to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
-
-1. **Different pharmacology**: Users expecting a psilocybin-like experience
-   receive a GABAergic sedative/dissociative instead
-2. **Higher adverse effect rate**: Nausea and confusion are more common
-   than with psilocybin
-3. **Preparation sensitivity**: Improperly prepared A. muscaria retains
-   more ibotenic acid, increasing neurotoxicity risk
-4. **Consumer ignorance**: Marketing often fails to communicate that
-   A. muscaria is fundamentally different from "[[guzman-magic-mushrooms-african-species]]"
-5. **Dose uncertainty**: No standardized [[cannabis-dosing-guidelines-by-condition]] exist for
-   retail products
-
-## See Also
-
-- [[psilocybin-pharmacology]]
-- [[psilocybin-mushroom-markets-europe]]

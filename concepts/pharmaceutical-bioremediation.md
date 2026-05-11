@@ -88,11 +88,3 @@ Fungal bioreactors using white-rot fungi in fluidized-bed, packed-bed, or stirre
 fungal-bioreactor-types-for-pollutant-removal describe reactor designs for [[singh-pharmaceutical-wastewater-fungal-treatment]] treatment.
 
 Immobilized fungal systems provide operational advantages including easy biomass separation, reuse over multiple treatment cycles, and protection of fungal biomass from shear stress.
-
-[[constructed-wetlands-wastewater-treatment]] describes the application of [[comparison-constructed-wetland-vs-backyard-pond]] systems for pharmaceutical removal.
-
-Soil aquifer treatment, where treated wastewater is applied to infiltration basins and allowed to percolate through the vadose zone, provides additional biological degradation of residual pharmaceuticals before groundwater recharge.
-
-[[mycoremediation]] for pharmaceutical contaminants requires highly sensitive analytical methods (LC-MS/MS) capable of detecting compounds at nanogram per liter concentrations.
-
-Integration of chemical analysis with bioassays and resistance gene quantification provides comprehensive assessment of pharmaceutical removal and ecological risk reduction.

@@ -15,7 +15,7 @@ sources:
   - Galet, P. (1998). Grape Varieties: A Practical Guide to Identification and Cultivation. Cassell.
   - Hegwood, D.A. (1990). "The wild grapes of Texas." Proceedings of the Texas Grape Growers Association, 19, 20-33.
   - Millardet, P.M.A. (1889). "Le mildiou et le black-rot des vignes." Annales de l'École Nationale d'Agriculture de Montpellier, 11, 181-220.
-  - Wan, Y. et al. (2007). "The genome of Vitis rotundifolia and its implications for grape breeding." Acta Horticulturae, 754, 187-192.
+  - Wan, Y. et al. (2007). "The genome of [[vitis-rotundifolia]] and its implications for grape breeding." Acta Horticulturae, 754, 187-192.
   - Moore, M.O. (1991). "Classification and systematics of polypore-fungi-eastern-north-america American Vitis (north of Mexico)." Economic Botany, 45(4), 445-457.
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 **Vitis rupestris** is a species of wild grape native to the central and southern [[dmt-containing-plants-united-states-halpern]], commonly known as the rock grape, sand grape, or mountain grape.
 
-It is one of the most commercially significant North American Vitis species due to its exceptional resistance to phylloxera (*Daktulosphaira vitifoliae*), which devastated European vineyards in the late 19th century.
+It is one of the most commercially significant [[growing-gourmet-north-american-reishi-species]] Vitis species due to its exceptional resistance to phylloxera (*Daktulosphaira vitifoliae*), which devastated European vineyards in the late 19th century.
 
 The species was a primary source of phylloxera-resistant rootstock that saved the global wine industry and remains widely used in hybrid grape breeding programs.
 
@@ -53,7 +53,7 @@ Seeds are small, 3–4 per berry, pyriform, with a short beak. Seed morphology i
 
 ## Distribution and Habitat
 
-The species is native to the south-central United States, with a range extending from Missouri and Kansas south through Oklahoma, Texas, Arkansas, and Louisiana.
+The species is native to the south-central [[dmt-maoi-plants-united-states]], with a range extending from Missouri and Kansas south through Oklahoma, Texas, Arkansas, and Louisiana.
 
 In Texas, it is most abundant in the Edwards Plateau, Cross Timbers, and limestone hills of the Hill Country, where it is one of the most common native grape species.
 
@@ -71,7 +71,7 @@ It typically occurs at elevations of 100–800 m, though some Texas populations 
 
 The historical importance of *V. rupestris* derives almost entirely from its resistance to grape phylloxera, a root-feeding aphid native to North America.
 
-When phylloxera was accidentally introduced to Europe in the 1860s, it devastated *Vitis vinifera* vineyards by destroying root systems. European viticulturists eventually discovered that grafting *V. vinifera* scions onto North American rootstock provided protection.
+When phylloxera was accidentally introduced to Europe in the 1860s, it devastated *[[vitis-vinifera]]* vineyards by destroying root systems. European viticulturists eventually discovered that grafting *V. vinifera* scions onto North American rootstock provided protection.
 
 *V. rupestris* was one of the three primary species used for phylloxera-resistant rootstock, alongside *V. riparia* and *V. berlandieri* (the "three musketeers" of rootstock breeding).
 
@@ -87,36 +87,4 @@ Munson's extensive work with Texas native grapes, including *V. rupestris*, was 
 
 ## Cultivation
 
-*V. rupestris* is rarely cultivated for fruit production due to its small, highly acidic berries and low sugar content. Its primary commercial use is as rootstock germplasm.
-
-As a rootstock, it confers high phylloxera resistance and good drought tolerance but has poor tolerance to wet, poorly drained soils and high lime content.
-
-The species roots readily from hardwood cuttings, though rooting success is lower than *V. riparia*. Treatment with [[cervantes-rooting-hormones-cloning]] improves strike rates.
-
-Growth habit in cultivation is often low and sprawling rather than climbing, making it less suitable for traditional trellised vineyard training systems.
-
-Flowering occurs in May–June, with fruit ripening in August–September. The species has relatively low vigor compared to other Vitis species.
-
-It is hardy to approximately USDA Zone 6 (−23 °C), though [[coleman-cold-hardiness-testing-ratings]] varies among provenances.
-
-## Ecology and Wildlife Value
-
-The fruit of *V. rupestris* is an important food source for numerous wildlife species. Birds including robins, mockingbirds, cedar waxwings, and quail consume ripe berries.
-
-Mammals such as raccoons, opossums, foxes, and white-tailed deer also browse the fruit. Deer will browse foliage and young shoots when other forage is scarce.
-
-The dense, trailing growth form provides cover for small mammals, reptiles, and ground-nesting birds in rocky habitats.
-
-In its native range, *V. rupestris* contributes to riparian and limestone glade plant communities, often growing in association with native oaks, junipers, and prairie grasses.
-
-The species serves as a larval host for several native moths, including the grapevine epimenis (*Psychomorpha epimenis*) and grape leafroller (*Desmia funeralis*).
-
-Its drought tolerance and ability to colonize thin, rocky soils make it ecologically important for stabilizing gravel bars and limestone outcrops in riparian corridors.
-
-## See Also
-
-- [[vitis-riparia]]
-- [[vitis-labrusca]]
-- [[uncinula-necator]]
-- [[quercus-robur]]
-- [[juglans-nigra]]
+*V. rupestris* is rarely cultivated for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] due to its small, highly acidic berries and low sugar content. Its primary commercial use is as rootstock germplasm.

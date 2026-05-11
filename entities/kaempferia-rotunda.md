@@ -88,23 +88,3 @@ In northeastern Indian cooking, sliced rhizome is sometimes added to meat dishes
 In Thai cuisine, the rhizome is occasionally included in jungle curries and regional herbal soups. It contributes a distinctive earthy note that complements strong-flavored ingredients like lemongrass and galangal.
 
 The young shoots and leaves are edible but rarely consumed. Some communities in Bangladesh and northeastern India use tender leaves as a wrapping for steamed fish, imparting a subtle aromatic quality to the dish.
-
-## Related Species and Comparison
-
-*Kaempferia rotunda* is frequently confused with round zedoary (*Curcuma zedoaria*) due to the similar common name and rhizome morphology. The two species can be distinguished by flower structure: *K. rotunda* produces flowers directly from the rhizome before the leaves, while *C. zedoaria* flowers emerge with the foliage.
-
-*Kaempferia galanga* (sand ginger or aromatic ginger) is the most commercially important congener. Compared to *K. rotunda*, it has smaller, more intensely aromatic rhizomes and lacks the distinctive leaf patterning. Both species share similar bioactive compound profiles.
-
-*Kaempferia parviflora* (krachai dam or black ginger) is a Thai species gaining attention for its male vitality-enhancing properties. It has dark purple to black rhizomes and smaller flowers, and is cultivated extensively in Thailand for the dietary supplement market.
-
-## See Also
-
-- [[curcuma-zedoaria]]
-- [[boesenbergia-rotunda]]
-- [[alpinia-galanga]]
-- [[amomum-subulatum]]
-- [[hedychium-coronarium]]
-- [[alpinia-officinarum]]
-- [[etlingera-elatior]]
-- [[hedychium-gardnerianum]]
-- [[curcuma-phaeocaulis]]

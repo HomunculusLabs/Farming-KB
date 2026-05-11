@@ -11,18 +11,18 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Spartina Schreb." in Flora of North America, Vol. 24. Oxford University Press.
+  - Barkworth, M.E. et al. (2007). "Spartina Schreb." in Flora huckleberries-and-wild-berries-of-north-america, Vol. 24. Oxford University Press.
   - Global Biodiversity Information Facility (GBIF). "Spartina pectinata Link." https://www.gbif.org/species/5289750
   - USDA NRCS. "Plant Guide: Prairie Cordgrass (Spartina pectinata)." USDA Natural Resources Conservation Service.
-  - Pennington, D.D. (2007). "Prairie Cordgrass." in North American Prairie, J.T. Morgan ed. Springer.
-  - Boe, A. & Lee, D.K. (2007). "Genetic Variation for Biomass Production in Prairie Cordgrass." Crop Science 47(3): 929-937.
+  - Pennington, D.D. (2007). "Prairie Cordgrass." in [[growing-gourmet-north-american-reishi-species]] Prairie, J.T. Morgan ed. Springer.
+  - Boe, A. & Lee, D.K. (2007). "Genetic Variation for [[dighton-fungal-biomass-production-aquatic-ecosystems]] in Prairie Cordgrass." Crop Science 47(3): 929-937.
 ---
 
 ## Overview
 
 Spartina pectinata is a perennial rhizomatous grass in the family Poaceae, commonly known as prairie cordgrass. It is one of the tallest native grasses of the North American prairie and wetland systems.
 
-The species is distributed widely across central and eastern North America. It forms dense, monotypic stands in wet prairies, marshes, and riparian corridors.
+The species is distributed widely across central and [[polypore-fungi-eastern-north-america]]. It forms dense, monotypic stands in wet prairies, marshes, and riparian corridors.
 
 Its robust growth habit, salt tolerance, and bioenergy potential have attracted renewed interest in recent years. It is considered a promising cellulosic biofuel feedstock.
 
@@ -76,40 +76,14 @@ Invasive Spartina species, particularly Spartina anglica, have displaced native 
 
 ## Cultivation
 
-Spartina pectinata is increasingly cultivated for bioenergy production and ecological restoration. Several cultivars have been developed for improved biomass yield and establishment.
+Spartina pectinata is increasingly cultivated for bioenergy production and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. Several cultivars have been developed for improved biomass yield and establishment.
 
 Seed can be drilled or broadcast in spring at rates of 8 to 12 kilograms per hectare. Stratification at 4 degrees Celsius for 4 to 8 weeks improves germination rates.
 
-Vegetative propagation by rhizome division is effective but labor-intensive. Stem cuttings with attached rhizome nodes can also produce viable transplants.
+[[hamilton-vegetative-propagation]] by rhizome division is effective but labor-intensive. Stem cuttings with attached rhizome nodes can also produce viable transplants.
 
 The species requires full sun and tolerates a wide range of moisture conditions. Established stands survive extended flooding and moderate drought.
 
 Biomass yields of 8 to 15 tonnes per hectare have been reported in managed bioenergy trials. Yields are highest on fertile, moist sites with full sun exposure.
 
 ## Uses and Conservation
-
-Spartina pectinata has a long history of use in soil conservation and erosion control. Dense rhizome networks stabilize stream banks, levees, and stormwater channels.
-
-Native American communities historically used the tough leaves for weaving mats and baskets. The stems were thatched for temporary shelters in some Great Plains cultures.
-
-Modern applications include constructed wetlands, riparian buffer strips, and phytoremediation of contaminated sites. The species tolerates moderate levels of heavy metals in soil.
-
-Bioenergy research has demonstrated the species' potential as a cellulosic ethanol feedstock. Its high lignin content requires pretreatment, but yields compare favorably with switchgrass.
-
-Conservation status is secure across most of its native range. However, wetland drainage and conversion to agriculture have reduced the extent of native prairie cordgrass communities.
-
-The species is included in native seed mixes for prairie and wetland restoration projects across the central United States and Canada.
-
-## See Also
-
-- [[spartina-alterniflora]]
-- [[panicum-virgatum]]
-- [[sorghastrum-nutans]]
-- andropogon virginicus
-- [[schizachyrium-scoparium]]
-- [[deschampsia-caespitosa]]
-- [[molinia-caerulea]]
-- [[typha-latifolia]]
-- [[juncus-effusus]]
-- [[bromus-inermis]]
-- [[schoenoplectus-lacustris]]

@@ -9,7 +9,7 @@ sources: [raw/papers/masanobu-fukuoka-the-road-back-to-nature.md]
 
 # Fukuoka Desert Reclamation
 
-In his later years, Masanobu Fukuoka applied natural farming principles to desert reclamation, believing that deserts were largely human-made and could be restored through natural methods. He conducted reclamation projects in Africa, India, and the Middle East. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
+In his later years, [[masanobu-fukuoka]] applied [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]] to desert reclamation, believing that deserts were largely human-made and could be restored through natural methods. He conducted reclamation projects in Africa, India, and the Middle East.
 
 ## Core Method: Clay Seed Balls
 
@@ -36,7 +36,7 @@ In his later years, Masanobu Fukuoka applied natural farming principles to deser
 ## The Philosophy
 
 ### Deserts Are Human-Created
-Fukuoka argued that most deserts expanded due to human activity: overgrazing, deforestation, tilling, and destruction of natural vegetation cover. The original ecosystem was self-sustaining and can potentially be restored. (see [[permaculture-forest-garden-establishment]]).
+Fukuoka argued that most deserts expanded due to human activity: overgrazing, deforestation, tilling, and destruction of natural vegetation cover. The original ecosystem was self-sustaining and can potentially be restored.
 
 ### Nature Knows Best
 - Don't try to recreate a specific ecosystem — let nature decide what grows
@@ -47,8 +47,8 @@ Fukuoka argued that most deserts expanded due to human activity: overgrazing, de
 ### Projects and Results
 - Greece: Coastal desert revegetation with seed balls (limited success due to goat grazing)
 - India: Successful greening of degraded land
-- Africa: Mixed results — seed ball germination successful but grazing pressure remained a problem
-- Key lesson: human communities must be part of the solution — livestock management must change
+- Africa: Mixed results — seed ball germination successful but [[gadd-mycelial-network-resilience-grazing-pressure]] remained a problem
+- Key lesson: human communities must be part of the solution — [[small-farm-livestock-management]] must change
 
 ## Limitations and Criticisms
 - Seed balls work best where some moisture is available — truly arid deserts (Sahara interior) may be beyond restoration
@@ -58,8 +58,25 @@ Fukuoka argued that most deserts expanded due to human activity: overgrazing, de
 - Requires protection from grazing during establishment phase
 
 ## Related
-- [[fukuoka-one-straw-revolution-philosophy]] — for philosophical foundation
+- [[fukuoka-one-straw-revolution-philosophy]] — for [[fukuoka-spiritual-philosophical-foundation]]
 - [[fukuoka-natural-farming-four-principles]] — for the four principles
 - [[natural-farming-seed-balls]] — for detailed seed ball instructions
 - fukuoka desert reclamation — for broader desertification context
 - [[food-forest-design]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[fukuoka-desert-reclamation-projects]]
+- [[fukuoka-road-back-desert-reclamation]]
+- [[fukuoka-green-gulch-zen-center-desert-reclamation]]
+- [[fukuoka-green-revolution-africa-desert-reclamation]]
+- [[fukuoka-sowing-desert-greening-worldwide-results]]

@@ -25,7 +25,7 @@ bright yellow on exposure to air, and peppery taste.
 
 The species epithet derives from Greek *chrysos* (gold) and *rheo* (to flow), referring
 to the characteristic golden-yellow coloration of the exuded latex. It is inedible due
-to its acrid taste but plays a significant ecological role in mixed forest ecosystems.
+to its acrid taste but plays a significant ecological role in mixed [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 ## Taxonomy and Morphology
 
@@ -63,10 +63,10 @@ L. chrysorrheus is widely distributed across temperate Europe, from the
 Mediterranean region to southern Scandinavia and the British Isles. It has also
 been recorded in North Africa and parts of western Asia.
 
-The species forms ectomycorrhizal associations primarily with oaks (*Quercus* spp.),
+The species forms [[ectomycorrhizal-associations]] primarily with oaks (*Quercus* spp.),
 particularly pedunculate oak (*Q. robur*) and sessile oak (*Q. petraea*).
-It is also found under beech (*Fagus sylvatica*), [[holzer-sweet-chestnut-and-nut-trees]] (*Castanea sativa*),
-and occasionally hornbeam (*Carpinus betulus*).
+It is also found under beech (*[[fagus-sylvatica]]*), [[holzer-sweet-chestnut-and-nut-trees]] (*[[castanea-sativa]]*),
+and occasionally hornbeam (*[[carpinus-betulus]]*).
 
 Fruiting occurs from late summer to late autumn (August to November), with peak
 fruiting in September and October. It prefers warm, dry autumns and calcareous or
@@ -81,43 +81,10 @@ after special preparation, L. chrysorrheus is generally avoided by foragers.
 
 The species is not considered toxic — ingestion causes no serious symptoms beyond
 the unpleasant peppery burning. However, it is sometimes confused with the
-edible Lactarius quietus, which has a milder taste and less vividly yellowing
+edible [[lactarius-quietus]], which has a milder taste and less vividly yellowing
 latex.
 
 ## Ecological Role
 
 As an ectomycorrhizal species, L. chrysorrheus forms mutualistic associations
 with forest trees, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The fungal mycelium extends
-the root absorption zone, providing trees with increased access to water and
-minerals, particularly phosphorus.
-
-In return, the [[ectomycorrhizal-host-tree-partnerships]] supplies the fungus with photosynthetic carbohydrates.
-This relationship is particularly important for oak forest health, contributing
-to overall ecosystem productivity and resilience.
-
-The species is relatively common within its range and is not considered
-threatened. It serves as a food source for various invertebrates and may
-contribute to soil aggregation and [[hamilton-composting-and-organic-matter-management]] cycling through its
-decomposing fruiting bodies.
-
-## Related Species
-
-Several Lactarius species share the yellowing latex characteristic and may
-be confused with L. chrysorrheus in the field.
-
-- **Lactarius quietus** — oak-associated, mild taste, latex turns pale yellow
-  slowly; considered edible
-- **Lactarius decipiens** — smaller, more vividly zonate cap, similar habitat
-- **Lactarius fulvissimus** — deeper orange cap, latex yellows more slowly,
-  associated with oak and beech
-- **Lactarius vinaceorufescens** — latex turns violet then yellow, associated
-  with conifers
-- **Lactarius chrysorheus** (misspelling) — sometimes used erroneously in
-  older literature for this species
-
-## See Also
-
-- [[lactarius-indigo]]
-- [[lactarius-volemus]]
-- [[russula-emetica]]
-- [[amanita-muscaria-entity]]

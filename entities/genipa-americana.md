@@ -88,29 +88,3 @@ The fruit also contains geniposidic acid, gardenoside, and several other iridoid
 Pharmacological studies have demonstrated genipin has anti-inflammatory, antioxidant, hepatoprotective, and neuroprotective activities in vitro and in animal models.
 
 Antimicrobial activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* has been documented for genipap extracts.
-
-## Cultivation
-
-Genipap is propagated primarily from seeds, which require scarification and warm, moist conditions for germination.
-
-[[cannabis-seed-germination-methods]] typically takes 30–60 days, with viability declining rapidly after 2–3 months of storage.
-
-Trees begin bearing fruit at 3–5 years from seed under favorable conditions.
-
-Fruiting occurs mainly during the rainy season, though in some regions trees produce two crops per year.
-
-Yields per tree range from 50 to 200 fruits annually, depending on tree age and growing conditions.
-
-The species shows promise for agroforestry systems due to its tolerance of partial shade and its multiple-use character (fruit, dye, timber).
-
-The wood is moderately heavy, durable, and used locally for construction, tool handles, and furniture making.
-
-## See Also
-
-- [[carica-papaya]]
-- [[paullinia-cupana]]
-- [[senna-alexandrina]]
-- [[cedrela-odorata]]
-- [[theobroma-cacao]]
-- [[elettaria-cardamomum]]
-- [[inga-edulis]]

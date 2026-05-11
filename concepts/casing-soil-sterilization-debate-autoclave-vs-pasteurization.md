@@ -88,35 +88,3 @@ compost or grain substrates.
 
 For home cultivators and small-scale operations, the sterilization
 approach offers a conservative, contamination-averse strategy. The
-additional time and energy cost of autoclaving casing soil is modest
-— one hour at pressure, using the same equipment and cycle already
-required for [[bulk-substrate-preparation]]. The potential benefit of
-eliminating mold inoculum from the casing layer may outweigh the
-theoretical loss of beneficial microorganisms.
-
-The key practical consideration is aseptic application. If casing
-soil is sterilized but then applied in a non-sterile environment or
-handled with contaminated tools, the sterilization benefit is lost.
-The sterilization approach demands that casing application be
-performed with the same hygiene standards used during inoculation.
-
-## Evidence from Both Camps
-
-The debate ultimately lacks rigorous head-to-head experimental
-comparisons published in peer-reviewed literature. Both positions are
-supported primarily by anecdotal evidence from experienced
-cultivators. A controlled study comparing contamination rates, yield,
-and flush patterns between sterilized and pasteurized casing under
-identical conditions would help resolve this question objectively.
-
-Until such evidence exists, cultivators should base their decision
-on their specific circumstances: available equipment, cultivation
-environment cleanliness, target species, and personal experience with
-contamination patterns in their particular setup.
-
-## See Also
-
-- [[casing-soil-recipe-peat-vermiculite-limestone]]
-- [[stamets-cultivator-pasteurization-vs-sterilization-methods]]
-- [[cotter-pasteurization-sterilization-methods]]
-- [[growing-gourmet-peroxide-sterilization-methods]]

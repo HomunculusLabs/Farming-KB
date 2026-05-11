@@ -1,5 +1,5 @@
 ---
-title: "Mycelial mycelial-foraging-strategies-nutrient-translocation in Heterogeneous Environments"
+title: Fungal Mycelial Foraging Heterogeneous Environments
 created: 2026-04-28
 tags: [fungal-ecology, mycelial-networks, foraging-behavior, basidiomycetes]
 date: 2026-04-25
@@ -15,7 +15,7 @@ through soil, foraging for and connecting discrete organic resources
 such as pieces of wood. Their mycelial systems exhibit complex
 foraging behaviors that parallel those of animals and clonal plants,
 responding dynamically to resource distribution, quality, and
-environmental conditions. These strategies are central to fungal mycelial foraging heterogeneous environments and fungal mycelial foraging heterogeneous environments.
+environmental conditions. These strategies are central to [[fungal-mycelial-competition-and-combat-outcomes]] foraging heterogeneous environments and fungal mycelial foraging heterogeneous environments.
 
 ## Short-Range and Long-Range Foraging
 
@@ -53,7 +53,7 @@ a single resource of equivalent total volume.
 
 Mycelial extension often slows or stops after resource encounter. The
 time before egress from a newly colonized resource depends on both the
-size of the new resource and the nutrient status of the whole system.
+size of the new resource and the [[leaf-tissue-analysis-crop-nutrient-status]] of the whole system.
 With Phan. velutina, egress from a 0.2 cubic cm resource took 7 days,
 but from a 16 cubic cm resource took 63 days. This pattern parallels
 the marginal value theorem from optimal foraging theory: just as animal
@@ -68,7 +68,7 @@ colonization.
 ## Division of Labour and Nutrient Translocation
 
 Nutrients scavenged during soil exploration are translocated through
-the mycelial network, commonly accumulating in connected wood resources.
+the [[beber-mycelial-network-graph-theory-cord-routing]], commonly accumulating in connected wood resources.
 Translocation rates can be rapid, sometimes exceeding 25 cm per hour,
 with the largest fluxes through cords interconnecting resources. This
 creates a physiological division of labour: original inoculum resources
@@ -88,11 +88,3 @@ main with multiple draw-off points.
 Mycelia inevitably encounter other fungi and soil organisms during
 growth. Combat outcomes between fungal species include deadlock,
 replacement, partial replacement, and mutual replacement, with
-morphological changes including production of defensive fans and
-altered fractal dimensions. The ectomycorrhizal fungal-mycelial-network-architecture, fungal-wood-decay-types-white-rot-brown-rot, [[ectomycorrhizal-associations]].
-## See Also
-- [[ectomycorrhiza]]
-- [[mycelial-networks]]
-- [[phanerochaete-velutina]]
-- [[fungal-mycelial-networks-nutrient-translocation]]
-- [[fungal-communities-extreme-environments]]

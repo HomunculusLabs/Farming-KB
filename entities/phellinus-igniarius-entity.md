@@ -15,12 +15,12 @@ sources:
 
 Phellinus igniarius, the willow bracket or fire sponge, is a perennial
 polypore in the family Hymenochaetaceae and one of the most extensively
-studied medicinal mushrooms in East Asian traditional medicine. Known as
+studied [[cancer-medicinal-mushrooms-extraction-bioavailability]] in East Asian traditional medicine. Known as
 *Sanghuang* in Chinese medicine, it has been used for over 2,000 years as
 an anti-inflammatory, antitumor, and immunomodulatory agent. The fungus
 parasitizes broadleaf trees — particularly willow, poplar, birch, and oak
 — causing white-rot heartwood decay. Modern pharmacological research has
-identified bioactive polysaccharides, phenolic compounds (hispidin, hispolon,
+identified bioactive polysaccharides, [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] (hispidin, hispolon,
 phelligridins), and triterpenoids that substantiate its traditional
 medicinal applications.
 
@@ -52,7 +52,7 @@ multiple Phellinus/Fuscoporia species on mulberry and other hardwoods.
 | **[[comparison-spore-print-collection-vs-spore-syringe-production]]** | Rusty brown |
 | **Odor/taste** | Earthy odor; strongly bitter taste |
 
-Fruiting bodies are perennial and long-lived, developing successive pore
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are perennial and long-lived, developing successive pore
 layers visible in cross-section. The dark upper surface resembles burned
 wood ("fire sponge"). Mature specimens are extremely hard.
 
@@ -68,7 +68,7 @@ wood ("fire sponge"). Mature specimens are extremely hard.
 
 The dimitic hyphal system and hymenial setae are key characters. Skeletal
 hyphae provide the tough, woody texture; setae are shorter and more
-delicate than Inonotus hispidus.
+delicate than [[inonotus-hispidus-entity]].
 
 ## Distribution and Habitat
 
@@ -88,62 +88,3 @@ delicate than Inonotus hispidus.
   component — the primary immunomodulatory constituent. Demonstrates potent
   macrophage activation and antitumor activity.
 - **Hispidin and hispolon:** Phenolic compounds with antioxidant,
-  anti-inflammatory, and antiproliferative activities. Hispolon IC50
-  values of 10–20 µM against various [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
-- **Igniariol:** Styrylpyrone specific to P. igniarius with tyrosinase
-  inhibitory and melanogenesis-suppressing activities.
-- **Phelligridins:** Hispidin-analog oligomers (dimers through tetramers)
-  with amplified antioxidant capacity over monomeric hispidin.
-- **Triterpenoids:** Lanostane-type triterpenoids (including inotodiol)
-  with anti-inflammatory activity via NF-κB and MAPK suppression.
-- **Phenolic acids:** Protocatechuic acid, caffeic acid, p-coumaric acid
-  contributing to free radical scavenging capacity.
-
-## Medicinal and Pharmacological Properties
-
-1. **Antitumor activity:** Hot-water extracts show 40–70% tumor inhibition
-   in murine sarcoma 180 models. Polysaccharide fractions activate host
-   immune responses rather than directly killing tumor cells.
-2. **Immunomodulation:** β-Glucans stimulate NK cell activity, enhance
-   dendritic cell maturation, and promote Th1 cytokine production.
-   Adjunctive use with chemotherapy explored in Chinese clinical studies.
-3. **Anti-inflammatory:** Ethanolic extracts inhibit COX-2, iNOS, and
-   TNF-α in LPS-stimulated macrophages. Animal models show dose-dependent
-   anti-inflammatory activity comparable to indomethacin.
-4. **Antioxidant:** Potent scavenging of DPPH, ABTS, and superoxide
-   radicals. Oligomeric phelligridins exhibit synergistic effects.
-5. **Hepatoprotective:** In CCl4-induced liver injury models, extracts
-   reduced ALT/AST and increased glutathione peroxidase activity.
-6. **Antidiabetic potential:** α-Glucosidase inhibition by hispidin suggests
-   blood glucose regulation potential.
-
-## Traditional Use
-
-In TCM, *Sanghuang* has been used for over 2,000 years to treat hemorrhage,
-dysmenorrhea, and digestive disorders. The earliest record appears in the
-*Shennong Ben Cao Jing* (~200 BCE). In Korean medicine, it is prescribed
-for stomach ailments and as a general tonic. Commercial products include
-extracts in capsule, tablet, and powder forms marketed primarily in East
-Asia for immune support.
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| Phellinus pomaceus | Smaller, on Prunus spp., thinner context |
-| Phellinus tremulae | Host-specific to Populus tremula, northern distribution |
-| Phellinus linteus | Tropical/subtropical, on mulberry, smaller spores (3–4 µm) |
-| Phellinus ferreus | On conifers, paler pore surface, thinner [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] |
-| Ganoderma applanatum | White pore surface when fresh, ornamented double-walled spores |
-
-## Conservation Status
-
-Not globally threatened. However, overharvesting of wild *Sanghuang* has
-raised concerns in China and Korea. Cultivation is challenging due to slow
-growth and specific substrate requirements.
-## See Also
-
-- [[phellinus-linteus]]
-- [[inonotus-hispidus-entity]]
-
-See also: [[sanghuangporus-baumii]]

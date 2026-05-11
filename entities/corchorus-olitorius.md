@@ -19,7 +19,7 @@ sources:
 
 **Corchorus olitorius** L., commonly known as jute mallow, bush okra, molokhia, or ewedu, is an annual herbaceous plant in the family Malvaceae (formerly Tiliaceae). It is one of two principal species cultivated for jute fiber production and is widely consumed as a leafy green vegetable across Africa, the Middle East, and South Asia.
 
-The species is among the most important leafy vegetables in tropical Africa and Egypt, where it forms a dietary staple. Its young leaves are rich in protein, minerals, and bioactive compounds including phenolic acids, flavonoids, and mucilaginous polysaccharides.
+The species is among the most important leafy vegetables in tropical Africa and Egypt, where it forms a dietary staple. Its young leaves are rich in protein, minerals, and [[cordyceps-cancer-bioactive-compounds]] including phenolic acids, flavonoids, and mucilaginous polysaccharides.
 
 ## Taxonomy and Morphology
 
@@ -27,11 +27,11 @@ The species is among the most important leafy vegetables in tropical Africa and 
 
 The plant is an erect, branched annual herb reaching 60–150 cm in height. Stems are cylindrical, green to reddish, and contain the bast fibers used for jute production.
 
-The root system is predominantly taprooted with lateral branching in the upper 30 cm of soil. Root architecture supports rapid [[plant-nutrient-uptake-mechanisms]], contributing to the species' fast growth rate.
+The root system is predominantly taprooted with lateral branching in the upper 30 cm of soil. Root architecture supports rapid [[plant-nutrient-uptake-mechanisms]], contributing to the species' fast [[soil-temperature-plant-growth-rate-doubling-rule]].
 
 Leaves are alternate, simple, serrate, lanceolate to ovate, 5–12 cm long and 2–5 cm wide, with an acuminate tip and ciliate margins.
 
-Leaf morphology varies considerably among cultivars, with some landraces producing broader, more deeply serrated leaves selected for [[dry-gardening-unirrigated-vegetable-production-solomon]]. Fiber-type cultivars tend to have narrower leaves.
+[[cannabis-leaf-morphology-and-phyllotaxy]] varies considerably among cultivars, with some landraces producing broader, more deeply serrated leaves selected for [[dry-gardening-unirrigated-vegetable-production-solomon]]. Fiber-type cultivars tend to have narrower leaves.
 
 Flowers are small (8–10 mm diameter), yellow, and borne in clusters in the leaf axils. They have 4–5 petals, numerous stamens, and a superior ovary. Flowering occurs 40–60 days after sowing.
 
@@ -59,13 +59,13 @@ For fiber production, plants are grown more densely (spaced 5–10 cm apart) and
 
 Fiber extraction involves retting the stems in water for 10–30 days, followed by stripping and washing. The quality of retted fiber depends on water temperature, pH, and duration — over-retting degrades fiber strength.
 
-The crop is relatively pest-resistant but can be affected by stem weevils, jute semilooper caterpillars, and fungal diseases including stem rot (*Macrophomina phaseolina*) and black band disease.
+The crop is relatively pest-resistant but can be affected by stem weevils, jute semilooper caterpillars, [[duggar-mushroom-insect-pests-and-fungal-diseases]] including stem rot (*Macrophomina phaseolina*) and black band disease.
 
 ## Nutritional Value
 
 Fresh jute mallow leaves are exceptionally nutritious, containing approximately 4–5 g protein per 100 g dry weight. They are among the richest plant sources of beta-carotene (provitamin A), iron, and calcium in tropical leafy vegetables.
 
-Compared to spinach (*Spinacia oleracea*), jute mallow provides roughly 3–4 times the iron content and twice the calcium per dry weight. This makes it a critical food for populations at risk of micronutrient deficiencies.
+Compared to spinach (*[[spinacia-oleracea]]*), jute mallow provides roughly 3–4 times the iron content and twice the calcium per dry weight. This makes it a critical food for populations at risk of micronutrient deficiencies.
 
 Vitamin C content ranges from 50–80 mg per 100 g fresh weight. The leaves also provide significant amounts of folate, riboflavin, and niacin.
 
@@ -73,7 +73,7 @@ Mineral content is notable for iron (7–10 mg/100 g dry weight) and calcium (30
 
 The leaves contain soluble dietary fiber and mucilage composed of galactoxyloglucan polysaccharides. This mucilage gives cooked leaves their characteristic viscous texture and provides prebiotic benefits for gut health.
 
-Amino acid analysis reveals high levels of lysine and methionine relative to other leafy vegetables, improving the protein quality when consumed with cereal-based staples.
+[[cho-fish-amino-acid-preparation]] analysis reveals high levels of lysine and methionine relative to other leafy vegetables, improving the protein quality when consumed with cereal-based staples.
 
 ## Uses and Bioactive Compounds
 
@@ -88,25 +88,3 @@ In South Asia, jute mallow leaves are stir-fried with mustard oil, garlic, and d
 In Japan, the plant is cultivated as "mororoheiya" and valued as a health food for its high nutrient density. It has gained popularity in Japanese health-food markets since its introduction in the 1980s.
 
 The bast fiber extracted from stems is the world's second most important natural fiber after cotton.
-
-Global jute production exceeds 3 million tonnes annually, with Bangladesh and India accounting for over 90% of supply. The fiber is used for sacks, ropes, carpet backing, geotextiles, and increasingly as a biodegradable alternative to synthetic packaging materials.
-
-Phytochemical analysis has identified phenolic acids (caffeic acid, chlorogenic acid), flavonoids (quercetin, kaempferol, luteolin glycosides), carotenoids (beta-carotene, lutein), and saponins.
-
-The species also contains corchorin, a cardenolide glycoside, and capsularin, a triterpene with anti-inflammatory activity. Antioxidant capacity of leaf extracts is among the highest measured for tropical leafy vegetables, attributed primarily to the high flavonoid content.
-
-Ethnopharmacological studies report traditional use for fever, gastrointestinal disorders, and as a tonic during pregnancy.
-
-Antimicrobial activity has been demonstrated against *Staphylococcus aureus* and *Escherichia coli*. Anti-inflammatory effects have been confirmed in rodent models of carrageenan-induced paw edema.
-
-## See Also
-
-- [[basella-alba]]
-- [[abelmoschus-esculentus]]
-- [[vigna-unguiculata]]
-- [[gynostemma-pentaphyllum]]
-- [[xanthosoma-sagittifolium]]
-- [[zea-mays]]
-- [[triticum-aestivum]]
-- [[capsicum-annuum]]
-- [[cucumis-sativus]]

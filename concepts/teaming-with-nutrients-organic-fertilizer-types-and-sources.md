@@ -1,5 +1,5 @@
 ---
-title: "Organic Fertilizer Types and Sources"
+title: Teaming With Nutrients Organic Fertilizer Types And Sources
 created: "2026-04-24"
 updated: "2026-04-24"
 type: concept
@@ -14,17 +14,17 @@ sources:
 ---
 
 # Organic Fertilizer Types and Sources
-Organic gardeners approach fertilization differently than conventional growers.
+[[soil-food-web-and-building-living-soil]] approach fertilization differently than conventional growers.
 Rather than applying concentrated chemical salts in exact NPK ratios, organic
-practice relies on natural materials that release nutrients slowly through
-biological [[soil-food-web]], and build long-term soil
+practice relies on [[building-with-natural-materials]] that release nutrients slowly through
+biological [[soil-foodweb]], and build long-term soil
 fertility. Understanding the nutrient profiles, release rates, and
-soil-building properties of different organic fertilizer sources allows
+soil-building properties of different [[organic-fertilizer-sources-guide]] allows
 gardeners to match materials to specific plant needs and soil conditions.
 
 ## Why Organic Fertilizers Work Differently
 
-Synthetic fertilizers dissolve quickly in soil water, creating an immediate
+[[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] dissolve quickly in soil water, creating an immediate
 surge of available ions that plants can take up through mass flow. This
 provides rapid green-up but has drawbacks: much of the nutrient can leach
 beyond the root zone before plants absorb it, salt concentrations can damage
@@ -63,7 +63,7 @@ ratios are relatively low, meaning they break down reasonably quickly.
 Made from fermented and dried alfalfa, this is one of the most versatile
 organic fertilizers. It contains not only NPK but also triacontanol (a natural
 
-(Section truncated for length. See Teaming with Nutrients for full details.)
+(Section truncated for length. See [[teaming-with-nutrients-availability-factors]] for full details.)
 
 ## Animal-Based Fertilizers
 
@@ -87,63 +87,3 @@ and flowering plants. Bone meal releases phosphorus slowly (over 1-4 months).
 It also contains calcium (about 24%) and some nitrogen. Bone meal is most
 effective in slightly acidic soils (pH below 7) where phosphorus solubility
 is highest. It may attract animals until the odor disappears.
-
-### Fish Products
-
-Fish meal (10-6-2): Ground, dried fish parts providing slow-release nitrogen
-with good phosphorus content. Lasts 1-4 months.
-Fish emulsion (5-2-2): Heat- and acid-processed fish parts resulting in a
-soluble, quick-acting fertilizer full of micronutrients. Must be diluted.
-Lasts 1-4 months. Smells like rotting fish for a few days.
-Fish powder (12-0.25-1): Highly soluble form, fast acting, used up within
-1 month. Can leach easily from soils.
-Hydrolyzed fish (4-2-2): Enzymatically digested (not heat-processed),
-retaining more proteins and compounds. Medium-acting, lasts up to 5 months.
-### Feather Meal (7-12-0)
-Ground poultry feathers are extremely high in slow-release nitrogen. The
-keratin protein in feathers is resistant to microbial breakdown, so feather
-meal provides nitrogen over an extended period of 6+ months. This makes it
-ideal for long-season crops that need sustained nitrogen feeding.
-### Bat Guano
-Two types exist: high-nitrogen guano (10-3-1) that is quick-acting and
-soluble, and high-phosphorus guano (3-10-1) for phosphorus needs. Nitrogen
-guano lasts 4-6 months; phosphorus guano lasts 1-4 months. Can burn plants if
-over-applied. Ensure any guano has been sustainably harvested.
-### Manures
-[Animal manures vary widely in nutrient content
-depending on species, diet, bedding, and storage. Generally, poultry manure is
-highest in nitrogen (4-8% when fresh), followed by sheep and goat, then horse
-and cow. Manures also provide phosphorus, potassium, micronutrients, and
-abundant organic matter. Fresh manure can burn plants and contain pathogens;
-composted or well-aged manure (6-12 months) is safer and more stable. In the
-home garden, manures must be completely composted for at least 72 hours at a
-minimum of 131°F (55°C) before use.
-## Mineral-Based Fertilizers
-Mineral amendments provide nutrients directly from geological sources. They
-are approved for organic growing because they are natural, unprocessed
-minerals.
-### Rock Phosphate (0-2.5-0)
-Finely ground phosphate rock provides slow-release phosphorus over 3-5
-years. Its availability depends on soil pH and microbial activity -- it works
-best in acidic soils (pH below 6.5) where acids dissolve the phosphate
-minerals. [[mycorrhiza]] l fungi dramatically
-improve phosphorus extraction from rock phosphate. Placement is key: it works
-best where roots will intercept the particles. Some gardeners claim it
-actually works better the second and third years.
-
-### Greensand (0-0-7)
-
-A marine sediment containing glauconite, greensand provides slow-release
-potassium along with iron, magnesium, and over thirty other elements. Formed
-on ancient sea beds, it releases nutrients over 2-3 years. It also improves
-soil moisture retention and structure.
-
-### Wood Ashes (0-1-3)
-
-A centuries-old potassium source, free for those with fireplaces. Ashes are
-alkaline and will increase pH, so they should not be used in soils already at
-proper pH. Do not use ash from treated charcoals or woods. Care must be taken
-not to over-apply.
-
-See [[teaming-with-microbes-the-organic-gardeners-guide-to-the-soil-food-web]] for more on Teaming With Microbes The Organic Gardeners Guide To The Soil Food Web.
-See [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] for more on Query What Are C3 C4 And Cam Photosynthesis And Why Does It Matter For Growers.

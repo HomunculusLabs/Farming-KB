@@ -1,5 +1,5 @@
 ---
-title: [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
+title: Psychedelic Psychotherapy
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -88,15 +88,3 @@ the 5-HT2A receptor and downstream BDNF [[plant-signaling-pathways]].
 ## Safety and Contraindications
 
 Psychedelic therapy is not appropriate for all individuals.
-Contraindications include personal or family history of psychotic
-disorders, certain cardiovascular conditions, and current use of
-serotonergic medications. Proper screening, preparation, and
-integration support are essential for maximizing safety and
-therapeutic benefit.
-
-## See Also
-
-- [[psycholytic-versus-psychedelic-therapy-models]]
-- [[set-and-setting-universal-framework-altered-states]]
-- [[metzner-shamanic-healing-three-forms-extraction-soul-retrieval-dismemberment]]
-- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]

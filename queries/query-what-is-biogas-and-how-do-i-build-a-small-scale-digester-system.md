@@ -93,7 +93,7 @@ Biogas technology plays an important role in climate change mitigation by addres
 
 ## Related Questions
 
-- [[query-what-is-biochar-and-should-i-use-it-in-my-garden]]
-- [[query-how-to-make-organic-fertilizer-at-home]]
+- [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]
+- [[query-how-to-make-your-own-organic-fertilizer-at-home]]
 - [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]
 - [[query-how-to-use-companion-planting-in-your-garden]]

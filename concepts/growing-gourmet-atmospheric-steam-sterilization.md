@@ -88,24 +88,3 @@ inoculations can begin.
 ## Practical Considerations
 
 Super-pasteurization of supplemented oak sawdust substrates,
-although effective, often results in less total yield than
-from the same substrate sterilized. The method requires:
-
-- A heat source capable of generating sustained steam
-- A well-insulated vessel or chamber
-- Reliable temperature monitoring at multiple points
-- Patience during the 12+ hour treatment and cooling cycle
-- Careful contamination prevention during cooling
-
-The addition of buffers like calcium carbonate and calcium
-sulfate are recommended for the more acidic woods to
-improve substrate receptimycelial-colonizationnization.
-
-## References
-
-- Stamets, P. Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]],
-  Chapter 17.
-- Badham, E.R. 1988. Yield of Shiitake on supplemented
-## See Also
-
-- [[growing-gourmet-phase-ii-steam-pasteurization]]

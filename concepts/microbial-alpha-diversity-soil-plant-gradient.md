@@ -1,5 +1,5 @@
 ---
-title: Microbial microbial alpha diversity soil plant gradient Across the Soil-Plant Gradient
+title: Microbial Alpha Diversity Soil Plant Gradient
 created: 2026-04-28
 tags: [microbiome, diversity, soil-science]
 date: 2026-04-28
@@ -72,7 +72,7 @@ experiment, but only in the bulk soil and rhizosphere compartments:
 
 The convergence of endorhiza diversity across soil types supports the
 two-tier [[two-tier-selection-model-plant-microbiome]]: despite different starting diversities in the
-soil, the plant selects a similarly diverse endorhiza community regardless
+soil, the plant selects a similarly diverse [[proteobacteria-dominance-cannabis-endorhiza-community]] regardless
 of soil origin.
 
 ## Experiment 1: Shallow Sequencing Results
@@ -88,43 +88,3 @@ the same gradient pattern was recovered:
 
 The endorhiza in experiment 1 showed dramatically lower diversity compared to
 experiment 2, which is attributed to [[cannabis-root-decay-cellvibrio-biomarker-post-harvest]]. Experiment 1 samples were
-collected 8 weeks post-harvest, while experiment 2 samples were taken from
-actively growing plants two weeks before harvest.
-
-## Cross-Experiment Comparison
-
-When samples from both experiments were pooled and rarified to the level of
-the first experiment (3,000 sequences), the endorhiza diversity difference
-became clear:
-
-- Experiment 1 endorhiza: chao1 mean = 916.1, s = 161.7
-- MB soil endorhiza (experiment 2): chao1 mean = 1,413, s = 280.1
-- OC soil endorhiza (experiment 2): chao1 mean = 1,374, s = 64.4
-
-The experiment 1 endorhiza diversity was greatly reduced compared to
-experiment 2, consistent with the early stages of root decay following
-harvesting. However, the bulk soil diversity of MB1 was intermediate
-(chao1: m = 2,010.7, s = 146.2) between the MB bulk soil (m = 2,319.1,
-s = 124.3) and OC bulk soil (m = 2,004.8, s = 118.6), indicating that
-the diversity reduction was specific to the endorhiza compartment and not
-a general soil effect.
-
-## Implications for the Two-Tier Selection Model
-
-The alpha diversity pattern provides additional support for the two-tier
-selection model:
-
-1. The large and consistent diversity drop from rhizosphere to endorhiza
-   confirms strong host genotype-dependent filtering at the root interior.
-2. The convergence of endorhiza diversity across different soil types shows
-   that the plant imposes a ceiling on endorhiza diversity regardless of
-   the available soil microbial pool.
-3. The modest diversity drop from bulk soil to rhizosphere reflects the
-   more permissive selective environment created by root exudates, where
-   soil type remains the dominant factor.
-
-## See Also
-
-- [[rhizosphere-microbiome-selection-model]] for the assembly framework
-- [[cellvibrio-and-root-decay-microbiome]] for post-harvest diversity effects
-- [[cannabis-microbiome-research]] for the complete study overview

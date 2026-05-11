@@ -1,5 +1,5 @@
 ---
-title: bloomfield-cryptococcus-neoformans-capsule-melanin-brain Pathogenesis
+title: Cryptococcus Neoformans Pathogenesis
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Cryptococcus Neoformans Pathogenesis
 
-Cryptococcus neoformans is an opportunistic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes life-threatening
+[[cryptococcus-neoformans]] is an opportunistic [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] that causes life-threatening
 meningoencephalitis, particularly in immunocompromised individuals. It is one of the most
 significant fungal killers worldwide, responsible for an estimated 200,000+ deaths annually,
 primarily among people living with HIV/AIDS.
@@ -76,7 +76,7 @@ selective advantage.
 - May present as pneumonia, lung nodules, or asymptomatic infection
 
 ### Cutaneous Cryptococcosis
-- Skin lesions that resemble molluscum contagiosum or other dermatological conditions
+- Skin lesions that resemble molluscum contagiosum or other [[blesching-cannabis-dermatological-conditions]]
 - Often indicates disseminated disease
 
 ## Diagnosis
@@ -85,14 +85,6 @@ selective advantage.
 - **Cryptococcal antigen test (CrAg):** Detects capsular polysaccharide in serum or CSF —
   highly sensitive and specific
 - **[[biodiversity-fungal-culture-preservation]]:** Gold standard but takes days to weeks
-- **PCR and molecular methods:** Emerging [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
+- **PCR and [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]:** Emerging [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
 
 ## Treatment
-
-- **Induction:** Amphotericin B ([[cryptococcus-neoformans]] Topics
-
-- [[amphotericin-b-antifungal]] - Primary treatment drug
-- [[melanized-fungal-pathogens]] - Overview of human [[bloomfield-fungal-pathogens-and-parasites]]
-- [[mucormycosis-zygomycete-infections]] - Zygomycete infections
-- [[fungal-single-cell-protein-production]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]

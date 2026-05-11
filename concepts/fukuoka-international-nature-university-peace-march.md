@@ -1,6 +1,6 @@
 ---
-title: fukuoka international nature university peace march University and Paris Peace March
-author: Masanobu Fukuoka
+title: Fukuoka International Nature University Peace March
+author: [[masanobu-fukuoka]]
 source: The Road Back to Nature
 type: concept
 tags:
@@ -26,7 +26,7 @@ Masanobu Fukuoka, in his book *The Road Back to Nature*, proposed the establishm
 an **International Nature University** as a central pillar of his vision for spreading
 [[comparison-natural-farming-vs-permaculture]] and ecological consciousness across the globe. This proposal was deeply
 connected to his participation in the **Paris Peace March** and his broader conviction
-that natural farming is not merely an agricultural technique but the essential path for
+that [[cho-loess-powder-in-natural-farming]] is not merely an agricultural technique but the essential path for
 humanity's survival.
 
 ## The International Nature University
@@ -54,7 +54,7 @@ mud-walled huts nestled in the hilltop orchard overlooking the Inland Sea.
 
 Fukuoka called these young people **"quarter-acre farmers."** The name captured the
 modest scale at which he believed meaningful agricultural reform could begin. One did
-not need vast tracts of land or expensive technology. A quarter acre, tended with the
+not need vast tracts of land or expensive technology. A [[fukuoka-agriculture-tomorrow-quarter-acre-vision]], tended with the
 [[four-principles-of-natural-farming]] farming, was sufficient to sustain a human life while restoring
 the soil and supporting local ecosystems.
 
@@ -79,60 +79,12 @@ intervene destructively in natural systems.
 
 ## The Food-as-Weapon Critique
 
-In a chapter titled **"Weapons for Defense?"**, Fukuoka drew a direct connection between
+In a chapter titled **"[[fukuoka-road-weapons-for-defense]]?"**, Fukuoka drew a direct connection between
 militarism and the industrialization of agriculture. He warned that rice seed was being
 developed as a geopolitical tool — a form of **food as a [[fukuoka-food-strategic-weapon-critique]]**. Nations
 were investing in agricultural technology not to feed people but to secure power, turning
 the very basis of human sustenance into an instrument of coercion and control.
 
-This critique revealed the political dimension of natural farming. For Fukuoka, a food
+This critique revealed the political dimension [[fukuoka-four-principles-of-natural-farming]]. For Fukuoka, a food
 system dependent on patented seeds, chemical inputs, and fossil-fuel infrastructure was
 inherently militarized. It created dependency, concentrated power, and made populations
-vulnerable to manipulation. Natural farming, by contrast, decentralized food production
-and returned self-sufficiency to individuals and communities.
-
-## Young People and the Movement Back to the Land
-
-The arrival of young people at Fukuoka's Shikoku farm was part of a broader movement
-of disaffected urban youth seeking alternatives to industrial society. These young
-people were drawn not only by the promise of clean food and rural living but by the
-spiritual dimension of Fukuoka's teaching — the idea that working the land without
-interference could reconnect humanity with something fundamental that had been lost.
-
-Fukuoka welcomed them not as students to be taught but as fellow participants in an
-experiment in living. The mud-walled huts, the diet of brown rice and vegetables, the
-absence of modern conveniences — these were not hardships to be endured but liberations
-to be embraced. The quarter-acre farm was simultaneously a farm, a school, a temple,
-and a demonstration that another way of life was possible.
-
-## Natural Farming as a Spiritual Path for World Peace
-
-At its deepest level, Fukuoka's proposal for the International Nature University was
-a spiritual one. He saw natural farming as a discipline of **letting go** — of
-abandoning the human ego's compulsion to improve, control, and dominate. The philosophy
-of mu was not merely an agricultural principle but a complete worldview in which peace,
-abundance, and ecological health emerged naturally when human arrogance was set aside.
-
-Fukuoka stated unequivocally that natural farming was "the one and only path that
-remains for humanity to continue to survive on this earth." The International Nature
-University would institutionalize this teaching, sending graduates around the world to
-establish quarter-acre farms and spread the practice of doing nothing — the most
-profound and difficult doing of all.
-
-## Legacy and Significance
-
-The International Nature University was never built as a formal institution during
-Fukuoka's lifetime, yet its spirit lived on through the network of natural farming
-practitioners he inspired across every continent. The quarter-acre farmer concept
-influenced the permaculture movement, the urban agriculture revival, and the growing
-global recognition that small-scale, ecologically integrated farming is essential for
-food security and environmental restoration.
-
-Fukuoka's fusion of agricultural practice with peace philosophy remains one of the
-most original contributions to ecological thought in the [[coleman-louis-savier-twentieth-century-maraicher]]. He
-demonstrated that the path to a peaceful world does not begin with treaties or
-
-## See Also
-- [[fukuoka-peace-march-war-agriculture]]
-- [[fukuoka-nature-is-unknowable]]
-- [[fukuoka-paris-peace-march-nature-university]]

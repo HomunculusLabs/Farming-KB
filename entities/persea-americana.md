@@ -87,28 +87,3 @@ Avocado leaves and seed are used in traditional medicine across Mesoamerica for 
 The wood of avocado trees is relatively soft and not commercially important as timber. However, pruned branches serve as mulch and a slow-release nutrient source in orchard systems. In permaculture design, avocado is often placed as an upper canopy layer in food-forest guilds.
 
 Industrial applications include avocado oil extraction for cosmetics and culinary use, with the seed yielding natural dyes and potential bio-based polymers. Avocado waste (skin and seed) is being investigated as a source of antioxidants and functional food ingredients.
-
-### Major Cultivar Groups
-
-Three horticultural races form the basis of all commercial avocado cultivars. Mexican-race types dominate cool-climate production in California and Chile, while Guatemalan-race types predominate in Central American highland regions. West Indian types are the standard in tropical lowland production zones including Florida, the Caribbean, and Southeast Asia.
-
-The Hass cultivar, a chance Guatemalan × Mexican hybrid discovered in 1926 in California, remains the dominant commercial variety worldwide. Its thick, pebbly skin darkens from green to purplish-black during ripening, providing a reliable visual maturity indicator.
-
-The Fuerte cultivar, another Guatemalan × Mexican hybrid, was the industry standard before Hass. It retains green skin at maturity and has a smoother, more buttery texture. Green-skin cultivars (Fuerte, Reed, Pinkerton, Zutano) maintain niche markets where Hass is unsuitable.
-
-### Economic Importance
-
-Avocado is one of the fastest-growing tropical fruit commodities globally, with production increasing approximately 5% annually over the past two decades. Mexico supplies roughly 30% of world output and dominates export markets, particularly to the United States.
-
-The fruit generates significant export revenue for producing countries. In 2023, global avocado exports exceeded $7 billion USD. The rising demand is driven by perceived health benefits, particularly the fruit's role in Mediterranean and plant-based dietary patterns.
-
-## See Also
-
-- [[laurus-nobilis]]
-- [[mangifera-indica]]
-- [[theobroma-cacao]]
-- [[citrus-sinensis]]
-- [[solanum-tuberosum]]
-- [[artocarpus-heterophyllus]]
-- [[passiflora-edulis]]
-- [[annona-muricata]]

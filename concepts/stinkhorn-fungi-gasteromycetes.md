@@ -77,3 +77,20 @@ open and architecturally diverse structures:
 - **[[basidiomycota-classification-major-clades]]
 - [[fungal-spore-dispersal]]
 - [[cordyceps-insect-pathogenic-fungi]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
+- [[stinkhorn-fungi-biology-and-spore-dispersal]]
+- [[stinkhorn-fungi-and-insect-spore-dispersal]]
+- [[gasteromycetes-sacred-fungi]]
+- [[stinkhorn-cage-fungi-reproductive-biology]]

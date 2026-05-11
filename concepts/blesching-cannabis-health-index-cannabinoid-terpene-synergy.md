@@ -10,14 +10,14 @@ tags: [cannabis]
 
 # Cannabinoid-Terpene Synergy
 
-How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The Cannabis Health Index" (2015). Covers the [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cannabis-sativa-vs-indica-guide]] profiles, and whole-plant medicine.
+How cannabinoids, terpenes, and spice-based compounds work together synergistically, from Blesching's "The [[blesching-cannabis-health-index-autoimmune-conditions]]" (2015). Covers the [[cannabis-terpene-entourage-effect-profiles]], (E)-beta-caryophyllene as a food-based cannabinoid, [[cannabis-sativa-vs-indica-guide]] profiles, and whole-plant medicine.
 
 ## The Entourage Effect
 
-Blesching emphasizes that cannabis is not a single-molecule medicine but a complex botanical with **111+ cannabinoids** and **200-250 additional constituents** including terpenoids that act as important co-factors in therapeutic effects. The whole plant produces greater efficacy than isolated compounds:
+Blesching emphasizes that cannabis is not a single-molecule medicine but a complex botanical with **111+ cannabinoids** and **200-250 additional constituents** including terpenoids that act as important co-factors in [[cbd-therapeutic-effects]]. The whole plant produces greater efficacy than isolated compounds:
 
 - All types of cannabinoids (endogenous, plant-based, synthetic) plus non-cannabinoid plant constituents show anti-inflammatory action
-- THC and CBD work together: CBD tames THC's psychoactive effects while amplifying its therapeutic properties
+- THC and CBD work together: CBD tames THC's psychoactive effects while amplifying its [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
 - CBD acts as a "negative allosteric modulator" at the CB1 receptor, allowing patients to access THC's therapeutic powers at higher concentrations
 - THC in low-dose combination with morphine produces synergistic analgesic effects while reducing opiate-related risks
 
@@ -31,12 +31,12 @@ Blesching emphasizes that cannabis is not a single-molecule medicine but a compl
 ### THC (Tetrahydrocannabinol)
 - Binds both CB1 and CB2 receptors
 - Primary psychoactive component; also analgesic, anti-inflammatory, neuroprotective
-- Higher concentrations in sativa strains; responsible for euphoria, pain relief, appetite stimulation
+- Higher concentrations in sativa strains; responsible for euphoria, pain relief, [[cannabis-for-cachexia-and-appetite-stimulation]]
 
 ### CBD (Cannabidiol)
 - Non-psychoactive; higher affinity for CB2 receptors
 - Antipsychotic, anxiolytic, antidepressant, anti-inflammatory, anti-tumor
-- Protects against neurodegeneration; calms autonomic stress responses via serotonin receptors
+- Protects against neurodegeneration; calms autonomic [[fungal-stress-responses]] via [[psilocybin-pharmacology-and-serotonin-receptors]]
 - Effective for pediatric epileptic seizures refractory to pharmaceuticals
 - Selectively produces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells (apoptosis) without impacting normal cells
 
@@ -88,16 +88,3 @@ Used in conjunction with cannabis, a **synergy of beneficial effects** may resul
 ## Whole-Plant vs Synthetic
 
 Pharmaceuticals like Dronabinol (synthetic THC) and Nabilone contain single cannabinoids without the other 200-250 biologically active compounds found in the whole plant. Sativex, a plant-derived THC:CBD spray, represents a middle ground. Blesching argues that complete cannabinoid profiles from whole-plant preparations likely produce superior therapeutic outcomes through synergistic effects not yet fully understood.
-
-## Related
-
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
-- blesching-cannabis-health-index-inflammatory-conditions
-- endocannabinoid-system
-- sativa-vs-indica
-- entourage-effect
-- [[beta-caryophyllene-dietary-cannabinoid]]
-- [[blesching-cannabis-health-index-mental-health-applications]]
-- blesching cannabis health index [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] synergy
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]]
-- [[cannabis-for-cachexia-and-appetite-stimulation]]

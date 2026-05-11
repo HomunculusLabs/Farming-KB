@@ -31,12 +31,12 @@ serious disease known as mucormycosis or phycomycosis.
 
 Mucor racemosus is a fast growing fungus that forms an interwoven dense
 mycelial mat. When first growing, the mycelium appears whitish and cottony,
-closely resembling mushroom mycelium, which can make initial identification
+closely resembling [[antimicrobial-compounds-mushroom-mycelium]], which can make initial identification
 difficult. As the mold matures, it produces stalk like sporangiophores that
 are not swollen at the apex but are enveloped by a spherical spore producing
 body, the sporangium.
 
-The mold soon becomes grayish and then blackish overall with spore production.
+The mold soon becomes grayish and then blackish overall with [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]].
 When Mucor sporulates, it appears like a forest of black headed pins, which
 is why it is commonly called the Black Pin Mold. On malt agar media,
 sporangiophores often do not form, making identification difficult in culture.
@@ -55,11 +55,11 @@ the target mushroom species during [[growing-gourmet-sawdust-spawn-production-us
 Mucor racemosus is a common saprophyte found in a wide range of environments.
 It naturally inhabits stored grains, horse dung, old straw, mushroom composts,
 peat, soil, and plant debris. The mold is also known to rot textiles, indicating
-its broad enzymatic capabilities for breaking down organic materials.
+its broad [[fungal-enzymatic-capabilities]] for breaking down organic materials.
 
-Within mushroom cultivation facilities, Mucor is encountered primarily during
-spawn production on grain and on agar media. The species can also appear on
-compost substrates, particularly when contaminated spawn is inadvertently
+Within [[mushroom-cultivation-overview]] facilities, Mucor is encountered primarily during
+[[cotter-grain-spawn-production]] on grain and on agar media. The species can also appear on
+[[mushroom-compost-substrates]], particularly when contaminated spawn is inadvertently
 inoculated onto the mushroom compost.
 
 The spores of Mucor are airborne and readily settle onto exposed media, grain,
@@ -88,40 +88,3 @@ Mucor, it will sporulate in a few days and be easy to identify by its
 characteristic black pin head appearance.
 
 ## Contamination Control
-
-Measures of control for Mucor racemosus focus on prevention:
-
-- Air filtration to reduce airborne spore load
-- Sufficient [[pressure-cooker-sterilization-of-grain-jars]] media
-- Immediate removal and isolation of contaminated regions
-- Proper disposal of spent compost, aged mushrooms, and cropping debris
-- Exercising general hygienic practices
-
-The related species Mucor pusillus is a true thermophile that thrives in the
-68 to 131 degrees F (20 to 55 degrees C) range and is a major constituent in
-the microflora of compost piles. While M. pusillus plays a natural role in
-composting, M. racemosus is primarily a problem in controlled cultivation
-environments where [[cultivator-sterile-technique-and-agar-culture]] is compromised.
-
-## Interactions
-
-Mucor racemosus is closely related to Rhizopus, a genus that differs from
-Mucor by having a smaller sporangium that recedes from the head of the
-sporangiophore. Both genera are primary contaminants of grain spawn alongside
-Aspergillus and Penicillium.
-
-The non sporulating mycelium of Mucor closely resembles that of Sepedonium,
-another contaminant found in mushroom culture. Cultivators should be aware of
-these morphological similarities when inspecting spawn cultures.
-
-Some species of Mucor are toxic and pose health risks. Mucor pusillus and other
-mucoraceous fungi are the cause of mucormycosis or phycomycosis, a rare but
-deadly disease. Although Mucor attacks open wounds, the outer ear, and the
-lungs, it is not a primary parasite but one that takes advantage of poor health
-caused from other diseases. These diseases are more prevalent in tropical and
-semitropical zones than in temperate regions.
-
-## See Also
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
-- [[pseudomonas-putida-entity-the-mushroom-cultivator]]
-- [[verticillium-malthousei-entity-the-mushroom-cultivator]]

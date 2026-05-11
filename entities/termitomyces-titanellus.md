@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of the African region." Kew Bulletin, 49(4), 727-740.
   - Hegde, D.M. & Anke, T. (2012). "The genus Termitomyces: A review." Mycobiology, 40(3), 157-165.
-  - Oei, P. (2005). "accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Technologies for Developing Countries." Tools for Agriculture, 3rd ed.
+  - Oei, P. (2005). "accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Technologies for [[low-cost-mushroom-growing-house-construction-developing-countries]]." Tools for Agriculture, 3rd ed.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS, 99(23), 14887-14892.
 ---
 
@@ -24,7 +24,7 @@ sources:
 
 It is among the most prized wild [[palmer-edible-mushrooms-north-america]] on the African continent, sought after for both its substantial size and excellent culinary qualities. The species forms an obligate mutualism with termites of the genus *Macrotermes*, which cultivate the fungus within their subterranean comb structures.
 
-Fruiting bodies emerge synchronously from termite mounds during the rainy season, often after heavy downpours. This phenological pattern has made the mushroom culturally significant in many African communities as a seasonal delicacy and income source.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] emerge synchronously from termite mounds during the rainy season, often after heavy downpours. This phenological pattern has made the mushroom culturally significant in many African communities as a seasonal delicacy and income source.
 
 ## Taxonomy
 
@@ -44,7 +44,7 @@ Some authorities have treated *T. titanellus* as a variety of *T. clypeatus*, bu
 
 The genus *Termitomyces* contains approximately 30 described species, all of which are obligate associates of fungus-growing termites. *T. titanellus* is most closely related to *T. microcarpus* and *T. medius* based on ITS sequence data.
 
-The largest species in the genus, *T. titanicus* (formerly *T. robustus*), can produce caps exceeding one meter in diameter. *T. eurrhizus* and *T. heimii* are the most commercially cultivated species in Southeast Asia, where termite mushroom cultivation has been developed.
+The largest species in the genus, *T. titanicus* (formerly *T. robustus*), can produce caps exceeding one meter in diameter. *T. eurrhizus* and *T. heimii* are the most commercially cultivated species in [[psilocybe-southeast-asia-pacific]], where termite [[accessible-mushroom-cultivation-for-disabilities]] has been developed.
 
 ## Morphology
 
@@ -66,7 +66,7 @@ Fruiting occurs during the warm rainy season, typically between November and Mar
 
 ## Ethnobotanical Use
 
-*Termitomyces titanellus* is one of the most commercially important wild mushrooms in Africa. In many regions, it is collected for both subsistence consumption and local market sale, where prices can exceed those of [[fungi-cultivated-mushrooms-pathogens-competitors]].
+*Termitomyces titanellus* is one of the most commercially important [[edible-wild-mushrooms-by-region]] in Africa. In many regions, it is collected for both subsistence consumption and local market sale, where prices can exceed those of [[fungi-cultivated-mushrooms-pathogens-competitors]].
 
 The mushroom is typically prepared by grilling, frying, or drying. Dried specimens are preserved for use during off-season months, retaining much of their flavor and nutritional value.
 
@@ -82,30 +82,8 @@ The relationship between *Termitomyces* species and fungus-growing termites repr
 
 *Mutualism specificity:* Each *Macrotermes* species tends to cultivate a particular *Termitomyces* species, though some flexibility exists. The termites actively manage the fungal garden, removing competing fungi and maintaining optimal moisture and temperature conditions.
 
-The termites consume both the degraded comb material and the *Termitomyces* mycelium and conidia (asexual spores). The mature fruiting bodies that emerge above-ground are not directly consumed by termites, and their ecological function is primarily dispersal.
+The termites consume both the degraded comb material and the *Termitomyces* mycelium and conidia (asexual spores). The mature fruiting bodies that emerge above-ground are not directly consumed by termites, and their [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] is primarily dispersal.
 
 ### Ecological Role
 
 *Termitomyces titanellus* plays a significant role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in tropical savanna and woodland ecosystems. Through the termite-fungus symbiosis, the species contributes to the decomposition of large volumes of plant litter and the recycling of carbon, nitrogen, and phosphorus.
-
-The termite mounds where *Termitomyces* grows are also biodiversity hotspots, supporting unique microbial communities and providing microhabitats for other organisms.
-
-## Nutritional Value
-
-*Termitomyces titanellus* is nutritionally comparable to other cultivated edible mushrooms, with high protein content relative to fresh weight. Crude protein ranges from 19-25% of dry weight, with a favorable amino acid profile containing all essential amino acids.
-
-The mushroom is rich in minerals, particularly potassium, phosphorus, and zinc, and contains significant amounts of B vitamins including riboflavin, niacin, and folate. Total carbohydrate content is approximately 40-50% of dry weight, with dietary fiber constituting a substantial portion.
-
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] identified in *Termitomyces* species include ergosterol (a vitamin D precursor), termitomycamide (a unique fatty acid amide), and various phenolic compounds with demonstrated antioxidant activity. These contribute to the mushroom's reputation in traditional medicine for supporting immune function.
-
-## See Also
-
-- [[termitomyces-umkowaani]]
-- [[ganoderma-lucidum]]
-- [[pleurotus-ostreatus]]
-- [[stropharia-rugosoannulata]]
-- [[grifola-frondosa]]
-- [[wolfiporia-extensa]]
-- [[volvariella-volvacea]]
-- [[poria-cocos]]
-- [[coprinus-comatus]]

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis cannabis trichome development cannabinoid biosynthesis sites and clarke-marijuana-botany-cannabinoid-biosynthesis-pathway Sites"
+title: Cannabis Trichome Development Cannabinoid Biosynthesis Sites
 concept_type: biology
 topic: cannabis
 related: ["trichome-development-and-morphology", "thc-content-factors-cultivation-freshness-storage-degradation-blesching", "terpene-profile-chemotaxonomy"]
@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-Cannabis glandular trichomes are the specialized epidermal structures responsible for synthesizing and storing the plant's valuable [[antifungal-secondary-metabolites-coprophilous-fungi]] — cannabinoids, terpenes, and flavonoids. Understanding trichome development, anatomy, and biosynthetic activity is fundamental to [[query-how-does-no-till-cannabis-cultivation-work]], breeding, and product quality control. The vast majority of cannabis's pharmacological and commercial value resides within these microscopic structures, which are concentrated primarily on the female inflorescence (flower) surfaces.
+[[cannabis-glandular-trichome-types-resin-production-clarke]] trichomes are the specialized epidermal structures responsible for synthesizing and storing the plant's valuable [[antifungal-secondary-metabolites-coprophilous-fungi]] — cannabinoids, terpenes, and flavonoids. Understanding trichome development, anatomy, and biosynthetic activity is fundamental to [[query-how-does-no-till-cannabis-cultivation-work]], breeding, and product quality control. The vast majority of cannabis's pharmacological and commercial value resides within these microscopic structures, which are concentrated primarily on the female inflorescence (flower) surfaces.
 
 ## Trichome Types in Cannabis
 
@@ -39,7 +39,7 @@ Trichome initiation begins during the [[comparison-cannabis-vegetative-stage-vs-
 
 - **GLABROUS1 (GL1)-like transcription factors**: Homologs of the Arabidopsis trichome initiation genes regulate the spatial pattern of glandular trichome formation.
 - **Photoperiod**: The switch to short-day conditions (12/12 light/dark) that triggers flowering also upregulates trichome development genes.
-- **Hormonal regulation**: Cytokinins, gibberellins, and jasmonic acid promote trichome initiation. Ethylene and abscisic acid modulate maturation.
+- **Hormonal regulation**: Cytokinins, gibberellins, and [[jasmonic-acid-plant-defense-signaling]] promote trichome initiation. Ethylene and abscisic acid modulate maturation.
 
 ### Stalk Elongation and Gland Formation
 
@@ -57,7 +57,7 @@ Trichome maturation is visually assessed by color change:
 - **Cloudy/milky**: Peak cannabinoid production. The resin is accumulating rapidly and the gland is at maximum biosynthetic activity. Cloudy trichomes correspond to peak THC levels in THC-dominant cultivars.
 - **Amber/golden**: THC is beginning to degrade to CBN (cannabinol). In THC-dominant cultivars, amber trichomes indicate late harvest with more sedative effects. In CBD-dominant cultivars, amber coloration may indicate peak CBD maturity.
 
-The timing of harvest relative to trichome maturity is the single most important factor determining the psychoactive profile and therapeutic effects of cannabis flowers.
+The timing of harvest relative to trichome maturity is the single most important factor determining the psychoactive profile and [[cbd-therapeutic-effects]] of cannabis flowers.
 
 ## Anatomy of the Glandular Head
 
@@ -68,7 +68,7 @@ The secretory disc cells form a convex layer beneath the cuticle. These cells ar
 - **Abundant endoplasmic reticulum**: For protein synthesis and membrane production.
 - **Numerous plastids**: Site of terpene precursor synthesis (geranyl pyrophosphate from the MEP pathway).
 - **Large nuclei**: Reflecting high transcriptional activity of biosynthetic genes.
-- **Vacuoles with phenolic compounds**: Possibly involved in defense of the trichome itself.
+- **Vacuoles with [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Possibly involved in defense of the trichome itself.
 
 ### Subcuticular Space
 
@@ -88,60 +88,3 @@ The resin stored in the subcuticular space is a complex mixture:
 ## Cannabinoid Biosynthesis Within Trichomes
 
 ### Compartmentalization
-
-Cannabinoid biosynthesis is spatially organized within the trichome:
-
-1. **Plastids**: The MEP (methylerythritol phosphate) pathway produces geranyl pyrophosphate (GPP), the universal monoterpene precursor, within plastids.
-2. **Cytosol**: Olivetolic acid is synthesized from hexanoic acid and malonyl-CoA by a polyketide synthase complex (OAC/TKS).
-3. **Prenylation**: CBGAS (cannabigerolic acid synthase) transfers the geranyl group from GPP to olivetolic acid, producing CBGA (cannabigerolic acid) — the universal cannabinoid precursor. This reaction occurs at the interface of plastids and the cytosol.
-4. **Branching enzymes**: THCAS (THC acid synthase) and CBDAS (CBD acid synthase) are membrane-associated oxidoreductases that convert CBGA to THCA and CBDA respectively. Their localization within the secretory cells determines the THC:CBD ratio.
-5. **Storage**: The final carboxylic acid cannabinoids accumulate in the subcuticular space.
-
-### THCAS and CBDAS: The Branch Point
-
-The genetic determinant of a cultivar's THC:CBD ratio is the presence and activity of THCAS and CBDAS:
-
-- **THCA-dominant**: High THCAS activity, low CBDAS activity. Produces predominantly THCA, which decarboxylates to THC upon heating.
-- **CBDA-dominant**: High CBDAS activity, low THCAS activity. Produces predominantly CBDA.
-- **Balanced**: Both enzymes active, producing roughly equal amounts of THCA and CBDA.
-- **CBGA-dominant**: Low activity of both enzymes, resulting in CBGA accumulation ("Type IV" chemovars).
-
-These enzymes are co-dominant, so heterozygous individuals (carrying one functional allele of each) produce both THC and CBD. Homozygous individuals (two functional THCAS alleles, non-functional CBDAS) produce predominantly THC.
-
-### Terpene Biosynthesis
-
-Terpene biosynthesis in trichomes occurs through:
-
-- **MEP pathway** (plastid-localized): Produces GPP and the monoterpenes (C10 compounds) that dominate the cannabis aroma profile.
-- **MVA pathway** (cytosol-localized): Produces farnesyl pyrophosphate (FPP) and sesquiterpenes (C15 compounds) like β-caryophyllene and α-humulene.
-
-The relative activity of these two pathways determines the monoterpene:sesquiterpene ratio in the final product.
-
-## Environmental Influences on Trichome Development
-
-### Light
-
-Light quality and intensity profoundly affect trichome density and cannabinoid content:
-
-- **UV-B exposure**: Increases trichome density and THC production, possibly as a UV-protective response (cannabinoids absorb UV-B radiation). UV-B supplementation (280–315 nm) during flowering is used by some cultivators.
-- **Light intensity**: Higher light intensity generally increases trichome density and cannabinoid concentration, up to a saturation point.
-- **Photoperiod**: The transition from vegetative (18/6) to flowering (12/12) photoperiod triggers trichome proliferation.
-
-### Temperature
-
-Moderate temperatures (22–28°C during the light period) optimize trichome development. Excessive heat (>30°C) reduces terpene content through volatilization and may reduce trichome density. Cool night temperatures (18–22°C) can enhance terpene production and preservation.
-
-### Stress Responses
-
-Various stressors can increase cannabinoid and terpene production as defensive responses:
-
-- **Mechanical stress**: Gentle physical disturbance may upregulate cannabinoid biosynthesis.
-- **Nutrient stress**: Slight phosphorus or nitrogen limitation during late flowering can shift resources toward secondary metabolite production.
-- **Pest pressure**: Herbivore damage induces jasmonic acid signaling, which upregulates both trichome development and cannabinoid biosynthesis genes.
-
-## See Also
-
-- [[trichome-development-and-morphology]]
-- [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
-- [[terpene-profile-chemotaxonomy]]
-- [[cannabis-terpene-pharmacology-and-entourage-effect]]

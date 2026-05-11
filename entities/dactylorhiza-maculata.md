@@ -28,7 +28,7 @@ Dactylorhiza maculata is one of the most widespread and commonly encountered orc
 
 The species is widely cultivated by orchid enthusiasts and is available from specialist nurseries. Garden cultivation requires acidic soil, consistent moisture, and a position in full sun to partial shade.
 
-The species is entirely dependent on mycorrhizal fungi for seed germination and early growth, making it an indicator species for intact grassland and wetland ecosystems. Its presence signals healthy soil microbial communities.
+The species is entirely dependent on [[arbuscular-mycorrhizal-fungi]] for [[cannabis-seed-germination]] and [[cervantes-seedling-care-early-growth]], making it an indicator species for intact grassland and wetland ecosystems. Its presence signals healthy soil [[cannabis-rhizosphere-microbial-communities]].
 
 ## Taxonomy and Morphology
 
@@ -38,7 +38,7 @@ The taxonomic history of Dactylorhiza has been complex, with species previously 
 
 The specific epithet maculata refers to the spotted markings on the flowers. Several subspecies have been recognized, including D. maculata subsp. maculata, D. maculata subsp. ericetorum, and D. maculata subsp. elodes, though taxonomic boundaries remain debated.
 
-The plant produces two palmately lobed tubers each growing season: a replacement tuber for the current year and a smaller tuber that will support the following year's growth. Old tubers wither after nutrient transfer is complete.
+The plant produces two palmately lobed tubers each [[extending-growing-season]]: a replacement tuber for the current year and a smaller tuber that will support the following year's growth. Old tubers wither after nutrient transfer is complete.
 
 Stems are erect, hollow, and unbranched, bearing 4–10 keeled, linear to lanceolate leaves. Leaves are 5–15 cm long, often marked with dark purple or brown spots on the upper surface.
 
@@ -62,13 +62,13 @@ The species is absent from the Mediterranean islands and the extreme north of Sc
 
 Populations are largest and most stable in the British Isles, Scandinavia, and the Baltic states, where extensive areas of semi-natural grassland persist. Fragmented populations in central and southern Europe are more vulnerable to local extinction.
 
-Typical habitats include damp meadows, marshy grasslands, heathland margins, peatland edges, and open woodland clearings. It prefers acidic to neutral soils with high organic matter content and consistent moisture.
+Typical habitats include damp meadows, marshy grasslands, heathland margins, peatland edges, and open woodland clearings. It prefers acidic to neutral soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content and consistent moisture.
 
 Elevation range extends from sea level to approximately 2,000 meters in mountainous regions. Alpine populations tend to produce smaller plants with more intensely colored flowers.
 
 The species tolerates moderate grazing and mowing, which helps maintain open habitat structure. Abandonment of traditional management practices is a significant threat in many areas.
 
-Soil moisture requirements are high during the growing season, though the tubers can survive periods of summer drought by entering dormancy. Waterlogged conditions during winter dormancy may cause tuber rot.
+Soil moisture requirements are high during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], though the tubers can survive periods of summer drought by entering dormancy. Waterlogged conditions during winter dormancy may cause tuber rot.
 
 Light availability is a critical factor, with plants growing most vigorously in full sun to partial shade. Shading by tall grasses or shrub encroachment reduces flowering frequency and seed set.
 
@@ -82,40 +82,8 @@ Field observations indicate that bumblebees of the genus Bombus are the most eff
 
 The species exhibits a mixed mating system, with both insect-mediated cross-pollination and autonomous self-pollination occurring. Self-pollination rates increase in marginal habitats where pollinator visitation is infrequent.
 
-Seed production is prolific, with individual plants producing tens of thousands of minute dust-like seeds per capsule. Seeds are dispersed by wind over considerable distances.
+[[cannabis-controlled-pollination-seed-production]] is prolific, with individual plants producing tens of thousands of minute dust-like seeds per capsule. Seeds are dispersed by wind over considerable distances.
 
-Seed germination is obligately dependent on infection by basidiomycete fungi in the Rhizoctonia group. The fungal partner provides carbon nutrition to the developing embryo, which lacks endosperm.
+Seed germination is obligately dependent on infection by [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] the Rhizoctonia group. The fungal partner provides carbon nutrition to the developing embryo, which lacks endosperm.
 
 This mycorrhizal dependency persists through the seedling stage and continues at reduced levels in mature plants. The specificity of the fungal partnership varies among populations and habitats.
-
-Mature plants allocate a significant proportion of their carbon budget to maintaining the mycorrhizal connection. This partnership enhances nutrient uptake, particularly phosphorus, from nutrient-poor soils.
-
-Vegetative reproduction through tuber division also occurs, producing genetically identical clonal offspring. This mechanism allows populations to persist locally even when seedling recruitment fails.
-
-## Conservation Status
-
-Dactylorhiza maculata is listed as Least Concern on the IUCN Red List and is protected under national legislation in several European countries. However, regional declines have been documented in areas of intensive agriculture.
-
-The primary threat is habitat loss through drainage of wet grasslands, conversion to arable cultivation, and abandonment of traditional hay meadow management. Eutrophication from agricultural runoff also negatively impacts populations.
-
-Climate change poses an emerging threat through altered precipitation patterns and increased frequency of summer droughts. Southern populations may become increasingly stressed as growing conditions shift beyond the species' tolerance range.
-
-Herbivory by deer and rabbits can reduce flowering success, particularly in small isolated populations where grazing pressure is concentrated. Fencing and exclosure experiments have demonstrated improved flowering rates when herbivore access is restricted.
-
-Conservation efforts focus on maintaining traditional low-intensity grassland management through mowing regimes and controlled grazing. Habitat restoration projects have successfully reintroduced the species to former sites.
-
-The species is monitored through national botanical recording schemes in most European countries. Long-term population data indicate stability in protected sites but continued decline in unprotected agricultural landscapes.
-
-Citizen science programs, particularly the UK's National Plant Monitoring Scheme, have contributed valuable distribution data for tracking population trends across the species' range.
-
-## See Also
-
-- [[orchid-mycorrhiza]]
-- [[mycorrhiza]]
-- [[mycorrhizal-fungi]]
-- [[iris-pseudacorus]]
-- [[primula-vulgaris]]
-- [[digitalis-purpurea]]
-- [[pulsatilla-vulgaris]]
-- [[gentiana-lutea]]
-- [[arnica-montana]]

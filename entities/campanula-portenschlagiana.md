@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Fedorov A (1976). "Campanula L." In: Flora Europaea, Vol. 4. Cambridge University Press.
   - Royal Horticultural Society (2023). "Campanula portenschlagiana." RHS Plant Finder.
-  - Kovanda M (1970). "Polyploidy and Variation in the Campanula garganica Group." Preslia, 42: 206–221.
+  - Kovanda M (1970). "Polyploidy and Variation in the [[campanula-garganica]] Group." Preslia, 42: 206–221.
   - Tucker AO, Debaggio A (2009). The Encyclopedia of Herbs. Timber Press.
 ---
 
@@ -37,7 +37,7 @@ The horticultural name "muralis" (meaning "of walls") is still commonly encounte
 - Synonyms: C. muralis sensu hort., non Rochel
 - Section: Campanula
 
-Closely allied with Campanula garganica and Campanula poscharskyana in the "garganica group." It is a tetraploid (2n = 68) while C. garganica is diploid, supporting their separation as distinct species despite horticultural confusion.
+Closely allied with Campanula garganica and [[campanula-poscharskyana]] in the "garganica group." It is a tetraploid (2n = 68) while C. garganica is diploid, supporting their separation as distinct species despite horticultural confusion.
 
 **Morphology:**
 - Height: 5–15 cm, spreading to 50 cm or more
@@ -81,41 +81,10 @@ The species roots freely at stem nodes, allowing it to colonize crevices and gap
 
 No significant pest or disease problems. Crown rot may occur in poorly drained, waterlogged soils.
 
-The species tolerates salt spray and is suitable for coastal gardens in exposed positions. This salt tolerance is uncommon in the genus and reflects the Adriatic coastal origins of the species.
+The species tolerates salt spray and is suitable for coastal gardens in exposed positions. This [[fungal-salt-tolerance-and-ion-homeostasis]] is uncommon in the genus and reflects the Adriatic coastal origins of the species.
 
-In very hot climates, plants benefit from afternoon shade and a mulch of gravel to keep the root zone cool. Foliage may become semi-evergreen in colder zones, dying back to the crown in severe winters and regrowing in spring.
+In very hot climates, plants benefit from afternoon shade and a mulch of gravel to keep the [[cervantes-root-zone-heating]] cool. Foliage may become semi-evergreen in colder zones, dying back to the crown in severe winters and regrowing in spring.
 
 ## Ecological Role
 
-The deep purple flowers are highly attractive to bees, particularly bumblebees and solitary bees. The tubular corolla provides access primarily to medium-tongued pollinators.
-
-Flowering is prolific, with individual mature plants producing 50–100 flowers over a single season. This abundance makes the species valuable for supporting pollinator populations in garden settings.
-
-In its native karst habitat, the species contributes to cliff and scree plant communities alongside Sesleria spp., Cyclamen purpurascens, and various ferns adapted to limestone substrates.
-
-The Dinaric karst is among the most species-rich limestone ecosystems in Europe, and C. portenschlagiana is one of its characteristic vascular plant species.
-
-The dense mat-forming growth helps stabilize loose scree and wall rubble, reducing erosion on steep limestone terrain. Evergreen foliage provides year-round ground cover.
-
-## Horticultural Significance
-
-Campanula portenschlagiana has been a mainstay of rock garden and wall planting since the Victorian era. Its extreme hardiness and reliable performance have made it one of the most commonly available campanulas in garden centers worldwide.
-
-The species is frequently used in municipal plantings, green roof systems, and drought-tolerant landscaping schemes. Its ability to thrive in thin, poor soils over limestone makes it ideal for green roof substrates where few other flowering perennials succeed.
-
-It hybridizes naturally with C. poscharskyana where both are grown, producing intermediate forms with varying flower color and habit. These spontaneous hybrids have contributed to confusion in the nursery trade, with many plants sold under incorrect names.
-
-The Award of Garden Merit from the RHS confirms this species as one of the most reliable and garden-worthy campanulas available. Its combination of hardiness, vigor, and ornamental appeal has few rivals among low-growing bellflowers.
-
-## See Also
-
-- [[campanula-garganica]]
-- [[campanula-poscharskyana]]
-- [[campanula-cochlearifolia]]
-- [[campanula-carpatica]]
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[campanula-glomerata]]
-- [[campanula-punctata]]
-- [[lobelia-erinus]]
-- [[platycodon-grandiflorus]]
+The deep purple flowers are highly attractive to bees, particularly bumblebees and [[comparison-honey-bees-vs-native-solitary-bees]]. The tubular corolla provides access primarily to medium-tongued pollinators.

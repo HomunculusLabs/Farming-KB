@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora of North America
+  - Flora huckleberries-and-wild-berries-of-north-america
   - USDA NRCS Plant Guide
   - Royal Horticultural Society
 ---
@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-Cornus sericea is a deciduous shrub in the family Cornaceae, native to a large portion of North America. It is commonly known as red-osier dogwood, redtwig dogwood, or American dogwood, referencing its distinctive red stems.
+Cornus sericea is a deciduous shrub in the family Cornaceae, native to a large portion of [[guzman-psilocybin-mushrooms-north-america]]. It is commonly known as red-osier dogwood, redtwig dogwood, or American dogwood, referencing its distinctive red stems.
 
 The species is one of the most widely distributed shrubs in North America, occurring from Alaska to Newfoundland and south to California, New Mexico, and Virginia. It is a dominant component of riparian and wetland plant communities across this range.
 
 Red-osier dogwood is valued both ecologically and ornamentally. Its bright red winter stems provide striking visual interest in landscapes, while its dense root systems make it an excellent soil stabilizer along streambanks and wetland margins.
 
-The species is remarkably adaptable, tolerating a wide range of soil conditions from saturated wetland soils to relatively dry upland sites. This adaptability has made it a popular choice for ecological restoration projects and native plant landscaping.
+The species is remarkably adaptable, tolerating a wide range of soil conditions from saturated wetland soils to relatively dry upland sites. This adaptability has made it a popular choice for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects and native plant landscaping.
 
 ## Taxonomy and Morphology
 
@@ -33,7 +33,7 @@ Cornus sericea was described by Carl Linnaeus in 1753, with the specific epithet
 
 The plant is a multi-stemmed deciduous shrub that typically grows 1.5 to 4 meters tall, spreading by stolons and rhizomes to form dense thickets. Mature colonies can cover large areas, particularly in favorable riparian habitats.
 
-The leaves are opposite, ovate to elliptic, 5 to 12 cm long and 3 to 7 cm wide, with prominent parallel veins characteristic of the genus. The upper leaf surface is dark green and glabrous, while the lower surface is paler with fine silky hairs.
+The leaves are opposite, ovate to elliptic, 5 to 12 cm long and 3 to 7 cm wide, with prominent parallel veins characteristic of the genus. The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and glabrous, while the lower surface is paler with fine silky hairs.
 
 The inflorescence is a flat-topped cyme 3 to 6 cm across, composed of small creamy-white flowers each about 5 mm in diameter. Flowering occurs from May to July, with the showy white flower clusters attracting numerous pollinators.
 
@@ -43,21 +43,21 @@ The most distinctive feature is the bright red to crimson coloration of new stem
 
 ## Distribution and Habitat
 
-Cornus sericea occupies an enormous native range spanning most of northern and western North America. It occurs from the tree line in Alaska and northern Canada southward through the western and central United States.
+Cornus sericea occupies an enormous native range spanning most of northern and western North America. It occurs from the tree line in Alaska and northern Canada southward through the western and central [[dmt-containing-plants-united-states-halpern]].
 
 The species is most abundant in riparian corridors, wetland margins, and moist meadows where it forms dense thickets along streambanks, lake shores, and floodplains. It frequently dominates the shrub layer in these wetland communities.
 
-Red-osier dogwood is a common understory component of boreal forests, northern hardwood forests, and mixed coniferous-deciduous woodlands. It occurs in plant associations with species such as alder, willow, and various sedges.
+Red-osier dogwood is a common understory component of [[biodiversity-fungi-temperate-boreal-forests]], northern hardwood forests, and mixed coniferous-deciduous woodlands. It occurs in plant associations with species such as alder, willow, and various sedges.
 
 The species tolerates a broad range of soil types including silts, clays, loams, and sandy alluvial deposits. It prefers consistently moist to wet soils but can persist in seasonally dry sites, though growth and vigor are reduced under drought conditions.
 
-Cornus sericea occurs from sea level to approximately 2,500 meters elevation in the Rocky Mountains. It is particularly abundant in the boreal forest zone where it contributes significantly to understory biomass and wildlife habitat structure.
+Cornus sericea occurs from sea level to approximately 2,500 meters elevation in the Rocky Mountains. It is particularly abundant in the boreal forest zone where it contributes significantly to understory biomass and [[hemenway-backyard-wildlife-habitat]] structure.
 
 ## Ecology
 
 The fruit of Cornus sericea is a critical food resource for numerous bird species during late summer and fall. At least 48 species of birds are documented consuming the drupes, including American robins, cedar waxwings, gray catbirds, and various thrushes.
 
-Mammalian wildlife also depends on Cornus sericea for food and cover. White-tailed deer, moose, and elk browse the foliage and twigs, while beavers use the stems for dam construction and winter food caches.
+Mammalian wildlife also depends on Cornus sericea for food and cover. White-tailed deer, moose, and elk browse the foliage and twigs, while beavers use the stems for [[mollison-designers-dam-construction-and-water-storage]] winter food caches.
 
 The flowers are an important nectar and pollen source for native bees, butterflies, and other pollinating insects during the late spring flowering period. The species supports a diverse community of flower-visiting insects including several specialist bee species.
 
@@ -65,11 +65,11 @@ Cornus sericea provides critical cover and nesting habitat for a wide variety of
 
 The extensive root system and stoloniferous habit make Cornus sericea one of the most effective native shrubs for streambank stabilization. Its dense mat of roots binds soil and reduces erosion along waterways throughout its native range.
 
-In wetland ecosystems, red-osier dogwood plays a significant role in nutrient cycling and water filtration. The root systems trap sediments and absorb excess nutrients from surface runoff before they reach open water bodies.
+In wetland ecosystems, red-osier dogwood plays a significant role in [[soil-protozoa-nutrient-cycling-and-mineralization]] water filtration. The root systems trap sediments and absorb excess nutrients from surface runoff before they reach open water bodies.
 
 ## Cultivation and Uses
 
-Cornus sericea is one of the most widely cultivated native North American shrubs in the horticultural trade. Its primary ornamental feature is the brilliant red winter stem coloration, which provides exceptional visual interest in otherwise dormant landscapes.
+Cornus sericea is one of the most widely cultivated native [[growing-gourmet-north-american-reishi-species]] shrubs in the horticultural trade. Its primary ornamental feature is the brilliant red winter stem coloration, which provides exceptional visual interest in otherwise dormant landscapes.
 
 The species is exceptionally easy to cultivate, tolerating a wide range of soil conditions from waterlogged to moderately dry. It performs best in full sun to partial shade, with the most intense stem coloration developing in plants grown in full sun exposure.
 
@@ -83,38 +83,8 @@ The species is also effective as a living snow fence and windbreak in rural and 
 
 In the nursery trade, red-osier dogwood is typically propagated from hardwood cuttings taken in late winter or from softwood cuttings in early summer. Both methods root readily without the need for hormone treatments, making commercial propagation straightforward.
 
-The species is relatively free of serious disease and pest problems in cultivation. However, dogwood anthracnose caused by Discula destructiva can affect plants under stress, and leaf spot fungi may cause minor aesthetic damage during wet growing seasons.
+The species is relatively free of serious disease and pest problems in cultivation. However, dogwood anthracnose caused by Discula destructiva can affect plants under stress, and leaf spot fungi may cause minor aesthetic damage during wet [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Traditional and Medicinal Uses
 
-Native American peoples across the species range used Cornus sericea extensively for a variety of practical and medicinal purposes. The flexible, tough stems were employed in basket weaving, arrow shaft construction, and the making of various implements.
-
-The inner bark was used as a tobacco substitute and mixed with smoking mixtures by several indigenous cultures across the northern plains and boreal regions. The dried and shredded bark was also used as a poultice for wounds and skin ailments.
-
-An infusion of the bark was traditionally used to treat colds, coughs, and fevers among several Native American groups. The Ojibwa people used a bark decoction as an eyewash, while the Potawatomi employed it for digestive complaints and headaches.
-
-The bright red bark extract was used as a dye for baskets, textiles, and other materials. Different preparation methods produced colors ranging from deep red to rust-brown, depending on the mordant used and the part of the plant harvested.
-
-Pioneers and early European settlers adopted many of these uses, employing red-osier dogwood bark as a substitute for quinine in the treatment of intermittent fevers. The bark contains glycosides and tannins that contribute to its medicinal properties.
-
-Modern phytochemical research has identified several bioactive compounds in Cornus sericea, including flavonoids, iridoid glycosides, and tannins. Some of these compounds have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities in laboratory studies.
-
-Despite its rich ethnobotanical history, Cornus sericea has received relatively limited attention from modern pharmacological research compared to other members of the genus. The potential medicinal applications of its phytochemical constituents remain largely unexplored.
-
-Recent interest in native plant-based medicines has renewed attention to Cornus sericea and its bioactive compounds. Preliminary screening studies have identified several compounds with promising biological activity worthy of further investigation.
-
-The species continues to hold cultural significance for many Native American communities, who use it in traditional crafts and ceremonies.
-Ethnobotanical surveys document its continued use in basketry, tool-making, and ceremonial contexts across the northern plains and boreal regions. Conservation of wild populations ensures this culturally important plant remains available for future generations.
-
-## See Also
-
-- [[cornus-florida]]
-- [[cornus-mas]]
-- [[viburnum-opulus]]
-- [[sambucus-nigra]]
-- [[betula-nigra]]
-- [[salix-nigra]]
-- [[acer-saccharum]]
-- [[quercus-alba]]
-- [[physocarpus-opulifolius]]
-- Ilex verticillata
+[[halpern-sacramental-peyote-and-native-american-church]] peoples across the species range used Cornus sericea extensively for a variety of practical and medicinal purposes. The flexible, tough stems were employed in basket weaving, arrow shaft construction, and the making of various implements.

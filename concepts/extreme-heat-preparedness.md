@@ -9,14 +9,14 @@ sources: []
 
 # Extreme Heat Preparedness
 
-Extreme heat is the deadliest weather-related hazard in the United States, causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops. (see [[permaculture-climate-adaptation]]).
+Extreme heat is the deadliest weather-related hazard in the [[dmt-containing-plants-united-states-halpern]], causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops.
 
 ## Understanding Heat Risk
 
 **Heat Advisory:** Heat index of 100-104°F for 2+ hours
 **Excessive Heat Warning:** Heat index of 105°F+ for 2+ hours
 
-The heat index accounts for humidity. High humidity prevents sweat from evaporating, which is the body's primary cooling mechanism. A temperature of 90°F with 70% humidity feels like 106°F. (see [[comparison-fermented-vegetables-vs-canning]]).
+The heat index accounts for humidity. High humidity prevents sweat from evaporating, which is the body's primary cooling mechanism. A temperature of 90°F with 70% humidity feels like 106°F.
 
 Key terms:
 - **Heat exhaustion:** Heavy sweating, weakness, cold/clammy skin, fast/weak pulse, nausea. Can progress to heat stroke.
@@ -73,7 +73,7 @@ Dehydration is the primary driver of heat illness. Thirst is not a reliable indi
 
 **Pregnant women:** Core temperature is naturally elevated. Dehydration increases risk of preterm labor.
 
-**People with chronic conditions:** Heart disease, diabetes, obesity, and respiratory conditions increase heat vulnerability.
+**People with chronic conditions:** [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]], diabetes, obesity, and [[cannabis-respiratory-conditions]] increase heat vulnerability.
 
 ## Livestock Care During Extreme Heat
 
@@ -83,7 +83,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 - Provide continuous access to shade — natural or constructed
 - Ensure unlimited access to cool, clean water — consumption doubles or triples
 - Check water sources multiple times daily
-- Add electrolytes to water if animals show heat stress
+- Add electrolytes to water if animals show [[heat-stress-cannabis]]
 - Avoid handling, transporting, or working livestock during peak heat
 - Ensure adequate ventilation in all animal shelters
 
@@ -119,7 +119,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 ## Related Concepts
 
 - safety — General safety and emergency preparedness
-- animal husbandry — Routine livestock care and management
+- [[holzer-natural-animal-husbandry]] — Routine livestock care and management
 - livestock health — Livestock health monitoring during stress events
 - [[water-management]] — Water supply and irrigation during drought and heat
 

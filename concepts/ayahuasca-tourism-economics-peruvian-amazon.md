@@ -87,35 +87,3 @@ Stuart's fieldwork revealed a wide spectrum of practitioner integrity among ayah
 ## Medical Safety Considerations
 
 Stuart documented the death of an AIDS patient during a ceremony in Bolivia. The patient was reportedly sufficiently healthy to dance at the beginning of the service, suggesting a fatal drug interaction between antiretroviral medications and the MAO-inhibiting [[turner-harmala-alkaloids-preparation-and-dosage]] in ayahuasca rather than a direct effect of the brew itself. This case underscores the critical importance of medication screening before ceremony participation.
-
-## Long-Term Sustainability and Ethical Considerations
-
-The economic dynamics of ayahuasca tourism raise important questions about long-term sustainability and cultural preservation. As the practice becomes increasingly commodified for foreign consumption, several risks emerge:
-
-1. **Cultural dilution**: Ceremonies tailored for tourist consumption may gradually lose the depth and specificity that characterize traditional healing practices, creating a feedback loop where increasingly superficial experiences become the norm
-2. **Resource depletion**: Increased demand for ayahuasca ingredients could pressure wild populations of Banisteriopsis caapi and Psychotria viridis, though cultivated supplies currently appear adequate
-3. **Dependency economics**: Communities that become economically dependent on ayahuasca tourism may be vulnerable to shifts in Western spiritual trends, creating an unstable economic foundation
-4. **Exploitation risk**: The large income disparity between practitioners and community members could incentivize individuals to enter the practice primarily for financial gain rather than genuine healing commitment
-
-## The Home-Brew Alternative
-
-Stuart noted that for individuals specifically interested in experiencing ayahuasca rather than engaging in cultural tourism, home preparation would be far more cost-effective. With Banisteriopsis caapi and Psychotria viridis ordered from ethnobotanical suppliers and an experienced friend as a sitter, one could have an intense entheogenic experience in safety and comfort without the expense, uncertainty, and logistical challenges of traveling to South America. This approach could potentially provide a deeper experience than many commercial tourism offerings.
-
-## Historical Context of Western Spiritual Tourism
-
-Stuart contextualized ayahuasca tourism within a broader historical pattern of Western spiritual seeking across decades, noting that each era has adopted a different non-Western spiritual tradition:
-
-- **1950s**: The Beats explored Zen Buddhism
-- **1960s**: Hippies flocked to Hindu swamis and gurus
-- **1970s**: Cult leaders like the Reverend Moon attracted large followings
-- **1980s**: New Agers embraced Tibetan lamas and Buddhist practices
-- **1990s**: Shamanism came into vogue, setting the stage for the ayahuasca tourism boom
-
-## See Also
-
-- [[ayahuasca-tourism-infrastructure-peruvian-amazon]]
-
-- [[ayahuasca-tourism]] - General overview of ayahuasca tourism
-- [[ayahuasca-tourism-practitioners-and-safety-considerations]] - Safety and practitioner evaluation
-- [[ayahuasca-tourism-peru-retreat-landscape]] - Peruvian retreat infrastructure
-- [[icaros-power-songs]] - Ceremonial songs in ayahuasca rituals

@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -47,7 +48,7 @@ The land itself was never the constraint; the social system was.
 
 ## The Hundred-Crop Farm
 
-Farmers at the time were said to grow a hundred crops. In the paddy field and [[maintaining-organic-matter-in-vegetable-gardens]], they raised rice, barley, and other grains, as well as sweet potato and many different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by a shelterbelt.
+Farmers at the time were said to grow a hundred crops. In the [[cho-imo-collection-bamboo-stump-and-paddy-field]] and [[maintaining-organic-matter-in-vegetable-gardens]], they raised rice, barley, and other grains, as well as [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] many different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by a shelterbelt.
 
 A cow was kept under the same roof and chickens ran about loose in the farmyard, protected by a dog. A beehive hung from the eaves. This model of diversified, [[ultra-low-cost-integrated-farming]] stands in stark contrast to the monoculture systems that dominate [[fukuoka-critique-modern-agriculture]].
 
@@ -79,50 +80,10 @@ The farmer who once grew a hundred crops and fed his family from his own land no
 
 Farming operations are usually discussed in terms of economics, but what may appear economically critical is often quite insignificant while something that seems economically trivial may be of overriding importance.
 
-The viability of a farming operation is generally determined on the basis of income, but Fukuoka challenges whether this makes sense at all. Japan has the world's highest land productivity and output per unit of farmland, but labor productivity and output per farm worker is very low, as is the level of income.
+The viability of a farming operation is generally determined on the basis of income, but Fukuoka challenges whether this [[coleman-first-rule-nature-makes-sense]] at all. Japan has the world's highest land productivity and output per unit of farmland, but labor productivity and output per farm worker is very low, as is the level of income.
 
 ## The Economist's Flawed Target
 
 Economists have maintained all along that, no matter how high the yields per acre, this means nothing if the remuneration per worker is low. Their ultimate target has been to search for a way of raising income by expanding the scale of operations and raising labor productivity.
 
 Granted Japan's farmers are among the most diligent in the world and with their highly advanced skills and techniques reap high yields. But their small fields make conditions for low-cost farming operations poor.
-
-## Low Labor Productivity as a Point of Pride
-
-If anything, the low labor productivity of Japan's farmers in spite of their high yields is cause for pride rather than shame. Low income merely indicates either that prices for produce are unreasonably low or that farming [[oss-oeric-equipment-and-materials-list]] are unfairly high, inflating production costs.
-
-The farmers have never had any control over the price of farm produce or the costs of materials used in crop production. It is the consumer who determines whether the prices of farm products will be high or low. Farmers never calculated the wages for their labor because farming was done aside from any considerations over money.
-
-## Ecological Productivity Versus Economic Metrics
-
-The low labor productivity of traditional Japanese farming, measured in economic terms, actually reflects high ecological productivity. The farmer who produces abundant food from a small piece of land using minimal external inputs is practicing the most efficient form of agriculture possible, even if economic metrics fail to capture this efficiency.
-
-## The International Division of Labor Fallacy
-
-Because farming in Japan appears economically unjustifiable by conventional metrics, agricultural scientists and administrators have concluded that Japan should move toward an international division of labor in food production and have perhaps the United States produce food for them.
-
-This has become the core of Japan's current agricultural policy. Fukuoka regards this as fundamentally misguided. A nation that cannot feed itself is not truly independent, regardless of how much money it has.
-
-## Agriculture Has Nothing to Do with Profitability
-
-Agriculture has nothing to do, fundamentally, with profitability. The overriding concern is how to make use of the land. The goal of farming is to produce plentiful harvest by bringing out the full forces of nature, because this also happens to be the shortest road to knowing and approaching nature.
-
-Farming is not centered on income or on man; at its core are natural fields that transcend man. The fields of nature are the representatives of nature; they are God. The farmer is in the service of God, so immediate gain is a secondary concern. He should rejoice and feel gratified when his fields bear richly.
-
-## The Original Image of Farming
-
-In this sense, the Japanese farmer, who lived off the smallest possible piece of land, was faithful in bringing out the utmost in both the land and himself. One-acre farmers and quarter-acre farmers are the original image of farming.
-
-The proposal for quarter-acre farming is a call to escape from a currency-based economy and devote oneself to a life of genuine self-sufficiency rooted in the land.
-
-## Food Should Not Be Priced Competitively
-
-Whether [[fungal-endophytes-agricultural-crops]] have prices at all is the deeper question. What sense is there in importing oranges from the United States and exporting mandarin oranges? Agricultural crops grown by [[natural-farming]] should be assessed on the basis of a natural economy rather than a currency-based one.
-
-The price of Japanese rice, the price of Thai rice, and the farmer's price for rice should not be compared in terms of money but in terms of the relationship each has to the land and the people who eat it. Food is sacred, and reducing it to a commodity traded on international markets is a fundamental error.
-
-## See Also
-
-- fukuoka-textdoc-mu-economics-natural-farming-beyond-money
-- [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]

@@ -1,102 +1,90 @@
 ---
-title: Cannabis sativa-landrace-strains-and-geographic-origins
-created: 2026-04-26
-updated: 2026-04-23
-sources:
-  - "Cervantes - Marijuana Horticulture"
-type: concept
-tags: [cannabis]
+title: Cannabis Landrace Strains
+aliases: [[cervantes-landrace-cannabis-populations]], heirloom cannabis, heritage strains, landrace sativas]
+tags: [cannabis, genetics, landrace, breeding, sativa, geography]
+source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
+created: 2026-05-10
 ---
 
 # Cannabis Landrace Strains
 
-Landrace strains are the original, regionally adapted cannabis varieties
-that evolved in specific geographic areas over centuries of natural
-selection and traditional cultivation. They form the genetic foundation
-upon which virtually all modern cannabis hybrids are built. Cervantes
-describes the major landrace groups and their characteristics as the
-basis for understanding [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]] and breeding origins.
+[[landrace-cannabis-sativa-strains]] strains are genetically distinct, regionally adapted populations that evolved in
+specific geographic locations over centuries or millennia of natural selection and traditional
+cultivation. Unlike modern hybrid strains created through intentional breeding programs, landraces
+represent cannabis in its original, place-based forms — shaped by local climate, soil, photoperiod,
+and the cultural practices of the people who grew them.
 
-## What Are Landrace Strains
+## What Defines a Landrace
 
-Landrace strains are cannabis populations that developed in isolation
-in their native regions, adapting to local climate, soil conditions,
-photoperiod, and cultivation practices. These populations became
-genetically distinct through generations of natural and human selection.
-Sam the Skunkman, quoted by Cervantes, notes that breeders "stand on
-the shoulders of those who have come before us" and can build upon
-improvements made to landraces and wild populations.
+A landrace strain meets several criteria:
 
-Heirloom varieties, a related concept, are the product of many years
-of selective planting and seed saving. The original seeds bore plants
-with particular traits the grower liked -- typically flavor, color, or
-psychoactive effect. The term "heirloom" arose because some cultivars
-have been selected across generations, often passed within families or
-shared among friends. Heirloom varieties are non-hybrid (open-pollinated)
-and breed relatively true.
+- **Geographic specificity**: It developed in a defined region and is adapted to that region's
+  conditions.
+- **[[cannabis-genetic-stability]]**: It reproduces relatively true from seed, maintaining consistent
+  characteristics across generations.
+- **Historical continuity**: It has been grown in its region for many generations, typically
+  centuries.
+- **Adaptation**: It possesses traits specifically suited to its local environment — flowering
+  time matched to local seasons, pest resistance, climate tolerance.
 
-## Cannabis Sativa
+Landraces are not "pure" in a taxonomic sense — they may contain [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] from
+historical trade routes and human migration. But they represent stabilized, regionally distinct
+gene pools that have been isolated long enough to develop unique characteristics.
 
-Cannabis sativa originated in equatorial regions and is characterized
-by tall, leggy growth with narrow leaflets. Sativa strains can flower
-for extended periods -- Thai varieties can flower for four months or
-longer. Classic sativa landraces include:
+## Major Landrace Regions
 
-- **Thai landraces:** Producing very light, wispy buds with sprawling
-  branches. Thai strains often contain tetrahydrocannabivarin (THCV),
-  which modifies the psychoactive effect, producing a distinctive
-  "Thai high." Examples include 'Thaitanic'.
-- **Colombian landraces:** Tall with a leggy stature, these were among
-  the most exported varieties historically. Colombian strains remain
-  important genetic resources.
-- **Mexican landraces:** Contributed genetics to foundational hybrids
-  like 'Skunk #1' (Mexican x Colombian x Afghani).
-- **Jamaican and [[kanna-sceletium-south-african-narcotic]] varieties:** Additional tropical
-  sativa landraces with distinct characteristics.
+### Southeast Asian Landraces
 
-Sativa landraces often prove disappointing when grown under artificial
-light, as they evolved for intense equatorial sun and long growing
-seasons. See [[cannabis-colombian-strain-description-clarke]].
+Thailand, Laos, Cambodia, Vietnam, and Myanmar produced some of the most celebrated sativa
+landraces. Thai strains (including the legendary Thai Stick) were famous for their extremely
+potent, psychedelic effects and sweet, fruity flavors. Vietnamese Black (a jungle landrace
+sativa) was prized for its 16-week flowering time and intense resin production. Cambodian
+landraces contributed energetic, clear-headed effects. These strains formed the genetic basis
+for many modern sativa hybrids.
 
-## Cannabis Indica
+The Rev describes Southeast Asian sativas as among his favorites, noting that the word "Haze"
+was unknown until the mid-1980s, and when he first encountered Haze, he "instantly recognized
+it as a South East Asian with an intense and wicked powerful high."
 
-Cannabis indica originated in Pakistan and India. Indica is prized by
-indoor growers and breeders for its squat, bushy growth, condensed
-root system, stout stems, broad leaves, and dense, THC-laden flowers.
-Foliage is dark green; in some strains, leaves around buds turn
-reddish to purple. Indica strains generally contain a higher CBD-to-THC
-ratio, producing a heavy, incapacitating "stone." Heavily
-resin-laden indica plants tend to be more pest-resistant, though few
-with dense compact buds resist gray (bud) mold. See
-[[cannabis-hindu-kush-strain-description-clarke]] and [[autoflowering-breeding]].
+### African Landraces
 
-## Landrace Importance in Breeding
+Africa is home to some of the oldest and most genetically diverse cannabis populations:
 
-The genetic diversity found in landrace populations represents the raw
-material for all cannabis improvement. Years of persecution and greedy
-seed-making practices have led to a [[cervantes-genetic-bottleneck-and-diversity-loss]] -- a narrowing
-of available breeding stock. Ethical breeding should focus on preserving
-valuable genetic resources from landraces and wild populations for
-future generations.
+- **Durban Poison** (South Africa): Perhaps the most influential African landrace. Indigenous
+  to Durban at approximately 30°S latitude, it possesses a unique photoperiod trait — when
+  grown in the northern hemisphere, it begins flowering in late June and finishes in the second
+  half of September, well before autumn rains. This early-finishing characteristic proved
+  highly dominant in hybrids, making Durban Poison one of the most important breeding tools
+  for shortening flowering time in sativa crosses.
 
-Cervantes reports that ninety different strains from Holland were grown
-out in a single Colombian [[cervantes-breeding-program-design-goal-setting]], demonstrating the
-international exchange of landrace genetics. Neville, founder of the
-Seed Bank, traveled the world to collect the best [[query-how-to-store-cannabis-seeds-for-long-term-viability]] from
-landrace populations.
+- **Malawi Gold** (Malawi): A potent, resinous sativa from east Africa, known for its
+  energetic effects and extended flowering period. [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] from The Rev's
+  Kingdom Organic Seeds represents modern breeding work with this genetics.
 
-## Modern Strain Composition
+- **Swazi** (Swaziland/Eswatini): A hardy, prolific landrace adapted to the mountainous
+  terrain of southern Africa, known for its fruity aroma and consistent outdoor performance.
 
-Most popular modern strains are combinations of two or more of the
-subspecies: C. sativa, C. indica, C. ruderalis, and C. afghanica.
-Many are hybrids of hybrids with names, and very few commercially sold
-seeds could be considered true varieties or cultivars in the botanical
-sense. The term "strain" itself is not a scientifically accepted
-botanical term.
+- **Congo** (Democratic Republic of Congo): King Congo from Tropical Seeds Company showcases
+  the potential of central African genetics.
 
-## See Also
+- **Colombian Gold**: While technically [[chiric-caspi-brunfelsia-south-american-hallucinogen]], Colombian genetics had enormous influence
+  on the development of modern sativa strains and were among the first landraces widely available
+  in [[guzman-psilocybin-mushrooms-north-america]].
 
-- [[oner-cannabis-breeding-fundamentals]]
-- [[cannabis-strain-guide-reference]]
-- [[cannabis-genetic-stability]]
-- [[panama-red]]
+### Central and South American Landraces
+
+- **Colombia** produced several distinct regional varieties, including the famous Colombian Gold
+  and Colombian Red, which were foundational genetics for the [[growing-gourmet-north-american-reishi-species]] cannabis scene in
+  the 1970s and 1980s.
+- **Mexico** contributed Acapulco Gold (one of the most legendary strains of all time),
+  Oaxacan (described by The Rev as a massive red-haired sativa), and numerous regional varieties.
+- **Brazil** produced the [[oner-brazilian-white-sativa-early-finishing-equatorial-genetics]], a clone from the early 1980s that The Rev
+  believes was "the major mother of many fine lines of cannabis, including the legendary White
+  Widow." Like Durban Poison, it hails from approximately 30°S latitude and shares early-
+  finishing traits in the northern hemisphere.
+- **Panama** produced Panama Red, which DJ Short described as "the tequila of weed" — bordering
+  on hallucinogenic in its potency and resin profile.
+
+### Caribbean and Hawaiian Landraces
+
+Hawaiian strains (including the old-school Puna Budder) and Jamaican varieties represent

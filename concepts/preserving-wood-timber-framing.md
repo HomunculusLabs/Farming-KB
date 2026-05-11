@@ -9,11 +9,11 @@ sources: []
 
 # Preserving Wood and Timber Framing
 
-Timber framing is the traditional method of building structures using heavy timbers joined with mortise and tenon connections rather than dimensional lumber and nails. On a homestead, timber framing offers durability, aesthetic beauty, and the ability to work with locally harvested timber. This page covers joinery fundamentals, wood preservation treatments, and air drying methods. (see [[comparison-slip-form-stone-vs-timber-frame]]).
+Timber framing is the traditional method of building structures using heavy timbers joined with mortise and tenon connections rather than dimensional lumber and nails. On a homestead, timber framing offers durability, aesthetic beauty, and the ability to work with locally harvested timber. This page covers joinery fundamentals, wood preservation treatments, and air drying methods.
 
 ## Timber Framing Joinery
 
-Timber framing relies on precise woodworking joints that transfer loads through the frame without fasteners. The joinery is what gives timber frames their extraordinary strength and longevity — some frames have stood for 800+ years. (see [[building-with-natural-materials]]).
+Timber framing relies on precise woodworking joints that transfer loads through the frame without fasteners. The joinery is what gives timber frames their extraordinary strength and longevity — some frames have stood for 800+ years.
 
 ### Essential Joints
 
@@ -60,7 +60,7 @@ Raw linseed oil is a natural drying oil extracted from flax seeds. "Boiled" lins
 - Penetrates 1-2 mm into the wood surface
 
 **Pros:** All-natural, easy to apply, enhances wood grain appearance, food-safe when cured
-**Cons:** Slow drying, attracts dust during curing, can support mold growth in damp environments if not cured properly, provides no insect resistance on its own
+**Cons:** Slow drying, attracts dust during curing, can support mold growth in damp environments if not cured properly, provides no [[fukuoka-vegetable-disease-insect-resistance]] on its own
 
 ### Borate Treatments
 
@@ -68,7 +68,7 @@ Borates (disodium octaborate tetrahydrate) are water-soluble salts that provide 
 
 **Products:** Tim-bor, Bora-Care, Disodium Octaborate Tetrahydrate (DOT)
 
-**Application methods:**
+**[[compost-tea-application-methods]]:**
 - Dip treatment: Submerge wood in a 10-15% borate solution for 5-10 minutes
 - Spray treatment: Apply with a pump sprayer, saturating the wood surface
 - Diffusion: Apply to green wood — borate diffuses into the wood as it dries
@@ -117,10 +117,10 @@ Best timber framing species by region:
 - Northeast: Eastern white pine, white oak, hemlock, eastern spruce
 - Southeast: Southern yellow pine, cypress, white oak
 - Midwest: White oak, red oak, white pine, hickory
-- Pacific Northwest: Douglas fir, western red cedar, Sitka spruce
+- [[psilocybin-north-america-pacific-northwest]]: Douglas fir, western red cedar, Sitka spruce
 
 ## Related Concepts
 
-- [[barn-construction-reference]] — General building and construction techniques for homestead infrastructure
+- [[barn-construction-reference]] — General building and [[pdc-earthen-construction-techniques]] for [[off-grid-energy-and-homestead-infrastructure]]
 - [[soap-making-guide]] — Woodworking and value-added homestead products
-- [[firewood-seasoning-and-storage]] — Related wood processing and storage principles
+- [[firewood-seasoning-and-storage]] — Related wood processing [[mollison-designers-water-purification-and-storage-principles]]

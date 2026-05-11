@@ -87,16 +87,3 @@ HIF-1α is hydroxylated by prolyl hydroxylases (PHD1-3) under normoxia, targetin
 ## Biomarkers and Measurement
 
 F₂-isoprostanes in urine (GC-MS) are the gold-standard lipid peroxidation biomarker. Urinary 8-OHdG (LC-MS/MS) reflects whole-body DNA oxidation. Protein carbonyls (DNPH assay), 3-nitrotyrosine (LC-MS/MS), and the GSH/GSSG ratio provide complementary information. Emerging approaches include redox proteomics (iodoTMT for cysteine oxidation site identification), exhaled breath condensate analysis for 8-isoprostane (COPD monitoring), and fluorescent probes (MitoSOX for mitochondrial superoxide in live cells).
-
-## Therapeutic Antioxidants: Clinical Evidence
-
-Large [[green-cannabis-grow-bible-pest-disease-prevention]] in well-nourished populations. β-carotene increased [[psk-breast-lung-cancer-clinical-trials]] by 18-28% in smokers (ATBC and CARET trials). Vitamin E showed possible benefit in non-alcoholic steatohepatitis (PIVENS trial) but increased prostate cancer risk (SELECT trial).
-
-Targeted approaches show more promise: N-acetylcysteine is the standard antidote for acetaminophen poisoning (GSH precursor) and has modest COPD benefit. Alpha-lipoic acid (600 mg/day) is approved in Germany for diabetic neuropathy. Coenzyme Q10 reduced major cardiac events in heart failure (Q-SYMBIO trial). Nrf2 activators (dimethyl fumarate approved for MS; sulforaphane in Phase II trials) represent a rational pharmacological approach to boosting endogenous defenses. NOX1/4 inhibitor setanaxib shows promise in liver fibrosis trials. Ferroptosis inhibitors (liproxstatin-1, iron chelators) represent a new therapeutic frontier for lipid peroxidation-driven cell death.
-
-Exercise is one of the most effective inducers of endogenous antioxidant defenses through hormetic adaptation, upregulating SOD, GPx, catalase, and Nrf2 targets.
-
-## See Also
-
-- [[phase-ii-conjugation-reactions-drug-metabolism]] — Glutathione conjugation and detoxification pathways
-- [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]] — CYP enzymes as ROS sources

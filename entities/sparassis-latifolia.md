@@ -87,27 +87,3 @@ Geographically, S. crispa occurs primarily in temperate regions at lower elevati
 ## Pathogenicity and Host Interaction
 
 The relationship between S. latifolia and its conifer hosts is ecologically complex. The fungus causes a brown-rot decay of the root wood, leading to reduced root function and, in severe cases, tree mortality. Infected trees may show crown thinning, reduced growth rates, and increased susceptibility to windthrow.
-
-However, the fungus also forms ectomycorrhiza-like structures with fine roots of host trees, suggesting a dual lifestyle that transitions between mutualistic and pathogenic phases. Similar dual lifestyles have been documented in other root-associated fungi including Armillaria species and some Polyporaceae.
-
-In managed pine forests, S. latifolia infection is generally considered a minor concern compared to other root pathogens. The species is most commonly encountered in old-growth and mature forests where the fungus-tree interaction has stabilized into a largely commensal relationship. Young plantations with stressed trees may be more susceptible to significant root damage.
-
-## Traditional and Modern Use
-
-In traditional Chinese medicine of the Naxi, Yi, and Tibetan peoples of Yunnan and Sichuan, S. latifolia has been used as a general tonic, anti-inflammatory remedy, and digestive aid. Preparations typically involve long-simmering the mushroom in soup or decocting in water.
-
-Modern research has validated several traditional uses. The anti-inflammatory polysaccharides support the traditional use for treating inflammatory conditions. The immunomodulatory effects align with its reputation as a general health tonic. Commercial products including dried mushroom, extracts, and health supplements are now available in Chinese markets.
-
-The species is also gaining recognition in the broader gourmet mushroom market. Its unique texture and flavor profile, combined with its medicinal properties, position it as a premium functional food. Restaurants in Kunming, Chengdu, and other major Chinese cities feature S. latifolia as a seasonal delicacy.
-
-## See Also
-
-- [[trametes-orientalis]]
-- [[hericium-erinaceus]]
-- [[grifola-frondosa]]
-- [[sanghuangporus-linteus]]
-- [[gloeophyllum-sepiarium]]
-- [[fomes-fomentarius]]
-- [[lentinula-edodes]]
-- [[trametes-hirsuta]]
-- [[armillaria-mellea-entity]]

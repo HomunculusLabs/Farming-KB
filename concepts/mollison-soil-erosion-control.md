@@ -1,10 +1,11 @@
 ---
-title: Mollison: Soil Erosion Control
+title: Mollison Soil Erosion Control
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: permaculture, design, agriculture]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 
@@ -22,11 +23,11 @@ Third world debt and western world over-production are both primary factors in s
 
 ## The Organic Matter Connection
 
-Charles Arden-Clarke and David Hodges (New Scientist, 1987) point out that many recent outbreaks of severe erosion are clearly linked to falling levels of mollison designers humus in the soil.
+Charles Arden-Clarke and David Hodges (New Scientist, 1987) point out that many recent outbreaks of severe erosion are clearly linked to falling levels of [[mollison-designers-humus-building-and-soil-organic-matter]] in the soil.
 
 The more organic matter there is in the soil, the more stable it is due to good soil structure and water infiltration.
 
-An inorganic soil may break down under rain, with the resulting overland flow creating rills and gullies.
+An inorganic soil may [[query-can-fungi-break-down-plastic-pollution]] under rain, with the resulting overland flow creating rills and gullies.
 
 The destroyed surface can powder and blow away without organic matter to bond it.
 
@@ -66,11 +67,11 @@ Intensive arable use and winter cropping both create more erosion.
 
 ### Vegetative Cover
 
-Maintaining permanent vegetative cover is the single most effective and erosion control measure.
+Maintaining permanent vegetative cover is the single most effective [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] measure.
 
 Permanent pasture, forests, and groundcover plants protect soil from raindrop impact and wind.
 
-And green manures between cropping cycles maintain soil protection.
+[[cover-crops-and-green-manures]] between cropping cycles maintain soil protection.
 
 ### Mulching
 
@@ -82,32 +83,8 @@ Mulch absorbs the energy of raindrops, preventing soil particle detachment.
 
 All cultivation and planting should follow contour lines on slopes.
 
-Contour banks, swales, and diversion drains slow water flow and encourage infiltration.
+Contour banks, swales, and [[mollison-designers-diversion-drains-and-interceptor-banks]] slow water flow and encourage infiltration.
 
 ### Windbreaks
 
 Windbreaks reduce wind speed at ground level, preventing wind erosion.
-
-Multi-row windbreaks with groundcover are most effective.
-
-### Water Control
-
-Swales, contour drains, and check dams slow water movement across slopes.
-
-Proper drainage prevents water concentration that creates gullies.
-
-Water comparison [[acacia]]s shatter compacted subsoil and create channels for water infiltration.
-
-Earthworms, termites, and burrowing organisms rebuild soil crumb structure over time.
-
-## The Conservative Approach
-
-In a conservative society, the very basis of land use planning would encompass the concept of permitted or restricted use of soils.
-## See Also
-
-- [[permplant-willows-salix-erosion-control-fodder]]
-
-- mollison-arid-lands-design-and-erosion-control
-- [[soil-erosion-control]]
-- [[mollison-designers-vetiver-grass-for-erosion-control]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

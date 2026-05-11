@@ -1,7 +1,7 @@
 ---
 title: Fungal antifungal-secondary-metabolites-coprophilous-fungi and Antibiotic Production
 created: 2026-04-28
-tags: [mycology, secondary metabolites, antibiotics, query-what-are-the-main-bioactive-compounds-in-medicinal-plants, fungal chemistry]
+tags: [mycology, [[antifungal-secondary-metabolites-coprophilous-fungi]], antibiotics, query-what-are-the-main-bioactive-compounds-in-medicinal-plants, fungal chemistry]
 date: 2026-04-28
 updated: 2026-05-09
 sources: ["/Users/t3erpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md"]
@@ -14,14 +14,14 @@ Fungal secondary metabolites represent one of the most pharmacologically
 significant and ecologically important classes of natural products. Unlike
 primary metabolites that are essential for growth and reproduction, secondary
 metabolites are produced during the idiophase of fungal development and serve
-diverse ecological functions including defense, competition, and communication.
+diverse [[fungal-melanin-biosynthesis-ecological-functions]] including defense, competition, and communication.
 
 ## Types of Secondary Metabolites
 
 Fungal secondary metabolites span an enormous chemical diversity. Major
 classes include polyketides (such as the statins and aflatoxins), non-ribosomal
 peptides (including penicillins and cyclosporine), terpenes (like the
-trichothecenes and ergot alkaloids), and alkaloids of various structural
+trichothecenes [[non-psilocybin-neurotropic-fungi-and-ergot-alkaloids]]), and alkaloids of various structural
 types. Each class arises from distinct biosynthetic pathways encoded by
 clusters of genes that are often silent under laboratory conditions.
 
@@ -51,15 +51,15 @@ coordinate fungal behavior in response to population density.
 
 ## Pharmaceutical Potential
 
-The fungal kingdom is one of the most prolific sources of bioactive compounds
+The fungal kingdom is one of the most prolific sources of [[cordyceps-cancer-bioactive-compounds]]
 known to science. Fungi have been a cornerstone of antibiotic discovery since
-Alexander Fleming's identification of penicillin from Penicillium chrysogenum.
+Alexander Fleming's identification of penicillin from [[penicillium-chrysogenum]].
 The search for fungal antibiotics has yielded numerous clinically important
 compounds. Many genera are prolific producers, including Penicillium,
 Aspergillus, Cephalosporium, and Trichoderma.
 
 It is estimated that only a small fraction of fungal species have been screened
-for bioactive compounds. With advances in cultivation techniques, genome
+for bioactive compounds. With advances in [[cannabis-sativa-indoor-cultivation-techniques]], genome
 mining, and analytical chemistry, new classes of fungal metabolites continue to
 be discovered. The growing appreciation of [[biodiversity-fungal-biodiversity-estimation-methods]], particularly
 in undersampled habitats and among endophytic fungi, suggests that many
@@ -87,48 +87,3 @@ metabolites. Fisher and colleagues (1984b) reported antibacterial or antifungal
 activity for more than 30% of the endophytic isolates from ericaceous plants.
 Dreyfuss (1986) reported antibiotic activity from isolates of endophytic
 Pleurophomopsis and Cryptosporiopsis species.
-
-Strains of endophytic Pezicula species from several deciduous and coniferous
-tree hosts produce an ensemble of bioactive secondary metabolites in culture.
-Endophytic species of the Xylariaceae frequently produce compounds with high
-biological activity, including cytochalasins and indole diterpenes. Endophytes
-produce antifungal or antibacterial substances, as well as insecticidal
-compounds, in vitro.
-
-## Examples by Fungal Group
-
-Ascomycetes are the most prolific producers of secondary metabolites among
-fungal groups. Penicillium and Aspergillus species alone produce thousands of
-known compounds, including antibiotics (penicillins, cephalosporins),
-immunosuppressants (cyclosporine), and cholesterol-lowering agents (lovastatin).
-The basidiomycetes contribute important compounds including the
-anticancer agent psilocybin from Psilocybe species and various lectins and
-antitumor polysaccharides from [[gourmet-medicinal-mushroom-casing-layer-techniques]] species.
-
-Zygomycetes produce fewer well-characterized secondary metabolites but include
-notable examples like the immunosuppressant mycophenolic acid from
-Penicillium brevicompactum. The Mucorales produce various fatty acid-derived
-compounds and [[fungal-volatile-organic-compounds-communication]] compounds that influence their interactions
-with other microorganisms in soil and food environments.
-
-## Mycotoxins and Toxins
-
-Fungal toxins represent another important class of secondary metabolites.
-These include aflatoxins from Aspergillus species, ochratoxins from Aspergillus
-and Penicillium species, trichothecenes from Fusarium species, and ergot
-alkaloids from Claviceps species. While mycotoxins are primarily studied for
-their impacts on human and animal health, they serve important ecological
-functions in fungal defense and competition.
-
-Although diverse endophytes produce toxins in culture, such compounds have
-been difficult to detect in plant host tissue. In vitro, many of these
-compounds are intracellular and so, although they may have survival value for
-the endophyte through interference competition, their general role in
-protection of living hosts has not yet been fully determined.
-
-## See Also
-
-- [[endophytic-fungi-diversity|fungal-plant mutualisms]]
-- [[fungal-bacterial-interactions]]
-- [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[fungal-biodiversity]]

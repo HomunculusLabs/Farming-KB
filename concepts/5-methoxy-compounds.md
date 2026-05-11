@@ -87,23 +87,3 @@ Adding a methyl group at the alpha position (between the indole ring and the ami
 - The alpha-methyl group creates a pharmacological profile more similar to amphetamines than to simple tryptamines, as the compound is no longer a substrate for MAO.
 
 ## Sulfur vs Oxygen Substitution
-
-TIHKAL #46 (5-MeS-DMT) provides a direct comparison of methylthio vs methoxy substitution:
-
-- In the phenethylamine series, 4-methylthio increases potency 4-5x over 4-methoxy (TMA-2 at 20-40 mg vs Aleph-1 at 5-10 mg)
-- In the tryptamine series, replacing 5-MeO with 5-MeS actually decreased activity by approximately a factor of two
-- This cross-family comparison illustrates that SAR generalizations do not always transfer between the phenethylamine and tryptamine families
-
-## Molecular Size and Steric Effects
-
-Shulgin's "tennis ball" analogy (TIHKAL #14) elegantly illustrates steric effects:
-
-n-butyl, isobutyl, sec-butyl, and tert-butyl groups are structural isomers with identical atomic composition but different three-dimensional arrangements. When attached to a molecule, these groups create different spatial profiles that affect how the molecule interacts with [[tihkal-receptor-binding-serotonin]] sites, enzymes, and [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]. The bulkier and more branched the group, the greater the steric hindrance at the amine nitrogen, which correlates with increased oral activity (presumably through reduced accessibility to MAO enzymes).
-
-## Key SAR Principles (per Shulgin)
-
-1. Increasing the size of amine substituents progressively increases oral activity and duration
-2. Branching at the amine nitrogen (isopropyl > propyl) favors oral activity
-3. Alpha-methyl substitution blocks MAO metabolism entirely, conferring reliable oral activity at the cost of much longer duration
-4. The 4- and 5-positions on the indole ring are the primary sites for potency-enhancing substitution
-5. Simple changes in ring substitution (4-HO vs 5-MeO) produce the largest qualitative shifts in experiential character

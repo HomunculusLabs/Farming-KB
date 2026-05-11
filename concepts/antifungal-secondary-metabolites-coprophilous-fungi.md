@@ -88,9 +88,3 @@ following groups:
   that produce sordarins and related glycosidic
   antifungals.
 - **Xylariaceae**: Coprophilous Xylaria and
-  Nemania species with diverse secondary metabolite
-  profiles.
-- **Chaetomiaceae**: Chaetomium species producing
-  cytochalasans and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
-- **Pleosporaceae**: Various genera producing
-## See Also

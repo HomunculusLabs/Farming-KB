@@ -87,21 +87,3 @@ Several participants in the psilocybin group reported that the Good Friday exper
 The experiment was not without its critics.
 
 Methodological objections were raised, including the relatively small sample size and the inherent difficulties of quantifying subjective experience through questionnaires.
-
-Religious authorities were particularly disturbed by the implication that profound spiritual states could be chemically induced, threatening traditional claims about the exclusive pathways to divine communion.
-
-Pahnke's thesis was approved under difficult circumstances, but he was denied government funding for further research and was effectively prevented from continuing this line of investigation.
-
-One of the original subjects later claimed to have guessed that he had received the placebo and to have peeked during the experiment, though the overall statistical findings remained robust even when his data was excluded from analysis.
-
-## Significance and Legacy
-
-The Good Friday Experiment remains a landmark study for several reasons.
-
-It was among the first attempts to bring rigorous scientific methodology to the study of mystical and religious experience.
-
-It demonstrated that [[psilocybin-clinical-trials]] at institutions like Johns Hopkins, which have replicated and extended its findings with far more sophisticated measurement tools including [[neurochemical-probes-brain-imaging-pihkal]] technology.
-
-## Relationship to Modern Research
-
-Contemporary researchers studying [[psilocybin-and-mystical-experience]] at Johns Hopkins, New York University, and Imperial College London owe a significant methodological debt to Pahnke's pioneering work.

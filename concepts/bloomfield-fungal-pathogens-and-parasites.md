@@ -88,17 +88,3 @@ Ascomycete fungi that parasitize and kill insects:
 ### Life Cycle
 1. Spores land on insect and penetrate the chitinous exoskeleton
 2. Hyphae colonize internal tissues
-3. Infected ants show erratic behavior: grooming compulsively, moving with twitching gait
-4. "Summit disease": infected insects climb vegetation and grip stems with jaws before dying
-5. Hyphae burst through joints, cloaking the corpse in mycelium
-6. An elongated [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] (ascocarp) sprouts, broadcasting infectious spores
-### Summit Disease Significance
-- May have evolved to remove infected colonial insects from nests, limiting epidemics (altruistic from colony perspective)
-- Alternatively, the fungus may directly manipulate insect brain chemistry to climb toward optimal wind dispersal positions
-- In Thailand, Nigel Hywel-Jones has found Cordyceps on cicadas, tarantulas, ants, and termites
-### Medical and Cultural Uses
-- Used in Chinese medicine for hundreds of years ("dong chong xia cao" = winter insect, summer grass)
-- Marketed as dietary supplement for bodybuilding, fatigue, kidney/lung function, and sexual potency
-- Cordyceps gunnii (Australian species) has fruiting bodies as fat as a garden hose
-- Each perithecium holds many asci; each ascus contains eight segmented ascospores — a single fruiting body can dispense millions of infectious particles
-## [[bloomfield-coffee-rust-and-crop-pathogens]]

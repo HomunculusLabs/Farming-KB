@@ -88,22 +88,3 @@ six months using a mixture of horse manure, sawdust, and alfalfa as the
 compost substrate.
 
 At the Iowa Army Ammunition Plant, anaerobic fluidized-bed bioreactors
-treated RDX-contaminated groundwater in situ, reducing RDX
-concentrations from over 100 ppb to below detection limits by
-stimulating indigenous bacteria with acetate and ethanol electron
-donors.
-
-The Massachusetts Military Reservation on Cape Cod used a large-scale
-perchlorate bioremediation system, injecting emulsified vegetable oil
-into the aquifer to sustain long-term reducing conditions. This passive
-approach achieved perchlorate reductions exceeding 95% across the
-plume over several years without continuous chemical input.
-
-Phytoremediation trials at the Joliet Army Ammunition Plant in Illinois
-demonstrated that hybrid poplar trees could take up and detoxify TNT
-from contaminated soil, with measurable mass removal and no significant
-phytotoxic effects at moderate contamination levels.
-
-- fungal-soil-remediation-persistent-pollutants
-## See Also
-- [[mycoremediation]]

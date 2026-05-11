@@ -14,7 +14,7 @@ type: concept
 The case of Mana Pools National Park in Zimbabwe's Zambezi Valley
 illustrates how conventional wildlife management based on population
 reduction fails to address the true causes of environmental degradation
-in brittle environments. Savory's decades-long involvement -- from
+in [[savory-brittle-environments]]. Savory's decades-long involvement -- from
 recommending elephant culling in 1960 to his return in 1985 -- reveals
 fundamental flaws in prevailing wildlife population management.
 
@@ -53,8 +53,8 @@ to all game that evolved with predators.
 
 ## Why Numbers Alone Are Insufficient
 
-The Mana Pools case demonstrates that stocking rate is not the primary
-determinant of environmental impact. Time -- how long animals remain in
+The Mana Pools case demonstrates that [[savory-stock-density-vs-stocking-rate]] is not the primary
+determinant of [[fertilizer-pollution-environmental-impact]]. Time -- how long animals remain in
 one place -- is the critical factor, as explained in Savory's
 [[savory-four-missing-keys]]:
 
@@ -87,23 +87,3 @@ factor and the need for herd movement. Simply removing cattle and
 replacing them with game does not automatically improve land health.
 
 ## The Broader Principle
-
-The elephant culling story illustrates a universal principle:
-addressing symptoms (too many animals) while ignoring causes (loss of
-predator-induced movement) leads to policies that fail even with
-massive effort over decades. The same pattern appears in
-[[savory-overgrazing-vs-overrest]], where [[savory-partial-rest-and-algal-crusts]] combined with
-overgrazing creates the very conditions that justify destocking in
-the minds of conventional managers, yet destocking worsens the
-underlying problem by further reducing [[savory-animal-impact-and-herd-effect]].
-
-## Implications for Wildlife-Livestock Integration
-
-The Mana Pools experience suggests that pure wildlife areas without
-predator pressure require active management of animal movement and
-time on paddock. This is one reason [[savory-game-ranching-and-wildlife-conversion]]
-
-- [[savory-predator-prey-and-herding-behavior]] - How predators shape movement
-- brittle environments - Why these dynamics are most critical
-- [[savory-wildlife-livestock-integration]] - Combining domestic and wild
-  animals

@@ -21,8 +21,8 @@ type: concept
 # Brassinosteroid Natural Occurrence Across Plant Kingdoms
 
 Brassinosteroids are distributed across an impressively broad range of
-plant lineages, reflecting ancient evolutionary origins and a
-fundamental role in growth regulation. As noted by Gartz, Adam and
+plant lineages, reflecting ancient [[tryptamine]] and a
+fundamental role in [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]. As noted by Gartz, Adam and
 Vorbrodt (1990), approximately 30 brassinosteroid members had been
 identified at the time, detected in higher plants including Angiospermae
 and Gymnospermae as well as in a green alga. This broad phylogenetic
@@ -38,7 +38,7 @@ growth-promoting effects of pollen extracts. The original compound,
 brassinolide, was found at approximately 0.1 mg per kg of pollen. This
 discovery was significant because brassinolide represented an entirely
 new class of plant [[ingham-natural-growth-regulators-soil-microbes]], distinct from auxins, gibberellins,
-cytokinins, abscisic acid, and ethylene.
+cytokinins, [[abscisic-acid-plant-stress-hormone]], and ethylene.
 
 Systematic surveys revealed brassinosteroids throughout the plant
 kingdom. By 1990, about 30 distinct compounds had been characterized
@@ -84,45 +84,7 @@ approximately 500 million years ago. Their presence in both green algae
 and land plants suggests the biosynthetic pathway originated in their
 shared algal ancestor and has been conserved throughout plant evolution.
 
-This deep conservation has important implications for fungal sensitivity.
+This deep conservation has important implications for [[fungal-sensitivity-testing-identification]].
 Fungi and animals are more closely related to each other than either is
 to plants, belonging to the Opisthokonta supergroup. However,
 conservation across the enormous evolutionary distance between green
-algae and flowering plants suggests steroid-based signaling is a broadly
-conserved eukaryotic strategy. The sensitivity of [[stigmasterol]]. Its ability to promote fungal growth suggests structural
-requirements for activity are somewhat flexible, and fungi may respond
-to a range of brassinosteroid-like steroidal structures.
-
-## Biosynthetic Pathway
-
-Brassinosteroids are synthesized from campesterol through a dedicated
-pathway. Campesterol derives from the mevalonate pathway that also
-produces cholesterol, stigmasterol, and sitosterol. The
-brassinosteroid-specific pathway involves oxidation, hydroxylation, and
-reduction reactions catalyzed by cytochrome P450 enzymes and
-2-oxoglutarate-dependent dioxygenases.
-
-Conservation of the mevalonate pathway across plants, fungi, and
-animals means sterol precursors are available in all eukaryotes. While
-fungi have not been shown to produce brassinosteroids endogenously, the
-shared precursor pathway raises the question of whether fungi might
-produce brassinosteroid-like compounds at concentrations too low for
-detection.
-
-## Ecological Significance
-
-The widespread occurrence suggests fundamental ecological roles beyond
-growth regulation. Brassinosteroids may function in plant-plant
-interactions, plant-microbe interactions, and environmental responses.
-Their presence in pollen suggests possible roles in pollination biology,
-while occurrence in algal lineages hints at aquatic plant ecology.
-
-Fungal sensitivity to brassinosteroids opens the possibility that
-brassinosteroids released by plants could influence fungal behavior in
-natural ecosystems. [[22s-23s-homobrassinolide-chemistry-and-synthesis]] for the specific
-  compound structure and preparation from stigmasterol
-- Steroidal regulation of [[steroidal-regulation-fungal-development-growth]] and growth for the
-  implications of cross-kingdom steroid sensitivity
-
-## See Also
-- [[brassinosteroids-phytohormones-fungal-growth-promotion]]

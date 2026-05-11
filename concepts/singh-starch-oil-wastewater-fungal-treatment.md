@@ -19,8 +19,8 @@ type: concept
 Starch-processing and oil manufacturing industries generate large volumes
 of wastewater with high organic loads that require effective treatment
 before discharge. Fungi offer an attractive biological treatment option,
-converting biodegradable [[hamilton-composting-and-organic-matter-management]] into valuable mycelial biomass
-that can serve as animal feed supplement while simultaneously reducing
+converting biodegradable [[hamilton-composting-and-organic-matter-management]] into valuable [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]]
+that can serve as [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] supplement while simultaneously reducing
 waste strength.
 
 ## Starch-Processing Wastewater
@@ -61,9 +61,9 @@ Geotrichum fragrans reduced 40% of COD in cassava wastewater.
 
 ### Pellet Formation and Bioreactor Applications
 
-Aspergillus niger ATCC 6275 forms pellets effective for starch wastewater
+[[aspergillus-niger]] ATCC 6275 forms pellets effective for starch wastewater
 treatment. Pellets exhibited 90% starch decomposition and 75% TOC
-removal in continuous two-reactor systems. Aspergillus oryzae produces
+removal in continuous two-reactor systems. [[aspergillus-oryzae]] produces
 [[bioremediation-fungal-biomass-biosorbent-material]] protein and alpha-amylase in starch-processing wastewater,
 with a one-stage nonaseptic airlift bioreactor removing 95% COD, 93%
 BOD, and 98% suspended solids.
@@ -87,51 +87,3 @@ achieved, demonstrating the potential for upgrading [[fungi-in-composting-and-ag
 ## Oil Manufacturing Plant Wastewater
 
 ### Characteristics
-
-Oil manufacturing plant wastewater contains high concentrations of oils,
-proteins, and carbohydrates. Wastewater from soybean oil manufacturing is
-comprised of approximately 88% oils, 3% carbohydrates, 3% proteins, and
-6% unknown substances. Typical characteristics include:
-- COD: 24,000 to 61,000 mg/l
-- BOD: 12,000 to 27,200 mg/l
-- Hexane extract: 6700 to 17,000 mg/l
-- pH: 6.5 to 7.5
-
-Palm oil mill effluent (POME) is a major pollution source in Malaysia,
-with annual generation of 9 million tons. POME from Indian sites contains
-approximately 250,000 mg/l COD, 11,000 mg/l BOD, 65 mg/l total dissolved
-solids, and 9000 mg/l chloroform-soluble material.
-
-### Fungal Treatment Approaches
-
-Several fungi have been applied to oil-containing wastewater treatment:
-
-- **Aspergillus oryzae**: Used in POME treatment with anaerobic
-  fermentation.
-- **Penicillium chrysogenum**: Applied to POME effluent treatment.
-- **Trichoderma viride**: Plays a role in POME treatment with
-  mycelium becoming visible at days 14 and 10 of incubation periods.
-- **Candida rugosa**: Used for single-cell protein production from palm
-  oil.
-
-Nine yeast strains were isolated from decomposing oil for soybean oil
-wastewater treatment without pretreatment. Seven belonged to the Candida
-genus, selected as high producers of lipase. Strains N1 and N9 removed
-65% and 78% of hexane extracts, respectively, as well as 94% of
-glycerides.
-
-## Protein-Containing Wastewater
-
-Large amounts of protein- and fat-containing wastewaters from
-slaughterhouses and tanneries can be effectively treated by fungi.
-Candida tropicalis S001 grows on protein-containing wastewater,
-achieving 86% COD reduction at a feed rate of 40 kg COD per cubic meter
-per day. The rate of methane production from the protein phase reached
-10.8 cubic meters per cubic meter reactor per day, constituting a yield
-of 0.31 cubic meters methane per kg COD reduced.
-
-## See Also
-
-- [[singh-fungal-bioreactor-types-configurations]]
-- [[singh-immobilized-fungal-bioreactors-wastewater-treatment]]
-- [[singh-pharmaceutical-wastewater-fungal-treatment]]

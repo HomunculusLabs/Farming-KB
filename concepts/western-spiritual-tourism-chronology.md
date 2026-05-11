@@ -9,7 +9,7 @@ tags:
   - spirituality
   - tourism
   - western-culture
-  - shamanism
+  - [[shamanism]]
   - counterculture
 ---
 
@@ -62,7 +62,7 @@ plant medicines, though ayahuasca itself remained largely
 unknown outside of academic and anthropological circles.
 
 The psychedelic dimension of this period is crucial.
-LSD and psilocybin opened doors to experiences that
+LSD and [[psilocybin]] opened doors to experiences that
 felt genuinely spiritual, creating demand for traditions
 that could contextualize and integrate those experiences.
 Hinduism provided a framework, but many seekers continued
@@ -88,55 +88,3 @@ tourism, where not all practitioners proved trustworthy.
 ## The New Age Movement and Tibetan Buddhism (1980s)
 
 The 1980s brought the New Age movement into mainstream
-culture. Crystal healing, channeling, and a syncretic
-mix of spiritual practices became enormously popular.
-Simultaneously, Tibetan Buddhism gained significant
-traction among Western seekers, fueled in part by the
-Dalai Lama's growing international profile.
-
-The New Age movement was notable for its consumerist
-approach to spirituality. Spiritual practices became
-marketable commodities, with books, workshops, and
-retreat centers forming a growing industry. This
-commercialization of spirituality established economic
-patterns that would later be replicated in ayahuasca
-tourism, where ceremonies became products sold to
-foreign visitors.
-
-## Shamanism Comes into Vogue (1990s)
-
-The 1990s marked shamanism's entry into mainstream
-Western consciousness. Books by Michael Harner, Terence
-McKenna, and others popularized indigenous healing
-practices. Core shamanism, a distilled version of
-indigenous practices adapted for Western use, spread
-through workshops and training programs.
-
-[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] began in earnest during this period.
-The combination of growing interest in shamanism and
-improving travel infrastructure in South America made
-it feasible for Westerners to seek out ayahuasca
-experiences in their countries of origin. Iquitos, Peru
-became an early hub for this emerging form of spiritual
-tourism, drawing visitors from [[psilocybin-north-america-pacific-northwest]] and Europe.
-
-## Ayahuasca Tourism and the Contemporary Period
-
-By the early 2000s, ayahuasca tourism had become a
-well-established phenomenon. Research trips to Peru,
-documented by R. Stuart in 2002, observed a mature
-industry with established pricing tiers, tourist
-infrastructure, and recurring patterns of interaction
-between Western seekers and local practitioners.
-
-The [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches, particularly Santo
-Daime, offered an alternative to Peruvian-style shamanic
-
-## See also
-
-- [[ayahuasca-tourism-ethics-and-commodification]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]
-
-## See Also
-
-- [[ayahuasca-tourism-western-seekers-and-integration]]

@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal responses climate change Change
+title: Fungal Responses Climate Change
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -12,7 +12,7 @@ Fungal communities and their ecosystem functions are sensitive to climate change
 drivers including rising atmospheric CO2 concentrations, warming temperatures,
 altered precipitation patterns, increased frequency and intensity of drought,
 nitrogen deposition, and interactions among these factors. Understanding fungal
-responses is critical because fungi mediate key ecosystem processes including
+responses is critical because fungi mediate key [[fungal-ecosystem-processes-overview]] including
 decomposition, nutrient cycling, and plant nutrition through mycorrhizal
 symbioses.
 
@@ -43,7 +43,7 @@ boreal forests, warming may extend the growing season for both plants and their
 fungal symbionts, potentially increasing mycorrhizal colonization and
 belowground carbon allocation. However, warming without corresponding increases
 in precipitation can create moisture stress that reduces fungal activity and
-shifts community composition toward drought-tolerant species.
+shifts [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]] toward drought-tolerant species.
 
 Thermal adaptation of fungal communities is an important consideration for
 long-term climate change projections. Fungi from warmer climates may have
@@ -72,7 +72,7 @@ mutualisms to maintain water and nutrient uptake under stress.
 Changes in precipitation regimes, including both increased intensity of
 rainfall events and longer dry periods between rains, affect fungal communities
 through their effects on soil moisture dynamics. Intensified rainfall can
-increase leaching of dissolved organic carbon and nutrients, altering substrate
+increase leaching of [[dighton-fungal-dissolved-organic-carbon-production]] and nutrients, altering substrate
 availability for decomposer fungi. Extended dry periods between rain events
 create moisture pulses that stimulate brief bursts of fungal activity followed
 by prolonged periods of inactivity. These pulsed dynamics favor fungal species
@@ -85,35 +85,6 @@ resume activity when moisture returns.
 Atmospheric nitrogen deposition, an important component of global change,
 significantly affects fungal communities and their functions. Nitrogen addition
 generally reduces ectomycorrhizal fungal diversity and shifts community
-composition toward species tolerant of high nitrogen availability. In contrast,
-arbuscular mycorrhizal fungal responses to nitrogen deposition are more
+composition toward species tolerant of high [[nitrogen-availability-in-legumes]]. In contrast,
+[[arbuscular-mycorrhizal-fungal-diversity]] fungal responses to nitrogen deposition are more
 variable. Nitrogen deposition suppresses lignin-degrading enzymes in
-saprotrophic fungi, potentially slowing decomposition of recalcitrant organic
-matter and affecting long-term carbon storage.
-
-## Ecosystem Feedbacks
-
-Fungal responses to climate change create feedbacks that can either amplify or
-dampen the rate of climate change. If warming accelerates fungal decomposition
-sufficiently to release more CO2 from soil organic matter than is captured by
-increased plant growth, a positive feedback to warming results. Conversely, if
-drought or nitrogen deposition suppresses fungal decomposition while plant
-productivity increases under elevated CO2, soil carbon storage may increase,
-creating a negative feedback. The net balance of these feedbacks remains
-uncertain and is a major focus of current ecosystem ecology research.
-
-## Adaptation and Resilience Mechanisms
-
-Fungi possess several mechanisms that may confer resilience to climate change.
-Phenotypic plasticity allows individual fungi to adjust their physiology across
-[[fungal-adaptations-environmental-gradients]]. Rapid generation times and large population sizes
-provide capacity for evolutionary adaptation. The presence of diverse fungal
-functional types within most ecosystems provides [[functional-redundancy-fungal-communities]] that may
-buffer ecosystem processes against the loss of individual species.
-
-## See Also
-
-- [[fungal-ecosystem-processes-overview]]
-- [[fungal-nutrient-cycling-forests]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fungal-decomposition-nutrient-cycling]]

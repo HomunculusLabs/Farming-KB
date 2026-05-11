@@ -1,5 +1,5 @@
 ---
-title: Digging and Cultivation Techniques
+title: Hamilton Digging And Cultivation
 created: 2026-04-28
 tags:
   - soil-cultivation
@@ -44,7 +44,7 @@ soil to the depth of the spade, putting it in a wheelbarrow. Then
 fork the subsoil at the bottom of the trench to the depth of the
 fork without inverting it. Put a 2 to 3in (5-8cm) layer of organic
 matter in the bottom. Dig the next trench and throw soil forward to
-cover the organic matter. Continue until the last trench is refilled
+cover the [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Continue until the last trench is refilled
 with soil from the first trench.
 
 ## Single Digging
@@ -74,7 +74,7 @@ Sandy and chalky soils crumble to a fine tillage more readily than
 heavy soils. The problem with light soils is that they drain easily,
 causing leaching of nutrients. To minimize this, keep the ground
 covered for winter by sowing a [[hamilton-organic-soil-management]]
-methods are followed. Some organic gardeners advocate no-dig methods,
+methods are followed. Some [[soil-food-web-and-building-living-soil]] advocate no-dig methods,
 where organic matter is applied as a surface mulch and left for
 earthworms to incorporate naturally. This approach works well on
 soils that are already in good condition and where weed pressure is
@@ -88,21 +88,3 @@ subsoil and working in organic matter. Keep a scraper in your pocket
 and use it regularly to clean soil from tools. When finished, clean
 tools thoroughly and rub with an oily cloth to prevent rust. Standing
 on a board while digging distributes your weight and prevents soil
-compaction. Work from a narrow path to avoid walking on cultivated
-ground.
-
-## Summary
-
-Proper digging technique is fundamental to [[cover-crops]] to prevent nutrient leaching. The
-key principles are: never dig wet soil, use appropriately sized tools,
-work rhythmically without straining, and rotate digging areas across
-the garden over a five-year cycle. No-dig methods offer a viable
-alternative for established gardens with good existing soil structure.
-
-[[comparison-raised-beds-vs-hugelkultur]] eliminate the need for deep digging on heavy soils and improve
-drainage naturally through the elevated profile of the growing area.
-
-## See Also
-
-- mushroom-cultivation-anastomosis-and-strain-mixing
-- [[hamilton-soft-fruit-cultivation]]

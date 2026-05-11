@@ -88,23 +88,3 @@ Fukuoka's orchard provides several key lessons for those designing food forests 
 ## Challenges and Limitations
 
 Fukuoka's orchard design has limitations that should be acknowledged. The system requires significant land area to achieve full self-sufficiency. The diversity of products, while ecologically beneficial, can complicate harvest and marketing. The transition period from conventional to natural management involves years of reduced productivity. And the deep understanding of natural processes required to manage such a system cannot be acquired from books alone but must be developed through direct observation and experience.
-
-## Natural Pest Management in the Orchard
-
-Fukuoka's orchard demonstrates a key principle of natural farming: that pest problems are largely created by agricultural practices that disrupt [[fukuoka-ecological-balance-principles]]. In a diverse, healthy ecosystem, pest populations are naturally controlled by predators, parasites, and competition.
-
-In the early years of the orchard's transition, when the ecosystem was still simplified and unbalanced, Fukuoka had to use natural insecticides. He grew chrysanthemum plants and extracted pyrethrum, a natural insecticide, to control aphids and caterpillars on his vegetables. However, as the soil improved and the diversity of plants and habitats increased, natural pest control established itself. Eventually, even the pyrethrum became unnecessary.
-
-The diversity of the orchard provided multiple layers of pest control. Birds ate insects from the canopy. Ground beetles and spiders preyed on pests at the soil surface. Parasitic wasps controlled caterpillar populations. The chickens scratched through the ground cover, eating insect eggs and larvae. Each of these predators required specific habitat conditions — the birds needed trees for nesting, the ground beetles needed ground cover, the wasps needed diverse flowering plants for nectar — and the multi-layered orchard design provided all of these habitats simultaneously.
-
-## Water Management
-
-The orchard relied entirely on natural rainfall and a spring for its water needs. No irrigation system was installed. The deep, well-structured soil retained moisture effectively, and the ground cover of clover and mulch reduced surface evaporation. During dry periods, the deep-rooted plants (acacia, daikon, comfrey) accessed water from deeper soil layers.
-
-Fukuoka noted that the soil in his orchard became progressively better at retaining water over time. As organic matter increased and soil structure improved through root activity and decomposition, the soil developed a sponge-like quality that absorbed and retained rainfall rather than allowing it to run off. This natural water management capacity is one of the most valuable but often overlooked benefits of [[masanobu-fukuoka-natural-farming-philosophy]]
-- [[fukuoka-direct-seeding-rice-barley-cultivation]]
-- fukuoka clay seed pellets and revegetation
-
-## See Also
-
-- [[faires-food-forest-design]]

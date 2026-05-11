@@ -88,26 +88,3 @@ The species is listed on CITES Appendix I, prohibiting international trade in wi
 Climate change poses a long-term threat as warming temperatures may push suitable habitat upslope. With a mountaintop-restricted distribution, there is limited scope for altitudinal migration.
 
 ## Ecological Interactions
-
-Beyond its predatory relationship with insects, *Nepenthes rajah* supports a diverse inquiline community within its pitchers. Larvae of dipteran flies such as *Endonepenthia* and *Dasyhelea* develop in the digestive fluid, feeding on captured prey remains.
-
-The pitcher fluid ecosystem functions as a microcosm, hosting bacteria, protozoa, and rotifers that contribute to decomposition. This inquiline community may aid the plant by accelerating nutrient release from captured prey.
-
-The peristome nectar glands attract a wide range of arthropod visitors, including both prey species and non-prey pollinators. Spatial separation of flowers (borne on tall racemes) from traps reduces the risk of capturing the plant's own pollinators.
-
-Competition with sympatric *Nepenthes* species, including *N. villosa* and *N. kinabaluensis*, is mitigated by subtle differences in pitcher morphology, fluid composition, and altitudinal distribution.
-
-## History and Taxonomic Notes
-
-*Nepenthes rajah* was first collected by Hugh Low on Mount Kinabalu in 1851 and formally described by Joseph Dalton Hooker in 1859 in his *Flora Indica*. Hooker considered it "one of the most remarkable plants" of the Malay Archipelago.
-
-The species has been the subject of considerable taxonomic debate over the past century. Several taxa previously considered distinct species, including *N. edwardsiana* and *N. villosa*, are now recognized as closely related but separate species within the *Regiae* clade.
-
-## See Also
-
-- [[myrica-gale]]
-- wetland
-- ecosystem
-- [[decomposition]]
-- [[mycelium]]
-- [[spore]]

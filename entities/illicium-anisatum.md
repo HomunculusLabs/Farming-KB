@@ -23,7 +23,7 @@ sources:
 
 The plant contains potent neurotoxic sesquiterpene lactones, principally anisatin and neoanisatin. Ingestion causes severe neurological symptoms including seizures, vomiting, and in severe cases, death. Confusion with the edible Chinese species has caused numerous poisoning incidents.
 
-Despite its toxicity, Japanese star anise has a long history of use in traditional Japanese medicine (Kampo) as an external treatment for skin conditions, rheumatism, and insect repellent applications. It was never consumed internally in Japanese traditional practice.
+Despite its toxicity, Japanese star anise has a long history of use in traditional Japanese medicine (Kampo) as an external treatment [[cannabis-for-skin-conditions-detailed]], rheumatism, and insect repellent applications. It was never consumed internally in Japanese traditional practice.
 
 The species is also cultivated as an ornamental evergreen shrub, valued for its glossy foliage, fragrant flowers, and showy fruit. It is less commonly planted in Western gardens than Chinese star anise due to its toxic reputation.
 
@@ -51,7 +51,7 @@ Japanese star anise is native to southern and central Japan, from Honshu (south 
 
 The species grows in warm-temperate to subtropical evergreen and mixed broadleaf forests. It is typically found in the forest understory and along stream banks at elevations from 100 to 1,200 meters.
 
-Natural habitats include moist, shaded ravines and mountain slopes with well-drained, acidic soils. The species is tolerant of deep shade in its native forest understory, though it flowers more prolifically in partial sun.
+[[mushroom-natural-habitats]] include moist, shaded ravines and mountain slopes with well-drained, acidic soils. The species is tolerant of deep shade in its native forest understory, though it flowers more prolifically in partial sun.
 
 In Japan, Japanese star anise is common in the understory of Castanopsis-Cyclobalanopsis forests, growing alongside [[camellia-japonica]], [[hydrangea-macrophylla]], and various evergreen oaks. It is one of the characteristic understory shrubs of the warm-temperate laurel forest zone.
 
@@ -67,15 +67,15 @@ The minimum toxic dose of anisatin in humans is estimated at approximately 1 gra
 
 In severe cases, anisatin poisoning progresses to generalized tonic-clonic seizures, loss of consciousness, and respiratory depression. Mortality rates are low with modern supportive care, but deaths have been documented, particularly in pediatric cases where the dose per body weight is higher.
 
-Numerous poisoning incidents have resulted from the accidental substitution of Japanese star anise for Chinese star anise in teas and herbal preparations. Several mass poisonings were reported in Japan and Europe in the early 2000s, prompting regulatory action on star anise imports.
+Numerous poisoning incidents have resulted from the accidental substitution of Japanese star anise for Chinese star anise in teas and [[honey-based-herbal-preparations]]. Several mass poisonings were reported in Japan and Europe in the early 2000s, prompting regulatory action on star anise imports.
 
 In 2001, the European Medicines Agency issued a warning after approximately 40 cases of poisoning were linked to Japanese star anise contamination in herbal teas. The incidents led to stricter import controls and analytical screening requirements.
 
-In addition to anisatin and neoanisatin, the plant contains other sesquiterpene lactones including pseudomajucin and majucin. Essential oil from the leaves and fruit contains safrole, estragole, and eucalyptol, contributing to the characteristic aromatic profile.
+In addition to anisatin and neoanisatin, the plant contains other sesquiterpene lactones including pseudomajucin and majucin. [[permaculture-designers-manual-essential-oil-plants]] from the leaves and fruit contains safrole, estragole, and eucalyptol, contributing to the characteristic aromatic profile.
 
 The toxicity profile of Japanese star anise is markedly different from [[illicium-verum]], which contains the safe trans-anethole as its principal aromatic compound. Chinese star anise does not contain anisatin under normal conditions, though hybridization between the two species can produce intermediates with variable toxicity.
 
-Regulatory agencies in the European Union and other regions have established testing protocols to distinguish Japanese from Chinese star anise in imported products. HPLC analysis can detect anisatin contamination at levels as low as 10 parts per million.
+Regulatory agencies in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] and other regions have established testing protocols to distinguish Japanese from Chinese star anise in imported products. [[hplc-analysis-of-psilocybin-and-psilocin]] can detect anisatin contamination at levels as low as 10 parts per million.
 
 ## Traditional and Medicinal Use
 
@@ -88,34 +88,3 @@ Japanese star anise was traditionally believed to have protective properties. In
 The dried fruit was also used as a component of incense blends in Buddhist temple practices. The anise-like fragrance was considered purifying and was burned during meditation and ceremonial observances.
 
 Despite its long history of external use, the plant was never consumed internally in Japanese traditional medicine. This contrasts with Chinese star anise, which has been used internally for digestive and respiratory complaints for centuries in Traditional Chinese Medicine.
-
-Modern pharmacological research has investigated anisatin analogues for their GABA-A receptor binding properties. While the compounds themselves are too toxic for therapeutic use, they serve as molecular tools in neuropharmacological research on inhibitory neurotransmission.
-
-Anisatin has been used experimentally to study the role of GABA-A receptors in epilepsy, anxiety, and general anesthesia. Synthetic derivatives with reduced toxicity have shown potential as research ligands for mapping GABAergic circuits in the brain.
-
-## Cultivation and Ornamental Value
-
-Japanese star anise is occasionally cultivated as an ornamental evergreen shrub, though it is far less common in gardens than Chinese star anise. Its dense, glossy foliage and shade tolerance make it useful for shaded garden areas.
-
-The species is hardy in USDA zones 8 through 10, making it suitable for mild-winter climates. It requires moist, well-drained, acidic soil and protection from cold, drying winds. Full shade to partial shade is preferred.
-
-Propagation is by seed or semi-hardwood cuttings. Seeds require warm stratification and can take several months to germinate. Cultivar selection is limited, and most garden plants are grown from seed.
-
-Growth rate is slow to moderate, with young plants typically adding 15 to 30 centimeters per year. Plants begin flowering at approximately 5 to 7 years of age when grown from seed.
-
-The primary ornamental feature is the glossy, evergreen foliage, which provides year-round structure in shade gardens. The pale yellow flowers are modestly attractive but not showy. The star-shaped fruit is decorative when mature.
-
-Gardeners should be aware of the plant's toxicity, particularly if children or pets have access to the garden. The resemblance of the fruit to the edible Chinese star anise poses a genuine risk of accidental poisoning.
-
-Labeling is strongly recommended when Japanese star anise is grown in gardens where the edible species is also present. The two species should never be grown together in proximity to food gardens or herb gardens.
-
-## See Also
-
-- [[illicium-verum]] — Chinese star anise, the edible culinary spice
-- [[schisandra-chinensis]] — Chinese magnolia vine, a related medicinal plant
-- [[taxus-baccata]] — European yew, another highly toxic evergreen shrub
-- [[aconitum-napellus]] — Monkshood, a toxic medicinal plant
-- [[nerium-oleander]] — Oleander, a toxic ornamental evergreen
-- [[camellia-japonica]] — Japanese camellia, a native forest companion
-- [[gelsemium-sempervirens]] — Carolina jessamine, a toxic ornamental vine
-- [[hydrangea-macrophylla]] — Bigleaf hydrangea, a Japanese forest understory shrub

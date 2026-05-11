@@ -5,7 +5,7 @@ tags:
   - fungi
   - agaricales
   - entolomataceae
-  - mycology
+  - [[mycology]]
   - toxic-mushroom
 created: 2026-04-28
 updated: 2026-04-28
@@ -24,7 +24,7 @@ encountered Entoloma species in temperate hardwood and mixed forests across
 Europe and [[psilocybin-north-america-pacific-northwest]].
 
 The species is notable for its close morphological similarity to several deadly
-poisonous Entoloma species, most notably Entoloma sinuatum. Consumption is
+poisonous Entoloma species, most notably [[entoloma-sinuatum]]. Consumption is
 generally discouraged due to variable toxicity and the significant risk of
 confusion with lethal lookalikes.
 
@@ -57,13 +57,13 @@ The stipe is 50–120 mm tall and 5–12 mm thick, central, cylindrical, white
 to pale brown, smooth, and lacks a ring or volva. Flesh is thin, white, with
 a mild to slightly mealy or raphanoid (radish-like) taste.
 
-Spore print is salmon-pink. Spores are angular, 5- to 6-sided, measuring
+[[boil-a-bag-spore-print-technique-jarrold]] is salmon-pink. Spores are angular, 5- to 6-sided, measuring
 8–11 × 7–9 µm, with prominent longitudinal ridges. Basidia are 4-spored,
 clavate. Cheilocystidia are cylindrical to ventricose; pleurocystidia absent.
 
 ## Distribution and Habitat
 
-Broadly distributed across temperate Europe, North America, and parts of Asia.
+Broadly distributed across temperate Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Asia.
 Particularly common in Western and Central Europe, fruiting from late summer
 through late autumn.
 
@@ -88,46 +88,3 @@ examination of cap color, gill attachment, odor, and microscopic features.
 
 Entoloma sinuatum (deadly) has a larger cap (up to 150 mm), deeper
 yellow-brown color, sinuate gills, and strong mealy odor. It is responsible
-for most serious Entoloma poisonings in Europe.
-
-Entoloma lividum has a bluish-grey to leaden cap and has caused fatalities
-in southern Europe. Entoloma nidorosum has a strong odor of rotting meal and
-darker brown cap. Edible Tricholoma species are superficially similar but
-have white spore prints.
-
-## Ecological Role
-
-As an ectomycorrhizal species, E. rhodopolium facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
-between host trees and soil microorganisms. The [[gadd-mycelial-network-dynamics]] contributes
-to soil aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition in forest floor horizons.
-
-The genus Entoloma is sensitive to [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat disturbance,
-making it a potential bioindicator of forest health and air quality. In mature
-forest ecosystems, Entoloma species contribute to overall [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-and may serve as food sources for various invertebrates and small mammals.
-
-## Microscopic Features
-
-In addition to the angular spores (8–11 × 7–9 µm), the pileipellis is a
-cutis of cylindrical to slightly inflated hyphae, 3–7 µm wide, with
-occasional clamp connections. The lamellar trama is regular to subregular.
-
-The pink spore color results from the amyloid or dextrinoid reaction of the
-spore wall, a key diagnostic character separating Entoloma from genera with
-inamyloid spores such as Tricholoma.
-
-## Seasonality and Frequency
-
-Fruiting occurs from August through November in Europe, with peak abundance in
-September and October. In warmer Mediterranean climates, the season may extend
-into December during wet autumns.
-
-The species is considered common to fairly common throughout its range, though
-local populations can fluctuate significantly based on summer rainfall patterns
-and autumn temperatures. Prolonged drought severely reduces fruiting.
-
-## See Also
-
-[[boletus-edulis-entity]], [[laccaria-bicolor]], [[psilocybe-semilanceata]],
-[[pleurotus-ostreatus]], and [[agaricus-bisporus]]
-for comparison with other temperate agarics.

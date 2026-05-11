@@ -88,15 +88,3 @@ non-psychoactive species within the genus.
 Pluteus salicinus is among the least studied of the European psychoactive mushroom
 species. No well-documented cases of intentional use or self-experimentation have
 been reported in the literature. Its significance lies primarily in expanding our
-understanding of the taxonomic diversity of psilocybin-producing fungi.
-
-The discovery of psilocybin in yet another unrelated genus reinforces the
-understanding that psilocybin biosynthesis has evolved independently multiple
-times across the fungal kingdom, rather than being a marker of close evolutionary
-relationship.
-
-## See Also
-
-- [[psilocybe-semilanceata]] — Europe's most common psychoactive mushroom
-- [[psilocin-and-psilocybin-chemistry]] — The active compounds
-- [[pluteus-cervinus]]

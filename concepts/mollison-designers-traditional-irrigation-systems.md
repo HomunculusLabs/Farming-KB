@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,40 +88,3 @@ demonstrate the extraordinary longevity of well-designed terraced systems.
 Simple diversion structures allow communities to redirect a portion of stream
 flow into irrigation channels without the need for large dams or pumps.
 Traditional diversion weirs are built from locally available materials: stone,
-timber, brush, and earth.
-
-Mollison describes several traditional diversion techniques:
-
-- **Brush weirs**: Bundles of branches and brush anchored in the stream bed
-  to raise water level sufficiently to flow into a headrace canal. These are
-  low-cost, easily constructed, and naturally porous, allowing fish passage
-  and sediment transport.
-- **Stone diversion walls**: Dry-stone walls built across seasonal streams
-  to spread floodwater across alluvial plains, recharging groundwater and
-  depositing fertile silt over wide areas.
-- **Gabion check dams**: Wire cages filled with stones placed in gullies to
-  slow water flow, trap sediment, and eventually stabilize eroding channels.
-  Over time, sediment fills behind the check dam, creating productive
-  agricultural land.
-
-## Community Water Management
-
-All traditional irrigation systems share a common feature: they require and
-reinforce community cooperation. Water allocation, conflict resolution,
-maintenance scheduling, and system expansion are all social processes that
-cannot be separated from the technical infrastructure.
-
-Mollison argues that the social institutions surrounding traditional
-irrigation are as important as the physical structures. A perfectly designed
-canal system will fail without fair and effective governance. Conversely,
-strong community institutions can maintain and adapt physical systems over
-centuries, as demonstrated by the longevity of qanats, acequias, and
-terraced systems worldwide.
-
-The permaculture designer working on water systems should prioritize
-community involvement from the outset. [[permaculture-design]]
-
-Traditional irrigation systems integrate naturally with [[mollison-designers-multi-strata-canopy-design]] (watering productive polycultures), and
-[[mollison-designers-wastewater-treatment-wetlands]] (closing the water cycle
-by returning treated water to the landscape). The designer should study these
-traditional systems deeply and adapt their principles to local conditions.

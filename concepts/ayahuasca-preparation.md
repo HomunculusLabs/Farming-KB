@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **Banisteriopsis caapi** (ayahuasca vine), which contains beta-carboline harmala alkaloids (MAO inhibitors), with **Psychotria viridis** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
+Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **Banisteriopsis caapi** (ayahuasca vine), which contains beta-carboline [[harmala-alkaloids]] (MAO inhibitors), with **[[chacruna-psychotria-viridis]]** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
 
 See [[dmt-reference]] for detailed pharmacology of DMT.
 
@@ -46,13 +46,13 @@ See [[dmt-reference]] for detailed pharmacology of DMT.
 Indigenous recipes often include additional plants with various purposes:
 
 - **Brunfelsia grandiflora** (chiric sanango) — for bone pain, cleansing
-- **Tobacco (Nicotiana rustica)** — Mapacho, added for protection and strength; very strong
+- **Tobacco ([[mckenna-shamanic-tobaccos-and-nicotiana-rustica]])** — Mapacho, added for protection and strength; very strong
 - **Datura brugmansia** (toé) — added in some traditions; contains tropane alkaloids, increases risk
-- **Justicia pectoralis** (marmelinho) — flavoring and aromatic
+- **[[justicia-pectoralis]]** (marmelinho) — flavoring and aromatic
 - **Ilex guayusa** — stimulant admixture, rich in caffeine
 - **Theobroma cacao** — occasionally added, especially in Ecuadorian ceremonies
 
-From Pablo Amaringo's Shipibo tradition (see [[pablo-amaringo]], [[amazonian-plant-teachers-doctores]]):
+From Pablo Amaringo's [[ayahuasca-vision-art-and-shipibo-tradition]] (see [[pablo-amaringo]], [[amazonian-plant-teachers-doctores]]):
 
 - **Toe (Brugmansia sp.)** — Two leaves added to brew; contains tropane alkaloids
 - **Motelo huasca (Bauhinia guianensis)** — Two pieces of ground vine; "motelo" = tortoise
@@ -136,7 +136,7 @@ Changa is a smokable DMT blend, distinct from ayahuasca but related:
 ### Ayahuasca Microdosing
 
 - Small doses (5-15 ml of standard brew) taken daily or several times per week
-- Claimed benefits: mood elevation, increased focus, emotional processing
+- Claimed benefits: mood elevation, increased focus, [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
 - Less studied than psilocybin or LSD microdosing
 - Should follow standard ayahuasca dietary precautions
 

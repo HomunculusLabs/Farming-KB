@@ -36,7 +36,7 @@ Several environmental and biological factors influence how quickly molecules dif
 
 Some molecules cannot pass through the cell membrane on their own but can cross with help from [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] embedded in the membrane. These proteins change shape or utilize internal electrical charges to help molecules through. This is still considered diffusion (passive) because no energy is added to the system -- the protein merely facilitates the natural movement down the concentration gradient.
 
-Ion channels and aquaporins are examples of transport proteins that allow facilitated diffusion. Aquaporins are particularly important — they are water-specific channels that can dramatically increase the rate of water movement across membranes compared to simple diffusion through the lipid bilayer.
+Ion channels and aquaporins are examples of [[plant-cell-membrane-transport-proteins]] that allow facilitated diffusion. Aquaporins are particularly important — they are water-specific channels that can dramatically increase the rate of water movement across membranes compared to simple diffusion through the lipid bilayer.
 
 ## Osmosis
 
@@ -46,11 +46,11 @@ The solutes, if they can pass through the membrane, move in the opposite directi
 
 ### Turgor Pressure
 
-When water enters a plant cell by osmosis, the cell swells against its rigid [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]. This outward pressure is called turgor pressure, and it is essential for maintaining plant structure. Without turgor pressure, cells become flaccid and the plant wilts. Turgor pressure also drives cell expansion during growth and keeps guard cells turgid so stomata can open for gas exchange.
+When water enters a plant cell by osmosis, the cell swells against its rigid [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]. This outward pressure is called turgor pressure, and it is essential for maintaining plant structure. Without turgor pressure, cells become flaccid and the plant wilts. Turgor pressure also drives cell expansion during growth and keeps guard cells turgid so stomata can open for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
 
 ### Osmosis in Plant Roots
 
-In plant roots, water molecules are small enough (and have the right chemistry) to move through the plasmalemma via diffusion without energy input. Water enters root cells because there is usually a higher concentration of nutrients than water inside root cells. This osmotic pressure pulls water across the root cell membranes to dilute internal concentrations.
+In plant roots, water molecules are small enough (and have the right chemistry) to move through the plasmalemma via diffusion without energy input. Water enters root cells because there is usually a higher concentration of nutrients than water inside root cells. This [[fungal-fruiting-body-mechanics-osmotic-pressure]] pulls water across the root cell membranes to dilute internal concentrations.
 
 ## Active Transport
 
@@ -63,7 +63,7 @@ Without active transport, plants could only take up nutrients that are more conc
 - Accumulate nutrients beyond soil concentrations
 - Selectively take up specific ions while excluding others
 - Maintain proper internal ion balances
-- Move sugars from leaves (high concentration) to roots (low concentration) through the phloem
+- Move sugars from leaves (high concentration) to roots ([[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]) through the phloem
 
 ### Ion Pumps
 
@@ -87,12 +87,3 @@ All three mechanisms work together:
 4. **Transpiration** (driven by evaporation) pulls the whole system upward
 
 Without any one of these mechanisms, plant nutrition would fail.
-
-These four transport mechanisms operate simultaneously and are tightly integrated. Diffusion handles short-distance ion movement within the root cortex and at the soil-root interface. Osmosis drives water uptake and creates the transpiration stream that carries dissolved nutrients upward. Active transport provides the selectivity needed for nutrient discrimination, allowing plants to preferentially absorb scarce essential elements over abundant non-essential ones. Bulk flow through the xylem distributes nutrients from roots to shoots at rates that would be impossible through diffusion alone. The [[fungal-contributions-soil-structure]] determines how easily water and dissolved nutrients can reach root surfaces. Healthy soils with good aggregation and [[hamilton-composting-and-organic-matter-management]] content maintain optimal conditions for all transport mechanisms.
-
-## Related Topics
-
-- [[adenosine-triphosphate-and-cellular-energy]] -- the energy source for active transport
-- [[temperature-effects-plant-nutrient-uptake]] -- temperature effects on transport rates
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[nutrient-movement-through-soil-to-plant-roots]]

@@ -1,5 +1,5 @@
 ---
-title: "solomon garden centers seedling traps and Seedling Buying Traps - Steve Solomon"
+title: [[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] Centers Seedling Traps
 created: 2026-04-26
 tags:
   - gardening
@@ -15,7 +15,7 @@ type: concept
 
 # Garden Centers and Seedling Buying Traps
 
-Steve Solomon dedicates an entire chapter of "Gardening When It Counts" to
+[[steve-solomon-evidence-based-organic-gardening]] dedicates an entire chapter of "Gardening When It Counts" to
 the pitfalls of buying seedlings at garden centers. His position is blunt:
 the first thing he aims to do is wean you off the garden center. This page
 covers the common mistakes, deceptive practices, and why growing your own
@@ -40,7 +40,7 @@ they bothered. Yet next spring, the same compulsion returns.
 ## Problem One: Crops That Should Not Be Transplanted
 
 People buy seedlings for types of vegetables that should be direct-seeded.
-Many gardeners believe it is impossible to grow carrots, beets, radishes,
+Many gardeners believe it is impossible to [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]], beets, radishes,
 or corn from seed. The truth is that these crops generally do not
 transplant well. Carrots and beets usually fail to make useful roots when
 transplanted. Lettuce generally does better from [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]; the
@@ -88,27 +88,3 @@ The pot-bound plant may continue growing above ground, but its roots wrap
 around and around inside. When transplanted, the constrained root system
 cannot support the top in hot weather unless watered twice daily. Leaves
 hardly grow for a week to ten days after transplanting.
-
-Solomon's test: place the stem of the plant between your fingers with the
-palm against the soil, cup the pot, and gently tap on the side while
-sliding the plant up. You can see any root tips. If roots are circling,
-do not buy it.
-
-## Problem Five: Soft, Unhardened Seedlings
-
-When plants are grown at high temperatures, particularly at night, they
-grow lushly -- leaves and stems get much larger -- but much of this size
-is water stored in weak-walled cells. When plants do not experience wind,
-their structural tissues are not reinforced. Commercial seedling growers
-crank up the heat (there is no wind inside a hothouse) and after four
-weeks, move these large-looking seedlings directly to the sales bench.
-
-These soft seedlings have not been [[solomon-choosing-seeds-and-catalogs]].
-2. Start your own seedlings at the right time using proper techniques.
-   See [[solomon-thinning-spacing-and-direct-seeding]].
-
-## Related Topics
-
-- [[solomon-transplanting-and-hardening-off]]
-- [[solomon-thinning-spacing-and-direct-seeding]]
-- [[solomon-hybrid-vs-open-pollinated]]

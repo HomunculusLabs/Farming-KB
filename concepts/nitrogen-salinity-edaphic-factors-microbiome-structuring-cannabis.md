@@ -2,7 +2,7 @@
 
 ## Overview
 
-In the study of Cannabis microbiome assembly by Winston et al. (2014), edaphic [[edaphic-factor-ranking-nitrogen-salinity-carbon-cannabis-microbiome]] (soil-related) factors emerged as the single strongest determinant of microbial community composition across all sample types—bulk soil, rhizosphere, and endorhiza. Among the edaphic variables tested (total nitrogen, salinity, total organic carbon, water content, and pH), **nitrogen** and **salinity** consistently ranked as the top two factors structuring microbial communities in both weighted and unweighted UniFrac analyses.
+In the study of [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] by Winston et al. (2014), edaphic [[edaphic-factor-ranking-nitrogen-salinity-carbon-cannabis-microbiome]] (soil-related) factors emerged as the single strongest determinant of microbial community composition across all sample types—bulk soil, rhizosphere, and endorhiza. Among the edaphic variables tested (total nitrogen, salinity, total organic carbon, water content, and pH), **nitrogen** and **salinity** consistently ranked as the top two factors structuring microbial communities in both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] analyses.
 
 This finding has profound implications for Cannabis cultivation, as it establishes that the soil environment—more than plant genetics—sets the foundational microbial palette from which the root microbiome is assembled. While cultivar-specificity fine-tunes community structure within the endorhiza, the raw material for that selection is overwhelmingly determined by edaphic [[edaphic-factor-ranking-nitrogen-salinity-carbon-cannabis-microbiome]] conditions. In practical terms, this means that growers seeking to manipulate their plants' microbial partners should prioritize soil health and chemistry above strain selection.
 
@@ -35,8 +35,8 @@ Nitrogen availability is a fundamental constraint on microbial growth in soil. H
 
 Salinity's strong influence on Cannabis microbiome structure reflects the osmotic stress it imposes on soil microbes:
 
-- **Osmotic tolerance filtering**: High salinity selects for halotolerant genera such as Pseudomonas and Xanthomonas, which are well-represented in the Cannabis core endorhiza community.
-- **Ionic effects on enzyme activity**: Salt concentrations alter the activity of microbial extracellular enzymes involved in nutrient cycling, reshaping metabolic pathways available in the community.
+- **Osmotic tolerance filtering**: High salinity selects for halotolerant genera such as Pseudomonas and Xanthomonas, which are well-represented in the [[cannabis-core-endorhiza-microbiome]] community.
+- **Ionic effects on enzyme activity**: Salt concentrations alter the activity of microbial [[fungal-extracellular-enzymes]] involved [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], reshaping metabolic pathways available in the community.
 - **Soil aggregate stability**: Salinity affects soil structure and water retention, indirectly influencing microbial habitat availability and oxygen diffusion.
 - **Cross-correlation with nitrogen**: In the study soils (sandy loams from Vista and Orange County, California), salinity values ranged from 1.73 to 7.44, with higher salinity generally associated with lower organic carbon—creating a composite edaphic signature.
 
@@ -87,14 +87,4 @@ The Mantel test approach used to correlate edaphic factors with community beta-d
 
 ## Limitations and Future Directions
 
-The study examined only sandy loam soils from Southern California, limiting generalizability to other soil textures (clay, silt, peat). The five edaphic factors tested represent a subset of potentially relevant variables; additional factors such as phosphorus, potassium, micronutrient availability, and cation exchange capacity were not assessed. Future work should explore dose-response relationships between nitrogen/salinity gradients and specific endorhiza taxa to enable precision microbiome management in Cannabis agriculture.
-
-## See Also
-
-- [[cannabis-microbiome-two-tier-selection-model]] — the broader framework in which edaphic factors operate at tier 1
-- [[cannabis-endorhiza-microbiome-structure]] — how communities differ between sample types
-- [[acidobacteria-decline-in-rhizosphere-endorhiza-transition]] — the taxa most affected by nitrogen shifts
-- [[proteobacteria-dominance-in-cannabis-endorhiza]] — taxa favoured by nitrogen-rich environments
-- [[microbial-terroir-and-cannabis-cultivar-specificity]] — edaphic influence on crop characteristics
-- [[alpha-diversity-gradient-bulk-soil-to-cannabis-endorhiza]] — diversity changes across sample types
-- [[cannabis-core-endorhiza-microbiome]] — the persistent taxa found across cultivars and soils
+The study examined only sandy loam soils from Southern California, limiting generalizability to other soil textures (clay, silt, peat). The five edaphic factors tested represent a subset of potentially relevant variables; additional factors such as phosphorus, potassium, micronutrient availability, and [[cation-exchange-capacity]] were not assessed. Future work should explore dose-response relationships between nitrogen/salinity gradients and specific endorhiza taxa to enable precision microbiome management in Cannabis agriculture.

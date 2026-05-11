@@ -13,8 +13,8 @@ sources:
   - Brodo IM, Sharnoff SD, Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Thell A, Randlane T, Stenroos S, Ahti T. (2004). "Phylogeny of Cetraria, Cornicularia, and related lichen genera (Parmeliaceae)." The Bryologist 107(4): 495–505.
   - Kärnefelt I, Thell A. (1993). "The genera Cetrelia and Cetrariastrum (Lecanorales, Ascomycotina)." Opera Botanica 117: 1–72.
-  - Nash TH III. (2008). "Lichen Biology." Cambridge University Press, 2nd edition.
-  - Ahti T. (1977). "The lichens and lichenicolous fungi of Alaska." Report from the Kevo Subarctic Research Station 11: 1–120.
+  - Nash TH III. (2008). "[[fungi-in-the-environment-lichen-biology]]." Cambridge University Press, 2nd edition.
+  - Ahti T. (1977). "The lichens and [[lichenicolous-fungi]] of Alaska." Report from the Kevo Subarctic Research Station 11: 1–120.
 ---
 
 # Cetraria nivalis
@@ -23,7 +23,7 @@ sources:
 
 **Cetraria nivalis**, commonly known as the **snow lichen** or **pale Iceland lichen**, is a fruticose lichen in the family Parmeliaceae. It forms dense, pale gray to white cushion-like mats on Arctic and alpine tundra substrates.
 
-The species is one of the most widespread lichens in Arctic regions, where it plays a significant role in caribou and reindeer diets. It is closely related to the better-known *Cetraria islandica* (Iceland moss).
+The species is one of the most widespread lichens in Arctic regions, where it plays a significant role in caribou and reindeer diets. It is closely related to the better-known *[[cetraria-islandica]]* (Iceland moss).
 
 *C. nivalis* is an important component of polar and alpine lichen communities, often dominating extensive areas of well-drained tundra. Its ability to photosynthesize at low temperatures makes it well-adapted to harsh Arctic conditions.
 
@@ -43,7 +43,7 @@ The photobiont is a trebouxioid green alga. The medulla is white and loosely wov
 
 ## Distribution and Habitat
 
-*Cetraria nivalis* has a circumpolar Arctic and alpine distribution. It occurs throughout the Arctic tundra of North America, Greenland, Iceland, Scandinavia, and northern Russia.
+*Cetraria nivalis* has a circumpolar Arctic and alpine distribution. It occurs throughout the Arctic tundra [[berry-growing]], Greenland, Iceland, Scandinavia, and northern Russia.
 
 In North America, the species extends from northern Alaska across the Canadian Arctic Archipelago to Labrador and Newfoundland. It also occurs in alpine habitats southward through the Rocky Mountains and the Appalachians.
 
@@ -61,7 +61,7 @@ The lichen's high carbohydrate content provides essential energy during the hars
 
 Caribou have evolved specialized rumen microflora to detoxify lichen acids, particularly usnic acid and protolichesterinic acid. Other mammals lacking these adaptations may experience kidney damage from consuming large amounts of *Cetraria*.
 
-The species contributes to soil formation and stabilization in Arctic environments. Its mat-like growth traps wind-blown sediment and [[hamilton-composting-and-organic-matter-management]], gradually building soil on exposed mineral surfaces.
+The species contributes to soil formation and stabilization in Arctic environments. Its mat-like growth traps wind-blown sediment and [[hamilton-composting-and-organic-matter-management]], gradually building soil on exposed [[fungal-community-profiling-rock-mineral-surfaces-gadd]].
 
 *C. nivalis* can photosynthesize at temperatures as low as -10°C, though optimal rates occur between 5–15°C. This cold tolerance allows it to remain [[isolation-metabolically-active-arbuscules-intraradical-hyphae]] during brief winter warm spells.
 
@@ -73,7 +73,7 @@ In Sámi culture, *C. nivalis* was sometimes mixed with other lichens as reindee
 
 In Nordic folk medicine, preparations of *Cetraria* species were used to treat respiratory ailments, digestive complaints, and [[cannabis-for-skin-conditions-detailed]]. The lichens were boiled to extract water-soluble polysaccharides with soothing properties.
 
-The lichen has been investigated as a potential source of antimicrobial compounds. Protolichesterinic acid, a major [[fungal-elicitors-enhanced-secondary-metabolite-production]], has shown activity against mycobacteria in laboratory studies.
+The lichen has been investigated as a potential source of [[antimicrobial-compounds-mushroom-mycelium]]. Protolichesterinic acid, a major [[fungal-elicitors-enhanced-secondary-metabolite-production]], has shown activity against mycobacteria in laboratory studies.
 
 ## Chemistry and Secondary Metabolites
 
@@ -88,31 +88,3 @@ The species is C+ red in medullary spot tests due to the presence of protoliches
 ## Similar Species and Identification
 
 *Cetraria nivalis* is most commonly confused with *Cetraria islandica*, which has a similar growth form and habitat. However, *C. islandica* is typically darker and more brownish, with broader, more flattened branches.
-
-*C. islandica* produces fumarprotocetraric acid rather than protolichesterinic acid as its major medullary compound. This chemical difference is readily apparent in TLC analysis and C spot tests.
-
-The arctic species *Alectoria ochroleuca* can resemble *C. nivalis* at a distance due to its pale coloration. However, *A. ochroleuca* has distinctly thinner, more thread-like branches and produces different secondary metabolites.
-
-*Flavocetraria nivalis* has been proposed as a separate genus placement based on molecular phylogenetic evidence. Some authorities still treat it within *Cetraria* pending further taxonomic resolution.
-
-*C. aculeata* is a related species with more erect, spiny-looking branches. It often grows intermixed with *C. nivalis* in Arctic habitats but is chemically distinct and typically darker in coloration.
-
-## Conservation Status
-
-*Cetraria nivalis* remains abundant across most of its Arctic range. However, [[dighton-fungi-climate-change-feedback]] poses a long-term threat as warming temperatures favor vascular plant encroachment into lichen-dominated tundra.
-
-Increased shrub cover in Arctic tundra reduces available habitat for terricolous lichens like *C. nivalis*. Experimental warming studies have documented significant declines in lichen cover within a decade of temperature increases.
-
-Overgrazing by reindeer herds in parts of Scandinavia and Siberia has locally depleted *Cetraria* populations. Recovery is slow due to the lichen's growth rate of only 1–5 mm per year.
-
-Despite these pressures, the species is not currently considered globally threatened. Its vast Arctic range and ability to colonize disturbed substrates provide substantial resilience.
-
-## See Also
-
-- [[galanthus-nivalis]]
-
-- [[cladonia-stellaris]]
-- [[bryoria-fremontii]]
-- [[nephroma-arcticum]]
-- [[flavoparmelia-caperata]]
-- [[bryoria-fuscescens]]

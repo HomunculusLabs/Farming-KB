@@ -12,20 +12,20 @@ sources:
   - Soreng RJ, Peterson PM, Romaschenko K, et al. (2017). "A worldwide phylogenetic classification of the Poaceae (Gramineae)." Journal of Systematics and Evolution 55(2): 131–153.
   - Stewart AV, Joachimiak M, defect A. (2020). "Perennial ryegrass (Lolium perenne L.)." In: Kole C, editor. Genome Mapping and Genomics in Animals and Plants. Springer.
   - Easton HS, Latch GCM, Tapper BA, Ball OJ-P. (2002). "Neotyphodium lolii endophyte in perennial ryegrass." Proceedings of the New Zealand Grassland Association 64: 159–166.
-  - Wilkins PW, Humphreys MO. (2003). "Progress in breeding perennial forage grasses for temperate agriculture." Journal of Agricultural Science 141: 129–150.
+  - Wilkins PW, Humphreys MO. (2003). "Progress in breeding perennial forage grasses for temperate agriculture." Journal of [[fukuoka-critique-laws-agricultural-science]] 141: 129–150.
 ---
 
 # Lolium perenne
 
 ## Overview
 
-**Perennial ryegrass** (*Lolium perenne* L.) is a bunchgrass native to Europe, North Africa, and temperate Asia. It ranks among the most widely used forage and turf grasses in temperate regions worldwide.
+**Perennial ryegrass** (*Lolium perenne* L.) is a bunchgrass native to Europe, North Africa, and temperate Asia. It ranks among the most widely used forage and turf grasses in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
-Valued for rapid establishment, high nutritive value, and persistent grazing tolerance, perennial ryegrass is a cornerstone of pastoral agriculture in New Zealand, northwestern Europe, and parts of North and South America. It is also the dominant species on golf courses, athletic fields, and residential lawns in cool-humid climates.
+Valued for rapid establishment, high nutritive value, and persistent grazing tolerance, perennial ryegrass is a cornerstone of pastoral agriculture in New Zealand, northwestern Europe, and parts of North and [[guzman-psilocybin-mushrooms-south-america]]. It is also the dominant species on golf courses, athletic fields, and residential lawns in cool-humid climates.
 
 Global seed production exceeds 500,000 tonnes annually, reflecting its economic importance across pastoral, turf, and amenity sectors. The species is diploid (2n = 14), though tetraploid cultivars are widely grown for their broader leaves and higher sugar content.
 
-The species was among the first forage grasses to have its genome sequenced, with a reference genome published in 2017. This has accelerated marker-assisted breeding for disease resistance, nutritional quality, and stress tolerance.
+The species was among the first forage grasses to have its genome sequenced, with a reference genome published in 2017. This has accelerated marker-assisted breeding for disease resistance, [[coleman-winter-greens-nutritional-quality-cold-sweetening]], and [[endophyte-mediated-plant-stress-tolerance]].
 
 Perennial ryegrass is the primary component of New Zealand's dairy pastoral system, underpinning an export industry worth over NZ$20 billion annually. In Europe, it dominates the mixed swards of Ireland, the United Kingdom, and northwestern France.
 
@@ -55,11 +55,11 @@ Optimal growth occurs in cool, moist climates with mean annual temperatures of 1
 
 The species is intolerant of severe winters without snow cover, though modern cultivars show improved winter hardiness to −20 °C. It is generally unsuitable for semi-arid or tropical lowland environments.
 
-It readily colonizes disturbed sites, roadsides, pastures, and riparian areas. Natural populations are common in meadows, grasslands, and open woodlands across its native range, often co-occurring with *Trifolium repens* and *Plantago lanceolata*.
+It readily colonizes disturbed sites, roadsides, pastures, and riparian areas. Natural populations are common in meadows, grasslands, and open woodlands across its native range, often co-occurring with *[[trifolium-repens]]* and *[[plantago-lanceolata]]*.
 
-In the Southern Hemisphere, naturalized populations are widespread in southeastern Australia, New Zealand, and parts of South America. It is considered an environmental weed in some conservation areas where it displaces native grassland communities.
+In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], naturalized populations are widespread in southeastern Australia, New Zealand, and parts of South America. It is considered an environmental weed in some conservation areas where it displaces native grassland communities.
 
-At high elevations above 2,000 m, growth is limited by cold temperatures and short growing seasons. In Mediterranean climates it persists through mild, moist winters and goes semi-dormant during dry summers.
+At high elevations above 2,000 m, growth is limited by cold temperatures and short [[jeavons-climate-adaptation-growing-seasons]]. In Mediterranean climates it persists through mild, moist winters and goes semi-dormant during dry summers.
 
 ## Cultivation
 
@@ -69,11 +69,11 @@ Optimal sowing timing is early autumn in temperate regions, allowing establishme
 
 Establishment from seed is rapid, with germination occurring within 5–10 days under adequate moisture. Seedling vigor is high, enabling competitive establishment in mixed swards with clover and other grass species.
 
-Grazing management drives persistence and productivity. Rotational grazing with 2–3 week rest intervals between defoliations maximizes dry matter yield and stand longevity. Continuous close grazing depletes root carbohydrate reserves and thins stands within 2–3 years.
+Grazing management drives persistence and productivity. [[comparison-rotational-grazing-vs-continuous-grazing]] with 2–3 week rest intervals between defoliations maximizes dry matter yield and stand longevity. Continuous close grazing depletes root carbohydrate reserves and thins stands within 2–3 years.
 
-Nitrogen fertilizer rates of 150–400 kg N/ha/year sustain high production in intensively managed dairy and sheep systems. Phosphorus, potassium, and sulfur applications follow soil test recommendations to maintain balanced nutrition.
+[[jadam-natural-nitrogen-fertilizer]] rates of 150–400 kg N/ha/year sustain high production in intensively managed dairy and sheep systems. Phosphorus, potassium, and sulfur applications follow soil test recommendations to maintain balanced nutrition.
 
-Endophyte strains, particularly *Epichloë festucae* var. *lolii*, confer insect resistance but can produce ergovaline and lolitrem B, causing ryegrass staggers in livestock. Novel endophyte strains (e.g., AR1, NEA2) provide insect deterrence without alkaloid toxicity.
+Endophyte strains, particularly *Epichloë festucae* var. *lolii*, confer [[fukuoka-vegetable-disease-insect-resistance]] but can produce ergovaline and lolitrem B, causing ryegrass staggers in livestock. Novel endophyte strains (e.g., AR1, NEA2) provide insect deterrence without alkaloid toxicity.
 
 ## Uses and Forage Quality
 
@@ -88,28 +88,3 @@ As turf, perennial ryegrass forms a fine-textured, wear-tolerant surface ideal f
 Ornamental cultivars are bred for dark green color, reduced mowing frequency, and disease resistance. Dwarf varieties adapted to close mowing (≤ 5 mm) dominate the golf course putting-green market in maritime climates.
 
 Overseeding warm-season turf with perennial ryegrass in autumn provides green color through winter dormancy in the transition zone of the United States (roughly 32–38°N latitude). This practice covers an estimated 5 million hectares annually.
-
-## Pests and Diseases
-
-**Ryegrass endophyte** (*Epichloë festucae* var. *lolii*) is a mutualistic fungal symbiont inhabiting leaf sheaths and stems. It produces peramine and lolines that deter Argentine stem weevil (*Listronotus bonariensis*) and other herbivorous insects.
-
-Major insect pests include the African black beetle (*Heteronychus arator*), leatherjackets (*Tipula* spp.), and cereal aphids (*Sitobion avenae*). Endophyte-mediated resistance is the primary management tool in New Zealand and Australian pastoral systems.
-
-Fungal diseases include brown patch (*Rhizoctonia solani*), gray leaf spot (*Pyricularia grisea*), fusarium patch (*Microdochium nivale*), and stem rust (*Puccinia graminis*). Resistance breeding has reduced susceptibility in modern turf and forage cultivars.
-
-Nematode species including *Paratrichodorus* spp. and *Pratylenchus* spp. can cause significant yield loss in intensively managed pastures. Crop rotation and nematode-resistant cultivars provide partial control.
-
-Viral diseases, notably ryegrass mosaic virus transmitted by the cereal aphid, can reduce yield by 10–30% in susceptible cultivars. Breeding for aphid resistance through endophyte technology indirectly controls viral spread in pastoral systems.
-
-Integrated pest management combines endophyte selection, grazing rotation, strategic nitrogen timing, and biological control agents. In New Zealand, parasitoid wasps targeting stem weevil larvae have reduced insecticide dependency by over 60% in endophyte-infected pastures.
-
-## See Also
-
-- [[festuca-arundinacea]]
-- [[dactylis-glomerata]]
-- [[cynodon-dactylon]]
-- [[phleum-pratense]]
-- [[trifolium-repens]]
-- [[medicago-sativa]]
-- [[triticum-aestivum]]
-- [[phragmites-australis]]

@@ -88,10 +88,3 @@ The [[jadam-bongha-village-proof]] case study demonstrated that a 320-acre rice 
 community applying JADAM natural pesticide four times per season spent
 only 9 dollars per acre on pest control. This represents the practical
 ## See Also
-
-- [[voles-control-methods]]
-
-- [[jadam-oriental-herb-nutrient]]
-- [[jadam-weed-control-strategies-natural]]
-- [[jadam-local-material-resource-cycling]]
-- [[jadam-soil-management-without-tillage]]

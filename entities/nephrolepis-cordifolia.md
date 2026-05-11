@@ -20,9 +20,9 @@ sources:
 
 ## Overview
 
-Nephrolepis cordifolia, commonly known as the tuberous sword fern, erect sword fern, or fishbone fern, is a species of fern in the family Nephrolepidaceae. It is native to tropical and subtropical regions worldwide, with a pantropical distribution.
+Nephrolepis cordifolia, commonly known as the tuberous sword fern, erect sword fern, or fishbone fern, is a species of fern in the family Nephrolepidaceae. It is native to tropical and subtropical regions worldwide, with a [[copelandia-cyanescens-pantropical-distribution-and-ecology]].
 
-The species is distinguished from the closely related Boston fern (Nephrolepis exaltata) by its erect frond habit, smaller frond size, and the presence of underground tubers on its rhizomes. These tubers are a key identification feature.
+The species is distinguished from the closely related Boston fern ([[nephrolepis-exaltata]]) by its erect frond habit, smaller frond size, and the presence of underground tubers on its rhizomes. These tubers are a key identification feature.
 
 Tuberous sword fern typically grows 30-70 cm tall, forming dense clumps of narrow, arching fronds. It is widely cultivated as an ornamental plant but is also recognized as an invasive species in several regions.
 
@@ -50,7 +50,7 @@ The species has a diploid chromosome count of 2n = 82 in most populations, thoug
 
 ## Distribution and Habitat
 
-Nephrolepis cordifolia has a pantropical distribution, occurring naturally in Africa, southern Asia, Southeast Asia, Australia, and the Pacific Islands. Its exact native range is uncertain due to widespread naturalization.
+Nephrolepis cordifolia has a pantropical distribution, occurring naturally in Africa, southern Asia, [[psilocybe-southeast-asia-pacific]], Australia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. Its exact native range is uncertain due to widespread naturalization.
 
 The species grows in a wide range of habitats including forests, forest margins, disturbed areas, roadways, and along stream banks. It tolerates both shaded and partially sunny conditions.
 
@@ -60,7 +60,7 @@ The species also establishes epiphytically on tree trunks and rock surfaces in h
 
 In Australia, N. cordifolia is native to the eastern coastal regions from northern Queensland to New South Wales. It has become a significant environmental weed in southeastern Australia, where it displaces native groundcover species.
 
-The species has been introduced to the southern United States, Hawaii, parts of Central and South America, and numerous Pacific and Indian Ocean islands. It is listed as invasive in Florida, Hawaii, and New Zealand.
+The species has been introduced to the southern [[dmt-containing-plants-united-states-halpern]], Hawaii, parts of Central and [[guzman-psilocybin-mushrooms-south-america]], and numerous Pacific and Indian Ocean islands. It is listed as invasive in Florida, Hawaii, and New Zealand.
 
 Global dispersal has been facilitated by the horticultural trade. The species is commonly sold as an ornamental and escapes cultivation through rhizome fragments in discarded potting material.
 
@@ -70,9 +70,9 @@ Nephrolepis cordifolia is widely cultivated as an ornamental fern, though it is 
 
 The species is remarkably adaptable, tolerating a range of light conditions from full shade to partial sun. It prefers consistently moist soil but survives periods of drought through its tuber reserves.
 
-A well-draining potting mix with added organic matter supports healthy growth. In the landscape, it functions as a spreading groundcover but can become aggressive in favorable conditions.
+A well-draining [[solomon-potting-mix-and-seedling-soil-recipe]] with added [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] supports healthy growth. In the landscape, it functions as a spreading groundcover but can become aggressive in favorable conditions.
 
-Temperature tolerance is broad, with the species surviving mild frost and temperatures down to approximately -3°C (27°F). In frost-prone areas, the fronds die back in winter but regrow from the rhizome in spring.
+[[mycorrhizal-drought-and-temperature-tolerance]] is broad, with the species surviving mild frost and temperatures down to approximately -3°C (27°F). In frost-prone areas, the fronds die back in winter but regrow from the rhizome in spring.
 
 Propagation is readily achieved by division, rhizome cuttings, or spore. The tubers can also be planted to establish new colonies. Spores germinate readily on moist, shaded substrates.
 
@@ -82,39 +82,8 @@ The species' aggressive spreading habit makes it less suitable for contained gar
 
 The underground tubers of Nephrolepis cordifolia are edible when cooked and have been consumed by Aboriginal Australians and Pacific Island communities. The tubers are starchy and were historically an important food source during lean periods.
 
-In traditional medicine, the fronds have been used as a poultice for skin conditions and wounds in parts of Southeast Asia and the Pacific. Specific pharmacological studies on N. cordifolia are limited.
+In traditional medicine, the fronds have been used as a poultice [[cannabis-for-skin-conditions-detailed]] and wounds in parts of Southeast Asia and the Pacific. Specific pharmacological studies on N. cordifolia are limited.
 
 As an invasive species, N. cordifolia poses significant ecological threats in several regions. In Florida, it forms dense mats that exclude native vegetation and alter fire regimes. In Australia, it competes with native ferns and groundcovers.
 
 The species provides habitat for invertebrates and small vertebrates in its native range. In invaded ecosystems, its dense frond canopy can suppress native plant regeneration and reduce biodiversity.
-
-Control of invasive populations typically involves manual removal of rhizomes and tubers, as the tuber reserves allow the plant to resprout after above-ground removal. Herbicide application is sometimes necessary for large infestations.
-
-In Australia, N. cordifolia is listed as a Weed of National Significance in some jurisdictions. Management programs focus on preventing garden escape and controlling established populations in conservation areas.
-
-## Related Species
-
-The genus Nephrolepis contains approximately 20-30 species distributed in tropical and subtropical regions worldwide. Several species are closely related or frequently confused with N. cordifolia:
-
-- **Nephrolepis exaltata** (Boston fern) is the most widely cultivated Nephrolepis species. It lacks tubers, has more arching fronds, and produces more pronounced frond mutations in cultivation.
-
-- **Nephrolepis biserrata** (Giant sword fern) is a larger species with fronds reaching 1.5 meters. It is native to tropical Americas and Africa and is sometimes cultivated in tropical gardens.
-
-- **Nephrolepis hirsutula** (Hairy sword fern) has densely hairy fronds and rachises. It is native to tropical Africa and Asia and is less commonly cultivated.
-
-- **Pteris vittata** (Chinese brake fern) is an unrelated fern that occupies similar disturbed habitats and is notable for arsenic hyperaccumulation.
-
-- **Adiantum raddianum** (Delta maidenhair fern) is a common houseplant fern with a very different frond architecture but similar indoor cultivation requirements.
-
-## See Also
-
-- [[nephrolepis-exaltata]]
-- [[pteris-vittata]]
-- [[adiantum-raddianum]]
-- [[adiantum-capillus-veneris]]
-- [[dryopteris-filix-mas]]
-- [[pteridium-aquilinum]]
-- [[athyrium-filix-femina]]
-- [[polypodium-vulgare]]
-- [[asplenium-nidus]]
-- [[pteris-cretica]]

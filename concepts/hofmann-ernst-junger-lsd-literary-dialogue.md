@@ -13,7 +13,7 @@ type: concept
 ## Hofmann's Radiance from Junger
 
 Ernst Junger's literary work and personality had a profound influence on
-Albert Hofmann. In the light of Junger's perspective, which
+[[albert-hofmann]]. In the light of Junger's perspective, which
 stereoscopically comprises the surfaces and depths of things, the world
 Hofmann knew took on a new, translucent splendor. This enchantment began
 long before the discovery of LSD and before Hofmann came into personal
@@ -88,37 +88,3 @@ Japanese incense stick with the ease of thought.
 As the inebriation deepened, each experienced distinct visions:
 
 - **Junger** enjoyed the color display of oriental images: Berber tribes
-  in North Africa, colored caravans and lush oases
-- **Konzett**, whose features seemed Buddha-like, experienced a breath of
-  timelessness, liberation from past and future
-- **Hofmann** was on a trip through fantasy and reverie
-
-The return from altered consciousness was associated with strong
-sensitivity to cold. "Like freezing travelers, we enveloped ourselves in
-covers for the landing." The return to everyday reality was celebrated
-with a good dinner, in which Burgundy flowed copiously.
-
-## "Tiger Mescaline" vs. "House Cat LSD"
-
-The trip was characterized by mutuality and parallelism of experiences,
-perceived as profoundly joyful. All three had drawn near the gate to an
-experience of mystical being; however, it did not open. The dose was too
-low. Junger, who had earlier been thrust into deeper realms by a high
-dose of [[yopo-anadenanthera-peregrina-snuff]] and its congeners.
-
-## The Mushroom Symposium of 1962
-
-A psilocybin experiment in spring 1962 at Junger's home in Wilflingen
-brought together Hofmann, Junger, Konzett, and Islamic scholar Rudolf
-Gelpke. Each took 20 mg psilocybin. While Junger lectured brilliantly
-about Schopenhauer, Kant, and Hegel, Hofmann experienced a confrontation
-with a dead world and the void, seizing Gelpke's arm to avoid sinking
-into nothingness. Hofmann reflected that the encounter with the void
-could also be appraised as a gain: "Then the existence of the creation
-appears so much more wondrous."
-
-## See Also
-
-- [[hofmann-lsd-consciousness-and-philosophy]]
-- [[hofmann-lsd-pharmacology-and-effects]]
-- [[ernst-gotsch]]

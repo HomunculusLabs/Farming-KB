@@ -11,11 +11,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Zhu Y.P. (1998). "Chinese Materia Medica: Chemistry, Pharmacology and Applications."
+  - Zhu Y.P. (1998). "Chinese herbal-materia-medica: Chemistry, Pharmacology and Applications."
   - Li T.S.C. (2009). "Medicinal Plants: Culture, Utilization and Phytopharmacology."
   - Wang J. et al. (2021). "Codonopsis pilosula: A review of phytochemistry."
   - Normile D. (2003). "Asian medicine. The new face of traditional Chinese medicine."
-  - Gao Q.H. et al. (2012). "Chemical constituents of Codonopsis species."
+  - Gao Q.H. et al. (2012). "[[guzman-magic-mushrooms-chemical-constituents]] of Codonopsis species."
 ---
 
 # Codonopsis pilosula
@@ -28,7 +28,7 @@ Korea, and parts of Siberia. Its dried root is one of the most widely used herbs
 in Traditional Chinese Medicine (TCM), where it serves as a primary *qi* tonic.
 
 Referred to as "poor man's ginseng," codonopsis shares several pharmacological
-properties with *Panax ginseng* but is considerably milder, making it suitable for
+properties with *[[comparison-ginkgo-biloba-vs-panax-ginseng]]* but is considerably milder, making it suitable for
 long-term daily use. It is valued for tonifying the spleen and lung *qi*,
 nourishing the blood, and promoting the production of body fluids.
 
@@ -79,7 +79,7 @@ The root contains a complex phytochemical profile:
 - **Polyacetylenes:** Including lobetyol, lobetyolin, and lobetyolinin.
 - **Alkaloids:** Codonopsine, perlolyrine, and several pyrrolizidine-related
   compounds.
-- **Flavonoids:** Including luteolin, apigenin, and their glycosides.
+- **Flavonoids:** Including [[luteolin]], [[apigenin]], and their glycosides.
 
 ### Key Pharmacological Activities
 
@@ -88,51 +88,3 @@ showing dose-dependent enhancement of both innate and adaptive immune responses
 in animal models.
 
 Gastroprotective activity includes reduction of gastric acid secretion,
-enhancement of gastric mucosal defense, and acceleration of ulcer healing.
-
-Neuroprotective effects demonstrated in models of cerebral ischemia and
-Alzheimer's disease involve antioxidant, anti-apoptotic, and anti-inflammatory
-mechanisms.
-
-## Traditional and Modern Uses
-
-### Traditional Chinese Medicine
-
-Codonopsis root is a core *qi*-tonifying herb in TCM, used to strengthen
-spleen function (improving appetite, digestion, and nutrient absorption) and
-lung *qi* (relieving chronic cough, shortness of breath, and fatigue).
-
-Common clinical applications include [[cannabis-chronic-fatigue-research]], poor appetite, diarrhea,
-pale complexion, and post-illness convalescence. It is frequently combined with
-*Astragalus membranaceus* in the classical formula *Bu Zhong Yi Qi Tang*.
-
-### Contemporary Applications
-
-Codonopsis is increasingly used in Western herbal practice as a gentle daily
-adaptogen, often as a substitute for ginseng in individuals who find ginseng
-overstimulating. It is included in immune support formulas, stress adaptation
-protocols, and digestive tonics.
-
-The root is also consumed as a culinary ingredient in China, added to soups,
-stews, and congee for both flavor and health benefits.
-
-## Cultivation
-
-Codonopsis is cultivated commercially in Gansu, Shaanxi, and Sichuan provinces.
-Seeds are sown in spring after cold stratification. Plants require 3–4 years of
-growth before root harvest.
-
-Optimal growing conditions include well-drained sandy loam, partial shade, and
-annual rainfall of 500–800 mm. Yields of dried root range from 2,000–4,000 kg/ha
-under cultivation.
-
-Overharvesting of wild populations has prompted conservation measures and
-cultivation standardization through China's Good Agricultural Practice (GAP)
-program.
-
-## See Also
-
-- [[astragalus-membranaceus]]
-- [[schisandra-chinensis]]
-- [[withania-somnifera]]
-- [[ocimum-tenuiflorum-entity]]

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and [[cannabis-for-leukemia-and-lymphoma]]"
+title: Blesching Cannabis Leukemia Lymphoma
 created: 2026-04-26
 tags:
   - cannabis
@@ -75,7 +75,7 @@ and CB2 receptors.
 | THC | Lab | 2006, Virginia Commonwealth Univ.: Raf-1/MEK/ERK/RSK-mediated translocation critical in THC-induced apoptosis of Jurkat cells | 1 |
 | THC | Lab | 2005, Multi-institutional London: THC induces apoptosis in leukemia cancer cells | 1 |
 
-**Total CHI Value (Leukemia): 7**
+**Total [[blesching-cannabis-prostate-cancer-chi-value-3]] (Leukemia): 7**
 
 ## Cannabis and Lymphoma
 
@@ -88,51 +88,10 @@ induces apoptosis in lymphoma cancer cells.
 ### Lymphoma Study Summary
 
 | Drug | Study Type | Year, Place, Key Results | CHI |
-|------|-----------|--------------------------|-----|
-| R(+)-methanandamide | Lab | 2009, Karolinska Univ., Stockholm: Cytotoxic effect enhanced by modulation of ceramide metabolism | 1 |
-| Anandamide | Lab | 2000, Rome, Italy: Anandamide produced apoptosis in human lymphoma U937 cells | 1 |
 
-**Total CHI Value (Lymphoma): 2**
-**Combined CHI Value (Leukemia + Lymphoma): 9**
-
-### Strain-Specific Considerations
-
-These pre-clinical studies highlight the endocannabinoid system's role in
-the destruction of leukemia and lymphoma cell lines. Anandamide, THC, and
-CBD have proven toxic to these cancer types in the laboratory. Most
-studies used anandamide and THC, which bind to both CB1 and CB2 receptors.
-One experiment demonstrated CBD's ability to produce apoptosis via CB2
-mechanisms alone.
-
-- Sativas or sativa-heavy strains have higher THC:CBD ratios, binding to
-  both CB1 and CB2
-- Indicas or indica-heavy strains have lower THC:CBD ratios, binding to
-  CB1 with greater affinity
-- CBD's CB2-selective action may be particularly relevant for leukemia
-
-### Mind-Body Medicine
-
-A study on twenty leukemia patients reported that symptoms occurred while
-handling multiple stressors from varying sources. Seventeen of twenty
-claimed significant stress from separation of a significant other (father,
-mother, wife, or mother-figure) mainly due to death or family conflict.
-Compounding stressors included quick and sudden changes related to work,
-infection, injury, or surgery. Another study found that family conflict
-involving inability to express feelings and emotions (alexithymia) due to
-guilt, repression, and denial was among significant risk factors.
-
-### Supporting Foods
-
-- **Turmeric:** Curcumin arrested growth of leukemia in laboratory studies;
-  50 patients with chronic lymphocytic leukemia showed improvement
-- **Saffron:** May possess anticancer activity including against leukemia
-- **Myrrh:** Guggulsterone from [[commiphora-mukul]] produces apoptosis in
-  multiple cancer types including drug-resistant leukemia
-- **Oregano:** Contains aristolochic acid I and II with cancer-fighting
-  abilities targeted at leukemia
-
-### Related Topics
-
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-and-sickle-cell-disease]]
-- [[endocannabinoid-system-overview]]
+## See Also
+- [[cannabis-for-leukemia-and-lymphoma]]
+- [[blesching-cannabis-rheumatoid-arthritis]]
+- [[cannabis-sativa-vs-indica-strain-profiles-therapeutic-blesching]]
+- [[blesching-cannabis-cancer-night-sweats]]
+- [[blesching-cannabis-asthma-bronchodilation-thc]]

@@ -15,7 +15,7 @@ type: concept
 Dowsing for the health and vitality of plants and food represents one of
 the most intriguing intersections between ancient divination practices
 and modern interest in plant life quality. As documented in Peter
-Tompkins and Christopher Bird's *The Secret Life of Plants*, French
+Tompkins and Christopher Bird's *The [[plant-communication-volatile-organic-compounds]] Plants*, French
 engineer Andre Simoneton developed a method using a simple pendulum to
 measure the radiant energy of foods and plants, building on the earlier
 work of Andre Bovis. This practice, known as radiesthesia, extends the
@@ -52,7 +52,7 @@ street, appropriately named for Saint Roch, canonized for protecting
 the populace against various pestilences. The actual center is an old
 curiosity shop called the Maison de Radiesthesie, "radiesthesie" being
 generic for dowsing and for the search for radiations beyond the
-electromagnetic spectrum. The term was coined by the Abbe Bouly from
+[[electromagnetic-spectrum-plant-light-perception]]. The term was coined by the Abbe Bouly from
 the Greek for "sensitivity" and the Latin for "radiance."
 
 On its shelves are scores of books on dowsing for water, for objects,
@@ -88,52 +88,3 @@ He stated that these currents are picked up by all bodies on the
 surface of the earth, and that any body placed in a north-south
 position will be more or less polarized, depending on its shape and
 consistency. In human bodies these telluric currents enter through one
-leg and go out through the opposite hand, while cosmic currents from
-beyond the earth enter through the head and go out through the other
-hand and foot.
-
-Bovis found that with his pendulum he could tell the intrinsic
-vitality and relative freshness of different foods within their
-protective skins because of the power of their radiations. He
-developed a biometre, a simple ruler arbitrarily graduated in
-centimeters to indicate microns and angstroms, covering a band
-between zero and ten thousand angstroms.
-
-## Simoneton's Vitality Measurements
-
-Simoneton found that food which radiates 8,000 to 10,000 angstroms
-on Bovis' biometre would cause a pendulum to turn at the remarkable
-speed of 400 to 500 revolutions per minute in a radius of 80
-millimeters. Foods radiating between 6,000 and 8,000 spun it at
-300 to 400 revolutions per minute with a radius of 60 millimeters.
-Meats, pasteurized milk, and overcooked vegetables, which radiate
-less than 2,000 angstroms, have not sufficient energy to make the
-pendulum spin at all.
-
-The implications of this system for assessing plant and food quality
-suggest that vitality can be measured objectively, and that fresh,
-organically grown produce retains significantly higher radiant energy
-than processed or chemically treated foods. This connects directly to
-the broader themes explored in [[tompkins-kirlian-photography-plant-auras]], where other methods
-of measuring plant vitality and energy fields are documented.
-
-## Philosophical Implications
-
-Rexford Daniels, whose work studied how proliferating electromagnetic
-emissions interfere with one another, stated he had become convinced
-that some overall force exists in the universe which is itself
-intelligent and provides answers. Daniels theorized that this force
-operates through a whole spectrum of frequencies not necessarily
-linked to the electromagnetic spectrum and that human beings can
-mentally interact with it. To Daniels, dowsing is simply an as yet
-imperfectly defined though exceedingly useful communications system.
-
-The practice of dowsing plants for health thus sits at the intersection
-of ancient wisdom, modern physics, and the frontier of plant
-intelligence research, suggesting that [[savory-living-organisms-as-tools]] emit measurable
-radiations that correlate with their vitality and life force.
-
-## See Also
-- [[tompkins-kirlian-photography-plant-auras]]
-- [[plant-intelligence-and-communication]]
-- [[tompkins-soil-health-humus-connection]]

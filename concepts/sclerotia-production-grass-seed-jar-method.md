@@ -88,19 +88,3 @@ Strict hygiene is critical. The guide emphasizes:
 After inoculation, jars are shaken to distribute the inoculant, then lids are loosened again for gas exchange.
 
 ## Colonization Phase
-
-Jars are incubated at **room temperature (20°C)** or slightly higher. Key management practices:
-
-- **Shake early**: when mycelium is visible at only a few points, shake to redistribute colonized kernels, dramatically speeding colonization
-- **Full colonization time**: 5 to 20 days depending on temperature, species, and inoculation method
-- **Metabolite warning**: prolonged incubation or excessive temperature causes the mycelium to excrete yellowish metabolites, indicating stress; these jars should be fruited or processed as soon as possible
-
-## Sclerotia Development Phase
-
-Unlike fruiting body production, sclerotia form **without a casing layer** and **without exposure to light**. The procedure is:
-
-1. After full colonization, keep jars in a **clean, preferably dark location**
-2. Maintain temperature around 20°C
-3. Sclerotia of [[psilocybe-mexicana]] and [[sclerotia-cultivation]]
-- psilocybe-tampanensis-cultivation
-- [[sclerotia-formation-in-psilocybe-species]]

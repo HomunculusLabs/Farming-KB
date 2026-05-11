@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Porophyllum ruderale is an annual herbaceous plant in the family Asteraceae, native to the Americas from the southern United States through Central America to northern South America.
+Porophyllum ruderale is an annual herbaceous plant in the family Asteraceae, native to the Americas from the southern United States through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to northern South America.
 
 It is widely known as **papaloquelite** or simply **papalo** in Mexican cuisine, where its pungent, citrus-aromatic leaves serve as a garnish and flavoring agent, particularly in tacos, cemitas, and soups.
 
@@ -50,11 +50,11 @@ The species ranges from the southern United States (Texas, New Mexico, Arizona) 
 
 It grows as a weed in disturbed sites, along roadsides, in cultivated fields, and on waste ground, typically at elevations from sea level to 2,500 m.
 
-The plant thrives in warm-temperate to subtropical climates with moderate rainfall. It tolerates a range of soil types including sandy, loamy, and rocky substrates.
+The plant thrives in warm-temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with moderate rainfall. It tolerates a range of soil types including sandy, loamy, and rocky substrates.
 
 In urban and peri-urban areas of central and southern Mexico, it often volunteers in gardens and vacant lots, where it is collected rather than formally cultivated.
 
-The plant exhibits some drought tolerance once established, though it performs best with regular moisture during its vegetative growth phase. It is frost-sensitive and behaves as a strict annual in temperate climates.
+The plant exhibits some [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, though it performs best with regular moisture during its vegetative growth phase. It is frost-sensitive and behaves as a strict annual [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 ## Cultivation and Uses
 
@@ -80,41 +80,10 @@ The distinctive aroma and flavor of papalo derive from volatile terpenoids produ
 
 Principal volatile constituents identified in leaf essential oil include **thymol**, **p-cymene**, **β-caryophyllene**, **limonene**, and **myrcene**. The relative proportions vary with geography and harvest timing.
 
-Thymol contributes antimicrobial and antifungal properties and is responsible for the herb's use in traditional parasitic treatments. β-Caryophyllene is a dietary cannabinoid receptor agonist with anti-inflammatory activity.
+Thymol contributes antimicrobial and antifungal properties and is responsible for the herb's use in traditional parasitic treatments. β-Caryophyllene is a dietary [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] agonist with anti-inflammatory activity.
 
 Flavonoids and phenolic compounds have also been isolated from aerial parts, including quercetin derivatives and caffeic acid esters.
 
 The essential oil yield from fresh leaves ranges from 0.1–0.5% (v/w), with higher concentrations in young leaves and during flowering.
 
-Antimicrobial assays of the essential oil have demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, and *Candida albicans* in vitro, supporting traditional use for treating infections. Anthelmintic activity has also been documented in preliminary studies on intestinal parasites.
-
-The sesquiterpene lactones present in the genus Porophyllum are of interest for their potential anti-inflammatory and cytotoxic properties, though specific studies on *P. ruderale* remain limited.
-
-## Ecological Role
-
-As a ruderal species, *P. ruderale* plays a role in primary succession on disturbed ground. Its rapid growth and prolific seed production allow it to colonize open sites quickly.
-
-The flowers attract a range of pollinators including small bees, flies, and butterflies. The aromatic foliage may serve as a natural insect deterrent, though this has not been formally studied in ecological contexts.
-
-Bird species including sparrows and finches consume the achenes, contributing to seed dispersal. The plant's role in providing late-season forage for pollinators in disturbed habitats is an underappreciated ecological function.
-
-In agroecosystems, papalo can function as a companion plant. Its strong aroma may help mask crop odors from pest insects, similar to other aromatic Asteraceae used in companion planting.
-
-The species is not considered invasive outside its native range, though it occasionally naturalizes in tropical and subtropical regions where it has been introduced through human migration.
-
-Seed production is prolific, with each plant capable of producing thousands of achenes. Seeds disperse by wind via the pappus bristles, and also adhere to animal fur and human clothing, facilitating long-distance spread.
-
-In traditional agroecosystems of central Mexico, papalo is one of several aromatic "quelites" (wild greens) that are tolerated or encouraged around milpa fields, contributing to overall biodiversity and providing a secondary food source.
-
-## See Also
-
-- [[eryngium-foetidum]]
-- [[tagetes-lucida]]
-- [[persicaria-odorata]]
-- [[cymbopogon-citratus]]
-- [[piper-auritum]]
-- [[ruta-graveolens]]
-- [[achillea-millefolium]]
-- [[perilla-frutescens]]
-- [[tagetes-minuta]]
-- [[artemisia-vulgaris-entity]]
+Antimicrobial assays of the essential oil have demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* in vitro, supporting traditional use for treating infections. Anthelmintic activity has also been documented in preliminary studies on intestinal parasites.

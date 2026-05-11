@@ -85,4 +85,4 @@ Harmine is prepared by oxidative dehydrogenation of harmaline: harmaline HCl is 
 
 - [[dmt-entity-tihkal]] — primary tryptamine potentiated by harmine
 - [[banisteriopsis-caapi]] — the ayahuasca vine, primary natural source of harmine
-- [[psychedelic-harm-reduction]] — dietary restrictions required with MAOIs
+- [[harm-reduction-guide]] — dietary restrictions required with MAOIs

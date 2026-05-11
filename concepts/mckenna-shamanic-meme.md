@@ -52,7 +52,7 @@ McKenna describes his [[fukuoka-personal-journey]] of filtering out the various 
 
 He hoped to distill the essence of shamanism, to track the Epiphany to her lair, to see beyond the veils of her whirling dance. A cosmic peeping Tom, he dreamed of confronting naked beauty.
 
-This quest, conducted in the Amazon basin, led him to encounters with ayahuasca shamans that confirmed his intuition that a great secret lay behind the survival of shamanic plant practices.
+This quest, conducted in the Amazon basin, led him to encounters with [[shipibo-ayahuasca-shamans-practice]] that confirmed his intuition that a great secret lay behind the survival of shamanic plant practices.
 
 His narrative of seeking out the "authentic deep forest ayahuasca" captures the essential character of the shamanic meme as a living tradition that must be personally transmitted.
 
@@ -66,9 +66,9 @@ At this point, the original object of his quest, the authentic deep forest ayahu
 
 ## The Connecting Pattern
 
-The shamanic meme carries with it an implicit understanding of humanity's place in the natural order.
+The shamanic meme carries with it an implicit understanding of humanity's place in the [[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]].
 
-This understanding is not merely intellectual; it is felt, experienced, and embodied in the ritual context of shamanic practice.
+This understanding is not merely intellectual; it is felt, experienced, and embodied in the ritual context of [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]].
 
 The meme functions as a bridge between the human mind and the larger intelligence of the natural world.
 
@@ -86,40 +86,4 @@ The benefits to the mushroom arise out of the hominid domestication of cattle an
 
 Where plant hallucinogens do not occur, cultural innovation occurs very slowly, if at all, but in the presence of hallucinogens a culture is regularly introduced to ever more novel information, sensory input, and behavior and thus is moved to higher and higher states of self-reflection.
 
-The shamans are the vanguard of this creative advance. They function as the cultural vehicle for cross-species communication, carrying information from the vegetable mind into the world of human culture.
-
-## Vulnerability and Resilience
-
-McKenna is clear-eyed about the threats facing the shamanic meme.
-
-The destruction of rainforest habitats, the persecution of indigenous peoples, the global war on drugs, and the relentless expansion of dominator culture all threaten to extinguish the meme's traditional carriers.
-
-Yet the meme has shown remarkable resilience, adapting to new contexts and finding new hosts even as its old habitats are destroyed.
-
-The meme's resilience may be related to the fact that it addresses a fundamental human need.
-
-The desire for transcendence, for direct experience of the sacred, for communion with something larger than the self, appears to be a permanent feature of human psychology.
-
-The shamanic meme provides a culturally sanctioned framework for satisfying this desire that is more authentic and more sustainable than the alternatives offered by dominator culture.
-
-## The Ecstatic Foundation
-
-Shamanism and ecstasy are at root one concern, as Mircea Eliade pointed out.
-
-The essential and defining element of shamanism is ecstasy: the shaman is a specialist in the sacred, able to abandon his body and undertake cosmic journeys "in the spirit."
-
-Gordon Wasson added: "The mushrooms are a gateway to ecstasy. Ecstasy in itself is neither pleasant nor unpleasant. The bliss or panic into which it plunges you is incidental to ecstasy."
-
-"When you are in a state of ecstasy, your very soul seems scooped out from your body and away it goes." Everyone experiences ecstasy in his own way, and never twice in the same way.
-
-"Ecstasy is the very essence of shamanism. The mushroom bestows on the curandero what the Greeks called Logos."
-
-The mushroom speaks through the shaman. It bestows poetic potency, the divine afflatus of poetry. This is the gift of the entheogen, and it is the foundation upon which the entire shamanic meme is built.
-
-Without ecstasy, there is no shamanism; without shamanism, the meme cannot propagate. The natural psychedelic compounds acted as feminizing agents that tempered and civilized the egocentric values of the solitary hunter with the feminine concerns for child-rearing and group survival.
-
-The prolonged and repeated exposure to the [[leary-psychedelic-experience-bardo-mapping]] promoted social cohesion, boundary dissolution, and the emergence of the partnership model of social organization.
-
-This shamanic complex is very old; it is found, in whole or in part, among the Australians, the archaic peoples of North and South America, in the polar regions, and across the [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] of the world.
-
-See also: [[mckenna-techniques-of-ecstasy]], [[mckenna-amazon-shamanism-and-ayahuasca]], [[mckenna-dominator-vs-partnership-society-model]]
+The shamans are the vanguard of this creative advance. They function as the cultural vehicle for cross-species communication, carrying information from the [[mckenna-overmind-and-vegetable-mind]] into the world of human culture.

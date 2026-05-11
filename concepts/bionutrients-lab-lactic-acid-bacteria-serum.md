@@ -88,33 +88,3 @@ For plants, the full BIM blend is used. For animals, pure lacto bacilli alone is
 ## LAB in Ecological Balance
 
 The source material draws a direct connection between LAB application and the oriental medicine concept of balance:
-
-- Disease in plants and animals is viewed as a function of imbalance and disharmony
-- When beneficial bacteria (like LAB) outnumber harmful ones, balance is restored
-- The analogy of diarrhea is instructive: diarrhea occurs when bad bacteria predominate over good ones; restoring good bacterial populations ceases the diarrhea
-- The same principle applies to plant phyllosphere and soil ecology
-- Spraying LAB combined with herbal bionutrients across an entire farm (not just affected plants) has been observed to control persistent [[hamilton-pest-and-disease-control-organic]] problems
-- Oriental medicine suggests that when there is balance and harmony of yin and yang, health and life are observed
-
-## Complementary Microorganisms
-
-The source notes that a popular Japanese beneficial microorganism inoculant contains lactic acid bacteria as its major component, supplemented by:
-
-- **Photosynthetic bacteria:** Convert sunlight into energy, support [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- **Yeasts:** Produce growth factors and vitamins, support fermentation processes
-- **Actinomycetes:** Decompose complex organic matter, produce natural antibiotics
-- **Fermenting fungi:** Break down lignin and cellulose, improve soil structure
-
-While these can be purchased as imported pure cultures and subcultured, the natural farming approach is to collect and culture local indigenous versions of these same microbial groups through the forest, bamboo, and plant-specific collection methods.
-
-## Practical Tips
-
-- **Never use refined sugar** for preservation — it is chemically bleached and harms the bacteria
-- **Never use chlorinated water** for dilution — chlorine kills live microorganisms
-- **Molasses preferred over crude sugar** in some applications due to its additional mineral content
-- **Fresh milk is best** for the purification stage, though skim or powdered milk work
-- **Temperature matters:** 20-25 degrees C is the ideal range for LAB collection from rice wash
-- **Air gap is critical:** The 50-75% air space in containers is not optional — it enables the correct [[fukuoka-microbial-ecology-decomposition]] to develop
-- **Storage:** Pure LAB culture keeps indefinitely with equal parts sugar/molasses at room temperature
-- **Start small:** A single batch of rice wash + milk can produce enough LAB to inoculate an entire farm through subculturing
-- **Observe and adapt:** Natural farming has "no clear-cut rule" — adjust based on experimentation and results

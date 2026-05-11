@@ -9,7 +9,7 @@ created: 2026-05-10
 
 ## Overview
 
-One of the most important yet least understood aspects of AACT (Actively Aerated Compost Tea) is how it transforms and delivers nitrogen to plants. Unlike synthetic fertilizers that provide nitrogen primarily as nitrate or ammonium, AACT delivers nitrogen in multiple biological forms including amino sugars, amino acids, peptides, and microbial biomass. Dr. Elaine Ingham's work emphasizes that the form of nitrogen available to plants profoundly affects plant health, disease resistance, and nutritional quality.
+One of the most important yet least understood aspects of AACT ([[actively-aerated-compost-tea-aact-brewing]] Tea) is how it transforms and delivers nitrogen to plants. Unlike [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] that provide nitrogen primarily as nitrate or ammonium, AACT delivers nitrogen in multiple biological forms including amino sugars, amino acids, peptides, and microbial biomass. Dr. Elaine Ingham's work emphasizes that the form of nitrogen available to plants profoundly affects plant health, disease resistance, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
 ## Nitrogen Forms in Soil Systems
 
@@ -62,7 +62,7 @@ Ingham's research demonstrates that plants fed primarily nitrate nitrogen are mo
 
 Plants receiving nitrogen through biological pathways (amino sugars, amino acids from microbial cycling) show significant advantages:
 
-- **Stronger cell walls**: Plants synthesize structural proteins and phenolic compounds more effectively when building from amino acid precursors rather than reducing nitrate
+- **Stronger cell walls**: Plants synthesize structural proteins and [[ingham-tannins-terpenes-phenolic-compounds]] more effectively when building from amino acid precursors rather than reducing nitrate
 - **Enhanced disease resistance**: Complex amino acid profiles in plant sap are less recognizable and less attractive to pathogens and pests
 - **Better nutritional quality**: For food crops, biological nitrogen produces higher protein quality, more complex flavor profiles, and better nutrient density
 - **Reduced pest pressure**: Ingham consistently observes that biologically managed plants experience less insect damage
@@ -88,57 +88,3 @@ The compost used in AACT contains nitrogen in various forms. During brewing, sol
 - Amino acids and peptides from decomposed organic matter
 - Ammonium from ongoing mineralization processes in the compost
 - Small amounts of nitrate from nitrifying bacteria in mature compost
-
-### Microbial Biomass Nitrogen
-
-The bacteria, fungi, and other organisms that multiply during the brewing process represent a significant nitrogen reservoir. When applied to soil or foliage:
-
-- Bacterial and fungal cells colonize plant surfaces and the rhizosphere
-- These organisms serve as a slow-release nitrogen source as they grow, reproduce, and eventually die
-- Predator organisms in the tea (protozoa, nematodes) immediately begin cycling nitrogen from bacterial biomass
-
-### Enhancing the Soil Nitrogen Cycle
-
-AACT inoculates the soil with diverse microorganisms that establish and enhance ongoing nitrogen cycling:
-
-- Decomposer bacteria and fungi break down organic matter and convert it to microbial biomass
-- Nitrifying bacteria (Nitrosomonas, Nitrobacter) convert ammonium to nitrate at biologically appropriate rates
-- Free-living nitrogen-fixing bacteria (Azotobacter, Azospirillum) fix atmospheric nitrogen
-- Mycorrhizal fungi improve plant access to organic nitrogen sources in the soil
-
-## Practical Implications for AACT Users
-
-### Matching Brew to Growth Stage
-
-Different growth stages have different nitrogen requirements:
-
-- **Vegetative growth**: Higher nitrogen demand; AACT with bacterial dominance and added nitrogen sources (fish hydrolysate) supports rapid vegetative growth
-- **Transition to flower**: Reduce nitrogen inputs; shift AACT toward fungal dominance to support flowering
-- **Flowering**: Minimal nitrogen; focus AACT on disease suppression and phosphorus availability
-
-### Avoiding Excess Nitrogen
-
-A common mistake is over-applying nitrogen-rich AACT. Symptoms of excess nitrogen in cannabis include:
-
-- Excessively dark green foliage
-- Elongated, soft stems with poor structural integrity
-- Delayed flowering and reduced flower production
-- Increased susceptibility to fungal pathogens (botrytis, powdery mildew)
-
-### Fish Hydrolysate as a Nitrogen Source
-
-Fish hydrolysate is one of the best nitrogen sources for AACT because it provides:
-
-- Amino acids and peptides in immediately plant-available forms
-- A balanced NPK profile (approximately 5-1-1)
-- Additional micronutrients, vitamins, and fatty acids from the fish
-- Food for both bacteria and fungi, supporting diverse microbial communities
-
-## See Also
-
-- [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]
-- [[ingham-predator-prey-nutrient-cycling-plant-available-nutrients]]
-- [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham]]
-- [[aact-brew-duration-timing-optimization-ingham]]
-- [[ingham-compost-tea-microbiology-bacteria-fungi-protozoa]]
-- [[aact-brewing-guide-complete-overview-ingham]]

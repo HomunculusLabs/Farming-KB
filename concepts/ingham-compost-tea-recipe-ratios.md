@@ -3,6 +3,7 @@ title: "Compost Tea Recipe Ratios and Ingredients"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "Elaine Ingham, The Field Guide for Actively actively-aerated-compost-tea Tea"
 type: concept
 tags: [composting]
@@ -86,10 +87,3 @@ If tea smells bad after brewing, too much food was added for the organisms to pr
 Bad odors indicate anaerobic conditions: rotten egg, sulfur, ammonia, vinegar, sour milk, or vomit smells mean the tea should not be used. Pleasant earthy smell indicates healthy aerobic conditions.
 
 ## See Also
-
-- [[aact-brewing-ingredients-ingham]]
-- [[ingham-compost-tea-application-rates-and-timing]]
-- [[aact-compost-quality-standards-ingham]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-- [[humic-acids-soil-biology-ingham]]
-- [[ingham-carbon-nitrogen-ratios-compost-tea]]

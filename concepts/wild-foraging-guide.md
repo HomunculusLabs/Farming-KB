@@ -9,16 +9,16 @@ sources: []
 
 # Wild Foraging Guide
 
-Wild foraging connects the homestead [[mckenna-epilogue-from-grasslands-to-the-starship]] the land [[gadd-saprotrophic-fungi-15n-13c-natural-abundance-isotopes]] nce. With knowledge of seasonal cycles, plant identification, and ethical harvesting, wild plants supplement the diet with nutrient-dense foods unavailable from cultivated sources.
+Wild foraging connects the homesteader to the land's [[gadd-saprotrophic-fungi-15n-13c-natural-abundance-isotopes]]. With knowledge of seasonal cycles, plant identification, and ethical harvesting, wild plants supplement the diet with nutrient-dense foods unavailable from cultivated sources.
 
 ## Safety Fundamentals
 
 - Positive identification to species level is mandatory before eating any wild plant
-- Never [[plant-memory-what-a-plant-remembers]] plant unless you have identified it with 100% confidence using multiple features (leaf shape, arrangement, stem, flower, fruit, root, habitat, odor)
+- Never eat a plant unless you have identified it with 100% confidence using multiple features (leaf shape, arrangement, stem, flower, fruit, root, habitat, odor)
 - Forage away from roadsides (at least 50 feet), agricultural fields (pesticide drift), industrial areas, and polluted waterways
-- Avoid foraging in areas with k [[jadam-antibiotic-soil-contamination]] ation (heavy metals, lead)
-- Know the poiso [[psychedelic-plants-in-ancient-cultures]] ts in your region before seeking edibles
-- Introduce [[holmgren-wild-foods-and-marginal-systems]] foods one at a time in small quantities
+- Avoid foraging in areas with known soil contamination (heavy metals, lead)
+- Know the poisonous plants in your region before seeking edibles
+- Introduce new wild foods one at a time in small quantities
 - People with pollen allergies may react to related wild plants
 - Carry a reliable regional field guide and a plant identification app as a secondary reference (never as primary)
 
@@ -44,7 +44,7 @@ Every part is edible. Young leaves (before flowering) are best for salads -- bit
 Young shoots (under 6 inches) are edible when cooked or blanched (cooking destroys the stinging hairs). One of the most nutritious wild greens available -- high in iron, calcium, protein, and vitamins. Dry for tea or make pesto. Wear gloves when harvesting. Also excellent for making nitrogen-rich fertilizer tea.
 
 ### Garlic Mustard (Alliaria petiolata)
-Young leaves taste like garlicky mustard. Invasive species in North America -- harvesting it is actually beneficial to native ecosystems. Flowers, seeds, and roots are all edible. Best harvested young before the leaves become tough and bitter.
+Young leaves taste like garlicky mustard. Invasive species in [[guzman-psilocybin-mushrooms-north-america]] -- harvesting it is actually beneficial to native ecosystems. Flowers, seeds, and roots are all edible. Best harvested young before the leaves become tough and bitter.
 
 ### Ramps (Allium tricoccum)
 Wild leeks with a strong garlic-onion flavor. Harvest only one leaf per plant (never the bulb) to allow regrowth. Overharvesting has decimated wild populations in many areas. Consider growing them instead.
@@ -67,7 +67,7 @@ Abundant in disturbed areas and field edges. Peak nutrition when fully ripe. Hig
 Nutritional powerhouse rivaling spinach. Young leaves and tips are excellent raw or cooked. Contains oxalates -- blanch before eating if oxalate-sensitive. Grows as a common weed in gardens and disturbed soil.
 
 ### Purslane (Portulaca oleracea)
-Succulent ground cover with a mild, slightly tangy flavor. Highest plant source of omega-3 fatty acids. Excellent raw in salads. Thrives in garden beds and disturbed soil. Red stems differentiate it from toxic look-alike spurge (which has milky sap).
+Succulent ground cover with a mild, slightly tangy flavor. Highest plant source of omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]. Excellent raw in salads. Thrives in garden beds and disturbed soil. Red stems differentiate it from toxic look-alike spurge (which has milky sap).
 
 ### Mullein (Verbascum thapsus)
 Large fuzzy leaves used for respiratory tea. Flowers infused in oil make earache remedy. Biennial -- tall flower spike in second year. Easy to identify by the woolly leaves and tall yellow flower spike.
@@ -86,7 +86,7 @@ Nutritious staple food after leaching tannins. White oak acorns are sweetest (lo
 ### Wild Grapes (Vitis riparia and others)
 Smaller and more tart than cultivated grapes. Excellent for jelly, juice, and wine. Identify by the tendrils, heart-shaped leaves, and fruit clusters. Distinguish from poisonous moonseed by the presence of tendrils (moonseed lacks them) and seeds (grape seeds are pear-shaped; moonseed seeds are crescent-shaped).
 
-### [[chicken-of-the-woods]] (Laetiporus sulphureus)
+### Chicken of the Woods (Laetiporus sulphureus)
 Bright orange and yellow shelf fungus growing on wood. Excellent edible when young and soft. Grows on living and dead hardwoods. Must be cooked. Identify by bright orange pore surface (not gills), growth on wood, and absence of a stem. See [[mushroom-foraging-safety-guide]].
 
 ## Winter (December-February)
@@ -111,10 +111,10 @@ Emergency food from pine, birch, slippery elm, and willow. Harvest only strips f
 - Field guide specific to your region
 - Smartphone with offline plant ID app (as backup only)
 - Gloves for nettles, thorny plants, and unknown species
-- Basket for mushrooms (allows spore dispersal)
+- Basket for mushrooms (allows [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]])
 
 ## Related Concepts
 
-- [[mushroom-foraging-safety-guide]] for detailed mushroom identification and danger species
+- [[mushroom-foraging-safety-guide]] for detailed [[mushroom-identification]] and danger species
 - [[medicinal-herb-growing]] for cultivated alternatives to wild medicinal plants
 - [[saving-seeds]] -- consider saving and scattering seeds of wild edibles you forage

@@ -6,6 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---
 
@@ -14,10 +15,10 @@ type: comparison
 ## Overview
 
 Blackberries and raspberries are both members of the Rubus genus and are
-among the most productive and rewarding uncommon specialty fruit crops for permaculture for home growers. They
+among the most productive and rewarding [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture for home growers. They
 share many cultural requirements but differ significantly in growth habit,
-flavor, harvest window, and management needs. Understanding these differences
-helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] bramble for their site, climate, and goals.
+flavor, [[harvest-window-cannabis]], and management needs. Understanding these differences
+helps growers bramble for their site, climate, and goals.
 
 Both plants produce biennial canes that fruit in their second year before
 dying back. This shared growth pattern means the pruning fundamentals are
@@ -86,7 +87,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -94,7 +95,7 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

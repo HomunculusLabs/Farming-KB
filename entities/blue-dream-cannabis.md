@@ -1,5 +1,5 @@
 ---
-title: Blue Dream (Cannabis Strain)
+title: Blue Dream Cannabis
 type: strain
 tags:
   - cannabis
@@ -14,21 +14,21 @@ sources:
   - Leafly Strain Database (Blue Dream profile)
   - Phylos Bioscience (genetic testing data)
   - Mammen, G. et al. (2018). "Cannabis use patterns after [[cannabis-legalization-era]]." Canadian Journal of Public Health.
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last 2 Decades." Biological Psychiatry.
+  - ElSohly, M.A. et al. (2016). "Changes in [[cannabis-potency-enhanced-flowers]] Over the Last 2 Decades." Biological Psychiatry.
 ---
 
 # Blue Dream
 
 ## Overview
 
-Blue Dream is a sativa-dominant hybrid cannabis strain that has been one of the most popular and widely consumed cannabis varieties in the United States since the early 2010s. A cross between Blueberry (indica) and Haze (sativa), it is celebrated for delivering a balanced experience that combines gentle cerebral stimulation with full-body relaxation. Its approachable effects, fruity flavor profile, and reliable consistency have made it a staple in both recreational and medical cannabis markets.
+Blue Dream is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain that has been one of the most popular and widely consumed cannabis varieties in the United States since the early 2010s. A cross between Blueberry (indica) and Haze (sativa), it is celebrated for delivering a balanced experience that combines gentle cerebral stimulation with full-body relaxation. Its approachable effects, fruity flavor profile, and reliable consistency have made it a staple in both recreational and medical cannabis markets.
 
 ## Genetic Lineage
 
 ### Parent Strains
 
 - **Blueberry (female):** An indica-dominant strain bred by DJ Short in the 1970s, known for its deep purple coloration, sweet berry aroma, and sedating body effects. Blueberry won the High Times Cannabis Cup in 2000 for Best Indica.
-- **Haze (male):** A legendary pure sativa originating in the Santa Cruz mountains of California in the 1960s–70s. Haze contributes the uplifting, energetic cerebral effects, extended flowering time, and complex terpene profile that defines the sativa side of Blue Dream.
+- **Haze (male):** A legendary pure sativa originating in the Santa Cruz mountains of California in the 1960s–70s. Haze contributes the uplifting, energetic cerebral effects, extended flowering time, and complex [[cannabis-terpene-profile]] that defines the sativa side of Blue Dream.
 
 ### Genetic Ratio
 
@@ -81,68 +81,10 @@ Effects typically onset within 5–10 minutes when smoked or vaporized, with pea
 
 ### Commonly Reported Uses
 
-- **Stress and anxiety relief:** The balanced profile provides calm without lethargy
-- **Pain management:** Moderate analgesic effects suitable for mild to moderate chronic pain, headaches, and muscle tension
+- **Stress [[nervine-herbs-and-anxiety-relief]]:** The balanced profile provides calm without lethargy
+- **Pain management:** Moderate analgesic effects suitable for mild to moderate [[cannabis-for-chronic-pain]], headaches, and muscle tension
 - **Mood elevation:** Useful for managing symptoms of mild depression and mood disorders
 - **Daytime functionality:** Unlike heavy indicas, Blue Dream typically allows users to remain productive and alert
 - **Social situations:** Enhanced sociability and reduced social anxiety make it popular for gatherings
 
 ### Potential Side Effects
-
-- Dry mouth (cottonmouth) — very common
-- Dry eyes — common
-- Mild anxiety or paranoia at high doses (less likely than with pure sativas)
-- Dizziness — rare, typically associated with overconsumption
-
-## Growing Information
-
-### Cultivation Difficulty
-
-Blue Dream is considered a moderately easy strain to grow, making it suitable for intermediate cultivators. Its sativa-dominant genetics mean it can grow tall and may require training or topping to manage canopy height indoors.
-
-### Growth Characteristics
-
-- **Indoor flowering time:** 9–10 weeks
-- **Outdoor harvest:** Early to mid-October (Northern Hemisphere)
-- **Indoor yield:** 14–21 oz/m² (400–600 g/m²)
-- **Outdoor yield:** 14–21 oz/plant (400–600 g/plant)
-- **Plant height:** Can exceed 150 cm indoors without training; outdoor plants may reach 200+ cm
-- **Resistance:** Good resistance to mold and mildew; moderate pest resistance
-
-### Environmental Preferences
-
-- **Temperature:** 20–28°C during vegetative growth; 18–24°C during flowering
-- **Humidity:** 50–60% vegetative; 40–50% flowering (reduced to prevent bud rot)
-- **Light:** Responds well to high-intensity lighting; 12/12 [[query-best-light-schedule-for-cannabis]] flowering
-- **Nutrients:** Moderate to heavy feeder during vegetative stage; reduced nitrogen during flowering
-
-### Phenotypic Variation
-
-Blue Dream expresses notable phenotypic variation, with some plants leaning more toward the Blueberry parent (shorter, denser buds, more purple coloration) and others expressing stronger Haze traits (taller, more open bud structure, more elongated calyxes). Both phenotypes maintain the characteristic terpene profile.
-
-## Cultural Significance
-
-Blue Dream emerged from the Northern California cannabis scene in the early 2000s and became emblematic of the "California cannabis" brand during the [[cervantes-medical-marijuana-pharmacology]] era. Its widespread adoption preceded recreational legalization and helped normalize cannabis use among demographics that might otherwise avoid heavier strains. It has consistently ranked as the best-selling strain in multiple legal markets including California, Oregon, and Washington state.
-
-## Medical Considerations
-
-While not a replacement for medical treatment, Blue Dream has been anecdotally reported to help with:
-
-- Generalized anxiety disorder (mild to moderate symptoms)
-- [[cannabis-chronic-fatigue-research]] (through mood elevation and gentle stimulation)
-- PTSD [[cannabis-cancer-symptom-management]] (particularly hypervigilance and emotional reactivity)
-- Neuropathic pain (mild cases)
-- Loss of appetite (moderate [[cannabis-for-cachexia-and-appetite-stimulation]])
-- Insomnia (at higher doses)
-
-Patients new to cannabis are often directed to Blue Dream by budtenders as a well-tolerated introductory strain due to its balanced effects and lower incidence of adverse reactions compared to more potent varieties.
-
-## See Also
-
-- blueberry (cannabis strain)
-- haze (cannabis strain)
-- [[og-kush-cannabis-entity]]
-- [[girl-scout-cookies]]
-- cannabis terpenes
-- THC
-- endocannabinoid system

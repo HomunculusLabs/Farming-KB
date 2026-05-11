@@ -88,35 +88,3 @@ common confusion is with other small brown mushrooms growing on wood,
 particularly species of *Galerina*. Several *Galerina* species,
 notably [[galerina-marginata|Galerina marginata]], contain deadly
 amatoxins identical to those found in [[amanita-phalloides|Amanita phalloides]].
-
-Key distinguishing features from dangerous *Galerina* species include
-the scurfy cap surface of *T. furfuracea* (versus the typically smooth,
-hygrophanous caps of *Galerina*), the absence of a persistent annulus,
-and microscopic features including the germ pore on the spores. However,
-these differences are subtle and require careful examination. Foragers
-should avoid consuming any small brown mushroom on wood unless
-identification is confirmed with absolute certainty.
-
-## Ecological Role
-
-*T. furfuracea* is a primary decomposer of small woody debris, occupying
-a specific niche in the decomposition cascade. While larger polypores
-and bracket [[query-can-fungi-break-down-plastic-pollution]] down major branches and trunks, *T. furfuracea*
-specializes in the colonization of twigs and fine woody material. This
-makes it an important contributor to the [[decomposer-fungi-succession| decomposer fungi succession]] in forest ecosystems. Its mycelium rapidly
-colonizes freshly fallen twigs, initiating the breakdown of cellulose
-and hemicellulose. The species is often one of the first fungi to
-fruit on newly available woody substrate, sometimes appearing within
-weeks of twig fall. It is frequently found alongside [[coprinus-comatus| Coprinus comatus]] on nitrogen-rich woody debris in disturbed sites.
-
-## See Also
-
-- [[coprinus-comatus]]
-- [[amanita-phalloides]]
-- [[inocybe-geophylla]]
-- [[psilocybe-semilanceata]]
-- [[cortinarius-violaceus]]
-- [[pleurotus-ostreatus]]
-- [[agaricus-xanthodermus]]
-- [[stropharia-rugosoannulata]]
-- [[pseudevernia-furfuracea]]

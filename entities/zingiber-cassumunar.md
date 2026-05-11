@@ -13,7 +13,7 @@ sources:
   - Pothitirat, W. et al. (2020). "Zingiber cassumunar Roxb.: A comprehensive review of phytochemistry and pharmacology." Journal of Ethnopharmacology, 254, 112667.
   - Oonmetta-aree, J. et al. (2021). "Anti-inflammatory activity of cassumunar ginger oil formulations." Phytomedicine, 85, 153575.
   - Jeenapongsa, R. et al. (2019). "Topical analgesic and anti-inflammatory effects of Zingiber cassumunar." Journal of Ethnopharmacology, 237, 1-8.
-  - Suksamrarn, A. et al. (2018). "Chemical constituents of Zingiber cassumunar rhizomes." Phytochemistry, 148, 1-10.
+  - Suksamrarn, A. et al. (2018). "[[guzman-magic-mushrooms-chemical-constituents]] of Zingiber cassumunar rhizomes." Phytochemistry, 148, 1-10.
   - Sripanidkulchai, B. et al. (2020). "Ethnobotanical survey of Zingiber species used in Thai traditional medicine." Thai Journal of Phytopharmacy, 27(1), 28-40.
 ---
 
@@ -29,7 +29,7 @@ In Thailand, cassumunar ginger has been used for centuries in traditional medici
 
 The [[permaculture-designers-manual-essential-oil-plants]] of *Z. cassumunar* has gained commercial importance in the cosmetics and personal care industry. It is used in analgesic balms, massage oils, and anti-inflammatory topical products throughout Southeast Asia.
 
-Scientific research has validated several traditional uses, particularly the anti-inflammatory and analgesic properties of the rhizome oil. Several pharmaceutical products derived from the species are commercially available in Thailand.
+[[psilocybin-isolation-and-early-scientific-research]] has validated several traditional uses, particularly the anti-inflammatory and analgesic properties of the rhizome oil. Several pharmaceutical products derived from the species are commercially available in Thailand.
 
 ## Taxonomy and Morphology
 
@@ -59,11 +59,11 @@ Cassumunar ginger is native to tropical Southeast Asia. Its natural range encomp
 
 The species grows in lowland to lower montane forests at elevations up to 1,000 meters. It is commonly found along forest margins, stream banks, and in disturbed secondary growth areas.
 
-Optimal growth conditions include well-drained sandy loam soils with high organic content, partial shade, and annual rainfall of 1,500–2,500 mm. The plant tolerates seasonal drought by retreating to its rhizome.
+Optimal [[psilocybin-potency-variation-species-strain-growth-conditions]] include well-drained sandy loam soils with high organic content, partial shade, and annual rainfall of 1,500–2,500 mm. The plant tolerates seasonal drought by retreating to its rhizome.
 
 Wild populations have declined in many areas due to habitat destruction and overharvesting. Most commercial supply now comes from cultivated sources, primarily in Thailand and Indonesia.
 
-The species is occasionally naturalized outside its native range in tropical regions, but it is not considered invasive. Cultivation has been attempted in Hawaii, northern Australia, and parts of tropical Africa with limited commercial success.
+The species is occasionally naturalized outside its native range [[fukuoka-natural-farming-in-tropical-regions]], but it is not considered invasive. Cultivation has been attempted in Hawaii, northern Australia, and parts of tropical Africa with limited commercial success.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -77,7 +77,7 @@ Other significant compounds include zerumbone, cinnamaldehyde, benzyl benzoate, 
 
 - **Anti-inflammatory activity:** Essential oil and DMPBD inhibit COX-2, 5-LOX, and TNF-α pathways. Topical application reduces carrageenan-induced paw edema by 40–60% in animal models.
 - **Analgesic effects:** DMPBD shows significant pain-relieving activity in acetic acid writhing and hot plate tests, with efficacy comparable to ibuprofen at equivalent doses.
-- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]:** Essential oil inhibits *Propionibacterium acnes*, *Staphylococcus aureus*, and *Malassezia furfur*, supporting traditional use for [[cannabis-for-skin-conditions-detailed]].
+- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]:** Essential oil inhibits *Propionibacterium acnes*, *[[staphylococcus-aureus]]*, and *Malassezia furfur*, supporting traditional use for [[cannabis-for-skin-conditions-detailed]].
 - **Antiallergic activity:** Rhizome extracts suppress IgE-mediated mast cell degranulation and histamine release in vitro.
 - **Mosquito repellent:** The essential oil provides 2–4 hours of protection against *Aedes aegypti* and *Anopheles* species when applied topically.
 
@@ -88,35 +88,3 @@ A standardized herbal product containing cassumunar ginger oil is registered wit
 In Thai traditional medicine, cassumunar ginger is classified as a hot herb with properties that relieve muscular pain, reduce inflammation, and promote blood circulation. It is a component of over 50 traditional herbal formulas.
 
 The most prominent traditional use is in herbal compress balls (luk pra kob), which are steamed and applied to the body during Thai massage. These compresses typically contain cassumunar ginger, lemongrass, kaffir lime, camphor, and turmeric.
-
-For muscular and joint pain, rhizome slices are boiled in oil or water to make a topical preparation. The poultice is applied to affected areas to relieve sprains, strains, and arthritic discomfort.
-
-In Indonesian jamu medicine, the rhizome is used as a carminative, digestive aid, and treatment for menstrual cramps. It is consumed as a decoction or added to herbal rice dishes.
-
-Malay traditional practitioners use cassumunar ginger for postpartum recovery, applying heated rhizome preparations to the abdomen to promote uterine contraction. It is also used to treat cough and respiratory congestion.
-
-In Myanmar traditional medicine, the rhizome is considered a remedy for flatulence, indigestion, and food poisoning. The fresh rhizome is chewed or made into a paste for topical application.
-
-The essential oil is used in aromatherapy for stress relief, muscle relaxation, and respiratory support. It is a common ingredient in Thai spa products and massage oils.
-
-## Cultivation
-
-Cassumunar ginger is propagated primarily through rhizome division. Planting is done at the onset of the rainy season using rhizome segments with 2–3 buds, planted 5–8 cm deep.
-
-Spacing of 30 × 30 cm is standard for field cultivation. The crop performs best under 30–50% shade, making intercropping with [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] or rubber plantations advantageous.
-
-Harvesting occurs 8–10 months after planting when aerial parts begin to senesce. Rhizome yields average 10–15 tonnes per hectare under good management.
-
-Post-harvest, rhizomes are washed, sliced, and either dried for powder production or steam-distilled for essential oil extraction. Oil yield is highest from fresh rhizomes processed within 48 hours of harvest.
-
-Major pests include rhizome borers, nematodes, and leaf-rolling caterpillars. Fungal diseases, particularly rhizome rot caused by *Pythium* spp., can cause significant losses in waterlogged conditions.
-
-Tissue [[stamets-cultivator-liquid-culture-propagation-methods]] has been developed for large-scale planting material production. This method ensures genetic uniformity and disease-free planting stock.
-
-## See Also
-
-- [[zingiber-zerumbet]]
-- [[curcuma-longa]]
-- [[boesenbergia-rotunda]]
-- [[elettaria-cardamomum]]
-- [[withania-somnifera]]

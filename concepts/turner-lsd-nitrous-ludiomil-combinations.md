@@ -1,5 +1,5 @@
 ---
-title: LSD Combinations with Nitrous Oxide and Ludiomil (Turner Guide)
+title: [[turner-lsd]] Nitrous Ludiomil Combinations
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## LSD + Nitrous Oxide
 
-Nitrous oxide is one of the most versatile combination agents in the psychedelic toolkit. Turner found that it works well with virtually every psychedelic he tried it with.
+[[nitrous-oxide]] is one of the most versatile combination agents in the psychedelic toolkit. Turner found that it works well with virtually every psychedelic he tried it with.
 
 ### Effects
 
@@ -88,27 +88,7 @@ Turner theorizes that Ludiomil creates a time-delay buffer zone that modulates t
 
 - An intensification of the LSD experience (approximately doubled)
 
-- "Bleed through" from dream states into waking psychedelic consciousness
-
-## Comparisons with Other Turner Combinations
-
-The LSD + Ludiomil combination occupies a unique niche among [[turner-ketamine-combinations-and-cydelikspace-navigation]] document additional Ludiomil interactions that may further illuminate the mechanism.
-
-## Safety Notes
-
-- Ludiomil is a prescription antidepressant; combining with LSD is an experimental combination with limited documentation
-
-- The effects on the intensity of LSD are significant (approximately doubled)
-
-- Dream effects persist for several nights after the combination
-
-- As with all experimental combinations, exercise caution and research thoroughly
-
-## Related
-
-- [[turner-multiple-combinations-cosmic-synergism]] - Multi-substance combinations including LSD
-
-- [[psychedelic-safety-guidelines-turner]] - [[psychedelic-safety-guidelines-turner]]
-
-- [[turner-cydelikspace-and-psychedelic-reality]]
-- [[first-time-grower-common-mistakes]]
+## See Also
+- [[turner-multiple-combinations-cosmic-synergism]]
+- [[turner-essential-psychedelics-cosmic-synergism-combinations]]
+- [[turner-ketamine-combinations-and-cydelikspace-navigation]]

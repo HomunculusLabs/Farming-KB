@@ -25,7 +25,7 @@ sources:
 
 It is a brown-rot fungus that colonizes dead and dying hardwood trees, producing tough, leathery basidiocarps with a distinctive dark, resinous upper surface.
 
-The species has attracted attention for its bioactive polysaccharides and potential medicinal properties, including immunomodulatory and anti-tumor activities observed in laboratory studies.
+The species has attracted attention for its bioactive polysaccharides and potential [[panax-ginseng]], including immunomodulatory and anti-tumor activities observed in laboratory studies.
 
 ## Taxonomy and Morphology
 
@@ -59,13 +59,13 @@ The pore surface (hymenium) is white to cream when young, becoming brownish to t
 
 Pores are circular to angular, 3–5 per mm, with thin dissepiments that may become torn and lacerate in older specimens.
 
-The tubes are stratified, with multiple pore layers formed during successive growing seasons, a characteristic of perennial polypores.
+The tubes are stratified, with multiple pore layers formed during successive [[jeavons-climate-adaptation-growing-seasons]], a characteristic of perennial polypores.
 
 Spores are cylindrical to ellipsoid, hyaline, smooth, measuring 5–7 × 2–3 μm, and inamyloid.
 
 ## Distribution and Habitat
 
-*I. resinosum* has a wide distribution across temperate regions of the Northern Hemisphere, found throughout Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
+*I. resinosum* has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, found throughout Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
 
 It is a saprotrophic brown-rot fungus that primarily colonizes dead or weakened standing hardwood trunks, stumps, and fallen logs.
 
@@ -85,33 +85,6 @@ This contrasts with white-rot fungi (such as *[[growing-gourmet-turkey-tail-tram
 
 Brown-rot fungi like *I. resinosum* employ a [[bioremediation-fenton-chemistry-brown-rot-fungi]] mechanism, generating hydroxyl radicals through iron reduction that depolymerize cellulose extracellularly.
 
-The brown-rot decay pattern is ecologically significant because it releases cellulose-derived carbon while leaving lignin as a persistent soil organic matter component.
+The brown-rot decay pattern is ecologically significant because it releases cellulose-derived carbon while leaving lignin as a persistent [[knf-leaf-mold-humus]] component.
 
-In forest ecosystems, brown-rot [[query-how-do-fungi-contribute-to-carbon-sequestration]] to carbon cycling by accelerating the decomposition of coarse woody debris that would otherwise persist for decades.
-
-## Bioactive and Medicinal Properties
-
-Research into the medicinal potential of *I. resinosum* has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], primarily polysaccharides and triterpenoids.
-
-Water-soluble polysaccharides extracted from the fruiting body have demonstrated immunomodulatory activity, stimulating macrophage activation and enhancing natural killer cell cytotoxicity in vitro.
-
-Beta-glucan fractions isolated from the mycelium have shown dose-dependent anti-tumor activity in mouse models, inhibiting the growth of Sarcoma 180 and Ehrlich ascites tumors.
-
-Triterpenoid compounds isolated from the resinous upper layer have exhibited anti-inflammatory activity by inhibiting cyclooxygenase (COX) enzymes and nitric oxide production.
-
-Antioxidant assays have demonstrated significant free radical scavenging activity for methanol and ethanol extracts, attributed to phenolic compounds including hispidin and related derivatives.
-
-## Similar Species
-
-*I. benzoinum* (Wahlenb.) P. Karst. is a closely related species that can be distinguished by its darker pore surface when fresh and its preference for coniferous substrates.
-
-*Fomes fomentarius* (tinder fungus) has a similarly tough, hoof-shaped bracket but differs in its gray to dark gray pore surface and lack of the characteristic resinous two-layered context.
-
-*Ganoderma applanatum* (artist's bracket) has a white pore surface that bruises brown, a hard, crusty upper surface, and a lacquered appearance distinct from *I. resinosum*.
-
-## See Also
-
-- [[ganoderma-lucidum]]
-- [[fomitopsis-pinicola]]
-- [[piptoporus-betulinus]]
-- [[xylaria-polymorpha-entity]]
+In [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], brown-rot [[query-how-do-fungi-contribute-to-carbon-sequestration]] to carbon cycling by accelerating the decomposition of [[fungal-diversity-leaf-litter-coarse-woody-debris]] that would otherwise persist for decades.

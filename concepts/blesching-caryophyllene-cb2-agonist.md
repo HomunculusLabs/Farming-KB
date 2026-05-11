@@ -88,29 +88,3 @@ CB2 receptor activation:
 
 These findings are primarily from preclinical studies, and [[mushroom-cancer-clinical-trials-overview]]
 are needed to evaluate BCP's anti-cancer potential in humans.
-
-## FDA Status and Safety Profile
-
-Beta-caryophyllene has achieved Generally Recognized As Safe (GRAS) status
-from the U.S. Food and Drug Administration (FDA) and is approved as a food
-additive and flavoring agent. This regulatory status reflects its
-established safety profile from centuries of dietary use and formal
-toxicological evaluation. Key safety considerations include:
-
-- No known psychoactive effects due to CB2 selectivity
-- Excellent oral bioavailability
-- No significant [[cannabis-drug-interactions-and-contraindications]] identified at dietary exposure levels
-- Well-tolerated at supplement doses, with mild gastrointestinal effects
-  possible at very high doses
-
-## Role in the Entourage Effect
-
-In the context of cannabis therapeutics, beta-caryophyllene contributes to
-the [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
-by providing direct CB2 receptor activation that complements the broader
-cannabinoid profile. This makes BCP-rich cannabis strains potentially more
-effective for inflammatory and immune-related conditions. Blesching suggests
-that the presence of BCP in cannabis may partly explain why whole-plant
-preparations sometimes outperform isolated THC or CBD for certain conditions.
-
-## Key Takeaways

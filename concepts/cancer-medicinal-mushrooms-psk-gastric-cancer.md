@@ -1,5 +1,5 @@
 ---
-title: PSK Immunotherapy for lentinan-gastric-cancer-combination-therapy
+title: Cancer Medicinal Mushrooms Psk Gastric Cancer
 created: 2026-04-26
 tags: [cancer-research, gastric-cancer, immunotherapy, clinical-trials]
 date: 2026-04-25
@@ -12,7 +12,7 @@ type: concept
 # PSK Immunotherapy for Gastric Cancer
 
 PSK (Polysaccharide-K, Krestin) from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] has been used
-as immunotherapy for more gastric cancer patients than any other cancer
+as immunotherapy for more gastric [[cannabis-for-cancer-patients]] than any other cancer
 type. By 1987, PSK accounted for more than 25% of total national
 expenditure for anti-cancer agents in Japan, underscoring its clinical
 importance. The extensive clinical evidence spanning several decades
@@ -76,7 +76,7 @@ This trial showed that combining PSK with conventional chemotherapy
 significantly improved disease-free and overall survival (Nakazato et
 al., 1994). This multi-centre effort represents the strongest evidence
 for PSK in gastric cancer treatment and supports its inclusion in
-standard treatment protocols.
+standard [[cho-plant-growth-stage-treatment-protocols]].
 
 ## Additional Non-Randomised Evidence
 
@@ -87,27 +87,3 @@ multiple independent research groups strengthens the evidence for PSK
 in gastric cancer, despite the lack of large-scale Western trials.
 
 ## HLA B40 as Predictive Marker
-
-Yokoe et al. (1997) compared HLA B40 antigen-positive patients treated
-with PSK against B40 negatives. B40-positive patients treated with PSK
-(3g daily, two-month course each year) in addition to chemotherapy had
-an improved 10-year overall survival rate compared to B40-negative
-patients. This finding suggests that HLA B40 may be a predictive
-factor for PSK response, enabling patient stratification and
-personalised immunotherapy approaches.
-
-## Clinical Implications
-
-After a quarter century of trials indicating PSK can improve cancer
-survival, the cumulative human findings amount to a recommendation for
-its inclusion in standard anticancer protocols. With the risk for
-[[blesching-cannabis-safety-adverse-effects-evidence]] virtually nonexistent, PSK's contribution to the
-benefit-risk profiles of gastric cancer treatment protocols can only be
-positive (Kidd, 2000). PSK can improve immune status secondary to the
-side effects associated with traditional therapies.
-
-## Related Topics
-
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]]
-- [[cancer-medicinal-mushrooms-extraction-bioavailability]]

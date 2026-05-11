@@ -77,7 +77,7 @@ N,N-dimethyltryptamine (DMT), the primary visionary compound, is orally
   structure and contemporary use contexts
 - [[ayahuasca-tourism-ethics]] for ethical considerations in ayahuasca
   tourism and practical guidance for prospective visitors
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] for Shipibo
+- [[shipibo-people-and-ayahuasca-tradition]] for Shipibo
   cosmology, icaros, kene designs, and visionary art traditions
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] for the
   three degrees of mastery and the healer/sorcerer distinction

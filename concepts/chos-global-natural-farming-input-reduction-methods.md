@@ -88,19 +88,3 @@ The CGNF system contrasts sharply with conventional chemical agriculture:
 | Cost | High and recurring | Low, one-time setup |
 | Soil impact | Degrades soil biology | Builds soil health |
 | Pest approach | Chemical pesticides | Natural attractants and IMO-produced antibiotics |
-| Weed control | Chemical herbicides | Mulching, ground cover |
-| Environmental impact | Runoff, pollution | Neutral or beneficial |
-| Farmer dependency | High (on suppliers) | Low (self-reliant) |
-
-## Practical Outcomes
-
-Natural Farming inputs can increase yields better than harmful commercial fertilizers and pesticides, while simultaneously reducing input costs. The system is designed to allow crops and livestock to reach optimum growth through nature's own mechanisms, with the farmer acting as a facilitator rather than a controller. The nutritive cycle approach ensures that no input is wasted and that the soil food web is continuously strengthened.
-
-## See Also
-
-- [[cho-natural-farming-inputs-overview]]
-- [[cho-fermented-plant-juice-preparation]]
-- [[knf-nutritive-cycle-theory]]
-- [[knf-preparations]]
-- [[knf-vs-chemical-farming-comparison]]
-- [[compost-biology-soil-food-web-inoculation]]

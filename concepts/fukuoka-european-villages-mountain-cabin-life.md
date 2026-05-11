@@ -1,10 +1,11 @@
 ---
-title: Fukuoka: [[fukuoka-european-agriculture-observations]] villages mountain cabin life and Mountain Cabin Life
+title: Fukuoka European Villages Mountain Cabin Life
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, natural-farming, philosophy]
+tags: [fukuoka, [[natural-farming]], philosophy]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -26,7 +27,7 @@ European countries such as Switzerland, Austria, and Holland -- Holland being sa
 
 ## What People Basically Need
 
-What do people basically need to live? If a family has a quarter-acre of land on which they grow rice, barley, vegetables, and fruit; if they make their clothes with cotton and their home is surrounded with bamboo, acacia, and other trees, then they have everything they need around the year for food, clothing, shelter, and fuel.
+What do people basically need to live? If a family has a quarter-acre of land on which they grow rice, barley, vegetables, and fruit; if they make their clothes with cotton and their home is surrounded with bamboo, [[acacia]], and other trees, then they have everything they need around the year for food, clothing, shelter, and fuel.
 
 - There is nothing else that is needed
 
@@ -50,7 +51,7 @@ This connects to [[fukuoka-nelissen-farm]] into a utopia, but even if he were ab
 
 - Far from being a civilized person, the urban housewife has reverted to a primitive animal afraid of fire
 
-The sunken hearth is an automatic fire extinguisher, but even when Fukuoka explains that the fire can be left alone without fear of the hut catching on fire, they are afraid. They are incapacitated by the smoke.
+The [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]] is an automatic fire extinguisher, but even when Fukuoka explains that the fire can be left alone without fear of the hut catching on fire, they are afraid. They are incapacitated by the smoke.
 
 ## Solitary People Within the Community
 
@@ -87,20 +88,3 @@ Many of the young people who have come to Fukuoka's farm have held the earnest h
 - Young, single people have gathered here, lived communally and studied for periods of one to three years
 
 - Once they acquire the confidence to make it on their own, they always take off again, like queen bees setting off from the mother hive to lives of their own
-
-- This sort of thing is much easier to do while one is still single
-
-- Whether farming under a nuclear or extended family arrangement is preferable, and whether a communal or cooperative setup is better, depends on the flowers from which the nectar is gathered
-
-- If nature is rich and bountiful, separate family farming is feasible
-
-- Where the natural environment is more severe, it may be necessary to live with a closely-knit community
-
-## See Also
-
-- [[fukuoka-european-civilization-standstill]]
-
-- [[fukuoka-nelissen-farm]]
-
-- [[fukuoka-critique-of-education-universities]]
-- [[fukuoka-natural-rice-barley-cultivation]]

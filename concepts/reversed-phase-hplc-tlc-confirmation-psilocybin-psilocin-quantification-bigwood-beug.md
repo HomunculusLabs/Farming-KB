@@ -1,5 +1,5 @@
 ---
-title: Reversed-Phase HPLC and TLC Confirmation Methods for Psilocybin and Psilocin Quantification
+title: Reversed Phase Hplc Tlc Confirmation Psilocybin Psilocin Quantification Bigwood Beug
 created: 2026-05-09
 tags: [analytical-chemistry, hplc, tlc, psilocybin, psilocin, quantification, bigwood-beug-1982, reversed-phase, calibration, detection-limits, nida-standards]
 date: 2026-05-09
@@ -14,8 +14,8 @@ type: concept
 Bigwood and Beug employed a combined analytical approach using reversed-
 phase high performance liquid chromatography as the primary quantification
 method, with thin-layer chromatography as a qualitative confirmatory
-technique, to measure psilocybin and psilocin levels in Psilocybe cubensis
-fruiting bodies across successive flushes. This dual-method strategy
+technique, to measure psilocybin and psilocin levels [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]]
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. This dual-method strategy
 provided both the quantitative precision needed for tracking alkaloid
 variation and the qualitative confirmation necessary for analytical
 confidence.
@@ -37,7 +37,7 @@ integrator-plotter, an instrument that automatically measures peak areas
 and converts them to concentration values based on calibration curves. The
 reporting integrator eliminated manual measurement errors and provided
 consistent, reproducible peak area quantification across the many samples
-analyzed in the flush variation study.
+analyzed in the [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] study.
 
 ## Calibration Standards and Traceability
 
@@ -67,7 +67,7 @@ to detect the low psilocin levels present in first and second flush
 samples, where psilocin was often absent or present at only trace levels.
 The ability to reliably detect and quantify psilocin at these low
 concentrations was critical for documenting the flush-dependent
-accumulation pattern that constitutes the central finding of the study.
+[[psilocin-accumulation-pattern-across-flushes]] that constitutes the central finding of the study.
 
 ## Thin-Layer Chromatography Confirmation
 
@@ -88,38 +88,3 @@ separate into distinct spots with characteristic relative mobility values
 in this system, allowing visual confirmation of compound identity
 alongside the HPLC retention time data. The combination of retention time
 from HPLC and relative mobility from TLC constitutes a two-dimensional
-confirmation of identity that significantly reduces the probability of
-misidentification from co-eluting or co-migrating compounds.
-
-## Implications for Dosage Predictability
-
-The analytical precision demonstrated by this methodology, with a 10
-percent repeatability and 0.01 microgram detection limit, highlights a
-sobering contrast with the biological variability observed in the study.
-While the analytical method could reliably distinguish differences of 10
-percent or greater between samples, the actual psilocybin levels varied by
-a factor of four among controlled cultures and by a factor of ten among
-street samples. This means that analytical precision was more than
-adequate to capture the true biological and cultivation-related
-variability, confirming that observed differences reflected real
-differences in alkaloid content rather than measurement uncertainty.
-
-## Sample Preparation and Preservation
-
-All mushroom samples were immediately freeze-dried after harvest, sealed in
-plastic, and stored at minus 5 degrees Celsius until analysis. Freeze-drying
-removes water without the thermal degradation that can occur with oven
-drying, preserving the thermally labile psilocybin and psilocin alkaloids.
-The sealed plastic packaging and cold storage prevented oxidation and
-hydrolysis of the compounds during the storage period between harvest and
-analysis. Voucher specimens were prepared and deposited in the University
-of Washington Herbarium (WTU), providing a permanent botanical reference
-for the analyzed material.
-
-## Related Concepts
-
-- [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]]
-- [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]
-- [[psilocybin-cap-stem-distribution-bigwood-beug]]
-- [[analytical-methods-psilocybin-psilocin-quantification]]
-- [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]

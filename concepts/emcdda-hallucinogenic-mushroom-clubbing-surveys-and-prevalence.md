@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Clubbing Surveys and Prevalence"
+title: Emcdda Hallucinogenic Mushroom Clubbing Surveys And Prevalence
 created: 2026-04-28
 tags:
   - emcdda
@@ -19,8 +19,8 @@ type: concept
 ## Overview
 
 Targeted surveys conducted in dance music and clubbing settings across Europe
-revealed substantially higher prevalence of hallucinogenic mushroom use than
-general population or school surveys. These non-probability surveys, conducted
+revealed substantially higher prevalence of [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] than
+general population or [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]. These non-probability surveys, conducted
 in Belgium, France, Hungary, Italy, the Netherlands, and the UK, demonstrated
 that hallucinogenic mushroom use was strongly associated with nightclub and
 dance music cultures, with prevalence depending on country, city location,
@@ -58,7 +58,7 @@ striking. In four countries where comparative data existed:
 - **Czech Republic**: Similar pattern of significantly elevated prevalence
   among clubbers.
 - **UK**: Clubbers had substantially higher rates than general population
-  and school survey figures.
+  and [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]] figures.
 - **France**: The highest clubbing prevalence (55%) far exceeded general
   population estimates.
 
@@ -88,47 +88,3 @@ Mixmag (2000 to 2005):
   2004.
 - The average age for first use was between 18 and 19 years according to the
   2004 Mixmag sample.
-- Among the 305 individuals who had used [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], over half
-  planned to take them again.
-- The most commonly used variety was the "Mexican" type.
-
-Caution is required when interpreting these trend data, as different
-characteristics of the non-probability samples and changes in survey methods
-from year to year may account for some of the sudden increase.
-
-## Post-Ban Availability Impact
-
-The UK [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] conducted in 2005, shortly after the imposition of
-stricter controls over the sale and use of hallucinogenic mushrooms (July
-2005), found that 67% of survey respondents reported that mushrooms were
-less available than they had been previously. This suggests that the legal
-change had a measurable impact on perceived availability within the clubbing
-community, at least in the short term.
-
-## User Experience and Patterns
-
-The Dutch risk assessment report from 2000 noted that hallucinogenic
-mushrooms tended to be taken as an experimental drug, and people generally
-discontinued use after a few times. Qualitative research in the Netherlands
-reported that users did not find hallucinogenic mushroom use a particularly
-pleasant experience, as the experience lacks the positive mood-altering
-(entactogenic) effects associated with ecstasy. This may explain why, despite
-high lifetime prevalence in clubbing populations, continued regular use was
-relatively uncommon.
-
-## Norway's Organic Music Milieu
-
-Norway reported a distinct music milieu characterised by organic lifestyles
-and woodland parties, largely composed of economically disadvantaged people
-aged 25 to 40, many of whom used cannabis and hallucinogenic mushrooms.
-However, this milieu was considered peculiar and unattractive by under-25
-year olds, and the drug use associated with it was considered unlikely to
-diffuse widely.
-
-## See Also
-
-- [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006]]
-
-- [[hallucinogenic-mushroom-prevalence-europe]]
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-- [[emcdda-hallucinogenic-mushroom-dose-effects]]

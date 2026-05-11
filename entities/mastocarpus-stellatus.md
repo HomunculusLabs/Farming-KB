@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Mastocarpus stellatus, commonly known as carrageen or Irish moss, is a red alga in the family Phyllophoraceae found on rocky shores of the north Atlantic. It is closely related to and frequently confused with Chondrus crispus, sharing much of the same geographic range.
+Mastocarpus stellatus, commonly known as carrageen or Irish moss, is a red alga in the family Phyllophoraceae found on rocky shores of the north Atlantic. It is closely related to and frequently confused with [[chondrus-crispus]], sharing much of the same geographic range.
 
 The species is commercially harvested for carrageenan, particularly kappa-carrageenan, which has superior gel strength compared to the iota-carrageenan predominantly produced by C. crispus. It has been collected by hand in Ireland and Scotland for centuries.
 
@@ -31,7 +31,7 @@ The thallus is cartilaginous and dichotomously branched, forming broad, flattene
 
 Coloration is highly variable, ranging from dark purplish-red to brownish-green. Yellowish or bleached specimens occur in high-light intertidal habitats.
 
-The most distinctive feature is the presence of hemispherical papillae on female gametophytes, which contain the cystocarps. These papillae are absent in C. crispus and serve as the primary field identification character.
+The most distinctive feature is the presence of hemispherical papillae on female gametophytes, which contain the cystocarps. These papillae are absent in C. crispus and serve as the primary [[palmer-mushroom-hunting-field-identification]] character.
 
 Tetrasporangial sori appear as pale, raised patches on branch surfaces. The medulla contains large, thick-walled cells, while the cortex is composed of small, densely pigmented cells.
 
@@ -57,7 +57,7 @@ Carrageenan yield ranges from 35–55% of dry weight, with seasonal variation li
 
 Protein content ranges from 10–15% of dry weight. The species contains a full complement of essential amino acids, with particularly high levels of alanine and glutamic acid.
 
-The mineral profile is rich in iodine, calcium, potassium, and magnesium. Seasonal fluctuations in mineral content reflect ambient seawater chemistry and growth rates.
+The mineral profile is rich in iodine, calcium, potassium, and magnesium. Seasonal fluctuations in mineral content reflect ambient seawater chemistry and [[coleman-sunlight-and-winter-crop-growth-rates]].
 
 Pigments include R-phycoerythrin, which gives the species its characteristic red coloration. Extracted phycobiliproteins have commercial potential as natural colorants and fluorescent markers.
 
@@ -67,9 +67,9 @@ M. stellatus provides important habitat structure in intertidal communities. Its
 
 The complex three-dimensional structure of dense Mastocarpus beds supports higher invertebrate diversity than adjacent bare rock.
 
-The species is relatively slow-growing compared to opportunistic seaweeds, with annual productivity of 1–3 kg fresh weight per square meter in natural beds. Turnover occurs primarily through winter storm damage.
+The species is relatively slow-growing compared to opportunistic seaweeds, with annual productivity of 1–3 kg fresh weight per square meter in natural beds. Turnover occurs primarily through [[winter-storm-preparedness]] damage.
 
-Grazing pressure from patellid limpets and Littorina snails can be significant, particularly on juvenile plants. The cartilaginous texture of mature thalli provides some resistance to herbivory.
+[[gadd-mycelial-network-resilience-grazing-pressure]] from patellid limpets and Littorina snails can be significant, particularly on juvenile plants. The cartilaginous texture of mature thalli provides some resistance to herbivory.
 
 M. stellatus competes with fucoid algae and Chondrus crispus for primary substrate space. Disturbance from wave action and ice scour creates colonization opportunities that the species can exploit.
 
@@ -88,27 +88,3 @@ The species is occasionally used in cosmetics and pharmaceutical formulations wh
 ## Related Species
 
 The genus Mastocarpus contains approximately 10 species distributed primarily in temperate waters. M. papillatus is the most closely related species, found along the Pacific coast of [[psilocybin-north-america-pacific-northwest]].
-
-M. jardinii occurs in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] along the coasts of Chile and Peru. It is morphologically similar to M. stellatus but occupies colder, more exposed habitats.
-
-The relationship between Mastocarpus and Chondrus has been extensively studied. Molecular data confirm that they are distinct genera, despite their morphological similarity and overlapping ecological niches.
-
-Hybridization between M. stellatus and C. crispus has been reported but appears rare. The two species can be reliably distinguished by cystocarp morphology and carrageenan composition.
-
-## Conservation Status
-
-M. stellatus is not currently listed as threatened, but local population declines have been documented in heavily harvested areas. Overharvesting in parts of Ireland and Scotland has prompted seasonal collection restrictions.
-
-[[dighton-fungi-climate-change-feedback]] poses a long-term threat through rising sea surface temperatures and increased storm frequency. The species' northern range limit may shift poleward as southern populations experience thermal stress.
-
-Conservation efforts focus on sustainable harvest management rather than active cultivation. Natural regeneration from remaining holdfasts is generally sufficient to recover biomass within 2–3 growing seasons after disturbance.
-
-## See Also
-
-- [[gracilaria-verrucosa]]
-- [[eucheuma-denticulatum]]
-- [[palmaria-palmata]]
-- [[fucus-serratus]]
-- [[laminaria-digitata]]
-- [[pyropia-yezoensis]]
-- [[undaria-pinnatifida]]

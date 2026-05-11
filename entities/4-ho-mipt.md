@@ -52,11 +52,11 @@ sources:
 - **5-HT₂A**: High affinity (Ki estimated 5–20 nM), the primary mediator of [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]] effects including visual distortions, synesthesia, and altered sense of self
 - **5-HT₂C**: Moderate affinity, contributing to mood elevation and potential anxiogenic effects at higher doses
 - **5-HT₁A**: Low to moderate affinity; partial agonism at this receptor may contribute to anxiolytic and calming effects
-- **5-HT₂B**: Some affinity — theoretical concern for valvular heart disease with chronic use, though no cases reported specifically for 4-HO-MiPT
-- **TAAR1**: Uncertain; some tryptamines show weak trace amine receptor activity
+- **5-HT₂B**: Some affinity — theoretical concern for valvular [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] with chronic use, though no cases reported specifically for 4-HO-MiPT
+- **TAAR1**: Uncertain; some tryptamines show weak [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]] receptor activity
 
 **Pharmacokinetics**:
-- **Route of administration**: Typically oral (capsule or dissolved in liquid); also insufflated (nasal) and, rarely, vaporized. Oral bioavailability is moderate due to first-pass hepatic metabolism
+- **[[mushroom-taste-route-of-administration-and-consumption-barriers]]**: Typically oral (capsule or dissolved in liquid); also insufflated (nasal) and, rarely, vaporized. [[first-pass-metabolism-and-oral-bioavailability]] is moderate due to first-pass hepatic metabolism
 - **Onset**: 20–60 minutes (oral); 5–15 minutes (insufflated)
 - **Peak effects**: 1.5–2.5 hours post-dose (oral)
 - **Duration**: 4–6 hours (oral), shorter than psilocin (6–8 hours) and significantly shorter than LSD (8–12 hours). This shorter duration is attributed to the N-isopropyl group, which alters metabolic clearance
@@ -84,57 +84,6 @@ sources:
 
 4-HO-MiPT is consistently described as producing a [[leary-psychedelic-experience-bardo-mapping]] qualitatively similar to psilocin but with notable differences:
 
-**Visual effects**: Considered among the most visually rich of the 4-HO-tryptamines. Users report vivid color enhancement, geometric patterning (tracers, fractals), texture flowing, and enhanced appreciation of art and nature. Visual acuity and clarity are often described as "sharp" compared to the "blurry" visuals sometimes reported with 4-HO-DiPT.
+**Visual effects**: Considered among the most visually rich of the 4-HO-tryptamines. Users report vivid color enhancement, geometric patterning (tracers, fractals), texture flowing, and enhanced appreciation of art and nature. [[mckenna-roland-fischer-psilocybin-visual-acuity]] and clarity are often described as "sharp" compared to the "blurry" visuals sometimes reported with 4-HO-DiPT.
 
 **Cognitive effects**: Characterized by a "clean" headspace relative to psilocin — users frequently report less mental confusion, looping thought patterns, and existential weight. The cognitive component is often described as lucid and present, allowing for clearer introspection without the overwhelming [[psilocybin-ego-dissolution-mechanisms]] common with higher-dose psilocin or LSD.
-
-**Emotional effects**: Mood elevation, gentle euphoria, and enhanced emotional sensitivity. Anxiety is less commonly reported than with other psychedelics, though  remain paramount.
-
-**Sensory enhancement**: Heightened appreciation of music (enhanced auditory perception, synesthetic elements), tactile sensitivity, and taste. Music enhancement is frequently cited as a highlight.
-
-**Physical effects**: Mild to moderate physical stimulation, dilated pupils, increased body temperature, slight nausea during onset (less pronounced than with psilocin), reduced appetite, and bruxism at higher doses.
-
-## Comparison with Related Compounds
-
-| Compound | Duration | Visuals | Head Space | Body Load | Character |
-|---|---|---|---|---|---|
-| 4-HO-MiPT | 4–6 hr | Very strong | Clean, lucid | Low-moderate | "Colorful, aesthetic" |
-| 4-HO-DMT (psilocin) | 6–8 hr | Strong | Deep, introspective | Moderate | "Earthy, mystical" |
-| 4-HO-MET | 5–7 hr | Moderate | Light, recreational | Low | "Playful, colorful" |
-| 4-HO-DiPT | 4–6 hr | Moderate | Scattered | Low | "Confusing, auditory" |
-| 4-AcO-DMT | 6–8 hr | Strong | Deep | Moderate | "Smooth, psilocin-like" |
-| LSD | 8–12 hr | Very strong | Complex, analytic | Moderate | "Expansive, intellectual" |
-
-## Legal Status
-
-- **[[dmt-containing-plants-united-states-halpern]]**: Not scheduled at the federal level under the Controlled [[controlled-substances-act-and-psychedelic-research]]; however, the Federal Analogue Act potentially renders it prosecutable as an analogue of psilocin (Schedule I). Individual state laws vary — some states have explicitly scheduled 4-HO-MiPT or its derivatives
-- **United Kingdom**: Class A under the Psychoactive Substances Act (2016) and the Misuse of Drugs Act; possession, sale, and production are criminal offenses
-- **EU**: Varies by member state; classified as controlled substance in Germany (NpSG), Austria (SMG), and several other nations
-- **Canada**: Not explicitly scheduled but may fall under controlled substance analogue provisions
-- **Australia**: Scheduled as a controlled substance (Schedule 9)
-- **Japan**: Controlled substance under the Pharmaceutical Affairs Law
-
-## Harm Red [[set-and-setting]] and setting**: As with all psychedelics, psychological preparedness, a safe comfortable environment, and ideally a trusted sitter are essential
-- **Substance purity**: Obtain from reputable sources; use reagent testing (Ehrlich's reagent produces purple/violet color indicating indole presence)
-- **Contraindications**: Avoid with personal or family history of psychosis or schizophrenia; avoid in combination with MAOIs, SSRIs, lithium, tramadol, or stimulants
-- **Hydration**: Maintain adequate hydration; avoid alcohol
-- **Integration**: Allow adequate integration time between experiences; consider therapeutic frameworks for processing insights
-
-## Key Details
-
-| Property | Value |
-|---|---|
-| Chemical class | Substituted tryptamine |
-| Molecular weight | 232.32 g/mol |
-| Primary mechanism | 5-HT₂A agonist |
-| Oral onset | 20–60 minutes |
-| Oral duration | 4–6 hours |
-| Common oral dose | 10–20 mg |
-| Federal scheduling | Unscheduled (US); Analogue Act applies |
-| Shulgin catalog | TiHKAL |
-| Relative potency | Similar to psilocin (mg-for-mg) |
-
-## See Also
-- [[psychedelic-mushroom-effects-guide]]
-- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
-- [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]

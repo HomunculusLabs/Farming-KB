@@ -23,7 +23,7 @@ type: concept
 
 ## Overview
 
-R. Gordon Wasson's theory that the Vedic [[amanita-muscaria-entity]], represents one of the most influential — and controversial — hypotheses in the history of ethnopharmacology. First proposed in his 1968 article and fully elaborated in *Soma: Divine Mushroom of Immortality* (1971), Wasson's argument fundamentally shaped subsequent scholarship on the identity of the mysterious Vedic sacrament. Terence McKenna, while deeply respectful of Wasson's contributions as the founder of ethnomycology, ultimately found the Amanita theory untenable and documented the extensive objections to it in *Food of the Gods*.
+R. Gordon Wasson's theory that the Vedic [[amanita-muscaria]], represents one of the most influential — and controversial — hypotheses in the history of ethnopharmacology. First proposed in his 1968 article and fully elaborated in *Soma: Divine Mushroom of Immortality* (1971), Wasson's argument fundamentally shaped subsequent scholarship on the identity of the mysterious Vedic sacrament. Terence McKenna, while deeply respectful of Wasson's contributions as the founder of ethnomycology, ultimately found the Amanita theory untenable and documented the extensive objections to it in *Food of the Gods*.
 
 ## The Founders of Ethnomycology
 

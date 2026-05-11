@@ -87,38 +87,3 @@ The decline of Acidobacteria contributes to the overall reduction in alpha diver
 Interestingly, endorhiza alpha diversity was not significantly different between the two soil types tested (MB soil chao1: 3325; OC soil chao1: 3311), despite significant differences in bulk soil diversity, suggesting that the host filtering process produces convergent endophytic communities regardless of starting soil diversity.
 
 ## Practical Implications
-
-### Soil Health Monitoring
-
-The ratio of Acidobacteria to Proteobacteria can serve as an indicator of soil disturbance and root zone activity. Higher Proteobacteria-to-Acidobacteria ratios indicate more active rhizosphere processes. This ratio is increasingly used as a biomarker in soil health assessments for agriculture.
-
-### Bioengineering Endophytes
-
-Understanding why Acidobacteria are excluded from the endorhiza could inform efforts to engineer beneficial endophytes. The traits that allow Proteobacteria and Actinobacteria to colonize roots could potentially be transferred to other beneficial organisms, creating new possibilities for plant-microbe partnerships.
-
-### Cannabis Cultivation
-
-For Cannabis growers, promoting a healthy soil microbiome with diverse Acidobacteria populations in the bulk soil provides a rich pool of potential endophytes. The plant will selectively recruit the most beneficial organisms from this diverse community, so maintaining overall soil biological diversity supports optimal plant-microbe interactions.
-
-## Edaphic Factors and Acidobacteria
-
-The BEST analysis from the Cannabis microbiome study identified nitrogen as the single strongest edaphic factor structuring microbial communities (weighted r-stat: 0.465, p = 0.001), followed by salinity (r-stat: 0.437), carbon (r-stat: 0.330), water content (r-stat: 0.281), and pH (r-stat: 0.221). For unweighted analysis, nitrogen remained dominant (r-stat: 0.630), with the same ordering of factors.
-
-Acidobacteria are known to be particularly sensitive to soil pH, with many subgroups showing strong preferences for acidic conditions. The sandy loam soils in the Cannabis study all had pH values between 6.63 and 6.94, which is near-neutral and may not represent the full range of Acidobacteria habitats. The relatively narrow pH range across study sites means that pH-driven Acidobacteria variation was minimized, allowing other edaphic factors like nitrogen and carbon to drive community structure.
-
-The finding that nitrogen is the strongest structuring factor is ecologically significant because Acidobacteria, as oligotrophs, are adapted to low-nitrogen environments. Soils with higher available nitrogen tend to favor Proteobacteria over Acidobacteria, which aligns with the observed transition from Acidobacteria-dominated bulk soil to Proteobacteria-dominated endorhiza where nitrogen availability is higher due to root exudates.
-
-## Comparison with Other Plant Systems
-
-The Acidobacteria decline from bulk soil to endorhiza is not unique to Cannabis. Similar patterns have been observed in Populus deltoides (poplar), Arabidopsis thaliana, and potato. The Bulgarelli et al. (2012) study on Arabidopsis root microbiota also supported the two-tier selection model, finding that soil type was the primary determinant of rhizosphere composition while host genotype shaped the endosphere.
-
-What makes the Cannabis study particularly informative is the inclusion of multiple cultivars across different soil types, allowing the relative contributions of edaphic factors and host genotype to be disentangled. The finding that soil type had the strongest overall effect (690 significant OTUs by weighted analysis) but that [[cannabis-cultivar-effects-soil-microbiome]] were restricted to endorhiza abundance patterns (71 significant OTUs) provides a nuanced picture of how Acidobacteria and other taxa are filtered through the two-tier selection process.
-
-## See Also
-
-- [[two-tier-selection-model-rhizosphere-endorhiza]]
-
-- [[proteobacteria-dominance-cannabis-endorhiza]]
-- [[endorhiza-bacterial-communities]]
-- [[cultivar-cannabis-microbiome-two-tier-selection-model]]
-- [[cellvibrio-and-root-decay-microbiome]]

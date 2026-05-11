@@ -20,9 +20,9 @@ sources:
 
 **Salix fragilis** (crack willow) is a large deciduous tree native to Europe and western Asia, widely planted along waterways for bank stabilization and ornamental purposes. It is named for its brittle branches, which fracture cleanly at the base with a sharp crack when subjected to mechanical stress.
 
-The species is one of the largest willows, capable of reaching 25 m in height. It is a dominant component of riparian forest communities across its native range and has become naturalized and invasive in parts of North America, Australia, and New Zealand.
+The species is one of the largest willows, capable of reaching 25 m in height. It is a dominant component of riparian forest communities across its native range and has become naturalized and invasive in parts [[berry-growing]], Australia, and New Zealand.
 
-The species epithet "fragilis" refers to the brittle nature of its branches, which snap cleanly at the junction with the trunk. This trait, while a liability in urban settings, facilitates vegetative propagation in riparian environments where broken branches are carried downstream by floodwaters to root and establish new trees.
+The species epithet "fragilis" refers to the brittle nature of its branches, which snap cleanly at the junction with the trunk. This trait, while a liability in urban settings, facilitates [[hamilton-vegetative-propagation]] in riparian environments where broken branches are carried downstream by floodwaters to root and establish new trees.
 
 ## Taxonomy
 
@@ -68,17 +68,17 @@ Crack willow provides important riparian habitat structure. Its dense canopy sha
 
 The species supports a diverse insect fauna. Over 200 arthropod species have been recorded on crack willow in European surveys, including specialist willow herbivores such as gall mites, leaf beetles, and sawflies.
 
-The tree is a host for several notable Lepidoptera species. The caterpillars of the puss moth (Cerura vinula) and the eyed hawk-moth (Smerinthus ocellata) feed on crack willow foliage, and the tree provides adult nectar sources for early spring pollinators.
+The tree is a host for several notable Lepidoptera species. The caterpillars of the puss moth (Cerura vinula) and the eyed hawk-moth (Smerinthus ocellata) feed on crack willow foliage, and the tree provides adult nectar sources for [[coleman-overwintered-onions-and-early-spring-crops]] pollinators.
 
-Fallen branches and debris from crack willow contribute large [[fungal-succession-woody-debris-ecology]] to river channels, creating habitat complexity for aquatic organisms. However, the brittle branch habit means that storm events can generate significant woody debris loads that may increase flood risk in managed waterways.
+Fallen branches and debris from crack willow contribute large [[fungal-succession-woody-debris-ecology]] to river channels, creating habitat complexity for aquatic organisms. However, the brittle branch habit means that storm events can generate significant [[fungal-diversity-leaf-litter-coarse-woody-debris]] loads that may increase flood risk in managed waterways.
 
-In its native range, crack willow is a significant component of alluvial forest ecosystems classified under the EU Habitats Directive as a priority conservation habitat (91E0 — alluvial forests with Alnus glutinosa and Fraxinus excelsior).
+In its native range, crack willow is a significant component of alluvial [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] classified under the EU Habitats Directive as a priority conservation habitat (91E0 — alluvial forests with Alnus glutinosa and Fraxinus excelsior).
 
 ## Bioactive Compounds
 
 Like other Salix species, S. fragilis bark contains salicin, salicortin, and related salicylate phenolic glycosides. These compounds are the botanical precursors to aspirin (acetylsalicylic acid) and contribute to the species' traditional medicinal use as an analgesic and anti-inflammatory.
 
-Bark salicin content ranges from 0.5–1.5% dry weight, with concentrations highest in spring during active sap flow. The pharmacological profile of S. fragilis bark is comparable to that of [[salix-alba]], which is the primary commercial source of willow bark extract used in herbal medicine.
+Bark salicin content ranges from 0.5–1.5% dry weight, with concentrations highest in spring during active sap flow. The pharmacological profile of S. fragilis bark is comparable to that of [[salix-alba]], which is the primary commercial source of willow bark extract used in [[childrens-herbal-medicine]].
 
 In addition to salicylates, the bark contains flavonoids including catechin, epicatechin, and procyanidins. These polyphenolic compounds contribute antioxidant activity and may enhance the anti-inflammatory effects of the salicylate fraction.
 
@@ -87,36 +87,3 @@ In addition to salicylates, the bark contains flavonoids including catechin, epi
 Propagation is primarily from hardwood cuttings, which root readily in moist soil. The species establishes quickly on riparian sites and can reach 3–5 m within five years. It coppices vigorously and is managed in some European countries as a source of biomass and basket-making material.
 
 The brittle wood is a liability in urban settings, where falling branches can damage property and infrastructure. For this reason, the hybrid S. × rubens and other Salix cultivars are often preferred in amenity planting.
-
-Despite its structural weaknesses, crack willow wood has been traditionally valued for specific applications. The timber is relatively lightweight and flexible when green, making it suitable for cricket bat blades, basket frames, and traditional wooden hurdles used in livestock management.
-
-## Invasive Status
-
-In North America, S. fragilis and its hybrids have naturalized in the northeastern [[dmt-containing-plants-united-states-halpern]] and Pacific Northwest. The species spreads aggressively through both seed dispersal and broken branch fragments that root downstream.
-
-In Australia, crack willow is classified as a Weed of National Significance in some states. Its ability to spread vegetatively from broken branches makes it particularly problematic in waterways, where flood events carry branch fragments downstream to establish new colonies.
-
-Research in southeastern Australia has documented crack willow replacing native riparian vegetation including Eucalyptus camaldulensis (river red gum) and Casuarina cunninghamiana (river she-oak). The resulting loss of native riparian [[mollison-wet-tropical-forest-structure-and-polyculture]] affects dependent wildlife, including platypus and native fish species.
-
-Management approaches include mechanical removal, herbicide treatment of cut stumps, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research targeting willow-specific herbivores. Integrated management programs combining mechanical and chemical methods over multiple years are required for effective control.
-
-In New Zealand, the willow sawfly (Nematus oligospilus) has been investigated as a potential biological control agent. The larvae defoliate willow trees, potentially reducing competitive ability and [[cervantes-seed-production-storage]] in invasive populations.
-
-## See Also
-
-- [[cystopteris-fragilis]]
-
-- [[salix-alba]]
-- [[salix-babylonica]]
-- [[salix-nigra]]
-- [[salix-viminalis]]
-- [[salix-purpurea]]
-- [[populus-nigra]]
-- [[populus-deltoides]]
-- [[acer-saccharum]]
-- [[quercus-robur]]
-- [[betula-pendula]]
-- [[salix-caprea]]
-- [[populus-balsamifera]]
-- [[nyssa-sylvatica]]
-- [[platanus-occidentalis]]

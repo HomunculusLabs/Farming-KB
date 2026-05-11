@@ -6,7 +6,7 @@ tags:
   - yerba-mate
   - herbal-plant
   - stimulant
-  - caffeine
+  - [[caffeine]]
   - south-american
   - traditional-medicine
   - aquifoliaceae
@@ -24,7 +24,7 @@ sources:
 
 # Ilex paraguariensis (Yerba Mate)
 
-**Yerba mate** is a species of holly (*Ilex paraguariensis*) native to South America, valued for its leaves which are brewed into a stimulating tea consumed widely across Argentina, Uruguay, Paraguay, Brazil, and beyond. It is one of the most culturally significant beverages in South America, with indigenous roots stretching back to the Guaraní people who first cultivated and prepared the plant.
+**Yerba mate** is a species of holly (*Ilex paraguariensis*) native to [[guzman-psilocybin-mushrooms-south-america]], valued for its leaves which are brewed into a stimulating tea consumed widely across Argentina, Uruguay, Paraguay, Brazil, and beyond. It is one of the most culturally significant beverages in South America, with indigenous roots stretching back to the Guaraní people who first cultivated and prepared the plant.
 
 ## Taxonomy and Botany
 
@@ -41,22 +41,22 @@ Yerba mate contains a distinctive profile of [[query-what-are-the-main-bioactive
 
 ### Xanthine Alkaloids
 - **Caffeine** (1.0–1.5%): Primary stimulant, comparable to tea
-- **Theobromine** (0.3–0.9%): Mild stimulant also found in cacao
+- **[[theobromine]]** (0.3–0.9%): Mild stimulant also found in cacao
 - **Theophylline** (trace amounts): Bronchodilatory compound
 
 ### Polyphenols and Antioxidants
 - Chlorogenic acid (major caffeoylquinic acid derivative)
 - Caffeic acid
 - Rutin (flavonoid glycoside)
-- Quercetin
-- Kaempferol derivatives
+- [[quercetin]]
+- [[kaempferol]] derivatives
 - Total polyphenol content comparable to green tea
 
 ### Other Constituents
 - Saponins (triterpenoid glycosides, ~2%)
 - Vitamins: B1, B2, B3, B5, C, E
 - Minerals: potassium, magnesium, manganese, zinc, iron
-- Amino acids: including tryptophan and theanine (trace)
+- Amino acids: including [[tryptophan]] and theanine (trace)
 
 ## Traditional and Cultural Use
 
@@ -88,43 +88,3 @@ In vitro studies demonstrate significant free radical scavenging activity. The O
 Epidemiological data from [[chiric-caspi-brunfelsia-south-american-hallucinogen]] populations suggest regular mate consumption may be associated with reduced cardiovascular risk, though confounding factors (lifestyle, diet) make causal claims difficult.
 
 ### Anti-inflammatory
-Chlorogenic acid and other polyphenols demonstrate anti-inflammatory activity in vitro through NF-κB pathway modulation and COX-2 inhibition.
-
-## Safety Concerns
-
-### Cancer Risk
-Controversial epidemiological studies have linked heavy, very hot mate consumption (above 65°C) with increased risk of esophageal squamous cell carcinoma. The IARC classified "mate drinking, very hot" as probably carcinogenic to humans (Group 2A), noting the temperature rather than the plant itself is the likely factor. Mate consumed at warm temperatures does not appear to carry this risk.
-
-### PAH Contamination
-The traditional smoke-drying process (*sapeco* and *barbaquá*) can introduce [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) into the leaves. Air-dried or unsmoked mate products are available and preferred for health-conscious consumers.
-
-### Caffeine Sensitivity
-Standard doses provide roughly 70–85 mg caffeine per serving (250 mL), similar to a cup of coffee. Excessive consumption can cause insomnia, anxiety, palpitations, and GI discomfort.
-
-## Cultivation and Ecology
-
-- **Native range:** Paraguay, Argentina (Misiones, Corrientes), southern Brazil, Uruguay
-- **Climate:** Subtropical, 15–25°C annual average, 1200–1800 mm rainfall
-- **Soil:** Well-drained, acidic (pH 5.5–6.5)
-- **Propagation:** Seeds require cold stratification; germination is slow (30–90 days)
-- **Harvest:** Leaves are harvested every 1–2 years, beginning at 3–4 years of age
-- **Yield:** Mature plants yield 1–2 kg dried leaf annually
-
-Yerba mate is typically shade-grown under native trees, supporting biodiversity in Atlantic Forest ecosystems. Sustainable agroforestry systems integrating mate cultivation with native timber and fruit trees are increasingly promoted.
-
-## Global Market
-
-Annual production exceeds 1 million tonnes, with Argentina producing ~60%, followed by Brazil (~30%) and Paraguay (~10%). The global market for yerba mate is growing, driven by interest in natural energy drinks and functional beverages. Major export brands include Rosamonte, Taragüi, and Canarias.
-
-## See Also
-
-- [[ilex-opaca]]
-- [[ilex-aquifolium]]
-
-- [[camellia-sinensis-entity]]
-
-- [[ilex-guayusa]]
-
-- theobromine — secondary stimulant in mate
-- [[camellia-sinensis-entity]] — tea, comparative antioxidant profile
-- [[paullinia-cupana]] — guarana, another South American caffeine source

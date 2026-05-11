@@ -3,8 +3,8 @@ title: Ancient Plant Knowledge
 created: 2026-04-26
 aliases: [historical plant wisdom, traditional plant lore, Vedic plant knowledge]
 tags: [history, ethnobotany, traditional-knowledge, philosophy]
-related: [tompkins-plant-music-sound, tompkins-plant-animal-relationships, tompkins-plant-perception-experiments]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plant-music-sound]], [[tompkins-plant-animal-relationships]], [[tompkins-plant-perception-experiments]]
+sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -18,7 +18,7 @@ whose name "hermetic" derives, was regarded as the originator of
 Egyptian art, science, magic, alchemy, and religion. He was reputed to
 have stated that "plants had lives, minds, and souls, even as did
 animals, men, and higher beings." This ancient Egyptian position
-acknowledged plant consciousness millennia before modern science began
+acknowledged plant consciousness millennia before [[fukuoka-road-critique-of-modern-science]] began
 investigating the concept.
 
 ## The Zendavesta: First Agricultural Textbook
@@ -60,7 +60,7 @@ in the dark, every flower can be recognized by its scent. Each carries
 the soul of its progenitor."
 
 He proposed that human bodies ultimately serve vegetal life -- providing
-carbon dioxide and, through death, returning as manure to be
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and, through death, returning as manure to be
 transformed into "the most glorious forms and colors."
 
 ## Luther Burbank's Intuitive Methods
@@ -88,52 +88,3 @@ Ancient Indian traditions held that music could directly influence plant
 growth. Lord Krishna was said to have used music to promote "enthralling
 growth and bewitching verdure." The Zendavesta's Zoroastrian roots
 paralleled the Vedic understanding of plants as sentient beings. Tamil
-literature documented plants responding to musical vibrations.
-
-## Traditional Folk Knowledge
-
-Vladimir Soloukhin documented how traditional Russian peasant wisdom
-encoded sophisticated plant knowledge. The first sheaf of rye harvest
-was lovingly decorated with a cornflower wreath and placed before an
-icon. Cornflowers were held to supply bees with abundant nectar even in
-the driest weather. Science later confirmed that a single daisy seed
-among a hundred wheat grains improves growth.
-
-## The "Law of Togetherness"
-
-Cocannouer articulated a "law of togetherness of all things" drawn from
-traditional farming wisdom. Ancient farmers understood [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]],
-[[comparison-crop-rotation-vs-cover-cropping]], and soil maintenance through observation and tradition --
-knowledge that modern chemical agriculture abandoned. Pfeiffer's
-chromatographic experiments confirmed what peasant intuition had long
-held about plant symbiosis.
-
-## Theosophical Plant Philosophy
-
-Theosophical teachings held that plants have etheric and astral bodies,
-functioning on planes beyond the physical. This energy body "duplicates
-the human body" and serves as "the channel through which life
-communicates with the physical body, the medium for telepathic and
-clairvoyant projection." [[tompkins-kirlian-photography-plant-auras]] was interpreted by Soviet
-researchers as visual confirmation of these ancient descriptions.
-
-## Key Quotes
-
-- "The chief work of the botanists of yesterday was the study and
-  classification of dried, shriveled plant mummies whose souls had
-  fled." -- Luther Burbank
-- "Plants had lives, minds, and souls, even as did animals, men, and
-  higher beings." -- Hermes Trismegistus (attributed)
-- "Was it not one of the ultimate purposes of human bodies to serve
-  vegetal life, surrounding it by emitting carbon dioxide for the
-  plants to breathe, and manuring them with human bodies after death?"
-  -- Gustav Fechner
-
-## See Also
-
-- [[plant-perception]]
-- [[plant-fungal-signaling-mycorrhiza]]
-- mycorrhizal-plant-signaling
-- [[companion-planting]]
-- [[tompkins-plant-perception-experiments]]
-- [[tompkins-mitogenetic-rays-plant-cell-communication]]

@@ -17,14 +17,14 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ## Overview
 Penicillium expansum is a major post-harvest pathogen responsible for
 blue mold rot of apples, pears, and other pome fruits. It is the most
-common cause of fruit decay in cold storage worldwide, causing
+common cause of fruit decay in [[root-cellaring-guide]] worldwide, causing
 significant economic losses in the apple and pear industries. Beyond
 its economic impact as a plant pathogen, P. expansum is the primary
 fungal producer of patulin, a mycotoxin that contaminates fruit-based
 products, particularly apple juice and cider. The source text documents
 P. expansum in the context of mycoparasitic interactions, specifically
 its ability to induce vacuolation (a defense-like response) in hyphae
-of Aspergillus niger when grown in dual culture.
+of [[aspergillus-niger]] when grown in [[fukuoka-rice-barley-dual-culture]].
 
 ## Taxonomy and Classification
 - **Kingdom:** Fungi
@@ -84,53 +84,7 @@ of Aspergillus niger when grown in dual culture.
 - This vacuolation is a very localized phenomenon observed at
   the point of contact between the two fungi
 - Similar vacuolation responses are induced by Fusarium
-  oxysporum and Trichoderma viride against A. niger
+  oxysporum and [[trichoderma-viride]] against A. niger
 - The phenomenon is typically observed only in dual culture
   in vitro, representing a form of fungal-fungal antagonism
 - Callosity formation, analogous to plant defense reactions,
-  may occur at interaction zones
-
-### Disease Cycle and Epidemiology
-- Conidia produced on decayed fruit or in soil contaminate
-  fruit surfaces in the orchard
-- Infection occurs through wounds created during harvest and
-  handling
-- [[brassinosteroid-fungal-growth-promotion]] proceeds slowly at cold storage temperatures
-  but accelerates upon removal from storage
-- Lesions are soft, watery, and brown, with abundant blue-green
-  sporulation under humid conditions
-- Secondary spread occurs by contact between infected and
-  healthy fruit in storage bins
-
-### Research Methods
-- Selective isolation on potato dextrose agar with antibiotics
-- Patulin quantification via HPLC with UV detection
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] using ITS rDNA and beta-tubulin
-  gene sequencing
-- In vitro dual culture assays to study mycoparasitic
-  interactions
-- Wound inoculation assays for pathogenicity testing
-
-### Economic Significance
-- Estimated losses of 10 to 50 percent in apple storage when
-  control measures are inadequate
-- Patulin contamination leads to rejection of apple juice
-  lots and significant economic losses
-- Post-harvest fungicide applications (e.g., thiabendazole,
-  fludioxonil) are primary management tools
-- Resistance to commonly used fungicides is an emerging concern
-
-## Relevance
-Penicillium expansum bridges plant pathology and food safety as both
-a destructive post-harvest pathogen and a mycotoxin producer. The
-mycoparasitic interactions documented in the source text, including its
-antagonism toward Aspergillus niger, add to our understanding of
-fungal-fungal interactions in natural and agricultural environments.
-Managing blue mold requires integrated approaches combining orchard
-sanitation, careful handling, and appropriate storage conditions.
-
-## See Also
-
-- [[aspergillus-flavus]]
-- [[trichoderma-viride]]
-- [[colletotrichum-gloeosporioides]]

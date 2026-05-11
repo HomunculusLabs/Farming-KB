@@ -1,5 +1,5 @@
 ---
-title: Rhizosphere rhizosphere microbiome selection model Model
+title: Rhizosphere Microbiome Selection Model
 created: 2026-04-28
 tags: [microbiome, soil-science, plant-biology]
 date: 2026-04-28
@@ -17,14 +17,14 @@ The two-tier selection model (also called the two-step selection model) describe
 how plant root microbiomes are assembled through a hierarchical filtering process.
 The model posits that soil [[soil-edaphic-factors-microbial-communities]] first determine the pool of available
 microbes in the rhizosphere, and then host plant genotype selects from that pool
-to shape the endorhiza community. This model was proposed based on studies in
+to shape the [[proteobacteria-dominance-cannabis-endorhiza-community]]. This model was proposed based on studies in
 Arabidopsis, poplar, and other plant systems (Bulgarelli et al., 2013; Garbeva
 et al., 2004; Berg and Smalla, 2009) and has been tested in Cannabis by Winston
 et al. (2014).
 
 ## Tier 1: Soil Determination of Rhizosphere Communities
 
-Under the first tier of the model, edaphic factors (soil chemistry and physics)
+Under the first tier of the model, [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] (soil chemistry and physics)
 determine the structure of the local soil microbiota. These soil microbes become
 the source community for the first [[core-endorhiza-bacterial-community-composition-cannabis]] shift into the nutrient
 rich environment of the rhizosphere. Rhizodeposition, the release of carbon
@@ -51,7 +51,7 @@ In Cannabis, strain level differences were observed only in the endorhiza:
 
 - Experiment 1 endorhiza by strain: ADONIS R2 = 0.59 (weighted), p = 0.004
 - Experiment 1 endorhiza by strain: ADONIS R2 = 0.39 (unweighted), p = 0.003
-- Rhizosphere showed no significant strain clustering in experiment 1
+- Rhizosphere showed no significant [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] in experiment 1
 
 The model predicts that rhizosphere and endorhiza microbiota should be
 soil-derived. This was tested by comparing shared OTUs between endorhiza and
@@ -79,43 +79,12 @@ abundance as microbes shift from bulk soil through rhizosphere to endorhiza:
 Principal coordinate analysis from the second experiment provided strong visual
 support for the model:
 
-1. PC1 (32.06% variance) in unweighted analysis was dominated by soil type,
+1. PC1 (32.06% variance) in [[unifrac-weighted-unweighted-analysis-cannabis-microbiome]] was dominated by soil type,
    confirming soil as the primary determinant of which microbes are present.
 2. PC2 (11.34% variance) showed the community shift from bulk soil (negative
    values) through rhizosphere (intermediate) to endorhiza (positive values).
 3. PC1 (34.51% variance) in weighted analysis was dominated by strain,
-   suggesting that host genotype controls community structure (abundance) more
+   suggesting that host genotype controls [[edaphic-determinants-cannabis-microbiome-community-structure]] (abundance) more
    than composition.
 
 ## Correlation Patterns Across Compartments
-
-Mean abundance of the 51 OTUs significantly differentiating sample types showed
-a decreasing correlation pattern consistent with the tiered model:
-
-- Bulk soil vs rhizosphere: Pearson's rho = 0.92 (very similar)
-- Rhizosphere vs endorhiza: Pearson's rho = 0.63 (moderate shift)
-- Bulk soil vs endorhiza: Pearson's rho = 0.42 (large shift)
-
-## Abundance vs Presence/Absence
-
-An important finding supporting the tiered model is that strain effects operate
-on OTU abundance rather than presence/absence. In unweighted (presence/absence)
-analysis, zero OTUs significantly differed between strains, while weighted
-(abundance) analysis found 71 significant OTU differences. This means all
-cultivars draw from the same soil-derived microbial pool, but host genotype
-adjusts the relative proportions of community members differently.
-
-## Limitations and Unresolved Questions
-
-The beta-diversity distance tests provided mixed support for the first
-differentiation step. While rhizosphere-endorhiza distances and bulk
-soil-endorhiza distances showed the expected pattern (rhizosphere samples
-closer to endorhiza than bulk soil), this difference was not statistically
-significant (unweighted: t = -2.10, p = 0.109; weighted: t = -2.23, p =
-0.078). The authors note this provides little evidence for the first
-differentiation step of the model.
-
-## See Also
-- [[soil-edaphic-factors-microbial-communities]]
-- [[cannabis-microbiome-research]]
-- [[cultivar-cannabis-microbiome-two-tier-selection-model]]

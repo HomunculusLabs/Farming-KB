@@ -1,5 +1,5 @@
 ---
-title: "Fungal Metal Transformations and Biogeochemical Cycling"
+title: Gadd Fungal Metal Transformations Biogeochemical Cycling
 source: "Fungi in the Environment — Gadd, Watkinson & Dyer (2006)"
 source_path: raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 mined: 2026-05-10
@@ -9,7 +9,7 @@ aliases: [gadd-metal-transformations, fungal-bioweathering, fungal-biogeochemist
 
 # Fungal Metal Transformations and Biogeochemical Cycling
 
-Fungi play a central role in the Earth's biogeochemical cycles — the processes by which elements move through the lithosphere, hydrosphere, atmosphere, and biosphere. Through mechanisms collectively termed "geomycology," fungi transform rocks and minerals, mobilize and immobilize metals, and influence the availability of essential nutrients for all life. This chapter from Gadd, Watkinson & Dyer's *Fungi in the Environment* provides a comprehensive overview of fungal [[fungal-mineral-transformations-biogeochemical-cycles]] involvement in mineral transformations.
+Fungi play a central role in the Earth's biogeochemical cycles — the processes by which elements move through the lithosphere, hydrosphere, atmosphere, and biosphere. Through mechanisms collectively termed "geomycology," fungi transform rocks and minerals, mobilize and immobilize metals, and influence the availability of essential nutrients for all life. This chapter from Gadd, Watkinson & Dyer's *Fungi in the Environment* provides a comprehensive overview of fungal [[fungal-mineral-transformations-biogeochemical-cycles]] involvement in [[fungal-biogeochemical-mineral-transformations]].
 
 ## Rocks and Minerals as Nutrient Reservoirs
 
@@ -36,7 +36,7 @@ Fungi are exceptionally well-suited as weathering agents due to several key adap
 - **Chemical arsenal**: Exude protons and metal-complexing metabolites (organic acids, siderophores)
 - **Symbiotic capability**: Form mutualistic associations with plants, algae, and cyanobacteria (mycorrhizae, lichens)
 - **Filamentous growth**: Hyphal networks can explore large volumes of soil, increase or decrease surface area, and translocate nutrients over considerable distances
-- **Mucilaginous sheaths**: Hydrated slime surrounding hyphae creates interconnected microenvironments for mineral dissolution
+- **Mucilaginous sheaths**: Hydrated slime surrounding hyphae creates interconnected microenvironments for [[dighton-fungal-rock-weathering-mineral-dissolution]]
 
 ## Evolutionary Context
 
@@ -64,7 +64,7 @@ Fungal weathering operates through two synergistic categories of action:
 Direct biomechanical degradation occurs through:
 
 - **Hyphal penetration**: Fungal hyphae penetrate decayed rocks and tunnel into intact mineral matter along crystal planes, cleavages, cracks, and grain boundaries
-- **Turgor pressure**: Osmotically generated pressure within hyphae exerts considerable mechanical force against mineral surfaces
+- **Turgor pressure**: Osmotically generated pressure within hyphae exerts considerable mechanical force against [[fungal-community-profiling-rock-mineral-surfaces-gadd]]
 - **Thigmotropism**: Directed growth toward grooves, ridges, and pores in solid material allows fungi to locate and exploit weakened sites
 - **Mucilage lubrication**: Mucilaginous slime containing acidic and metal-chelating metabolites facilitates penetration
 
@@ -83,50 +83,8 @@ Fungi excrete metal-complexing metabolites including:
 - **Carboxylic acids**: Oxalic acid, citric acid — with strong chelating properties that aggressively attack mineral surfaces
 - **Amino acids**: Organic nitrogen compounds that can bind and solubilize metal ions
 - **Siderophores**: High-affinity iron-chelating compounds produced under iron-limited conditions
-- **Phenolic compounds**: Aromatic compounds with metal-binding capacity
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Aromatic compounds with metal-binding capacity
 
 Carboxylic acids provide both protons for acidolysis and chelating anions for complexolysis, making them particularly effective weathering agents. When a fungal culture excretes large amounts of a strong chelator like oxalate, the dissolution mechanism shifts from proton-promoted to ligand-promoted dissolution.
 
 **3. Redoxolysis**
-Fungi can alter the oxidation state of metals, transforming insoluble forms into soluble (or vice versa) species. This redox chemistry is particularly relevant for iron and manganese cycling.
-
-## Metal Immobilization and Bioaccumulation
-
-Fungi don't just mobilize metals — they also immobilize them through several mechanisms:
-
-- **Biosorption**: Metal binding to cell walls, pigments, and extracellular polysaccharides
-- **Intracellular accumulation**: Active transport of metals into fungal cells
-- **Extracellular precipitation**: Inducing metal precipitation outside the cell
-
-These immobilization mechanisms reduce external free metal activity and shift dissolution equilibria to release more metal into solution. Fungi can be highly efficient bioaccumulators of soluble and particulate forms of metals (Ni, Zn, Ag, Cu, Cd, Pb), especially from dilute external concentrations. Metal binding can occur in both living and dead fungal biomass.
-
-## Fungal Species Involved in Mineral Transformation
-
-Several fungal genera are particularly active in mineral weathering:
-
-- ***Aspergillus niger***: Can degrade olivine, dunite, serpentine, muscovite, feldspar, spodumene, kaolin, nepheline, basalt, and concrete over multi-year timescales
-- ***Penicillium expansum***: Degrades olivine, dunite, serpentine, muscovite, feldspar, spodumene, kaolin, nepheline, basalt
-- ***Penicillium simplicissimum***: Releases aluminium from aluminosilicates
-- ***Scopulariopsis brevicaulis***: Also releases aluminium from aluminosilicates
-
-## Ecological Significance
-
-Fungal bioweathering is the chronological first process of weathering in sub-polar basaltic outcrops, preceding cryogenic (freeze-thaw) processes. Alkaline rocks appear more susceptible to fungal attack than acidic rocks. Fungi are believed to contribute significantly to the weathering of silicate-bearing rocks (mica, orthoclase) and iron/manganese-bearing minerals (biotite, olivine, pyroxene).
-
-In the broader ecosystem context, fungal mineral transformations are fundamental to soil formation, nutrient cycling, and plant nutrition. Mycorrhizal fungi, which form symbiotic associations with over 90% of plant species, are the primary agents by which plants access mineral phosphorus and trace metals from soil minerals.
-
-## Applications: Mycoremediation and Biomining
-
-Understanding fungal metal transformations has practical applications:
-
-- **Mycoremediation**: Using fungi to clean up heavy metal contamination by mobilizing, accumulating, or immobilizing toxic metals
-- **Biomining**: Bioleaching of valuable metals from low-grade ores using fungal metabolism
-- **Soil restoration**: Accelerating soil formation and nutrient availability in degraded or contaminated landscapes
-- **Building material preservation**: Understanding fungal weathering to protect stone, concrete, and cultural heritage structures
-
-## See Also
-
-- [[gadd-fungal-species-recognition]]
-- mycorrhizal fungi nutrient cycling
-- fungal ecology soil ecosystems
-- bioremediation heavy metals

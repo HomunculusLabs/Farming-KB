@@ -60,7 +60,7 @@ Here is the square with the horizontal arrow adding a sulfur in the
 3-position and the vertical arrow adding an ethyl group in place of a
 methyl group at the 4-position:
 
- Mescaline                 x 3.5            3-TM
+ [[mescaline]]                 x 3.5            3-TM
 
 200-400 mg                                 60-100 mg
 
@@ -88,60 +88,5 @@ Thioescaline                               3-TE Rx0.3S
 
  20-30 mg                                 = 60-100 mg
 
-and one would predict a potency of some one third of that of
-thiomescaline, or something in the range of 80 milligrams.
-
-This latter square gave a prediction that was very close to the
-observed potency, but it would be careless, and probably wrong, to
-assume that the latter relationships had any more significance than
-the former ones. As one accumulates the potencies of many compounds
-it is tempting to draw complex relationships such as these, and to be
-seduced into believing that they must explain things. And,
-especially, beware the multivariable power of the computer which can
-explore monstrous numbers of variables at breakneck speeds, and spew
-forth fantastic correlations with marvelous ease.
-
-But nothing can ever substitute for the simple art of tasting
-something new.
-## Synthesis
-A solution of 10.4 g of
-3-bromo-N-cyclohexyl-4-ethoxy-5-methoxybenzylidenimine (see under
-3-TASB for its preparation) in 125 mL anhydrous Et2O, in a He
-atmosphere, was cooled with an external dry ice acetone bath to -80 deg C
-with good stirring. To this clear pale yellow solution there was
-added 25 mL 1.6 M butyllithium in hexane (about a 25% excess) which
-produced a fine white precipitate over the following 15 min. There
-was then added 4.2 g dimethyl disulfide. At the half-addition point,
-the generated solids became so heavy that stirring became difficult,
-but towards the end of the addition the reaction thinned out again and
-became quite loose. The dry ice bath was removed and the reaction
-allowed to come to room temperature, which again allowed the formation
-of a heavy solid phase while warming and, again, a loose and easily
-stirred mixture when finally at room temperature. All was added to
-400 mL H2O which had been strongly acidified with HCl. The two phases
-were separated, and the aqueous phase (which contained a small amount
-of yellow oily matter insoluble in either phase) was heated on the
-[[scythian-cannabis-steam-bath-ritual]] for 0.75 h. On cooling, the oily component set to a yellow
-solid, which was removed by filtration and washed with H2O. This
-crude product, 5.9 g of yellow solid, was distilled 115-125 deg C at 0.3
-mm/Hg to give 4.9 g of 4-ethoxy-3-methoxy-5-(methylthio)benzaldehyde
-as a pale yellow solid that had a mp of 43-45 deg C. Recrystallization
-from MeOH gave a mp of 47-48 deg C. Anal. (C11H14O3S) C,H. This product
-can also be prepared from the anion of 3-thiosyringaldehyde (mp
-141-143 deg C as crystals from MeOH) by reaction with ethyl iodide in the
-presence of phase-transfer catalyst, but the yield is quite poor.
-To a solution of 4.4 g 4-ethoxy-5-methoxy-3-(methylthio)benzaldehyde
-in 75 mL nitromethane, there was added 0.5 g anhydrous ammonium
-acetate and the mixture was heated on the steam bath for 80 min. Care
-must be taken in the length of time, and there must be frequent TLC
-montoring, as there is a rapid scrudge buildup (see under 3-TSB for a
-discussion of scrudge). The reaction mixture was stripped of
-nitromethane under vacuum, and the residual deep-yellow oil was
-dissolved in 20 mL of boiling MeOH. This was decanted from a small
-amount of insoluble matter and, upon cooling, deposited bright yellow
-crystals of 4-ethoxy-5-methoxy-3-methylthio-beta-nitrostyrene. This was
-removed by filtration and, after washing with cold MeOH and air
 ## See Also
-- [[methyl-dob-entity-pihkal]]
-- [[greg-green-odor-control-and-air-filtration]]
-- [[ethyl-k-entity-pihkal]]
+- [[ethyl-j-entity-pihkal]]

@@ -87,29 +87,3 @@ From edible Tricholoma species: Amanita has a clear sac-like volva, a skirt-like
 A reliable field rule: any white mushroom with both a volva at the base AND a ring on the stipe should be treated as potentially lethal and never consumed.
 
 ## Bioactive Chemistry
-
-Beyond amatoxins, A. virosa produces several lectins and proteins with biological activity. An antiviral protein (virosin) has been isolated from fruiting bodies, showing activity against HIV-1 reverse transcriptase in vitro.
-
-The species also contains small amounts of muscarine (approximately 0.003% dry weight), though this is not clinically significant compared to the amatoxin content.
-
-Research into the biosynthesis of amatoxins has identified a prolyl oligopeptidase (POPB) gene responsible for the macrocyclization of the peptide backbone, providing potential biotechnological applications.
-
-Phalloidin, while not lethal to humans due to poor oral bioavailability, has been invaluable as a molecular biology tool for stabilizing actin filaments in fluorescence microscopy.
-
-## Cultural Significance
-
-A. virosa and its close relatives have earned a fearsome reputation in European folklore. In Italy, it is called "angelo della morte" (angel of death), and in France "ange de la mort."
-
-The species has been implicated in several high-profile poisonings throughout history, including the 1957 case of the Polish composer and conductor Grzegorz Fitelberg, who died after consuming misidentified A. virosa.
-
-In forensic mycology, A. virosa is a standard reference species for amatoxin analysis in post-mortem toxicology. Amatoxins can be detected in urine, blood, and liver tissue for up to 7 days post-ingestion.
-
-The species serves as a primary teaching specimen in mycology courses worldwide, illustrating the critical importance of volva and annulus identification in Amanita taxonomy.
-
-## See Also
-
-- [[amanita-pantherina]] — related Amanita with different toxicity profile
-- [[muscimol-entity]] — GABAergic psychoactive compound from A. muscaria
-- [[alpha-amanitin]] — the primary lethal toxin
-- [[amanita-poisoning-identification-antidotes-palmer]] — clinical management guide
-- [[volvariella-volvacea]] — edible lookalike responsible for misidentifications

@@ -70,7 +70,7 @@ The species has also been investigated for its ability to detoxify agricultural 
 - [[ganoderma-lucidum]]
 - [[bjerkandera-adusta]]
 - [[coriolopsis-gallica]]
-- [[xylaria-polymorpha-entity]]
+- [[xylaria-polymorpha]]
 - [[laccase]]
 - [[mycoremediation]]
 - [[daldinia-concentrica]]
@@ -87,23 +87,3 @@ Ceriporia is a genus of approximately 30 species of resupinate polypores. C. spi
 C. viridans is a closely related species that can be distinguished by its greenish pore surface and smaller spores (4–5 × 1.5–2 µm). C. purpurea, as the name suggests, develops a distinctly purple pore surface and is restricted to conifer substrates.
 
 The genus has historically been confused with Merulioporia and Poria, both of which have been largely resolved into other genera through molecular phylogenetic analysis. Molecular data confirm Ceriporia as polyphyletic, suggesting future taxonomic revisions may split the genus.
-
-Ceriporiopsis subvermispora, while placed in a different genus, is a closely related white-rot polypore with superior lignin-degrading capabilities. C. subvermispora is the model organism for biological pulping research due to its selective delignification of wood fiber.
-
-## Cultivation and Research
-
-C. spissa can be maintained in pure culture on malt extract agar or potato dextrose agar at 20–25°C. Optimal growth occurs on hardwood-based substrates supplemented with nitrogen sources such as peptone or ammonium nitrate.
-
-Submerged fermentation in bioreactors has been optimized for laccase production using response surface methodology. Maximum enzyme yields are achieved at pH 5.0, 25°C, with glucose as carbon source and copper sulfate as laccase inducer.
-
-The genome of C. spissa has not been fully sequenced as of 2026, though partial ITS and LSU rDNA sequences are available in public databases. Comparative genomic studies of related Ceriporia species reveal an expanded repertoire of class II peroxidase genes consistent with their white-rot ecology.
-
-## Secondary Metabolites
-
-Chemical investigations of C. spissa cultures have yielded several bioactive secondary metabolites. Terpenoid compounds isolated from the fungus include spissol and spissenol, which exhibit moderate antimicrobial activity against Gram-positive bacteria including Staphylococcus aureus and Bacillus subtilis.
-
-Ergosterol, the principal sterol of fungal cell membranes, has been quantified at 3.2–4.8 mg/g dry weight in C. spissa mycelium. β-glucan polysaccharides extracted from the fungal cell wall show immunomodulatory activity in macrophage activation assays.
-
-These findings suggest that beyond its ecological role in wood decomposition, C. spissa may have untapped biotechnological potential as a source of antimicrobial and immunomodulatory compounds. Further metabolomic profiling using modern analytical techniques is warranted.
-
-## See Also

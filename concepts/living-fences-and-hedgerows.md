@@ -87,32 +87,3 @@ Traditional European hedge-laying technique where stems are partially cut at the
 Pre-grown hedgerow panels (1–2 m tall) grown in woven willow or biodegradable containers can be planted as instant barriers. More expensive but provide immediate function for gardens and high-visibility sites.
 
 ## Management and Maintenance
-
-### Formative Pruning (Years 1–3)
-
-During establishment, tip-prune leaders at the desired hedge height to encourage lateral branching. Remove lower branches only if ground access is needed. The goal is dense growth from ground level to the desired height.
-
-### Maintenance Trimming (Years 3+)
-
-Trim annually or biannually in late winter (before bird nesting season in temperate regions). Alternate between trimming the front face one year and the back face the next to maintain density without excessive width. Avoid cutting into old wood — most hedge species will not regenerate from bare wood. Maintain a slight batter (wider at base than top) to ensure light reaches the lower branches.
-
-### Coppicing and Rejuvenation
-
-When hedges become leggy or thin at the base (typically after 15–25 years without management), coppicing — cutting the entire hedge to 10–15 cm above ground level — stimulates vigorous regrowth from the stool. Coppice in sections over 3–4 years rather than all at once to maintain continuous habitat and wind protection. In temperate climates, coppice during the dormant season (late winter) to minimize stress on the plants and avoid disturbing nesting birds.
-
-## Regional Considerations
-
-In temperate regions, plant in early spring or autumn. In Mediterranean climates, plant with the autumn rains. In arid and semi-arid regions, choose drought-adapted species (mesquite, jujube, caragana) and consider drip irrigation during establishment. In the tropics, living fences of Gliricidia sepium, Leucaena leucocephala, and Jatropha curcas establish rapidly and provide fodder, green manure, and fuelwood. Always verify species suitability for your local climate zone and check for invasive potential before planting — several useful hedge species (autumn olive, Russian olive, Scotch broom) are ecologically invasive in certain regions.
-
-### Economic Returns
-
-Beyond the savings on conventional fencing materials ($5–15 per linear foot for wire fencing vs. $0.50–2.00 per linear foot for live stake establishment), living fences generate ongoing returns through fuelwood, fodder, fruit, and craft material harvests. A mature mixed-species hedgerow can yield 2–5 kg of fruit per meter annually, plus 1–3 kg of leaf fodder per meter per harvest cycle. The soil improvement from nitrogen-fixing species benefits adjacent crops for 5–10 m on either side of the hedge.
-
-## See Also
-
-- [[comparison-living-fences-vs-hedgerows]]
-
-- [[forest-edge-windbreak-rainfall-compression]] — windbreak physics
-- [[leucaena-alley-cropping-systems]] — multipurpose tree systems
-- [[chop-and-drop-mulching]] — using hedge trimmings as mulch
-- permaculture-designers-manual-coppice-systems — coppice and pollard techniques

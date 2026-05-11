@@ -5,6 +5,7 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 Mycofiltration of pathogens is the use of fungal mycelial mats as biological membranes to filter, trap, and destroy disease-causing microorganisms from water and soil. This application of mycology demonstrates how mushroom mycelium can serve as a living filtration system, reducing populations of coliform bacteria, protozoa, and other pathogens that threaten human health, agriculture, and aquatic ecosystems.
@@ -87,49 +88,3 @@ Mycoremediation is the use of fungi to degrade environmental toxins, including a
 ## The Enzymatic Mechanism
 
 Mushroom mycelia can decompose hydrocarbons in petroleum products because lignin has similar hydrogen-carbon bonds. The extracellular enzymes that white-rot fungi secrete to break down lignin — particularly lignin peroxidases, manganese peroxidases, and laccases — are nonspecific in their activity. This means they can attack a wide range of [[plants-of-the-gods-chemical-structures-hallucinogens]] beyond lignin, including many synthetic compounds that were designed to resist biological degradation.
-
-Fertilizers, munitions, pesticides, herbicides, textile dyes, and estrogen-based pharmaceuticals are all susceptible to enzymes secreted by mushroom mycelia. Some species can degrade several of these synthetic compounds at once, while others are more selective. The mycoremediation method is elegantly simple: overlay straw or wood chips infused with the right mycelium to create a living membrane of enzymes that rain down on the toxins in the topsoil, replenished annually with additional mycelium-treated substrate.
-
-## Pesticides and Their Fungal Degradation
-
-The following pesticides have demonstrated susceptibility to fungal degradation according to published research (Gadd 2004):
-
-Alachlor — a chloroacetamide herbicide widely used in corn and soybean production, susceptible to enzymatic breakdown by white-rot fungi.
-
-Aldrin — an organochlorine insecticide now banned in most countries but persistent in soils, can be degraded through fungal metabolic processes.
-
-Chlordane — another banned organochlorine insecticide that accumulates in fatty tissues and resists natural breakdown, but shows susceptibility to fungal enzyme systems.
-
-DDT — perhaps the most notorious of all synthetic pesticides, dichloro-diphenyl-trichloroethane was banned in many countries after Rachel Carson's Silent Spring but persists in the environment for decades. White-rot fungi have demonstrated the ability to degrade DDT through their lignin-degrading enzyme systems.
-
-Heptachlor — an organochlorine insecticide once used for termite control and in agriculture, now banned but still found in contaminated soils.
-
-Lindane — the gamma isomer of hexachlorocyclohexane, used as an insecticide in agriculture and pharmaceutical treatments for lice and scabies. Fungal degradation has been documented.
-
-Mirex — an organochlorine insecticide used against fire ants and as a flame retardant, highly resistant to degradation but susceptible to certain fungal species.
-
-Atrazine — a widely used triazine herbicide, particularly in corn production. Oyster mushroom mycelium has shown capacity to break down atrazine in contaminated soils.
-
-Benomyl — a systemic fungicide used in agriculture, can be metabolized by competing fungal species.
-
-Pentachlorophenol (PCP) — a broad-spectrum biocide used as a wood preservative and herbicide, one of the most studied targets of mycoremediation.
-
-## Pentachlorophenol: A Case Study
-
-Pentachlorophenol has been a particular focus of mycoremediation research. The oyster mushroom (Pleurotus ostreatus) has been extensively studied for its ability to degrade PCP. In one series of studies, spent oyster [[gourmet-medicinal-mushroom-substrate-preparation]] performed better than many mushroom mycelia in removing the biocide, showing that oyster mushroom mycelium working in concert with microbes performed better than oyster mycelium without them.
-
-These researchers noted that Pleurotus harboring both bacteria and fungi functioned over a wide range of initial PCP concentrations and reached a higher degradative capacity in only three days (Chin et al. 1998). Eggen and Sasek (2002) also showed that spent oyster [[staycare-spent-mushroom-compost-bioremediation]] effectively reduces toxins in polluted soil. When a second treatment of spent oyster mushroom substrate was added 15 weeks after initial inoculation, anthracene levels dropped from 87 percent to 50 percent, and fluorene levels went from 99 percent to 87 percent.
-
-House wrecker fungi, including Meruliporia incrassata and Antrodia radiculosa, have also shown remarkable capacity for PCP degradation. In 2004, researchers at the U.S. Department of Agriculture published a patent application for a fungal degradation and bioremediation system for pentachlorophenol-treated wood. They created choice tests showing that most fungal cultures avoided preservative-saturated wood, except for aggressive strains of Meruliporia and Antrodia that showed no reluctance and colonized the wood.
-
-## Oyster Mushrooms and Petroleum Pesticide Complexes
-
-Oyster mushrooms (Pleurotus ostreatus) have proven particularly versatile in degrading complex mixtures of hydrocarbons and pesticides. In mesocosm tests mixing sawdust spawn with soil and unsterilized alder chips combined with bunker C oil, 97 percent of the oil's polynuclear aromatic hydrocarbons (PAHs) degraded after 8 weeks. Surprisingly, the overall effect was enhanced when mycelium was introduced to a microbially competitive environment of raw wood chips and soil.
-
-Native microbes that fortified the oyster mycelia seemed to have been activated by the competitive environment. This finding has important implications for pesticide remediation: introducing mycelium into biologically active soil may produce better results than working in sterilized laboratory conditions. Inadvertently, the bioremediator treating one toxin may also destroy others, including PCBs, that are present in the contaminated site.
-
-## Cost Advantages Over Conventional Methods
-
-The most appealing bioremediation method for destroying persistent organic pollutants is to decompose them on-site. Extracting, shipping, storing, and destroying toxins offsite is more expensive than on-site mycoremediation strategies, which could cost as little as $50 per ton of toxin-laden soil, compared to nearly $1,000 per ton for incineration. Other conventional methods — solvent extraction, solidification, indirect thermal treatment, soil venting, and soil washing — all cost significantly more.
-
-Several sequential applications may be the necessary norm to reduce toxins to acceptable levels. The method's low cost and scalability make it particularly suitable for agricultural sites where pesticide accumulation has occurred over decades of conventional farming.

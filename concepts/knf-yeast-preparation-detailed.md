@@ -88,28 +88,3 @@ The resynthetic function is particularly important: while bacteria and other mic
 Yeast occupies the final position in the KNF fermentation hierarchy:
 
 1. [[knf-indigenous-microorganism-culture]] -- [[beneficial-indigenous-microorganisms-bim]] initiate decomposition
-3. **Yeast** -- completes the process, converting sugars to alcohol
-
-This is why yeast is added last in preparations like [[knf-fermented-mixed-compost]]. The sequence matters: LAB creates the right pH, IMO breaks down complex materials, and yeast finishes the job by converting remaining sugars and resynthesizing nutrients.
-
-## Relationship to Other KNF Inputs
-
-- Used in [[knf-fermented-mixed-compost]] to complete fermentation
-- Supports [[lactic-acid-bacteria-knf]] -- the two work together in the fermentation sequence
-- Enhances the effectiveness of [[knf-indigenous-microorganism-culture]] application, yeast can restore soil biology within 1-2 growing seasons
-- Monitor plant response and adjust application frequency accordingly
-
-## Storage
-
-- Refrigerated: 1-15C, airtight, no direct sunlight
-- Maximum storage: 1 month (but use within 1 week for best results)
-- Do not freeze -- kills the yeast
-- Protect from light and temperature extremes
-- Like all KNF inputs, store in airtight containers
-
-## See Also
-
-- [[knf-brown-rice-vinegar]]
-- [[knf-lactic-acid-bacteria-serum]]
-- [[knf-indigenous-microorganism-culture]]
-- [[teaming-with-microbes-soil-minerals-cation-exchange]]

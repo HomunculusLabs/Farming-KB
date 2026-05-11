@@ -88,34 +88,3 @@ The flowers are highly attractive to pollinators, particularly native bees and b
 Bird species that consume the fruit include mockingbirds, bluebirds, robins, and cedar waxwings. The fruit ripens during the late summer dispersal period when many migratory bird species are actively foraging, making it an ecologically timed food resource.
 
 Mammalian wildlife also utilizes the species. White-tailed deer occasionally browse the foliage, though it is not a preferred food source. The dense, low-branching habit provides valuable cover for small mammals and ground-nesting birds.
-
-In ecological restoration projects, *C. virginicus* is valued as a native understory species that provides both floral resources for pollinators and fruit for birds. Its adaptability to various soil conditions makes it useful for stabilizing disturbed sites.
-
-## Landscape Use
-
-White fringetree is widely regarded as one of the finest native ornamental shrubs for temperate landscapes. Its combination of showy spring flowers, attractive form, good fall color, and wildlife value makes it a versatile garden subject.
-
-It is effective as a specimen plant, in mixed shrub borders, in native plant gardens, and in naturalistic woodland plantings. Its moderate size makes it suitable for residential landscapes where larger trees would be impractical.
-
-Fall foliage color is variable, ranging from clear yellow to golden-yellow, with some specimens developing orange or bronze tones. The autumn display, while not as dramatic as some maples, provides a pleasant seasonal transition.
-
-The bare winter silhouette has its own architectural appeal, with the spreading, horizontal branch pattern creating an attractive form against evergreen backgrounds or winter skies.
-
-The species is relatively slow-growing, which is an advantage in small landscapes where rapid growth would necessitate frequent pruning. Annual growth rates of 15–30 cm are typical under good conditions, with mature size reached after 15–20 years.
-
-The Royal Horticultural Society has awarded *Chionanthus virginicus* the Award of Garden Merit, confirming its value in cultivated landscapes. The award reflects the species' overall gardenworthiness, reliability, and ornamental quality.
-
-Landscape architects frequently specify the species for its four-season interest and low maintenance requirements. It pairs well with spring-blooming bulbs, summer-flowering perennials, and evergreen backdrops.
-
-## See Also
-
-- [[fraxinus-pennsylvanica]]
-- [[fraxinus-ornus]]
-- [[syringa-vulgaris]]
-- [[ligustrum-vulgare]]
-- [[olea-europaea]]
-- [[hamamelis-virginiana]]
-- [[cornus-florida]]
-- [[ilex-opaca]]
-- [[liquidambar-styraciflua]]
-- [[nyssa-sylvatica]]

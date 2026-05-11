@@ -88,34 +88,3 @@ Jarrold recommends adding Marmite (or equivalent yeast extract) to the straw sub
 ### Application
 
 Marmite is dissolved in warm water at approximately 1-2 tablespoons per litre of water. This solution is either mixed into the straw during hydration or added to the boiling water during pasteurisation. The B vitamins are water-soluble and heat-stable enough to survive the boiling process, so they remain available to the mycelium after inoculation.
-
-### Alternatives
-
-If Marmite is unavailable, other yeast extracts (Bovril, Vegemite, nutritional yeast flakes) serve the same purpose. Some growers use diluted malt extract or a small amount of coffee grounds as alternative supplements. The goal is to provide bioavailable B vitamins and trace minerals without adding excessive simple sugars, which would encourage bacterial contamination.
-
-## Inoculation and Colonisation
-
-After cooling, the pasteurised supplemented straw is inoculated with grain spawn at a rate of approximately 10-20% by weight. Higher spawn rates colonise faster and are more resistant to contamination but increase cost. The inoculated bag is sealed and kept at 20-25°C (68-77°F) in darkness or diffuse light. Full colonisation typically takes 14-21 days for oyster mushrooms on straw.
-
-## Yield Expectations
-
-A typical straw-based oyster mushroom grow using the boil-a-bag method produces approximately 100-200 grams of fresh mushrooms per kilogram of dry straw, achieved over 2-3 flushes (harvest cycles). The first flush is typically the largest, contributing 50-60% of total yield. Supplemented substrates with Marmite or similar additives may increase yields by 10-20% compared to unsupplemented straw, primarily by accelerating colonisation (reducing the window for contamination) and supporting more robust fruiting.
-
-## Safety Considerations
-
-Working with boiled bags involves handling hot water and steam—appropriate protection (oven gloves, eye protection) is essential. The sealed bags can trap steam pressure, so bags should never be completely airtight during boiling. After inoculation, bags should be inspected regularly for signs of contamination (unusual colours, sour smells). Contaminated bags should be disposed of carefully—some straw contaminants can produce allergenic spores. Marmite itself poses no biological hazard, but growers with yeast allergies should use alternative supplements.
-
-## See Also
-
-- boil a bag mushroom cultivation method overview — the complete technique
-- mushroom substrate pasteurisation vs sterilisation — when to use each method
-- vermiculite filter can air exchange mushroom cultivation — gas exchange during colonisation
-- oyster mushroom strain selection for straw substrates
-- common contaminants in straw based mushroom cultivation
-- mushroom growing supplies equipment checklist beginner
-- grain spawn preparation for mushroom cultivation
-
----
-
-*Last updated: 2026-05-10 via automated mining from Jarrold mushroom guide*
-*Mined by automated cron job — wiki entity mining workflow*

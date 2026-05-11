@@ -1,5 +1,5 @@
 ---
-title: Shamanic Recruitment Signs and Training Practices
+title: Shamanic Recruitment Signs And Training Practices
 tags: [shamanism, ethnobotany, anthropology, mckenna, training, initiation, altered-states]
 date: 2026-04-28
 updated: 2026-04-28
@@ -11,7 +11,7 @@ sources:
 
 In traditional societies where shamanism functions as a living institution,
 the identification and training of new shamans follows recognizable patterns.
-Terence McKenna, drawing on his extensive fieldwork among Amazonian and other
+[[terence-mckenna]], drawing on his extensive fieldwork among Amazonian and other
 indigenous communities, described the signs by which potential shamans are
 identified, the social dynamics of their training, and the techniques they
 are taught. His account emphasizes that shamanism is primarily a set of
@@ -33,7 +33,7 @@ soul.
 Epilepsy is another frequent marker of shamanic potential in many traditional
 cultures. The convulsive, trance-like states associated with epileptic
 seizures are interpreted as evidence of a heightened sensitivity to altered
-states of consciousness. In societies where epilepsy is understood through
+[[mckenna-food-gods-designer-states-of-consciousness]]. In societies where epilepsy is understood through
 this framework rather than as a purely medical condition, those who survive
 epileptic episodes without dying are brought to the attention of practicing
 shamans for evaluation and potential training.
@@ -44,7 +44,7 @@ that such individuals are considered excellent shamanic candidates. The logic
 is straightforward: anyone who has survived direct contact with the most
 powerful natural force has demonstrated a capacity to withstand energies that
 would destroy an ordinary person, suggesting a corresponding capacity to
-navigate the energies encountered in shamanic trance.
+navigate the energies encountered in [[shamanic-trance-cross-cultural-patterns]].
 
 ## The Element of Uniqueness or Oddness
 
@@ -82,54 +82,9 @@ One of McKenna's most distinctive contributions to the understanding of
 shamanism is his characterization of shamans as "the true phenomenologists
 of this world." By this he means that shamans are engaged in systematic,
 first-person investigation of consciousness and reality using the tools of
-altered states. They possess deep knowledge of plant chemistry, yet they
+[[harner-shamanic-journey-and-altered-states]]. They possess deep knowledge of plant chemistry, yet they
 describe the effects of psychoactive plants in terms of "spirits" rather
 than molecular interactions. McKenna argues that the word "spirit," as used
 by shamans, functions as what he calls a "technical gloss for a very
 complicated concept," analogous to the way a quantum physicist might use the
 term "charm" to describe a property of quarks.
-
-This reframing challenges the anthropological tendency to interpret shamanic
-language as primitive or pre-scientific. If shamans are using "spirit" as a
-terminological shorthand for complex phenomenological realities that they
-have investigated firsthand, then their discourse may be more precise than
-it appears to outsiders who lack the experiential context to decode the
-terminology.
-
-## Extraordinary Centeredness
-
-Among the distinguishing characteristics McKenna observed in practicing
-shamans across cultures is "an extraordinary centeredness." Despite their
-access to extraordinary states of consciousness and their encounters with
-beings and realities that would destabilize most people, shamans maintain
-a calm, grounded presence in ordinary life. This centeredness is not the
-absence of emotion or experience but rather a stable point of reference
-from which the shaman can navigate both ordinary and non-ordinary reality
-without losing coherence in either domain.
-
-This quality relates to what McKenna calls the "I/Thou" relationship with
-the entities encountered in altered states. The shaman does not kneel in
-genuflection before a god or spirit. Instead, they engage these beings on
-equal footing, asking "What can you show me?" This posture of engaged but
-discriminating openness is central to the shamanic approach and
-distinguishes it from both naive devotion and cynical dismissal.
-
-## Social Position of the Shaman
-
-Contrary to romanticized portrayals, McKenna emphasizes that in traditional
-societies, shamans occupy a peripheral rather than central position in daily
-social life. They sit at the headman's side during council meetings but
-return to their huts at the edge of the village afterward. They are
-normally forbidden from holding political power because they are considered
-sacred, and their role is inherently non-political. The community calls on
-them in moments of crisis, whether the crisis involves illness, death,
-psychological disturbance, interpersonal conflict, theft, or the need to
-predict weather. Between crises, the shaman lives quietly on the margins.
-
-## See Also
-
-- [[mckenna-shaman-centeredness-and-peripheral-social-role]]
-- [[hyperspace-logos-consciousness]]
-- [[tryptamine-logos]]
-- [[mckenna-stropharia-cattle-nomadic-symbiosis-human-gene-carrier]]
-- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]

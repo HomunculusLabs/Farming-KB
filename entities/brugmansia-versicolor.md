@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - /Users/t3rpz/wiki/raw/papers/plants-of-the-gods-schultes-hofmann.md
 ---
 
@@ -87,45 +88,3 @@ The rationale for adding *Brugmansia* to the San Pedro brew is complex and refle
 ## Cultivation in Temperate Climates
 
 *Brugmansia versicolor* can be grown successfully in temperate climates with proper overwintering techniques. The most common approach is container cultivation: the plant is grown in a large pot (minimum 30 to 50 liters) with a well-draining potting mix rich in organic matter. During the growing season (May to October in the Northern Hemisphere), the plant is kept outdoors in full sun to partial shade and watered and fertilized regularly.
-
-Before the first frost, the plant is moved indoors to a cool (5 to 15°C), bright location such as a greenhouse, sunroom, or unheated garage with a window.
-
-During the winter dormancy period, watering is drastically reduced, and the plant may lose most or all of its leaves.
-
-In spring, the plant is pruned back (removing dead and leggy growth), repotted if necessary, and gradually reintroduced to outdoor conditions after the danger of frost has passed.
-
-## Pests, Diseases, and Problems
-
-*Brugmansia versicolor* is susceptible to a number of [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in cultivation.
-
-Common insect pests include whiteflies, aphids, spider mites, mealybugs, and thrips, all of which can cause significant damage if left uncontrolled.
-
-The two-spotted spider mite (Tetranychus urticae) is particularly problematic, as infestations can develop rapidly in hot, dry conditions.
-
-Fungal diseases include root rot (caused by Phytophthora and Pythium species), [[cervantes-powdery-mildew-prevention-treatment]], and botrytis blight, particularly in humid conditions or when plants are overwatered.
-
-[[cervantes-viral-diseases-cannabis]], particularly Brugmansia mosaic virus and tobacco mosaic virus, can cause leaf mottling, distortion, and stunting.
-
-Regular inspection, good air circulation, proper watering, and the use of biological or chemical controls as needed are the best approaches to maintaining plant health.
-
-## Notable Collections and Botanical Gardens
-
-*Brugmansia versicolor* is held in the living collections of many major botanical gardens worldwide.
-
-Notable collections include the Royal Botanic Gardens, Kew (UK), the Missouri Botanical Garden (USA), the Royal Botanic Garden Sydney (Australia), and the Jardín Botánico de Quito (Ecuador).
-
-The species is a highlight of the tropical and subtropical collections at these institutions, where its spectacular flowers attract significant public attention.
-
-In Ecuador, the species can be observed in its native habitat in protected areas and private reserves in the western Andean foothills and coastal lowlands.
-
-## Legal Status
-
-*Brugmansia versicolor* is not specifically listed as a controlled substance in most countries. However, its tropane alkaloid constituents (scopolamine, [[atropine]]/hyoscyamine) are regulated as prescription drugs in many jurisdictions. In the United States, several states (including Louisiana and Florida) have enacted restrictions on the cultivation or sale of *Brugmansia* species. The plant is not listed under the UN Convention on Psychotropic Substances. In Australia, all *Brugmansia* species are classified as Schedule 1 (prohibited) plants in some states, requiring a permit for possession or cultivation.
-
-## See Also
-
-- [[iris-versicolor]]
-
-- [[brugmansia-aurea]]
-- [[datura-stramonium]]
-- [[trichocereus-pachanoi]]

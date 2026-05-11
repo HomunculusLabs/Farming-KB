@@ -20,7 +20,7 @@ experience.
 
 ## Botanical Profile
 
-Psychotria viridis is a shrub belonging to the Rubiaceae (Madder
+[[chacruna-psychotria-viridis]] is a shrub belonging to the Rubiaceae (Madder
 Family), a large plant family with some 1200 to 1400 species in the
 genus Psychotria alone. The plant is native to Amazonia, ranging from
 Colombia south through Peru and western Brazil to Bolivia. It thrives in
@@ -41,7 +41,7 @@ orally it is normally inactive because the enzyme monoamine oxidase
 (MAO) in the gut breaks it down before it can cross the blood-brain
 barrier.
 
-This is where the synergy with Banisteriopsis caapi becomes crucial.
+This is where the synergy with [[ayahuasca-and-banisteriopsis-caapi]] becomes crucial.
 The harmaline in the ayahuasca vine acts as an MAO inhibitor, reducing
 the body's production and distribution of monoamine oxidase. Only with
 this pharmacological combination can the DMT from Chacruna leaves reach
@@ -87,18 +87,3 @@ mixture. These churches have expanded to Europe, with congregations in
 Germany and the Netherlands.
 
 ## Related Psychotria Species
-
-Other Psychotria species also contain DMT and are used as ayahuasca
-admixtures. Psychotria poeppigiana, for example, has been documented
-as a DMT-containing alternative. The genus Psychotria represents one of
-the largest genera of flowering plants, and many species in the Amazon
-likely remain uninvestigated for their psychoactive properties.
-
-## See Also
-
-- [[schultes-ayahuasca-magic-drink-amazon]] — the primary ayahuasca
-  vine and its ceremonial use
-- [[schultes-syrian-rue-seeds-civilization]] — [[mckenna-food-gods-peganum-harmala-soma]], source
-  of harmine and harmaline alkaloids
-- [[schultes-morning-glory-ipomoea-seeds]] — another plant containing
-  tryptamine-related compounds

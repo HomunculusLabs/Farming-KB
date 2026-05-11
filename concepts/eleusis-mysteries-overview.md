@@ -1,5 +1,5 @@
 ---
-title: mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries Overview
+title: Eleusis Mysteries Overview
 created: 2026-04-26
 updated: 2026-04-24
 sources: The the-road-to-eleusis-wasson-hofmann-ruck (Wasson, Hofmann, Ruck)
@@ -9,8 +9,8 @@ tags: [reference]
 
 # Eleusinian Mysteries
 
-The Eleusinian Mysteries were the most revered religious initiation rites of
-the ancient Greek world, celebrated annually for nearly two millennia at the
+[[plutarch-and-cicero-on-the-eleusinian-mysteries]] were the most revered religious initiation rites of
+the [[ancient-greek-mystery-cults-comparison]] world, celebrated annually for nearly two millennia at the
 sanctuary of [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]. Initiates lived through the night in the telesterion of Eleusis and
 emerged profoundly transformed. Sophocles spoke for the initiates when he said:
 
@@ -88,23 +88,3 @@ useless.
 ## The End of the Mysteries
 
 The annual celebration lasted for upwards of a millennium and a half, until
-the pagan religion finally succumbed to the intense hatred and rivalry of a
-newer sect, the recently legitimized Christians in the fourth century CE. In
-392 CE, Emperor Theodosius issued edicts prohibiting pagan rites, and the
-telesterion at Eleusis was destroyed. With it vanished a religious tradition
-that had shaped Western civilization's deepest aspirations for nearly two
-thousand years.
-
-The central claim of Wasson, Hofmann, and Ruck is that the secret of
-Eleusis lay in a potion containing water-soluble hallucinogenic alkaloids
-derived from ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) growing on barley cultivated in the
-adjacent Rarian plain. This thesis is elaborated in their book *The Road to
-Eleusis* (1978), which brought interdisciplinary collaboration between
-ethnomycology, chemistry, and classical scholarship to bear on the oldest
-unsolved mystery of Western civilization.
-
-## See Also
-
-- [[albert-hofmann-eleusinian-potion-analysis]]
-- [[the-road-to-eleusis-wasson-hofmann-ruck]]
-- [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]

@@ -1,10 +1,11 @@
 ---
-title: [[williams-pdc-trees]] and Forests
+title: [[williams-pdc-trees]] And Forests
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
+tags: [[permaculture]], education, design]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # PDC Trees and Forests
@@ -87,31 +88,3 @@ above, we get a warm down-draft." Trees store heat as 86% water heat
 storage and release it slowly at night.
 ### Negative Ions
 "The amount of negative ions increases sharply in the air stream" moving
-through forests. "Negative ions will take cigarette smoke out of the air
-very efficiently."
-## The Critical Statement
-"By the removal of ridge forests alone, we can produce deserts in any
-climate. By the removal of forests alone, we can remove soils."
-"I am certain that the removal of the forest has been the main cause of
-the collapse of nations."
-"So maybe we had better start to prize the forests a bit and to discover,
-not how to live without them, but how to live with them."
-## Forest Succession Patterns
-Mollison describes natural succession as a model for designed food
-forests. Pioneer species prepare the soil and [[query-how-do-i-create-microclimates-in-my-garden]].
-Intermediate species follow, then climax canopy trees. In permaculture,
-we accelerate this by planting all layers simultaneously — [[permaculture-plants-food-forest-ground-covers-bamboos]],
-shrubs, small trees, and canopy — using pioneers as nurse crops.
-## Forest Edge Effects
-The edge of a forest is the most productive zone. Mollison advocates
-designing forests with maximum edge — using keyhole patterns, crenellated
-boundaries, and radiating access paths. The interface between two
-ecosystems is always more productive than either system alone.
-## Source
-- [[bill-mollison]], Permaculture Design Course, 1981, Pamphlet X
-## Related
-- [[forest-garden-design-principles]]
-- [[food-forest-layers-and-species]]
-- [[permaculture-food-forests-design-course]]
-- mollison-native-seed-forage-systems-and-arid-species-lists
-- gaias-garden-food-forest-layers

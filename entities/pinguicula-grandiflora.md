@@ -88,32 +88,3 @@ Within the temperate Pinguicula group, *P. grandiflora* is most closely related 
 ### Prey Spectrum
 
 Studies of *P. grandiflora* prey capture have identified a diverse assemblage of small flying insects as the primary food source. Diptera (flies, midges, and [[query-how-to-control-fungus-gnats-organically]]) account for the majority of captured prey by both number and biomass.
-
-Hymenoptera (small wasps and winged ants) and small Lepidoptera (moths) are also regularly captured. Pollen grains found on trapped insects suggest that some prey individuals are the plant's own pollinators, though the spatial separation of flowers and traps reduces self-pollination risk.
-
-## Cultivation
-
-*Pinguicula grandiflora* is widely cultivated and considered one of the easiest temperate butterworts to grow. It requires a peat-based growing medium kept consistently moist with mineral-free water.
-
-Winter dormancy is essential for long-term plant health. Plants should experience cold temperatures (0–5°C) for 2–4 months, during which the hibernaculum forms. Without dormancy, plants weaken and may die after 2–3 growing seasons.
-
-Propagation is by seed, leaf cuttings, or natural division of mature rosettes. Seeds require cold stratification for reliable germination. The species can self-pollinate, producing viable seed even in cultivation without pollinator access.
-
-Leaf pullings taken in early summer readily produce plantlets at the base of the severed leaf. This method is the preferred propagation technique in cultivation, as it produces mature, flowering-size plants within one growing season.
-
-## See Also
-
-- [[pinguicula-primuliflora]]
-- [[coreopsis-grandiflora]]
-- [[calamintha-grandiflora]]
-
-- [[drosera-rotundifolia]]
-- [[utricularia-vulgaris]]
-- [[dionaea-muscipula]]
-- [[aldrovanda-vesiculosa]]
-- darlingtonia californica
-- [[sarracenia-leucophylla]]
-- [[nepenthes-rajah]]
-- [[nepenthes-mirabilis]]
-
-- [[pinguicula-macroceras]]

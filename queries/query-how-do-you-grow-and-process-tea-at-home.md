@@ -69,7 +69,7 @@ Three main color varieties are recognized, each with distinct phytochemical prof
 
 ### Nutritional Profile
 
-Dried maca root is approximately 60–75% carbohydrate, 10–14% protein, and 8–9% fiber. It contains significant amounts of calcium, potassium, iron, zinc, magnesium, and B vitamins. The unique bioactive compounds include macamides (alkylamides), macaenes, and glucosinolates. These compounds are concentrated during the drying process, making properly dried and stored maca more potent than fresh roots. For broader context on [[camellia-sinensis-entity]] and other traditional stimulant plants, see [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]].
+Dried maca root is approximately 60–75% carbohydrate, 10–14% protein, and 8–9% fiber. It contains significant amounts of calcium, potassium, iron, zinc, magnesium, and B vitamins. The unique bioactive compounds include macamides (alkylamides), macaenes, and glucosinolates. These compounds are concentrated during the drying process, making properly dried and stored maca more potent than fresh roots. For broader context on [[camellia-sinensis]] and other traditional stimulant plants, see [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]].
 
 ### Seed Saving and Propagation
 

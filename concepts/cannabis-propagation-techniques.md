@@ -88,11 +88,3 @@ Intergeneric grafts between Cannabis and Humulus (hops) have been studied since 
 **Trellising:** Plants are trained along wire frames for maximum light exposure. East-west orientation is ideal. Floral clusters grow upward from the wire for maximum sun exposure and weather resistance.
 
 **Limbing:** Small, shaded lower limbs are removed so the plant can devote more energy to the top parts with most sun exposure. Removing entire limbs causes less metabolic imbalance than removing only flowers, leaves, or meristems.
-
-**Leafing:** Despite common beliefs, removing large shade leaves reduces photosynthetic capacity and may interfere with metabolic balance. Leaves turn chlorotic (yellow) and fall naturally during flowering as the plant translocates molecular components to growing floral tissue.
-
-## Related Topics
-- [[cannabis-sinsemilla-life-cycle]]
-- [[cannabis-cloning-and-mother-plants]]
-- [[cannabis-seed-banks-and-genetics]]
-- [[cannabis-propagation-sexual-vs-asexual-clarke]]

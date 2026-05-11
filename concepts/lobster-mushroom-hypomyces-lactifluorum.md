@@ -1,5 +1,5 @@
 ---
-title: Lobster lobster mushroom hypomyces lactifluorum lactifluorum
+title: Lobster Mushroom Hypomyces Lactifluorum
 created: 2026-04-28
 tags: [mushroom-identification, parasitic-fungi, Hypomyces, mycology]
 date: 2026-04-25
@@ -23,7 +23,7 @@ that develops after the parasitization.
 Hypomyces lactifluorum is an ascomycete that infects gilled
 mushrooms, primarily those in the Russulaceae family. The fungus
 belongs to the order Hypocreales and is one of the most conspicuous
-mycoparasites in forest ecosystems. When it infects a host mushroom,
+mycoparasites in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. When it infects a host mushroom,
 it completely overgrows the original fruiting body, producing its
 own bright orange to reddish-orange perithecial surface studded with
 tiny pore-like openings from which spores are released.
@@ -32,7 +32,7 @@ tiny pore-like openings from which spores are released.
 
 The primary hosts of H. lactifluorum are Russula and Lactarius
 species, both members of the Russulaceae. Common hosts include
-Russula brevipes (short-stemmed Russula) and Lactarius piperatus.
+[[russula-brevipes]] (short-stemmed Russula) and [[lactarius-piperatus]].
 Identification of the original host species can be difficult once
 the parasite has fully colonized the mushroom, but careful
 examination of the gill remnants and stem cross-section may reveal
@@ -65,7 +65,7 @@ foods with invasive hyphae, feed by absorbing nutrients, reproduce
 by spore formation, and show a marked propensity for attacking
 other organisms. Obvious parasites are encountered among all
 fungal groups, and many apparently innocuous species will attack
-living organisms when opportunities present themselves.
+[[savory-living-organisms-as-tools]] when opportunities present themselves.
 
 ## Mycoparasite Diversity
 
@@ -83,62 +83,8 @@ Beyond Hypomyces, several other genera of mycoparasites are known:
 
 ## Parasitic Fungi on Cultivated Mushrooms
 
-Farmed mushrooms are also at risk from mycoparasitic fungi. The
+Farmed mushrooms are also at risk from [[biodiversity-fungicolous-mycoparasitic-fungi]]. The
 humid conditions needed for [[accessible-mushroom-cultivation-for-disabilities]] encourage conidial
 fungi that cause dry and wet bubble, shaggy stipe, and cobweb
 disease. Symptoms include bubbling of dead tissue, malformation of
 cap and stem, envelopment in parasitic mycelium, exudation of
-colored drops of fluid, and foul smells. Control is challenging
-because few chemical agents poison a fungal parasite without
-damaging the fungal host.
-
-Sterilized casings and careful control of [[greg-green-temperature-and-humidity-control]]
-in growing rooms help reduce disease outbreaks. The deliberate
-introduction of Trichoderma as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent is also
-a successful approach against these parasitic threats.
-
-## Edibility and Culinary Use
-
-Despite being a parasitized mushroom, the lobster mushroom is
-widely considered edible and is sought after by foragers. The
-parasitic fungus imparts a firmer texture and a distinctive flavor
-reminiscent of seafood, which makes it popular in cooking. However,
-foragers should exercise caution: if the host species cannot be
-identified, and it could be a toxic Russula or Lactarius, there
-is a theoretical risk. In practice, H. lactifluorum appears to
-neutralize the toxins of its host species, and no confirmed
-poisonings from properly identified lobster mushrooms have been
-recorded.
-
-## Ecological Role
-
-Mycoparasites like H. lactifluorum play important ecological roles
-in forest ecosystems. By parasitizing common decomposer mushrooms,
-they regulate fungal populations and contribute to nutrient
-cycling. The relationship between parasite and host represents
-one of the many complex interactions in the fungal kingdom that
-demonstrates how fungi "have little fleas upon their backs that
-bite them," some of which are their own relatives.
-
-## Season and Habitat
-
-Lobster mushrooms are typically found in late summer through fall
-in coniferous and mixed forests across [[psilocybin-north-america-pacific-northwest]] and Europe.
-They are most commonly associated with the same habitats as their
-Russula and Lactarius hosts: forest floors with adequate moisture
-and organic matter. The parasite is relatively common in areas
-where its hosts are abundant.
-
-## See Also
-
-- oyster-mushroom-viral-diseases
-- mushroom-identification guides
-- parasitic fungi in ecosystems
-- Russula species
-- Lactarius species
-- mycology fundamentals
-- mycoparasitism mechanisms
-- [[hypomyces-aurantius]]
-- [[hypomyces-lactifluorum]]
-- [[russula-brevipes]]
-- [[mushroom-cultivation]]

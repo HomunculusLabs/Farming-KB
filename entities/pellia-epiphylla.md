@@ -11,14 +11,14 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
-  - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae of North America." Columbia University Press.
+  - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae [[berry-growing]]." Columbia University Press.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
   - Söderström, L. et al. (2016). "World checklist of hornworts and liverworts." PhytoKeys 59: 1-8.
 ---
 
 ## Overview
 
-**Pellia epiphylla** is a thalloid liverwort in the family Pelliaceae, order Pelliales. It is one of the most widespread and commonly encountered liverworts in temperate regions of the Northern Hemisphere.
+**Pellia epiphylla** is a thalloid liverwort in the family Pelliaceae, order Pelliales. It is one of the most widespread and commonly encountered liverworts in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 The species forms extensive, dark green to purplish-green mats on damp soil, rocks, and decaying wood along stream banks and in moist woodlands. Its thallus is relatively large for a simple thalloid liverwort.
 
@@ -46,7 +46,7 @@ Male and female reproductive structures are borne on the same thallus. The arche
 
 ## Distribution and Habitat
 
-Pellia epiphylla has a circumboreal distribution across Europe, Asia, and North America. It is widespread throughout the British Isles, Scandinavia, central Europe, and eastern North America.
+Pellia epiphylla has a circumboreal distribution across Europe, Asia, and North America. It is widespread throughout the British Isles, Scandinavia, central Europe, and [[polypore-fungi-eastern-north-america]].
 
 In North America, it ranges from Newfoundland and Quebec west to Minnesota and south along the Appalachians to Georgia. It is absent from the central plains and arid western regions.
 
@@ -58,11 +58,11 @@ It tolerates moderate shade but is less common in deeply shaded environments. Op
 
 The species is relatively intolerant of desiccation compared to many acrocarpous mosses. Prolonged dry periods cause significant thallus dieback.
 
-Recovery from desiccation is slower than in many moss species, often requiring 12–24 hours of continuous moisture to resume normal metabolic activity.
+Recovery from desiccation is slower than in many moss species, often requiring 12–24 hours of continuous moisture to resume normal [[arbuscule-isolation-metabolic-activity-assays]].
 
 ## Reproduction and Life Cycle
 
-Sexual reproduction in Pellia epiphylla is androecious, with antheridia and archegonia produced on the same thallus but in separate clusters. Antheridia develop on short stalks along the midrib.
+[[basidiomycete-mating-systems-sexual-reproduction]] in Pellia epiphylla is androecious, with antheridia and archegonia produced on the same thallus but in separate clusters. Antheridia develop on short stalks along the midrib.
 
 Fertilization requires a continuous water film for sperm transport to the archegonia. Peak sexual reproduction occurs in spring and autumn when moisture levels are highest.
 
@@ -86,35 +86,4 @@ The species provides habitat for diverse microfauna including tardigrades, nemat
 
 As a pioneer on disturbed moist substrates, Pellia facilitates succession by creating conditions suitable for colonization by mosses and later vascular plants.
 
-The thallus accumulates atmospheric deposition and can serve as a passive bioindicator of heavy metal contamination in forest ecosystems near industrial areas.
-
-Concentrations of lead, cadmium, and zinc in Pellia thalli correlate with atmospheric deposition rates, making the species useful for long-term environmental monitoring.
-
-Its preference for base-rich substrates makes it a useful indicator of calcareous or otherwise mineral-rich ground conditions in botanical surveys.
-
-## Uses and Significance
-
-Pellia epiphylla has been used in anatomical and developmental studies of liverwort tissues. Its simple thallus structure makes it accessible for teaching basic bryophyte morphology.
-
-The species has been investigated for its ability to accumulate heavy metals, with potential applications in bryophyte-based biomonitoring of air and soil quality.
-
-It serves as a host for various fungal endophytes and mycorrhiza-like associations, contributing to research on bryophyte-fungal symbioses in terrestrial ecosystems.
-
-In ecological research, Pellia is used as a model organism for studying thalloid liverwort responses to environmental stressors including desiccation, UV radiation, and nitrogen deposition.
-
-The species has limited direct economic importance but contributes to the biodiversity and ecological function of temperate forest and riparian ecosystems worldwide.
-
-Despite its ecological significance, Pellia epiphylla is declining in parts of its range due to habitat loss, drainage of wet woodlands, and eutrophication of riparian zones.
-
-## See Also
-
-- [[marchantia-polymorpha]]
-- [[lunularia-cruciata]]
-- [[jungermannia-subulata]]
-- [[barbilophozia-barbata]]
-- [[sphagnum-palustre]]
-- [[hypnum-cupressiforme]]
-- [[bryum-argenteum]]
-- [[funaria-hygrometrica]]
-- [[mnium-hornum]]
-- [[fontinalis-antipyretica]]
+The thallus accumulates atmospheric deposition and can serve as a passive bioindicator of heavy [[gadd-fungal-biosorption-metal-contamination-remediation]] in forest ecosystems near industrial areas.

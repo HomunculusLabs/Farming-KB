@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 # Growing by Chunking: Implementing Permaculture Gradually
@@ -87,35 +88,3 @@ Each chunk should build confidence and skills. Don't take on complex projects (l
 
 ### Work with What You Have
 Use available materials, existing plants, and current resources. Don't wait for the perfect conditions -- start with what's available.
-
-### Learn by Doing
-Reading about permaculture is not permaculture. Hands-on experience teaches more than any book. Make mistakes, observe the results, and adjust.
-
-### Connect Chunks
-Design each chunk so it connects to future chunks. The first garden bed's compost feeds the fruit tree that shades the chicken run. Everything is interconnected.
-
-## The Snowball Effect
-
-Growing by chunking has a snowball effect:
-- Each chunk reduces work for future chunks (compost reduces fertilizer needs; mulch reduces weeding; chickens reduce pest pressure)
-- Each chunk builds skills that make the next chunk easier
-- Each chunk provides harvests that motivate the next
-- Each chunk attracts allies (neighbors, insects, birds) that help the system grow
-
-After 3-5 years of consistent chunking, most gardeners are amazed at how productive and self-maintaining their property has become.
-
-## Common Mistakes
-
-1. **Starting too big:** One or two beds is enough to begin
-2. **Over-planning, under-doing:** Don't spend all your time planning; start building
-3. **Abandoning after setbacks:** Failures are data; learn and adjust
-4. **Working alone:** Find a community of fellow practitioners
-5. **Waiting for perfect conditions:** Start now with what you have
-
-## See Also
-
-- growing by chunking guide
-- [[ecological-garden-design]]
-- [[permaculture-garden-design-process]]
-- [[growing-vegetables-with-less-fertilizer]]
-- [[soil-building-ecological-garden]]

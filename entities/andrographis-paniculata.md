@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Calabrese, C. et al. (2000). "Effects of a standardized Andrographis paniculata extract on upper respiratory infection symptoms." Journal of Alternative and Complementary Medicine, 6(3), 217-223.
-  - Chang, H.M. & But, P.P.H. (1986). Pharmacology and Applications of Chinese Materia Medica, Vol. 1. World Scientific Publishing.
+  - Chang, H.M. & But, P.P.H. (1986). Pharmacology and Applications of Chinese [[herbal-materia-medica]], Vol. 1. World Scientific Publishing.
   - Jarukamjorn, K. & Nemoto, N. (2008). "Pharmacological aspects of Andrographis paniculata on health and its major diterpenoid constituent andrographolide." Journal of Health Science, 54(4), 370-381.
   - Subramanian, P. et al. (2008). "Andrographolide: a potential cancer therapeutic agent from Andrographis paniculata." Current Medicinal Chemistry, 15(24), 2530-2539.
   - Puri, A. et al. (1993). "Immunostimulant activity of andrographolide." International Journal of Immunopharmacology, 15(1), 1-7.
@@ -78,69 +78,12 @@ decahydronaphthalen-1-yl]ethylidene]dihydrofuran-2(3H)-one.
 Additional diterpenoids include neoandrographolide (0.5–1.2%), 14-deoxy-
 andrographolide, 14-deoxy-11,12-didehydroandrographolide, and andrographanin.
 
-Flavonoids present include apigenin-7,4'-dimethyl ether, luteolin, and
+Flavonoids present include apigenin-7,4'-dimethyl ether, [[luteolin]], and
 oroxylin A. The plant also contains polyphenols including chlorogenic acid
 and caffeic acid derivatives.
 
 Alkaloid content is minimal; the bitterness is predominantly diterpenoid
 in origin. Total andrographolide content varies with harvest stage, peaking
-during early flowering.
+during [[equatorial-photoperiod-early-flowering]].
 
 ## Pharmacology
-
-Immunomodulatory activity is the most clinically validated effect. Andrographolide
-stimulates both innate and adaptive immune responses, enhancing phagocytosis,
-antibody production, and lymphocyte proliferation.
-
-Anti-inflammatory effects are mediated through inhibition of NF-κB signaling,
-COX-2 suppression, and reduction of pro-inflammatory cytokines including TNF-α,
-IL-1β, and IL-6. These mechanisms underpin efficacy in upper respiratory
-infections.
-
-Hepatoprotective activity has been demonstrated in models of carbon tetrachloride
-and paracetamol-induced hepatotoxicity. Andrographolide reduces elevated serum
-transaminases and improves hepatic histopathology.
-
-Anticancer properties are an active area of research. Andrographolide induces
-cell cycle arrest at G0/G1 phase and apoptosis in multiple [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines
-including breast, prostate, and colorectal carcinoma, with relatively low
-toxicity to normal cells.
-
-Antidiabetic effects include reduction of fasting blood glucose and improved
-glucose tolerance in streptozotocin-induced diabetic models, mediated through
-increased insulin secretion and enhanced peripheral glucose uptake.
-
-## Traditional and Clinical Use
-
-In Ayurveda, the whole plant (known as Bhunimba or Kalmegh) is used as a bitter
-tonic for liver disorders, jaundice, and digestive complaints. It is classified
-as a tikta (bitter) and katu (pungent) rasa herb.
-
-In traditional Chinese medicine, the herb is called Chuan Xin Lian and is
-prescribed for clearing heat, resolving toxicity, and treating sore throats
-and respiratory infections.
-
-Meta-analyses of randomized controlled trials have confirmed superiority of
-standardized A. paniculata extract over placebo for reducing symptoms and
-duration of uncomplicated upper respiratory tract infections. Effect sizes
-are comparable to standard analgesic treatment.
-
-## Cultivation
-
-Propagation is primarily by seed, sown in nursery beds and transplanted at
-4–6 weeks. Seed rate is approximately 2–3 kg/ha. Germination occurs within
-7–10 days under warm, moist conditions.
-
-Spacing of 30 × 30 cm is standard, yielding approximately 100,000 plants
-per hectare. Harvesting occurs at full flowering (90–110 days from sowing),
-when andrographolide content peaks. Whole aerial parts are cut 10–15 cm above
-ground level to allow regrowth for a second harvest.
-
-Average dry herb yield is 2,000–3,500 kg/ha. Post-harvest processing involves
-shade drying to preserve andrographolide content, followed by milling.
-
-## See Also
-
-- [[koelreuteria-paniculata]]
-
-[[phyllanthus-niruri]] · tinospora-cordifolia · [[glycyrrhiza-glabra]] · [[azadirachta-indica]] · [[justicia-adhatoda]]

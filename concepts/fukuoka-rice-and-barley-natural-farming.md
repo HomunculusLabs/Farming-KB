@@ -76,3 +76,13 @@ Fukuoka reports yields of approximately 590 kg (1,300 pounds) of winter grain an
 - [[fukuoka-one-straw-revolution-philosophy]]
 - [[natural-farming-seed-balls]]
 - [[cover-crop-species-comparison]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

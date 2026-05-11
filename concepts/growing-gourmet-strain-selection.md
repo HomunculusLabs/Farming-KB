@@ -5,6 +5,7 @@ updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, strain-selection, genetics, senescence, stock-culture, mycelium, evaluation]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - label: "Growing Gourmet and Medicinal Mushrooms"
     author: Paul Stamets
     year: 1993

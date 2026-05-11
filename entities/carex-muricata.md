@@ -53,7 +53,7 @@ Viable seed production is moderate, and the species also spreads vegetatively th
 
 Carex muricata is widely distributed across Europe, from the British Isles and Scandinavia south to the Mediterranean basin.
 
-Its range extends eastward through central and eastern Europe into western Russia and the Caucasus region. It has been introduced in parts of North America.
+Its range extends eastward through central and eastern Europe into western Russia and the Caucasus region. It has been introduced in parts [[berry-growing]].
 
 The species occurs in a variety of moist to wet habitats. These include damp meadows, marsh margins, wet woodland rides, stream banks, and damp ditches.
 
@@ -67,13 +67,13 @@ In the British Isles, it is widespread but local, with a strong preference for s
 
 Carex muricata is a component of wet meadow and fen-margin plant communities across its range. It is frequently associated with other mesotrophic sedges and grasses.
 
-Common associates include Carex hirta, Carex nigra, Deschampsia caespitosa, and Juncus effusus. In fen communities, it may grow alongside Carex acutiformis and Phragmites australis.
+Common associates include Carex hirta, Carex nigra, [[deschampsia-caespitosa]], and Juncus effusus. In fen communities, it may grow alongside Carex acutiformis and [[phragmites-australis]].
 
 The tussocks provide shelter and oviposition sites for various invertebrates. Several species of leafhoppers and sedge-feeding moths use Carex species as larval hosts.
 
 Seeds of Carex muricata are consumed by granivorous birds including finches and buntings. The dense root system helps stabilize soil along water margins.
 
-The species plays a role in nutrient cycling in wet grassland ecosystems. Its decomposing leaf litter contributes organic matter to the upper soil profile.
+The species plays a role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] in wet [[biodiversity-fungi-grassland-ecosystems]]. Its decomposing leaf litter contributes organic matter to the upper soil profile.
 
 In pastoral systems, Carex muricata is generally considered of low forage value. Cattle and sheep will graze young growth but typically avoid mature tussocks.
 
@@ -85,37 +85,6 @@ Its phenology is adapted to seasonal wetness, with active growth concentrated in
 
 Carex muricata is listed as Least Concern on the IUCN Red List. It remains widespread across its European range despite local declines.
 
-The primary threat is agricultural intensification, including drainage of wet meadows and conversion to arable land. Fertilizer application favors competitive grasses over sedges.
+The primary threat is agricultural intensification, including drainage of wet meadows and conversion to arable land. [[cervantes-fertilizer-application-strain-feeding]] favors competitive grasses over sedges.
 
 Abandonment of traditional hay meadow management has also reduced suitable habitat. Without annual cutting, more competitive tall herbs and grasses outcompete Carex muricata.
-
-Hydrological alteration of wetland margins, including canalization of streams and lowering of water tables, further degrades habitat quality. The species requires consistent seasonal moisture to maintain viable populations.
-
-In several European countries, the species is included in national red lists for vascular plants as declining or near-threatened at the regional level. Conservation efforts focus on maintaining wet meadow management regimes.
-
-Rewetting schemes and restoration of floodplain meadows have benefited the species in parts of its range. Protected site designations such as the EU Habitats Directive have helped safeguard key populations.
-
-## Related Species
-
-Carex muricata is part of a taxonomically complex aggregate that includes several closely related taxa. The aggregate was historically treated as a single variable species.
-
-Key segregates within the C. muricata aggregate include Carex pairae (a more southern species with shorter utricles) and Carex divulsa (now often treated as distinct).
-
-Taxonomic resolution of the aggregate has improved with molecular phylogenetic studies, though field identification remains challenging. Intermediate forms occur in zones of sympatry.
-
-Carex muricata subsp. muricata is the typical lowland form. Subspecies lamprocarpa has smoother utricles and occurs in more acidic habitats.
-
-The species is closely related to Carex contigua and Carex acutiformis within section Acutae. It can be distinguished from Carex acutiformis by its smaller, more loosely flowered spikes and roughened utricles.
-
-## See Also
-
-- [[carex-stricta]]
-- [[carex-nigra]]
-- [[carex-hirta]]
-- [[carex-flacca]]
-- [[carex-paniculata]]
-- [[carex-rostrata]]
-- [[juncus-effusus]]
-- [[phragmites-australis]]
-- [[schoenoplectus-lacustris]]
-- [[eleocharis-palustris]]

@@ -32,7 +32,7 @@ Masanobu Fukuoka's "do-nothing" method, detailed in [[desertification-and-vegeta
 - [[query-jadam-vs-korean-natural-farming]] — how JADAM relates to [[query-jadam-vs-korean-natural-farming]] Farming
 - [[cover-cropping-guide]] — selecting and managing [[gaias-garden-cover-crops-soil-building]] across systems
 - [[ultra-low-cost-farming-overview]] — economic analysis of minimal-input agriculture strategies
-- [[soil-food-web]] — the [[fukuoka-microbial-ecology-decomposition]] both methods ultimately depend on
+- [[soil-foodweb]] — the [[fukuoka-microbial-ecology-decomposition]] both methods ultimately depend on
 ## Practical Applications
 
 Fukuoka Natural Farming vs JADAM Farming has a range of practical applications that make it relevant to

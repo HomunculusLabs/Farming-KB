@@ -87,30 +87,3 @@ antioxidant enzymes) while downregulating decomposition-related
 enzymes under drought conditions. These expression shifts may
 forecast changes in ecosystem-level carbon and [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
 under future climate scenarios.
-
-## Metatranscriptomics in Soil Food Webs
-
-Fungal transcriptomic signatures can reveal [[dighton-fungal-trophic-interactions-soil-food-webs]]
-within soil food webs. Expression of chitinase and protease genes
-suggests fungal predation or parasitism on other microorganisms,
-while upregulation of antibacterial compounds indicates competitive
-interactions with bacteria. Metatranscriptomic profiling of
-mycophagous soil invertebrate gut contents has been used to trace
-fungal carbon flow through detrital food chains.
-
-## Bioinformatic Challenges and Resources
-
-Key challenges include the high sequence divergence among fungal taxa,
-the abundance of orphan genes without homology to known sequences, and
-the difficulty of assembling full-length transcripts from short-read
-data. Emerging long-read sequencing platforms (PacBio, Oxford
-Nanopore) are improving transcript assembly. Reference databases for
-functional annotation include FungiDB, CAZy for carbohydrate-active
-enzymes, and MEROPS for proteases.
-
-## See Also
-
-- [[fungal-molecular-identification]]
-- [[fungal-dna-extraction-methods]]
-- [[mycoremediation-enzymology]]
-- [[fungal-community-assembly]]

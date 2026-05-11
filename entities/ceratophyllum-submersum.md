@@ -22,7 +22,7 @@ sources:
 
 Ceratophyllum submersum is a submerged aquatic plant in the family Ceratophyllaceae, commonly known as soft hornwort or tropical hornwort. It is a rootless, free-floating perennial that grows entirely beneath the water surface.
 
-The species is widely distributed across tropical and subtropical regions of the world. It is closely related to the more commonly known Ceratophyllum demersum (rigid hornwort), from which it differs in several morphological characteristics.
+The species is widely distributed across tropical and subtropical regions of the world. It is closely related to the more commonly known [[ceratophyllum-demersum]] (rigid hornwort), from which it differs in several morphological characteristics.
 
 Ceratophyllum submersum is valued in the aquarium trade as an oxygenating plant and as a habitat provider for fish fry and invertebrates. Its soft, flexible stems make it less likely to damage delicate aquarium inhabitants.
 
@@ -60,7 +60,7 @@ In Europe, the species is found around the Mediterranean basin, in the Balkans, 
 
 The species grows in still or slow-moving freshwater habitats. Typical sites include ponds, lakes, ditches, canals, and slow river backwaters at depths of 0.5–3 meters.
 
-Ceratophyllum submersum prefers warm, nutrient-rich waters with temperatures between 18–30 °C. Growth ceases below approximately 10 °C, and the species typically dies back during winter in temperate regions.
+Ceratophyllum submersum prefers warm, nutrient-rich waters with temperatures between 18–30 °C. Growth ceases below approximately 10 °C, and the species typically dies back during winter in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 It tolerates a wide range of water chemistry but grows best in neutral to slightly alkaline conditions (pH 6.5–8.0). Moderate hardness benefits growth but is not required.
 
@@ -74,52 +74,16 @@ Ceratophyllum submersum provides critical habitat structure in the submerged zon
 
 The plant is an effective oxygenator, releasing dissolved oxygen through photosynthesis during daylight hours. In dense stands, oxygen supersaturation can occur near the water surface during peak photosynthesis.
 
-Nutrient uptake is rapid and continuous during the growing season. Ceratophyllum submersum absorbs dissolved nitrogen and phosphorus directly from the water, reducing nutrient availability for competing algae.
+Nutrient uptake is rapid and continuous during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Ceratophyllum submersum absorbs dissolved nitrogen and phosphorus directly from the water, reducing [[ph-and-nutrient-availability-garden-soils]] for competing algae.
 
 Dense beds serve as spawning substrate for fish and attachment surfaces for invertebrate egg masses. Many species of aquatic insects, snails, and crustaceans live among the tangled stems.
 
 The species provides food for waterfowl, particularly diving ducks that feed on the vegetative tips and fruits. Cyprinid fish also graze on the soft foliage and epiphytic algae growing on the stems.
 
-Seasonal dieback in autumn releases accumulated nutrients and organic matter back into the system. This decomposition cycle supports benthic detritivore communities and microbial nutrient cycling.
+Seasonal dieback in autumn releases accumulated nutrients [[hamilton-composting-and-organic-matter-management]] back into the system. This decomposition cycle supports benthic detritivore communities and [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]].
 
 In some regions, Ceratophyllum submersum can become weedy and form dense monocultures that impede water flow and recreation. Overgrowth may reduce biodiversity by outcompeting native submerged vegetation.
 
 ## Cultivation and Aquarium Use
 
 Ceratophyllum submersum is widely available in the aquarium trade as a versatile, low-maintenance plant. It does not require substrate planting and can be left floating freely in the water column.
-
-In the aquarium, the plant thrives under moderate to high lighting (2–4 watts per gallon or equivalent LED output). Supplemental CO₂ accelerates growth but is not required.
-
-Water temperatures of 20–28 °C are suitable for cultivation. Growth is significantly faster in warmer conditions above 24 °C, making it particularly popular in tropical aquarium setups.
-
-Propagation is straightforward through simple stem fragmentation. Any piece of stem with a few leaves will develop roots and grow into a new plant within 1–2 weeks.
-
-The soft stems are gentle on delicate fish fins and make excellent cover for livebearer fry, shrimp, and other small aquarium inhabitants. The dense foliage provides refuge from larger, predatory fish.
-
-Regular pruning is recommended to prevent the plant from dominating the aquarium. Cuttings can be replanted or discarded, making population control straightforward.
-
-The species is effective at controlling algae by competing for dissolved nutrients. A dense planting of Ceratophyllum submersum can significantly reduce free-floating and filamentous algae in the aquarium.
-
-## Related Species
-
-Ceratophyllum demersum (rigid hornwort or coontail) is the most widespread species in the genus. It is distinguished by stiffer, more brittle stems and fruits with basal spines or tubercles.
-
-Ceratophyllum muricatum is a tropical species found in Africa, Asia, and Australia. It has more robust spines on its fruits and coarser leaf segment divisions than Ceratophyllum submersum.
-
-Ceratophyllum echinatum is a rare species with distinctly spiny fruits. It has a limited distribution in southeastern North America and the Caribbean.
-
-Ceratophyllum platyacanthum is a central Asian species with broader, flatter fruit spines. It occurs in the Caspian Sea basin and adjacent river systems.
-
-The genus is sometimes treated as containing only two species (Ceratophyllum demersum and Ceratophyllum submersum) with several subspecies. This simplified taxonomy reflects the difficulty of distinguishing species within the complex.
-
-## See Also
-
-- [[ceratophyllum-demersum]]
-- [[myriophyllum-spicatum]]
-- [[elodea-canadensis]]
-- [[potamogeton-natans]]
-- [[lemna-minor]]
-- [[hydrilla-verticillata]]
-- [[nymphaea-alba]]
-- [[nuphar-lutea]]
-- [[eichhornia-crassipes]]

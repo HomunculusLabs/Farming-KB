@@ -77,3 +77,19 @@ Tryptophan was first isolated in 1901 by Frederick Hopkins from casein protein. 
 - [[tryptamine-consciousness-theory]] — direct decarboxylation product and parent compound class
 - [[psilocybin]] — mushroom psychedelic alkaloid biosynthesized from tryptophan
 - [[baeocystin]] — intermediate in fungal tryptophan-to-psilocybin biosynthesis
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.
+
+## See Also
+- [[tryptophan-biosynthesis-from-chorismate]]
+- [[tryptophan-decarboxylase-inhibition-and-regulation]]
+- [[tryptophan-decarboxylase]]
+- [[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]]

@@ -30,7 +30,7 @@ and the Andean nations.
 ## Distribution by Country
 
 ### Argentina
-Claviceps paspali, C. purpurea, Conocybe kuhneriana, Gerronema fibula,
+[[claviceps-paspali]], C. purpurea, Conocybe kuhneriana, Gerronema fibula,
 Gymnopilus sapineus, G. spectabilis, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus fimicola,
 P. retirugis, P. sphinctrinus, P. subbalteatus, Psilocybe collybioides, P.
 cubensis, P. hoogshagenii var. hoogshagenii, P. wrightii, P. zapotecorum.
@@ -40,15 +40,15 @@ Claviceps paspali, Copelandia anomala, C. cyanescens, Gerronema fibula,
 [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], P. mammilata, P. subcubensis, P. yungensis.
 
 ### Brazil
-Brazil has the richest South American neurotropic mycobiota with many endemic
+Brazil has the richest [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]] mycobiota with many endemic
 species. Notable genera and species include:
 
 - **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (introduced in pine plantations)
 - **Copelandia anomala, C. cyanescens**
-- **Gerronema fibula, Gymnopilus spectabilis**
-- **Panaeolina foenisecii, Panaeolus fimicola, P. papilionaceus, P.
+- **Gerronema fibula, [[gymnopilus-spectabilis-entity]]**
+- **[[panaeolina-foenisecii]], Panaeolus fimicola, P. papilionaceus, P.
   sphinctrinus, P. subbalteatus**
-- **Pluteus glaucus**
+- **[[pluteus-glaucus]]**
 - **Psilocybe acutipilea, P. blattariopsis, P. brasiliensis, P.
   caeruleoannulata, P. caerulescens, P. cubensis, P. farinacea, P.
   furtadoana, P. hoogshagenii, P. microcystidiata, P. paulensis, P. paupera,
@@ -75,7 +75,7 @@ Chile has a notably temperate mycobiota with species also found in Europe:
 ### Colombia
 Colombia is particularly rich in Psilocybe species with several endemics:
 
-- **Amanita muscaria, Copelandia cyanescens, C. cambodginiensis**
+- **Amanita muscaria, [[copelandia-cyanescens]], C. cambodginiensis**
 - **Cordyceps capitata, Gerronema fibula**
 - **Panaeolina foenisecii, Panaeolus papilionaceus, P. sphinctrinus**
 - **Psilocybe angustipleurocystidiata, P. antioquensis (endemic), P. colombiana
@@ -88,35 +88,3 @@ Claviceps paspali, Psilocybe subcubensis, P. yungensis.
 
 ### French Guiana
 Psilocybe cubensis.
-
-### Peru
-[[bloomfield-ergot-claviceps-purpurea-ergotism]], Gymnopilus spectabilis (?), Psilocybe cubensis, P.
-yungensis (?), P. zapotecorum.
-
-### Uruguay
-Gymnopilus spectabilis, Panaeolus papilionaceus, Psilocybe
-caeruleoannulata, P. uruguayensis.
-
-### Venezuela
-Claviceps paspali, C. purpurea, Copelandia cyanescens, Gerronema fibula,
-Gymnopilus lateritius, Panaeolus campanulatus, P. papilionaceus, P.
-sphinctrinus, P. venezolanus, Psilocybe caerulescens, P. meridensis
-(endemic), P. plutonia, P. pseudobullacea, P. subcubensis, P. subyugensis.
-
-## Distribution patterns
-
-South American neurotropic fungi follow a clear latitudinal gradient. Tropical
-lowland species (P. cubensis, Copelandia spp.) are widespread throughout the
-continent. Chile and Argentina share temperate species with Europe (P.
-semilanceata, G. purpuratus, P. strictipes), likely reflecting either natural
-Gondwanan distributions or recent anthropogenic introductions. Brazil has the
-highest species diversity with many endemics. The Andean countries harbor P.
-yungensis and P. zapotecorum, species with wide subtropical distributions. P.
-zapotecorum, despite its name referencing the Mexican Zapotec people, is
-widespread across South America, found from Colombia to Chile and Argentina.
-## See Also
-
-- [[psilocybin-mushroom-distribution-worldwide]]
-- [[natto-making]]
-- [[psychedelic-mushroom-art-and-iconography]]
-- teonanacatl-and-mesoamerican-mushroom-cults

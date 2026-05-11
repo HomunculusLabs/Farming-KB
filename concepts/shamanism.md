@@ -12,7 +12,7 @@ type: concept
 
 Shamanism is an ancient spiritual and healing practice found in indigenous
 cultures worldwide. Characterized by the practitioner's ability to enter
-altered states of consciousness, shamanism serves as a bridge between the
+altered [[mckenna-food-gods-designer-states-of-consciousness]], shamanism serves as a bridge between the
 ordinary world and the spirit realm for purposes of healing, divination, and
 community guidance. The word "shaman" originates from the Tungusic word
 "saman," meaning "one who knows," reflecting the shaman's role as a knower of
@@ -26,7 +26,7 @@ features identified by anthropologist Mircea Eliade and others:
 - **Soul flight or ecstasy**: The shaman enters a trance state, often described
   as a journey to other realms (upper, lower, or middle worlds), typically
   with the aid of drumming, chanting, or psychoactive plants.
-- **Interaction with spirits**: Shamans communicate with spirit beings,
+- **Interaction with spirits**: Shamans communicate with [[metzner-spirit-beings-multiple-realities-entheogens]],
   animal guides, ancestors, and deities to gain knowledge, power, or
   assistance in healing.
 - **Healing function**: A central role of the shaman is diagnosing and treating
@@ -42,13 +42,13 @@ features identified by anthropologist Mircea Eliade and others:
 ## Cross-Cultural Distribution
 
 Shamanic practices have been documented across every inhabited continent, from
-Siberian reindeer herders and Amazonian tribes to Native American healers and
+Siberian reindeer herders and Amazonian tribes to [[halpern-sacramental-peyote-and-native-american-church]] healers and
 Australian Aboriginal elders. Despite vast geographical and cultural
 differences, striking parallels exist in the techniques, cosmologies, and
 roles of shamans worldwide, leading some scholars to suggest shamanism
 represents a fundamental human capacity.
 
-Michael Harner proposed the concept of "core shamanism," arguing that certain
+[[michael-harner]] proposed the concept of "core shamanism," arguing that certain
 universal elements exist across all shamanic traditions regardless of cultural
 specificity. These include the [[harner-shamanic-journey-and-altered-states]], the use of rattles and drums,
 power animals, and the concept of a three-tiered cosmos. Harner's Foundation
@@ -66,7 +66,7 @@ Most shamanic traditions describe a three-tiered universe:
 - **Middle World**: The ordinary physical world, but perceived in its
   non-ordinary aspect, where hidden spirits and energies can be perceived.
   Shamans travel the Middle World to find lost objects, locate resources,
-  or communicate with nature spirits.
+  or communicate with [[tompkins-findhorn-garden-devas-nature-spirits]].
 - **Lower World**: An underworld associated with ancestral spirits, animal
   guides, and deep psychological material. Accessed by journeying downward
   through an opening in the earth such as a cave, roots, or a hole in the
@@ -87,49 +87,4 @@ widespread and well-documented across cultures:
 - **Ayahuasca** in [[mckenna-food-gods-amazonian-shamanism-ayahuasca]], containing DMT and [[turner-harmala-alkaloids-preparation-and-dosage]],
   used for healing, divination, and spiritual teaching. The brew is prepared
   through complex cooking processes that have been refined over centuries.
-- **Peyote** in Native American Church ceremonies, containing mescaline, used
-  for healing and communal prayer. Its use extends back over 5,000 years in
-  North America.
-- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]** in Mazatec and other Mesoamerican traditions, used
-  for divination and healing. These mushrooms were known to the Aztecs as
-  "teonanacatl," flesh of the gods.
-- **Iboga** among the Bwiti of Central Africa, used in initiation rites and
-  healing ceremonies. The root bark contains ibogaine, a potent psychedelic.
-- **Fly agaric** ([[allegro-amanita-muscaria-properties-and-pharmacology]]) in Siberian shamanism, one of the oldest
-  documented entheogenic traditions. Shamans would consume the mushroom and
-  enter trance states for healing and divination.
-
-Ralph Metzner and other researchers have noted that the structured use of
-psychedelics in shamanic contexts shares important features with clinical
-psychedelic therapy, particularly the importance of set (mindset),
-setting (environment), and the role of a guide in facilitating and
-integrating the experience.
-
-## The Shamanic Journey
-
-The shamanic journey is the central technique of shamanic practice. Typically
-induced by monotonous drumming at a tempo of roughly four to seven beats per
-second, the journey involves the practitioner entering a light trance state
-and traveling intentionally to one of the three worlds. The journey has a
-purpose: retrieving a lost soul, seeking guidance, finding a power animal, or
-diagnosing an illness. Unlike ordinary dreaming, the shamanic journey is
-voluntary, directed, and recalled with clarity.
-
-## Modern Relevance
-
-Contemporary interest in shamanism has grown significantly, with many people
-seeking [[metzner-shamanic-healing-and-divination-paradigm]] practices outside their traditional cultural contexts.
-This has raised important questions about cultural appropriation and the
-dangers of extracting practices from their indigenous frameworks. Researchers
-in transpersonal psychology have explored connections between shamanic states
-and therapeutic breakthroughs in psychedelic-assisted psychotherapy.
-
-## See Also
-
-- [[harner-mescalero-peyote-shamanism]]
-- [[harner-ayahuasca-shamanism-amazon]]
-
-- [[hallucinogenic-drugs]]
-- [[ayahuasca-preparation-and-ceremony]]
-- transpersonal psychology
-- altered states of consciousness
+- **Peyote** in [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] ceremonies, containing mescaline, used

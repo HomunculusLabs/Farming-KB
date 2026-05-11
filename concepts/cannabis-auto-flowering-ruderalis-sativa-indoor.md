@@ -11,6 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
@@ -86,16 +87,3 @@ While Angelmatic represents an early example of auto-flowering sativa breeding, 
 ## Environmental Advantages
 
 Auto-flowering cannabis also offers environmental benefits that are increasingly relevant:
-
-- **Lower energy consumption**: No need for 12-hour dark periods, allowing more flexible lighting schedules
-- **Faster carbon footprint per gram**: The shorter lifecycle means fewer total hours of artificial lighting
-- **Reduced pesticide need**: The rapid lifecycle means fewer opportunities for pest infestations
-- **Year-round production potential**: In indoor settings, multiple harvests per year are possible
-- **Suitability for small-scale operations**: Makes sustainable, local cannabis production feasible for individuals
-
-## See Also
-
-- [[oner-auto-flowering-sativa-development]]
-
-- [[african-landrace-sativa-strains]]
-- [[cannabis-chemdawg-origin-story-lineage]]

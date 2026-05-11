@@ -88,35 +88,3 @@ A. sylvicola, while less widely known than its meadow relatives, is a versatile 
 Several Agaricus species share the characteristic almond or anise-like odor, which can cause confusion:
 
 | Species | Habitat | Size | Key Feature |
-|---------|---------|------|-------------|
-| A. sylvicola | Woodlands | Medium (5-12 cm) | Forest habitat, delicate |
-| A. arvensis | Meadows | Large (8-15 cm) | Movable double ring |
-| A. subrufescens | Various | Medium (5-10 cm) | Medicinal properties |
-
-## Nutritional Value
-
-A. sylvicola is comparable to other Agaricus species in nutritional content:
-
-- **Protein:** Approximately 20-25% dry weight
-- **Vitamins:** Good source of B vitamins, particularly riboflavin and niacin
-- **Minerals:** Contains potassium, phosphorus, selenium, and copper
-- **Antioxidants:** Contains ergothioneine, a unique antioxidant found in many mushroom species
-- **Calories:** Low calorie, approximately 22 calories per 100 grams fresh weight
-- **Fiber:** Contains both soluble and insoluble dietary fiber
-- **Amino acids:** Contains all essential amino acids, with a favorable protein quality index
-
-## Seasonal Patterns
-
-A. sylvicola typically fruits later than meadow species:
-
-- **First emergence:** August in most regions, peaking in September-October
-- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]:** Fruits when forest floor temperatures are between 50-65°F (10-18°C)
-- **Moisture requirement:** Requires adequate rainfall. Dry autumns result in poor fruiting.
-- **Duration:** Individual fruitings last 2-3 weeks with potential for repeat flushes
-- **Climate dependence:** More abundant in years with warm, wet autumns. Cool, dry falls produce little to no fruiting.
-
-## See Also
-
-- [[agaricus-arvensis]] — Horse Mushroom, larger with anise-like odor
-- [[agaricus-campestris]] — Meadow Mushroom, the common grassland species
-- [[agaricus-bitorquis]] — Pavement Mushroom, comparison of Agaricus species

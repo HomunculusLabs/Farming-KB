@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,37 +87,3 @@ earliest stage of establishment:
 1. **Stage A (pioneering)**: The area is fenced and a complex of
    species planted and protected from grazers. Only small livestock
    (chickens and rabbits) and some annual crops can be harvested.
-
-2. **Stage B (semi-hardy)**: Geese, fish, and shellfish are
-   introduced as the system develops more complex water and forage
-   resources.
-
-3. **Stage C (mature)**: Larger foragers (sheep, pigs) are grown
-   seasonally. The system provides its own mulch and fertilisers.
-
-Rabbits thus serve as pioneers in the establishing system, preparing
-ground and cycling nutrients while larger animals are introduced later
-as the system matures and can support them.
-
-## Pest Considerations
-
-Mollison notes that in some environments, rabbits can become rampant
-and invasive. Fence designs must account for rabbit exclusion where
-they pose a threat to young plantings. Conversely, where rabbits are
-managed as a productive element, their burrowing and grazing effects
-become assets rather than liabilities.
-
-Guard dogs may be needed to protect rabbits from vertebrate predators
-in areas where foxes, cats, or birds of prey are present.
-
-## Yields and Functions Summary
-
-Rabbits provide the following yields in permaculture systems:
-
-- High-quality protein (meat)
-- Manure for garden fertility
-- Soil preparation and aeration through burrowing
-
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]

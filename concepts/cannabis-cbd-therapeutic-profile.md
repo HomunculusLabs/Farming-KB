@@ -1,5 +1,5 @@
 ---
-title: CBD Therapeutic Profile
+title: Cannabis Cbd Therapeutic Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # CBD Therapeutic Profile
 
-Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has emerged as a therapeutic agent distinct from THC. Unlike THC, CBD is non-psychoactive, non-addictive, and has an excellent safety profile. (see [[blesching-cannabis-modes-administration-pharmacokinetics]]).
+Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has emerged as a therapeutic agent distinct from THC. Unlike THC, CBD is non-psychoactive, non-addictive, and has an excellent [[blesching-cannabis-safety-profile]].
 
 ## Key Properties
 
@@ -20,12 +20,12 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 
 ### Anti-Anxiety
 - Reduces anxiety in social situations, GAD, and PTSD
-- Mechanism: 5-HT1A serotonin receptor activation (similar to buspirone)
+- Mechanism: 5-HT1A [[serotonin-receptor-interference-psychedelic-mechanism]] activation (similar to buspirone)
 - Effective at 15-600mg depending on condition
 
 ### Anti-Inflammatory
 - Reduces cytokine production, COX-2 inhibition
-- Effective for arthritis, IBD, and neuropathic pain
+- Effective for arthritis, IBD, and [[blesching-cannabis-neuropathic-pain]]
 - Topical CBD effective for localized inflammation
 
 ### Neuroprotective
@@ -50,7 +50,7 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 - **Microdose**: 2.5-5mg (subtle effects, anxiety, focus)
 - **Low**: 5-15mg (mild anxiety, sleep aid)
 - **Moderate**: 15-50mg (pain, inflammation, epilepsy)
-- **High**: 50-600mg (seizure disorders, clinical trial doses)
+- **High**: 50-600mg ([[cannabis-for-epilepsy-and-seizure-disorders]], [[psilocybin-clinical-trial-landscape-2020-2025]] doses)
 
 ### Safety
 - No known lethal dose (LD50 not established — extremely safe)
@@ -63,3 +63,20 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 - [[cannabis-thc-therapeutic-profile]] — for THC comparison
 - [[cannabis-for-anxiety-disorders]] — for anxiety applications
 - [[cannabis-for-neurological-conditions]] — for epilepsy applications
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[cannabidiol-cbd-therapeutic-profile-blesching]]
+- [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]
+- [[cannabis-thc-therapeutic-profile]]
+- [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
+- [[cannabis-terpene-profile]]

@@ -16,7 +16,7 @@ type: concept
 
 # Season Extension Timeline and Frost Protection
 
-Eliot Coleman's season extension system is built on the principle of
+[[eliot-coleman]]'s season extension system is built on the principle of
 layering protection to create progressively milder microclimates. By
 combining the right crops with the right protection at the right time,
 he has demonstrated that [[dry-gardening-unirrigated-vegetable-production-solomon]] can continue through winter
@@ -28,10 +28,10 @@ The core insight is that each protective layer shifts the effective
 climate one and a half USDA zones warmer. A cold-tolerant vegetable grown
 in the open field in USDA Zone 4, when protected by an unheated
 greenhouse, experiences conditions equivalent to Zone 6. Adding a second
-layer of lightweight floating row cover inside the greenhouse shifts the
+layer of lightweight floating [[coleman-double-layer-protection-greenhouse-row-cover]] inside the greenhouse shifts the
 effective zone to approximately Zone 8. This simple arithmetic means that
 growers in Zone 4 can achieve Zone 8 conditions with two layers of
-protection, opening vast possibilities for winter production.
+protection, opening vast possibilities for [[coleman-beet-greens-cold-house-winter-production]].
 
 Coleman's temperature records confirm the principle. On a 5°F (-15°C)
 night, the temperature in a Zone 5 greenhouse would be 15°F (20°F
@@ -45,8 +45,8 @@ Coleman's year is organized around a precise timeline of protection
 transitions. From the last frost date in spring through the first fall
 frost, outdoor production proceeds with minimal protection. Simple hoop
 houses, even without heat, provide a four- to twelve-week jump on outdoor
-maturity depending on the crop. Row covers alone provide 4°F to 6°F of
-frost protection and allow earlier spring planting and later fall
+maturity depending on the crop. [[cervantes-season-extension-cloches-row-covers]] alone provide 4°F to 6°F of
+[[mollison-frost-protection-and-thermal-belt-design]] allow earlier spring planting and later fall
 harvesting. The floating row cover is the first layer applied to
 greenhouse crops, typically just before the first hard frosts in autumn.
 
@@ -88,34 +88,3 @@ removes sandbags along the southern edge and inserts notched props to
 hold up the edges of the plastic and fabric. As outdoor temperatures
 moderate, covers are progressively removed, allowing crops to acclimate
 to outdoor conditions before the full harvest period begins.
-
-## Climate Zone Considerations
-
-Coleman notes that the principles of season extension are scalable to
-different climates. Growers in Zone 9 could potentially get by with row
-covers alone for some [[coleman-semi-hibernating-winter-crops-harvest-extension]], while those in Zones 3 and 4 benefit
-most from the full two-layer system. Over 85 percent of the U.S. is
-further south than his Maine location and has more sun and warmer winter
-weather. There is nothing preventing winter production of high-quality
-fresh produce in any part of the country except knowledge of how to
-employ the simple technology of cold houses and row covers.
-
-## Temperature Factors for Winter Crops
-
-Coleman identifies four temperature factors that affect winter salads in
-protected cultivation: the rate of temperature drop, the depth of
-temperature drop, the duration of temperature drop, and the frequency
-of temperature drop. Most winter salad crops can be harvested at air
-temperatures down to 15°F if the soil has not frozen. Optimum
-photosynthesis occurs at 75°F, but [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] averages run closer
-to 55°F during the coldest months. Understanding these factors helps
-growers manage their protection systems to maintain crops within
-harvestable ranges throughout winter.
-
-## Related Concepts
-
-- [[coleman-unheated-greenhouse-design]] — the outer protective layer
-- [[coleman-winter-harvest-philosophy]] — the conceptual foundation for
-  season extension
-- [[coleman-moveable-greenhouse-system]] — an advanced approach to
-  seasonal relocation

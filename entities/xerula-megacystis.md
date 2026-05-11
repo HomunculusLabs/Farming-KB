@@ -24,7 +24,7 @@ It is a woodland mushroom most commonly found growing from buried roots, stumps,
 
 The species is recognized by its deeply umbilicate cap, exceptionally long and rooting stipe, and large cheilocystidia.
 
-Xerula megacystis is not widely consumed but is considered non-toxic, and it plays a significant role in forest decomposition cycles.
+Xerula megacystis is not widely consumed but is considered non-toxic, and it plays a significant role in forest [[decomposition-cycles]].
 
 ## Taxonomy and Morphology
 
@@ -54,7 +54,7 @@ Pileipellis is a cutis of repent hyphae with scattered cylindrical to clavate pi
 
 ## Distribution and Habitat
 
-Xerula megacystis has a wide distribution across temperate regions of Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia.
+Xerula megacystis has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia.
 
 It is found in deciduous and mixed woodlands, particularly associated with oak, beech, and birch stands.
 
@@ -78,50 +78,12 @@ The mycelium extends through soil from buried wood, forming an extensive network
 
 Xerula species are among the few agarics that can fruit reliably from deeply buried woody substrates.
 
-Interactions with soil microfauna are poorly documented, but the genus is not known to form mycorrhizal associations.
+Interactions with soil microfauna are poorly documented, but the genus is not known to form [[plants-without-mycorrhizal-associations]].
 
 ## Bioactive Compounds
 
 Limited pharmacological research has been conducted specifically on Xerula megacystis.
 
-Other Xerula species, particularly Xerula furfuracea (syn. Oudemansiella radicata), produce the antifungal compound oudemansin A.
+Other Xerula species, particularly [[xerula-furfuracea]] (syn. [[oudemansiella-radicata]]), produce the antifungal compound oudemansin A.
 
-Oudemansin A is a β-methoxyacrylate fungicide that inhibits mitochondrial respiration in competing fungi.
-
-It is unknown whether Xerula megacystis produces similar [[antifungal-secondary-metabolites-coprophilous-fungi]], as bioassays have focused on related species.
-
-Preliminary screening of Xerula species for antioxidant and antimicrobial activity has shown weak to moderate effects.
-
-No toxic compounds have been identified in Xerula megacystis or closely related taxa.
-
-## Edibility
-
-Xerula megacystis is generally considered edible but is not widely collected for the table.
-
-The cap is reportedly mild in flavor with a soft texture when young, but the stipe is tough and fibrous.
-
-Some foragers prize the cap of young specimens, but the species is too uncommon to be commercially significant.
-
-There are no confirmed cases of poisoning from Xerula megacystis consumption.
-
-As with any [[emcdda-wild-mushroom-foraging-misidentification-hazards]], positive identification is essential before consumption.
-
-## Similar Species
-
-Xerula megalospora closely resembles X. megacystis but has larger spores (12–16 µm) and a more robust stature.
-
-Xerula radicata (syn. Oudemansiella radicata) is more common and has a wrinkled (rugulose) cap surface.
-
-Xerula longipes is distinguished by its exceptionally long stipe relative to cap diameter and smaller spores.
-
-The deeply rooting stipe separates Xerula species from superficially similar Collybia or Marasmius species.
-
-[[fungal-microscopic-examination-mounting-media-techniques]] of cheilocystidia size and spore dimensions is necessary for confident species determination.
-
-## See Also
-
-- [[cantharellus-cibarius-entity]]
-- [[agaricus-bisporus]]
-- [[pleurotus-ostreatus]]
-- [[boletus-edulis-entity]]
-- [[trametes-versicolor-entity]]
+Oudemansin A is a β-methoxyacrylate fungicide that inhibits [[electron-transport-chain-mitochondrial-respiration]] in competing fungi.

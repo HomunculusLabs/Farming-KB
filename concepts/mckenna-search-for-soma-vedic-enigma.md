@@ -88,20 +88,3 @@ The Soma question remains unresolved in scholarship. No single candidate satisfi
 Additional candidates proposed over the years include *Cannabis sativa* (bhang), *Ephedra* species (which contain the stimulant ephedrine), various *Sarcostemma* (moonplant) species, and fermented honey preparations. Each has strengths and weaknesses. The very proliferation of candidates testifies to the magnitude of what was lost.
 
 What remains beyond dispute is that Soma was real, that it was powerfully psychoactive, and that its disappearance from the religious life of India marked a fundamental transformation in the relationship between humans and the sacred. For McKenna, the Soma enigma is a cautionary tale about what happens when cultures sever their connection to the plant teachers that once anchored their cosmology and their consciousness.
-
-## See Also
-
-- [[mckenna-soma-vedic-enigma-detailed]]
-
-- [[psychedelic-plants-and-civilization]]-in-ancient-cultures — Survey of entheogenic use across civilizations
-- [[mckenna-alcohol-vs-psychedelics-dominator-cultures]] — How alcohol replaced psychedelics in dominator societies
-
-## References
-
-- McKenna, T. (1992). *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books. Chapter 7: "Searching for Soma: The Golden Hymn."
-- Wasson, R.G. (1968). *Soma: Divine Mushroom of Immortality*. Harcourt Brace Jovanovich.
-- Flattery, D. & Schwartz, M. (1989). *Haoma and Harmaline: The Botanical Identity of the Indo-Iranian Sacred Hallucinogen "Soma" and Its Legacy in Religion, Language, and Middle Eastern Folklore*. University of California Press.
-- Doniger, W. (trans.) (1981). *The Rig Veda: An Anthology*. Penguin Classics.
-- Spess, D. (2000). *Soma: The Divine Hallucinogen*. Inner Traditions.
-- Ott, J. (1996). *Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History*. Kennewick, WA: Natural Products Co.
-- Staal, J.F. (2001). *Discovering the Vedas: Origins, Mantras, Rituals, Insights*. Penguin Books India.

@@ -53,7 +53,7 @@ A white-flowered form occurs naturally and is common in cultivation. White forms
 
 The fruit is a five-chambered capsule that splits open at maturity to release the seeds. The capsule coiling is driven by differential drying of the placental tissues.
 
-Seeds are 3 to 4 millimeters in diameter, brown, and equipped with a fleshy elaiosome. The elaiosome attracts ants, which serve as the primary seed dispersal agents.
+Seeds are 3 to 4 millimeters in diameter, brown, and equipped with a fleshy elaiosome. The elaiosome attracts ants, which serve as the primary [[clay-pellet-seed-dispersal]] agents.
 
 ## Distribution and Habitat
 
@@ -69,13 +69,13 @@ Cyclamen hederifolium is highly drought-tolerant and adapted to the summer-dry M
 
 In southern parts of its range, the plant flowers in late summer before the autumn rains begin. In more northern populations, flowering coincides with the onset of autumn rainfall.
 
-The species has naturalized in parts of the British Isles, particularly in southern England. Naturalized populations also occur in the Pacific Northwest of North America.
+The species has naturalized in parts of the British Isles, particularly in southern England. Naturalized populations also occur in the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]].
 
 ## Cultivation
 
-Cyclamen hederifolium is the most widely grown cyclamen species in temperate gardens. Its cold hardiness, drought tolerance, and shade adaptability make it exceptionally easy to cultivate.
+Cyclamen hederifolium is the most widely grown cyclamen species in temperate gardens. Its [[coleman-cold-hardiness-testing-ratings]], [[dighton-fungal-drought-tolerance-plant-water-relations]], and shade adaptability make it exceptionally easy to cultivate.
 
-The plant thrives in partial to full shade under deciduous trees and shrubs. It tolerates full sun in cooler maritime climates but requires shade in warmer regions.
+The plant thrives in partial to full shade under deciduous [[nitrogen-fixing-trees-and-shrubs]]. It tolerates full sun in cooler maritime climates but requires shade in warmer regions.
 
 Well-drained soil is essential, as the tuber is susceptible to rot in persistently waterlogged conditions. The species performs well in both alkaline and neutral soils.
 
@@ -88,43 +88,3 @@ The species self-seeds prolifically in favorable garden conditions. Ants dispers
 Many named cultivars and selections exist, primarily distinguished by flower color and leaf pattern. Notable selections include Album, Silver Arrow, and Pewter Moon.
 
 The plant is virtually pest-free and requires no regular maintenance. The deciduous habit of autumn flowering and winter foliage makes it an ideal component of seasonal shade gardens.
-
-## Cultural History
-
-Cyclamen hederifolium has been cultivated in European gardens since at least the 16th century. It was among the first cyclamen species introduced to horticulture.
-
-The genus name Cyclamen derives from the Greek kyklaminos, possibly from kyklam meaning circle. This may refer to the coiled fruiting stem or the rounded tuber shape.
-
-In classical antiquity, cyclamen tubers were used medicinally and were believed to have aphrodisiac properties. Pliny the Elder described the plant in his Natural History.
-
-The tuber is mildly toxic, containing saponins similar to those found in other Primulaceae. Ingestion can cause nausea, vomiting, and diarrhea, though severe poisoning is uncommon.
-
-In Mediterranean folklore, cyclamen was believed to protect against evil spirits. The tuber was sometimes placed above doorways or worn as an amulet.
-
-The species has become one of the most commercially important cyclamen species in the nursery trade. Millions of plants are sold annually across Europe and North America.
-
-## Propagation and Hybridization
-
-Seed of Cyclamen hederifolium should be sown fresh, as viability declines rapidly with storage. Soaking seed in water for 24 hours before sowing can improve germination rates.
-
-Seeds are typically sown on the surface of a well-drained potting mix and covered with a thin layer of grit. Germination occurs at temperatures of 15 to 20 degrees Celsius.
-
-Cross-pollination between different leaf-pattern forms readily produces novel seedlings with intermediate or recombinant variegation patterns. This has generated extensive natural variation in cultivated populations.
-
-Hybridization with other cyclamen species is relatively uncommon in gardens. Cyclamen hederifolium hybridizes most readily with Cyclamen purpurascens in cultivation.
-
-The species is the primary parent of many hardy cyclamen selections developed for garden use. Its genetic contribution of cold hardiness and ease of culture is valued in breeding programs.
-
-## See Also
-
-- [[cyclamen-pseudibericum]]
-- [[cyclamen-repandum]]
-
-- [[primula-veris|Primula veris]]
-- [[primula-vulgaris|Primula vulgaris]]
-- [[cyclamen-purpurascens|Cyclamen purpurascens]]
-- [[anemone-nemorosa|Anemone nemorosa]]
-- [[pulsatilla-vulgaris|Pulsatilla vulgaris]]
-- [[galium-aparine|Galium aparine]]
-- [[arctostaphylos-uva-ursi|Arctostaphylos uva-ursi]]
-- [[vaccinium-myrtillus|Vaccinium myrtillus]]

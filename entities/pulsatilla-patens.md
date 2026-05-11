@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Hultén, E. (1968). "Flora of Alaska and Neighboring Territories." Stanford University Press.
   - Tamayo-Castillo, G. et al. (2016). "Ranunculin derivatives in Pulsatilla species." Phytochemistry 125: 78-86.
-  - Weakley, A.S. (2020). "Flora of the Southeastern United States." University of North Carolina Press.
+  - Weakley, A.S. (2020). "Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]." University of [[north-carolina-mycodiversity]] Press.
 ---
 
 # Pulsatilla patens
@@ -21,7 +21,7 @@ sources:
 
 Pulsatilla patens, commonly known as eastern pasque flower or prairie crocus, is a low-growing herbaceous perennial in the family Ranunculaceae.
 
-It is one of the earliest-blooming wildflowers on the North American prairies, often emerging through melting snow in March and April. The species is the state flower of South Dakota and a symbol of the tallgrass prairie ecosystem.
+It is one of the earliest-blooming wildflowers on the [[growing-gourmet-north-american-reishi-species]] prairies, often emerging through melting snow in March and April. The species is the state flower of South Dakota and a symbol of the tallgrass prairie ecosystem.
 
 The large, bell-shaped lavender flowers with prominent golden stamens create one of the most iconic wildflower displays in the North American heartland. Populations have declined significantly due to prairie conversion to agriculture, making it a species of conservation concern across much of its range.
 
@@ -53,7 +53,7 @@ Populations in the tallgrass prairie region have experienced dramatic declines o
 
 Eastern pasque flower is a challenging but rewarding plant for rock gardens, alpine troughs, and native prairie restorations.
 
-It requires extremely well-drained, gravelly or sandy soil with a neutral to alkaline pH. Heavy clay soils, winter waterlogging, and high humidity are fatal to established plants. Full sun is essential for vigorous growth and prolific flowering.
+It requires extremely well-drained, gravelly or sandy soil with a neutral to alkaline pH. [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] soils, winter waterlogging, and high humidity are fatal to established plants. Full sun is essential for vigorous growth and prolific flowering.
 
 Hardy in USDA zones 2-6, the species requires cold winters and cannot be grown successfully in warm, humid climates. A thick gravel mulch around the crown improves drainage and reduces crown rot risk.
 
@@ -63,7 +63,7 @@ The species does not tolerate container cultivation well and is best established
 
 ## Ecological Role
 
-As one of the earliest spring flowers on the prairie, Pulsatilla patens provides a critical nectar and pollen source for emerging native bees and flies when few other plants are in bloom.
+As one of the earliest spring flowers on the prairie, Pulsatilla patens provides a critical nectar and pollen source for emerging [[query-how-to-attract-native-bees-and-beneficial-insects]] flies when few other plants are in bloom.
 
 The flowers are visited by mining bees (Andrena species), small carpenter bees (Ceratina), and various syrphid flies. The dense pubescence on stems and sepals may provide insulation, trapping radiant heat and creating a microclimate several degrees warmer than ambient air for pollinators.
 
@@ -73,7 +73,7 @@ Fire plays an important role in maintaining habitat for the species on tallgrass
 
 ## Uses
 
-Several Native American tribes used Pulsatilla patens in traditional medicine, primarily as a treatment for respiratory ailments including coughs, colds, and bronchial congestion.
+Several [[halpern-sacramental-peyote-and-native-american-church]] tribes used Pulsatilla patens in traditional medicine, primarily as a treatment for respiratory ailments including coughs, colds, and bronchial congestion.
 
 The Lakota people considered the plant sacred and used it ceremonially as well as medicinally. Preparations from the whole plant were applied topically for rheumatic pain and joint inflammation, a use also documented among the Blackfeet and Cree nations.
 
@@ -88,9 +88,3 @@ The species is protected by law in several states where it is endangered, and co
 - [[pulsatilla-vulgaris]]
 - [[pulsatilla-alpina]]
 - [[anemone-nemorosa]]
-- [[ranunculus-acris]]
-- [[helleborus-orientalis]]
-- [[eranthis-hyemalis]]
-- [[caltha-palustris]]
-- [[adonis-vernalis]]
-- [[ranunculus-bulbosus]]

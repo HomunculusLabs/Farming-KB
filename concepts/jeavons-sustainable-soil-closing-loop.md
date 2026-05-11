@@ -88,32 +88,3 @@ compost [[ingham-compost-tea-application-rates-and-timing]], measured per 100 sq
 
 **Beginning sustainability:** 1.6 cubic feet of cured compost (4
 5-gallon buckets), covering the bed to 0.25 inches depth. This produces
-15 to 30 pounds of dry matter per 100 square feet.
-
-**Intermediate sustainability:** 4.0 cubic feet (6 buckets), 0.35 inches
-depth. Produces 30 to 60 pounds of dry matter per 100 square feet.
-
-**High sustainability:** 8.0 cubic feet (12 buckets), 1.0 inch depth. This
-requires significant on-farm compost production.
-
-## The 9,000 Square Foot Challenge
-
-Keeping nutrients within the mini-farm and minimizing imported nutrients are
-critical tasks. Soon, only about 9,000 square feet (one-fifth of an acre) may
-be available to each person. At that scale, the luxury of taking nutrients
-from one soil to feed another will no longer exist. The closed-system
-approach is preparation for this demographic and ecological reality.
-
-## Lessons from Biosphere II
-
-The Biosphere II project demonstrated that the soil in a closed system can
-lose significant fertility. Their experience over two years highlighted the
-importance of maintaining soil nutrient cycles in any enclosed growing system.
-This reinforces the need for the GROW BIOINTENSIVE focus on growing compost
-crops and recycling all [[hamilton-composting-and-organic-matter-management]] back into the soil.
-
-## See Also
-
-[[jeavons-soil-fertility]]
-[[jeavons-calorie-farming]]
-[[jeavons-diet-design-self-sufficiency]]

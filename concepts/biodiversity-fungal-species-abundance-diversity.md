@@ -88,9 +88,3 @@ using binary data, such as the Whittaker index. These concepts are
 fundamental to understanding how [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] vary across
 [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]], investigators should:
 define the scale and attribute of richness being evaluated; generate
-collector's curves to determine adequate sample sizes; use rarefaction
-for unequal sample comparisons; select diversity indices appropriate to
-the question and data; and complement index-based approaches with
-species-abundance distribution analysis.
-
-## See Also

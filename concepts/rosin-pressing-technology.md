@@ -10,7 +10,7 @@ type: concept
 
 # Rosin Pressing Technology
 
-Rosin pressing is a solventless extraction method that uses heat and pressure
+Rosin pressing is a solventless [[lemon-cannabis-alchemy-high-volume-extraction-method]] that uses heat and pressure
 to squeeze resinous sap from cannabis flowers or hashish. The resulting
 product, called rosin, is a clean, potent concentrate that contains cannabinoids
 and terpenes without any residual solvents. Rosin has become one of the most
@@ -27,7 +27,7 @@ matrix and collected.
 
 The process requires no solvents, purging, or chemical processing of any kind.
 The simplicity of the method means that the final product's quality depends
-almost entirely on the quality of the starting material and the precision of
+almost entirely on the quality of the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] and the precision of
 the pressing parameters.
 
 ## Types of Rosin Presses
@@ -75,7 +75,7 @@ grades of source material are commonly used:
 
 - **Flower rosin**: Pressed from dried or fresh-frozen cannabis flowers.
   Produces flavorful but lower-yielding rosin with more plant taste.
-- **Bubble hash rosin** (hash rosin): Pressed from ice water extracted
+- **[[cervantes-water-hash-bubble-hash]] rosin** (hash rosin): Pressed from ice water extracted
   hashish. This combination is considered the pinnacle of solventless
   extraction, producing extremely clean, flavorful, and potent rosin.
 - **[[green-cannabis-dry-sift-water-extraction]] rosin**: Pressed from dry-sifted kief or hash. Similar to hash
@@ -87,29 +87,3 @@ grades of source material are commonly used:
 Rosin is typically collected on parchment paper during pressing. The hot,
 liquid rosin is then allowed to cool and solidify. Post-press processing may
 include:
-
-- **Cold curing**: Aging rosin at cool temperatures to develop flavor and
-  consistency, similar to traditional hashish aging
-- **Jar tech**: Storing rosin in sealed jars with occasional agitation to
-  develop a uniform, buddery texture
-- **Diamond mining**: Holding rosin at warm temperatures to separate
-  THCA crystalline structures from a terpene-rich liquid fraction
-
-## Equipment Considerations
-
-Key features that distinguish quality rosin presses include:
-
-- **Plate size**: Larger plates accommodate more material per press
-- **Platen evenness**: Flat, parallel plates ensure uniform pressure
-  distribution
-- **Temperature control**: Precise digital temperature controllers with
-  minimal variation
-- **Pressure gauges**: Accurate pressure measurement for reproducible results
-- **Insulation**: Heat retention for consistent plate temperatures
-
-## See Also
-
-- pdc-energy-systems-and-appropriate-technology
-- [[cannabis-alchemy-overview]]
-- [[cannabis-extraction-solvents]]
-- [[cannabis-chromatography-cannabinoid-purification]]

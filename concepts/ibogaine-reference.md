@@ -9,7 +9,7 @@ sources: []
 
 # Ibogaine Reference
 
-Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub Tabernanthe iboga. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the psychedelic medicine toolkit, with well-documented cardiac risks that require medical screening and monitoring. (see [[iboga-and-ibogaine-profile]]).
+Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[plants-of-the-gods-tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the [[iboga-ibogaine-and-the-bwiti-african-psychedelic-medicine]] toolkit, with well-documented cardiac risks that require medical screening and monitoring.
 
 ## Chemistry
 
@@ -22,14 +22,14 @@ Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark o
 - Physical form: white to off-white crystalline powder
 - Solubility: soluble in ethanol, slightly soluble in water
 - Melting point: approximately 152-153°C
-- Extracted from: Tabernanthe [[iboga-root-bark-preparation|iboga root bark]] (typically 1-6% ibogaine by dry weight)
+- Extracted from: Tabernanthe [[iboga-root-bark-preparation]] (typically 1-6% ibogaine by dry weight)
 
 Ibogaine belongs to the iboga alkaloid family. Tabernanthe iboga root bark contains multiple alkaloids:
 - Ibogaine: primary psychoactive compound (1-6% dry weight)
 - Ibogamine, tabernanthine: related alkaloids
 - Noribogaine: active metabolite (may be responsible for anti-addictive effects)
 
-Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- and (-)-enantiomers. (see [[dm-reference]]).
+Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- and (-)-enantiomers.
 
 ## Natural Source: Tabernanthe iboga
 
@@ -44,7 +44,7 @@ Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- 
 ### Traditional Use
 
 - Central role in Bwiti spiritual practice (Fang, Mitsogo peoples in Gabon)
-- Used in initiation ceremonies, healing rituals, and communal worship
+- Used in initiation ceremonies, [[shamanic-entheogenic-healing-rituals]], and communal worship
 - Considered a "plant teacher" providing access to ancestral spirits
 - Lower doses used as stimulant and aphrodisiac
 - Used for centuries, possibly millennia
@@ -69,7 +69,7 @@ Ibogaine is a chiral molecule — the natural form is a racemic mixture of (+)- 
 
 - Ibogaine metabolized by CYP2D6 (significant genetic polymorphism) into noribogaine
 - Noribogaine half-life: 28-49 hours (vs. ibogaine's 4-7 hours)
-- Retains activity at opioid and serotonin receptors
+- Retains activity at opioid [[psilocybin-pharmacology-and-serotonin-receptors]]
 - Many researchers believe noribogaine is primarily responsible for anti-addictive effects, persisting days to weeks after a single dose
 
 ### Pharmacokinetics
@@ -125,14 +125,14 @@ The most remarkable property of ibogaine is its ability to interrupt substance d
 
 - Opioid addiction: ibogaine can eliminate withdrawal symptoms and dramatically reduce craving, often for weeks to months. Some patients report long-term remission
 - Stimulant addiction (cocaine, methamphetamine): reduction in craving and use
-- Alcohol dependence: reduced craving and consumption
+- [[cannabis-for-alcohol-dependence]]: reduced craving and consumption
 - Nicotine: reduced craving (less studied)
 
 Proposed anti-addictive mechanisms:
 - Opioid receptor reset: normalizes endorphin function and receptor sensitivity
 - Neuroplasticity: promotes structural changes in addiction-related brain regions
 - Psychological: visionary experience provides insight into addictive behavior roots
-- Neurochemical: noribogaine's long presence maintains therapeutic effects
+- Neurochemical: noribogaine's long presence maintains [[cbd-therapeutic-effects]]
 - Glial modulation: may reduce neuroinflammation associated with addiction
 
 ## Cardiac Risks

@@ -1,5 +1,5 @@
 ---
-title: Coleman Succession Planting Strategy for Winter Harvest
+title: Coleman Succession Planting Winter Harvest
 source: Eliot Coleman, The Winter Harvest Handbook
 source_path: raw/papers/eliot-coleman-winter-harvest-handbook.md
 extracted: 2026-05-10
@@ -11,7 +11,7 @@ tags: [winter-farming, succession-planting, sowing-schedule, season-extension, c
 
 ## Overview
 
-Succession planting is one of the three foundational components of Coleman's winter harvest system, alongside cold-hardy vegetables and protected cultivation. The concept is simple—sowing vegetables more than once during a season to provide continuous harvest—but the execution for winter production is fundamentally different from spring and summer succession planting. Understanding these differences is essential for anyone adapting Coleman's system to their own climate and operation. (see [[coleman-greenhouse-summer-crops]]).
+Succession planting is one of the three foundational components of Coleman's winter harvest system, alongside cold-hardy vegetables and [[coleman-protected-cultivation]]. The concept is simple—sowing vegetables more than once during a season to provide continuous harvest—but the execution for [[coleman-beet-greens-cold-house-winter-production]] is fundamentally different from spring and summer succession planting. Understanding these differences is essential for anyone adapting Coleman's system to their own climate and operation. (see [[coleman-greenhouse-summer-crops]]).
 
 ## What Is Succession Planting?
 
@@ -62,7 +62,7 @@ This means all the growth that sustains the winter harvest must occur between Au
 
 Crops like radishes, arugula, and baby greens can be sown later in the fall because they require less time to reach maturity:
 - Final sowing dates: mid-September to early October
-- These crops provide harvests during the shoulder seasons (fall and early spring)
+- These crops provide harvests during the shoulder seasons (fall [[coleman-overwintered-onions-and-early-spring-crops]])
 - They may not produce through the depths of winter
 
 ### Medium-Maturing Crops (45-60 days)
@@ -87,68 +87,3 @@ Coleman's goal is to never leave a greenhouse bed unplanted. Within 24 hours of 
 1. Crop residues are removed
 2. The soil is re-prepared (light cultivation, compost amendment if needed)
 3. The bed is replanted with the next succession
-
-This intensive approach maximizes productivity and ensures continuous harvest, but it requires:
-- Careful advance planning of sowing schedules
-- Efficient harvest and bed-turnaround procedures
-- A reliable supply of transplants or seeds
-- Diligent record-keeping to track rotations
-
-### Crop Rotation Records
-
-Maintaining careful records is essential for managing intensive succession planting:
-- Track which crop occupied each bed and when
-- Record sowing dates, harvest dates, and performance observations
-- Use records to plan future successions and avoid repeating crops in the same location
-- Over time, the records reveal which sowing dates produce the best results in each microclimate
-
-## Protected Outdoor Sowing
-
-### Field Sowing Under Future Greenhouse Position
-
-A key innovation enabled by the mobile greenhouse system is the ability to sow winter crops outdoors in the open field during August and September, then move the greenhouse over them in October. This provides several advantages:
-
-- No overheating problems during crop establishment
-- Natural rainfall reduces irrigation needs during early growth
-- Full sun exposure supports rapid early growth
-- Crops are naturally hardened off by fall weather before the greenhouse arrives
-
-### Direct Sowing vs. Transplanting
-
-Coleman uses both approaches depending on the crop and timing:
-- **Direct sowing**: Preferred for root crops (carrots, radishes, turnips) and fast greens (arugula, mizuna, tatsoi) sown in late summer
-- **Transplanting**: Preferred for crops needing a head start (lettuce, chard, chicory) and for later successions when outdoor conditions are cooling
-- **Soil blocks**: Coleman's preferred transplant system, using compressed soil blocks rather than plastic pots
-
-## Cut-and-Come-Again Harvesting
-
-### Midwinter Production Strategy
-
-During the deepest winter months (December through February), when day length is shortest and growth has nearly ceased, the primary production strategy shifts to cut-and-come-again harvesting:
-
-- Established plants are not pulled but cut above the growing point
-- The plants regrow from the base when day length begins to increase
-- This provides 2-4 harvests from a single planting
-- Works well for spinach, lettuce, arugula, claytonia, mizuna, and tatsoi
-
-### Late-Fall and Winter Sowing
-
-While midwinter growth is minimal, Coleman continues sowing through the fall and into winter:
-- Late-fall and winter sowings slowly reach productive size
-- These provide the first harvests of late winter and early spring
-- Growth accelerates rapidly once days lengthen past 10 hours
-- The overlap between cut-and-come-again harvests and new plantings ensures continuous supply
-
-## Adaptation to Different Climates
-
-### Adaptation to Different Climates
-
-The timing of the 10-hour day threshold varies with latitude: higher latitudes reach it in late October, lower latitudes in late November or December, and tropical latitudes may not experience it at all. Colder hardiness zones may need earlier sowing dates and greater reliance on double-layer protection. The fundamental principle remains constant: establish crops before the 10-hour threshold wherever you grow.
-
-## Summary
-
-Coleman's succession planting strategy for winter harvest is the temporal architecture that makes the entire system work. By understanding that fall planting is the reverse of spring planting—declining day length and temperature rather than increasing—and by precisely timing sowings to get crops established before the 10-hour day threshold, growers can maintain continuous harvest through the coldest months. The "second spring" that begins on August 1 is the most important planting season of the year for winter harvest success.
-
-
-## See Also
-- [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]

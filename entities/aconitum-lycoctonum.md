@@ -12,7 +12,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Aucher, L. & Kadereit, J.W. (2000). "The Evolution of the Aconitum napellus Group." Plant Systematics and Evolution, 224, 31–51.
+  - Aucher, L. & Kadereit, J.W. (2000). "The Evolution of the aconitum-napellus Group." Plant Systematics and Evolution, 224, 31–51.
   - Uno, G.E. (1989). "Pollination Biology of Aconitum." In Bock, J.H. & Linhart, Y.B. (eds.), The Evolutionary Ecology of Plants.
   - Treat, C.H. et al. (2013). "Alkaloid Diversity in Aconitum Species." Phytochemistry, 89, 108–120.
   - Hackenberg, D. et al. (2017). "Systematics of Aconitum Section Lycoctonum." Taxon, 66(3), 582–595.
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Aconitum lycoctonum, commonly known as wolf's bane or northern wolfsbane, is a perennial herb in the family Ranunculaceae. It is native to the mountains and boreal forests of Europe and northern Asia, ranging from the Pyrenees and Alps through Scandinavia to the Russian Urals and Siberia.
+Aconitum lycoctonum, commonly known as wolf's bane or northern wolfsbane, is a perennial herb in the family Ranunculaceae. It is native to the mountains and [[biodiversity-fungi-temperate-boreal-forests]] of Europe and northern Asia, ranging from the Pyrenees and Alps through Scandinavia to the Russian Urals and Siberia.
 
 The species produces tall, erect stems 50–150 cm bearing helmet-shaped yellow flowers in loose, branched racemes during mid to late summer. Unlike the blue-flowered Aconitum napellus, its blooms are pale sulfur-yellow to creamy white.
 
@@ -35,7 +35,7 @@ Aconitum lycoctonum is cultivated as an ornamental for its unusual flower color 
 
 Aconitum lycoctonum was described by Linnaeus in Species Plantarum (1753). It is the type species of section Lycoctonum, a group of approximately 15 species characterized by yellow or cream flowers and zygomorphic structure.
 
-The section is genetically distinct from the blue-flowered section Aconitum and shows closer affinities to the genus Consolida in some molecular analyses. Aconitum lycoctonum is diploid (2n = 16) and shows limited intraspecific chromosomal variation across its range.
+The section is genetically distinct from the blue-flowered section Aconitum and shows closer affinities to the genus Consolida in some molecular analyses. Aconitum lycoctonum is diploid (2n = 16) and shows limited intraspecific chromosomal [[psilocybin-psilocin-variation-across-flushes]] its range.
 
 The stem is erect, glabrous to sparsely pubescent, and typically unbranched below the inflorescence. Leaves are palmately divided into 5–7 deep, narrowly lanceolate segments with sharply toothed margins.
 
@@ -55,7 +55,7 @@ In mountainous regions, it grows at elevations from 800 to 2,500 m, preferring s
 
 The species favors moist, nitrogen-rich, slightly acidic to neutral soils. It is frequently found near streams, in avalanche tracks, and in other sites with disturbed but nutrient-enriched substrates.
 
-Common associates include Trollius europaeus, Caltha palustris, Geranium sylvaticum, and various tall herbs in subalpine tall-herb communities. It is classified as Least Concern across its broad range.
+Common associates include [[trollius-europaeus]], [[caltha-palustris]], Geranium sylvaticum, and various tall herbs in subalpine tall-herb communities. It is classified as Least Concern across its broad range.
 
 In the Scandinavian mountains, Aconitum lycoctonum is a characteristic species of the tall-herb belt above the birch forest line. It persists in snowbed communities where late-melting snow provides reliable moisture.
 
@@ -67,7 +67,7 @@ Aconitum lycoctonum flowers from July to September, later than most other subalp
 
 The nectar is alkaloid-free despite the toxic foliage, allowing safe feeding by pollinators. However, the pollen contains low levels of alkaloids that may discourage pollen-collecting bees and promote outcrossing.
 
-Seed production is prolific, with each follicle containing 20–40 winged seeds dispersed by wind. Seedling establishment requires bare, moist soil and is enhanced in recently disturbed microsites such as animal diggings or erosion scars.
+[[cannabis-controlled-pollination-seed-production]] is prolific, with each follicle containing 20–40 winged seeds dispersed by wind. Seedling establishment requires bare, moist soil and is enhanced in recently disturbed microsites such as animal diggings or erosion scars.
 
 Vegetative spread is limited; the plant forms a slowly expanding clump but does not produce stolons or spreading rhizomes. Longevity of individual plants is estimated at 15–25 years.
 
@@ -88,34 +88,3 @@ Planting is best done in spring using container-grown plants, as the fleshy root
 The yellow flower color is unusual in the genus and combines well with blue and purple late-summer perennials such as Aconitum napellus, Aster, and Gentiana. The tall stems may require staking in exposed sites.
 
 Deadheading after flowering prevents unwanted self-seeding in the garden. Some gardeners leave a few seed heads for winter architectural interest.
-
-Propagation by seed is reliable if sown fresh in autumn. Seeds require a period of cold stratification and may take 6–12 months to germinate. Division of root clumps in early spring is an alternative method.
-
-Gardeners should handle all parts of the plant with gloves, as the alkaloids can be absorbed through broken skin. The plant should not be grown where children or pets might ingest it.
-
-The species is rarely troubled by slugs or snails, which avoid the toxic foliage. Aphid infestations can occur on young shoots in spring but are seldom serious.
-
-## Uses
-
-Aconitum lycoctonum has a long history of use as a poison in northern Europe and Asia. The name "wolf's bane" derives from its traditional use in baiting wolf traps and poisoning predator carcasses.
-
-In Siberian traditional medicine, the roots were used externally as a tincture for joint and muscle pain. Internal use was extremely dangerous and limited to minute doses administered by experienced practitioners.
-
-The alkaloid lycoctonine has been studied for its neuropharmacological properties. It acts as a sodium channel modulator with potential analgesic effects, though clinical applications have not been developed due to the narrow therapeutic window.
-
-Modern herbal medicine does not use Aconitum lycoctonum due to its toxicity. The plant serves primarily as an ornamental and as a subject for phytochemical research into diterpenoid alkaloid biosynthesis.
-
-Phytochemical studies of Aconitum lycoctonum continue to identify novel alkaloid structures. These compounds are of interest for their complex polycyclic ring systems and potential as molecular scaffolds for drug development.
-
-## See Also
-
-- [[aconitum-napellus]]
-- [[aconitum-carmichaelii]]
-- [[delphinium-elatum]]
-- [[actaea-racemosa]]
-- [[helleborus-niger]]
-- [[thalictrum-delavayi]]
-- [[clematis-terniflora]]
-- [[pulsatilla-alpina]]
-- [[adonis-vernalis]]
-- [[ranunculus-acris]]

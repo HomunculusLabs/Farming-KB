@@ -88,26 +88,3 @@ The NIMH supplied confiscated hashish for research purposes. One
 study involved 13 kg of hashish of unknown origin extracted with
 95% [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]] and analyzed by gas-liquid chromatography,
 yielding data on the composition of cannabinoid profiles
-(29.5% cannabidiol, 8.2% cannabinol, 5.8% delta-9 THC). This
-research was published in the Lloydia Journal of Natural Products
-(page 456, volume 33, number 4).
-
-### Drug Enforcement Administration (1973)
-
-The DEA commented on the emerging problem of cannabis oil smuggling,
-describing various extraction devices they had seized. This
-documentation, referenced through Michael Starks' *Marijuana
-Potency*, highlights the cat-and-mouse dynamic between underground
-chemists and law enforcement, likened to the traditional
-moonshiner-revenuer chase.
-
-### Bonuccelli (1979)
-
-Research on the effect of solvent type on THC solution stability
-demonstrated that chloroform and chlorine-containing solvents
-promote significant THC [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-advanced-refinement-techniques]]
-
-## See Also
-
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]

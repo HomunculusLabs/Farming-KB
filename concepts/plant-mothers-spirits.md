@@ -6,11 +6,11 @@ tags: [amazon, plant-spirits, animism, vegetalista, ethnobotany, plant-teachers]
 
 # Plant Mothers and Spirits
 
-In Amazonian ethnobotany and the vegetalista tradition, every plant
+In [[sananga-eye-medicine-amazonian-ethnobotany]] and the vegetalista tradition, every plant
 possesses a spirit — a conscious entity that serves as the essence and
 guardian of the species. These spirits, often called "mothers" (*madres*)
 or "plant teachers," are considered the true owners and custodians of
-the plants. Pablo Amaringo, the renowned Shipibo painter and former
+the plants. [[pablo-amaringo]], the renowned Shipibo painter and former
 vegetalista, stated: "Every tree, every plant, has a spirit. People may
 say that the plant has no mind. I tell them that the plant is alive and
 conscious. A plant may not talk, but there is a spirit in it that is
@@ -20,7 +20,7 @@ essence, what makes it alive."
 ## The Concept of Plant Mothers
 
 The "mother" of a plant is its governing spirit — a supernatural being
-who protects the species, controls its medicinal properties, and
+who protects the species, controls its [[panax-ginseng]], and
 decides whether to share its knowledge with human practitioners. Each
 plant mother has a distinct personality, appearance, and set of
 requirements that must be met before the plant's medicine can be safely
@@ -71,7 +71,7 @@ process of extended dietary isolation (dieta), during which the
 practitioner consumes the plant while following strict behavioral rules:
 sexual abstinence, dietary restrictions, social isolation, and
 purification rituals. Over weeks or months, the plant spirit appears in
-dreams and visions, revealing its medicinal uses, icaros (power songs),
+dreams and visions, revealing its medicinal uses, icaros ([[icaros-power-songs]]),
 and spiritual knowledge.
 
 This relationship is reciprocal. The vegetalista offers tobacco,
@@ -86,34 +86,5 @@ Amaringo describes the spirits of plants as "conservadores" — those
 who take care of the plants. They are the ones who "have taken over
 these plants." During [[harner-amazonian-ayahuasca-preparation-methods]], these conservadores must
 be invited to participate; without their presence, the brew will not
-produce visions or healing effects. This belief explains why the same
+produce visions or [[gratitude-compassion-forgiveness-healing-effects]]. This belief explains why the same
 plant species can produce dramatically different effects depending on
-who prepares it and under what conditions.
-
-## Animism and Plant Consciousness
-
-The belief in plant spirits reflects a broader Amazonian animistic
-worldview in which all of nature is imbued with consciousness and
-agency. The channels through which water and sap move within a plant
-are described as "the veins of the spirit." This is not mere metaphor
-in the indigenous context — it represents a fundamentally different
-understanding of plant life as sentient and communicative beings worthy
-of the same respect accorded to human persons. Modern ethnobotanists increasingly recognize that indigenous animistic frameworks encode sophisticated ecological knowledge.
-
-## The Sacha-huarmi (Women of the Forest)
-
-Certain powerful plants appear in visions as seated women in
-conversation, known as sacha-huarmi (women of the forest). These
-plants grow in specific places in the Amazon where there are large
-rocks and are extremely difficult to find and recognize. Their
-spirits embody the deep connection between feminine creative power
-and the plant world in Amazonian cosmology. They are among the most
-revered of all plant teachers, and the knowledge they impart is
-considered particularly potent and rare.
-
-## See Also
-- [[chacruna-psychotria-viridis]]
-- [[spirit-mothers-of-plants]]
-- [[ayahuasca-visions]]
-- [[ayahuasca-preparation]]
-- [[pablo-amaringo]]

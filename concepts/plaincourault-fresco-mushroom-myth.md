@@ -88,33 +88,3 @@ through the lens of contemporary interests. Similar patterns can be observed
 in interpretations of ancient cave art, pre-Columbian sculpture, and medieval
 manuscript illuminations, all of which have been claimed to depict mushrooms
 with varying degrees of plausibility.
-
-The Plaincourault case also demonstrates the tension between disciplinary
-expertise and popular enthusiasm. Art historians bring knowledge of artistic
-conventions, iconographic traditions, and comparative analysis that
-non-specialists may lack, while enthusiasts bring passion and a willingness
-to consider unconventional interpretations. Both perspectives contribute to
-the ongoing dialogue about the role of psychoactive substances in human
-[[shroom-cultural-history-hippie-revolution-and-counterculture]].
-
-## Lessons for Mycological Historians
-
-The Plaincourault affair offers several cautionary lessons for anyone
-investigating the historical role of mushrooms in human culture:
-
-- Visual resemblance alone is insufficient evidence for intentional
-  depiction of specific organisms
-- Artistic conventions of other eras may produce forms that appear meaningful
-  through modern eyes but were conventional or accidental in their original
-  context
-- Corroborating evidence from multiple independent sources is essential
-  before accepting extraordinary claims
-- Scholarly retraction should be given as much attention as original claims
-
-## See Also
-
-- [[amanita-muscaria-herb-of-immortality-soma-hypothesis]]
-- [[amanita-herb-greek-roman-culture]]
-- [[mckenna-food-gods-mesoamerican-mushrooms]]
-- [[allegro-the-sacred-mushroom-amanita-identification]]
-- [[mckenna-food-of-the-gods-thesis]]

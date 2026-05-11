@@ -10,8 +10,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
-  - Grogan, J. & Barreto, P. (2005). "Big-leaf mahogany growth and survival." Forest Ecology and Management, 206(1–3), 25–35.
+  - Grogan, J. & Barreto, P. (2005). "Big-leaf mahogany growth and survival." Forest [[nematode-management]], 206(1–3), 25–35.
   - Veríssimo, A. et al. (1995). "Logging impacts in the Brazilian Amazon." International Tropical Timber Organization.
   - Snook, L.K. (1996). "Catastrophic disturbance, logging and the ecology of mahogany." Forest Ecology and Management, 83(1–2), 87–99.
   - Pennington, T.D. (1981). "Melianceae." Flora Neotropica, Monograph 28. New York Botanical Garden.
@@ -39,7 +40,7 @@ All three belong to the family Meliaceae, which also includes the [[mollison-des
 
 Mature trees reach 30–45 meters in height with a straight, cylindrical trunk up to 2 meters in diameter.
 
-The bole is typically clear of branches for 15–20 meters, an important characteristic for timber production.
+The bole is typically clear of branches for 15–20 meters, an important characteristic for [[honey-locust-pod-fodder-timber-production]].
 
 Bark is dark brown to grey, rough and scaly, with vertical fissures developing on older trees.
 
@@ -57,7 +58,7 @@ Seeds are brown, approximately 1.5–2 cm long, with a distinctive papery wing f
 
 ## Distribution and Habitat
 
-Big-leaf mahogany ranges from the Yucatán Peninsula of Mexico through Central America to Bolivia, Peru, and western Brazil.
+Big-leaf mahogany ranges from the Yucatán Peninsula of Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Bolivia, Peru, and western Brazil.
 
 Its southern range extends to approximately 18°S latitude in the Bolivian lowlands and the state of Mato Grosso in Brazil.
 
@@ -67,7 +68,7 @@ It shows a strong preference for seasonally dry forests, where it is often found
 
 Natural regeneration is concentrated in canopy gaps and disturbed areas, particularly along rivers, roads, and abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
-Seedlings are shade-intolerant and require high-light conditions to establish and grow successfully.
+Seedlings are shade-intolerant and require high-light conditions to establish and [[query-how-to-grow-successfully-in-containers-and-what-plants-work-best]].
 
 ## Timber Properties and Uses
 
@@ -86,57 +87,3 @@ Historically, mahogany was the dominant timber for high-end European and America
 Current uses include luxury flooring, architectural millwork, custom cabinetry, and aircraft interiors.
 
 The wood machines, turns, glues, and finishes exceptionally well, contributing to its premium market position.
-
-## Cultivation and Silviculture
-
-Mahogany has been widely planted in plantations across tropical Asia, Africa, and the Pacific since the early 20th century.
-
-Plantation growth rates are significantly higher than natural forest rates, with mean annual increments of 6–20 m³/ha/year.
-
-Optimal plantation conditions include well-drained, fertile soils, annual rainfall exceeding 1500 mm, and full sun exposure.
-
-Seed viability declines rapidly; seeds should be sown within 2–3 months of collection for best germination rates.
-
-Pre-treatment by soaking in water for 24–48 hours improves germination, which typically reaches 60–80%.
-
-Plantation trees may begin flowering at 8–12 years and produce viable seed by 15–20 years.
-
-The shoot borer (Hypsipyla grandella) is the most serious pest in neotropical plantations, causing significant damage to the terminal shoot.
-
-In Southeast Asian plantations, where Hypsipyla is absent, mahogany grows vigorously and has become naturalized in some areas.
-
-## Ecology and Conservation
-
-In natural forests, mahogany plays an important role as a canopy and emergent tree, influencing [[mollison-wet-tropical-forest-structure-and-polyculture]] and light dynamics.
-
-The species is a valuable food source for several parrot and macaw species that feed on the seeds during the dry season.
-
-Seed dispersal is primarily by wind, though seeds that fall into rivers may be transported considerable distances by water.
-
-Big-leaf mahogany populations have declined by an estimated 70–80% over the past three generations due to selective logging.
-
-The species was listed on CITES Appendix II in 2002, requiring export permits that demonstrate sustainable harvest levels.
-
-Illegal logging remains a persistent problem in parts of the Amazon and Central America, undermining conservation efforts.
-
-Natural regeneration in logged forests is often insufficient to maintain populations without targeted silvicultural intervention.
-
-Community-based [[mollison-pdc-forest-management-products]] and certified sustainable forestry programs offer promising approaches for long-term conservation.
-
-## See Also
-
-- [[hydrangea-macrophylla]]
-
-- [[enterolobium-cyclocarpum]]
-
-- [[swietenia-mahagoni]]
-
-- [[cedrela-odorata]]
-- [[ailanthus-altissima]]
-- [[jacaranda-mimosifolia]]
-- [[handroanthus-impetiginosa]]
-- [[tabebuia-impetiginosa]]
-- [[eucalyptus-globulus]]
-- [[acacia-mearnsii]]
-- [[robinia-pseudoacacia]]
-- gliricidia-sepium

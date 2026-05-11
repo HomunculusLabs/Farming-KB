@@ -17,15 +17,15 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ## Overview
 Pythium ultimum is a soil-borne oomycete that is among the most common
 and destructive pathogens of germinating seeds and young seedlings
-worldwide. It causes damping-off, root rot, and pre-emergence seed
+worldwide. It causes damping-off, [[cannabis-root-rot-prevention-and-treatment]], and pre-emergence seed
 decay on a very wide range of crop plants, including cucumber, sugar
 beet, wheat, and many vegetables. Although traditionally studied by
 mycologists and grouped with fungi, Pythium belongs to the
 Peronosporomycetes (Oomycota), a lineage within the Stramenopiles that
 is distinct from true Fungi. The source text extensively documents P.
 ultimum as a target for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] by various mycoparasitic
-fungi, including Trichoderma virens, Geomyces pannorum, and
-Laetisaria arvalis.
+fungi, including [[trichoderma-virens]], Geomyces pannorum, and
+[[laetisaria-arvalis]].
 
 ## Taxonomy and Classification
 - **Kingdom:** Stramenopila (Chromista)
@@ -64,7 +64,7 @@ Laetisaria arvalis.
 ### Disease and Economic Impact
 - Major cause of pre-emergence and post-emergence damping-off
   in seedling nurseries and field crops
-- Causes root rot of mature plants, particularly in cucumber,
+- [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] of mature plants, particularly in cucumber,
   sugar beet, and wheat
 - Disease is most severe in cool, wet soils and can result in
   complete stand loss
@@ -84,47 +84,7 @@ Laetisaria arvalis.
 - Peat substratum colonized by G. pannorum effectively
   suppresses P. ultimum
 - Laetisaria arvalis is a potent biocontrol agent against
-  both P. ultimum and Rhizoctonia solani (Hoch and Abawi
+  both P. ultimum and [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]] (Hoch and Abawi
   1979b)
-- Pythium oligandrum is used to coat seeds of cress and sugar
+- [[pythium-oligandrum]] is used to coat seeds of cress and sugar
   beet against P. ultimum and Aphanomyces
-- Fusarium merismoides parasitizes oospores of P. ultimum
-  (Hoch and Abawi 1979a)
-- Seed-coating with Trichoderma species is a common
-  application method (Chet 1987; Howell 1991)
-
-### Life Cycle
-- Oospores germinate in response to root exudates from
-  germinating seeds
-- Hyphae grow toward host roots and produce sporangia
-- Zoospores are released and swim toward chemical attractants
-  from host roots
-- Zoospores encyst on root surfaces, germinate, and directly
-  penetrate the epidermis
-- Infected tissues become water-soaked and rapidly macerated
-- Oospores form in infected tissues and return to soil upon
-  plant death
-
-### Research Methods
-- Selective isolation using PARP medium (pimaricin, ampicillin,
-  rifampicin, pentachloronitrobenzene)
-- Baiting techniques using susceptible seedlings
-- Soil [[particle-filtration-dilution-plating-microfungal-isolation]] on selective media
-- [[fukuoka-direct-observation-method]] of zoospore behavior under microscopy
-- Molecular detection via ITS rDNA sequencing
-
-## Relevance
-Pythium ultimum is one of the most important soil-borne plant pathogens
-in agriculture. The extensive documentation of biological control agents
-targeting this species in the source text, including Trichoderma,
-Geomyces, and Laetisaria species, reflects the importance of developing
-sustainable alternatives to [[cervantes-chemical-fungicides-insecticides]] for managing damping-off
-diseases. The complex mycoparasitic interactions involving P. ultimum
-serve as model systems for studying fungal odonata dragonflies damselflies ecology and biological control
-control mechanisms.
-
-## See Also
-
-- [[botrytis-cinerea]]
-- [[colletotrichum-gloeosporioides]]
-- [[fusarium-verticillioides]]

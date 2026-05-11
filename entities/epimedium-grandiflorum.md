@@ -54,7 +54,7 @@ Icariin acts as a phosphodiesterase-5 (PDE5) inhibitor with reported selectivity
 
 The compound exhibits phytoestrogenic activity by activating estrogen receptor α (ERα) and ERβ, with a preference for ERα at low concentrations. This dual ER agonism underlies its osteoprotective effects through stimulation of osteoblast proliferation and suppression of osteoclast-mediated bone resorption.
 
-Neuroprotective effects have been demonstrated in animal models of Alzheimer's disease, where icariin reduces amyloid-β accumulation and tau hyperphosphorylation. Anti-inflammatory activity is mediated through suppression of NF-κB and MAPK signaling pathways.
+Neuroprotective effects have been demonstrated in animal models of Alzheimer's disease, where icariin reduces amyloid-β accumulation and tau hyperphosphorylation. Anti-inflammatory activity is mediated through suppression of NF-κB and MAPK [[plant-signaling-pathways]].
 
 ## Cultivation
 
@@ -68,13 +68,13 @@ In medicinal cultivation, plants are typically harvested at peak flowering for m
 
 In TCM, E. grandiflorum (yín yáng hòu) is classified as acrid, sweet, and warm. It is said to tonify kidney yang, strengthen bones and tendons, and dispel wind-dampness. Traditional indications include lower back pain, joint pain, impotence, and frequent urination.
 
-The classical text Běncǎo Gāngmù (Li Shizhen, 1596) records that the name derives from observations of goats grazing on the plant becoming notably more sexually active. This observation became foundational to the species' reputation in East Asian herbal medicine.
+The classical text Běncǎo Gāngmù (Li Shizhen, 1596) records that the name derives from observations of goats grazing on the plant becoming notably more sexually active. This observation became foundational to the species' reputation in East Asian [[childrens-herbal-medicine]].
 
-In Japanese Kampo medicine, the dried herb (in'yoku) is used in formulations for cold extremities, lumbar weakness, and as a component of reproductive tonics. The modern use extends to dietary supplements marketed for sexual health and athletic performance.
+In Japanese Kampo medicine, the [[dried-herb-storage]] (in'yoku) is used in formulations for cold extremities, lumbar weakness, and as a component of reproductive tonics. The modern use extends to [[medicinal-mushroom-dietary-supplements]] marketed for sexual health and athletic performance.
 
 ## Related Species
 
-The genus Epimedium comprises approximately 60 species distributed across temperate Asia and the Mediterranean basin. Several species are used interchangeably in commercial herbal preparations.
+The genus Epimedium comprises approximately 60 species distributed across temperate Asia and the Mediterranean basin. Several species are used interchangeably in commercial [[honey-based-herbal-preparations]].
 
 E. sagittatum is the most widely used species in Chinese commerce, with a long history of use in southern Chinese medicine. E. brevicornum, E. wushanense, and E. koreanum are also official [[dmt-botanical-sources-pharmacology]] listed in the Chinese Pharmacopoeia for the drug Herba Epimedii.
 
@@ -86,28 +86,4 @@ E. pubescens and E. myrianthum are lesser-known species under investigation for 
 
 E. grandiflorum plays a role in forest understory ecology as an early-spring bloomer providing nectar resources for emerging bumblebee queens (Bombus spp.). The long-spurred floral morphology represents a coevolutionary adaptation to pollination by long-tongued bees.
 
-The creeping rhizome system contributes to soil stabilization on shaded slopes and stream banks. The dense leaf canopy suppresses competing ground flora, making it an effective ground cover in ornamental landscapes.
-
-The species is moderately browsed by deer and shows some resistance to [[query-how-to-get-rid-of-slugs-and-snails-organically]], contributing to its reliability as a cultivated ornamental. In its native range, it serves as a host for several specialist leaf-mining flies in the Agromyzidae family.
-
-## Modern Research Directions
-
-Recent research has expanded beyond traditional indications to explore the anticancer potential of icariin and its metabolites. In vitro studies demonstrate inhibition of proliferation in breast, prostate, and lung cancer cell lines through cell-cycle arrest and apoptosis induction.
-
-Icaritin, the aglycone metabolite, has entered Phase II [[mushroom-cancer-clinical-trials-overview]] in China for hepatocellular carcinoma. The compound shows immunomodulatory activity through enhancement of T-cell function and modulation of cytokine production.
-
-Metabolomic studies using LC-MS/MS have identified over 100 [[antifungal-secondary-metabolites-coprophilous-fungi]] in E. grandiflorum, including previously uncharacterized prenylated flavonoids with novel substitution patterns. These findings suggest untapped pharmacological potential in minor constituents.
-
-Biotechnological approaches including hairy root culture and endophytic fungus elicitation have been developed to enhance icariin production. Cell suspension cultures of E. brevicornum have achieved yields of 0.8% icariin, approaching field-harvest levels.
-
-## See Also
-
-- [[rhodiola-rosea]]
-- [[panax-ginseng]]
-- [[glycyrrhiza-glabra]]
-- [[leonurus-cardiaca-entity]]
-- [[humulus-lupulus]]
-- [[passiflora-incarnata]]
-- [[tribulus-terrestris]]
-- [[turnera-diffusa]]
-- [[panax-notoginseng]]
+The creeping rhizome system contributes to soil stabilization on shaded slopes and stream banks. The dense leaf canopy suppresses competing ground flora, making it an effective [[fukuoka-ground-cover-strategy]] in ornamental landscapes.

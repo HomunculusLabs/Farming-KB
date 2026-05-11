@@ -1,5 +1,5 @@
 ---
-title: [[green-cannabis-curing-drying-buds]] cola development bud architecture and Bud Architecture in Cannabis
+title: Green Cannabis Cola Development Bud Architecture
 created: 2026-04-26
 tags:
   - cannabis

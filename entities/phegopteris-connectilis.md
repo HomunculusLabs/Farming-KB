@@ -88,34 +88,3 @@ The species hosts a small but documented assemblage of fern-specific fungi, incl
 Narrow beech fern is cultivated as an ornamental shade garden plant, valued for its delicate texture and spreading habit. It is hardy to USDA Zone 3 and tolerates deep shade better than many other woodland ferns.
 
 In cultivation, it prefers part to full shade with consistently moist, well-drained soil rich in organic matter. It is relatively low-maintenance once established and spreads gradually without becoming invasive. It is not commonly available in the commercial nursery trade compared to more popular ferns like [[adiantum-pedatum]].
-
-No significant medicinal or culinary uses are documented for Phegopteris connectilis. Indigenous peoples of northern regions reportedly used the fronds occasionally as bedding material, but the species does not appear prominently in ethnobotanical literature.
-
-The genus name Phegopteris derives from the Greek phegos, meaning beech, and pteris, meaning fern, referencing the species' common association with beech-dominated forests in Europe.
-
-The fern is occasionally used in ecological restoration projects for shaded riparian buffers and reforested sites where native understory cover is needed. Its tolerance of acidic soils makes it suitable for reclamation of forested sites with disturbed understories.
-
-Propagation is most reliably achieved by division of the creeping rhizome in early spring. Spore culture is possible but requires patience, as gametophyte development takes 2–3 months and sporophyte maturation may take an additional year.
-
-## Conservation Status
-
-Phegopteris connectilis is widespread and secure across most of its global range. It is not listed as threatened or endangered by the IUCN, NatureServe, or most state-level conservation agencies.
-
-In the southern portions of its North American range, some populations may experience pressure from habitat loss due to land development and forest fragmentation. However, the species remains common and its populations are considered stable overall.
-
-Climate change modeling suggests potential northward range contraction at the southern edges of its distribution, particularly in the Appalachian region. The species is not considered at significant risk in the foreseeable future given its extensive circumboreal range.
-
-In the context of forest management, Phegopteris connectilis is sometimes used as a reference species for assessing understory recovery after timber harvesting. Its gradual recolonization of cleared areas provides a natural benchmark for the pace of forest floor community restoration.
-
-## See Also
-
-- [[dryopteris-filix-mas]]
-- [[athyrium-filix-femina]]
-- [[adiantum-pedatum]]
-- [[polystichum-acrostichoides]]
-- [[onoclea-sensibilis]]
-- [[pteridium-aquilinum]]
-- [[botrychium-lunaria]]
-- [[osmunda-regalis]]
-- [[matteuccia-struthiopteris]]
-- [[blechnum-spicant]]

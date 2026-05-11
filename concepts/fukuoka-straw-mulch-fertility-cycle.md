@@ -87,32 +87,3 @@ For Fukuoka, the straw mulch system was not merely a technique but an expression
 The practice of returning all straw to the field represents a closed-loop system where nothing is removed and nothing external is added (beyond seeds). This contrasts with conventional agriculture where crop residues are often removed, burned, or otherwise disposed of, and fertility is maintained through external inputs. Fukuoka's system demonstrates that when the natural cycle of growth, harvest, and return is maintained, the soil's productive capacity can be sustained indefinitely without external amendments.
 
 ## Application Beyond Rice and Grain
-
-While Fukuoka developed his straw mulch system for rice and winter grain cultivation in Japan, the principles apply broadly:
-
-- **Vegetable gardens** — Straw mulch around vegetable plants suppresses weeds, retains moisture, and adds organic matter as it decomposes. The no-till approach is directly transferable to raised bed and intensive garden systems.
-
-- **Orchard floors** — Fukuoka maintained permanent ground covers of white clover beneath his fruit trees, supplemented by straw from the grain fields. The combination of living ground cover and straw mulch created a continuously protected soil surface.
-
-- **Pasture improvement** — Broadcasting clover and grain seeds beneath standing vegetation, then allowing the vegetation to be trampled and decompose in place, can improve pasture quality without tillage.
-
-## Lessons for Modern No-Till Agriculture
-
-Fukuoka's straw-based system anticipated many of the principles now being adopted in modern conservation agriculture. No-till farming, cover cropping, and residue management are increasingly recognized as essential practices for sustainable food production. Fukuoka's demonstration that these practices could produce yields equal to or exceeding conventional methods in Japan — one of the world's most productive rice-growing nations — provided early evidence that no-till systems could be both productive and sustainable.
-
-The key insight from Fukuoka's work is that soil fertility is not something that must be manufactured and applied from outside. Rather, fertility is the natural condition of living soil, maintained by the continuous cycle of plant growth and organic matter return. When this cycle is broken through tillage, residue removal, or chemical interference, fertility must be replaced through external inputs. When the cycle is maintained, as in Fukuoka's straw mulch system, the soil produces abundantly without external amendments.
-
-## Related
-
-- [[fukuoka-rice-straw-mulch-fertility-cycle]]
-
-- [[fukuoka-winter-grain-rice-rotation]]
-- [[natural-farming-soil-building]]
-- [[fukuoka-why-tillage-destroys-soil]]
-- [[direct-seeded-no-tillage-rice-barley-clover-succession]]
-- [[fukuokas-five-principles-of-natural-farming]]
-- [[natural-farming-fukuoka]]
-
-## Sources
-
-- Masanobu Fukuoka (1978). *The One-Straw Revolution*. Rodale Press.

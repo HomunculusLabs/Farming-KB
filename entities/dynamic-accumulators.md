@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - title: "Plants For A Future — Dynamic Accumulators"
+  - title: "Plants For A Future — comparison-dynamic-accumulators-vs-cover-crops"
     url: "https://pfaf.org/user/Plant.aspx?LatinName=Symphytum+officinale"
   - title: "Toensmeier, Eric. comparison-perennial-vegetables-vs-cover-crops. Chelsea Green, 2007."
     url: "https://www.chelseagreen.com/product/perennial-vegetables"
@@ -37,11 +37,11 @@ foundational in permaculture, [[query-what-is-biodynamic-agriculture-and-how-doe
 
 ## Key Accumulators by Nutrient
 
-| Species | Primary Nutrients | Secondary Nutrients | Root Depth |
+| Species | Primary Nutrients | [[calcium-magnesium-secondary-nutrients]] | Root Depth |
 |---------|------------------|---------------------|------------|
-| **Comfrey** (*Symphytum officinale*) | Potassium, Calcium | Phosphorus, Silicon | 1.5–3 m |
-| **Dandelion** (*Taraxacum officinale*) | Iron, Silicon | Calcium, Potassium | 0.6–1.5 m |
-| **Yarrow** (*Achillea millefolium*) | Potassium, Phosphorus | Copper, Sulphur | 0.3–0.6 m |
+| **Comfrey** (*[[comfrey-symphytum-officinale]]*) | Potassium, Calcium | Phosphorus, Silicon | 1.5–3 m |
+| **Dandelion** (*[[taraxacum-officinale]]*) | Iron, Silicon | Calcium, Potassium | 0.6–1.5 m |
+| **Yarrow** (*[[achillea-millefolium]]*) | Potassium, Phosphorus | Copper, Sulphur | 0.3–0.6 m |
 | **Nettle** (*Urtica dioica*) | Nitrogen, Iron | Calcium, Magnesium | 0.5–1 m |
 | **White Clover** (*Trifolium repens*) | Nitrogen (fixation) | Phosphorus | 0.3–0.5 m |
 | **Borage** (*Borago officinalis*) | Calcium, Potassium | Silicon | 0.5–1 m |
@@ -53,7 +53,7 @@ develop extensive taproots that penetrate below the aerobic topsoil into mineral
 subsoil horizons, absorbing calcium, iron, silica, and other minerals that shallow-rooted
 crops cannot reach.
 
-**Mycorrhizal associations.** Accumulator plants form symbiotic relationships with
+**Mycorrhizal associations.** Accumulator plants form [[fungi-in-the-environment-symbiotic-relationships]] with
 [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF). The fungal hyphal network extends the effective root
 surface area, enabling nutrient exchange across soil horizons and direct inter-plant
 nutrient transfer ("common mycorrhizal networking").
@@ -88,60 +88,3 @@ and chicory in complementary mineral-gathering roles.
 
 The concept originates from Robert Kourik (1986) and early biodynamic research. While
 widely accepted in permaculture, mainstream soil science offers a more nuanced view.
-
-**Supporting evidence.** Controlled studies confirm deep-rooted species accumulate higher
-mineral concentrations in leaf tissue. Comfrey shows 2–3× the potassium of common green
-manures. [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by leguminous accumulators (clover, vetch, lupine) is
-extensively validated in agronomic literature.
-
-**Criticisms and limitations:**
-
-- **Bioavailability:** Minerals locked in structural compounds (e.g., silica in cell walls)
-  may decompose slowly, limiting immediate availability.
-- **Soil-specific:** Accumulation profiles vary by soil type, pH, parent material, and
-  [[fukuoka-microbial-ecology-decomposition]]. Results are not universally transferable.
-- **Rate limitations:** Total nutrient flux is modest compared to synthetic fertilization;
-  accumulators complement but rarely replace other fertility strategies.
-- **Limited peer-reviewed data:** Many claims derive from single-source tissue analysis.
-  Systematic polyculture cycling studies remain scarce.
-
-The scientifically grounded approach treats accumulators as one component of a broader
-soil health strategy alongside cover cropping, minimal tillage, and composting.
-## Design Integration
-
-### Fruit Tree Guilds
-
-Accumulators are planted in the drip line of fruit trees as the herbaceous guild layer.
-Recommended spacing: 3–5 comfrey plants per mature tree, with clover as living ground
-cover and yarrow/dandelion as scattered associates.
-
-### Polyculture and Forest Gardens
-
-In polyculture beds, accumulators serve as nurse plants interplanted with heavy feeders
-(tomatoes, brassicas, potatoes). In forest gardens, they occupy every layer — ground-cover
-clovers, understory comfrey, canopy-level nitrogen-fixing trees (alder, black locust) —
-providing vertical nutrient cycling in closed-loop systems with minimal external inputs.
-
-### Swale and Keyline Systems
-
-Accumulators on swale berms and keyline contours stabilize earthworks while cycling
-minerals from construction-exposed subsoil. Chicory and dandelion are effective pioneers.
-
-## Notable Accumulator Species
-
-- **Comfrey** (*S. officinale*, *S. × uplandicum*): Premier accumulator. Potassium 2.0–3.0%
-  dry leaf weight. Bocking 14 cultivar is sterile and preferred for containment.
-- **Stinging Nettle** (*U. dioica*): Iron up to 300 mg/kg dry weight. Also accumulates Ca,
-  Mg, and trace minerals. Primary species for compost tea.
-- **Dandelion** (*T. officinale*): Silicon up to 2.5% dry weight. Root exudates mobilize
-  phosphorus from soil mineral complexes.
-- **Yarrow** (*A. millefolium*): Copper accumulator (up to 35 mg/kg). Deep fibrous roots
-## See Also
-
-- [[ajuga-reptans]]
-- [[helichrysum-italicum]]
-
-- [[rumex-crispus]]
-
-- [[agroecology]]
-- [[styphnolobium-japonicum]]

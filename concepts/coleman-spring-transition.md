@@ -10,15 +10,15 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The Winter Harvest Handbook." Chelsea Green.
+  - eliot-coleman (2009). "The cold-house-winter-harvest-system Handbook." Chelsea Green.
 ---
 
 # Spring Transition from Winter Harvest to Summer Cropping
 
 The transition from winter harvest to summer cropping is one of the most
-critical management periods on a four-season farm. At Four Season Farm,
+critical management periods on a four-season farm. At [[coleman-four-season-farm]],
 the spring transition involves carefully coordinating the wind-down of
-winter crops with the startup of spring and summer plantings in the same
+[[coleman-semi-hibernating-winter-crops-harvest-extension]] with the startup of spring and summer plantings in the same
 greenhouse space.
 
 ## The Overlap Challenge
@@ -33,7 +33,7 @@ to clear winter crops even when they still have some production potential.
 The priority is getting summer crops established on time rather than
 squeezing the last few harvests from winter plantings.
 
-This decision framework reflects a core principle of the four-season
+This [[savory-holistic-resource-management-decision-framework]] reflects a core principle of the four-season
 system: each season's crops must be managed in service of the whole year's
 production plan, not optimized in isolation.
 
@@ -45,7 +45,7 @@ have been harvested repeatedly through the winter, the plants may be
 declining in quality anyway as day length increases and temperatures rise.
 
 For mâche and other once-over harvest crops, the remaining plants are
-simply removed when the harvest window closes. Any plants that have begun
+simply removed when the [[harvest-window-cannabis]] closes. Any plants that have begun
 to bolt are pulled and added to the compost.
 
 The cleared beds are then prepared for the next planting cycle, which may
@@ -88,55 +88,3 @@ spring harvest window.
 ## Greenhouse Microclimate Shifts
 
 The spring transition also involves managing significant changes in the
-greenhouse microclimate. As outdoor temperatures rise and day length
-increases, the greenhouse environment shifts from the cool, stable
-conditions ideal for [[coleman-winter-greens-nutritional-quality-cold-sweetening]] to the warmer, more variable conditions
-suited to summer crops.
-
-Ventilation becomes increasingly important as temperatures rise. The
-greenhouse must be managed to prevent overheating while still providing
-protection from cool nights that can occur well into spring.
-
-The changing light environment also affects crop growth. Longer days
-accelerate the development of many crops, which is beneficial for summer
-plantings but can trigger bolting in remaining winter crops.
-
-## Planning the Transition
-
-Effective spring transition planning begins in the previous autumn, when
-the winter crop plan is being developed. Each winter crop's expected
-clearance date must be estimated to ensure that bed space will be
-available for spring plantings.
-
-This forward planning extends across the entire annual cycle. The winter
-crop schedule, the spring transition, and the summer production plan are
-all interconnected parts of a single system.
-
-Coleman's approach to this planning was pragmatic and experience-based.
-After years of running the four-season system, he had developed a detailed
-understanding of how long each crop takes from planting to clearance under
-the specific conditions at Four Season Farm.
-
-## Lessons for Year-Round Growers
-
-The spring transition illustrates several important principles for year-
-round growing. First, it demonstrates that [[comparison-season-extension-techniques-vs-cold-frame-gardening]] is not just
-about adding production periods but about managing the transitions between
-them.
-
-Second, it shows that flexibility and decisiveness are essential qualities
-for a four-season grower. The willingness to clear a productive crop to
-make room for the next season's plantings requires confidence in the
-overall system design.
-
-Third, it reinforces that year-round production is fundamentally a planning
-and management challenge, not just a production challenge. The grower's
-skill in coordinating overlapping cycles is as important as their ability
-to grow individual crops.
-
-## See Also
-
-- [[coleman-succession-planting]]
-- [[winter-succession-planting]]
-- coleman greenhouse [[comparison-crop-rotation-vs-cover-cropping]]
-- [[coleman-unheated-greenhouse-design]]

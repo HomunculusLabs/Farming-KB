@@ -17,11 +17,11 @@ type: concept
 # Fungal Bioaugmentation
 
 Fungal bioaugmentation refers to the deliberate introduction of specific
-fungal inocula into contaminated environments to enhance the degradation of
+[[formulation-and-delivery-of-fungal-inocula]] into [[singh-fungal-biofilms-in-contaminated-environments]] to enhance the degradation of
 persistent organic pollutants. Laboratory-based studies have shown that fungi
 are able to degrade a wide range of organic pollutants, and fungal bioaugmentation
 has great potential for use as an inoculant strategy. However, soil is a
-heterogeneous environment, and field applications using [[fungal-bioremediation-mechanisms]]
+heterogeneous environment, and [[mycoremediation-field-applications]] using [[fungal-bioremediation-mechanisms]]
 - mycoremediation-species-selection-guide
 - fungal-ecology-mycoremediation
 ## Practical Applications
@@ -41,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,22 +88,3 @@ The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[mycoremediation]]
-- [[singh-fungal-bioaugmentation-contaminated-soils]]
-- [[staycare-bioaugmentation-versus-biostimulation-fungal-bioremediation]]
-- [[fungal-bioaugmentation-inoculation]]
-- [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

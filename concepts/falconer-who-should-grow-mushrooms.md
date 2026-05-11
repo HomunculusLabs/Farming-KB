@@ -1,9 +1,9 @@
 ---
-title: Falconer Who Should query-how-can-i-grow-mushrooms-alongside-garden-vegetables
+title: Falconer Who Should [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
 created: 2026-04-28
 tags:
   [
-    homesteading,
+    [[homesteading]],
     winter-cropping,
   ]
 date: 2026-04-28
@@ -88,31 +88,3 @@ economically than the farmer. He has already the
 cellar-room, the fresh manure and the loam at home,
 and all he needs is some falconer-preparation-of-the-manure once every day or two for about
 three weeks, then building it into a bed and spawning
-and molding it.
-
-## Women on the Farm
-
-Many women are searching for remunerative and
-pleasant employment upon the farm, and what can be
-more interesting, pleasant and profitable work for them
-than mushroom-growing? After the farmer makes up
-the [[falconer-mushroom-bed-boxing-and-protection]] his wife or daughter can attend to
-its management, with scarcely any tax upon her time,
-and without interfering with her other domestic duties.
-
-And it is clean work; there is nothing menial about
-it. Mushrooms are a winter crop; they come when we
-need them most. The supply of eggs in the winter
-season is limited enough, and pin-money often
-proportionately short; but with an insatiable market
-demand for mushrooms all winter long, at good
-prices, no farmer's wife need care whether the hens
-lay eggs at Christmas or not. When mushroom-growing
-is intelligently conducted there is more money in it
-than in hens, and with less trouble.
-
-## See Also
-- [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
-- [[query-how-to-grow-mushrooms-on-straw]]
-- [[query-how-to-grow-mushrooms-on-logs]]
-- [[query-how-to-grow-wine-cap-mushrooms]]

@@ -62,11 +62,11 @@ a complex of closely related taxa across its range.
 
 ## Distribution and Habitat
 
-Ectomycorrhizal exclusively with birch (*Betula pendula*, *B. pubescens*, *B. papyrifera*,
+Ectomycorrhizal exclusively with birch (*[[betula-pendula]]*, *B. pubescens*, *B. papyrifera*,
 and other *Betula* spp.). Found in birch forests, birch-pine mixed woodlands, and
 arctic-alpine birch scrub. Fruits August–October in temperate latitudes; July–September
 in boreal zones. Widespread across Europe (especially Fennoscandia), Russia, Siberia,
-Central Asia, and introduced or naturalized in North America and New Zealand where
+Central Asia, and introduced or naturalized in [[guzman-psilocybin-mushrooms-north-america]] and New Zealand where
 birch is present. Prefers acidic to neutral soils.
 
 ## Toxicity
@@ -88,36 +88,3 @@ ranked among the top five by weight. Known as *karvaletti* (bitter milkcap) in
 Finnish. In Russia and the Baltics it is salted and fermented as a traditional
 appetizer (*solёnye griby*). Traditional preparation involves at least two changes
 of boiling water, followed by heavy salting or marination in vinegar. This process
-leaches the water-soluble acrid compounds. The resulting product has a firm, almost
-crunchy texture with a mild peppery flavor. Contemporary foraging guides in
-non-traditional regions uniformly classify it as toxic and advise against consumption.
-
-## Similar Species
-
-- ***Lactarius torminosus* var. *nordmanensis*:** Debate continues over whether
-  Nordman's milkcap is a distinct species or a color variant; reportedly less
-  acrid, found in the Pacific Northwest.
-- ***Lactarius pubescens* (bearded milkcap):** Very similar woolly margin but
-  smaller, more pallid cap, and found in wetter habitats including dune slacks.
-  Equally acrid and toxic raw.
-- ***Lactarius scrobiculatus* (stubble milkcap):** Larger, with conspicuous pits
-  (scrobiculations) on the stem; also birch-associated and acrid.
-- ***Lactarius controversus* (silver-capped milkcap):** Whitish cap with pinkish
-  gills; associated with poplar and willow, not birch.
-
-## Ecological Role
-
-As an obligate ectomycorrhizal partner of birch, *L. torminosus* facilitates nutrient
-exchange in boreal and temperate birch ecosystems. The mycorrhizal association
-enhances host tree phosphorus and nitrogen uptake, while the fungus receives
-photosynthate carbon. In birch-dominated landscapes undergoing reforestation,
-*Lactarius* species are important indicator organisms of healthy mycorrhizal
-communities. The species is sensitive to heavy [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and declines
-in eutrophied [[fungal-diversity-boreal-forests-taiga]], making it a potential bioindicator of forest health.
-
-## See Also
-
-- [[lactarius-indigo]] — indigo milkcap
-- [[arctium-lappa-entity]] — burdock, a birch-forest understory associate
-- [[lactarius-sanguifluus]]
-- [[lactarius-quietus]]

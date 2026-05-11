@@ -9,13 +9,13 @@ sources: []
 
 # Homestead Record Keeping
 
-Systematic record keeping [[fungal-electronic-specimen-catalogues]] transforms a homestead from a collection of guesswork into a data-driven operation. Tracking your activities lets you identify what works, what does not, and where your resources go. After 2-3 years of good records, you can make informed decisions that save money, increase yields, and reduce failures.
+Systematic record keeping transforms a homestead from a collection of guesswork into a data-driven operation. Tracking your activities lets you identify what works, what does not, and where your resources go. After 2-3 years of good records, you can make informed decisions that save money, increase yields, and reduce failures.
 
 ## Why Keep Records
 
 - **Yield tracking** — know which varieties, planting dates, and methods produce the most food per square foot
 - **Financial accountability** — understand true costs versus income from homestead products
-- **Seasonal planning** — refer to past years to optimize planting, harvesting, and preservation schedules
+- **[[seasonal-planning]]** — refer to past years to optimize planting, harvesting, and preservation schedules
 - **Animal health** — track vaccinations, breeding, weight gain, feed consumption, and health events
 - **Legal and tax** — support deductions, agricultural tax status, and insurance claims
 - **Improvement measurement** — compare year-over-year progress toward your goals
@@ -23,16 +23,16 @@ Systematic record keeping [[fungal-electronic-specimen-catalogues]] transforms a
 ## Record Categories
 
 ### Planting Records
-For each crop, record [[fungal-electronic-specimen-catalogues]]:
+For each crop, record:
 - Variety name and source
 - Planting date and method (direct seed, transplant, start date for indoor starts)
 - Germination rate and date
 - Spacing and location (garden bed number or map reference)
 - Fertilizer/amendment applications (type, rate, date)
-- Pest and disease observations
+- [[hamilton-pest-and-disease-control-organic]] observations
 - First harvest date
 - Total yield (weight or count)
-- Taste notes and quality assessment
+- Taste notes and [[ingham-compost-quality-assessment-visual-microbial-indicators]]
 - Storage method and shelf life
 
 A simple garden journal or spreadsheet handles this well. Include a garden map each year showing what was planted where — essential for crop rotation.
@@ -59,7 +59,7 @@ For each animal or flock, maintain:
 - Weight at purchase and periodic weigh-ins
 - Vaccination and deworming dates (product, dosage)
 - Health events (illness, injury, treatment, outcome)
-- Breeding history (dates, sire, litter size)
+- [[haze-cannabis-lineage-and-breeding-history]] (dates, sire, litter size)
 - Production records (milk yield, egg count, weight gain)
 - Butchering date and dressed weight
 - Feed consumption (type, amount, cost)
@@ -75,16 +75,16 @@ See  for species-specific tracking recommendations.
 
 ### Financial Records
 
-Track every dollar in and out of the homestead [[goat-keeping-guide]] operation. Categories:
+Track every dollar in and out of the homestead operation. Categories:
 
 **Expenses:**
 - Animal feed and supplies
 - Seeds, plants, and garden supplies
 - Fertilizer, amendments, and soil inputs
-- Equipment and tools (with depreciation)
+- [[coleman-small-farm-equipment-and-tools]] (with depreciation)
 - Fuel and utilities
 - Veterinary care and medications
-- Building materials and repairs
+- [[gadd-fungal-biodegradation-concrete-building-materials]] and repairs
 - Insurance
 - Processing supplies (jars, lids, freezer bags, etc.)
 - Education and training
@@ -148,7 +148,3 @@ Consult a tax professional familiar with agricultural operations. Many homestead
 ## Getting Started
 
 Start simple. Do not let the ideal system prevent you from starting. A notebook and a pencil, used consistently, is infinitely better than a perfect database you never maintain. Add complexity as you identify needs. The most important habit is recording data at the time it happens, not from memory days later.
-
-
-## See Also
-- [[fungal-herbarium-record-keeping-specimen-transactions]]

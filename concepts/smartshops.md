@@ -67,12 +67,12 @@ English, French, and German) to attract foreign customers, and a range of produc
 fresh mushrooms to cultivation supplies. Website statistics for one Dutch online shop
 showed that between May 2004 and February 2006, visitors came primarily from the Netherlands
 (73%), followed by Belgium (14%), Germany (2%), and France (2%). Prices for fresh
-[[amanita-muscaria-entity]] (fly agaric)
+[[amanita-muscaria]] (fly agaric)
 and [[psilocybin]]
 and [[smartshops-and-hallucinogenic-mushroom-retail]]
 
 - Hallucinogenic mushrooms
-- [[amanita-muscaria-entity]]
+- [[amanita-muscaria]]
 - [[salvia-divinorum]]
 ## Practical Considerations
 

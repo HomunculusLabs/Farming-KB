@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-TME
 
-PIHKAL entry #164. 4-THIOMETAESCALINE;.
+[[2c-b-pihkal-entry-20]] #164. 4-THIOMETAESCALINE;.
 
 ## Chemical Name
 
@@ -88,20 +88,6 @@ was stirred under an N2 atmosphere and cooled to -10 deg C with an
 external ice/MeOH bath, there was added in sequence 35 mL of 1.6 M
 butyllithium in hexane, 1.8 mL of dry acetonitrile, and 5.0 g of
 
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[pe-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[3-4-dma-entity-pihkal]]
+- [[2c-h-entity-pihkal]]

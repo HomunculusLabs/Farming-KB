@@ -2,13 +2,14 @@
 title: mollison boundary harmonics and edge geometry and Edge Geometry in Design
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - edge-effect
   - design-methodology
   - mollison-designers-manual
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,55 +88,3 @@ At powerlines and fences, perched thrushes and wood pigeons
 defecate, so that each post gains seed and manure, and each generates
 a plant from nearby forests. Perches plus disturbed soil produce this
 result. Fences also act as mulch accumulators across wind.
-
-It follows that edges, boundaries, and interfaces have rich pickings,
-from trade both ways or from constant accumulations. Our dwellings
-and activities benefit from placement at edges, so that designing
-differences into a system is a resource-building strategy, whereas
-smoothing out differences is a deprivation of potential resources.
-
-## Translators and Go-Betweens
-
-Transactions at boundaries are a great part of trade and energy
-changes in life and nature. Differences make trade; every medium
-seeks to gather in those things it lacks, and which occur in the
-other medium. The translator is often of neither medium but a thing
-in itself, the "connection or path between", created from the media,
-but with its own unique characteristics.
-
-Plants, people, and pipes are translators. Nets, sieves, passes, and
-perforations are openings for translators to use. There is no border
-so tight that a way does not exist for trade. Go-betweens or traders,
-like many plants and animals, are creatures of the edge.
-
-## Design Applications
-
-[[mollison-rabbits-in-permaculture-design-and-soil-preparation]], boundary harmonics can be applied to:
-
-- **Pond edges**: Crenellate the shoreline to maximise the interface
-  between water and land, creating more growing area without
-  increasing pond size.
-
-- **Windbreaks**: Use zig-zag or serrate patterns that resist
-  wind-throw better than straight barriers while creating sheltered
-  micro-niches.
-
-- **Garden beds**: Keyhole and lobular bed shapes create compact,
-  accessible growing areas with maximum edge and minimum wasted path.
-
-- **Settlement edges**: Position dwellings and activities at the
-  junction of different ecologies (forest edge, water edge, slope
-  changes) to maximise access to diverse resources.
-
-- **Fences and barriers**: Design fences as accumulators of seed,
-  mulch, and nutrients by understanding how wind-carried materials
-  collect at boundaries.
-
-## See Also
-
-- [[mollison-tessellation-and-annidation-in-design]]
-- mollison-pond-edge-configuration-and-yield
-- mollison-zone-and-sector-analysis
-- [[permaculture-design]]
-- [[mollison-designers-pond-edge-configuration-and-yield-maximisation]]
-- [[mollison-designers-aquatic-edge-planted-wetland-design]]

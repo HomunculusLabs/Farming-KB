@@ -1,5 +1,5 @@
 ---
-title: Amanita [[allegro-amanita-muscaria-properties-and-pharmacology]] in eastern religions Religions
+title: Amanita Muscaria In Eastern Religions
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -88,14 +88,3 @@ The Phoenix -- the mythical bird that dies in fire and is reborn from its own as
 ## Linguistic Evidence
 
 ### The Root "Maga"
-
-The author traces a key Indo-European root:
-
-- **Maga** = "the Great Gift" (the mushroom itself)
-- **Magi** = "Gift bearers" (those who carry the mushroom)
-- **Magus** = "wise one" (one who knows the mushroom's secrets)
-- **Magic** = the power associated with the Great Gift
-
-This root appears throughout Indo-European languages and is connected to the mushroom's role as a source of transformative experience.
-
-### The Root "Nectar"

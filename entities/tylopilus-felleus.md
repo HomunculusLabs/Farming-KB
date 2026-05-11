@@ -31,7 +31,7 @@ sources:
 *Tylopilus felleus*, commonly known as the bitter bolete or gall bolete, is a
 pored mushroom in the family Boletaceae. It is among the most frequently
 confused boletes for beginning foragers due to its superficial resemblance to
-the prized *Boletus edulis* (porcini). The species epithet *felleus* means "of
+the prized *[[boletus-edulis-entity]]* (porcini). The species epithet *felleus* means "of
 bile," referring to its intensely bitter taste, which renders it inedible
 despite being non-toxic. The bitterness persists even after prolonged cooking.
 
@@ -76,72 +76,14 @@ when cut. Extremely bitter taste — even a tiny piece on the tongue produces
 an intense and lingering bitterness. Odor is mild, pleasant, and mushroomy,
 offering no warning of the taste.
 
-**Spore print:** Pinkish to flesh-colored (salmon-pink).
+**[[boil-a-bag-spore-print-technique-jarrold]]:** Pinkish to flesh-colored (salmon-pink).
 
 **Spores:** 10–16 × 4–6 µm, fusoid to subfusoid, smooth, inamyloid.
 Q value: 2.0–3.0. No [[field-guide-psilocybin-bluing-reaction-identification]] with FeSO₄ or NH₄OH.
 
 ## Distribution and Habitat
 
-*T. felleus* is widely distributed across temperate regions of the Northern
-Hemisphere. It is common throughout Europe, North America (from eastern
-Canada to the southeastern and Pacific Northwest [[dmt-containing-plants-united-states-halpern]]), and parts
+*T. felleus* is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern
+Hemisphere. It is common throughout Europe, [[guzman-psilocybin-mushrooms-north-america]] (from eastern
+Canada to the southeastern and [[psilocybin-north-america-pacific-northwest]] [[dmt-containing-plants-united-states-halpern]]), and parts
 of Asia. It has also been reported from North Africa and Australia.
-
-The species forms ectomycorrhizal associations primarily with coniferous
-trees, especially *Pinus* (pine), *Picea* (spruce), and *Abies* (fir), but
-also occurs under hardwoods including *Quercus* (oak) and *Fagus* (beech).
-It fruits singly to scattered, most commonly from midsummer through autumn
-(July–October in the Northern Hemisphere). It prefers acidic forest soils.
-
-## Similar Species
-
-The most dangerous confusion is with *Boletus edulis* and its close allies
-(*B. pinophilus*, *B. reticulatus*), all of which are choice edibles.
-Key distinguishing features of *T. felleus*:
-
-- **Pink pore surface at maturity** — *B. edulis* pores remain white to
-  yellowish-green and never turn pink.
-- **Pink spore print** — *B. edulis* has an olive-brown spore print.
-- **Extremely bitter taste** — *B. edulis* is mild and nutty.
-
-Other *Tylopilus* species with pink pores may also be confused, but most are
-smaller or have different habitat preferences. *Tylopilus rubrobrunneus*
-has a darker cap and more robust stature. *Tylopilus intermedius* is a
-smaller species with a paler cap.
-
-## Ecology
-
-As an ectomycorrhizal fungus, *T. felleus* plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-within forest ecosystems. It forms mutualistic associations with tree roots,
-facilitating phosphorus and nitrogen uptake in exchange for photosynthetically
-derived carbon. The species is not considered pathogenic. Slugs and insects
-occasionally feed on the fruiting bodies despite the bitter flesh, suggesting
-the bitter compounds may deter some but not all herbivory.
-
-## Culinary Status
-
-*Tylopilus felleus* is technically non-toxic but is universally considered
-inedible due to its extraordinarily bitter taste. The bitterness is caused
-by specific sesquiterpenoid compounds that are not degraded by heat. Even
-small amounts can render an entire dish unpalatable. Some historical sources
-claim the bitterness can be leached through extended boiling in multiple
-water changes, but this is impractical and generally unreliable.
-
-There are no documented medicinal uses for this species, unlike some other
-members of Boletaceae.
-
-## Notable Features for Identification
-
-The combination of a reticulate stipe (shared with porcini) and pinkish
-pores at maturity makes this the single most important mushroom to learn
-for bolete foragers. The spore print is the definitive diagnostic: pink
-confirms *Tylopilus*, olive-brown confirms *Boletus* sensu stricto. Tasting
-a tiny fragment, while not recommended for unknown boletes, provides
-immediate confirmation if the identity is already strongly suspected.
-## See Also
-
-- [[leccinum-scabrum]]
-- [[gyroporus-cyanescens]]
-- xerocomellus chrysenteron
-- [[rubroboletus-satanas]]

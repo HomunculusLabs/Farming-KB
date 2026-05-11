@@ -5,6 +5,7 @@ tags: [travel, europe, philosophy, culture, observation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-fukuoka-road-one-straw-revolution-continuation|straw-revolution-masanobu-fukuoka-road-touring-europe-geta-monpe|fukuoka.md"
 type: concept
 ---
@@ -87,43 +88,6 @@ with their chests. The Italians walk with their legs,
 swinging their hips and looking down as if to avoid being
 ridiculed by other Europeans." When someone added that
 "French women swing their breasts as they walk," they all
-had a good laugh.
 
-Italians, as is clear from their bearing, are the most
-open-hearted and easy to talk to. But Italians also have
-their drawbacks, which Fukuoka linked to their shoes.
-
-## The Roman Shoes and the Soil
-
-When visiting a farm in the Italian countryside, someone
-asked Fukuoka whether the Japanese wear geta when working in
-the fields. He replied that they used to wear sandals made
-of straw or bamboo bark. When asked why, he answered: "So
-as not to harm the earth."
-
-He then launched into a critique: "In your country, the
-soil is no good and the mountains are bare of trees. The
-reason Italy is the poorest country in Europe is because
-the soil has become so hard." He had kept his eyes open
-traveling from Switzerland to Austria before coming to Italy
-and noticed that the further south you go, the fewer the
-trees. Most of the mountains in northern Italy are
-completely bare.
-
-He connected this directly to footwear: "A mountain without
-a cover of trees always has depleted soil underneath. The
-reason for all this lies at your feet. Why, you're all
-wearing the shoes of the Roman legions." The Italians, who
-are not very large people, like to wear hard, hobnailed
-shoes -- the hardest shoes in Europe.
-
-"Because you're trampling the soil with hard leather shoes
-like those used to conquer Europe, the ground has packed
-down so much that the soil is no longer any good." See also [[fukuoka-culture-of-clothing-and-meat]].
-Japanese tread lightly, wearing straw sandals that are soft
-and do not harm the ground. That's why the ground in Japan
-is soft and fertile."
-
-This observation encapsulates Fukuoka's method: reading the
-health of a civilization through its most intimate
-connection with the earth -- the soles of its feet. See also [[fukuoka-food-civilization-critique]], and [[fukuoka-one-straw-revolution-philosophy]].
+## See Also
+- [[fukuoka-natural-farming-philosophy-road-back-to-nature]]

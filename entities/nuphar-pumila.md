@@ -20,7 +20,7 @@ sources:
 
 Nuphar pumila, commonly known as the least water lily or small yellow pond lily, is a perennial aquatic plant in the family Nymphaeaceae. It is among the smallest species in the genus Nuphar and is native to northern Europe and parts of northern Asia.
 
-The species produces small, cup-shaped yellow flowers that are partially emergent above the water surface. Its compact growth habit distinguishes it from the larger and more common Nuphar lutea.
+The species produces small, cup-shaped yellow flowers that are partially emergent above the water surface. Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit distinguishes it from the larger and more common Nuphar lutea.
 
 Nuphar pumila is considered a species of conservation concern across much of its European range. Habitat loss, eutrophication, and competition from invasive aquatic plants have contributed to population declines.
 
@@ -48,9 +48,9 @@ The stigmatic disk is flat to slightly convex and bears 8–15 rays. Stamens are
 
 The fruit is an ovoid capsule, 1.5–2.5 cm long, that ripens and releases seeds underwater. Seeds are roughly ovoid, approximately 3 mm long.
 
-The root system is fibrous and arises from the lower surface of the rhizome. Anchoring roots penetrate the substrate, while fine absorptive roots increase the surface area for nutrient uptake.
+The root system is fibrous and arises from the lower surface of the rhizome. Anchoring roots penetrate the substrate, while fine absorptive roots increase the surface area for [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]].
 
-Compared to Nuphar lutea, the entire plant has a more delicate appearance. The smaller leaf size, narrower sinus, and reduced flower dimensions are the most reliable field identification characters.
+Compared to Nuphar lutea, the entire plant has a more delicate appearance. The smaller leaf size, narrower sinus, and reduced flower dimensions are the most reliable [[palmer-mushroom-hunting-field-identification]] characters.
 
 ## Distribution and Habitat
 
@@ -66,7 +66,7 @@ Nuphar pumila favors oligotrophic to mesotrophic waters with low nutrient levels
 
 Partially shaded habitats, such as forest ponds and streams with overhanging canopy, are characteristic. The species tolerates moderate shading better than many other aquatic macrophytes.
 
-In northern Scandinavia, Nuphar pumila occurs in small, often ice-covered ponds. Its northern range limit is determined by the availability of open water during the growing season.
+In northern Scandinavia, Nuphar pumila occurs in small, often ice-covered ponds. Its northern range limit is determined by the availability of open water during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The species is occasionally found in artificial water bodies such as quarry ponds and drainage ditches. However, these populations are often small and may not be self-sustaining in the long term.
 
@@ -74,7 +74,7 @@ The species is occasionally found in artificial water bodies such as quarry pond
 
 Nuphar pumila is most closely related to Nuphar lutea, with which it frequently co-occurs. Hybrids between the two species have been reported, though they appear to be rare in nature.
 
-The genus Nuphar contains approximately 10–12 species distributed across the Northern Hemisphere. Nuphar advena is the North American counterpart, occupying similar ecological niches in eastern North America.
+The genus Nuphar contains approximately 10–12 species distributed across the Northern Hemisphere. Nuphar advena is the [[growing-gourmet-north-american-reishi-species]] counterpart, occupying similar ecological niches in [[polypore-fungi-eastern-north-america]].
 
 Nuphar pumila can be distinguished from Nuphar lutea by its smaller flowers, narrower leaf sinus, and preference for oligotrophic waters. Nuphar lutea dominates in nutrient-rich, turbid habitats.
 
@@ -87,34 +87,3 @@ Pollinators include various fly species, particularly hoverflies (Syrphidae) and
 The plant reproduces both sexually through seed production and vegetatively through rhizome fragmentation. Vegetative spread is the dominant mode of colonization in stable habitats.
 
 Seed dispersal occurs primarily through water movement. The buoyant seeds can float for extended periods before settling into suitable substrate.
-
-Decomposing Nuphar pumila tissue contributes to the detrital food web. Leaf litter supports populations of shredding invertebrates and microbial decomposers.
-
-The species serves as a food source for waterfowl, particularly diving ducks. Both the seeds and the rhizomes are consumed by swans, coots, and other water birds.
-
-In oligotrophic lakes, Nuphar pumila competes with other submerged macrophytes such as Isoetes and Lobelia. It typically occupies a distinct niche in the shallow littoral zone.
-
-Competition with the more vigorous Nuphar lutea can limit Nuphar pumila distribution where the two species co-occur. Nuphar lutea tends to outcompete N. pumila in nutrient-enriched waters.
-
-## Conservation
-
-Nuphar pumila is listed as Vulnerable or Endangered on multiple national Red Lists across Europe. The IUCN Red List classifies the species as Least Concern globally but notes significant regional declines.
-
-The primary threats include eutrophication of water bodies, habitat destruction through drainage and land reclamation, and competition from invasive aquatic plants. Climate-driven changes in water temperature and hydrology may also affect populations.
-
-In many European countries, populations have declined substantially over the past century. The species has been extirpated from portions of its historical range in western and central Europe.
-
-Conservation measures include protection of existing habitats, water quality management, and ex situ conservation through botanical garden collections. Some reintroduction programs have been initiated in Germany and Poland.
-
-Monitoring programs track population trends at key sites. Standardized survey methods include mapping the extent of leaf cover and counting flower numbers during the peak flowering period.
-
-## See Also
-
-- [[nuphar-lutea]]
-- [[nuphar-advena]]
-- [[nymphaea-alba]]
-- [[nymphaea-odorata]]
-- [[nymphaea-tetragona]]
-- [[ceratophyllum-demersum]]
-- [[potamogeton-natans]]
-- [[lemna-minor]]

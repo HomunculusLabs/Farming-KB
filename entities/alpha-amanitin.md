@@ -87,17 +87,3 @@ ingestion.
 
 Several therapeutic strategies have been developed to counteract alpha amanitin poisoning,
 though none provide a complete antidote:
-
-- **Silibinin (silybin):** A flavonolignan derived from milk thistle (silybum marianum),
-  silibinin is the most effective specific therapy currently available. It competitively
-  inhibits the OATP-mediated uptake of amatoxins into hepatocytes and may also stimulate
-  RNA polymerase activity. Intravenous silibinin at doses of 20 to 50 mg/kg/day has
-  significantly improved survival rates in clinical studies.
-
-- **High-dose penicillin G:** Acts as a competitive substrate for the same hepatic uptake
-  transporters as amatoxins, reducing hepatic toxin accumulation. Doses of 1 million
-
-## See Also
-
-- [[amanita-species-ecology-identification-mycohhizal]]
-- [[mushroom-toxins-and-poisoning]]

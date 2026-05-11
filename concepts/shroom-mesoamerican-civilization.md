@@ -1,5 +1,5 @@
 ---
-title: "guzman-magic-mushrooms-african-species in Ancient Mesoamerican Civilization"
+title: Shroom Mesoamerican Civilization
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -38,7 +38,7 @@ eaten, with honey taken to sweeten the bitterness. After dancing and
 weeping, bemushroomed participants would have visions in which they
 might see their destiny, or even the manner of their death, before
 falling into a stupor. Later, they would discuss the meaning of what
-they had seen -- a scene familiar to modern mushroom enthusiasts.
+they had seen -- a scene familiar to [[modern-mushroom-festival-culture]] enthusiasts.
 
 ## Feasts, Revelations, and Diplomacy
 
@@ -88,25 +88,3 @@ They began imposing Christian, "civilising" values upon the pagans. The
 Franciscan friar Toribio de Benavente described the Aztecs eating
 bitter-tasting mushrooms sweetened with honey, claiming the mushrooms
 merely sharpened the Aztecs' "already savage cruelty." The cleric
-Jacinto de la Serna, in the seventeenth century, described a mushroom
-ceremony performed by an Indian named Juan Chichiten ("little dog"), who
-celebrated a saint's day with a solemn mushroom vigil "after the manner
-of Communion," so that all present "went out of their heads."
-
-After the colonial period, knowledge of the mushrooms was to remain
-unrecorded for another four hundred years, until the early twentieth
-century discovery that indigenous Mexicans were still using mushrooms in
-ways reminiscent of Chichiten's all-night syncretic religious
-observances.
-
-## Related
-
-- [[psilocybin-mushrooms]]
-- [[mazatec-mushroom-tradition]] and
-  [[shroom-wasson-valentina-expedition]] -- R. Gordon Wasson and the
-  Valentina expedition
-
-## Source
-
-Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
-HarperCollins, 2006. Lines 3500-3720.

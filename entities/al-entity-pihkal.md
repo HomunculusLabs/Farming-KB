@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # AL
 
-PIHKAL entry #2. 4-Allyloxy-3,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #2. 4-Allyloxy-3,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -88,35 +88,6 @@ of the present time, both unsynthesized and unexplored.
 
 A solution of 5.8 g of homosyringonitrile (see under E for
 its preparation), 100 mg decyltriethylammonium iodide, and 13.6 g
-allyl iodide in 50 mL anhydrous acetone was treated with 6.9 g finely
-powdered anhydrous K2CO3 and held at reflux for 16 h. The color
-changed from a near-black to a light yellow. The mixture was
-filtered, the solids washed with acetone, and the solvent from the
-combined filtrate and washes removed under vacuum. The residue was
-suspended in acidified H2O, and extracted with 3x100 mL CH2Cl2. The
-pooled extracts were washed with 2x50 mL 5% NaOH, once with dilute HCl
-
-(which lightened the color of the extract) and then stripped of
-solvent under vacuum giving 12.4 g of an amber-colored oil. This was
-distilled at 125-137 deg C at 0.1 mm/Hg to yield 5.7 g of
-3,5-dimethoxy-4-allyloxyphenylacetonitrile as a yellow oil. Anal.
-(C13H15NO3S) C,H.
-
-A suspension of 4.0 g LAH in 150 mL anhydrous THF under N2 was cooled
-to 0 deg C and vigorously stirred. There was added, dropwise, 2.8 mL
-100% H2SO4, followed by 5.5 g
-3,5-dimethoxy-4-allyloxyphenylacetonitrile in 10 mL anhydrous THF.
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[aleph-4-entity-pihkal]]
-- [[aleph-7-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[aleph-entity-pihkal]] -- ALEPH (PIHKAL #3)
+- [[methyl-j-entity-pihkal]]

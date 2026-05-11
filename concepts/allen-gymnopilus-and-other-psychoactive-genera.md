@@ -2,7 +2,7 @@
 title: "Gymnopilus and Other Psychoactive Genera in Australia"
 created: 2026-04-28
 tags: [gymnopilus, inocybe, psychoactive, australia, panaeolus,
-  psilocybin, allen, lesser-genera, taxonomy]
+  [[psilocybin]], allen, lesser-genera, taxonomy]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-of-australia-newzealand-by-john-w-allen.md]
@@ -88,19 +88,3 @@ this species is the most common mushroom in Australian suburban lawns. It
 is small, brown, and grows in grass from autumn through spring. Despite
 its abundance, it is not considered significantly psychoactive. The
 taxonomic distinction between *Panaeolina* and *Panaeolus* hinges on the
-presence of a germ pore on the spores: *Panaeolina* spores lack a germ
-pore, while *Panaeolus* spores possess one.
-
-## Summary Table: Psychoactive Status of Lesser Genera
-
-| *Gymnopilus* | Several | Possible | Low potency if active |
-| *Inocybe* | Many | Uncertain | Some contain muscarine |
-| *Panaeolus* | Several | Mostly no | *C. cyanescens* active |
-| *Conocybe* | Few | Unconfirmed | No Australian records |
-| *Pluteus* | Several | Unconfirmed | No Australian records |
-| *Panaeolina* | *P. foenisecii* | No | Very common in lawns |
-## See Also
-
-- [[gymnopilus-luteofolius]]
-
-- [[allen-australian-psilocybe-species-comprehensive-guide]]

@@ -1,5 +1,5 @@
 ---
-title: coleman-claytonia-winter-harvest-cultivation Washing and Packing Operations
+title: [[coleman-winter-harvest-greenhouse-temperature-management]] Washing And Packing
 created: 2026-04-28
 tags:
   - post-harvest
@@ -88,38 +88,7 @@ specific techniques:
 
 - Keep the harvest container as close as possible to the hand holding
   the harvested item to minimize hand travel. On average, 40 percent
-  of a harvester's time is spent moving the hand to the container.
-- When harvesting spinach leaf by leaf, hold as many cut leaves as
-  possible in the hand before dropping them in the container.
-- Continual analysis of every task leads to simpler, quicker, and
-  more pleasant ways of working.
 
-## Harvesting Equipment Development
-
-Hand-cutting mesclun with knives is difficult to compete on price
-against motorized harvesters used by large-scale producers. In
-response, the farm has been working on more efficient harvesting
-tools:
-
-- **Johnny's Greens Harvester:** A human-powered harvester for
-  baby-leaf salads consisting of a cloth basket collector mounted
-  behind a bow-saw frame holding a scalloped knife blade.
-- **Battery-powered hand harvester:** The farm is designing and
-  testing a tool that would be light enough for one-hand use, easy to
-  carry, adjustable for different cutting heights, wide enough to
-  cover half a 30-inch bed, and reasonably priced.
-
-## Time Management Philosophy
-
-Coleman quotes Andrew Marvell's poem "To His Coy Mistress" to keep
-the crew focused: "But at my back I always hear, time's winged
-chariot hurrying near." The next harvest follows quickly after the
-one just finished. The [[coleman-winter-harvest-planting-schedule]] must be as much a part of
-daily life as the harvest schedule. The most important skill for a
-four-season grower is keeping careful notes on seed-to-harvest days
-and preparing a day-by-day planting calendar.
-
-See also [[coleman-winter-harvesting-techniques]], and
-[[coleman-claytonia-winter-harvest-cultivation]]
-
-- [[unheated-greenhouse-winter-harvest]]
+## See Also
+- [[coleman-winter-harvest-cut-and-come-again-techniques]]
+- [[eliot-coleman-deep-organic-farming-and-winter-harvest]]

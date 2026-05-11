@@ -1,5 +1,5 @@
 ---
-title: "Caffeine, Coffee, and the Industrial Revolution"
+title: Mckenna Caffeine Coffee And Industrial Revolution
 created: 2026-05-06
 tags:
   - history
@@ -43,7 +43,7 @@ it occurred wild. On the Arabian peninsula, coffee was regarded as a plant of
 marvelous properties, with an apocryphal story that the Archangel Gabriel
 offered coffee to the ailing Prophet to restore him to health.
 
-Linnaeus named the plant Coffea arabica in recognition of its long association
+Linnaeus named the plant [[coffea-arabica]] in recognition of its long association
 with Arab culture. When coffee first reached Europe, it was used as a food or
 medicine. The oil-rich berries were pulverized and mixed with fat, or ground
 coffee was mixed into wine. Coffee was not brewed as a drink until around 1100
@@ -54,7 +54,7 @@ roasting coffee beans begin in Syria.
 
 Though coffee was an [[datura-metel-old-world-ethnobotany]] plant used long before tea, it was tea that
 cleared the way for coffee's popularity. The stimulant properties of caffeine
-in coffee and its close cousin theobromine in tea made them the ideal drugs for
+in coffee and its close cousin [[theobromine]] in tea made them the ideal drugs for
 the Industrial Revolution. They provided an energy lift, enabling people to
 maintain focus on the repetitive tasks that factory production demanded.
 
@@ -88,49 +88,3 @@ them coffee.
 ## Coffee and Political Revolution
 
 By 1777, continental European authorities recognized the suitability of coffee
-for the clergy and the aristocracy, while punishing coffee offenses by less
-privileged classes with public caning and fines. Coffee was introduced in
-Paris in 1643, and within thirty years there were over 250 coffee houses. In
-the years immediately preceding the French Revolution there were nearly 2,000
-coffee establishments operating.
-
-McKenna observed that if wild talk is the mother of revolution, then coffee
-and coffee houses must be its midwife. The coffee house as a space for free
-discussion and political organizing represented a genuine threat to established
-authority, one that the tea party, the tavern, and the private salon could not
-match in terms of accessibility and democratic character.
-
-## Caffeine, Sugar, and Addiction
-
-Caffeine is bitter, and the discovery that it could be made more palatable with
-honey or sugar set the stage for the synergistic effect between sugar and
-caffeine beverages. Sugar's tendency to become addictive is reinforced when
-sugar is also used to make the ingestion of a stimulating alkaloid more
-palatable.
-
-Sugar is culturally defined as a food, which denies its capacity to act as a
-highly addictive drug. Yet the evidence of [[mckenna-food-gods-sugar-addiction-slavery]] is pervasive. Many
-children and compulsive eaters live in motivational environments primarily
-ruled by mood swings from sugar cravings. After alcohol and tobacco, sugar is
-the most damaging addictive substance consumed by human beings.
-
-## The East India Company and Tea Monopoly
-
-The British East India Company, founded in 1600, controlled the tea trade until
-1834. From Canton, the sole source of European tea from the mid-seventeenth to
-early nineteenth centuries, the company imported enormous quantities while the
-buyers were never allowed to penetrate inland or learn anything about tea
-cultivation.
-
-As Hobhouse noted, "History's joke on Europe is that for nearly two centuries a
-commodity was imported halfway across the world, and yet no one knew anything
-about how tea was grown, prepared, or blended." The company was believed to
-add at least a third to the price of tea, generating enormous profits that made
-it a symbol of corrupt monopoly power.
-
-## See Also
-
-- [[mckenna-food-gods-tea-coffee-drugs-gentility]]
-- [[mckenna-exploitation-cycles-drug-diplomacy]]
-- ethnomycology
-- [[mckenna-alcohol-and-the-alchemy-of-spirit]]

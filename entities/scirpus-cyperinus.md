@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-Scirpus cyperinus, commonly known as woolgrass or woolly bulrush, is a perennial herbaceous plant in the family Cyperaceae. Despite its common name, the species is a sedge rather than a true rush or bulrush, reflecting the historical taxonomic confusion within the Cyperaceae that has only been resolved through modern molecular systematics.
+Scirpus cyperinus, commonly known as woolgrass or woolly bulrush, is a perennial herbaceous plant in the family Cyperaceae. Despite its common name, the species is a sedge rather than a true rush or bulrush, reflecting the historical [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] within the Cyperaceae that has only been resolved through modern molecular systematics.
 
-The species is one of the more visually distinctive North American sedges, recognised by its dense, woolly-looking inflorescences that give the plant a soft, fuzzy appearance during the late summer and autumn flowering period.
+The species is one of the more visually distinctive [[growing-gourmet-north-american-reishi-species]] sedges, recognised by its dense, woolly-looking inflorescences that give the plant a soft, fuzzy appearance during the late summer and autumn flowering period.
 
-The distinctive woolly inflorescences serve an important ecological function beyond visual identification. The dense hairs surrounding each achene trap air bubbles, increasing the buoyancy of the diaspore and enhancing its ability to float on water surfaces for extended periods during hydrochorous dispersal.
+The distinctive woolly inflorescences serve an important [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] beyond [[mushroom-spore-visual-identification]]. The dense hairs surrounding each achene trap air bubbles, increasing the buoyancy of the diaspore and enhancing its ability to float on water surfaces for extended periods during hydrochorous dispersal.
 
 Woolgrass is a clonal species that spreads through both rhizomes and seed dispersal, forming dense tussocks and extensive stands in suitable wetland conditions. It is considered an important component of freshwater marsh and wet meadow communities across much of its range.
 
@@ -55,7 +55,7 @@ Populations in the southern Appalachians and the Ozark Highlands represent disju
 
 Typical habitats include freshwater marshes, wet meadows, sedge meadows, fens, swamp margins, stream banks, pond edges, roadside ditches, and low-lying areas subject to seasonal flooding. It tolerates a wide range of hydrological conditions, from shallow standing water to seasonally saturated soils.
 
-Woolgrass is often a dominant or codominant species in emergent marsh communities, particularly in areas with moderate nutrient availability and seasonal water-level fluctuations. It is a characteristic species of the Carex stricta–Scirpus cyperinus wet meadow association described in several midwestern state vegetation classifications.
+Woolgrass is often a dominant or codominant species in emergent marsh communities, particularly in areas with moderate [[ph-and-nutrient-availability-garden-soils]] and seasonal water-level fluctuations. It is a characteristic species of the [[carex-stricta]]–Scirpus cyperinus wet meadow association described in several midwestern state vegetation classifications.
 
 ## Ecology
 
@@ -63,15 +63,15 @@ Woolgrass provides significant ecological structure and function within wetland 
 
 Several bird species of conservation concern, including the Virginia rail, sora, and marsh wren, regularly nest within woolgrass stands. The dense vertical structure of the tussocks provides protection from predators and shelter from wind and weather.
 
-The fibrous root system and rhizome network contribute to soil stabilisation and erosion control along stream banks and pond margins. This root mass also plays an important role in nutrient cycling within wetland systems, absorbing and storing nitrogen and phosphorus from the water column and soil substrate.
+The fibrous root system and rhizome network contribute to soil stabilisation [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] along stream banks and pond margins. This root mass also plays an important role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within wetland systems, absorbing and storing nitrogen and phosphorus from the water column and soil substrate.
 
-Seed production is abundant, with each plant producing thousands of small achenes that are dispersed by water, wind, and attachment to animal fur. The woolly perianth bristles aid in wind dispersal by increasing the surface area of the diaspore, allowing it to be carried considerable distances from the parent plant.
+[[cannabis-controlled-pollination-seed-production]] is abundant, with each plant producing thousands of small achenes that are dispersed by water, wind, and attachment to animal fur. The woolly perianth bristles aid in wind dispersal by increasing the surface area of the diaspore, allowing it to be carried considerable distances from the parent plant.
 
 Seeds remain viable in the soil seed bank for several years, enabling populations to persist through periods of unfavourable conditions and to re-establish rapidly after disturbance events such as flooding, fire, or vegetation removal.
 
-Woolgrass is an early successional species in disturbed wetland habitats, readily colonising exposed mudflats, newly created wetlands, and areas recovering from disturbance. Its ability to establish rapidly from both seed and rhizome fragments makes it a valuable species for ecological restoration projects.
+Woolgrass is an early successional species in disturbed wetland habitats, readily colonising exposed mudflats, newly created wetlands, and areas recovering from disturbance. Its ability to establish rapidly from both seed and rhizome fragments makes it a valuable species for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
-The species is relatively tolerant of moderate water-quality degradation and can persist in wetlands affected by agricultural runoff, although excessive nutrient loading tends to favour more competitive species such as cattails and reed canary grass over Scirpus cyperinus.
+The species is relatively tolerant of moderate water-quality degradation and can persist in wetlands affected by [[mycofiltration-of-agricultural-runoff]], although excessive nutrient loading tends to favour more competitive species such as cattails and reed canary grass over Scirpus cyperinus.
 
 The flowering period extends from June through September, with peak flowering and fruiting occurring in mid-summer. The woolly inflorescences persist through the autumn and into early winter, providing visual interest and continued habitat structure even after the foliage has senesced.
 
@@ -85,37 +85,6 @@ The species is listed as endangered in several northeastern states at the edge o
 
 At the continental scale, the ongoing loss of freshwater wetlands across North America represents the most significant long-term threat to Scirpus cyperinus and the diverse plant communities it supports. Conservation efforts focused on wetland protection and restoration directly benefit this and other native sedge species.
 
-Climate change is expected to alter the hydrological regimes of many wetlands within the species' range, potentially creating both opportunities and challenges. Increased precipitation intensity may expand suitable habitat in some areas, while prolonged droughts and rising temperatures may reduce it in others.
+[[dighton-fungal-responses-climate-change]] is expected to alter the hydrological regimes of many wetlands within the species' range, potentially creating both opportunities and challenges. Increased precipitation intensity may expand suitable habitat in some areas, while prolonged droughts and rising temperatures may reduce it in others.
 
 ## Cultivation and Uses
-
-In ecological restoration, Scirpus cyperinus is widely planted in constructed wetlands, stormwater treatment systems, and riparian buffer zones. Its tolerance of variable water levels, rapid growth, and soil-binding root system make it an effective species for stabilising newly constructed or restored wetland sites.
-
-The species has demonstrated particular effectiveness in treatment wetlands designed to manage agricultural non-point source pollution. Its root zone provides a large surface area for microbial communities involved in denitrification, contributing to the removal of excess nitrogen from agricultural runoff before it reaches downstream waterways.
-
-The species establishes readily from seed, which can be directly sown onto prepared wetland substrates in the autumn or early spring. Cold stratification for 30 to 60 days improves germination rates, though the seeds will germinate without stratification if conditions are sufficiently moist.
-
-Nursery-grown plugs and bare-root rhizome divisions are also commercially available and provide more reliable establishment than direct seeding, particularly in competitive sites where fast initial growth is needed to outcompete invasive wetland weeds.
-
-Planting density recommendations for restoration projects typically range from 1,000 to 3,000 plugs per hectare, depending on site conditions and the desired speed of canopy closure. Spacing of 30 to 60 centimetres between plants allows for rapid fill-in through clonal spread while avoiding excessive initial competition.
-
-Woolgrass has limited ornamental value compared to more showy ornamental grasses and sedges, though it is occasionally used in naturalistic landscaping and native plant gardens designed to mimic native wetland plant communities.
-
-The species has been used in traditional fibre production by several Native American peoples, who harvested the stems for weaving mats and baskets. The strong, flexible culms were particularly valued for their durability when wet, making them suitable for water-resistant containers and matting.
-
-Among the Meskwaki and Potawatomi peoples, the stems were woven into storage baskets and floor mats, with the woolly inflorescences sometimes incorporated as decorative elements. The fibrous root material was also used as a binding agent in the construction of traditional dwellings.
-
-Contemporary interest in native plant fibre crafts has led to a modest revival in the use of Scirpus cyperinus and related sedges among artisans practising traditional weaving and basket-making techniques. The species is increasingly available from native plant nurseries that supply materials for cultural and educational programmes.
-
-## See Also
-
-- [[carex-stricta]]
-- [[carex-lacustris]]
-- [[carex-rostrata]]
-- [[carex-utriculata]]
-- [[scirpus-tabernaemontani]]
-- [[schoenoplectus-lacustris]]
-- [[eleocharis-palustris]]
-- [[typha-latifolia]]
-- [[phragmites-australis]]
-- [[juncus-effusus]]

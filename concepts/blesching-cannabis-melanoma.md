@@ -60,7 +60,7 @@ melanoma exist, notably from the citizen experiments of Rick Simpson and
 reports by Cannabis Science, Inc. While scientific studies examining the
 efficacy of cannabis on melanoma are still limited, a study conducted by
 the National Institute of Oncology in Budapest proved that CB1 modulation
-induces apoptosis (programmed cell death) of human melanoma cells.
+induces apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) of human melanoma cells.
 
 ### Study Summary
 
@@ -68,14 +68,14 @@ induces apoptosis (programmed cell death) of human melanoma cells.
 |--------------------|-----------|--------------------------|-----|
 | CB1 agonist Met-F-AEA, CB1 antagonist AM251 | Laboratory on human melanoma cell lines | 2008, National Inst. of Oncology, Budapest, Hungary: CB1 modulation induces apoptosis of human melanoma cells | 1 |
 
-**Total CHI Value: 1**
+**Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 1**
 
 ### Strain-Specific Considerations
 
 The Hungarian laboratory experiment highlights a potential pathway involving
 CB1 receptor activation in the destruction of human melanoma cells. The
-synthetic cannabinoid Met-F-AEA is similar to naturally occurring
-anandamide, which binds relatively equally to CB1 and CB2 receptors.
+[[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] Met-F-AEA is similar to naturally occurring
+[[anandamide]], which binds relatively equally to CB1 and CB2 receptors.
 
 - Sativas and sativa-heavy strains tend to have higher THC:CBN ratios,
   which may increase CB1 activation compared to indicas
@@ -88,31 +88,3 @@ world, and the face in particular communicates emotional states through
 obvious and subtle micro-expressions.
 
 ### Supporting Foods
-
-- **Bush Tea (Rooibos):** Contains DNA-protective and antimutagenic
-  properties; topical application inhibits skin tumor formation
-- **Clove:** Aqueous solutions may have protective properties against
-  skin papillomas (skin tumors)
-- **Myrrh:** Contains furanosesquiterpene with antiseptic, anesthetic, and
-  anti-tumor properties; guggulsterone from related Commiphora mukul
-  produces apoptosis in multiple cancer types including melanoma
-
-### Key Takeaways
-
-- Melanoma makes up the majority of skin cancer deaths despite being less
-  common than non-melanoma types
-- CB1 receptor modulation has been shown to induce apoptosis in human
-  melanoma cells in laboratory studies
-- Case reports of successful topical cannabis oil treatments exist, though
-  rigorous [[mushroom-cancer-clinical-trials-overview]] remain limited
-- Sun exposure balance is critical: 10-15 minutes of unclothed sun before
-  10 AM or after 3 PM, three times weekly, supports vitamin D synthesis
-  and melanin-based photoprotection
-- The skin's endocannabinoid system represents a promising therapeutic
-  target for melanoma and other skin cancers
-
-### Related Topics
-
-- [[blesching-cannabis-dermatological-conditions]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[endocannabinoid-system-overview]]

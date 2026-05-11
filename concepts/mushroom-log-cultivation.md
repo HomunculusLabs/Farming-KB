@@ -23,7 +23,7 @@ sources:
 
 # Mushroom Log Cultivation
 
-Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and medicinal mushrooms over multiple years with minimal infrastructure.
+[[falconer-growing-mushrooms-in-sheds]] on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and [[cancer-medicinal-mushrooms-extraction-bioavailability]] over multiple years with minimal infrastructure.
 
 ## Log Selection
 
@@ -32,7 +32,7 @@ Best species for log cultivation are dense hardwoods with intact bark:
 - **Oak** (Quercus spp.) -- gold standard for shiitake; long-lasting, slow decay
 - **Maple** (Acer spp.) -- good for oyster, shiitake, and lion's mane
 - **Beech** (Fagus spp.) -- excellent for shiitake and maitake
-- **Sweetgum** (Liquidambar styraciflua) -- suitable for oyster species
+- **Sweetgum** ([[liquidambar-styraciflua]]) -- suitable for oyster species
 - Other options: alder, poplar, cottonwood, ironwood, birch
 
 Avoid conifers (resin inhibits mycelium), dead/dying trees (competing fungi already established), and species with paper-thin bark (rapid decomposition). Logs should be 4-8 inches diameter and 3-4 feet long.
@@ -70,7 +70,7 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 - **Soaking (force fruiting):** Submerge colonized logs in cold water for 12-24 hours, then rest in shade. Japanese growers call this "soak and strike." Triggers fruiting by simulating rainfall + temperature drop
 - **Natural fruiting:** Occurs in response to seasonal rain, temperature shifts (especially fall), and humidity changes
-- Maitake forms primordia in enclosed bags, requiring bag opening for fruiting body development
+- Maitake forms primordia in enclosed bags, requiring bag opening for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 
 ## Species by Log Type
 
@@ -91,14 +91,36 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 ## Synthetic Log Cultivation (Indoor)
 
-Supplemented sawdust blocks in filter bags provide faster turnaround than natural logs:
+[[oyster-mushroom-supplemented-sawdust-blocks]] in filter bags provide faster turnaround than natural logs:
 - 75-80% hardwood sawdust (fine + coarse 3:1), 18-23% wheat bran, 1% sucrose, 1% lime/gypsum
 - Moisture content 60-63%, pH 5.5-6.5
 - Sterilized, inoculated, incubated at 20-25C, fruited at lower temperatures
 - See [[mushroom-substrates]] for detailed substrate formulations
 
+
+## Ecological Role
+Fungal organisms play critical roles in ecosystem functioning through
+decomposition, nutrient cycling, and symbiotic relationships with plants.
+Understanding their ecological contributions informs both cultivation
+practices and conservation efforts across diverse habitats.
+
+
+## Research Directions
+Current research explores applications in bioremediation, sustainable
+agriculture, and pharmaceutical development. Advances in genomic
+sequencing and cultivation techniques continue to reveal new species
+and expand our understanding of fungal biology.
+
+
+## See Also
+- [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]
+- [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]
+- [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
+- [[mushroom-training-straw-mushroom-cultivation]]
+- [[mushroom-cultivation-disabilities-thai-processed-mushroom-products]]
 ## Related Pages
 
 - [[mushroom-cultivation-basics]] -- Stamets' 10-step process overview
 - [[mushroom-species-guide]] -- Species-specific parameters and difficulty ratings
 - [[fungal-decomposition]] -- Wood decay ecology behind log cultivation
+

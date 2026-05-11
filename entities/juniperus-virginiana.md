@@ -88,22 +88,3 @@ Traditional medicinal uses are extensive and well-documented across Indigenous p
 Modern pharmacological studies have confirmed several bioactivities. The essential oil exhibits **antimicrobial activity** against gram-positive bacteria and several [[bloomfield-fungal-pathogens-and-parasites]]. Antioxidant, anti-inflammatory, and mild spasmolytic activities have also been documented in vitro.
 
 **Cedarwood oil** is listed in the United States Pharmacopeia and is approved by the EPA as a natural insect repellent. It is used commercially in pet care products for flea and tick control, and in agricultural formulations for stored grain protection.
-
-## See Also
-
-- [[hamamelis-virginiana]]
-
-- [[pinus-sylvestris]]
-- [[cedrus-libani]]
-- [[larix-decidua]]
-- [[araucaria-araucana]]
-- [[fomes-fomentarius]]
-- [[alnus-rubra]]
-- [[tilia-cordata]]
-- [[vaccinium-macrocarpon]]
-- [[juncus-effusus]]
-- [[vaccinium-angustifolium]]
-- [[nymphaea-alba]]
-- [[pseudotsuga-menziesii]]
-- [[abies-grandis]]
-- [[sagittaria-latifolia]]

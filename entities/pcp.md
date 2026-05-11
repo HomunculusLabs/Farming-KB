@@ -15,7 +15,7 @@ sources:
   - Morris, H. & Wallach, J. (2014). "From PCP to MXE." Drug Science 2(1).
   - Aniline, O. & Pitts, D.K. (1982). "Phencyclidine: a review." Neuroscience & Biobehavioral Reviews 6(1): 1–16.
   - DEA (2020). "Drugs of Abuse: Phencyclidine (PCP)."
-  - Reich, D. & Silvay, G. (1989). "Ketamine: an update on the first 35 years." Anesthesia Progress 36(4): 154–162.
+  - Reich, D. & Silvay, G. (1989). "[[ketamine]]: an update on the first 35 years." Anesthesia Progress 36(4): 154–162.
 created: 2026-05-07
 ---
 
@@ -88,38 +88,6 @@ PCP's effects are notoriously unpredictable. The same dose may produce
 sedation in one person and extreme agitation, violence, or psychosis in
 another. This unpredictability is a major factor in its dangerous profile.
 
-## History
-
-PCP was first synthesized in 1956 by Victor Maddox at Parke-Davis and
-marketed as Sernyl, a surgical anesthetic. Its anesthetic properties were
-remarkable — strong analgesia without respiratory depression.
-
-However, approximately 10–20% of patients experienced severe postoperative
-delirium, hallucinations, and psychotic episodes lasting days to weeks.
-Parke-Davis withdrew PCP from human use in 1965.
-
-Ketamine was developed as a shorter-acting, safer alternative, entering
-clinical use in 1970. PCP continued to be used briefly in veterinary
-medicine before being largely replaced there as well.
-
-Illicit use emerged in the late 1960s in [[shipibo-san-francisco-ceremonial-center-ucayali]]'s Haight-Ashbury
-district. PCP abuse peaked in the United States during the 1970s and 1980s
-before declining, though it remains intermittently available in illicit
-drug markets.
-
-## Legal Status
-
-PCP is classified as Schedule II in the United States under the Controlled
-[[controlled-substances-act-and-psychedelic-research]]. It is also controlled under the UN Convention on Psychotropic
-Substances (Schedule I).
-
-Analogues including TCP (thienylcyclohexylpiperidine) and PCE
-(ethylphenylcyclohexylamine) are covered under the Federal Analogue Act.
-
 ## See Also
-
-- [[dxm]]
-- [[muscimol-entity]]
-- [[psilocybin]]
-- opium
-- ibotenic-acid-entity
+- [[chelation-and-metal-binding-in-plants]]
+- [[md-family-structure-activity]]

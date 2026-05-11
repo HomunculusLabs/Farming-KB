@@ -88,9 +88,3 @@ Commercial operations use retort autoclaves processing hundreds of bags per
 cycle. Regardless of scale, the principles remain identical: clean materials,
 proper hydration, adequate sterilization time and temperature, and sterile
 handling post-process.
-
-## See Also
-
-- [mushroom-and-inoculation]
-- [[mushroom-cultivation-contamination-prevention]]
-- [[medicinal-mushroom-extraction]]-and-bioactive-compounds]

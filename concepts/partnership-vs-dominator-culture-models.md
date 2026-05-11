@@ -1,5 +1,5 @@
 ---
-title: archaic-revival-partnership-vs-dominator-cultures Culture Models
+title: Partnership Vs Dominator Culture Models
 created: 2026-05-09
 tags: [anthropology, cultural-history, gender, shamanism, matriarchy]
 date: 2026-05-09
@@ -13,9 +13,9 @@ type: concept
 
 ## Overview
 
-The partnership/dominator framework is a model of human cultural evolution
+The partnership/dominator framework is a model of human [[cultural-evolution-and-psychoactive-substances]]
 developed by Riane Eisler in *The Chalice and the Blade* (1987) and
-adopted by Terence McKenna in *Food of the Gods* (1992) to explain the
+adopted by [[terence-mckenna]] in *Food of the Gods* (1992) to explain the
 historical suppression of sacred plant use and the rise of patriarchal
 civilizations. The model proposes that human societies have oscillated
 between two fundamentally different organizational patterns, and that the
@@ -53,7 +53,7 @@ undefended cities."
 ### Connection to Sacred Plants
 
 McKenna argues that partnership societies maintained their cohesion
-through the communal use of psychoactive mushrooms. The ecstatic
+through the communal use of [[ceremonial-shamanic-use-psychoactive-mushrooms]]. The ecstatic
 experience produced by psilocybin:
 
 - Dissolves ego boundaries, fostering empathy and social bonding
@@ -66,7 +66,7 @@ experience produced by psilocybin:
 
 ### Characteristics
 
-Dominator societies are characterized by:
+[[partnership-vs-dominator-societies]] are characterized by:
 
 - **Male dominance** — patriarchy, patrilineal descent, male control of
   resources and reproduction
@@ -88,62 +88,3 @@ The transition from partnership to dominator is associated with:
   millennium BCE)
 - The domestication of the horse, which reinforced mobility, male
   dominance, and a social economy based on raiding
-- The invention of wheeled vehicles and chariots
-- The suppression of Goddess worship in favor of male sky deities
-- The replacement of shamanic ecstasy with priestly mediation
-
-McKenna describes this as a four-stage "abandonment of the mystery":
-
-1. **Substitution** — replacement of the original mushroom sacrament
-   with other psychoactive plants
-2. **Symbolization** — replacement of active plants with inactive
-   symbolic materials
-3. **Dogmatization** — replacement of plant sacraments with esoteric
-   teachings, rituals, and cosmogonic diagrams
-4. **Secularization** — complete abandonment of the sacred dimension,
-   replaced by "secular scientism"
-
-## McKenna's Application
-
-### The Ego and Its Terrors
-
-McKenna argues that the dominator model is fundamentally driven by the
-ego's terror of dissolution. The [[leary-psychedelic-experience-bardo-mapping]] challenges:
-
-- The **Christian assumption** of the inviolability and special
-  ontological status of the soul
-- The **modern idea** of the ego and its control structures
-- The **entire worldview** of dominator culture
-
-Suppression of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness thus reflects a deeper
-suppression of the feminine, the foreign, and the transcendental. When
-shamanic gnosis was replaced by priestcraft and patriarchy, humanity
-lost "life's meaning" and became "enemies of the planet."
-
-### Modern Implications
-
-McKenna extends the model to contemporary issues:
-
-- The **war on drugs** is seen as the latest expression of dominator
-  suppression of ecstatic experience
-- **Environmental destruction** flows from the dominator view of nature
-  as resource rather than living partner
-- **Overpopulation and resource mismanagement** are symptoms of
-  dominator culture's inability to perceive ecological limits
-- An "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — recovery of the partnership relationship with
-  nature through responsible use of psychoactive plants — is proposed
-  as a path toward cultural healing
-
-## Criticisms
-
-The model has been criticized as overly dichotomous (real societies
-exhibit mixtures of both patterns), romanticizing prehistory without
-adequate evidence, and oversimplifying the complexity of cultural
-## Related Topics
-
-- [[stropharia-cubensis-tree-of-knowledge]] — the mushroom as catalyst
-  of partnership culture
-- [[soma-vedic-enigma-amanita-psilocybin-debate]] — Soma as transition
-  point between partnership and dominator
-- [[eleusinian-mysteries-minoan-mushroom-cults]] — the last major
-  partnership-era [[ancient-greek-mystery-cults-comparison]]

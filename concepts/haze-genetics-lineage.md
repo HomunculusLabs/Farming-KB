@@ -8,10 +8,10 @@ created: 2026-05-10
 # Haze Genetics and Lineage
 
 The Haze lineage [[haze-breeding-lineage]] is one of the most important and influential family trees in modern
-cannabis breeding [[haze-breeding-lineage]]. Originating in Northern California in the 1970s, Haze and its
+[[cannabis-breeding-basics]] [[haze-breeding-lineage]]. Originating in Northern California in the 1970s, Haze and its
 countless descendants have shaped the genetic landscape of sativa-dominant cannabis
 worldwide. Understanding Haze genetics is essential for anyone studying cannabis
-breeding history or selecting sativa strains for cultivation.
+[[haze-cannabis-lineage-and-breeding-history]] or selecting sativa strains for cultivation.
 
 ## Origins of the Original Haze
 
@@ -23,7 +23,7 @@ a Thai sativa, a Mexican (possibly Oaxacan) sativa, and possibly a South Indian 
 other South Asian sativa. The cross involved multiple generations of selection and
 inbreeding over several years to stabilize the desirable characteristics.
 
-The Haze Brothers were working with some of the most potent cannabis genetics
+The Haze Brothers were working with some of the most potent [[cannabis-genetics-and-breeding]]
 available in the 1970s — an era before the widespread introduction of indica
 genetics from Afghanistan that would later dominate commercial breeding. Their goal
 was to create the most potent sativa possible, and by most accounts they succeeded.
@@ -45,7 +45,7 @@ The long flowering time and tall growth made original Haze impractical for most
 commercial operations, which is why it was primarily preserved by dedicated
 collectors and breeders rather than grown widely. However, its extraordinary
 genetic qualities made it an irresistible parent for breeding programs seeking to
-introduce potency, sativa characteristics, and complex terpene profiles into more
+introduce potency, sativa characteristics, and complex [[cannabis-terpene-profiles]] into more
 manageable hybrid lines.
 
 ## Key Haze Descendants in This Guide
@@ -81,55 +81,9 @@ higher-yielding plants while retaining sativa characteristics.
 
 Tom Hill's Original Haze represents one of the most carefully preserved direct
 lines to the original 1970s Haze. Tom Hill, a breeder known for his work with
-heritage and landrace genetics, maintained and stabilized an authentic Haze line
+heritage and landrace crop varieties for small farmers genetics, maintained and stabilized an authentic Haze line
 that retains the full expression of the original — including the extreme flowering
 time, towering height, and uncompromising psychoactive power. This strain is
 primarily of interest to preservationists, breeders, and serious connoisseurs.
 
 ### Princess Haze
-
-TreeTown Seeds' Princess Haze crosses a Princess pheno of Cinderella 99 with
-Original Haze. Cinderella 99 (C99) itself has complex sativa genetics with some
-relation to the Haze family through its Jack Herer lineage (Jack Herer = Northern
-Lights #5 x Haze x Skunk #1). Princess Haze finishes in just 65 days with THC
-levels of 15-20%, demonstrating how Haze genetics can be tamed through careful
-selection.
-
-## The Haze Influence on Modern Breeding
-
-The Haze lineage has contributed genetics to an extraordinary number of modern
-strains, either directly or through intermediate crosses. The most significant
-pathways include:
-
-**Jack Herer:** Northern Lights #5 x Haze x Skunk #1. One of the most awarded
-strains in cannabis history and a parent of countless hybrids.
-
-**Super Silver Haze:** Haze x Northern Lights x Skunk. A three-time Cannabis Cup
-winner and one of the most commercially successful sativa-dominant hybrids.
-
-**G-13 Haze:** G-13 (a legendary government indica) x Haze. Combines indica
-potency and yield with sativa effect characteristics.
-
-**Kali Mist:** A sativa-dominant hybrid with Haze-influenced genetics, known for
-its strong cerebral effects and use as a medicinal strain.
-
-**Chemdawg family:** While not directly descended from Haze, the Chemdawg lineage
-(Nepalese x Thai speculation) represents a parallel track of sativa breeding that
-produced equally influential modern hybrids including Sour Diesel, OG Kush, and
-their countless descendants.
-
-## Breeding with Haze Genetics
-
-When incorporating Haze genetics into breeding programs, the primary challenges
-are the long flowering time and tall growth habit. These traits are only partially
-recessive, meaning that even F1 hybrids with indica parents may show extended
-flowering (10-12 weeks) and significant stretch. Multiple generations of selection
-for shorter flowering and more compact structure are typically necessary to create
-commercially viable Haze hybrids. The reward for this effort is access to some of
-the most potent and complex sativa genetics in existence.
-
-## See Also
-
-- [[landrace-sativa-varieties]]
-- [[sativa-plant-characteristics-and-cultivation]]
-- [[durban-poison-and-equatorial-sativas]]

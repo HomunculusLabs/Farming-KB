@@ -87,10 +87,3 @@ Integrated pest management combining hygiene, environmental control, and selecti
 Genetic improvement of A. bisporus has traditionally been slow due to its predominantly bisporic nature (most basidia produce only two spores rather than four), which limits conventional breeding.
 
 [[staycare-molecular-approaches-fungal-bioremediation]] including genome sequencing, marker-assisted selection, and genetic transformation are being applied to improve traits such as yield, disease resistance, shelf life, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
-
-Understanding the genetic basis of agronomically important traits is a major focus of mushroom research, with [[organic-composting-methods]] and [[growing-gourmet-compost-phase-i-phase-ii-agaricus]]
-
-- [[mycorrhizal-fungi]]
-
-- [[mycelium-running-pest-control-with-fungi]]
-- [[symbiotic-fungi-mycorrhizal-inoculum-production]]

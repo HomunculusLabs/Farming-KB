@@ -88,31 +88,5 @@ The tall inflorescences are visited by various flying insects, which serve as po
 
 Fire plays a significant ecological role, with the rhizomatous root system allowing *D. regia* to resprout after periodic grassland burns.
 
-The species has no known specialized herbivores, though generalist grazing animals may occasionally damage above-ground growth.
-
-### Conservation Status
-
-*Drosera regia* has not been formally assessed by the IUCN Red List, but its extremely limited natural range places it at considerable conservation risk.
-
-The total wild population is estimated at fewer than 2,000 mature individuals distributed across a handful of fragmented populations.
-
-Habitat degradation from invasive plant species, particularly alien pines and wattles, poses the most significant ongoing threat to remaining populations.
-
-[[dighton-fungi-climate-change-feedback]] models for the Eastern Cape predict increased drought frequency and reduced summer rainfall, which could critically impact the seepage habitats this species depends on.
-
-Over-collection by carnivorous plant enthusiasts has historically contributed to population declines, though cultivated material is now widely available from tissue-cultured stock.
-
-Ex situ conservation efforts include seed banking and maintained collections at several botanical institutions, though no formal recovery plan exists.
-
-Its extremely restricted range and small population sizes make it vulnerable to habitat disturbance, climate shifts, and over-collection by enthusiasts.
-
 ## See Also
-
-- [[drosera-scorpioides]]
-
-- [[drosera-anglica]]
-- [[nepenthes-rajah]]
-- [[pinguicula-vulgaris]]
-- darlingtonia californica
-- [[drosera-spatulata]]
-- [[drosophyllum-lusitanicum]]
+- [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]

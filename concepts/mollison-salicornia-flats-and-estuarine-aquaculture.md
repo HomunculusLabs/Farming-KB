@@ -1,15 +1,16 @@
 ---
-title: mollison salicornia flats and estuarine aquaculture and tidal-estuarine-aquaculture-mollison
+title: Mollison Salicornia Flats And Estuarine Aquaculture
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags:
-  - permaculture
+  - [[permaculture]]
   - water
   - ecology
   - agriculture
   - livestock
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
@@ -88,18 +89,9 @@ Sea-grass mulch and guano close the sea-land cycle of nutrients, and makes the g
 
 In both hemispheres, burrowing and surface-nesting seabirds can also be managed for eggs and meat production, fine down, and manurial output. The muttonbird (Puffinus) industry of Tasmania yields millions of birds annually; but under good management, the rookeries are fast increasing. By-products of down make the best insulation for doonas, beds, and even rooms.
 
-Like any fowl, muttonbirds can be cultivated, and rookeries established in new areas. The adults will survive well in captivity, and their progeny return to new rookeries. Thus, any seaside property can have a rookery of these birds if located in the general range of the selected species. Similarly, seal rookeries can be developed to safely yield skins, guano and protein foods.
-
-Tagari has applied for a tidewater and Salicornia leasehold to test out some of these strategies, and will develop a research series of structures and impoundments should funds be available. It is in the variation or complication of naturally invariant areas, long ago reduced to fairly barren plains by sea action, that the greatest opportunity to increase inshore fishery yields lie.
-
 ## See Also
-
-- [[salicornia-europaea]]
-
-- mollison-aquatic-polyculture-and-pond-culture for related polyculture approaches
-- permaculture-designers-manual-cover-crops-detailed
-- permaculture-designers-manual-fish-species-guide
-- permaculture-designers-manual-phosphate-cycling
 - [[tidal-estuarine-aquaculture-mollison]]
 - [[mollison-designers-trout-and-cool-water-aquaculture-species]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[mollison-designers-chinampa-wetland-garden-system]]
+- [[mollison-designers-banana-circle-waste-recycling-system]]

@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Trachelospermum jasminoides** is an evergreen woody vine in the family Apocynaceae, native to East Asia.
+**Trachelospermum jasminoides** is an evergreen woody vine in the family Apocynaceae, native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 It is widely cultivated for its intensely fragrant, star-shaped white flowers and glossy foliage.
 
@@ -56,9 +56,9 @@ The species is native to southern China, Korea, Japan, and northern Vietnam.
 
 In the wild, it grows in forests, thickets, and along mountain slopes at elevations of 100–800 meters.
 
-It thrives in warm-temperate to subtropical climates with moderate rainfall and well-drained soils.
+It thrives in warm-temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with moderate rainfall and well-drained soils.
 
-Naturalized populations exist in the southeastern United States, parts of Australia, and Mediterranean Europe.
+Naturalized populations exist in the southeastern [[dmt-containing-plants-united-states-halpern]], parts of Australia, and Mediterranean Europe.
 
 In the US, it has become established from Virginia to Florida and west to Texas, particularly in disturbed woodlands.
 
@@ -76,50 +76,14 @@ Pruning is best done immediately after flowering to control size and encourage d
 
 The vine climbs by twining stems and aerial rootlets, requiring a support structure such as a trellis, fence, or wall.
 
-It can also be grown as a sprawling ground cover, forming a dense mat 30–60 cm tall.
+It can also be grown as a sprawling [[fukuoka-citrus-orchard-ground-cover-cultivation]], forming a dense mat 30–60 cm tall.
 
 Common [[vegetative-propagation-methods-mollison]] include semi-hardwood cuttings in summer and layering of trailing stems.
 
 [[jeavons-seed-propagation-techniques]] is possible but slow; germination benefits from warm stratification.
 
-Few serious pests or diseases affect the plant, though scale insects and spider mites can occur in hot, dry conditions.
+Few serious pests or diseases affect the plant, though scale insects and [[cervantes-spider-mites-identification-control]] can occur in hot, dry conditions.
 
-Root rot from poorly drained soils is the most common cultural problem.
+[[cannabis-root-rot-prevention-and-treatment]] from poorly drained soils is the most common cultural problem.
 
 ## Chemistry and Fragrance
-
-The characteristic fragrance of *T. jasminoides* flowers is produced by a complex blend of [[fungal-volatile-organic-compounds-communication]] compounds.
-
-Major scent components include linalool, benzyl acetate, indole, and (E)-β-ocimene.
-
-The fragrance profile is often described as intermediate between true jasmine (*Jasminum grandiflorum*) and orange blossom.
-
-Essential oil can be extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh flowers, yielding approximately 0.1–0.3% by weight.
-
-The essential oil is used in perfumery as a cheaper alternative to jasmine absolute, particularly in commercial fragrances.
-
-All parts of the plant contain indole alkaloids characteristic of the Apocynaceae family.
-
-The stems produce a milky latex when cut, which is a common trait among Apocynaceae species.
-
-## Cultural Significance
-
-In China, the plant is known as 络石 (luòshí), and has been cultivated in gardens for centuries.
-
-It is frequently planted around courtyards and entryways for its fragrance and evergreen screening.
-
-In Japan, it is called テイカカズラ (teikakazura) and appears in traditional garden designs, particularly on stone walls.
-
-The species was introduced to European horticulture in the mid-19th century and rapidly gained popularity as a conservatory plant.
-
-In the southern United States, the common name "Confederate jasmine" is widely used, though it has no historical connection to the Confederacy.
-
-The name likely refers to its prevalence in the American South rather than any symbolic association.
-
-## See Also
-
-- [[jasminum-grandiflorum]]
-- [[wisteria-sinensis]]
-- [[passiflora-caerulea]]
-- [[hedera-helix]]
-- [[parthenocissus-tricuspidata]]

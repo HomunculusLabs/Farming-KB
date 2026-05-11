@@ -1,5 +1,5 @@
 ---
-title: "Cannabis, blesching cannabis appetite regulation ghrelin leptin, Ghrelin, and Leptin"
+title: Blesching Cannabis Appetite Regulation Ghrelin Leptin
 created: 2026-04-26
 tags: [appetite, ghrelin, leptin, hypothalamus, cachexia]
 date: 2026-04-25
@@ -11,13 +11,13 @@ type: concept
 
 # Cannabis, Appetite Regulation, Ghrelin, and Leptin
 
-One of cannabis's most well-known effects is appetite stimulation, commonly
+One of cannabis's most well-known effects is [[cannabis-for-cachexia-and-appetite-stimulation]], commonly
 called "the munchies." In "The [[uwe-blesching]] moves
 Blesching moves beyond this colloquial understanding to provide a detailed neuroendocrine
 analysis of how the blesching [[endocannabinoid-system-overview]].
 hunger hormone ghrelin and the satiety hormone leptin. This has profound
 clinical implications for cachexia, HIV/AIDS wasting, cancer-related
-anorexia, and eating disorders. See also [[blesching-cannabinoid-pharmacology]] for THC receptor pharmacology):
+anorexia, and eating disorders. See also [[blesching-cannabinoid-pharmacology]] for THC [[cannabinoid-receptor-pharmacology]]):
 
 1. **Hypothalamic CB1 activation**: THC binds CB1 receptors on POMC neurons
    in the arcuate nucleus, paradoxically causing them to release
@@ -47,7 +47,7 @@ Ghrelin is produced primarily by the stomach and is the only known
 circulating hormone that stimulates appetite. It rises before meals and
 falls after eating. Beyond hunger, ghrelin promotes:
 
-- Growth hormone release from the pituitary
+- [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] release from the pituitary
 - Gastrointestinal motility
 - Reward-related eating behavior through VTA dopamine release
 - Learning and memory related to food location
@@ -59,7 +59,7 @@ the ECS:
 - Ghrelin administration increases hypothalamic endocannabinoid levels,
   particularly 2-AG, in the limbic forebrain.
 - CB1 antagonists block ghrelin's appetite-stimulating effects,
-  confirming that ghrelin acts partly through endocannabinoid signaling.
+  confirming that ghrelin acts partly through [[2-ag-endocannabinoid-signaling-blesching]].
 - This interaction suggests that the ECS is a downstream mediator of
   ghrelin's orexigenic effects, and that THC amplifies this natural
   hunger pathway.
@@ -76,7 +76,7 @@ The ECS-leptin relationship is complex:
 - Leptin normally suppresses endocannabinoid levels in the hypothalamus,
   reducing hunger drive.
 - Obese individuals often develop leptin resistance -- their brains no
-  longer respond to leptin's satiety signal, while endocannabinoid tone
+  longer respond to leptin's satiety signal, while [[endocannabinoid-tone-and-emotional-wellness-blesching]]
   remains elevated, promoting continued overeating.
 - This has led some researchers to describe obesity as a state of
   "endocannabinoid overactivity" in the hypothalamus.
@@ -87,39 +87,3 @@ The ECS-leptin relationship is complex:
 Blesching notes the irony that the same ECS mechanism that makes cannabis
 useful for appetite stimulation in wasting conditions can contribute to
 metabolic dysfunction when chronically overactivated.
-
-## Cachexia and Wasting Syndromes
-
-Cachexia is a metabolic wasting syndrome involving involuntary weight loss,
-muscle atrophy, and loss of appetite. It occurs in advanced cancer, HIV/AIDS,
-heart failure, COPD, and chronic kidney disease. Unlike simple starvation,
-cachexia involves a hypermetabolic state driven by systemic inflammation
-that does not reverse with increased caloric intake alone.
-
-Cannabis's role in cachexia management:
-
-- **Appetite stimulation**: THC reliably increases appetite and caloric
-  intake in cachectic patients. For dosing guidance, see [[blesching-cannabis-dosing-strategies]].
-- **Weight gain**: [[mushroom-cancer-clinical-trials-overview]] in HIV/AIDS patients demonstrate
-  significant weight gain with dronabinol (synthetic THC) and whole-plant
-  cannabis.
-- **Mood improvement**: Cachexia often involves depression and anxiety
-  that further suppress appetite; cannabis addresses both.
-- **Anti-nausea**: Many cachectic patients experience treatment-related
-  nausea that prevents eating; THC's antiemetic effect removes this barrier.
-- **Quality of life**: Beyond weight metrics, patients report improved
-  food enjoyment, social eating, and overall well-being.
-
-## HIV/AIDS Wasting and Cannabis
-
-Blesching provides detailed coverage of cannabis for HIV/AIDS-related
-wasting, one of the best-studied clinical applications:
-
-- HIV/AIDS wasting syndrome was an FDA-approved indication for dronabinol
-  (Marinol) based on robust clinical evidence.
-- Whole-plant cannabis may be more effective than isolated THC due to
-  additional anti-inflammatory compounds and the [[cannabis-terpene-entourage-effect-profiles]].
-- Cannabis may also address HIV-related neuropathic pain, insomnia, and
-  anxiety as comorbid conditions that compound wasting.
-- Modern antiretroviral therapy has reduced but not eliminated wasting
-  concerns, making cannabis's appetite effects relevant for patients

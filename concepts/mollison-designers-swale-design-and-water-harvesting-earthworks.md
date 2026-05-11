@@ -1,8 +1,8 @@
 ---
-title: comparison-swale-design-vs-contour-swale-irrigation-design and Water pdc-water-harvesting-earthworks-design
+title: Mollison Designers Swale Design And Water Harvesting Earthworks
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - water-harvesting
   - earthworks
   - swales
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -55,7 +56,7 @@ rapid infiltration can use narrower, more widely spaced swales.
 
 ## Construction Techniques
 
-Swale construction begins with accurate contour mapping. An A-frame level,
+[[swale-construction-guide]] begins with accurate contour mapping. An A-frame level,
 bunyip water level, laser level, or dumpy level can be used to mark the contour
 line across the slope. Precision is essential: even small deviations from true
 contour can cause water to pool at one end and create erosion problems.
@@ -65,7 +66,7 @@ small bulldozer, excavator, or tractor-drawn moldboard plow on larger
 properties. The trench depth is typically 30 to 60 centimeters, with a flat
 bottom and gently sloping sides. The berm is formed from the excavated soil
 and should be immediately stabilized with mulch and planted with [[mollison-designers-temperate-zone-food-forest-design]], swales form the
-skeleton of the water management system, with each swale supporting a
+skeleton of the [[water-management]] system, with each swale supporting a
 productive polyculture strip.
 
 On the uphill side of the swale trench, nitrogen-fixing [[permaculture-plants-food-forest-ground-covers-bamboos]] and
@@ -87,43 +88,3 @@ Other common failures include:
 
 - **Off-contour construction**: Even a 1 to 2 percent grade in the swale
   bottom causes water to concentrate at one end, leading to erosion.
-- **Insufficient berm compaction**: Loose berm soil washes easily during
-  the first heavy rains before vegetation establishes.
-- **Building on unstable slopes**: Swales should never be placed on slopes
-  prone to landslides or subsidence, as water saturation can trigger failure.
-- **Oversizing**: Swales that are too wide or too deep for the catchment
-  remain perpetually waterlogged, creating anaerobic conditions harmful to
-  most plantings.
-- **Underestimating peak flows**: Designing for average rather than extreme
-  rainfall events leads to overtopping and structural failure.
-
-## Multi-Function Swale Systems
-
-Beyond water harvesting, swales serve multiple functions in a permaculture
-landscape. They [[query-how-do-i-create-microclimates-in-my-garden]] by modifying [[hemenway-cold-air-drainage-and-frost-management]] and temperature.
-They provide access paths along contour for management activities. They can be
-integrated with [[mollison-designers-intensifying-small-farm-production]],
-swale systems dramatically increase the productive area available for crops.
-
-## Summary
-
-> **Definition:** A swale is a level trench excavated on contour, with the
-> excavated soil formed into a berm on the downhill side, designed to capture
-> surface runoff, infiltrate it into the soil, and distribute moisture across
-> the landscape. Swales are fundamental [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] that reduce
-> erosion, recharge groundwater, support tree and crop establishment, and
-> increase landscape productivity when properly designed, constructed, and
-> maintained with appropriate spillways and vegetation.
-
-## Merged: What Earthworks Should I Use For Water Harvesting?
-## Related
-
-- [[mollison-meadow-design-and-plant-assemblies]]
-- [[mollison-spiral-patterns-in-nature-and-design]] Questions
-
-- [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
-- [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
-
-## Merged: Can Moringa Be Used for Water Purification?
-
-# Can Moringa Be Used for Water Purification?

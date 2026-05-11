@@ -9,7 +9,7 @@ tags: [reference]
 
 # Stropharia Venenata: Japan's Misidentified Bluing Mushroom
 
-Stropharia venenata (originally described as Stropharia caerulescens by S. Imai in 1932) is a psychoactive mushroom species from Japan with a troubled taxonomic history. Unjustly branded for decades as a "highly dangerous [[growing-gourmet-poisonous-mushroom-lookalikes]]" due to a citation error, it represents an important case study in how taxonomic mistakes can have lasting consequences for both mycological science and public perception.
+Stropharia venenata (originally described as Stropharia caerulescens by S. Imai in 1932) is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species from Japan with a troubled taxonomic history. Unjustly branded for decades as a "highly dangerous [[growing-gourmet-poisonous-mushroom-lookalikes]]" due to a citation error, it represents an important case study in how taxonomic mistakes can have lasting consequences for both mycological science and public perception.
 
 ## Taxonomic History
 
@@ -63,13 +63,13 @@ All affected family members recovered completely with no lasting effects. This o
 
 ### Taste Observations
 
-The fresh fruiting bodies were bitter, a taste that disappeared after the mushrooms had been cooked in water. The bitterness of fresh specimens may serve as a natural deterrent, reducing the likelihood of accidental consumption of large quantities.
+The fresh [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] were bitter, a taste that disappeared after the mushrooms had been cooked in water. The bitterness of fresh specimens may serve as a natural deterrent, reducing the likelihood of accidental consumption of large quantities.
 
 ## The Singer and Smith Error
 
 ### The Monograph Mistake
 
-Singer and Smith, in their 1958 monograph about the Psilocybe genus, mistakenly cited the 1929 and 1931 intoxication cases involving S. venenata as examples of the species' fatal effects. This citation error had devastating consequences:
+Singer and Smith, in their 1958 monograph about the [[psilocybe-genus-biogeography-tropical-temperate]], mistakenly cited the 1929 and 1931 intoxication cases involving S. venenata as examples of the species' fatal effects. This citation error had devastating consequences:
 
 - The species was "unjustly branded for decades in the literature as a highly dangerous poisonous mushroom"
 - The "highly dangerous" label was entirely baseless -- no fatalities ever occurred
@@ -88,43 +88,3 @@ As a close relative of P. cubensis, S. venenata shares many characteristics:
 
 | Feature | S. venenata | P. cubensis |
 |---|---|---|
-| Habitat | Wood and dung | Dung |
-| Distribution | Japan | Pan-tropical |
-| [[field-guide-psilocybin-bluing-reaction-identification]] | Yes | Yes |
-| Primary alkaloid | Psilocybin | Psilocybin |
-| Toxicity | Non-fatal | Non-fatal |
-| Taste (fresh) | Bitter | Mild |
-| Relationship | Close relative | Close relative |
-
-## The Bitter Taste as Safety Feature
-
-The bitter taste of fresh S. venenata fruiting bodies serves as a natural safety mechanism:
-
-- Bitter taste discourages consumption of large quantities
-- Cooking removes the bitterness (and the water-soluble psilocybin is extracted into the cooking liquid)
-- The 1929 case involved cooked mushrooms -- the bitterness was gone, so the family ate a large quantity
-- Had the mushrooms been eaten raw, the bitter taste might have limited consumption
-
-## Significance for Japanese Mycology
-
-### Context in Japanese Mushroom Culture
-
-Japan has a 2,000-year tradition of [[accessible-mushroom-cultivation-for-disabilities]] (beginning with shiitake, Lentinus edodes). The discovery that some Japanese mushrooms contained psychoactive compounds added a new dimension to this tradition.
-
-### Knowledge Gaps
-
-Despite Yokoyama's 1973 experiments, much remains unknown about Japanese psychoactive mushrooms:
-
-- Complete geographic distribution of psychoactive species
-- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of most species
-- Full documentation of accidental intoxications
-- Ecological requirements of psychoactive species
-- Relationship between Japanese and continental Asian populations
-
-## Lessons from the S. Venenata Case
-
-### Taxonomic Accuracy Matters
-
-The S. venenata case demonstrates that taxonomic errors in mycological monographs can have real-world consequences:
-## See Also
-- [[mushroom-cultivation]]

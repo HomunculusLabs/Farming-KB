@@ -13,12 +13,12 @@ type: concept
 Supplemental feeding in [[savory-holistic-management-overview]] is evaluated through the same
 testing guidelines applied to all management decisions. Savory repeatedly
 emphasizes that supplements rarely pass the marginal reaction test when
-compared to the cost of additional fencing or better grazing planning. The
+compared to the cost of additional fencing or better [[savory-livestock-grazing-planning]]. The
 default assumption should be that supplementation indicates a failure of
 grazing management rather than an inevitable cost of livestock production.
 This chapter examines how holistic managers approach the question of
 winter feeding and supplemental nutrition through the lens of holistic
-testing and financial planning.
+testing and [[homestead-financial-planning]].
 
 ## The Marginal Reaction Test Applied to Feed
 
@@ -30,7 +30,7 @@ greater returns if invested in fencing, water development, or herd
 restructuring. Ranchers should rigorously question each supplement
 expense by running it through the holistic testing guidelines, paying
 particular attention to the marginal reaction test and the cause and
-effect guideline. Many ranchers discover that what they assumed were
+[[savory-cause-and-effect-guideline]]. Many ranchers discover that what they assumed were
 necessary feed costs are actually symptoms of poor grazing distribution
 or inappropriate breeding season timing.
 
@@ -38,7 +38,7 @@ or inappropriate breeding season timing.
 
 As plants mature and enter dormancy, their protein content drops
 significantly while fiber content increases. This creates a nutritional
-gap that livestock managers must address. In brittle environments, this
+gap that livestock managers must address. In [[savory-brittle-environments]], this
 decline is more pronounced and occurs more abruptly than in non-brittle
 regions. Understanding the timing and severity of this decline is
 critical for planning grazing schedules that maintain animal condition
@@ -86,38 +86,5 @@ advocates using standing forage as the primary feed source and reserving
 hay for true emergencies. Drought reserves of hay should be maintained,
 but the goal is to graze through as much of the dormant season as
 possible using careful planning and [[savory-fencing-economics-and-stock-density-curve]] management. High
-stock density during dormant periods can force animals to utilize
+[[savory-stock-density-vs-stocking-rate]] during dormant periods can force animals to utilize
 species they would normally avoid, reducing waste and extending the
-grazing season. This approach requires more frequent herd moves but
-dramatically reduces feed costs. The monitoring process tracks body
-condition scores to determine when standing forage is no longer
-adequate and feeding must begin, ensuring that supplements are used
-only when genuinely necessary rather than on a predetermined calendar
-schedule.
-
-## Fencing Versus Supplements
-
-When faced with the choice between spending money on supplements or on
-fencing to enable better grazing distribution, Savory consistently
-recommends fencing. Fencing is a one-time capital investment that
-improves grazing management for years, while supplements are a recurring
-expense that often masks underlying management problems. The money
-saved by eliminating unnecessary supplements can fund the development of
-additional fencing, water points, and other infrastructure that
-permanently improves the ranch's ability to support livestock without
-feed inputs. Over time, the compound benefit of improved grazing
-management far exceeds the temporary performance boost from
-supplementation, making fencing investments far more productive than
-feed purchases in both the short and long term.
-
-## See Also
-
-- [[savory-human-creativity-in-resource-management]]
-
-- [[savory-livestock-nutrition-and-supplementation]] — detailed
-  nutrition guidelines
-- [[savory-drought-planning-and-reserves]] — drought feed reserves
-- [[savory-ranch-financial-planning]] — economic analysis of feeding
-  programs
-- [[savory-growing-season-and-non-growing-season-management]] — seasonal
-  planning approaches

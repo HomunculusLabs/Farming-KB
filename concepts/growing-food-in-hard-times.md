@@ -74,3 +74,15 @@ Solomon advocates making vegetables the core of your diet. From 1980-1983, most 
 - [[soil-conditioners-guide]] — Understanding soil fundamentals
 - [[drought-gardening]] — Growing with minimal irrigation
 - [[composting-systems]] — Making effective compost
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[gardening-in-hard-times]]
+- [[solomon-community-garden-models-hard-times-cuba-britain]]
+- [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]
+- [[query-how-do-i-start-growing-berries-in-my-garden]]
+- [[query-how-does-companion-planting-work-in-a-food-forest]]

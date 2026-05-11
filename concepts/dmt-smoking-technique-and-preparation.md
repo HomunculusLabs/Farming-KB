@@ -1,5 +1,5 @@
 ---
-title: DMT dmt smoking technique and preparation and Preparation
+title: Dmt Smoking Technique And Preparation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -14,11 +14,11 @@ DMT (N,N-dimethyltryptamine) is a powerful short-acting psychedelic compound fou
 ## Freebase Preparation
 
 ### From Plant Material
-DMT is found in the bark of [[entheogen-jurema-mimosa-hostilis-ethnobotany]], the leaves of Psychotria viridis, and other plants. Extraction methods vary:
+DMT is found in the bark of [[entheogen-jurema-mimosa-hostilis-ethnobotany]], the leaves of [[chacruna-psychotria-viridis]], and other plants. [[arbuscular-mycorrhizal-spore-extraction-methods]] vary:
 
 ### Basic Acid-Base Extraction (Overview)
 1. Powder plant material
-2. Soak in acidic solution (vinegar or citric acid) to extract alkaloids
+2. Soak in acidic solution (vinegar or [[citric-acid-cycle-tca-krebs-cycle]]) to extract alkaloids
 3. Filter to remove plant matter
 4. Basify the solution with sodium hydroxide (NaOH) to convert DMT to freebase
 5. Extract with nonpolar solvent (naphtha or DCM)
@@ -36,7 +36,7 @@ DMT is found in the bark of [[entheogen-jurema-mimosa-hostilis-ethnobotany]], th
 - DMT-infused smoking herb
 - Typically 20-50% DMT by weight, mixed with herbs
 - Provides a smoother, longer experience than pure DMT
-- MAOI-containing herbs (Banisteriopsis caapi leaf, passionflower) extend and modify effects
+- MAOI-containing herbs ([[ayahuasca-and-banisteriopsis-caapi]] leaf, passionflower) extend and modify effects
 
 ### Making Changa
 1. Dissolve DMT freebase in a solvent (isopropyl alcohol or acetone)
@@ -88,34 +88,3 @@ DMT is found in the bark of [[entheogen-jurema-mimosa-hostilis-ethnobotany]], th
 - **Breakthrough** (40-60 mg+): Complete [[psilocybin-ego-dissolution-mechanisms]], alternate realities, "hyperspace"
 
 ## MAOI Diet Considerations
-
-When combining DMT with MAOI-containing herbs (changa with caapi leaf), dietary restrictions apply:
-
-### Foods to Avoid (24 hours before and after)
-- Aged cheeses, fermented foods
-- Cured meats (salami, pepperoni)
-- Alcohol
-- Yeast extracts (Marmite, Vegemite)
-- Soy sauce, tofu, fermented soy products
-- Overripe bananas, avocados
-
-### Why
-- MAOIs inhibit the enzyme that breaks down tyramine
-- Tyramine-rich foods can cause dangerous blood pressure spikes (hypertensive crisis)
-- Risk is lower with short-acting oral MAOIs in changa vs pharmaceutical MAOIs, but still relevant
-
-## Harm Reduction
-
-- Always have a sitter (sober person present)
-- [[lsd-set-and-setting-framework]]: comfortable, safe, quiet environment
-- Start low, go slow — you can always take more
-- Don't combine with other substances (especially antidepressants)
-- SSRI/SNRI medications block DMT effects and may cause serotonin syndrome
-- Not for people with personal or family history of psychosis
-- Integration: journal, discuss with trusted friends, allow time for processing
-
-## Related
-- [[beta-carboline-chemistry]] — for oral DMT (with MAOI)
-- [[psychedelic-mushroom-set-and-setting]] — for set and setting
-- hallucinogenic-mushroom-health-risks-and-harm-reduction
-- [[psychedelic-mushroom-pharmacology]]

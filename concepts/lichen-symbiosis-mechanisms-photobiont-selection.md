@@ -1,5 +1,5 @@
 ---
-title: [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]] Mechanisms and Photobiont Selection
+title: Lichen Symbiosis Mechanisms Photobiont Selection
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -52,7 +52,7 @@ partners involves several levels of specificity:
   photobiont species. The degree of specificity varies among lichen taxa and
   may reflect different evolutionary strategies.
 
-- **Pre-contact recognition**: Fungal hyphae may detect photobiont-specific
+- **Pre-contact recognition**: [[fungal-hyphae]] may detect photobiont-specific
   [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] before physical contact, though the molecular mechanisms of
   this recognition are not fully characterized.
 
@@ -70,13 +70,13 @@ partners involves several levels of specificity:
 The comparison between lichen symbiosis and the Geosiphon-Nostoc symbiosis
 illuminates the range of fungal-algal partnership strategies:
 
-- **Lichens**: The photobiont lives outside the fungal cell; contact occurs
+- **Lichens**: The photobiont lives outside the [[chitin-chitosan-fungal-cell-wall]]; contact occurs
   between the two partners. Vegetative reproduction occurs through soredia
   and isidia that spread both partners together. Lichens are robust toward
   dehydration and resistant to high temperatures and high light irradiance.
 
 - **Geosiphon**: Represents an endocytobiotic consortium with the photobiont
-  living inside the fungal cell. [[hamilton-vegetative-propagation]] of the entire
+  [[endophytic-fungi-living-inside-plants]] the fungal cell. [[hamilton-vegetative-propagation]] of the entire
   symbiotic system does not exist. Geosiphon does not survive water loss and
   is very sensitive to high temperature and grows only in moderate light
   (Kluge and Schubler 2002).
@@ -88,62 +88,3 @@ partners:
 
 - **Mycobiont dominance**: The fungal partner typically constitutes 80-90% of
   the thallus biomass, creating a physical structure that protects the
-  photobiont while maximizing light capture and gas exchange.
-
-- **Carbon flow**: The photobiont transfers 20-80% of its photosynthetically
-  fixed carbon to the mycobiont as sugar alcohols (mainly ribitol in green
-  algae, glucose in cyanobacteria). The fungus converts these to mannitol and
-  other storage compounds.
-
-- **Water and mineral relations**: The mycobiont's hyphal structure creates a
-  highly efficient water-harvesting system, absorbing atmospheric moisture and
-  dissolved minerals. The poikilohydric nature of lichens allows them to
-  survive extreme desiccation.
-
-- **Growth rate**: Lichens are extremely slow-growing, showing about 1 mm of
-  radial growth per year, but are highly tolerant to xeric conditions such
-  as desiccation and heat.
-
-## Sensitivity to Environmental Pollution
-
-Lichens are among the most sensitive organisms to atmospheric pollution,
-particularly sulfur dioxide and heavy metals:
-
-- **Bioindicators**: The absence of lichens near human habitations where
-  automobile fumes and factory effluents prevail has made them important
-  bioindicators of air quality.
-
-- **Pollution mechanisms**: Sulfur dioxide disrupts photosynthesis in the
-  photobiont, while heavy metals accumulate in the thallus and interfere
-  with cellular processes.
-
-- **Nitrogen sensitivity**: Paradoxically, some lichens are sensitive to
-  elevated [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], which can disrupt the carefully balanced
-  [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between partners.
-
-## Evolution of Fungal-Algal Mutualism
-
-The repeated independent evolution of lichen symbiosis across multiple fungal
-lineages suggests that the partnership confers strong selective advantages:
-
-- **Multiple origins**: Lichen-forming ability has evolved independently at
-  least 10-15 times within the Ascomycota and multiple times within the
-  Basidiomycota, indicating that the fungal-algal partnership is an
-  evolutionarily accessible strategy.
-
-- **Ancient origin**: Fossil evidence from the Rhynie Chert (Early Devonian,
-  ~400 million years ago) suggests that lichen-like associations were among
-  the earliest terrestrial symbioses.
-
-- **Genomic insights**: The first sequenced genome of [[laccaria-bicolor]]
-  (Martin et al. 2008) and subsequent fungal genomes have revealed genes
-  involved in symbiotic communication that may have ancient origins predating
-  the evolution of lichen symbiosis.
-
-## Lichen Growth Forms and Ecological Adaptation
-
-## See Also
-
-- [[lichen-symbiosis-fungi-algae-partnership]]
-- [[symbiotic-fungi-lichen-symbiosis-mechanisms]]
-- [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]

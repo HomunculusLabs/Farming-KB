@@ -15,7 +15,7 @@ Peru occupies a unique position in global [[mckenna-modest-proposal-drug-policy-
 waging an aggressive war against cocaine trafficking while fully
 embracing ayahuasca as a legitimate cultural and spiritual practice.
 This paradox reveals fundamental differences between Peruvian and
-Western approaches to classifying psychoactive substances.
+Western approaches to classifying [[cultural-evolution-and-psychoactive-substances]].
 
 The contrast is stark: cocaine traffickers regularly close the only
 road connecting Lima to several provinces for weeks, television
@@ -36,7 +36,7 @@ military officials.
 This infrastructure disruption affects indigenous communities and
 travelers alike. The drug war creates an environment of militarized
 surveillance and intermittent violence that shapes daily life in the
-Peruvian Amazon, even in areas far from direct trafficking activity.
+[[ayahuasca-tourism-economics-peruvian-amazon]], even in areas far from direct trafficking activity.
 
 The American drug war model, exported through international pressure,
 promotes eradication and interdiction. Peru's adoption of these
@@ -53,7 +53,7 @@ and its raw plant materials are openly sold in markets throughout the
 Amazon. Government tourist agencies sponsor ayahuasca festivals,
 positioning the practice as part of Peru's cultural heritage.
 
-President Toledo's participation in an ayahuasca ceremony represents
+President Toledo's participation in an [[ayahuasca-ceremony-pharmacology-safety]] represents
 the highest level of institutional acceptance. When a sitting head of
 state publicly engages in an indigenous shamanic ritual, it signals
 that ayahuasca is actively embraced rather than merely tolerated.
@@ -82,41 +82,9 @@ importance of understanding local legal nuances.
 ## Cultural Versus Pharmacological Classification
 
 The Peruvian approach reveals a fundamentally different logic of drug
-classification than Western regulatory frameworks. Where the United
+classification than Western [[medicinal-mushroom-cancer-regulatory-frameworks]]. Where the United
 States classifies substances by pharmacological properties and abuse
-potential, Peru classifies them by cultural context, traditional use,
+potential, Peru classifies them by [[ayahuasca-pharmacology-and-cultural-context]], traditional use,
 and social function.
 
 Coca leaf maintains [[ayahuasca-tourism-legal-status-by-country]] for traditional uses despite being
-cocaine's precursor. Ayahuasca is openly consumed despite containing
-DMT. The distinction is not between "dangerous" and "safe" substances
-but between traditional cultural practices and industrial drug
-trafficking.
-
-This cultural logic creates space for indigenous and mestizo
-communities to maintain relationships with psychoactive plants without
-the stigma and criminalization prevalent in Western contexts. It also
-enables [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] as a legitimate industry.
-
-## Implications for Tourism
-
-Peru's legal and cultural acceptance is a foundational condition for
-the ayahuasca tourism industry. Without this permissive environment,
-retreat centers, ceremonial spaces, and practitioner networks serving
-foreign visitors could not operate openly.
-
-Tourists benefit from a legal environment far more favorable than in
-their home countries. However, the drug war context means travel to
-ayahuasca destinations may involve navigating areas affected by
-trafficking-related disruption. The paradox of aggressive cocaine
-enforcement alongside ayahuasca acceptance reflects a broader tension
-in global drug policy between prohibitionist and culturally informed
-approaches to psychoactive substances.
-
-## See also
-
-[[ayahuasca-tourism-peru-retreat-landscape]]
-[[ayahuasca-tourism]]
-[[peruvian-drug-war-ayahuasca-legal-acceptance-contrast]]
-
-- [[peruvian-ayahuasca-government-festivals-and-presidential-ceremony]]

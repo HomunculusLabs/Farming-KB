@@ -1,7 +1,7 @@
 ---
-title: The Cool Greenhouse (Heated Greenhouse for Seedlings and Early Crops)
+title: Coleman Cool Greenhouse
 created: 2026-04-26
-sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009), Chapter 7
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, eliot-coleman (2009), Chapter 7
 tags:
   - greenhouse
   - winter-harvest
@@ -56,7 +56,7 @@ in the early 1990s using a radiant heater and wide-range thermostat
 suggested that most hardy crops show no damage as long as the minimum
 temperature does not drop below 26 degrees Fahrenheit (minus three
 degrees Celsius). However, temperatures just below freezing, even
-without cosmetic damage, can slow growth for up to a week afterward.
+without cosmetic damage, can [[holmgren-long-rotation-forestry-slow-growth]] for up to a week afterward.
 
 The practical recommendation is to maintain a dependable nighttime
 minimum above 32 degrees Fahrenheit. This ensures continuous crop
@@ -78,7 +78,7 @@ Several design choices maximize the efficiency of the cool greenhouse:
 Coleman has experimented with several heating sources:
 
 - Standard propane-fueled greenhouse heaters (the baseline option)
-- Wood furnace in the washing and packing greenhouse, which
+- Wood furnace in the [[coleman-winter-harvest-washing-and-packing]] greenhouse, which
   replaces the propane heater except during exceptionally cold
   weather
 - Wood-fired hot-water boiler systems (priced but not yet installed
@@ -87,48 +87,3 @@ Coleman has experimented with several heating sources:
 - "Earth tube" systems using buried pipes to draw in
   earth-temperature air, with fan energy at roughly 15 percent
   of the cost of creating equivalent heat artificially
-
-Coleman has not pursued artificial lighting because no light bulb
-can truly duplicate sunlight, and adding another major energy use
-contradicts the minimalist philosophy. Soil heating has also been
-investigated cautiously. Greenhouse studies show soil heating can
-supply about 20 percent of total heat needs, and warming the soil
-may address the observation that lettuce growth slows in winter
-not because of shorter days but because of cooler soil
-temperatures.
-
-## Salad Mix Production
-
-The cool greenhouse produces baby-leaf (mesclun) salads
-exceptionally well. Immature leaves of salad crops are far more
-cold-tolerant than mature ones. The mix includes red lettuces,
-green lettuces, broadleaf arugula, sylvetta arugula, endive,
-narrow-stem chard, claytonia, minutina, spinach, mache,
-watercress, and beet leaves. Coleman's advertising cites USDA
-nutritional data showing this blend contains at least five times
-more calcium, four times more iron, twelve times more vitamin A,
-and six times more vitamin C than head [[growing-lettuce-salad-greens]].
-
-Quality is the primary concern. Coleman does not sell ingredients
-that are too large, bitter, tough, stringy, or frost-damaged.
-Leaves are kept to no more than three inches in length to ensure
-they fit easily onto a fork. Overgrown leaves are consigned to
-braising mixes or sold bunched as cooking greens rather than
-included in the salad mix.
-
-## Transition to Unheated Production
-
-Despite the proven advantages of the cool greenhouse, Coleman
-ultimately decided to concentrate on unheated production. The
-challenge of the simple, minimalist, unheated approach is where
-the hearts of the operation lie. Only one small growing area
-retains minimal heat for occasional trials. The cool greenhouse
-remains a proven option for growers in colder climates who need
-to maximize winter income per [[comparison-biointensive-vs-square-foot-gardening]].
-
-## See Also
-
-- [[coleman-winter-harvest-philosophy]]
-- coleman-greenhouse-soil-management
-- [[coleman-succession-planting]]
-- [[coleman-marketing-economics]]

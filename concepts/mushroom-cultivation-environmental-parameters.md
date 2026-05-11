@@ -88,29 +88,3 @@ light works well. Insufficient light causes pale, elongated stems with small
 caps and poor morphological development.
 
 ## Pinning and Fruiting Stages
-
-### Primordia Formation
-
-After fruiting triggers are applied, small white knots appear and develop into
-primordia over 3-7 days. This is the most sensitive stage; maintain stable
-temperature, humidity above 90%, and gentle air movement. Avoid direct misting
-on pins as water droplets can damage or kill developing primordia.
-
-### Fruiting Body Development
-
-Primordia grow into mature mushrooms over 5-14 days depending on species and
-conditions. Management considerations include harvest before spore drop,
-maintaining consistent humidity, ensuring adequate FAE, and monitoring for pests
-and diseases throughout the growing cycle.
-
-### Harvest Timing
-
-Optimal harvest when the cap margin begins to flatten but before full expansion
-and spore release. Proper timing maximizes quality and subsequent flush
-potential by preserving substrate energy for additional flushes.
-
-## See Also
-
-- [[oyster-mushroom-substrate-preparation]]
-- [[mushroom-cultivation-fundamentals]]
-- [[mushroom-cultivation-environments]]

@@ -23,7 +23,7 @@ Edgeworthia chrysantha, commonly called paper bush or oriental paperbush, is a d
 
 The plant is the source of *mitsumata* paper, a high-quality Japanese tissue paper made from its bark. This paper has been produced for centuries and is still used for banknotes, archival documents, and traditional artworks.
 
-In cultivation, *Edgeworthia chrysantha* is valued as a winter-blooming ornamental shrub for woodland gardens. The species is hardy in USDA zones 7 through 9 and reaches 1.2 to 1.8 meters in height and spread.
+In cultivation, *Edgeworthia chrysantha* is valued as a winter-blooming [[hamilton-ornamental-shrub-care]] for woodland gardens. The species is hardy in USDA zones 7 through 9 and reaches 1.2 to 1.8 meters in height and spread.
 
 ## Taxonomy and Morphology
 
@@ -67,13 +67,13 @@ Wild populations in China have declined due to overharvesting of bark for paper 
 
 *Edgeworthia chrysantha* requires partial shade and consistently moist, humus-rich, well-drained soil. It performs best in locations protected from early morning sun, which can damage flowers after frost.
 
-The shrub is hardy to approximately -12°C, though flower buds may be damaged below -8°C. In cold climates, siting near a warm wall or in a courtyard provides necessary protection.
+The shrub is hardy to approximately -12°C, though flower buds may be damaged below -8°C. [[query-how-do-i-grow-figs-in-cold-climates]], siting near a warm wall or in a courtyard provides necessary protection.
 
-Soil should be acidic to neutral (pH 5.5 to 7.0) and enriched with leaf mold or compost annually. The plant is intolerant of drought and requires regular irrigation during dry periods.
+Soil should be acidic to neutral (pH 5.5 to 7.0) and enriched with [[comparison-leaf-mold-composting-vs-hot-composting-method]] or compost annually. The plant is intolerant of drought and requires regular irrigation during dry periods.
 
-Propagation is primarily by softwood cuttings taken in early summer, which root readily under mist. Division of mature clumps in early spring is also effective.
+Propagation is primarily by softwood cuttings taken in early summer, which root readily under mist. Division of mature clumps in [[coleman-overwintered-onions-and-early-spring-crops]] is also effective.
 
-Seed propagation is possible but slow, requiring 12 to 18 months from sowing to flowering size. The cultivar 'Grandiflora' has larger flower heads and is the most commonly available form in the nursery trade.
+[[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but slow, requiring 12 to 18 months from sowing to flowering size. The cultivar 'Grandiflora' has larger flower heads and is the most commonly available form in the nursery trade.
 
 The shrub requires minimal pruning, limited to removal of dead or damaged branches after flowering. It has no serious pest problems and is generally deer-resistant due to its fibrous, toxic bark.
 
@@ -88,34 +88,3 @@ In Japan, this paper is called *mitsumata* (三椏) and has been used since the 
 The paper is also used for traditional *washi* crafts, shoji screens, and conservation-grade archival paper. Its insect-repellent properties make it especially suitable for document storage.
 
 In traditional Chinese medicine, the flowers and roots are used to treat eye infections, inflammation, and skin disorders. The plant contains daphnoretin and other coumarin derivatives with documented antimicrobial activity.
-
-Research has identified flavonoids and lignans with anti-inflammatory and antioxidant properties. The fragrant flowers are occasionally used in perfumery as a fixative.
-
-The species was named in honor of Michael Pakenham Edgeworth, a 19th-century Irish botanist who worked in India. The specific epithet *chrysantha* means "golden flower," referring to the bright yellow blooms.
-
-In its native China, the plant is known as *jié xiāng* (结香), meaning "tied fragrance." This name refers to the traditional practice of tying knots in the flexible branches to make wishes, a custom still practiced in some regions.
-
-## Pests and Diseases
-
-*Edgeworthia chrysantha* is notably resistant to most pests and diseases. The fibrous, toxic bark deters most mammalian browsers and many bark-feeding insects.
-
-Aphids may occasionally infest new growth in spring but rarely cause significant damage. Scale insects can appear on stems in sheltered locations and are controlled with horticultural oil.
-
-Root rot can occur in waterlogged or poorly drained soils, particularly in heavy clay. Proper siting with good drainage and adequate organic matter prevents this problem.
-
-Botrytis (gray mold) may affect flower heads during prolonged wet, cold periods in late winter. Improving air circulation around the plant reduces infection risk.
-
-Virus infections are rare but can cause leaf mottling and stunted growth. Infected plants should be removed and destroyed to prevent spread to healthy specimens.
-
-## See Also
-
-- [[daphne-meereum]]
-- [[lindera-benzoin]]
-- [[chionanthus-virginicus]]
-- [[hamamelis-virginiana]]
-- [[styrax-tonkinensis]]
-- [[mahonia-aquifolium]]
-- [[camellia-sinensis]]
-- [[paeonia-lactiflora]]
-- [[sassafras-albidum]]
-- [[lonicera-japonica]]

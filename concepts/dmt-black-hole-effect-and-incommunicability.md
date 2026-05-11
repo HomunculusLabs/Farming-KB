@@ -1,5 +1,5 @@
 ---
-title: DMT Black Hole Effect and Incommunicability
+title: Dmt Black Hole Effect And Incommunicability
 tags: [dmt, tryptamine, consciousness, phenomenology, mckenna, incommunicability, epistemology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -9,12 +9,12 @@ sources:
 
 # DMT Black Hole Effect and Incommunicability
 
-The DMT black hole effect is a metaphor coined by Terence McKenna to describe
+The DMT black hole effect is a metaphor coined by [[terence-mckenna]] to describe
 the profound difficulty of communicating the content and quality of the DMT
 experience to those who have not undergone it. The concept draws an analogy
 between the astrophysical phenomenon of a black hole, where the curvature of
 spacetime is so extreme that no light or signal can escape, and the
-psychedelic experience of dimethyltryptamine, where the nature of the
+[[leary-psychedelic-experience-bardo-mapping]] of dimethyltryptamine, where the nature of the
 experience is so alien that language fails to convey it to others.
 
 ## The Incommunicability Problem
@@ -32,7 +32,7 @@ experience itself is so overwhelming that the person undergoing it struggles
 to form coherent memories or descriptions even for themselves. Second, any
 attempt to articulate the experience to others seems to generate less
 understanding rather than more. McKenna noted that the more precisely one is
-able to describe what happens during a DMT experience, the less others are
+able to describe what happens during a [[extraterrestrial-contact-and-dmt-experience]], the less others are
 able to comprehend. This is an inversion of normal communication, where
 greater precision typically leads to better understanding.
 
@@ -47,7 +47,7 @@ register that ordinary language cannot access, creating what amounts to a
 one-way informational barrier between the experienced and the unexperienced.
 
 This parallel has implications for comparative religion and the study of
-mystical experience. If the silence of sages across traditions reflects the
+[[mystical-experience]]. If the silence of sages across traditions reflects the
 same structural incommunicability that DMT produces, then the tryptamine
 experience may serve as a replicable model for understanding why mystical
 knowledge has historically been transmitted through non-verbal means such as
@@ -88,34 +88,3 @@ critique of what counts as valid evidence in Western intellectual traditions,
 arguing that the "guardians of scientific truth" have declared shamanic
 experience and plant-induced ecstasies inadmissible even though they
 represent "the source of novelty and the cutting edge of the ingression of the
-novel into the plenum of being."
-
-The practical consequence of the black hole effect is that people who have
-undergone the DMT experience find themselves in a position analogous to that
-of someone who has seen a color that does not exist in the visible spectrum.
-They possess genuine knowledge, but they lack the conceptual and linguistic
-framework to transmit it. This creates a community defined by shared
-ineffability rather than shared understanding.
-
-## The Paradox of Persuasion
-
-A further dimension of the black hole effect is what might be called the
-paradox of persuasion. McKenna observed that among those who have undergone
-the experience, there is a near-universal conviction that it is real and
-significant. Yet the same content that convinces the experiencer is precisely
-what makes it impossible to communicate to others. The more one insists on
-the reality and importance of what one has encountered, the more one sounds
-like someone suffering from delusion to those who have not shared the
-experience. This creates a self-reinforcing isolation: the experience is so
-compelling that one cannot remain silent about it, yet speaking about it
-invariably fails to convey its content and may even undermine one's
-credibility.
-
-## See Also
-
-- [[dmt-self-transforming-machine-elves-mckenna]]
-- [[hyperspace-logos-consciousness]]
-- [[tryptamine-logos]]
-- [[mckenna-tryptamine-transtemporal-eternity-and-nunc-stans]]
-- [[mckenna-cognitive-dissonance-translinguistic-object]]
-- [[heraclitus-fragment-24-aeon-child-play-dmt-experience]]

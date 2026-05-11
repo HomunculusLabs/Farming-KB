@@ -1,5 +1,5 @@
 ---
-title: Amanita Phalloides (Death Cap)
+title: Amanita Phalloides Death Cap
 created: 2026-04-28
 tags:
   - mycology
@@ -29,10 +29,10 @@ frequently mistake it for harmless mushrooms.
 The death cap produces a [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] with a smooth, greenish-yellow
 to olive cap that can reach 15 centimeters in diameter. The stem is
 white and bears a membranous ring (annulus) just below the cap, derived
-from the partial veil that covers the gills during development. At the
+from the [[partial-veil-tropism-protection-before-spore-release]] that covers the gills during development. At the
 base of the stem sits a cup-like volva, the remnant of the universal
-veil that enclosed the entire immature fruiting body. These features
-are shared with the [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*Amanita virosa*), a pure white
+veil that enclosed the entire immature [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. These features
+are shared with the [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*[[amanita-virosa]]*), a pure white
 species that is equally deadly.
 
 Death caps and destroying angels resemble the [[volvariella-volvacea]]*), widely cultivated in Asia. Vietnamese and
@@ -80,7 +80,7 @@ truly unintended by evolution.
 
 ## Other Amanita Toxins
 
-The fly [[amanita-muscaria-entity]]*) produces muscimol and ibotenic
+The fly [[amanita-muscaria]]*) produces muscimol and ibotenic
 acid, compounds that excite and sedate the nervous system by binding to
 brain receptors. The visual hallucinations induced by this iconic red
 mushroom with white spots have been associated with Lewis Carroll's
@@ -88,32 +88,3 @@ combined with alcohol by blocking metabolism of acetaldehyde. Symptoms
 are identical to those of patients taking the prescription drug
 disulfiram (Antabuse), providing a hint of the ghastliness of coprine
 intoxication.
-
-## Other Dangerous Species
-
-The autumn skullcap (*[[john-ramsbottom]] wrote
-in 1945, "there is only one practical way of distinguishing between
-edible and poisonous toadstools. This experimental method is sure, but
-the result may not profit a man." The safest approach is never to eat
-any [[emcdda-wild-mushroom-foraging-misidentification-hazards]] without expert guidance.
-
-## See Also
-
-- [[amanita-phalloides-toxicology]]
-
-- [[plants-of-the-gods-amanita-muscaria]]
-- [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
-
-- [[mycotoxins]].md)
-- [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-pathogens-human-disease]].md)
-- [[insect-fungi-interactions|Insect-Fungi Interactions]]
-- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
-
-## References
-
-- Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
-  of Mushrooms, Molds, and Mycologists*. Oxford University Press.
-  Chapter 8: Angels of Death, pp. 151-168.
-- Benjamin, D. R. (1995). *Mushrooms: Poisons and Panaceas*. W.H.
-  Freeman.
-- Ramsbottom, J. (1945). *[[ramsbottom-poisonous-fungi-identification-guide]]*. Penguin Books.

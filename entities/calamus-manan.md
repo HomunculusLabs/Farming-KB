@@ -14,18 +14,18 @@ sources:
   - Dransfield, J. (1979). "A Manual of the Rattans of the Malay Peninsula." Malayan Forest Records No. 29.
   - Dransfield, J. & Manokaran, N. (1993). "Plant Resources of South-East Asia No. 6: Rattans." Pudoc Scientific Publishers.
   - Bhat, K.M. & Mohamed, N.A. (1992). "Rattan — A Potential Resource for the Future." KFRI Handbook No. 3.
-  - Siebert, S.F. (2001). "The Ecology and Management of Rattan." Advances in Economic Botany 15: 1-22.
+  - Siebert, S.F. (2001). "The [[nematode-management]] of Rattan." Advances in Economic Botany 15: 1-22.
 ---
 
 ## Overview
 
-Calamus manan, commonly known as manau rattan or the Malayan giant rattan, is a large climbing palm species native to Southeast Asia. It is one of the most commercially important rattan species in the global cane furniture industry.
+Calamus manan, commonly known as manau rattan or the Malayan giant rattan, is a large climbing palm species native to [[psilocybe-southeast-asia-pacific]]. It is one of the most commercially important rattan species in the global cane furniture industry.
 
 The species produces stout, durable canes that can exceed 100 meters in length, making it the largest rattan species in the world. Manau rattan is prized for its strength, flexibility, and attractive light golden color.
 
 Calamus manan is a member of the subfamily Calamoideae, which contains the majority of the world's rattan species. The genus Calamus is the largest palm genus, with approximately 370 described species.
 
-The species has experienced significant population declines due to overharvesting from natural forests. It is now widely cultivated in plantations in Malaysia, Indonesia, and other Southeast Asian countries.
+The species has experienced significant population declines due to overharvesting from natural forests. It is now widely cultivated in plantations in Malaysia, Indonesia, and other [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] countries.
 
 ## Taxonomy and Morphology
 
@@ -43,7 +43,7 @@ Leaves are pinnate and ecirrate, reaching 5 to 8 meters in length with 60 to 80 
 
 Inflorescences are massive, pendulous structures that can exceed 3 meters in length. They are borne from the upper nodes of mature stems and produce clusters of cream-colored flowers.
 
-The fruit is a spherical drupe approximately 2 cm in diameter, covered in reflexed, brown scales. Each fruit contains a single seed surrounded by a thin, acidic sarcotesta.
+The fruit is a spherical drupe approximately 2 cm in diameter, covered in reflexed, brown scales. Each fruit contains a [[cervantes-selfing-single-seed-descent]] surrounded by a thin, acidic sarcotesta.
 
 Fruit dispersal is facilitated by mammals including civets, wild pigs, and primates. The acidic sarcotesta may attract frugivores, though seed predation by beetles and rodents can be significant in some forest areas.
 
@@ -69,11 +69,11 @@ The cane is harvested from natural forests and plantations by cutting stems near
 
 After processing, manau rattan is used to produce a wide range of products including furniture, walking sticks, umbrella handles, basketry, and wickerwork. The inner core, known as rattan reed, is used for weaving and binding.
 
-The global rattan furniture industry is valued at several billion dollars annually, with manau rattan commanding premium prices. Major consumer markets include Europe, North America, Japan, and increasingly China.
+The global rattan furniture industry is valued at several billion dollars annually, with manau rattan commanding premium prices. Major consumer markets include Europe, [[guzman-psilocybin-mushrooms-north-america]], Japan, and increasingly China.
 
 Manau rattan is particularly valued for its uniform cane diameter and minimal taper along the stem length. These properties make it ideal for bent-cane furniture production, where consistent bending characteristics are essential.
 
-Rattan has gained renewed attention as a sustainable alternative to tropical timber in furniture manufacturing. Its rapid growth rate and ability to be harvested without killing the parent plant make it an attractive renewable material.
+Rattan has gained renewed attention as a sustainable alternative to tropical timber in furniture manufacturing. Its rapid [[soil-temperature-plant-growth-rate-doubling-rule]] and ability to be harvested without killing the parent plant make it an attractive renewable material.
 
 Rattan harvesting has traditionally been an important source of income for rural communities across Southeast Asia. Collectors often work in remote forest areas, harvesting cane from natural populations over periods of weeks or months.
 
@@ -81,39 +81,10 @@ Rattan harvesting has traditionally been an important source of income for rural
 
 Calamus manan has been successfully cultivated in plantations since the 1980s in response to declining wild populations. Malaysia and Indonesia have established the largest commercial rattan plantation estates.
 
-Seed germination is slow and irregular, often requiring 6 to 12 months under nursery conditions. Seed viability declines rapidly, necessitating fresh seed collection and prompt sowing for best results.
+[[cannabis-seed-germination]] is slow and irregular, often requiring 6 to 12 months under nursery conditions. Seed viability declines rapidly, necessitating fresh seed collection and prompt sowing for best results.
 
 Young seedlings are typically maintained under shade for 12 to 18 months before field planting. Plantation spacing ranges from 3 to 5 meters between plants, with support trees established to provide climbing structures.
 
-Growth rates in plantations are initially slow but accelerate once the palms reach the forest canopy. Harvestable cane lengths of 20 to 30 meters are typically achieved within 12 to 15 years of planting.
+[[coleman-sunlight-and-winter-crop-growth-rates]] in plantations are initially slow but accelerate once the palms reach the forest canopy. Harvestable cane lengths of 20 to 30 meters are typically achieved within 12 to 15 years of planting.
 
 Silvicultural management includes control of competing vegetation, maintenance of support trees, and protection from fire and pest damage. Rattan beetles and stem-boring larvae are the primary pest concerns in plantation settings.
-
-Integrated rattan-timber plantation systems have been developed where rattan is grown beneath timber tree crops. This approach maximizes land use efficiency while reducing establishment costs for rattan cultivation.
-
-## Conservation
-
-Wild populations of Calamus manan have declined significantly throughout its range due to intensive harvesting pressure. The species is now considered threatened in several regions, particularly in Peninsular Malaysia.
-
-Overharvesting of immature canes has been identified as a key factor in population decline. Collectors often cut canes before they reach reproductive maturity, preventing seed production and natural regeneration.
-
-Habitat loss from logging and forest conversion to agriculture has compounded the effects of overharvesting. The species' dependence on mature forest canopy makes it particularly vulnerable to deforestation.
-
-The species is classified as Vulnerable on the IUCN Red List, reflecting ongoing population declines across its natural range. Conservation efforts include both in situ protection and ex situ cultivation.
-
-Plantation development has been identified as the most promising strategy for reducing pressure on wild populations. However, plantation-grown cane often differs in quality from wild-harvested material, presenting challenges for market substitution.
-
-Community-based forest management programs in Malaysia and Indonesia have shown success in sustainably managing wild rattan resources. These programs combine harvest quotas, minimum diameter limits, and enrichment planting to ensure long-term resource availability.
-
-## See Also
-
-- [[calamus-rotang]]
-- [[daemonorops-draco]]
-- [[raphia-taedigera]]
-- [[metroxylon-sagu]]
-- [[cocos-nucifera]]
-- [[borassus-flabellifer]]
-- [[euterpe-oleracea]]
-- [[bactris-gasipaes]]
-- [[nypa-fruticans]]
-- [[elaeis-guineensis]]

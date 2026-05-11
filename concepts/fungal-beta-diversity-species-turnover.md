@@ -88,29 +88,3 @@ compatible fungal partners.
 
 Disturbance and land-use change dramatically alter beta diversity.
 Conversion of forests to agriculture typically reduces fungal beta
-diversity through habitat homogenization. Successional gradients show
-characteristic patterns of species turnover as early-colonizing
-fungi are replaced by late-successional species.
-
-## Quantitative Measures of Beta Diversity
-
-Several quantitative indices measure beta diversity. Whittaker's
-original beta (beta_W = gamma/alpha) is the simplest but assumes
-identical alpha diversity across sites. Additive partitioning
-(beta = gamma - alpha_mean) allows direct comparison of alpha and
-beta contributions to gamma diversity.
-
-Dissimilarity indices including Jaccard, Sorensen, and Bray-Curtis
-quantify pairwise community differences. These are used in
-ordination (NMDS, PCA) and clustering analyses. Recent advances
-include phylogenetic beta diversity measures that account for
-evolutionary relationships among taxa, providing deeper insight
-into community assembly processes.
-
-## See Also
-
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[alpha-beta-gamma-diversity-fungi]]
-- [[fungal-biodiversity-ecosystem-function]]
-- [[fungal-biodiversity]]
-- [[fungal-communities-extreme-environments]]

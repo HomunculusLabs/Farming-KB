@@ -1,5 +1,5 @@
 ---
-title: "teaming with microbes protists and nematode predators Predators"
+title: Teaming With Microbes Protists And Nematode Predators
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,12 +10,12 @@ tags: [reference]
 
 # Protists and Nematode Predators
 
-Protozoa and nematodes are the primary grazers and mineralizers in the soil
+[[teaming-with-microbes-protozoa-and-nematodes]] are the primary grazers and mineralizers in the soil
 food web. Together they consume bacteria and fungi and release plant-available
 nutrients, particularly nitrogen, directly into the rhizosphere. As much as
 80% of the nitrogen a plant needs comes from the wastes produced by
 bacteria- and fungi-eating protozoa and nematodes. If the soil food web is
-the nutrient delivery system for plants, protozoa and nematodes are the
+the [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]] for plants, protozoa and nematodes are the
 fertilizer spreaders.
 
 ## Protozoa
@@ -47,7 +47,7 @@ Three basic types exist:
 
 Protozoa arrive in areas with good bacterial supplies in a consistent
 progression. Flagellates come first, able to access small soil pores. Ciliates
-arrive next, followed by amoebae. Combined grazing pressure on bacteria becomes
+arrive next, followed by amoebae. Combined [[gadd-mycelial-network-resilience-grazing-pressure]] on bacteria becomes
 so great that bacterial numbers diminish. As bacteria become scarce, larger
 protozoa eat smaller ones, reducing flagellate and ciliate populations, which
 allows bacteria to stabilize.
@@ -84,42 +84,7 @@ Classification by feeding habit:
   surface) and endoparasitic (inside root) forms exist.
 - **Bacterivores:** Hollow-tube mouthparts allow them to consume multitudes
   of bacteria per hour.
-- **Fungivores:** Stylets for puncturing chitin cell walls of fungal hyphae.
+- **Fungivores:** Stylets for puncturing chitin [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of [[fungal-hyphae]].
 - **Predators:** Feed on protozoa, algae, grubs, weevils, slugs, and other
   nematodes -- preventing overgrazing of bacteria and fungi and keeping
   destructive herbivore nematodes in check.
-- **Omnivores:** Eat any and all of the above, down to the merest fungus
-  spore. Some directly decompose [[hamilton-composting-and-organic-matter-management]].
-
-## Mineralization
-
-Both protozoa and nematodes need less nitrogen than they consume in bacteria
-and fungi. The excess is excreted as ammonium (NH4+) waste. Because bacteria
-and fungi are attracted to the rhizosphere by plant exudates, and protozoa
-consume them there, a huge source of plant food is delivered right around the
-roots. If nitrifying bacteria are present (pH above 7), ammonium is converted
-to nitrate. If not, nitrogen remains in ammonium form, preferred by plants in
-fungally dominated soils.
-
-## Transport and Food Location
-
-Nematodes inadvertently transport bacteria and fungi through soil as they
-travel, acting as taxis that spread microorganisms to new food sources. They
-locate food by sensing minute soil temperature variations or chemical cues,
-acting like "heat-seeking missiles" toward their preferred prey.
-
-## Vulnerability
-
-Protozoa go dormant in cysts during dry spells, surviving years -- ensuring
-survival of both protozoa and the plants that benefit from their nutrient
-release. Nematodes need porous, uncompacted soil to travel; compaction blocks
-their movement, and they either die off or move elsewhere, greatly diminishing
-nitrogen flow to plants. Both populations depend on adequate moisture and soil
-structure.
-
-## See Also
-
-- [[teaming-with-microbes-nematodes]]
-- [[teaming-with-microbes-protozoa-types-amoeba-flagellate-ciliate]]
-- [[teaming-with-microbes-soil-food-web-overview]]
-- [[teaming-with-microbes-bacteria]]

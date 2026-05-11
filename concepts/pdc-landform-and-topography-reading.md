@@ -88,14 +88,3 @@ Aspect (the direction a slope faces) is one of the most important topographic fa
 Aspect interacts with slope angle to determine total solar radiation received. A steep south-facing slope receives more solar energy per unit area than a steep north-facing slope at the same latitude. This effect is most pronounced at higher latitudes.
 
 ## Practical Mapping Exercises
-
-The following exercises develop topography reading skills for permaculture design:
-- **Contour tracing**: On a topographic map of your site, trace all contour lines at a single elevation. This exercise builds familiarity with contour patterns and their relationship to landform.
-- **Water flow mapping**: Starting from the highest point on your map, draw water flow lines perpendicular to contours, following them downhill to the lowest point. Identify concentration points and dispersal points.
-- **Slope classification**: Using a clinometer or water level in the field, measure and record slope percentages at multiple points across your site. Classify each area and map suitability for different uses.
-- **Aspect mapping**: Using a compass, record the aspect (bearing) of each major slope on your site. Combine with slope data to create a microclimate suitability map.
-- **Keypoint identification**: Walk the main valley on your site and identify the keypoint (transition from concave to convex valley profile). Mark this on your map as the reference point for keyline design.
-- **Frost pocket identification**: On cold, still mornings, observe where frost settles first on your site. These cold air drainage points should be mapped and avoided for frost-sensitive plantings.
-- **Solar access mapping**: At different times of year (solstices and equinoxes), observe which areas of your site receive direct sunlight and which are shaded. Combine with slope and aspect data for a comprehensive solar access map.
-## See Also
-- [[keyline-design]]

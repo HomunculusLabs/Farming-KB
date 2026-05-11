@@ -1,5 +1,5 @@
 ---
-title: PF TEK Substrate Moisture Diagnosis and Correction
+title: Pf Tek Substrate Moisture Diagnosis And Correction
 tags:
   - pf-tek
   - psilocybe-cubensis
@@ -15,7 +15,7 @@ sources:
 
 # PF TEK Substrate Moisture Diagnosis and Correction
 
-Moisture management is one of the most critical variables in the PF TEK. Both
+[[mushroom-casing-moisture-management]] is one of the most critical variables in the PF TEK. Both
 excessive moisture and insufficient moisture can cause cultivation failure, and
 each produces distinct symptoms that allow the cultivator to diagnose and
 correct the problem. The PF TEK provides specific guidance for identifying
@@ -65,7 +65,7 @@ this dries the substrate.
 ## Correction for Dried Substrate
 
 The remedy for dried substrate is straightforward: increase the water content
-of the substrate formula. The PF TEK advises cultivators to keep detailed
+of the [[pf-substrate-formula]]. The PF TEK advises cultivators to keep detailed
 notes on formulas for replicating the substrate formula that fruits the best.
 
 If a batch shows signs of dried substrate, the water quantity should be
@@ -87,60 +87,4 @@ matted and dense rather than forming the desired airy structure.
 
 In severe cases, water collects in the bottom of the jar during incubation.
 Excessive moisture can also promote bacterial contamination because many
-bacteria thrive in wet conditions. Bacteria contamination is detectable through
-the top [[pf-tek-dry-vermiculite-contaminant-barrier]] layer as a sour foul odor within two days after
-inoculation, accompanied by no spore germination.
-
-## The Vermiculite Factor
-
-The type of vermiculite used has a direct and significant impact on substrate
-moisture. Not all vermiculite is the same, and coarseness varies considerably
-among brands. The coarser type holds less water than the finer type, which
-significantly alters the water holding capacity of the substrate.
-
-The finer type has particles averaging around 1 millimeter across, with some
-larger and some smaller. The coarser type has particles averaging around 4 to
-5 millimeters across and up to 8 millimeters. The finer type is recommended
-because it holds more water and creates a more effective moisture buffer.
-
-Stores usually carry one type, and there will be regional differences in
-brands. Cultivators are encouraged to shop around and try to get both types
-to compare results. If a formulation results in a really wet or sloppy
-substrate, less water should be used.
-
-## Lid Tightness and Moisture Balance
-
-There are two choices with the lids during incubation: tight or loose. With a
-very high moisture content substrate, which is good for fruiting, a tight lid
-can cause water to collect in the bottom of the jar. This is to be avoided.
-
-If water accumulation is observed, the lid should be kept loose during
-incubation. Conversely, if the substrate is on the dry side, a tight lid
-preserves the moisture content. The correct lid configuration depends on the
-specific combination of water content, jar size, available air space, and
-vermiculite type.
-
-Only direct experimenting and comparison can find the right balance for a
-given set of conditions. It is all a matter of the balance between the water
-needs of the mycelium, the size of the jar, the available air space in the
-jar, and the type of vermiculite used.
-
-## Maximum Formula Moisture Considerations
-
-The [[pf-tek-maximum-fruiting-substrate-formula]] formula, which uses 1/4 cup of brown rice flour, 1/2 cup
-of vermiculite, and 60 cc of water per jar, is specifically noted as
-requiring a loose lid during incubation when used with finer vermiculite.
-
-The higher water content combined with the finer vermiculite's greater water
-retention makes tight lids problematic. Cultivators using the maximum formula
-should monitor jars for water accumulation and loosen lids if necessary.
-
-The maximum formula also requires slight tamping down of the substrate after
-loading. The jar is lightly slammed on the palm a couple of times to lower the
-mixture level to approximately 1/2 inch from the jar top.
-
-## Related Concepts
-
-- [[pf-tek-canning-jar-lid-configuration]] for lid tightness management during incubation
-- [[pf-tek-maximum-fruiting-substrate-formula]] for the enhanced nutrition formula moisture requirements
-- [[pf-tek-steam-sterilization-science-and-heat-management]] for heat damage prevention
+bacteria thrive in wet conditions. [[pf-tek-bacteria-contamination-detection]] is detectable through

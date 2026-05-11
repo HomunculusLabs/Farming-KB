@@ -87,39 +87,3 @@ Thevet's Nicotiana tabacum conquered Europe in the form of the cigarette and bec
 ## The Dilution Pattern
 
 A remarkable process attended the introduction of tobacco into Europe. Because of the emphasis on recreational potential and large-scale planting of Nicotiana tabacum, the less toxic of the two major species, tobacco lost its connotation as a plant of shamanic and hallucinogenic power.
-
-This was more than a matter of shifts in dose and method of administration. The native tobaccos that McKenna experienced among Amazonian peoples were extremely disorienting and barely subtoxic, definitely capable of producing an altered state of consciousness.
-
-The tobacco-using habit as it evolved in Europe was secular and recreational, and hence much milder strains were commercially successful. The sacred was systematically stripped from the plant as it entered the stream of global commerce.
-
-Once a drug is discovered, it often goes through a process of dilution before a consensus is reached on the most desirable level of effect. Moving from eating opium to smoking it was such a process, as was the move from large doses of LSD in the 1960s to smaller recreational doses.
-
-The notion of the correct dose of a drug is something that a culture evolves over time. The trend from snuffing powdered cocaine to smoking crack cocaine exemplifies a movement in the opposite direction, toward larger doses and more dangerous patterns of use.
-
-This dilution pattern is, for McKenna, emblematic of the dominator culture's relationship to psychoactive plants generally. Where partnership cultures seek the full visionary potential of the plant, [[partnership-and-dominator-cultures-in-human-history]] prefer mild, controllable, non-threatening versions.
-
-## The Contra-Tobacco Movement
-
-Tobacco was not welcomed by all. Pope Urban VIII ordered excommunication for anyone who smoked or used snuff in the churches of Spain. In 1650 Innocent X forbade snuff taking in the basilica of St. Peter, on pain of excommunication. Protestants also decried the new habit.
-
-King James I of England led the Protestant effort with his inflammatory Counterblaste to Tobacco, published in 1604. Having unleashed this rhetorical blast, perhaps the first unlimbering of the just say no approach, the king turned his attention to other matters.
-
-Eight years later a report claimed that in London alone there were no fewer than 7,000 tobacconists and tobacco houses. Tobacco smoking and snuff taking were pursued at the level of intensity of a modern craze, despite the best efforts of church and crown.
-
-The pattern of initial resistance followed by eventual acceptance and commercial exploitation would repeat itself with every drug introduced to [[fukuoka-road-european-culture-of-food]]. The specific drug mattered less than the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between the dominator culture and the substances it consumed.
-
-## The Legacy of the Rustica-Tabacum Split
-
-The split between the indigenous use of powerful Nicotiana rustica and the European commercial cultivation of mild Nicotiana tabacum encapsulates McKenna's broader argument about dominator and partnership cultures. Rustica was a tool of the shaman, used sparingly and with intent. Tabacum became a commodity, consumed daily and compulsively.
-
-This pattern of dilution and commercialization is visible across the history of psychoactive plants. The original potent forms, preserved in indigenous contexts, give way to milder, more palatable versions that can be mass-produced and sold. The visionary potential is sacrificed for marketability.
-
-Understanding this split helps illuminate why modern tobacco, stripped of its visionary alkaloid profile, is so much more addictive and so much less spiritually useful than its indigenous ancestor. The plant was tamed, and in the process, it was hollowed out.
-
-The rustica-tabacum split thus stands as a microcosm of the larger civilizational shift from partnership with nature to domination over it.
-
-## See also
-
-[[mckenna-tryptamine-hallucinogens-and-consciousness]]
-[[mckenna-psychedelic-plant-use-in-antiquity]]
-[[mckenna-techniques-of-ecstasy]]

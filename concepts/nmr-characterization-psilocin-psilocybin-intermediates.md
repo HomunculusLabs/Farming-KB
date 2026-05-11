@@ -1,5 +1,5 @@
 ---
-title: NMR Characterization of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]
+title: [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]] [[acetyl-protection-route-psilocin-psilocybin-synthesis]] Intermediates
 created: 2026-04-28
 tags:
   - nmr
@@ -19,7 +19,7 @@ type: concept
 
 The Shirota, Hakamata, and Goda (2003) paper provides comprehensive
 NMR characterization of psilocin (compound 1), psilocybin (compound 2),
-the [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003|zwitterionic]] [[jadam-ambient-temperature-principle]].
+the [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] [[jadam-ambient-temperature-principle]].
 
 ## General Experimental Conditions
 
@@ -27,7 +27,7 @@ the [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003|zwit
   compounds measured in CDCl3. For psilocybin measured in D2O, the
   solvent residue peak (HDO) was used for the 1H NMR reference, and
   one drop of methanol was added as the 13C NMR reference.
-- **31P NMR**: [[4-hydroxyindole]] with an ethylamine side chain:
+- **31P NMR**: [[4-hydroxyindole]] with an ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]:
 
 - 7.90 ppm (1H, br s): Indole NH (H-1)
 - 7.05 ppm (1H, d, J = 8.0 Hz): H-6
@@ -88,47 +88,3 @@ singlet because exchange with D2O eliminates the NH coupling.
 - 108.6 ppm: C-3 (quaternary)
 - 108.4 ppm: C-7
 - 59.7 ppm: C-2' (CH2, shifted downfield vs. psilocin)
-- 43.4 ppm: N(CH3)2 (2 x CH3, shifted downfield)
-- 22.4 ppm: C-1' (CH2, shifted upfield)
-
-The phosphorus-carbon couplings cause observable splitting of C-4,
-C-3a, and C-5a. The C-4 resonance shifts upfield from 152.1 ppm
-(psilocin) to 146.4 ppm (psilocybin) due to replacement of the hydroxyl
-proton with the phosphate group.
-
-### 31P NMR (CD3OD, 162 MHz)
-
-A single phosphorus resonance at -4.48 ppm confirms the phosphate
-monoester, consistent with the OPO3H2 moiety of psilocybin.
-
-## Zwitterionic Intermediate (Compound 8) NMR Data
-
-The NMR of compound 8 required 2D experiments (HMBC, NOESY) for
-structural determination:
-
-- **1H NMR (CD3OD)**: Two benzyl sets at 4.56 ppm (N-CH2, 2H, s) and
-  4.98/4.96 ppm (O-CH2, AB system). NMe2 at 3.08 ppm (shifted from
-  2.38 ppm in psilocin), confirming quaternary ammonium character.
-- **13C NMR (CD3OD)**: NMe2 at 50.3 ppm (vs. 45.3 in psilocin),
-  N-benzyl CH2 at 69.2 ppm, O-benzyl CH2 at 69.1 ppm (P-split).
-  Side chain C-2' at 67.6 ppm (vs. 61.6 in psilocin).
-- **31P NMR**: Single resonance at -5.45 ppm (benzyl phosphate
-  monoester).
-
-## Additional Spectroscopic Data
-
-### UV Spectroscopy
-
-- **Psilocin** (MeOH): lambda max 222.5, 268.0, 284.5, 294.0 nm
-- **Psilocybin** (MeOH): lambda max 221.0, 267.5, 278.5, 290.0 nm
-
-The UV spectra are nearly identical, as expected for compounds differing
-only at C-4 (OH vs. OPO3H2), which has minimal effect on the indole
-chromophore.
-
-### Mass Spectrometry
-
-ESI-HRMS confirmed molecular formulas:
-## See Also
-
-- [[psilocin-psilocybin-characterization]]

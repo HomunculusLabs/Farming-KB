@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Pharmacology and Safety
+title: Ayahuasca Pharmacology And Safety
 created: 2026-05-08
 tags: [ayahuasca, pharmacology, harmala, dmt, maoi, drug-interactions]
 date: 2026-05-08
@@ -14,14 +14,14 @@ type: concept
 ## Overview
 
 Ayahuasca is a psychoactive brew traditionally prepared in the Amazon
-basin by combining the Banisteriopsis caapi vine with the leaves of
-Psychotria viridis (chacruna) or Diplopterys cabrerana (chaliponga).
+basin by combining the [[ayahuasca-and-banisteriopsis-caapi]] vine with the leaves of
+[[chacruna-psychotria-viridis]] (chacruna) or Diplopterys cabrerana (chaliponga).
 The pharmacological interaction between these plants creates a unique
 oral [[mckenna-dmt-experience-and-hyperspace]] that would otherwise be impossible, as DMT is
 normally inactive when taken orally due to rapid metabolism by monoamine
 oxidase (MAO) enzymes in the gut. Understanding the pharmacology and
 [[cannabis-safety-profile-and-overdose-risk]] of ayahuasca is essential for anyone considering its use,
-particularly in the context of [[ayahuasca-tourism-in-peru|ayahuasca tourism]] where medical oversight is typically absent.
+particularly in the context of [[ayahuasca-tourism-in-peru]] where medical oversight is typically absent.
 
 ## Pharmacological Mechanism
 
@@ -37,7 +37,7 @@ interaction between two classes of compounds:
   cabrerana is a potent serotonergic psychedelic that acts primarily as
   a 5-HT2A receptor agonist. DMT is structurally similar to serotonin
   and produces profound alterations in perception, cognition, and
-  emotional processing.
+  [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]].
 
 ## Dangerous Drug Interactions
 
@@ -70,7 +70,7 @@ certain wines should be avoided before and after consuming ayahuasca
 to prevent hypertensive episodes. The strictness of these dietary
 restrictions is debated within the ayahuasca community, as the
 reversible MAO-A inhibition of harmine alkaloids is somewhat different
-from the irreversible MAO inhibition of pharmaceutical MAOIs. However,
+from the irreversible [[tihkal-oral-activity-mao-inhibition]] of pharmaceutical MAOIs. However,
 conservative practice dictates adherence to at least basic dietary
 precautions for a period before and after ceremony participation.
 
@@ -83,40 +83,8 @@ conditions:
   blood pressure, posing risks for those with hypertension, heart
   disease, or a history of stroke.
 - **Psychiatric conditions**: Individuals with schizophrenia,
-  bipolar disorder, or other psychotic conditions may experience
+  [[blesching-cannabis-bipolar-disorder]], or other psychotic conditions may experience
   exacerbation of symptoms.
 - **Pregnancy**: The effects of ayahuasca on fetal development are
   not well studied, and the brew is generally avoided during pregnancy.
 - **Liver disease**: MAOI metabolism occurs partially through the
-  liver, and impaired hepatic function may alter the pharmacokinetics
-  of the brew's active compounds.
-
-## Context of Tourism and Risk
-
-The tourism context introduces additional safety concerns beyond the
-pharmacological profile of ayahuasca itself. Most shamans in Peru are
-unfamiliar with Western pharmaceuticals and cannot screen participants
-for dangerous drug interactions. There is typically no medical
-screening before ceremonies, and emergency medical access in remote
-Amazonian locations is limited. The language barrier further compounds
-these risks, as tourists may be unable to communicate their medical
-history accurately or recognize warning signs of adverse reactions.
-
-## Purported Therapeutic Applications
-
-Despite the risks, growing [[hofmann-lsd-clinical-research-early-studies]] supports therapeutic
-potential for ayahuasca in treating depression, anxiety, PTSD, and
-substance use disorders. Preliminary studies suggest that the brew
-may promote neuroplasticity, reduce [[psilocybin-default-mode-network-ego-dissolution]] network activity,
-and facilitate emotional processing. However, these studies are
-conducted in controlled clinical settings with medical screening
-and monitoring—conditions that differ markedly from the typical
-tourism ceremony experience.
-
-## See Also
-
-- [[ayahuasca-pharmacology-maoi-interactions]]
-
-- [[ayahuasca-tourism-in-peru]]
-- [[icaros-shamanic-songs]]
-- [[endocannabinoid-system-overview]]

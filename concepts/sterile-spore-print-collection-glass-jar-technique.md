@@ -1,16 +1,16 @@
 ---
-title: Sterile Spore spore-print-collection-spore-mass-inoculation Using Glass Jar Technique
-source: raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
+title: Sterile Spore Print Collection Glass Jar Technique
+source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, spore-print, sterile-technique, jarrold, spore-collection, genetics]
 created: 2026-05-09
 ---
 
 # Sterile Spore Print Collection Using Glass Jar Technique
 
-Collecting spore prints is essential for preserving mushroom
+Collecting [[macrofungal-documentation-photography-spore-prints]] is essential for preserving mushroom
 genetics between cultivation cycles.
 
-The Jarrold method uses a sterile glass jar technique that
+The [[spore-syringe-preparation-jarrold-method]] uses a sterile glass jar technique that
 produces clean, contaminant-free spore deposits.
 
 These prints can be stored for months and used to create
@@ -21,8 +21,8 @@ These prints can be stored for months and used to create
 Traditional [[mushroom-spore-printing-and-storage]] on paper or foil exposes spores
 to open air and contamination.
 
-The glass jar method provides a sealed sterile environment
-that dramatically reduces contamination risk.
+The glass [[sclerotia-production-grass-seed-jar-method]] provides a sealed sterile environment
+that dramatically reduces [[fungicide-treated-seed-contamination-risk-mushroom-substrate]].
 
 Glass jars can be sterilised in a domestic oven and double
 as both collection vessel and storage container.
@@ -88,33 +88,3 @@ characteristics, then stored cool, dark, and dry.
 
 Jar-collected spore prints feed directly into the spore
 syringe preparation process.
-
-Sterilised water is added to the jar and a flame-sterilised
-scraper loosens spores from the glass.
-
-The spore suspension is drawn into a syringe for inoculation,
-creating a complete self-sustaining cultivation cycle.
-
-## Advantages Over Open-Air Printing
-
-- Sealed environment eliminates most airborne contamination
-- Oven sterilisation is accessible in any domestic kitchen
-- Jars serve as both collection and storage vessels
-- Reduced handling steps before syringe preparation
-- Multiple jars can be sterilised simultaneously
-
-## Potential Issues
-
-- Oven sterilisation may not match commercial-grade sterility
-- Excessive cap moisture can promote bacterial growth
-- Over-tightening lids before drying traps moisture
-- Very large jars make cap retrieval difficult without
-  disturbing the spore deposit
-
-## See Also
-
-- [[mushroom-spore-syringe-preparation]]
-- [[straw-based-mushroom-cultivation-boil-bag-method]]
-- [[mushroom-bag-inoculation-short-needle-vs-long-needle]]
-- [[fungal-spore-print-guide]]
-- [[mushroom-cultivation]]

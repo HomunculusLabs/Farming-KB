@@ -87,38 +87,3 @@ The joy, gratitude, and celebration that characterize these ceremonies reflect t
 The experience is not primarily about healing or personal growth, though these may occur as side effects.
 
 It is about praising, thanking, and communing with the divine — a fundamentally religious orientation.
-
-## Distinction from Shamanic Practice
-
-Metzner carefully distinguished syncretic folk religious ceremonies from traditional shamanic practice.
-
-In shamanic practice, the focus is on the shaman — the specialist who takes the medicine in order to diagnose illness, divine the future, or negotiate with spirits on behalf of the community.
-
-In syncretic ceremonies, the focus is on the community as a whole.
-
-All participants drink the medicine, and all participate in the singing, dancing, and prayer.
-
-There may be leaders or guides, but their role is more liturgical than shamanic — they facilitate the ceremony rather than journeying to other worlds on behalf of the community.
-
-## Legal and Political Dimensions
-
-The syncretic ayahuasca churches have played a significant role in the legal and political struggles around psychedelic substances.
-
-Their claims to religious freedom have forced courts and legislatures to grapple with the question of whether psychoactive substances can have legitimate religious uses.
-
-The legal victories of the UDV and the Santo Daime in various jurisdictions have established important precedents for religious freedom in the context of drug policy.
-
-These legal battles continue, as the international drug control treaties that most nations have signed create tensions with domestic religious freedom protections.
-
-## See Also
-
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[metzner-shamanic-healing-divination-worldview]]
-
-## Sources
-
-- Metzner, R. (1998). Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism. *Journal of Psychoactive Drugs*, 30(4), 333-341.
-- Labate, B. & Araújo, W. (Eds.) (2004). *O Uso Ritual da Ayahuasca*. Mercado de Letras.
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]
-- [[hallucinogenic-drugs]]
-- [[psychedelic-psychotherapy]]

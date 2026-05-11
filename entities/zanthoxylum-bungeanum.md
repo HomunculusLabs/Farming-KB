@@ -87,19 +87,3 @@ In traditional Chinese wedding ceremonies, Sichuan peppercorn is sometimes inclu
 The essential oil of Zanthoxylum bungeanum is increasingly used in the fragrance and cosmetics industry, valued for its fresh, citrus-pepper aroma profile. It appears in perfumes, soaps, and aromatherapy blends as a top note ingredient.
 
 ## See Also
-
-- [[limonene]]
-- [[geraniol]]
-- [[ruta-graveolens]]
-- [[dictamnus-albus]]
-- [[piper-nigrum-entity]]
-- [[zingiber-officinale]]
-- [[curcuma-longa]]
-- [[citrus-limon]]
-- [[myrcene]]
-- [[eugenol]]
-- [[quercetin]]
-- [[mentha-piperita]]
-- [[ocimum-basilicum]]
-- [[atropa-belladonna]]
-- ricinus-communis-entity

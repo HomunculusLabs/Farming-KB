@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - https://en.wikipedia.org/wiki/Mangosteen
   - https://en.wikipedia.org/wiki/Rambutan
   - https://www.fao.org/docrep/x0455e/x0455e08.htm
@@ -147,4 +148,3 @@ Mangosteen yields are lower per tree (200–1,500 fruits), but per-fruit value i
 ### Market Considerations
 
 - **Mangosteen** faces strong international demand as a luxury fruit, with markets in China, Japan, the US, and Europe. Limited supply and strict climatic requirements keep prices high.
-- **Rambutan** has broader market access due to higher production volumes and easier logistics. It is widely available in Asian markets and increasingly in Western supermarkets. The canned rambutan market provides additional outlets.

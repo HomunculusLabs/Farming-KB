@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, Domestication and Taxonomy." In: Allium Crop Science. CABI Publishing.
+  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, Domestication and Taxonomy." In: Allium brassinosteroid-anti-stress-effects-crop-science. CABI Publishing.
   - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Mathew, B. (1996). A Review of Allium Species. Royal Botanic Gardens, Kew.
   - USDA NRCS (2024). "Allium ampeloprasum L." PLANTS Database.
@@ -76,7 +76,7 @@ Kurrat leaves are used in Egyptian cuisine as a flavoring herb similar to Welsh 
 
 ## Nutritional Value
 
-The bulbs contain allicin precursors (alliin and various S-alk(en)yl-L-cysteine sulfoxides), though at lower concentrations than *A. sativum*. Total thiosulfinates are approximately one-third those of standard garlic.
+The bulbs contain [[allicin]] precursors (alliin and various S-alk(en)yl-L-cysteine sulfoxides), though at lower concentrations than *A. sativum*. Total thiosulfinates are approximately one-third those of standard garlic.
 
 Key nutrients per 100 g fresh weight include vitamin C (15–20 mg), vitamin B6, manganese, and dietary fiber. Caloric content is moderate at approximately 90–100 kcal.
 
@@ -86,28 +86,4 @@ The milder alliinase activity in elephant garlic results in less harsh organosul
 
 *Allium ampeloprasum* has been used as food and medicine since antiquity. Egyptian tomb paintings from the second millennium BCE depict leek-like plants that likely represent early cultivated forms.
 
-Theophrastus (c. 371–287 BCE) described multiple forms of "leek" in his *Enquiry into Plants*, distinguishing between wild and cultivated varieties. Roman agricultural writers including Columella and Pliny the Elder documented cultivation techniques for what may be elephant garlic.
-
-Kurrat has been a staple green vegetable in Egyptian cuisine since Pharaonic times. It continues to be cultivated in the Nile Delta and sold in local markets as *kurrat baladi*.
-
-Wild populations were historically gathered as a famine food across the Mediterranean. The bulbs were roasted or boiled and served with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] and salt in rural communities.
-
-## Related Species
-
-*A. ampeloprasum* is part of *Allium* section *Allium*, which also includes *A. sativum* (garlic), *A. ampeloprasum* var. *porrum* (leek), and several wild Mediterranean species.
-
-The closest wild relatives include *A. commutatum* and *A. babingtonii*, both endemic to Atlantic coastal regions of Europe. These wild taxa produce smaller bulbs and more numerous bulbils.
-
-Elephant garlic and leek are conspecific, differing primarily in bulb morphology. Intermediate forms exist where the two cultivated types overlap geographically, particularly in southern France and northern Italy.
-
-Pearl onion (*A. ampeloprasum* var. *sectivum*) represents another domesticated form within the species, producing small clustered bulbs rather than a single large head.
-
-## See Also
-
-- [[allium-cepa]]
-- [[allium-tuberosum]]
-- [[ocimum-basilicum]]
-- [[petroselinum-crispum]]
-- [[thymus-vulgaris-entity]]
-- [[origanum-vulgare-entity]]
-- [[levisticum-officinale]]
+Theophrastus (c. 371–287 BCE) described multiple forms of "leek" in his *Enquiry into Plants*, distinguishing between wild and cultivated varieties. Roman agricultural writers including Columella and Pliny the Elder documented [[cannabis-sativa-indoor-cultivation-techniques]] for what may be elephant garlic.

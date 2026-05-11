@@ -1,7 +1,7 @@
 ---
-title: comparison-swale-design-vs-contour-swale-irrigation-design and Water Management
+title: Natural Farming Guide Swale Water Management
 created: 2026-04-28
-tags: [natural-farming, water-management, swales, permaculture, conservation, earthworks]
+tags: [[natural-farming]], water-management, swales, [[permaculture]], conservation, earthworks]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
@@ -42,7 +42,7 @@ is forced into the soil, it can be soaked up by trees planted along the
 swales. Swales can be filled with rock, gravel, or gypsum for even better
 water penetration.
 
-Swales are perhaps the most effective method of water conservation in
+Swales are perhaps the most effective method of [[water-conservation]] in
 both dry and humid climates. They work well on steep slopes or on flat
 prairies, and they can even be implemented in an urban area to take
 advantage of road and roof runoff.
@@ -88,45 +88,3 @@ be used to direct water into a swale or to a pond or irrigation system.
 
 Drains are also used to direct the flow of water to a series of dams. If
 they are directed to swales, they do not need to be waterproof, but if
-you are sending the water to a dam, the drains should be built of rock or
-concrete. Installing a spill gate gives you control over the flow of water.
-
-## Dams and Water Storage
-
-The small pool strategy can manage the flow of a stream that intersects
-an area near buildings. Instead, a pool is dug at the head of the stream
-to create a lagoon, while swales and dry dams are installed between the
-lagoon and the building.
-
-A single person should store at least 1,000 gallons (3,700 liters) of
-water, and a family needs a minimum of 2,500 gallons (9,500 liters).
-Tanks can be made from concrete, compacted clay, metal, or plastered
-dirt. Place a dam or water tanks at the top of a hill for gravity-fed
-distribution.
-
-## Rainwater Collection
-
-Every 1,000 square feet (92 square meters) of roof surface area will
-gather 600 gallons (2,270 liters) of water per inch (2.5 cm) of rain.
-Metal roofing is the best collection surface. Install gutters with a leaf
-screen. For human consumption, direct rainwater through a roof washer
-that diverts the first gallon per 100 square feet away from storage.
-
-## Swale Integration with Zones
-
-In Zone 1, water comes from a well or rainwater tank and is fully
-controlled with pipes and hoses. In Zone 3, water is stored in the soil
-in swales, caught with small dams, and sent through ditches rather than
-pipes. In Zone 4, large-scale water harvesting uses dams, rivers, and
-windmill pumps for irrigation into Zone 3.
-
-Roads should be sloped uphill slightly from the highway to drain water
-away. The road can be part of a swale or dam, with rainwater runoff
-benefiting either structure. Even if the road cannot drain directly into
-a swale, it should drain into a ditch with a pipe going under the road.
-
-## See Also
-
-- [[natural-farming-guide-microclimate-management]]
-- [[natural-farming-guide-cover-cropping-and-green-manures]]
-- [[natural-farming-guide-hugelkultur-mounded-garden-beds]]

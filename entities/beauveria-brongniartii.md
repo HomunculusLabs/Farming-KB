@@ -16,9 +16,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rehner, S.A. et al. (2011). "Multilocus phylogenetic taxonomy of the Beauveria." Mycologia 103(5): 1069-1083.
-  - Inglis, G.D. et al. (2001). "Use of hyphomycetous fungi for managing insect pests." In: Fungal Biocontrol Agents.
+  - Inglis, G.D. et al. (2001). "Use of hyphomycetous fungi for managing [[duggar-mushroom-insect-pests-and-fungal-diseases]]." In: Fungal [[singh-entomopathogenic-fungi-biocontrol-agents]].
   - Zimmermann, G. (2007). "A review of fifty years of fukuoka-textdoc-biological-control-fallacy-pheromone-critique with Beauveria." Biocontrol Science and Technology 17(6): 567-594.
-  - Feng, M.G. et al. (1994). "Biological control of insect pests in China." Biocontrol News and Information 15: 21N-30N.
+  - Feng, M.G. et al. (1994). "[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] of insect pests in China." Biocontrol News and Information 15: 21N-30N.
 aliases:
   - B. brongniartii
   - white muscardine fungus
@@ -35,7 +35,7 @@ particularly the European cockchafer (*Melolontha melolontha*).
 First described by Pier Andrea Saccardo in 1892 and later reclassified by Edwin John
 Butler, this species has been developed as a commercial biocontrol agent in Europe and
 Asia for over four decades. It is closely related to *B. bassiana* but displays a narrower
-host range and greater efficacy against scarab pests.
+[[powdery-mildews-erysiphaceae-diversity-host-range]] and greater efficacy against scarab pests.
 
 ## Taxonomy and Classification
 
@@ -72,7 +72,7 @@ species in the Scarabaeidae family. Key target pests include *Melolontha melolon
 (summer chafer).
 
 Infection occurs when conidia contact the insect cuticle, germinate, and penetrate via
-enzymatic degradation of the epicuticle. The fungus proliferates as blastospores in the
+[[enzymatic-degradation-in-mycoremediation]] of the epicuticle. The fungus proliferates as blastospores in the
 hemocoel, producing toxins including beauvericin and bassianolide. Death typically occurs
 within 3-7 days post-infection, followed by emergence of conidiophores through the
 cadaver integument.
@@ -88,39 +88,3 @@ in soil as conidia or as dormant hyphal bodies within infected cadavers.
 
 Natural epizootics are common in European cockchafer populations during cool, moist
 conditions (spring and autumn). Soil temperature between 15-25°C and high humidity favor
-conidial germination and infection. The fungus can persist in soil for several months
-without a host, maintaining reservoir populations.
-
-## Cultivation and Mass Production
-
-*B. brongniartii* is cultivated on solid substrates (grain, [[jadam-rice-bran-problems]]) or in submerged
-liquid fermentation. Solid-state fermentation produces aerial conidia with superior
-desiccation tolerance and UV resistance, preferred for field applications.
-
-Commercial production focuses on conidial yield, with optimized strains achieving
-1-5 × 10¹⁰ conidia per gram of substrate. Formulations include wettable powders, oil
-dispersions, and granular preparations for soil incorporation.
-
-Viability during storage is temperature-dependent, with conidia retaining >80% germination
-for 12+ months at 4°C but declining rapidly above 30°C.
-
-## Biocontrol Applications
-
-*B. brongniartii* is registered as a biopesticide in multiple European countries for
-cockchafer control in permanent grassland, orchards, and vineyards. It is applied as
-soil drenches or granular formulations targeting larval feeding zones.
-
-Field efficacy ranges from 50-80% reduction in grub populations depending on application
-timing, soil conditions, and formulation. It is compatible with reduced-tillage systems
-and can be integrated with other biological control agents including entomopathogenic
-nematodes.
-
-The fungus shows [[fukuoka-low-toxicity-pesticide-deception]] to non-target organisms including earthworms, predatory
-beetles, and pollinators, making it suitable for [[coleman-deep-organic-farming-philosophy]] systems.
-
-## See Also
-
-- [[metarhizium-anisopliae]]
-- [[verticillium-lecanii]]
-- [[integrated-pest-management]]
-- permaculture

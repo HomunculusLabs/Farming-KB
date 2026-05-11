@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Wu, D. & Larsen, K. (2000). "Zingiberaceae." In: Flora of China, Vol. 24. Science Press & Missouri Botanical Garden Press.
-  - Xia, Q. et al. (2018). "Chemical composition and antibacterial activity of permaculture-designers-manual-essential-oil-plants from Amomum tsao-ko." Chemistry & Biodiversity, 15(7), e1800121.
+  - Xia, Q. et al. (2018). "Chemical composition and antibacterial activity of [[permaculture-designers-manual-essential-oil-plants]] from Amomum tsao-ko." Chemistry & Biodiversity, 15(7), e1800121.
   - Li, H. et al. (2014). "Ethnobotanical study of Amomum tsao-ko in Yunnan, China." Journal of Ethnopharmacology, 151(2), 1095–1100.
   - Chen, J. et al. (2010). "Phytochemical and biological studies of Amomum species." Natural Product Communications, 5(9), 1457–1462.
 ---
@@ -24,7 +24,7 @@ sources:
 
 It is the source of **tsao-ko** (also rendered **caoguo**, **black cardamom**), an important spice in Chinese, Vietnamese, and Laotian cuisines.
 
-The dried fruits are large, brown, and strongly aromatic with a smoky, camphoraceous flavor profile distinct from the related green cardamom (*Elettaria cardamomum*).
+The dried fruits are large, brown, and strongly aromatic with a smoky, camphoraceous flavor profile distinct from the related green cardamom (*[[elettaria-cardamomum]]*).
 
 Tsao-ko is one of the key spices in Chinese five-spice powder and is essential to the cuisine of Yunnan, Sichuan, and Guizhou provinces.
 
@@ -89,51 +89,6 @@ It is an essential component of **five-spice powder**, contributing a smoky, cam
 
 In Vietnamese cuisine, tsao-ko (known as **thảo quả**) is used in phở broth and beef stew (bò kho).
 
-The spice pairs particularly well with beef, pork, and poultry, and is commonly combined with soy sauce, star anise, and cinnamon.
-
-The fruits are typically dry-toasted before use to intensify their aroma, then cracked open and added to simmering liquids.
-
-Unlike green cardamom, tsao-ko is rarely used in desserts due to its strong, savory flavor profile.
-
-## Cultivation and Processing
-
-Commercial cultivation is centered in Yunnan Province, China, which accounts for the majority of global production.
-
-Plants are propagated primarily by division of rhizome clumps, with [[jeavons-seed-propagation-techniques]] used less frequently.
-
-Cultivation occurs at elevations of 1,000–2,000 meters in shaded or semi-shaded forest environments.
-
-Planting is typically done at the onset of the rainy season, with harvest beginning 2–3 years after establishment.
-
-Fruits are harvested when fully mature and reddish-brown, then dried in the sun or over low heat.
-
-The drying process develops the characteristic dark color and smoky aroma for which the spice is known.
-
-Post-harvest processing involves sorting by size and quality, with premium grades commanding significantly higher prices.
-
-Annual production in Yunnan exceeds 10,000 tonnes, making it one of the province's most important spice crops.
-
-## Bioactive Compounds and Traditional Medicine
-
-The essential oil of tsao-ko contains **1,8-cineole**, **borneol**, **camphor**, and **terpinen-4-ol** as major constituents.
-
-Volatile oil content ranges from 1.5% to 3.0% depending on origin, cultivar, and processing method.
-
-The characteristic smoky aroma is attributed to a combination of phenylpropanoids and sesquiterpenes unique to the species.
-
-Diterpenoids including tsao-koanol and tsao-koic acid have been isolated from the fruits.
-
-In Traditional Chinese Medicine, tsao-ko is classified as warm and acrid, acting on the spleen and stomach meridians.
-
-It is prescribed for treating cold-dampness patterns, abdominal distension, vomiting, and poor appetite.
-
-The dried fruits are used in several classical herbal formulas including Baohe Wan (Preserving Harmony Pill).
-
-Modern pharmacological studies have confirmed antibacterial activity against foodborne pathogens, supporting its traditional use as a digestive aid.
-
 ## See Also
-
 - [[amomum-subulatum]]
-- [[zingiber-officinale]]
-- [[syzygium-aromaticum]]
-- [[myristica-fragrans]]
+- [[amomum-kravanh]]

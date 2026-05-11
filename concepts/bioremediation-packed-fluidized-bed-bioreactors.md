@@ -88,20 +88,3 @@ One of the most important practical considerations for bioreactor
 operation is the longevity and reusability of the fungal biomass.
 Several studies have reported the repeated use of white rot mycelia
 over many cycles of treatment, covering periods of several weeks to
-months. Mycelia are rugged enough to withstand repeated use and can
-be stored at 4 degrees Celsius for several months while retaining full
-decolorization activity.
-
-## Contamination Considerations
-
-Most studies have employed aseptic conditions and axenic cultures of
-white rot fungi. Some studies have found that effective treatment can
-occur under non-aseptic conditions, particularly for wood pulping
-effluents where high temperature, alkaline pH, and the presence of
-sodium sulfite inhibit competing microorganisms. Contamination often
-leads to treatment failure in other systems.
-
-## See Also
-
-- [[staycare-fungal-treatment-of-textile-industry-wastewater]]
-- [[staycare-scale-up-challenges-in-fungal-bioremediation]]

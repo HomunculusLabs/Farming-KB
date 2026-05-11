@@ -28,17 +28,17 @@ The species is recognized by its narrow, iris-like leaves and distinctive spheri
 
 Sparganium erectum was described by Linnaeus in 1753. The genus name derives from the Greek "sparax" meaning to tear, referring to the prickly burrs. It is placed in the order Poales, family Typhaceae, though some earlier classifications placed it in its own family Sparganiaceae.
 
-The taxonomy of Sparganium erectum sensu lato is complex. Several subspecies have been recognized based on fruit morphology and geographic distribution. These include subsp. erectum, subsp. microcarpum, subsp. neglectum, and subsp. oocarpum.
+The taxonomy of Sparganium erectum sensu lato is complex. Several subspecies have been recognized based on fruit morphology and [[geographic-distribution-of-psilocybe-species]]. These include subsp. erectum, subsp. microcarpum, subsp. neglectum, and subsp. oocarpum.
 
 Molecular phylogenetic studies have partially clarified relationships within the genus. Subspecies boundaries are not always supported by genetic data, suggesting a need for taxonomic revision. Hybridization between subspecies occurs in zones of overlap.
 
 The plant grows from a stout, creeping rhizome that produces multiple erect stems. Stems are 50–150 cm tall, unbranched below the inflorescence, and triangular in cross-section. The rhizome system can extend over a meter horizontally, forming dense clonal stands.
 
-Aerenchyma tissue in stems and rhizomes facilitates gas exchange between aerial and submerged portions. This adaptation allows the plant to persist in waterlogged, oxygen-poor substrates where many other species cannot survive.
+Aerenchyma tissue in stems and rhizomes facilitates [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] between aerial and submerged portions. This adaptation allows the plant to persist in waterlogged, oxygen-poor substrates where many other species cannot survive.
 
 Leaves are basal and cauline, linear and flat, 5–20 mm wide and up to 1.5 meters long. They arise from the rhizome in a fan-like arrangement. Leaf margins are slightly scabrous. A prominent midrib runs the length of each leaf.
 
-The leaf surface is glabrous with a waxy cuticle that sheds water. This adaptation prevents waterlogging of photosynthetic tissue during flooding events. Cross-section reveals uniseriate epidermis with frequent silica bodies.
+The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glabrous with a waxy cuticle that sheds water. This adaptation prevents waterlogging of photosynthetic tissue during flooding events. Cross-section reveals uniseriate epidermis with frequent silica bodies.
 
 The inflorescence is a branched panicle with 2–7 lateral branches and a terminal head. Each branch bears 1–3 spherical or ovoid burr-like fruiting heads. Male and female heads are on the same plant, with male heads positioned above female heads.
 
@@ -56,11 +56,11 @@ The species grows at the margins of ponds, lakes, canals, ditches, and slow-flow
 
 It favors nutrient-rich substrates with high organic content. Clay and silt margins support the most vigorous growth. The species is tolerant of moderate eutrophication and can persist in degraded water bodies.
 
-Seasonal growth begins in early spring from overwintering rhizomes. Maximum above-ground biomass is typically reached by mid-summer. Senescence of aerial shoots begins in autumn, with standing dead material persisting through winter.
+Seasonal growth begins in [[coleman-overwintered-onions-and-early-spring-crops]] from overwintering rhizomes. Maximum above-ground biomass is typically reached by mid-summer. Senescence of aerial shoots begins in autumn, with standing dead material persisting through winter.
 
 Disturbed habitats including drainage ditches and newly excavated ponds are readily colonized. The species is a common component of early-successional wetland plant communities. It may decline as tall reed communities develop and shade it out.
 
-Competitive interactions with other emergent macrophytes are influenced by water depth and nutrient availability. S. erectum typically dominates in moderately deep water where it outcompetes shorter species. In very shallow water, it may be displaced by grasses and sedges.
+Competitive interactions with other emergent macrophytes are influenced by water depth [[ph-and-nutrient-availability-garden-soils]]. S. erectum typically dominates in moderately deep water where it outcompetes shorter species. In very shallow water, it may be displaced by grasses and sedges.
 
 ## Ecology and Interactions
 
@@ -70,13 +70,13 @@ Water pollination is the primary reproductive mechanism. The abundant pollen is 
 
 Flowering phenology varies with latitude and altitude. Lowland populations in southern Europe may begin flowering in April, while northern populations may not flower until late June. The male heads wither soon after pollen release, leaving female burrs to mature through summer.
 
-Seed dispersal is facilitated by the prickly burrs that attach to the fur of mammals and feathers of birds. Water dispersal also occurs as burrs float for extended periods. Burrs can remain viable after passage through animal digestive tracts.
+[[clay-pellet-seed-dispersal]] is facilitated by the prickly burrs that attach to the fur of mammals and feathers of birds. Water dispersal also occurs as burrs float for extended periods. Burrs can remain viable after passage through animal digestive tracts.
 
 Several insect species are associated with S. erectum. The bur-reed fly (Sparganothis spp.) feeds on flowers and developing fruits. Aquatic snails graze on submerged portions of stems and leaves.
 
-The species contributes to nutrient cycling in wetland ecosystems. Decomposition of senesced leaf litter releases nutrients that support algal and microbial growth. Root exudates may influence rhizosphere microbial communities.
+The species contributes to [[nutrient-cycling-in-soil]] wetland ecosystems. Decomposition of senesced [[dighton-fungal-decomposition-leaf-litter-dynamics]] releases nutrients that support algal and microbial growth. [[mycorrhiza-root-exudates]] may influence [[cannabis-rhizosphere-microbial-communities]].
 
-Below-ground biomass often exceeds above-ground biomass in established stands. The extensive rhizome network contributes significant organic matter to the soil profile upon decomposition. This organic input improves soil structure and water-holding capacity in wetland substrates.
+Below-ground biomass often exceeds above-ground biomass in established stands. The extensive rhizome network contributes significant [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to the soil profile upon decomposition. This organic input improves soil structure and water-holding capacity in wetland substrates.
 
 Dense stands of S. erectum can impede water flow in narrow ditches and canals. This property is sometimes considered a nuisance in managed waterways. However, the same root-matrix stabilization helps prevent bank erosion.
 
@@ -87,32 +87,3 @@ The species supports amphibian breeding by providing emergent structure near the
 The rhizomes of Sparganium erectum contain edible starch and have been consumed as a famine food. They were traditionally collected, peeled, and roasted or boiled. The taste is described as bland and somewhat astringent.
 
 Rhizome starch content can reach 30-40% of dry weight in mature plants. Processing involved extensive soaking and grinding to remove bitter compounds. The flour produced was sometimes mixed with cereal grains for bread-making.
-
-In traditional European herbal medicine, the plant was used as a diuretic and astringent. Poultices of crushed leaves were applied to wounds and skin inflammations. These uses are documented in several 16th and 17th century herbals.
-
-The tough, fibrous stems have been used for basket weaving and thatching in some regions. Dried stems were occasionally employed as binding material. The commercial value of this use was limited compared to more pliable materials.
-
-In rural communities across central and eastern Europe, the burrs were traditionally used as children's playthings. Their hook-like beaks made them effective natural fasteners. This cultural use is documented in several European folklore traditions.
-
-Modern uses include the species' deployment in constructed wetlands for water treatment. The root zone provides substrate for microbial communities that process dissolved nutrients and organic pollutants. Its tolerance of eutrophic conditions makes it suitable for this application.
-
-Research has demonstrated effective removal of nitrogen and phosphorus from wastewater using S. erectum in treatment wetland systems. The species' extensive root network provides a large surface area for attached microbial growth. Performance is comparable to other emergent macrophytes commonly used in constructed wetlands.
-
-## Conservation and Status
-
-Sparganium erectum is not considered globally threatened. It is listed as Least Concern on most European national red lists. However, local populations have declined where wetland drainage and river canalization have eliminated suitable habitat.
-
-Agricultural intensification has reduced the extent of farm ponds and drainage ditches that historically supported S. erectum populations. The filling-in of small water bodies for development is an ongoing threat in urbanizing landscapes.
-
-Water level regulation for navigation and flood control can negatively affect established populations. Drawdown events during the growing season may expose rhizomes and reduce plant vigor. Naturalized populations may benefit from artificial water bodies.
-
-## See Also
-
-- [[typha-latifolia]]
-- [[typha-angustifolia]]
-- [[schoenoplectus-lacustris]]
-- [[juncus-effusus]]
-- [[iris-pseudacorus]]
-- [[phragmites-australis]]
-- [[pistia-stratiotes]]
-- [[eichhornia-crassipes]]

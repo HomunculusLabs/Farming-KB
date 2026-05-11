@@ -88,35 +88,3 @@ The species is protected under several national conservation frameworks. In the 
 ## Research Significance
 
 O. anomalum has been used as a bioindicator of epiphytic habitat quality in forest ecosystems. Its presence and abundance correlate with tree age, bark pH, and atmospheric moisture levels.
-
-Comparative anatomical studies have highlighted adaptations of the tomentum for rapid water uptake. The multicellular hair-like structures at the stem base increase absorptive surface area significantly compared with glabrous species.
-
-The species has contributed to understanding of bryophyte reproductive biology. Studies of spore dispersal, capsule maturation, and breeding systems in O. anomalum have informed broader models of bryophyte population dynamics.
-
-Molecular phylogenetic studies have placed O. anomalum within a well-supported clade of predominantly epiphytic Orthotrichum species. These analyses are refining species delimitation within the genus.
-
-Experimental studies have examined the desiccation tolerance of O. anomalum in comparison with terrestrial mosses. The species shows moderate poikilohydric capacity, recovering from several days of dry conditions.
-
-Heavy metal accumulation studies have quantified lead, zinc, and copper uptake in urban O. anomalum populations. The species shows lower accumulation rates than terricolous mosses, reflecting the reduced root-zone contact of epiphytic substrates.
-
-## See Also
-
-- [[orthotrichum-diaphanum]]
-
-- [[hypnum-cupressiforme]]
-- [[bryum-argenteum]]
-- [[polytrichum-commune]]
-- [[pleurozium-schreberi]]
-- [[funaria-hygrometrica]]
-- [[dicranum-scoparium]]
-- [[leucobryum-glaucum]]
-- [[sphagnum-palustre]]
-- [[aulacomnium-palustre]]
-- [[climacium-dendroides]]
-- [[rhytidiadelphus-triquetrus]]
-- [[ceratodon-purpureus]]
-- [[tortula-muralis]]
-- [[syntrichia-ruralis]]
-- [[grimmia-pulvinata]]
-- [[polytrichum-formosum]]
-- [[mnium-hornum]]

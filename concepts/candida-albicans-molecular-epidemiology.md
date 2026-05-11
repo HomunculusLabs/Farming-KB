@@ -1,5 +1,5 @@
 ---
-title: bloomfield-candida-albicans-yeast-hyphal-dimorphism Molecular Epidemiology and MLST
+title: Candida Albicans Molecular Epidemiology
 created: 2026-04-26
 tags: [fungal-pathogen, medical-mycology, molecular-epidemiology, genomics, candidiasis]
 date: 2026-04-25
@@ -13,12 +13,12 @@ type: concept
 
 ## Overview
 
-Candida albicans is the most common cause of human candidiasis, a range
+[[candida-albicans]] is the most common cause of human candidiasis, a range
 of infections from superficial mucosal conditions to life-threatening
 systemic disease in immunocompromised patients. Understanding the
 population structure, transmission dynamics, and evolutionary history of
 C. albicans requires robust molecular typing methods. Multilocus
-sequence typing (MLST) has become the internationally agreed reference
+[[gadd-fungal-multilocus-sequence-typing]] (MLST) has become the internationally agreed reference
 standard for molecular epidemiology of this important pathogen.
 
 ## MLST Scheme for Candida albicans
@@ -29,7 +29,7 @@ into a standardized seven-gene scheme comprising AAT1a, ACC1, ADP1,
 MPIb, SYA1, VPS13, and ZWF1b. This scheme is accessible at
 http://calbicans.mlst.net/. The database has catalogued genotypes for
 over 279 isolates, of which 244 (87%) are unique sequence types (STs),
-reflecting the high genetic diversity of this species.
+reflecting the high [[biodiversity-fungal-genetic-diversity]] of this species.
 
 Each ST is defined by the concatenated string of integer-coded alleles
 at all seven loci. Because MLST is based on DNA sequence rather than
@@ -59,7 +59,7 @@ TRP1, UGP1, URA3) identified five principal genetic clusters.
 Comparison with a previous Southern blot hybridization fingerprinting
 method (CG6/Cg12 probe) confirmed that both methods defined the same
 five major clusters. Notably, a geographical component to the
-population genetics of C. glabrata was detected.
+[[aspergillus-fumigatus-population-genetics]] of C. glabrata was detected.
 
 However, the C. glabrata MLST scheme suffers from low resolution compared
 with the fingerprinting method. The CG6/Cg12 probe discriminated
@@ -88,26 +88,3 @@ virulence defects and testing of antifungal compounds.
 
 MLST-based molecular epidemiology of Candida species has practical
 clinical applications including:
-- Tracing sources of nosocomial outbreaks in hospital settings
-- Distinguishing relapse from reinfection in recurrent candidiasis
-- Monitoring the emergence of drug-resistant strains
-- Understanding the [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] of pathogenic lineages
-- Correlating genetic background with clinical outcomes
-
-## See Also
-
-- [[fungi-multilocus-sequence-typing-molecular-epidemiology]]
-- [[nematophagous-fungi]]
-- [[fungal-species-concepts-estimates]]
-
-## References
-
-- Bougnoux, M. E. et al. (2002). [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing of
-  Candida albicans. J Clin Microbiol 40, 2670-4.
-- Tavanti, A. et al. (2003). Multilocus sequence typing for
-  C. albicans. J Clin Microbiol 41, 5532-8.
-- Dodgson, A. R. et al. (2003). MLST for Candida glabrata.
-  J Clin Microbiol 41, 5086-90.
-- Mylonakis, E. et al. (2002). Killing of C. elegans by
-  C. neoformans as a model of yeast pathogenesis. PNAS 99,
-  15675-80.

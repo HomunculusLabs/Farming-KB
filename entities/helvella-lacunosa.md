@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Helvella lacunosa is a species of ascomycete fungus in the family Helvellaceae, widely distributed across temperate regions of the Northern Hemisphere.
+Helvella lacunosa is a species of ascomycete fungus in the family Helvellaceae, widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 It is one of the most commonly encountered elfin saddles, recognizable by its dark grey to black, irregularly lobed cap atop a prominently ribbed and chambered stipe.
 
@@ -76,65 +76,14 @@ Paraphyses are filiform, septate, slightly enlarged at tips.
 
 ## Distribution and Habitat
 
-**Geographic range:** Widely distributed across Europe, North America (particularly the Pacific Northwest and Rocky Mountains), and parts of Asia.
+**Geographic range:** Widely distributed across Europe, [[guzman-psilocybin-mushrooms-north-america]] (particularly the [[psilocybin-north-america-pacific-northwest]] and Rocky Mountains), and parts of Asia.
 
 Also reported from North Africa and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] at higher elevations.
 
-**Habitat:** Terrestrial, growing singly or in scattered groups on soil, often in association with coniferous forests (Douglas fir, pine, spruce) and mixed woodlands.
+**Habitat:** Terrestrial, growing singly or in scattered groups on soil, often in association with coniferous forests ([[douglas-fir]], pine, spruce) and mixed woodlands.
 
 Also found along forest trails, roadcuts, disturbed ground, and occasionally in urban park settings.
 
 **Season:** Fruiting from late spring through autumn (May–October in the Northern Hemisphere), with peak fruiting in late summer to early fall.
 
 In Mediterranean climates, fruiting may extend into winter months following rain.
-
-**Elevation:** Found from sea level to approximately 2,500 meters in montane and subalpine forests.
-
-**Ecological role:** Likely saprotrophic on soil [[hamilton-composting-and-organic-matter-management]], with some evidence of weak ectomycorrhizal associations.
-
-The genus *Helvella* has been suggested to form ectomycorrhizal relationships with conifers, but evidence remains mixed.
-
-## Edibility and Culinary Use
-
-Helvella lacunosa is generally considered edible when thoroughly cooked, but it is not widely regarded as a choice edible species.
-
-**⚠️ Important:** All Helvella species should be cooked thoroughly before consumption.
-
-Raw or undercooked specimens contain small quantities of gyromitrin, a volatile hydrazine compound that is hydrolyzed to monomethylhydrazine (MMH), which is hepatotoxic and potentially carcinogenic.
-
-**Preparation:** Caps should be parboiled in abundant water for 10–15 minutes, with the water discarded, before further cooking (sautéing, braising, or incorporation into soups and sauces).
-
-Some foragers recommend discarding the tough stipes and using only the caps.
-
-**Flavor and texture:** Mild, somewhat earthy flavor. The cap texture is thin and delicate when cooked; the stipe is rubbery and generally less desirable.
-
-**Market status:** Not commercially cultivated or sold commercially. Collected by personal-use foragers, particularly in Europe and the Pacific Northwest.
-
-Not recommended for novice foragers due to the presence of potentially toxic lookalikes in the Helvellaceae.
-
-## Bioactive Compounds
-
-Helvella species contain trace amounts of gyromitrin (N-methyl-N-formylhydrazone), a [[fungal-btex-volatile-compound-degradation]] also found in *Gyromitra* species.
-
-Gyromitrin is thermally labile and largely destroyed by cooking, but boiling water must be discarded to remove the hydrolyzed products.
-
-Additional metabolites include various fatty acids, sterols (ergosterol), and polysaccharides with reported immunomodulatory activity in vitro.
-
-The pharmacological significance of these secondary metabolites in *H. lacunosa* has not been extensively studied, and concentrations are generally lower than in *Gyromitra esculenta*.
-
-## Similar Species
-
-| Species | Distinguishing Features | Edibility |
-|---------|----------------------|-----------|
-| *H. crispa* | Whitish cap, more erect lobes, paler stipe | Edible when cooked |
-| *H. elastica* | Light tan cap, smoother stipe with fewer ribs | Edible when cooked |
-| *H. vespertina* | Darker, more robust; western NA lineage | Edible when cooked |
-| *Gyromitra esculenta* | Brain-like cap, no stipe ribs | **Toxic — potentially lethal** |
-
-The distinction between *H. lacunosa* and *Gyromitra* species is critical: Gyromitras have solid, not chambered, stipes and much higher gyromitrin content.
-
-## See Also
-
-- `[[helvella-crispa]]` — Closely related edible elfin saddle with whitish cap
-- `[[cordyceps-sinensis]]` — Another ascomycete fungus of pharmaceutical significance
-- `[[psilocybe-cubensis]]` — Cultivated [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for comparison of fungal ecology

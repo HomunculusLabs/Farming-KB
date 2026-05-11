@@ -87,38 +87,3 @@ Extended refrigeration (multiple days or weeks) offers no additional benefit and
 ## Comparison with Other Fruiting Initiation Techniques
 
 Cold shock is one of several methods cultivators use to encourage fruiting:
-
-- **Scratching or casing disruption**: Physically disturbing the substrate surface to expose fresh mycelium to air, effective for species grown on bulk substrates with a non-nutritive casing layer.
-- **Fruiting cake dunking**: Submerging colonised substrate in water for several hours to rehydrate, primarily used in PF Tek-style *P. cubensis* cultivation.
-- **Light cycle manipulation**: Shifting from continuous darkness during colonisation to a 12/12 light/dark cycle — nearly universal and beneficial for almost all species.
-- **CO₂ reduction**: Increasing FAE to lower ambient CO₂ below the ~800–1000 ppm threshold that suppresses pinning.
-- **Hydration shock**: Sudden humidity increase or direct misting to simulate rainfall, effective for monsoon-adapted species.
-
-Cold shock is most analogous to light cycle manipulation — it exploits an evolved environmental signalling pathway. Unlike scratching or dunking, it does not physically alter the substrate. Its key distinction is its **species selectivity**: where light and FAE are broadly required across nearly all species, cold shock benefits only a subset of strains with specific ecological adaptations to cooler seasonal climates.
-
-## The Role of Species-Specific Requirements in Cultivation Success
-
-The divergent responses to cold shock across species illustrate a broader principle in mycological cultivation: fungal species have evolved fruiting strategies finely tuned to their native ecological niches. Tropical species like *P. cubensis* respond to warm, stable conditions and abundant moisture; temperate species may require seasonal temperature cues; coprophilous species respond primarily to substrate freshness and moisture availability. A one-size-fits-all approach to fruiting initiation inevitably fails for some species and wastes effort for others.
-
-Successful cultivators internalise this principle by maintaining species-specific cultivation notes and adapting their protocols as they gain experience with different organisms. The grass seed cultivation method described in the source paper works across multiple species precisely because it allows the cultivator to adjust environmental parameters — including whether or not to apply cold shock — on a per-species basis.
-
-## Common Misconceptions
-
-Several persistent misconceptions surround cold shock in amateur mycology:
-
-- **"Cold shock is always necessary for fruiting."** This is false. Many species, including the most commonly cultivated *P. cubensis* strains, fruit readily without any temperature manipulation. The necessity of cold shock is the exception, not the rule.
-
-- **"Colder is better."** Temperatures below freezing will damage or kill mycelium. The recommended range of 2–4 °C is a mild stimulus, not a deep freeze. Colder temperatures do not produce stronger or faster fruiting responses.
-
-- **"Cold shock replaces other fruiting triggers."** Cold shock is supplementary. It must be combined with adequate light, FAE, and humidity. A refrigerated culture placed back into a sealed, dark, stagnant container will still n [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] psilocybin mushrooms benefit from cold shock."** The source paper directly contradicts this. *P. mexicana*, *P. tampanensis*, and *P. subbalteatus* show no benefit, and *P. cubensis* strains like Ecuador require no such treatment.
-
-## Implications for Cultivators
-
-Understanding species-specific fruiting requirements is fundamental to successful cultivation. Applying cold shock indiscriminately wastes time, introduces unnecessary handling (and contamination risk), and may create a false impression that a technique is ineffective when it was simply applied to the wrong organism. The source paper's findings underscore the importance of matching cultivation techniques to the ecological preferences and evolutionary history of each species.
-
-Cultivators should research the specific environmental triggers for each species they intend to grow, consult species-specific literature, and apply interventions selectively. When working with a new or unidentified strain, a pragmatic approach is to establish baseline fruiting conditions (adequate light, FAE, and humidity) first, introducing cold shock only if pinning does not occur within the expected timeframe. This evidence-based approach avoids both the waste of unnecessary cold treatment and premature conclusions about strain viability. Knowing which species genuinely benefit from cold shock — and which are indifferent or harmed by it — saves time, reduces frustration, and leads to more predictable cultivation outcomes.
-
-## See Also
-- [[species-specific-cold-shock-fruiting-guide]]
-- [[species-specific-cold-shock-response-psilocybe]]
-- [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]]

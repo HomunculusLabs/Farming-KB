@@ -10,7 +10,7 @@ tags: [culture, permaculture, plants]
 
 # Permaculture Edible Perennials and Food Forest Understory
 
-The food forest understory layer contains shrubs, herbaceous perennials, and ground covers that produce food, provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms, cycle nutrients, and create the layered ecosystem structure that characterises mature food forests. This page covers the edible perennial species and understory strategies from the source.
+The food forest understory layer contains shrubs, [[permaculture-plants-herbaceous-perennials]], and [[permaculture-plants-food-forest-ground-covers-bamboos]] that produce food, provide [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms, cycle nutrients, and create the layered ecosystem structure that characterises mature food forests. This page covers the edible perennial species and understory strategies from the source.
 
 ## Understory Fruit Shrubs
 
@@ -35,13 +35,13 @@ Also called Chilean guava, myrtle berry. Slow-growing evergreen shrub to 2 m, na
 ## Understory Herbaceous Perennials
 
 ### Comfrey
-Deep tap-rooted herbaceous perennial. Listed among medicinal herbs for livestock forage. High mineral and protein content. Used as chop-and-drop mulch around fruit trees. Animals browse for self-medication.
+Deep tap-rooted herbaceous perennial. Listed among [[medicinal-herbs-for-livestock]] [[permaculture-livestock-forage-systems]]. High mineral and protein content. Used as chop-and-drop mulch around fruit trees. Animals browse for self-medication.
 
 ### Dandelion (Taraxacum officinale)
 Long-season bee forage providing both nectar and pollen. Edible leaves (raw or cooked), flowers (wine, fritters), and roots (coffee substitute). Deep taproot mines nutrients from subsoil. Livestock browse as self-medication.
 
 ### Chicory (Cichorium intybus)
-Bee forage providing nectar and pollen. Deep taproot for nutrient mining. Edible leaves (bitter but nutritious). Important pasture species for extending flowering season and boosting honey production.
+Bee forage providing nectar and pollen. Deep taproot for nutrient mining. Edible leaves (bitter but nutritious). Important pasture species for extending flowering season and boosting [[faires-beekeeping-and-honey-production]].
 
 ### Nettle (Urtica dioica)
 Listed among medicinal herbs for livestock forage. High in protein and minerals. Young shoots edible as a cooked green (cooking destroys stinging hairs). Traditional nutrient-dense food and medicine.
@@ -50,7 +50,7 @@ Listed among medicinal herbs for livestock forage. High in protein and minerals.
 Medicinal herb for livestock self-medication. Edible young leaves (use sparingly due to oxalic acid). Deep taproot brings up minerals.
 
 ### Borage (Borago officinalis)
-Long-season bee forage. Companion to strawberries. Edible flowers (cucumber flavour) and young leaves. Livestock self-medication herb.
+Long-season bee forage. Companion to strawberries. [[comparison-scented-geraniums-vs-edible-flowers]] (cucumber flavour) and young leaves. Livestock self-medication herb.
 
 ### Plantain (Plantago spp)
 Medicinal herb for livestock. Edible young leaves. Wound-healing properties (contains allantoin). Common in pastures worldwide.
@@ -88,32 +88,3 @@ Evergreen tree/shrub to 7 m. Fruits take up to 12 months to ripen -- trees have 
 Deciduous tree to 18 m. The swollen fruit stem is edible (tastes like raisins). Used in China to annul effects of wine. Good spring honey plant.
 
 ## Pawpaw (Asimina triloba) -- Native Understory Tree
-
-Deciduous shrub or low tree native to [[psilocybin-north-america-pacific-northwest]], growing up to 12 m. Occurs naturally as thicket understorey in open woodland -- an ideal natural understory species. Prefers well-drained, fertile soil rich in organic matter. Tolerates snow conditions. Can sucker out to about a quarter acre in ideal conditions.
-
-The largest native fruit of North America (up to 300g), with banana custard flavour. Yellow fruiting varieties superior to white. Nutritionally: carbohydrate 16.8%, protein 5.2%, fat 0.9%. The inner bark was stripped and made into string for fishing nets, lines, and rope.
-
-## Pasture Integration for Edible Perennials
-
-The following can be introduced to pasture to increase both honey production and food availability:
-
-- **Clovers**: Up to 400 kg/ha nitrogen yield; crimson clover particularly high
-- **Lucerne**: Very long flowering period; good lock-up fodder
-- **Chicory**: Nectar and pollen; deep-rooted mineral accumulator
-- **Dandelion**: Long-season bee forage; edible leaves, flowers, roots
-- **Plantain**: Medicinal for livestock; edible young leaves
-
-## Design Notes
-
-- **Vertical stacking**: Combine canopy trees (walnut, chestnut) with understory shrubs (feijoa, guava) and ground covers (strawberry, herbs)
-- **Succession planning**: Use fast-bearing shrubs and perennials while canopy trees mature
-- **Self-harvesting systems**: Design understory plants that animals can harvest themselves ([[free-range-poultry-forage-design-mollison]] species)
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Place deep-rooted perennials (chicory, comfrey, dock) between productive plants to mine and cycle nutrients
-- **Extended harvest**: Select species fruiting in different seasons for year-round food availability
-- **Allelopathy awareness**: Walnut produces juglone that inhibits many plants -- choose compatible understory species
-
-## See Also
-
-- [[permaculture-plants-fruit-trees-temperate]] - temperate understory fruit trees
-- [[permaculture-plants-climbers-and-vines]] - understory vines
-- [[permaculture-plants-ground-covers-living-mulches]] - ground layer species

@@ -1,5 +1,5 @@
 ---
-title: [[comparison-potato-vs-sweet-potato-cultivation]] Guide
+title: Potato Cultivation Guide
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
@@ -88,11 +88,3 @@ completely -- greening indicates solanine accumulation, which is
 toxic. Inspect stored potatoes regularly and remove any showing rot
 to prevent spread. Properly cured main crop potatoes can store for
 4-8 months under these conditions.
-
-## Connections
-- [[potato-pest-and-disease-management]]
-- [[potassium-in-plant-nutrition]]
-- [[companion-planting]]
-- crop rotation
-- no dig gardening
-- root crop polycultures

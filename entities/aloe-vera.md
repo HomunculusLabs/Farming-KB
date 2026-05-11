@@ -1,8 +1,8 @@
 ---
-title: "Aloe vera"
+title: Aloe Vera
 created: 2026-04-28
 type: species
-tags: [species, plant, succulent, herbal, medicinal, permaculture, xeriscaping]
+tags: [species, plant, succulent, herbal, medicinal, [[permaculture]], xeriscaping]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -87,61 +87,4 @@ larger specimens.
 - **Origin:** Arabian Peninsula; debated origin includes the Arabian
   Peninsula, Sudan, Somalia, and the Indian Ocean island of Socotra
 - **Current distribution:** Widely naturalized in tropical, subtropical,
-  and warm temperate regions worldwide; extensively cultivated in
-  India, Mexico, the Dominican Republic, China, South Africa, Spain,
-  and the southern [[dmt-containing-plants-united-states-halpern]] (Texas, Florida, Arizona)
-- **Habitat:** Arid and semi-arid environments, rocky slopes, coastal
-  areas, and disturbed ground; intolerant of frost or prolonged
-  waterlogging
-- **Hardiness:** USDA Zones 9–11; can be grown as a houseplant
-  or container plant in colder climates
-- **Soil preference:** Sandy, well-drained soils; extremely drought-
-  tolerant once established; sensitive to overwatering
-
-## Active Compounds and Chemistry
-
-The inner leaf gel contains over 75 potentially active constituents:
-
-| Compound | Class | Biological Activity |
-|---|---|---|
-| Acemannan (acetylated mannose polymer) | Polysaccharide | Immunomodulatory, wound healing, antiviral |
-| Barbaloin (aloin A/B) | Anthraquinone C-glycoside | Laxative, anti-inflammatory |
-| Aloe-emodin | Anthraquinone aglycone | Antimicrobial, potential anticancer |
-| C-glycosylchromone | Chromone derivative | Anti-inflammatory |
-| Lectins | Proteins | Immunostimulatory |
-| Magnesium lactate | Mineral salt | Antihistamine (topical itch relief) |
-| [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] | Beta-hydroxy acid | Anti-inflammatory, keratolytic |
-| Vitamins | A, C, E, B12 (trace), folic acid | Antioxidant, skin health |
-| Minerals | Calcium, magnesium, zinc, selenium | Various metabolic roles |
-
-**Critical safety distinction:** The anthraquinone-rich latex (aloe juice)
-has been banned as an oral laxative by the FDA since 2002 due to
-carcinogenicity concerns. Commercial "aloe vera juice" for drinking must
-be processed to remove aloin below 10 ppm. Topical use of whole-leaf
-products containing aloin is generally considered safe.
-
-## Medicinal Uses and Clinical Evidence
-
-### Topical Uses (Strong Evidence)
-
-- **Burn treatment:** Multiple [[mushroom-cancer-clinical-trials-overview]] support aloe gel for
-  first- and second-degree thermal burns, showing faster healing and
-  reduced pain compared to conventional treatments (silver sulfadiazine)
-- **Wound healing:** Promotes fibroblast proliferation, collagen
-  synthesis, and angiogenesis; evidence is moderate for minor wounds
-- **Skin conditions:** Helpful for psoriasis, seborrheic dermatitis,
-  and genital herpes; evidence varies by condition
-- **Radiation dermatitis:** Moderate evidence for prevention and
-  treatment of radiation-induced skin damage
-
-### Internal Uses (Limited Evidence)
-
-- **Digestive support:** Traditional use for constipation (latex),
-  GERD, and ulcerative colitis; evidence is mixed
-- **Blood sugar regulation:** Some clinical trials show mild
-## See Also
-
-- aloe vera — check for additional entity variants
-- [[calendula-officinalis]]
-- [[symphytum-officinale]]
-- [[rheum-palmatum]]
+  and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide; extensively cultivated in

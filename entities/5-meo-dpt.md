@@ -88,30 +88,3 @@ Several European countries have placed the compound under controlled substance s
 The compound received limited attention in the research chemical community and has remained relatively obscure compared to more popular tryptamines like 5-MeO-DMT or 4-AcO-DMT.
 
 Its availability increased briefly in the mid-2000s through online research chemical vendors but has remained a niche substance within the psychedelic community.
-
-## Related Compounds
-
-- **5-MeO-DMT:** The dimethyl analog, a much more widely known and potent psychedelic tryptamine
-- **5-MeO-MIPT:** The methyl-isopropyl analog, with a longer duration and distinct character
-- **5-MeO-DIPT:** The methyl-isopropyl variant (known as "Foxy Methoxy"), with a different pharmacological profile
-- **DMT:** N,N-dimethyltryptamine, the prototypical natural psychedelic tryptamine
-- **4-HO-DPT:** The 4-hydroxy analog, an unscheduled tryptamine with psychedelic properties
-
-The propyl [[phenethylamine-chain-length-effects]] has a significant impact on both duration and subjective character across this series of compounds.
-
-## Synthesis
-
-5-MeO-DPT can be synthesized from 5-methoxyindole through a two-step process involving reductive amination with dipropylamine.
-
-The initial step typically involves a Fischer indole synthesis or Vilsmeier-Haack formulation of 5-methoxyindole to produce the corresponding indole-3-acetaldehyde.
-
-Reductive amination with dipropylamine and a suitable reducing agent (such as sodium borohydride or sodium cyanoborohydride) yields the final product.
-
-Purification is typically achieved through acid-base extraction followed by recrystallization or column chromatography to obtain the hydrochloride salt.
-
-## See Also
-
-- [[5-meo-mipt]]
-- [[dmt]]
-- [[psilocin]]
-- [[tryptamine]]

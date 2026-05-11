@@ -8,7 +8,7 @@ sources: [~/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
 type: concept
 ---
 
-To create a natural orchard, one must observe the principle of
+To create a [[fukuoka-natural-orchard-ground-cover]], one must observe the principle of
 the right crop for the right land. Hillside land and valley land
 must be treated as such. The natural orchard makes full three-
 dimensional use of space, from the canopy to the soil surface,
@@ -16,15 +16,15 @@ integrating [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] with comp
 
 ## Avoiding Monoculture
 
-Avoid the monoculture of fruit trees. Plant deciduous fruit trees
-together with evergreen fruit trees and never forget to interplant
+Avoid the monoculture of [[comparison-grafting-vs-budding-fruit-trees]]. Plant deciduous fruit trees
+together with evergreen [[holzer-wild-fruit-trees-and-hedges]] never forget to interplant
 [[comparison-green-manure-guide-vs-mulch-types-and-effects]] trees. These may include [[fukuoka-wood-preserve-shelterbelt-design]]
 
 - [[fukuoka-natural-orchard-development]]
 - faires-orchard-design-and-intercropping
 ## Practical Applications
 
-Three-Dimensional Natural Orchard Design has a range of practical applications that make it relevant to
+Three-Dimensional Natural [[backyard-orchard-design]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -39,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,21 +87,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
-- [[fukuoka-natural-orchard-three-dimensional-design]]
-- [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]
-- [[fukuoka-straw-mandala-orchard-design]]
-- [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]

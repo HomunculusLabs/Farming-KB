@@ -88,31 +88,3 @@ touch perception with chemical sensing.
 ## Molecular Mechanisms of Mechanosensing
 
 At the molecular level, plant mechanosensing relies on several families of
-proteins. Mechanosensitive channels of the MSL (MscS-like) family and the
-piezo-like channels are thought to be primary sensors of mechanical force.
-These proteins form pores in the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] that open when the lipid
-bilayer is stretched or compressed, allowing ions to flow through.
-
-Recent research has identified mechanoreceptor complexes that share
-evolutionary origins with animal mechanoreceptors. The TCH (touch) genes in
-*Arabidopsis*, first identified in the 1990s, are rapidly upregulated by
-mechanical stimulation. Some TCH genes encode calmodulin and calmodulin-like
-proteins, calcium sensors that translate the mechanical signal into downstream
-cellular responses. The speed and specificity of these responses demonstrate
-that plants have evolved sophisticated mechanosensory systems despite lacking
-nervous tissue.
-
-## Ecological and Agricultural Significance
-
-Thigmomorphogenesis has significant implications for agriculture and
-horticulture. The practice of shaking young plants to produce sturdier stems,
-known as mechanical conditioning or thigmomorphogenesis treatment, is used
-commercially to reduce lodging (stem breakage) in crops. Greenhouse-grown
-plants, which experience less wind than field-grown plants, are often
-mechanically stimulated to produce stronger stems.
-
-Understanding plant touch responses also informs [[plant-olfaction-what-a-plant-smells]]
-- [[plant-gravitropism-and-spatial-awareness]]
-- jasmonic acid signalling
-- mechanosensitive ion channels
-- plant movement

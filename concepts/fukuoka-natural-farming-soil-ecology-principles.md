@@ -3,6 +3,7 @@ title: "masanobu-fukuoka-natural-farming-philosophy Farming Soil Ecology Princip
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "Fukuoka, M. (1978) - The One-Straw Revolution"
 type: concept
 tags: [ecology, fukuoka, natural-farming, principles, soil]
@@ -87,32 +88,3 @@ gained four inches of topsoil through this natural regeneration.
 Fukuoka contrasted his fields with neighboring conventional farms. His fields
 teem with dragonflies, moths, honeybees, insects, spiders, frogs, lizards, and
 moles. Earthworms burrow beneath the surface. This balanced ecosystem maintains
-stable relationships between insect and plant communities, often remaining
-unaffected by plant diseases that sweep through the area.
-By contrast, the neighbor's field had been "wiped out by herbicides and
-cultivation. The soil animals and insects have been exterminated by poison. The
-soil has been burned clean of organic matter and microorganisms by chemical
-fertilizers." These rice fields, farmed for 1,500 years, were "laid waste by
-the exploitive farming practices of a single generation."
-## Water, Soil Biology, and Key Observations
-- Rice grows best at 60-80% soil moisture, not continuously flooded; non-flooded
-  conditions produce stronger roots and greater disease resistance
-- Fukuoka held water briefly during the monsoon (about one week in June) to
-  weaken weeds and clover, then drained it; even in dry years the soil stayed
-  moist beneath the straw and green manure layer
-- A field left to itself increases in fertility; cultivated rice without
-  fertilizer settles at about 9 bushels per quarter acre -- neither enriched nor
-  depleted
-- Chemical fertilizer used even for one generation causes significant soil damage
-- Adding too much fertilizer (even chicken manure) can cause problems: rice
-  plants came up too thickly and were attacked by blast disease in one
-  over-fertilized field
-- Foods grown in soil balanced by worms, microorganisms, and decomposing animal
-  manure are "the cleanest and most wholesome of all"
-- Yields continued to increase and the soil became richer every year over more
-  than twenty years of no-till, no-fertilizer practice
-## See Also
-- [[natural-farming-fukuoka]]
-- [[fukuoka-natural-farming]]
-- [[fukuoka-straw-mulch-philosophy]]
-- [[fukuoka-clover-and-green-manure-cropping]]

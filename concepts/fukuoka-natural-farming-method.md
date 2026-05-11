@@ -9,7 +9,7 @@ sources: [raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md]
 
 # Fukuoka Natural Farming Method
 
-Masanobu Fukuoka (1913-2008) developed natural farming [[fukuoka-road-one-straw-revolution-continuation]] over fifty years on his farm in Ehime Prefecture, Japan. Natural farming is based on a nature free of human meddling and intervention, striving to restore nature from the destruction wrought by human knowledge and action.
+Masanobu Fukuoka (1913-2008) developed natural farming over fifty years on his farm in Ehime Prefecture, Japan. Natural farming is based on a nature free of human meddling and intervention, striving to restore nature from the destruction wrought by human knowledge and action.
 
 ## The Five Principles
 
@@ -42,15 +42,40 @@ Fukuoka argued that even organic farming is "just another type of scientific far
 
 He further argued that "there is no cause and effect in nature" -- the endless chain of interwoven events and factors is beyond man's powers of comprehension. The only effective approach to restoring barren land is to leave things largely up to nature.
 
+## Soil Ecology and the Microbial Web
+
+Central to Fukuoka's method is the living soil. Without tillage, the underground ecosystem of mycorrhizal fungi, bacteria, earthworms, and countless microorganisms remains intact. The straw mulch from each harvest feeds this soil food web continuously. Clover and other green manure plants fix nitrogen naturally. Over decades, Fukuoka's soil became darker, richer, and more porous than neighboring tilled fields — a living demonstration that soil health improves when humans stop disrupting natural biological processes.
+
 ## Revegetating Deserts
 
 Fukuoka proposed that seeds of green manure trees (such as black wattle), clover, alfalfa, bur clover, grain, and vegetable seeds be coated with soil and clay to form microbe-containing clay pellets, then scattered by hand over deserts and savannahs. Seeds within the hard clay pellets will not sprout until rain falls and conditions are right, and will not be eaten by mice and birds.
 
 His observation: "Rain does not fall from the heavens; it issues forth from the ground. Deserts do not form because there is no rain; rather, rain ceases to fall because the vegetation has disappeared."
 
+## Influence on Permaculture
+
+Fukuoka's work deeply influenced [[david-holmgren]] and [[bill-mollison]] in the development
+of permaculture. The emphasis on working with natural patterns rather than imposing human
+designs, the use of perennial polycultures, and the integration of animals into farm
+systems all echo Fukuokan principles. Bill Mollison credited Fukuoka as a key inspiration
+in the permaculture design philosophy of minimal intervention for maximum yield.
+
 ## The State of Mind
 
 "In making the transition to this kind of farming, some weeding, composting or pruning may be necessary at first, but these measures should be gradually reduced each year. Ultimately, it is not the growing technique which is the most important factor, but rather the state of mind of the farmer."
+
+Fukuoka described this state of mind as a return to a pre-scientific, intuitive relationship
+with nature — not ignorance, but a deep familiarity that arises from years of quiet
+attention. He contrasted this with the anxious, interventionist mindset of modern agriculture,
+where every problem demands a technological solution.
+
+## Key Publications
+
+- *The One-Straw Revolution* (1975, English translation 1978) — Introduced natural farming
+  to the West. A philosophical manifesto as much as a farming manual, it became a
+  counterculture classic read by millions worldwide.
+- *The Natural Way of Farming* (1985) — Expanded the technical details of his method,
+  including the full rice/barley succession calendar and desert revegetation proposals.
 
 ## Related
 

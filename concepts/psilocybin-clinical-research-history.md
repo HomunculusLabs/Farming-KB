@@ -20,8 +20,8 @@ type: concept
 
 The scientific investigation of psilocybin represents one of the most
 remarkable chapters in the history of psychology and pharmacology. From its
-isolation by Albert Hofmann in 1958 through the [[leary-harvard-psilocybin-project]] Project,
-the Good [[good-friday-experiment-marsh-chapel]], and its suppression during the war on drugs,
+isolation by [[albert-hofmann]] in 1958 through the [[leary-harvard-psilocybin-project]] Project,
+the Good [[good-friday-experiment-marsh-chapel]], and its suppression during the [[cervantes-war-on-drugs-statistics]],
 [[early-paris-psilocybin-research-1960s]] has revealed both the profound potential and the
 controversial nature of this naturally occurring compound. The story
 involves pioneering scientists, government agencies, indigenous wisdom, and
@@ -29,7 +29,7 @@ a substance that challenges fundamental assumptions about consciousness.
 
 ## Discovery and Isolation
 
-The modern chapter begins with R. Gordon Wasson, a vice president of J.P.
+The modern chapter begins with R. [[gordon-wasson-comparative-method-ethnomycology]], a vice president of J.P.
 Morgan who spent 30 years creating ethnomycology, the study of the cultural
 and historical use of fungi. Wasson's expeditions to Mexico brought
 knowledge of ceremonial mushroom use to Western attention in 1957. His
@@ -43,7 +43,7 @@ of weapon connotations, was fortuitous: the CIA's MKULTRA program
 (Subproject 58) had also been pursuing the mushroom's active ingredient.
 Had the CIA succeeded first, the substance would likely have received a very
 different name. Sandoz manufactured approximately 2 kg of pure psilocybin
-for scientific research, distributing it to qualified investigators.
+for [[psilocybin-isolation-and-early-scientific-research]], distributing it to qualified investigators.
 
 ## CIA Involvement
 
@@ -57,7 +57,7 @@ abandoned the compound and turned their attention elsewhere.
 ## The Harvard Psilocybin Project
 
 In 1960, the proper scientific investigation of psilocybin began at Harvard
-University's psychology department. Dr. Timothy Leary, an established
+University's psychology department. Dr. [[timothy-leary]], an established
 psychologist, consumed six local Mexican mushrooms during a 1960 visit to
 Cuernavaca, Mexico. The experience was transformative: Leary later wrote
 that in four hours under the influence of psilocybin, he learned more about
@@ -85,45 +85,6 @@ wished to repeat the experience), and no hangovers were reported.
 
 The Good Friday experiment, or "miracle at Marsh Chapel," stands as one of
 the most radical psychological studies ever undertaken. Psychology student
-Walter Pahnke, working for his PhD, arranged a double-blind study with 20
+[[walter-pahnke]], working for his PhD, arranged a double-blind study with 20
 theology students. Half received psilocybin and half received a mildly
 psychoactive placebo. Neither subjects nor experimenters knew who received
-what.
-
-The psilocybin group had mystical religious experiences indistinguishable
-from those reported in religious literature. This was a decidedly
-controversial finding: a naturally occurring substance had been shown
-capable of generating a full-blown mystical experience within religiously
-ripe minds. The implications were enormous, threatening traditional beliefs
-about divine communion.
-
-Despite the heated controversy, Pahnke's thesis was approved, though he
-was not allowed to continue his work and government funding was denied. The
-nature of psilocybin was becoming a threat to established power structures
-in both academia and traditional religious belief.
-
-## Suppression and Legacy
-
-The subsequent frenzy of anti-drug legislation, primarily targeting LSD,
-resulted in restrictions on all [[mckenna-suppression-psychedelic-research-lsd-therapy]] including psilocybin.
-Mind-altering substances were lumped together with physically addictive drugs
-like heroin. Scientific and pharmacological distinctions became irrelevant.
-Pharmacological testing had already revealed psilocybin as perfectly safe
-under controlled conditions, yet an "official mycophobia" became entrenched
-policy that still prevails today.
-
-The Harvard project demonstrated that under favorable conditions, ordinary
-people were able to have inwardly enriching experiences with psilocybin.
-The Good Friday experiment suggested that psilocybin could be used as a
-source of knowledge and wisdom, allowing glimpses of transcendental reality.
-Modern research at institutions like Johns Hopkins has revived this line of
-inquiry, confirming many of the original findings about psilocybin's
-therapeutic and mystical potential.
-
-## Related
-
-- [[hallucinogenic-plants-history-ethnobotany]]
-- [[timothy-leary-harvard-psilocybin-experiments]]
-- [[psilocybin-mushroom-species-identification]]
-- [[bicycle-day-april-1943]]
-- [[tihkal-psilocin-psilocybin-chemistry]]

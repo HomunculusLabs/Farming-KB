@@ -1,5 +1,5 @@
 ---
-title: "[[mushroom-species-sequencing]] in Cultivation"
+title: Mushroom Species Sequencing Cultivation
 source: "Growing Gourmet and Medicinal Mushrooms (Stamets)"
 tags: [mycology, mushroom-cultivation, substrate, species-sequencing, sustainability]
 created: 2026-05-09
@@ -87,59 +87,3 @@ species.
 first species has completed its productive cycle but before the
 substrate dries out or becomes excessively contaminated by ambient
 organisms.
-
-## Practical Sequence Examples
-
-**Oyster to Stropharia**: Oyster mushrooms grown on straw or wood
-chips are followed by wine-cap stropharia on the spent substrate.
-This is one of the most reliable sequences and is well-suited to
-outdoor garden cultivation. The spent oyster blocks or beds are
-broken up and mixed with fresh wood chips before stropharia
-inoculation.
-
-**Shiitake to secondary species**: Spent shiitake sawdust blocks,
-after producing several flushes, can be broken up and used as a base
-for outdoor beds of secondary decomposers. The partially decayed
-hardwood sawdust still contains significant nutrients.
-
-**Multiple sequences**: In theory, three or more species could be
-sequenced on the same substrate, though practical challenges multiply
-with each additional step. The substrate becomes progressively more
-depleted, drier, and more colonized by ambient organisms.
-
-## Economic Benefits
-
-Species sequencing improves the overall biological efficiency of the
-cultivation process. Biological efficiency (BE) is calculated as the
-weight of fresh mushrooms harvested divided by the dry weight of the
-substrate, expressed as a percentage. A single species might achieve
-50-100% BE on a substrate. Adding a second species can push total
-BE to 100-150% or higher, effectively doubling the productive value
-of the same input material.
-
-For commercial operations, this translates directly to increased
-revenue per unit of substrate cost. The second species often requires
-minimal additional investment since the substrate is already prepared
-and partially sterilized by the first species' colonization.
-
-## Environmental Benefits
-
-Extracting multiple mushroom crops from the same substrate reduces
-waste. Spent substrate from single-species cultivation is often
-discarded or composted. With sequencing, more of the substrate's
-nutritional value is converted into edible or medicinal mushroom
-biomass before it enters the compost stream. The final spent
-material is also more thoroughly decomposed, making it a better soil
-amendment with a more stable carbon profile.
-
-## Challenges and Limitations
-
-Species sequencing requires more sophisticated planning and timing
-than single-species cultivation. The grower must manage multiple
-species with different growth parameters and coordinate the transition
-between them. Not all species pair well together — incompatible pairs
-may result in competitive exclusion, poor fruiting, or contamination.
-The additional handling involved in breaking up and re-inoculating
-spent substrate increases labor costs and contamination risk.
-Despite these challenges, species sequencing represents a powerful
-tool for sustainable and profitable mushroom cultivation.

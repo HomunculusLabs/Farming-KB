@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Wild Fruit Trees and Hedges
@@ -86,35 +87,3 @@ These hedges serve multiple simultaneous functions:
 ### The Apple Rose Hedge
 
 In Austria, a particular type of hedge is known as the apple rose hedge, a combination that Holzer considers very suitable for this kind of multi-functional planting. This traditional combination combines the productive and aesthetic qualities of wild roses and small fruiting apples.
-
-## Wild Fruit in the Forest
-
-Holzer sees no reason not to plant fruit trees (cultivated and wild) together in a mixed culture in the forest. In the state of Tirol, authorities actively encourage the introduction of wild fruit trees near Kufstein using the tag line jewels of the forest. If all authorities shared this perspective, many disputes could be avoided.
-
-Planting wild fruit trees in forests increases species diversity and provides additional functions for woodland plots:
-- Food for forest wildlife (deer, wild boar, birds, small mammals)
-- Additional income streams from fruit, nuts, and berries
-- Improved pollination services from the increased nectar and pollen sources
-- Enhanced aesthetic and recreational value of forested areas
-
-## Wild Fruit as Windbreaks
-
-Holzer recommends growing wild fruit in the form of fruit hedges that serve as windbreaks to protect more sensitive cultivated fruit trees. The hedges fulfil many different functions simultaneously -- wind protection, wildlife habitat, food production, and soil stabilisation.
-
-At high altitudes, a windbreak made up of various fruit bushes, fruit trees, and flowering shrubs at different heights is very effective. The varied heights create a graduated wind profile that reduces turbulence and provides protection for a greater distance downwind than a uniform-height planting.
-
-## Bird Conservation Through Wild Fruit
-
-The connection between wild fruit plantings and bird conservation is central to Holzer's philosophy. Birds play a valuable role in controlling the insect population and help to propagate and seed numerous plants. Birds are incredibly useful and beneficial creatures and should be supported by every means available.
-
-The greater the diversity of plant varieties within the hedges, meadows, or forests, the greater the diversity of the yield of fruits and berries. Then a greater variety of insects will also appear. This will ensure a balanced diet. Insectivorous birds like robins and wrens will find a generous buffet and the population of beetles, butterflies, greenflies, and whiteflies will never become large enough to cause damage.
-
-Birds do not need to be fed over winter in a well-designed permaculture system, because they will find enough food amongst the diverse plant life even in winter. The best thing you can do for the birds in your garden is to provide them with good food by not harvesting everything in your permaculture system. Supposedly untidy things like piles of brushwood and thick hedges are well-valued by birds.
-
-See also: [[holzer-livestock-integration]], [[holzer-fruit-growing-marginal-climates]], [[holzer-permaculture-landscape-design]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[holzer-pear-and-apple-pollination-and-harvesting]]
-
-## See Also
-
-- [[holzer-sweet-chestnut-and-nut-trees]]

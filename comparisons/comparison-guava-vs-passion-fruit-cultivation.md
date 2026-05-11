@@ -4,6 +4,7 @@ tags: [guava, passion-fruit, tropical-fruit, subtropical-cultivation, fruit-tree
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "Morton, J. (1987). Guava. In Fruits of Warm Climates. Purdue University."
   - "Morton, J. (1987). Passionfruit. In Fruits of Warm Climates. Purdue University."
   - "Crane, J.H., Balerdi, C.F., & Osborne, M.A. (2021). Guava Growing in the Florida Home Landscape. UF/IFAS Extension EDIS."

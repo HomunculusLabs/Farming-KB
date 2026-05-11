@@ -12,7 +12,7 @@ sources:
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
   - Murphy, D.J. (2017). "Carnivorous Plants of the World." Timber Press.
   - Danser, B.H. (1928). "The Nepenthaceae of the Netherlands Indies." Bulletin de Jardin de Botanique.
-  - McPherson, S.R. (2009). "Pitcher Plants of the datura-metel-old-world-ethnobotany." Redfern Natural History Productions.
+  - McPherson, S.R. (2009). "Pitcher Plants of the [[datura-metel-old-world-ethnobotany]]." Redfern Natural History Productions.
   - Meijer, W. (1997). "Nepenthes of Sumatra." National Parks Board of Singapore.
 ---
 
@@ -28,7 +28,7 @@ N. maxima was one of the first Nepenthes species described by European botanists
 
 Nepenthes maxima was formally described by Nees von Esenbeck in 1824. The specific epithet "maxima" refers to the large size of its pitchers compared to species known at the time.
 
-It belongs to the *Regiae* clade, a group of closely related species that includes N. rajah, N. burkei, and N. mirabilis. Molecular phylogenetic studies confirm its placement within this Southeast Asian radiation.
+It belongs to the *Regiae* clade, a group of closely related species that includes N. rajah, N. burkei, and N. mirabilis. Molecular phylogenetic studies confirm its placement within this [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] radiation.
 
 The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Highland forms from Sulawesi tend to have more elongated pitchers with pronounced wings, while lowland New Guinea forms produce broader, more squat pitchers.
 
@@ -82,33 +82,8 @@ N. maxima is one of the most important parent species in Nepenthes horticulture.
 
 Notable hybrids include N. × maxima (with N. northiana), N. × hookeriana (with N. rafflesiana), and numerous complex crosses such as N. × ventrata (N. ventricosa × N. maxima).
 
-The species is frequently used in breeding programs aimed at combining the cold tolerance of highland species with the heat tolerance of lowland forms. N. maxima itself, with its wide altitudinal range, bridges this gap effectively.
+The species is frequently used in breeding programs aimed at combining the [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] of highland species with the heat tolerance of lowland forms. N. maxima itself, with its wide altitudinal range, bridges this gap effectively.
 
 Commercial [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] has made selected clones widely available. The cultivar N. maxima "Borneo Exotica" is particularly popular for its large, richly colored pitchers.
 
 ## Related Species and Taxonomic Notes
-
-The closest relatives of N. maxima within the *Regiae* clade include N. fusca, N. burbidgeae, and N. tentaculata. These species share similarities in peristome structure and pitcher shape.
-
-N. maxima can be distinguished from N. fusca by its broader pitcher wings, more cylindrical upper pitchers, and typically less elongated tendril attachment. From N. tentaculata, it differs in its considerably larger pitcher size.
-
-The taxonomic status of some New Guinea populations remains unresolved. Certain highland forms approach N. singalana in morphology and may represent introgressed populations or distinct taxa.
-
-## Conservation Status
-
-N. maxima is listed as Least Concern on the IUCN Red List, reflecting its wide distribution and large number of populations. However, specific local populations face increasing pressure.
-
-Habitat loss from agricultural expansion, particularly palm oil plantations in Sulawesi and logging in New Guinea, threatens lowland populations. Highland populations in protected reserves remain relatively secure.
-
-Illegal collection from the wild for the horticultural trade has been documented, particularly for exceptionally colored forms. However, the species is widely propagated in cultivation, which reduces demand for wild-collected plants.
-
-## See Also
-
-- [[nepenthes-bicalcarata]]
-- [[nepenthes-ventricosa]]
-- [[sarracenia-purpurea]]
-- [[cephalotus-follicularis]]
-- [[drosophyllum-lusitanicum]]
-- [[utricularia-vulgaris]]
-- [[byblis-liniflora]]
-- [[drosera-rotundifolia]]

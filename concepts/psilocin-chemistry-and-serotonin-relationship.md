@@ -88,33 +88,3 @@ Chromatographic methods including TLC, GC, and HPLC are required to distinguish 
 Mass spectrometry provides the most reliable means of identification, as the molecular weights and fragmentation patterns of psilocin and serotonin are distinct.
 
 The synthesis of authentic [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] standards, such as that described by Shirota et al., is essential for the calibration of these analytical methods.
-
-Forensic laboratories require these standards for the identification of magic mushrooms in drug seizures and for the detection of psilocin metabolites in biological specimens.
-
-The development of practical synthetic routes to psilocin and psilocybin thus serves both research and law enforcement purposes.
-
-## Therapeutic Implications
-
-The structural and pharmacological relationship between psilocin and serotonin has important implications for the therapeutic use of psilocybin.
-
-The ability of psilocin to modulate serotonin receptor activity makes it a potential therapeutic agent for conditions involving serotonin dysregulation, including depression, anxiety, and obsessive-compulsive disorder.
-
-Clinical trials of psilocybin have shown promising results for the treatment of depression, end-of-life anxiety, and substance use disorders.
-
-The fact that psilocin acts on the same receptor systems as serotonin but produces a different pattern of activation suggests that it may be possible to develop compounds that retain the therapeutic benefits while minimizing the hallucinogenic effects.
-
-Understanding the precise molecular interactions between psilocin and serotonin receptors is essential for rational drug design in this area.
-
-The chemistry of psilocin and its relationship to serotonin thus represents a frontier at the intersection of organic chemistry, neuropharmacology, and clinical medicine.
-
-## See Also
-
-- [[psilocybin-synthesis-shirota-concise-large-scale-method]]
-
-- [[psilocybin-tryptamine-chemistry-fungi]] overview
-
-- serotonin receptor pharmacology
-
-- magic mushroom pharmacology
-
-- psychedelic neuropharmacology overview

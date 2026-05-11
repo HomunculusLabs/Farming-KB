@@ -23,10 +23,10 @@ sources:
 commonly known as bitter turmeric. The specific epithet *amarissima* means "most
 bitter," reflecting the intensely bitter taste of its rhizome.
 
-The species is native to mainland Southeast Asia, occurring in Vietnam, Laos,
+The species is native to mainland [[psilocybe-southeast-asia-pacific]], occurring in Vietnam, Laos,
 Cambodia, and eastern Thailand. It occupies an important position in Vietnamese
 traditional medicine, where its bitter rhizome is prescribed for digestive and
-respiratory conditions.
+[[cannabis-respiratory-conditions]].
 
 C. amarissima is distinguished from other Curcuma species by its strongly bitter
 rhizome, which lacks the characteristic turmeric color of C. longa. Despite its
@@ -77,7 +77,7 @@ powdered for oral administration.
 The species is a documented ingredient in several Vietnamese herbal formulas for
 treating hepatitis, jaundice, and liver disorders. Practitioners combine the
 rhizome with other hepatoprotective herbs such as Phyllanthus amarus and
-Andrographis paniculata.
+[[andrographis-paniculata]].
 
 In Lao traditional medicine, C. amarissima is used as a febrifuge and digestive
 tonic. The bitter rhizome is chewed to relieve nausea and stomach discomfort.
@@ -88,31 +88,3 @@ and minor wounds. A poultice of pounded fresh rhizome is applied to affected
 areas for its anti-inflammatory properties.
 
 ## Bioactive Compounds
-
-Chemical investigations of C. amarissima rhizome have identified bitter
-sesquiterpenes as the principal bioactive constituents. The major compounds
-include isofuranodiene, furanodiene, furanodienone, and curzerenone.
-
-The [[permaculture-designers-manual-essential-oil-plants]] obtained from rhizomes by hydrodistillation contains
-curzerene, germacrone, and linalool as dominant volatile components. Total
-essential oil yield ranges from 0.5 to 1.2% of fresh rhizome weight.
-
-Phenolic compounds present include demethoxycurcumin and bisdemethoxycurcumin,
-though total curcuminoid content is significantly lower than in C. longa. The
-bitter taste is attributed to sesquiterpene lactones rather than curcuminoids.
-
-Antioxidant assays have demonstrated moderate free radical scavenging activity.
-Anti-inflammatory effects have been observed in carrageenan-induced paw edema
-models in rats, supporting the traditional use for inflammatory conditions.
-
-Antibacterial activity has been reported against Gram-positive bacteria,
-including methicillin-sensitive Staphylococcus aureus. The activity is
-concentrated in the sesquiterpene-rich essential oil fraction.
-
-## See Also
-
-- [[curcuma-zedoaria]]
-- [[curcuma-aromatica]]
-- [[curcuma-wenyujin]]
-- [[alpinia-officinarum]]
-- [[scutellaria-baicalensis]]

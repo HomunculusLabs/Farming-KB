@@ -27,7 +27,7 @@ sources:
 
 # Fukuoka Soil Building Method
 
-Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared compost.
+Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, [[cannabis-chemical-fertilizers]], or prepared compost.
 
 ## The Starting Point: Barren Red Clay
 
@@ -70,7 +70,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 - White clover fixes nitrogen, suppresses weeds, retains moisture
 - Result: "The surface layer, rich in humus, has become enriched to a depth of more than four inches during these years"
 
-**Why uncut straw matters**: Agricultural scientists insisted straw must be burned (disease prevention) or chopped and plowed under. Fukuoka broadcast it whole:
+**Why uncut straw matters**: Agricultural scientists insisted straw must be burned ([[cervantes-damping-off-seedling-disease-prevention]]) or chopped and plowed under. Fukuoka broadcast it whole:
 - "Rice straw works well as a mulch for winter grain, and the straw of winter grain works best for the rice"
 - Cross-species mulching prevents disease transmission (rice diseases don't infect barley)
 - "This is only possible with strong, healthy grain" — another reason to avoid chemical-dependent varieties
@@ -107,10 +107,10 @@ Fukuoka's system addresses soil at three depths simultaneously:
 | Year 5-7 | Citrus trees bear first significant fruit; acacia reaches substantial height |
 | Year 7-8 | Clover declines among returning weeds; re-sow clover |
 | Year 10 | Weed succession begins (vines, perennials replace clover) — this is natural and beneficial |
-| Year 20-25 | Surface soil transformed: "loose, dark coloured, and rich with earthworms and organic matter" |
+| Year 20-25 | Surface soil transformed: "loose, dark coloured, and rich with earthworms [[mollison-humus-and-organic-matter-in-soils]]" |
 | Year 25+ | Soil continues improving; yields increase; "The quality of the soil improves with each season" |
 
-"Soil improvement by natural farming takes a long time." Five to ten years to build six inches of topsoil through cover crops alone. "To current economic perceptions, one disadvantage of natural farming methods is that they take too long."
+"Soil improvement by natural farming takes a long time." Five to ten years to build six inches of topsoil through cover crops alone. "To current economic perceptions, one disadvantage of [[cho-poultry-natural-farming-methods]] is that they take too long."
 
 ## The Weed Succession Principle
 
@@ -139,7 +139,7 @@ Fukuoka's innovation: "By sowing vegetable seeds of the same family as the weeds
 
 ## Soil Quality: Natural vs. Scientific Farming
 
-Fukuoka compares 30 years of natural farming with conventional methods:
+Fukuoka compares 30 years of natural farming with [[microwave-sterilization-versus-conventional-methods-comparison]]:
 
 | Criterion | Natural Farming | Scientific Farming |
 |-----------|----------------|-------------------|

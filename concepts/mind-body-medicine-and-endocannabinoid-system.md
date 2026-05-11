@@ -1,5 +1,5 @@
 ---
-title: Mind-Body Medicine and the Endocannabinoid System
+title: Mind Body Medicine And Endocannabinoid System
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,7 +11,7 @@ sources:
 # Mind-Body Medicine and the Endocannabinoid System
 
 The relationship between emotions, consciousness, and the
-endocannabinoid system forms a central thesis of Uwe Blesching's
+endocannabinoid system forms a central thesis of [[uwe-blesching]]'s
 *[[blesching-cannabis-health-index-autoimmune-conditions]]*. Blesching argues that molecules and
 emotions constitute a two-way street: emotional states influence
 neurochemistry including endocannabinoid function, while
@@ -55,12 +55,12 @@ states include:
   formation, and attention. Associated with cognitive engagement
   and mental clarity that supports personal growth and insight.
 
-- **Anandamide (AEA)** — "I am at ease": The body's own
+- **[[anandamide]] (AEA)** — "I am at ease": The body's own
   endocannabinoid, produced on demand and rapidly degraded.
   Associated with feelings of well-being, contentment, and bliss.
   Its name derives from the Sanskrit "ananda" (bliss).
 
-- **Endogenous opioids** — "It feels so good when the pain stops":
+- **[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]** — "It feels so good when the pain stops":
   Endorphins and related peptides that produce analgesia and
   euphoria. Released during exercise, social bonding, and positive
   emotional experiences.
@@ -74,7 +74,7 @@ states include:
   during social interaction, physical touch, childbirth, and
   breastfeeding. Promotes trust, empathy, and social connection.
 
-- **Serotonin** — "I am happy": A key modulator of mood, appetite,
+- **[[serotonin]]** — "I am happy": A key modulator of mood, appetite,
   sleep, and social behavior. Low serotonin is associated with
   depression. Many antidepressants target serotonin reuptake.
 
@@ -87,63 +87,3 @@ emotional states include:
   fight-or-flight response. Increases heart rate, blood pressure,
   and energy availability. Essential for survival but damaging when
   chronically activated.
-
-- **Dopamine** — "I am motivated": Associated with reward-seeking
-  behavior, motivation, and pleasure anticipation. While positive
-  in healthy levels, dysregulated dopamine underlies addiction and
-  compulsive behaviors.
-
-- **Norepinephrine** — "I am attentive!": Mediates alertness and
-  focus. Like epinephrine, essential for acute stress responses but
-  harmful when chronically elevated, contributing to anxiety and
-  insomnia.
-
-- **Cortisol** — "I am stressed": The primary stress hormone,
-  released by the adrenal glands in response to stress. Chronic
-  elevation suppresses immune function, impairs memory, promotes
-  weight gain, and damages cardiovascular health.
-
-- **Glutamate** — "I am excited": The brain's primary excitatory
-  neurotransmitter, essential for learning and neural plasticity.
-  Excess glutamate causes excitotoxicity, damaging neurons.
-
-- **Vasopressin** — "I am aggressive": Involved in social
-  behavior, aggression, and stress responses. Works with
-  oxytocin to modulate social bonding, but promotes defensive
-  and aggressive responses under threat conditions.
-
-## Emotional Intelligence for Healing
-
-Blesching's therapeutic framework integrates emotional intelligence
-with cannabis use through six steps: [[blesching-cannabis-deep-relaxation-healing]] to shift the
-nervous system toward parasympathetic dominance; honest emotional
-ownership without judgment; releasing suppressed emotions that
-maintain chronic stress physiology; transforming unhealthy habits
-(guilt, martyrdom, anger) into healing habits (gratitude, compassion,
-forgiveness); reprogramming limiting beliefs; and finding wisdom in
-illness by moving from victim consciousness toward empowered
-engagement.
-
-## Implications for Cannabis Therapy
-
-This framework suggests that cannabis therapy is most effective when
-combined with intentional emotional and psychological work. The ECS
-provides a biological mechanism through which conscious emotional
-practices can influence physical health, and through which cannabis
-can create physiological conditions favorable to emotional healing.
-Anandamide's role in both bliss and homeostasis exemplifies this
-bridge: practices that promote emotional ease may enhance
-endocannabinoid function, while therapeutic cannabis use may create
-conditions conducive to positive emotional states.
-## See Also
-
-- [[endocannabinoid-system-mind-body-medicine]]
-
-- [[endocannabinoid-system-and-cannabis-pharmacology]]
-- [[cannabis-health-index-scoring-system]]
-- [[anandamide-aea]] · [[blesching-cannabis-health-index-dosage-guidelines-medical]]
-
-## Sources
-
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic
-  Books, Berkeley, CA. ISBN 978-1-58394-962-7.

@@ -2,10 +2,10 @@
 
 ## Overview
 
-Inoculation -- introducing mushroom spore solution into a sterile substrate -- is
+Inoculation -- introducing [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] solution into a sterile substrate -- is
 the pivotal moment in cultivation. Everything preceding it exists to make
 inoculation successful, and everything following it depends on it having been
-performed correctly. D.H. Jarrold's "Indoor Mushroom Growing Technique for the
+performed correctly. D.H. Jarrold's "Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the
 Boil-A-Bag" presents two distinct methods: the short needle method and the long
 needle method. Each has its own procedure, advantages, and practical
 considerations.
@@ -13,14 +13,14 @@ considerations.
 ## The Short Needle Method
 
 The short needle method uses a standard syringe with a relatively short needle --
-the type commonly included with pre-made spore syringes. The cultivator inoculates
+the type commonly included with pre-made [[mushroom-spore-syringes]]. The cultivator inoculates
 the substrate bag by inserting the needle directly through the plastic bag wall at
 a point below the filter level.
 
 ### Preparation and Taping
 
 Because the short needle cannot reach deep into the substrate through the filter
-opening, it must pierce the bag wall, creating a contamination risk. Jarrold
+opening, it must pierce the bag wall, creating a [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]. Jarrold
 addresses this by requiring adhesive tape strips. Before inoculation, tape strips
 are pre-positioned on the bag at the planned injection sites. After the needle is
 withdrawn, the tape is immediately pressed over the puncture to seal it.
@@ -51,7 +51,7 @@ free" than the short needle approach.
 ### How the Filter Can Enables the Long Needle Method
 
 The filter can sits on top of the substrate bag and provides a filtered opening for
-gas exchange during colonization. The cultivator opens the filter can lid, inserts
+[[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] during colonization. The cultivator opens the filter can lid, inserts
 the long needle down through the filter into the substrate, injects the spore
 solution, withdraws the needle, and closes the lid. Because the needle enters
 through the filter can rather than the bag wall, no puncture is made in the bag
@@ -88,53 +88,3 @@ syringe holder creates an airtight connection so solution flows smoothly.
 
 The long needle must be sterilized before use. Because of its length, flame
 sterilization requires passing the entire shaft through the flame, not just the
-tip. Some cultivators supplement with alcohol immersion.
-
-## Spore Solution Preparation
-
-Both methods require a properly prepared spore solution. Jarrold describes the
-process: sterile water is prepared (boiled and cooled, or autoclaved), spores are
-scraped from a spore print into the sterile water, and the suspension is drawn
-into a syringe. The sterile jar used during collection must be oven-sterilized at
-half maximum heat for 30 minutes. The spore print should only be exposed in a
-clean, still-air environment with the cultivator wearing a breathing mask. The
-syringe should be agitated gently before injection to ensure even spore
-distribution; clumped spores lead to uneven inoculation.
-
-## Injection Technique for Both Methods
-
-Regardless of method, certain techniques apply universally. The needle should be
-inserted smoothly and deliberately, without excessive force. The plunger should be
-depressed slowly; rapid injection creates pressure that forces solution back out.
-After delivery, the needle is withdrawn smoothly and the puncture sealed or lid
-closed without delay. Between every injection, the needle is flame-sterilized
-until it glows red-hot, then allowed to cool briefly before the next use.
-
-## Choosing Between Methods
-
-For cultivators with access to a long needle and Jarrold's filter can design, the
-long needle method is the clear choice -- faster, simpler, and introducing fewer
-contamination risks. The short needle method remains viable for those without a
-filter can or long needle materials, producing reliable results with careful
-technique, proper taping, and rigorous hygiene.
-
-## Summary
-
-The choice between methods involves a trade-off between accessibility and
-convenience. The short needle method works with standard equipment but requires
-taping, multiple injection points, and careful technique. The long needle method,
-enabled by the filter can design, offers a single-point, no-puncture approach that
-is easier, faster, and more contamination-resistant. Both succeed when executed
-with proper sterile technique and a well-prepared spore solution.
-
-## Source
-
-Jarrold, D.H. "Indoor Mushroom Growing Technique for the Boil-A-Bag."
-
-## See Also
-
-- [[pf-tek-steam-sterilization-contamination-control-methods]]
-- [[growing-gourmet-mushroom-farm-design-environments]]
-- [[mushroom-training-incubation-management]]
-- [[mycorrhizal-inoculation-guide]]
-- [[mushroom-cultivator-agar-media-formulas]]

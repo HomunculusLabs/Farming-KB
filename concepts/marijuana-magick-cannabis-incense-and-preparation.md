@@ -88,25 +88,3 @@ An alternative to the glass pipe in the same ritual. The joint is perhaps the mo
 ### Vaporizer
 
 Specified for the "Smoke and Mirrors" ritual, with emphasis on allowing sufficient warm-up time before use. The vaporizer produces a cleaner, less combusted form of cannabis intake, which the text frames as vapor rather than smoke. The practitioner visualizes this vapor as "green smoke that is filling your lungs and bringing you natural energy." The vaporizer's technological sophistication contrasts with the ancient ritual structures it serves, illustrating the guide's principle of integrating modern tools into traditional practices.
-
-### Ritual Fire Ignition
-
-In the "Feeding the Flame" ritual, the pipe is lit from the sacred fire itself rather than a lighter or match. Later in the same ritual, the pipe is lit from incense that was itself lit from the fire. This creates a genealogy of flame: the sacred fire begets incense flame begets cannabis flame, each step adding layers of symbolic meaning to the act of smoking.
-
-## Inhalation Technique
-
-The text specifies a consistent inhalation method across smoking rituals: take one puff, inhale for five seconds (or as long as possible), then exhale toward a specific cardinal direction. This directional exhalation is treated as a deliberate act of offering -- the breath carries the herb's essence toward the element being honored. The practice transforms the physiological act of exhaling into a ritual gesture, making the body itself an instrument of worship.
-
-## Grain Alcohol as Ritual Fuel
-
-Everclear or other grain spirits serve multiple roles in the guide's preparations:
-
-### Fire Offering
-
-In the "Feeding the Flame" ritual, approximately one cup of grain alcohol is poured slowly over the sacred fire as an offering. The alcohol represents distilled earth (grain transformed by human craft) and its combustion creates dramatic visual intensification of the ritual space. The practitioner chants "I feed the fire of the earth, I ask you to give me rebirth" while pouring, making the offering a request for personal transformation.
-
-### Cannabis Extraction Medium
-
-Grain alcohol is also the logical medium for [[marijuana-magick-ancient-ritual-use-cannabis]]
-- [[marijuana-magick-historical-witches-and-cannabis]]
-- [[marijuana-magick-scrying-and-divination-cannabis]]

@@ -1,8 +1,8 @@
 ---
-title: "Tryptamine tihkal oral activity mao inhibition and MAO Inhibition"
+title: Tihkal Oral Activity Mao Inhibition
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
-tags: [MAO, oral activity, harmaline, tryptamine, metabolism, pharmacokinetics]
+tags: [MAO, oral activity, [[harmaline]], tryptamine, metabolism, pharmacokinetics]
 type: concept
 updated: 2026-04-26
 ---
@@ -13,7 +13,7 @@ updated: 2026-04-26
 
 The single most important factor determining whether a tryptamine is orally active is its susceptibility to **monoamine oxidase (MAO)** -- an enzyme system that oxidatively deaminates primary and secondary amines, rendering them pharmacologically inactive.
 
-Simple tryptamines like DMT are orally inactive because MAO in the gut and liver efficiently destroys them before they can reach the brain. This is the fundamental pharmacological barrier that explains why [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] developed ayahuasca (combining DMT-containing plants with MAOI-containing plants).
+Simple tryptamines like DMT are orally inactive because MAO in the gut and liver efficiently destroys them before they can reach the brain. This is the fundamental pharmacological barrier that explains why [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] developed [[ayahuasca]] (combining DMT-containing plants with MAOI-containing plants).
 
 ## How MAO Inhibition Works
 
@@ -52,7 +52,7 @@ Modifying the terminal amine with increasingly bulky groups:
 - N-methyl (NMT): not orally active
 - N,N-dimethyl (DMT): not orally active
 - N,N-diethyl (DET): some oral activity at ~300 mg
-- N,N-diisopropyl (DIPT): orally active
+- N,N-diisopropyl ([[dipt]]): orally active
 - N-ethyl-N-isopropyl (EIPT): orally active
 
 However, excessive bulk destroys activity, and the pattern is not perfectly predictable.
@@ -86,24 +86,5 @@ Harmaline alone at 150-500 mg produces significant intoxication, visual disturba
 ## Tryptamines That Are Themselves MAOIs
 
 Some tryptamines are effective MAO inhibitors:
-- **alpha-Methyltryptamine (alpha-MT)**: Effective MAOI, clinically studied as an antidepressant (Indopan in the USSR, Monase in the US)
+- **[[alpha-methyltryptamine]] (alpha-MT)**: Effective MAOI, clinically studied as an antidepressant (Indopan in the USSR, Monase in the US)
 - **alpha,N-DMT**: Effective MAOI
-- **N-Cyclopropyltryptamine**: Potent MAOI, also reported hypoglycemic activity
-- **5-F-alpha-MT**: "Extremely potent monoamine oxidase inhibitor" (though reduced psychedelic activity)
-- **6-Methoxyharmalan**: Effective MAOI, immediate dehydration product of melatonin
-
-## The Pharmahuasca Paradigm
-
-The combination of discrete MAOI compounds with discrete tryptamines ("pharmahuasca") invariably shows properties that neither component can show alone. This is the controlled experimental analogue of the traditional [[harner-amazonian-ayahuasca-preparation-methods]].
-
-## Sources
-
-- TIHKAL Commentary throughout, especially harmaline entry (pp. 2370-2450)
-- TIHKAL Entries on 2-Me-DMT, 2-Me-DET, alpha-O-DMS
-- TIHKAL Entry on alpha-MT (pp. 7206-7225)
-
-## See Also
-
-- [[pihkal-introduction-and-methodology]]
-- [[tryptamine-consciousness-theory]]
-- [[mao-inhibitors-and-psychedelics]]

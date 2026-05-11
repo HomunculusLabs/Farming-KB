@@ -9,7 +9,7 @@ observation that a peculiar tobacco variety, [[chamovitz-maryland-mammoth-photop
 vegetatively to enormous size but refused to flower under the naturally long
 days of a Washington, D.C. summer. Through a series of simple but elegant
 experiments, Garner and Allard demonstrated that the duration of daily light
-exposure controlled the transition from vegetative growth to flowering in
+exposure controlled the transition from [[cannabis-vegetative-growth-stage]] to flowering in
 this and many other plant species. This finding fundamentally transformed
 botanical understanding of plant development and has had lasting implications
 for agriculture, horticulture, and plant biology.
@@ -26,13 +26,13 @@ to flower under normal field conditions. In the field during summer, Maryland
 Mammoth simply continued growing larger without producing any flower buds.
 However, when plants were brought into the greenhouse in the autumn as the
 days shortened, they eventually flowered. This seasonal flowering behavior
-prompted Garner and Allard to investigate whether day length was the
+prompted Garner and Allard to investigate whether [[coleman-persephone-months-winter-day-length]] was the
 controlling factor.
 
 ## Experimental Proof of Photoperiodic Control
 
 Garner and Allard designed experiments to test the hypothesis that day length
-controlled flowering in Maryland Mammoth tobacco. They constructed light-tight
+controlled flowering in [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]. They constructed light-tight
 frames and covered plants for portions of the day to artificially shorten the
 photoperiod during summer. When the daily light exposure was reduced to
 simulate short-day conditions, Maryland Mammoth promptly initiated flowering.
@@ -64,7 +64,7 @@ A critical insight that emerged from subsequent research building on Garner
 and Allard's work was that it is actually the length of the uninterrupted
 dark period, rather than the light period, that plants measure. This was
 demonstrated by Karl Hammer and others who showed that a brief flash of light
-(a "night break") during the dark period could prevent flowering in short-day
+(a "[[night-break-experiments-and-agricultural-light-manipulation]]") during the dark period could prevent flowering in short-day
 plants or promote flowering in long-day plants. For short-day plants like
 Maryland Mammoth, the dark period must exceed a critical duration for the
 floral stimulus to be produced. Interrupting this dark period, even briefly,
@@ -78,7 +78,7 @@ discovery of phytochrome as the molecular photoreceptor responsible.
 The molecular mechanism underlying photoperiodism was not fully elucidated
 until decades after Garner and Allard's discovery, but it centers on the
 pigment protein phytochrome. Phytochrome exists in two interconvertible
-forms: Pr, which absorbs red light (approximately 660 nm), and Pfr, which
+forms: Pr, which absorbs [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] (approximately 660 nm), and Pfr, which
 absorbs far-red light (approximately 730 nm). Exposure to red light converts
 Pr to Pfr, which is the biologically active form. During the dark period, Pfr
 slowly reverts to Pr or is degraded. In short-day plants, flowering is
@@ -88,35 +88,3 @@ Pr back to Pfr, resetting the clock and preventing flowering. This elegant
 molecular mechanism explains the night-break phenomenon and provides the
 biochemical basis for the photoperiodic responses first documented by
 Garner and Allard.
-
-## Agricultural and Horticultural Significance
-
-The discovery of photoperiodism had immediate and lasting practical
-applications in agriculture and horticulture. Greenhouse growers learned to
-manipulate day length using artificial lighting and blackout curtains to
-control flowering in commercially important species. Chrysanthemum growers,
-for example, use blackout shading to induce early flowering for fall markets.
-The understanding of photoperiodism also informed breeding programs, allowing
-breeders to select for photoperiod-insensitive varieties that could be grown
-across wider geographic ranges without concern for day length at the
-cultivation latitude. In [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], photoperiodism is of
-particular importance because most drug-type cultivars are short-day plants
-that require a 12-hour light / 12-hour dark photoperiod to initiate
-flowering, a fact that underpins essentially all indoor cannabis production.
-
-## Related Topics
-
-- [[maryland-mammoth-tobacco-photoperiodism]]
-- [[phytochrome-plant-light-sensing]]
-- [[phototropism-darwin-experiments]]
-- cannabis flowering photoperiod control
-
-## Sources
-
-- Garner, W.W., and Allard, H.A. "Effect of the relative length of day
-  and night and other factors of the environment on growth and reproduction
-  in plants." Journal of [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] (1920).
-- Thomas, B., and Vince-Prue, D. "Photoperiodism in Plants." Academic
-  Press (1997).
-- Chamovitz, D. "What a Plant Knows." Scientific American / Farrar,
-  Straus and Giroux (2012).

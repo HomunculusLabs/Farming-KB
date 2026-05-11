@@ -41,7 +41,7 @@ the DO halogen/alkyl substitution series.
 
 The chlorine atom is lighter than bromine or iodine, correlating with DOC's
 intermediate potency within the DO series. The alpha-methyl group on the
-ethylamine side chain is the defining feature that separates DOC from its
+ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] is the defining feature that separates DOC from its
 phenethylamine counterpart 2C-C, conferring metabolic resistance to MAO
 and dramatically extending duration of action. The molecular weight of DOC
 is approximately 241.73 g/mol.
@@ -67,7 +67,7 @@ amounts before the first dose has fully taken effect.
 
 ## Effects Profile
 
-DOC produces a full-spectrum psychedelic experience. Visual effects include
+DOC produces a full-spectrum [[lsd-psychedelic-experience-guide]]. Visual effects include
 pronounced geometric patterning, color enhancement and shifting, altered
 depth perception, and trailing or afterimage effects. At moderate to high
 doses, the visual field can become significantly transformed with complex
@@ -87,59 +87,3 @@ stimulant component of DOC is notably strong and can contribute to anxiety
 or restlessness, especially during the comedown phase.
 
 ## Shulgin's Commentary
-
-Shulgin documented DOC with his characteristic blend of scientific precision
-and subjective appreciation. He noted that DOC produced "a smooth, clean
-experience" with impressive but manageable visuals. He appreciated its
-place in the DO series as offering substantial psychedelic effects without
-requiring the extreme commitment of DOB or DOI.
-
-He was interested in how the chlorine substituent influenced the
-subjective quality compared to bromine (DOB) and iodine (DOI), observing
-that DOC seemed to produce less visual intensity but a more manageable
-experience overall.
-
-## Pharmacology
-
-DOC acts as a potent agonist at 5-HT2A receptors, with affinity for 5-HT2B
-and 5-HT2C subtypes as well. The chlorine atom's electronegativity creates
-a specific [[tihkal-receptor-binding-serotonin]] profile that distinguishes DOC from its heavier
-halogen counterparts. The alpha-methyl group provides metabolic stability by
-resisting deamination by monoamine oxidase enzymes, resulting in a prolonged
-half-life. Metabolism occurs through aromatic hydroxylation and N-dealkylation
-pathways, though these proceed slowly due to steric hindrance.
-
-## Safety and Harm Reduction
-
-The primary risks with DOC stem from its potency and duration. Measurement
-must be precise, ideally using an analytical balance or volumetric liquid
-dosing, as the difference between a threshold dose and an overwhelming
-dose may be less than 2 milligrams. The 12 to 24-hour duration demands a
-full day of commitment, and users should plan accordingly with no
-responsibilities requiring sober functioning.
-
-The pronounced stimulant effects can be problematic for individuals with
-cardiovascular conditions, anxiety disorders, or sensitivity to
-sympathomimetic compounds. Persistent insomnia following the experience is
-common and can extend the effective duration of the compound's impact on
-the user's life. Harm reduction practices include starting with a low
-test dose, never redosing due to the delayed onset, maintaining adequate
-hydration, and having a calm, supportive environment with an experienced
-sitter.
-
-## Comparison to Related Compounds
-
-Within the DO halogen series, DOC is less potent than DOB (1 to 3 mg vs. 1
-to 2 mg) and DOI (1.5 to 3 mg), but more potent than DOM (3 to 10 mg). Its
-duration of 12 to 24 hours places it between DOM (8 to 14 hours) and DOB/DOI
-(18 to 30 hours). Compared to its phenethylamine parent 2C-C, DOC is
-substantially more potent and dramatically longer-lasting. Against 2C-B,
-DOC produces a more analytical and stimulant-heavy experience with greater
-duration. Many users consider DOC the most versatile and manageable of the
-potent DO compounds.
-
-## See Also
-
-- [[pihkal-doi]]
-- [[2c-c-entity-pihkal]]
-- [[pihkal-cautionary-note-and-legal-context]]

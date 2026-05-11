@@ -12,7 +12,7 @@ source: "uwe-blesching-the-cannabis-health-index"
 Tong-Len (Tibetan for "giving and receiving") is a compassion
 meditation technique taught by the Dalai Lama that reverses the habit
 of avoiding suffering and seeking pleasure. Combined with research on
-vagal tone from the University of North Carolina, these practices
+vagal tone from the University of [[north-carolina-mycodiversity]], these practices
 reveal a measurable mind-body pathway: compassionate emotions increase
 vagal nerve activity, which calms the cardiovascular system and
 optimizes digestion.
@@ -78,7 +78,7 @@ perspective-taking.
 
 The Dalai Lama teaches Tong-Len as a method to strengthen compassion.
 It directly reverses the habitual pattern of avoiding suffering while
-seeking personal pleasure, which is seen as a root cause of
+seeking personal pleasure, which is seen as a [[fukuoka-pine-rot-root-cause]] of
 dissatisfaction and emotional constriction.
 
 ### Step-by-Step Practice
@@ -88,63 +88,6 @@ dissatisfaction and emotional constriction.
 2. On the other side, imagine yourself as self-centered and indifferent
 3. Place a neutral observer version of yourself between the two
 4. Notice where you feel drawn — typically toward the suffering group
-5. Take in their suffering and give love, joy, and healing energy
 
-### Self-Directed Tong-Len
-
-When outward-facing practice feels difficult, turn it inward: take in
-your own present or future suffering (fear, anger, despair) and send
-compassion and forgiveness to yourself. This is the core of Tong-Len:
-receiving suffering and transforming it through compassionate awareness.
-
-## Compassion Chemistry: The Molecular Bridge
-
-The connection between compassion practice and physiological change
-operates through known neurochemical pathways:
-
-### Constricting Pattern (Fear/Hostility)
-Increased cortisol and epinephrine, decreased vagal tone, elevated
-heart rate and blood pressure, suppressed immune function, reduced
-digestive efficiency.
-
-### Expansive Pattern (Compassion/Kindness)
-Increased oxytocin and anandamide, elevated vagal tone, lowered heart
-rate and blood pressure, enhanced immune function, optimized nutrient
-absorption in the gut.
-
-### The Self-Sustaining Spiral
-
-Each compassionate act reinforces the neurochemical basis for future
-compassion. Learning new skills (including emotional skills) produces
-new nerve clusters and connectivity in activated brain regions. By
-making kindness a habit rather than fear or aggression, the brain
-literally rewires itself to default to expansive states.
-
-## Practical Applications
-
-### During Crisis
-Consider compassion for yourself in hostile situations. Ask: Is anger
-helping me think clearly? Is it healthy for my body? Consider the
-crisis as a teacher from which something extraordinary can be learned.
-The compassionate observer perspective creates space between stimulus
-and response, enabling conscious choice rather than automatic reaction.
-
-## The Dalai Lama on Fear
-
-> "If you have fear of some pain or suffering, you should examine
-> whether there is anything you can do about it. If you can, there is
-> no need to worry about it; if you cannot do anything, then there is
-> also no need to worry about it."
-
-This perspective embodies the non-judgmental awareness that both
-Tong-Len and vagal tone research point toward: accepting reality as it
-is while choosing compassionate engagement with it.
-
-## Summary
-
-Tong-Len compassion meditation and vagal tone research converge on a
-single principle: cultivating compassion is not merely a subjective
-experience but produces measurable changes in cardiovascular function,
-brain structure, and neurochemical balance. The upward-spiral dynamic
-means that each practice session strengthens the biological foundation
-
+## See Also
+- [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]

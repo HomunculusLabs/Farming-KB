@@ -6,7 +6,7 @@ tags:
   - meditation
   - consciousness
   - philosophy-of-science
-  - eleusinian-mysteries
+  - [[eleusinian-mysteries]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,7 +18,7 @@ type: concept
 
 ## The Heart of Hofmann's Christian Belief
 
-In the final chapter of LSD: My Problem Child, Hofmann reveals the
+In the [[fukuoka-the-one-straw-revolution-final-chapter]] of LSD: My Problem Child, Hofmann reveals the
 philosophical framework that guided his life's work. He cites the
 Gospel according to John, Chapter 14, where Jesus promises his
 disciples "another Comforter" and "the Spirit of truth" that "the
@@ -64,7 +64,7 @@ human experience. This manifests as an experience of a deeper,
 duality-surmounting reality, and makes this element a basic healing
 principle in therapeutic practice. Not only medicine but wider circles
 of society consider overcoming the dualistic, cleft worldview a
-prerequisite for the recovery and spiritual renewal of occidental
+prerequisite for the recovery and [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] of occidental
 civilization and culture.
 
 ## Meditation as Path to Deeper Reality
@@ -87,53 +87,3 @@ inevitably leads to the inexplicable, primal ground of the universe:
 the wonder, the mystery of the divine, in the microcosm of the atom,
 in the macrocosm of the spiral nebula, in the seeds of plants, in the
 body and soul of people.
-
-## Meditation and Science: Complementary Paths
-
-"Meditation begins at the limits of objective reality, at the farthest
-point yet reached by rational knowledge and perception." Meditation
-does not mean rejection of objective reality; rather it consists of a
-penetration to deeper dimensions. It is not escape into an imaginary
-dream world but seeks the comprehensive truth of objective reality "by
-simultaneous, stereoscopic contemplation of its surfaces and depths."
-
-Hofmann envisions that regular meditation practice could lead to a new,
-deepened reality consciousness that would increasingly become the
-property of all humankind. This could become the basis of a new
-religiosity based not on belief in dogmas but on perception through
-the "spirit of truth," a reading of the creation at first hand, "out
-of the book that God's finger has written" (Paracelsus).
-
-## Sudden Enlightenment vs. Gradual Transformation
-
-The transformation of the objective worldview into a deepened religious
-reality consciousness can be accomplished gradually through meditation
-practice, or it can come about as a sudden enlightenment, a visionary
-experience that is "particularly profound, blessed, and meaningful."
-Yet such mystical experience may "not be induced even by decade-long
-meditation," as Staehelin writes, and it does not happen to everyone,
-although the capacity for mystical experience belongs to the essence
-of human spirituality.
-
-## LSD as Sacred Drug
-
-At Eleusis, the mystical vision could be arranged at a prescribed place
-and time for all who were initiated. This was possible because a
-[[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] was used. The characteristic property of
-hallucinogens, to suspend the boundaries between self and outer world
-in an ecstatic experience, makes it possible to evoke a mystical
-experience "according to plan" after suitable preparation. Hofmann's
-final statement encapsulates his ultimate vision: "I see the true
-importance of LSD in the possibility of providing material aid to
-meditation aimed at the mystical experience of a deeper, comprehensive
-reality. Such a use accords entirely with the essence and working
-character of LSD as a sacred drug."
-
-## Related Topics
-
-- [[hofmann-mind-matter-forbidden-transgression]] for Hofmann's views on the
-  relationship between mind and matter
-- [[the-road-to-eleusis-wasson-hofmann-ruck]] for the Eleusinian
-  Mysteries hypothesis
-- [[lsd-pharmacology]] for the pharmacological basis of
-  mystical-type experiences

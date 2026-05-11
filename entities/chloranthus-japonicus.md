@@ -87,36 +87,3 @@ The species prefers partial to full shade and moist, humus-rich soil. It is cold
 Established plants are relatively low-maintenance and long-lived. Individual clumps can persist for decades in stable garden conditions, slowly expanding through rhizomatous growth.
 
 Propagation is primarily by division of rhizomes in early spring or early autumn. [[jeavons-seed-propagation-techniques]] is possible but slow, with germination requiring cold stratification for 2–3 months.
-
-The plant spreads gradually by rhizomatous growth, forming loose clumps over time. It is not invasive and combines well with other shade-tolerant perennials such as hostas, ferns, and epimediums.
-
-In traditional Japanese garden design, the species is valued for its quiet elegance and association with mountain forest landscapes. The white flower spikes contrast attractively with the dark green foliage.
-
-In traditional Kampo medicine, the whole plant has been used occasionally as a diuretic and anti-inflammatory agent. However, these uses are minor compared to the species' ornamental significance, and pharmacological research on this particular species is limited.
-
-The genus has attracted attention from phytochemists studying primitive angiosperm secondary metabolism. Lignans and sesquiterpenoids isolated from *Chloranthus* species have shown various biological activities in laboratory studies.
-
-## Conservation Status
-
-*Chloranthus japonicus* is not considered threatened at the species level. It has a wide distribution across Japan, Korea, and China with stable populations in many protected forest areas.
-
-However, local populations have declined in lowland areas of Japan due to urbanization and forest conversion. The species is more secure in montane forests that have retained their natural character.
-
-Climate warming may pose a long-term threat by shifting suitable habitat upward in elevation and northward in latitude. Species with narrow thermal tolerances in montane habitats are particularly vulnerable to range contraction under warming scenarios.
-
-The genus *Chloranthus* as a whole is of significant scientific interest due to its phylogenetic position near the base of the angiosperm tree of life. Conservation of the genus provides opportunities for studying early angiosperm evolution.
-
-## See Also
-
-- [[chloranthus-oldhamii]]
-
-- [[chloranthus-spicatus]]
-- [[saururus-cernuus]]
-- [[houttuynia-cordata]]
-- [[asarum-canadense]]
-- [[asarum-europaeum]]
-- [[asarum-heterotropoides]]
-- [[lindera-benzoin]]
-- [[lindera-obtusiloba]]
-- [[sassafras-albidum]]
-- [[cinnamomum-camphora]]

@@ -1,5 +1,5 @@
 ---
-title: "[[thermal-composting-vs-aact]] — Process Standards and Microbial Biology"
+title: Ingham Thermal Compost Process Standards
 source: "elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com"
 source_author: "Elaine R. Ingham"
 topics: ["composting", "thermal-compost", "soil-food-web", "microbiology", "organic-farming"]
@@ -88,58 +88,3 @@ Turning serves multiple purposes: redistributes oxygen throughout the pile, equa
 
 - All starting materials must be documented for each batch
 - Feedstock quality directly affects compost biology
-- A mix of green (nitrogen-rich) and brown (carbon-rich) materials provides balanced nutrition for decomposer organisms
-
-### Paper and Cardboard
-
-Paper and cardboard are cellulose-based materials that help support fungal growth. Most modern inks are soy-based and safe for composting. Cardboard has longer fibers and is less refined than paper. Shredding paper/cardboard accelerates decomposition, while layering cardboard as sheets can help block sunlight from weed seeds.
-
-### Mushroom Compost
-
-Mushroom compost (spent substrate) requires careful evaluation—it is typically high in peat, sometimes high in sawdust, salts, and antibiotics, and has a wide C:N ratio. It may immobilize nitrogen, causing plant stunting. Inoculation with diverse beneficial fungi and addition of fungal foods (fish hydrolysate, oatmeal, seed meals) is recommended.
-
-### Wood Chips
-
-Wood chips require nitrogen sources and microbial inoculation. Combined with worm castings, microorganisms rapidly immobilize nitrogen from urea. Weekly compost tea applications to wood chip piles accelerate decomposition. The combination of carbon (wood) + nitrogen + biology creates productive compost quickly.
-
-## Compost Quality for Tea Brewing
-
-The quality of compost directly determines the quality of compost tea. Key considerations:
-
-- **Better compost = less compost needed**: High-quality compost with diverse, active biology requires smaller volumes per brew
-- **Amount varies by machine**: Compost volume requirements depend on brewer design (bag type, aeration method, pump type)
-- **Machine-specific calibration**: Consult manufacturer recommendations based on their testing data
-- **Bag type matters**: Single-layer nylon bags typically need less compost than woven/pressed fabric bags or baskets with tiny holes
-
-## Finished Compost Standards
-
-A mature, high-quality compost should meet these benchmarks:
-
-| Parameter | Target Range |
-|-----------|-------------|
-| Total bacteria | Adequate for intended use |
-| Active bacteria | <10% activity indicates mature compost |
-| Total fungi | Matched to plant requirements |
-| Active fungi | <10% activity in mature compost |
-| Flagellates | 25,000+/g dry weight |
-| Amoebae | 25,000+/g dry weight |
-| Ciliates | 50-100/g dry weight (higher = anaerobic issue) |
-| [[ingham-beneficial-nematodes-soil-food-web]] | 20-100/g dry weight |
-| Root-feeding nematodes | Zero |
-| Fungal:bacterial ratio | Matched to plant successional stage |
-
-## Record-Keeping Requirements
-
-For each batch of thermal compost, document:
-
-1. Starting materials used
-2. Daily temperature readings (multiple probe locations)
-3. Turning times and dates
-4. End moisture content
-5. Daily CO₂ or O₂ data
-6. Chemistry and pathogen testing results meeting applicable standards
-7. Intended use and matching of fungal:bacterial ratio to plant requirements
-
-## Key Principle
-
-Making good compost is an art because each batch of starting materials is different. The composter must adjust the process for differences in feedstock composition, particle size, moisture content, and ambient conditions. The biological content—not just chemical analysis—determines compost quality and its suitability for compost tea production.

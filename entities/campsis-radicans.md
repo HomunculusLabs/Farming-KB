@@ -87,25 +87,3 @@ Control of established trumpet vine requires persistent effort. Mechanical remov
 Herbicide application using triclopyr or glyphosate is effective when applied to cut stems or foliage. Follow-up treatments are typically necessary, as the root system can persist and resprout for several years.
 
 Gardeners should consider planting trumpet vine in contained areas with root barriers to prevent unwanted spread. Regular monitoring and prompt removal of suckers help maintain control in cultivated settings.
-
-## Cultivars and Hybrids
-
-The hybrid *Campsis × tagliabuana* (C. radicans × C. grandiflora) combines the hardiness of the American species with the larger flowers of the Chinese species. The cultivar 'Madame Galen' is the most widely grown selection.
-
-'Flava' is a yellow-flowered form of *C. radicans* that is less aggressive than the typical orange-flowered form. It provides a softer color option for gardeners seeking a less vigorous selection.
-
-'Praecox' flowers earlier than the species type, extending the blooming season in cooler climates. These cultivars share the vigorous growth habit and hummingbird appeal of the species.
-
-## See Also
-
-- [[parthenocissus-tricuspidata]]
-- [[humulus-lupulus]]
-- [[ceanothus-thyrsiflorus]]
-- crataegus-monogyna
-- [[salvia-officinalis]]
-- [[vaccinium-angustifolium]]
-- [[vitis-labrusca]]
-- [[lavandula-angustifolia]]
-- rosmarinus officinalis
-- [[allium-tricoccum]]
-- [[medicago-sativa]]

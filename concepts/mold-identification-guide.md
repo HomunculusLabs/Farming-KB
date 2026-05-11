@@ -9,14 +9,14 @@ sources: []
 
 # Mold Identification Guide
 
-Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota. (see [[fungal-allergies]]).
+Molds are rapidly growing, [[environmental-sensing-filamentous-fungi-read]] that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
 
 ## Understanding Mold Growth
 
 ### Conditions for Growth
 Mold requires four things to grow:
 1. Moisture: the most critical factor; most molds need water activity (aw) above 0.65
-2. Food source: cellulose (wood, paper, drywall), organic matter, dust
+2. Food source: cellulose (wood, paper, drywall), [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], dust
 3. Temperature: most molds grow between 4-38 C, with optimal range 20-30 C
 4. Oxygen: virtually all molds are aerobic
 
@@ -35,7 +35,7 @@ Mold requires four things to grow:
 
 ### Aspergillus
 
-One of the most important genera in indoor environments and the [[ascomycete-phylum-guide|Ascomycete]] phylum.
+One of the most important genera in indoor environments and the [[ascomycete-phylum-guide]] phylum.
 
 #### Common Indoor Species
 - A. niger: black spores, common on decaying vegetation, produces ochratoxin in some conditions
@@ -52,11 +52,11 @@ One of the most important genera in indoor environments and the [[ascomycete-phy
 
 ### Penicillium
 
-Closely related to Aspergillus, found in soil, decaying vegetation, and indoor environments. (see [[fungal-biodiversity-built-environments-indoor-mycobiome]]).
+Closely related to Aspergillus, found in soil, decaying vegetation, and indoor environments.
 
 #### Common Indoor Species
 - P. chrysogenum: the original penicillin producer, very common indoors
-- P. brevicompactum: frequently found on damp building materials
+- P. brevicompactum: frequently found on damp [[gadd-fungal-biodegradation-concrete-building-materials]]
 - P. expansum: causes blue mold of fruits, produces patulin
 - P. citrinum: produces citrinin (nephrotoxic)
 
@@ -69,7 +69,7 @@ Closely related to Aspergillus, found in soil, decaying vegetation, and indoor e
 
 ### Stachybotrys chartarum (Black Mold)
 
-The most notorious indoor mold, often called "toxic black mold" in media. (see [[cladosporium-herbarum]]).
+The most notorious indoor mold, often called "toxic black mold" in media.
 
 #### Key Facts
 - Requires sustained high moisture (water activity above 0.93) to grow
@@ -112,19 +112,19 @@ Common outdoor mold, frequent indoor contaminant.
 Indicator mold for chronic water damage.
 
 - Cottony white colonies that turn gray to olive-brown
-- Produces distinctive perithecia (small, dark, flask-shaped fruiting bodies) visible to the naked eye
+- Produces distinctive perithecia (small, dark, flask-shaped [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]) visible to the naked eye
 - Often found on water-damaged drywall, paper, and cellulose materials
 - Some species produce mycotoxins (chaetoglobosins)
 - Presence usually indicates prolonged moisture problem
 
 ### Trichoderma
 
-Fast-growing green mold, often found on water-damaged building materials.
+Fast-growing [[growing-gourmet-trichoderma-green-mold-management]], often found on water-damaged [[natural-building-materials-guide]].
 
 - Bright green, rapidly spreading colonies
 - Some species are aggressive colonizers of other fungi
 - T. harzianum is used as a biocontrol agent against plant pathogens
-- Can cause opportunistic infections in immunocompromised individuals
+- Can cause [[blesching-cannabis-aids-opportunistic-infections]] in immunocompromised individuals
 - Common in soil and on decaying wood
 
 ### Mucor and Rhizopus

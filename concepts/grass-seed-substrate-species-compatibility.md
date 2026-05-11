@@ -88,13 +88,3 @@ grass seed is sold as bird feed often offer the best prices.
 
 Different varieties of grass seed, and even different batches of the same
 variety, can differ greatly in their ability to absorb water. This variability
-has direct implications for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and culture success. Excess
-water produces a slimy clump leading to anaerobic conditions and high
-contamination risk, while insufficient water results in little or no
-mushrooms or sclerotia.
-
-## See Also
-
-- [[sclerotia-production-grass-seed-jar-method]]
-- [[grass-seed-substrate-water-absorption-variability-and-calibration]]
-- [[species-specific-flush-patterns-psilocybe-panaeolus-grass-seed]]

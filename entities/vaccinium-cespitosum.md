@@ -9,8 +9,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
-  - Hitchcock, C.L. & Cronquist, A. (1959). "Vaccinium." In Vascular Plants of the Pacific Northwest, Part 4, University of Washington Press.
+  - Hitchcock, C.L. & Cronquist, A. (1959). "Vaccinium." In Vascular Plants of the [[psilocybin-north-america-pacific-northwest]], Part 4, University of Washington Press.
   - Vander Kloet, S.P. & Dickinson, T.A. (2009). "A Subgeneric Classification of the Genus Vaccinium and the Metamorphosis of V. section Bracteata." Botanical Review, 75(4), 423–466.
   - USDA NRCS (2024). "Vaccinium cespitosum Michx. — Dwarf Blueberry." PLANTS Database.
 ---
@@ -19,7 +20,7 @@ sources:
 
 **Vaccinium cespitosum** Michx., commonly known as the dwarf blueberry or dwarf bilberry, is a low-growing deciduous shrub in the family Ericaceae.
 
-It is native to subarctic and alpine regions of North America, ranging from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]], with extensions into the Rocky Mountains and Sierra Nevada.
+It is native to subarctic and alpine regions of [[guzman-psilocybin-mushrooms-north-america]], ranging from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]], with extensions into the Rocky Mountains and Sierra Nevada.
 
 The species forms dense mat-like colonies through extensive rhizomatous growth, carpeting subalpine meadows and rocky barrens at high elevations.
 
@@ -59,7 +60,7 @@ The species is remarkably cold-tolerant, surviving winter temperatures below −
 
 ## Ecology
 
-Dwarf blueberry flowers are visited by bumblebees and solitary bees adapted to cold alpine conditions with short flight seasons.
+Dwarf blueberry flowers are visited by bumblebees and [[comparison-honey-bees-vs-native-solitary-bees]] adapted to cold alpine conditions with short flight seasons.
 
 The [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form provides thermal insulation and reduces wind exposure, allowing the species to thrive above treeline.
 
@@ -71,7 +72,7 @@ The rhizomatous root system stabilizes soils on steep mountain slopes and helps 
 
 The species readily colonizes disturbed sites including avalanche paths, burned areas, and glacial moraines.
 
-It commonly co-occurs with *Vaccinium scoparium*, *Vaccinium membranaceum*, and *Vaccinium deliciosum* in western subalpine communities.
+It commonly co-occurs with *[[vaccinium-scoparium]]*, *[[vaccinium-membranaceum]]*, and *[[vaccinium-deliciosum]]* in western subalpine communities.
 
 ## Edibility and Culinary Use
 
@@ -86,36 +87,3 @@ The small berry size limits commercial harvesting potential, but the species is 
 Dried berries were a trade item among Interior Salish and other Plateau peoples, often mixed with other dried fruits and meat to make pemmican.
 
 Modern interest in the species includes its potential as a source of cold-hardy genetics for blueberry breeding programs.
-
-## Cultivation
-
-*Vaccinium cespitosum* is not widely cultivated commercially but is of interest as an ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]] for rock gardens and alpine plantings.
-
-It requires full sun to partial shade, acidic soil (pH 4.0–5.5), and excellent drainage, making it suitable for trough gardens and raised beds.
-
-Propagation is achieved through division of rhizomatous mats or from seed, with cold stratification required for germination.
-
-The species is extremely cold-hardy (USDA zones 2–7) and tolerates exposure and wind better than most cultivated blueberries.
-
-Pest pressure is generally low in cultivation due to its compact growth habit and alpine adaptation.
-
-It does not produce high fruit yields in cultivation compared to lowbush or highbush blueberries, limiting its commercial potential.
-
-The primary horticultural value of the species lies in its genetics for [[coleman-cold-hardiness-testing-ratings]], compact form, and adaptation to mineral soils.
-
-## See Also
-
-- [[vaccinium-membranaceum]]
-- [[vaccinium-deliciosum]]
-- [[vaccinium-scoparium]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-uliginosum]]
-- [[vaccinium-angustifolium]]
-- arctostaphylos-uva-ursi
-- [[gaultheria-shallon]]
-- [[kalmia-angustifolia]]
-- [[vaccinium-ovatum]]
-- [[vaccinium-arboreum]]
-- [[vaccinium-pallidum]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-macrocarpon]]

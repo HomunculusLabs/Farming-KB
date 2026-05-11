@@ -6,18 +6,18 @@ tags:
   - rutaceae
   - medicinal-plants
   - tcm
-  - permaculture
-  - berberine
+  - [[permaculture]]
+  - [[berberine]]
   - bark-medicine
   - nitrogen-fixing
-  - agroforestry
+  - [[agroforestry]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Jiangsu New Medical College (1977). Encyclopedia of Traditional Chinese Medicine. Shanghai People's Publishing House.
   - Kubo M, Matsuda H, Tani T, et al. (1994). "Studies on Phellodendri cortex. V. Antibacterial principles of Phellodendri cortex." Planta Medica 60(6): 513-516.
   - Kim DH, Kim BR, Kim JY, Jeon YD (2016). "Anti-inflammatory effects of Phellodendron amurense bark on lipopolysaccharide-activated microglia." Molecular Medicine Reports 14(6): 5347-5354.
-  - Li WL, Zheng HC, Bukuru J, De Kimpe N (2004). "Natural medicines used in the traditional Chinese medical system for therapy of diabetes mellitus." Journal of Ethnopharmacology 92(1): 1-21.
+  - Li WL, Zheng HC, Bukuru J, De Kimpe N (2004). "Natural medicines used in the traditional Chinese medical system for therapy of [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]." Journal of Ethnopharmacology 92(1): 1-21.
 created: 2026-04-28
 ---
 
@@ -88,30 +88,3 @@ isolated compounds, consistent with the polypharmacological approach of TCM.
 
 In TCM, Phellodendri Cortex is classified as bitter, cold, and entering the
 kidney and bladder meridians. Primary indications include damp-heat in the
-lower jiao (dysentery, urinary tract infections, leukorrhea), kidney Yin
-deficiency with empty fire, and jaundice.
-
-Modern applications leverage berberine for metabolic disorders, gastrointestinal
-infections, and inflammatory conditions. Standardized bark extracts are
-available as dietary supplements. The wood is valued for fine cabinetry and
-turnery.
-
-## Permaculture and Agroforestry Applications
-
-*P. amurense* serves multiple functions in designed ecosystems. Its deep
-taproot system stabilizes soil on slopes and accesses subsoil nutrients. As
-a member of Rutaceae, it contributes aromatic [[dighton-fungal-decomposition-leaf-litter-dynamics]] that may repel
-certain insect pests.
-
-The tree provides shade, windbreak function, and wildlife habitat. Its
-tolerance of cold climates extends the range of berberine-producing species
-into temperate agroforestry systems. The yellow inner bark offers a
-sustainable source of berberine for small-scale herbal production.
-
-## See Also
-
-- [[mahonia-aquifolium]]
-- [[berberis-vulgaris]]
-- [[sanguinaria-canadensis]]
-- [[glycyrrhiza-glabra]]
-- [[azadirachta-indica]]

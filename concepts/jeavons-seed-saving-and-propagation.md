@@ -1,7 +1,7 @@
 ---
 title: comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques and jeavons-seed-propagation-techniques
 created: 2026-04-26
-author: John Jeavons
+author: [[john-jeavons]]
 sources: How to Grow More Vegetables, 8th edition
 book: How to Grow More Vegetables
 tags: [biointensive, seed-propagation, seed-saving, seedlings, transplanting, open-pollinated]
@@ -15,7 +15,7 @@ The goal of seed propagation in the [[jeavons-grow-biointensive-method-overview]
 
 ## Open-Pollinated Seeds
 
-GROW BIOINTENSIVE emphasizes the use of open-pollinated seeds to preserve genetic diversity. This contrasts with hybrids, which often produce foods of lower nutritive value, use up nutrients from soil at a more rapid rate, and cannot be reliably saved for future planting. Open-pollinated varieties allow gardeners to save their own seeds, reducing dependency on external sources.
+GROW BIOINTENSIVE emphasizes the use of open-pollinated seeds to preserve [[biodiversity-fungal-genetic-diversity]]. This contrasts with hybrids, which often produce foods of lower nutritive value, use up nutrients from soil at a more rapid rate, and cannot be reliably saved for future planting. Open-pollinated varieties allow gardeners to save their own seeds, reducing dependency on external sources.
 
 ## Seed Planting Fundamentals
 
@@ -60,10 +60,10 @@ Compost for flat soil should be passed through a sieve of 1/2-inch or 1/4-inch w
 
 Depending on weather:
 - Greenhouse or miniature greenhouse in cold weather
-- [[comparison-cold-frame-gardening-vs-container-gardening-guide]] for 2 days before transplanting in cold weather (hardening off)
+- [[comparison-cold-frame-gardening-vs-container-gardening-guide]] for 2 days before transplanting in cold weather ([[hamilton-cold-frames-and-hardening-off]])
 - Open for 2 more days to complete hardening off
 - Open during warm/hot weather
-- Shade to slow growth in hot weather
+- Shade to [[holmgren-long-rotation-forestry-slow-growth]] in hot weather
 
 ## Pricking Out (Transplanting Between Flats)
 
@@ -87,42 +87,3 @@ Seedlings are ready to prick out after cotyledons appear and before roots are to
 ## Transplanting to Beds
 
 ### Advantages of Transplanting Over Direct Sowing
-
-1. **Better use of bed space** — While seeds germinate in flats, something else grows in the bed.
-2. **Guaranteed germination** — No gaps from failed seeds.
-3. **Even spacing** — Random broadcast seeds lead to uneven spacing.
-4. **Living mulch** — Evenly spaced plants cover and protect soil, creating a good miniclimate.
-5. **Growth stimulation** — Transplanting into a fluffy, aerated, composted bed provides a "second meal."
-6. **Water efficiency** — Seedlings in a flat require only 1/2 gallon per day vs. 10-20+ gallons per 100 sq ft for beds.
-
-### Transplanting Technique
-
-- Handle seedlings gently, touching as little as possible. Hold by leaf tips or soil around roots.
-- Separate a 4-inch-square section from the flat with a hand fork.
-- Place seedling in a hole large enough to bury up to the first true leaves.
-- Spread out root-bound roots in all directions.
-- Water after transplanting to settle soil, eliminate air spaces, and provide moisture.
-- Optimal time: early evening for moderate weather conditions.
-- In hot weather, shade newly transplanted seedlings with 30% [[jeavons-shade-netting-mini-greenhouses]] for several days.
-
-### Spotting
-
-Save surplus seedlings in flats for 10 days after transplanting to fill in holes where seedlings died. This maintains the miniclimate.
-
-## Planting by the Phases of the Moon
-
-Root growth is stimulated more during the third quarter of each 28-day period, and leaf growth during the second quarter, in accordance with lunar phases.
-
-## Seed Saving Considerations
-
-- Grow open-pollinated varieties for reliable seed saving
-- Maintain isolation distances between varieties of the same species to prevent cross-pollination
-- Select seeds from the healthiest, most vigorous plants
-- Properly dry and store seeds in cool, dry conditions
-- Refer to resources like Seed Savers Exchange and Suzanne Ashworth's Seed to Seed for detailed variety-specific instructions
-
-## See Also
-
-- [[home-garden-seed-saving]]
-- [[jeavons-garden-planning-mini-farm-design]]
-- [[jeavons-grow-biointensive-method-overview]]

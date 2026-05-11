@@ -19,7 +19,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Green, J. (2003). "The Cannabis Grow Bible." Green Candy Press.
+  - "raw/papers/marijuana-horticulture-cervantes.md"
+  - Green, J. (2003). "The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]." Green Candy Press.
   - Rosenthal, E. (2010). "Marijuana Grower's Handbook." Quick American Archives.
   - Sensi Seeds (2024). "Big Bud — Strain Profile." sensiseeds.com.
   - AllBud (2024). "Big Bud Strain Information." allbud.com.
@@ -31,13 +32,13 @@ created: 2026-04-28
 
 Big Bud is a classic indica-dominant cannabis strain renowned for its exceptional yield potential, making it one of the most commercially significant strains in the history of [[query-how-does-no-till-cannabis-cultivation-work]]. Originally developed in the United States during the 1980s from Afghani genetics, it was stabilized and popularized by Sensi Seeds of the Netherlands.
 
-The strain earned its name from its massive, dense colas that can reach extraordinary sizes under optimal growing conditions. It remains a staple for commercial growers seeking maximum output and has served as a genetic parent for numerous high-yielding hybrid varieties.
+The strain earned its name from its massive, dense colas that can reach extraordinary sizes under optimal growing conditions. It remains a staple for commercial growers seeking maximum output and has served as a genetic parent for numerous high-yielding [[cervantes-hybrid-varieties-types]].
 
 ## Lineage
 
 Big Bud is an indica-dominant hybrid derived primarily from **Afghani** landrace genetics, with additional Skunk #1 influence introduced during its stabilization phase in the Netherlands. The exact breeder of the original American cut is unknown, but the strain was brought to Amsterdam in the 1980s and refined by Sensi Seeds' [[cervantes-breeding-program-design-goal-setting]].
 
-Genetic ratio is approximately **85% indica / 15% sativa**. The Afghani parentage contributes the heavy resin production, compact structure, and sedative effects, while the Skunk influence adds vigor, disease resistance, and a slight elongation of the flowering period.
+Genetic ratio is approximately **85% indica / 15% sativa**. The Afghani parentage contributes the heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], compact structure, and sedative effects, while the Skunk influence adds vigor, disease resistance, and a slight elongation of the flowering period.
 
 Big Bud has been used as a parent strain for several notable crosses, most significantly **Critical Mass** (Big Bud × Skunk #1 × Afghani), which inherited and enhanced the yield characteristics.
 
@@ -78,7 +79,7 @@ While not the highest-THC strain by modern standards, Big Bud delivers potent ef
 
 Big Bud produces classic indica effects: a deep physical relaxation that begins in the body and progresses to heavy sedation. Onset is relatively fast, with initial cerebral warmth transitioning into a full-body stone within 30–60 minutes.
 
-Common effects include physical heaviness, couch-lock, increased appetite, and eventual sleepiness. The strain is well-suited for evening or nighttime use. Medical applications include chronic pain management, insomnia, muscle spasm relief, and appetite stimulation.
+Common effects include physical heaviness, couch-lock, increased appetite, and eventual sleepiness. The strain is well-suited for evening or nighttime use. [[oner-sativa-medical-applications]] include [[cannabis-chronic-pain-management]], insomnia, muscle spasm relief, [[cannabis-for-cachexia-and-appetite-stimulation]].
 
 The cerebral component is minimal — users report mild euphoria and mood elevation but little in the way of creative or energetic stimulation. Anxiety and paranoia are uncommon at moderate doses, making it a good choice for anxiety-sensitive consumers.
 
@@ -87,27 +88,3 @@ The cerebral component is minimal — users report mild euphoria and mood elevat
 Big Bud is prized by commercial growers primarily for its **extraordinary yield potential**. Indoor yields of 500–650 g/m² are achievable under optimal conditions, with outdoor plants producing 500–1000 g each. The strain responds well to all [[cervantes-growing-mediums-comparison]] including soil, hydroponics, and coco fiber.
 
 **Flowering time:** 8–9 weeks indoors.
-
-**Height:** Medium-tall (100–150 cm indoors), with significant stretch during early flowering.
-
-The heavy colas require structural support — bamboo stakes, netting, or SCROG systems are essential. The dense bud structure makes the strain susceptible to bud rot (Botrytis cinerea) in humid environments, requiring good airflow management and [[cervantes-humidity-control-dehumidification]] during late flowering.
-
-Difficulty is rated as moderate. The strain is resilient and forgiving of minor nutrient fluctuations but demands attention to structural support and [[stamets-cultivator-humidity-management-fogging-systems]]. It is not recommended for humid outdoor climates without preventive fungicide measures.
-
-## See Also
-
-- [[god-bud]]
-
-- [[white-widow-entity]]
-- [[afghan-kush]]
-- [[blue-dream]]
-- [[jack-herer]]
-- THC
-- CBD
-- cannabinoid
-- [[beta-caryophyllene]]
-- [[cannabis-living-soil-guide]]
-- flowering
-- [[girl-scout-cookies]]
-- [[gelato]]
-- [[runtz-entity]]

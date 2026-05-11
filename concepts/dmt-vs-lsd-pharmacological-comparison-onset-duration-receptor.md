@@ -25,8 +25,8 @@ produce radically different experiential qualities.
 - **Duration**: 5-15 minutes when smoked; 30-60 minutes IM
 - **Elimination**: Rapidly metabolized by monoamine oxidase (MAO-A)
   in the liver and lungs
-- **Route limitation**: Orally inactive without MAO inhibition
-  (the basis of ayahuasca pharmacology)
+- **Route limitation**: Orally inactive without [[tihkal-oral-activity-mao-inhibition]]
+  (the basis of [[ayahuasca-pharmacology]])
 
 ### LSD (Lysergic Acid Diethylamide)
 - **Onset**: 30-90 minutes
@@ -45,7 +45,7 @@ sensitization.
 ## Receptor Pharmacology
 
 ### DMT
-- Primary agonist at 5-HT2A serotonin receptors (the canonical
+- Primary agonist at 5-HT2A [[psilocybin-pharmacology-and-serotonin-receptors]] (the canonical
   psychedelic receptor)
 - Also binds to 5-HT1A, 5-HT2C, sigma-1, and TAAR receptors
 - Endogenous compound found in mammalian brain tissue in trace
@@ -86,58 +86,5 @@ but the **quality of consciousness** each compound evokes:
 
 ## The Logos Quality
 
-McKenna emphasized that "psilocybin and DMT invoke the Logos, although
+McKenna emphasized that "[[psilocybin]] and DMT invoke the Logos, although
 DMT is more intense and more brief in its action." By "Logos" he meant
-direct activation of language and meaning-processing centers, producing
-an experience dominated by interior dialogue, [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]],
-and the sense of encountering a communicative intelligence. This
-Logos-invoking quality is, in his view, unique to the tryptamine
-family and distinguishes them from LSD and mescaline.
-
-## Quantum Mechanical Correlates
-
-McKenna referenced the work of John Smythies and Alexander Shulgin,
-noting that "there are quantum mechanical correlates to
-hallucinogenesis." He observed that "if one atom on the molecular
-ring of an inactive compound is moved, the compound becomes highly
-active." This extreme sensitivity to molecular structure suggests
-that hallucinogenesis operates at the quantum mechanical level of
-matter-mind interaction, where subatomic differences produce
-macroscopic experiential effects.
-
-## Risk Profiles
-
-- **DMT**: McKenna acknowledged that "a touch of terror gives the
-  stamp of validity to the experience" but also noted that the brief
-  duration means even overwhelming experiences are time-limited.
-  Physical toxicity is very low; the primary risk is psychological
-  overwhelm during the breakthrough.
-
-- **LSD**: The extended duration means that difficult experiences
-  persist for many hours, creating greater opportunity for anxiety
-  to compound. LSD is also physically safer than commonly believed,
-  but the long duration demands more preparation and set/setting
-  management.
-
-## The Endogenous Question
-
-McKenna's observation that DMT is present in the human brain raises
-the question of its natural function. If DMT is an endogenous
-hallucinogen, what role does it play in normal consciousness? McKenna
-suggested that ordinary dreaming may represent a baseline DMT-like
-state, with the full psychedelic breakthrough representing an
-amplification of a normally occurring process.
-
-## See Also
-
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-endogenous-dmt-brain-familiarity]]
-- [[dmt-compound-profile]]
-- [[tryptamine-logos]]
-- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]]
-
-## Source
-
-- McKenna T. Tryptamine Hallucinogens and Consciousness. Talk at the
-  Lilly/Goswami Conference on Consciousness and Quantum Physics, Esalen
-  Institute, December 1983. Published in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*, 1992.

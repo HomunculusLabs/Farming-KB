@@ -7,7 +7,7 @@ tags:
   - entheogen
   - succulent
   - south-african
-  - mesembrine
+  - [[mesembrine]]
   - traditional-medicine
   - adaptogen
 date: 2026-04-28
@@ -47,7 +47,7 @@ The genus name *Sceletium* (from Greek *skeletos*, "skeleton") refers to the pro
 
 ## Distribution and Habitat
 
-Endemic to **South Africa**: Western Cape (Cederberg, Namaqualand, West Coast), Northern Cape (Great Karoo), Eastern Cape, and southern Free State. Found on rocky outcrops, quartzite gravel flats, semi-arid renosterveld, and sandy well-drained soils at elevations up to ~1,200 m. Drought-tolerant; winter-rainfall Mediterranean [[mollison-climate-zones-permaculture-strategies]].
+Endemic to **South Africa**: Western Cape (Cederberg, Namaqualand, [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]), Northern Cape (Great Karoo), Eastern Cape, and southern Free State. Found on rocky outcrops, quartzite gravel flats, semi-arid renosterveld, and sandy well-drained soils at elevations up to ~1,200 m. Drought-tolerant; winter-rainfall Mediterranean [[mollison-climate-zones-permaculture-strategies]].
 
 ## Traditional Use
 
@@ -69,7 +69,7 @@ The indigenous **Khoikhoi** and **San** peoples of South Africa have used *Scele
 
 - First documented by Dutch colonists in the 17th century; Jan van Riebeeck's journals (1662) mention "kougoed"
 - The botanist Carl Thunberg documented its use in 1773
-- Louis Leipoldt, a South African poet and physician, wrote extensively about its use in the early 20th century
+- Louis Leipoldt, a [[kanna-sceletium-south-african-narcotic]] poet and physician, wrote extensively about its use in the early 20th century
 
 ## Chemical Composition
 
@@ -77,7 +77,7 @@ The primary active constituents are **mesembrine-type alkaloids**:
 
 | Alkaloid | Typical Concentration | Primary Activity |
 |----------|---------------------|-----------------|
-| **Mesembrine** | 0.2–0.6% | Serotonin reuptake inhibition (SERT) |
+| **Mesembrine** | 0.2–0.6% | [[serotonin]] reuptake inhibition (SERT) |
 | **Mesembrenone** | 0.3–1.0% | PDE4 inhibition, SERT |
 | **Mesembrenol** | 0.05–0.2% | Serotonergic activity |
 | **Mesembranol** | 0.02–0.1% | Minor activity |
@@ -88,34 +88,3 @@ The primary active constituents are **mesembrine-type alkaloids**:
 2. **Phosphodiesterase-4 (PDE4) Inhibition:** Mesembrenone inhibits PDE4, contributing to both mood-enhancing and anti-inflammatory effects
 3. **VMAT2 Interaction:** Some evidence for interaction with vesicular monoamine transporter 2, modulating monoamine release
 4. **5-HT2C Receptor:** Weak antagonism may contribute to anxiolytic and appetite-suppressant effects
-
-## Modern Therapeutic Applications
-
-[[hofmann-lsd-clinical-research-early-studies]] has explored *Sceletium* for:
-
-- **Anxiety and stress:** Significant anxiolytic effects with standardized extracts (Zembrin®)
-- **Depression:** Antidepressant efficacy comparable to low-dose SSRIs in preliminary trials
-- **Cognitive enhancement:** Improved attention and executive function
-- **Dosage:** 25–50 mg standardized extract (0.35–0.5% alkaloids); onset 20–60 min, duration 4–8 hours
-
-## Cultivation
-
-- Propagation: Primarily from seed; optimal germination at 18–22°C with light
-- Growth medium: Well-drained sandy or gravelly soil; USDA zones 9b–11
-- Watering: Low to moderate; drought-tolerant once established
-- Harvesting: Above-ground material can be harvested 2–3 times per year
-
-## Conservation and Legal Status
-
-- **Conservation:** Listed as **Vulnerable** on the SANBI Red List; wild populations threatened by overharvesting and habitat loss
-- **South Africa:** Protected plant — wild collection requires permits
-- **[[dmt-containing-plants-united-states-halpern]]:** Legal; sold as a dietary supplement
-- **European Union:** Generally legal as a novel food ingredient
-- **Australia:** Not scheduled; available as a supplement
-
-## See Also
-
-- [[mesembrine]]
-
-- [[psilocybin]] — Comparison with classical psychedelic tryptamines
-- [[kratom-mitragyna-speciosa-pharmacology]] — Another ethnobotanical psychoactive plant

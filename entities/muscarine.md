@@ -22,7 +22,7 @@ receptors. It was the first known cholinomimetic alkaloid isolated from a natura
 remains one of the most important mushroom toxins from both a pharmacological and historical
 perspective.
 
-Despite its enduring association with the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] ([[amanita-muscaria-entity]] contains only trace quantities of muscarine
+Despite its enduring association with the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] ([[amanita-muscaria]] contains only trace quantities of muscarine
 that are insufficient to produce significant toxicity. The true clinical significance of
 muscarine lies in other, less famous mushroom species that contain it in far greater
 concentrations.
@@ -50,7 +50,7 @@ gastrointestinal tract, which partially mitigates its toxicity when ingested.
 ## History of Discovery
 
 Muscarine was first isolated in 1869 by the German pharmacologist Oswald Schmiedeberg and
-his colleague Richard Koppe from the red fly agaric mushroom, [[amanita-muscaria-entity]] produced effects
+his colleague Richard Koppe from the red fly agaric mushroom, [[amanita-muscaria]] produced effects
 similar to those of parasympathetic nerve stimulation, including slowing of the heart rate,
 increased glandular secretions, and constriction of the pupils. Their discovery established
 the foundation for the systematic study of mushroom alkaloids.
@@ -61,7 +61,7 @@ notably [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and its decarbo
 
 ## Natural Occurrence
 
-While muscarine is most famously associated with [[amanita-muscaria-entity]]:** Contains only trace amounts (0.0002 to 0.003%), far below the
+While muscarine is most famously associated with [[amanita-muscaria]]:** Contains only trace amounts (0.0002 to 0.003%), far below the
   threshold needed to produce significant muscarinic symptoms.
 
 - **[[alpha-amanitin]] poisoning.

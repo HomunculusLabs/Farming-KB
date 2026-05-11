@@ -1,18 +1,19 @@
 ---
-title: "No fukuoka textdoc no pesticide principle insect balance and Insect Balance"
+title: Fukuoka Textdoc No Pesticide Principle Insect Balance
 created: 2026-04-28
 tags: [fukuoka, natural-farming, no-pesticides, insect-balance, ecology, pest-
 management, natural-enemies]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # No Pesticide Principle and Insect Balance
 
-Masanobu Fukuoka's no-pesticide principle begins with a radical proposition:
+[[masanobu-fukuoka]]'s no-pesticide principle begins with a radical proposition:
 insect pests do not exist. While a thousand plant diseases exist in nature, in
 truth there are none. The concept of a "pest" is a human invention born from the
 mistaken belief that man must control nature rather than work within its self-
@@ -50,7 +51,7 @@ inquiry by observing the crop and insect or investigating what the insect is.
 What then does he do? He reaches beyond time and space by taking the stance that
 there are no crops or pests in nature to begin with. The concepts of "raising
 plants" and "harmful insects" are just words coined by man based on subjective
-criteria grounded in the self; viewed in terms of the natural order, they are
+criteria grounded in the self; viewed in terms of the [[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]], they are
 meaningless.
 
 This insect is thus a pest and yet not a pest. Its presence in no way interferes
@@ -69,7 +70,7 @@ the rice. Such cases invariably exist.
 Instances of damage are quite naturally accompanied also by instances of no
 damage. There may be immense damage in one field and none in another. Invariably
 too, there are cases in which the insects will not even approach the rice.
-Natural farming examines cases in which little or no damage occurs and the
+[[cho-loess-powder-in-natural-farming]] examines cases in which little or no damage occurs and the
 reasons why.
 
 Nature is always showing man, somewhere and sometime, situations in which pests
@@ -82,64 +83,8 @@ fields of rice.
 
 Fukuoka provides specific examples of natural pest management drawn from decades
 of observation in his own fields. One type of leafhopper that attacks rice
-plants early in the growing season is the green rice leafhopper, which lives
+plants early in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is the [[fukuoka-green-rice-leafhopper-virus]], which lives
 among the weeds in the levees between rice fields from winter to early spring.
 
 To rid the fields of these leafhoppers, burning the levee weeds is preferable to
 direct application of a leafhopper poison. But an even better way is to change
-the variety of weeds growing on the levees. The white-backed leafhopper and the
-brown leafhopper tend to appear during long spells of hot, humid weather, but
-break out in especially large numbers in flooded fields of stagnant water.
-
-When the field is drained and the surface exposed to breezes so that it dries,
-spiders and frogs emerge in number, helping reduce damage to a minimum. The real
-meaning of taking a transcendent perspective, in plain down-to-earth terms, is
-to help provide both insect pests and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] with a pleasant
-environment in which to live.
-
-## Disease Reflects Human Error
-
-Natural farming admits to the existence neither of insect pests nor of
-beneficial insects. If a pest outbreak occurs, damaging the barley, one reflects
-that this was probably triggered by some human mistake. Invariably, the cause
-lies in some action by man; perhaps the barley was seeded too densely or a
-beneficial fungus that attacks pests was killed, upsetting nature's balance.
-
-Thus, in natural farming, one always solves the problem by reflecting on the
-mistake and returning as close to nature as possible. Those practicing
-[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], on the other hand, habitually blame insect infestation on
-the weather or some other aspect of nature, then apply pesticides to exterminate
-the marauding pest and spray fungicides to cure diseases.
-
-The road diverges here, turning back to nature for those who believe nature to
-be perfect, but leading on to the subjugation of nature for those who doubt its
-perfection. There is no good or evil in nature. The labels of "pest" and
-"beneficial insect" are entirely human constructs that reflect our limited
-understanding of ecological relationships.
-
-## Pesticides as Symptom Treatment
-
-Agricultural technology creates the causes that produce disease and pest damage,
-then becomes adept at treating these. Growing healthy crops should take
-precedence. The use of pesticides is analogous to suppressing the symptoms of an
-illness without addressing its underlying cause.
-
-By applying broad-spectrum poisons, farmers kill not only the target pest but
-also the natural predators and beneficial organisms that would have kept pest
-populations in check. This creates a dependency cycle: eliminating natural
-predators allows surviving pests to multiply unchecked, requiring ever more
-frequent and intense pesticide applications. The soil, stripped of its microbial
-life, can no longer support the healthy plant growth that would naturally resist
-[[hamilton-pest-and-disease-control-organic]] pressure.
-
-## The Ecological Web of Three-Dimensional Farming
-
-Fukuoka describes how his three-dimensional orchard design naturally prevents
-serious pest outbreaks. When vegetables are grown beneath fruit trees, the
-number of insect pests tends to be low. Some diseases and pests are common both
-to fruit trees and vegetables, and some are not. These in turn have a host of
-## See Also
-
-- [[fukuoka-no-weeding-no-pesticides]]
-- [[fukuoka-pest-ecology]]
-- [[fukuoka-disease-pest-management]]

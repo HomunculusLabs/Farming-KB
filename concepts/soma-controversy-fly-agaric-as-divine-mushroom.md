@@ -88,37 +88,3 @@ mushrooms appear to glow in accordance with the text. Other photos were similarl
 Wasson's radical idea gained immediate academic support from influential quarters, including
 [Roger Heim, Richard Evans Schultes, and Albert Hofmann. The thesis arrived in 1968 at a moment when the psychedelic counterculture was reaching the
 zenith of its popularity and was eager to find historical self-justification for its practices. Wasson's
-thesis proved just the thing. His interpretation of the Rig Veda had the unintended effect of transforming it
-into a holy, foundational text for the psychedelic movement.
-
-## Criticisms and Alternative Theories
-
-The British Indologist John Brough had questioned why the poetically enriched Rig Veda would contain
-botanical information about the identification of the Soma plant. In 1989, David Flattery and Martin Schwartz
-published Haoma and Harmaline, arguing that the Rig Veda text was too vague on botanical details to be
-taxonomically useful. Turning to the Iranian Avesta, they proposed that Soma/homa was Syrian rue (Peganum
-harmala), whose active ingredient harmaline is an MAO inhibitor and a key component of the Amazonian brew
-ayahuasca. In 1992, the classicist Mott Greene rejected both the fly-agaric and Syrian rue theories, arguing
-that Soma was most likely a poisonous plant requiring the special preparation described in the Rig Veda.
-
-Letcher further notes that Wasson used circular reasoning: having used Siberia to argue his case for the
-identity of Soma, he then suggested that the Soma cult had spread from India to Siberia. Wasson was, like
-the other great proponents of comparative anthropology, an armchair scholar who based his theory on library
-texts rather than messy field evidence. His vision of a fly-agaric-based gnostic religion spreading eastwards
-was too simplistic, too static, and too monolithic.
-
-## Legacy
-
-Regardless of its scholarly merits, the Soma-fly-agaric thesis became one of the foundational myths of the
-psychedelic movement, providing ancient religious legitimacy to the use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. It
-inspired a cascade of even more speculative theories about mushroom imagery in the Bible and other religious
-texts. Wasson's thesis stimulated the debate enormously, and before long a queue of eager pundits were ready
-to line up with their own theories. The debate it sparked simply spun round with extra impetus.
-
-## See Also
-
-- [[amanita-muscaria-cultural-history]]
-- [[siberian-fly-agaric-orientalism]]
-- organized religion
-- [[psychedelic-ancient-history]]
-- [[allegro-end-of-a-road-motivation]]

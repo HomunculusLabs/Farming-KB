@@ -87,39 +87,3 @@ The fact that plant-produced tryptamines interface so precisely with serotonin r
 The widespread occurrence of DMT across both the plant and animal kingdoms is consistent with McKenna's view that tryptamines represent a fundamental chemical language shared across the biosphere. This molecular commonality between plant alkaloids and animal neurotransmitters is precisely the kind of evidence one would expect to find if interspecies chemical communication had been an ongoing feature of evolution.
 
 ## Ecological Diplomacy and Evolution
-
-McKenna framed exopheromones as part of a broader principle of "ecological diplomacy" — the idea that evolution is not merely a competitive struggle but a process of negotiation and cooperation between species. He wrote:
-
-> "If ecology is left out of the analysis of a living species, then that species may be doomed... We must think beyond our culture. We must learn to be in harmony with the planet, to understand that there is a world of being that we have alienated ourselves from and that our arrogance toward the environment is now leading us to the edge of the abyss."
-
-This ecological perspective underlies McKenna's broader argument that the modern Western worldview, with its emphasis on human mastery over nature, represents a dangerous departure from the original partnership model that characterized early human-mushroom relationships. The concept of exopheromones serves as a scientific metaphor for this partnership: if nature communicates with us through chemistry, then the appropriate human response is not domination but dialogue.
-
-## Limitations and Criticisms
-
-The exopheromone concept faces significant scientific challenges:
-
-- No mechanism has been identified by which plants could "intentionally" target human consciousness
-- The psychoactive effects of alkaloids can be adequately explained by their molecular similarity to neurotransmitters, without invoking communication
-- The hypothesis is difficult to test empirically — how would one distinguish a chemical message from a coincidental pharmacological effect?
-- The subjective experience of communication during psychedelic experiences may be an artifact of altered brain function rather than evidence of genuine interspecies signaling
-- The concept risks anthropomorphizing plants by attributing to them intentional communicative agency
-
-Despite these limitations, the concept of exopheromones remains a provocative framework for rethinking the relationship between humans and the psychoactive plants that have played such a central role in human cultural evolution.
-
-## The Amazonian Parallel: Ayahuasca as Exopheromone System
-
-The [[harner-amazonian-ayahuasca-preparation-methods]] complex provides perhaps the most compelling real-world example of the exopheromone concept in action. Ayahuasca requires the combination of two plants: *Banisteriopsis caapi*, which contains harmine and harmaline (MAO inhibitors), and *Psychotria viridis* or *Diplopterys cabrerana*, which contains DMT.
-
-Neither plant is psychoactive when consumed alone. DMT is inactive orally because it is rapidly broken down by monoamine oxidase in the gut, while the B. caapi vine alone produces only mild sedative effects. The probability that Amazonian indigenous peoples discovered this specific combination through trial and error is vanishingly small — it requires knowing that two otherwise unremarkable plants must be combined, in the correct proportions, and prepared in a specific way.
-
-McKenna and others have suggested that the plants themselves may have "communicated" their synergistic properties through the kinds of exopheromonal signaling channels the concept proposes. Whether or not one accepts this interpretation, the ayahuasca complex stands as a remarkable example of pharmacological sophistication emerging from indigenous plant knowledge.
-
-Similar multi-plant preparations exist in other indigenous traditions: the Australian Pituri complex (nicotine-containing Duboisia combined with wood ash containing calcium hydroxide to increase bioavailability), and the Vedic Soma (whose botanical identity remains disputed but which also involved complex preparation). These cross-cultural parallels strengthen the case that humans have been engaging in sophisticated chemical relationships with plants for millennia — relationships that the exopheromone concept attempts to explain.
-
-## See Also
-
-- [[exopheromones-and-cross-species-communication]]
-- [[mckenna-drugs-governments-and-intelligence-agencies]]
-- [[stoned-ape-theory]]
-- [[dmt-hyperspace-entities]]
-- Symbiosis and Coevolution

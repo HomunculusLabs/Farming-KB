@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Anxiety Disorders
 
-The relationship between cannabis and anxiety is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic [[cannabis-sleep-disorders]] cannabis use.
+The relationship between cannabis and anxiety is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic cannabis use.
 
 ## The Dosing Paradox
 
@@ -71,3 +71,18 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-for-sleep-disorders]] — for anxiety-related insomnia
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-what-is-the-rhizosphere-and-why-does-it-matter-for-plants]]
+- [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]]
+- [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]]
+- [[query-what-are-the-benefits-of-growing-calendula-and-how-do-i-use-it]]
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]

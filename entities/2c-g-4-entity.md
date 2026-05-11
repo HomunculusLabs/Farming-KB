@@ -55,7 +55,7 @@ tetralin was obtained as glistening white crystals, mp 44-45 degrees C.
 
 (5) Formylation with stannic chloride and dichloromethyl methyl ether in CH2Cl2
 at 0 degrees C to room temperature to reflux (Vilsmeier gave complex mixtures,
-butyllithium/DMF gave only starting material). The crude product 1,4-dimethoxy-
+butyllithium/DMF gave only [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]). The crude product 1,4-dimethoxy-
 5,6,7,8-tetrahydro-2-naphthaldehyde had mp 70-72 degrees C (analytical 74-75
 degrees C from hexane). GCMS showed only a single material.
 
@@ -88,13 +88,3 @@ conversion of it into a simple aromatic aldehyde resisted the classic procedures
 completely, either giving complex messes, or nothing. And even now, with these
 two hurdles successfully passed, the presumed simple last step has not yet been
 done. The product 2C-G-4 lies just one synthetic step (the LAH reduction) away
-from completion, and the equally fascinating G-4 also that one last reduction
-step from being completed. Having gotten through the worst of the swamp,
-Shulgin notes: "They will both be active compounds."
-
-## Related Compounds
-
-- [[2c-g-3-entity]] -- the trimethylene bridge analogue
-
-- [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
-- [[2c-g-n-entity]]

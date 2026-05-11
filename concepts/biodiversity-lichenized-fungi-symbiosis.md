@@ -77,3 +77,20 @@ early during [[fungal-taxonomy]] and [[nephroma-arcticum]]
 - [[fungal-taxonomy]] — fungal classification and nomenclature
 
 For further reading, see [[neurotropic-fungi-classification-and-taxonomy]].
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[biodiversity-of-fungi-chytrid-zoosporic-fungi-ecology]]
+- [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]
+- [[biodiversity-of-fungi-microfungi-isolation-techniques]]
+- [[lichenized-fungi-sampling]]
+- [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]

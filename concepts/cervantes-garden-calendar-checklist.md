@@ -11,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -20,7 +21,7 @@ A garden calendar helps growers know what to do and when to prepare to
 do it. A checklist adds necessary routine to the process. Jorge
 Cervantes provides a structured three-month calendar and weekly
 checklist in Chapter 8 of *Marijuana Horticulture* that covers the
-average indoor clone life cycle from rooting through harvest.
+average indoor clone [[agaricus-campestris-biology-and-life-cycle]] from rooting through harvest.
 
 ## Overview
 
@@ -46,11 +47,11 @@ Check the following every week to ensure a successful crop:
 - **Cultivate** soil surface to prevent crusting
 - **Check pH** of soil and water
 - **Rotate plants** for even light exposure
-- **Check for spider mites** under leaves and fungi on foliage
+- **Check for [[cervantes-spider-mites-identification-control]]** under leaves and fungi on foliage
 - **Check for [[hamilton-nutrient-deficiencies-and-treatment]]** in new growth
 - **Maintain regular fertilization schedule**
 - **Check HID system** for excessive heat at connections and ballast
-- **Cleanup** the grow room thoroughly
+- **Cleanup** the [[cannabis-grow-room-setup]] thoroughly
 - **Night checks:** Check walls and ceiling for mold; adjust lamp
   height to 12-36 inches above plants
 
@@ -67,7 +68,7 @@ Check the following every week to ensure a successful crop:
 - Ensure the vegetative room is perfect before bringing in clones
 - Move in rooted clones or sprouted seedlings
 - Place 24-36 inches under HID; keep soil surface moist
-- Grow rooted cuttings under metal halide light
+- Grow rooted cuttings under [[cervantes-metal-halide-lighting-systems]] light
 - Take cuttings from strong mother plants
 
 ## Month Two: Vegetative Growth and Flowering Induction
@@ -75,7 +76,7 @@ Check the following every week to ensure a successful crop:
 ### Week 5 (e.g., February 1)
 - Vegetative plants should be 6-12 inches tall with broad, firm,
   green leaves
-- Continue regular supplemental fertilization program
+- Continue regular supplemental [[purdue-four-step-garden-fertilization-program]]
 - Move HID 12-36 inches above month-old seedlings and clones
 - Thin and transplant seedlings into larger pots
 - Irrigate as needed
@@ -87,56 +88,3 @@ Check the following every week to ensure a successful crop:
 - No leaves should be yellowing; if they are, fine-tune the weekly
   checklist
 - Watch for over-watering; check soil with a moisture meter
-- Increase air circulation and ventilation
-- Mist the garden with water to wash leaves
-- Watch for iron, magnesium, and nitrogen deficiencies
-- Apply supplemental [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] mix as needed
-- **Watch out for diseases and pests**
-- **Plants need plenty of light to flower well**
-
-## Month Three: Flowering and Pre-Harvest
-
-### Week 9 (e.g., March 1)
-- Plants are two months old, 18-36 inches tall
-- Females should show white, hair-like pistils
-- Remove or save males for breeding
-- Take clones for the next crop
-- Fine-tune checklist if leaves are yellowing
-- Air circulation, ventilation, and humidity are critical now
-- Leach soil to wash away excess fertilizer salt residues
-- Bend and tie plants for an even garden profile
-- Add a second lamp if plants are densely planted
-- This is the time of peak THC production; tops will double in size
-  and potency over the next one to four weeks
-- Lower leaves may yellow normally
-
-### Week 11 (e.g., March 15)
-- Tops elongate; garden profile 6-12 inches taller than two weeks
-  prior
-- Continue fertilizing with high-bloom fertilizer
-- Inspect for bud (gray) mold
-- Buds should be oozing with resin
-- Some shade-leaf yellowing is normal
-- Harvest indica and early-maturing buds if ripe
-- **No insecticides, no fungicides, no fertilizer** this close to
-  harvest
-- Check for bud blight or bud mold
-
-## Month Four: Harvest
-
-### Week 12 (e.g., April 1)
-- More and heavier calyxes develop on flower buds
-- Continue watering as needed
-- Bud mold can appear overnight; constant scrutiny is essential
-- THC content declines when resin glands turn amber
-- Harvest now or within a couple of weeks
-- Let seed crops continue until seeds are big and healthy
-- Clean up after harvest
-- Move in rooted clones for the next crop
-
-## Key Principles
-
-## See Also
-- [[seasonal-garden-tasks-calendar]]
-- [[cervantes-flowering-phase]]
-- [[cervantes-harvest-timing-trichome-ripeness]]

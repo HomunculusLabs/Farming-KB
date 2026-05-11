@@ -6,6 +6,7 @@ type: concept
 tags: [food, nutrition]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Small-Scale Intensive Food Systems

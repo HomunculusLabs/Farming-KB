@@ -88,53 +88,5 @@ Propagation is by division of established clumps in [[coleman-overwintered-onion
 Division is the preferred method for maintaining cultivar characteristics, as
 spore-grown progeny may show variable coloration.
 
-The species is relatively pest-free and disease-resistant. [[query-how-to-get-rid-of-slugs-and-snails-organically]] may
-damage young fronds in damp conditions. Crown rot can occur in poorly drained
-soils.
-
-It combines well with hostas, heucheras, hellebores, and other shade-tolerant
-perennials. The silvery fronds provide excellent contrast against darker
-foliage in mixed plantings.
-
-## Cultivars and Varieties
-
-Several named cultivars have been selected for enhanced coloration or growth
-habit. **'Pictum'** is the most widely available cultivar, noted for its
-intensely silver-gray fronds with burgundy midribs.
-
-**'Burgundy Lace'** features deeper red-purple venation and more compact
-growth. **'Ursula's Red'** displays pronounced burgundy coloration extending
-from the stipe into the pinnae.
-
-**'Silver Falls'** is valued for its weeping habit and exceptionally silvery
-fronds. **'Red Beauty'** combines strong red stipe coloration with broader
-pinnae and greater vigor.
-
-A naturally occurring hybrid with *Athyrium filix-femina*, known as
-**Athyrium × filix-femina 'Victoriae'**, shares the painted fern's garden
-popularity though it belongs to a different hybrid complex.
-
-## Ecological Role
-
-In its native habitat, *A. niponicum* contributes to understory diversity in
-cool, moist forests. It provides shelter for small invertebrates and helps
-stabilize soil on shaded streambanks and slopes.
-
-The species is not known to be a significant food source for vertebrate
-herbivores in its native range. Its fronds contain moderate levels of
-secondary compounds typical of Athyrium species, which may deter browsing.
-
-In cultivation, it serves an ecological function in temperate gardens by
-providing year-round habitat structure in shade plantings. The deciduous
-frond litter contributes to [[hamilton-composting-and-organic-matter-management]] cycling.
-
 ## See Also
-
-- [[athyrium-filix-femina]]
-- [[adiantum-pedatum]]
-- [[polystichum-munitum]]
-- [[dryopteris-filix-mas]]
-- [[matteuccia-struthiopteris]]
-- [[onoclea-sensibilis]]
-- [[pteridium-aquilinum]]
-- [[osmunda-regalis]]
+- [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]

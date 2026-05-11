@@ -1,22 +1,23 @@
 ---
-title: fukuoka textdoc creating true people do nothing road People and the Do-Nothing Road
+title: Fukuoka Textdoc Creating True People Do Nothing Road
 created: 2026-04-28
 tags:
   - fukuoka
   - spiritual-philosophy
   - farming-for-all
-  - natural-farming
+  - [[natural-farming]]
   - village-revival
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 ## Overview
 
-In the final chapter of "The Natural Way of Farming," Masanobu Fukuoka
+In the [[fukuoka-the-one-straw-revolution-final-chapter]] of "The Natural Way of Farming," [[masanobu-fukuoka]]
 presents his vision for the revival of human society through what he
 calls "Farming for All." He argues that the progress of Japanese
 civilization since the Meiji Reformation has produced material confusion
@@ -87,36 +88,3 @@ farming, Fukuoka detects a profound sense of futility. It is something
 like scooping up duckweed floating on the surface of a pond and watching
 it slip through one's fingers. Between the producer and consumer, both
 concerned with the same problems, lies an endless parade of
-organizations, merchants, and politicians. The consumer who denounces
-food contamination has himself sown the seeds of pollution. Farmers
-themselves have destroyed the earth while praying for its protection.
-
-## Self-Love Disguised as Love of Nature
-
-Fukuoka delivers one of his most biting critiques: what everyone really
-loves is not nature but himself. The painter who sketches the mountains
-appears to love nature, but his real love is sketching nature. The
-farmer who works the earth merely loves the thought of himself laboring
-in the fields. The agricultural scientist believes he loves nature, but
-he only really loves the study of nature. Man has glimpsed but one tiny
-portion of nature. People only think they understand its true essence;
-they only think they love nature. This self-deception, Fukuoka argues,
-is the foremost cause of the discord and contradictions of human society.
-
-## Contraction and Revival Versus Expansion
-
-Fukuoka calls for a fundamental shift in civilization's direction. Man
-must turn away from a world of expansion and extinction, and place his
-faith instead in contraction and revival. This society of farmers may
-take the form of peasant farming, but it must comprise [[comparison-natural-farming-vs-permaculture]]
-that transcends the age and searches earnestly for the wellsprings of
-agriculture. The shortest path to attaining the state of true man is an
-open existence with simple garments and a simple diet, praying down to
-the earth and up to the heavens. True and free happiness comes by being
-ordinary.
-
-## See also
-
-[[fukuoka-do-nothing-farming-philosophy]]
-[[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]
-[[fukuoka-village-self-sufficient-community]]

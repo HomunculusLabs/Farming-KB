@@ -41,7 +41,7 @@ The fungus is generally more abundant in moist, organic-rich soils where nematod
 
 ### Biological Control of Nematodes
 
-The primary ecological function of dactylaria brochopaga is the regulation of nematode populations in soil. As cited in Dighton (2003), Mankau (1981) identified nematode-trapping fungi including D. brochopaga and [[soil-food-web]], regulating nematode populations from above.
+The primary ecological function of dactylaria brochopaga is the regulation of nematode populations in soil. As cited in Dighton (2003), Mankau (1981) identified nematode-trapping fungi including D. brochopaga and [[soil-foodweb]], regulating nematode populations from above.
 - **Plant protection:** By reducing populations of plant-parasitic nematodes, it indirectly protects plant roots from damage.
 - **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Nematodes consumed by the fungus release their internal nutrients, which are subsequently mineralized and become available for plant uptake or for utilization by other soil microorganisms.
 - **[[savory-energy-flow-and-solar-capture]]:** The fungus channels energy from the nematode-based decomposer pathway into the fungal decomposer pathway, contributing to the complexity and stability of soil food webs.
@@ -71,7 +71,7 @@ Soil microarthropods such as [[arthrobotrys-musiformis]] as an example of predat
 ## See Also
 
 - nematode-trapping-fungi
-- [[soil-food-web]]
+- [[soil-foodweb]]
 - biological control
 - Rhizosphere
 - Nematode

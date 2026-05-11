@@ -1,5 +1,5 @@
 ---
-title: Habit as Creode: Waddington's Developmental Pathways and Cultural Evolution
+title: Mckenna Habit Creode Waddington Cultural Evolution
 created: 2026-04-28
 tags:
   - evolution
@@ -23,7 +23,7 @@ type: concept
 ## Overview
 
 In *Food of the Gods*, [[terence-mckenna]] borrows the concept of the "creode" from developmental
-biologist C.H. Waddington to explain how the repeated use of psychoactive mushrooms by early
+biologist C.H. Waddington to explain how the repeated use of [[ceremonial-shamanic-use-psychoactive-mushrooms]] by early
 hominids could have become an entrenched and self-reinforcing behavioral pathway. The creode,
 literally a "necessary path," describes a channel of developmental activity that, once
 established, becomes increasingly resistant to deviation. McKenna applies this biological
@@ -51,7 +51,7 @@ constraint that characterizes all biological development.
 ## McKenna's Cultural Application
 
 McKenna applies the creode concept to the cultural domain by arguing that the habitual use of
-psychedelic mushrooms created a deep cultural channel through which human social and cognitive
+[[archaeology-of-psychedelic-mushrooms]] created a deep cultural channel through which human social and cognitive
 evolution flowed for millennia. He describes the process as follows: once having experienced
 the state of consciousness induced by the mushrooms, foraging humans would return to them
 repeatedly in order to reexperience their novel effects. This process of repeated return
@@ -69,8 +69,8 @@ pattern became increasingly difficult as the habit became more entrenched.
 
 The creode model helps explain how a behavioral pattern can become self-reinforcing even in
 the absence of genetic programming. The mushroom-using groups enjoyed demonstrable adaptive
-advantages: improved visual acuity from low-dose consumption, increased sexual activity and
-reproduction from moderate doses, and access to shamanic ecstasy and group bonding from
+advantages: improved [[mckenna-roland-fischer-psilocybin-visual-acuity]] from low-dose consumption, increased sexual activity and
+reproduction from moderate doses, and access to [[shamanic-ecstasy-and-healing]] group bonding from
 high doses. These advantages created a positive feedback loop in which the benefits of
 mushroom use reinforced the habit, while the habit itself deepened the creode and made
 abandonment of the practice increasingly unlikely.
@@ -88,58 +88,3 @@ entrenched developmental pathway.
 The concept of the creode also provides a framework for understanding what McKenna calls the
 "abandonment of the mystery," the gradual process by which human societies lost their
 connection to the original psychedelic mushroom sacrament. In Waddington's model, a creode
-can be abandoned only through the application of sufficient external force to push the
-developing system out of its established channel and into a new one. McKenna identifies
-several such forces in human history.
-
-[[dighton-fungi-climate-change-feedback]], particularly the increasing aridity of the African grasslands, reduced the
-availability of mushrooms and weakened the ecological foundation of the mushroom creode. The
-transition to agriculture created incompatible demands on human time and energy, making the
-regular use of psychedelics impractical for settled farming communities. The Indo-European
-invasions, with their horse-mounted warriors and patriarchal social organization, imposed a
-new cultural creode based on domination rather than partnership.
-
-Each of these forces pushed human development out of the mushroom channel and into new
-pathways. McKenna describes this as a process of progressive dilution, in which the original
-[[leary-psychedelic-experience-bardo-mapping]] was first replaced by substitute plants, then by symbolic rituals,
-then by abstract theology, and finally by the complete secular materialism of modern Western
-civilization.
-
-## Creodes and the Dominator Culture
-
-McKenna extends the creode concept to argue that Western dominator culture itself constitutes
-a deep cultural creode, one that has become so entrenched that deviation from it appears
-nearly impossible. The dominator creode channels human development toward hierarchy,
-patriarchy, environmental exploitation, and the suppression of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
-Like the mushroom creode that preceded it, the dominator creode is self-reinforcing: the
-values it promotes generate the conditions that sustain it, and the behavioral patterns it
-requires become increasingly automatic and resistant to change.
-
-The concept of the creode thus serves a dual function in McKenna's argument. It explains how
-the original [[mckenna-dominator-vs-partnership-society-model]] became established and maintained itself for thousands of
-years, and it also explains why the dominator culture that replaced it has proven so
-resistant to reform. In both cases, the depth of the cultural channel makes deviation
-extraordinarily difficult without the application of sufficient transformative force.
-
-## Epigenetic Rules and Cultural Transmission
-
-McKenna connects the creode concept to the gene-culture coevolutionary framework developed by
-Charles Lumsden and Edward O. Wilson. In this framework, cultural practices generate
-"epigenetic rules," inherited predispositions to learn certain behaviors rather than others.
-The mushroom-using cultures of the Archaic period would have generated epigenetic rules that
-favored psychedelic experience, group bonding, and the dissolution of individual ego boundaries.
-
-These epigenetic rules, once established, would have spread through populations along with the
-genes that reinforce them. The creode model thus bridges the gap between purely cultural
-explanations of human behavior and purely biological ones. The mushroom habit was a cultural
-practice that reshaped biological evolution by changing the selective landscape, while the
-resulting biological changes reinforced the cultural practice. This feedback loop between
-culture and biology is, in McKenna's view, the fundamental mechanism through which the
-mushroom creode channeled human development.
-
-## Implications for Cultural Change
-## See Also
-
-- [[mckenna-archaic-revival]]
-- [[mckenna-four-stages-abandoning-mystery]]
-- [[mckenna-lumsden-wilson-gene-culture-coevolution]]

@@ -14,23 +14,23 @@ type: concept
 ## Overview
 
 Icaros are sacred songs, melodies, or whistled tunes used by Amazonian
-shamans—particularly ayahuasqueros of the Shipibo tradition in Peru—as
+shamans—particularly ayahuasqueros of the [[ayahuasca-vision-art-and-shipibo-tradition]] in Peru—as
 integral components of [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. These songs serve multiple
-functions within the ceremonial context: they guide the visionary
+functions within the [[kava-traditional-preparation-ceremonial-context]]: they guide the visionary
 experience of participants, call upon protective spirits, diagnose
 illness, and are believed to carry inherent healing power transmitted
 through melodic patterns taught by plant spirits themselves. Icaros
 represent one of the most distinctive and culturally significant elements
-of Amazonian shamanic practice.
+of [[amazonian-shamanic-battles-and-defensive-powers]] practice.
 
 ## Etymology and Cultural Context
 
 The word "icaro" derives from the Quechua term for song or chant, though
 the practice extends far beyond Quechua-speaking regions. Among the
-Shipibo people of the Ucayali region in Peru, icaros form the core of
+[[shipibo-people-and-ayahuasca-tradition]] of the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] in Peru, icaros form the core of
 shamanic training and practice. Each shaman develops a personal
 repertoire of icaros over a lifetime, with some songs received directly
-during [[ayahuasca-tourism-in-peru|ayahuasca]] visions and others learned
+during [[ayahuasca-tourism-in-peru]] visions and others learned
 through apprenticeship with elder practitioners. The transmission of
 icaros represents a living oral tradition that connects contemporary
 practitioners to generations of Amazonian spiritual knowledge.
@@ -88,38 +88,3 @@ icaros being sung in the darkness of practitioners' homes during private
 family ceremonies. In tourist-oriented settings, visitors could observe
 the ritual procedures and enjoy listening to the chanting of icaros even
 when the overall ceremonial experience was somewhat attenuated compared
-to community-focused rituals. The presence and quality of icaros served
-as one marker of ceremonial authenticity, with more experienced and
-reputable shamans typically possessing larger and more nuanced repertoires.
-
-## Contemporary Transmission and Commercialization
-
-The growing demand for [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] has affected the transmission
-of icaros. Some shamans now teach simplified versions to interested
-visitors, though the depth of transmission varies considerably. Digital
-recordings of icaros have become widely available, raising questions
-about cultural appropriation and the decontextualization of sacred music.
-Traditional practitioners argue that icaros derive their power from the
-living relationship between the shaman and the plant spirits, not merely
-from the melodic content, and that recorded versions lack this essential
-dimension. Nevertheless, the wider dissemination of icaros has increased
-global awareness of Amazonian shamanic traditions.
-
-## Relationship to Visual Art
-
-Among the Shipibo people, icaros are closely related to the distinctive
-geometric designs known as kene that adorn textiles, pottery, and body
-paint. Both icaros and kene patterns are believed to originate from the
-same visionary sources—plant spirits encountered during ayahuasca
-ceremonies. The geometric patterns are sometimes described as visual
-representations of icaros, or alternatively, icaros as auditory
-representations of the same cosmic patterns. This synesthetic
-relationship between sound and vision is fundamental to Shipibo
-cosmology and reflects a worldview in which sensory modalities are
-understood as interconnected expressions of a single underlying reality.
-
-## See Also
-
-- [[ayahuasca-tourism-in-peru]]
-- [[ayahuasca-pharmacology-and-safety]]
-- [[endocannabinoid-system-overview]]

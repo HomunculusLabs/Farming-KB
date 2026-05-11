@@ -1,8 +1,8 @@
 ---
-title: comparison-natural-farming-vs-permaculture and natural farming sustainable living principles Principles
+title: [[cho-loess-powder-in-natural-farming]] [[sustainable-living-habits-for-homesteads]] Principles
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - sustainable-living
   - natural-farming
   - ecology
@@ -73,7 +73,7 @@ When designing a sustainable land system, achievable goals include:
 - A single person can manage less than 25 acres (10 hectares); smaller is
   generally better.
 - The area should provide a full income to workers living there.
-- Processing of farm products should be done on site.
+- Processing of [[selling-farm-products-and-business]] should be done on site.
 - Beauty should emerge from functionality.
 - Some areas should remain wild and preserved.
 - Use low-energy, simple technology.
@@ -88,55 +88,3 @@ Almost all [[bill-mollison-permaculture-a-designers-manual-permaculture-design-p
 found in nature. The wilderness may seem chaotic but contains ordered method
 in everything, from organism structures to invisible chemical cycles. Water,
 nitrogen, seasons, birth, and death are all patterns we live within.
-
-The Fibonacci series creates proportional spirals found in snail shells,
-sunflower heads, and oak leaf patterns. Intertwining coils appear in plant
-stems and DNA. These patterns exist because they work. We must become
-intensely observant of the natural world and clever enough to use what we
-discover.
-
-## Ecological Succession
-
-When ground is cleared, it repopulates through successive stages:
-**Stage 1**: Pioneer broad-leaved plants that spread quickly to cover soil
-(thorny, sometimes inedible, like thistles or blackberries).
-**Stage 2**: Herbs and shrubs begin growing, competing with and eventually
-overcoming pioneer plants.
-**Stage 3**: Trees begin growing when shrubs have created beneficial
-conditions, shading out pioneers which die and fertilize soil.
-
-Permaculture accelerates this succession for human benefit. Note that
-[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] is distinct from ecological succession. Succession
-happens over years or decades, while companion planting benefits plants
-within a single [[savory-growing-season-and-non-growing-season-management]].
-
-## The Edge Effect
-
-The edge of a forest receives more light and nutrients than the center,
-making it more productive. The relationship between edges (ocean-shore,
-mountain-valley) is as diverse as the areas on either side. To maximize
-edge effect, permaculture uses circles, spirals, curves, trellises, and
-zigzags. Types include spiral herb gardens, lobular shapes along pathways,
-chinampas (land banks between water ditches), and strip cropping following
-land contours.
-
-## Energy and Sustainability
-
-There is only so much energy available on Earth. Much is locked underground
-as oil, much already used. Current systems import energy from far away for
-food, power, and goods. A sustainable society is localized. Permaculture
-makes possible a graceful transition to low-energy systems without
-discomfort. Humans in developed countries could manage with 40% less energy
-without significant sacrifice.
-
-Passive energy solutions include solar design, thermal mass, and biomass.
-The goal is creating self-regulating systems where you can leave for a while
-and return to find everything thriving. It should become a self-contained
-ecosystem that cares for itself.
-
-## Related Concepts
-
-- [[zone-and-sector-analysis]]
-- [[swale-design-construction]]
-- [[urban-permaculture-design]]
-- [[biointensive-gardening-overview]]

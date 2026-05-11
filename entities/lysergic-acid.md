@@ -25,8 +25,8 @@ sources:
 Lysergic acid is a tetracyclic ergoline alkaloid and the core structural scaffold
 of the ergot alkaloid family.
 
-It is the direct biochemical precursor to lysergic acid diethylamide (LSD), one
-of the most potent psychoactive substances known.
+It is the direct biochemical precursor to [[lsd-d-lysergic-acid-diethylamide]] (LSD), one
+of the most potent [[cultural-evolution-and-psychoactive-substances]] known.
 
 Lysergic acid itself is not psychoactive in its acid form, but its amide
 derivatives — particularly ergine (LSA) and LSD — exhibit profound serotonergic
@@ -45,7 +45,7 @@ including ergot fungi and certain [[golden-guide-morning-glory-and-ololiuqui]] s
 - **Structure:** Tetracyclic ergoline skeleton with a carboxylic acid at C-8
   and a methyl group at N-6
 
-**Structural features:**
+**[[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:**
 
 - **Indole moiety** — fused bicyclic ring system common to tryptamine derivatives
 - **Quinoline ring** — additional fused ring distinguishing ergolines from simple
@@ -70,12 +70,12 @@ The pathway proceeds through several key intermediates:
 This pathway is encoded by the *erg* gene cluster, found in *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*
 (ergot fungus) and epichloë endophytes associated with grasses.
 
-In plants such as *Ipomoea tricolor* (morning glory), a convergent pathway
-produces lysergic acid amide (ergine) independently.
+In plants such as *[[ipomoea-tricolor]]* (morning glory), a convergent pathway
+produces [[lysergic-acid-amide]] (ergine) independently.
 
 ## Pharmacology
 
-Lysergic acid itself has negligible affinity for serotonin receptors in its free
+Lysergic acid itself has negligible affinity for [[psilocybin-pharmacology-and-serotonin-receptors]] in its free
 acid form. Its pharmacological significance derives entirely from its amide
 derivatives.
 
@@ -88,39 +88,3 @@ derivatives.
 | Ergotamine | 5-HT₁B/₁D agonist | High | Migraine treatment |
 | Ergometrine | 5-HT₂A agonist, uterotonic | Moderate | Postpartum hemorrhage |
 | Pergolide | D₂/D₃ agonist | High | Parkinson's disease (withdrawn) |
-
-## Synthesis
-
-Total synthesis of lysergic acid has been achieved through multiple routes,
-though natural fermentation remains the industrial standard.
-
-- **Woodward synthesis (1954):** First total synthesis via a 13-step route
-  beginning with 3-indoleacetic acid. Seminal achievement in organic chemistry.
-- **Hofmann route:** Partial synthesis from ergotamine via alkaline hydrolysis,
-  yielding lysergic acid hydrate. This is the practical industrial method.
-- **Fermentation:** *Claviceps purpurea* or engineered strains cultured on rye
-  or [[cancer-medicinal-mushrooms-submerged-fermentation-production]] produce ergot alkaloids at scale.
-
-## Legal Status
-
-- **[[dmt-containing-plants-united-states-halpern]]:** Lysergic acid is listed as a Schedule III precursor chemical
-  under the Controlled [[controlled-substances-act-and-psychedelic-research]] (21 CFR 1310.02).
-- **International:** Monitored under the UN Convention Against Illicit Traffic
-  in Narcotic Drugs and Psychotropic Substances (1988).
-- **Research:** Regulated precursor; requires DEA registration for procurement
-  and handling in the US.
-
-## History
-
-Lysergic acid was first isolated in 1932 from ergot alkaloids by Arthur Stoll
-and colleagues at Sandoz Laboratories in Basel, Switzerland.
-
-The structural elucidation of lysergic acid enabled Albert Hofmann's synthesis
-of numerous amide derivatives, culminating in the accidental discovery of LSD-25's
-psychoactive properties on April 16, 1943 — the famous "Bicycle Day."
-
-## See Also
-
-- [[ergotamine]] — Major ergot alkaloid and lysergic acid derivative
-- [[tryptamine]] — Parent scaffold of the ergoline biosynthetic pathway
-- [[harmine]] — β-carboline alkaloid, another indole-derived psychoactive compound

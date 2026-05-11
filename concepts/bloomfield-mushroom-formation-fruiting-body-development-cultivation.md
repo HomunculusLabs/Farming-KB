@@ -1,5 +1,5 @@
 ---
-title: bloomfield mushroom formation fruiting body development cultivation, comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms Development, and Cultivation
+title: Bloomfield Mushroom Formation Fruiting Body Development Cultivation
 created: 2026-04-28
 tags:
   - mycology
@@ -34,7 +34,7 @@ chemical language of these arias.
 The first sign of fruiting body genesis is a cluster of hyphae that
 converge as a white pellet the size of a pinhead. This is the embryonic
 mushroom. Even at this early stage, the hyphae have arranged themselves
-into a tiny cap and stem, a homuncular ghost of the mature fruiting
+into a tiny [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]], a homuncular ghost of the mature fruiting
 body. Following the embryonic phase, hyphae continue to grow, their
 nuclei multiplying by mitosis and tips extending and branching. But
 much of the rapid phase of mushroom expansion occurs by inflation of
@@ -72,78 +72,19 @@ acting as braces that prevent tearing as the cap expands.
 
 ## Mutants and the Future of Developmental Mycology
 
-Hopes of understanding how fruiting bodies demarcate the cap and stem,
+Hopes of understanding how [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] demarcate the cap and stem,
 establish gill spacing, and decide which cells become basidia rest on
 the analysis of mutants. Mutant strains of the ink-cap Coprinus
 cinereus have been created by disrupting normal genes with short lengths
 of DNA inserted at randomly selected sites. These fungi develop bonsai
 fruiting bodies, form caps or stems that do not expand, or fail to
 produce spores. Elucidating the genetic basis of these disabilities
-remains one of the great challenges of experimental mycology.
+remains one of the great challenges of [[bloomfield-buller-experimental-mycology]].
 
 ## Timing and Environmental Triggers
 
 The timing of mushroom production is remarkably precise for some
 species. Milk caps (Lactarius species) emerge in the woods every year
 after rain, on the same weekend, at the base of the same trees. St.
-George's mushroom, Calocybe gambosa, appears in England on April 23.
+George's mushroom, [[calocybe-gambosa]], appears in England on April 23.
 Fruiting is controlled by chemical messages, complicated by
-environmental influences. Rainfall is an obvious catalyst, but other
-external motivations have not been examined critically.
-
-## Commercial Cultivation: Feast and Famine
-
-Fruiting bodies represent tremendous investments for mycelia, and a
-plentiful crop may drain the organism's resources. Feast and famine are
-the governing principles of commercial [[accessible-mushroom-cultivation-for-disabilities]]. Initially,
-a mycelium is feasted on a bed of warm and moist compost, providing
-ideal conditions for hyphal growth. Then, when the nutrients in the
-compost are close to exhaustion, the bed is cased in damp soil. Shortly
-after the addition of this wet blanket, the fruiting bodies expand.
-Usually, the fungus accumulates enough biomass in the compost to
-support two or three harvests. This cycle mirrors the behavior of wild
-mushrooms, where weight gain followed by starvation serves as the
-signal for reproduction.
-
-## Mushrooms as Iceberg Tips
-
-Mushrooms have been described as the tips of mycological icebergs,
-which may give the impression of a stable, subterranean organism that
-flushes a little of its biomass to the surface every year. This may be
-true for the largest mycelia, but for other fungi, the major part of
-their below-ground cytoplasm is probably shuttled skyward into the
-fruiting bodies. This makes sense for a mycelium growing within the
-finite resource of a fallen log or even a single leaf. If the mycelium
-has consumed the available nutrients, any cytoplasm left in the
-substrate is doomed to starvation. But wherever a species like the milk
-cap fruits at the same site every year, some of its mycelium must stay
-in the ground, lying in wait for a new dose of nutrients. Falling
-leaves offer an annual pulse of fertilizer for fungi in temperate
-zones. The development of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] is additionally constrained
-by the nutritional status of their plant associates, adding further
-dimensions to the suite of signals that control fruiting.
-
-## Fungal Frigidity: A Cool Discovery
-
-Mushrooms actually cool during periods of spore release, by as much as
-5 degrees Celsius on warm days, and the cooling continues even on cold
-mornings. This [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] was first measured systematically by
-researchers who inserted thin wire thermocouples between gills and
-spines, or up inside the tubes of boletes. The cooling mechanism is the
-same one that causes the chill experienced after swimming: evaporation
-of water from the mushroom's tissues. This cooling is essential for
-[[bloomfield-fungal-spore-discharge-and-dispersal]], because it promotes the condensation of water on the
-spore surface, forming the Buller's drop that drives the catapult
-## See Also
-
-- [[mushroom-pin-formation]]
-
-- [[mushroom-fruiting-body-morphology]]
-- bloomfield-ascobolus-ascomycete-fruiting-body-evolution
-- [[bloomfield-fungal-reproduction-and-chemical-communication]]
-- ballistospore-discharge-mechanism-mushrooms
-- [[fruiting-body-development]]
-- [[mushroom-cultivation]]
-- [[calocybe-gambosa]]
-
-- [[mushroom-fruiting-body-morphogenesis]]

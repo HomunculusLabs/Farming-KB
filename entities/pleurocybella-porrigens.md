@@ -22,7 +22,7 @@ sources:
 
 **Pleurocybella porrigens** is a small, fan-shaped saprotrophic mushroom commonly known as the **angel wing**. It grows in dense clusters on dead conifer wood, especially fallen logs and stumps of **hemlock** and **spruce**.
 
-The species was long considered an excellent edible mushroom in Japan and parts of Europe. However, in 2004, a cluster of **fatal encephalopathy cases** in Japan was linked to consumption of *P. porrigens*, prompting reevaluation of its edibility.
+The species was long considered an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in Japan and parts of Europe. However, in 2004, a cluster of **fatal encephalopathy cases** in Japan was linked to consumption of *P. porrigens*, prompting reevaluation of its edibility.
 
 The angel wing is characterized by its pure white, shell-shaped fruiting bodies with short or absent stipes, decurrent gills, and a habitat restricted to dead conifer wood. It fruits in autumn and early winter.
 
@@ -56,7 +56,7 @@ Originally described as *Agaricus porrigens* by Christiaan Hendrik Persoon in 17
 
 ## Distribution and Habitat
 
-*Pleurocybella porrigens* has a **boreal and temperate** distribution. It is found across Europe, Asia (especially Japan), and North America. In North America it occurs primarily in the Pacific Northwest and northeastern regions.
+*Pleurocybella porrigens* has a **boreal and temperate** distribution. It is found across Europe, Asia (especially Japan), and [[guzman-psilocybin-mushrooms-north-america]]. In North America it occurs primarily in the [[psilocybin-north-america-pacific-northwest]] and northeastern regions.
 
 It is a **saprotrophic** wood-decay fungus, growing almost exclusively on dead conifer wood. Preferred substrates include hemlock, spruce, fir, and occasionally pine. Fruitings occur in dense overlapping clusters on logs, stumps, and fallen branches.
 
@@ -64,7 +64,7 @@ The fruiting season extends from September through January, with peak abundance 
 
 ## Toxicity Concerns
 
-In 2004, **17 cases of acute encephalopathy** were reported in Japan following consumption of *P. porrigens*. Of these, 10 patients died. The outbreak primarily affected elderly patients with pre-existing **renal impairment**.
+In 2004, **17 cases of acute encephalopathy** were reported in Japan following consumption of *P. porrigens*. Of these, 10 patients died. The outbreak primarily affected [[cannabis-elderly-patients]] with pre-existing **renal impairment**.
 
 Subsequent investigation by Sasaki et al. (2011) identified an unstable amino acid, possibly **pleurocybellazine**, as a candidate toxin. The compound appears to be heat-labile and water-soluble, and its concentration varies significantly between collections.
 
@@ -78,37 +78,12 @@ Prior to the 2004 incidents, *P. porrigens* was widely regarded as a choice edib
 
 In light of the toxicity reports, many mycological authorities now recommend **avoiding consumption** altogether. Some jurisdictions have added the species to lists of mushrooms to avoid.
 
-If consumed, thorough cooking is essential. Boiling and discarding the cooking water may reduce risk, as the suspected toxin is water-soluble. However, no preparation method has been demonstrated to eliminate risk entirely.
+If consumed, thorough cooking is essential. Boiling and discarding the cooking water may reduce risk, as the suspected toxin is water-soluble. However, no [[pf-tek-substrate-formula-and-jar-preparation-method]] has been demonstrated to eliminate risk entirely.
 
 ## Ecological Role
 
-*P. porrigens* is a **white-rot decomposer** of conifer wood. It produces lignin-degrading enzymes including laccase and [[fungal-manganese-peroxidase-remediation]], contributing to the breakdown of woody debris in forest ecosystems.
+*P. porrigens* is a **white-rot decomposer** of conifer wood. It produces lignin-degrading enzymes including laccase and [[fungal-manganese-peroxidase-remediation]], contributing to the breakdown of woody debris in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 Its role in **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** is particularly important in old-growth conifer forests where hemlock and spruce are dominant. The species helps convert recalcitrant lignin into simpler [[fungal-volatile-organic-compounds-communication]] available to other soil organisms.
 
 The fruiting bodies serve as a food source for various invertebrates, including fungivorous beetles and springtails. Deer and small mammals occasionally browse the clusters, though the tough texture makes it a less preferred food item.
-
-## Chemical Composition
-
-Analysis of *P. porrigens* has revealed the presence of **[[plant-communication-volatile-organic-compounds]] compounds** including octanol and nonanol, which contribute to its mild odor. The species contains typical fungal sterols including ergosterol and ergosterol peroxide.
-
-The suspected toxin **pleurocybellazine** is an unstable amino acid derivative that degrades rapidly at room temperature. This instability may explain why historical consumption appeared safe while specific batches proved lethal.
-
-Additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include lectins with hemagglutinating activity and small peptides with potential [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Research into the species' chemistry remains limited compared to more commercially significant fungi.
-
-## Similar Species
-
-- **Pleurotus ostreatus** — much larger, gray to brown cap, non-amyloid spores.
-- **Hericium coralloides** — white branching coral-like fruiting body, no gills.
-- **Crepidotus species** — have brown spore prints; often smaller and more ephemeral.
-- **Schizophyllum commune** — smaller, with a distinctive split gill structure.
-
-## See Also
-
-- [[hericium-coralloides]]
-- [[coprinus-comatus]]
-- [[fomes-fomentarius]]
-- [[psilocybe-cubensis]]
-- [[paul-stamets]]
-- [[lactarius-indigo]]
-- [[boletus-edulis-entity]]

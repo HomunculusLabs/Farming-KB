@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-**Beaked hazelnut** (*Corylus cornuta*) is a deciduous shrub native to North America, recognized by its distinctive beaked involucres (husks) that extend well beyond the nut. It is one of two native North American hazelnut species and the most widely distributed.
+**Beaked hazelnut** (*Corylus cornuta*) is a deciduous shrub native to [[guzman-psilocybin-mushrooms-north-america]], recognized by its distinctive beaked involucres (husks) that extend well beyond the nut. It is one of two native [[growing-gourmet-north-american-reishi-species]] hazelnut species and the most widely distributed.
 
 The species typically grows as a multi-stemmed shrub 1–4 meters tall, forming dense thickets through clonal root suckering. Its edible nuts are smaller than those of the European filbert (*C. avellana*) but have been an important food source for Indigenous peoples for millennia.
 
-Beaked hazelnut is increasingly valued in native plant landscaping, ecological restoration, and agroforestry systems for its wildlife habitat value, soil stabilization properties, and ornamental qualities.
+Beaked hazelnut is increasingly valued in native plant landscaping, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], and agroforestry systems for its [[hemenway-backyard-wildlife-habitat]] value, soil stabilization properties, and ornamental qualities.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ Male flowers are produced in pendulous catkins 3–6 cm long, forming in late su
 
 The fruit is a hard-shelled nut enclosed in a distinctive tubular involucre (husk) that extends 2–4 cm beyond the nut, forming a characteristic "beak." The husk is covered in stiff, bristly hairs and splits open at maturity.
 
-Nuts mature from August to October, with peak ripeness indicated by husk browning and natural drop. Seed dispersal is primarily by gravity and caching rodents, with blue jays occasionally carrying nuts short distances.
+Nuts mature from August to October, with peak ripeness indicated by husk browning and natural drop. [[clay-pellet-seed-dispersal]] is primarily by gravity and caching rodents, with blue jays occasionally carrying nuts short distances.
 
 The chromosome number is 2n = 22, consistent with other *Corylus* species. Hybridization between *C. cornuta* and *C. avellana* produces fertile offspring, facilitating interspecific breeding for crop improvement.
 
@@ -87,24 +87,4 @@ Beaked hazelnut is easily propagated from seed, which requires 90–120 days of 
 
 In landscape settings, the species is valued for its naturalistic appearance, wildlife value, and tolerance of partial shade. It requires minimal maintenance once established and is relatively pest-free compared to European filbert.
 
-Eastern filbert blight (*Anisogramma anomala*), a devastating fungal disease of commercial hazelnut, also infects *C. cornuta*. However, native populations show greater resistance than cultivated European filbert, making beaked hazelnut an important genetic resource for breeding programs.
-
-The species performs best in USDA zones 3–7. In warmer zones, the chilling requirement for catkin development may not be met, reducing nut production. Drought stress during nut fill can reduce kernel quality and yield.
-
-In native plant gardens and ecological restoration projects, beaked hazelnut is often planted in massed groupings to create wildlife-friendly thickets. It combines well with other native understory shrubs including serviceberry, elderberry, and viburnum species.
-
-Nut yields from wild stands are highly variable, ranging from near zero in shaded conditions to 1–3 kg per plant in full sun. Selective breeding and cultivation could significantly improve yields, but commercial development remains in early stages.
-
-## See Also
-
-- [[betula-pendula]]
-- [[alnus-glutinosa]]
-- [[acer-saccharum]]
-- [[prunus-spinosa]]
-- [[castanea-sativa]]
-- [[vaccinium-angustifolium]]
-- [[amelanchier-alnifolia]]
-- [[ulmus-americana]]
-- [[acer-rubrum]]
-- [[alnus-rubra]]
-- [[liriodendron-tulipifera]]
+Eastern filbert blight (*Anisogramma anomala*), a devastating [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of commercial hazelnut, also infects *C. cornuta*. However, native populations show greater resistance than cultivated European filbert, making beaked hazelnut an important genetic resource for breeding programs.

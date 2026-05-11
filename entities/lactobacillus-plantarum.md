@@ -5,7 +5,8 @@ updated: 2026-05-06
 aliases: [L. plantarum, Lactiplantibacillus plantarum]
 tags: [bacteria, probiotics, fermentation, lactic-acid-bacteria, microbiology]
 type: entity
-sources: []
+sources:
+  - "raw/papers/blesching-cannabis-pain-management.md"
 ---
 
 # Lactobacillus plantarum
@@ -87,13 +88,3 @@ L. plantarum has been extensively studied for its probiotic characteristics:
 - **L. plantarum WCFS1** — The first L. plantarum genome to be fully
   sequenced (2003), serving as a reference strain for genetic studies.
 - **L. plantarum 299v** — A well-studied probiotic strain with documented
-  benefits for gastrointestinal health.
-- **L. plantarum ATCC 14917** — A widely used type strain in microbiological
-  research and industrial applications.
-
-## See Also
-
-- [[natfarm-lacto-fermentation-preservation]]
-- [[cho-fermented-plant-juice-preparation]]
-- faires-pickling-and-advanced-fermentation
-- [[lactic-acid-bacteria]]

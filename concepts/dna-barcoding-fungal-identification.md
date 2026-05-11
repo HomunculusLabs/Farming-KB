@@ -1,5 +1,5 @@
 ---
-title: DNA Barcoding for pcr-methods-fungal-identification-monitoring
+title: Dna Barcoding Fungal Identification
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # DNA Barcoding for Fungal Identification
 
-DNA barcoding uses short, standardized DNA sequences to identify fungal species. The Internal Transcribed Spacer (ITS) region has been adopted as the official fungal barcode, revolutionizing fungal dna barcoding fungal identification assessment.
+DNA barcoding uses short, standardized DNA sequences to identify fungal species. The Internal Transcribed Spacer (ITS) region has been adopted as the official fungal barcode, revolutionizing [[fungal-dna-extraction-methods]] barcoding fungal identification assessment.
 
 ## The Fungal Barcode: ITS Region
 
@@ -50,7 +50,7 @@ DNA barcoding uses short, standardized DNA sequences to identify fungal species.
 - Reveals that cultivation detects only a fraction of actual diversity
 
 ### Environmental Sampling
-Soil DNA extraction followed by ITS metabarcoding reveals [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that are:
+Soil [[fungal-destructive-sampling-herbarium-dna-extraction]] followed by ITS metabarcoding reveals [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] that are:
 - Far more diverse than culture-based surveys
 - Include many unculturable species
 - Include both active and dormant organisms
@@ -66,7 +66,7 @@ Soil DNA extraction followed by ITS metabarcoding reveals [[biodiversity-of-fung
 - **Chimera formation:** PCR artifacts during amplification
 
 ### Biological Issues
-- **Cryptic species:** Some morphologically identical species are distinct genetically
+- **[[cryptic-species]]:** Some morphologically identical species are distinct genetically
 - **Species concepts:** DNA barcoding assumes species are genetically distinct, which is not always true
 - **Incomplete lineage sorting:** In recently diverged species, ITS may not have sorted
 - **Hybridization:** Hybrid species may have conflicting signals
@@ -88,28 +88,3 @@ Soil DNA extraction followed by ITS metabarcoding reveals [[biodiversity-of-fung
 6. **Report sequence accession numbers** in publications
 7. **Deposit cultures** in recognized collections when possible
 8. **Combine molecular and morphological data** whenever possible
-
-## Complementary Barcoding Regions
-
-When ITS is insufficient:
-- **28S rDNA D1/D2:** Better for yeast identification; ~600 nt; 1% divergence = separate species
-- **TEF1-alpha (translation elongation factor 1-alpha):** Protein-coding; good for many filamentous fungi
-- **RPB1/RPB2 (RNA polymerase subunits):** Excellent for deep phylogenetics
-- **beta-tubulin:** Useful for Penicillium, Aspergillus, and other genera
-- **mtSSU (mitochondrial small subunit):** Additional phylogenetic marker
-
-## Impact on Fungal Biodiversity Studies
-
-DNA barcoding and metabarcoding have revealed that:
-- Cultivation detects only a fraction of actual fungal diversity
-- Soil fungal communities are far more complex than previously thought
-- Many putatively cosmopolitan species are actually complexes of cryptic species
-- [[biodiversity-fungi-tropical-fungal-diversity]] diversity is vastly underestimated
-- Fungal endophyte communities are extraordinarily diverse
-
-## See Also
-
-- [[ribosomal-rna-sequencing-yeast-identification]]
-- fungal-phylogeny-kingdom-classification
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
