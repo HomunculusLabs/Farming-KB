@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1202 pages**
+**1204 pages**
 
 ## A
 
@@ -915,6 +915,8 @@
 - [[pollinator-gardening]]
 - [[pollinator-habitat]]
 - [[pond-maintenance-and-troubleshooting]]
+- [[pond-maintenance-fertilisers-and-shelter]]
+- [[pond-sizing-from-garden-to-commercial-scale]]
 - [[potato-growing-guide]]
 - [[potato-growing-guide-solomon]]
 - [[powdery-mildews-erysiphaceae-diversity-host-range]]

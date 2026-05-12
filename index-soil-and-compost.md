@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**643 pages**
+**645 pages**
 
 ## A
 
@@ -481,6 +481,8 @@
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plants-tolerant-of-alkaline-soils]]
 - [[plow-pan-soil-compaction-remediation-solomon]]
+- [[pond-fertilisation-and-nutrient-management]]
+- [[pond-fertilizers-waste-management]]
 - [[potassium-in-plant-nutrition]]
 - [[potassium-plant-nutrition]]
 - [[potassium-role-in-plants]]

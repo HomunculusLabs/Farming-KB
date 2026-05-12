@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1802 pages**
+**1804 pages**
 
 ## #
 
@@ -1346,6 +1346,8 @@
 - [[plants-of-the-gods-turbina-corymbosa-ololiuqui]]
 - [[plants-of-the-gods-virola-epena-snuff]]
 - [[plutarch-and-cicero-on-the-eleusinian-mysteries]]
+- [[pond-annidations-and-landscape-integration]]
+- [[pond-depth-series-flow-and-landscape-integration]]
 - [[powell-ancient-entheogenic-cults-and-the-religious-impulse]]
 - [[powell-cultural-defense-criticism-psychedelic-use]]
 - [[powell-entheogens-as-epistemological-tools]]

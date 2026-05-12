@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1208 pages**
+**1230 pages**
 
 ## A
 
@@ -58,7 +58,15 @@
 - [[apple-guild-design-guide]]
 - [[apple-tree-guild-design-species-combinations]]
 - [[applied-pattern-design-in-permaculture]]
+- [[aquaculture-design-principles-and-energy-efficiency]]
+- [[aquaculture-energy-efficiency]]
+- [[aquaculture-pond-construction-sizes]]
+- [[aquaculture-pond-yield-factors]]
+- [[aquaculture-pond-yields-and-stocking-rates]]
 - [[aquaculture-principles-and-water-based-food-systems]]
+- [[aquaculture-structures-and-cage-culture]]
+- [[aquaculture-temperature-and-salinity]]
+- [[aquaculture-water-quality]]
 - [[aquatic-polyculture-design-mollison]]
 - [[arid-landscape-scarp-wadi-desert-settlement]]
 
@@ -177,9 +185,13 @@
 - [[farming-with-air-water-and-sunlight]]
 - [[farming-with-air-water-sunlight]]
 - [[field-observation-permaculture-design]]
+- [[fish-yield-factors-and-polyculture]]
+- [[fish-yield-optimization-aquaculture]]
+- [[fish-yield-optimization-through-species-selection-and-polyculture]]
 - [[floodwater-harvesting-and-braided-stream-management]]
 - [[floodwater-harvesting-and-braided-streams]]
 - [[floodwater-harvesting-braided-streams]]
+- [[fodder-pond-sequences-and-polyculture]]
 - [[fodder-trees-livestock-permaculture]]
 - [[food-forest-design]]
 - [[food-forest-design-guide]]
@@ -1098,6 +1110,12 @@
 - [[polyculture-design-hemenway]]
 - [[polyculture-design-holzer]]
 - [[pond-and-aquaculture]]
+- [[pond-annidations-and-edge-effect-configuration]]
+- [[pond-edge-effect-design]]
+- [[pond-edge-effects-landscape-mosaics]]
+- [[pond-polyculture-design]]
+- [[pond-shape-edge-effects-aquaculture]]
+- [[pond-sizes-and-configurations-for-aquaculture]]
 - [[poultry-forage-days-mollison]]
 - [[poultry-range-management-mollison]]
 - [[powell-omega-point-and-cosmic-evolution]]
@@ -1115,6 +1133,7 @@
 
 ## S
 
+- [[salinity-management-in-aquaculture-ponds]]
 - [[salt-tolerant-plants-permaculture]]
 - [[salt-tolerant-trees-and-shrubs-permaculture]]
 - [[salvage-permaculture-dumpster-diving]]
@@ -1146,6 +1165,7 @@
 - [[slope-analysis-in-permaculture]]
 - [[slope-terracing-earthworks]]
 - [[small-scale-intensive-food-systems-mollison]]
+- [[small-scale-pond-aquaculture-design]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]
 - [[soil-building-permaculture]]
 - [[soil-minerals-micronutrients-permaculture]]
@@ -1167,6 +1187,7 @@
 
 ## T
 
+- [[temperature-salinity-and-flow-in-aquaculture]]
 - [[terrace-construction-earthworks]]
 - [[terrace-earthworks-and-slope-management]]
 - [[thermodynamics-energy-flow-permaculture-design]]
@@ -1226,6 +1247,7 @@
 - [[water-harvesting-and-conservation-in-permaculture]]
 - [[water-harvesting-in-arid-lands]]
 - [[water-permaculture-global-local-strategies]]
+- [[water-quality-in-aquaculture-ponds]]
 - [[water-runoff-factors-and-swale-systems]]
 - [[williams-pdc-additional-permaculture-principles]]
 - [[williams-pdc-appropriate-technology]]

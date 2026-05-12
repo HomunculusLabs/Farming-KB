@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**248 pages**
+**250 pages**
 
 ## A
 
@@ -85,6 +85,7 @@
 
 - [[fermented-hot-sauce-guide]]
 - [[firewood-seasoning-and-storage]]
+- [[fish-pond-stock-management-and-construction]]
 - [[flood-preparedness-guide]]
 - [[food-dehydration-guide]]
 - [[food-preservation-canning]]
@@ -216,6 +217,7 @@
 - [[pig-keeping-guide]]
 - [[pig-range-systems]]
 - [[pond-design-and-construction]]
+- [[pond-edges-interfaces-and-energy-efficiency]]
 - [[poultry-housing-guide]]
 - [[poultry-range-management]]
 - [[preserving-wood-timber-framing]]

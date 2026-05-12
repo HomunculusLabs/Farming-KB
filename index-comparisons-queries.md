@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1322 pages**
+**1327 pages**
 
 ## A
 
@@ -104,6 +104,7 @@
 - [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
 - [[comparison-biogas-digester-basics-vs-micro-hydro-power]]
 - [[comparison-biogas-digester-basics-vs-rocket-stove-design]]
+- [[comparison-biogas-digester-basics-vs-solar-cooking-methods]]
 - [[comparison-biogas-vs-composting-toilet]]
 - [[comparison-biointensive-vs-permaculture]]
 - [[comparison-biointensive-vs-square-foot-gardening]]
@@ -158,6 +159,8 @@
 - [[comparison-chamomile-vs-passionflower]]
 - [[comparison-chamomile-vs-st-johns-wort]]
 - [[comparison-chamomile-vs-valerian]]
+- [[comparison-charcoal-production-for-cooking-vs-masonry-heater-design]]
+- [[comparison-charcoal-production-for-cooking-vs-rocket-stove-design]]
 - [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]
 - [[comparison-chayote-vs-taro-cultivation]]
 - [[comparison-chestnut-vs-walnut-vs-pecan-cultivation]]
@@ -783,6 +786,7 @@
 - [[query-how-do-i-build-with-earthbags]]
 - [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
 - [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
+- [[query-how-do-i-choose-and-apply-the-right-mulch-for-my-garden]]
 - [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
 - [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]]
@@ -839,6 +843,7 @@
 - [[query-how-do-i-grow-mulberry-trees]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
+- [[query-how-do-i-grow-perennial-vegetables-in-my-garden]]
 - [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
 - [[query-how-do-i-grow-squash-pumpkins-and-cucumbers-successfully]]
 - [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
