@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**4733 pages**
+**4743 pages**
 
 ## #
 
@@ -417,6 +417,7 @@
 - [[ananas-comosus]]
 - [[anandamide-aea]]
 - [[anaptychia-ciliaris]]
+- [[anasazi-spiral]]
 - [[anchusa-azurea]]
 - [[anchusa-officinalis]]
 - [[andreaea-petrophylla]]
@@ -447,6 +448,7 @@
 - [[animal-cookies]]
 - [[animal-face]]
 - [[ann-shulgin]]
+- [[anna-soaer]]
 - [[anni-albers]]
 - [[annidation]]
 - [[annona-muricata]]
@@ -1113,6 +1115,7 @@
 - [[chontero]]
 - [[chop-and-drop]]
 - [[christian-ratsch]]
+- [[christopher-alexander]]
 - [[chromatium-mollison]]
 - [[chroogomphus-rutilus]]
 - [[chrysanthemum-coronarium]]
@@ -2225,6 +2228,7 @@
 - [[hepa-filter]]
 - [[hepatica-nobilis]]
 - [[heracleum-sphondylium]]
+- [[herb-spiral]]
 - [[hericenones]]
 - [[hericium-abietis]]
 - [[hericium-americanum]]
@@ -2495,6 +2499,7 @@
 - [[kalanchoe-tomentosa]]
 - [[kalapuya]]
 - [[kalapuya-brunnea]]
+- [[kalaupapa-molokai]]
 - [[kali-mist]]
 - [[kali-snacks]]
 - [[kalmia-angustifolia]]
@@ -2920,6 +2925,7 @@
 - [[methylone]]
 - [[metroxylon-sagu]]
 - [[michael-beug]]
+- [[michael-hackleman]]
 - [[michael-harner]]
 - [[michael-starks]]
 - [[michauxia-campanuloides]]
@@ -2993,6 +2999,7 @@
 - [[muhlenbergia-capillaris]]
 - [[muhlenbergia-lindheimeri]]
 - [[muhlenbergia-rigens]]
+- [[mulch-pit-garden]]
 - [[mullein]]
 - [[muraya]]
 - [[murraya-koenigii]]
@@ -3478,6 +3485,7 @@
 - [[pistia-stratiotes]]
 - [[pistil-whippersnapper]]
 - [[pisum-sativum]]
+- [[pitjatjantjara-people]]
 - [[pittsburgh-doublewash]]
 - [[plagiochila-asplenioides]]
 - [[plagiomnium-cuspidatum]]
@@ -4648,6 +4656,7 @@
 - [[verbena-officinalis]]
 - [[verbesina-alternifolia]]
 - [[vermicomposting]]
+- [[vernalisation]]
 - [[vernonia-amygdalina]]
 - [[vernonia-noveboracensis]]
 - [[veronica-chamaedrys]]
@@ -4687,6 +4696,7 @@
 - [[vincetoxicum-hirundinaria]]
 - [[viola-odorata]]
 - [[vipera-berus]]
+- [[virbela-institute]]
 - [[virodhamine]]
 - [[virola-calophylla]]
 - [[virola-elongata]]

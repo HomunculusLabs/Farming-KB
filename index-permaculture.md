@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1124 pages**
+**1133 pages**
 
 ## A
 
@@ -110,6 +110,7 @@
 - [[chinampas]]
 - [[chinampas-agriculture]]
 - [[chisel-plough-soil-conditioning-mollison]]
+- [[climatic-factors-in-permaculture-design]]
 - [[coastal-edible-plants-permaculture]]
 - [[coastal-ground-covers-hedges-permaculture]]
 - [[coastal-permaculture-plants]]
@@ -228,7 +229,7 @@
 - [[hemenway-native-versus-exotic-plants-debate]]
 - [[hemenway-oak-tree-ecological-model]]
 - [[hemenway-soil-as-water-storage]]
-- [[herb-spiral]]
+- [[herb-spiral-and-applied-pattern-design]]
 - [[herb-spiral-construction]]
 - [[herb-spiral-design]]
 - [[herb-spiral-design-guide]]
@@ -1058,6 +1059,7 @@
 
 ## R
 
+- [[radiation-effects-permaculture-design]]
 - [[rainwater-harvesting-systems]]
 - [[reading-the-landscape]]
 - [[resource-classification-and-management-in-permaculture]]
@@ -1087,6 +1089,9 @@
 - [[sheet-mulching-guide]]
 - [[sheet-mulching-lasagna-gardening]]
 - [[sheet-mulching-methods-urban-permaculture]]
+- [[shelterbelt-benefits-and-livestock-protection]]
+- [[shelterbelt-design-benefits]]
+- [[shelterbelt-species-and-design]]
 - [[slope-analysis-in-permaculture]]
 - [[small-scale-intensive-food-systems-mollison]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]
@@ -1183,10 +1188,14 @@
 - [[williams-pdc-zone-analysis]]
 - [[windbreak-and-shelterbelt-design]]
 - [[windbreak-design-and-livestock-shelter]]
+- [[windbreak-design-and-strategy]]
 - [[windbreak-design-establishment]]
 - [[windbreak-design-establishment-methods]]
 - [[windbreak-effects-on-soil-moisture-and-extreme-weather]]
+- [[windbreak-establishment-and-benefits]]
+- [[windbreak-establishment-methods]]
 - [[windbreak-shelterbelt-species-selection]]
+- [[windbreak-species-selection-and-permeability]]
 
 ## Y
 

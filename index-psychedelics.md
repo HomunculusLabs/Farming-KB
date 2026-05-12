@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1799 pages**
+**1800 pages**
 
 ## #
 
@@ -1771,6 +1771,7 @@
 - [[tma-2-compound-profile]]
 - [[translinguistic-objects-glossolalia-tryptamine]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
+- [[tribal-art-as-sacred-knowledge-systems]]
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
 - [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
