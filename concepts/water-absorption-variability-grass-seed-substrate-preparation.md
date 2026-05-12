@@ -90,6 +90,8 @@ This approach produces a more homogenous substrate because:
 3. **Batch variability is compensated** — differences in absorption capacity between seed sources are partially normalized by the extended soak time
 
 
+
+
 ## See Also
 
 - [[water-hyacinth-mollison]]

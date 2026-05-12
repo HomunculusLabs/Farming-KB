@@ -119,6 +119,6 @@ Most tropical forage legumes require specific rhizobial inoculation for effectiv
 
 ## See Also
 
-- [[Tropical Pasture Grasses]] — Grass companions for legume pastures
-- [[Savannah Forestry Rehabilitation]] — Using legumes for degraded land restoration
-- [[Animal Tractor Systems]] — Integrating animals with forage legume systems
+- [[tropical-pasture-grasses]] — Grass companions for legume pastures
+- [[savannah-forestry-rehabilitation]] — Using legumes for degraded land restoration
+- [[animal-tractor-systems]] — Integrating animals with forage legume systems

@@ -127,4 +127,4 @@ alone by addressing both thermal storage and thermal resistance.
 - [[comparison-adobe-vs-rammed-earth]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[natural-building-materials-guide]]
-- [[cob-vs-hempcrete]]
+- [[comparison-cob-vs-hempcrete]]

@@ -117,13 +117,16 @@ The power of dryland permaculture lies not in any single technique but in their 
 
 Together, these strategies form coherent systems that increase in resilience and productivity over time, turning the fundamental challenges of dryland environments — scarcity of water, fertility, and shelter — into the organizing principles of sustainable design. The periodic table reminds us that no element is wasted in a well-designed system; every material flow can be captured and redirected toward productive ends.
 
+
 ## See Also
 
-- **Swales** — detailed earthwork design and construction
-- **Water harvesting** — broader techniques for capturing and storing rainfall
-- **Arid climate zones** — classification and characteristics of dryland environments
-- **Soil mineral cycles** — biological and geological processes governing nutrient availability
-- **Vernacular architecture** — traditional building techniques adapted to local climate and materials
+- [[dryland-building-and-settlement]]
+- [[dryland-building-settlement]]
+- [[dryland-building-settlements]]
+- [[dryland-buildings-and-settlements]]
+- [[dryland-settlements-and-interceptor-banks]]
+- [[dryland-settlements-and-salting-control]]
+
 ## See also
 
 - [[permaculture-design]]

@@ -163,3 +163,10 @@ Mollison's fundamental conviction is that "there is no pest problem that will no
 6. **Palm groves are polyculture nuclei** — The shade and shelter of palms create ideal conditions for integration
 7. **No pest problem is intractable** — Applied commonsense and integrated natural approaches can address any pest issue
 8. **Stored food protection** — Neem provides centuries-proven protection for stored grains and foods
+## See also
+
+- [[tropical-hedgerow-shelterbelt-design]]
+- [[tropical-hedgerow-windbreak-systems]]
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
+- [[integrated-pest-management]]
+- [[tropical-food-system-development]]

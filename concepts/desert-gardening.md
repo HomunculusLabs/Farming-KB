@@ -147,3 +147,12 @@ Caliche is a hardened calcium carbonate layer common in desert soils:
 - If within 12 inches of surface, break through with pickaxe or jackhammer
 - Create raised beds above the caliche layer
 - Plant in containers or raised beds where caliche is too deep to penetrate
+
+## See Also
+
+- [[desert-precipitation-and-opportunistic-response]]
+- [[desert-precipitation-patterns-and-opportunistic-ecology]]
+- [[desert-revegetation-natural-farming]]
+- [[desert-soils-nutrition-and-phosphorus-dynamics]]
+- [[desert-temperature-and-soils]]
+- [[desert-temperature-regimes-and-soil-chemistry]]

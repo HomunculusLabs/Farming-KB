@@ -96,10 +96,10 @@ On man-made and natural landslide or volcanic areas of the tropics, it is first 
 
 ## See Also
 
-- [[Animal Tractor Systems]] — Using chickens and pigs to clear land before forestry establishment
-- [[Tropical Pasture Grasses]] — Grass species suitable for integration with reforested savannah
-- [[Tropical Forage Legumes]] — Legume species for soil building and livestock feed
-- [[Tropical Hedgerow and Windbreak]] — Hedgerow establishment techniques for tropical reclamation
+- [[animal-tractor-systems]] — Using chickens and pigs to clear land before forestry establishment
+- [[tropical-pasture-grasses]] — Grass species suitable for integration with reforested savannah
+- [[tropical-forage-legumes]] — Legume species for soil building and livestock feed
+- Tropical Hedgerow And Windbreak — Hedgerow establishment techniques for tropical reclamation
 
 ## Condensation and Moisture Harvesting
 

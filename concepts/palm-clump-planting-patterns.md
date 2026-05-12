@@ -146,3 +146,10 @@ and integrates into village-scale zonation. Combined with banana-avocado interpl
 leguminous support species, and well-designed access and earthworks, the clump system
 becomes a self-mulching, multi-layered polyculture capable of sustained high production
 with minimal external inputs.
+## See also
+
+- [[palm-tree-uses]]
+- [[palm-planting-patterns-and-mulch-systems]]
+- [[mollison-coconut-palm-polyculture-systems]]
+- [[palm-plantation-economics-and-renewal]]
+- [[plantation-monoculture-reform]]

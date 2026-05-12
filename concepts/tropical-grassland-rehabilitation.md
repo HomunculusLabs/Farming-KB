@@ -122,3 +122,10 @@ The core species for tropical grassland rehabilitation form a layered system:
 - **Long-term productive species**: Bamboo, rattan, macadamia, coconut, pecan, avocado, rosewood, teak, cedar, balsa, mahogany
 
 To assess total nitrogen yield, combine soil nitrogen from mycelia (approximately 200 kg/ha/year) with leaf and slash nitrogen per hectare — the leaf yield from coppiced legumes typically far exceeds root nitrogen contribution. This makes leguminous tree crops the cornerstone of any sustainable tropical rehabilitation programme.
+## See also
+
+- [[tropical-pioneering-grassland-rehabilitation]]
+- [[savannah-forestry-rehabilitation]]
+- [[tropical-savanna-forestry-rehabilitation]]
+- [[ecological-succession-in-permaculture-design]]
+- [[legume-nitrogen-fixation-and-green-manure]]

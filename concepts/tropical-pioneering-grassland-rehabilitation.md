@@ -127,7 +127,11 @@ The key is rapid canopy closure, after which natural succession processes take o
 
 ## See Also
 
-- [[Nitrogen Fixation in Agroforestry Systems]]
-- [[Contour Strip Planting]]
-- [[Cut-and-Carry Forage Systems]]
-- [[Polycultural Forest Design]]
+- [[nitrogen-fixing-trees-in-agroforestry]]
+- Contour Strip Planting
+- Cut And Carry Forage Systems
+- Polycultural Forest Design
+## See Also
+
+- [[palm-polyculture-species-selection]]
+- [[permaculture-design]]

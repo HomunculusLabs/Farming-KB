@@ -88,6 +88,8 @@ The difference, Mollison suggests, is that traditional peoples planned for thems
 - Even minimal slopes (1:150) can be used for water and heat collection
 
 
+
+
 ## See Also
 
 - [[slope-measurement]]

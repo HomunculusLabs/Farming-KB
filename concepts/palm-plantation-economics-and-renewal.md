@@ -120,3 +120,10 @@ Intercropping coconut with **cacao**, **black pepper**, **pineapple**, **cloves*
 Mollison's core philosophy on plantation redesign is to **extend small successful trials** rather than impose broadscale models from above. A single hectare of well-designed intercrop, managed by a local family and producing diverse yields, serves as a living demonstration that neighbors can observe, adapt, and adopt at their own pace. Broadscale imposition — whether of monoculture or polyculture — ignores local variation in soils, markets, culture, and labor, and is far more likely to fail.
 
 The designer's role is to **observe what works in situ**, document results rigorously, and help communities replicate successes on their own terms. This is the antithesis of the plantation model, which imposes uniform systems regardless of local context.
+## See also
+
+- [[mollison-coconut-palm-polyculture-systems]]
+- [[palm-tree-uses]]
+- [[palm-clump-planting-patterns]]
+- [[palm-planting-patterns-and-mulch-systems]]
+- [[plantation-monoculture-reform]]

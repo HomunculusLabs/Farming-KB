@@ -187,6 +187,6 @@ Humphreys, L.R. *A Guide to Better Pastures for the Tropics and Subtropics*, Wri
 
 ## See Also
 
-- [[Savannah Forestry and Difficult Terrain Pioneering]]
-- [[Animal Tractor Systems]]
-- [[Tropical Hedgerow and Shelterbelt Design]]
+- [[savannah-forestry-and-difficult-terrain-pioneering]]
+- [[animal-tractor-systems]]
+- [[tropical-hedgerow-shelterbelt-design]]

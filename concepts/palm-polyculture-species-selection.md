@@ -115,8 +115,12 @@ The emphasis on over-planting and long-term culling reflects a realistic accepta
 
 ## See Also
 
-- [[Tropical Forest Structure]] — the cross-sectional model that palm polycultures imitate
-- [[Zoning in Permaculture Design]] — the broader zoning framework from village to wilderness
-- [[Coconut Varieties]] — detailed varietal descriptions and selection guides
-- [[Co-Processing and Integrated Production]] — design patterns for shared infrastructure
-- [[Genetic Selection and Culling Strategies]] — broader permaculture approaches to plant improvement
+- [[mollison-wet-tropical-forest-structure-and-polyculture]] — the cross-sectional model that palm polycultures imitate
+- Zoning In Permaculture Design — the broader zoning framework from village to wilderness
+- Coconut Varieties — detailed varietal descriptions and selection guides
+- Co Processing And Integrated Production — design patterns for shared infrastructure
+- Genetic Selection And Culling Strategies — broader permaculture approaches to plant improvement
+## See Also
+
+- [[tropical-pioneering-grassland-rehabilitation]]
+- [[permaculture-design]]

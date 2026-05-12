@@ -147,3 +147,9 @@ Strategic buying and selling to keep animal numbers aligned with seasonal condit
 Banna (elephant) grass serves as a valuable bridge between animal tractor systems and permanent pasture. It performs best on deep alluvial or coarse flats above 110 cm (alluvium) or 90 cm (coastal) rainfall, reaching 2.5–4.5 meters in height. It can be grazed to 1 meter or cut to 15 cm for forage and mulch. It needs a vigorous legume interplant such as Leucaena, or forage legumes like Calopogon, Centrosema, or Glycine in high-rainfall tropical areas.
 
 Banna grass can carry 7 milk cows per hectare when cut and hand-fed with Leucaena and sugar pods, making it a cornerstone of integrated tropical livestock systems.
+## See also
+
+- [[animal-tractor-systems]]
+- [[mollison-animal-integration-permaculture-design]]
+- [[chicken-tractor-systems]]
+- [[integrated-land-management-and-polyculture-design]]

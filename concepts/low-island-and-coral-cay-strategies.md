@@ -195,6 +195,6 @@ The additional design inputs needed for sustainable low island habitation are:
 
 ## See Also
 
-- [[Tropical Hedgerow and Shelterbelt Design]]
-- [[Savannah Forestry and Difficult Terrain Pioneering]]
-- [[Tropical Pasture Grass Species]]
+- [[tropical-hedgerow-shelterbelt-design]]
+- [[savannah-forestry-and-difficult-terrain-pioneering]]
+- [[tropical-pasture-grass-species]]

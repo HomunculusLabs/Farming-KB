@@ -96,3 +96,10 @@ This dense frontline shelterbelt provides the essential foundation behind which 
 - **Progressive enrichment** allows the hedgerow to evolve from simple to complex over time
 - **Ridge systems** serve dual purposes of wind protection and soil/water conservation
 - **Mulch harvest** from inner hedgerow rows feeds the developing system
+## See also
+
+- [[tropical-hedgerow-shelterbelt-design]]
+- [[hedgerow-planting]]
+- [[comparison-windbreak-vs-hedgerow]]
+- [[forest-edge-windbreak-rainfall-compression]]
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]

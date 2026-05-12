@@ -133,3 +133,9 @@ Values are approximate and vary by animal diet, age, bedding, and processing met
 - [[organic-nutrients-vs-synthetic-nutrients]] — comparison
 - [[candle-making]] — homestead crafts
 - [[homesteading-water-systems]]
+
+## See Also
+
+- [[animal-butcher-and-processing]]
+- [[animal-tractor-systems]]
+- [[animal-tractor-systems-permaculture]]

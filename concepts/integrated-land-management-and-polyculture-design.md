@@ -144,3 +144,10 @@ It is far better to occupy a quarter hectare thoroughly than to scatter trees ov
 6. **Village-scale integration** — Housing, animals, water, and crops form a single interdependent system
 7. **Intensive establishment** — A thoroughly managed quarter hectare outperforms a scattered two hectares
 8. **Ground cover urgency** — Complete soil coverage within 18-20 months prevents erosion and conserves moisture
+## See also
+
+- [[polyculture-design-evolution]]
+- [[permaculture-food-forest-design-principles]]
+- [[food-forest-design]]
+- [[garden-guilds-and-polyculture-design]]
+- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

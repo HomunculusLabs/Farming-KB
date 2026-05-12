@@ -95,3 +95,10 @@ Perennial pasture legume of warm areas, 90–400 cm rain. Good pioneer of poor a
 ## Integration with Tree Systems
 
 Most grazing systems can extend under palms, between large tree crops, or as a complex with belts of forage tree legumes yielding fodder, fruit, pods, or large seed for food concentrates. Each soil type, location, rainfall area, slope type, and main crop needs individual assessment and planning. Soils under slashed pastures develop excellent structure with erosion effectively stopped.
+## See also
+
+- [[tropical-pasture-grass-species]]
+- [[cool-temperate-forage-systems-and-coppice]]
+- [[fukuoka-shelterbelt-and-farm-site-selection]]
+- [[tropical-food-system-development]]
+- [[legume-nitrogen-fixation-and-green-manure]]

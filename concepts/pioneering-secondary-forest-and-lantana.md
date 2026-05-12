@@ -121,3 +121,9 @@ Pioneer planting works best when it leverages existing landscape features that p
 - **Rock walls** absorb heat by day and release it slowly at night, extending the growing season for tender species and providing frost protection on cold nights.
 
 Plant directly into the lee and root zones of these features — they are the natural nurseries of the landscape and give newly planted pioneers the critical edge they need to survive their first seasons.
+## See also
+
+- [[tropical-pioneering-grassland-rehabilitation]]
+- [[savannah-forestry-and-difficult-terrain-pioneering]]
+- [[ecological-succession-in-permaculture-design]]
+- [[tropical-savanna-forestry-rehabilitation]]

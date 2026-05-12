@@ -89,12 +89,12 @@ All desert peoples dry food: dates, apricots, and desert nuts are
 long-storage staples. Drying rooms cut into opposite scarps facing hot
 sun desiccate food very quickly.
 
+
 ## See Also
-- [[mollison-pdc-arid-landscape-settlement]]
-- [[desert-and-arid-lands-permaculture]]
-- [[dighton-fungi-desert-arid-ecosystems]]
-- [[permaculture-plants-acacia-species-arid-reclamation]]
-- [[comparison-arid-vs-tropical-permaculture]]
+
+- [[arid-land-fertilisers-and-toxin-pollution]]
+- [[arid-land-fertilization-and-pollution-risks]]
+- [[arid-soil-fertility-and-mineral-management]]
 
 ## Practical Applications
 

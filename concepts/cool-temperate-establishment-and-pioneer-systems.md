@@ -131,3 +131,9 @@ At Stanley, Tasmania, tomatoes are grown in keyhole beds sheltered by a windbrea
 5. **Forest gaps are productive zones** — Stumps, fallen trees, and clearings create micro-niches
 6. **Urban surfaces are agricultural space** — Walls, roofs, and vacant lots all have productive potential
 7. **Energy conservation before generation** — Retrofitting and insulation are more cost-effective than new power systems
+## See also
+
+- [[cool-temperate-system-establishment]]
+- [[cool-temperate-forage-systems-and-coppice]]
+- [[ecological-succession-in-permaculture-design]]
+- [[food-forest-design]]

@@ -160,3 +160,9 @@ Figure 10.30 shows earthworks for a 2-hectare sub-tropical site (approximately 7
 6. **Seven factors govern complexity** — Labor, proximity, economics, guilds, processing, area, and maturity
 7. **200-400 species is achievable** — In complex village situations with integrated management
 8. **Re-assessment is ongoing** — Even established systems benefit from periodic review of access, water, and earthworks
+## See also
+
+- [[polyculture-design-evolution]]
+- [[comparison-food-forest-vs-polyculture]]
+- [[comparison-monoculture-vs-polyculture]]
+- [[ecological-succession-in-permaculture-design]]

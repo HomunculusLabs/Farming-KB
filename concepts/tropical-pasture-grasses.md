@@ -119,6 +119,6 @@ The leaf swards valued by graziers also suit green-crop cover for orchardists wh
 
 ## See Also
 
-- [[Tropical Forage Legumes]] — Legume companions for grass pastures
-- [[Savannah Forestry Rehabilitation]] — Restoring degraded grasslands to productive systems
-- [[Animal Tractor Systems]] — Using animals for land preparation before pasture establishment
+- [[tropical-forage-legumes]] — Legume companions for grass pastures
+- [[savannah-forestry-rehabilitation]] — Restoring degraded grasslands to productive systems
+- [[animal-tractor-systems]] — Using animals for land preparation before pasture establishment

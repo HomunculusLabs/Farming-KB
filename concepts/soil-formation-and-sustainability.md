@@ -96,8 +96,9 @@ Soil science concentrates on classification but not on how to evolve soil. Often
 
 Science is good at explaining why things work and making skills teachable. It is not so good at initiating field work or training people already in the field to work effectively. The most effective knowledge transfer happens through farmer field days and local educational sessions.
 
+
 ## See Also
 
-- [[singh-fungal-roles-in-soil-aggregate-formation]]
-- [[mollison-soil-formation-rates-and-erosion-costs]]
-- [[fungal-microaggregate-formation-and-soil-stability]]
+- [[soil-formation-and-conservation]]
+- [[soil-formation-and-erosion]]
+- [[soil-formation-and-values]]

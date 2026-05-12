@@ -142,3 +142,9 @@ Even **shallow basins** aid dryland taro and banana, or patches of Chinese water
 The clump planting pattern for palms represents a significant design improvement over conventional grid layouts. By concentrating 10–12 palms in circular groupings spaced at twice the frond length plus two feet, the system frees up to 60% of ground area for intercrop and grazing, simplifies mulch management, provides natural trellis support for vines, and aligns with water-harvesting earthworks.
 
 The mulch strategy is integral: palm fronds, husks, banana residue (25 t/ha), and legume tree foliage combine to create a self-renewing mulch economy. Combined with appropriate earth shaping—ridges, mounds, furrows, basins, or trunk boxes selected according to climate (humid vs dry tropics) and crop type—the result is a highly productive, low-input polyculture system that maximises both vertical and horizontal yield from every hectare.
+## See also
+
+- [[mollison-coconut-palm-polyculture-systems]]
+- [[palm-tree-uses]]
+- [[palm-clump-planting-patterns]]
+- [[palm-plantation-economics-and-renewal]]

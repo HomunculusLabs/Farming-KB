@@ -184,3 +184,10 @@ The comprehensive design priorities for low island systems include:
 6. **Conservation**: Protecting natural vegetation and unique birds, reptiles, and lagoon or reef fauna
 7. **Aquaculture**: Using shallow marine waters for aquaculture and pond fish
 8. **Energy**: Developing local energy resources
+## See also
+
+- [[low-island-coral-cay-strategies]]
+- [[low-island-and-coral-cay-strategies]]
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
+- [[tropical-food-system-development]]
+- [[mollison-coconut-palm-polyculture-systems]]

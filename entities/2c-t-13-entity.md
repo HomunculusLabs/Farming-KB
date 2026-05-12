@@ -88,3 +88,9 @@ Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
+
+## See Also
+
+- [[2c-t-17-entity-pihkal]]
+- [[2c-t-21-entity-pihkal]]
+- [[2c-t-8-entity-pihkal]]

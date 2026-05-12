@@ -151,10 +151,10 @@ Where plantation monoculture fails on both counts, reform is not optional — it
 
 ## See Also
 
-- [[polyculture]]
+- Polyculture
 - [[agroforestry]]
-- [[commonwork]]
-- [[soil-erosion-prevention]]
-- [[biological-pest-control]]
-- [[worker-cooperatives]]
-- [[tropical-agriculture]]
+- Commonwork
+- [[dighton-fungal-roles-soil-erosion-prevention]]
+- [[biological-pest-control-balance]]
+- Worker Cooperatives
+- [[termite-and-ant-ecology-in-tropical-agriculture]]

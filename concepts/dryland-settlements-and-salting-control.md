@@ -91,3 +91,9 @@ The volcanic Canary Islands demonstrate innovative dryland agriculture technique
 5. **Biological indicators** — Plant communities reveal soil health and salinity conditions
 6. **Engineering integrates with ecology** — Interceptor banks work with natural water flow patterns to prevent salting
 7. **Traditional knowledge** — Indigenous building and agricultural techniques are often the most appropriate for dryland conditions
+## See also
+
+- [[dryland-permaculture-strategies]]
+- [[contour-line-water-management]]
+- [[earth-cellar-construction]]
+- [[keyline-design-water-management]]

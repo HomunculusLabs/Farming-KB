@@ -81,6 +81,8 @@ communities, and systematic experimentation to build expertise.
 > Both options offer unique advantages depending on climate, available materials, and intended use.
 
 
+
+
 ## See Also
 
 - [[comparison-earthship-vs-cordwood-construction]]

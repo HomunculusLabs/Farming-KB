@@ -138,6 +138,9 @@ The five key design inputs for low island systems are:
 
 ## See Also
 
-- [[Tropical Hedgerow and Windbreak]] — Hedgerow establishment for coastal stabilization
-- [[Pioneering on Difficult Terrain]] — Techniques for establishing vegetation on challenging sites
-- [[Savannah Forestry Rehabilitation]] — Broader land restoration principles applicable to island contexts
+- Tropical Hedgerow And Windbreak — Hedgerow establishment for coastal stabilization
+- [[savannah-forestry-and-difficult-terrain-pioneering]] — Techniques for establishing vegetation on challenging sites
+- [[savannah-forestry-rehabilitation]] — Broader land restoration principles applicable to island contexts
+## See Also
+
+- [[island-diet-diversification-and-energy-resources]]
