@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**225 pages**
+**226 pages**
 
 ## A
 
@@ -24,6 +24,7 @@
 - [[basic-electrical-for-homestead]]
 - [[basic-plumbing-for-homestead]]
 - [[beeswax-candle-making]]
+- [[benching-terracing-and-bank-construction]]
 - [[biodiesel-production]]
 - [[biogas-digester-basics]]
 - [[black-soldier-fly-larvae-as-feed]]

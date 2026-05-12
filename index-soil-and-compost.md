@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**607 pages**
+**618 pages**
 
 ## A
 
@@ -388,6 +388,8 @@
 - [[maintaining-organic-matter-in-vegetable-gardens]]
 - [[manure-quality-and-soil-fertility]]
 - [[manure-quality-variability-and-fertilizer-value]]
+- [[mechanical-soil-conditioning]]
+- [[mechanical-soil-conditioning-techniques]]
 - [[microbial-alpha-diversity-soil-plant-gradient]]
 - [[microbial-chelation-nutrient-cycling]]
 - [[microbial-disease-suppression-soil]]
@@ -488,14 +490,15 @@
 - [[savory-soil-carbon-sequestration]]
 - [[savory-soil-surface-and-capping]]
 - [[sawdust-toilet-composting]]
-- [[seed-pelleting-for-soil-rehabilitation]]
 - [[serpentine-soil-ecology]]
 - [[sheet-composting]]
 - [[singh-composted-biomass-as-soil-amendment-remediation]]
 - [[soil-amendment-reference]]
 - [[soil-arthropods]]
 - [[soil-biological-indicators]]
+- [[soil-biology-and-underground-life]]
 - [[soil-building-ecological-garden]]
+- [[soil-burrowing-organisms]]
 - [[soil-capillary-action-and-water-movement]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-chytridiomycetes-diversity-distribution]]
@@ -506,7 +509,9 @@
 - [[soil-conditioners-guide]]
 - [[soil-conditioning-chisel-plow-biological-methods]]
 - [[soil-edaphic-factors-microbial-communities]]
+- [[soil-erosion-and-rehabilitation]]
 - [[soil-erosion-control]]
+- [[soil-erosion-processes-and-control]]
 - [[soil-fertility-building-gradient-solomon]]
 - [[soil-fertility-gradient-approach]]
 - [[soil-fertility-gradient-solomon]]
@@ -536,6 +541,7 @@
 - [[soil-health-indicators]]
 - [[soil-health-management]]
 - [[soil-life]]
+- [[soil-life-and-underground-ecology]]
 - [[soil-microbial-biomass-measurement-ecological-significance]]
 - [[soil-microbiology-basics]]
 - [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]
@@ -561,7 +567,12 @@
 - [[soil-protozoa-ecology-trophic-interactions]]
 - [[soil-protozoa-nutrient-cycling-and-mineralization]]
 - [[soil-protozoa-nutrient-cycling-mineralization]]
+- [[soil-rehabilitation-by-mechanical-conditioning]]
+- [[soil-rehabilitation-methods]]
+- [[soil-rehabilitation-strategies]]
+- [[soil-rehabilitation-water-control-and-conditioning]]
 - [[soil-respiration]]
+- [[soil-respiration-and-earth-breathing]]
 - [[soil-self-enrichment]]
 - [[soil-structure-and-composition]]
 - [[soil-structure-classification]]

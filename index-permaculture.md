@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1150 pages**
+**1155 pages**
 
 ## A
 
@@ -142,6 +142,7 @@
 - [[earthmoving-tools-permaculture-mollison]]
 - [[earthworks-for-water-conservation]]
 - [[earthworks-for-water-management]]
+- [[earthworks-introduction-and-ethics]]
 - [[earthworks-water-conservation-and-storage]]
 - [[ecological-succession-in-permaculture-design]]
 - [[edge-effect-and-microclimate]]
@@ -433,6 +434,7 @@
 
 ## L
 
+- [[levels-and-surveying-tools-for-earthworks]]
 - [[local-currencies]]
 
 ## M
@@ -1050,6 +1052,8 @@
 - [[pioneer-species-in-permaculture-design]]
 - [[pioneer-species-permaculture]]
 - [[pioneer-species-selection-for-permaculture-systems]]
+- [[planning-earthworks-and-post-earthworks-planting]]
+- [[planning-earthworks-and-revegetation]]
 - [[plant-guilds-and-polycultures]]
 - [[plant-guilds-in-permaculture]]
 - [[plant-guilds-permaculture-design]]
@@ -1135,6 +1139,7 @@
 - [[tree-biomass-and-guild-ecology]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[trellis-shadehouse-design-mollison]]
+- [[types-of-earthworks-banks-benches-terraces]]
 
 ## U
 
