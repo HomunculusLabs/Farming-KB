@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**219 pages**
+**220 pages**
 
 ## A
 
@@ -265,6 +265,7 @@
 - [[tallow-candle-making]]
 - [[timber-frame-basics]]
 - [[tiny-house-on-wheels]]
+- [[tree-biomass-and-energy-transactions]]
 - [[tree-energy-transactions]]
 - [[turkey-husbandry]]
 
