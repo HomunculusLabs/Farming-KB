@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**576 pages**
+**585 pages**
 
 ## A
 
@@ -382,6 +382,7 @@
 - [[micronutrient-deficiency-symptoms]]
 - [[micronutrients-plant-nutrition]]
 - [[microscope-identification-soil-organisms]]
+- [[mineral-sources-for-soils]]
 - [[mulch-gardening-critique]]
 - [[mulch-producing-plants]]
 - [[mulch-types-and-effects]]
@@ -443,6 +444,7 @@
 - [[plant-nutrient-mobility-in-soil]]
 - [[plant-nutrient-uptake]]
 - [[plant-nutrient-uptake-mechanisms]]
+- [[plant-nutrients-and-mineral-sources]]
 - [[plant-primary-nutrients-and-mineral-sources]]
 - [[plant-sap-analysis-nutrient-diagnostics]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
@@ -509,10 +511,13 @@
 - [[soil-foodweb-microbiology]]
 - [[soil-formation-and-conservation]]
 - [[soil-formation-and-erosion]]
+- [[soil-formation-and-sustainability]]
+- [[soil-formation-and-topsoil-loss]]
 - [[soil-formation-and-values]]
 - [[soil-health-and-conservation]]
 - [[soil-health-and-management]]
 - [[soil-health-assessment-biological-chemical-physical-indicators]]
+- [[soil-health-ethics-and-sustainable-agriculture]]
 - [[soil-health-indicators]]
 - [[soil-health-management]]
 - [[soil-life]]
@@ -529,7 +534,9 @@
 - [[soil-physicochemical-properties-microbial-communities]]
 - [[soil-pollution-and-human-health]]
 - [[soil-pollution-and-human-nutrition]]
-- [[soil-pollution-rehabilitation]]
+- [[soil-pollution-and-rehabilitation]]
+- [[soil-pollution-and-remediation]]
+- [[soil-pollution-and-remediation-strategies]]
 - [[soil-porosity-pore-size-distribution]]
 - [[soil-preparation-organic-gardens]]
 - [[soil-protozoa-ecology-trophic-interactions]]
@@ -537,7 +544,9 @@
 - [[soil-protozoa-nutrient-cycling-mineralization]]
 - [[soil-respiration]]
 - [[soil-self-enrichment]]
+- [[soil-structure-and-composition]]
 - [[soil-structure-classification]]
+- [[soil-structure-classification-and-composition]]
 - [[soil-temperature-and-plant-growth-solomon]]
 - [[soil-temperature-plant-growth-rate-doubling-rule]]
 - [[soil-testing]]

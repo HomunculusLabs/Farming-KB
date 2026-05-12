@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**69 pages**
+**71 pages**
 
 ## A
 
@@ -115,5 +115,7 @@
 
 ## W
 
+- [[water-pollutant-interactions-and-health-risks]]
+- [[water-pollution-contaminant-interactions]]
 - [[water-pollution-contaminants-and-treatment]]
 - [[wetland-ecology]]

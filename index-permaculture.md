@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1147 pages**
+**1146 pages**
 
 ## A
 
@@ -110,7 +110,6 @@
 - [[chinampas]]
 - [[chinampas-agriculture]]
 - [[chisel-plough-soil-conditioning-mollison]]
-- [[climatic-factors-in-permaculture-design]]
 - [[coastal-edible-plants-permaculture]]
 - [[coastal-ground-covers-hedges-permaculture]]
 - [[coastal-permaculture-plants]]
@@ -208,6 +207,7 @@
 - [[grassland-pasture-management-mollison]]
 - [[greenhouse-cool-climates-mollison]]
 - [[greywater-management-and-dry-toilets]]
+- [[greywater-systems-and-domestic-water-conservation]]
 - [[greywater-systems-detailed]]
 - [[greywater-wetland-plants-guide]]
 - [[guild-design-methods]]
@@ -1112,7 +1112,6 @@
 - [[super-guild-design-inter-connections]]
 - [[swale-construction-guide]]
 - [[swale-design]]
-- [[swale-design-and-construction]]
 - [[swale-design-construction]]
 - [[swales-design-and-construction]]
 - [[swales-water-harvesting-earthworks]]

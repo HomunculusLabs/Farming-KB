@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1295 pages**
+**1298 pages**
 
 ## A
 
@@ -231,6 +231,7 @@
 - [[comparison-earthbag-vs-cob-construction]]
 - [[comparison-earthbag-vs-rammed-earth]]
 - [[comparison-earthship-vs-hempcrete]]
+- [[comparison-earthship-vs-straw-bale-construction]]
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
 - [[comparison-echinacea-vs-calendula]]
 - [[comparison-echinacea-vs-chamomile]]
@@ -759,6 +760,7 @@
 - [[query-how-do-i-build-a-wicking-bed-for-my-garden]]
 - [[query-how-do-i-build-a-wicking-bed-for-water-efficient-gardening]]
 - [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
+- [[query-how-do-i-build-and-use-a-keyhole-garden]]
 - [[query-how-do-i-build-with-earthbags]]
 - [[query-how-do-i-choose-a-hydroponic-system-for-cannabis-or-vegetables]]
 - [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
@@ -796,6 +798,7 @@
 - [[query-how-do-i-grow-and-use-edible-flowers-in-my-garden]]
 - [[query-how-do-i-grow-and-use-ginger-and-turmeric]]
 - [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]
+- [[query-how-do-i-grow-berries-and-soft-fruit-in-my-garden]]
 - [[query-how-do-i-grow-berries-in-my-backyard]]
 - [[query-how-do-i-grow-brassicas-successfully]]
 - [[query-how-do-i-grow-cacao-and-process-it-into-chocolate]]

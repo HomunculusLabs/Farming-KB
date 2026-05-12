@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**224 pages**
+**225 pages**
 
 ## A
 
@@ -285,6 +285,7 @@
 ## W
 
 - [[water-bath-canning-guide]]
+- [[water-design-checklist-and-dam-construction]]
 - [[wicking-bed-construction]]
 - [[wicking-bed-materials-construction-variants]]
 - [[wildfire-preparedness-guide]]
