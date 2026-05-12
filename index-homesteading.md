@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**227 pages**
+**232 pages**
 
 ## A
 
@@ -48,6 +48,7 @@
 - [[cob-building-basics-detailed]]
 - [[cob-construction]]
 - [[cob-oven-construction]]
+- [[cool-temperate-forage-systems-and-small-livestock]]
 - [[cordwood-construction]]
 
 ## D
@@ -55,6 +56,10 @@
 - [[dairy-and-cheesemaking]]
 - [[dam-construction]]
 - [[deer-fencing-and-deterrents]]
+- [[dryland-building-and-settlement]]
+- [[dryland-building-settlement]]
+- [[dryland-building-settlements]]
+- [[dryland-buildings-and-settlements]]
 - [[duck-keeping]]
 - [[duck-keeping-guide-detailed]]
 - [[duck-rice-paddy]]

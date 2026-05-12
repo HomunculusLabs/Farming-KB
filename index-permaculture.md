@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1159 pages**
+**1176 pages**
 
 ## A
 
@@ -135,6 +135,7 @@
 - [[dalbergia-sissoo-permaculture-timber-tree]]
 - [[design-from-patterns-to-details]]
 - [[diversity-and-stability-in-permaculture]]
+- [[dryland-permaculture-strategies]]
 - [[duckweed-and-aquatic-plants-permaculture-systems]]
 
 ## E
@@ -157,6 +158,8 @@
 - [[eucalypts-and-f-section-permaculture-plants]]
 - [[eucalyptus-in-permaculture]]
 - [[eucalyptus-permaculture]]
+- [[evolving-polyculture-design]]
+- [[evolving-polycultures-and-species-richness]]
 
 ## F
 
@@ -205,6 +208,8 @@
 - [[gaias-garden-three-sisters-guild]]
 - [[gaias-garden-water-harvesting-swales-and-greywater]]
 - [[gaias-garden-zone-and-sector-garden-layout]]
+- [[gangammas-mandala-garden]]
+- [[gangammas-mandala-garden-design]]
 - [[garden-bed-preparation]]
 - [[garden-guilds-and-polyculture-design]]
 - [[grassland-pasture-management-mollison]]
@@ -414,6 +419,8 @@
 - [[infiltration-earthworks-and-water-conservation]]
 - [[infiltration-earthworks-water-storage]]
 - [[integrate-rather-than-segregate]]
+- [[integrated-land-management-and-polyculture-design]]
+- [[integrated-pest-management-in-tropical-polycultures]]
 
 ## J
 
@@ -709,6 +716,7 @@
 - [[natural-farming-guide-permaculture-design-for-small-holdings]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 - [[natural-farming-guide-swale-water-management]]
+- [[natural-patterns-in-permaculture-design]]
 
 ## O
 
@@ -729,6 +737,7 @@
 
 ## P
 
+- [[palm-polyculture-species-selection]]
 - [[palm-species-in-permaculture]]
 - [[pattern-applications-in-permaculture-design]]
 - [[pattern-understanding-in-permaculture]]
@@ -1061,6 +1070,7 @@
 - [[plant-guilds-in-permaculture]]
 - [[plant-guilds-permaculture-design]]
 - [[plant-propagation-techniques-for-permaculture]]
+- [[polyculture-design-evolution]]
 - [[polyculture-design-hemenway]]
 - [[polyculture-design-holzer]]
 - [[pond-and-aquaculture]]
@@ -1107,6 +1117,7 @@
 - [[shelterbelt-design-benefits]]
 - [[shelterbelt-species-and-design]]
 - [[slope-analysis-in-permaculture]]
+- [[slope-terracing-earthworks]]
 - [[small-scale-intensive-food-systems-mollison]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]
 - [[soil-building-permaculture]]
@@ -1130,6 +1141,7 @@
 ## T
 
 - [[terrace-construction-earthworks]]
+- [[terrace-earthworks-and-slope-management]]
 - [[thermodynamics-energy-flow-permaculture-design]]
 - [[tidal-estuarine-aquaculture-mollison]]
 - [[tompkins-albert-abrams-electronic-diagnosis]]
@@ -1143,11 +1155,14 @@
 - [[tree-biomass-and-guild-ecology]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[trellis-shadehouse-design-mollison]]
+- [[tropical-polyculture-evolution-and-pest-management]]
 - [[types-of-earthworks-banks-benches-terraces]]
 
 ## U
 
 - [[urban-broadscale-restoration-watershed-repair]]
+- [[urban-permaculture-and-city-farming]]
+- [[urban-permaculture-and-integrated-land-management]]
 - [[urban-permaculture-community-building-social-design]]
 - [[urban-permaculture-design]]
 - [[urban-permaculture-edge-effect-microclimate]]
@@ -1158,6 +1173,7 @@
 - [[urban-permaculture-pig-land-clearing]]
 - [[urban-permaculture-rainwater-harvesting-graywater]]
 - [[urban-permaculture-swales-raised-beds]]
+- [[urban-permaculture-systems]]
 - [[urban-permaculture-techniques]]
 - [[urban-permaculture-trees-water-cycling]]
 - [[urban-rooftop-gardening-and-sheet-mulching]]
@@ -1169,6 +1185,7 @@
 ## V
 
 - [[vegetative-propagation-methods-mollison]]
+- [[village-polyculture-species-richness-and-site-planning]]
 
 ## W
 

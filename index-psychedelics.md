@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1800 pages**
+**1801 pages**
 
 ## #
 
@@ -1769,6 +1769,7 @@
 - [[tihkal-tryptamine-chemistry]]
 - [[timothy-leary-harvard-psilocybin-experiments]]
 - [[tma-2-compound-profile]]
+- [[total-garden-design-integration]]
 - [[translinguistic-objects-glossolalia-tryptamine]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]
 - [[tribal-art-as-sacred-knowledge-systems]]

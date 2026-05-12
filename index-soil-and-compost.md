@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**625 pages**
+**626 pages**
 
 ## A
 
@@ -446,6 +446,7 @@
 
 ## P
 
+- [[palm-planting-patterns-and-mulch-systems]]
 - [[ph-and-nutrient-availability-garden-soils]]
 - [[phosphate-and-potassium-accumulators]]
 - [[phosphorus-availability]]

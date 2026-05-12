@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1304 pages**
+**1306 pages**
 
 ## A
 
@@ -304,6 +304,8 @@
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[comparison-heirloom-vs-hybrid-seeds]]
+- [[comparison-hempcrete-vs-adobe]]
+- [[comparison-hempcrete-vs-cordwood-construction]]
 - [[comparison-hempcrete-vs-rammed-earth]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]

@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1165 pages**
+**1176 pages**
 
 ## A
 
@@ -28,6 +28,7 @@
 - [[aquaponics-plant-selection]]
 - [[aquaponics-system-design]]
 - [[ashwagandha-growing-guide]]
+- [[avenue-cropping-and-barrier-plants]]
 
 ## B
 
@@ -333,6 +334,7 @@
 - [[elderberry-growing-guide]]
 - [[electromagnetic-spectrum-plant-light-perception]]
 - [[electromagnetic-spectrum-visible-light-plant-perception]]
+- [[equatorial-house-and-tropical-home-garden]]
 - [[ethylene-plant-hormone-ripening-stress]]
 - [[evapotranspiration-crop-water-use]]
 - [[exopheromones-and-plant-intelligence]]
@@ -395,6 +397,8 @@
 - [[gaias-garden-stacking-functions]]
 - [[gaias-garden-stacking-functions-detailed]]
 - [[gaias-garden-weeds-pioneer-plants]]
+- [[gangammas-mandala-intensive-home-garden]]
+- [[gangammas-mandala-tropical-sustenance-garden]]
 - [[garden-bed-designs]]
 - [[garden-care-and-succession-planting]]
 - [[garden-disease-identification]]
@@ -594,7 +598,10 @@
 - [[insectary-plants-for-pest-control]]
 - [[insectary-plants-guide]]
 - [[insects-and-plant-health-solomon]]
+- [[integrated-home-garden-design]]
+- [[integrated-house-garden-system-elements]]
 - [[integrated-pest-management]]
+- [[integrated-tropical-homestead-garden-layout]]
 - [[intensive-gardening-critique-solomon]]
 - [[intensive-planting-spacing]]
 - [[intensive-vegetable-spacing-systems]]
@@ -641,6 +648,7 @@
 
 - [[keyhole-bed-design]]
 - [[keyhole-garden-design]]
+- [[keyhole-garden-mandala-design]]
 
 ## L
 
@@ -728,6 +736,8 @@
 
 ## P
 
+- [[palm-clump-planting-patterns]]
+- [[palm-plantation-economics-and-renewal]]
 - [[palm-tree-uses]]
 - [[parasitic-plant-host-detection-volatile-sensing]]
 - [[parisian-market-gardening]]
@@ -871,6 +881,7 @@
 - [[plant-vision-and-phototropism]]
 - [[plant-vision-light-perception]]
 - [[plant-volatile-communication-chemical-ecology]]
+- [[plantation-monoculture-reform]]
 - [[plants-and-electromagnetism]]
 - [[plants-as-heat-generators]]
 - [[plants-as-heaters-and-seed-germination-factors]]
