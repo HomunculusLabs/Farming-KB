@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1119 pages**
+**1120 pages**
 
 ## A
 
@@ -203,6 +203,7 @@
 - [[garden-guilds-and-polyculture-design]]
 - [[grassland-pasture-management-mollison]]
 - [[greenhouse-cool-climates-mollison]]
+- [[greywater-management-and-dry-toilets]]
 - [[greywater-systems-detailed]]
 - [[greywater-wetland-plants-guide]]
 - [[guild-design-methods]]

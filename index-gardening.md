@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1140 pages**
+**1147 pages**
 
 ## A
 
@@ -14,6 +14,9 @@
 - [[alliums-growing-guide]]
 - [[alpine-plant-cultivation-guide]]
 - [[amphibian-habitat-creation]]
+- [[anaerobic-digestion-and-biogas-production]]
+- [[anaerobic-sewage-digesters]]
+- [[anaerobic-sewage-digestion-and-biogas]]
 - [[animal-harvest-and-processing]]
 - [[anunnaki-fruit-tree-knowledge]]
 - [[aphid-management-vegetable-garden-solomon]]
@@ -47,7 +50,10 @@
 - [[berry-species-guide]]
 - [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
 - [[biodiversity-powdery-mildews]]
+- [[biological-sewage-treatment-with-plants]]
 - [[biological-transmutation-in-plants]]
+- [[biological-water-purification]]
+- [[biological-water-purification-with-plants]]
 - [[bird-habitat-creation]]
 - [[black-walnut-juglone-plant-toxicity]]
 - [[blanching-vegetables-for-freezing]]
@@ -1063,6 +1069,7 @@
 - [[sound-and-music-effects-on-plants]]
 - [[specific-pest-management-solomon]]
 - [[spirit-mothers-of-plants]]
+- [[spreader-banks-and-irrigation-bays]]
 - [[sprinkler-nozzle-selection-vegetable-gardens-solomon]]
 - [[square-foot-gardening]]
 - [[stamets-crop-watering-flushing-management]]

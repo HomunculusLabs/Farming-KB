@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1288 pages**
+**1289 pages**
 
 ## A
 
@@ -35,6 +35,7 @@
 - [[comparison-agave-vs-prickly-pear-cultivation]]
 - [[comparison-agroecology-vs-permaculture]]
 - [[comparison-agrovoltaics-vs-traditional-solar-farms]]
+- [[comparison-alley-cropping-vs-food-forest]]
 - [[comparison-alley-cropping-vs-silvopasture]]
 - [[comparison-aloe-vs-agave]]
 - [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]

@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**66 pages**
+**68 pages**
 
 ## A
 
@@ -49,6 +49,7 @@
 ## I
 
 - [[idiosyncratic-drug-toxicity]]
+- [[interceptor-drains-and-desertification-control]]
 
 ## L
 
@@ -113,4 +114,5 @@
 
 ## W
 
+- [[water-pollution-contaminants-and-treatment]]
 - [[wetland-ecology]]
