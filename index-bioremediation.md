@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**71 pages**
+**72 pages**
 
 ## A
 
@@ -45,6 +45,7 @@
 
 - [[heavy-metal-bioremediation]]
 - [[heavy-metal-biosorption]]
+- [[heavy-metal-toxicity-and-biological-element-transport]]
 
 ## I
 

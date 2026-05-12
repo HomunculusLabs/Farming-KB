@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**585 pages**
+**607 pages**
 
 ## A
 
@@ -65,6 +65,10 @@
 - [[biochar-soil-amendment]]
 - [[biochar-soil-remediation]]
 - [[biodiversity-soil-life]]
+- [[biological-element-transport-and-soil-ph]]
+- [[biological-element-transport-soil-ph]]
+- [[biological-indicators-of-soil-and-site]]
+- [[biological-indicators-of-soil-conditions]]
 - [[biomass-compost-greenhouse-heating-systems]]
 - [[bionutrients-guide]]
 - [[bionutrients-lab-calcium-phosphate-calamansi]]
@@ -153,6 +157,7 @@
 - [[deep-organic-soil-management]]
 - [[designer-compost-bokashi]]
 - [[designer-compost-bokashi-method]]
+- [[difficult-soils-concretions-and-non-wetting]]
 - [[direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
@@ -173,8 +178,12 @@
 
 - [[earthworm-breeding]]
 - [[earthworm-ecology]]
+- [[earthworms-and-difficult-soils]]
+- [[earthworms-in-soil-health]]
 - [[edaphic-factors-soil-microbial-community-structure]]
 - [[endorhiza-bacterial-communities]]
+- [[essential-plant-elements-hydrogen-boron-carbon-nitrogen]]
+- [[essential-soil-macronutrients-hydrogen-boron-carbon-nitrogen]]
 
 ## F
 
@@ -233,6 +242,7 @@
 - [[humanure-composting-methods-and-safety]]
 - [[humanure-composting-systems]]
 - [[humic-acids-soil-biology-ingham]]
+- [[hydrogen-boron-carbon-in-soils]]
 - [[hydroponic-nutrient-management]]
 
 ## I
@@ -320,6 +330,7 @@
 - [[ingham-worm-leachate-versus-aact-comparison]]
 - [[ingham-yeasts-molds-compost-tea]]
 - [[interpreting-soil-test-results]]
+- [[iron-cobalt-nickel-copper-zinc-in-soils]]
 
 ## J
 
@@ -373,6 +384,7 @@
 
 ## M
 
+- [[magnesium-aluminium-silicon-phosphorus-in-soils]]
 - [[maintaining-organic-matter-in-vegetable-gardens]]
 - [[manure-quality-and-soil-fertility]]
 - [[manure-quality-variability-and-fertilizer-value]]
@@ -382,6 +394,7 @@
 - [[micronutrient-deficiency-symptoms]]
 - [[micronutrients-plant-nutrition]]
 - [[microscope-identification-soil-organisms]]
+- [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]]
 - [[mineral-sources-for-soils]]
 - [[mulch-gardening-critique]]
 - [[mulch-producing-plants]]
@@ -475,11 +488,13 @@
 - [[savory-soil-carbon-sequestration]]
 - [[savory-soil-surface-and-capping]]
 - [[sawdust-toilet-composting]]
+- [[seed-pelleting-for-soil-rehabilitation]]
 - [[serpentine-soil-ecology]]
 - [[sheet-composting]]
 - [[singh-composted-biomass-as-soil-amendment-remediation]]
 - [[soil-amendment-reference]]
 - [[soil-arthropods]]
+- [[soil-biological-indicators]]
 - [[soil-building-ecological-garden]]
 - [[soil-capillary-action-and-water-movement]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
@@ -523,14 +538,18 @@
 - [[soil-life]]
 - [[soil-microbial-biomass-measurement-ecological-significance]]
 - [[soil-microbiology-basics]]
+- [[soil-micronutrients-sulphur-potassium-calcium-trace-elements]]
 - [[soil-microorganisms-natural-fertility]]
 - [[soil-microscope-analysis]]
 - [[soil-moisture-management-and-root-growth]]
 - [[soil-moisture-monitoring-irrigation-management]]
 - [[soil-nutrient-cycling]]
 - [[soil-organic-carbon-fractions-turnover-dynamics]]
+- [[soil-ph-and-nutrient-availability]]
 - [[soil-ph-management]]
+- [[soil-ph-management-and-amelioration]]
 - [[soil-ph-management-for-vegetable-gardens]]
+- [[soil-phosphorus-and-mineral-nutrients]]
 - [[soil-physicochemical-properties-microbial-communities]]
 - [[soil-pollution-and-human-health]]
 - [[soil-pollution-and-human-nutrition]]
@@ -553,6 +572,7 @@
 - [[soil-testing-and-analysis]]
 - [[soil-testing-and-interpretation]]
 - [[soil-testing-methods-interpretation]]
+- [[soil-trace-elements-and-micronutrients]]
 - [[solomon-buckwheat-summer-cover-crop-guide]]
 - [[solomon-carbon-nitrogen-ratios]]
 - [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]]
@@ -603,6 +623,7 @@
 - [[solomon-vegetable-nutrition-decline-and-soil-mineral-depletion]]
 - [[solomon-vegetable-nutritional-decline-trace-minerals]]
 - [[stamets-compost-supplements-nitrogen-management]]
+- [[sulphur-chlorine-potassium-calcium-in-soils]]
 
 ## T
 
@@ -621,6 +642,7 @@
 - [[temperature-effects-plant-nutrient-uptake]]
 - [[thermal-composting-vs-aact]]
 - [[tompkins-soil-health-howard-indore-process]]
+- [[toxic-elements-in-soils]]
 - [[trace-elements-in-soil]]
 - [[tribal-soil-classification-and-structure]]
 

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1298 pages**
+**1301 pages**
 
 ## A
 
@@ -585,6 +585,7 @@
 - [[comparison-terra-preta-vs-modern-biochar]]
 - [[comparison-terracing-vs-swale]]
 - [[comparison-terracing-vs-swales]]
+- [[comparison-timber-frame-vs-cordwood-construction]]
 - [[comparison-tissue-culture-vs-seed-saving]]
 - [[comparison-tissue-culture-vs-wild-isolation]]
 - [[comparison-tomato-vs-pepper-growing]]
@@ -615,6 +616,7 @@
 - [[comparison-vermicomposting-vs-leaf-mold]]
 - [[comparison-vertical-gardening-vs-container-gardening]]
 - [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
+- [[comparison-vetiver-vs-lemongrass]]
 - [[comparison-vinegar-vs-lacto-fermentation]]
 - [[comparison-walipini-vs-greenhouse]]
 - [[comparison-wattle-and-daub-vs-cob-construction]]
@@ -1211,6 +1213,7 @@
 - [[query-what-is-a-plant-guild-in-permaculture]]
 - [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]]
 - [[query-what-is-a-wavelet-transform-used-for]]
+- [[query-what-is-agroecology-and-how-does-it-differ-from-organic-farming]]
 - [[query-what-is-agroforestry-and-how-can-i-start]]
 - [[query-what-is-alley-cropping-and-when-should-i-use-it]]
 - [[query-what-is-azolla-and-why-is-it-called-a-superplant]]

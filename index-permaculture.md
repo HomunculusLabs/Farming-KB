@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1146 pages**
+**1150 pages**
 
 ## A
 
@@ -686,6 +686,7 @@
 - [[mollison-wildfire-dynamics-and-firestorm-behavior]]
 - [[mollison-yield-theory-and-creation-strategies]]
 - [[moringa-oleifera-horseradish-tree-permaculture]]
+- [[mulches-and-compost-in-permaculture]]
 - [[multipurpose-trees-in-permaculture-design]]
 
 ## N
@@ -742,6 +743,7 @@
 - [[pdc-trees-and-forests]]
 - [[pdc-urban-permaculture-design-principles]]
 - [[pdc-water-harvesting-earthworks-design]]
+- [[periodic-table-elements-permaculture]]
 - [[permaculture-access-and-circulation-design]]
 - [[permaculture-access-design]]
 - [[permaculture-almond-guide]]
@@ -1101,6 +1103,7 @@
 - [[small-scale-intensive-food-systems-mollison]]
 - [[social-hierarchy-patterns-and-arts-in-permaculture]]
 - [[soil-building-permaculture]]
+- [[soil-minerals-micronutrients-permaculture]]
 - [[soil-tilth-and-seedbed-preparation]]
 - [[solomon-autumn-digging-new-garden-bed-preparation]]
 - [[solomon-gardening-pest-philosophy-and-resilience]]
@@ -1128,6 +1131,7 @@
 - [[tompkins-lawrence-biological-interstellar-communication]]
 - [[tompkins-luther-burbank-intuitive-breeding]]
 - [[tompkins-radionic-agriculture-pesticides]]
+- [[trace-elements-heavy-metals-permaculture]]
 - [[tree-biomass-and-guild-ecology]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[trellis-shadehouse-design-mollison]]

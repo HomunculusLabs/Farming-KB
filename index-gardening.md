@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1162 pages**
+**1164 pages**
 
 ## A
 
@@ -666,6 +666,7 @@
 - [[medicinal-plant-preparations-tinctures-salves-teas]]
 - [[microbial-terroir-and-crop-specificity]]
 - [[microplastic-bioremediation]]
+- [[mineral-deficiency-remedies-and-garden-solutions]]
 - [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
 - [[mobile-greenhouse-system]]
 - [[mobile-greenhouses]]
@@ -749,6 +750,7 @@
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
 - [[permplant-tagasaste-pioneer-fodder-tree]]
 - [[permplant-willows-salix-erosion-control-fodder]]
+- [[ph-indicator-plants-and-site-assessment]]
 - [[phloem-sap-composition-and-long-distance-signaling-in-plants]]
 - [[photoperiodism-flowering-plants]]
 - [[photoperiodism-in-plants]]
