@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1090 pages**
+**1108 pages**
 
 ## A
 
@@ -137,6 +137,7 @@
 
 - [[earthmoving-tools-permaculture-mollison]]
 - [[earthworks-for-water-management]]
+- [[ecological-succession-in-permaculture-design]]
 - [[edge-effect-and-microclimate]]
 - [[edge-effect-ecology]]
 - [[energy-descent-action-planning]]
@@ -156,6 +157,7 @@
 - [[farm-strategies-and-yield-extension-in-permaculture]]
 - [[farming-with-air-water-and-sunlight]]
 - [[farming-with-air-water-sunlight]]
+- [[field-observation-permaculture-design]]
 - [[fodder-trees-livestock-permaculture]]
 - [[food-forest-design]]
 - [[food-forest-design-guide]]
@@ -198,6 +200,7 @@
 - [[greywater-systems-detailed]]
 - [[greywater-wetland-plants-guide]]
 - [[guild-design-methods]]
+- [[guild-design-species-interactions]]
 - [[guild-planting-systems]]
 
 ## H
@@ -390,6 +393,8 @@
 ## I
 
 - [[ianto-evans-polyculture-system]]
+- [[incremental-design-in-permaculture]]
+- [[incremental-design-permaculture-ethics]]
 - [[integrate-rather-than-segregate]]
 
 ## J
@@ -703,6 +708,7 @@
 ## P
 
 - [[palm-species-in-permaculture]]
+- [[pattern-understanding-in-permaculture]]
 - [[patterns-in-nature]]
 - [[pdc-aquaculture-water-systems]]
 - [[pdc-climate-and-microclimate-analysis]]
@@ -760,6 +766,7 @@
 - [[permaculture-currency-and-economics]]
 - [[permaculture-date-palm-guide]]
 - [[permaculture-daylily]]
+- [[permaculture-deduction-from-nature]]
 - [[permaculture-definition-and-philosophy]]
 - [[permaculture-design]]
 - [[permaculture-design-concepts-and-methods-overview]]
@@ -769,6 +776,7 @@
 - [[permaculture-design-from-patterns-to-details]]
 - [[permaculture-design-methods-and-topics]]
 - [[permaculture-design-methods-introduction]]
+- [[permaculture-design-methods-summary]]
 - [[permaculture-design-philosophy]]
 - [[permaculture-design-principles]]
 - [[permaculture-design-principles-and-sustainability]]
@@ -776,6 +784,7 @@
 - [[permaculture-design-principles-ethics]]
 - [[permaculture-design-principles-law-of-return]]
 - [[permaculture-design-principles-overview]]
+- [[permaculture-design-principles-summary]]
 - [[permaculture-design-process]]
 - [[permaculture-design-process-overview]]
 - [[permaculture-design-science-concepts-themes]]
@@ -887,8 +896,11 @@
 - [[permaculture-multipurpose-trees]]
 - [[permaculture-neem-and-indian-beech-utility-trees]]
 - [[permaculture-oak-acorn-processing]]
+- [[permaculture-observation-design]]
 - [[permaculture-olive-guide]]
 - [[permaculture-on-farm-alcohol-fuel-production]]
+- [[permaculture-options-and-decisions]]
+- [[permaculture-options-decisions-map-overlays]]
 - [[permaculture-passionfruit]]
 - [[permaculture-pasture-management]]
 - [[permaculture-pattern-literacy]]
@@ -973,12 +985,14 @@
 - [[permaculture-site-analysis]]
 - [[permaculture-site-analysis-mollison]]
 - [[permaculture-site-assessment-checklist]]
+- [[permaculture-site-observation-methods]]
 - [[permaculture-slope-analysis-and-reading]]
 - [[permaculture-small-and-slow-solutions]]
 - [[permaculture-social-design]]
 - [[permaculture-sorghum-guide]]
 - [[permaculture-species-selection-urban]]
 - [[permaculture-succession]]
+- [[permaculture-system-establishment-and-design-principles]]
 - [[permaculture-tagasaste]]
 - [[permaculture-taro-guide]]
 - [[permaculture-temperate-design-strategies]]
@@ -1007,6 +1021,7 @@
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-zone-and-sector-planning]]
 - [[permaculture-zone-planning-guide]]
+- [[permaculture-zone-sector-analysis]]
 - [[permaculture-zones]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-zones-in-practice]]
@@ -1015,6 +1030,8 @@
 - [[pioneer-species-permaculture]]
 - [[pioneer-species-selection-for-permaculture-systems]]
 - [[plant-guilds-and-polycultures]]
+- [[plant-guilds-in-permaculture]]
+- [[plant-guilds-permaculture-design]]
 - [[plant-propagation-techniques-for-permaculture]]
 - [[polyculture-design-hemenway]]
 - [[polyculture-design-holzer]]
@@ -1059,6 +1076,7 @@
 - [[sheet-mulching-guide]]
 - [[sheet-mulching-lasagna-gardening]]
 - [[sheet-mulching-methods-urban-permaculture]]
+- [[slope-analysis-in-permaculture]]
 - [[small-scale-intensive-food-systems-mollison]]
 - [[soil-building-permaculture]]
 - [[soil-tilth-and-seedbed-preparation]]

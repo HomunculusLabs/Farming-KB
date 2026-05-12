@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1795 pages**
+**1797 pages**
 
 ## #
 
@@ -1253,6 +1253,7 @@
 - [[permaculture-animal-integration]]
 - [[permaculture-designers-manual-sacred-groves]]
 - [[permaculture-duck-orchard-integration]]
+- [[permaculture-functional-design-integration]]
 - [[permaculture-poultry-orchard-integration]]
 - [[persephone-abduction-and-narkissos]]
 - [[persephone-and-demeter-in-the-mysteries]]
@@ -1549,6 +1550,7 @@
 
 ## R
 
+- [[random-assembly-creative-design]]
 - [[rarian-plain-sacred-grain-eleusis]]
 - [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
 - [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
