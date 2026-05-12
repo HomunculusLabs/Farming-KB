@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1320 pages**
+**1322 pages**
 
 ## A
 
@@ -102,6 +102,7 @@
 - [[comparison-biodynamic-vs-biointensive]]
 - [[comparison-biodynamic-vs-permaculture]]
 - [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
+- [[comparison-biogas-digester-basics-vs-micro-hydro-power]]
 - [[comparison-biogas-digester-basics-vs-rocket-stove-design]]
 - [[comparison-biogas-vs-composting-toilet]]
 - [[comparison-biointensive-vs-permaculture]]
@@ -509,6 +510,7 @@
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
 - [[comparison-rocket-stove-vs-pellet-stove]]
+- [[comparison-rocket-stove-vs-rocket-mass-heater]]
 - [[comparison-rockwool-vs-coco-coir]]
 - [[comparison-root-cellar-vs-ice-house]]
 - [[comparison-root-cellaring-guide-vs-canning-and-preserving]]

@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1200 pages**
+**1202 pages**
 
 ## A
 
@@ -765,6 +765,7 @@
 - [[passive-irrigation-systems]]
 - [[pasture-management]]
 - [[pasture-management-and-forage]]
+- [[pasture-sod-seeding]]
 - [[pastured-egg-production]]
 - [[pastured-pork-production]]
 - [[peat-free-gardening]]
@@ -1006,6 +1007,7 @@
 - [[silvopasture-systems]]
 - [[slugs-and-snails-organic-control]]
 - [[small-scale-grain-growing]]
+- [[sod-seeding-pasture-renovation]]
 - [[soft-fruit-growing-organic]]
 - [[solar-radiation-and-plant-light-responses]]
 - [[solomon-chitting-and-presprouting-techniques]]

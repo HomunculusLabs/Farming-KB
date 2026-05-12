@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**242 pages**
+**248 pages**
 
 ## A
 
@@ -49,6 +49,7 @@
 - [[cob-building-basics-detailed]]
 - [[cob-construction]]
 - [[cob-oven-construction]]
+- [[cold-area-grazing-and-wildfire]]
 - [[cool-temperate-forage-systems-and-small-livestock]]
 - [[cordwood-construction]]
 
@@ -273,6 +274,7 @@
 - [[solar-radiation-albedo-heat]]
 - [[solar-water-heating]]
 - [[stamets-slant-culture-strain-preservation]]
+- [[stock-management-and-personal-survival-in-wildfire]]
 - [[stone-cellar-building]]
 - [[straw-bale-construction]]
 - [[strawyard-throwover-pen-design]]
@@ -305,7 +307,11 @@
 - [[water-design-checklist-and-dam-construction]]
 - [[wicking-bed-construction]]
 - [[wicking-bed-materials-construction-variants]]
+- [[wildfire-behavior-and-firestorm-dynamics]]
+- [[wildfire-ecology-and-management]]
+- [[wildfire-firestorm-mechanics]]
 - [[wildfire-preparedness-guide]]
+- [[wildfire-spread-factors-and-firestorm-conditions]]
 - [[wind-power-basics]]
 - [[winter-storm-preparedness]]
 - [[wood-fired-hot-tub]]

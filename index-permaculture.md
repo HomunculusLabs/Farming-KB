@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1203 pages**
+**1208 pages**
 
 ## A
 
@@ -58,6 +58,7 @@
 - [[apple-guild-design-guide]]
 - [[apple-tree-guild-design-species-combinations]]
 - [[applied-pattern-design-in-permaculture]]
+- [[aquaculture-principles-and-water-based-food-systems]]
 - [[aquatic-polyculture-design-mollison]]
 - [[arid-landscape-scarp-wadi-desert-settlement]]
 
@@ -433,6 +434,8 @@
 - [[integrate-rather-than-segregate]]
 - [[integrated-land-management-and-polyculture-design]]
 - [[integrated-pest-management-in-tropical-polycultures]]
+- [[introduction-to-aquaculture-and-wetland-systems]]
+- [[introduction-to-aquaculture-in-permaculture]]
 
 ## J
 
@@ -842,6 +845,7 @@
 - [[permaculture-design-science-concepts-themes]]
 - [[permaculture-design-scope-and-methods]]
 - [[permaculture-design-system-nature-conservation]]
+- [[permaculture-designers-checklist-and-property-report]]
 - [[permaculture-designers-checklist-for-drylands]]
 - [[permaculture-designers-manual-animal-forage-systems]]
 - [[permaculture-designers-manual-animal-housing-detailed]]
@@ -1105,6 +1109,7 @@
 
 - [[radiation-effects-permaculture-design]]
 - [[rainwater-harvesting-systems]]
+- [[rangeland-polyculture-management]]
 - [[reading-the-landscape]]
 - [[resource-classification-and-management-in-permaculture]]
 

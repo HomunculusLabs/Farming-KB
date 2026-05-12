@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**641 pages**
+**643 pages**
 
 ## A
 
@@ -199,6 +199,8 @@
 
 - [[fermented-mixed-compost-fmc]]
 - [[fertilizer-pollution-environmental-impact]]
+- [[fire-effect-on-forest-soils-and-nutrient-loss]]
+- [[fire-effects-on-forest-soils-and-nutrient-losses]]
 - [[flocculation-and-natural-subsoil-loosening-solomon]]
 - [[flushing-nutrients]]
 - [[foliar-nutrient-diagnosis-deficiency-identification]]
