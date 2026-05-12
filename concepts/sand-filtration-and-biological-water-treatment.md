@@ -1,0 +1,131 @@
+---
+title: Sand Filtration and Biological Water Treatment
+source: bill-mollison-permaculture-a-designers-manual.md
+type: concept
+---
+
+# Sand Filtration and Biological Water Treatment
+
+Sand filtration and biological water treatment are foundational techniques for purifying drinking water and treating sewage using natural processes. These methods, drawn from Bill Mollison's *Permaculture: A Designers' Manual*, rely on physical filtration, bacterial action, and plant-based systems to produce clean, safe water without heavy reliance on chemicals or machinery.
+
+## Sand Filtration
+
+Sand filtration is the most classical and widely-used water treatment method. Britain and many cities worldwide employ sand filters followed by chlorination to clean settled and treated raw sewage water.
+
+### Slow Sand Filter Design
+
+- **Depth**: 1.2 metres (4 feet) of sand
+- **Layering**: Top half fine sand, bottom half coarse sand
+- **Applications**: Used even in temporary rural camps for water filtration
+- **Urban installations**: Fixed sand beds with brick bases
+
+### Maintenance
+
+The top 1 cm (0.5 inch) of sand is periodically swept, removed, and dried or roasted to remove organic particles before the sand is returned to the filter bed. This typically needs to be done every 12–18 months.
+
+## Activated Charcoal Filtration
+
+Activated charcoal is used as a fine filter where high purity is essential. Sources include:
+
+- Bones
+- Willow plants
+- Coconut husks
+
+Fine dripstone (fine-pored stone) is also used in water cleaners and coolers to supply cool water in homes.
+
+## Trickle Filters and Bacterial Action
+
+Trickle filters through sand and gravel columns feed resident bacteria that remove surplus nutrients. In less polluted environments, freshwater mussels perform a similar ecological function, filtering bacteria from the water column.
+
+### Carbon for Nitrogen Removal
+
+Carbon is essential for nitrogen removal or its conversion by bacteria. It is added as carbohydrate in liquid forms:
+
+- Methanol
+- Ethanol
+- Acetic acids
+
+These can all be derived from plant residues — effectively "adding a little wine to the water" to encourage bacterial activity. Surplus nitrogen is released by bacteria to the atmosphere. Without active bacterial populations, nitrates migrate easily through subsoils where no plants or bacteria can live, eventually emerging in wells and streams.
+
+## Pond Surface Stabilisation
+
+Reducing turbidity and algae in drinking ponds is achieved through light exclusion and surface water stabilisation.
+
+### Surface Stabilisers (Floating Plants)
+
+- Water lilies
+- *Azolla*
+- Water hyacinth (*Eichhornia crassipes*)
+
+### Bank Stabilisers (Marginal Plants)
+
+- *Juncus* (rushes)
+- *Scirpus* (bulrushes)
+- Various grasses and clovers
+- *Phyla nodosa* (Lippia)
+- Bamboo and pampas grass clumps
+
+With turbidity much reduced, filtration loads decrease proportionally.
+
+## Liming for Turbidity Reduction
+
+Liming further reduces turbidity when pH is 6.0 or below. Methods include:
+
+- Placing crushed marble or limestone as a layer in a tank
+- Casting burnt lime over a pond before and/or after filling
+- Adding crushed or whole shells to water tanks and ponds
+
+Lime flocculates particles, causing them to settle out of the water column.
+
+## Multi-Stage Biological Filtration System
+
+A complete gravity-fed treatment system uses multiple stages in series:
+
+### Stage 1: Trickle Filters
+
+Loose pebbles (2.5–10 cm) form an active bacterial surface layer that absorbs nutrients. **Mussel shells** can substitute for pebbles, and living mussels in the pond or tank provide dual benefits:
+
+- **Acidity monitoring**: Die at pH 5.5 or thereabouts
+- **Filtration**: Each mussel filters up to 100 litres per day, digesting bacteria and depositing wastes in the mud base
+- **Pollution detection**: Very sensitive to biocides such as Dieldrin — their living presence serves as a constant biological monitor for life-threatening pollution
+
+### Stage 2: Sand Filter
+
+Water rising through a sand column removes bacterial pollution. The result is fairly clear water.
+
+### Stage 3: Watercress Bed
+
+Water passes through a bed of watercress to remove dyes and nitrates. The cress can be:
+- Cut and fed to animals
+- Dried and burnt to ash (returning minerals to soil)
+
+### Stage 4: Carbon-Silica Column
+
+As a final process, water trickles through a column (a concrete pipe set on end) containing:
+- 10% active carbon
+- 90% silicon dioxide (burnt rice, oat, or wheat husks)
+
+### Result
+
+The output is clear, sparkling, safe drinking water. **No machinery is involved** if the system is laid out downslope to permit gravity flow from one stage to the next.
+
+## Lime in Primary Treatment
+
+Freshly burnt lime is used to remove phosphorus and sludges in a primary settling lagoon. Water is then passed to a trickle tower for ammonia removal by bacteria.
+
+### Open Lagoon Food Chain
+
+In open lagoons (as opposed to sealed towers), a complete food chain develops:
+- **Insect larvae and filter-feeders** consume bacteria
+- **Frogs, fish, and waterfowl** consume the insects
+- Sewage lagoons become rich waterfowl and forest sanctuaries
+
+### End-Use Routing
+
+Water from filter towers can be routed to:
+- Forest systems
+- Pasture
+- Crops destined for distillation or burning (not directly re-entering the food chain)
+- Irrigated grasslands (as demonstrated at Werribee, Australia)
+
+This multi-stage approach demonstrates how biological treatment can transform sewage — a perceived waste problem — into a cascade of useful products: clean water, energy, animal feed, wildlife habitat, and fertile land.
