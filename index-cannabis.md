@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1204 pages**
+**1205 pages**
 
 ## #
 
@@ -982,6 +982,7 @@
 
 ## E
 
+- [[earthcare-ethics-and-permanent-agriculture]]
 - [[ec-tds-cannabis]]
 - [[edaphic-determinants-cannabis-microbiome-community-structure]]
 - [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]

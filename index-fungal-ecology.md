@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2609 pages**
+**2619 pages**
 
 ## #
 
@@ -391,6 +391,7 @@
 - [[bloomfields-orchard-spore-discharge-mechanisms]]
 - [[boil-a-bag-spore-print-technique-jarrold]]
 - [[bolete-fungi-appalachian-region]]
+- [[boletus-edulis-and-pore-fungi-polyporaceae]]
 - [[boletus-manicus-new-guinea-psychoactive-bolete]]
 - [[boundary-layer-redistribution-fungal-tropism]]
 - [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]
@@ -617,6 +618,7 @@
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
 - [[ectomycorrhizal-remediation]]
 - [[edible-agarics]]
+- [[edible-agarics-coprinus-and-lepiota-species]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
 - [[ehrlich-reagent-tryptamine-detection-tlc-mycology]]
 - [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]
@@ -693,6 +695,7 @@
 - [[ethnomycology-wasson-discovery-narrative]]
 - [[ethylene-involvement-fungal-tropism-avoidance-response]]
 - [[european-truffles]]
+- [[european-truffles-species-habitat-and-distribution]]
 - [[evaporative-demand-and-fungal-growth]]
 - [[evaporative-demand-mechanism-fungi]]
 - [[extremophilic-fungi]]
@@ -1430,6 +1433,7 @@
 - [[human-uses-fungi-history]]
 - [[humus-formation-and-soil-organic-matter]]
 - [[humus-humic-acid-fulvic-acid-distinctions]]
+- [[hydnum-tooth-fungi-and-clavaria-coral-fungi]]
 - [[hydrogen-peroxide-tissue-culture-wild-polypores]]
 - [[hyphal-anastomosis-self-non-self-recognition]]
 - [[hyphal-biology-and-mycelial-architecture]]
@@ -1670,6 +1674,7 @@
 - [[monotropoid-mycorrhiza]]
 - [[morel-morchella-cultivation-life-cycle]]
 - [[morel-mushroom-guide]]
+- [[morels-morchella-species-and-cultivation-attempts]]
 - [[morishima-acacia-nitrogen-fixing-soil-building-tree]]
 - [[mr-bloomfields-orchard-cryptococcus-and-opportunistic-fungal-pathogens]]
 - [[mr-bloomfields-orchard-dermatophytes-and-human-fungal-infections]]
@@ -1693,6 +1698,7 @@
 - [[mushroom-mycelial-morphology-types-identification]]
 - [[mushroom-mycelium-growth-monitoring-colonization-cues]]
 - [[mushroom-nutritional-categories-and-fungal-habitat-roles]]
+- [[mushroom-spawn-and-mycelial-growth]]
 - [[mushroom-spore-allergy]]
 - [[mushroom-spore-catapult-mechanism]]
 - [[mushroom-spore-discharge-bullers-drop]]
@@ -2154,6 +2160,7 @@
 - [[psychrotolerant-psychrophilic-fungi-ecology]]
 - [[puff-balls-lycoperdaceae]]
 - [[puffball-fungi]]
+- [[puffballs-lycoperdaceae-and-giant-calvatia-species]]
 - [[pythium-insidiosum-oomycete-human-infection-pythiosis]]
 
 ## R
@@ -2381,6 +2388,7 @@
 - [[spore]]
 - [[spore-dispersal]]
 - [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]
+- [[spore-germination-and-commercial-brick-spawn-production]]
 - [[spore-germination-triggers-and-dormancy-breaking]]
 - [[spore-inoculation-sterile-technique]]
 - [[spore-interstellar-dispersal-hypothesis]]
@@ -2618,6 +2626,7 @@
 - [[tree-canopy-fungal-sampling-techniques]]
 - [[trichloroethylene-fungal-degradation]]
 - [[trichoderma-forest-green-mold-guide]]
+- [[tricholoma-pleurotus-and-white-spored-edible-genera]]
 - [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]
 - [[tropical-restoration-mycorrhiza]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
@@ -2629,6 +2638,7 @@
 - [[truffle-dog-training]]
 - [[truffle-evolution-and-hypogeous-fungi]]
 - [[truffle-guide]]
+- [[truffle-hunting-methods-and-truffle-culture]]
 - [[truffle-inoculated-seedlings]]
 - [[truffle-orchard-design-establishment]]
 - [[tryptophan-biosynthesis-from-chorismate]]

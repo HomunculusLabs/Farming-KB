@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**215 pages**
+**216 pages**
 
 ## A
 
@@ -146,6 +146,7 @@
 
 - [[lacto-fermentation-and-food-preservation-methods]]
 - [[land-selection-for-homesteading]]
+- [[law-of-return-and-energy-catchment-design]]
 - [[livestock-feed-formulation]]
 - [[livestock-fencing-guide]]
 

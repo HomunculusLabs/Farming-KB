@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1276 pages**
+**1280 pages**
 
 ## A
 
@@ -365,6 +365,7 @@
 - [[comparison-maca-vs-rhodiola-cultivation]]
 - [[comparison-macadamia-vs-pecan-vs-pistachio-cultivation]]
 - [[comparison-main-lining-vs-screen-of-green]]
+- [[comparison-maitake-vs-cordyceps]]
 - [[comparison-maitake-vs-oyster-cultivation]]
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 - [[comparison-maitake-vs-shiitake-cultivation]]
@@ -587,6 +588,7 @@
 - [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]]
 - [[comparison-tulsi-vs-lemon-balm]]
 - [[comparison-turkey-tail-vs-maitake]]
+- [[comparison-turkey-tail-vs-oyster-mushroom]]
 - [[comparison-turmeric-vs-ginger]]
 - [[comparison-two-row-vs-six-row-barley]]
 - [[comparison-valerian-vs-ashwagandha]]
@@ -1115,6 +1117,7 @@
 - [[query-what-are-endophytic-fungi-and-why-do-they-matter]]
 - [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
 - [[query-what-are-green-manures-and-how-to-use-them]]
+- [[query-what-are-heirloom-and-landrace-varieties-and-why-do-they-matter]]
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]
 - [[query-what-are-permaculture-zones-and-how-do-i-use-them]]
@@ -1152,6 +1155,7 @@
 - [[query-what-are-the-best-plants-for-a-hugelkultur-bed]]
 - [[query-what-are-the-best-soil-amendments-for-organic-gardening]]
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
+- [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
 - [[query-what-are-the-health-benefits-of-dietary-polyphenols]]
 - [[query-what-are-the-health-benefits-of-lions-mane-mushroom]]

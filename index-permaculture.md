@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1041 pages**
+**1070 pages**
 
 ## A
 
@@ -82,6 +82,7 @@
 - [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
+- [[bill-mollison-permaculture-overview]]
 - [[biodiversity-sampling-protocol-design]]
 - [[biodynamic-agriculture-and-steiner]]
 - [[biodynamic-preparations]]
@@ -175,6 +176,7 @@
 ## G
 
 - [[gaia-garden-plant-guilds]]
+- [[gaia-hypothesis-and-open-systems-in-permaculture]]
 - [[gaias-garden-hugelkultur]]
 - [[gaias-garden-keyhole-beds-and-mandala-gardens]]
 - [[gaias-garden-meadow-garden-polyculture]]
@@ -747,17 +749,27 @@
 - [[permaculture-currency-and-economics]]
 - [[permaculture-date-palm-guide]]
 - [[permaculture-daylily]]
+- [[permaculture-definition-and-philosophy]]
 - [[permaculture-design]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-concepts-themes]]
 - [[permaculture-design-course-methodology]]
+- [[permaculture-design-framework]]
 - [[permaculture-design-from-patterns-to-details]]
 - [[permaculture-design-methods]]
+- [[permaculture-design-methods-and-topics]]
+- [[permaculture-design-philosophy]]
 - [[permaculture-design-principles]]
 - [[permaculture-design-principles-and-sustainability]]
 - [[permaculture-design-principles-beginners]]
 - [[permaculture-design-principles-ethics]]
+- [[permaculture-design-principles-law-of-return]]
 - [[permaculture-design-principles-overview]]
 - [[permaculture-design-process]]
 - [[permaculture-design-process-overview]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-design-scope-and-methods]]
+- [[permaculture-design-system-nature-conservation]]
 - [[permaculture-designers-manual-animal-forage-systems]]
 - [[permaculture-designers-manual-animal-housing-detailed]]
 - [[permaculture-designers-manual-banana-circles]]
@@ -776,6 +788,7 @@
 - [[permaculture-designers-manual-island-climate]]
 - [[permaculture-designers-manual-legal-structures]]
 - [[permaculture-designers-manual-oil-seeds]]
+- [[permaculture-designers-manual-overview]]
 - [[permaculture-designers-manual-pattern-application]]
 - [[permaculture-designers-manual-pioneer-species]]
 - [[permaculture-designers-manual-plant-nursery]]
@@ -807,7 +820,12 @@
 - [[permaculture-energy-hierarchy]]
 - [[permaculture-ethical-principles-holmgren]]
 - [[permaculture-ethics]]
+- [[permaculture-ethics-and-permanent-agriculture]]
 - [[permaculture-ethics-and-principles]]
+- [[permaculture-ethics-and-rules-of-use]]
+- [[permaculture-ethics-earth-care-people-care-fair-share]]
+- [[permaculture-ethics-of-earth-care-and-people-care]]
+- [[permaculture-ethics-of-permanence]]
 - [[permaculture-farm-design-principles]]
 - [[permaculture-fennel]]
 - [[permaculture-fire-management]]
@@ -834,13 +852,17 @@
 - [[permaculture-herb-spiral-details]]
 - [[permaculture-honey-locust-pod-fodder-system]]
 - [[permaculture-hops]]
+- [[permaculture-in-landscape-and-society]]
 - [[permaculture-insectary-plants]]
 - [[permaculture-integrate-rather-than-segregate]]
 - [[permaculture-integrated-animal-systems]]
 - [[permaculture-interaction-of-plants-and-animals]]
+- [[permaculture-introduction-and-definition]]
 - [[permaculture-introduction-and-ethics]]
 - [[permaculture-invisible-structures-economics]]
 - [[permaculture-japanese-raisin-tree-hovenia-dulcis]]
+- [[permaculture-landscape-society-anthropocentric-nature-centered-design]]
+- [[permaculture-landscape-society-design]]
 - [[permaculture-livestock-forage-systems]]
 - [[permaculture-macadamia]]
 - [[permaculture-mapping-and-base-maps]]
@@ -862,6 +884,8 @@
 - [[permaculture-paulownia]]
 - [[permaculture-pawpaw]]
 - [[permaculture-pecan-tree-profile]]
+- [[permaculture-philosophy-and-ethics]]
+- [[permaculture-philosophy-and-prime-directive]]
 - [[permaculture-pig-raising]]
 - [[permaculture-pine-nut-guide]]
 - [[permaculture-pioneer-species]]
@@ -983,6 +1007,7 @@
 - [[powell-omega-point-and-cosmic-evolution]]
 - [[powell-sleeping-dreams-and-waking-dreams]]
 - [[powell-the-other-and-sentient-presence]]
+- [[preface-and-author-context-of-permaculture-designers-manual]]
 
 ## R
 
@@ -994,6 +1019,9 @@
 - [[salt-tolerant-plants-permaculture]]
 - [[salt-tolerant-trees-and-shrubs-permaculture]]
 - [[salvage-permaculture-dumpster-diving]]
+- [[science-and-living-systems-in-permaculture]]
+- [[science-and-living-systems-permaculture-perspective]]
+- [[science-living-systems-permaculture]]
 - [[seed-saving-in-permaculture]]
 - [[seed-selection-breeding-holzer]]
 - [[sepp-holzer-cattle-and-poultry-management]]
@@ -1029,6 +1057,7 @@
 
 ## T
 
+- [[thermodynamics-energy-flow-permaculture-design]]
 - [[tidal-estuarine-aquaculture-mollison]]
 - [[tompkins-albert-abrams-electronic-diagnosis]]
 - [[tompkins-cleve-backster-primary-perception]]
