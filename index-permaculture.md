@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1108 pages**
+**1106 pages**
 
 ## A
 
@@ -97,6 +97,8 @@
 - [[bioregional-organization]]
 - [[bioregional-organization-mollison]]
 - [[bioswales]]
+- [[boundary-conditions-and-edge-effect]]
+- [[boundary-conditions-in-permaculture]]
 - [[broadscale-restoration-watershed-repair]]
 - [[broadscale-watershed-restoration-techniques]]
 
@@ -140,6 +142,7 @@
 - [[ecological-succession-in-permaculture-design]]
 - [[edge-effect-and-microclimate]]
 - [[edge-effect-ecology]]
+- [[edge-effect-in-permaculture]]
 - [[energy-descent-action-planning]]
 - [[energy-descent-and-permaculture]]
 - [[energy-descent-permaculture-response]]
@@ -601,7 +604,6 @@
 - [[mollison-farm-design-strategies-for-yield-increase]]
 - [[mollison-farm-forestry-and-woodlot-design]]
 - [[mollison-flood-retardation-by-trees-and-earthworks]]
-- [[mollison-fractals-branching-and-conduit-design]]
 - [[mollison-free-range-pig-systems]]
 - [[mollison-frost-protection-and-thermal-belt-design]]
 - [[mollison-game-species-management-range]]
@@ -643,7 +645,6 @@
 - [[mollison-plant-nursery-species-selection]]
 - [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
 - [[mollison-rain-interception-and-throughfall-in-forests]]
-- [[mollison-resource-classification-and-management]]
 - [[mollison-salicornia-flats-and-estuarine-aquaculture]]
 - [[mollison-sediment-management-and-check-dam-systems]]
 - [[mollison-shade-systems-and-canopy-architecture]]
@@ -1021,7 +1022,6 @@
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-zone-and-sector-planning]]
 - [[permaculture-zone-planning-guide]]
-- [[permaculture-zone-sector-analysis]]
 - [[permaculture-zones]]
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-zones-in-practice]]
@@ -1048,14 +1048,12 @@
 - [[rainwater-harvesting-systems]]
 - [[reading-the-landscape]]
 - [[resource-classification-and-management-in-permaculture]]
-- [[resource-classification-permaculture]]
 
 ## S
 
 - [[salt-tolerant-plants-permaculture]]
 - [[salt-tolerant-trees-and-shrubs-permaculture]]
 - [[salvage-permaculture-dumpster-diving]]
-- [[science-and-living-systems-in-permaculture]]
 - [[science-and-living-systems-permaculture-perspective]]
 - [[science-living-systems-permaculture]]
 - [[seed-saving-in-permaculture]]
