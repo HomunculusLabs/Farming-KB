@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1329 pages**
+**1332 pages**
 
 ## A
 
@@ -102,6 +102,7 @@
 - [[comparison-biodynamic-vs-biointensive]]
 - [[comparison-biodynamic-vs-permaculture]]
 - [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
+- [[comparison-biogas-digester-basics-vs-charcoal-production-for-cooking]]
 - [[comparison-biogas-digester-basics-vs-micro-hydro-power]]
 - [[comparison-biogas-digester-basics-vs-rocket-stove-design]]
 - [[comparison-biogas-digester-basics-vs-solar-cooking-methods]]
@@ -313,6 +314,7 @@
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[comparison-heirloom-vs-hybrid-seeds]]
+- [[comparison-heirloom-vs-hybrid-vs-open-pollinated-seeds]]
 - [[comparison-hempcrete-vs-adobe]]
 - [[comparison-hempcrete-vs-cordwood-construction]]
 - [[comparison-hempcrete-vs-rammed-earth]]
@@ -924,6 +926,7 @@
 - [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
 - [[query-how-do-i-use-biochar-in-my-garden]]
 - [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
+- [[query-how-do-i-use-chop-and-drop-mulching-in-my-food-forest]]
 - [[query-how-do-i-use-comfrey-in-the-garden]]
 - [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]
 - [[query-how-do-i-use-cover-crops-to-improve-soil-health]]

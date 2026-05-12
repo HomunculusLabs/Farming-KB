@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1246 pages**
+**1256 pages**
 
 ## A
 
@@ -113,12 +113,15 @@
 - [[bioregional-organisation]]
 - [[bioregional-organisation-permaculture]]
 - [[bioregional-organization]]
+- [[bioregional-organization-and-bioregionalism]]
 - [[bioregional-organization-and-political-affiliation-permaculture]]
 - [[bioregional-organization-mollison]]
 - [[bioregional-resource-index]]
 - [[bioregional-resource-index-food-systems]]
 - [[bioregional-resource-index-permaculture]]
 - [[bioregional-resource-index-shelter-livelihoods-community]]
+- [[bioregional-resource-monitoring]]
+- [[bioregionalism-and-community-organization]]
 - [[bioswales]]
 - [[boundary-conditions-and-edge-effect]]
 - [[boundary-conditions-in-permaculture]]
@@ -186,6 +189,7 @@
 - [[eucalyptus-permaculture]]
 - [[evolving-polyculture-design]]
 - [[evolving-polycultures-and-species-richness]]
+- [[extended-families-permaculture]]
 
 ## F
 
@@ -1087,6 +1091,7 @@
 - [[permaculture-urban-design]]
 - [[permaculture-urban-design-apartments-balconies]]
 - [[permaculture-useful-plants-reference]]
+- [[permaculture-village-development]]
 - [[permaculture-vine-crops]]
 - [[permaculture-walnut-guide]]
 - [[permaculture-walnut-species-timber-nut-production]]
@@ -1135,6 +1140,7 @@
 - [[powell-sleeping-dreams-and-waking-dreams]]
 - [[powell-the-other-and-sentient-presence]]
 - [[preface-and-author-context-of-permaculture-designers-manual]]
+- [[property-trusts-and-ethical-investment]]
 
 ## R
 
@@ -1220,6 +1226,9 @@
 - [[tropical-hedgerow-shelterbelt-design]]
 - [[tropical-hedgerow-windbreak-systems]]
 - [[tropical-polyculture-evolution-and-pest-management]]
+- [[trusts-and-legal-strategies-for-permaculture]]
+- [[trusts-and-legal-strategies-permaculture]]
+- [[trusts-legal-strategies-permaculture]]
 - [[types-of-earthworks-banks-benches-terraces]]
 
 ## U
@@ -1249,6 +1258,7 @@
 ## V
 
 - [[vegetative-propagation-methods-mollison]]
+- [[village-development-in-permaculture]]
 - [[village-polyculture-species-richness-and-site-planning]]
 - [[vines-in-desert-permaculture]]
 
