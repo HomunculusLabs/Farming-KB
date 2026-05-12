@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1327 pages**
+**1329 pages**
 
 ## A
 
@@ -843,9 +843,11 @@
 - [[query-how-do-i-grow-mulberry-trees]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
+- [[query-how-do-i-grow-onions-from-seed-sets-and-transplants]]
 - [[query-how-do-i-grow-perennial-vegetables-in-my-garden]]
 - [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
 - [[query-how-do-i-grow-squash-pumpkins-and-cucumbers-successfully]]
+- [[query-how-do-i-grow-stone-fruits-like-peaches-plums-and-cherries]]
 - [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]

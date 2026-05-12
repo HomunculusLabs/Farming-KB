@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1230 pages**
+**1246 pages**
 
 ## A
 
@@ -58,7 +58,9 @@
 - [[apple-guild-design-guide]]
 - [[apple-tree-guild-design-species-combinations]]
 - [[applied-pattern-design-in-permaculture]]
+- [[aquaculture-design-checklist]]
 - [[aquaculture-design-principles-and-energy-efficiency]]
+- [[aquaculture-designers-checklist]]
 - [[aquaculture-energy-efficiency]]
 - [[aquaculture-pond-construction-sizes]]
 - [[aquaculture-pond-yield-factors]]
@@ -107,8 +109,16 @@
 - [[biointensive-diet-design]]
 - [[biointensive-gardening-overview]]
 - [[biointensive-seed-saving]]
+- [[bioregional-congresses-and-global-nation-permaculture]]
+- [[bioregional-organisation]]
+- [[bioregional-organisation-permaculture]]
 - [[bioregional-organization]]
+- [[bioregional-organization-and-political-affiliation-permaculture]]
 - [[bioregional-organization-mollison]]
+- [[bioregional-resource-index]]
+- [[bioregional-resource-index-food-systems]]
+- [[bioregional-resource-index-permaculture]]
+- [[bioregional-resource-index-shelter-livelihoods-community]]
 - [[bioswales]]
 - [[boundary-conditions-and-edge-effect]]
 - [[boundary-conditions-in-permaculture]]
@@ -119,6 +129,7 @@
 
 - [[canopy-layer-design-food-forests]]
 - [[chicken-tractor-systems]]
+- [[chinampa-aquaculture-systems]]
 - [[chinampas]]
 - [[chinampas-agriculture]]
 - [[chisel-plough-soil-conditioning-mollison]]
@@ -168,6 +179,7 @@
 - [[energy-descent-action-planning]]
 - [[energy-descent-and-permaculture]]
 - [[energy-descent-permaculture-response]]
+- [[ethical-basis-alternative-nation-permaculture]]
 - [[ethical-investment-and-earth-banking]]
 - [[eucalypts-and-f-section-permaculture-plants]]
 - [[eucalyptus-in-permaculture]]
@@ -748,6 +760,7 @@
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 - [[natural-farming-guide-swale-water-management]]
 - [[natural-patterns-in-permaculture-design]]
+- [[new-united-nations-permaculture-social-strategy]]
 
 ## O
 
@@ -1130,6 +1143,7 @@
 - [[rangeland-polyculture-management]]
 - [[reading-the-landscape]]
 - [[resource-classification-and-management-in-permaculture]]
+- [[right-not-to-be-in-debt-permaculture]]
 
 ## S
 
@@ -1249,6 +1263,8 @@
 - [[water-permaculture-global-local-strategies]]
 - [[water-quality-in-aquaculture-ponds]]
 - [[water-runoff-factors-and-swale-systems]]
+- [[wild-rice-and-taro-polycultures]]
+- [[wild-rice-aquaculture]]
 - [[williams-pdc-additional-permaculture-principles]]
 - [[williams-pdc-appropriate-technology]]
 - [[williams-pdc-client-interview-process]]

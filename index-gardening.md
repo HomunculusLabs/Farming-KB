@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1204 pages**
+**1206 pages**
 
 ## A
 
@@ -27,6 +27,8 @@
 - [[aquaponics-guide]]
 - [[aquaponics-plant-selection]]
 - [[aquaponics-system-design]]
+- [[aquatic-margin-plants]]
+- [[aquatic-marginal-plants]]
 - [[ashwagandha-growing-guide]]
 - [[avenue-cropping-and-barrier-plants]]
 
