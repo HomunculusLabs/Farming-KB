@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**232 pages**
+**235 pages**
 
 ## A
 
@@ -10,6 +10,7 @@
 - [[albedo-and-solar-radiation]]
 - [[animal-butcher-and-processing]]
 - [[animal-byproducts]]
+- [[animal-tractor-systems]]
 - [[animal-tractoring]]
 - [[appropriate-technology]]
 
@@ -146,6 +147,7 @@
 - [[integrated-homestead-annual-calendar]]
 - [[integrated-homestead-design]]
 - [[integrated-poultry-forage-systems-zone-two]]
+- [[island-diet-diversification-and-energy-resources]]
 
 ## J
 
@@ -278,6 +280,7 @@
 - [[tree-biomass-and-energy-transactions]]
 - [[tree-energy-transactions]]
 - [[trees-and-energy-transactions]]
+- [[tropical-island-diet-diversification-and-energy-resources]]
 - [[turkey-husbandry]]
 
 ## U

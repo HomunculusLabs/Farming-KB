@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**72 pages**
+**73 pages**
 
 ## A
 
@@ -35,6 +35,7 @@
 - [[desertification]]
 - [[desertification-and-vegetation-loss]]
 - [[desertification-causes-reversal]]
+- [[dryland-strategies-desertification]]
 
 ## E
 

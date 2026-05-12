@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1176 pages**
+**1185 pages**
 
 ## A
 
@@ -52,6 +52,7 @@
 - [[allegro-womans-part-in-the-creative-process]]
 - [[allegro-word-play-and-secret-names-in-scripture]]
 - [[allegro-zealots-sicarii-masada-drug-cult-revolts]]
+- [[animal-tractor-systems-permaculture]]
 - [[apple-centered-guild-design]]
 - [[apple-guild-design-guide]]
 - [[apple-tree-guild-design-species-combinations]]
@@ -418,6 +419,7 @@
 - [[incremental-design-permaculture-ethics]]
 - [[infiltration-earthworks-and-water-conservation]]
 - [[infiltration-earthworks-water-storage]]
+- [[inselbergs-and-fold-mountains-in-desert-permaculture]]
 - [[integrate-rather-than-segregate]]
 - [[integrated-land-management-and-polyculture-design]]
 - [[integrated-pest-management-in-tropical-polycultures]]
@@ -445,6 +447,7 @@
 
 - [[levels-and-surveying-tools-for-earthworks]]
 - [[local-currencies]]
+- [[low-island-coral-cay-permaculture]]
 
 ## M
 
@@ -1093,6 +1096,8 @@
 - [[salt-tolerant-plants-permaculture]]
 - [[salt-tolerant-trees-and-shrubs-permaculture]]
 - [[salvage-permaculture-dumpster-diving]]
+- [[scarp-and-wadi-water-harvesting]]
+- [[scarp-and-wadi-water-harvesting-systems]]
 - [[science-and-living-systems-permaculture-perspective]]
 - [[science-living-systems-permaculture]]
 - [[seed-saving-in-permaculture]]
@@ -1155,6 +1160,8 @@
 - [[tree-biomass-and-guild-ecology]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[trellis-shadehouse-design-mollison]]
+- [[tropical-hedgerow-shelterbelt-design]]
+- [[tropical-hedgerow-windbreak-systems]]
 - [[tropical-polyculture-evolution-and-pest-management]]
 - [[types-of-earthworks-banks-benches-terraces]]
 
@@ -1194,6 +1201,8 @@
 - [[water-conservation]]
 - [[water-harvesting-and-conservation]]
 - [[water-harvesting-and-conservation-in-permaculture]]
+- [[water-harvesting-arid-lands]]
+- [[water-harvesting-in-arid-lands]]
 - [[water-permaculture-global-local-strategies]]
 - [[williams-pdc-additional-permaculture-principles]]
 - [[williams-pdc-appropriate-technology]]

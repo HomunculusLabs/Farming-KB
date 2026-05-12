@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**626 pages**
+**633 pages**
 
 ## A
 
@@ -53,6 +53,7 @@
 - [[alkaline-soil-plants]]
 - [[animal-manure-guide]]
 - [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
+- [[arid-soil-fertility-and-mineral-management]]
 - [[azomite-mineral-amendment]]
 
 ## B
@@ -154,6 +155,10 @@
 ## D
 
 - [[deep-organic-soil-management]]
+- [[desert-soils-nutrition-and-phosphorus-dynamics]]
+- [[desert-soils-scalds-and-claypans]]
+- [[desert-temperature-and-soils]]
+- [[desert-temperature-regimes-and-soil-chemistry]]
 - [[designer-compost-bokashi]]
 - [[designer-compost-bokashi-method]]
 - [[difficult-soils-concretions-and-non-wetting]]
@@ -162,6 +167,7 @@
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[direct-seeded-no-tillage-rice-winter-grain-succession]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
+- [[dryland-soils-and-mineral-nutrition]]
 - [[duggar-stable-manure-selection-compost-materials]]
 - [[dynamic-accumulator-bracken-fern-potash]]
 - [[dynamic-accumulator-phosphate-liberators]]
@@ -495,6 +501,7 @@
 - [[serpentine-soil-ecology]]
 - [[sheet-composting]]
 - [[singh-composted-biomass-as-soil-amendment-remediation]]
+- [[soil-amelioration-and-fertilisers-in-arid-areas]]
 - [[soil-amendment-reference]]
 - [[soil-arthropods]]
 - [[soil-biological-indicators]]
