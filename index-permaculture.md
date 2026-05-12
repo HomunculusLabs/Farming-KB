@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1133 pages**
+**1136 pages**
 
 ## A
 
@@ -1187,6 +1187,9 @@
 - [[williams-pdc-water-treatment]]
 - [[williams-pdc-zone-analysis]]
 - [[windbreak-and-shelterbelt-design]]
+- [[windbreak-configurations-and-permeability]]
+- [[windbreak-design-and-configuration]]
+- [[windbreak-design-and-configurations]]
 - [[windbreak-design-and-livestock-shelter]]
 - [[windbreak-design-and-strategy]]
 - [[windbreak-design-establishment]]

@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**220 pages**
+**223 pages**
 
 ## A
 
@@ -130,6 +130,8 @@
 - [[hot-sauce-making]]
 - [[human-photoreception-rods-cones-and-visual-pigments]]
 - [[hurricane-preparedness-guide]]
+- [[hurricanes-cyclones-and-tornadoes]]
+- [[hurricanes-tornadoes-and-firestorms]]
 
 ## I
 
@@ -267,6 +269,7 @@
 - [[tiny-house-on-wheels]]
 - [[tree-biomass-and-energy-transactions]]
 - [[tree-energy-transactions]]
+- [[trees-and-energy-transactions]]
 - [[turkey-husbandry]]
 
 ## U
