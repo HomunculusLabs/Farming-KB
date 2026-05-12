@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1662 pages**
+**1661 pages**
 
 ## #
 
@@ -734,7 +734,6 @@
 - [[malt-agar-baseline-medium-psilocybe-cubensis-growth-assay]]
 - [[malt-agar-vs-dung-grain-comparative-cultivation-psilocybe-cubensis]]
 - [[maria-sabina-and-mazatec-mushroom-ceremony]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
 - [[marmite-yeast-extract-straw-substrate]]
 - [[martha-tent-mushroom-growing]]
 - [[mazatec-mushroom-culture-and-velada]]

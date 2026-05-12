@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2626 pages**
+**2624 pages**
 
 ## #
 
@@ -112,7 +112,6 @@
 - [[amanita-phalloides-toxicology]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
 - [[amanita-polymorphous-symbolic-names]]
-- [[amanita-preparation-methods]]
 - [[amanita-soma-born-thunder-eucharist-taste-identification]]
 - [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
 - [[amanita-species-ecology-identification-mycohhizal]]
@@ -1860,7 +1859,6 @@
 - [[mycoremediation-fungal-bioremediation]]
 - [[mycoremediation-heavy-metals]]
 - [[mycoremediation-mushroom-cultivation-contaminated-substrates]]
-- [[mycoremediation-of-heavy-metals]]
 - [[mycoremediation-of-oil-spills]]
 - [[mycoremediation-of-plastics]]
 - [[mycoremediation-of-textile-dyes]]

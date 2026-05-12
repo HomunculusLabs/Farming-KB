@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1801 pages**
+**1802 pages**
 
 ## #
 
@@ -129,7 +129,7 @@
 - [[ayahuasca-tourism-shamanic-tourism-economics]]
 - [[ayahuasca-tourism-western-seekers-and-integration]]
 - [[ayahuasca-tourist-dosage-considerations-and-shamanic-caution]]
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]
 - [[ayahuasca-visions]]
 - [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]
 - [[ayahuasqueros-amazonian-shamans]]
@@ -231,6 +231,7 @@
 - [[default-mode-network-and-ego-dissolution]]
 - [[demeter-and-persephone-in-eleusinian-mythology]]
 - [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
+- [[desert-food-systems-and-vine-integration]]
 - [[design-principle-integration]]
 - [[dimethylamine-amidation-tryptamine-side-chain-construction]]
 - [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]

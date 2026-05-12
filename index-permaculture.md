@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1190 pages**
+**1203 pages**
 
 ## A
 
@@ -52,6 +52,7 @@
 - [[allegro-womans-part-in-the-creative-process]]
 - [[allegro-word-play-and-secret-names-in-scripture]]
 - [[allegro-zealots-sicarii-masada-drug-cult-revolts]]
+- [[animal-systems-arid-areas-permaculture]]
 - [[animal-tractor-systems-permaculture]]
 - [[apple-centered-guild-design]]
 - [[apple-guild-design-guide]]
@@ -66,6 +67,7 @@
 - [[backyard-water-harvesting]]
 - [[bee-forage-hive-management-mollison]]
 - [[bee-forage-systems-permaculture-design]]
+- [[berry-cage-culture-and-bird-deterrence-mollison]]
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
@@ -126,6 +128,7 @@
 - [[contour-swale-irrigation-design]]
 - [[cool-climate-home-garden-mollison]]
 - [[cool-climate-settlement-design-mollison]]
+- [[cool-temperate-soils-and-water-conservation-mollison]]
 - [[coppice-management-permaculture]]
 - [[creatively-use-and-respond-to-change]]
 - [[csa-farm-share-model]]
@@ -134,6 +137,7 @@
 ## D
 
 - [[dalbergia-sissoo-permaculture-timber-tree]]
+- [[desert-fencing-soils-and-swales]]
 - [[design-from-patterns-to-details]]
 - [[diversity-and-stability-in-permaculture]]
 - [[dryland-permaculture-strategies]]
@@ -216,6 +220,7 @@
 - [[gangammas-mandala-garden-design]]
 - [[garden-bed-preparation]]
 - [[garden-guilds-and-polyculture-design]]
+- [[glasshouse-heat-management-cool-climates-mollison]]
 - [[grassland-pasture-management-mollison]]
 - [[greenhouse-cool-climates-mollison]]
 - [[greywater-management-and-dry-toilets]]
@@ -414,6 +419,7 @@
 - [[hugelkultur-bed-construction-detailed]]
 - [[hugelkultur-beds]]
 - [[hugelkultur-guide]]
+- [[humid-cool-climate-characteristics-mollison]]
 
 ## I
 
@@ -444,12 +450,15 @@
 ## K
 
 - [[keyline-design-water-management]]
+- [[keyline-water-conservation-mesothermal-landscapes]]
+- [[keyline-water-conservation-settlement-design]]
 - [[keypoint-dam-water-storage-earthworks]]
 - [[krameterhof-holzer-model-farm]]
 
 ## L
 
 - [[levels-and-surveying-tools-for-earthworks]]
+- [[livestock-drought-management-permaculture]]
 - [[local-currencies]]
 - [[low-island-coral-cay-permaculture]]
 
@@ -728,6 +737,8 @@
 ## O
 
 - [[oak-species-in-permaculture]]
+- [[orchard-plant-guilds]]
+- [[orchard-plant-guilds-and-integrated-pest-management]]
 - [[orchard-plant-guilds-mollison]]
 - [[ozier-pdc-biomes-ecotones-edge-effect]]
 - [[ozier-pdc-composting-and-nutrient-cycles]]
@@ -763,6 +774,7 @@
 - [[pdc-trees-and-forests]]
 - [[pdc-urban-permaculture-design-principles]]
 - [[pdc-water-harvesting-earthworks-design]]
+- [[perennialising-annual-vegetables-cool-climate-mollison]]
 - [[periodic-table-elements-permaculture]]
 - [[permaculture-access-and-circulation-design]]
 - [[permaculture-access-design]]
@@ -830,6 +842,7 @@
 - [[permaculture-design-science-concepts-themes]]
 - [[permaculture-design-scope-and-methods]]
 - [[permaculture-design-system-nature-conservation]]
+- [[permaculture-designers-checklist-for-drylands]]
 - [[permaculture-designers-manual-animal-forage-systems]]
 - [[permaculture-designers-manual-animal-housing-detailed]]
 - [[permaculture-designers-manual-banana-circles]]
@@ -1197,6 +1210,7 @@
 
 - [[vegetative-propagation-methods-mollison]]
 - [[village-polyculture-species-richness-and-site-planning]]
+- [[vines-in-desert-permaculture]]
 
 ## W
 
@@ -1205,7 +1219,6 @@
 - [[water-conservation]]
 - [[water-harvesting-and-conservation]]
 - [[water-harvesting-and-conservation-in-permaculture]]
-- [[water-harvesting-arid-lands]]
 - [[water-harvesting-in-arid-lands]]
 - [[water-permaculture-global-local-strategies]]
 - [[water-runoff-factors-and-swale-systems]]

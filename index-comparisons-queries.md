@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1306 pages**
+**1320 pages**
 
 ## A
 
@@ -43,6 +43,7 @@
 - [[comparison-amf-vs-endophytic-fungi]]
 - [[comparison-amf-vs-ericoid-mycorrhiza]]
 - [[comparison-annual-vs-perennial]]
+- [[comparison-aphids-vs-spider-mites]]
 - [[comparison-apple-tree-care-vs-apple-guild-design]]
 - [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
 - [[comparison-aquaponics-vs-aeroponics]]
@@ -101,6 +102,7 @@
 - [[comparison-biodynamic-vs-biointensive]]
 - [[comparison-biodynamic-vs-permaculture]]
 - [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
+- [[comparison-biogas-digester-basics-vs-rocket-stove-design]]
 - [[comparison-biogas-vs-composting-toilet]]
 - [[comparison-biointensive-vs-permaculture]]
 - [[comparison-biointensive-vs-square-foot-gardening]]
@@ -155,6 +157,7 @@
 - [[comparison-chamomile-vs-passionflower]]
 - [[comparison-chamomile-vs-st-johns-wort]]
 - [[comparison-chamomile-vs-valerian]]
+- [[comparison-charcoal-production-for-cooking-vs-solar-cooking-methods]]
 - [[comparison-chayote-vs-taro-cultivation]]
 - [[comparison-chestnut-vs-walnut-vs-pecan-cultivation]]
 - [[comparison-chicken-keeping-vs-beekeeping-basics]]
@@ -231,6 +234,7 @@
 - [[comparison-earthbag-vs-cob-construction]]
 - [[comparison-earthbag-vs-rammed-earth]]
 - [[comparison-earthship-vs-cordwood-construction]]
+- [[comparison-earthship-vs-earthbag-construction]]
 - [[comparison-earthship-vs-hempcrete]]
 - [[comparison-earthship-vs-straw-bale-construction]]
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
@@ -299,6 +303,7 @@
 - [[comparison-guava-vs-passion-fruit-cultivation]]
 - [[comparison-gypsum-vs-dolomite]]
 - [[comparison-gypsum-vs-rock-phosphate]]
+- [[comparison-gypsum-vs-sulfur]]
 - [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
@@ -576,6 +581,7 @@
 - [[comparison-straw-bale-vs-adobe]]
 - [[comparison-straw-bale-vs-cordwood-construction]]
 - [[comparison-straw-bale-vs-rammed-earth]]
+- [[comparison-sulfur-vs-gypsum]]
 - [[comparison-supercropping-vs-topping]]
 - [[comparison-swale-design-vs-contour-swale-irrigation-design]]
 - [[comparison-swale-design-vs-hugelkultur]]
@@ -590,6 +596,9 @@
 - [[comparison-terracing-vs-swale]]
 - [[comparison-terracing-vs-swales]]
 - [[comparison-timber-frame-vs-cordwood-construction]]
+- [[comparison-timber-frame-vs-rammed-earth]]
+- [[comparison-timber-frame-vs-straw-bale-construction]]
+- [[comparison-timber-frame-vs-wattle-and-daub]]
 - [[comparison-tissue-culture-vs-seed-saving]]
 - [[comparison-tissue-culture-vs-wild-isolation]]
 - [[comparison-tomato-vs-pepper-growing]]
@@ -624,6 +633,8 @@
 - [[comparison-vinegar-vs-lacto-fermentation]]
 - [[comparison-walipini-vs-greenhouse]]
 - [[comparison-wattle-and-daub-vs-cob-construction]]
+- [[comparison-wattle-and-daub-vs-cordwood-construction]]
+- [[comparison-wattle-and-daub-vs-rammed-earth]]
 - [[comparison-wattle-and-daub-vs-straw-bale-construction]]
 - [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]]
 - [[comparison-white-rot-fungi-vs-trichoderma]]
@@ -819,6 +830,7 @@
 - [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]
 - [[query-how-do-i-grow-goji-berries-at-home]]
 - [[query-how-do-i-grow-gooseberries-and-currants]]
+- [[query-how-do-i-grow-grapes-in-my-backyard]]
 - [[query-how-do-i-grow-horseradish-and-prevent-it-from-spreading]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
 - [[query-how-do-i-grow-lavender-and-what-are-its-uses]]
@@ -827,6 +839,7 @@
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
 - [[query-how-do-i-grow-persimmons-and-which-variety-should-i-choose]]
 - [[query-how-do-i-grow-squash-pumpkins-and-cucumbers-successfully]]
+- [[query-how-do-i-grow-sweet-potatoes-from-slips-to-harvest]]
 - [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]
 - [[query-how-do-i-grow-tomatoes-organically]]
 - [[query-how-do-i-grow-vanilla-at-home]]
@@ -857,6 +870,7 @@
 - [[query-how-do-i-manage-ph-in-my-cannabis-grow]]
 - [[query-how-do-i-manage-weeds-organically-without-chemicals]]
 - [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]
+- [[query-how-do-i-plan-and-plant-a-culinary-herb-garden]]
 - [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]]
 - [[query-how-do-i-plan-rotational-grazing-for-soil-health]]
 - [[query-how-do-i-preserve-and-store-mushrooms-after-harvest]]

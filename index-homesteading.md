@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**235 pages**
+**242 pages**
 
 ## A
 
@@ -57,8 +57,9 @@
 - [[dairy-and-cheesemaking]]
 - [[dam-construction]]
 - [[deer-fencing-and-deterrents]]
+- [[desert-house-energy-and-water-conservation]]
+- [[desert-house-water-energy-conservation]]
 - [[dryland-building-and-settlement]]
-- [[dryland-building-settlement]]
 - [[dryland-building-settlements]]
 - [[dryland-buildings-and-settlements]]
 - [[duck-keeping]]
@@ -86,6 +87,8 @@
 - [[flood-preparedness-guide]]
 - [[food-dehydration-guide]]
 - [[food-preservation-canning]]
+- [[free-range-pig-management]]
+- [[free-range-poultry-management]]
 
 ## G
 
@@ -161,6 +164,7 @@
 - [[law-of-return-and-energy-catchment-design]]
 - [[livestock-feed-formulation]]
 - [[livestock-fencing-guide]]
+- [[livestock-grassland-management-strategies]]
 
 ## M
 
@@ -206,10 +210,13 @@
 - [[pellet-stove-heating]]
 - [[phase-change-materials-thermal-energy-storage]]
 - [[pickle-making]]
+- [[pig-forage-and-integrated-management]]
 - [[pig-husbandry]]
 - [[pig-keeping-guide]]
+- [[pig-range-systems]]
 - [[pond-design-and-construction]]
 - [[poultry-housing-guide]]
+- [[poultry-range-management]]
 - [[preserving-wood-timber-framing]]
 - [[pressure-canning-food-preservation]]
 - [[pressure-canning-safety]]

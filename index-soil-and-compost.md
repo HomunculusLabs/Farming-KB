@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**633 pages**
+**641 pages**
 
 ## A
 
@@ -155,10 +155,14 @@
 ## D
 
 - [[deep-organic-soil-management]]
+- [[desert-mulches-and-drought-strategies]]
+- [[desert-mulches-and-soil-rehabilitation]]
+- [[desert-soils-and-mulching-strategies]]
 - [[desert-soils-nutrition-and-phosphorus-dynamics]]
 - [[desert-soils-scalds-and-claypans]]
 - [[desert-temperature-and-soils]]
 - [[desert-temperature-regimes-and-soil-chemistry]]
+- [[desertification-soil-salting-causes-processes]]
 - [[designer-compost-bokashi]]
 - [[designer-compost-bokashi-method]]
 - [[difficult-soils-concretions-and-non-wetting]]
@@ -214,6 +218,7 @@
 - [[garden-soil-fertility-mineral-balance-solomon]]
 - [[garden-soil-terminology-glossary]]
 - [[ginger-garlic-extract-bionutrient]]
+- [[grassland-ecology-and-soil-biology]]
 - [[green-manure-cover-crops]]
 - [[green-manure-crops]]
 - [[green-manure-crops-detailed]]
@@ -335,6 +340,8 @@
 - [[ingham-vineyard-success-story]]
 - [[ingham-worm-leachate-versus-aact-comparison]]
 - [[ingham-yeasts-molds-compost-tea]]
+- [[interceptor-banks-soil-reclamation]]
+- [[interceptor-banks-soil-rehabilitation]]
 - [[interpreting-soil-test-results]]
 - [[iron-cobalt-nickel-copper-zinc-in-soils]]
 
@@ -437,7 +444,6 @@
 - [[nutrient-cycling-in-soil]]
 - [[nutrient-dense-gardening]]
 - [[nutrient-dynamic-accumulator-reference]]
-- [[nutrient-film-technique]]
 - [[nutrient-lockout]]
 - [[nutrient-movement-through-soil-to-plant-roots]]
 
@@ -512,6 +518,8 @@
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-chytridiomycetes-diversity-distribution]]
 - [[soil-classification-and-structure]]
+- [[soil-collapse-and-desertification]]
+- [[soil-collapse-and-desertification-process]]
 - [[soil-compaction-diagnosis-remediation]]
 - [[soil-compaction-solutions]]
 - [[soil-compaction-solutions-ingham]]
