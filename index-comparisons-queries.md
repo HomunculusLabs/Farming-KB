@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1293 pages**
+**1295 pages**
 
 ## A
 
@@ -230,6 +230,7 @@
 - [[comparison-earthbag-vs-adobe-construction]]
 - [[comparison-earthbag-vs-cob-construction]]
 - [[comparison-earthbag-vs-rammed-earth]]
+- [[comparison-earthship-vs-hempcrete]]
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
 - [[comparison-echinacea-vs-calendula]]
 - [[comparison-echinacea-vs-chamomile]]
@@ -884,6 +885,7 @@
 - [[query-how-do-i-start-natural-dyeing-with-plants]]
 - [[query-how-do-i-start-vermicomposting-at-home]]
 - [[query-how-do-i-stratify-and-scarify-seeds-for-better-germination]]
+- [[query-how-do-i-train-and-trellis-fruiting-vines-and-climbing-plants]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
 - [[query-how-do-i-use-beauveria-bassiana-for-pest-control]]
 - [[query-how-do-i-use-beneficial-indigenous-microorganisms]]

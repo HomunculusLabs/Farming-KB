@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**223 pages**
+**224 pages**
 
 ## A
 
@@ -61,6 +61,7 @@
 ## E
 
 - [[earth-cellar-construction]]
+- [[earth-dam-construction]]
 - [[earth-plaster-and-natural-finishes]]
 - [[earthbag-building]]
 - [[earthbag-construction]]

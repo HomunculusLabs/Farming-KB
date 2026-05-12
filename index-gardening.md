@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1156 pages**
+**1159 pages**
 
 ## A
 
@@ -901,6 +901,8 @@
 ## R
 
 - [[rain-garden-design]]
+- [[rainwater-tanks-and-storage-costs]]
+- [[rainwater-tanks-and-water-quality]]
 - [[raised-bed-gardening]]
 - [[raised-beds-wide-rows-hills-garden-layout-solomon]]
 - [[respiratory-herbs]]
@@ -1193,6 +1195,7 @@
 - [[water-pathways-through-plants]]
 - [[water-plant-guide]]
 - [[water-plants-aquatic-systems]]
+- [[water-storage-tanks]]
 - [[water-storage-techniques]]
 - [[water-tank-selection-and-construction]]
 - [[water-use-efficiency-plants]]

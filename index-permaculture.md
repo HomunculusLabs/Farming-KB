@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1143 pages**
+**1147 pages**
 
 ## A
 
@@ -189,6 +189,7 @@
 
 ## G
 
+- [[gabion-and-check-dams-water-earthworks]]
 - [[gaia-garden-plant-guilds]]
 - [[gaia-hypothesis-and-open-systems-in-permaculture]]
 - [[gaias-garden-hugelkultur]]
@@ -1111,7 +1112,10 @@
 - [[super-guild-design-inter-connections]]
 - [[swale-construction-guide]]
 - [[swale-design]]
+- [[swale-design-and-construction]]
 - [[swale-design-construction]]
+- [[swales-design-and-construction]]
+- [[swales-water-harvesting-earthworks]]
 - [[system-yield-permaculture-design]]
 
 ## T
