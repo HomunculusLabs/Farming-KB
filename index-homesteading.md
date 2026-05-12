@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**217 pages**
+**218 pages**
 
 ## A
 
@@ -251,6 +251,7 @@
 - [[solar-dehydrator-plans]]
 - [[solar-food-dehydrator-diy]]
 - [[solar-oven-cooking]]
+- [[solar-radiation-albedo-heat]]
 - [[solar-water-heating]]
 - [[stamets-slant-culture-strain-preservation]]
 - [[stone-cellar-building]]

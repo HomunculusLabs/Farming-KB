@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1285 pages**
+**1286 pages**
 
 ## A
 
@@ -72,6 +72,7 @@
 - [[comparison-bamboo-vs-cob-construction]]
 - [[comparison-bamboo-vs-cordwood-construction]]
 - [[comparison-banana-circle-vs-herb-spiral]]
+- [[comparison-basalt-rock-dust-vs-rock-dust-remineralization]]
 - [[comparison-bats-vs-purple-martins-vs-dragonflies-pest-control]]
 - [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
 - [[comparison-beekeeping-basics-vs-top-bar-hive]]
