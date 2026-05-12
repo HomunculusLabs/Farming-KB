@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1106 pages**
+**1112 pages**
 
 ## A
 
@@ -55,6 +55,7 @@
 - [[apple-centered-guild-design]]
 - [[apple-guild-design-guide]]
 - [[apple-tree-guild-design-species-combinations]]
+- [[applied-pattern-design-in-permaculture]]
 - [[aquatic-polyculture-design-mollison]]
 - [[arid-landscape-scarp-wadi-desert-settlement]]
 
@@ -229,6 +230,8 @@
 - [[herb-spiral-design]]
 - [[herb-spiral-design-guide]]
 - [[herb-spiral-microclimate-design]]
+- [[herb-spirals-and-applied-pattern-design]]
+- [[herb-spirals-and-compact-garden-design]]
 - [[holmgren-aboriginal-management-edge-landscapes]]
 - [[holmgren-action-learning-loop]]
 - [[holmgren-beyond-sustainability]]
@@ -709,6 +712,7 @@
 ## P
 
 - [[palm-species-in-permaculture]]
+- [[pattern-applications-in-permaculture-design]]
 - [[pattern-understanding-in-permaculture]]
 - [[patterns-in-nature]]
 - [[pdc-aquaculture-water-systems]]
@@ -905,6 +909,7 @@
 - [[permaculture-passionfruit]]
 - [[permaculture-pasture-management]]
 - [[permaculture-pattern-literacy]]
+- [[permaculture-pattern-references-and-design-checklist]]
 - [[permaculture-pattern-understanding-design-process]]
 - [[permaculture-patterns-in-nature]]
 - [[permaculture-paulownia]]
@@ -1076,6 +1081,7 @@
 - [[sheet-mulching-methods-urban-permaculture]]
 - [[slope-analysis-in-permaculture]]
 - [[small-scale-intensive-food-systems-mollison]]
+- [[social-hierarchy-patterns-and-arts-in-permaculture]]
 - [[soil-building-permaculture]]
 - [[soil-tilth-and-seedbed-preparation]]
 - [[solomon-autumn-digging-new-garden-bed-preparation]]

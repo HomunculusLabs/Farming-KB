@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1133 pages**
+**1134 pages**
 
 ## A
 
@@ -943,6 +943,7 @@
 - [[seed-variety-degeneration-and-quality-maintenance]]
 - [[seedling-quality-hardening-off-transplant-assessment-solomon]]
 - [[selling-farm-products-and-business]]
+- [[sensible-land-division-patterns]]
 - [[shamanism-plant-ecstasy]]
 - [[shock-method-fruit-tree]]
 - [[short-day-and-long-day-plant-classification]]

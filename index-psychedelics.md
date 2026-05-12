@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1797 pages**
+**1799 pages**
 
 ## #
 
@@ -1204,6 +1204,8 @@
 - [[mmda-2-compound-profile]]
 - [[mmda-closed-eye-imagery-phenomenology]]
 - [[mmda-compound-profile]]
+- [[mnemonic-patterns-and-sacred-art]]
+- [[mnemonics-of-meaning-and-sacred-pattern]]
 - [[mollison-animal-integration-permaculture-design]]
 - [[mollison-designers-domestic-animal-integration-design]]
 - [[mollison-designers-road-water-harvesting-and-integration]]
