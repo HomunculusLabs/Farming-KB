@@ -10,7 +10,7 @@ tags: [people, permaculture, tropical-agriculture, hawaii]
 ## Description
 
 **Chuck Busby** is a permaculture practitioner based in **Kualapuu, Moloka'i,
-Hawaii**, recognised by Bill Mollison for developing innovative **mulched circle
+Hawaii**, recognised by [[bill-mollison]] for developing innovative **mulched circle
 garden** systems. Busby created productive garden nuclei in exhausted pineapple
 farm soils on Moloka'i, using compact mulching and watering techniques within
 circle garden designs. He is part of the broader Hawaiian permaculture community
@@ -28,7 +28,7 @@ that demonstrated tropical food system design.
 - **Category**: Person — Permaculture practitioner / Farmer
 - **Domain**: Tropical agriculture, Permaculture design
 - **Location**: Kualapuu, Moloka'i, Hawaii, USA
-- **Associations**: Dano Gorsich (neighbour), Hawaiian Homelands area
+- **Associations**: [[dano-gorsich]] (neighbour), Hawaiian Homelands area
 
 
 

@@ -6,7 +6,7 @@ type: concept
 
 # Banks, Benches, and Terracing
 
-Banks, benches, and terraces are three fundamental earthwork techniques used in permaculture design to manage slopes, control erosion, create usable land, and harvest water. Each technique serves distinct purposes but shares the common goal of stabilising soil and converting steep or difficult terrain into productive, manageable landscapes. Bill Mollison emphasises that earthworks should be designed with careful attention to soil type, water movement, slope angle, and vegetation to ensure long-term stability.
+Banks, benches, and terraces are three fundamental earthwork techniques used in [[permaculture-design]] to manage slopes, control erosion, create usable land, and harvest water. Each technique serves distinct purposes but shares the common goal of stabilising soil and converting steep or difficult terrain into productive, manageable landscapes. Bill Mollison emphasises that earthworks should be designed with careful attention to soil type, water movement, slope angle, and vegetation to ensure long-term stability.
 
 ## Banks
 
@@ -100,7 +100,7 @@ Terracing is the creation of a series of level platforms (terraces) on a slope, 
 Terraces can be highly stable when managed correctly. Key factors contributing to terrace stability include:
 
 - **Adequate water management**: Each terrace must have proper drainage to prevent waterlogging and hydrostatic pressure buildup behind the bund or wall.
-- **Green manuring and vegetation**: Maintaining living root systems within the terrace soil and on the bund face is essential for structural integrity. Green manure crops improve soil structure and infiltration while their roots bind the soil.
+- **Green manuring and vegetation**: Maintaining living root systems within the terrace soil and on the bund face is essential for structural integrity. [[green-manure-crops]] improve soil structure and infiltration while their roots bind the soil.
 
 ### Conditions Leading to Terrace Failure
 

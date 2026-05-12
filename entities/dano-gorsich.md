@@ -69,11 +69,11 @@ system as a model of tropical smallholder permaculture.
 - The rotational clearing and replanting cycle creates repeated disturbance
   phases that can incorporate **mushroom substrate burial** between rotations.
 - Papaya waste (stems, leaves, fallen fruit) provides **cellulose-rich organic
-  matter** for fungal decomposition in compost or directly in garden beds.
+  matter** for [[fungal-decomposition]] in compost or directly in garden beds.
 - The integration of **poultry with plant production** mirrors natural forest
   floor ecosystems where birds scratch through fungal-rich duff layers.
 - Fallen papaya fruit decomposed by chickens introduces fungal spores and
-  bacteria into the soil food web, accelerating decomposition.
+  bacteria into [[the-soil-food-web]], accelerating decomposition.
 
 
 

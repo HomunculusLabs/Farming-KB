@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Elements in soils are transported and concentrated not only by physical and chemical processes but also by the ceaseless activity of living organisms. Understanding these biological concentration mechanisms, alongside the fundamentals of [[soil-ph-management-and-amelioration]], is [[essential-plant-elements-hydrogen-boron-carbon-nitrogen|Essential]] for effective permaculture design and sustainable soil stewardship.
+Elements in soils are transported and concentrated not only by physical and chemical processes but also by the ceaseless activity of living organisms. Understanding these biological concentration mechanisms, alongside the fundamentals of [[soil-ph-management-and-amelioration]], is [[essential-plant-elements-hydrogen-boron-carbon-nitrogen|Essential]] for effective [[permaculture-design]] and sustainable soil stewardship.
 
 ## Biological Element Transport
 
@@ -91,7 +91,7 @@ All of the following are used to raise pH values in soils:
 
 ### Lowering pH
 
-Elemental sulphur, sulphuric acid compounds, and ammonium sulphate are used to lower soil pH, particularly in dryland alkaline soils.
+Elemental sulphur, sulphuric acid compounds, and ammonium sulphate are used to lower [[soil-ph]], particularly in dryland alkaline soils.
 
 ## Soil Amelioration Guide
 

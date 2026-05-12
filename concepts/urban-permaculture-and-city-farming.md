@@ -6,7 +6,7 @@ type: concept
 
 # Urban Permaculture and City Farming
 
-Cities contain enormous underutilized potential for food production, resource cycling, and ecological restoration. Urban permaculture transforms vacant lots, rooftops, walls, and waste streams into productive agricultural space, while simultaneously addressing social needs for recreation, employment, and community resilience.
+Cities contain enormous underutilized potential for food production, resource cycling, and ecological restoration. Urban [[permaculture]] transforms vacant lots, rooftops, walls, and waste streams into productive agricultural space, while simultaneously addressing social needs for recreation, employment, and community resilience.
 
 ## Productive Use of Urban Wasteland
 

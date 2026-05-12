@@ -60,7 +60,7 @@ It also extends into the Pontic Mountains of northeastern Turkey and the Talysh 
 
 The species is strictly alpine, occurring at elevations of 2,000–3,500 m. It grows on rocky slopes, limestone pavements, crevices in cliff faces, and on stabilized scree above the treeline.
 
-It is a calcicole, preferring limestone and dolomite substrates, though it occasionally occurs on volcanic rocks with basic surface conditions. Populations are most vigorous on well-drained, south-facing slopes with morning sun exposure.
+It is a calcicole, preferring limestone and [[dolomite]] substrates, though it occasionally occurs on volcanic rocks with basic surface conditions. Populations are most vigorous on well-drained, south-facing slopes with morning sun exposure.
 
 Plants are frequently found growing alongside other Caucasian alpine specialists such as Draba, Saxifraga, and Androsace species. The species is absent from wet meadows, snowbeds, and areas of prolonged snow cover.
 

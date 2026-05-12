@@ -6,7 +6,7 @@ type: concept
 
 # Dryland Precipitation and Opportunistic Ecology
 
-Dryland and desert environments are defined not merely by their scarcity of water but by the extraordinary variability and unpredictability of that water's arrival. Understanding the patterns of precipitation, the mechanisms of moisture capture, and the opportunistic strategies that desert life has evolved in response is foundational to any permaculture design in arid regions. Bill Mollison emphasised that deserts are among the most information-rich environments on Earth, demanding the highest level of design intelligence from anyone who works within them.
+Dryland and desert environments are defined not merely by their scarcity of water but by the extraordinary variability and unpredictability of that water's arrival. Understanding the patterns of precipitation, the mechanisms of moisture capture, and the opportunistic strategies that desert life has evolved in response is foundational to any [[permaculture-design]] in arid regions. Bill Mollison emphasised that deserts are among the most information-rich environments on Earth, demanding the highest level of design intelligence from anyone who works within them.
 
 ## Precipitation Patterns in Deserts
 
@@ -108,7 +108,7 @@ The fundamental rhythm of desert ecology — extended dormancy punctuated by bri
 
 Strategies include extending the productive period after rain through improved water retention, building soil systems that hold moisture for longer periods, selecting plant species that span different temporal niches (some quick-establishing ephemerals, some deep-rooted perennials), and designing infrastructure that captures and redistributes water from rare large events to sustain systems through the long dry intervals that follow.
 
-The Aboriginal model of walkabout — positioning oneself to intercept pulses of abundance — translates directly into permaculture design philosophy. The designer's task is to read the landscape, understand the timing and patterns of resource flows, and position systems to capture and benefit from every drop of water and every pulse of productivity that the desert provides.
+The Aboriginal model of walkabout — positioning oneself to intercept pulses of abundance — translates directly into [[permaculture-design-philosophy]]. The designer's task is to read the landscape, understand the timing and patterns of resource flows, and position systems to capture and benefit from every drop of water and every pulse of productivity that the desert provides.
 
 ## Key Design Principles for Dryland Water
 

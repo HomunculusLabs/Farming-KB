@@ -65,7 +65,7 @@ Its distinctive flat-topped canopy provides dappled shade in arid landscapes.
 ## Relevance to Cultivation / Mycology
 
 - **Mycorrhizal associations**: Forms extensive ectomycorrhizal and
-  arbuscular mycorrhizal networks that improve soil structure and nutrient
+  [[arbuscular-mycorrhizal-networks]] that improve soil structure and nutrient
   cycling in arid environments.
 - **Wood substrate**: Dense hardwood suitable for chipping as **mushroom
   cultivation substrate** for heat-tolerant species.
@@ -74,7 +74,7 @@ Its distinctive flat-topped canopy provides dappled shade in arid landscapes.
 - **Pod decomposition**: Fallen pods create concentrated organic matter patches
   supporting **saprophytic fungal communities**.
 - **Swale companion**: Used in dryland swale systems alongside sorghum and
-  melon crops, where mycorrhizal networks connect tree and crop roots.
+  melon crops, where [[mycorrhizal-networks]] connect tree and crop roots.
 
 
 

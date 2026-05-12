@@ -56,7 +56,7 @@ Eichornia (commonly spelled Eichhornia), or water hyacinth, is a free-floating a
 
 - Azolla (water-fern)
 - Pistia (water-lettuce)
-- Tropical mulch systems
+- [[tropical-mulch-systems]]
 - Aquatic weed management
 - Bioremediation
 

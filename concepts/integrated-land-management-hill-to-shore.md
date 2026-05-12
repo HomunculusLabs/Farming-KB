@@ -62,7 +62,7 @@ Artificial reef systems of tyres (on sand), coral blocks, and boxes of palm trun
 
 ### Living Fences
 
-Living fences provide stock-proof barriers while simultaneously producing useful materials. Euphorbia tirucalli and Euphorbia tirucalli can be propagated from cuttings even in arid conditions. Acacia tortilis is ideal for cut-and-build fences. Euphorbia species require safety precautions — eye protection with goggles and skin coverage for those allergic to the milky sap.
+Living fences provide stock-proof barriers while simultaneously producing useful materials. [[euphorbia-tirucalli]] and Euphorbia tirucalli can be propagated from cuttings even in arid conditions. [[acacia-tortilis]] is ideal for cut-and-build fences. Euphorbia species require safety precautions — eye protection with goggles and skin coverage for those allergic to the milky sap.
 
 ### Windbreak Design
 

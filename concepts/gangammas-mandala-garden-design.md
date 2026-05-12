@@ -6,7 +6,7 @@ type: concept
 
 # Gangamma's Mandala Garden Design
 
-Gangamma's Mandala is a compact, intensive permaculture garden design capable of feeding a family of five year-round from as little as 100 square metres (1,075 square feet). Developed by Bill Mollison, it integrates traditional intensive garden techniques from Taiwan and the Philippines (notably the Samaka gardens and East-West Institute methods) with permaculture's "least-path" layout principles to create a sophisticated yet simple-to-build sustenance garden.
+Gangamma's Mandala is a compact, intensive permaculture garden design capable of feeding a family of five year-round from as little as 100 square metres (1,075 square feet). Developed by [[bill-mollison]], it integrates traditional intensive garden techniques from Taiwan and the Philippines (notably the Samaka gardens and East-West Institute methods) with permaculture's "least-path" layout principles to create a sophisticated yet simple-to-build sustenance garden.
 
 ## Design Philosophy
 

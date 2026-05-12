@@ -58,7 +58,7 @@ Terrace construction follows a specific bottom-up sequence:
 2. **Proceed uphill** — as each terrace is completed, the topsoil of the next highest level is cleared onto the preceding lower terrace
 3. **Finish at the top** — stockpiled soil from the lowest terrace is finally carted or lifted to the last terrace uphill
 
-Every terrace system should ideally be designed to accommodate **perennial bund and terrace wall plants** specifically for soil stability and green manure production.
+Every terrace system should ideally be designed to accommodate **perennial bund and terrace wall plants** specifically for soil stability and [[green-manure]] production.
 
 ## Extent and Series Size
 
@@ -82,7 +82,7 @@ Terrace systems should be limited based on climate:
 Terraces function best as part of integrated landscape design:
 
 - **Windbreaks** on bunds protect crops and reduce evaporation
-- **Water harvesting** from catchment areas feeds irrigation systems
+- **Water harvesting** from catchment areas feeds [[irrigation-systems]]
 - **Aquaculture** integration in wet terrace zones adds protein production
 - **Tree crop systems** on bunds maintain long-term soil fertility and provide additional yields
 - **Drainage systems** must be designed to safely convey excess water without causing erosion below the terrace series

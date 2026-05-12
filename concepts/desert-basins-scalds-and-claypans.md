@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The flat areas and depressions of desert landscapes — including tectonic basins, deflection hollows, pans, scalds, and claypans — present unique challenges and opportunities for permaculture design. These low-lying features are where water, salts, and silts accumulate, creating distinct micro-environments that can be either rehabilitated or further degraded depending on management approaches.
+The flat areas and depressions of desert landscapes — including tectonic basins, deflection hollows, pans, scalds, and claypans — present unique challenges and opportunities for [[permaculture-design]]. These low-lying features are where water, salts, and silts accumulate, creating distinct micro-environments that can be either rehabilitated or further degraded depending on management approaches.
 
 ## Basin Types
 
@@ -101,7 +101,7 @@ This cycle creates important habitat for a variety of desert species and demonst
 
 ## Basin and Range Topography
 
-The classical basin and range profile in fold mountain series is the typical desert landscape pattern. Water conservation begins on foothill slopes and forests are generated downhill. Complex foothills provide many sites for water storages and swales. Understanding this topography is essential for effective desert permaculture design, as the basins collect everything that erodes from the ranges above.
+The classical basin and range profile in fold mountain series is the typical desert landscape pattern. [[water-conservation]] begins on foothill slopes and forests are generated downhill. Complex foothills provide many sites for water storages and swales. Understanding this topography is essential for effective desert permaculture design, as the basins collect everything that erodes from the ranges above.
 ## See Also
 
 - [[desert-gardening]]

@@ -6,7 +6,7 @@ type: concept
 
 # Levelling Tools and Techniques
 
-Levelling is a foundational skill in permaculture earthworks, essential for designing and constructing spillways, drains, swales, dam walls, house pads, and gravity-fed water systems. Accurate levelling ensures that water flows where intended, structures remain stable, and earthworks function efficiently over time. Bill Mollison emphasises that many levelling tasks on a permaculture site can be accomplished with simple, low-cost tools — though professional surveyors remain valuable for complex or large-scale projects.
+Levelling is a foundational skill in [[permaculture-earthworks]], essential for designing and constructing spillways, drains, swales, dam walls, house pads, and gravity-fed water systems. Accurate levelling ensures that water flows where intended, structures remain stable, and earthworks function efficiently over time. Bill Mollison emphasises that many levelling tasks on a permaculture site can be accomplished with simple, low-cost tools — though professional surveyors remain valuable for complex or large-scale projects.
 
 ## Mass Movement and Slope Stability
 

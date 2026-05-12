@@ -109,7 +109,7 @@ In the wet-dry tropics, earthworks serve a dual purpose: managing episodic flood
 
 ### Monsoon Tropics
 
-Monsoon areas present the most challenging water management scenario, with 60% of rain falling in summer but with floods and droughts equally unpredictable. Earthworks must be designed for maximum flexibility—able to handle both extreme excess and prolonged deficit. Large domestic water storage and river-based transport systems complement the earthworks.
+Monsoon areas present the most challenging [[water-management]] scenario, with 60% of rain falling in summer but with floods and droughts equally unpredictable. Earthworks must be designed for maximum flexibility—able to handle both extreme excess and prolonged deficit. Large domestic water storage and river-based transport systems complement the earthworks.
 
 ## Materials and Construction
 

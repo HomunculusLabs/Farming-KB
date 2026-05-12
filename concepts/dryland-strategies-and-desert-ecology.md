@@ -33,7 +33,7 @@ Truly drought-adapted species employ structural and physiological mechanisms:
 
 ## Animal Adaptations to Aridity
 
-Desert animals employ diverse strategies for water conservation:
+Desert animals employ diverse strategies for [[water-conservation]]:
 
 - **Aestivation**: Periods of dormancy during extreme conditions
 - **Migration**: Movement to more humid areas during dry periods
@@ -100,7 +100,7 @@ Instead of concentrating solely on exotic water sources, the priority should be 
 
 ## Biodiversity at Risk
 
-The semi-arid transitional areas are particularly species-rich, making desertification devastating to useful plant diversity:
+The semi-arid transitional areas are particularly species-rich, making [[desertification]] devastating to useful plant diversity:
 
 - **Sonoran and Great Basin deserts**: Gary Nabham (1986) documented 450 edible plant species (20% of total species)
 - **West Australian wheat-belt**: Of 936 woody plants, 45% are at risk from agricultural expansion

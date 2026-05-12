@@ -88,7 +88,7 @@ Powerful biocides found in plants are harmless or short-term and totally biodegr
 
 ### Integrated Mosquito Control
 
-Broadscale mosquito control can combine fats or oils (e.g., lecithin), a poison (neem oil), and an infective agent (Bacillus thuringiensis). These are assisted by small fish and insect predators such as notonectids (backswimmers) in open water systems.
+Broadscale mosquito control can combine fats or oils (e.g., lecithin), a poison (neem oil), and an infective agent ([[bacillus-thuringiensis]]). These are assisted by small fish and insect predators such as notonectids (backswimmers) in open water systems.
 
 ### Ground Foragers and Canopy Predators
 

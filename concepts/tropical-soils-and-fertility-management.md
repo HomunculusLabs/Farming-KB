@@ -18,7 +18,7 @@ Tropical soils are old and deeply leached by high rainfall over geological times
 
 In tropical clays, aluminium ions frequently substitute for silica in the crystal lattice. This substitution gives the clay particles a net negative charge, which has important implications for nutrient holding:
 
-- **Cation exchange capacity (CEC)** is strongly affected by soil pH.
+- **[[cation-exchange-capacity]] (CEC)** is strongly affected by soil pH.
 - Low pH reduces CEC, meaning fewer nutrients are retained in the root zone.
 - The oxidic kaolinitic clays common in weathered volcanic areas are particularly low in CEC compared to temperate smectite clays.
 
@@ -40,7 +40,7 @@ Mollison outlines a multi-pronged approach to restoring fertility on degraded tr
 
 Rebuilding soil organic matter is the first priority:
 
-- **Green manure crops** and **perennial plants** restore the humus layer.
+- **[[green-manure-crops]]** and **perennial plants** restore the humus layer.
 - Key species include **Leucaena** and other **tree legumes**, which fix nitrogen while producing leaf litter.
 - Perennials are preferred over annuals because their root systems provide continuous organic inputs and prevent leaching.
 

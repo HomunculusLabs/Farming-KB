@@ -63,7 +63,7 @@ The plant also produces attractive globe-shaped flower heads in blue or white.
 
 ## Relevance to Cultivation / Mycology
 
-- Dense root mats create **mycorrhizal networks** that connect garden bed soil
+- Dense root mats create **[[mycorrhizal-networks]]** that connect garden bed soil
   to border soil, facilitating nutrient exchange.
 - Leaf litter from spent foliage provides **organic matter** for decomposer
   fungi in the garden border zone.

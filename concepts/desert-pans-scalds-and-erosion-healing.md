@@ -6,7 +6,7 @@ type: concept
 
 # Desert Pans, Scalds, and Erosion Healing
 
-The flat or depressed areas of desert landscapes — pans, scalds, claypans, and erosion gullies — present some of the most challenging rehabilitation problems in arid zone permaculture. These features result from complex interactions of geology, hydrology, and often human-induced degradation through overgrazing. Understanding their formation and applying targeted healing strategies is essential for restoring productive function to degraded desert lands.
+The flat or depressed areas of desert landscapes — pans, scalds, claypans, and erosion gullies — present some of the most challenging rehabilitation problems in arid zone [[permaculture]]. These features result from complex interactions of geology, hydrology, and often human-induced degradation through overgrazing. Understanding their formation and applying targeted healing strategies is essential for restoring productive function to degraded desert lands.
 
 ## Desert Pans and Basins
 
@@ -32,7 +32,7 @@ Claypans rarely overflow. They receive silty waters from clay soils, and after p
 
 Claypans can be modified through soil amendments:
 
-- **Gypsum**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired).
+- **[[gypsum]]**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired).
 - **Sodium carbonate or bentonite**: Seals clays where they are to be used to store water.
 - **Natural montmorillonite or smectite clays**: Swell and form impermeable surfaces after a short period of rain, impeding infiltration.
 
@@ -99,6 +99,6 @@ The fundamental principle in all erosion healing is to slow water down, spread i
 
 ## Broader Context
 
-These rehabilitation techniques are part of a larger permaculture strategy for desert lands that recognises the interconnected nature of desert degradation. Overgrazing causes scalds, which promote locust plagues, which further degrade vegetation. Vehicle damage destroys delicate biological soil crusts, accelerating wind erosion. The healing approach works systemically — addressing surface stability, water infiltration, vegetation establishment, and browsing pressure simultaneously to create self-reinforcing recovery processes.
+These rehabilitation techniques are part of a larger permaculture strategy for desert lands that recognises the interconnected nature of desert degradation. Overgrazing causes scalds, which promote locust plagues, which further degrade vegetation. Vehicle damage destroys delicate [[biological-soil-crusts]], accelerating wind erosion. The healing approach works systemically — addressing surface stability, water infiltration, vegetation establishment, and browsing pressure simultaneously to create self-reinforcing recovery processes.
 
 The permaculture designer's role in these landscapes is not merely to plant trees or build structures, but to read the landscape processes, identify the points of intervention where small efforts produce cascading benefits, and design systems that work with natural recovery mechanisms rather than against them.

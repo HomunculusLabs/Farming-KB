@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Small island communities and traditional villages often subsist on very limited diets consisting of a few starchy root foods, banana, and fish for protein. This restricted dietary base can lead to mineral deficiencies and health problems associated with high-carbohydrate, low-vitamin intake. Permaculture design on islands must address diet extension, mineral supplementation, and the unique energy opportunities presented by oceanic environments.
+Small island communities and traditional villages often subsist on very limited diets consisting of a few starchy root foods, banana, and fish for protein. This restricted dietary base can lead to mineral deficiencies and health problems associated with high-carbohydrate, low-vitamin intake. [[permaculture-design]] on islands must address diet extension, mineral supplementation, and the unique energy opportunities presented by oceanic environments.
 
 ## Diet Extension Strategies
 

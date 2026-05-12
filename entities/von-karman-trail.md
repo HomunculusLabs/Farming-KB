@@ -22,7 +22,7 @@ harvesting, airflow, and energy systems.
 ## Classification
 
 - **Category**: Pattern — Fluid dynamics / Natural pattern
-- **Domain**: Physics, Geomorphology, Permaculture design
+- **Domain**: Physics, Geomorphology, [[permaculture-design]]
 - **Named after**: Theodore von Kármán (Hungarian-American physicist)
 - **Scale**: Universal — micro to macro
 

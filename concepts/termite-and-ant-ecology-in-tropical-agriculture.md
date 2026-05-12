@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Termites and ants are among the most important yet frequently overlooked organisms in tropical and subtropical agriculture. Far from being mere pests, these soil mesofauna play critical roles in soil formation, nutrient cycling, water infiltration, plant succession, and the creation of microenvironments suitable for cultivation. Understanding and working with these insects is essential for effective permaculture design in tropical regions.
+Termites and ants are among the most important yet frequently overlooked organisms in tropical and subtropical agriculture. Far from being mere pests, these soil mesofauna play critical roles in soil formation, nutrient cycling, water infiltration, plant succession, and the creation of microenvironments suitable for cultivation. Understanding and working with these insects is essential for effective [[permaculture-design]] in tropical regions.
 
 ## Soil Engineering Roles
 
@@ -72,7 +72,7 @@ By observation and local report, determine which useful crops or trees:
 - **Palms** — can have much of their outer bark removed by termites without suffering production loss
 - **Coffee** — termites greatly assist the primary breakdown of logs, coarse stems, and hard leaf material used as mulch in coffee plantations
 - **Tea and bananas** — similarly benefit from termite-assisted mulch decomposition
-- **Daikon radish** — successfully germinated in ant heaps in grasslands as part of a changeover to crop production
+- **[[daikon-radish]]** — successfully germinated in ant heaps in grasslands as part of a changeover to crop production
 
 ### Accelerating Succession
 

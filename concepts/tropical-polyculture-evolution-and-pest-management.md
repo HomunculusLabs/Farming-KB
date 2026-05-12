@@ -6,7 +6,7 @@ type: concept
 
 # Tropical Polyculture Evolution and Pest Management
 
-Tropical polycultures represent the most species-rich and productive agricultural systems known, capable of supporting 200-400 cultivated species in a complex village situation. Their evolution from grassland or compacted soil to multi-strata food forest follows a systematic process, while integrated pest management replaces chemical inputs with biological relationships.
+Tropical polycultures represent the most species-rich and productive agricultural systems known, capable of supporting 200-400 cultivated species in a complex village situation. Their evolution from grassland or compacted soil to multi-strata food forest follows a systematic process, while [[integrated-pest-management]] replaces chemical inputs with biological relationships.
 
 ## Evolving a Polyculture from Scratch
 

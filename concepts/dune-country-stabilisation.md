@@ -6,7 +6,7 @@ type: concept
 
 # Dune Country and Stabilisation
 
-Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also represent enormous freshwater reservoirs and productive potential when properly understood and managed. Dune stabilisation is a critical component of desert permaculture.
+Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also represent enormous freshwater reservoirs and productive potential when properly understood and managed. Dune stabilisation is a critical component of desert [[permaculture]].
 
 ## Dune Types and Classification
 
@@ -35,7 +35,7 @@ At the edge of large dune complexes, water rushes and sedges are usually visible
 Dunes on pavement (isolated dunes) can be planted after rains using a multi-stage approach:
 
 1. **Fast-growing grain or oat crop**: Sorghum, millet, desert legumes such as moth bean, or yam beans are sown first.
-2. **Hardy Acacia seedlings**: Planted preferably with a mixed fertiliser.
+2. **Hardy [[acacia]] seedlings**: Planted preferably with a mixed fertiliser.
 3. **Quickset trees**: Tamarisk may succeed if deeply set in or near the dune base.
 
 If successful, the grains flower and the straw persists for two or more years, moth beans leave seed for subsequent generations, and the small Acacias grow to effect permanent stabilisation. Species such as *Acacia victoriae* produce copious leaf mulch, and desert yam bean pits can be established in later years using this leaf mulch.
@@ -50,7 +50,7 @@ Extensive dunefields require a different approach, although pelleted seed can be
 
 Pelleting is a relatively simple process:
 
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, neem tree leaf powder, or magnesite) into a stiff mass.
+1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite) into a stiff mass.
 2. Pass through a mincer with blades removed to extrude rolls.
 3. Place on a vibrating tray with a slight slope covered with dry powder or dusts.
 4. The extruded rolls become round pellets on the shaker tray.
@@ -70,7 +70,7 @@ Stabilisation of sand and silt surfaces can be achieved through several mechanis
 - **Water**: Creates bonds between particles that require much higher wind speeds to move sand.
 - **Salt**: Especially effective where dew is present, as salt is hygroscopic (water-absorbing).
 - **Chemical binders**: Tars, oils, or glues such as latex.
-- **Biological crusts**: Lichens, bacteria, fungi, and algal mats form naturally, as do salt crusts. No dunes form in some deserts where these delicate crusts cement the surface.
+- **Biological crusts**: [[lichens]], bacteria, fungi, and algal mats form naturally, as do salt crusts. No dunes form in some deserts where these delicate crusts cement the surface.
 
 ### Brush Fences
 
@@ -113,7 +113,7 @@ Once stabilised, dunes must be protected from:
 
 ## See Also
 
-- Desert Scarps and Wadis
+- [[desert-scarps-and-wadis]]
 - Scalds and Claypans
 - Pelleted Seed for Dryland Revegetation
 - Desert Forestry

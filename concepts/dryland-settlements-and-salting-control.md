@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Dryland environments present some of the most challenging conditions for human settlement and agriculture. Bill Mollison's permaculture approach to drylands emphasizes earth-sheltered building, water harvesting, native plant utilization, and the critical management of dryland salting — a widespread problem caused by deforestation and inappropriate agricultural practices. The strategies documented here span arid Australia, the American Southwest, the Canary Islands, and Central Australia.
+Dryland environments present some of the most challenging conditions for human settlement and agriculture. [[bill-mollison]]'s permaculture approach to drylands emphasizes earth-sheltered building, water harvesting, native plant utilization, and the critical management of dryland salting — a widespread problem caused by deforestation and inappropriate agricultural practices. The strategies documented here span arid Australia, the American Southwest, the Canary Islands, and Central Australia.
 
 ## Earth-Sheltered and Underground Structures
 

@@ -23,7 +23,7 @@ In any local area, the composition, shape, size, and distribution of plants give
 
 ## 1. Soil Depth
 
-Shallow soils dry out quickly and hold few nutrients. A practical method for assessing soil depth is to observe a single tree species (e.g., [[acacia]], Prosopis, honey locust) across a range of sites. A "height and spread" estimate will reveal areas of deeper soils where the largest specimens grow. The same species will be dwarfish on shallow soils of the same derivation or rock type.
+Shallow soils dry out quickly and hold few nutrients. A practical method for assessing soil depth is to observe a single tree species (e.g., [[acacia]], [[prosopis]], honey locust) across a range of sites. A "height and spread" estimate will reveal areas of deeper soils where the largest specimens grow. The same species will be dwarfish on shallow soils of the same derivation or rock type.
 
 This technique works because tree growth is directly limited by available soil volume and water-holding capacity. Large, well-formed specimens indicate deep, well-developed soils.
 

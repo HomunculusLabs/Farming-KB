@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-One of the most significant insights from permaculture design is the relationship between species richness, system scale, management intensity, and economic returns. Mollison presents a rigorous analysis showing that the optimal number of species in a polyculture depends critically on whether one measures returns in dollars or in total nutritional yield — and that these two metrics peak at dramatically different levels of diversity. This has profound implications for how we design and manage productive landscapes.
+One of the most significant insights from [[permaculture-design]] is the relationship between species richness, system scale, management intensity, and economic returns. Mollison presents a rigorous analysis showing that the optimal number of species in a polyculture depends critically on whether one measures returns in dollars or in total nutritional yield — and that these two metrics peak at dramatically different levels of diversity. This has profound implications for how we design and manage productive landscapes.
 
 ## Species Richness and Zonation
 

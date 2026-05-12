@@ -6,7 +6,7 @@ type: concept
 
 # Desert Basins, Pans, Scalds, and Revegetation
 
-The flat and depressed areas of desert landscapes—basins, pans, and scalds—present unique challenges and opportunities for water management and ecological restoration. These features result from tectonic processes, wind deflation, erosion, and the accumulation of salts and fine sediments over geological time.
+The flat and depressed areas of desert landscapes—basins, pans, and scalds—present unique challenges and opportunities for [[water-management]] and ecological restoration. These features result from tectonic processes, wind deflation, erosion, and the accumulation of salts and fine sediments over geological time.
 
 ## Classification of Desert Depressions
 
@@ -31,7 +31,7 @@ Depressions with flat floors are called pans. They come in several types:
 ### Clay Properties
 
 Clays can be treated to modify their water-handling properties:
-- **Gypsum**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired)
+- **[[gypsum]]**: Decreases clay capacity to infiltrate water (useful where run-off collection is desired)
 - **Sodium carbonate or bentonite**: Seals clays where they need to store water
 - **Natural montmorillonite or illite clays**: Swell and form impermeable surfaces after a short period of rain, greatly impeding infiltration
 
@@ -93,7 +93,7 @@ Soils in older deserts usually show some yellow or reddish colour from a complex
 
 ## Basin and Range Topography
 
-Basin and range topography is the classical profile in fold mountain series. Water conservation begins on foothill slopes and forests are generated downstream.
+Basin and range topography is the classical profile in fold mountain series. [[water-conservation]] begins on foothill slopes and forests are generated downstream.
 
 ### Two Types
 

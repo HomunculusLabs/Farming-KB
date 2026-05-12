@@ -126,7 +126,7 @@ pattern the ground to hold wet-season run-off for dry-season tree crop use**.
 
 ## Key References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]].
 - Nair, P.K.R. (1975). Intercropping research and tropical smallholder farming
   systems. (Cited in Mollison 1988.)
 ## See also

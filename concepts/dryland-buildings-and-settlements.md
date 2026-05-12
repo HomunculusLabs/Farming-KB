@@ -6,7 +6,7 @@ type: concept
 
 # Dryland Buildings and Settlements
 
-Dryland permaculture settlements require specialized building and shelter strategies that respond to extreme temperatures, water scarcity, high evaporation, dust, and often salinity problems. Traditional and experimental approaches from arid regions worldwide demonstrate that underground, earth-sheltered, and wind-protected structures can achieve remarkable comfort with minimal energy input.
+Dryland [[permaculture]] settlements require specialized building and shelter strategies that respond to extreme temperatures, water scarcity, high evaporation, dust, and often salinity problems. Traditional and experimental approaches from arid regions worldwide demonstrate that underground, earth-sheltered, and wind-protected structures can achieve remarkable comfort with minimal energy input.
 
 ## Underground and Earth-Sheltered Structures
 
@@ -22,7 +22,7 @@ The Windstar Foundation's experimental "Biodome" near Old Snowmass, Colorado (7,
 
 ## Desert Tree Species for Settlements
 
-Several desert tree species play critical roles in dryland settlement design. Opuntia (prickly pear) in the Canary Islands provides fruit (tuna), vegetable food, cattle forage, hedge material, and hosts the cochineal scale insect used locally for food dye. Many desert Acacia species provide abundant poultry seed, as do Lycium and Solanum species. Gidgee (Acacia cambagei) creates desert mounds (nebkas) about 1.5 m high and 12 m across — sessile or weeping trees in deserts cause dust accretion in this way, providing deep absorbent soils and mulch for vines, other trees, and burrowing animals. Acacia species in the Kalahari perform the same function.
+Several desert tree species play critical roles in dryland settlement design. Opuntia (prickly pear) in the Canary Islands provides fruit (tuna), vegetable food, cattle forage, hedge material, and hosts the cochineal scale insect used locally for food dye. Many desert [[acacia]] species provide abundant poultry seed, as do Lycium and Solanum species. Gidgee (Acacia cambagei) creates desert mounds (nebkas) about 1.5 m high and 12 m across — sessile or weeping trees in deserts cause dust accretion in this way, providing deep absorbent soils and mulch for vines, other trees, and burrowing animals. Acacia species in the Kalahari perform the same function.
 
 Ocotillo (Fouquieria splendens) near Tucson, Arizona, serves as a living spiny hedge around traditional Papago gardens. It can be cultivated for fencing, live-set to grow gated, and is widely used as reinforcement or base for mud wall construction — a genuinely useful crop plant for desert structures.
 

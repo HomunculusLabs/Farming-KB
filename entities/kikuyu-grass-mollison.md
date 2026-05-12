@@ -35,7 +35,7 @@ Mollison identifies several integrated approaches for managing kikuyu in tropica
 
 ### Barrier Plantings
 
-- **Lemongrass (Cymbopogon citratus)**: Forms dense clumps that act as an effective barrier to kikuyu rhizome spread. Regularly cut for mulch in vegetable gardens while serving its barrier function.
+- **Lemongrass ([[cymbopogon-citratus]])**: Forms dense clumps that act as an effective barrier to kikuyu rhizome spread. Regularly cut for mulch in vegetable gardens while serving its barrier function.
 - **Comfrey (Symphytum officinale)**: Deep-rooted perennial that competes effectively with kikuyu at garden borders. Also provides potassium-rich mulch when cut.
 - Both species serve a dual function as kikuyu barriers and repetitive-cut mulch crops for the vegetable garden.
 - Many permaculture practitioners now use both lemongrass and comfrey as a combined kikuyu barrier and mulch crop system.

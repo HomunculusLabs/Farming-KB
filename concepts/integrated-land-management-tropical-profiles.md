@@ -78,8 +78,8 @@ This system demonstrates how each zone's output becomes the next zone's input—
 
 Primary tall windbreaks of Araucaria, Cupressus, Casuarina, Pinus, hardy Phoenix palms, and even mangroves may be needed in front-line coastal locations. These are followed in the lee by hardy quickset species such as:
 
-- **Euphorbia tirucalli** (pencil cactus) — fast-growing living fence
-- **Coprosma repens** (mirror bush) — salt-tolerant coastal shrub
+- **[[euphorbia-tirucalli]]** (pencil cactus) — fast-growing living fence
+- **[[coprosma-repens]]** (mirror bush) — salt-tolerant coastal shrub
 - **Echium fastuosum** (pride of Madeira) — drought-tolerant bee forage
 
 It is always best to find local plant species that do well in the district rather than importing exotic species.

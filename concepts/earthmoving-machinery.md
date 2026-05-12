@@ -6,7 +6,7 @@ type: concept
 
 # Earthmoving Machinery
 
-Moving earth is fundamental to permaculture earthworks — creating dams, swales, terraces, access roads, and ponds. While hand tools have shaped most of the terraced landscapes we see today (particularly in mountain rice-growing regions), modern earthmoving machinery enables rapid transformation of eroded and arid landscapes. Understanding the capabilities and appropriate applications of each machine type is essential for designers, since earth should always be moved for permanent and beneficial ends.
+Moving earth is fundamental to [[permaculture-earthworks]] — creating dams, swales, terraces, access roads, and ponds. While hand tools have shaped most of the terraced landscapes we see today (particularly in mountain rice-growing regions), modern earthmoving machinery enables rapid transformation of eroded and arid landscapes. Understanding the capabilities and appropriate applications of each machine type is essential for designers, since earth should always be moved for permanent and beneficial ends.
 
 ## Hand Tools
 
@@ -67,7 +67,7 @@ A scraper is a large, self-filling bucket or land dredge that both fills and emp
 
 The four-way bucket (sometimes called a drott) combines all four motions — lift, dig, push, and pull — and serves as a bridging and universal machine between blade and bucket types. Usually fitted to a bulldozer body, it is an excellent landscaping machine. Also called a clamshell bucket, it can close on loads of earth, delicately pick up large stones, shave curves in embankments, or fill trucks with soil.
 
-A small wheeled variant, the Bobcat, serves as an excellent finishing tool for light work or making swales in Zones 2 and 3 of the permaculture zones system.
+A small wheeled variant, the Bobcat, serves as an excellent finishing tool for light work or making swales in Zones 2 and 3 of the [[permaculture-zones]] system.
 
 ## Swivel and Scoop Buckets
 

@@ -93,4 +93,4 @@ Basins can be elongate, truncate, symmetrical, asymmetrical, stepped in line, st
 - Schwenke, Sensitive Chaos (1976) — creation of flowing forms in air or water
 - Pearce, Structure in Nature as a Strategy for Design (1979)
 - Vogel, Life in Moving Fluids (1981) — sensitive study of life forms in flow
-- Virbela Institute, Emerson College, Forest Row, East Sussex — Flowform designs and research
+- [[virbela-institute]], Emerson College, Forest Row, East Sussex — Flowform designs and research

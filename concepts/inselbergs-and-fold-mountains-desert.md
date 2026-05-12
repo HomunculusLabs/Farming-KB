@@ -21,7 +21,7 @@ Inselbergs are massive isolated or grouped granitic domes or metamorphosed sands
 - **Loose sandy soils** around the base
 - **Very solid run-off areas**, some spanning many tens of hectares
 
-Large trees and good humus soils develop at the base of cliffs on the shade side. A few shallow mulch-filled valleys exist on these massifs, with soil that is mainly humus, capable of supporting trees, yams, and other vegetation.
+Large trees and good [[humus]] soils develop at the base of cliffs on the shade side. A few shallow mulch-filled valleys exist on these massifs, with soil that is mainly humus, capable of supporting trees, yams, and other vegetation.
 
 ### Water Harvesting Design
 

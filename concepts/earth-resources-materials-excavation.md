@@ -125,7 +125,7 @@ Shingle (coarser than gravel) serves specific functions:
 - **Coarse filters** — for water treatment
 - **Desert water condensation** — excellent mulch for condensing water in deserts or dry places
 - **Wildlife habitat** — refuge for snails and decomposers
-- **Natural swimming pools** — filter bed for pools au naturel
+- **[[natural-swimming-pools]]** — filter bed for pools au naturel
 
 ## Slate
 

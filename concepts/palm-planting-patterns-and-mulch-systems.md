@@ -104,7 +104,7 @@ Bananas interplanted with legume crops may be regarded as **"pioneer" mulch** in
 Three small tree legumes are particularly valuable as mulch producers within palm polycultures:
 
 - **Cassia** (*Cassia spectabilis* and related species)
-- **Calliandra** (*Calliandra calothyrsus*)
+- **Calliandra** (*[[calliandra-calothyrsus]]*)
 - **Leucaena** (*Leucaena leucocephala*)
 
 These fast-growing legumes produce copious leaf litter that can be cut and laid as mulch beneath palms and intercrop. In ridge systems, Leucaena may be planted on mounds while maize and green mulch (beans) occupy the hollows between ridges.

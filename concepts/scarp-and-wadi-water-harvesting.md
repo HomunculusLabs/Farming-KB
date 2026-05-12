@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Scarps and wadis are among the most productive and strategically important desert landforms for permaculture design. Scarps are long cliff-lines formed by uplift or faulting, with characteristic angular profiles. Wadis are the box canyons and valleys that drain water from the upper scarp surface. Together, they create systems capable of supporting productive settlements, tree crops, and food forests through careful water management.
+Scarps and wadis are among the most productive and strategically important desert landforms for [[permaculture-design]]. Scarps are long cliff-lines formed by uplift or faulting, with characteristic angular profiles. Wadis are the box canyons and valleys that drain water from the upper scarp surface. Together, they create systems capable of supporting productive settlements, tree crops, and food forests through careful [[water-management]].
 
 ## Scarp Profile Formation
 
@@ -19,7 +19,7 @@ Scarp profiles develop through a predictable sequence when previously forested o
 3. **Scree slope develops:** Material accumulates at the cliff base
 4. **Angular desert scarp profile emerges:** The final characteristic desert form
 
-In true deserts, the scarp face is typically straight or gently curved, and wadis are at near right-angles to the scarp face. Side valleys leave at near right-angles to the main valley, following patterns of parallel fault weakness and compensating joints in the rock. Scarps are capped with durable materials—ironstones, hard sandstone bands, ferricrete, or silcrete crustal material. Cliff faces are of softer, sometimes bauxitic material, and the lower erosion surface is covered with silts and sands.
+In true deserts, the scarp face is typically straight or gently curved, and wadis are at near right-angles to the scarp face. Side valleys leave at near right-angles to the main valley, following patterns of parallel fault weakness and compensating joints in the rock. Scarps are capped with durable materials—ironstones, hard sandstone bands, [[ferricrete]], or [[silcrete]] crustal material. Cliff faces are of softer, sometimes bauxitic material, and the lower erosion surface is covered with silts and sands.
 
 ## Water Flow Patterns
 

@@ -64,7 +64,7 @@ This graduated system manages water from the wettest low zones through productiv
 When first establishing home gardens, mulch should be applied thickly — 20–25 cm (8–10 inches) deep. This heavy initial application:
 
 - Suppresses existing grasses and weeds
-- Begins building soil organic matter immediately
+- Begins [[building-soil]] organic matter immediately
 - Protects soil from rain splash erosion
 - Reduces nutrient leaching
 - Maintains soil moisture
@@ -98,7 +98,7 @@ Plastic sheet mulch has good effects on row crops:
 
 However, it is not recommended for remote village situations because:
 - It does not add humus to soils
-- It does not improve cation exchange capacity
+- It does not improve [[cation-exchange-capacity]]
 - It may release unwanted chemicals to the soil
 - It represents an external input that cannot be produced on-site
 

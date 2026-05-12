@@ -63,7 +63,7 @@ Perennial legume that creeps with a good root system. Warm areas of 75 cm or mor
 
 ### Puero (*Pueraria phaseoloides*)
 
-Pioneer green and cover crop, perennial climber. Very vigorous as a smothering summer mat. Used in wet tropics. Palatable with good seedling vigor (can be broadcast). Can be kept in pastures under rotational grazing, but also suits green manuring, orchards, and garden mulch crop.
+Pioneer green and [[cover-crop]], perennial climber. Very vigorous as a smothering summer mat. Used in wet tropics. Palatable with good seedling vigor (can be broadcast). Can be kept in pastures under rotational grazing, but also suits green manuring, orchards, and garden mulch crop.
 
 ### Macro (*Macrotyloma axillare* — formerly *Dolichos axillaris*)
 

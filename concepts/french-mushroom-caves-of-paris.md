@@ -67,7 +67,7 @@ The combination of natural draft and heating-assisted ventilation allowed grower
 Access to the champignonnières varied considerably:
 
 - **Open quarry entrances** — Some caves were accessible through more or less open quarry faces, allowing relatively easy entry with materials and equipment
-- **Shaft entrances** — Other caves were accessible only through holes a few feet or more in diameter, requiring descent by ladder. A windlass was used for lifting and lowering materials, compost, and harvested mushrooms
+- **Shaft entrances** — Other caves were accessible only through holes a few feet or more in diameter, requiring descent by ladder. A windlass was used for lifting and lowering materials, [[compost]], and harvested mushrooms
 
 The mode of access had significant practical implications for efficiency. Caves with open quarry entrances were far easier to work. Shaft-accessed caves required everything to be lowered and raised by rope, adding considerably to labor costs.
 

@@ -17,7 +17,7 @@ When flow encounters a fixed object, alternating vortices shed from each side, c
 - **Velocity dependence**: The behavior of flow around obstacles changes dramatically with speed:
   - At **higher velocities**, the flow becomes chaotic and turbulent, breaking down into unpredictable eddies that scatter energy widely across the landscape.
   - At **slower velocities**, flow passes around obstacles in simple, undisturbed streaming without forming organized spirals.
-  - The Von Karman trail exists in a Goldilocks zone between these two extremes — the intermediate range where stable, repeating spirals emerge.
+  - The [[von-karman-trail]] exists in a Goldilocks zone between these two extremes — the intermediate range where stable, repeating spirals emerge.
 
 This phenomenon can be observed across scales — from small rocks in a creek to islands in ocean currents, and from single trees in a field to entire mountain ranges in atmospheric flow. Cloud formations often reveal Von Karman trails visible from satellite imagery, where they stretch for hundreds of kilometers downstream of volcanic islands. For the [[permaculture]] designer, recognizing these patterns on-site means being able to predict the location of erosion zones, deposition areas, and sheltered micro-sites before any earthworks or plantings are installed.
 

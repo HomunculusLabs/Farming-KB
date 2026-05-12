@@ -18,7 +18,7 @@ Several plants produce powerful insecticidal compounds that are harmless or shor
 
 - **Chrysanthemum** species: Source of pyrethrins, among the safest and most widely used botanical insecticides. A few plants in home gardens provide a ready source of insect control.
 - **Derris** species: Source of rotenone, effective against a broad spectrum of insects. Derris also controls aquatic organisms — most insecticidal plants are lethal to aquatic species.
-- **Neem tree** (*Melia azadirachta*, syn. *Azadirachta indica*): One of the most important medicinal and pesticidal plants in the tropics. Neem leaves and oil deter pests in stored foods and have been used for this purpose for centuries in India. Neem also controls aquatic organisms.
+- **Neem tree** (*Melia azadirachta*, syn. *[[azadirachta-indica]]*): One of the most important medicinal and pesticidal plants in the tropics. Neem leaves and oil deter pests in stored foods and have been used for this purpose for centuries in India. Neem also controls aquatic organisms.
 
 These plants should be integrated into home gardens and planted in small clumps throughout crop areas to provide a distributed, on-site source of pest control materials.
 
@@ -86,7 +86,7 @@ Mulch and green manures (soil humus) often buffer the effects of nematodes and f
 
 ## The Coconut/Palm-Dominant Polyculture
 
-Mollison devotes detailed attention to coconut and palm-dominant polycultures as a specific case study in integrated pest management and multi-strata production.
+Mollison devotes detailed attention to coconut and palm-dominant polycultures as a specific case study in [[integrated-pest-management]] and multi-strata production.
 
 ### Animal Integration in Palm Systems
 

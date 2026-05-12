@@ -10,7 +10,7 @@ Desert landscapes present a dramatic departure from the soft, rounded contours o
 
 ## Reading the Desert Mosaic
 
-In fire-managed arid lands, the landscape is a mosaic of distinct vegetation communities. A permaculture designer needs to systematically observe several key variables:
+In fire-managed arid lands, the landscape is a mosaic of distinct vegetation communities. A [[permaculture]] designer needs to systematically observe several key variables:
 
 - **Process**: Whether wind erosion, water erosion, or infiltration is the dominant active force at a given locale.
 - **Rock and soil type**: These determine how the landscape responds to erosive processes and produce characteristic landforms.
@@ -28,7 +28,7 @@ Extensive deserts may show ranges of mountains with complex long valleys and she
 
 ### Scarps, Pediments, and Wadis
 
-The complex **scarp and pediment** landscapes of fault-lines, mesas, and wadis (box canyons) are characteristic features. Scarps are cliff-lines formed by tectonic uplift or faulting, often capped with durable ironstones, hard sandstone bands, ferricrete, or silcrete. The lower erosion surface (pediment) is covered with silts and sands washed from the wadis.
+The complex **scarp and pediment** landscapes of fault-lines, mesas, and wadis (box canyons) are characteristic features. Scarps are cliff-lines formed by tectonic uplift or faulting, often capped with durable ironstones, hard sandstone bands, [[ferricrete]], or [[silcrete]]. The lower erosion surface (pediment) is covered with silts and sands washed from the wadis.
 
 ### Badlands
 
@@ -72,7 +72,7 @@ Soils in older deserts typically show yellow or reddish coloration from iron oxi
 
 The fundamental visual difference is one of angularity versus roundness. Desert landscapes are angular and actively eroding, with sharp cliff faces, steep slopes, and bare rock exposures. Humid areas—especially those covered with grasslands and forests—have softer, more rounded outlines, with rare cliff faces occurring only at recent fault-lines or shorelines.
 
-This distinction has critical implications for water management: in deserts, the same geological processes that create dramatic landforms also create opportunities for water harvesting at scarp bases, wadi floors, and basin margins, provided the designer understands how to work with rather than against these powerful natural forces.
+This distinction has critical implications for [[water-management]]: in deserts, the same geological processes that create dramatic landforms also create opportunities for water harvesting at scarp bases, wadi floors, and basin margins, provided the designer understands how to work with rather than against these powerful natural forces.
 
 ## Design Implications
 
@@ -80,6 +80,6 @@ For the permaculture designer, understanding desert landforms is essential becau
 
 - **Scarps and wadis** offer concentrated water harvest potential but flood danger.
 - **Inselbergs** provide reliable, concentrated run-off for limited cultivation.
-- **Fold mountains** present the best opportunities for freshwater dam construction.
+- **Fold mountains** present the best opportunities for freshwater [[dam-construction]].
 - **Dune fields** store significant freshwater lenses accessible at depth.
 - **Basins and pans** can be sealed for water storage or managed for seasonal grazing and wildlife.

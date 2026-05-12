@@ -55,10 +55,10 @@ The **upper one-third of any hill** and all slopes exceeding **30°** should be 
 
 On slopes and between terrace sets, establish contour strips of deeply rooted grasses and tree legumes:
 
-- **Vetiver grass** — exceptionally deep-rooted, binds soil on steep banks
+- **[[vetiver-grass]]** — exceptionally deep-rooted, binds soil on steep banks
 - **Lemongrass** — dense clumping habit stabilizes bund edges
 - **Banna grass** — vigorous growth provides rapid ground cover
-- **Tree legumes** (e.g., Leucaena, tagasaste) — fix nitrogen and provide mulch material
+- **Tree legumes** (e.g., [[leucaena]], tagasaste) — fix nitrogen and provide mulch material
 
 These strips act as living barriers that slow water flow, trap sediment, and reinforce terrace structure over time.
 

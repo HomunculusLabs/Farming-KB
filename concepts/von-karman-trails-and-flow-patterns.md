@@ -64,7 +64,7 @@ A small restricted orifice in the wave front acts as a secondary origin. Just as
 
 ### Flow Manipulation
 
-As designers, we can use Von Karman trail principles to:
+As designers, we can use [[von-karman-trail]] principles to:
 1. **Place fixed objects** (rocks, posts, plants) in water or wind flow to create specific downstream patterns
 2. **Create constrictions** in channels to generate secondary branching events
 3. **Design windbreaks** with knowledge that their effect extends 20–40 times their height

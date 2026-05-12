@@ -42,7 +42,7 @@ The number of productive, managed, and effectively-harvested species in a polycu
 
 3. **Cost-benefit economics**: The relative fiscal economics of increasing inputs to optimum levels. Adding more species eventually reaches diminishing financial returns per unit of management effort.
 
-4. **Plant guild compatibility**: The need for effective plant guilds — harmonious ecological assemblies where species support each other through nutrient cycling, pest control, and microclimate modification.
+4. **[[plant-guild]] compatibility**: The need for effective plant guilds — harmonious ecological assemblies where species support each other through nutrient cycling, pest control, and microclimate modification.
 
 5. **Marketing and processing capacity**: Whether existing processing and marketing systems can cope with a complex product mix. Many diverse products require diverse markets or processing facilities.
 
@@ -143,7 +143,7 @@ This connects species richness directly to social structure. Complex polyculture
 1. **Species richness decreases with distance from settlement**: Design for maximum diversity close to home and increasing simplicity outward
 2. **Fiscal and nutritional optima differ**: Plan separately for cash income and food self-reliance
 3. **Gardens are research stations**: Test new species and techniques in the intensive zone before scaling outward
-4. **Soil testing pays for itself quickly**: Modest investments in trace elements produce disproportionate early returns
+4. **[[soil-testing]] pays for itself quickly**: Modest investments in trace elements produce disproportionate early returns
 5. **Earthworks before planting**: Water infrastructure and wind protection must precede crop establishment
 6. **Market assessment comes first**: Economic viability determines what should be grown, not the other way around
 7. **Seven factors limit species count**: Labor, zoning, economics, guilds, processing, area, and maturity together determine the workable species palette

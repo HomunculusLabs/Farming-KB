@@ -38,7 +38,7 @@ locally adapted plant varieties.
 
 - Based in the **Nimbin** area of the Northern Rivers region of NSW — a
   subtropical high-rainfall zone with steep terrain.
-- Used **lemongrass** (*Cymbopogon citratus*) planted on contour lines to:
+- Used **lemongrass** (*[[cymbopogon-citratus]]*) planted on contour lines to:
   - Hold steep slope soils against erosion
   - Provide ongoing mulch material from regular harvesting
   - Create levelled upslope planting sites for crops including *Alectryon*
@@ -46,7 +46,7 @@ locally adapted plant varieties.
 - Demonstrated that grass species can serve multiple functions in permaculture
   systems: erosion control, mulch production, culinary use, and slope
   modification.
-- **Vetiver grass** is used similarly in Africa wherever slope stability is
+- **[[vetiver-grass]]** is used similarly in Africa wherever slope stability is
   needed — the Fanton system parallels this African technique.
 - Lemongrass also provides culinary and medicinal products (beverages, cooking,
   essential oils).

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Small island systems present unique challenges and opportunities for food production and resource management. In permaculture design, islands are treated as intensive, closed-system models where every element must serve multiple functions. Bill Mollison emphasizes that island diets can be dramatically expanded beyond the typical staples of coconut, breadfruit, taro, and fish through deliberate diversification of tree crops, animal systems, and marine resources. This page explores the strategies for achieving nutritional security and self-reliance on small islands.
+Small island systems present unique challenges and opportunities for food production and resource management. In [[permaculture-design]], islands are treated as intensive, closed-system models where every element must serve multiple functions. Bill Mollison emphasizes that island diets can be dramatically expanded beyond the typical staples of coconut, breadfruit, taro, and fish through deliberate diversification of tree crops, animal systems, and marine resources. This page explores the strategies for achieving nutritional security and self-reliance on small islands.
 
 ## Extending the Island Diet Through Tree Fruit Diversity
 
@@ -16,7 +16,7 @@ The standard island diet, while reliable, is often nutritionally narrow. Permacu
 
 ### Primary Diversification Species
 
-- **Guava (*Psidium guajava*)**: A hardy, fast-bearing tree that thrives in coastal and sandy soils. Guava provides excellent vitamin C content and can be processed into preserves, juices, and dried products for storage. It serves as a pioneer species in food forest establishment.
+- **Guava (*Psidium guajava*)**: A hardy, fast-bearing tree that thrives in coastal and sandy soils. Guava provides excellent vitamin C content and can be processed into preserves, juices, and dried products for storage. It serves as a pioneer species in [[food-forest-establishment]].
 
 - **Citrus species**: Oranges, lemons, limes, grapefruits, and mandarins are well-suited to tropical and subtropical islands. Citrus trees provide year-round fruiting when multiple varieties are planted, creating a continuous harvest calendar. They also serve as windbreaks when planted on island perimeters.
 

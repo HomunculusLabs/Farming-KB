@@ -6,7 +6,7 @@ type: concept
 
 # Low Island and Coral Cay Strategies
 
-Low island and coral cay strategies encompass the specialized permaculture design approaches needed for sustainable human habitation on atolls, coral sand cays, and sandy alkaline coasts within 28° of the equator. These fragile environments demand careful resource management, particularly regarding freshwater, soil fertility, hurricane protection, and food production.
+Low island and coral cay strategies encompass the specialized [[permaculture-design]] approaches needed for sustainable human habitation on atolls, coral sand cays, and sandy alkaline coasts within 28° of the equator. These fragile environments demand careful resource management, particularly regarding freshwater, soil fertility, hurricane protection, and food production.
 
 ## Overview
 
@@ -46,7 +46,7 @@ Native and pioneer vegetation that yield abundant litter for gardens and tree pl
 - Coconut husks
 - Tree trunks
 - Leaf litter from:
-  - *Casuarina equisetifolia* (ironwood/whistling pine)
+  - *[[casuarina-equisetifolia]]* (ironwood/whistling pine)
   - Sea grape (*Coccoloba unifera*)
   - Coastal shrubs: *Scaevola*, *Tournefortia*, *Pemphis*
   - Mangroves

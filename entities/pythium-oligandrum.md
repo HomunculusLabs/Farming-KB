@@ -25,7 +25,7 @@ soil-borne plant diseases.
 
 The species is distinguished by its spiny oogonia and is widely
 distributed in temperate soils worldwide. Its distribution is
-unrelated to vegetation cover, soil pH, or soil texture (Ribeiro and
+unrelated to vegetation cover, [[soil-ph]], or soil texture (Ribeiro and
 Butler 1992), suggesting broad ecological tolerance and adaptability.
 P. oligandrum is a [[canary-grass-phototropism-model-organism]] for understanding mycoparasitic
 interactions in soil ecosystems and represents an example of

@@ -6,7 +6,7 @@ type: concept
 
 # Dune Stabilisation and Water Storage
 
-Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also harbour some of the desert's most significant water reserves. Understanding how dunes form, move, and store water is essential for any permaculture strategy in sandy desert country.
+Sand dunes are among the most dynamic and challenging landforms in arid environments, yet they also harbour some of the desert's most significant water reserves. Understanding how dunes form, move, and store water is essential for any [[permaculture]] strategy in sandy desert country.
 
 ## Dune Types and Formation
 
@@ -28,7 +28,7 @@ A critical insight for desert permaculture is that dunes function as enormous wa
 - **At approximately 6 metres depth**: Damp sands encountered.
 - **At approximately 40 metres depth**: Saturated sands found.
 
-Dunes present a very large surface area of sand grains for water to adhere to, and rapid infiltration of rain is possible. This operates much like the coral sands of an atoll, where rainwater "floats" on denser salt water below. Some dune fields (with humus and dust particles) support quite dense vegetation (50% cover), while others are almost sterile and lack basic plant nutrients.
+Dunes present a very large surface area of sand grains for water to adhere to, and rapid infiltration of rain is possible. This operates much like the coral sands of an atoll, where rainwater "floats" on denser salt water below. Some dune fields (with [[humus]] and dust particles) support quite dense vegetation (50% cover), while others are almost sterile and lack basic plant nutrients.
 
 Any traveller in vegetated deserts will notice that the largest trees—sometimes the only trees—stand in the dune ridges. This is apparent with dunes on harder pavement, dunes on clay, and in coastal dune hollows and deflation hollows in sands. At the edge of large dune complexes, water rushes and sedges appear at base seepage, and even shallow lagoons form that are as much dune-fed as dune-dammed.
 
@@ -39,7 +39,7 @@ It follows that dune on pavement or salted ground is the best site for permanent
 For individual dunes on hard surfaces, a relatively simple approach works after rains:
 
 1. **Plant a fast-growing grain or oat crop**—sorghum, millet, desert legumes such as moth bean, or yam beans.
-2. **Set out hardy Acacia seedlings**, preferably with mixed fertiliser.
+2. **Set out hardy [[acacia]] seedlings**, preferably with mixed fertiliser.
 3. If successful, grains flower and straw lasts for two or more years, moth beans leave seed, and small Acacias grow to effect permanent stabilisation. Species such as *Acacia victoriae* give copious leaf mulch.
 4. **Place desert yam bean pits** in later years using the accumulated leaf mulch.
 5. A few larger quickset trees (tamarisk) may succeed if deeply set in or near the dune base.
@@ -54,7 +54,7 @@ Wherever rain flows or falls occasionally over bare sandy ground, **pitting** is
 
 For extensive dune systems, pelleted seed can be broadcast from the air to await rain. The pelleting process:
 
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, neem tree leaf powder, or magnesite) into a stiff mass.
+1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite) into a stiff mass.
 2. Pass through a mincer with blades removed.
 3. Spread onto a vibrating tray with a slight slope where dry powder or dusts are shaken over the extrusion.
 4. The "rolls" become round pellets on the shaker tray, which are spread out to dry.
@@ -102,7 +102,7 @@ Several natural processes contribute to dune stability:
 
 - **Water bonding**: Water creates bonds between sand particles that require much higher wind speeds to move.
 - **Salt crusts**: Salt (especially hygroscopic varieties) absorbs atmospheric moisture and cements surfaces.
-- **Biological crusts**: Lichens, bacteria, fungi, and algal mats form naturally on stable surfaces.
+- **Biological crusts**: [[lichens]], bacteria, fungi, and algal mats form naturally on stable surfaces.
 - **Sessile trees**: Species like *Acacia* and *Mesquite* greatly aid the stabilisation process as a travelling barchan stabilises and assumes an oval profile.
 
 These often delicate desert crusts are critical to stability. When hoofed animals, fast vehicles, or agriculture is introduced, wind erosion may quickly follow. Urgent stabilisation can be effected by spraying tar oils, laying pebble beds, or building brush fences.

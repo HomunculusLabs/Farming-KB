@@ -25,7 +25,7 @@ The absence of a cold season and the constancy of moisture and warmth mean that 
 
 ## Landscape and Soils
 
-The characteristic landscape of the humid tropics features perennial streams, deeply weathered rock formations, and gently rounded hills. The intense rainfall and year-round biological activity produce soils that are profoundly weathered — often highly leached, with low cation exchange capacity and poor structure when exposed.
+The characteristic landscape of the humid tropics features perennial streams, deeply weathered rock formations, and gently rounded hills. The intense rainfall and year-round biological activity produce soils that are profoundly weathered — often highly leached, with low [[cation-exchange-capacity]] and poor structure when exposed.
 
 A critical insight emphasized by Mollison is that **85% of the nutrients in a humid tropical forest are held in living plants and animals**, not in the soil itself. The soil, when considered apart from the biomass cycling through it, is inherently infertile. When forests are cleared and the nutrient cycling is disrupted, soils rapidly degrade. This fundamental truth underlies the catastrophic failure of many agricultural schemes that attempted to transplant temperate-zone monoculture techniques to tropical environments.
 

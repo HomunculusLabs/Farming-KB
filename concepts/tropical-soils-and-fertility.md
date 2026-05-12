@@ -36,7 +36,7 @@ applied nutrients are quickly lost to leaching.
 
 ### Cation Exchange Capacity and pH
 
-The **Cation Exchange Capacity (CEC)** is strongly affected by pH. As acidity
+The **[[cation-exchange-capacity]] (CEC)** is strongly affected by pH. As acidity
 increases, negative charge on soil particles decreases, reducing nutrient
 retention. This creates a vicious cycle: leaching lowers pH → lower pH reduces
 CEC → reduced CEC allows more leaching. Breaking this cycle is central to
@@ -56,7 +56,7 @@ areas often become barren within a few years.
 
 The single most important step is restoring organic matter:
 
-- **Green manure crops** and **perennial vegetation** for continuous organic
+- **[[green-manure-crops]]** and **perennial vegetation** for continuous organic
   inputs
 - **Leucaena** and other **tree legumes** as deep-rooted nitrogen fixers that
   produce leaf litter

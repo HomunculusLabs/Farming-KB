@@ -10,7 +10,7 @@ tags: [people, permaculture, tropical-agriculture, sri-lanka]
 ## Description
 
 Ray Wijewardene was a Sri Lankan agricultural scientist, engineer, and inventor
-known for developing the concept of **conservation farming** and **avenue cropping**
+known for developing the concept of **conservation farming** and **[[avenue-cropping]]**
 in tropical regions. His work on integrating legume trees with food crops provided
 a foundational technique for sustainable tropical agriculture, later adopted and
 popularised by the permaculture movement.
@@ -67,7 +67,7 @@ permaculture design** and **mycological cultivation**:
   including beneficial fungi, which accelerate nutrient cycling.
 - The layered canopy structure (legume overstorey, food crop understorey) creates
   microclimatic niches suitable for cultivating shade-tolerant mushrooms such as
-  *Pleurotus* (oyster mushrooms) on spent legume prunings.
+  *Pleurotus* ([[oyster-mushrooms]]) on spent legume prunings.
 - His emphasis on zero-tillage and constant ground cover preserves mycorrhizal
   networks essential for crop health.
 

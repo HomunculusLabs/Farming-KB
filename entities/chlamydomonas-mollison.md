@@ -46,7 +46,7 @@ The algal-bacterial symbiosis in treatment ponds is one of the most energy-effic
 
 ## Relevance to Cultivation
 
-- **Waste treatment lagoons**: Essential for natural wastewater treatment in permaculture and ecological design
+- **Waste treatment lagoons**: Essential for natural wastewater treatment in [[permaculture]] and ecological design
 - **Algal protein**: Can be harvested as high-protein feed supplement
 - **Biofuel research**: Studied as potential feedstock for biodiesel and hydrogen production
 - **Soil amendment**: Algal biomass can be composted and applied as fertiliser

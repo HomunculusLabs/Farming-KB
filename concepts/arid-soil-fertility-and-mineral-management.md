@@ -42,7 +42,7 @@ Calcium raises pH while also improving soil structure and displacing toxic alumi
 
 ### Carbonic Acid and Potash Leaching
 
-**Carbonic acid in rainfall** (formed from CO₂ dissolving in water) acts as a slow-weathering agent that removes **potash (potassium) from orthoclase feldspar** in granitic parent materials. Over geological time, this process depletes potassium reserves in granitic arid soils, contributing to widespread potassium deficiency in desert regions underlain by granite.
+**Carbonic acid in rainfall** (formed from CO₂ dissolving in water) acts as a slow-weathering agent that removes **potash (potassium) from [[orthoclase]] feldspar** in granitic parent materials. Over geological time, this process depletes potassium reserves in granitic arid soils, contributing to widespread potassium deficiency in desert regions underlain by granite.
 
 ## Fertiliser Use in Arid Areas
 
@@ -123,7 +123,7 @@ Several delivery methods suit arid conditions:
 
 ### Phosphorus Deficiency
 
-Phosphorus is chronically deficient in arid areas, **except where humus, forests, or pond silt** accumulate organic phosphorus. Because phosphorus is highly immobile in alkaline soils, **mycorrhiza inoculation is essential** — mycorrhizal fungi extend the effective root zone and can access phosphorus compounds that plant roots alone cannot reach.
+Phosphorus is chronically deficient in arid areas, **except where humus, forests, or pond silt** accumulate organic phosphorus. Because phosphorus is highly immobile in alkaline soils, **mycorrhiza inoculation is essential** — [[mycorrhizal-fungi]] extend the effective root zone and can access phosphorus compounds that plant roots alone cannot reach.
 
 ## Toxic Mineral Thresholds
 

@@ -6,7 +6,7 @@ type: concept
 
 # Desert Basins, Pans, Scalds, and Gully Erosion
 
-The flat depressions, claypans, scalds, and eroded gullies of arid landscapes represent both the most degraded desert environments and some of the most responsive to permaculture restoration. Understanding the formation, behaviour, and restoration potential of these features is essential for desert reclamation work.
+The flat depressions, claypans, scalds, and eroded gullies of arid landscapes represent both the most degraded desert environments and some of the most responsive to [[permaculture]] restoration. Understanding the formation, behaviour, and restoration potential of these features is essential for desert reclamation work.
 
 ## Depression Types
 
@@ -35,7 +35,7 @@ Clay soils in desert environments have distinctive properties that can be either
 
 ### Sealing Properties
 
-Clays can be treated with gypsum to **decrease** their capacity to infiltrate water (useful for directing run-off to storage). Alternatively, they can be treated with sodium carbonate or bentonite to **seal** them where they are to be used for water storage.
+Clays can be treated with [[gypsum]] to **decrease** their capacity to infiltrate water (useful for directing run-off to storage). Alternatively, they can be treated with sodium carbonate or bentonite to **seal** them where they are to be used for water storage.
 
 Natural montmorillonite or smectite clays swell and form impermeable surfaces after a short period of rain. This property greatly impedes infiltration and is the same mechanism that makes deliberately sealed clays useful for leading run-off water to tanks.
 

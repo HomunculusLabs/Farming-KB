@@ -55,7 +55,7 @@ mulch generation, and animal management into a compact, accessible system.
   beans, kale, corn, okra) — all within reach from paths
 - **Outer beds**: Root crops and cut-and-remove crops (potatoes, sweet potato,
   carrots, cauliflower, cabbage) — one step onto bed to harvest
-- **Hedge surround**: Vetiver grass, lemongrass, comfrey, then taller hedge
+- **Hedge surround**: [[vetiver-grass]], lemongrass, comfrey, then taller hedge
   of cassava, papaya, *Croatalaria*, *Leucaena*, pigeon pea
 
 
@@ -65,7 +65,7 @@ mulch generation, and animal management into a compact, accessible system.
 
 - **Banana circles** function as in-situ composting systems where fungal
   decomposition of organic matter occurs alongside plant production — ideal
-  for **outdoor mushroom cultivation** on buried substrate blocks.
+  for **[[outdoor-mushroom-cultivation]]** on buried substrate blocks.
 - The deep mulch layers (30 cm / 1 foot of trodden, wetted mulch) create
   excellent fungal habitat and support rapid **soil food web development**.
 - Worm populations build up over 9–15 months, coexisting with fungal

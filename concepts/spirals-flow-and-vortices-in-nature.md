@@ -122,7 +122,7 @@ Flowforms are sculpted vessels designed to create specific vortex patterns. They
 ### Architectural Applications
 - Spiral staircases and ramps provide compact vertical circulation.
 - Spiral building forms can create self-sheltering structures.
-- The Fibonacci spiral provides aesthetically pleasing and structurally efficient proportions.
+- The [[fibonacci-spiral]] provides aesthetically pleasing and structurally efficient proportions.
 
 ## Connecting Patterns: Spirals, Pulsers, and Tori
 

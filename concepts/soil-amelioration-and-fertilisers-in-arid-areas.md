@@ -15,7 +15,7 @@ Micronutrients can be delivered through several methods:
 - **Foliar sprays** — direct absorption through leaf surfaces, useful for rapid correction
 - **Irrigation infusion** — dissolved into water delivered at root level for even distribution
 - **Slow-release pellets** — placed at root level for gradual, sustained uptake over months or years
-- **Bulk soil amendments** — mixed into materials like dolomite for broad, low-intensity distribution
+- **Bulk soil amendments** — mixed into materials like [[dolomite]] for broad, low-intensity distribution
 
 Over-supply of trace elements causes toxicity and health problems in both plants and the animals or humans consuming them. No guesswork can replace careful soil analyses — testing must precede any amendment programme. Healthy garden plant tissue has specific mineral concentrations that serve as reference benchmarks:
 
@@ -88,7 +88,7 @@ All persistent biocides should be banned from drylands. Aquatic plants — typic
 
 Herbicides applied to lawns seep into sandy watercourses and travel up and down on groundwater, killing thousands of plants over time. Water movement through dryland soils is slow, and deep sands do not attenuate or offset poisons through biological breakdown. Chemical residues persist and accumulate across growing seasons.
 
-Natural remedies must be a high priority for deserts and other fragile ecosystems — the permaculture principle is to out-think pests, not poison them. Integrated biological strategies, companion planting, and habitat manipulation replace chemical dependency.
+Natural remedies must be a high priority for deserts and other fragile ecosystems — the permaculture principle is to out-think pests, not poison them. Integrated biological strategies, [[companion-planting]], and habitat manipulation replace chemical dependency.
 
 California's groundwater supplies are in deep trouble after a 40-year period of intensive chemical use. Trees near Alice Springs in Australia are dying from lawn poisons that have migrated through sandy soils into their root zones — a stark warning about the long-range consequences of chemical use in arid areas.
 

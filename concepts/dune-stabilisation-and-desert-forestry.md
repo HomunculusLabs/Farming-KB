@@ -6,7 +6,7 @@ type: concept
 
 # Dune Stabilisation and Desert Forestry
 
-Dune country represents both one of the most challenging and one of the most promising environments in desert permaculture. Sands occur on pavements as isolated dunes, or as extensive dunefields (sand seas). While dunes can threaten settlements and infrastructure through migration, they also function as enormous freshwater reservoirs and, once stabilised, provide excellent sites for permanent tree plantings and productive systems.
+Dune country represents both one of the most challenging and one of the most promising environments in desert [[permaculture]]. Sands occur on pavements as isolated dunes, or as extensive dunefields (sand seas). While dunes can threaten settlements and infrastructure through migration, they also function as enormous freshwater reservoirs and, once stabilised, provide excellent sites for permanent tree plantings and productive systems.
 
 ## Dune Types
 
@@ -29,7 +29,7 @@ At the edge of large dune complexes, water rushes and sedges are typically found
 Dunes on pavement (isolated dunes) can be planted after rains using a multi-stage approach:
 
 1. **Quick-growing grain or oat crop**: Sorghum, millet, some desert legumes such as moth bean, or yam beans are sown.
-2. **Hardy Acacia seedlings**: Placed preferably with a mixed fertiliser. Species such as *Acacia victoriae* give copious leaf mulch.
+2. **Hardy [[acacia]] seedlings**: Placed preferably with a mixed fertiliser. Species such as *Acacia victoriae* give copious leaf mulch.
 3. **Quickset trees**: A few larger tamarisk may succeed if deeply set in or near the dune base.
 
 If successful, the grains flower and straw lasts for two or more years, moth beans leave seed, and the small Acacias grow to effect permanent stabilisation. Desert yam bean pits can be placed in later years using the leaf mulch from established Acacias. The process depends on good rain, pest and browser control before sowing, and minimal protection after sowing.
@@ -42,7 +42,7 @@ Large dune fields require a different approach, though pelleted seed can be broa
 
 Pelleting is a relatively simple process:
 
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, neem tree leaf powder, or magnesite) into a stiff mass.
+1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite) into a stiff mass.
 2. Pass the mixture through a mincer with blades removed.
 3. Extrude onto a vibrating tray with a slight slope dusted with dry powder.
 4. The extruded "rolls" become round pellets on the shaker tray, which are then spread out to dry.
@@ -97,4 +97,4 @@ Once stabilised, dunes must be protected from several threats:
 
 Apart from vegetation and pebble stabilisation, any "cementing" system helps. Water creates bonds between particles that require much higher wind speeds to move the sand. Salt (especially where dew is present, as salt is hygroscopic or water-absorbing) similarly binds particles. Chemical stabilisers include tars, oils, or glues such as latex.
 
-Natural stabilisers include lichens, bacteria, fungi, and algal mats, as well as salt crusts. These often delicate desert crusts are critical to stability — when hoofed animals, fast vehicles, or agriculture are introduced to deserts, wind erosion may quickly follow the destruction of these crusts. In urgent cases, stabilisation can be effected by spraying tar oils, laying pebble beds, or building brush fences combined with planting sequences for permanence.
+Natural stabilisers include [[lichens]], bacteria, fungi, and algal mats, as well as salt crusts. These often delicate desert crusts are critical to stability — when hoofed animals, fast vehicles, or agriculture are introduced to deserts, wind erosion may quickly follow the destruction of these crusts. In urgent cases, stabilisation can be effected by spraying tar oils, laying pebble beds, or building brush fences combined with planting sequences for permanence.

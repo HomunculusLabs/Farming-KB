@@ -9,7 +9,7 @@ tags: [people, permaculture, drylands, range-management, native-american, usa]
 ## Description
 
 **Gerard and Gus James** are agricultural practitioners from the **Pyramid Lake
-Paiute Tribe** reservation in Nevada, USA, who worked with Bill Mollison on
+Paiute Tribe** reservation in Nevada, USA, who worked with [[bill-mollison]] on
 **Indian rice grass** (*Oryzopsis hymenoides* / *Achnatherum hymenoides*)
 re-seeding trials in tribal rangelands. Their work demonstrates traditional
 ecological knowledge combined with modern range management techniques to restore
@@ -63,7 +63,7 @@ cold desert ecosystems and provide staple food sources.
 - Re-seeded grasslands develop **fungal-dominated soil food webs** over time,
   transitioning from degraded bare soil to biologically active range.
 - The bunch growth habit (0.6 m spacing) creates **root zone islands** of
-  biological activity — mycorrhizal networks connect adjacent bunches through
+  biological activity — [[mycorrhizal-networks]] connect adjacent bunches through
   common soil hyphal networks.
 - **Acid treatment** of seed mirrors processes used in fungal substrate
   preparation — controlled acidification to break down protective barriers.

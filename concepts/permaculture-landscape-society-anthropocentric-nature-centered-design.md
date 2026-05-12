@@ -23,7 +23,7 @@ This anthropocentric aim is valid for settlement design — household design rel
 
 ## The Recycling Responsibility
 
-In natural systems, recycling of nutrients and energy is a function of many species. Decomposers, fungi, bacteria, detritivores, and countless other organisms process wastes and return them to the soil. In gardens, this responsibility falls to humans — we must actively return wastes via compost or mulch to the soil and plants. We actively create soil in our gardens, whereas in nature many other species carry out that function.
+In natural systems, recycling of nutrients and energy is a function of many species. Decomposers, fungi, bacteria, detritivores, and countless other organisms process wastes and return them to the soil. In gardens, this responsibility falls to humans — we must actively return wastes via [[compost]] or mulch to the soil and plants. We actively create soil in our gardens, whereas in nature many other species carry out that function.
 
 Similarly, around homes people can catch water for garden use, but they rely on natural forested landscapes to provide condenser leaves and clouds that keep rivers running with clean water, maintain the global atmosphere, and lock up gaseous pollutants. This creates an unavoidable dependency: even anthropocentric people would be well-advised to pay close attention to and assist in the conservation of existing forests and the rehabilitation of degraded lands. Our own survival demands that we preserve all existing species and allow them a place to live.
 

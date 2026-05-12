@@ -6,7 +6,7 @@ type: concept
 
 # Scalds, Claypans, and Desert Basins
 
-Flat areas and depressions in desert landscapes — including tectonic basins, deflation hollows, pans, scalds, and claypans — present distinct challenges and opportunities for permaculture design. Understanding their hydrology, soil chemistry, and revegetation strategies is essential for productive dryland systems.
+Flat areas and depressions in desert landscapes — including tectonic basins, deflation hollows, pans, scalds, and claypans — present distinct challenges and opportunities for [[permaculture-design]]. Understanding their hydrology, soil chemistry, and revegetation strategies is essential for productive dryland systems.
 
 ## Desert Depressions and Basins
 
@@ -26,7 +26,7 @@ Some depressions are clay-based evaporation areas called **claypans**, while oth
 
 Clays can be treated to modify their water infiltration properties:
 
-- **Gypsum** decreases clay capacity to infiltrate water.
+- **[[gypsum]]** decreases clay capacity to infiltrate water.
 - **Calcium carbonate or bentonite** seals clays where they need to store water.
 - **Natural montmorillonite or smectite clays** swell and form impermeable surfaces after a short period of rain, greatly impeding infiltration.
 
@@ -82,7 +82,7 @@ Active gully erosion in desert basins requires multiple strategies:
 
 ## Broader Desert Profile Context
 
-A typical desert profile incorporates all these features in a basin and range context. Water conservation begins on foothill slopes and generates forests downstream. Complex foothills provide many sites for water storages and swales. The classical basin and range profile is a product of fold mountain series, where anticyclines erode to form valleys and basins collect runoff from surrounding slopes.
+A typical desert profile incorporates all these features in a basin and range context. [[water-conservation]] begins on foothill slopes and generates forests downstream. Complex foothills provide many sites for water storages and swales. The classical basin and range profile is a product of fold mountain series, where anticyclines erode to form valleys and basins collect runoff from surrounding slopes.
 
 ## Ecological Importance of Revegetation
 
@@ -94,7 +94,7 @@ Desert crusts formed by lichens, bacteria, fungi, algal mats, and salt are criti
 
 ## See Also
 
-- Desert Scarps and Wadis
+- [[desert-scarps-and-wadis]]
 - Dune Country and Stabilisation
 - Fold Mountains in Deserts
 - Desert Forestry

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Inselbergs (isolated rock domes) and fold mountains are among the most significant desert landforms for water harvesting and settlement potential. While inselbergs are relatively simple systems, fold mountains are the most extensive features in many deserts, combining characteristics of inselbergs and scarps but with far greater complexity. Both offer unique opportunities for permaculture design in arid environments.
+Inselbergs (isolated rock domes) and fold mountains are among the most significant desert landforms for water harvesting and settlement potential. While inselbergs are relatively simple systems, fold mountains are the most extensive features in many deserts, combining characteristics of inselbergs and scarps but with far greater complexity. Both offer unique opportunities for [[permaculture-design]] in arid environments.
 
 ## Inselbergs and Residual Domes
 

@@ -43,7 +43,7 @@ with appropriate design and amendment strategies.
   - **Raised beds** with sunken paths for salt management
   - **Perforated pipe irrigation** for efficient water delivery
   - Heavy **mulch** application for moisture retention and salt leaching
-  - **Sulphur** application to reduce soil pH and sodium toxicity
+  - **Sulphur** application to reduce [[soil-ph]] and sodium toxicity
   - **Bentonite** clay addition to improve sandy soil structure and water
     holding capacity
 - The combination of these amendments produced "excellent crops in desperate
@@ -61,7 +61,7 @@ with appropriate design and amendment strategies.
 ## Relevance to Cultivation / Mycology
 
 - **Bentonite amendment** of sandy soils dramatically improves water retention
-  and cation exchange capacity, creating conditions where **mycorrhizal fungi**
+  and [[cation-exchange-capacity]], creating conditions where **mycorrhizal fungi**
   can establish and function effectively.
 - **Sulphur application** reduces soil pH and sodium toxicity, both of which
   inhibit fungal activity. Proper pH adjustment enables fungal colonisation.

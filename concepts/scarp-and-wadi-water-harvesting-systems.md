@@ -6,7 +6,7 @@ type: concept
 
 # Scarp and Wadi Water Harvesting Systems
 
-Scarps and wadis are among the most productive landscape features for water harvesting in desert environments. These fault-formed cliff-and-valley systems concentrate rainfall run-off into predictable channels, offering the permaculture designer a framework for capturing, storing, and distributing water that has been successfully employed since ancient times.
+Scarps and wadis are among the most productive landscape features for water harvesting in desert environments. These fault-formed cliff-and-valley systems concentrate rainfall run-off into predictable channels, offering the [[permaculture]] designer a framework for capturing, storing, and distributing water that has been successfully employed since ancient times.
 
 ## Understanding Scarp and Wadi Formation
 
@@ -14,7 +14,7 @@ Scarps and wadis are among the most productive landscape features for water harv
 
 When periods of tectonic uplift fracture desert peneplains, long cliff-lines (some extending many tens of kilometres) stand above a lower erosion surface. While uplift scarps also occur in humid lands, in deserts they remain sharp and angular rather than being softened by vegetation. The typical profile consists of:
 
-- **Upper erosion surface (peneplain)**: Capped with durable ironstones, hard sandstone bands, ferricrete, or silcrete crustal material.
+- **Upper erosion surface (peneplain)**: Capped with durable ironstones, hard sandstone bands, [[ferricrete]], or [[silcrete]] crustal material.
 - **Cliff face (scarp)**: Generally composed of softer, sometimes bauxitic (aluminium oxide) material.
 - **Lower erosion surface (pediment)**: Covered with silts and sands washed from the wadis and distributed by wind.
 
@@ -58,7 +58,7 @@ The design goal is to let a minimum of water escape as run-off and to absorb as 
 
 ## The Nabatean Model
 
-The most extensively studied wadi development is the ancient **Nabatean system** of the Negev desert (documented by Michael Evenari and D. Koller, 1956). These systems demonstrate the sophisticated water management achievable in wadi landscapes:
+The most extensively studied wadi development is the ancient **Nabatean system** of the Negev desert (documented by Michael Evenari and D. Koller, 1956). These systems demonstrate the sophisticated [[water-management]] achievable in wadi landscapes:
 
 - Hold 80-90% of run-off behind dykes in wadis, spreading water to lower dykes on the plains.
 - Highly coordinated flood-and-soak regimes deliver water to orchards.

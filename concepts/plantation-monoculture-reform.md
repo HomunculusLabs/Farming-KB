@@ -143,7 +143,7 @@ Where plantation monoculture fails on both counts, reform is not optional — it
 
 ## Key References
 
-- Mollison, Bill. *Permaculture: A Designers' Manual*. Tagari Publications, 1988.
+- Mollison, Bill. *Permaculture: A Designers' Manual*. [[tagari-publications]], 1988.
 - Nair, K.R. (1975). Economics of coconut-based polycultural systems. [Cited in Mollison]
 - Sri Lankan tea cooperative model — worker cooperative case study referenced by Mollison.
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Desert soils present a complex array of types and conditions that directly influence water management, plant growth, and erosion patterns. Understanding the distinctions between scalds, claypans, gilgais, and other desert soil types is essential for effective permaculture intervention in arid environments. Soils in older deserts typically show yellow or reddish colouration from iron oxide complexes, but composition varies from free sands to heavy compacted cracking clays.
+Desert soils present a complex array of types and conditions that directly influence [[water-management]], plant growth, and erosion patterns. Understanding the distinctions between scalds, claypans, gilgais, and other desert soil types is essential for effective [[permaculture]] intervention in arid environments. Soils in older deserts typically show yellow or reddish colouration from iron oxide complexes, but composition varies from free sands to heavy compacted cracking clays.
 
 ## Desert Soil Types
 
@@ -29,7 +29,7 @@ Desert soils present a complex array of types and conditions that directly influ
 
 - Most typical of flats and evaporation pans
 - Notoriously sticky when wet, preventing all vehicle movement
-- Can be treated with gypsum to decrease infiltration capacity
+- Can be treated with [[gypsum]] to decrease infiltration capacity
 - Treated with calcium carbonate or bentonite to seal for water storage
 - Natural montmorillonite or similar clays swell and form impermeable surfaces after rain
 
@@ -117,4 +117,4 @@ Active gully erosion in desert soils requires multiple integrated strategies:
 
 ## Integrated Soil Management
 
-The permaculture approach to desert soils recognises that each soil type—sand, clay, loam, scald, claypan, gilgai—requires a distinct management strategy. The common thread is working with the soil's inherent properties: using sand's rapid infiltration for water storage, exploiting clay's sealing capacity for run-off harvesting, and reversing the damage of over-grazing through systematic revegetation. Water conservation begins on foothill slopes and generates forests downhill, following the basin and range topography that characterises most desert border landscapes.
+The permaculture approach to desert soils recognises that each soil type—sand, clay, loam, scald, claypan, gilgai—requires a distinct management strategy. The common thread is working with the soil's inherent properties: using sand's rapid infiltration for water storage, exploiting clay's sealing capacity for run-off harvesting, and reversing the damage of over-grazing through systematic revegetation. [[water-conservation]] begins on foothill slopes and generates forests downhill, following the basin and range topography that characterises most desert border landscapes.

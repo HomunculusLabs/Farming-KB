@@ -111,7 +111,7 @@ For all normal bench work, a **bulldozer** is most useful. For long flat road or
 - **Material type** — rippers needed for compacted soils, buckets for loose material
 - **Access** — light swamp machines for marsh work, draglines for distance reach
 
-The revolution of eroded and arid landscapes begins with tools and is consolidated with life forms, especially trees. Designers and architects should understand earthmoving machinery and its capabilities, as moving earth should always serve permanent and beneficial ends.
+The revolution of eroded and arid landscapes begins with tools and is consolidated with life forms, especially trees. Designers and architects should understand [[earthmoving-machinery]] and its capabilities, as moving earth should always serve permanent and beneficial ends.
 
 ## See Also
 

@@ -46,7 +46,7 @@ The primary strategy is introducing legumes at both ground and canopy levels —
 
 ### Ground Cover Legumes
 
-Vigorous cover crop legumes suppress grasses and build soil:
+Vigorous [[cover-crop]] legumes suppress grasses and build soil:
 
 - **Desmodium** species — effective under tree shade. Short-stemmed forms defeat grasses by creating a dense, low mat that denies light and space, eventually laying down thick mulch.
 - **Siratro** (*Phaseolus atropurpureus*) — a vigorous trailing legume that smothers grasses and provides nitrogen-rich green manure.

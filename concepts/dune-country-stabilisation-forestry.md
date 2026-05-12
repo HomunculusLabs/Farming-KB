@@ -6,7 +6,7 @@ type: concept
 
 # Dune Country Stabilisation and Forestry
 
-Sand dunes are among the most dynamic and challenging desert landforms, yet they also represent enormous water reservoirs and, once stabilised, some of the most productive sites for desert forestry. Understanding dune types, water dynamics, and stabilisation techniques is essential for desert permaculture design.
+Sand dunes are among the most dynamic and challenging desert landforms, yet they also represent enormous water reservoirs and, once stabilised, some of the most productive sites for desert forestry. Understanding dune types, water dynamics, and stabilisation techniques is essential for desert [[permaculture-design]].
 
 ## Dune Types and Formation
 
@@ -42,7 +42,7 @@ Dune on pavement or salted ground is the best site for permanent plantings. The 
 
 For isolated dunes on pavement, a sequence of fast-growing crops can be planted after rains:
 1. **Fast-growing grain or oat crop**: Sorghum, millet, desert legumes such as moth bean, or yam beans
-2. **Hardy Acacia seedlings**: Placed with mixed fertiliser (Acacia victoriae is particularly valued for copious leaf mulch)
+2. **Hardy [[acacia]] seedlings**: Placed with mixed fertiliser (Acacia victoriae is particularly valued for copious leaf mulch)
 3. **Quickset trees**: Tamarisk may succeed if deeply set in or near the dune base
 
 ### Success Criteria
@@ -63,7 +63,7 @@ The process depends on:
 For extensive dunefields, pelleted seed can be broadcast from the air to await rain. Many pellets will be buried by sand, but if heavy rain occurs, some will grow.
 
 **Pelleting process:**
-1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, neem tree leaf powder, or magnesite) in a stiff mass
+1. Mix seed, mud, fertiliser, and insect repellent (neutralised copper sulphate with lime, [[neem]] tree leaf powder, or magnesite) in a stiff mass
 2. Pass through a mincer with blades removed
 3. Extrude onto a vibrating tray with slight slope covered in dry powder or dusts
 4. The extruded rolls become round pellets on the shaker tray

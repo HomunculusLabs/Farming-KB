@@ -90,11 +90,11 @@ The wet season is the "hungry gap" where plants are growing but too young to har
 
 ### Key Species
 
-The garden and orchard framework includes mango, papaya, sapote, banana, limes, coconut, cashew, macadamia nut, breadfruit, avocado, pineapple, and durian. Large legumes such as Inga, Gliricidia, Leucaena, and Cajanus are essential interplants for nitrogen fixation and mulch production. In the vegetable garden, yam and sweet potato yield better than potato. Amaranth serves as both green and grain crop. Lima, velvet, and Dolichos beans trellis on tree legumes.
+The garden and orchard framework includes mango, papaya, sapote, banana, limes, coconut, cashew, macadamia nut, breadfruit, avocado, pineapple, and durian. Large legumes such as Inga, Gliricidia, [[leucaena]], and Cajanus are essential interplants for nitrogen fixation and mulch production. In the vegetable garden, yam and sweet potato yield better than potato. Amaranth serves as both green and grain crop. Lima, velvet, and Dolichos beans trellis on tree legumes.
 
 ### Structural and Craft Materials
 
-Bamboos, balsa, teak, palms, and mahogany provide structural and craft materials. Rattans can be encouraged along waterways and mangrove edges. Oil palm, jelly palm, Bactris, Mauritia, salak palm, and doum palm provide useful fruit trusses.
+Bamboos, balsa, [[teak]], palms, and mahogany provide structural and craft materials. Rattans can be encouraged along waterways and mangrove edges. Oil palm, jelly palm, Bactris, Mauritia, salak palm, and doum palm provide useful fruit trusses.
 
 ### Pest Management
 

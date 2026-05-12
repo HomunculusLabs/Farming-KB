@@ -6,7 +6,7 @@ type: concept
 
 # Urban Permaculture Systems
 
-Urban permaculture transforms cities from wasteful consumers into productive food-generating ecosystems. By reclaiming vacant land, recycling organic waste, retrofitting buildings for energy efficiency, and using every available surface for growing food, urban permaculture demonstrates that high-density settlement and food production are not only compatible but mutually reinforcing.
+Urban [[permaculture]] transforms cities from wasteful consumers into productive food-generating ecosystems. By reclaiming vacant land, recycling organic waste, retrofitting buildings for energy efficiency, and using every available surface for growing food, urban permaculture demonstrates that high-density settlement and food production are not only compatible but mutually reinforcing.
 
 ## Community Gardens and Urban Farms
 
@@ -104,7 +104,7 @@ Urban permaculture faces unique challenges including contaminated soils, limited
 - Regulatory barriers can be addressed through community advocacy and demonstration
 - Air pollution effects can be mitigated by the very plants grown in urban systems
 
-The fundamental insight of urban permaculture is that cities are not inherently wasteful or unsustainable—they become so through design choices that can be reversed. By applying permaculture principles to urban environments, cities can become net producers of food, clean water, and biological resources while reducing their ecological footprint.
+The fundamental insight of urban permaculture is that cities are not inherently wasteful or unsustainable—they become so through design choices that can be reversed. By applying [[permaculture-principles]] to urban environments, cities can become net producers of food, clean water, and biological resources while reducing their ecological footprint.
 ## See also
 
 - [[permaculture-design]]

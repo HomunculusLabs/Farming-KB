@@ -7,7 +7,7 @@ type: entity
 ## Description
 
 
-James Fox is an anthropologist and author of "Harvest of the Palm" (1977), a seminal work analysing the social changes and loss of self-reliance that followed the abandonment of ancient and balanced palm polycultures in Indonesia. His work is cited by Bill Mollison as a rare example of scholarship documenting how traditional tropical agricultural systems maintained social and ecological stability over long periods.
+James Fox is an anthropologist and author of "Harvest of the Palm" (1977), a seminal work analysing the social changes and loss of self-reliance that followed the abandonment of ancient and balanced palm polycultures in Indonesia. His work is cited by [[bill-mollison]] as a rare example of scholarship documenting how traditional tropical agricultural systems maintained social and ecological stability over long periods.
 
 ## Classification
 

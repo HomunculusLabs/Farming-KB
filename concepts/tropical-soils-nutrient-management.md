@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Tropical soils present unique challenges for sustainable agriculture. Unlike temperate soils that are renewed by glaciation, most tropical soils are ancient, deeply weathered, and heavily leached. Understanding their chemistry and developing appropriate management strategies is essential for any permaculture design in tropical and subtropical regions.
+Tropical soils present unique challenges for sustainable agriculture. Unlike temperate soils that are renewed by glaciation, most tropical soils are ancient, deeply weathered, and heavily leached. Understanding their chemistry and developing appropriate management strategies is essential for any [[permaculture-design]] in tropical and subtropical regions.
 
 ## Fundamental Characteristics of Tropical Soils
 
@@ -16,7 +16,7 @@ Most tropical soils are old, deeply leached, and deficient in silica and calcium
 
 ### Cation Exchange Capacity (CEC)
 
-In tropical clays, aluminium ions substitute for some silica ions, giving soil particles a net negative charge. The cation exchange capacity (CEC) — the soil's ability to hold nutrients against leaching — is directly affected by pH. As pH increases (becomes more alkaline), the negative charge on soil particles increases, improving their ability to retain calcium, sodium, and phosphates. This relationship between pH and CEC is a critical factor in tropical soil management.
+In tropical clays, aluminium ions substitute for some silica ions, giving soil particles a net negative charge. The [[cation-exchange-capacity]] (CEC) — the soil's ability to hold nutrients against leaching — is directly affected by pH. As pH increases (becomes more alkaline), the negative charge on soil particles increases, improving their ability to retain calcium, sodium, and phosphates. This relationship between pH and CEC is a critical factor in tropical soil management.
 
 ## Strategies for Restoring Tropical Soil Fertility
 

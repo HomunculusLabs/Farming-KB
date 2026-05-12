@@ -25,7 +25,7 @@ The fundamental strategy is to allocate approximately 1 hectare of field to ever
 - **Concrete or stone gutters** on bare domes to collect and direct runoff.
 - **Rock slab gutters** or concreted drains to serve household water needs.
 - **Small tanks** with access ramps for wildlife (pigeon, quail, small mammals, frogs), thatched to retard evaporation and exclude large animals.
-- **Shallow mulch-filled valleys** on the massif itself, where soils are mainly humus and can support trees, yams, and other vegetation.
+- **Shallow mulch-filled valleys** on the massif itself, where soils are mainly [[humus]] and can support trees, yams, and other vegetation.
 
 Occasionally, steep and shaded clefts on inselbergs present sites for rock dams, but for the most part, partly sealed tanks and infiltration basins must suffice. Larger systems (100 hectares or more) have been occupied in historical times by careful and conservative peoples, usually as base camps for long-range foraging after rains. Each has a special character that calls for very sensitive and restricted occupancy — developing and protecting natural resources rather than attempting extensive systems.
 
@@ -80,7 +80,7 @@ The strategy for these violent flows is not to dam them directly (which would fi
 
 ## See Also
 
-- Desert Scarps and Wadis
+- [[desert-scarps-and-wadis]]
 - Water Storage in Scarp and Wadi Landscapes
 - Basin and Range Topography
 - Desert Forestry

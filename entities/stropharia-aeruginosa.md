@@ -34,7 +34,7 @@ Stropharia aeruginosa was first described as Agaricus aeruginosus by William Cur
 
 The species epithet "aeruginosa" refers to the blue-green patina characteristic of weathered copper. Several historical synonyms exist, including Agaricus cyaneus and Stropharia cyanea.
 
-Molecular phylogenetic studies have confirmed its placement within Stropharia sensu stricto, closely allied with Stropharia caerulea and Stropharia hornemannii. The genus Stropharia is characterized by a viscid cap surface, a membranous partial veil, and purple-brown spore prints.
+Molecular phylogenetic studies have confirmed its placement within Stropharia sensu stricto, closely allied with [[stropharia-caerulea]] and Stropharia hornemannii. The genus Stropharia is characterized by a viscid cap surface, a membranous partial veil, and purple-brown spore prints.
 
 The cap measures 3–8 cm in diameter, initially convex before flattening with a low umbo. Young specimens display a vivid blue-green color, often with scattered white veil remnants on the surface.
 
@@ -82,7 +82,7 @@ As a saprophytic decomposer, Stropharia aeruginosa contributes to the breakdown 
 
 The species supports woodland nutrient cycling by releasing enzymes that depolymerize complex plant polymers. This enzymatic activity makes nitrogen and other minerals bioavailable to plants and soil microorganisms.
 
-In laboratory culture, the mycelium grows rapidly on malt extract agar and produces a characteristic sweet odor. The species is relatively easy to culture, making it accessible for physiological and biochemical studies.
+In laboratory culture, the mycelium grows rapidly on [[malt-extract-agar]] and produces a characteristic sweet odor. The species is relatively easy to culture, making it accessible for physiological and biochemical studies.
 
 Like other Stropharia species, it may have potential applications in mycoremediation and mycofiltration systems. Research into its enzymatic capabilities and bioactive metabolite production remains ongoing.
 

@@ -6,7 +6,7 @@ type: concept
 
 # Evolving Polyculture Design
 
-Polyculture design is the art and science of assembling many plant and animal species into productive, self-maintaining systems. The process of evolving a polyculture begins with thorough site planning and earthworks, proceeds through strategic species placement, and matures into a complex food forest that requires progressively less external input while producing increasingly diverse yields.
+Polyculture design is the art and science of assembling many plant and animal species into productive, self-maintaining systems. The process of evolving a polyculture begins with thorough site planning and earthworks, proceeds through strategic species placement, and matures into a complex [[food-forest]] that requires progressively less external input while producing increasingly diverse yields.
 
 ## Establishing a New Polyculture
 
@@ -14,7 +14,7 @@ When starting a permaculture on grasslands or compacted soils, the first step is
 
 On these loosened soils and in mulched swales, a mix of tree legumes, fruits, bananas, papayas, arrowroot (Canna), cassava, sweet potato, and comfrey should be co-planted at approximately one plant every 1-1.5 meters. Specific spacings include: Acacia at 3 × 3 m, banana at 2 × 2 m, fruits at 5 × 8 m, and palms at 10 × 10 m, with smaller species filling gaps between.
 
-All larger planting holes should be seeded with a diverse non-grass cover crop mix: nasturtium, Dolichos, Haifa clover, broad bean (fava), buckwheat, Umbelliferae (dill, fennel), lupin, vetch, dun peas, chilies, pigeon pea, or any useful species suitable to the climate. The aim is to completely carpet and overshade the ground within the first 18-20 months of growth.
+All larger planting holes should be seeded with a diverse non-grass [[cover-crop]] mix: nasturtium, Dolichos, Haifa clover, broad bean (fava), buckwheat, Umbelliferae (dill, fennel), lupin, vetch, dun peas, chilies, pigeon pea, or any useful species suitable to the climate. The aim is to completely carpet and overshade the ground within the first 18-20 months of growth.
 
 Dense plantings should be grass or hay mulched using monsoon grasses and swamp grasses initially, later replaced by tops of arrowroot, comfrey, banana, and Acacia. Shade-loving species such as coffee and dry taro can then be placed in any open spots. Paths for access, openings for annual crops, bee plants on edges, flowers, and fire-resistant ground covers such as comfrey, Tradescantia, Impatiens, and succulents are added over time, while fruit trees are kept grass-free and mulched by cutting crowded Acacia and banana.
 

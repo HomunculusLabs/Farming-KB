@@ -173,7 +173,7 @@ Mollison's designers' checklist:
 
 - **Zone 1 (home garden):** 30-90 species, maximizing diversity with
   adapted high-value foods in the most intensively managed area
-- **Zone 2 (food forest/orchard):** 7-20 main crop species with
+- **Zone 2 ([[food-forest]]/orchard):** 7-20 main crop species with
   supporting understory, concentrating on high-value crops
 - **No bare soil:** every surface covered with mulch, groundcovers, or
   living roots to prevent erosion and nutrient leaching

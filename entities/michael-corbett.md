@@ -11,8 +11,8 @@ tags: [people, permaculture, urban-design, water-harvesting, california]
 
 **Michael Corbett** is a designer and developer best known as the creator of
 **Village Homes** in Davis, California, USA — a pioneering suburban development
-that integrated permaculture principles including extensive swale systems,
-passive solar design, common orchard areas, and natural drainage. Village Homes
+that integrated [[permaculture-principles]] including extensive swale systems,
+[[passive-solar-design]], common orchard areas, and natural drainage. Village Homes
 is one of the most-cited examples of ecological suburban design in the
 permaculture literature.
 

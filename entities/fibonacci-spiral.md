@@ -52,7 +52,7 @@ biological growth and form.
 2. **Romanesco broccoli** — spiral of spirals of spirals (fractal)
 3. **Pine cones** — spiral scale patterns
 4. **Nautilus shells** — logarithmic spiral approximating golden spiral
-5. **Branching patterns** — tree branches, root systems, mycelial networks
+5. **Branching patterns** — tree branches, root systems, [[mycelial-networks]]
 6. **Leaf arrangement** (phyllotaxis) — optimised for light capture
 
 

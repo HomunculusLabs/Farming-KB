@@ -6,7 +6,7 @@ type: concept
 
 # Total Garden Design Integration
 
-A total garden design integrates the house, garden, livestock, water systems, and energy systems into a single functioning ecosystem where every element serves multiple purposes and every output becomes an input for another element. Based on collaborative work between permaculture designers and researchers across tropical and subtropical regions, this approach creates self-sustaining food production systems that amortize their construction cost within 4–7 years when paired with a two-garden development.
+A total garden design integrates the house, garden, livestock, water systems, and energy systems into a single functioning ecosystem where every element serves multiple purposes and every output becomes an input for another element. Based on collaborative work between [[permaculture]] designers and researchers across tropical and subtropical regions, this approach creates self-sustaining food production systems that amortize their construction cost within 4–7 years when paired with a two-garden development.
 
 ## The House as System Hub
 
@@ -56,7 +56,7 @@ Banana circles receive water from the hand basin and kitchen sink. They can also
 
 ### Zone C: Greywater Treatment Zone
 
-The "dry" water patch contains no direct food plants and no root crops. Only vigorous, damp-tolerant, manure-tolerant green forage crops grow here: comfrey, banna grass, lemongrass, and legumes. These are regularly cut and removed either to animal pens as green feed or to garden beds as mulch. The area is sunken and surrounded by a bank supporting pigeon pea, papaya, banana, or all of these. This zone safely processes all toilet and sink water through biological filtration before the nutrients reach food-producing areas.
+The "dry" water patch contains no direct food plants and no root crops. Only vigorous, damp-tolerant, manure-tolerant green forage crops grow here: [[comfrey]], banna grass, lemongrass, and legumes. These are regularly cut and removed either to animal pens as green feed or to garden beds as mulch. The area is sunken and surrounded by a bank supporting pigeon pea, papaya, banana, or all of these. This zone safely processes all toilet and sink water through biological filtration before the nutrients reach food-producing areas.
 
 ### Zones D and D*: Avenue Crops
 

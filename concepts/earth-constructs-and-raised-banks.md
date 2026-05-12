@@ -6,7 +6,7 @@ type: concept
 
 # Earth Constructs and Raised Banks
 
-Wherever earth is dug, banks are raised. In permaculture design, earth constructs — banks, mounds, walls, and raised platforms — serve as multi-functional landscape elements that provide shelter, control water, create growing surfaces, and shape microclimates. Unlike conventional engineering that treats excavated material as waste ("spoil"), permaculture regards earth moved during construction as a resource to be carefully sorted, stockpiled, and redeployed for permanent beneficial ends.
+Wherever earth is dug, banks are raised. In [[permaculture-design]], earth constructs — banks, mounds, walls, and raised platforms — serve as multi-functional landscape elements that provide shelter, control water, create growing surfaces, and shape microclimates. Unlike conventional engineering that treats excavated material as waste ("spoil"), [[permaculture]] regards earth moved during construction as a resource to be carefully sorted, stockpiled, and redeployed for permanent beneficial ends.
 
 ## Principles of Earth Construction
 

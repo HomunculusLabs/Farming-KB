@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Establishing productive permaculture systems in cool temperate climates requires specific strategies for dealing with frost, wind, poor soils, and aggressive pioneer weeds. Rather than fighting against succession, permaculture design harnesses natural pioneer species as nurse crops, using their vigor to prepare sites for productive tree crops. The examples documented here span New Zealand, Tasmania, the American West, and Germany, illustrating a coherent approach to cool climate establishment.
+Establishing productive permaculture systems in cool temperate climates requires specific strategies for dealing with frost, wind, poor soils, and aggressive pioneer weeds. Rather than fighting against succession, [[permaculture-design]] harnesses natural pioneer species as nurse crops, using their vigor to prepare sites for productive tree crops. The examples documented here span New Zealand, Tasmania, the American West, and Germany, illustrating a coherent approach to cool climate establishment.
 
 ## Gorse as a Pioneer Nurse Crop
 

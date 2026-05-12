@@ -6,7 +6,7 @@ type: concept
 
 # [[essential-plant-elements-hydrogen-boron-carbon-nitrogen|Essential]] Soil Macronutrients
 
-The essential macronutrients form the chemical foundation of soil fertility and plant health. Derived from parent rock minerals, atmospheric inputs, and biological cycling, these elements determine the capacity of soils to support plant and animal life. Understanding their roles, sources, and toxicity thresholds is fundamental to sustainable land management and permaculture design.
+The essential macronutrients form the chemical foundation of soil fertility and plant health. Derived from parent rock minerals, atmospheric inputs, and biological cycling, these elements determine the capacity of soils to support plant and animal life. Understanding their roles, sources, and toxicity thresholds is fundamental to sustainable land management and [[permaculture-design]].
 
 ## Hydrogen (H)
 
@@ -14,11 +14,11 @@ Hydrogen is an extremely mobile and reactive gaseous element. The concentration 
 
 ### Chemical Roles
 
-Hydrogen combines with several elements and organic substances to form acids. It combines with oxygen as hydroxyl (OH⁻) or water (H₂O) — the basic gaseous and liquid elements of life. Combined with carbon as **methane (CH₄)**, hydrogen is emitted by decaying humus in anaerobic (airless) environments such as under water, in compacted soils, or in boggy ground.
+Hydrogen combines with several elements and organic substances to form acids. It combines with oxygen as hydroxyl (OH⁻) or water (H₂O) — the basic gaseous and liquid elements of life. Combined with carbon as **methane (CH₄)**, hydrogen is emitted by decaying [[humus]] in anaerobic (airless) environments such as under water, in compacted soils, or in boggy ground.
 
 ### Practical Soil Indicators
 
-Soils producing methane typically display a **mottled profile** and may appear bluish, yellow, or contain iron stains and nodules. These visual indicators signal wet-season waterlogging — critical information for plant placement in permaculture designs. A sulphurous smell in subsoils is a reliable guide to seasonal waterlogging and should be noted for plants intolerant of stagnant water.
+Soils producing methane typically display a **mottled profile** and may appear bluish, yellow, or contain iron stains and nodules. These visual indicators signal wet-season waterlogging — critical information for plant placement in [[permaculture]] designs. A sulphurous smell in subsoils is a reliable guide to seasonal waterlogging and should be noted for plants intolerant of stagnant water.
 
 Methane is a component of marsh gas and of biogas produced by digesters, usually associated with carbon dioxide and sulphur dioxide — the characteristic gases of decomposition. Some plants, especially algae and rushes, can transpire hydrogen and in doing so break down halogenated hydrocarbons used in pesticides and herbicides, offering a biological remediation pathway.
 
@@ -108,7 +108,7 @@ Soil aeration is achieved through:
 
 ### Deep Soil Requirement
 
-Soils need good open pore spaces to a depth of **1–2 metres (3–6 feet)**. Large soil pore spaces are only achieved by soil life and perennial crops — annual monocultures on compacted soils cannot maintain adequate aeration.
+Soils need good open pore spaces to a depth of **1–2 metres (3–6 feet)**. Large soil pore spaces are only achieved by [[soil-life]] and perennial crops — annual monocultures on compacted soils cannot maintain adequate aeration.
 
 ## Fluorine (F)
 

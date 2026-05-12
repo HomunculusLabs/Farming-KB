@@ -6,7 +6,7 @@ type: concept
 
 # Integrated House-Garden System Elements
 
-The total design for a permaculture house and garden integrates every element — structure, water, waste, food production, animal systems, and energy — into a single functioning ecosystem. Based on designs from Brazil (by Margrit Kennedy and Bill Mollison) and adapted for tropical and subtropical conditions, the system demonstrates how a climatically appropriate house of local brick and tiles can amortize in 4–7 years if a productive garden is developed alongside it.
+The total design for a [[permaculture]] house and garden integrates every element — structure, water, waste, food production, animal systems, and energy — into a single functioning ecosystem. Based on designs from Brazil (by Margrit Kennedy and [[bill-mollison]]) and adapted for tropical and subtropical conditions, the system demonstrates how a climatically appropriate house of local brick and tiles can amortize in 4–7 years if a productive garden is developed alongside it.
 
 ## The House Structure
 

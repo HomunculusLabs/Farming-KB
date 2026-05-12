@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Dune country represents both one of the most challenging and most rewarding environments for desert permaculture. Sands occur on pavements or as dunefields (sand seas), taking characteristic forms depending on wind intensity, duration, streamlines and velocity, and the supply of sand downwind. Dunes function as enormous freshwater reservoirs, and when properly stabilised, they support productive tree systems.
+Dune country represents both one of the most challenging and most rewarding environments for desert [[permaculture]]. Sands occur on pavements or as dunefields (sand seas), taking characteristic forms depending on wind intensity, duration, streamlines and velocity, and the supply of sand downwind. Dunes function as enormous freshwater reservoirs, and when properly stabilised, they support productive tree systems.
 
 ## Dune Types
 
@@ -28,7 +28,7 @@ A critical insight for desert design is that dunes function as large water tanks
 - The surface to a few metres may have only **4% water**
 - At about **6 metres** depth, damp sands are found
 - At **40 metres**, saturated sands occur
-- Some dune fields with humus and dust particles will support quite dense vegetation (**50% cover**)
+- Some dune fields with [[humus]] and dust particles will support quite dense vegetation (**50% cover**)
 - Others are almost sterile and lack basic plant nutrients
 
 Any traveller in vegetated deserts will notice that the largest trees (sometimes the only trees) stand in the dune ridges. This is true of dunes on harder pavement, dunes on clay with a strong base pavement, coastal dune hollows, and deflation hollows in sands. Dunes represent a reservoir of freshwater, much as the coral sands of an atoll hold rain which "floats" on salt water — the enormous surface area of sand grains allows water to adhere and rapid infiltration of rain is possible.

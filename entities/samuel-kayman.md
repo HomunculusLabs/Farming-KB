@@ -47,7 +47,7 @@ methodology.
   - **Leaf litter distribution** — patterns of organic matter accumulation
 - These observations led directly to **design strategies** for the site.
 - The visit exemplifies **Method of Design No. 2 (Observation)** as one of
-  Mollison's core permaculture design methods.
+  Mollison's core [[permaculture-design-methods]].
 - New England climate: cold temperate, significant snowfall, acidic forest soils.
 
 

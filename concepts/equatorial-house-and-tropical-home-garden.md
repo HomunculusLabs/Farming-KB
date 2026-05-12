@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In equatorial and tropical regions, permaculture design demands a fundamentally different approach to housing and food production compared to temperate zones. Sun orientation is less critical than wind access; cooling relies on airflow rather than thermal mass; and the seasonal calendar is driven by wet and dry periods rather than temperature. Bill Mollison's guidance integrates architecture, horticulture, animal systems, and disaster preparedness into a unified tropical design strategy.
+In equatorial and tropical regions, permaculture design demands a fundamentally different approach to housing and food production compared to temperate zones. Sun orientation is less critical than wind access; cooling relies on airflow rather than thermal mass; and the seasonal calendar is driven by wet and dry periods rather than temperature. [[bill-mollison]]'s guidance integrates architecture, horticulture, animal systems, and disaster preparedness into a unified tropical design strategy.
 
 ## Equatorial House Essentials
 
@@ -23,7 +23,7 @@ Equatorial house sites are chosen primarily for **prevailing wind exposure** rat
 - **Light, permeable wall materials** (woven bamboo, thatch screens, timber lattice) allow air movement even when openings are closed.
 - **Vertical louvres and shutters** provide adjustable ventilation and rain protection.
 - **White or reflective wall surfaces** reduce radiant heat absorption.
-- Heat sources (kitchens, kilns, composting toilets) should be **detached** from the main living structure.
+- Heat sources (kitchens, kilns, [[composting-toilets]]) should be **detached** from the main living structure.
 
 ### Roofing
 

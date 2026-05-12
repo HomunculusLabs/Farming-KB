@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[soil-ph]] is the single most important chemical property governing nutrient availability, plant health, and microbial activity. Permaculture designers must understand pH dynamics to make informed decisions about soil amendments, crop selection, and site management. This concept covers the pH scale, acid-alkaline classification of rocks and soils, nutrient availability across pH ranges, and practical amelioration strategies for different soil types and climates.
+[[soil-ph]] is the single most important chemical property governing nutrient availability, plant health, and microbial activity. [[permaculture]] designers must understand pH dynamics to make informed decisions about soil amendments, crop selection, and site management. This concept covers the pH scale, acid-alkaline classification of rocks and soils, nutrient availability across pH ranges, and practical amelioration strategies for different soil types and climates.
 
 ## The pH Scale
 
@@ -58,7 +58,7 @@ Acids and alkalis arise from the solution of oxides, hydroxides, sulphates, or c
 - Minerals: [[iron-cobalt-nickel-copper-zinc-in-soils|Iron]], zinc, aluminium, copper
 
 ### Non-metals (release negative OH⁻ ions):
-- Silicon, sulphur, traces of phosphorus, boron, fluorine, chlorides
+- [[silicon]], sulphur, traces of phosphorus, boron, fluorine, chlorides
 - Carbon (found in organic soils)
 
 ## Materials for Raising Soil pH
@@ -69,7 +69,7 @@ All of the following are used to raise pH values (increase alkalinity) in soils:
 |----------|------------|
 | **Chalk** | Calcium carbonate |
 | **Limestone** | Calcium carbonate |
-| **Gypsum** | Calcium sulphate |
+| **[[gypsum]]** | Calcium sulphate |
 | **Magnesite** | Magnesium carbonate |
 | **Dolomite** | Calcium magnesium carbonate |
 

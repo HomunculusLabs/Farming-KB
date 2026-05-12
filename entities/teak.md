@@ -37,7 +37,7 @@ Mollison mentions teak in the context of dry-deciduous tropical broadleaf forest
 
 - **Forest composition**: Identified as a key species in the dry-deciduous broadleaf forests that characterize the monsoon tropics, alongside bamboo. These forests once covered vast areas of India and Southeast Asia but have been devastated by population pressure, deforestation, and marginal agriculture.
 - **High-value agroforestry component**: Teak represents one of the most economically productive long-term tree crops for tropical regions with appropriate climate, combining timber value with ecological function.
-- **Soil improvement through leaf litter**: Large deciduous leaves create a thick mulch layer during the dry season, contributing to humus formation and nutrient cycling in tropical soils where organic matter is critical for maintaining cation exchange capacity.
+- **Soil improvement through leaf litter**: Large deciduous leaves create a thick mulch layer during the dry season, contributing to humus formation and nutrient cycling in tropical soils where organic matter is critical for maintaining [[cation-exchange-capacity]].
 - **Dry-deciduous forest restoration**: As a native component of these endangered ecosystems, teak planting can form part of broader ecological restoration strategies in monsoon-affected tropical areas.
 
 ## Ecological Considerations

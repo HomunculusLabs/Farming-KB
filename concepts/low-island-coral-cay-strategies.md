@@ -6,7 +6,7 @@ type: concept
 
 # Low Island and Coral Cay Strategies
 
-Low islands, coral sand cays, and atolls present some of the most challenging environments for human settlement and food production. Lying mostly within 28 degrees of the equator, these fragile landforms face hurricanes, limited freshwater, poor soils, and nutritional constraints. Careful permaculture design approaches are essential to manage the known risks while building sustainable food, water, and shelter systems.
+Low islands, coral sand cays, and atolls present some of the most challenging environments for human settlement and food production. Lying mostly within 28 degrees of the equator, these fragile landforms face hurricanes, limited freshwater, poor soils, and nutritional constraints. Careful [[permaculture-design]] approaches are essential to manage the known risks while building sustainable food, water, and shelter systems.
 
 ## Environmental Challenges
 
@@ -20,7 +20,7 @@ On atolls and coral cays, soil conditions are inherently difficult:
 - **Thin coralline sand** overlies a hardpan of caliche or calcrete
 - **Calcrete worsens** with application of superphosphate
 
-**Soil amendments:** Elemental sulphur, iron sulphates, and humus lower pH. Humus sources include palm fronds, coconut husks, tree trunks, and leaf litter from pioneer species such as *Casuarina equisetifolia*, sea grape (*Coccolobus unifera*), coastal shrubs (*Scaevola*, *Tournefortia*, *Pemphis*), mangroves, and *Barringtonia* trees.
+**Soil amendments:** Elemental sulphur, iron sulphates, and humus lower pH. Humus sources include palm fronds, coconut husks, tree trunks, and leaf litter from pioneer species such as *[[casuarina-equisetifolia]]*, sea grape (*Coccolobus unifera*), coastal shrubs (*Scaevola*, *Tournefortia*, *Pemphis*), mangroves, and *Barringtonia* trees.
 
 ### Water Supply
 

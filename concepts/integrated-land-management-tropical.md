@@ -54,7 +54,7 @@ Artificial reef systems of tires (on sand), coral blocks, and boxes of palm trun
 
 ## Windbreaks for Tropical Settlements
 
-Primary tall windbreaks of Araucaria, Cupressus, Casuarina, Pinus, hardy Phoenix palms, and even mangroves may be needed in front-line locations, followed in the lee by hardy quickset species such as Euphorbia tirucalli, Coprosma repens, and Echium fastuosum. It is always best to find local plant species well-adapted to the district.
+Primary tall windbreaks of Araucaria, Cupressus, Casuarina, Pinus, hardy Phoenix palms, and even mangroves may be needed in front-line locations, followed in the lee by hardy quickset species such as [[euphorbia-tirucalli]], [[coprosma-repens]], and Echium fastuosum. It is always best to find local plant species well-adapted to the district.
 
 Acacia tortilis is ideal for cut-and-build fences. When cutting Euphorbia, eye protection with goggles is essential, and skin should be covered if allergic to the milky sap.
 

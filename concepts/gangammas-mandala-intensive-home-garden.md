@@ -41,7 +41,7 @@ A circular sunken path 0.6–1 meter (2–3 feet) wide is covered with sawdust o
 Around each keyhole, a bed 1.5–2 meters (5–6 feet) wide is constructed:
 1. Edge-banked with soil 10–20 cm (4–8 inches) high to prevent water run-off
 2. Papered and mulched (as for the banana circle)
-3. Separated from the next bed by thin strips of lemongrass (*Cymbopogon citratus*) or Vetiver grass (*Vetiveria zizanioides*)
+3. Separated from the next bed by thin strips of lemongrass (*[[cymbopogon-citratus]]*) or Vetiver grass (*Vetiveria zizanioides*)
 
 This creates six major keyhole beds, each accessible from the central path without the gardener needing to step on cultivated soil. The keyhole design maximizes growing area while minimizing path space and providing easy access to all plants.
 

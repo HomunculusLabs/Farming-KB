@@ -65,7 +65,7 @@ Crops suited to dry terrace cultivation include:
 
 ## Slope Stability with Grass Strips
 
-Contour strips of Vetiver grass (*Vetiveria zizanioides*), lemongrass (*Cymbopogon citratus*), and banna grass (*Pennisetum*) combined with tree legumes can replace contour ridges entirely. These strips trap soil particles, provide mulch for trees and intercrops, and represent a cost-effective way to "terrace" even on steep slopes. Both Vetiver and lemongrass clump readily, produce few seeds (reducing invasiveness), and provide substantial mulch material.
+Contour strips of [[vetiver-grass]] (*Vetiveria zizanioides*), lemongrass (*[[cymbopogon-citratus]]*), and banna grass (*Pennisetum*) combined with tree legumes can replace contour ridges entirely. These strips trap soil particles, provide mulch for trees and intercrops, and represent a cost-effective way to "terrace" even on steep slopes. Both Vetiver and lemongrass clump readily, produce few seeds (reducing invasiveness), and provide substantial mulch material.
 
 ## Essentials and Variations
 

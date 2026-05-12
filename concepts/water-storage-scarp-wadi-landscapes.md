@@ -10,7 +10,7 @@ The scarp and wadi landscape provides one of the most productive frameworks for 
 
 ## Upper Surface Water Harvesting
 
-Water management begins on the top erosion surface (the peneplain). Stone and cement dams can be erected across the generally gentle valleys of the upper plateau to hold clean water. These dams should be fitted with plugs or base pipes to release flood water more gently after the initial surge.
+[[water-management]] begins on the top erosion surface (the peneplain). Stone and cement dams can be erected across the generally gentle valleys of the upper plateau to hold clean water. These dams should be fitted with plugs or base pipes to release flood water more gently after the initial surge.
 
 Additional strategies on the upper surface include:
 
@@ -69,7 +69,7 @@ The wadi system offers many special niches for utilisation, and a rich flora and
 
 ## See Also
 
-- Desert Scarps and Wadis
+- [[desert-scarps-and-wadis]]
 - Nabatean Water Harvesting Systems
 - Desert Forestry
 - Dune Stabilisation Strategies

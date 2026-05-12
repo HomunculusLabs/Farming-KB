@@ -6,7 +6,7 @@ type: concept
 
 # Excavation Tools and Drilling Methods
 
-Beyond the primary earthmoving machines used for large-scale grading and terracing, permaculture earthworks rely on a range of specialized excavation and drilling tools for creating wells, trenches, post holes, foundations, and bore holes. These tools range from simple hand-operated augers to sophisticated hydraulic systems, and even include the judicious use of explosives for otherwise intractable ground conditions.
+Beyond the primary earthmoving machines used for large-scale grading and terracing, [[permaculture-earthworks]] rely on a range of specialized excavation and drilling tools for creating wells, trenches, post holes, foundations, and bore holes. These tools range from simple hand-operated augers to sophisticated hydraulic systems, and even include the judicious use of explosives for otherwise intractable ground conditions.
 
 ## Augers and Drills
 

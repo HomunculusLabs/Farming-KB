@@ -36,7 +36,7 @@ Leucaena is a genus of fast-growing tropical leguminous trees and shrubs in the 
 
 Mollison identifies Leucaena as a critical species for restoring tropical soil fertility. In the humid tropics chapter, he specifically recommends Leucaena and tree legumes generally for restoring humus to degraded tropical soils. Key permaculture applications include:
 
-- **Soil restoration**: Planted as a green manure crop to rebuild humus layers in deeply leached tropical soils where cation exchange capacity has been depleted by clearing.
+- **Soil restoration**: Planted as a green manure crop to rebuild humus layers in deeply leached tropical soils where [[cation-exchange-capacity]] has been depleted by clearing.
 - **Intercropping**: Used as a perennial nitrogen-fixing companion in multi-storied tropical polycultures, providing shade, mulch, and nitrogen simultaneously.
 - **Swale plantings**: Listed among productive species for tropical swale systems, contributing biomass and nitrogen to adjacent crop rows.
 - **Erosion control**: Fast establishment on degraded sites stabilizes soils and begins the process of ecological succession.

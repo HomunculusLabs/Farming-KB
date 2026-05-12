@@ -34,9 +34,9 @@ Anabaena is a genus of filamentous nitrogen-fixing cyanobacteria that forms a sy
 
 
 - **Tropical mulch production**: Azolla-Anabaena mats are harvested from ponds and shallow bunds as nitrogen-rich mulch for vegetable gardens, taro terraces, and tree plantings
-- **Soil building**: When incorporated into soil, the decomposing fern-cyanobacterium complex adds both organic matter (humus) and nitrogen, improving cation exchange capacity (CEC) in leached tropical soils
+- **Soil building**: When incorporated into soil, the decomposing fern-cyanobacterium complex adds both organic matter (humus) and nitrogen, improving [[cation-exchange-capacity]] (CEC) in leached tropical soils
 - **Fungal substrate enrichment**: The nitrogen-rich organic matter supports diverse soil microbial communities including beneficial fungi involved in decomposition and nutrient cycling
-- **Water management**: Azolla-Anabaena can be cultivated in seasonally flooded areas, turning otherwise unproductive water surfaces into mulch factories
+- **[[water-management]]**: Azolla-Anabaena can be cultivated in seasonally flooded areas, turning otherwise unproductive water surfaces into mulch factories
 - **Integration with taro systems**: Traditional Hawaiian agriculture uses Azolla as a living mulch in taro terraces, where it suppresses weeds and provides nitrogen directly to the crop
 - **Compost activator**: The high nitrogen content makes Azolla-Anabaena biomass an excellent compost activator, accelerating the breakdown of carbon-rich materials like palm fronds and sawdust
 

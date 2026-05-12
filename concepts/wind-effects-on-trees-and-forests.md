@@ -42,7 +42,7 @@ Beyond capturing aerially transported nutrients, trees actively mine base rock a
 
 ## The Griggs and Putnam Wind Index
 
-The effect of wind on trees can be quantified using the Griggs and Putnam index, which relates observed tree deformation to mean annual wind speed. The index classifies deformation into eight categories:
+The effect of wind on trees can be quantified using the [[griggs-and-putnam-index]], which relates observed tree deformation to mean annual wind speed. The index classifies deformation into eight categories:
 
 | Index | Description | Annual Mean Wind (m/s) |
 |-------|------------|----------------------|

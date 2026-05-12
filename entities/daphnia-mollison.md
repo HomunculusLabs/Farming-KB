@@ -63,7 +63,7 @@ Daphnia occupies a critical trophic position in treatment pond ecology:
 - **Aquaculture**: Natural food source for fish in integrated aquaculture systems
 - **Waste-to-value**: Can be harvested and used as poultry feed or soil amendment
 - **Toxicity testing**: Standard test organism for water quality assessment
-- **Permaculture design**: Essential component of biological wastewater treatment systems
+- **[[permaculture-design]]**: Essential component of [[biological-wastewater-treatment]] systems
 
 ## Life Cycle and Population Dynamics
 

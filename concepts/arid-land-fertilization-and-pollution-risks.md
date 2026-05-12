@@ -14,7 +14,7 @@ Fertilization practices in arid lands require a fundamentally different approach
 
 ### The Humus-First Approach
 
-Fertilisers—apart from humus and limited animal manures—should be used sparingly in arid environments. The reasoning is clear:
+Fertilisers—apart from [[humus]] and limited animal manures—should be used sparingly in arid environments. The reasoning is clear:
 
 - **Excessive green growth** subjects trees in particular to drought stress when water is limited
 - **Salt accumulation** from synthetic fertilizers compounds existing soil salinity

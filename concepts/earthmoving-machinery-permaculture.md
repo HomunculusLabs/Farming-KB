@@ -6,7 +6,7 @@ type: concept
 
 # Earthmoving Machinery in Permaculture
 
-Earthmoving machinery plays a critical role in permaculture design, enabling the rapid
+[[earthmoving-machinery]] plays a critical role in [[permaculture-design]], enabling the rapid
 shaping of landforms that would take generations to form naturally. From hand tools to
 heavy equipment, the permaculture designer must understand the capabilities, appropriate
 applications, and zone-specific use of each machine type to make informed decisions about

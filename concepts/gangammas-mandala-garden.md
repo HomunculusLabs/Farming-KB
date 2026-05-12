@@ -8,7 +8,7 @@ type: concept
 
 Gangamma's Mandala is a compact, intensively-planted home garden system designed to
 feed a family of five year-round. Originating from traditional practices in Taiwan
-and the Philippines, the design was refined by Bill Mollison using permaculture
+and the Philippines, the design was refined by [[bill-mollison]] using permaculture
 "least-path" layout principles to minimize walking distance and maximise productive
 access to every planted zone.
 
@@ -38,7 +38,7 @@ At the centre of the garden, mark out a circle 2 m (6 feet) in diameter.
 1. Excavate topsoil (or subsoil) into a dish shape with a ridged perimeter,
    0.6–1 m (2–3 feet) deep from hollow floor to rim.
 2. Cover with wet newspaper, cardboard, banana leaves, or other sheet mulch
-   to suppress weeds and begin building soil.
+   to suppress weeds and begin [[building-soil]].
 3. Fill the hollow — or over-fill as a dome — with rough organic mulch: short logs,
    coarse twigs, hay, rice husks, sawdust, and other humus-creating materials.
 4. Scatter manure, ash, lime, dolomite, or fertiliser over the mulch. Bank stones

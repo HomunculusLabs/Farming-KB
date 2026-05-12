@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Urban areas and degraded landscapes represent both the greatest challenge and the greatest opportunity for permaculture. Mollison documents how vacant lots, rooftops, walls, and food waste streams can be transformed into productive systems, while simultaneously presenting the Hawaiian *ohana* and Māori *marae* as models of integrated land management that integrate human settlements with their ecological context from hilltop to shoreline.
+Urban areas and degraded landscapes represent both the greatest challenge and the greatest opportunity for [[permaculture]]. Mollison documents how vacant lots, rooftops, walls, and food waste streams can be transformed into productive systems, while simultaneously presenting the Hawaiian *ohana* and Māori *marae* as models of integrated land management that integrate human settlements with their ecological context from hilltop to shoreline.
 
 ## Urban Agriculture
 
@@ -36,7 +36,7 @@ This reframing transforms the urban environment from an agricultural wasteland i
 
 ### Composting Urban Food Waste
 
-The Bronx Frontier group operates a small composting business — documented as "the only example of productive use of New York's food waste." The compost produced is sold off-site to create meadows over rubble-filled wastelands, completing a cycle from urban waste to urban greening.
+The Bronx Frontier group operates a small [[composting]] business — documented as "the only example of productive use of New York's food waste." The compost produced is sold off-site to create meadows over rubble-filled wastelands, completing a cycle from urban waste to urban greening.
 
 This model is particularly significant because it addresses two urban problems simultaneously: food waste disposal and the rehabilitation of degraded land.
 

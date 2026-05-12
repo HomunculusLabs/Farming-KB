@@ -108,9 +108,9 @@ Acids and alkalis arise from the solution of oxides, hydroxides, sulphates, and 
 |--------------|---------------------------|--------------------------------|
 | Chalk        | Calcium carbonate          | General purpose, slow-release  |
 | Limestone    | Calcium carbonate          | Finer grades act faster        |
-| Gypsum       | Calcium sulphate          | Does not raise pH significantly; improves structure |
+| [[gypsum]]       | Calcium sulphate          | Does not raise pH significantly; improves structure |
 | Magnesite    | Magnesium carbonate       | For Mg-deficient soils         |
-| Dolomite     | Calcium magnesium carbonate| Balances Ca and Mg simultaneously |
+| [[dolomite]]     | Calcium magnesium carbonate| Balances Ca and Mg simultaneously |
 
 ### Nutrient Availability (kg/ha)
 

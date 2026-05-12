@@ -138,5 +138,5 @@ India's monsoon forests have been devastated by centuries of population pressure
 
 - humid tropics introduction — detailed design for multi-storied garden systems
 - humid tropics introduction — swales, keyline, and storage strategies
-- humid tropics introduction — mulch, composting, and mycorrhizal networks
+- humid tropics introduction — mulch, [[composting]], and [[mycorrhizal-networks]]
 - humid tropics introduction — housing, sanitation, and domestic systems

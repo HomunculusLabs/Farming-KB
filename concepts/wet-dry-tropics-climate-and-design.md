@@ -81,7 +81,7 @@ Mollison identifies the following as critical design strategies:
 
 1. **Water storage** — the single most important element; ponds, tanks, and earthworks capture wet-season rainfall for dry-season survival
 2. **Hedgerows** — windbreaks against desiccating dry-season winds, livestock control, and microclimate creation
-3. **Tree legumes (especially *Acacia albida*)** — fix [[legume-nitrogen-fixation-mechanism|nitrogen]], provide fodder, offer shade without competing intensely with crops due to reverse leafing phenology
+3. **Tree legumes (especially *[[acacia-albida]]*)** — fix [[legume-nitrogen-fixation-mechanism|nitrogen]], provide fodder, offer shade without competing intensely with crops due to reverse leafing phenology
 4. **Improved stock breeds** — selecting livestock adapted to heat, drought, and seasonal feed scarcity
 5. **Natural herding** — mimicking migratory grazing patterns to prevent overgrazing during the vulnerable dry season
 6. **Grass [[mulching-guide|mulch]]** — conserving soil moisture, reducing temperature extremes, building organic matter
@@ -120,4 +120,4 @@ Originally forested with dry-deciduous broadleaf trees, teak, and bamboo. In Ind
 
 ## Summary
 
-The wet-dry tropics present a unique design challenge defined by the tension between seasonal abundance and seasonal scarcity. The wet season offers conditions rivaling the productive wet tropics, while the dry season imposes harsh constraints of heat, desiccation, and water shortage. Successful permaculture design in these regions centers on **capturing and storing water** from the wet season, **protecting and building soils** against [[permplant-willows-salix-erosion-control-fodder|erosion]] and degradation, **selecting adapted species** (especially deep-rooted trees and drought-tolerant perennials), and **managing fire and grazing** to maintain ecological health. The monsoon tropics variant adds the complexity of large populations and erratic rainfall, making restoration and intensive, water-wise food production equally urgent.
+The wet-dry tropics present a unique design challenge defined by the tension between seasonal abundance and seasonal scarcity. The wet season offers conditions rivaling the productive wet tropics, while the dry season imposes harsh constraints of heat, desiccation, and water shortage. Successful [[permaculture-design]] in these regions centers on **capturing and storing water** from the wet season, **protecting and building soils** against [[permplant-willows-salix-erosion-control-fodder|erosion]] and degradation, **selecting adapted species** (especially deep-rooted trees and drought-tolerant perennials), and **managing fire and grazing** to maintain ecological health. The monsoon tropics variant adds the complexity of large populations and erratic rainfall, making restoration and intensive, water-wise food production equally urgent.

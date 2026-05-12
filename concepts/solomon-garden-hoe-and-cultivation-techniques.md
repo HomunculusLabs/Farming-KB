@@ -74,7 +74,7 @@ The most reliable indicator is how the swanneck attaches:
    again a week later.
 4. Weeds from tubers or bulblets may need six to eight cuttings over
    six to eight weeks. But Solomon asserts no weed survives repetitive
-   leaf removal -- even horseradish or comfrey eventually succumbs.
+   leaf removal -- even horseradish or [[comfrey]] eventually succumbs.
 
 ## Weeding Frequency
 

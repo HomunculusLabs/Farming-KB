@@ -45,7 +45,7 @@ The fundamental challenge of desert hydrology is captured in a simple inequality
 - Potential evaporation: 100 cm (steppe) to 700 cm/year (hyperarid areas)
 - Infiltration to recharge desert aquifers: as little as **0.8%** of total rainfall
 
-An estimated **88% of water either evaporates or rushes unused across the land** during and after rain events. The central strategy of dryland permaculture is to capture and store as much of this lost water as possible.
+An estimated **88% of water either evaporates or rushes unused across the land** during and after rain events. The central strategy of dryland [[permaculture]] is to capture and store as much of this lost water as possible.
 
 ## Runoff and Stream Flow
 
@@ -92,7 +92,7 @@ The longer-term collapse of this explosion of life is slower but usually inevita
 
 ### Recruitment Cycles
 
-New generations of shrubs may experience favorable seedling conditions as rarely as **every 7-20 years**. This then becomes the period of recruitment for new forests or shrublands. Understanding and protecting these rare recruitment events is critical for long-term desert revegetation.
+New generations of shrubs may experience favorable seedling conditions as rarely as **every 7-20 years**. This then becomes the period of recruitment for new forests or shrublands. Understanding and protecting these rare recruitment events is critical for long-term [[desert-revegetation]].
 
 ## Temperature Patterns in Deserts
 

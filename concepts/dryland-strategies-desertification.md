@@ -132,7 +132,7 @@ The overarching permaculture strategy for drylands is **re-humidification** — 
 2. **Reduce bare soil evaporation** by increasing ground cover, mulching, and establishing windbreaks.
 3. **Trees transpire moisture** into the atmosphere, contributing to local humidity and potentially influencing regional rainfall patterns.
 4. **Root systems break hardpan**, improve infiltration, and cycle deep nutrients to the surface.
-5. **Leaf litter and organic matter accumulation** improve soil water-holding capacity and feed the soil food web.
+5. **Leaf litter and organic matter accumulation** improve soil water-holding capacity and feed [[the-soil-food-web]].
 6. **As the system matures**, microclimates improve, more species can establish, and the landscape progressively shifts from desert toward productive dryland forest or savanna.
 
 This is not a rapid process, but it is a proven one. Every tree planted in a dryland is an investment in long-term landscape rehabilitation. The key is to start with the toughest, most adapted species and allow succession to proceed naturally once initial conditions are established.

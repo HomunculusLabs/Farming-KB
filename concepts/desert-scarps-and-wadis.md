@@ -6,7 +6,7 @@ type: concept
 
 # Desert Scarps and Wadis
 
-Scarps and wadis are among the most significant and productive landscape features in arid environments. Understanding their formation, hydrology, and potential for human settlement is essential for permaculture design in drylands.
+Scarps and wadis are among the most significant and productive landscape features in arid environments. Understanding their formation, hydrology, and potential for human settlement is essential for [[permaculture-design]] in drylands.
 
 ## Formation and Profile Development
 
@@ -21,7 +21,7 @@ In true deserts, these profiles are less softened than in humid areas. The scarp
 
 ## Geological Structure
 
-Scarps are capped by the upper erosion surface, which consists of durable materials such as ironstones, hard sandstone bands, ferricrete, or silcrete crustal material. The cliffs and scarp faces are composed of softer rock, sometimes bauxitic (aluminum oxide) material. The lower erosion surface is covered with silts and sands washed out of the wadis and later distributed by winds.
+Scarps are capped by the upper erosion surface, which consists of durable materials such as ironstones, hard sandstone bands, [[ferricrete]], or [[silcrete]] crustal material. The cliffs and scarp faces are composed of softer rock, sometimes bauxitic (aluminum oxide) material. The lower erosion surface is covered with silts and sands washed out of the wadis and later distributed by winds.
 
 Complex box canyons (wadis ending in cliffs), mesas (isolated pieces of the main scarp), and buttes (cut-off scarp sections) create varied scarp-line configurations. Notches at the base of cliffs, formed by seepage undercutting the soft scarp material, range from tiny shelters for kangaroos to caves large enough to accommodate a six-storey house. These notches provide critical shade habitat for pigeons, owls, swallows, swifts, rodents, reptiles, and insects — shade, like water, being a critical resource in the desert.
 

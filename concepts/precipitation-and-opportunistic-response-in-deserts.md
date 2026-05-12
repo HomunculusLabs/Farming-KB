@@ -38,7 +38,7 @@ The remaining years range from partial failure to total loss, making this agricu
 
 Herding and extensive livestock operations occupy far greater areas than cropped land in these zones. Seasonal and nomadic herding patterns have evolved as rational responses to unpredictability.
 
-Animals are moved to follow available forage, distributing grazing pressure across the landscape rather than concentrating it until degradation sets in. This mobility is itself a form of land management that permaculture design should seek to integrate rather than replace.
+Animals are moved to follow available forage, distributing grazing pressure across the landscape rather than concentrating it until degradation sets in. This mobility is itself a form of land management that [[permaculture-design]] should seek to integrate rather than replace.
 
 ## Precipitation Patterns
 
@@ -84,7 +84,7 @@ This was a celebration of the cycle of plenty that rain brings to the desert —
 
 Crucially, walkabout also served a conservation function: by lightening the burden on favoured home areas during lean times, it allowed those areas to regenerate as reserves for future use. The practice represents a sophisticated understanding of desert ecology — reading the land, timing movement to resource pulses, and never overstaying in any one area.
 
-It is a model of sustainable desert occupation that permaculture design can learn from and adapt.
+It is a model of sustainable desert occupation that [[permaculture]] design can learn from and adapt.
 
 ## Remarkable Desert Response to Rain
 

@@ -7,7 +7,7 @@ type: entity
 ## Description
 
 
-Termite mound gardening is a tropical cultivation technique that utilises the elevated, well-drained, nutrient-rich mounds created by termite and ant colonies as planting sites for crops and pioneer vegetation. Documented by Harris (1971) and expanded upon by Bill Mollison, this approach exploits the soil improvement work of social insects to establish productive gardens in otherwise challenging grassland and savannah environments.
+Termite mound gardening is a tropical cultivation technique that utilises the elevated, well-drained, nutrient-rich mounds created by termite and ant colonies as planting sites for crops and pioneer vegetation. Documented by Harris (1971) and expanded upon by [[bill-mollison]], this approach exploits the soil improvement work of social insects to establish productive gardens in otherwise challenging grassland and savannah environments.
 
 ## Classification
 
@@ -35,7 +35,7 @@ Termite mound gardening is a tropical cultivation technique that utilises the el
 - **Soil building**: Termite activity transports rotted rock and subsoil to the surface, creating mineral-rich planting sites in otherwise nutrient-poor landscapes
 - **Fungal culture**: Some termite species (Macrotermitinae) actively cultivate Termitomyces fungi in underground gardens, creating one of nature's oldest agricultural systems
 - **Decomposition acceleration**: Termites break down woody material that would otherwise take years to decompose, making nutrients available to crops faster
-- **Water management**: Mound structures create elevated, well-drained microsites in landscapes prone to flooding or waterlogging
+- **[[water-management]]**: Mound structures create elevated, well-drained microsites in landscapes prone to flooding or waterlogging
 - **Pioneer vegetation establishment**: Planting into mounds initiates ecological succession from grassland to woodland, as documented across multiple continents
 - **Niche gardening**: This technique represents a form of niche gardening widely applicable across the tropics, using natural features as planting sites
 

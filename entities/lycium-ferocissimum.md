@@ -11,7 +11,7 @@ tags: [species, barrier-plants, hedgerow, africa, permaculture-design]
 
 *Lycium ferocissimum* is an extremely thorny shrub native to southern Africa,
 used in permaculture systems as a **living barrier plant** and hedgerow species.
-It is one of the primary species recommended by Bill Mollison for constructing
+It is one of the primary species recommended by [[bill-mollison]] for constructing
 **bomas** (thorn fences) to corral livestock and protect garden compounds from
 grazing animals. Its dense, viciously spiny branches create impenetrable barriers
 without the need for wire fencing.

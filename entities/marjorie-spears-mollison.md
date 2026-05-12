@@ -7,7 +7,7 @@ type: entity
 ## Description
 
 
-Marjorie Spears is an Australian permaculture practitioner based in Queensland, Australia, known for developing practical techniques for slope rehabilitation using log barriers and green mulch systems. Her work is cited by Bill Mollison as a successful example of tropical slope reforestation and garden establishment on deforested terrain.
+Marjorie Spears is an Australian permaculture practitioner based in Queensland, Australia, known for developing practical techniques for slope rehabilitation using log barriers and green mulch systems. Her work is cited by [[bill-mollison]] as a successful example of tropical slope reforestation and garden establishment on deforested terrain.
 
 ## Classification
 

@@ -6,7 +6,7 @@ type: concept
 
 # Island Diet Diversification and Energy Resources
 
-Small island systems present some of the most constrained and therefore most instructive challenges for permaculture design. Limited land area, nutrient-poor soils, isolation from mainland supply chains, and vulnerability to climatic and oceanic forces demand tightly integrated strategies for food production, resource management, and community resilience.
+Small island systems present some of the most constrained and therefore most instructive challenges for [[permaculture-design]]. Limited land area, nutrient-poor soils, isolation from mainland supply chains, and vulnerability to climatic and oceanic forces demand tightly integrated strategies for food production, resource management, and community resilience.
 
 This concept explores the full spectrum of island adaptation — from dietary diversification and native species stewardship to marine resource enhancement, energy capture, and the existential threat of sea level rise.
 
@@ -102,7 +102,7 @@ These biomass sources are fully renewable, avoid dependence on imported fossil f
 
 ### Tidal and Ocean Current Turbines
 
-Tide-flow turbines installed at reef outlets capture energy from the daily ebb and flow of the tide. Both conventional propeller-type designs and vertical-axis "egg-beater" catenary-curve turbines can be anchored using local coral aggregate and cement at strategic reef channels where flow is concentrated.
+Tide-flow turbines installed at reef outlets capture energy from the daily [[ebb-and-flow]] of the tide. Both conventional propeller-type designs and vertical-axis "egg-beater" catenary-curve turbines can be anchored using local coral aggregate and cement at strategic reef channels where flow is concentrated.
 
 Both tidal flow and continuous ocean currents deliver dense energy — approximately 1 kilowatt per square metre per second of flow — making these among the most concentrated and predictable renewable energy sources available to island communities. Unlike solar and wind, tidal energy is precisely predictable years in advance, facilitating reliable system planning.
 

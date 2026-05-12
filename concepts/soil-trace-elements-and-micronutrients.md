@@ -36,7 +36,7 @@ Potassium is used in large quantities by plants and is usually plentiful in arid
 
 ### Removal Factors
 
-Not much potassium is removed by livestock, but intensive cropping of potatoes, beans, flax, and the export of hay may remove soil reserves below plant needs. Potassium is readily absorbed on colloids and is usually plentiful in clays, especially illites (but not kaolins).
+Not much potassium is removed by livestock, but intensive cropping of potatoes, beans, flax, and the export of hay may remove soil reserves below plant needs. Potassium is readily absorbed on [[colloids]] and is usually plentiful in clays, especially illites (but not kaolins).
 
 ### Sources and Application
 
@@ -48,7 +48,7 @@ Excess potash fertiliser can greatly increase soil sodium, blocking calcium upta
 
 ## Calcium (Ca)
 
-Calcium is needed in all soils and is removed by sodium in drylands. Even where calcium exists in alkaline areas, sodium may suppress its uptake by plants. Sometimes gypsum is applied at 30 tonnes/ha and excess sodium removed by flushing out as sodium sulphate.
+Calcium is needed in all soils and is removed by sodium in drylands. Even where calcium exists in alkaline areas, sodium may suppress its uptake by plants. Sometimes [[gypsum]] is applied at 30 tonnes/ha and excess sodium removed by flushing out as sodium sulphate.
 
 ### Ideal Ion Ratios
 
@@ -90,7 +90,7 @@ Manganese is a readily available trace element on acid soils except in sands. It
 
 ### Application Methods
 
-Remedies include seed soakage, seed pelleting, or foliar sprays. Even periodic flooding mobilises manganese. A typical deficiency situation occurs on poor sands heavily dressed with lime.
+Remedies include seed soakage, [[seed-pelleting]], or foliar sprays. Even periodic flooding mobilises manganese. A typical deficiency situation occurs on poor sands heavily dressed with lime.
 
 ### Biological Cycling
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soils contain both essential [[trace-elements-heavy-metals-permaculture|Trace]] elements and dangerous heavy metals. Understanding which elements are toxic, their sources, and how they move through biological systems is crucial for [[permaculture-design]]. Living organisms continuously concentrate, disperse, and transform elements, creating complex patterns of nutrient cycling and pollutant accumulation that the permaculture designer must work with — or risk creating toxic systems.
+Soils contain both essential [[trace-elements-heavy-metals-permaculture|Trace]] elements and dangerous heavy metals. Understanding which elements are toxic, their sources, and how they move through biological systems is crucial for [[permaculture-design]]. Living organisms continuously concentrate, disperse, and transform elements, creating complex patterns of nutrient cycling and pollutant accumulation that the [[permaculture]] designer must work with — or risk creating toxic systems.
 
 ## Zinc (Zn)
 
@@ -90,7 +90,7 @@ Arsic sometimes seems to be needed by horses and is included in chicken pellets,
 - A common poison from petrol, old paints, and battery burning
 - A serious **urban soil pollutant**
 - Needs heavy organic soils to block uptake, or removal of lead-concentrating vegetation for disposal
-- **Earthworms** may concentrate lead to lethal levels in polluted soils
+- **[[earthworms]]** may concentrate lead to lethal levels in polluted soils
 - Salt in vegetable cooking water blocks uptake of some heavy metals on plant proteins — if lead pollution is suspected, add salt to cooking waters
 
 ### Radon (Rn)
@@ -120,7 +120,7 @@ Fungi, bacteria, and invertebrates can seek out, assemble, and change specific c
 | Copper | Bacteria |
 | Selenium | Bacteria |
 | Cadmium | Bacteria |
-| Nitrogen | Root fungi (rhizobia), algae |
+| Nitrogen | Root fungi ([[rhizobia]]), algae |
 
 ### Concentration by Accumulation of Detritus
 

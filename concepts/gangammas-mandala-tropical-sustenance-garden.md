@@ -48,7 +48,7 @@ feed soil microorganisms:
 
 ### Biological Pest Control
 
-Integrated pest management in tropical gardens relies on companion plants with
+[[integrated-pest-management]] in tropical gardens relies on companion plants with
 natural insecticidal or repellent properties:
 
 - **Marigolds (*Tagetes* spp.)** — Root exudates suppress nematodes; above-ground

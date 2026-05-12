@@ -59,7 +59,7 @@ good mothers), Satin (good meat yield, beautiful sheen).
 - **Hay:** Unlimited timothy or grass hay always available — critical for
   dental and digestive health. Alfalfa for kits/pregnant does only.
 - **Greens:** Introduce gradually. Safe: [[dandelion]], plantain, clover, kale,
-  parsley, raspberry leaves, comfrey (small amounts). Toxic: rhubarb,
+  parsley, raspberry leaves, [[comfrey]] (small amounts). Toxic: rhubarb,
   potato tops, tomato leaves, foxglove.
 - **Treats (5% max):** Rolled oats, black oil sunflower seeds, apple,
   banana, carrots.

@@ -71,7 +71,7 @@ Perhaps the most ambitious aspect of the manual is its systematic treatment of d
 Strategies include tropical home gardens, integrated polycultures (particularly coconut- and palm-dominant systems), animal tractor systems for land preparation, grassland management, coast stabilisation, and special techniques for low islands and coral cays. The tropical home garden is presented as a model of intensive, multi-layered food production that has sustained communities for millennia.
 
 ### Dryland Strategies (Chapter 11)
-Water harvesting in arid lands is the central theme, along with earthshaping to capture and conserve moisture, desert house and garden design, irrigation systems, plant themes for drylands, animal systems, and the critical issue of desertification and soil salting. Special attention is given to cold and montane deserts.
+[[water-harvesting-in-arid-lands]] is the central theme, along with earthshaping to capture and conserve moisture, desert house and garden design, irrigation systems, plant themes for drylands, animal systems, and the critical issue of desertification and soil salting. Special attention is given to cold and montane deserts.
 
 ### Humid Cool to Cold Climates (Chapter 12)
 Settlement and house design for energy efficiency, home gardens, berry fruits, glasshouse growing, orchards, farm forestry, free-range forage systems, grasslands, rangelands, wildfire management, and strategies for extreme cold climates.

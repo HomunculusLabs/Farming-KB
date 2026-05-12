@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Dryland permaculture presents unique challenges: extreme temperature fluctuations, water scarcity, high evaporation, saline soils, and wind exposure. Mollison's global survey of dryland strategies reveals a consistent pattern of solutions drawn from traditional knowledge and adapted modern techniques, centered on earth-sheltered buildings, underground food systems, and interceptor banks to combat soil salinization.
+Dryland [[permaculture]] presents unique challenges: extreme temperature fluctuations, water scarcity, high evaporation, saline soils, and wind exposure. Mollison's global survey of dryland strategies reveals a consistent pattern of solutions drawn from traditional knowledge and adapted modern techniques, centered on earth-sheltered buildings, underground food systems, and interceptor banks to combat soil salinization.
 
 ## Earth-Sheltered and Underground Buildings
 
@@ -92,7 +92,7 @@ The classic interceptor bank design observed at Quairading, Western Australia:
 
 ### Evidence of Effectiveness
 
-Soil pits below interceptor banks show no throughflow and no rising salted groundwater, demonstrating that the banks successfully prevent the upward movement of saline water. At Beermullah, Western Australia, interceptors have prevented soil collapse by flooding, with rushes growing on the upslope side indicating successful water management while protecting crops below the bank.
+Soil pits below interceptor banks show no throughflow and no rising salted groundwater, demonstrating that the banks successfully prevent the upward movement of saline water. At Beermullah, Western Australia, interceptors have prevented soil collapse by flooding, with rushes growing on the upslope side indicating successful [[water-management]] while protecting crops below the bank.
 
 A series of interceptor banks in wheatfields can isolate soil blocks from both overland flow and salting effects, creating manageable units for leaching and rehabilitation.
 

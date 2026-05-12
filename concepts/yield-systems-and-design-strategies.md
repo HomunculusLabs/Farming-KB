@@ -39,7 +39,7 @@ Energy yield refers to the surplus energy managed within a system:
 
 - **Conserved energy** — energy retained that would otherwise be lost (e.g., thermal mass storing heat, windbreaks reducing evaporative loss).
 - **Stored energy** — energy captured and held for later use (e.g., biomass in timber, food preserved in root cellars, water in tanks).
-- **Generated surplus** — new energy produced beyond system needs (e.g., excess solar electricity, compost heat, surplus forage).
+- **Generated surplus** — new energy produced beyond system needs (e.g., excess solar electricity, [[compost]] heat, surplus forage).
 
 Energy yield is the foundation of system self-reliance. A system that generates more energy than it consumes is regenerative; one that runs a deficit is dependent on external inputs.
 

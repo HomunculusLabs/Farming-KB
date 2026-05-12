@@ -10,7 +10,7 @@ tags: [techniques, agroforestry, tropical-agriculture, permaculture-design]
 Avenue cropping is a tropical agroforestry technique where regularly spaced rows
 of coppiced **legume trees** are integrated with food crops planted in the avenues
 between them. The system simultaneously produces fuelwood, nitrogen-rich mulch,
-and food crops from the same land area. Developed by **Ray Wijewardene** (1981)
+and food crops from the same land area. Developed by **[[ray-wijewardene]]** (1981)
 in Sri Lanka and widely promoted in permaculture design.
 
 

@@ -6,7 +6,7 @@ type: concept
 
 # Savannah Forestry and Difficult Terrain Pioneering
 
-Savannah forestry and difficult terrain pioneering are critical components of permaculture design in tropical and subtropical regions where overgrazing, fire, and destructive land-use practices have degraded native forests. These techniques focus on restoring productive tree cover on exhausted grasslands, landslide zones, volcanic areas, and lava fields.
+Savannah forestry and difficult terrain pioneering are critical components of [[permaculture-design]] in tropical and subtropical regions where overgrazing, fire, and destructive land-use practices have degraded native forests. These techniques focus on restoring productive tree cover on exhausted grasslands, landslide zones, volcanic areas, and lava fields.
 
 ## Overview
 

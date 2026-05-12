@@ -29,7 +29,7 @@ fertility in arid agricultural systems.
 - **Category**: Person — Permaculture practitioner / Dryland farmer
 - **Domain**: Dryland agriculture, Nutrient cycling, Soil fertility
 - **Location**: Near Flinders, South Australia, Australia
-- **Specialty**: Wildlife-integrated soil fertility management
+- **Specialty**: Wildlife-integrated [[soil-fertility-management]]
 
 
 
@@ -61,7 +61,7 @@ fertility in arid agricultural systems.
 - **Guano** is rich in nitrogen, phosphorus, and potassium — key nutrients for
   fungal growth and mushroom substrate supplementation.
 - In historical practice, **bat guano** was the original substrate supplement
-  for commercial mushroom cultivation; bird guano serves a similar function.
+  for commercial [[mushroom-cultivation]]; bird guano serves a similar function.
 - Guano-enriched soil beneath roost trees develops rich **microbial and fungal
   communities** that accelerate organic matter decomposition.
 - The concentrated nutrient patches created by guano deposition can be used as

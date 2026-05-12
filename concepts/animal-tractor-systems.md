@@ -21,7 +21,7 @@ Two primary animal tractor systems are documented: the chicken tractor and the p
 Confined chicken flocks will remove all green ground cover and surface bulbils, depending on flock density relative to area size. They effectively kill or consume persistent weeds including:
 
 - Oxalis (wood sorrel)
-- Nut-grass (*Cyperus rotundus*)
+- Nut-grass (*[[cyperus-rotundus]]*)
 - Kikuyu grass (*Cenchrus clandestinus*)
 - Onion weed
 - Pasture species of Convolvulus (bindweed)

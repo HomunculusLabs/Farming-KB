@@ -8,7 +8,7 @@ type: concept
 
 Designing houses for tropical and subtropical climates requires understanding the
 interplay between temperature, humidity, radiant heat, and air movement. Mollison's
-permaculture approach integrates building design with landscape strategies to
+[[permaculture]] approach integrates building design with landscape strategies to
 achieve comfort without reliance on energy-intensive mechanical systems.
 
 ## Optimum Comfort Levels
@@ -59,7 +59,7 @@ heating matters.
 ### Shadehouses
 A shadehouse on the poleward side provides a transitional zone buffering the
 house from hot exterior air. When cross-ventilated to a greenhouse on the
-equatorial side, it receives transpiration-cooled air, creating a thermosiphon
+equatorial side, it receives transpiration-cooled air, creating a [[thermosiphon]]
 breeze through the house.
 
 ### White Surfaces

@@ -6,7 +6,7 @@ type: concept
 
 # Swales
 
-Swales are long, level excavations built on contour that capture, hold, and infiltrate overland water flow into the soil profile. They are among the most important and versatile water-harvesting earthworks in permaculture design, applicable across climates from arid to humid, on steep slopes and flatlands alike, in both urban and rural settings.
+Swales are long, level excavations built on contour that capture, hold, and infiltrate overland water flow into the soil profile. They are among the most important and versatile water-harvesting earthworks in [[permaculture-design]], applicable across climates from arid to humid, on steep slopes and flatlands alike, in both urban and rural settings.
 
 ## What Swales Are
 

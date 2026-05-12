@@ -45,8 +45,8 @@ fencing materials are unavailable or impractical.
 
 Mollison identifies four ideal boma species:
 
-1. **Lycium ferocissimum** — Dense, thorny shrub; may not need wire support.
-2. **Acacia tortilis** — Umbrella thorn; nitrogen-fixing tree with hooked thorns.
+1. **[[lycium-ferocissimum]]** — Dense, thorny shrub; may not need wire support.
+2. **[[acacia-tortilis]]** — Umbrella thorn; nitrogen-fixing tree with hooked thorns.
 3. **Oncoba spinosa** — Snuff-box tree; thorny shrub with attractive flowers.
 4. **Euphorbia tirucalli** — Pencil cactus; toxic milky sap requires eye protection.
 

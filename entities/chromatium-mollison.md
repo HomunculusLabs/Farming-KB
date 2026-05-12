@@ -45,7 +45,7 @@ Chromatium contributes to wastewater treatment through:
 
 - **Wastewater treatment**: Essential biological agent in anaerobic sewage lagoons
 - **Heavy metal immobilisation**: Natural mechanism for removing toxic metals from wastewater without chemical intervention
-- **Permaculture design**: Demonstrates that biological systems can achieve what industrial chemistry does with less energy and cost
+- **[[permaculture-design]]**: Demonstrates that biological systems can achieve what industrial chemistry does with less energy and cost
 - **Bioremediation**: Potential application in treating acid mine drainage and other metal-contaminated waters
 
 ## Environmental Conditions
@@ -72,7 +72,7 @@ natural processes rather than against them.
 
 ## Design Considerations
 
-When incorporating chromatium into permaculture or land management plans,
+When incorporating chromatium into [[permaculture]] or land management plans,
 careful attention to site-specific conditions ensures appropriate integration.
 Climate zone, soil type, water availability, and existing vegetation
 all influence the optimal approach to implementation.

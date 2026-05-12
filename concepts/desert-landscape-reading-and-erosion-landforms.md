@@ -11,7 +11,7 @@ type: concept
 
 ## Overview
 
-Desert landscapes are fundamentally different from humid ones — angular, actively eroding, and dominated by geological processes rather than biological ones. Reading a desert landscape requires attention to specific factors that determine opportunities and constraints for permaculture design. In drylands, erosion landforms are more significant, conspicuous, and numerous in type than in humid areas.
+Desert landscapes are fundamentally different from humid ones — angular, actively eroding, and dominated by geological processes rather than biological ones. Reading a desert landscape requires attention to specific factors that determine opportunities and constraints for [[permaculture-design]]. In drylands, erosion landforms are more significant, conspicuous, and numerous in type than in humid areas.
 
 ## Reading the Desert Mosaic
 

@@ -9,7 +9,7 @@ chunk_id: 171
 
 Polycultural terrace design is a foundational land-management technique in permaculture that transforms sloped terrain into productive, stable, and biodiverse growing systems. By converting hillsides into a series of level or gently graded platforms, terraces enable controlled cultivation on land that would otherwise be prone to erosion, nutrient runoff, and difficult access. When combined with polycultural planting strategies — integrating trees, annual crops, water systems, and perennial vegetation — terraces become resilient, multi-yield ecosystems that increase overall productivity while conserving soil and water resources.
 
-This concept is central to Bill Mollison's treatment of earthworks and broad-scale landscape design in *Permaculture: A Designer's Manual*, where terracing is presented as both a practical engineering solution and an ecological strategy for maximizing the productive potential of sloped land.
+This concept is central to [[bill-mollison]]'s treatment of earthworks and broad-scale landscape design in *Permaculture: A Designer's Manual*, where terracing is presented as both a practical engineering solution and an ecological strategy for maximizing the productive potential of sloped land.
 
 ## Benefits of Terracing
 
@@ -18,7 +18,7 @@ Terraces offer a broad range of agronomic and ecological advantages over unmodif
 - **Ease of access:** Level surfaces simplify planting, weeding, harvesting, and general maintenance, reducing labor intensity on otherwise difficult terrain.
 - **Controlled irrigation:** Terraces allow water to be distributed evenly across cultivated surfaces, preventing the concentration of flow that causes erosion on steep ground.
 - **Minimal soil loss:** By breaking the slope into manageable steps, terraces dramatically reduce the velocity of runoff and keep topsoil in place.
-- **Nutrient gain from irrigation and leaf fall:** Water delivered to upper terraces percolates downward through the system, carrying dissolved nutrients to lower levels. Leaf litter from terrace-edge trees and ground covers contributes organic matter, building soil fertility over time.
+- **Nutrient gain from irrigation and leaf fall:** Water delivered to upper terraces percolates downward through the system, carrying dissolved nutrients to lower levels. Leaf litter from terrace-edge trees and ground covers contributes organic matter, [[building-soil]] fertility over time.
 
 These benefits compound over seasons, making terraced systems increasingly productive and self-sustaining as the soil profile matures. Over years of management, the terrace system becomes a self-reinforcing landscape element rather than a static earthwork.
 

@@ -72,7 +72,7 @@ Phosphorus is a complex soil nutrient essential to all plants for growth and enz
 | Soil Condition | Immobilization Mechanism |
 |---|---|
 | **Acid soils** | Combines with iron or aluminium to form insoluble compounds |
-| **Calcareous (alkaline) soils** | Forms insoluble calcium phosphate compounds |
+| **Calcareous (alkaline) soils** | Forms insoluble [[calcium-phosphate]] compounds |
 | **General arid soils** | Deficient except in humus, forests, and pond silt |
 
 ### Phosphorus Availability Strategies

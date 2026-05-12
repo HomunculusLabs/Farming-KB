@@ -73,7 +73,7 @@ Mollison names Tetragonia alongside [[rhagodia]], [[carpobrotus]], and Mesembrya
 
 ## Practical Significance
 - Relevant to sustainable land management and design
-- Applications in permaculture and ecological systems
+- Applications in [[permaculture]] and ecological systems
 - Connected to broader themes of resource management
 
 ## See Also

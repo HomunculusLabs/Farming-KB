@@ -6,7 +6,7 @@ type: concept
 
 # Dryland Building and Settlements
 
-Dryland environments present unique challenges for human settlement, including extreme temperature fluctuations, water scarcity, high evaporation rates, and often poor or saline soils. Permaculture approaches to dryland building and settlement draw heavily on traditional techniques refined over centuries by indigenous peoples, combined with modern innovations in passive solar design and earth-sheltered construction.
+Dryland environments present unique challenges for human settlement, including extreme temperature fluctuations, water scarcity, high evaporation rates, and often poor or saline soils. Permaculture approaches to [[dryland-building-and-settlement]] draw heavily on traditional techniques refined over centuries by indigenous peoples, combined with modern innovations in [[passive-solar-design]] and earth-sheltered construction.
 
 ## Earth-Sheltered and Underground Construction
 

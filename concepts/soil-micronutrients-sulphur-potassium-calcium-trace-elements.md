@@ -49,7 +49,7 @@ Potassium is used in large quantities by plants and is usually plentiful in arid
 - Deficient on sandy, free-draining coastal soils
 - Not much is removed by livestock
 - Potatoes, beans, flax, and export of hay may remove soil reserves below plant needs
-- Readily absorbed on colloids; usually plentiful in clays, especially illites (not kaolin)
+- Readily absorbed on [[colloids]]; usually plentiful in clays, especially illites (not kaolin)
 
 ### Sources and Application
 

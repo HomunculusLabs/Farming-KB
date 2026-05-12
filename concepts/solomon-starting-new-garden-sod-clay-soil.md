@@ -36,7 +36,7 @@ done any time of year when soil moisture is right.
 
 1. Mow the grass as close to the ground as possible — scalp it to
    growing points if equipment allows
-2. Let short clippings rest in place; rake up and compost tall
+2. Let short clippings rest in place; rake up and [[compost]] tall
    grass that would tangle tiller tines
 3. Spread basic amendments (lime, COF, manure, compost) before
    any tilling or digging

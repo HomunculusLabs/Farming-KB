@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Regolith is the layer of loose, unconsolidated rock and mineral material that overlies solid bedrock. In tropical regions, regolith is a defining landscape feature: it consists of deeply weathered and rotten rock, sometimes extending tens of metres below the surface, formed by millions of years of chemical weathering under hot, wet conditions. In permaculture and tropical land management, understanding regolith is essential for water management, soil development, earthworks design, and plant root access to minerals.
+Regolith is the layer of loose, unconsolidated rock and mineral material that overlies solid bedrock. In tropical regions, regolith is a defining landscape feature: it consists of deeply weathered and rotten rock, sometimes extending tens of metres below the surface, formed by millions of years of chemical weathering under hot, wet conditions. In permaculture and tropical land management, understanding regolith is essential for [[water-management]], soil development, earthworks design, and plant root access to minerals.
 
 ## Classification
 
@@ -31,7 +31,7 @@ Regolith is the layer of loose, unconsolidated rock and mineral material that ov
 
 - Most mobile nutrients (calcium, silica, magnesium, potassium) have been leached from tropical regolith over geological time, leaving infertile subsoils dominated by kaolinite clays and iron-aluminium oxides.
 - Nutrients are held almost entirely in the biomass (80-90% in plants and animals), not in the soil or regolith, making vegetation retention critical for ecosystem stability.
-- The regolith's low cation exchange capacity (CEC) means that any nutrients added to the soil are easily leached unless held by organic matter or plant roots.
+- The regolith's low [[cation-exchange-capacity]] (CEC) means that any nutrients added to the soil are easily leached unless held by organic matter or plant roots.
 - In oxidic kaolinitic soils (common in weathered volcanics), only kaolin clays and oxides of iron-aluminium remain, giving soil particles a net negative charge that is pH-dependent.
 
 ### Water Movement

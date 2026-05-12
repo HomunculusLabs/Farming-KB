@@ -29,7 +29,7 @@ The classical tropical hedgerow consists of four layers planted simultaneously:
 | Layer | Species | Function |
 |-------|---------|----------|
 | **Tall grass/clump bamboo** | *Pennisetum* species (usually) | Immediate wind protection, structural material |
-| **Quickset cuttings** | *Erythrina fusca* or *Jatropha* | Fast-establishing living fence, shade |
+| **Quickset cuttings** | *[[erythrina-fusca]]* or *Jatropha* | Fast-establishing living fence, shade |
 | **Seedlings** | *Leucaena* or *Acacia* | Long-term nitrogen fixation, forage, mulch |
 | **Occasional palms** | Preferably spiny-trunked or spiny mid-rib species | High shade, structural material, food |
 

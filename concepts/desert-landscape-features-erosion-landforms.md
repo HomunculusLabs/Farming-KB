@@ -6,7 +6,7 @@ type: concept
 
 # Desert Landscape Features and Erosion Landforms
 
-Desert landscapes present a dramatically different set of landforms compared to humid areas. In drylands, erosion landforms are more significant, conspicuous, and numerous in type than in humid regions. Understanding these features is essential for any permaculture designer working in arid environments.
+Desert landscapes present a dramatically different set of landforms compared to humid areas. In drylands, erosion landforms are more significant, conspicuous, and numerous in type than in humid regions. Understanding these features is essential for any [[permaculture]] designer working in arid environments.
 
 ## Primary Desert Pavement Classifications
 

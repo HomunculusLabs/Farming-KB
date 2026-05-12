@@ -32,7 +32,7 @@ Several types of concretion or cemented soil layers occur in nature, each requir
 [[calcrete-caliche]] is a hard, mainly level subsurface concretion about 0.5-1.0 m below a granular or sandy topsoil. It is typical of coral islands (calcium triphosphate) and the downwind areas of desert borders. Key characteristics and management:
 
 - Must be broken open to plant trees; otherwise roots spread laterally and are vulnerable to wind-throw.
-- On atolls, fresh-water deposits develop below the calcrete.
+- On atolls, fresh-water deposits develop below the [[calcrete]].
 - Broken caliche can be used as a building material and forms a safe roof for tunnels or dugouts.
 - Calcium/magnesium concretion is worsened by the addition of superphosphate and appears whitish to creamy.
 - In acid (vinegar), calcrete releases bubbles of carbon dioxide.

@@ -13,7 +13,7 @@ tags: [people, permaculture, irrigation, tropical-agriculture, australia]
 ## Description
 
 **Bob Kingwell** is a permaculture practitioner from **Malanda, Queensland,
-Australia**, recognised by Bill Mollison for devising a simple **manifold
+Australia**, recognised by [[bill-mollison]] for devising a simple **manifold
 irrigation system** that directs water in multiple directions from a head drain.
 His low-cost, practical approach to flood irrigation uses concrete plugs with
 rubber O-rings and carefully levelled pipes — demonstrating that effective
@@ -28,7 +28,7 @@ irrigation infrastructure does not require expensive manufactured components.
 ## Classification
 
 - **Category**: Person — Permaculture practitioner / Irrigation innovator
-- **Domain**: Tropical irrigation, Water management
+- **Domain**: Tropical irrigation, [[water-management]]
 - **Location**: Malanda, Queensland, Australia (Atherton Tablelands region)
 - **Specialty**: Low-cost gravity-fed irrigation design
 

@@ -14,7 +14,7 @@ The stable tropical landscape, often following a volcanic cone profile, requires
 
 ### Protected Skyline and Hill Forests
 
-The uppermost slopes must remain under permanent forest cover. These forests protect soils and waters, mine and release plant nutrients from steep slopes, and can serve as limited forage and mulch resources — but only with iron-clad protection. Clearing these forests brings compound catastrophes: landslide, loss of nutrient in water and crop, desertification, and severe social disruption. At the base of these forests, as the slope eases to 15° or less, water can be diverted or harvested to replenish groundwater and irrigate terraces and crops below.
+The uppermost slopes must remain under permanent forest cover. These forests protect soils and waters, mine and release plant nutrients from steep slopes, and can serve as limited forage and mulch resources — but only with iron-clad protection. Clearing these forests brings compound catastrophes: landslide, loss of nutrient in water and crop, [[desertification]], and severe social disruption. At the base of these forests, as the slope eases to 15° or less, water can be diverted or harvested to replenish groundwater and irrigate terraces and crops below.
 
 ### Midslope and Keypoint
 
@@ -26,7 +26,7 @@ Low slopes are well suited to earth-shaping as terraces and paddies, with limite
 
 ### Coastal Flats and Valley Floors
 
-Rich and often deep humus soils accumulate on valley floors. Greywater and processed manures from settlement and livestock add to fertility, supporting extensive aquacultures or rich forest and orchard crops.
+Rich and often deep [[humus]] soils accumulate on valley floors. Greywater and processed manures from settlement and livestock add to fertility, supporting extensive aquacultures or rich forest and orchard crops.
 
 ### Shorelines
 

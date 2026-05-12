@@ -59,7 +59,7 @@ As pioneer nuclei mature into secondary forest, the system takes on the layered 
 - **Lianas (vines):** Climbing species connecting canopy layers, producing food and forage — chayote, passionfruit, and native lianas.
 - **Crown-bearing trees outside clumps:** Species with broad, spreading crowns, positioned on the periphery where they have room to expand outward.
 - **Stem-bearing trees inside clumps:** Tall, straight-stemmed timber species, positioned in the interior where lateral competition encourages upright growth form.
-- **Fungi and shade species below:** Decomposer fungi, groundcovers, and understory species that cycle nutrients and maintain the soil food web.
+- **Fungi and shade species below:** Decomposer fungi, groundcovers, and understory species that cycle nutrients and maintain [[the-soil-food-web]].
 
 ### Species by Landscape Position
 

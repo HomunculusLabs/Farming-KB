@@ -6,7 +6,7 @@ type: concept
 
 # Terrace Systems for Slope Management
 
-Terrace systems are engineered earthworks that convert sloping land into a series of level or gently inclined platforms, enabling productive agriculture while preventing soil erosion and water loss. In permaculture design, terraces represent one of the most fundamental strategies for slope management, allowing steep and marginal land to become productive food-growing areas.
+Terrace systems are engineered earthworks that convert sloping land into a series of level or gently inclined platforms, enabling productive agriculture while preventing soil erosion and water loss. In [[permaculture-design]], terraces represent one of the most fundamental strategies for slope management, allowing steep and marginal land to become productive food-growing areas.
 
 ## Overview
 
@@ -33,7 +33,7 @@ In steep humid tropical and subtropical environments, garden terraces close to t
 The classical wet terrace system is one of humanity's oldest and most productive agricultural technologies. These terraces maintain a continuous water feed from springs, streams, or redirected catchment, creating flooded bench surfaces ideal for:
 
 - **Wet rice (paddy rice):** The dominant grain crop, thriving in continuously flooded conditions
-- **Taro (Colocasia esculenta):** A staple root crop in Pacific and Asian cultures, grown in saturated soils
+- **Taro ([[colocasia-esculenta]]):** A staple root crop in Pacific and Asian cultures, grown in saturated soils
 
 The water feed must be reliable and continuous. Excess water cascades from upper terraces to lower ones through spillways, creating a gravity-fed irrigation cascade. The permanent water layer suppresses weeds, moderates soil temperature, and supports aquatic ecosystems.
 

@@ -67,7 +67,7 @@ The arrival of water triggers equally dramatic responses from aquatic and semi-a
 
 The contrast between the abundance of water arriving from storms and the scarcity of water available to living systems is stark. In most biomes, the majority of rainfall infiltrates and supports continuous biological activity. In deserts, the reverse is true: the majority of rainfall is lost almost immediately, and biological activity is compressed into brief windows following precipitation events. Understanding and reversing this imbalance is the central design challenge for arid-zone permaculture.
 
-The central challenge of desert water management is that approximately 88% of all precipitation that falls on deserts is lost. This loss occurs through two primary pathways:
+The central challenge of desert [[water-management]] is that approximately 88% of all precipitation that falls on deserts is lost. This loss occurs through two primary pathways:
 
 1. **Evaporation**: Direct evaporation from wet soil surfaces and from standing water in temporary pools and streams. High temperatures, low humidity, and intense solar radiation combine to extract moisture from exposed surfaces extremely rapidly.
 2. **Unused runoff**: Water that runs off the surface and flows out of the system before it can infiltrate or be used by plants and animals.
@@ -92,7 +92,7 @@ This strategy aims to shift the water balance from 88% loss to a system where th
 
 ## Mediterranean Climate Borders and Arid Conditions
 
-Areas on the borders of deserts that are classified as having "Mediterranean" climates can function as effectively arid when they overlay deep sands. Deep sandy soils drain rapidly and hold very little moisture in the root zone, even when rainfall is relatively higher than in the desert interior. In these zones, the same principles of water capture, underground storage, and transpiration-based rehumidification apply. Mediterranean climate regions with deep sands should be treated as arid for design purposes, with strategies focused on preventing rapid drainage and building soil water-holding capacity through organic matter and vegetation establishment.
+Areas on the borders of deserts that are classified as having "Mediterranean" climates can function as effectively arid when they overlay deep sands. Deep sandy soils drain rapidly and hold very little moisture in the root zone, even when rainfall is relatively higher than in the desert interior. In these zones, the same principles of water capture, underground storage, and transpiration-based rehumidification apply. Mediterranean climate regions with deep sands should be treated as arid for design purposes, with strategies focused on preventing rapid drainage and [[building-soil]] water-holding capacity through organic matter and vegetation establishment.
 
 ## Design Implications
 

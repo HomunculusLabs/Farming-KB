@@ -9,7 +9,7 @@ tags: [people, soil-science, csiro, water-quality, australia]
 
 ## Description
 
-Kevin Handreck was a soil scientist at the CSIRO Division of Soils in Australia whose research on the chemical composition of household detergents and soaps provided critical data for permaculture water management. His personal communication to Bill Mollison in 1979 informed the guidelines on safe greywater use in gardens and agricultural systems.
+Kevin Handreck was a soil scientist at the CSIRO Division of Soils in Australia whose research on the chemical composition of household detergents and soaps provided critical data for permaculture [[water-management]]. His personal communication to Bill Mollison in 1979 informed the guidelines on safe greywater use in gardens and agricultural systems.
 
 ## Classification
 
@@ -25,7 +25,7 @@ Handreck provided a comprehensive analysis of the chemical constituents found in
 
 - **Sodium or potassium salts** and polysulphates
 - **Silicates, sulphates**, and **bicarbonates**
-- **Borates** — particularly concerning at >0.5 ppm for excessive boron accumulation in soils, and harmful to soil life above 1.0 ppm
+- **Borates** — particularly concerning at >0.5 ppm for excessive boron accumulation in soils, and harmful to [[soil-life]] above 1.0 ppm
 - **Residual biocides** concentrated in animal fats, including DDT, Dieldrin, and Hexachlor (from dairy cattle)
 - **Additives**: resins (hardeners), scents, dyes, and brighteners
 - **Biological contaminants**: faecal bacteria, viral pathogens, and worm pathogens from washing

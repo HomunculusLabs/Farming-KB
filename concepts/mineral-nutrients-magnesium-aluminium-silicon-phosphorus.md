@@ -8,17 +8,17 @@ type: concept
 
 ## Overview
 
-These four minerals play critical but often overlooked roles in soil chemistry, plant nutrition, and broader ecosystem health. Magnesium and phosphorus are essential plant nutrients; [[silicon]] supports soil structure in the tropics; and aluminium, while abundant, can become a serious toxin under acid conditions. Their interactions with pH, organic matter, and biological processes make them central to permaculture soil design.
+These four minerals play critical but often overlooked roles in soil chemistry, plant nutrition, and broader ecosystem health. Magnesium and phosphorus are essential plant nutrients; [[silicon]] supports soil structure in the tropics; and aluminium, while abundant, can become a serious toxin under acid conditions. Their interactions with pH, organic matter, and biological processes make them central to [[permaculture]] soil design.
 
 ## Magnesium (Mg)
 
-Magnesium is found with calcium in **dolomite**. It is needed by plants and is common in most subsoils, forming the central atom of the chlorophyll molecule, activating enzymes, and concentrating in seeds. Like nitrogen, it is very mobile in the plant.
+Magnesium is found with calcium in **[[dolomite]]**. It is needed by plants and is common in most subsoils, forming the central atom of the chlorophyll molecule, activating enzymes, and concentrating in seeds. Like nitrogen, it is very mobile in the plant.
 
 ### Availability and Deficiency
 
 - **Likely deficient only** in sandy soils
 - **Present** in the clay fraction of soils
-- **Released** by soil acids and humus
+- **Released** by soil acids and [[humus]]
 - **Supplied by** dolomite application on farmlands, dolomite tablets for animals, and mixed in animal foodstuffs
 
 ### pH Buffering

@@ -6,7 +6,7 @@ type: concept
 
 # Dryland Building and Settlement
 
-Dryland environments present extreme challenges for human settlement—intense solar radiation, temperature extremes, water scarcity, dust storms, and limited vegetative cover. Permaculture design addresses these through earth-sheltered architecture, underground food production, strategic use of desert-adapted plants, and traditional building techniques that exploit the thermal mass and insulation properties of earth.
+Dryland environments present extreme challenges for human settlement—intense solar radiation, temperature extremes, water scarcity, dust storms, and limited vegetative cover. [[permaculture]] design addresses these through earth-sheltered architecture, underground food production, strategic use of desert-adapted plants, and traditional building techniques that exploit the thermal mass and insulation properties of earth.
 
 ## Earth-Sheltered and Underground Architecture
 

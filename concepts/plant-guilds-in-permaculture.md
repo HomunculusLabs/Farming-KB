@@ -32,7 +32,7 @@ Guilds assist pest control through multiple mechanisms:
 
 ### Creating Favorable Soil Conditions
 
-- **Open soil and mulch**: Comfrey and globe artichokes allow tree roots to feed at the surface (unlike grasses, which compete). Spring bulbs (daffodils) or winter-grown wild *Allium* species, whose tops die down in mid-spring, do not compete with deciduous tree roots during summer dry periods, nor do they intercept light rains.
+- **Open soil and mulch**: [[comfrey]] and globe artichokes allow tree roots to feed at the surface (unlike grasses, which compete). Spring bulbs (daffodils) or winter-grown wild *Allium* species, whose tops die down in mid-spring, do not compete with deciduous tree roots during summer dry periods, nor do they intercept light rains.
 
 ### Providing Free Nutrients
 

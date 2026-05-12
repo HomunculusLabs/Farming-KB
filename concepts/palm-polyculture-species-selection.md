@@ -20,7 +20,7 @@ The zoning sequence, working outward from the village center, runs:
 
 1. Village garden and trellis/roof crop/greens (100–150 species)
 2. Fuel-wood integrated with dwarf palm
-3. Palms within crop and avenue cropping
+3. Palms within crop and [[avenue-cropping]]
 4. Productive trees within palms
 5. Animal forage and free range
 6. Forest and tree reserves
@@ -88,7 +88,7 @@ These species can be processed through the same fermentation and distillation eq
 
 Oil palm polycultures benefit from interplanting with other oil-bearing species that can share pressing and refining equipment:
 
-- **Mustards** (*Brassica juncea*, *B. campestris*), **sunflower** (*Helianthus annuus*), and **rapeseed** (*Brassica napus*) provide supplementary oilseed crops that can be pressed using the same infrastructure.
+- **Mustards** (*[[brassica-juncea]]*, *B. campestris*), **sunflower** (*Helianthus annuus*), and **rapeseed** (*Brassica napus*) provide supplementary oilseed crops that can be pressed using the same infrastructure.
 - These companion crops also serve as beneficial understory plants, improving pollination through their flowers, providing ground cover that suppresses weeds, and diversifying income streams across different harvest periods.
 
 ### Wetland Systems

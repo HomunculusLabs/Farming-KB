@@ -58,7 +58,7 @@ Campanula bononiensis is native to the Apennine Peninsula, with its core range i
 
 Scattered populations occur in Slovenia, Croatia, and Bosnia-Herzegovina, primarily in karst regions with calcareous substrates. The eastern limit of the range appears to be the Dinaric Alps of western Bosnia.
 
-The species inhabits dry to mesic grasslands, rocky pastures, scrub margins, and open deciduous woodlands. It shows a strong preference for calcareous soils derived from limestone and dolomite.
+The species inhabits dry to mesic grasslands, rocky pastures, scrub margins, and open deciduous woodlands. It shows a strong preference for calcareous soils derived from limestone and [[dolomite]].
 
 Elevational range extends from near sea level in the Po Valley margins to approximately 1,400 m in the central Apennines. The species is most frequent between 300–800 m elevation in sub-Mediterranean oak woodlands.
 

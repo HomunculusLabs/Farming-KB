@@ -14,7 +14,7 @@ Inselbergs and fold mountains are the most extensive elevated features in many d
 
 Great domes such as Uluru (Ayers Rock) in Australia and similar massifs of granitic or metamorphosed sandstones are relatively simple systems compared to scarps and wadis. They rarely develop deep caves (though some rock shelter exists), rarely have pronounced valley entries, and usually dip steeply into loose sandy soils around the base.
 
-Despite their simplicity, inselbergs are very solid **run-off areas**, some covering many tens of hectares. Large trees and good humus soils develop at the base of cliffs on the shade side.
+Despite their simplicity, inselbergs are very solid **run-off areas**, some covering many tens of hectares. Large trees and good [[humus]] soils develop at the base of cliffs on the shade side.
 
 ### Water Harvesting Strategy
 

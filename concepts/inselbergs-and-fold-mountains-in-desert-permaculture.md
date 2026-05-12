@@ -18,7 +18,7 @@ Great domes such as Uluru (Ayers Rock) in Australia and similar massifs of grani
 
 The primary strategy for inselberg utilisation is run-off collection. Using a ratio of approximately 1 hectare of "field" to 20 hectares of rock run-off, base floods can be led via fluming to walled fields that support both crops and fruit trees or palms. Concrete or stone slab gutters on bare domes gather run-off for infiltration to fields or storage in cisterns. Small tanks with access ramps serve pigeon, quail, small mammals, and frogs, with thatch covers that retard evaporation and exclude large animals.
 
-A few shallow mulch-filled valleys exist on these massifs, where soil is mainly humus and can support trees, yams, and other vegetation. Occasionally, steep and shaded clefts present sites for rock dams, but for the most part, partly sealed tanks and infiltration systems must suffice.
+A few shallow mulch-filled valleys exist on these massifs, where soil is mainly [[humus]] and can support trees, yams, and other vegetation. Occasionally, steep and shaded clefts present sites for rock dams, but for the most part, partly sealed tanks and infiltration systems must suffice.
 
 ### Scale of Occupancy
 
@@ -45,7 +45,7 @@ Eventually, typical basin and range topography evolves from folded series, with 
 
 ### Water Storage Opportunities
 
-Fold mountains present the greatest opportunities for freshwater dam construction in desert environments. At the exit of a river from these ranges, a dam can create a large ovoid freshwater lake in the interior. The permanence of this water depends on the proportion of run-off area to storage area, which must be 20-30:1 in deserts. This means modest and deep storages are more likely to hold water year-round than large shallow storages.
+Fold mountains present the greatest opportunities for freshwater [[dam-construction]] in desert environments. At the exit of a river from these ranges, a dam can create a large ovoid freshwater lake in the interior. The permanence of this water depends on the proportion of run-off area to storage area, which must be 20-30:1 in deserts. This means modest and deep storages are more likely to hold water year-round than large shallow storages.
 
 Wherever massive ranges back the fold mountains — as in Colorado, Nevada, and near Mt. Ararat in Turkey — foothill dams will hold water from a combination of snow melt and rain run-off. The opportunity to create successful freshwater dams is greater in fold mountains than in other desert landforms. A key advantage of desert locations is that few settlements exist, so dams can be sited safely above potential flood paths, unlike large dams in well-settled areas that are frequently built above existing valley settlements with disastrous consequences during war or earthquake.
 

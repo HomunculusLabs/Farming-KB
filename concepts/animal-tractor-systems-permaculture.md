@@ -16,7 +16,7 @@ Confined chicken flocks systematically remove all green ground cover and surface
 
 ### The Moloka'i Model
 
-Dano Gorsich developed and executed a highly successful chicken tractor and garden system on a 0.5 hectare farm on Moloka'i, Hawaii, demonstrating the full potential of this approach on stony hillside terrain:
+[[dano-gorsich]] developed and executed a highly successful chicken tractor and garden system on a 0.5 hectare farm on Moloka'i, Hawaii, demonstrating the full potential of this approach on stony hillside terrain:
 
 1. **Layout**: The farm is divided into 5–6 fenced plots
 2. **Flock**: A 40-chicken flock rotates through these plots over approximately 18 months

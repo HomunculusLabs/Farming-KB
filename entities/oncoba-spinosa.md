@@ -72,8 +72,8 @@ white flowers, making it both functional and ornamental.
 ## Companion Species
 
 Mollison recommends combining *Oncoba spinosa* with other barrier plants:
-- *Lycium ferocissimum* (thorny shrub)
-- *Acacia tortilis* (umbrella thorn)
+- *[[lycium-ferocissimum]]* (thorny shrub)
+- *[[acacia-tortilis]]* (umbrella thorn)
 - *Euphorbia tirucalli* (pencil cactus — requires eye protection when handling)
 
 

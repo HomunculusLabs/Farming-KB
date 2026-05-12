@@ -36,7 +36,7 @@ Okigbo and Lal's research produced crop yield comparison data under different mu
 |------------|-------|--------|-----------|---------|
 | Rice husks | 3.7 | 1.1 | 0.8 | 28.3 |
 | Pennisetum straw | 3.3 | 1.2 | 1.4 | 14.2 |
-| Elephant grass | 3.3 | 0.9 | 1.3 | 16.6 |
+| [[elephant-grass]] | 3.3 | 0.9 | 1.3 | 16.6 |
 | Millet straw (Panicum) | 3.6 | 2.4 | 1.5 | 15.5 |
 | Legume wastes | 4.3 | 1.4 | 1.4 | 15.5 |
 | Sawdust | 3.7 | 0.9 | 1.9 | 20.5 |

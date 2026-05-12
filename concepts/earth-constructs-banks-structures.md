@@ -6,7 +6,7 @@ type: concept
 
 # Earth Constructs — Banks and Raised Structures
 
-Wherever earth is dug, banks are raised. While modern practice concentrates heavily on holes (mining pits, foundations, dams) and far less on mounds, the spoil from excavation can become a valuable resource rather than a pollutant — provided topsoil is first removed and then returned to cover the spoil. Earth banks and raised structures serve multiple productive functions in permaculture design.
+Wherever earth is dug, banks are raised. While modern practice concentrates heavily on holes (mining pits, foundations, dams) and far less on mounds, the spoil from excavation can become a valuable resource rather than a pollutant — provided topsoil is first removed and then returned to cover the spoil. Earth banks and raised structures serve multiple productive functions in [[permaculture-design]].
 
 ## Shelter for Houses and Fields
 
@@ -87,7 +87,7 @@ Well-maintained earth banks are the only protection for houses and villages in f
 - **Causeways** of earth to access low mounds or islands near shore
 - **Wooded refuge mounds** for survival in areas like Bangladesh and other deltaic regions
 - **Fire refuge** — villages and houses safe in lakes or on moated islands in fire-prone sites
-- **Peninsulas** should be included in dam construction for refuge purposes
+- **Peninsulas** should be included in [[dam-construction]] for refuge purposes
 
 ## Rail, Canal, and Road Grades
 

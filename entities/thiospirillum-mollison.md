@@ -27,7 +27,7 @@ Thiospirillum is a genus of sulphur-loving photosynthetic bacteria found in the 
 - Uses hydrogen sulphide (H2S) as a hydrogen source for carbon assimilation
 - By-product is elemental sulphur (S), which binds to heavy metals present in the water
 - May appear pink in open ponds, contributing colour to the anaerobic lagoons
-- Works alongside Chromatium and Rhodopseudomonas in the same ecological niche
+- Works alongside Chromatium and Rhodopseudomonas in the same [[ecological-niche]]
 - Part of the biological mechanism that precipitates heavy metals as insoluble sulphides
 
 ## Role in Heavy Metal Removal
@@ -43,7 +43,7 @@ Thiospirillum plays a crucial indirect role in wastewater purification:
 
 - **Wastewater treatment**: Essential component of anaerobic sewage lagoons
 - **Heavy metal removal**: Biological mechanism for immobilising toxic metals without chemical additives
-- **Permaculture design**: Supports the case for biological treatment over chemical treatment of polluted water
+- **[[permaculture-design]]**: Supports the case for biological treatment over chemical treatment of polluted water
 - **Bioremediation**: Potential application in cleaning metal-contaminated water bodies
 
 ## Anaerobic Pond Metal Removal Performance

@@ -24,7 +24,7 @@ The species is recognized by its robust, erect trunk reaching 10–15 meters and
 
 Cyathea australis is a common sight in moist gullies, temperate rainforests, and sheltered slopes throughout its range. It is frequently grown as an ornamental plant in Australian gardens.
 
-The species has been widely confused with Cyathea cooperi in horticultural circles. The two can be distinguished by trunk texture and stipe scale characteristics.
+The species has been widely confused with [[cyathea-cooperi]] in horticultural circles. The two can be distinguished by trunk texture and stipe scale characteristics.
 
 ## Taxonomy and Morphology
 
@@ -50,7 +50,7 @@ The species grows in temperate and subtropical rainforest, wet sclerophyll fores
 
 Elevational range extends from near sea level to approximately 1,200 meters on the New England Tablelands. Populations at higher elevations are smaller and more scattered than those in coastal ranges.
 
-Soil preferences include deep, moist, loamy soils derived from shale, basalt, or volcanic parent material. The species is tolerant of a range of soil pH from slightly acidic to neutral.
+Soil preferences include deep, moist, loamy soils derived from shale, basalt, or volcanic parent material. The species is tolerant of a range of [[soil-ph]] from slightly acidic to neutral.
 
 It co-occurs with other tree ferns including Cyathea cooperi at lower elevations and Dicksonia antarctica in cooler, wetter sites. The three species can be found growing together in transitional habitats.
 

@@ -7,7 +7,7 @@ type: concept
 # Desert Temperature and Soil Conditions
 
 Desert environments present some of the most extreme temperature fluctuations and challenging soil
-conditions on Earth. Understanding these dynamics is essential for any permaculture design or land
+conditions on Earth. Understanding these dynamics is essential for any [[permaculture-design]] or land
 management effort in arid regions. The interplay between air temperature, soil temperature, soil
 chemistry, and moisture availability creates a complex system that demands careful observation and
 design.

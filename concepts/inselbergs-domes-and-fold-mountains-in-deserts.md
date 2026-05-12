@@ -6,7 +6,7 @@ type: concept
 
 # Inselbergs, Domes, and Fold Mountains in Deserts
 
-The elevated landforms of arid regions—inselbergs, rock domes, and fold mountain systems—represent the most significant water-harvesting opportunities in desert landscapes. Their geological characteristics combine reliable run-off generation with microclimatic diversity, making them priority sites for permaculture development in drylands.
+The elevated landforms of arid regions—inselbergs, rock domes, and fold mountain systems—represent the most significant water-harvesting opportunities in desert landscapes. Their geological characteristics combine reliable run-off generation with microclimatic diversity, making them priority sites for [[permaculture]] development in drylands.
 
 ## Residual Domes and Inselbergs
 
@@ -23,7 +23,7 @@ Great domes such as Uluru (Ayers Rock) in Australia and similar massifs of grani
 
 Despite their simplicity, inselbergs are very solid run-off areas, some covering many tens of hectares. The basic design principle is straightforward: allow one acre of cultivated "field" for every 20 hectares of rock run-off. Base floods are led via fluming (constructed channels) to walled fields, supporting both crops and fruit trees or palms.
 
-A few shallow mulch-filled valleys exist on these massifs where soil is mainly humus. These can support trees, yams, and other vegetation. Occasionally, steep and shaded clefts present sites for rock dams, but partly sealed tanks and infiltration galleries must generally suffice.
+A few shallow mulch-filled valleys exist on these massifs where soil is mainly [[humus]]. These can support trees, yams, and other vegetation. Occasionally, steep and shaded clefts present sites for rock dams, but partly sealed tanks and infiltration galleries must generally suffice.
 
 ### Scale Considerations
 
@@ -48,7 +48,7 @@ Series of folds create successions of desert basins, and it is the anticlines th
 
 ### Dam Opportunities in Fold Mountains
 
-Fold mountains present the greatest opportunities for freshwater dam construction in desert environments:
+Fold mountains present the greatest opportunities for freshwater [[dam-construction]] in desert environments:
 
 **Large dams at range exits**: Where a river exits these ranges, a dam can create a large ovoid freshwater lake. The permanence of this water depends on the ratio of run-off area to storage area—this must be 20-30:1 in deserts. Modest, deep storages are more likely to hold water year-round than large shallow ones. Wherever massive ranges back the fold mountains (as in Colorado, Nevada, and near Mt. Ararat in Turkey), foothill dams hold water from a combination of snow melt and rain run-off.
 

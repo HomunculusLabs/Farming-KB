@@ -7,7 +7,7 @@ type: concept
 # Natural Patterns in Permaculture Design
 
 Natural patterns are the fundamental geometries and processes observable in nature that
-serve as templates for permaculture design. Bill Mollison emphasized that by studying
+serve as templates for permaculture design. [[bill-mollison]] emphasized that by studying
 these patterns — from the molecular to the landscape scale — designers can create systems
 that work *with* natural forces rather than against them. Patterns are the language through
 which nature expresses efficiency, resilience, and energy distribution. Each pattern encodes

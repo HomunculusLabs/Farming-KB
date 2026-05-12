@@ -19,7 +19,7 @@ Topsoil is typically only 6–18 cm deep. Where deeper deposits are found, the e
 Excavation in marshes, bogs, or lowlands may reveal 1–9 m (3–30 feet) of semi-compacted fibrous plant material. Peat should be stockpiled, with about 0.6 m (2 feet) returned to the surface as topsoil. The peat stockpile has multiple valuable uses:
 
 - **Soil improvement** — mixing with sands and loams creates additional topsoil
-- **Nursery growing medium** — an excellent fine-textured medium for plant propagation
+- **Nursery growing medium** — an excellent fine-textured medium for [[plant-propagation]]
 - **Building insulation** — peat's low thermal conductivity makes it an effective insulator
 
 Peat should only be burned as fuel in absolute desperation, as those who burn peat are near the base of the resource pyramid — the next step is into barrens and rocks. Peatlands throughout the world urgently need preservation as threatened habitats of unique vegetation.
@@ -60,7 +60,7 @@ Clean sand has numerous applications depending on its characteristics:
 
 ## Gravel
 
-Gravel serves multiple functions in permaculture systems:
+Gravel serves multiple functions in [[permaculture]] systems:
 
 - **Road construction** — heaped gravel makes good roads and driveways
 - **Drainage** — gravel-filled drains provide reliable water movement

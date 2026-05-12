@@ -6,7 +6,7 @@ type: concept
 
 # Terrace Design for Slopes
 
-Terracing is a foundational earthworks strategy in permaculture for managing sloped land. By converting gradients into a series of level platforms, terraces enable productive polyculture, control erosion, and harvest water and nutrients. Bill Mollison's *Permaculture: A Designer's Manual* treats terracing as one of the most important tools for stabilising and enriching sloping landscapes.
+Terracing is a foundational earthworks strategy in permaculture for managing sloped land. By converting gradients into a series of level platforms, terraces enable productive polyculture, control erosion, and harvest water and nutrients. [[bill-mollison]]'s *Permaculture: A Designer's Manual* treats terracing as one of the most important tools for stabilising and enriching sloping landscapes.
 
 ## Core Benefits of Terracing
 

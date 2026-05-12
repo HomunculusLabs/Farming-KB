@@ -9,7 +9,7 @@ tags: [algae, sewage-treatment, phytoplankton, wastewater, microorganism]
 
 ## Description
 
-Euglena is a genus of single-celled flagellate protists that is one of the four almost universal sewage lagoon algae identified by Mollison. It plays a critical role in the biological treatment of wastewater by fixing carbon and releasing oxygen to support bacterial decomposition in faculative and aerobic sewage treatment ponds.
+Euglena is a genus of single-celled flagellate protists that is one of the four almost universal sewage lagoon algae identified by Mollison. It plays a critical role in the biological treatment of wastewater by fixing carbon and releasing oxygen to support bacterial [[decomposition]] in faculative and aerobic sewage treatment ponds.
 
 ## Classification
 
@@ -39,7 +39,7 @@ Euglena is a key organism in the biological cascade of sewage treatment:
 2. **Faculative ponds**: Euglena blooms alongside other algae, producing oxygen for bacterial activity
 3. **Aerobic ponds**: Euglena continues to photosynthesise, maintaining oxygen levels
 
-The algae-bacteria symbiosis is fundamental: algae produce oxygen that bacteria need to break down organic matter, while bacteria produce carbon dioxide that algae use for photosynthesis. This mutual relationship drives the purification process in natural sewage treatment systems.
+The algae-bacteria symbiosis is fundamental: algae produce oxygen that bacteria need to break down organic matter, while bacteria produce carbon dioxide that algae use for photosynthesis. This mutual relationship drives the purification process in [[natural-sewage-treatment-systems]].
 
 ## Relevance to Cultivation
 

@@ -28,7 +28,7 @@ The design table identifies four categories of elements that flow into the desig
 The geological and physical substrate: rocks, minerals, topography, soil structure, and the physical characteristics of the site that constrain and enable all biological activity.
 
 ### Organic-Derived Elements
-Materials and fuels produced by or from living systems: timber, mulch, compost, biofuels, fibers, and other biological products that serve as inputs to the designed system.
+Materials and fuels produced by or from living systems: timber, mulch, [[compost]], biofuels, fibers, and other biological products that serve as inputs to the designed system.
 
 ### Organic Elements
 Living components of the system, further divided into:

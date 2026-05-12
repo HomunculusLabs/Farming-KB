@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Desert landscapes present a total mosaic of vegetation and landforms shaped by wind, water, infiltration, rock type, aspect, fire history, and rainfall patterns. For a permaculture designer to "read" a desert landscape, they must assess the active processes (wind, water, infiltration), rock and soil types, aspect and shading, fire frequency and recency, and the date of the last significant rainfall event (more than 12 mm), which may have triggered specific age-groups of plant recruitment.
+Desert landscapes present a total mosaic of vegetation and landforms shaped by wind, water, infiltration, rock type, aspect, fire history, and rainfall patterns. For a [[permaculture]] designer to "read" a desert landscape, they must assess the active processes (wind, water, infiltration), rock and soil types, aspect and shading, fire frequency and recency, and the date of the last significant rainfall event (more than 12 mm), which may have triggered specific age-groups of plant recruitment.
 
 In drylands, erosion landforms are significantly more prominent, conspicuous, and numerous in type than in humid areas. Desert landscapes are characteristically angular and actively eroding, in contrast to the softer, more rounded outlines of humid areas clothed with grasslands and forests.
 

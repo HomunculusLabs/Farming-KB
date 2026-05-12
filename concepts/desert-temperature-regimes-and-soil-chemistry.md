@@ -117,7 +117,7 @@ Salt problems in desert soils can be addressed through flushing with fresh water
 humus levels, ponding water with algae to encourage biological remediation, ionic or
 distillation treatments, and selecting salt-tolerant crops. Notably, free-draining sands can
 be irrigated with water containing salt levels up to 1500 ppm — much higher than the
-tolerance levels for spray irrigation systems.
+tolerance levels for spray [[irrigation-systems]].
 
 ## Toxic Minerals and pH Extremes
 
@@ -141,7 +141,7 @@ It is therefore deficient in most desert soils, except where humus has accumulat
 pockets, or in pond silt deposits.
 
 Manure from seed-eating birds is notably high in phosphate and represents a valuable local
-source. Mycorrhizal inoculation is essential in arid systems — acacias, eucalypts, legumes,
+source. [[mycorrhizal-inoculation]] is essential in arid systems — acacias, eucalypts, legumes,
 pines, Casuarinas, and garden crops all benefit from root-associated fungi that enable
 phosphate accumulation from otherwise unavailable soil reserves. When applying phosphates, it
 is best to use small quantities placed close to the crop to maximise uptake efficiency.

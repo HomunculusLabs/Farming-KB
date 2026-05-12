@@ -12,7 +12,7 @@ Tropical soils present unique and formidable challenges for agriculture and land
 
 In the wet tropics, approximately 80–90% of available nutrients are locked up in the living biomass of plants and animals rather than in the soil itself. The soils are predominantly infertile, especially when cleared of vegetation, and tend to erode rapidly, leaching down to insoluble oxides of iron and aluminum (ferricrete or silcrete). Only terraces, floodplains, and areas near recent volcanic activity maintain reasonable fertility.
 
-The clay mineralogy of tropical soils is dominated by kaolinite and oxides of iron and aluminum. In these oxidic kaolinitic soils, the cation exchange capacity (CEC)—the soil's ability to hold nutrients against leaching—is strongly affected by pH. Once forest is cleared, humic particles leach out to about 30% of their prior levels, and infertility quickly appears in crops such as banana and sugar cane. This is the fundamental reason why bare-soil cultivation and short-cycle shifting agriculture are so destructive in tropical environments.
+The clay mineralogy of tropical soils is dominated by kaolinite and oxides of iron and aluminum. In these oxidic kaolinitic soils, the [[cation-exchange-capacity]] (CEC)—the soil's ability to hold nutrients against leaching—is strongly affected by pH. Once forest is cleared, humic particles leach out to about 30% of their prior levels, and infertility quickly appears in crops such as banana and sugar cane. This is the fundamental reason why bare-soil cultivation and short-cycle shifting agriculture are so destructive in tropical environments.
 
 The Food and Agriculture Organization of the United Nations (FAO) has acknowledged the failure of transferring mechanized monocultural systems to fragile tropical soils—a failure that ecologists predicted as early as the 1950s. The clearing and cultivation of tropical soils has for decades proved disastrous, creating desolate baked clays from once-rich forest ecosystems.
 
@@ -32,7 +32,7 @@ Basalt, cement powder, coral, and bamboo mulch supply essential nutrients and in
 
 ### Coral Cay Soils
 
-On coral cays, calcium-rich sands bind with phosphate to form insoluble calcium triphosphate, creating a sort of cement (platin or calcrete). This may form naturally from seabird guano, but superphosphate accelerates the process due to its greater solubility. Fine rock phosphate releases more slowly and provides better long-term benefits. Returning crop wastes as mulch is essential and can reduce the pH of coral sands (pH 8–9) to a level nearer pH 6.5–7, which is suitable for gardens.
+On coral cays, calcium-rich sands bind with phosphate to form insoluble calcium triphosphate, creating a sort of cement (platin or calcrete). This may form naturally from seabird guano, but superphosphate accelerates the process due to its greater solubility. Fine [[rock-phosphate]] releases more slowly and provides better long-term benefits. Returning crop wastes as mulch is essential and can reduce the pH of coral sands (pH 8–9) to a level nearer pH 6.5–7, which is suitable for gardens.
 
 ### Volcanic Soils
 

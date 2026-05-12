@@ -10,7 +10,7 @@ Mulch provision is the cornerstone of tropical home gardens, and green mulch plu
 
 ## Why Mulch Is Critical in the Tropics
 
-In the wet tropics, heat and high rainfall leach most mobile nutrients from soils. The biomass of diverse plants contains 80–90% of available nutrients, and humus is an essential soil fraction. Without continuous mulch application, tropical soils rapidly degrade from productive forest soils to desolate, baked clays—brick-like and hostile. Humus provides cation exchange capacity (CEC), which enables soils to retain calcium, sodium, and phosphates against leaching. The mulch-to-humus pathway is therefore the primary mechanism for maintaining soil fertility in tropical systems.
+In the wet tropics, heat and high rainfall leach most mobile nutrients from soils. The biomass of diverse plants contains 80–90% of available nutrients, and humus is an essential soil fraction. Without continuous mulch application, tropical soils rapidly degrade from productive forest soils to desolate, baked clays—brick-like and hostile. Humus provides [[cation-exchange-capacity]] (CEC), which enables soils to retain calcium, sodium, and phosphates against leaching. The mulch-to-humus pathway is therefore the primary mechanism for maintaining soil fertility in tropical systems.
 
 ## Sources of Humus for Tropical Soils
 

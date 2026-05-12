@@ -8,7 +8,7 @@ type: concept
 
 Designing for the equatorial tropics inverts temperate-climate assumptions. The primary
 challenge is not retaining heat but dissipating it, while managing intense rainfall,
-seasonal hunger gaps, and cyclonic storms. Bill Mollison's *Permaculture: A Designers'
+seasonal hunger gaps, and cyclonic storms. [[bill-mollison]]'s *Permaculture: A Designers'
 Manual* establishes a coherent design logic: orient to wind, shade everything, detach
 heat sources, and integrate the house within a productive tropical garden system.
 
@@ -134,7 +134,7 @@ quick-growing vegetables started as rains begin.
 ### Design Criteria for the Tropical Garden
 
 1. **Full nutrition** — calories, protein, vitamins, minerals from diverse sources
-2. **Water conservation** — swales, mulch, shade canopy to retain soil moisture
+2. **[[water-conservation]]** — swales, mulch, shade canopy to retain soil moisture
 3. **Cultural preferences** — species and layouts matching local food traditions
 4. **Climate resilience** — hurricane protection, flood management, drought tolerance
 5. **Protein sources** — from legumes, small livestock, and tree nuts

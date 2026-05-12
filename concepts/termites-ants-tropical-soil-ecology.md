@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Termites and ants are the dominant soil mesofauna of arid and humid subtropical regions. In these climates, they fulfill ecological functions analogous to those performed by earthworms in temperate zones — cycling nutrients, aerating soil, and driving the decomposition of organic matter. Understanding their role is essential for any permaculture design operating in tropical or subtropical contexts, as these organisms fundamentally shape the soil systems upon which all productive landscapes depend.
+Termites and ants are the dominant soil mesofauna of arid and humid subtropical regions. In these climates, they fulfill ecological functions analogous to those performed by earthworms in temperate zones — cycling nutrients, aerating soil, and driving the decomposition of organic matter. Understanding their role is essential for any [[permaculture-design]] operating in tropical or subtropical contexts, as these organisms fundamentally shape the soil systems upon which all productive landscapes depend.
 
 ## Termites vs. Ants: Complementary Roles
 
@@ -36,7 +36,7 @@ Termite and ant mounds often represent the only well-drained or elevated microsi
 
 ### Organic Matter Decomposition
 
-Termites are primary decomposers of woody material, coarse stems, and hard leaf mulch — materials that break down slowly through microbial action alone. In agricultural systems such as coffee, tea, and banana plantations, termites assist the initial breakdown of logs and coarse residues, making nutrients available more quickly to subsequent decomposer organisms in the soil food web.
+Termites are primary decomposers of woody material, coarse stems, and hard leaf mulch — materials that break down slowly through microbial action alone. In agricultural systems such as coffee, tea, and banana plantations, termites assist the initial breakdown of logs and coarse residues, making nutrients available more quickly to subsequent decomposer organisms in [[the-soil-food-web]].
 
 This primary breakdown step is critical in tropical systems where large volumes of coarse organic material are generated through pruning, harvesting, and natural leaf fall. Without termites, this material would persist as slow-decomposing mats that smother soil surfaces and delay nutrient cycling across the entire system.
 
