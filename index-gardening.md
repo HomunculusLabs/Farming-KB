@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1134 pages**
+**1140 pages**
 
 ## A
 
@@ -343,6 +343,8 @@
 - [[fodder-growing-guide]]
 - [[forest-bamboo-plant-specific-microorganism-culturing]]
 - [[forest-ecology-basics]]
+- [[frost-protection-and-thermal-belts]]
+- [[frost-protection-strategies]]
 - [[fruit-body-count-per-flush-brassinosteroid-efficacy]]
 - [[fruit-forest-establishment]]
 - [[fruit-growing-guide-organic]]
@@ -854,6 +856,8 @@
 - [[plant-vision-light-perception]]
 - [[plant-volatile-communication-chemical-ecology]]
 - [[plants-and-electromagnetism]]
+- [[plants-as-heat-generators]]
+- [[plants-as-heaters-and-seed-germination-factors]]
 - [[plants-gods-nicotiana]]
 - [[plants-gods-syrian-rue]]
 - [[plants-of-the-gods-brugmansia-angels-trumpet]]
@@ -926,6 +930,8 @@
 - [[seasonal-vegetable-planting]]
 - [[seed-balls-technique]]
 - [[seed-chitting-and-pre-sprouting-techniques]]
+- [[seed-germination-and-stratification]]
+- [[seed-germination-stratification-photoperiodism]]
 - [[seed-germination-techniques-solomon]]
 - [[seed-quality-and-selection-solomon]]
 - [[seed-saving-and-selection]]

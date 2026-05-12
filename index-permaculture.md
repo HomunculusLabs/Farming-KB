@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1112 pages**
+**1116 pages**
 
 ## A
 
@@ -175,6 +175,7 @@
 - [[forest-garden-seven-layers]]
 - [[forest-gardens]]
 - [[free-range-poultry-forage-design-mollison]]
+- [[frost-protection-in-permaculture]]
 - [[fruit-tree-guild-roles]]
 - [[fukuoka-duck-rice-fish-polyculture]]
 - [[fukuoka-evergreen-state-permaculture-conference]]
@@ -1174,6 +1175,9 @@
 - [[williams-pdc-water-treatment]]
 - [[williams-pdc-zone-analysis]]
 - [[windbreak-and-shelterbelt-design]]
+- [[windbreak-design-and-establishment]]
+- [[windbreak-design-establishment]]
+- [[windbreak-design-establishment-methods]]
 - [[windbreak-shelterbelt-species-selection]]
 
 ## Y

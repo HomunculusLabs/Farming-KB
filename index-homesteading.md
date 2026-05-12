@@ -2,11 +2,12 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**218 pages**
+**219 pages**
 
 ## A
 
 - [[adobe-construction]]
+- [[albedo-and-solar-radiation]]
 - [[animal-butcher-and-processing]]
 - [[animal-byproducts]]
 - [[animal-tractoring]]
