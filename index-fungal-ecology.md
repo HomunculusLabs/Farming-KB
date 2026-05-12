@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2622 pages**
+**2625 pages**
 
 ## #
 
@@ -1435,6 +1435,7 @@
 - [[human-uses-fungi-history]]
 - [[humus-formation-and-soil-organic-matter]]
 - [[humus-humic-acid-fulvic-acid-distinctions]]
+- [[humus-sources-and-mulch-systems-tropics]]
 - [[hydnum-tooth-fungi-and-clavaria-coral-fungi]]
 - [[hydrogen-peroxide-tissue-culture-wild-polypores]]
 - [[hyphal-anastomosis-self-non-self-recognition]]
@@ -2630,8 +2631,10 @@
 - [[trichloroethylene-fungal-degradation]]
 - [[trichoderma-forest-green-mold-guide]]
 - [[tricholoma-pleurotus-and-white-spored-edible-genera]]
+- [[tropical-mulch-systems-and-humus-creation]]
 - [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]
 - [[tropical-restoration-mycorrhiza]]
+- [[tropical-soil-life-and-humus-sources]]
 - [[tropical-vs-temperate-distribution-neurotropic-fungi]]
 - [[tropical-vs-temperate-fungal-diversity]]
 - [[tropisms-psilocybe-cubensis-gravitropism]]

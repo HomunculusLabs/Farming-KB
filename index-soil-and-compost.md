@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**618 pages**
+**625 pages**
 
 ## A
 
@@ -85,7 +85,6 @@
 - [[calcium-magnesium-secondary-nutrients]]
 - [[calcium-phosphate-bionutrient]]
 - [[capillary-action-in-soils]]
-- [[cation-exchange-capacity]]
 - [[chelated-nutrients]]
 - [[clay-soil-management]]
 - [[clay-soil-management-solomon]]
@@ -176,6 +175,7 @@
 
 ## E
 
+- [[earth-shaping-and-mulch-application-tropics]]
 - [[earthworm-breeding]]
 - [[earthworm-ecology]]
 - [[earthworms-and-difficult-soils]]
@@ -400,6 +400,7 @@
 - [[mineral-sources-for-soils]]
 - [[mulch-gardening-critique]]
 - [[mulch-producing-plants]]
+- [[mulch-systems-and-earth-shaping-tropics]]
 - [[mulch-types-and-effects]]
 - [[mulch-types-effects-soil-biology]]
 - [[mulching-guide]]
@@ -651,11 +652,17 @@
 - [[teaming-with-nutrients-ph-testing-and-soil-amendment]]
 - [[teaming-with-nutrients-plant-nutrient-essentials-npk]]
 - [[temperature-effects-plant-nutrient-uptake]]
+- [[termites-ants-tropical-soil-ecology]]
 - [[thermal-composting-vs-aact]]
 - [[tompkins-soil-health-howard-indore-process]]
 - [[toxic-elements-in-soils]]
 - [[trace-elements-in-soil]]
 - [[tribal-soil-classification-and-structure]]
+- [[tropical-mulch-systems]]
+- [[tropical-soil-management-and-restoration]]
+- [[tropical-soils-and-fertility]]
+- [[tropical-soils-and-fertility-management]]
+- [[tropical-soils-nutrient-management]]
 
 ## U
 

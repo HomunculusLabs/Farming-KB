@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1155 pages**
+**1159 pages**
 
 ## A
 
@@ -139,6 +139,8 @@
 
 ## E
 
+- [[earth-constructs-permaculture]]
+- [[earthmoving-machinery-permaculture]]
 - [[earthmoving-tools-permaculture-mollison]]
 - [[earthworks-for-water-conservation]]
 - [[earthworks-for-water-management]]
@@ -1019,6 +1021,7 @@
 - [[permaculture-tagasaste]]
 - [[permaculture-taro-guide]]
 - [[permaculture-temperate-design-strategies]]
+- [[permaculture-terrace-design-slopes]]
 - [[permaculture-thermal-belt-siting]]
 - [[permaculture-tree-crop-systems]]
 - [[permaculture-twelve-design-principles]]
@@ -1126,6 +1129,7 @@
 
 ## T
 
+- [[terrace-construction-earthworks]]
 - [[thermodynamics-energy-flow-permaculture-design]]
 - [[tidal-estuarine-aquaculture-mollison]]
 - [[tompkins-albert-abrams-electronic-diagnosis]]

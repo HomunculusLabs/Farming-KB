@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1164 pages**
+**1165 pages**
 
 ## A
 
@@ -323,6 +323,7 @@
 
 ## E
 
+- [[earth-shaping-and-water-management-in-the-tropics]]
 - [[ebb-and-flow]]
 - [[echinacea-growing-guide]]
 - [[ecological-garden-design]]
