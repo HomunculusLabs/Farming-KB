@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2619 pages**
+**2620 pages**
 
 ## #
 
@@ -1535,6 +1535,7 @@
 - [[laccase-mediated-pcb-transformation]]
 - [[laccase-mediator-system-dye]]
 - [[lactarius-cultivation-attempts]]
+- [[latitude-effects-on-photosynthesis-and-crop-production]]
 - [[leaf-litter-microfungal-diversity-tropical-temperate]]
 - [[leake-mycorrhizal-carbon-cycle-global-sequestration]]
 - [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]

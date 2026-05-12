@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1286 pages**
+**1288 pages**
 
 ## A
 
@@ -326,6 +326,7 @@
 - [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]
 - [[comparison-kefir-vs-kombucha]]
 - [[comparison-kefir-vs-yogurt]]
+- [[comparison-kelp-meal-vs-basalt-rock-dust]]
 - [[comparison-kelp-meal-vs-rock-dust]]
 - [[comparison-keyhole-garden-vs-raised-bed]]
 - [[comparison-keyhole-garden-vs-square-foot-gardening]]
@@ -869,6 +870,7 @@
 - [[query-how-do-i-start-a-small-scale-mushroom-farm-for-profit]]
 - [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 - [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
+- [[query-how-do-i-start-an-outdoor-mushroom-garden-in-my-backyard]]
 - [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
 - [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]]
 - [[query-how-do-i-start-growing-berries-in-my-garden]]

@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1116 pages**
+**1118 pages**
 
 ## A
 
@@ -114,6 +114,7 @@
 - [[coastal-ground-covers-hedges-permaculture]]
 - [[coastal-permaculture-plants]]
 - [[coastal-plant-communities-permaculture]]
+- [[coastal-windbreak-systems-and-plant-wind-tolerance]]
 - [[coleman-bed-preparation-and-minimal-tillage]]
 - [[coleman-fall-bed-preparation-early-outdoor-planting]]
 - [[coleman-minor-tillage-bed-preparation]]
@@ -1175,9 +1176,10 @@
 - [[williams-pdc-water-treatment]]
 - [[williams-pdc-zone-analysis]]
 - [[windbreak-and-shelterbelt-design]]
-- [[windbreak-design-and-establishment]]
+- [[windbreak-design-and-livestock-shelter]]
 - [[windbreak-design-establishment]]
 - [[windbreak-design-establishment-methods]]
+- [[windbreak-effects-on-soil-moisture-and-extreme-weather]]
 - [[windbreak-shelterbelt-species-selection]]
 
 ## Y
