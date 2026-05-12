@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1153 pages**
+**1156 pages**
 
 ## A
 
@@ -114,6 +114,9 @@
 - [[clay-seed-pellets-direct-seeding]]
 - [[cleve-backster-plant-perception-experiments]]
 - [[climate-and-microclimate-management]]
+- [[cloud-seeding-and-orographic-precipitation]]
+- [[cloud-seeding-and-orographic-rainfall]]
+- [[cloud-seeding-and-orographic-rainfall-enhancement]]
 - [[clubroot-disease-management]]
 - [[coastal-gardening]]
 - [[coastal-trees-salt-tolerant-forage]]

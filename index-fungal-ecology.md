@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2620 pages**
+**2622 pages**
 
 ## #
 
@@ -720,6 +720,8 @@
 - [[fly-agaric-victorian-fairy-paintings]]
 - [[fly-agaric-western-literature]]
 - [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]
+- [[forest-humus-water-absorption]]
+- [[forest-humus-water-storage]]
 - [[formulation-and-delivery-of-fungal-inocula]]
 - [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
 - [[free-spore-ring-europe-mushroom-cultivation-network]]

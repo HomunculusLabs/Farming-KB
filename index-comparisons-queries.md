@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1291 pages**
+**1293 pages**
 
 ## A
 
@@ -294,11 +294,13 @@
 - [[comparison-greywater-vs-constructed-wetland]]
 - [[comparison-greywater-vs-rainwater-harvesting]]
 - [[comparison-guava-vs-passion-fruit-cultivation]]
+- [[comparison-gypsum-vs-dolomite]]
 - [[comparison-hardneck-vs-softneck-garlic]]
 - [[comparison-hardy-kiwi-vs-fuzzy-kiwi-vs-grape-for-trellising]]
 - [[comparison-hazelnut-vs-almond-vs-walnut-cultivation]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
 - [[comparison-heirloom-vs-hybrid-seeds]]
+- [[comparison-hempcrete-vs-rammed-earth]]
 - [[comparison-hempcrete-vs-straw-bale-construction]]
 - [[comparison-herb-spiral-vs-keyhole-beds]]
 - [[comparison-herb-spiral-vs-keyhole-garden]]

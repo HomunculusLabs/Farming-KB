@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1136 pages**
+**1143 pages**
 
 ## A
 
@@ -141,7 +141,9 @@
 ## E
 
 - [[earthmoving-tools-permaculture-mollison]]
+- [[earthworks-for-water-conservation]]
 - [[earthworks-for-water-management]]
+- [[earthworks-water-conservation-and-storage]]
 - [[ecological-succession-in-permaculture-design]]
 - [[edge-effect-and-microclimate]]
 - [[edge-effect-ecology]]
@@ -405,6 +407,8 @@
 - [[ianto-evans-polyculture-system]]
 - [[incremental-design-in-permaculture]]
 - [[incremental-design-permaculture-ethics]]
+- [[infiltration-earthworks-and-water-conservation]]
+- [[infiltration-earthworks-water-storage]]
 - [[integrate-rather-than-segregate]]
 
 ## J
@@ -1121,6 +1125,7 @@
 - [[tompkins-lawrence-biological-interstellar-communication]]
 - [[tompkins-luther-burbank-intuitive-breeding]]
 - [[tompkins-radionic-agriculture-pesticides]]
+- [[tree-biomass-and-guild-ecology]]
 - [[tree-vine-crops-arid-tropical-mollison]]
 - [[trellis-shadehouse-design-mollison]]
 
@@ -1156,6 +1161,7 @@
 - [[water-conservation]]
 - [[water-harvesting-and-conservation]]
 - [[water-harvesting-and-conservation-in-permaculture]]
+- [[water-permaculture-global-local-strategies]]
 - [[williams-pdc-additional-permaculture-principles]]
 - [[williams-pdc-appropriate-technology]]
 - [[williams-pdc-client-interview-process]]
@@ -1194,6 +1200,7 @@
 - [[windbreak-design-and-strategy]]
 - [[windbreak-design-establishment]]
 - [[windbreak-design-establishment-methods]]
+- [[windbreak-design-griggs-putnam-index]]
 - [[windbreak-effects-on-soil-moisture-and-extreme-weather]]
 - [[windbreak-establishment-and-benefits]]
 - [[windbreak-establishment-methods]]
