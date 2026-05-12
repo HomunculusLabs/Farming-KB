@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1280 pages**
+**1284 pages**
 
 ## A
 
@@ -62,6 +62,7 @@
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-autoflowering-vs-photoperiod]]
 - [[comparison-avocado-vs-mango-cultivation]]
+- [[comparison-azomite-vs-rock-dust]]
 - [[comparison-backyard-food-forest-vs-urban-permaculture]]
 - [[comparison-bacterial-dominant-vs-fungal-dominant-tea]]
 - [[comparison-bacteriophages-vs-antibiotics]]
@@ -330,6 +331,7 @@
 - [[comparison-keyline-vs-contour-swale]]
 - [[comparison-keyline-vs-swale]]
 - [[comparison-keyline-vs-swale-design]]
+- [[comparison-kimchi-vs-kefir]]
 - [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
 - [[comparison-knf-vs-biodynamic]]
 - [[comparison-koji-vs-scoby-fermentation-culture]]
@@ -593,6 +595,7 @@
 - [[comparison-two-row-vs-six-row-barley]]
 - [[comparison-valerian-vs-ashwagandha]]
 - [[comparison-valerian-vs-chamomile]]
+- [[comparison-valerian-vs-echinacea]]
 - [[comparison-valerian-vs-lemon-balm]]
 - [[comparison-valerian-vs-passionflower]]
 - [[comparison-valerian-vs-st-johns-wort]]
@@ -826,6 +829,7 @@
 - [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]
 - [[query-how-do-i-make-biodynamic-preparations-for-my-farm-or-garden]]
 - [[query-how-do-i-make-compost-tea]]
+- [[query-how-do-i-make-homemade-organic-pest-control-sprays-for-my-garden]]
 - [[query-how-do-i-make-jadam-natural-pesticide-jnp]]
 - [[query-how-do-i-make-kimchi-with-lacto-fermentation]]
 - [[query-how-do-i-make-koji-at-home-for-beginners]]

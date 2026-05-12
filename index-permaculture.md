@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1,063 pages**
+**1085 pages**
 
 ## A
 
@@ -122,11 +122,14 @@
 - [[cool-climate-home-garden-mollison]]
 - [[cool-climate-settlement-design-mollison]]
 - [[coppice-management-permaculture]]
+- [[creatively-use-and-respond-to-change]]
 - [[csa-farm-share-model]]
+- [[cycles-in-permaculture]]
 
 ## D
 
 - [[dalbergia-sissoo-permaculture-timber-tree]]
+- [[design-from-patterns-to-details]]
 - [[duckweed-and-aquatic-plants-permaculture-systems]]
 
 ## E
@@ -149,6 +152,7 @@
 - [[faires-permaculture-water-harvesting]]
 - [[faires-water-harvesting-and-swales]]
 - [[farm-forestry-design-mollison]]
+- [[farm-strategies-and-yield-extension-in-permaculture]]
 - [[farming-with-air-water-and-sunlight]]
 - [[farming-with-air-water-sunlight]]
 - [[fodder-trees-livestock-permaculture]]
@@ -385,6 +389,7 @@
 ## I
 
 - [[ianto-evans-polyculture-system]]
+- [[integrate-rather-than-segregate]]
 
 ## J
 
@@ -584,7 +589,9 @@
 - [[mollison-domestic-small-animals-zone-one]]
 - [[mollison-drought-proofing-strategies]]
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]
+- [[mollison-extending-and-storing-yields]]
 - [[mollison-farm-dam-design-modifications]]
+- [[mollison-farm-design-strategies-for-yield-increase]]
 - [[mollison-farm-forestry-and-woodlot-design]]
 - [[mollison-flood-retardation-by-trees-and-earthworks]]
 - [[mollison-fractals-branching-and-conduit-design]]
@@ -602,6 +609,7 @@
 - [[mollison-local-currency-systems-and-community-banking]]
 - [[mollison-meadow-design-and-plant-assemblies]]
 - [[mollison-mulch-materials-sources-and-tropical-application]]
+- [[mollison-open-living-systems-and-design-principles]]
 - [[mollison-orographic-and-forest-rainfall-effects]]
 - [[mollison-pdc-arid-landscape-settlement]]
 - [[mollison-pdc-community-legal-structure]]
@@ -628,6 +636,7 @@
 - [[mollison-plant-nursery-species-selection]]
 - [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
 - [[mollison-rain-interception-and-throughfall-in-forests]]
+- [[mollison-resource-classification-and-management]]
 - [[mollison-salicornia-flats-and-estuarine-aquaculture]]
 - [[mollison-sediment-management-and-check-dam-systems]]
 - [[mollison-shade-systems-and-canopy-architecture]]
@@ -651,6 +660,7 @@
 - [[mollison-wet-dry-tropical-design-strategies]]
 - [[mollison-wet-tropical-forest-structure-and-polyculture]]
 - [[mollison-wildfire-dynamics-and-firestorm-behavior]]
+- [[mollison-yield-theory-and-creation-strategies]]
 - [[moringa-oleifera-horseradish-tree-permaculture]]
 - [[multipurpose-trees-in-permaculture-design]]
 
@@ -742,6 +752,7 @@
 - [[permaculture-community-design]]
 - [[permaculture-community-resilience]]
 - [[permaculture-composting]]
+- [[permaculture-core-design-principles-mollison]]
 - [[permaculture-crop-rotation]]
 - [[permaculture-currency-and-economics]]
 - [[permaculture-date-palm-guide]]
@@ -941,6 +952,9 @@
 - [[permaculture-principles]]
 - [[permaculture-pyrethrum-daisy]]
 - [[permaculture-quinoa-growing-guide]]
+- [[permaculture-resource-categories]]
+- [[permaculture-resource-classification]]
+- [[permaculture-resources-classification]]
 - [[permaculture-salt-tolerant-fodder-plants]]
 - [[permaculture-sector-analysis]]
 - [[permaculture-seed-saving-and-selection]]
@@ -1010,6 +1024,8 @@
 
 - [[rainwater-harvesting-systems]]
 - [[reading-the-landscape]]
+- [[resource-classification-and-management-in-permaculture]]
+- [[resource-classification-permaculture]]
 
 ## S
 
@@ -1051,6 +1067,7 @@
 - [[swale-construction-guide]]
 - [[swale-design]]
 - [[swale-design-construction]]
+- [[system-yield-permaculture-design]]
 
 ## T
 
@@ -1083,6 +1100,9 @@
 - [[urban-permaculture-trees-water-cycling]]
 - [[urban-rooftop-gardening-and-sheet-mulching]]
 - [[urban-water-catchment-cistern-thermal-mass]]
+- [[use-and-value-renewable-resources]]
+- [[use-edges-and-value-the-marginal]]
+- [[use-small-and-slow-solutions]]
 
 ## V
 
@@ -1128,6 +1148,10 @@
 - [[windbreak-and-shelterbelt-design]]
 - [[windbreak-shelterbelt-species-selection]]
 
+## Y
+
+- [[yield-theory-and-strategies-in-permaculture-design]]
+
 ## Z
 
 - [[zeri-circular-economy-systems]]
@@ -1135,3 +1159,4 @@
 - [[zone-5-wilderness]]
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
+- [[zone-system]]

@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**216 pages**
+**217 pages**
 
 ## A
 
@@ -182,6 +182,7 @@
 - [[oner-golden-goat-island-sweet-skunk-hawaiian-romulan]]
 - [[oner-sativa-landrace-preservation]]
 - [[online-homestead-sales]]
+- [[open-systems-energy-exchange]]
 - [[oss-oeric-drying-and-preservation-methods]]
 - [[outdoor-shelter-building]]
 

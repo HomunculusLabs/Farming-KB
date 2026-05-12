@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1,790 pages**
+**1795 pages**
 
 ## #
 
@@ -205,6 +205,9 @@
 - [[coleman-winter-day-length-and-persephone-months]]
 - [[colorines-erythrina-seeds-mexican-hallucinogen]]
 - [[complexity-and-connections]]
+- [[complexity-and-connections-in-permaculture]]
+- [[complexity-connections-and-order-in-permaculture]]
+- [[complexity-connections-and-permitted-functions]]
 - [[computational-fluid-dynamics]]
 - [[computational-universe-and-natural-intelligence]]
 - [[consciousness-and-psychedelics]]
@@ -637,6 +640,7 @@
 - [[harner-american-indian-peyote-rituals]]
 - [[harner-ayahuasca-shamanism-amazon]]
 - [[harner-campa-ayahuasca-ceremony]]
+- [[harner-cashaahua-banisteriopsis]]
 - [[harner-cashinahua-banisteriopsis-usage]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[harner-datura-solanaceous-shamanism]]
@@ -1233,6 +1237,7 @@
 - [[old-world-solanaceous-hallucinogens]]
 - [[ololiuqui]]
 - [[omega-point-and-psychedelic-eschatology]]
+- [[open-systems-entropy-and-life-complexity]]
 - [[optical-isomers-psychedelic-phenethylamines]]
 
 ## P
