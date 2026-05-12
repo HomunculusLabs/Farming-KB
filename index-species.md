@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**4617 pages**
+**4637 pages**
 
 ## #
 
@@ -564,6 +564,8 @@
 - [[auricularia-delicata]]
 - [[auricularia-polytricha]]
 - [[auriscalpium-vulgare]]
+- [[australorp]]
+- [[australorp-chicken]]
 - [[avena-fatua]]
 - [[avena-sativa]]
 - [[avicennia-marina]]
@@ -758,6 +760,7 @@
 
 ## C
 
+- [[c-h-waddington-permaculture]]
 - [[cabomba-caroliniana]]
 - [[caffeine]]
 - [[cajanus-cajan]]
@@ -953,6 +956,9 @@
 - [[carex-vulpina]]
 - [[carex-vulpinoidea]]
 - [[carica-papaya]]
+- [[carlander]]
+- [[carlander-fisheries-ecologist]]
+- [[carlander-fisheries-researcher]]
 - [[carlina-vulgaris]]
 - [[carmagnola]]
 - [[carnegiea-gigantea]]
@@ -1041,6 +1047,7 @@
 - [[cetraria-islandica]]
 - [[cetraria-nivalis]]
 - [[cetraria-pinastri]]
+- [[ch-waddington-permaculture]]
 - [[chaenomeles-speciosa]]
 - [[chaetomium-globosum]]
 - [[chaga]]
@@ -1233,6 +1240,7 @@
 - [[convallaria-majalis]]
 - [[convolvulus-pluricaulis]]
 - [[convolvulus-prostratus]]
+- [[cooloola-dune-system]]
 - [[copaifera-langsdorffii]]
 - [[copelandia-anomalus]]
 - [[copelandia-cambodginiensis]]
@@ -1424,6 +1432,9 @@
 - [[damiana-turnera-diffusa]]
 - [[dandelion]]
 - [[daniel-chamovitz]]
+- [[daniel-goodman]]
+- [[daniel-goodman-ecologist]]
+- [[daniel-goodman-ecology]]
 - [[danthonia-californica]]
 - [[danthonia-spicata]]
 - [[daphne-meereum]]
@@ -2401,6 +2412,8 @@
 - [[john-halpern]]
 - [[john-jeavons]]
 - [[john-ramsbottom]]
+- [[john-seymour]]
+- [[john-seymour-permaculture]]
 - [[john-w-allen]]
 - [[johns-hopkins-psychedelic-research]]
 - [[jonathan-ott]]
@@ -2548,6 +2561,7 @@
 - [[leccinum-aurantiacum]]
 - [[leccinum-insigne]]
 - [[leccinum-scabrum]]
+- [[leghorn-chicken]]
 - [[legousia-speculum-veneris]]
 - [[lemna-gibba]]
 - [[lemna-minor]]
@@ -2887,6 +2901,7 @@
 - [[mochi-cannabis]]
 - [[mochi-cannabis-strain]]
 - [[molinia-caerulea]]
+- [[mollisonian-permaculture-principles]]
 - [[momordica-charantia]]
 - [[monacrosporium-haptotylum]]
 - [[monarda-didyma]]
@@ -3241,6 +3256,7 @@
 - [[perilla-frutescens]]
 - [[permaculture]]
 - [[permaculture-cycles-mollison]]
+- [[permaculture-design-methods]]
 - [[permaculture-institute]]
 - [[permanent-marker]]
 - [[persea-americana]]
@@ -3254,6 +3270,8 @@
 - [[pertusaria-pertusa]]
 - [[pestalotiopsis-microspora]]
 - [[petasites-hybridus]]
+- [[peter-moon-ecologist]]
+- [[peter-moon-ecologist-permaculture]]
 - [[peter-oei]]
 - [[petiveria-alliacea]]
 - [[petroleum-ether]]
@@ -3796,6 +3814,7 @@
 - [[rhizopogon-vinicolor]]
 - [[rhizopus-arrhizus]]
 - [[rhizopus-stolonifer]]
+- [[rhode-island-red]]
 - [[rhodiola-rosea]]
 - [[rhodobryum-giganteum]]
 - [[rhododendron-catawbiense]]
@@ -4698,6 +4717,7 @@
 - [[ziziphus-jujuba]]
 - [[zkittlez]]
 - [[zombie-kush]]
+- [[zone-and-sector-analysis]]
 - [[zookies-cannabis]]
 - [[zornia-latifolia]]
 - [[zoysia-japonica]]

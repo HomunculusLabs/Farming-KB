@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1284 pages**
+**1285 pages**
 
 ## A
 
@@ -62,6 +62,7 @@
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-autoflowering-vs-photoperiod]]
 - [[comparison-avocado-vs-mango-cultivation]]
+- [[comparison-azomite-vs-kelp-meal]]
 - [[comparison-azomite-vs-rock-dust]]
 - [[comparison-backyard-food-forest-vs-urban-permaculture]]
 - [[comparison-bacterial-dominant-vs-fungal-dominant-tea]]

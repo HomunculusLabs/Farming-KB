@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1085 pages**
+**1090 pages**
 
 ## A
 
@@ -130,6 +130,7 @@
 
 - [[dalbergia-sissoo-permaculture-timber-tree]]
 - [[design-from-patterns-to-details]]
+- [[diversity-and-stability-in-permaculture]]
 - [[duckweed-and-aquatic-plants-permaculture-systems]]
 
 ## E
@@ -418,6 +419,7 @@
 
 - [[mandala-garden-design]]
 - [[melaleuca-paperbarks-permaculture]]
+- [[methods-of-design-in-permaculture]]
 - [[mollison-aquatic-pond-types-and-nomenclature]]
 - [[mollison-arid-lands-aquatic-species]]
 - [[mollison-bamboo-permaculture-systems]]
@@ -753,6 +755,7 @@
 - [[permaculture-community-resilience]]
 - [[permaculture-composting]]
 - [[permaculture-core-design-principles-mollison]]
+- [[permaculture-core-principles]]
 - [[permaculture-crop-rotation]]
 - [[permaculture-currency-and-economics]]
 - [[permaculture-date-palm-guide]]
@@ -764,8 +767,8 @@
 - [[permaculture-design-course-methodology]]
 - [[permaculture-design-framework]]
 - [[permaculture-design-from-patterns-to-details]]
-- [[permaculture-design-methods]]
 - [[permaculture-design-methods-and-topics]]
+- [[permaculture-design-methods-introduction]]
 - [[permaculture-design-philosophy]]
 - [[permaculture-design-principles]]
 - [[permaculture-design-principles-and-sustainability]]
@@ -814,6 +817,7 @@
 - [[permaculture-designers-manual-vine-systems]]
 - [[permaculture-designers-manual-wildlife-corridors]]
 - [[permaculture-difficult-sites-plant-guide]]
+- [[permaculture-diversity-and-stability]]
 - [[permaculture-dogwood-cornus-capitata]]
 - [[permaculture-domestic-animals]]
 - [[permaculture-duck-pond-systems]]
@@ -828,6 +832,7 @@
 - [[permaculture-energy-hierarchy]]
 - [[permaculture-ethical-principles-holmgren]]
 - [[permaculture-ethics]]
+- [[permaculture-ethics-and-design-principles]]
 - [[permaculture-ethics-and-permanent-agriculture]]
 - [[permaculture-ethics-and-principles]]
 - [[permaculture-ethics-and-rules-of-use]]
@@ -953,6 +958,7 @@
 - [[permaculture-pyrethrum-daisy]]
 - [[permaculture-quinoa-growing-guide]]
 - [[permaculture-resource-categories]]
+- [[permaculture-resource-categories-and-yield-dispersal]]
 - [[permaculture-resource-classification]]
 - [[permaculture-resources-classification]]
 - [[permaculture-salt-tolerant-fodder-plants]]
@@ -1157,6 +1163,5 @@
 - [[zeri-circular-economy-systems]]
 - [[zeri-organization]]
 - [[zone-5-wilderness]]
-- [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]
 - [[zone-system]]
