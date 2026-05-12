@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1185 pages**
+**1190 pages**
 
 ## A
 
@@ -172,6 +172,9 @@
 - [[farming-with-air-water-and-sunlight]]
 - [[farming-with-air-water-sunlight]]
 - [[field-observation-permaculture-design]]
+- [[floodwater-harvesting-and-braided-stream-management]]
+- [[floodwater-harvesting-and-braided-streams]]
+- [[floodwater-harvesting-braided-streams]]
 - [[fodder-trees-livestock-permaculture]]
 - [[food-forest-design]]
 - [[food-forest-design-guide]]
@@ -419,6 +422,7 @@
 - [[incremental-design-permaculture-ethics]]
 - [[infiltration-earthworks-and-water-conservation]]
 - [[infiltration-earthworks-water-storage]]
+- [[infiltration-slope-stabilisation-and-floodwater-harvesting]]
 - [[inselbergs-and-fold-mountains-in-desert-permaculture]]
 - [[integrate-rather-than-segregate]]
 - [[integrated-land-management-and-polyculture-design]]
@@ -1204,6 +1208,7 @@
 - [[water-harvesting-arid-lands]]
 - [[water-harvesting-in-arid-lands]]
 - [[water-permaculture-global-local-strategies]]
+- [[water-runoff-factors-and-swale-systems]]
 - [[williams-pdc-additional-permaculture-principles]]
 - [[williams-pdc-appropriate-technology]]
 - [[williams-pdc-client-interview-process]]
