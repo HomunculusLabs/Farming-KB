@@ -33,7 +33,7 @@ fruit between 50-80°F, making it adaptable to most climates.
 
 ## Lion's Mane
 
-[[lions-mane-mushroom-hericium-erinaceus]]
+[[lions-mane-hericium-erinaceus]]
 
 Lion's mane is a distinctive saprotrophic mushroom recognized by its cascading
 white spines. Native to temperate forests across North America, Europe, and

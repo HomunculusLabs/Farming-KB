@@ -96,7 +96,7 @@ secretion governs the emergence of male branches.
 
 ## Environmental Distribution and Reproductive Strategy
 
-Don Thomas investigated the [[lichen-biology-and-ecological-significance]] of the Achlya
+Don Thomas investigated the [[lichen-biology-guide]] of the Achlya
 pheromone system by comparing mating type distributions in different
 pond environments.
 In seasonal ponds that dry out in summer and freeze in winter,

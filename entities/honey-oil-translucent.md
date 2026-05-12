@@ -33,7 +33,7 @@ Honey oil, also called translucent oil or amber oil, is a highly refined cannabi
 The principles of honey oil production apply to fungal extract refinement:
 
 - **Activated charcoal filtration**: The same Norit-type activated charcoal used to clarify cannabis oil is used in mycological laboratories to purify enzyme solutions, remove pigments from fungal extracts, and decolorize culture media.
-- **Mushroom extract refinement**: Dual-extraction processes for [[cancer-medicinal-mushrooms]] (water + alcohol) can benefit from charcoal filtration to remove unwanted pigments while preserving bioactive polysaccharides and triterpenes.
+- **Mushroom extract refinement**: Dual-extraction processes for [[medicinal-mushrooms]] (water + alcohol) can benefit from charcoal filtration to remove unwanted pigments while preserving bioactive polysaccharides and triterpenes.
 - **Quality indicator concept**: Just as translucent appearance indicates purity in cannabis oil, clarity and color are quality indicators in mushroom tinctures and extracts.
 - **[[pf-tek-alcohol-extraction-method]] of fungal compounds**: The alcohol dissolution step used in honey oil production parallels the alcohol extraction phase of medicinal mushroom [[cannabis-reefers-and-tincture-preparation]].
 

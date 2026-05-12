@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1205 pages**
+**1,205 pages**
 
 ## #
 

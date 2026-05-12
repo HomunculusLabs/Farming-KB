@@ -148,3 +148,19 @@ Anecdotal and preliminary clinical evidence suggests psilocybin may abort cluste
 - **Psychological risks**: Can trigger acute anxiety, paranoia, or psychotic episodes in predisposed individuals
 - **Contraindications**: Personal or family history of schizophrenia or [[blesching-cannabis-bipolar-disorder]]; concurrent MAOI use; unmanaged cardiovascular conditions
 - **Set and setting**: Therapeutic outcomes are critically dependent on psychological preparation, supportive environment, and integration
+
+## See Also
+
+- [[psilocybin-and-psilocin-biosynthesis-variation]]
+- [[psilocybin-and-psilocin-chemistry-and-pharmacology]]
+- [[psilocybin-and-psilocin-in-magic-mushrooms]]
+- [[psilocybin-chemistry-stability]]
+- [[psilocybin-consciousness-understanding]]
+- [[psilocybin-decriminalization-global]]
+- [[psilocybin-dosage-guidelines-australian-species]]
+- [[psilocybin-in-human-evolution]]
+- [[psilocybin-mushrooms-new-zealand-guide]]
+- [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]]
+- [[psilocybin-stability-and-degradation-in-fungi]]
+- [[psilocybin-stability-and-specimen-age]]
+- [[psilocybin-volatility-drying-degradation]]

@@ -68,7 +68,7 @@ Outdoors, Acapulco Gold will finish around mid-October in the Northern Hemispher
 
 ### Cultivation Difficulty
 
-The source material explicitly warns that Acapulco Gold is "not for the faint of heart, whether you're smoking or growing." For growers, this means the strain presents genuine challenges that make it unsuitable for inexperienced cultivators. The wild genetics require an understanding of sativa-specific [[cannabis-advanced-growing-techniques]], and the plant may not respond well to the rigid schedules and heavy feeding programs that modern hybrid varieties tolerate.
+The source material explicitly warns that Acapulco Gold is "not for the faint of heart, whether you're smoking or growing." For growers, this means the strain presents genuine challenges that make it unsuitable for inexperienced cultivators. The wild genetics require an understanding of sativa-specific [[cannabis-advanced-refinement-fractional-distillation]], and the plant may not respond well to the rigid schedules and heavy feeding programs that modern hybrid varieties tolerate.
 
 ### Preferred Growing Method
 

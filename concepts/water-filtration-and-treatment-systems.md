@@ -20,13 +20,22 @@ A range of treatment techniques can be applied depending on water quality and in
 - **Biological Removal** — Bacteria, phytoplankton, and higher aquatic plants metabolise and transform dissolved nutrients and pathogens.
 - **pH Adjustment** — Calcium applied as lime or sulphur compounds corrects acidity or alkalinity, improving conditions for both biological treatment and human use.
 
+
+
+
 ## Sand Filtration
 
 Sand filtration is the classical and most widely used method of water purification. Britain and many cities worldwide rely on sand filters supplemented by chlorination. The system operates by slow drip through approximately 1.2 metres of sand, with the top half composed of fine sand and the bottom half of coarser material. Fixed sand beds are typically built with brick bases for drainage. Maintenance involves periodically sweeping off the top 1 centimetre of sand, which is then removed, dried, and roasted before being returned to the filter bed.
 
+
+
+
 ## Activated Charcoal and Dripstone Filtration
 
 Activated charcoal provides fine filtration and can be produced from bones or plant materials such as willow and coconut husks. Charcoal's porous structure adsorbs dissolved contaminants, organic compounds, and some chemicals. Fine dripstone — a fine-pored stone — is used in water cleaners and coolers, providing additional physical filtration. These materials are often employed as final polishing stages in a treatment chain.
+
+
+
 
 ## Trickle Filters and Biological Nutrient Removal
 
@@ -34,15 +43,24 @@ Trickle filters pass water through sand or gravel beds that support resident bac
 
 Carbon is essential for nitrogen removal and conversion. It is added as carbohydrate sources including methanol, ethanol, or acetic acids derived from plant residues. Without sufficient plant or bacterial activity, nitrates move easily through subsoils and can emerge in wells and streams, posing health risks.
 
+
+
+
 ## Pond Management for Drinking Water
 
 Effective pond management for drinking water supply relies on two key strategies: light exclusion and surface water stabilisation. Reducing light penetration limits algal growth and decreases turbidity. Surface stabilisers such as water lilies, Azolla, and water hyacinth shade the water surface and reduce wave action that disturbs sediments.
 
 Bank stabilisation is equally important. Plants such as Juncus, Scirpus, grasses, clovers, Phyla nodosa (Lippia), bamboo, and pampas grass anchor banks, reduce erosion, and filter runoff before it enters the water body.
 
+
+
+
 ## Liming and pH Management
 
 Liming reduces turbidity effectively when water pH is 6.0 or less. Methods include placing crushed marble or limestone in tanks, spreading burnt lime over pond surfaces, or adding crushed shells. Lime also plays a role in phosphorus and sludge removal when applied in primary settling lagoons. After lime treatment, water typically passes through a trickle tower for ammonia removal, combining chemical and biological processes.
+
+
+
 
 ## Series Filtration Systems
 
@@ -55,6 +73,9 @@ The most effective approach combines multiple treatment stages in sequence:
 5. **Active carbon column** — final chemical adsorption, composed of approximately 10% active carbon and 90% silicon dioxide (sourced from burnt rice, oat, or wheat husks)
 
 Each stage targets different contaminant classes, resulting in progressively cleaner water.
+
+
+
 
 ## Open Lagoons and Ecological Treatment
 

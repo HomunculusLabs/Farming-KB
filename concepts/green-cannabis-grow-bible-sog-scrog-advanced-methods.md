@@ -17,7 +17,7 @@ type: concept
 # SOG, ScrOG, and Advanced Indoor Grow Methods
 
 Chapter 8 of Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] covers advanced indoor
-[[cannabis-advanced-growing-techniques]] that maximize yield by concentrating on top cola
+[[cannabis-advanced-refinement-fractional-distillation]] that maximize yield by concentrating on top cola
 production. The three most common methods are SOG ([[comparison-sea-of-green-vs-screen-of-green]]),
 ScrOG ([[cannabis-screen-of-green-scrog-guide]]), and Cabinet Growing.
 

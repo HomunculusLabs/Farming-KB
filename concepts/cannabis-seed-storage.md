@@ -14,7 +14,7 @@ tags: [cannabis, plant-growth]
 Proper seed storage is essential for maintaining cannabis seed viability
 over extended periods. Cervantes provides detailed guidance on optimal
 [[vegetable-storage-conditions-by-temperature-and-humidity]], common threats to seed longevity, and practical
-[[food-preservation-and-storage-methods]] suitable for both home growers and commercial seed
+[[food-preservation-canning]] suitable for both home growers and commercial seed
 banks.
 
 ## Why Storage Matters

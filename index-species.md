@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**4733 pages**
+**4,733 pages**
 
 ## #
 

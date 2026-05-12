@@ -78,7 +78,7 @@ The Tournefort document provides critical evidence for several important histori
 
 ## Related Topics
 - [[mushroom-cultivation-sterile-technique]]
-- [[morel-mushroom-cultivation-and-ecology]]
+- [[morel-mushroom-guide]]
 - [[mushroom-cultivation-contamination-prevention]]
 - [[grass-seed-substrate-for-mushroom-cultivation]]
 - [[victorian-mushroom-cultivation]]

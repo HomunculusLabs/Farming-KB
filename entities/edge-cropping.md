@@ -78,6 +78,6 @@ Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 4 — Edge Cropping 
 ## See Also
 - [[fukuoka-clover-cover-cropping-soil-ecology]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
-- [[trap-cropping-and-push-pull-pest-management]]
+- [[trap-cropping]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]
 - [[comparison-trap-cropping-vs-companion-planting]]

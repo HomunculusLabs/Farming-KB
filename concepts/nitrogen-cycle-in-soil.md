@@ -86,7 +86,7 @@ Industrial nitrogen fixation (Haber-Bosch process) now produces over 100 billion
 
 ## See Also
 - [[query-what-is-the-nitrogen-cycle-in-gardens-and-soil]]
-- [[nitrogen-cycle-in-agriculture-and-ecosystems]]
+- [[nitrogen-cycle-in-soil]]
 - [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
 - [[morishima-acacia-nitrogen-fixing-soil-building-tree]]
 - [[teaming-with-microbes-bacteria-and-archaea-in-soil]]

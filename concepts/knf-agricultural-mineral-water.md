@@ -83,13 +83,14 @@ There is no special dilution — use AMW like regular water:
 - Microorganisms from IMO colonize the water
 - One AMW watering equals 5 regular waterings in effectiveness
 
+
 ## See Also
 
-- [[knf-preparations]] — all KNF inputs overview
-- [[knf-mineral-liquid]] — Mineral Liquid types A-E for targeted applications
-- [[indigenous-microorganisms-imo]] — IMO #4 as microbial inoculant in AMW
-- [[knf-seawater-and-fermented-seawater]] — seawater as alternative mineral source
-- [[homestead-water-systems]] — broader water system design
+- [[knf-chitosan-preparation]]
+- [[knf-fmc-method-1-detailed]]
+- [[knf-imo-collection-methods]]
+- [[knf-maltose-preparation]]
+- [[knf-teaching-methodology]]
 
 ## Practical Applications
 

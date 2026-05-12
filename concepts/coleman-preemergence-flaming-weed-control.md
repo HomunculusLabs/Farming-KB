@@ -121,5 +121,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[dom]]
 - [[det]]
 - [[coleman-weed-control]]
-- [[weed-management-and-ecological-weed-control]]
+- [[weed-management-strategies]]
 - [[ingham-weed-control-through-biology]]

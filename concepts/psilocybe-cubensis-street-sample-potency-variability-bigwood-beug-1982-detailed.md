@@ -87,4 +87,4 @@ grow rooms may not maintain optimal conditions for alkaloid production.
 **Harvest timing.** Mushrooms harvested at different developmental stages
 (v immature vs. mature) contain different alkaloid concentrations.
 
-**Drying [[food-preservation-and-storage-methods]].** Psilocybin is relatively stable when
+**Drying [[food-preservation-canning]].** Psilocybin is relatively stable when

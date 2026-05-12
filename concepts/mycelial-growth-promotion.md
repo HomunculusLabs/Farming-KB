@@ -102,7 +102,7 @@ distance mycelium must grow to achieve full colonization.
 
 ### Bacterial-Fungal Interactions
 Certain bacteria (*Pseudomonas putida*, *[[bacillus-subtilis]]*) produce volatile
-[[plant-volatile-organic-compounds-and-chemical-ecology]] growth factors that stimulate fungal growth in
+[[plant-volatile-communication-chemical-ecology]] growth factors that stimulate fungal growth in
 compatible partnerships.
 
 ## Measuring Growth

@@ -120,6 +120,6 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[jerusalem-artichoke]]
 - [[permaculture]]
-- [[crop-rotation-and-soil-health-planning]]
+- [[crop-rotation-and-ley-farming]]
 - [[solomon-crop-rotation-and-garden-planning]]
 - [[hamilton-vegetable-planning-rotation]]

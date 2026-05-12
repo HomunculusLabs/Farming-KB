@@ -91,7 +91,7 @@ communities, and systematic experimentation to build expertise.
 ## See Also
 - [[fairy-rings-and-giant-mycelia]]
 - [[fairy-rings-mycelium-ecology-soil]]
-- [[sourdough-bread-science-and-fermentation]]
+- [[sourdough-bread-guide]]
 - [[fukuoka-science-destroy-and-rebuild-paradox]]
 - [[mushroom-folklore-and-culture]]
 

@@ -119,7 +119,7 @@ The relationship between wind patterns and forest composition means that prevail
 
 ## See Also
 
-- [[Microclimate Site Assessment]]
-- [[Trees and Precipitation]]
-- [[Temperature Effects of Trees]]
-- [[Tree Biomass and Energy Transactions]]
+- [[microclimate-site-assessment]]
+- [[trees-and-precipitation]]
+- [[temperature-effects-of-trees]]
+- [[tree-biomass-and-energy-transactions]]

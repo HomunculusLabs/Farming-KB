@@ -117,6 +117,6 @@ This humidity regulation has direct implications for human comfort. Outdoor area
 
 ## See Also
 
-- [[Microclimate Site Assessment]]
-- [[Wind Effects on Trees and Forests]]
-- [[Trees and Precipitation]]
+- [[microclimate-site-assessment]]
+- [[wind-effects-on-trees-and-forests]]
+- [[trees-and-precipitation]]

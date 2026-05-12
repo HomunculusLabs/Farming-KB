@@ -86,4 +86,4 @@ Hummingbirds visit the flowers in [[growing-gourmet-north-american-reishi-specie
 
 The finely divided foliage provides food for the larvae of several moth species, including the dot moth (Melanchra persicariae) in Eurasia. Caterpillar feeding damage is usually cosmetic and does not threaten plant health.
 
-[[jadam-pesticide-for-slugs-and-snails]] are the most significant pests, particularly damaging young shoots in spring. Physical barriers (crushed eggshells, copper tape) and biological controls are effective [[weed-management-strategies]] [[plant-disease-management-in-organic-gardens]].
+[[jadam-pesticide-for-slugs-and-snails]] are the most significant pests, particularly damaging young shoots in spring. Physical barriers (crushed eggshells, copper tape) and biological controls are effective [[weed-management-strategies]] [[plant-disease-management-solomon]].

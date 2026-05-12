@@ -46,7 +46,7 @@ The species is valued for its dual utility: producing high-quality bast fiber co
 
 - **Authority:** L. (1753)
 - **Synonyms:** *Crotalaria tenuifolia* Roxb., *Crotalaria sericea* Retz.
-- **Key cultivar:** 'Tropic Sun' (USDA-ARS release, 1982) — non-toxic, early-maturing, widely used in [[no-till-farming-and-conservation-agriculture]] systems. Most other accessions contain toxic pyrrolizidine alkaloids.
+- **Key cultivar:** 'Tropic Sun' (USDA-ARS release, 1982) — non-toxic, early-maturing, widely used in [[no-till-farming-principles]] systems. Most other accessions contain toxic pyrrolizidine alkaloids.
 
 ## Morphology
 

@@ -52,7 +52,7 @@ phosphate or fumarate salt forms are crystalline solids suitable for
 laboratory handling. The compound is sensitive to light, heat, and oxidation,
 requiring storage under inert atmosphere at low temperatures.
 
-## [[tryptamine-chemistry-and-psychedelic-pharmacology]]
+## [[tryptamine]]
 
 4-HO-DiPT acts primarily as a serotonin 5-HT₂A receptor agonist, the same
 mechanism underlying the psychedelic effects of psilocin, LSD, and DMT. The

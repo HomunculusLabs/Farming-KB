@@ -116,6 +116,6 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[lacto-fermentation-and-food-preservation-methods]]
 - [[natural-farm-food-preservation-methods]]
-- [[food-preservation-and-storage-methods]]
+- [[food-preservation-canning]]
 - [[palmer-mushroom-drying-preservation-methods]]
 - [[oss-oeric-drying-and-preservation-methods]]

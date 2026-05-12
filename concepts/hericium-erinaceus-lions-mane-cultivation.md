@@ -121,4 +121,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[doc]]
 - [[erinacines]]
 - [[mycelium]]
-- [[lions-mane-mushroom-hericium-erinaceus]]
+- [[lions-mane-hericium-erinaceus]]

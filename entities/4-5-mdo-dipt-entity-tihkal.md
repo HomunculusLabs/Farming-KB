@@ -82,3 +82,16 @@ The 4,5-methylenedioxy pattern continues to be explored in modern medicinal chem
 ## Additional References
 
 Shulgin, A. & Shulgin, A. TIHKAL: The Continuation. Transform Press, 1997.
+
+## See Also
+
+- [[4-aco-dipt]]
+- [[4-aco-met]]
+- [[4-d-entity-pihkal]]
+- [[4-fma]]
+- [[4-ma-entity-pihkal]]
+- [[4-po-dmt]]
+- [[4-prho-dmt]]
+- [[4-tim-entity-pihkal]]
+- [[4-tme-entity-pihkal]]
+- [[4-tsb-entity-pihkal]]

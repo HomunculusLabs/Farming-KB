@@ -53,19 +53,27 @@ Two closely related forms exist: the turkey's nest dam (above-grade embankment w
 - Limited head (elevation advantage) compared to hillside dams
 - Requires good clay fractions in soils for natural sealing
 
+
+
 ## Relevance to Cultivation and Mycology
 
 Turkey's nest dams provide flatland water storage critical for mushroom cultivation in areas without natural slope. The slight elevation advantage enables gravity-fed irrigation to mushroom log yards, outdoor mushroom bed misting systems, substrate hydration stations, and climate control systems in poly tunnels or grow rooms.
 
 For integrated permaculture systems on flat sites, turkey's nest dams combined with solar pumping create self-sustaining water supply for diverse cultivation including fungal production.
 
+
+
 ## Cost Comparison
 
 Mollison notes that for equivalent water volume, earth storage (dams) is the cheapest option, turkey's nest/ring dams are moderate cost, and concrete tanks are approximately 100 times the cost of equivalent earth storage.
 
+
+
 ## Source Reference
 
 Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), page 159.
+
+
 
 ## See Also
 

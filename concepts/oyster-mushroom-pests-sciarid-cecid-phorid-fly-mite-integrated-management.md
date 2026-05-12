@@ -25,7 +25,7 @@ tags:
 
 ### Species and Identification
 
-Sciarids, primarily *Lycoriella mali*, are considered the most important pests of [[oyster-mushroom-cultivation-and-species-guide]]. Adult flies are approximately 2 mm in length with long thread-like antennae and dark wings. Larvae are 6 to 12 mm long with a distinct black head capsule and a semi-transparent body. The larvae are the damaging stage, feeding directly on [[antimicrobial-compounds-mushroom-mycelium]], small pinheads, and developing fruiting bodies.
+Sciarids, primarily *Lycoriella mali*, are considered the most important pests of [[oyster-mushroom-cultivation-methods]]. Adult flies are approximately 2 mm in length with long thread-like antennae and dark wings. Larvae are 6 to 12 mm long with a distinct black head capsule and a semi-transparent body. The larvae are the damaging stage, feeding directly on [[antimicrobial-compounds-mushroom-mycelium]], small pinheads, and developing fruiting bodies.
 
 ### Damage and Impact
 

@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[spore-print]]
 - [[spore]]
 - [[mycorrhiza]]
-- [[bolete-mushrooms-ecology-identification-and-culinary-significance]]
+- [[bolete-mushrooms-ecology-edibility]]

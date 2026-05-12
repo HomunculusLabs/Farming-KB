@@ -72,7 +72,7 @@ Water spinach is ideally suited to integrated aquaculture systems:
 
 ### Wetland Waste Treatment
 
-The rapid growth and high nutrient uptake of water spinach make it effective in [[constructed-wetlands-and-ecological-wastewater-treatment]] greywater treatment systems. It absorbs nitrogen, phosphorus, and other nutrients from wastewater, reducing pollution while producing a harvestable crop.
+The rapid growth and high nutrient uptake of water spinach make it effective in [[constructed-wetlands-wastewater-treatment]] greywater treatment systems. It absorbs nitrogen, phosphorus, and other nutrients from wastewater, reducing pollution while producing a harvestable crop.
 
 ### Erosion Control
 

@@ -87,3 +87,15 @@ Primula alpicola is not currently listed as threatened on the IUCN Red List, tho
 [[dighton-fungal-responses-climate-change]] poses a long-term threat to alpine Primula species through upward habitat shifts and reduced snow cover duration. Warming temperatures may force populations into increasingly restricted elevational bands on mountain summits.
 
 Collection for the horticultural trade has historically affected some Himalayan plant populations, though Primula alpicola is now widely propagated in cultivation. Sustainable seed collection programs support both conservation and horticultural demand.
+
+## See Also
+
+- [[primula-cortusoides]]
+- [[primula-elatior]]
+- [[primula-hirsuta]]
+- [[primula-integrifolia]]
+- [[primula-obconica]]
+- [[primula-parryi]]
+- [[primula-sieboldii]]
+- [[primula-stricta]]
+- [[primula-vialii]]

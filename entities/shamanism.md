@@ -64,12 +64,14 @@ Research in this area draws on multidisciplinary approaches combining field obse
 
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
+
 ## See Also
-- [[amanita-muscaria-physical-description-field-identification]]
-- [[amanita]]
-- [[field-guide-psilocybin-mushroom-species-identification]]
-- [[ghouled-field-guide-historical-context]]
-- [[amanita-muscaria-grail-legends-healing-immortality-magic-pots]]
+
+- [[shamanism-and-hallucinogenic-plants]]
+- [[shamanism-and-techniques-of-ecstasy]]
+- [[shamanism-entheogenic-spirituality]]
+- [[shamanism-plant-ecstasy]]
+- [[shamanism-techniques-of-ecstasy]]
 
 ## See Also
 - [[amanita]]

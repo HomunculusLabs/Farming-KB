@@ -80,5 +80,5 @@ Despite the revolutionary advances brought by pure culture methods, the early tw
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 - [[historical-mushroom-cultivation]]
 - [[pf-tek-mushroom-cultivation-method]]
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
+- [[shiitake-mushroom-cultivation]]
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]

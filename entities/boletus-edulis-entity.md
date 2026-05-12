@@ -37,7 +37,7 @@ The species has a broad [[geographic-distribution-of-psilocybe-species]] spannin
 - **Authority:** Bull. (1782)
 - **Synonyms:** Boletus bulbosus (Schaeff.) Smotlacha; Leccinum edule (Bull.) Gray; Tubiporus edulis (Bull.) Maire
 
-The epithet *edulis* is Latin for "edible," reflecting its long-standing [[bolete-mushrooms-ecology-identification-and-culinary-significance]]. Common names vary widely: porcini (Italian), cep (French), Steinpilz (German), and penny bun (English).
+The epithet *edulis* is Latin for "edible," reflecting its long-standing [[bolete-mushrooms-ecology-edibility]]. Common names vary widely: porcini (Italian), cep (French), Steinpilz (German), and penny bun (English).
 
 ## Morphology
 

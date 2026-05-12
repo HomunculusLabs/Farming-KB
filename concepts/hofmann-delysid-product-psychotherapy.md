@@ -89,8 +89,14 @@ attempted to induce a mystical-religious experience through the shock
 effects of LSD, which could then serve as a starting point for
 restructuring and curing the patient's personality in accompanying
 
+
 ## See Also
-- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
+
+- [[hofmann-lsd-consciousness-and-philosophy]]
+- [[hofmann-lsd-remedy-to-inebriant-transition]]
+- [[hofmann-mexican-mushroom-expedition-psilocybin]]
+- [[hofmann-mind-matter-forbidden-transgression]]
+- [[hofmann-mysticism-meditation-reality]]
 
 ## Practical Applications
 

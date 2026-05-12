@@ -80,15 +80,12 @@ systems, willows are commonly used in swale stabilisation, greywater
 treatment zones, riparian buffer strips, and as a fast-growing biomass
 source for mulch and fuel.
 
+
 ## See Also
 
-- [[rhynchospora-alba]]
-
-- [[salix-pentandra]]
-
-- [[salix-fragilis]]
-- [[populus-alba]]
-
-- [[alnus-rubra]]
-- tamarix
-- tagasaste
+- [[salix-babylonica]]
+- [[salix-caprea]]
+- [[salix-discolor]]
+- [[salix-integra]]
+- [[salix-nigra]]
+- [[salix-purpurea]]

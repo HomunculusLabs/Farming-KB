@@ -88,3 +88,17 @@ consciousness that generated the symptoms.
 ## Psychedelic Therapy for Alcoholism
 
 Early [[hofmann-lsd-clinical-research-early-studies]] on LSD-assisted
+
+## See Also
+
+- [[metzner-cohen-janiger-hollywood-psychedelic-arts-research]]
+- [[metzner-ethnobotanical-generation-harner-halifax-furst-mckenna-shamanic-research]]
+- [[metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott]]
+- [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]
+- [[metzner-harvard-psilocybin-prison-project-behavior-change]]
+- [[metzner-leary-consciousness-expansion-addiction-contraction-model]]
+- [[metzner-lsd-psychotomimetic-military-mystic-catalyst-origins]]
+- [[metzner-military-cia-lsd-psychotomimetic-weapon-research]]
+- [[metzner-neoshamanic-preparation-and-integration-practices]]
+- [[metzner-san-pedro-cactus-andean-ceremony-altar-practice]]
+- [[metzner-set-and-setting-psychedelic-therapy]]

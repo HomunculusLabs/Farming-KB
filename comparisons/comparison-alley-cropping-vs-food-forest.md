@@ -105,7 +105,7 @@ for eventual understory planting as the system evolves.
 
 ## See Also
 
-- [[agroforestry-and-alley-cropping]]
+- [[agroforestry]]
 - [[food-forest-design-guide]]
 - [[comparison-alley-cropping-vs-silvopasture]]
 - [[forest-gardening-and-food-forests]]

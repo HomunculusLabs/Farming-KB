@@ -77,7 +77,7 @@ Since there is no cure, prevention is critical:
 
 ## See Also
 - [[organic-pest-and-disease-management]]
-- [[plant-disease-management-in-organic-gardens]]
+- [[plant-disease-management-solomon]]
 - [[cotter-natural-pest-control-disease-management]]
 - [[growing-gourmet-bacterial-blotch-disease-management]]
 - [[potato-pest-and-disease-management]]
@@ -98,7 +98,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[det]]
-- [[plant-disease-management-in-organic-gardens]]
+- [[plant-disease-management-solomon]]
 - [[plant-disease-ecology-and-organic-management]]
 - [[potato-pest-and-disease-management]]
 - [[plant-disease-management-solomon]]

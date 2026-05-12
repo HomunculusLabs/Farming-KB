@@ -77,7 +77,7 @@ In animal nutrition, lupin seeds partially replace soybean meal in rations for p
 
 Human food uses include lupin flour in baked goods, pasta, and protein supplements. Lupin-derived ingredients serve as egg and dairy replacers in vegan formulations. Lupin-based hummus and tofu analogues are commercially produced in Australia and Europe. [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] has approved lupin-derived proteins as novel food ingredients since 2006.
 
-As a cover crop, white lupin provides excellent biomass production (5–10 t DM/ha), weed suppression, and soil phosphorus mobilization through its cluster roots. It is increasingly used in [[no-till-farming-and-conservation-agriculture]] rotations across southern Europe and South America.
+As a cover crop, white lupin provides excellent biomass production (5–10 t DM/ha), weed suppression, and soil phosphorus mobilization through its cluster roots. It is increasingly used in [[no-till-farming-principles]] rotations across southern Europe and South America.
 
 Major diseases include anthracnose (*Colletotrichum lupini*), which causes severe yield losses in humid environments, and Pleiochaeta root rot. Breeding for anthracnose resistance has been a major focus since the 1990s, with resistant cultivars now widely available. Aphids (*Aphis fabae*) and bean weevils (*Sitona lineatus*) are the primary insect pests.
 

@@ -117,9 +117,12 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]
-- [[eliot-coleman]]
-- [[doc]]
-- [[dom]]
-- [[det]]
+
+- [[coleman-lady-eve-balfour-organic-farming-philosophy]]
+- [[coleman-mache]]
+- [[coleman-mobile-greenhouse-mechanical-systems-skids-rails-runners-anchors]]
+- [[coleman-soil-block-transplant-system]]
+- [[coleman-sunlight-geometry-winter-greenhouse-daylength]]
+- [[coleman-tilther-electric-greenhouse-tillage]]

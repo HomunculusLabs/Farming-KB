@@ -79,7 +79,7 @@ even after cooking, with a mild nutty flavor. Common preparations include sauté
 in butter or [[olive-cultivation-and-olive-oil-production]], inclusion in risotto, omelets, and cream sauces, and
 preservation by pickling or drying. In Chinese cuisine it is stir-fried, used in
 hot pots, and valued for its crisp texture. It is one of the most commercially
-significant [[edible-wild-mushrooms-foraging-guide]] in southwestern China, with annual harvests exceeding
+significant [[edible-wild-mushrooms-by-region]] in southwestern China, with annual harvests exceeding
 several thousand tonnes in peak years. The firm flesh holds up well to canning and
 drying without becoming mushy.
 

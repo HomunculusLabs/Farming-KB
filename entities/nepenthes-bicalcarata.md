@@ -88,3 +88,13 @@ In cultivation, the species is challenging and rarely available commercially. It
 Ex situ conservation through botanical garden collections provides a safeguard, but cultivated populations remain genetically limited. The species is seldom available from specialist nurseries.
 
 ### Inquiline Communities
+
+## See Also
+
+- [[nepenthes-ampullaria]]
+- [[nepenthes-maxima]]
+- [[nepenthes-mirabilis]]
+- [[nepenthes-rafflesiana]]
+- [[nepenthes-reinwardtiana]]
+- [[nepenthes-thorelii]]
+- [[nepenthes-ventricosa]]

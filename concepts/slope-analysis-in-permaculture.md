@@ -87,9 +87,9 @@ The difference, Mollison suggests, is that traditional peoples planned for thems
 - Apply no-tillage, hedgerows, and copses on plains to prevent wind erosion and salting
 - Even minimal slopes (1:150) can be used for water and heat collection
 
+
 ## See Also
 
-- [[permaculture-zone-and-sector-analysis]]
-- Water Conservation in Permaculture
-- Keypoint Planning
-- [[permaculture-guild-design]]
+- [[slope-analysis-landscape-planning]]
+- [[slope-aspect-and-elevation-in-design]]
+- [[slope-aspect-elevation-orientation]]

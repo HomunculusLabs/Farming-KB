@@ -43,7 +43,7 @@ Vegetables grown with chemical NPK fertilizers suffer predictable problems:
 
 Plants supplied only with NPK are analogous to a human subsisting on refined
 carbohydrates and a multivitamin pill. They may survive and produce bulk, but
-they lack the full complement of cofactors, enzymes, [[plant-defense-chemistry-and-secondary-metabolites]]
+they lack the full complement of cofactors, enzymes, [[plant-defense-mechanisms]]
 that characterize truly healthy food.
 
 ## The Potassium-Yield vs Nutrition Tradeoff

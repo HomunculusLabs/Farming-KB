@@ -72,7 +72,7 @@ The most promising dikaryotic hybrids are transferred from agar to fruiting subs
 
 ### Step 6: Stabilization and Preservation
 
-Once a superior hybrid has been identified, it must be stabilized through repeated subculturing to ensure that its desirable traits are consistent and heritable. The final strain is preserved on slant cultures, in liquid nitrogen, or through other long-term [[food-preservation-and-storage-methods]].
+Once a superior hybrid has been identified, it must be stabilized through repeated subculturing to ensure that its desirable traits are consistent and heritable. The final strain is preserved on slant cultures, in liquid nitrogen, or through other long-term [[food-preservation-canning]].
 
 ## Stamets Personal Hybridization Experiences
 

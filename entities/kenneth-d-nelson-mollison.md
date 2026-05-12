@@ -18,6 +18,8 @@ Kenneth D. Nelson is an Australian civil engineer and author of what Mollison ca
 - **Field:** Agricultural water engineering, small dam construction
 - **Era:** Mid-20th century (major work published 1985)
 
+
+
 ## Key Facts
 
 - Published his comprehensive dam-building manual in 1985
@@ -25,6 +27,9 @@ Kenneth D. Nelson is an Australian civil engineer and author of what Mollison ca
 - His work covers the complete engineering lifecycle: from catchment assessment through construction to outlet design and cost estimation
 - Focuses primarily on valley dams (barrier or embankment dams), which Mollison notes is the typical engineering approach
 - Provides detailed technical drawings for most dam adjunct structures
+
+
+
 
 ## Technical Contributions
 
@@ -38,6 +43,9 @@ Nelson's manual addresses:
 - **Volume estimation:** Methods for calculating storage capacity of planned impoundments
 - **Cost estimation:** Economic analysis tools for budgeting dam construction projects
 
+
+
+
 ## Limitations from a Permaculture Perspective
 
 Mollison identifies key gaps in Nelson's engineering-focused approach:
@@ -47,6 +55,9 @@ Mollison identifies key gaps in Nelson's engineering-focused approach:
 - **Integration:** The engineering perspective does not fully address how dams connect to the broader water management system, tree plantings, soil treatment, and landscape patterning
 - **Production:** The potential for dams as aquaculture sites producing diverse plant, fish, and waterfowl protein is underexplored
 
+
+
+
 ## Relationship to Other Water Authors
 
 Nelson's work complements P.A. Yeomans' *Water for Every Farm/The Keyline Plan* (1954/1981):
@@ -55,12 +66,18 @@ Nelson's work complements P.A. Yeomans' *Water for Every Farm/The Keyline Plan* 
 - **Nelson:** Provides the detailed engineering specifications for constructing the water storages that Yeomans' design system requires
 - Together, these two authors give the permaculture designer both the strategic layout (Yeomans) and the construction methods (Nelson) needed for comprehensive water management
 
+
+
+
 ## Relevance to Cultivation and Permaculture
 
 - **Essential reference:** For anyone designing and building small dams, farm ponds, or earth tanks for water storage
 - **Engineering rigor:** Provides the technical foundations that permaculture design books often abbreviate
 - **Cost-effectiveness:** Small dams and earth tanks are among the highest-return investments for drought-proofing agricultural land
 - **Integration challenge:** Designers must supplement Nelson's engineering knowledge with biological understanding — adding aquaculture, edge planting, wildlife habitat, and water quality management to the basic engineering structure
+
+
+
 
 ## Source
 

@@ -52,7 +52,7 @@ Erinacines (A–K) are cyathin-terpenoids produced by the mycelium. Erinacine A 
 
 ### Beta-Glucans
 
-Like many [[cancer-medicinal-mushrooms]], *H. erinaceus* contains β-(1,3)-(1,6)-D-glucans that modulate immune function through activation of macrophages, natural killer cells, and dendritic cells.
+Like many [[medicinal-mushrooms]], *H. erinaceus* contains β-(1,3)-(1,6)-D-glucans that modulate immune function through activation of macrophages, natural killer cells, and dendritic cells.
 
 ## Pharmacology and Health Benefits
 

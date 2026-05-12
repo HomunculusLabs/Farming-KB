@@ -88,3 +88,14 @@ ducks, Lotus spp., strapweed (Triglochin), algal pond weeds
 ## Special Herbs for Poultry
 
 Several special herbs are highlighted for their specific benefits:
+
+## See Also
+
+- [[mollison-flood-retardation-by-trees-and-earthworks]]
+- [[mollison-introduction-to-soils-in-permaculture]]
+- [[mollison-life-in-earth-burrowers-roots]]
+- [[mollison-pdc-solar-greenhouse-design]]
+- [[mollison-sediment-management-and-check-dam-systems]]
+- [[mollison-soil-pollution-and-remediation]]
+- [[mollison-tribal-soil-classifications-and-soil-structure]]
+- [[mollison-tropical-earth-shaping-polyculture-economics]]

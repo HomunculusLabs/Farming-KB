@@ -93,6 +93,6 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 ## Links
 
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
-- [[greenhouse-design]] -- Structure [[farm-pond-design-and-construction]]
+- [[greenhouse-design]] -- Structure [[pond-design-and-construction]]
 - [[seed-starting-reference]] -- Propagation under protection
 - [[seasonal-planning]] -- Monthly task calendar

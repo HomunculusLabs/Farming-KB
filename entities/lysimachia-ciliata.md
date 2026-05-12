@@ -87,3 +87,12 @@ Fringed loosestrife is easily grown in moist, partly shaded garden conditions. I
 - **Spacing:** 30–45 cm between plants
 
 In cultivation, Lysimachia ciliata can be vigorous and may spread beyond its intended area. Planting in contained beds or using root barriers is advisable in small gardens.
+
+## See Also
+
+- [[lysimachia-clethroides]]
+- [[lysimachia-ephemerum]]
+- [[lysimachia-maritima]]
+- [[lysimachia-nemorum]]
+- [[lysimachia-quadrifolia]]
+- [[lysimachia-thyrsiflora]]

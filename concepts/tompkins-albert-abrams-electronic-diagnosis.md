@@ -88,3 +88,9 @@ against syphilis behaved similarly.
 ## The Oscilloclast
 
 Abrams realized that if he could devise a wave-emitting instrument
+
+## See Also
+
+- [[tompkins-electricity-plants-historical-discoveries]]
+- [[tompkins-hieronymus-eloptic-energy]]
+- [[tompkins-radionic-agriculture-pesticides]]

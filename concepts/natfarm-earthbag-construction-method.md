@@ -88,3 +88,10 @@ intense desert sun will degrade the bags too much, and no more than three
 months in a [[permaculture-designers-manual-temperate-climate-design]] will produce the same effect. Once the walls
 are built, cover them with a moisture barrier and then plaster. People have
 used |cob, cement stucco, and [[comparison-lime-plaster-vs-earthen-plaster]]. Cob is a
+
+## See Also
+
+- [[natfarm-aquaculture-pond-design]]
+- [[natfarm-lacto-fermentation-preservation]]
+- [[natfarm-rainwater-harvesting-storage]]
+- [[natfarm-zone-sector-permaculture-planning]]

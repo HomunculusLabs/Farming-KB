@@ -15,7 +15,7 @@ concentrate nutrients from decomposing organic matter, relocate nutrients
 between different organic resources, and ultimately make nutrients available
 to plants to maintain primary productivity. The capacity for coordinated
 nutrient redistribution through [[fungal-mycelial-networks-nutrient-translocation]] is a defining feature of
-[[bloomfield-fungal-biology-and-hyphal-growth]] underpins the [[lichen-biology-and-ecological-significance]] [[soil-microbial-biomass-measurement-ecological-significance]] of fungi in
+[[bloomfield-fungal-biology-and-hyphal-growth]] underpins the [[lichen-biology-guide]] [[soil-microbial-biomass-measurement-ecological-significance]] of fungi in
 terrestrial environments.
 
 The architecture of mycelial networks is not static but is continuously

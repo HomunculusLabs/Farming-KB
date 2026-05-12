@@ -87,3 +87,11 @@ Anti-nutritional factors including phytic acid, trypsin inhibitors, and tannins 
 ## Cultivation
 
 Mung bean has a short growing cycle of 55–70 days, making it an ideal crop for relay and intercropping systems.
+
+## See Also
+
+- [[vigna-angularis]]
+- [[vigna-mungo]]
+- [[vigna-subterranea]]
+- [[vigna-umbellata]]
+- [[vigna-unguiculata]]

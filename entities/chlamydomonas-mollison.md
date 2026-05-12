@@ -11,6 +11,9 @@ tags: [algae, sewage-treatment, phytoplankton, wastewater, microorganism]
 
 Chlamydomonas is a genus of green algae (Chlorophyta) identified by Mollison as one of the four almost universal sewage lagoon algae. It is a biflagellate single-celled organism that plays a crucial role in the biological treatment of wastewater through photosynthetic oxygen production in faculative and aerobic sewage treatment ponds.
 
+
+
+
 ## Classification
 
 - **Domain**: Eukaryota
@@ -21,6 +24,9 @@ Chlamydomonas is a genus of green algae (Chlorophyta) identified by Mollison as 
 - **Family**: Chlamydomonadaceae
 - **Genus**: Chlamydomonas
 - **Functional group**: Phytoplankton / green alga
+
+
+
 
 ## Key Facts
 
@@ -33,6 +39,9 @@ Chlamydomonas is a genus of green algae (Chlorophyta) identified by Mollison as 
 - Model organism in cell biology and genetics research, with C. reinhardtii being the most studied
 - Fixes carbon and releases oxygen, driving the bacterial-algal symbiosis essential for sewage purification
 
+
+
+
 ## Role in Sewage Treatment
 
 Chlamydomonas is part of the algal community that transforms faculative and aerobic sewage ponds:
@@ -44,6 +53,9 @@ Chlamydomonas is part of the algal community that transforms faculative and aero
 
 The algal-bacterial symbiosis in treatment ponds is one of the most energy-efficient purification mechanisms available, requiring only sunlight as an energy input.
 
+
+
+
 ## Relevance to Cultivation
 
 - **Waste treatment lagoons**: Essential for natural wastewater treatment in permaculture and ecological design
@@ -52,12 +64,18 @@ The algal-bacterial symbiosis in treatment ponds is one of the most energy-effic
 - **Soil amendment**: Algal biomass can be composted and applied as fertiliser
 - **Aquaculture**: Supports zooplankton populations that feed farmed fish
 
+
+
+
 ## Environmental Tolerances
 
 - pH range: 6.5-8.5 (thrives in the pH 7.5-8.5 range of aerobic treatment ponds)
 - Temperature: Most active at 18-22 degrees C (64-72 degrees F), with reduced activity in winter (10-15 degrees C)
 - Light: Requires adequate sunlight; dense populations may self-shade
 - Salinity: Generally freshwater, though some species tolerate brackish conditions
+
+
+
 
 ## See Also
 

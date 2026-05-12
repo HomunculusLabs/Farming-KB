@@ -56,9 +56,13 @@ In areas of very severe wind, the primary strategy is survival. Observe what nat
 ### Configuration
 Windbreak configuration should be matched to the design situation. In tropical and subtropical areas, a thin-crowned windbreak integrated into crop plantings can provide both wind protection and shade, while also supplying mulch for vegetable crops. Permeability of around 40% is generally optimal — solid barriers create excessive turbulence on the lee side, while overly open barriers provide insufficient protection.
 
+
+
 ## The Rain Tree of Hierro
 
 The Canary Islands' Hierro island was once home to a legendary giant Til tree (*Ocotea foetens*) whose leaves condensed mountain mists so effectively that water dripped into two large cisterns placed beneath it. This single tree produced sufficient water from sea mists to meet the needs of all the island's inhabitants. The tree was destroyed in a storm in 1612 AD, but the site and remnants of the cisterns have been preserved. This example illustrates the extraordinary capacity of trees to harvest atmospheric moisture through condensation — a principle that can be applied in permaculture design through strategic tree placement in fog-prone or coastal areas.
+
+
 
 ## Hydraulic Engineering Benefits of Woodlands
 
@@ -72,6 +76,8 @@ Trees and forests play a critical role in water management that extends far beyo
 - **Slope-foot trapping**: A narrow woodland belt at the foot of a slope arrests soil carried down by rainfall runoff
 
 A well-timbered landscape, in the words of hydraulic engineer R.A. Ryves, is a favourable landscape from the perspective of water management. The removal of forests is ultimately paid for through drought, water loss, nutrient depletion, and soil salinisation — costs that are rarely charged against the activities that cause deforestation.
+
+
 
 ## The Irreplaceability of Old Forests
 

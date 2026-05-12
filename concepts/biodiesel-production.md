@@ -140,7 +140,7 @@ After washing, biodiesel contains suspended water droplets:
 ### Other Tests
 
 - **pH test** — Biodiesel should be neutral (pH 7). High pH indicates residual catalyst
-- **Cloud point** — The temperature at which biodiesel begins to gel. Important for [[cold-climate-farming-and-season-extension]] use
+- **Cloud point** — The temperature at which biodiesel begins to gel. Important for [[cold-climate-gardening]] use
 - **Water content** — Professional testing kits available; should be below 500ppm
 
 ## Glycerin Byproduct

@@ -80,6 +80,6 @@ In England, mushrooms were grown in specially constructed houses, cellars, caves
 ## Related Concepts
 - [[french-mushroom-caves-and-underground-cultivation]]
 - [[mushroom-growing-situations-and-cave-cultivation]]
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
+- [[shiitake-mushroom-cultivation]]
 - [[pf-tek-mushroom-cultivation-method]]
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]

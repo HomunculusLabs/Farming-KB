@@ -148,3 +148,9 @@ Rotate crop families to prevent disease and pest buildup:
 - Year 1: Nightshades (tomatoes, peppers, potatoes, eggplant)
 - Year 2: Legumes (beans, peas)
 - Year 3: Brassicas (cabbage, broccoli, cauliflower, kale)
+
+## See Also
+
+- [[cold-greenhouse-design-unheated]]
+- [[cold-shock-stratification-protocol-mushroom-fruiting-induction]]
+- [[cold-shocking-mushrooms]]

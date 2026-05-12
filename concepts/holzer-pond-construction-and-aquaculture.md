@@ -115,4 +115,4 @@ to inform current best practices and research directions.
 - [[holzer-aquaculture-pond-construction]]
 - [[sepp-holzer-pond-construction]]
 - [[pond-design-and-construction]]
-- [[farm-pond-design-and-construction]]
+- [[pond-design-and-construction]]

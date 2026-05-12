@@ -31,6 +31,7 @@ Schoenoplectus is a genus of tall rush-like wetland plants (club-rushes) recomme
 - Rhizomatous root system creates extensive anaerobic and aerobic micro-zones in the root zone
 - Can be mown and removed periodically for mulch or cellulose, permanently exporting accumulated metals and nutrients
 
+
 ## Role in Biological Water Treatment
 
 Schoenoplectus works in reed bed systems alongside other macrophytes:
@@ -40,6 +41,8 @@ Schoenoplectus works in reed bed systems alongside other macrophytes:
 - **Scirpus spp.**: Breaks down phenols including toxic pentachlorophenol
 
 The combination of these species in a maze-like gravel-filter canal creates a robust biological treatment system that produces water with low to zero populations of E. coli, coliform bacteria, Salmonella, and Enterococci.
+
+
 
 ## Metal Uptake Specificity
 
@@ -52,6 +55,8 @@ Schoenoplectus is particularly effective at removing:
 
 The antibiotic exudation property is unusual among wetland plants and provides an additional pathogen-killing mechanism beyond simple filtration and bacterial competition.
 
+
+
 ## Relevance to Cultivation
 
 - **Constructed wetlands**: Key species in designed wastewater treatment systems for farms, ecovillages, and small communities
@@ -60,6 +65,8 @@ The antibiotic exudation property is unusual among wetland plants and provides a
 - **Harvest cycles**: Regular mowing and removal of biomass permanently exports accumulated metals and nutrients
 - **Multi-function**: Provides habitat for wildlife, aesthetic value, and craft materials (basketry) in addition to water treatment
 
+
+
 ## Growing Conditions
 
 - **Water depth**: 0-30 cm standing water
@@ -67,6 +74,8 @@ The antibiotic exudation property is unusual among wetland plants and provides a
 - **pH**: Tolerant of wide range (6.0-8.5)
 - **Hardiness**: Most species frost-tolerant and perennial
 - **Spread**: Vigorous rhizomatous growth; can be invasive in optimal conditions
+
+
 
 ## See Also
 

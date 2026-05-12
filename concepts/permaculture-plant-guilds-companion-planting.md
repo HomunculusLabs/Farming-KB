@@ -32,7 +32,7 @@ provides materials for new trees to grow.
 
 ## The Three Sisters Guild
 
-The quintessential crop guild is the traditional Native [[native-american-planting-methods-and-indigenous-agriculture]] methods and indigenous agriculture of
+The quintessential crop guild is the traditional Native [[native-american-church-peyote-ceremony-structure-roles-roadman]] methods and indigenous agriculture of
 corn, beans, and squash:
 - Corn provides a tall stalk for beans to climb
 - Runner beans trellis up the corn stalks and [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] that is being lost

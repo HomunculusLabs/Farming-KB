@@ -115,4 +115,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[composting]]
 - [[cover-crops]]
 - [[cover-crop]]
-- [[weed-management-and-ecological-weed-control]]
+- [[weed-management-strategies]]

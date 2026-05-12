@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[greenhouse-gardening-and-season-extension]]
 - [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - [[solomon-row-covers-and-season-extension]]
-- [[cold-climate-farming-and-season-extension]]
+- [[cold-climate-gardening]]

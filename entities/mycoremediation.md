@@ -148,3 +148,9 @@ Mycelium-colonized substrate placed as permeable barriers in drainage pathways. 
 - **Toxicity thresholds**: Very high pollutant concentrations can inhibit fungal growth
 - **Scale-up**: Transitioning from laboratory to field-scale results has proven challenging
 - **Monitoring**: Difficulty tracking fungal activity [[staycare-lignin-peroxidase-and-pollutant-degradation]] in complex field environments
+
+## See Also
+
+- [[mycoremediation-field-applications]]
+- [[mycoremediation-fungal-biodegradation-toxic-waste]]
+- [[mycoremediation-fungal-bioremediation]]

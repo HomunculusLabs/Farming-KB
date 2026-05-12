@@ -88,3 +88,11 @@ dioxide sensitivity.
   constituting 2–8% dry weight. Occurs in both (+)- and (-)-enantiomeric
   forms; the (+)-form is more biologically active.
 - **Barbatic acid** — a depside found in the cortical layer
+
+## See Also
+
+- [[usnea-florida]]
+- [[usnea-hirta]]
+- [[usnea-lapponica]]
+- [[usnea-longissima]]
+- [[usnea-subfloridana]]

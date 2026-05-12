@@ -98,7 +98,7 @@ The ridge bed system's labor requirements make it less attractive for large-scal
 
 ## Related Topics
 - [[mushroom-cultivation-sterile-technique]]
-- [[morel-mushroom-cultivation-and-ecology]]
+- [[morel-mushroom-guide]]
 - [[mushroom-cultivation-contamination-prevention]]
 - [[grass-seed-substrate-for-mushroom-cultivation]]
 - [[victorian-mushroom-cultivation]]

@@ -50,12 +50,20 @@ The living traditions of mushroom use in Nigeria and Ivory Coast
 represent invaluable ethnopharmacological knowledge that deserves
 careful documentation before it is lost.
 
+
 ## See Also
 
-- [[psilocybin-mushroom-altitudinal-distribution]]
+- [[stamets-agarikon-pox-virus-antiviral-bio-defense]]
+- [[stamets-growing-room-design]]
+- [[stamets-morel-morchella-cultivation]]
+- [[stamets-mushrooms-civilization-history-ethnomycology]]
+- [[stamets-mycelium-iconic-types-strain-identification]]
+- [[stamets-pelletized-granular-spawn-production]]
+- [[stamets-spawn-types-and-viability-home-made-commercial]]
+- [[stamets-species-sequencing-substrate-recycling-cascade-cultivation]]
+- [[stamets-spore-mass-slurry-inoculation-mycelium-transplantation]]
+- [[stamets-stump-platform-cultivation]]
 
-- gartz-magic-mushrooms-global-distribution-patterns
-- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]
 ## Practical Considerations
 
 When working with African Psilocybin Mushroom Distribution, several practical factors should be

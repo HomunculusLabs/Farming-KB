@@ -83,7 +83,10 @@ Soma interacts with surrounding ecosystems through pollinator
 relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
 
+
 ## See Also
-- [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]
-- [[wasson-brough-soma-debate]]
-- [[mckenna-peganum-harmala-syrian-rue-soma-theory]]
+
+- [[soma-brew-entheogenic-admixture]]
+- [[soma-enigma-vedic-sacred-plant-identity]]
+- [[soma-entheogen]]
+- [[soma-plant-admixture-theory]]

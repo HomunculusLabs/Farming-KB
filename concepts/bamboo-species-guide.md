@@ -74,7 +74,7 @@ Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 
 - [[mushroom-species-selection-guide]]
 - [[gourmet-mushroom-species-guide]]
 - [[stamets-psi-psilocybe-cubensis-species-guide]]
-- [[oyster-mushroom-cultivation-and-species-guide]]
+- [[oyster-mushroom-cultivation-methods]]
 - [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]]
 
 ## Benefits and Advantages

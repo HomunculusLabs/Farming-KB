@@ -9,7 +9,7 @@ sources: []
 
 # Onion Growing Guide
 
-Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, [[native-american-planting-methods-and-indigenous-agriculture]] (sets, seeds, transplants), growing care, curing, and storage.
+Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, [[native-american-church-peyote-ceremony-structure-roles-roadman]] (sets, seeds, transplants), growing care, curing, and storage.
 
 ## Day-Length Types
 

@@ -101,7 +101,7 @@ Swales are shallow channels on contour that slow, spread, and sink runoff:
 - Intercept runoff before it concentrates and erodes
 - Allow water to infiltrate into the soil, recharging groundwater
 - Can be planted with grasses, shrubs, or trees
-- See [[swale-design-construction]] for detailed [[farm-pond-design-and-construction]] guidance
+- See [[swale-design-construction]] for detailed [[pond-design-and-construction]] guidance
 
 ### Diversion Structures
 - **Diversions**: Channels that divert water away from vulnerable areas to safe discharge points

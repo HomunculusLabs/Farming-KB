@@ -88,3 +88,23 @@ environmental losses.
 
 ## Connections
 - [[soil-foodweb]]
+
+## See Also
+
+- [[plant-antifreeze-proteins-cold-acclimation]]
+- [[plant-awareness-consciousness-debate-neurobiology]]
+- [[plant-enzymes-and-cofactors]]
+- [[plant-guilds-and-polycultures]]
+- [[plant-guilds-in-permaculture]]
+- [[plant-guilds-permaculture-design]]
+- [[plant-mechanosensing-and-thigmomorphogenesis]]
+- [[plant-medicine-ethics]]
+- [[plant-photoreception-and-vision]]
+- [[plant-photoreceptor-comparison-phytochrome-cryptochrome-phototropin]]
+- [[plant-photoreceptors-light-perception]]
+- [[plant-photoreceptors-phytochromes-cryptochromes]]
+- [[plant-proprioception-and-gravitropism]]
+- [[plant-proprioception-mechanosensing-chamovitz]]
+- [[plant-sap-analysis-nutrient-diagnostics]]
+- [[plant-sensing-communication]]
+- [[plant-thigmomorphogenesis-and-mechanosensing]]

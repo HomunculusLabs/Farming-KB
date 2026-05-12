@@ -52,7 +52,7 @@
     52|bacteria in the filtration system and prevents the anaerobic conditions that produce
     53|unpleasant odours and favour pathogens.
     54|
-    55|## [[farm-pond-design-and-construction]]
+    55|## [[pond-design-and-construction]]
     56|Natural swimming pools are typically divided into two zones: a deeper swimming area and a
     57|shallower regeneration zone where the filtration plants grow. The regeneration zone
     58|usually occupies roughly half to two-thirds of the total surface area, though this ratio

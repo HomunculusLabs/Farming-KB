@@ -120,6 +120,6 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[spore]]
 - [[amanita]]
-- [[edible-wild-mushrooms-foraging-guide]]
+- [[edible-wild-mushrooms-by-region]]
 - [[perennial-vegetables]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]

@@ -5,15 +5,22 @@ type: entity
 tags: [wind, dendrology, permaculture, site-analysis]
 ---
 
+
 ## Description
 
 The Griggs and Putnam index is a visual assessment scale that uses tree deformation as an indicator of prevailing wind speed and direction. By examining the shape, crown deformation, and stem growth patterns of trees, designers can determine local wind history with approximately 17% accuracy. The index assigns numerical values (0–7) to progressive degrees of wind-induced tree deformation.
+
+
+
 
 ## Classification
 
 - **Domain**: Dendrology / Meteorology / Site analysis
 - **Scale type**: Ordinal (0–7)
 - **Application**: Wind assessment, site design, windbreak planning
+
+
+
 
 ## The Scale
 
@@ -28,6 +35,9 @@ The Griggs and Putnam index is a visual assessment scale that uses tree deformat
 | 6 | Complete throw | Trunk quite bent to leeward |
 | 7 | Carpeting | Tree a creeping shrub-like layer of prostrate growth |
 
+
+
+
 ## Relationship to Wind Speed
 
 The index correlates with annual mean wind speed:
@@ -41,6 +51,9 @@ The index correlates with annual mean wind speed:
 - Index 6: 8.6–11 m/sec (19–24 mph)
 - Index 7: >11 m/sec (>24 mph)
 
+
+
+
 ## Key Facts
 
 - Average accuracy is 17% — sufficient for permaculture site planning
@@ -48,6 +61,9 @@ The index correlates with annual mean wind speed:
 - Does not account for salt, ice, or snow load effects
 - Older trees are the best guide to gauge cumulative wind effect
 - Trees provide a permanent site-record of wind history
+
+
+
 
 ## Relevance to Cultivation and Permaculture
 
@@ -59,6 +75,9 @@ The Griggs and Putnam index is invaluable for permaculture site analysis:
 4. **Wind machine siting**: Helps locate appropriate positions for wind generators
 5. **Species selection**: Deformation data guides selection of wind-resistant species for exposed sites
 6. **Microclimate mapping**: Allows rapid assessment of wind patterns across a property before design begins
+
+
+
 
 ## Source Reference
 

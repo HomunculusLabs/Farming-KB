@@ -88,3 +88,12 @@ effects, which earned it the "Nexus" name among users.
 activity at 5-HT2C and 5-HT1A receptors. It also shows affinity for the
 serotonin transporter (SERT), contributing to empathogenic qualities at
 lower doses. The bromine substituent influences both [[tihkal-receptor-binding-serotonin]]
+
+## See Also
+
+- [[pihkal-aleph-2]]
+- [[pihkal-doi]]
+- [[pihkal-dom]]
+- [[pihkal-entry-45]]
+- [[pihkal-entry-48]]
+- [[pihkal-mbdb]]

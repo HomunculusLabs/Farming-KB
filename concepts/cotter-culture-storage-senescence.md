@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Proper storage of mushroom cultures is essential for maintaining viability and
-genetic integrity over time. Multiple [[food-preservation-and-storage-methods]] exist, from simple
+genetic integrity over time. Multiple [[food-preservation-canning]] exist, from simple
 refrigeration of [[query-how-to-make-agar-plates-for-mushroom-cultivation]] to cryopreservation with glycerol protectants.
 Understanding strain senescence -- the gradual loss of vigor through repeated
 cell division -- is critical for maintaining productive cultures.

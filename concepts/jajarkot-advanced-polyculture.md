@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[permaculture]]
 - [[toby-hemenway]]
 - [[cervantes-grow-room-design-advanced]]
-- [[cannabis-advanced-growing-techniques]]
+- [[cannabis-advanced-refinement-fractional-distillation]]

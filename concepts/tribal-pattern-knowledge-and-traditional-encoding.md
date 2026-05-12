@@ -84,3 +84,9 @@ An old Pitjantjatjara woman pointed out a small desert flower coming into bloom 
 ## Wisdom by Revelation
 
 In tribal society, one is not wise by years but by degree of revelation. Those who understand and embody advanced knowledge [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] intuitive, and therefore most entitled to special veneration. Such knowledge is almost invariably based on pattern understanding and is independent of sex or even age. One is "aged" by degree of revelation, not time spent living.
+
+## See Also
+
+- [[tribal-pattern-application-and-land-division]]
+- [[tribal-pattern-knowledge]]
+- [[tribal-soil-classification-and-structure]]

@@ -5,9 +5,15 @@ type: entity
 tags: [place, italy, wetland-drainage, eucalyptus, mussolini]
 ---
 
+
+
 ## Description
 
 The Pontine Marshes (Agro Pontino) were a vast marshland area in the Lazio region of central Italy, south of Rome. Mollison references them as a case study in how *Eucalyptus globulus* trees can pump enormous volumes of water — Benito Mussolini famously used dense plantings of eucalyptus to drain these marshes, exploiting the species' extraordinary transpiration capacity to convert malarial wetlands into agricultural land.
+
+
+
+
 
 ## Classification
 
@@ -16,6 +22,10 @@ The Pontine Marshes (Agro Pontino) were a vast marshland area in the Lazio regio
 - **Area**: Approximately 75,000 hectares (pre-drainage)
 - **Historical period**: Drained primarily 1928–1939 under Mussolini's regime
 - **Ecological type**: Temperate wetland / marshland
+
+
+
+
 
 ## Key Facts
 
@@ -28,6 +38,10 @@ The Pontine Marshes (Agro Pontino) were a vast marshland area in the Lazio regio
 - New towns (Latina, Sabaudia, Pontinia, Aprilia) were built on the reclaimed land
 - The drainage demonstrates both the power of trees in the water cycle and the dangers of species monoculture
 
+
+
+
+
 ## The Eucalyptus Mechanism
 
 The Pontine Marshes drainage worked through massive evapotranspiration:
@@ -37,6 +51,10 @@ The Pontine Marshes drainage worked through massive evapotranspiration:
 3. **Density**: At 60 trees/hectare, a hectare could transpire 216,000–270,000 litres per day
 4. **Atmospheric transfer**: Water pumped from ground to atmosphere, effectively de-watering the soil
 5. **Net result**: Groundwater table lowered below root zone depth, eliminating standing water
+
+
+
+
 
 ## Relevance to Cultivation and Permaculture
 
@@ -49,9 +67,17 @@ The Pontine Marshes story has several important implications:
 5. **Wetland value**: Modern permaculture would question whether draining a wetland is ever desirable, given their ecological value for biodiversity, water purification, and flood control
 6. **Double-edged sword**: The same tree species used to create rainfall in one context (Amazon rehumidification) can be used to drain wetlands in another
 
+
+
+
+
 ## Modern Context
 
 The reclaimed Pontine region is now productive agricultural land, though modern environmental thinking has revised the assumption that all wetlands should be drained. The area still contains remnants of the original wetland ecosystem, and there have been proposals for partial restoration. The eucalyptus plantations have largely been replaced by other land uses, though some remnant trees persist.
+
+
+
+
 
 ## Source Reference
 

@@ -87,3 +87,12 @@ The species has limited traditional medicinal use due to its toxicity. Fresh her
 Ranunculus acris has been used as a model organism in [[mycorrhiza-bioassays-ecological-studies]] of grassland communities. Its response to grazing pressure and [[cervantes-fertilizer-application-strain-feeding]] is well-documented.
 
 The plant is avoided by grazing livestock due to the acrid taste caused by protoanemonin. Heavy grazing reduces competition and can paradoxically increase buttercup abundance in pastures.
+
+## See Also
+
+- [[ranunculus-aconitifolius]]
+- [[ranunculus-arvensis]]
+- [[ranunculus-cassubicus]]
+- [[ranunculus-eschscholtzii]]
+- [[ranunculus-occidentalis]]
+- [[ranunculus-pennsylvanicus]]

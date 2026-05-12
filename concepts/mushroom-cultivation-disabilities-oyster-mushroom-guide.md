@@ -93,8 +93,8 @@ When applying these concepts, consider regional variations, available resources,
 
 ## See Also
 
-- [[oyster-mushroom-cultivation-and-species-guide]]
+- [[oyster-mushroom-cultivation-methods]]
 - [[straw-based-oyster-mushroom-cultivation]]
-- [[psilocybin-mushroom-cultivation-guide]]
+- [[psilocybin-mushroom-cultivation]]
 - [[oyster-mushroom-species-guide]]
 - [[oyster-mushroom-shelf-cultivation]]

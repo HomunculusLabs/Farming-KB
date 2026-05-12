@@ -96,9 +96,10 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
-- [[doc]]
-- [[det]]
-- [[mycorrhiza]]
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
-- [[psilocybin-biosynthesis-pathway]]
+
+- [[cannabinoid-consciousness-hemisphere-integration-blesching]]
+- [[cannabinoid-endomicrobiome-correlation-winston]]
+- [[cannabinoid-endophyte-correlation]]
+- [[cannabinoid-microbiome-interactions]]

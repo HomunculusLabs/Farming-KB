@@ -88,3 +88,9 @@ knowledge throughout history. The Spanish friars who denounced Aztec mushroom
 use, the medieval Inquisitors who burned witches, and modern authorities
 who prohibited [[mckenna-suppression-psychedelic-research-lsd-therapy]] all share a common trait: they possess a
 rigidly established mental model of reality that is threatened by the
+
+## See Also
+
+- [[powell-psilocybin-legal-status-research]]
+- [[powell-sacred-mushroom-discovery]]
+- [[powell-sleeping-dreams-and-waking-dreams]]

@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[vermicomposting]]
 - [[permaculture]]
 - [[comparison-organic-vs-chemical-amendments]]
-- [[plant-volatile-organic-compounds-and-chemical-ecology]]
+- [[plant-volatile-communication-chemical-ecology]]

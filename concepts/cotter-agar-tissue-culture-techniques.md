@@ -116,9 +116,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[spore]]
-- [[mycelium]]
-- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
-- [[agar-culture-techniques-detailed]]
-- [[cotter-mycoremediation-techniques]]
+
+- [[cotter-laboratory-setup]]
+- [[cotter-mushroom-composting]]
+- [[cotter-recycling-composting-vermicomposting-mushrooms]]
+- [[cotter-shiitake-cultivation]]

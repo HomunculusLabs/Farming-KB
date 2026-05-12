@@ -57,7 +57,7 @@ Several mechanisms likely contribute to cultivar-specific microbiome assembly:
 
 ### Root Exudate Chemistry
 
-Different cultivars produce different blends of root exudates, including sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]]. These chemical profiles create distinct nutritional environments that favor different microbial taxa. In Cannabis, the production of cannabinoids and terpenes by roots may directly influence which bacteria can thrive in the endorhiza.
+Different cultivars produce different blends of root exudates, including sugars, amino acids, organic acids, [[plant-defense-mechanisms]]. These chemical profiles create distinct nutritional environments that favor different microbial taxa. In Cannabis, the production of cannabinoids and terpenes by roots may directly influence which bacteria can thrive in the endorhiza.
 
 ### Immune System Variation
 

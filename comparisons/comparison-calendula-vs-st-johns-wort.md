@@ -50,7 +50,7 @@ full sun, though it tolerates partial shade and moderate drought once
 established.
 
 ## St. John's Wort
-[[st-johns-wort-cultivation-and-medicinal-uses]]
+[[st-johns-wort-guide]]
 
 St. John's Wort (*Hypericum perforatum*) is a perennial herb native to 
 Europe, western Asia, and North Africa, now naturalized throughout much 

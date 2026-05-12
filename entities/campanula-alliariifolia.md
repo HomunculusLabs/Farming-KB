@@ -87,3 +87,34 @@ In its native range, the species contributes to the biodiversity of limestone cl
 The deep taproot helps stabilize loose scree and rocky substrates. Seed capsules provide food for small finches and passerines during late autumn.
 
 The species is a weak competitor against vigorous [[permaculture-plants-ground-covers-and-accumulators]] grasses. It persists best in sites where competition is limited by shallow soil or rocky conditions.
+
+## See Also
+
+- [[campanula-alpestris]]
+- [[campanula-alyssifolia]]
+- [[campanula-americana]]
+- [[campanula-bellidifolia]]
+- [[campanula-cervicaria]]
+- [[campanula-crenulata]]
+- [[campanula-dasyantha]]
+- [[campanula-divaricata]]
+- [[campanula-divergens]]
+- [[campanula-ericoides]]
+- [[campanula-erinus]]
+- [[campanula-flammula]]
+- [[campanula-latiloba]]
+- [[campanula-linifolia]]
+- [[campanula-merxmuelleri]]
+- [[campanula-mirabilis]]
+- [[campanula-parryi]]
+- [[campanula-pusilla]]
+- [[campanula-radicans]]
+- [[campanula-radicata]]
+- [[campanula-ramosa]]
+- [[campanula-rhomboidalis]]
+- [[campanula-sabatia]]
+- [[campanula-stenocodon]]
+- [[campanula-stevenii]]
+- [[campanula-takesimana]]
+- [[campanula-tridentata]]
+- [[campanula-unguicularis]]

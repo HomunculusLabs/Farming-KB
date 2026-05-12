@@ -67,7 +67,7 @@ networks, influencing forest [[core-endorhiza-bacterial-community-composition-ca
 Phosphorus cycling is particularly dependent on fungal activity because
 phosphorus is predominantly bound in organic forms and is relatively immobile.
 Mycorrhizal fungi produce phosphatase enzymes that release phosphate from
-[[plant-volatile-organic-compounds-and-chemical-ecology]] extend hyphal networks into soil volumes beyond root
+[[plant-volatile-communication-chemical-ecology]] extend hyphal networks into soil volumes beyond root
 reach. Ectomycorrhizal fungi solubilize mineral phosphates through organic acid
 production, making them indispensable in phosphorus-limited forest soils.
 

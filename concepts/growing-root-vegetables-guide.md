@@ -90,7 +90,7 @@ Solomon's method for even spacing:
 - Start them on the solstice, and they size up during the cooling weather.
 
 ## See Also
-- [[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]]
+- [[root-vegetable-storage-guide]]
 - [[root-crops-growing-guide]]
 - [[solomon-growing-root-crops-guide]]
 - [[hamilton-root-vegetables-growing]]

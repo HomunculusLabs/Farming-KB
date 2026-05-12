@@ -80,7 +80,7 @@ relationship with fungi.
 
 Patterns of mushroom eating are not set in stone as Wasson supposed,
 but change with time. During the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] it was common for
-[[edible-wild-mushrooms-foraging-guide]] to be sold at British markets, but fear of poisoning,
+[[edible-wild-mushrooms-by-region]] to be sold at British markets, but fear of poisoning,
 encouraged by various incidents, meant that this had largely died out
 by the [[coleman-louis-savier-twentieth-century-maraicher]]. During the Second World War, the British
 government actively encouraged people to learn how to identify edible

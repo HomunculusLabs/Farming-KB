@@ -87,3 +87,9 @@ Pinoline is not specifically scheduled in most jurisdictions. As an endogenous c
 The Federal Analog Act could theoretically apply if pinoline were sold for human consumption as a psychoactive substance, though there are no documented cases of enforcement against pinoline specifically. It is available from some research chemical suppliers for laboratory use.
 
 ## Research and Therapeutic Potential
+
+## See Also
+
+- [[pinoline-and-entheogenic-plant-combinations]]
+- [[pinoline-mao-inhibitors-entheogenic-combinations]]
+- [[pinoline-pineal-gland-dmt]]

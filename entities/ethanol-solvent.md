@@ -72,13 +72,13 @@ Implementation spans agricultural, ecological, and cultural contexts. The method
 ## See Also
 - [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]
 - [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
-- [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]
+- [[turkey-tail-mushroom-cancer-research]]
 - [[straw-substrate-preparation-mushroom-cultivation]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 
 ## See Also
 - [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]
-- [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]
+- [[turkey-tail-mushroom-cancer-research]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 - [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]
 - [[cannabis-advanced-refinement-fractional-distillation]]

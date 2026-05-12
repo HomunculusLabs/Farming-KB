@@ -57,7 +57,7 @@ They further found that strains were better preserved on grain media than on aga
 
 ## Special Case: Volvariella volvacea
 
-Of all the gourmet and [[cancer-medicinal-mushrooms]], only strains of the [[comparison-king-stropharia-vs-paddy-straw-mushroom]] (Volvariella volvacea) should not be chilled. V. volvacea demonstrates poor recovery from cold storage — both from simple refrigeration at 34°F (2°C) and immersion in liquid nitrogen at -300°F (-150°C). When the mycelium of this tropical mushroom is exposed to temperatures below 45°F (7.2°C), drastic die-back occurs. Strains of this mushroom should be stored at no less than 50°F (10°C) and tested frequently for viability.
+Of all the gourmet and [[medicinal-mushrooms]], only strains of the [[comparison-king-stropharia-vs-paddy-straw-mushroom]] (Volvariella volvacea) should not be chilled. V. volvacea demonstrates poor recovery from cold storage — both from simple refrigeration at 34°F (2°C) and immersion in liquid nitrogen at -300°F (-150°C). When the mycelium of this tropical mushroom is exposed to temperatures below 45°F (7.2°C), drastic die-back occurs. Strains of this mushroom should be stored at no less than 50°F (10°C) and tested frequently for viability.
 
 ## Room Temperature Preservation with Paraffin
 

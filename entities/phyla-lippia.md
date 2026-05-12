@@ -85,4 +85,4 @@ Phyla serves multiple functions in permaculture and agricultural systems:
 
 - [[ground-cover-plants]]
 - [[ground-cover-plants]]
-- [[medicinal-herb-growing-guide]]
+- [[medicinal-herb-growing]]

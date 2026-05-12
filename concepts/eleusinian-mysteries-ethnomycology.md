@@ -3,7 +3,7 @@ title: Eleusinian Mysteries Ethnomycology
 aliases: [eleusinian mysteries, ethnomycology, mushroom cults, ancient mushroom use, soma]
 tags: [mycology, history, ethnobotany, ancient-greece, religion, ethnomycology]
 created: 2026-05-10
-source: "Growing Gourmet and [[cancer-medicinal-mushrooms]] (Paul Stamets, 1993)"
+source: "Growing Gourmet and [[medicinal-mushrooms]] (Paul Stamets, 1993)"
 ---
 
 # Eleusinian Mysteries and Ethnomycology

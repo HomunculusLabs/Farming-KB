@@ -88,3 +88,13 @@ pungent taste. Fresh rhizomes contain 70-80% moisture.
 | Demethoxycurcumin | 15-25% | Antioxidant, anti-inflammatory |
 | Bisdemethoxycurcumin | 10-15% | Antimicrobial, antioxidant |
 | Cyclocurcumin | Trace | Formed during processing |
+
+## See Also
+
+- [[curcuma-amada]]
+- [[curcuma-amarissima]]
+- [[curcuma-angustifolia]]
+- [[curcuma-aromatica]]
+- [[curcuma-caesia]]
+- [[curcuma-kwangsiensis]]
+- [[curcuma-phaeocaulis]]

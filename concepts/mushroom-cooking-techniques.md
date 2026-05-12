@@ -14,7 +14,7 @@ Mushrooms are versatile ingredients with diverse textures and flavors that respo
 ## Fundamental Principles
 
 ### Why Cook Mushrooms
-All [[edible-wild-mushrooms-foraging-guide]] should be cooked before eating. Raw mushrooms contain:
+All [[edible-wild-mushrooms-by-region]] should be cooked before eating. Raw mushrooms contain:
 - Chitin in cell walls (indigestible raw)
 - Potential pathogens from the [[cannabis-growing-environment-setup]]
 - Heat-sensitive toxins in some species

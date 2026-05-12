@@ -41,7 +41,7 @@ agriculture on a massive scale.
 The average Parisian market garden was between one and two acres in size. Despite
 this small footprint, productivity was extraordinary. Growers achieved at least four
 and usually up to eight harvests per year from the same piece of ground. The
-combination of [[coleman-succession-planting]], interplanting, [[cold-climate-farming-and-season-extension]] meant that
+combination of [[coleman-succession-planting]], interplanting, [[cold-climate-gardening]] meant that
 multiple crops occupied the same bed simultaneously. A single hotbed might be sown
 with broadcast radish and carrot seed, then interplanted with lettuces. The radishes
 harvested first, making room for carrots growing among the lettuces. When the lettuces

@@ -105,7 +105,7 @@ For faster results and better drainage, build the mandala beds as raised beds:
 
 ## Intensive Planting
 
-The mandala garden's design lends itself to intensive [[native-american-planting-methods-and-indigenous-agriculture]]:
+The mandala garden's design lends itself to intensive [[native-american-church-peyote-ceremony-structure-roles-roadman]]:
 
 ### Succession Planting
 

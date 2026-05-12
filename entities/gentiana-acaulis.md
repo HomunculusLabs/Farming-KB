@@ -87,3 +87,28 @@ Gentiana acaulis provides an important nectar resource for long-tongued bumblebe
 The mat-forming growth habit stabilizes loose alpine soils and reduces erosion on steep slopes. Dense mats trap organic debris and contribute to soil development in alpine environments.
 
 It co-occurs with *Nardus stricta*, *[[vaccinium-myrtillus]]*, *Homogyne alpina*, and *Soldanella alpina* in characteristic subalpine plant communities. These species collectively support diverse invertebrate populations.
+
+## See Also
+
+- [[gentiana-amarella]]
+- [[gentiana-aspera]]
+- [[gentiana-aurantiaca]]
+- [[gentiana-cachemirica]]
+- [[gentiana-calycosa]]
+- [[gentiana-catesbaei]]
+- [[gentiana-ciliata]]
+- [[gentiana-clausa]]
+- [[gentiana-cruciata]]
+- [[gentiana-decora]]
+- [[gentiana-elwesii]]
+- [[gentiana-linearis]]
+- [[gentiana-ochroleuca]]
+- [[gentiana-prostrata]]
+- [[gentiana-purpurea]]
+- [[gentiana-quinquefolia]]
+- [[gentiana-rhodantha]]
+- [[gentiana-robusta]]
+- [[gentiana-siphonantha]]
+- [[gentiana-utriculosa]]
+- [[gentiana-vernayi]]
+- [[gentiana-waltonii]]

@@ -93,7 +93,10 @@ Tryptamine interacts with surrounding ecosystems through pollinator
 relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
 
+
 ## See Also
-- [[synthetic-tryptamine-methods]]
-- [[psilocybin-tryptamine-chemistry-fungi]]
-- [[shamanism-tryptamine-ecologies]]
+
+- [[tryptamine-endogenous-familiarity-and-rapid-pharmacokinetics]]
+- [[tryptamine-hallucinogens-and-nature-of-consciousness]]
+- [[tryptamine-hallucinogens-dmt]]
+- [[tryptamine-logos-concept]]

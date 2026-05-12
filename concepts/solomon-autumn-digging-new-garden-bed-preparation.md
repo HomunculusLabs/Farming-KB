@@ -88,3 +88,19 @@ Rototilling creates a subtle but serious problem: the bent-over ends of tines co
 - Is worse in clay soils
 
 Vegetables need loose soil to a depth of at least 12 inches. A 4-5 inch tilled depth with a hardpan below is fundamentally inadequate.
+
+## See Also
+
+- [[solomon-fruit-vegetables-growing]]
+- [[solomon-green-manure-cover-crop-techniques]]
+- [[solomon-growing-peppers-eggplant]]
+- [[solomon-organic-root-maggot-management]]
+- [[solomon-pest-management-organic]]
+- [[solomon-potassium-yield-versus-nutrition-tradeoff]]
+- [[solomon-seed-drilling-spacing-precision-sowing]]
+- [[solomon-seed-sprouting-paste-technique]]
+- [[solomon-sprinkler-irrigation-system-design]]
+- [[solomon-sweet-potato-cultivation-guide]]
+- [[solomon-variety-degradation-home-seed-trade]]
+- [[solomon-variety-trial-methodology]]
+- [[solomon-vegetable-nutrition-decline-and-soil-mineral-depletion]]

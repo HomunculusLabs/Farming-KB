@@ -2,7 +2,7 @@
 title: Stamets Stump Platform Cultivation
 source:
   author: "Paul Stamets"
-  title: "Growing Gourmet and [[cancer-medicinal-mushrooms]]"
+  title: "Growing Gourmet and [[medicinal-mushrooms]]"
   year: 1993
   chapter: 4
   section: "Natural Culture — Stumps"

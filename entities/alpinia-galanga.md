@@ -87,3 +87,12 @@ A. galanga (greater galangal) and A. officinarum (lesser galangal) are frequentl
 - **Variability:** Essential oil composition varies with geographic origin, harvest time, and processing. Thai varieties tend to be higher in 1'-acetoxychavicol acetate; Indonesian varieties often have higher ethyl cinnamate.
 
 ### Non-volatile Compounds
+
+## See Also
+
+- [[alpinia-calcarata]]
+- [[alpinia-kuhlii]]
+- [[alpinia-melanocarpa]]
+- [[alpinia-nigra]]
+- [[alpinia-purpurata]]
+- [[alpinia-zerumbet]]

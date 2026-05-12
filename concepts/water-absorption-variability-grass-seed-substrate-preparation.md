@@ -88,3 +88,14 @@ This approach produces a more homogenous substrate because:
 1. **Equilibrium is reached** — all kernels absorb water until saturation, eliminating the problem of some kernels being waterlogged while others remain dry
 2. **Excess water can be drained** — after soaking, excess water is poured off, and only the saturated seed is loaded into jars
 3. **Batch variability is compensated** — differences in absorption capacity between seed sources are partially normalized by the extended soak time
+
+## See Also
+
+- [[water-conservation-in-sewage-systems]]
+- [[water-filtration-and-settling-techniques]]
+- [[water-filtration-and-treatment-methods]]
+- [[water-filtration-and-treatment-systems]]
+- [[water-harvesting-and-conservation]]
+- [[water-plants-aquatic-systems]]
+- [[water-pollution-contaminants-and-treatment]]
+- [[water-tank-selection-and-construction]]

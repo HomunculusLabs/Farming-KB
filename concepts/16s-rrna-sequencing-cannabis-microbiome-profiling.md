@@ -128,7 +128,7 @@ characterization.
 
 ## Considerations for Cannabis Samples
 
-1. **PCR inhibitors** — polyphenols, polysaccharides, [[plant-defense-chemistry-and-secondary-metabolites]]
+1. **PCR inhibitors** — polyphenols, polysaccharides, [[plant-defense-mechanisms]]
    can inhibit PCR; the PowerSoil kit includes inhibitor removal steps.
 2. **Plant organelle sequences** — chloroplast 16S and mitochondrial 12S can
    dominate amplicon pools; the 515F/806R pair has relatively low plant

@@ -26,7 +26,7 @@ Geraniol is an acyclic monoterpenoid alcohol found in the [[comparison-essential
 numerous aromatic plants, including rose, geranium, palmarosa, citronella,
 and lemon. It is one of the most commercially important fragrance compounds
 globally, used extensively in perfumery, cosmetics, food flavoring, and
-[[soap-making-and-natural-household-products]].
+[[soap-making-guide]].
 
 Beyond its olfactory properties, geraniol has demonstrated significant
 pharmacological activities including anti-inflammatory, antimicrobial,

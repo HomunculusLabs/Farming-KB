@@ -43,6 +43,8 @@ Saddle dams sit at the top of the dam hierarchy:
 4. Contour dam — on slopes 8% or less
 5. Barrier dam — across flowing streams
 
+
+
 ### Functions
 
 - **Fire control**: Highest elevation water available for gravity-fed fire suppression
@@ -51,9 +53,13 @@ Saddle dams sit at the top of the dam hierarchy:
 - **Pumped storage**: Can receive water pumped from lower sources for energy generation
 - **Runoff capture**: Fills from hill runoff and diversion drains
 
+
+
 ### Integration with Diversion Drains
 
 Diversion drains cut at 1:250–500 rising grade catch runoff from hilltops and direct it to saddle dams. This fills the dam with water that would otherwise flow overland to lower elevations, making efficient use of the landscape's highest collection points.
+
+
 
 ## Relevance to Cultivation and Mycology
 
@@ -61,9 +67,13 @@ While saddle dams serve primarily as high-level storage rather than direct irrig
 
 The moist microclimate created around saddle dams supports diverse plant communities that can include mushroom-host tree species. In integrated permaculture systems, saddle dam catchments can support agroforestry zones with mycorrhizal tree species.
 
+
+
 ## Source Reference
 
 Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), page 158.
+
+
 
 ## See Also
 

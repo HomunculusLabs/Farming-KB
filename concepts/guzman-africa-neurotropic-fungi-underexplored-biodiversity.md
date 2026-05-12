@@ -117,9 +117,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[neurotropic-fungi]]
-- [[neurotropic-fungi-africa-underexplored-diversity-guzman-1998]]
-- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
-- [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
-- [[african-neurotropic-fungi-distribution-and-underexplored-biodiversity-guzman-1998]]
+
+- [[guzman-accidental-psilocybin-vapor-inhalation-lab]]
+- [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
+- [[guzman-critique-of-stamets-world-distribution-map-accuracy]]
+- [[guzman-magic-mushrooms-asian-species]]

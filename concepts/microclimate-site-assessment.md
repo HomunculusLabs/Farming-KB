@@ -131,7 +131,7 @@ These tools require minimal investment but yield data that dramatically improves
 
 ## See Also
 
-- [[Wind Effects on Trees and Forests]]
-- [[Temperature Effects of Trees]]
-- [[Trees and Precipitation]]
-- [[Tree Biomass and Energy Transactions]]
+- [[wind-effects-on-trees-and-forests]]
+- [[temperature-effects-of-trees]]
+- [[trees-and-precipitation]]
+- [[tree-biomass-and-energy-transactions]]

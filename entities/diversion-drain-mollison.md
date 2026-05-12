@@ -59,15 +59,21 @@ Even without a stream intake, diversion drains gather water from overland flow i
 - Broad level swales in drylands (as destination)
 - Combined with mini-swatched earth walls for tree site creation
 
+
+
 ## Relevance to Cultivation and Mycology
 
 Diversion drains are the distribution arteries that deliver water from storage to point-of-use in permaculture systems. For mushroom cultivation, they can direct water from keypoint dams or other storages to log soaking areas for shiitake and other wood-loving species, substrate preparation stations, mist irrigation zones for outdoor mushroom beds, and moisture maintenance in mushroom cultivation tunnels or shade houses.
 
 The ability to capture water from minimal rainfall events makes diversion drains essential for dryland mycology where every drop of water must be efficiently captured and directed to productive use.
 
+
+
 ## Source Reference
 
 Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), pages 169–170.
+
+
 
 ## See Also
 

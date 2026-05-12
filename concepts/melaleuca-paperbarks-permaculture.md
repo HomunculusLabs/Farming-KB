@@ -61,7 +61,7 @@ Melaleucas are among the most significant nectar-producing genera for honey bees
 Many melaleucas are naturally adapted to waterlogged and periodically flooded conditions, making them ideal for:
 
 - **Riparian buffer planting** along waterways to filter runoff and stabilize banks
-- **[[comparison-constructed-wetland-vs-backyard-pond]]** vegetation for [[constructed-wetlands-and-ecological-wastewater-treatment]]
+- **[[comparison-constructed-wetland-vs-backyard-pond]]** vegetation for [[constructed-wetlands-wastewater-treatment]]
 - **Saline land rehabilitation** where salt-tolerant species like *M. lanceolata* and *M. halmaturorum* can establish on degraded sites
 - **Floodplain reforestation** where periodic inundation prevents other species from thriving
 

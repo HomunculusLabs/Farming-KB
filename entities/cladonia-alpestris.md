@@ -88,3 +88,14 @@ white spruce, C. alpestris was slightly less inhibitory for dry weight (58% vs
 Lawrey (1986, 1989) made acetone extracts from lichen species and showed that
 lichens avoided by herbivores had the greatest antagonistic effects against
 bacteria. Defensive chemicals produced by lichens included norstictic, stictic,
+
+## See Also
+
+- [[cladonia-arbuscula]]
+- [[cladonia-cristatella]]
+- [[cladonia-deformis]]
+- [[cladonia-deglacialis]]
+- [[cladonia-furcata]]
+- [[cladonia-portentosa]]
+- [[cladonia-pyxidata]]
+- [[cladonia-squamosa]]

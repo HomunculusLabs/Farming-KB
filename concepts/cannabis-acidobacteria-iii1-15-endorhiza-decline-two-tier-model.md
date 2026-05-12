@@ -136,12 +136,27 @@ Acidobacteria decline as a reliable filtering intensity indicator.
 3. **Breeding potential:** Genotype-dependent second-tier selection
    means breeding could modulate endophytic filtering stringency.
 
+
 ## See Also
 
-- cannabis microbiome winston 2014 — Full study overview
-- [[two-tier-selection-model]] — Theoretical framework
-- rhizosphere bulk soil compartment — Compartment definitions
-- ternary plot microbiome — Visualization methodology
+- [[cannabis-asthma-research]]
+- [[cannabis-auto-flowering-ruderalis-sativa-indoor]]
+- [[cannabis-beta-caryophyllene-food-based-cannabinoid]]
+- [[cannabis-curing-jars]]
+- [[cannabis-endorniza-microbiome]]
+- [[cannabis-germination-techniques]]
+- [[cannabis-herpes-treatment]]
+- [[cannabis-insomnia-research]]
+- [[cannabis-menopause-research]]
+- [[cannabis-microbiome-alpha-diversity-gradient]]
+- [[cannabis-ocd-research]]
+- [[cannabis-ptsd-research]]
+- [[cannabis-rhizosphere-microbiome-zonation]]
+- [[cannabis-sativa-indica-classification]]
+- [[cannabis-sativa-landrace-varieties]]
+- [[cannabis-sleep-disorders]]
+- [[cannabis-sulfur-nutrient]]
+- [[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]]
 
 ## Sources
 

@@ -75,7 +75,7 @@ This finding means that the plant's root chemistry acts as a dial, turning up or
 
 The primary mechanism of cultivar-specific selection is likely differential root exudation:
 
-- Different cultivars produce different profiles and concentrations of sugars, amino acids, organic acids, fatty acids, [[plant-defense-chemistry-and-secondary-metabolites]]
+- Different cultivars produce different profiles and concentrations of sugars, amino acids, organic acids, fatty acids, [[plant-defense-mechanisms]]
 - These exudates selectively feed certain microbial populations, causing their enrichment in the rhizosphere and endorhiza
 - In Cannabis specifically, variation in cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]] pathways may produce different exudate profiles between cultivars
 - Studies in other species have shown that even single-gene mutations affecting root exudate composition can dramatically shift the root microbiome

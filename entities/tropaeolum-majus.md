@@ -33,7 +33,7 @@ perennial in frost-free climates) climbing or trailing plant native
 to the Andes of Bolivia, Colombia, Ecuador, and Peru. Widely grown
 as both an ornamental and edible plant, nasturtium is celebrated for
 its peppery-tasting leaves and flowers, its role as a companion plant
-[[plant-disease-management-in-organic-gardens]], and its broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
+[[plant-disease-management-solomon]], and its broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 backed by modern pharmacological research. All above-ground parts are
 edible, making it one of the most versatile multi-purpose plants in
 permaculture and [[holzer-kitchen-garden-herbs-and-medicinal-plants]] design.

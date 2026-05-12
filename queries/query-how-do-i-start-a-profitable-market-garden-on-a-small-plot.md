@@ -47,7 +47,7 @@ A soil organic matter target of five to eight percent supports the rapid growth 
 Profitable market gardens grow crops that command high prices per square foot — salad mixes, heirloom tomatoes, herbs, and specialty greens.
 Use [[coleman-succession-planting|succession planting]] to keep every bed producing from the last frost to the first freeze.
 Plan three to five successions of quick crops like radishes, arugula, and baby lettuce per bed per season.
-Follow [[crop-rotation-and-succession-planting|crop rotation principles]] strictly to prevent disease buildup in intensive plantings.
+Follow [[crop-rotation-and-ley-farming]] strictly to prevent disease buildup in intensive plantings.
 Keep detailed records of sowing dates, harvest dates, and yields to refine your planning calendar each year.
 
 ### Growing Intensively in Small Spaces

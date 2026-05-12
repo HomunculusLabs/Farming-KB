@@ -9,6 +9,8 @@ tags: [forest-ecosystem, california, fog-condensation, sequoia]
 
 The California redwood forests are temperate rainforest ecosystems dominated by coast redwood (*Sequoia sempervirens*) that depend heavily on coastal fog condensation for their water supply. Mollison cites them as a prime example of how tree height and fog drip interaction creates self-reinforcing moisture cycles, and how deforestation can break these cycles catastrophically. The redwoods were historically restricted to the coastal fog belt of northern California and southern Oregon.
 
+
+
 ## Classification
 
 - **Type**: Forest ecosystem
@@ -17,6 +19,9 @@ The California redwood forests are temperate rainforest ecosystems dominated by 
 - **Climate type**: Temperate rainforest / Fog-dependent forest
 - **Precipitation source**: Dual — winter rainfall plus year-round fog condensation
 - **Related species mentioned**: White pines, Oregon pines (Douglas fir)
+
+
+
 
 ## Key Facts
 
@@ -28,6 +33,9 @@ The California redwood forests are temperate rainforest ecosystems dominated by 
 - Evergreen conifers work as condensers year-round, unlike deciduous trees
 - The forests depend on cold ocean currents (analogous to the Oya Shio off East Asia and Labrador current off NE America) that generate advection fogs
 - When redwood forests are cut, the fog condensation cycle breaks and reafforestation becomes extremely difficult
+
+
+
 
 ## The Fog-Redwood Feedback Loop
 
@@ -41,6 +49,9 @@ Redwood forests maintain themselves through a positive feedback cycle:
 6. **Growth continues** — taller trees intercept more fog next year
 7. **When cut**: The cycle reverses — no canopy means no fog capture, no drip, no water for regrowth
 
+
+
+
 ## Relevance to Cultivation and Permaculture
 
 The redwood fog-dependency model has broad applications:
@@ -52,6 +63,9 @@ The redwood fog-dependency model has broad applications:
 5. **Design principle**: In fog-prone areas, maintaining tall tree cover is not aesthetic preference but hydrological necessity
 6. **Warning**: Mollison notes that clearing such forests "may well kill or throw down the inner forest" through loss of the moisture cycle
 
+
+
+
 ## Related Condensation Forests
 
 Mollison groups the redwoods with other fog-dependent forests worldwide:
@@ -61,6 +75,9 @@ Mollison groups the redwoods with other fog-dependent forests worldwide:
 - Washington/Oregon coastal forests
 - Scandinavian coastal forests
 - Pre-conquest Canary Island laurel forests
+
+
+
 
 ## Source Reference
 

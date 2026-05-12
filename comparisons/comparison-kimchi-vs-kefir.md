@@ -102,7 +102,7 @@ fermented food or commercial supplement.
 Kefir also suits anyone who already consumes dairy (or wants a sugar-water
 alternative) and prefers a versatile liquid product. It can be drunk plain,
 blended into smoothies, used in baking, or strained into cheese. For those
-interested in [[wild-fermentation-and-spontaneous-cultures]], kefir grains
+interested in [[wild-fermentation-vs-cultured-yeast]], kefir grains
 represent one of the oldest continuously maintained microbial communities.
 
 ## Probiotic Comparison

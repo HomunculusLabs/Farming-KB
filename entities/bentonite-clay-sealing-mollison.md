@@ -44,13 +44,19 @@ Bentonite is a slippery clay powder derived from volcanic ash that swells dramat
 - Bituminous spray rolled in after tilling can substitute
 - In naturally clay-rich soils, salt or sodium carbonate can achieve similar sealing effects
 
+
+
 ### Cost Considerations
 
 Bentonite is noted as expensive compared to biological sealing methods like gley. Its use is most justified when local clay sources are unavailable, gley materials are scarce, rapid predictable sealing is needed, or the storage is high-value (house water supply).
 
+
+
 ## Relevance to Cultivation and Mycology
 
 Water storage sealed with bentonite enables reliable water supply in porous-soil regions where cultivation would otherwise be impractical. For mushroom cultivation, sealed ponds ensure consistent water availability for substrate moisture management, misting systems, and climate control in growing chambers. The inert nature of bentonite means it does not introduce chemicals that could affect fungal substrates.
+
+
 
 ## Comparison with Other Sealing Methods
 
@@ -62,9 +68,13 @@ Water storage sealed with bentonite enables reliable water supply in porous-soil
 | **Explosives** | Moderate | Unpredictable | Poor |
 | **Membranes** | Very high | High | Poor (without soil overlay) |
 
+
+
 ## Source Reference
 
 Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), pages 164–165.
+
+
 
 ## See Also
 

@@ -87,3 +87,9 @@ treatment approaches.
 ### Symptoms
 
 Fungal brown blotch symptoms differ from the bacterial form:
+
+## See Also
+
+- [[oyster-fruiting-abnormalities]]
+- [[oyster-growing-house-types]]
+- [[oyster-spent-substrate-recycling]]

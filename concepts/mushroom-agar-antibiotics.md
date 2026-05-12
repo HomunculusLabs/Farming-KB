@@ -88,3 +88,36 @@ Stamets warns against excessive toxic fungicides and bacteriocides, noting
 workers experienced shortness of breath, numbness, and convulsions from
 phenol-based germicides. Prefer alternatives posing little health hazard and
 wear appropriate personal protective equipment.
+
+## See Also
+
+- [[mushroom-anatomy]]
+- [[mushroom-bag-production-cost-justification]]
+- [[mushroom-biology-nutrition-health-properties]]
+- [[mushroom-business-startup-guide]]
+- [[mushroom-casing-layers-fruiting-initiation-stamets]]
+- [[mushroom-casing-soil-preparation]]
+- [[mushroom-contaminant-identification-prevention]]
+- [[mushroom-crop-sustaining-flushing-watering-harvesting]]
+- [[mushroom-farm-record-keeping-profitability]]
+- [[mushroom-fruiting-stages-and-commercial-grading]]
+- [[mushroom-harvesting-fruiting-management]]
+- [[mushroom-inoculation-incubation-techniques]]
+- [[mushroom-nutrition-and-synthetic-media]]
+- [[mushroom-overlay-problems]]
+- [[mushroom-pasteurization-techniques]]
+- [[mushroom-permaculture]]
+- [[mushroom-pests-and-insect-enemies]]
+- [[mushroom-poison-myths-debunked]]
+- [[mushroom-potency-harvesting-and-desiccation-pf-tek]]
+- [[mushroom-potency-harvesting-and-drying]]
+- [[mushroom-rhizomorphic-vs-cottony]]
+- [[mushroom-shipment-and-market-pricing]]
+- [[mushroom-spawning-techniques-and-casing]]
+- [[mushroom-substrate-preparation-heat-treatment]]
+- [[mushroom-super-spawning-stamets]]
+- [[mushroom-trainee-selection-criteria]]
+- [[mushroom-training-center-design-equipment]]
+- [[mushroom-training-motivational-sessions]]
+- [[mushroom-tropisms-anemotropism-geotropism]]
+- [[mushroom-waste-management]]

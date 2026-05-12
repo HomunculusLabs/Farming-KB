@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Harvesting and Potency
 
-Harvest timing, drying method, and storage dramatically affect the quality and potency of [[fungi-cultivated-mushrooms-pathogens-competitors]]. PF ([[psylocybe-fanaticus]]) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying [[food-preservation-and-storage-methods]], spore printing, and [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]].
+Harvest timing, drying method, and storage dramatically affect the quality and potency of [[fungi-cultivated-mushrooms-pathogens-competitors]]. PF ([[psylocybe-fanaticus]]) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying [[food-preservation-canning]], spore printing, and [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]].
 
 ## When to Harvest: Pre-Sporulation
 

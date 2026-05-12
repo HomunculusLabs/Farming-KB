@@ -57,7 +57,7 @@ Despite this diversity collapse, the cultivar-specific signal remained statistic
 
 ## Broader Implications for Crop Rotation
 
-The persistence of cultivar-specific microbiome signatures in decaying root tissue has practical implications for crop [[crop-rotation-and-succession-planting]] planting. If the microbial legacy of a previous crop persists in root debris for weeks or months after harvest, it could influence the microbiome of subsequently planted cultivars through shared soil. This "soil memory" effect could be beneficial (if the legacy community includes plant-growth-promoting or disease-suppressive organisms) or detrimental (if it includes pathogens or competitors that inhibit the new crop).
+The persistence of cultivar-specific microbiome signatures in decaying root tissue has practical implications for crop [[crop-rotation-and-ley-farming]] planting. If the microbial legacy of a previous crop persists in root debris for weeks or months after harvest, it could influence the microbiome of subsequently planted cultivars through shared soil. This "soil memory" effect could be beneficial (if the legacy community includes plant-growth-promoting or disease-suppressive organisms) or detrimental (if it includes pathogens or competitors that inhibit the new crop).
 
 For Cannabis cultivation specifically, the finding suggests that the microbial consequences of cultivar choice may extend beyond a single growing season. Farmers rotating between different Cannabis cultivars in the same soil may find that the microbiome carries an imprint of previous cultivars, potentially affecting establishment success and yield of subsequent crops.
 

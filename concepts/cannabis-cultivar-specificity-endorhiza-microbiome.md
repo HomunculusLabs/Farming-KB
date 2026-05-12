@@ -46,7 +46,7 @@ variation.
 ### Root Exudate Chemistry
 
 Each Cannabis cultivar produces a unique profile of root exudates — the cocktail
-of sugars, amino acids, organic acids, phenolics, [[plant-defense-chemistry-and-secondary-metabolites]]
+of sugars, amino acids, organic acids, phenolics, [[plant-defense-mechanisms]]
 secreted into the rhizosphere. These exudates serve as both carbon sources and
 signaling molecules that selectively enrich compatible bacterial taxa. The
 [[otu-differential-abundance-cannabis-microbiome]] of Methylophilus (13% in Bookoo Kush, 0.13% in Burmese,

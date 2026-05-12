@@ -47,7 +47,7 @@ This finding has profound implications: the plant does not create new microbial 
 
 The mechanism by which host genotype selects endorhiza communities involves several plant-mediated processes:
 
-1. **Root exudates** — different cultivars produce different profiles of sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]] that selectively feed certain microbial populations
+1. **Root exudates** — different cultivars produce different profiles of sugars, amino acids, organic acids, [[plant-defense-mechanisms]] that selectively feed certain microbial populations
 2. **Immune signaling** — plant innate immune responses recognize and limit colonization by certain microbial taxa while permitting others
 3. **Root architecture** — differences in root branching patterns, root hair density, and tissue structure create different ecological niches
 4. **Secondary metabolites** — in Cannabis specifically, cannabinoid and terpene production may influence the root microbiome through antimicrobial or signaling properties

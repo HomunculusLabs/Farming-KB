@@ -88,3 +88,15 @@ The rhizomatous growth habit provides soil stabilization on sandy, nutrient-poor
 Post-fire regeneration is a notable ecological characteristic. The rhizome system survives even intense ground fires and resprouts vigorously, often achieving higher berry production in recently burned areas compared to unburned controls.
 
 ## Related Species
+
+## See Also
+
+- [[vaccinium-arboreum]]
+- [[vaccinium-caesariense]]
+- [[vaccinium-darrowii]]
+- [[vaccinium-fuscatum]]
+- [[vaccinium-ovatum]]
+- [[vaccinium-pallidum]]
+- [[vaccinium-parvifolium]]
+- [[vaccinium-simulatum]]
+- [[vaccinium-tenellum]]

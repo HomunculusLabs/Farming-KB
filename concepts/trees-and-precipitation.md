@@ -118,7 +118,7 @@ The understanding that trees generate and modulate precipitation has direct appl
 
 ## See Also
 
-- [[Wind Effects on Trees and Forests]]
-- [[Temperature Effects of Trees]]
-- [[Tree Biomass and Energy Transactions]]
-- [[Microclimate Site Assessment]]
+- [[wind-effects-on-trees-and-forests]]
+- [[temperature-effects-of-trees]]
+- [[tree-biomass-and-energy-transactions]]
+- [[microclimate-site-assessment]]

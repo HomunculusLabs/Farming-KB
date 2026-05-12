@@ -96,9 +96,9 @@ knowledge and practical experience. From traditional methods passed down
 through generations to modern scientific approaches, the evolution continues
 to inform current best practices and research directions.
 
+
 ## See Also
-- [[doc]]
-- [[det]]
-- [[jadam-pesticide-for-powdery-mildew]]
-- [[jadam-jms-jhs-pesticide]]
-- [[jadam-natural-pesticide-institute-and-research]]
+
+- [[jadam-local-material-resource-cycling]]
+- [[jadam-microbe-culturing-stages-and-indicators]]
+- [[jadam-moth-pesticide]]

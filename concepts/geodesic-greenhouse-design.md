@@ -139,7 +139,7 @@ Enhance the dome's energy efficiency with [[passive-solar-design]]:
 
 ## Sizing
 
-- **Small (10-15 foot diameter):** 80-180 sq ft growing area. Good for a family garden, seed starting, [[cold-climate-farming-and-season-extension]].
+- **Small (10-15 foot diameter):** 80-180 sq ft growing area. Good for a family garden, seed starting, [[cold-climate-gardening]].
 - **Medium (18-25 foot diameter):** 250-490 sq ft. Suitable for serious home food production.
 - **Large (30-50 foot diameter):** 700-1,960 sq ft. Community-scale or small commercial production.
 - **Height:** A 3V 5/8 sphere dome has a height of approximately 0.85 x diameter. A 20-foot dome is about 17 feet tall.

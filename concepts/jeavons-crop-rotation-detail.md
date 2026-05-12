@@ -92,7 +92,7 @@ framework for crop rotation.
 - [[jeavons-crop-rotation-system]]
 - [[coleman-yearly-schedule-multi-crop-winter-rotation-planning]]
 - [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]
-- [[crop-rotation-and-soil-health-planning]]
+- [[crop-rotation-and-ley-farming]]
 - [[mushroom-crop-rotation-and-substrate-reuse]]
 
 ## Practical Applications

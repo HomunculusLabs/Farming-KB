@@ -16,7 +16,7 @@ Rhizodeposition refers to the continuous release of organic compounds from plant
 
 Plant roots release a diverse array of carbon-containing compounds into the rhizosphere through multiple pathways:
 
-- **Root exudates**: Low-molecular-weight compounds including sugars, amino acids, organic acids, phenolics, [[plant-defense-chemistry-and-secondary-metabolites]] that diffuse passively from root cells
+- **Root exudates**: Low-molecular-weight compounds including sugars, amino acids, organic acids, phenolics, [[plant-defense-mechanisms]] that diffuse passively from root cells
 - **Secretions**: Compounds actively transported across the plasma membrane via specific carrier proteins, often in response to environmental cues
 - **Mucilage**: Gelatinous polysaccharide material produced by root cap cells that lubricates root penetration through soil while creating a hydrated microenvironment
 - **Lysates**: Contents released from root cells undergoing senescence or programmed cell death at the root tip and along the root axis

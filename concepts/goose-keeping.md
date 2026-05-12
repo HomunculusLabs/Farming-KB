@@ -32,7 +32,7 @@ Geese are excellent homestead birds -- they are largely self-feeding on pasture,
 - Weed/[[mollison-geese-grass-control-and-integrated-poultry]]: Chinese, Roman Tufted
 - Small homestead: Pilgrim, Roman Tufted
 - Watchdog/alert: African, Chinese
-- [[cold-climate-farming-and-season-extension]] hardiness: Embden, Toulouse, Pilgrim
+- [[cold-climate-gardening]] hardiness: Embden, Toulouse, Pilgrim
 
 ## Housing
 

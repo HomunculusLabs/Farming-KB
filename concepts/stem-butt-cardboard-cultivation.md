@@ -44,7 +44,7 @@ The stem butt method uses the bottom portion of harvested mushrooms to generate 
 
 Corrugated cardboard is an excellent substrate for mycelial expansion:
 - Sweet wood-based glues in cardboard boost mycelial growth
-- Contaminating green molds (Trichoderma species) do NOT grow as well on cardboard as many gourmet and [[cancer-medicinal-mushrooms]]
+- Contaminating green molds (Trichoderma species) do NOT grow as well on cardboard as many gourmet and [[medicinal-mushrooms]]
 - Corrugated ridges and valleys provide favorable microenvironments
 - Readily available, free, and biodegradable
 - Cardboard from US, Canada, and Europe tends to be free of dioxins

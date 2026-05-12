@@ -5,9 +5,20 @@ type: entity
 tags: [species, tree, laurel, canary-islands, condensation, water-harvesting]
 ---
 
+
+
+
+
 ## Description
 
 *Ocotea foetens* (commonly known as the Til tree or Til) is a large evergreen tree in the Lauraceae family, native to the Canary Islands and Madeira. It is legendary for its extraordinary ability to condense moisture from sea mists and fog, producing copious amounts of water that drip from its leaves to the ground below. A single giant Til tree may present up to 16 hectares of laminate leaf surface to sea air, making it one of the most efficient natural condensers known.
+
+
+
+
+
+
+
 
 ## Classification
 
@@ -18,6 +29,13 @@ tags: [species, tree, laurel, canary-islands, condensation, water-harvesting]
 - **Common names:** Til, Til tree, Rain tree, Stinkwood
 - **Growth form:** Large evergreen tree
 
+
+
+
+
+
+
+
 ## Key Facts
 
 - The legendary "rain tree" of Hierro in the Canary Islands was a giant Til tree whose leaves condensed mountain mists and caused water to drip into two large cisterns placed beneath it. This single tree reportedly distilled sufficient water from sea mists to meet the needs of all inhabitants of the island (Bramwell).
@@ -27,6 +45,13 @@ tags: [species, tree, laurel, canary-islands, condensation, water-harvesting]
 - As a member of the laurel family, it was part of the giant laurel forests that once covered the Canary Islands before near-complete deforestation by Spanish colonizers.
 - Condensation drip from such trees can account for 80-86% of total precipitation on upland slopes of islands or sea coasts.
 
+
+
+
+
+
+
+
 ## Relevance to Cultivation and Permaculture
 
 - **Natural water harvesting:** *Ocotea foetens* demonstrates the extraordinary potential of trees as atmospheric water condensers. In permaculture design, understanding this capacity informs the strategic placement of trees to harvest atmospheric moisture in fog-prone or coastal regions.
@@ -35,9 +60,23 @@ tags: [species, tree, laurel, canary-islands, condensation, water-harvesting]
 - **Biomimicry applications:** The leaf structure and canopy architecture of *O. foetens* could inform the design of artificial fog-harvesting systems in arid coastal regions.
 - **Edge effects:** This species exemplifies Mollison's principle that forest edges facing onshore winds are critical zones for moisture capture and should never be removed.
 
+
+
+
+
+
+
+
 ## Ecological Context
 
 *Ocotea foetens* is a keystone species of the Canarian laurel forest (laurisilva), a relict ecosystem dating to the Tertiary period. These forests depend on the constant trade-wind-driven moisture condensation that the trees themselves help to generate. The loss of these forests on most Canary Islands has resulted in dramatic reductions in freshwater availability, a living demonstration of the tight coupling between forest cover and local hydrology described throughout Mollison's work.
+
+
+
+
+
+
+
 
 ## References
 

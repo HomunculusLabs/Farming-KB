@@ -116,9 +116,10 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[doc]]
-- [[chamovitz-plant-photoreceptors-beyond-phytochrome]]
-- [[chamovitz-plant-maze-navigation-spatial-memory]]
-- [[chamovitz-plant-acoustic-and-vibration-sensing]]
-- [[chamovitz-julius-von-sachs-blue-light-phototropism]]
+
+- [[chamovitz-plant-vision-photoreception-systems-compared]]
+- [[chamovitz-retina-photoreceptor-rod-cone-resolution-plant-comparison]]
+- [[chamovitz-rhodopsin-photopsin-visual-pigment-chemistry-plant-parallels]]
+- [[chamovitz-what-a-plant-knows-overview]]

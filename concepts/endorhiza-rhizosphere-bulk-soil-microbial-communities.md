@@ -23,7 +23,7 @@ The bulk soil harbors the full range of soil-adapted bacteria, including abundan
 
 The rhizosphere is the narrow zone of soil directly influenced by root secretions, including exudates, mucilage, and lysates. This nutrient-rich environment selects for bacteria capable of rapid growth on labile carbon sources, creating a community that is distinct from bulk soil but retains substantial overlap. In the Cannabis study, rhizosphere samples showed mixed results for differentiation from other sample types—in the first experiment, rhizosphere samples were not significantly different from other categories (unweighted: ADONIS R² = 0.07, p = 0.07), though in the second experiment with greater edaphic variation, they did differentiate (unweighted: R² = 0.05, p = 0.04).
 
-The rhizosphere effect—the enrichment of specific microbial taxa near roots relative to bulk soil—is driven by rhizodeposition, the release of organic compounds from roots. These compounds include sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]] that serve as carbon and energy sources for heterotrophic bacteria. The rhizosphere community represents the first filtering step as soil microbes respond to the chemical environment created by the plant.
+The rhizosphere effect—the enrichment of specific microbial taxa near roots relative to bulk soil—is driven by rhizodeposition, the release of organic compounds from roots. These compounds include sugars, amino acids, organic acids, [[plant-defense-mechanisms]] that serve as carbon and energy sources for heterotrophic bacteria. The rhizosphere community represents the first filtering step as soil microbes respond to the chemical environment created by the plant.
 
 ### Endorhiza (Endosphere)
 

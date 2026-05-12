@@ -140,7 +140,7 @@ A mid-size 20-by-50-foot high tunnel with steel frames costs between $2,000 and 
 
 - High tunnels and hoop houses are the same basic structure under different names.
 - High tunnels tend to be taller and used commercially, while hoop houses range from small to large.
-- Both provide passive solar heating, [[cervantes-wind-protection-outdoor-cannabis]], [[cold-climate-farming-and-season-extension]] without artificial climate control.
+- Both provide passive solar heating, [[cervantes-wind-protection-outdoor-cannabis]], [[cold-climate-gardening]] without artificial climate control.
 - Ventilation through roll-up sides and open doors is critical to prevent overheating.
 - Crops are grown directly in the ground, distinguishing them from traditional greenhouses.
 

@@ -72,13 +72,13 @@ significantly different achievement than 80% on heavily [[oyster-mushroom-supple
 researchers advocate for reporting BE on both a total substrate basis and a base
 material-only basis to enable fairer comparisons.
 
+
 ## See Also
 
-- [[stamets-biological-efficiency-yield]]
-
-- [[oyster-mushroom-species]]
-- [[mushroom-cultivation-environments]]
-- [[macrocybe-gigantea]]
+- [[biological-sewage-treatment-systems]]
+- [[biological-sewage-treatment-with-plants]]
+- [[biological-wastewater-treatment]]
+- [[biological-water-purification-with-plants]]
 
 ## Practical Applications
 

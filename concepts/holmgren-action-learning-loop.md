@@ -93,9 +93,11 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[david-holmgren]]
-- [[doc]]
-- [[permaculture-design]]
-- [[det]]
-- [[permaculture]]
+
+- [[holmgren-aboriginal-management-edge-landscapes]]
+- [[holmgren-design-thinking-guidelines-problem-is-solution]]
+- [[holmgren-emergent-union-materialism-spirituality-permaculture]]
+- [[holmgren-energy-descent-culture-scavenging-modernity-rubbish-tip]]
+- [[holmgren-renewability-versus-durability-building]]

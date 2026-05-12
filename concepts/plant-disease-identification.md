@@ -9,7 +9,7 @@ sources: []
 
 # Plant Disease Identification
 
-Accurate disease identification is the critical first step in effective [[plant-disease-management-in-organic-gardens]]. Misidentification leads to incorrect treatment, wasted resources, and potentially worse outcomes. This guide provides a systematic approach to diagnosing plant diseases based on symptoms, affected plant parts, and environmental conditions.
+Accurate disease identification is the critical first step in effective [[plant-disease-management-solomon]]. Misidentification leads to incorrect treatment, wasted resources, and potentially worse outcomes. This guide provides a systematic approach to diagnosing plant diseases based on symptoms, affected plant parts, and environmental conditions.
 
 ## Systematic Diagnostic Approach
 

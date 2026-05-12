@@ -41,7 +41,7 @@ Wild carrot (Queen Anne's Lace) looks nearly identical to poison hemlock, which 
 False morels can be confused with true morels — real morels are hollow inside and have caps fused to the stem.
 Deadly nightshade berries resemble small edible berries but contain toxic alkaloids that can cause serious illness or death.
 Water hemlock, one of North America's most toxic plants, grows near streams and wetlands where edible watercress and cattails also thrive.
-Study [[edible-wild-mushrooms-foraging-guide|edible wild mushroom foraging]] safety principles, which apply equally to plant foraging.
+Study [[edible-wild-mushrooms-by-region]] safety principles, which apply equally to plant foraging.
 
 ### Harvest From Clean Locations
 

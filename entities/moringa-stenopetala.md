@@ -85,6 +85,6 @@ Traditional uses include treatment of diabetes, hypertension, malaria, and
 [[blesching-cannabis-gastrointestinal-disorders]]. Root [[grass-seed-water-absorption-variability-substrate-preparation]]s require caution due to the
 toxic alkaloid spirochin.
 
-## Culinary [[moringa-oleifera-cultivation-uses-and-nutrition]]al Use
+## Culinary [[moringa-oleifera-horseradish-tree-permaculture]]al Use
 
 Leaves are consumed fresh or cooked, added to stews, sauces, and porridges

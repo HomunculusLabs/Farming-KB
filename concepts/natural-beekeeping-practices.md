@@ -88,3 +88,10 @@ is antibacterial and creates the right ambience for hive life.
 - Plant thyme, marjoram, and plants with [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in front of the
   hive, at least 3-4m wide and deep
 - Install a sloping piece of wood above the entrance that forces bees to
+
+## See Also
+
+- [[natural-farm-establishment-protective-forests-and-windbreaks]]
+- [[natural-sewage-treatment-systems]]
+- [[natural-swimming-pools]]
+- [[natural-swimming-pools-and-water-design]]

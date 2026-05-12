@@ -56,7 +56,7 @@ Rye straw's importance in mushroom compost preparation touches multiple aspects 
 1. **Substrate physics**: The fibrous structure and fermentation resistance of rye straw create a compost with optimal pore space, moisture retention, and structural integrity -- all critical for mycelial colonization and fruiting.
 2. **Nutrient availability**: Grain straws likely provide a favorable carbon-to-nitrogen ratio and a spectrum of nutrients that support robust mycelial growth.
 3. **Historical continuity**: The French preference for rye straw manure represents centuries of empirical optimization that preceded modern substrate science.
-4. **Modern challenges**: The declining availability of straw manure (due to sawdust/shaving bedding) represents a significant challenge for traditional composting [[outdoor-mushroom-cultivation-log-stump-and-bed-methods]].
+4. **Modern challenges**: The declining availability of straw manure (due to sawdust/shaving bedding) represents a significant challenge for traditional composting [[outdoor-mushroom-cultivation]].
 5. **Spawn quality**: Duggar's experiments demonstrated that manure from grain-fed animals yields more vigorous spawn growth than alternatives.
 
 ## Sources

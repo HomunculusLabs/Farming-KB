@@ -87,3 +87,9 @@ The reaction conditions are mild (ice bath to room temperature) and do not requi
 The product crystallizes directly from the reaction mixture, eliminating the need for chromatographic purification.
 
 The acetyl group is stable under the conditions of the subsequent acylation and amidation steps but is readily removed during the lithium aluminum hydride reduction that produces psilocin.
+
+## See Also
+
+- [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]]
+- [[shirota-psilocybin-phosphorylation-synthesis]]
+- [[shirota-zwitterionic-phosphate-intermediate-discovery]]

@@ -5,9 +5,18 @@ type: entity
 tags: [place, wetland, italy, drainage, eucalyptus, hydrology, land-reclamation]
 ---
 
+
+
 ## Description
 
 The Pontine Marshes (Agro Pontino) were a vast area of marshland in the Lazio region of central Italy, south of Rome, extending roughly 750 square kilometers between the Volscian Mountains and the Tyrrhenian Sea. Historically notorious for malaria and largely uninhabitable, the marshes were drained during the fascist era under Benito Mussolini in the 1930s using massive plantings of *Eucalyptus globulus* trees to transpire enormous volumes of water from the saturated ground. Mollison cites this as a dramatic example of the pumping power of large eucalypt trees, noting that Mussolini pumped dry the Pontine Marshes using approximately sixty eucalyptus trees per hectare.
+
+
+
+
+
+
+
 
 ## Classification
 
@@ -16,6 +25,13 @@ The Pontine Marshes (Agro Pontino) were a vast area of marshland in the Lazio re
 - **Area:** Approximately 750 square km (75,000 hectares)
 - **Geography:** Coastal alluvial plain between the Volscian (Ausoni/Lepini) Mountains and the Tyrrhenian Sea
 - **Current status:** Drained and converted to agricultural land and new towns (Latina, Sabaudia, Pontinia)
+
+
+
+
+
+
+
 
 ## Key Facts
 
@@ -27,6 +43,13 @@ The Pontine Marshes (Agro Pontino) were a vast area of marshland in the Lazio re
 - The project became a propaganda symbol of the fascist regime's modernization efforts, though the ecological consequences were severe — complete destruction of a vast wetland ecosystem.
 - The eucalyptus trees' transpiration rate, combined with engineered drainage, was sufficient to permanently lower the water table below the land surface.
 
+
+
+
+
+
+
+
 ## Relevance to Cultivation and Permaculture
 
 - **Tree transpiration power:** The Pontine Marshes demonstrate quantitatively what a single tree species can achieve in moving water: *Eucalyptus globulus* at 3,600-4,500 liters per day per tree. This data point is essential for designing biological drainage and water management systems in permaculture.
@@ -36,9 +59,23 @@ The Pontine Marshes (Agro Pontino) were a vast area of marshland in the Lazio re
 - **Dual-use lesson:** The same transpiration capacity that drains marshes also means eucalypts return enormous volumes of water vapor to the atmosphere, potentially contributing to downwind rainfall — a double-edged sword in water management design.
 - **Cautionary ecological lesson:** The complete destruction of the Pontine wetland ecosystem serves as a reminder that biological engineering, even when successful on its own terms, can eliminate irreplaceable habitats and biodiversity.
 
+
+
+
+
+
+
+
 ## Ecological Considerations
 
 Modern conservation perspectives view the drainage of the Pontine Marshes as an ecological catastrophe — the loss of 750 square km of wetland habitat, associated biodiversity, and natural water purification functions. Permaculture designers should note the power demonstrated while applying it with far greater ecological sensitivity, using targeted biological drainage in specific problem areas rather than wholesale landscape transformation.
+
+
+
+
+
+
+
 
 ## References
 

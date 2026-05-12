@@ -56,7 +56,7 @@ A notable characteristic of Bruce Banner is that all five phenotypes tested with
 
 ### Cultivation Notes
 
-- The strain is accessible to rookie cultivators, making it an excellent choice for learning sativa-dominant [[cannabis-advanced-growing-techniques]]
+- The strain is accessible to rookie cultivators, making it an excellent choice for learning sativa-dominant [[cannabis-advanced-refinement-fractional-distillation]]
 - Purple coloration develops naturally, particularly in cooler nighttime temperatures during late flowering
 - The attractive flowers make this a visually rewarding plant throughout the grow cycle
 - Even basic growing setups produce quality results, though optimized environments will maximize yield and potency

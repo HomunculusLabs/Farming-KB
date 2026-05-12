@@ -66,7 +66,7 @@ The decreasing diversity gradient can be understood through several ecological m
 
 The rhizosphere is a more homogeneous environment than bulk soil, with root exudates creating a nutrient-rich zone that favors certain bacterial groups over others.
 
-This represents a first level of environmental filtering. Root exudates — including sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]] — create a chemical environment that selects for bacteria capable of utilizing these compounds.
+This represents a first level of environmental filtering. Root exudates — including sugars, amino acids, organic acids, [[plant-defense-mechanisms]] — create a chemical environment that selects for bacteria capable of utilizing these compounds.
 
 The endorhiza represents an even more selective environment, where only bacteria capable of colonizing root tissue, evading or tolerating plant immune responses, and competing for niche space within the root can persist.
 

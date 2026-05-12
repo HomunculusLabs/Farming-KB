@@ -5,9 +5,15 @@ type: entity
 tags: [tree-species, canary-islands, condensation, laurisilva]
 ---
 
+
+
 ## Description
 
 *Ocotea foetens*, commonly known as Til, is a large evergreen tree species of the laurel family (Lauraceae) native to the Canary Islands and Madeira. It is a keystone species of the laurisilva (laurel forest) ecosystem and one of the most effective natural condensers of atmospheric moisture known. Mollison cites it as a prime example of how individual trees can dramatically magnify available condensation surface.
+
+
+
+
 
 ## Classification
 
@@ -18,6 +24,10 @@ tags: [tree-species, canary-islands, condensation, laurisilva]
 - **Common names**: Til, Stinkwood (referring to the foetens epithet)
 - **Growth form**: Large evergreen tree
 - **Native range**: Canary Islands, Madeira
+
+
+
+
 
 ## Key Facts
 
@@ -30,6 +40,10 @@ tags: [tree-species, canary-islands, condensation, laurisilva]
 - Named "foetens" for the unpleasant odor of its fresh wood
 - Related to other Lauraceae including *Laurus novocanariensis* and *Persea indica*
 
+
+
+
+
 ## Ecological Role
 
 The Til tree is a living condensation engine:
@@ -38,6 +52,10 @@ The Til tree is a living condensation engine:
 2. **Cloud forest creation**: Along with other laurisilva species, it creates the conditions for persistent cloud forests on island and coastal slopes
 3. **Watershed function**: Condensation drip from Til forests sustains perennial streams and springs on volcanic islands
 4. **Microclimate moderation**: The dense evergreen canopy moderates temperature extremes and maintains high humidity
+
+
+
+
 
 ## Relevance to Cultivation and Permaculture
 
@@ -49,9 +67,17 @@ The Til tree is a living condensation engine:
 4. **Edge design**: The species thrives at the interface of sea air and mountain slopes, illustrating the permaculture principle of edge maximization
 5. **Evergreen advantage**: As an evergreen, it captures moisture year-round, unlike deciduous species that lose this capacity in winter
 
+
+
+
+
 ## Conservation Status
 
 The laurisilva forests containing *Ocotea foetens* are now protected as UNESCO World Heritage Sites on some islands, but the species remains threatened by habitat fragmentation, invasive species, and climate change. The pre-conquest laurel forests of the Canary Islands were almost completely destroyed by Spanish colonizers, transforming once-lush islands into arid landscapes — a case study Mollison uses repeatedly.
+
+
+
+
 
 ## Source Reference
 

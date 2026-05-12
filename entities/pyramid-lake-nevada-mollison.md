@@ -9,6 +9,10 @@ tags: [place, deforestation, case-study, hydrology, nevada]
 
 Pyramid Lake is a terminal lake on the Paiute Indian Reservation in western Nevada, USA, fed by the Truckee River. Mollison cites it as a case study in how upland deforestation combined with river diversion and irrigation can destroy entire lake ecosystems within a single human lifetime. The lake is the geographic remnant of ancient Lake Lahontan and holds deep cultural significance for the Cuiuidika'a band of the Paiute people.
 
+
+
+
+
 ## Classification
 
 - **Type**: Place — Natural terminal lake
@@ -16,6 +20,10 @@ Pyramid Lake is a terminal lake on the Paiute Indian Reservation in western Neva
 - **Water source**: Truckee River (originating in Sierra Nevada forests)
 - **Geological origin**: Remnant of Pleistocene Lake Lahontan
 - **Cultural affiliation**: Cuiuidika'a band of Northern Paiute
+
+
+
+
 
 ## Key Facts
 
@@ -27,6 +35,10 @@ Pyramid Lake is a terminal lake on the Paiute Indian Reservation in western Neva
 - The lake is named for distinctive pyramid-shaped tufa formations
 - Mollison frames this as: "The cowboys have won the day, but ruined the future to do so"
 - Demonstrates the connection between upland forest management and lowland water availability
+
+
+
+
 
 ## The Deforestation-Water Cycle Connection
 
@@ -40,6 +52,10 @@ Pyramid Lake illustrates a cascade of consequences:
 6. **Lake Winnemucca lost**: Companion lake dried entirely, becoming a dustbowl
 7. **Cultural destruction**: The Paiute people, dependent on the lake's bounty, lost their subsistence base
 
+
+
+
+
 ## Relevance to Cultivation and Permaculture
 
 Pyramid Lake serves as a powerful cautionary tale with direct design implications:
@@ -51,9 +67,17 @@ Pyramid Lake serves as a powerful cautionary tale with direct design implication
 5. **Cultural impact**: Environmental destruction always carries human costs, often borne by indigenous peoples who had no role in the destructive decisions
 6. **Design imperative**: Mollison's response is clear — save all remaining forest and plant trees for increased condensation on sea-facing hills
 
+
+
+
+
 ## Modern Status
 
 Pyramid Lake still exists but at greatly reduced levels. Conservation efforts including the Pyramid Lake Paiute Tribe's water rights battles have achieved some restoration of water allocations. The lake remains home to the endangered cui-ui fish and the Lahontan cutthroat trout, though both populations are shadows of their historical abundance.
+
+
+
+
 
 ## Source Reference
 

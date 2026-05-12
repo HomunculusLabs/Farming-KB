@@ -50,7 +50,7 @@ In the first experiment, no significant rhizosphere differentiation was detected
 
 When a Cannabis plant is harvested, the root system undergoes a cascade of changes that fundamentally restructure the microbial community from a plant-supportive assemblage to a decomposition-driven one:
 
-1. **Cessation of root exudation**: Living roots continuously secrete sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]] into the rhizosphere. After harvest, this supply is cut off, starving dependent [[lowenfels-rhizosphere-bacteria-plant-interaction]] that rely on these carbon sources. The rhizosphere effect—the enrichment of specific bacteria around living roots—begins to dissipate within days.
+1. **Cessation of root exudation**: Living roots continuously secrete sugars, amino acids, organic acids, [[plant-defense-mechanisms]] into the rhizosphere. After harvest, this supply is cut off, starving dependent [[lowenfels-rhizosphere-bacteria-plant-interaction]] that rely on these carbon sources. The rhizosphere effect—the enrichment of specific bacteria around living roots—begins to dissipate within days.
 
 2. **Cell wall degradation**: As root cells die, cellulases and pectinases from both endogenous and exogenous microbes begin breaking down cell walls, releasing intracellular contents that feed saprotrophs like Cellvibrio. The transition from endophyte to decomposer community accelerates as more cell wall material becomes available.
 

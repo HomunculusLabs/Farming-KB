@@ -118,7 +118,7 @@ humility before natural complexity.
 
 ## Modern Relevance
 
-Fukuoka's critique anticipated [[no-till-farming-and-conservation-agriculture]] by decades.
+Fukuoka's critique anticipated [[no-till-farming-principles]] by decades.
 Research confirms no-till farming reduces erosion 60-90%, improves water
 infiltration 200-400%, and substantially reduces costs — validating his
 argument that less soil disturbance means better performance.

@@ -47,7 +47,7 @@ boreal forests.
 
 ## Turkey Tail (Trametes versicolor)
 
-[[turkey-tail-mushroom-cultivation-and-medicinal-properties]]
+[[turkey-tail-mushroom-cancer-research]]
 
 Turkey Tail is one of the most common mushrooms on Earth, found on dead
 hardwood on every continent except Antarctica. Its colorful, fan-shaped
@@ -133,7 +133,7 @@ medicinal mushroom blends, though product quality varies significantly. See
 ## See Also
 
 - [[chaga]]
-- [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]
+- [[turkey-tail-mushroom-cancer-research]]
 - [[chaga-mushroom-research]]
 - [[cancer-turkey-tail-psk-clinical-trials]]
 - [[medicinal-mushroom-guide-chaga]]

@@ -26,7 +26,7 @@ Phellinus linteus is considered one of the most powerful anti-inflammatory and a
 
 ## Anti-Inflammatory Properties
 
-Meshima is one of the most potent anti-inflammatory [[cancer-medicinal-mushrooms]]:
+Meshima is one of the most potent anti-inflammatory [[medicinal-mushrooms]]:
 
 ### Mechanisms
 - Strong inhibition of NF-kB signaling pathway, the master regulator of inflammation.

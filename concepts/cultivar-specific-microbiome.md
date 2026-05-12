@@ -56,7 +56,7 @@ Alphaproteobacteria.
 ### Root Exudate Composition
 
 Different cultivars produce different blends of sugars, amino acids, organic
-acids, phenolics, flavonoids, [[plant-defense-chemistry-and-secondary-metabolites]] from their roots.
+acids, phenolics, flavonoids, [[plant-defense-mechanisms]] from their roots.
 These exudates serve as carbon and energy sources, and their specific
 composition determines which microbes grow near the root. This is likely the
 most important mechanism for cultivar-specific selection.

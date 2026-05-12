@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1120 pages**
+**1,113 pages**
 
 ## A
 
@@ -126,14 +126,12 @@
 - [[cool-climate-home-garden-mollison]]
 - [[cool-climate-settlement-design-mollison]]
 - [[coppice-management-permaculture]]
-- [[creatively-use-and-respond-to-change]]
 - [[csa-farm-share-model]]
 - [[cycles-in-permaculture]]
 
 ## D
 
 - [[dalbergia-sissoo-permaculture-timber-tree]]
-- [[design-from-patterns-to-details]]
 - [[diversity-and-stability-in-permaculture]]
 - [[duckweed-and-aquatic-plants-permaculture-systems]]
 
@@ -404,7 +402,6 @@
 - [[ianto-evans-polyculture-system]]
 - [[incremental-design-in-permaculture]]
 - [[incremental-design-permaculture-ethics]]
-- [[integrate-rather-than-segregate]]
 
 ## J
 
@@ -1132,9 +1129,6 @@
 - [[urban-permaculture-trees-water-cycling]]
 - [[urban-rooftop-gardening-and-sheet-mulching]]
 - [[urban-water-catchment-cistern-thermal-mass]]
-- [[use-and-value-renewable-resources]]
-- [[use-edges-and-value-the-marginal]]
-- [[use-small-and-slow-solutions]]
 
 ## V
 
@@ -1194,4 +1188,3 @@
 - [[zeri-organization]]
 - [[zone-5-wilderness]]
 - [[zone-sector-analysis-guide]]
-- [[zone-system]]

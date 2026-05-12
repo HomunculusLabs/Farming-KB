@@ -114,4 +114,4 @@ to inform current best practices and research directions.
 - [[doc]]
 - [[dom]]
 - [[det]]
-- [[cannabis-indoor-growing-guide]]
+- [[cannabis-indoor-growing-basics]]

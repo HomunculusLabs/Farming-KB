@@ -88,3 +88,15 @@ excessively drained sandy and gravelly soils.
 
 The species is extremely cold-hardy, tolerating winter temperatures below
 -50°C across its northern range.
+
+## See Also
+
+- [[pinus-brutia]]
+- [[pinus-coulteri]]
+- [[pinus-densiflora]]
+- [[pinus-lambertiana]]
+- [[pinus-longaeva]]
+- [[pinus-palustris]]
+- [[pinus-resinosa]]
+- [[pinus-rigida]]
+- [[pinus-thunbergii]]

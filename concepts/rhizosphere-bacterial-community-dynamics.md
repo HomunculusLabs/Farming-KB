@@ -13,7 +13,7 @@ The rhizosphere is the narrow zone of soil directly influenced by plant root sec
 
 In the context of the two-tier selection model proposed by Winston et al. (2014), the rhizosphere occupies an intermediate position between bulk soil and endorhiza communities. The first tier of selection—driven by general [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]]—acts broadly on the entire soil microbiome, while the second tier—driven by plant genotype-specific factors—progressively refines community composition as microorganisms transition from bulk soil through the rhizosphere and into the endorhiza. The rhizosphere thus represents the critical transitional zone where both tiers of selection are actively at work.
 
-The rhizosphere effect describes the well-documented phenomenon whereby bacterial populations in the rhizosphere are typically 10 to 1000 times more abundant than in adjacent bulk soil. This enrichment is driven primarily by root exudation, which supplies a rich source of organic carbon compounds including sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]] that fuel microbial growth and activity.
+The rhizosphere effect describes the well-documented phenomenon whereby bacterial populations in the rhizosphere are typically 10 to 1000 times more abundant than in adjacent bulk soil. This enrichment is driven primarily by root exudation, which supplies a rich source of organic carbon compounds including sugars, amino acids, organic acids, [[plant-defense-mechanisms]] that fuel microbial growth and activity.
 
 ## The Rhizosphere Effect and Root Exudation
 

@@ -10,7 +10,7 @@ type: concept
 
 # Mushroom House Design
 
-The [[farm-pond-design-and-construction]] of [[duggar-mushroom-growing-history-and-methods]]
+The [[pond-design-and-construction]] of [[duggar-mushroom-growing-history-and-methods]]
 facilities is a critical factor in commercial success.
 Any situation in which [[mushroom-growing-temperature-and-moisture]] may be
 controlled according to the requirements of the mushroom

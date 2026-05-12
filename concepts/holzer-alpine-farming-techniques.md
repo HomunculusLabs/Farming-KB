@@ -117,9 +117,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[doc]]
-- [[soil-life]]
-- [[gentiana-lutea]]
-- [[jerusalem-artichoke]]
-- [[det]]
+
+- [[holzer-fig-and-mediterranean-species]]
+- [[holzer-indicator-plants]]
+- [[holzer-regenerating-contaminated-farmland]]

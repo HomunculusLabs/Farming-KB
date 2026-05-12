@@ -6,7 +6,7 @@ Succession planting for [[cold-house-winter-harvest-system]] requires a fundamen
 
 Success in maintaining a continuity of crops for harvest through the winter depends on understanding how shorter day length and cooler temperatures increase the time from sowing to harvest. The choice of precise sowing dates for fall planting is much more crucial than for spring planting, and the dates are highly crop-specific. Getting the sowing date wrong by even two weeks can mean the difference between a harvestable crop and one that is too small to survive the winter.
 
-This page covers the day length factor, sowing date calculation methods, adjusted maturity rates for fall conditions, crop-specific timing windows, [[crop-rotation-and-succession-planting]] strategies for continuous winter harvest.
+This page covers the day length factor, sowing date calculation methods, adjusted maturity rates for fall conditions, crop-specific timing windows, [[crop-rotation-and-ley-farming]] strategies for continuous winter harvest.
 
 ---
 

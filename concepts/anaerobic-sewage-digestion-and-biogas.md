@@ -54,6 +54,8 @@ Solids, metals, and disease organisms are very greatly reduced by the first anae
 
 In the anaerobic pond, few algae are present, but specialised sulphur-loving bacteria of the genera *Thiosporallum*, *Chromatium*, and *Rhodopseudomonas* thrive. These may appear pink and give the ponds a characteristic colouration. They use hydrogen sulphide as a hydrogen source for carbon assimilation, producing elemental sulphur (S) as a byproduct, which binds to metals present. About 1.8-2.0 mg/L of heavy metals are precipitated as sulphides at 1.0 mg/L of elemental sulphur.
 
+
+
 ## Facultative Pond Ecology
 
 In facultative ponds, both the life forms and biochemical processes change dramatically. Algae bloom prolifically, with four almost universal sewage lagoon species: *Euglena*, *Chlamydomonas*, *Chlorella*, and *Scenedesmus*. The combined algal and bacterial flora (of many species) are collectively called **phytoplankton**. Bacteria benefit from oxygen produced by the algae, creating a mutually beneficial relationship.
@@ -62,9 +64,13 @@ With such rich algal food available, **zooplankton** now thrive: rotifers (*Brac
 
 Zooplankton accumulate metals in their tissues (mg/L dry weight): iron 1,200, zinc 152, copper 37, chromium 28, nickel 12.2, lead 10.3, cadmium 1.7. Harvested zooplankton and algae can be added to poultry feed or pumped to forests and fields as manure and trace element sources. In rich algal growth, blooms of *Daphnia* can reach densities of 100 mg/L.
 
+
+
 ## Aerobic Pond Performance
 
 At the aerobic stage, BOD drops to only 3-57 mg/L (mainly nitrogenous compounds), and suspended solids are 32-50 mg/L (primarily algae and zooplankton). About 80% of the original load has been removed and incorporated into living organisms. Metal levels now meet World Health Organisation standards. The water is suitable for irrigation or can be filtered through rush beds before release to streams.
+
+
 
 ## pH Progression and Seasonal Variation
 

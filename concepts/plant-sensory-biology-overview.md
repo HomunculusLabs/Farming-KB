@@ -110,7 +110,7 @@ Several practical principles emerge from plant sensory biology:
 Plant sensory biology is a rapidly evolving field with several active frontiers:
 
 - **Electrical signaling in plants**: Although plants lack neurons, they generate action potentials and slow wave potentials that propagate through phloem tissue. These [[tompkins-plant-electrical-signals]] can transmit information about herbivore attacks from leaf to leaf within seconds.
-- **Mycorrhizal networks as communication channels**: The "wood wide web" hypothesis suggests that plants share information and resources through common mycorrhizal fungal networks, though the extent [[lichen-biology-and-ecological-significance]] of this communication remains debated.
+- **Mycorrhizal networks as communication channels**: The "wood wide web" hypothesis suggests that plants share information and resources through common mycorrhizal fungal networks, though the extent [[lichen-biology-guide]] of this communication remains debated.
 - **Acoustic ecology**: New evidence suggests plants may both produce and respond to sound in ways that affect growth and defense, though this research is still in early stages.
 - **Computational modeling of plant behavior**: Integrating sensory inputs into predictive models of plant growth and development is becoming increasingly sophisticated, with applications in precision agriculture.
 

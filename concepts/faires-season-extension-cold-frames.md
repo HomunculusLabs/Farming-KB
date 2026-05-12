@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[permaculture]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
 - [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
-- [[cold-climate-farming-and-season-extension]]
+- [[cold-climate-gardening]]

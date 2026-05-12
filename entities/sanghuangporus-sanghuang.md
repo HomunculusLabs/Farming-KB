@@ -88,3 +88,14 @@ several Chinese provinces, driving interest in [[fukuoka-matsutake-artificial-cu
 
 Water-soluble polysaccharides are the most studied constituents. The
 primary fraction consists of β-glucans with (1→3) and (1→6) linkages,
+
+## See Also
+
+- [[sanghuangporus-baumii]]
+- [[sanghuangporus-cottoneus]]
+- [[sanghuangporus-ctenophorus]]
+- [[sanghuangporus-linteus]]
+- [[sanghuangporus-lonicericola]]
+- [[sanghuangporus-lonicerinus]]
+- [[sanghuangporus-vaninii]]
+- [[sanghuangporus-villosus]]

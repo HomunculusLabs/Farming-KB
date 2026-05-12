@@ -120,4 +120,4 @@ The world of *somethingness* — of isolated variables, controlled experiments, 
 - [[natural-farming]]
 - [[natural-farming-vs-scientific-agriculture]]
 - [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
-- [[photosynthesis-and-respiration-in-rice]]
+- [[photosynthesis-and-chloroplast-function]]

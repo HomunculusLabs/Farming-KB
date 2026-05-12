@@ -11,7 +11,7 @@ sources: []
 ## Overview
 
 Shiitake (Lentinula edodes) and maitake ([[grifola-frondosa]]) are two of the most
-celebrated [[cancer-medicinal-mushrooms]] in East Asian tradition and modern research
+celebrated [[medicinal-mushrooms]] in East Asian tradition and modern research
 alike.
 Both are white-rot wood decomposers found on hardwood trees, both produce
 powerful
@@ -64,7 +64,7 @@ during log colonization and competing with wild fungi outdoors.
 
 ## Maitake
 
-[[maitake-mushroom-cultivation-and-medicinal-properties]]
+[[maitake-mushroom-research]]
 
 Maitake, known as "hen of the woods" for its large, rosette-like clusters of
 overlapping fan-shaped caps, is native to temperate hardwood forests across

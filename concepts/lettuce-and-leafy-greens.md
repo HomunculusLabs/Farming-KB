@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, [[native-american-planting-methods-and-indigenous-agriculture]], bolt prevention, and harvest strategies.
+Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, [[native-american-church-peyote-ceremony-structure-roles-roadman]], bolt prevention, and harvest strategies.
 
 ## Lettuce Types
 

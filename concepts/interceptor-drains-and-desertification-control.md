@@ -25,19 +25,31 @@ Interceptor drains cut incipient or degraded croplands subject to desertificatio
 
 Where deeper sand seams carry salty water, these can be trenched out and stopped with a **vertical plastic barrier**, backed by compacted clay on the uphill side. Interceptor banks also cut off seepage from salt lakes and can divert early (salted) overland flow around saltpans, letting later fresh floodwater fill the pans or shallow lakes.
 
+
+
+
 ## Enabling Revegetation
 
 After interceptor drain preparation, **trees can be planted in previously desertified soils**. This is one of the most significant outcomes — transforming barren, salt-affected land into productive forest or perennial browse systems. The isolation of soil blocks from waterlogging and salt seepage creates conditions where root systems can establish without being overwhelmed by saline water tables.
 
+
+
+
 ## Spreader Banks
 
 Spreader banks (or spill banks) work in conjunction with interceptor systems. They are designed to spill a thin sheet of surplus overflow water down a broad grassy slope, either for irrigation or (in deserts) to prevent channel scour and gullying. They are tens or hundreds of metres long, with the lower side dead level and compacted or concreted.
+
+
+
 
 ### Irrigation Bay Systems
 
 For irrigation areas of flatlands, spreader banks are often pierced by a series of dead-level pipe outlets, each feeding an irrigation bay confined by low **steering banks**. At the lower end of each bay, a **tail drain** carries excess water to a stream or secondary storage dam. The uphill feeder drain is called the **head race** and has cross-slides that block flow to cause levelled pipes to flood out into the bays.
 
 Irrigation bays should not exceed 100 m in length, or water is wasted to evaporation.
+
+
+
 
 ## Integrated Earthworks Philosophy
 
@@ -47,6 +59,9 @@ In any landscape, a subtle and well-planned combination of dams, drains, spreade
 - **Spread water evenly** over crops
 - **Suppress wildfires** (using infrared sensors and automatic spill-gates)
 - **Modestly irrigate** land
+
+
+
 
 ## Rehabilitative vs. Damaging Use
 
@@ -58,9 +73,12 @@ All earthworks can be regarded as **rehabilitative** and remedial if they replac
 
 The critical assessment is long-term effects on the immediate landscape and the soils. Permaculture design prioritizes earthworks that restore degraded land rather than extract from it.
 
+
+
+
 ## Related Topics
 
 - [[swales-and-water-harvesting-earthworks]]
 - [[sewage-treatment-using-natural-processes]]
 - [[biological-water-purification]]
-- [[greywater-systems]]
+- [[greywater-systems-detailed]]

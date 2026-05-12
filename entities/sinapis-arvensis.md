@@ -25,7 +25,7 @@ The species is native to Europe and western Asia but has been introduced to ever
 
 Despite its status as a weed, Sinapis arvensis has historical value as a source of mustard seed and oil. Its seeds were ground for mustard condiment before the widespread cultivation of white mustard (Sinapis alba).
 
-The plant is a member of the glucosinolate-producing Brassicaceae, and its [[plant-defense-chemistry-and-secondary-metabolites]] has been extensively studied as a model for understanding plant-herbivore interactions.
+The plant is a member of the glucosinolate-producing Brassicaceae, and its [[plant-defense-mechanisms]] has been extensively studied as a model for understanding plant-herbivore interactions.
 
 ## Taxonomy and Morphology
 

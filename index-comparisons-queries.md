@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1289 pages**
+**1,289 pages**
 
 ## A
 

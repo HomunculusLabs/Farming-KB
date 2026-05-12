@@ -25,7 +25,7 @@ and root turnover — is consistently enriched in specific bacterial taxa relati
 to the surrounding bulk soil across all five cultivars studied by Winston et al.
 This enrichment pattern demonstrates that cannabis roots actively modify their
 immediate chemical environment through the exudation of sugars, amino acids,
-organic acids, [[plant-defense-chemistry-and-secondary-metabolites]], creating a niche that preferentially
+organic acids, [[plant-defense-mechanisms]], creating a niche that preferentially
 supports certain microbial groups while inhibiting others.
 
 The selective nature of this enrichment is evidenced by the fact that the

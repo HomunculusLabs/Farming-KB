@@ -40,7 +40,7 @@ bonus compared to conventional electric dehydrators.
 Different wavelengths of light trigger the synthesis of different vitamins
 and medicinal compounds. Blue-green spectrum wavelengths regulate metabolic
 pathways for energy, growth requirements, and the creation of higher levels
-of protein, vitamin D, [[maitake-mushroom-cultivation-and-medicinal-properties]]. This allows low-wattage
+of protein, vitamin D, [[maitake-mushroom-research]]. This allows low-wattage
 LED lights to be used efficiently in [[cotter-mushroom-rescue-modules-disaster-relief]]
 - [[spent-mushroom-substrate-applications]]
 - cotter-mushroom-life-cycle-mycelium-biology

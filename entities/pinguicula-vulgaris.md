@@ -88,3 +88,12 @@ over several hours and is mediated by auxin redistribution.
 ## Bioactive Compounds and Pharmacology
 
 The mucilage and leaf tissues of *P. vulgaris* contain several bioactive
+
+## See Also
+
+- [[pinguicula-esseriana]]
+- [[pinguicula-grandiflora]]
+- [[pinguicula-lusitanica]]
+- [[pinguicula-macroceras]]
+- [[pinguicula-moranensis]]
+- [[pinguicula-primuliflora]]
