@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**562 pages**
+**575 pages**
 
 ## A
 
@@ -442,6 +442,7 @@
 - [[plant-nutrient-mobility-in-soil]]
 - [[plant-nutrient-uptake]]
 - [[plant-nutrient-uptake-mechanisms]]
+- [[plant-primary-nutrients-and-mineral-sources]]
 - [[plant-sap-analysis-nutrient-diagnostics]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plants-tolerant-of-alkaline-soils]]
@@ -450,6 +451,8 @@
 - [[potassium-plant-nutrition]]
 - [[potassium-role-in-plants]]
 - [[power-soil-dna-isolation-16s-microbiome]]
+- [[primary-nutrients-and-mineral-sources-in-soils]]
+- [[primary-plant-nutrients-and-mineral-sources]]
 - [[protozoa-in-soil]]
 - [[protozoa-roles-in-soil]]
 - [[purdue-nitrogen-side-dressing-schedule]]
@@ -478,6 +481,7 @@
 - [[soil-capillary-action-and-water-movement]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-chytridiomycetes-diversity-distribution]]
+- [[soil-classification-and-structure]]
 - [[soil-compaction-diagnosis-remediation]]
 - [[soil-compaction-solutions]]
 - [[soil-compaction-solutions-ingham]]
@@ -502,6 +506,10 @@
 - [[soil-foodweb-biology-balance]]
 - [[soil-foodweb-biology-overview]]
 - [[soil-foodweb-microbiology]]
+- [[soil-formation-and-conservation]]
+- [[soil-formation-and-erosion]]
+- [[soil-formation-and-values]]
+- [[soil-health-and-conservation]]
 - [[soil-health-and-management]]
 - [[soil-health-assessment-biological-chemical-physical-indicators]]
 - [[soil-health-indicators]]
@@ -518,6 +526,9 @@
 - [[soil-ph-management]]
 - [[soil-ph-management-for-vegetable-gardens]]
 - [[soil-physicochemical-properties-microbial-communities]]
+- [[soil-pollution-and-human-health]]
+- [[soil-pollution-and-human-nutrition]]
+- [[soil-pollution-rehabilitation]]
 - [[soil-porosity-pore-size-distribution]]
 - [[soil-preparation-organic-gardens]]
 - [[soil-protozoa-ecology-trophic-interactions]]
@@ -525,6 +536,7 @@
 - [[soil-protozoa-nutrient-cycling-mineralization]]
 - [[soil-respiration]]
 - [[soil-self-enrichment]]
+- [[soil-structure-classification]]
 - [[soil-temperature-and-plant-growth-solomon]]
 - [[soil-temperature-plant-growth-rate-doubling-rule]]
 - [[soil-testing]]
@@ -600,6 +612,7 @@
 - [[thermal-composting-vs-aact]]
 - [[tompkins-soil-health-howard-indore-process]]
 - [[trace-elements-in-soil]]
+- [[tribal-soil-classification-and-structure]]
 
 ## U
 

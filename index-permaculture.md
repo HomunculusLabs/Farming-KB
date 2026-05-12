@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1,113 pages**
+**1124 pages**
 
 ## A
 
@@ -126,12 +126,14 @@
 - [[cool-climate-home-garden-mollison]]
 - [[cool-climate-settlement-design-mollison]]
 - [[coppice-management-permaculture]]
+- [[creatively-use-and-respond-to-change]]
 - [[csa-farm-share-model]]
 - [[cycles-in-permaculture]]
 
 ## D
 
 - [[dalbergia-sissoo-permaculture-timber-tree]]
+- [[design-from-patterns-to-details]]
 - [[diversity-and-stability-in-permaculture]]
 - [[duckweed-and-aquatic-plants-permaculture-systems]]
 
@@ -402,6 +404,7 @@
 - [[ianto-evans-polyculture-system]]
 - [[incremental-design-in-permaculture]]
 - [[incremental-design-permaculture-ethics]]
+- [[integrate-rather-than-segregate]]
 
 ## J
 
@@ -617,6 +620,7 @@
 - [[mollison-guild-analysis-and-species-interaction]]
 - [[mollison-hedgerow-barrier-species-selection]]
 - [[mollison-hurricane-and-cyclone-resilient-design]]
+- [[mollison-introduction-to-soils-in-permaculture]]
 - [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
 - [[mollison-life-in-earth-burrowers-roots]]
 - [[mollison-local-currency-systems-and-community-banking]]
@@ -654,6 +658,7 @@
 - [[mollison-shade-systems-and-canopy-architecture]]
 - [[mollison-soil-erosion-control]]
 - [[mollison-soil-formation-rates-and-erosion-costs]]
+- [[mollison-soil-pollution-and-remediation]]
 - [[mollison-specialist-tropical-crops-forest-products]]
 - [[mollison-spiral-patterns-in-nature-and-design]]
 - [[mollison-stream-orders-and-branching-magnitudes]]
@@ -661,6 +666,7 @@
 - [[mollison-town-permaculture-urban-food-systems]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
 - [[mollison-tree-crop-systems-permaculture]]
+- [[mollison-tribal-soil-classifications-and-soil-structure]]
 - [[mollison-trophic-pyramids-food-webs-and-energy-cycling]]
 - [[mollison-tropical-earth-shaping-polyculture-economics]]
 - [[mollison-tropical-home-garden-design]]
@@ -1015,6 +1021,7 @@
 - [[permaculture-walnut-species-timber-nut-production]]
 - [[permaculture-waste-management]]
 - [[permaculture-water-chestnut-guide]]
+- [[permaculture-water-design-checklist]]
 - [[permaculture-water-harvesting]]
 - [[permaculture-water-plants-guide]]
 - [[permaculture-wattles]]
@@ -1129,6 +1136,9 @@
 - [[urban-permaculture-trees-water-cycling]]
 - [[urban-rooftop-gardening-and-sheet-mulching]]
 - [[urban-water-catchment-cistern-thermal-mass]]
+- [[use-and-value-renewable-resources]]
+- [[use-edges-and-value-the-marginal]]
+- [[use-small-and-slow-solutions]]
 
 ## V
 
@@ -1188,3 +1198,4 @@
 - [[zeri-organization]]
 - [[zone-5-wilderness]]
 - [[zone-sector-analysis-guide]]
+- [[zone-system]]

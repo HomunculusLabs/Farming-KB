@@ -2,7 +2,7 @@
 
 > Environmental cleanup, mycoremediation, phytoremediation, land restoration, and pollution treatment
 
-**67 pages**
+**69 pages**
 
 ## A
 
@@ -31,6 +31,7 @@
 
 ## D
 
+- [[desert-varnish-and-microbial-metal-oxidation]]
 - [[desertification]]
 - [[desertification-and-vegetation-loss]]
 - [[desertification-causes-reversal]]
@@ -95,6 +96,7 @@
 - [[savory-desertification-causes]]
 - [[savory-perennial-grass-and-desertification]]
 - [[savory-riparian-area-management]]
+- [[septic-effluent-disposal-designs]]
 - [[singh-enzyme-production-for-industrial-bioremediation]]
 - [[singh-melanoidin-degradation-mechanisms]]
 - [[singh-phytotoxicity-testing-bioremediation-assessment]]

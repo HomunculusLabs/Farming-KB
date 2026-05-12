@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1,289 pages**
+**1291 pages**
 
 ## A
 
@@ -63,6 +63,7 @@
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
 - [[comparison-autoflowering-vs-photoperiod]]
 - [[comparison-avocado-vs-mango-cultivation]]
+- [[comparison-azomite-vs-basalt-rock-dust]]
 - [[comparison-azomite-vs-kelp-meal]]
 - [[comparison-azomite-vs-rock-dust]]
 - [[comparison-backyard-food-forest-vs-urban-permaculture]]
@@ -857,6 +858,7 @@
 - [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
 - [[query-how-do-i-prune-fruit-trees-naturally]]
 - [[query-how-do-i-raise-rabbits-in-a-permaculture-system]]
+- [[query-how-do-i-replace-my-lawn-with-productive-or-ecological-plantings]]
 - [[query-how-do-i-restore-saline-and-compacted-soil]]
 - [[query-how-do-i-save-seeds-from-biennial-vegetables]]
 - [[query-how-do-i-save-water-in-a-vegetable-garden]]
