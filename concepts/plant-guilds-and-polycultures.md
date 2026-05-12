@@ -137,5 +137,5 @@ efficiency of natural ecosystems working on the home scale.
 - [[permaculture-plant-stacking-vertical-guilds]]
 - [[ozier-pdc-plant-guilds-and-polyculture-design]]
 - [[orchard-plant-guilds-mollison]]
-- [[permaculture-plant-guilds]]
+- [[permaculture-plant-guilds-companion-planting]]
 - [[permaculture-plant-guilds-companion-planting]]

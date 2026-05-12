@@ -37,7 +37,7 @@ preventive measures include:
 
 ### Spider Mites
 
-Spider mites are among the most common and destructive pests in [[living-soil-cannabis-cultivation]]. These tiny
+Spider mites are among the most common and destructive pests in [[living-soil-cannabis]]. These tiny
 arachnids feed on plant sap, causing stippling on leaves, yellowing, and eventual leaf death. They
 thrive in hot, dry conditions and can reproduce rapidly, with populations exploding in a matter of
 days under favorable conditions.

@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-natural-livestock-farming]] Farming and Open Grazing
+title: "Fukuoka Natural Livestock Farming and Open Grazing"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

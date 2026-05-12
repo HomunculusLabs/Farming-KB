@@ -52,6 +52,17 @@ providing habitat, [[permaculture-design]], demonstrating how
 human food needs can be met within systems that mimic and
 support natural ecological processes.
 
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
+- [[teaming-with-microbes-soil-food-web-overview]]
+- [[biodiversity-fungi-temperate-boreal-forests]]
+- [[query-how-can-i-design-a-climate-resilient-food-forest]]
+
 ## See Also
 
 - [[ozier-pdc-forest-succession-and-food-forests]]

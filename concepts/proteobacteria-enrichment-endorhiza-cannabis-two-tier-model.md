@@ -120,6 +120,6 @@ enhancing the beneficial functions they provide.
 ## See Also
 
 [[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
-[[Endorhiza]]
+[[endorhiza-microbiome]]
 [[nitrogen-salinity-carbon-water-edaphic-trio-cannabis]]
 [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]

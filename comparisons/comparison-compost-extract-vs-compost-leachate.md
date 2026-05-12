@@ -1,5 +1,5 @@
 ---
-title: "Compost [[comparison-fermented-plant-extract-vs-compost-tea]] Leachate"
+title: "Compost Extract vs Compost Leachate"
 tags: [comparison, compost-extract, compost-leachate, compost-methods, soil-amendments]
 date: 2026-05-10
 updated: 2026-05-10
@@ -122,6 +122,6 @@ Leachate quality is highly variable and depends on compost age, composition, and
 
 - [[aact-compost-extract-leachate-tea-distinctions-ingham]]
 - [[actively-aerated-compost-tea]]
-- [[circadian-rhythm-in-plants]]
+- [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[compost-biology-organisms]]
 - [[vermicompost-tea]]

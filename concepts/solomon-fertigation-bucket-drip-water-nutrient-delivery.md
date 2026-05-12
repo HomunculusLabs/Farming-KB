@@ -8,7 +8,7 @@ Fertigation is Solomon's preferred method for delivering both water and
 nutrients to vegetable plants during dry periods. The technique uses a simple
 bucket with a small drain hole, placed next to each large plant, to slowly
 drip fertilizer solution directly into the root zone. Solomon's dry-gardening
-trials in Oregon demonstrated that fertigated [[winter-squash-guide]] vines yielded
+trials in Oregon demonstrated that fertigated [[winter-rye]] vines yielded
 20+ pounds each, while unirrigated controls yielded only 2-3 pounds.
 
 ## The Core Principle

@@ -17,7 +17,7 @@ type: concept
 
 # Hand Pump and Water Lifting Devices
 
-Bill Mollison surveys traditional and permaculture: A Designers' Manual. He presents these technologies as
+[[bill-mollison]] surveys traditional and [[permaculture]]: A Designers' Manual. He presents these technologies as
 essential for integrate-rather-than-segregate sucked from above. This distinction is critical for well and
 pump design.
 
@@ -71,7 +71,7 @@ Key characteristics:
 - Requires animal power (usually oxen or bullocks) or a mechanical
   wind drive
 - The chain-and-pot mechanism is simple to construct and repair with
-  [[jadam-local-material-collection-and-use]]s
+  [[jadam-local-material-collection-and-use]] s
 - Widely used across the Indian subcontinent and Middle East
 
 ## Archimedes Screw

@@ -1,12 +1,12 @@
 ---
-title: [[fukuoka-natural-seeding-volunteer-rice-discovery]] [[fukuoka-seed-balls-and-direct-seeding]] Development
+title: "Fukuoka Natural Seeding Direct Seeding Development"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Fukuoka Natural Seeding and Direct Seeding Development
 
-Masanobu Fukuoka's work on natural seeding and direct-seeding methods represents
+[[masanobu-fukuoka]]'s work on natural seeding and direct-seeding methods represents
 one of the most radical departures from conventional agricultural practice in
 the [[coleman-louis-savier-twentieth-century-maraicher]]. By observing how nature manages seed dispersal and
 germination, Fukuoka developed a system that progressively eliminated plowing,
@@ -51,7 +51,7 @@ maxims:
 The decision to sow rice in the fall — mimicking nature's own timing — was not
 an isolated technique but the keystone that made an entire system possible:
 > "Once I made the decision to sow rice in the fall, I found that I could also
-> stop transplanting, and plowing, and applying chemical fertilizers, and
+> stop transplanting, and plowing, and applying [[cervantes-chemical-fertilizers-guide]], and
 > preparing compost, and spraying pesticides."
 
 A single decision cascaded into the elimination of virtually every conventional
@@ -108,7 +108,7 @@ from single rows at eighteen-inch intervals to narrow rows six to eight inches
 apart, then to individual seeds at six by eight inches, and ultimately to
 broadcast seeding over the entire surface.
 A pivotal realization came when Fukuoka recognized that:
-> "Since I was using exactly the same method for growing both rice and barley,
+> "Since I was using exactly the same [[query-what-is-the-kratky-method-for-growing-cannabis]] both rice and barley,
 > and was growing these two crops in succession, both crops could be grown as a
 > single cropping system."
 
@@ -118,7 +118,7 @@ normally separated one crop from the next.
 One bold experiment involved scattering rice seed directly over the standing
 heads of maturing barley. Seed losses were lighter than expected and
 germination was good, confirming that fall sowing was viable even without
-seedbed preparation. After repeated failures with shallow plowing — which
+[[soil-tilth-and-seedbed-preparation]]. After repeated failures with shallow plowing — which
 disrupted the soil ecosystem without clear benefits — he made his definitive
 commitment:
 > "I decided to go with the principle of direct seeding without tilling of any

@@ -102,7 +102,7 @@ Herbs are central to organic pest management. See [[companion-planting-reference
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full [[geoff-hamilton-the-organic-gardening-companion]] system
+- [[geoff-hamilton-organic-techniques]] -- Full [[geoff-hamilton]] system
 - [[companion-planting-reference]] -- Herb-based pest deterrence and companion combinations
 - [[seed-starting-reference]] -- Propagation methods
 - [[seasonal-planning]] -- Monthly task calendar

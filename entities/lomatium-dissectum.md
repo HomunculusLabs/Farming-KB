@@ -88,3 +88,8 @@ Indigenous peoples of the western [[dmt-containing-plants-united-states-halpern]
 extensively. The Northern Paiute, Shoshone, Washoe, and Nez Perce
 prepared the root as a decoction or poultice for respiratory ailments.
 The root was chewed raw for sore throat, boiled into tea for colds,
+
+## See Also
+- [[dmt]]
+- [[dom]]
+- [[psilocybin]]

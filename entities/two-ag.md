@@ -87,7 +87,7 @@ development of MAGL inhibitors could provide a new class of
 therapeutics that boost endogenous 2-AG signaling.
 
 ## See Also
-- [[tetrahydrocannabinol-thc]]
+- [[tetrahydrocannabinol]]
 - [[cannabidiol-cbd]]
 - endocannabinoid system (ECS)
 - fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase (FAAH)

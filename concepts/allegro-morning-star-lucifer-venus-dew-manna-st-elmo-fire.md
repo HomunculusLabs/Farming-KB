@@ -81,7 +81,7 @@ celestial-semenal origin rather than any merely aquatic explanation.
 Drugs and medicines were thought to be produced from dew warmed by the sun after star-risings.
 These were called **"heavenly gifts… equal to the Nectar of the gods"** — a direct link between
 celestial moisture and divine sustenance. The dew-born drugs were the pharmacological counterparts
-of the sacred mushroom, both products of the same heavenly emission.
+of [[allegro-the-sacred-mushroom-amanita-identification]], both products of the same heavenly emission.
 
 In the biblical narrative, the Israelites found **Manna** (the sacred fungus) after the evening of
 the quail (Exodus 16:13f). The dew that preceded and accompanied the manna was understood as a
@@ -96,7 +96,7 @@ thou wilt let it fall." The Rephaim were understood as **"those cast down from h
 fallen angels of Genesis 6 who descended to earth and interbred with mortal women, producing a race
 of giants and heroes.
 
-Just as the morning dew brings forth the sacred mushroom, so it was believed to give life to the
+Just as the morning dew brings forth [[soma-and-the-sacred-mushroom-debate]], so it was believed to give life to the
 denizens of the underworld. The dew of light falling upon the land of shades promised resurrection
 for the dead — the same fecundating power that quickened the earth could also revivify the departed.
 

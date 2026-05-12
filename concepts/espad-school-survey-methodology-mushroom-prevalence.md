@@ -142,7 +142,7 @@ following overall illicit drug use trends in this age group.
 
 ## See Also
 
-- [[EMCDDA]] — the European drug monitoring agency and its reports
+- [[emcdda-magic-mushroom-hunting-europe]] — the European drug monitoring agency and its reports
 - [[european-sclerotia-market-philosophers-stones]] — commercial availability affecting
   prevalence measurements
 - [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]] — general methodology for measuring

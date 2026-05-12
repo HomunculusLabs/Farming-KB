@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Schadel, M. et al. (1996). "[[dextromethorphan]] pharmacokinetics." Clinical Pharmacology & Therapeutics 59(4): 403–412.
+  - Schadel, M. et al. (1996). "dextromethorphan pharmacokinetics." Clinical Pharmacology & Therapeutics 59(4): 403–412.
   - Werder, S.F. (2014). "Dextromethorphan abuse: a new cause of psychosis." Primary Care Companion for CNS Disorders 16(1).
   - Zhang, Y. et al. (2006). "Dextromethorphan: pharmacology and clinical applications." CNS Drug Reviews 12(3-4): 167–183.
   - FDA (2023). "Dextromethorphan [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]] Communication."
@@ -87,3 +87,10 @@ sensory awareness, music appreciation. Duration 4–6 hours.
 
 **Second plateau (250–500 mg):** Disinhibition, slurred speech, impaired
 motor coordination, closed-eye visuals, sense of detachment from body.
+
+## See Also
+- [[dextromethorphan]]
+- [[pcp]]
+- [[det]]
+- [[mda]]
+- [[serotonin]]

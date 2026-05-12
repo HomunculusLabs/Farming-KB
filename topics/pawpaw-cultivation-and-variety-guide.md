@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-The pawpaw (*Asimina triloba*) is the largest edible fruit native to North America, belonging to the Annonaceae (custard apple) family. Often called the "Indiana banana," "Hoosier banana," or "poor man's banana," pawpaws produce a creamy, tropical-flavored fruit reminiscent of banana, mango, and cantaloupe. The tree is deciduous, reaching 15–30 feet tall, with large drooping leaves that give it a tropical appearance. Pawpaws are increasingly valued in permaculture food forests, native plant landscaping, and niche fruit production for their cold hardiness, pest resistance, and low-maintenance requirements.
+The pawpaw (*Asimina triloba*) is the largest edible fruit native to North America, belonging to the Annonaceae (custard apple) family. Often called the "Indiana banana," "Hoosier banana," or "poor man's banana," pawpaws produce a creamy, tropical-flavored fruit reminiscent of banana, mango, and cantaloupe. The tree is deciduous, reaching 15–30 feet tall, with large drooping leaves that give it a tropical appearance. Pawpaws are increasingly valued in permaculture [[food-forest]]s, native plant landscaping, and niche fruit production for their cold hardiness, pest resistance, and low-maintenance requirements.
 
 ### Botanical Profile
 
@@ -129,7 +129,7 @@ Tissue [[stamets-cultivator-liquid-culture-propagation-methods]] of pawpaw is po
 ### Companion Planting
 
 Pawpaws pair well with:
-- **Nitrogen fixers**: Black locust (*Robinia pseudoacacia*), American persimmon, redbud, elderberry
+- **Nitrogen fixers**: Black locust (*[[robinia-pseudoacacia]]*), American persimmon, redbud, elderberry
 - **Ground covers**: Comfrey, wild ginger, mayapple, Solomon's seal, native ferns
 - **Berry shrubs**: Elderberry, serviceberry, currants, gooseberries (in partial shade beneath canopy edges)
 - **Root crops**: Ginseng, goldenseal (in the deep shade of mature trees)

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
-# How Do I Start Black Soldier Fly Farming for Composting and Animal Feed?
+# How Do I Start Black Soldier Fly Farming for [[composting]] and Animal Feed?
 
 ## Short Answer
 
@@ -125,7 +125,7 @@ Maintaining a backup colony indoors or purchasing fresh eggs periodically preven
 | BSF composting | 2-4 weeks | All organic | Feed + frass | Low |
 | Hot composting | 4-8 weeks | Plant-based | Compost | Moderate |
 | Vermicomposting | 2-6 months | No meat/dairy | Castings | Low |
-| Bokashi | 2 weeks ferment | All organic | Pre-compost | Low |
+| [[bokashi]] | 2 weeks ferment | All organic | Pre-compost | Low |
 
 The [[comparison-black-soldier-fly-vs-vermicomposting|BSF vs vermicomposting comparison]] highlights that BSF processes waste much faster but requires warmer temperatures.
 

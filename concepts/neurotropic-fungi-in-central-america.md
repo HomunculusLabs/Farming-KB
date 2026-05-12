@@ -1,5 +1,5 @@
 ---
-title: "Neurotropic Fungi In Central America"
+title: Neurotropic Fungi In Central America
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

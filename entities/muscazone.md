@@ -72,7 +72,6 @@ Muscazone interacts with surrounding ecosystems through pollinator
 relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
 
-
 Muscazone is a related compound found in Amanita muscaria mushrooms, formed
 through the photodegradation of ibotenic acid. Its pharmacological activity
 is less potent than muscimol but contributes to the overall effects profile.

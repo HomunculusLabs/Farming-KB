@@ -26,7 +26,7 @@ on the soil surface, it becomes food for bacteria, fungi, and other decomposer
 organisms in the [[living-soil-cannabis]] cultivation.
 
 Choosing the right cover crop species depends on your climate, grow cycle
-timing, and specific soil needs. Leguminous cover crops like [[compost]],
+timing, and specific soil needs. Leguminous cover crops like [[mushroom-compost]],
 white clover, and hairy vetch fix atmospheric nitrogen through their symbiotic
 relationship with rhizobia bacteria. These nitrogen-fixers are particularly
 valuable in cannabis gardens because they provide a slow-release nitrogen source
@@ -77,3 +77,7 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## See Also
+
+Explore related topics in the wiki index.

@@ -50,7 +50,7 @@ carbocations, such as those adjacent to aromatic rings or carbonyl groups, are
 particularly reactive in SN1 processes.
 
 SN1 reactions are favored by weak nucleophiles, good leaving groups, polar protic
-solvents (such as water or ethanol), and stable carbocation formation. The polar
+solvents (such as water or [[ethanol]]), and stable carbocation formation. The polar
 protic solvent stabilizes both the carbocation intermediate and the departing leaving
 group through solvation, lowering the activation energy for the rate-determining
 step.

@@ -1,5 +1,5 @@
 ---
-title: Fukuoka [[fukuoka-textdoc-hotel-building-model-harvest-yields]] of Crop Harvest Yields
+title: "Fukuoka Hotel Model Harvest Yields Building Analogy"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -148,7 +148,3 @@ A side view of the building reveals two pathways:
 
 In truth, Course II success is largely attributable to favorable natural
 conditions, not scientific management. Fukuoka's diagrams, while
-illuminating, come with a self-effacing caveat: "While no doubt of use to
-the theorist... this diagram has no practical value." The ultimate point is
-not to build better models of nature but to stop modeling altogether and let
-nature farm itself.

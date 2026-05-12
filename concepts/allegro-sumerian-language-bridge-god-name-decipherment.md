@@ -1,5 +1,5 @@
 ---
-title: [[allegro-sumerian-akkadian-vocabulary]] Language Bridge and God Name Decipherment
+title: "Allegro Sumerian Language Bridge and God Name Decipherment"
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
@@ -143,8 +143,8 @@ recover the original naturalistic [[allegro-fertility-philosophy-of-the-ancient-
 appropriated by Judaism and Christianity — a claim that remains highly controversial
 among linguists and scholars of the ancient Near East.
 # See Also
-- [[Allegro Sacred Mushroom and the Cross — Overview]]
-- [[Allegro Etymological Method]]
-- [[Sumerian Language — Role in Allegro's Theory]]
-- [[Allegro Fertility Deity Interpretation]]
-- [[Allegro Dionysus Jesus Parallel]]
+- [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
+- [[allegro-etymological-method]]
+- [[sumerian-language-—-role-in-allegro's-theory]]
+- [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
+- [[allegro-dionysus-jesus-parallel]]

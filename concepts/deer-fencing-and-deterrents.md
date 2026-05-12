@@ -144,7 +144,7 @@ No plant is completely deer-proof, but many are strongly avoided. Incorporating 
 - Place high-value crops (vegetables, orchard) in the most protected zone
 - Use deer-resistant plants as a buffer zone around the garden perimeter
 - Combine fencing with [[homestead-permaculture-design]] [[mollison-course-zone-planning-and-design]] — intensive zones get the best fencing
-- [[cover-crop-quick-reference]] with deer-resistant species like winter rye or [[compost]]
+- [[cover-crop-quick-reference]] with deer-resistant species like winter rye or [[mushroom-compost]]
 - Integrate livestock guardian dogs into your [[goat-husbandry]] plan for both deer and predator deterrence
 
 ## Related Concepts

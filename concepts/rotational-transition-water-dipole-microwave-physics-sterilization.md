@@ -1,5 +1,5 @@
 ---
-title: "[[rotational-transition-water-dipole-microwave-sterilization-physics]] Dipole Microwave Physics [[sterilization]]"
+title: Rotational Transition Water Dipole Microwave Physics Sterilization
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 topics: [water dipole, rotational transition, microwave physics, dielectric heating, 2.45 GHz]
 ---

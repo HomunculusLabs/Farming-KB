@@ -88,3 +88,17 @@ better results with each iteration of practice and experimentation.
 ## Integration and Future Development
 
 The greatest value from this topic often comes through integration
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[perennial-vegetables]]
+- [[holzer-green-manure-crops]]
+- [[mollison-designers-cover-crops-and-green-manure-species]]

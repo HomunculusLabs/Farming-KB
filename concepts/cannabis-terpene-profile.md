@@ -75,7 +75,7 @@ Unique among terpenes because it also acts as a [[beta-caryophyllene-dietary-can
 - Strain associations: found across all strain types, especially "Diesel" and "OG" varieties
 - Also found in: black pepper, cloves, cinnamon, copaiba balsam
 - Boiling point: 320°F (160°C)
-- Notes: Beta-caryophyllene is the only terpene known to directly bind to [[cannabinoid-receptors-cb1-and-cb2]]. This makes it relevant to discussions of the [[cannabis-flavonoids]] and cannabinoid synergy
+- Notes: Beta-caryophyllene is the only terpene known to directly bind to [[cannabinoid-receptors-cb1-cb2]]. This makes it relevant to discussions of the [[cannabis-flavonoids]] and cannabinoid synergy
 
 ### Humulene
 

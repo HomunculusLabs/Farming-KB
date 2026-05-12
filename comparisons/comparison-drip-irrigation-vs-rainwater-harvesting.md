@@ -56,7 +56,7 @@ collection in some jurisdictions.
 | Water Source | Any pressurized supply | Precipitation only |
 | Efficiency | 30-50% savings vs sprinklers | Reduces municipal well dependence |
 | Climate Sensitivity | Works in any climate | Yield varies with rainfall patterns |
-| Nutrient Delivery | Supports fertigation integration | Clean water for compost [[circadian-rhythm-in-plants]] |
+| Nutrient Delivery | Supports fertigation integration | Clean water for compost [[chamovitz-circadian-rhythm-internal-clock-plants]] |
 
 ## When to Choose Drip Irrigation
 Drip irrigation is the right choice when precision water delivery is needed regardless

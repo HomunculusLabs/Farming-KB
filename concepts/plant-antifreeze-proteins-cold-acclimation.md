@@ -117,4 +117,4 @@ Vernalization requirements in winter cereals interact with cold acclimation path
 - [[mycorrhizal-carbon-sequestration]]
 - [[mycelium-network-architecture]]
 - [[endophytic-fungi]]
-- [[Lignin]]
+- [[lignin-degradation]]

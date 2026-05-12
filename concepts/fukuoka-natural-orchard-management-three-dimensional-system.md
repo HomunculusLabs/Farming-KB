@@ -1,5 +1,5 @@
 ---
-title: Fukuoka [[fukuoka-natural-orchard-management]] and Three-Dimensional System
+title: Fukuoka Natural Orchard Management and Three-Dimensional System
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -126,7 +126,7 @@ Perhaps the most striking insight is the role of weeds as diagnostic tools and a
 
 ## See Also
 
-- [[Fukuoka Natural Farming]] — foundational philosophy
-- [[Cover Crops and Green Manure]] — detailed crop selection
-- [[Polyculture and Companion Planting]] — multi-species integration
-- [[Soil Health and Microbial Life]] — the living soil ecosystem
+- [[fukuoka-natural-farming]] — foundational philosophy
+- [[hamilton-green-manure-crops-and-cover-cropping]] — detailed crop selection
+- [[polyculture-and-companion-planting]] — multi-species integration
+- [[soil-health-and-microbial-life]] — the living soil ecosystem

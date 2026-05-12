@@ -70,7 +70,7 @@ effective dose of A will make a next-day's normally effective dose of
 B weaker than expected. Or not active at all. And B will do the same
 job on A. If two drugs are different in their ways of doing things in
 the body, there is most often no cross-tolerance seen. This was
-described for [[mdma]] and MDA, and is the basis of the argument that they
+described for [[mdma]] and [[mda]], and is the basis of the argument that they
 act by distinctly separate mechanisms. A person who used what would
 be held as an active dose of MDMA for several days lost all response
 to the drug. He was tolerant to its effects. But an exposure to an
@@ -85,6 +85,6 @@ the brain or body. Here, admittedly in only a single report,
 METHYL-DOB had somehow sensitized the subject to a rather light dosage
 of psilocybin. But there have been other reports like this that I
 have heard of, from here and there. I have been told of an experiment
-with the dextro-isomer of DOM (this is the inactive optical isomer) at
+with the dextro-isomer of [[dom]] (this is the inactive optical isomer) at
 a level that was, not surprisingly, without any effects. The
 researcher had a severe reaction the following day with what was

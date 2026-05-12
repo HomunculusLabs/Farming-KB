@@ -1,5 +1,5 @@
 ---
-title: "[[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] Taxonomy"
+title: Molecular Methods in Fungal Taxonomy
 source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, eds.), Ch. 6, pp. 77–94 — R.J. Rodriguez"
 tags:
   - fungal-taxonomy

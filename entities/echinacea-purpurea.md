@@ -61,7 +61,7 @@ Native to eastern and central [[dmt-containing-plants-united-states-halpern]] (I
 1. **Macrophage activation:** Polysaccharides stimulate phagocytosis by 20–40% in vitro
 2. **NK cell enhancement:** Alkylamides increase natural killer cell cytotoxicity
 3. **Cytokine modulation:** Controlled upregulation of IL-1, IL-6, TNF-α during early immune response; modulates IL-10 during resolution
-4. **CB2 receptor interaction:** Alkylamides are partial agonists at [[cannabinoid-receptors-cb1-and-cb2]], providing additional immunomodulatory pathway
+4. **CB2 receptor interaction:** Alkylamides are partial agonists at [[cannabinoid-receptors-cb1-cb2]], providing additional immunomodulatory pathway
 5. **Complement activation:** Polysaccharides activate the alternative pathway
 
 ### Antiviral, Anti-inflammatory, and Antioxidant

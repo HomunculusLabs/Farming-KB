@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on [[fukuoka-petroleum-agriculture-food-quality-decline]] and Petroleum Agriculture
+title: "Fukuoka on Food Quality Decline and Petroleum Agriculture"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

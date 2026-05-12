@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The aquatic spirit world in Amazonian vegetalismo is a vast, multi-layered realm beneath the rivers, inhabited by the yakurunas (water people), mermaids, and a bewildering variety of water spirits. These beings are accessed through ayahuasca visions and play central roles in both healing and sorcery. The yakuruna world includes enchanted underwater cities, golden tree groves, oasis of youth, and even extraterrestrial visitors who maintain contact with the submerged civilizations. Pablo Amaringo's paintings provide the most detailed visual documentation of this complex spirit ecology.
+The aquatic spirit world in Amazonian vegetalismo is a vast, multi-layered realm beneath the rivers, inhabited by the yakurunas (water people), mermaids, and a bewildering variety of water spirits. These beings are accessed through [[amaringo-ayahuasca-visions-shipibo-iconography]] and play central roles in both healing and sorcery. The yakuruna world includes enchanted underwater cities, golden tree groves, oasis of youth, and even extraterrestrial visitors who maintain contact with the submerged civilizations. [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s paintings provide the most detailed visual documentation of this complex spirit ecology.
 
 ## Types of Yakurunas (Vision 19)
 
@@ -68,7 +68,7 @@ The yakuruna's fierce dogs wear the heads of piranha fish, combining aquatic pre
 
 ### Killo-Garza (Golden Heron)
 
-Birds in flight known for vigilance equal to that of a curandero. Their watchful nature makes them spiritual analogs to the healer's constant alertness.
+Birds in flight known for vigilance equal to that of a curandero. Their watchful [[coleman-first-rule-nature-makes-sense]] them spiritual analogs to the healer's constant alertness.
 
 ### Tian Camuri Fairies
 
@@ -142,99 +142,6 @@ White mermaids make the capsule levitate while flying saucers hurry to receive a
 ### Virote Swallowing Ceremony
 
 Expert curanderos swallow various virotes (magical darts) with their mann (magical phlegm). Different palm trees provide different virotes:
-
-| Palm Tree | Scientific Name | Virote Type |
-|---|---|---|
-| Inchahui | *Syagrus tessmannii* | Swallowed by a banco sitting on a tortoise |
-| Pona | *Iriartea exorrhiza* | Swallowed by the pipe-smoking vegetalista (long roots) |
-| Inayuga | *Maximiliana stenocarpa* | Swallowed by the third vegetalista (thicker palm) |
-| Huasai | *Euterpe precatoria* | Swallowed by the last vegetalista |
-
-### Accompanying Plants
-
-Behind the palm trees grow:
-- Cumaceba (*Cesalpina equinata*)
-- Motelo huasca (*Bauhinia guianensis*)
-- Sacha-ajos (*Mansoa alliacea*)
-- Siucacasha (sharp spine, unidentified)
-- Sacha-huiro (*Costus cf. cylindricus*)
-
-### Initiation of the Young
-
-A great sumiruna lifts a white serpent to give power to his son. The young man's painted shirt indicates his newly acquired power. The sumiruna has prepared special shoes and a cap as protection for the initiated young man, guided by the spirits of the brew. A black-shirted vegetalista serves as disciple, while a boy taking ayahuasca for the first time is frightened by his visions.
-
-## The Sanguijuela Mama (Vision 22)
-
-### The Giant Leech
-
-The sanguijuela mama (mother leech) is a creature approximately twelve meters long with four antennae in its head and no mouth. It lives in cochas bravas — isolated lakes in the jungle where enormous beasts dwell.
-
-### Method of Attack
-
-The sanguijuela mama has the power to make people fall into a deep sleep (similar to the Sachamama and yana-puma). It then draws all the blood from their bodies using electromagnetic waves emanating from its head. Victims are found dead without a single drop of blood.
-
-### Verification Through Ayahuasca
-
-Amaringo recounts that he initially believed the sanguijuela mama was merely a story told by his grandfather about an incident during the rubber tapping era. However, through ayahuasca visions, he became convinced of its existence, along with many other animals believed to be only mythological. This reflects a broader theme in Amazonian shamanism: ayahuasca serves as an epistemological tool for verifying the existence of beings that Western science considers mythological.
-
-## Spirits of Stones and Metals (Vision 23)
-
-### Gnomos — Guardians of Subterranean Treasures
-
-Through body movements during ayahuasca ceremonies, vegetalistas and their disciples can visit the subterranean world where they encounter gnomos — the guardians of subterranean treasures. The colors of these gnomos are symbolic:
-
-| Color | Mineral |
-|---|---|
-| White | Diamond |
-| Yellow | Gold |
-| Red | Copper |
-| Green | Bronze |
-| Light blue | Silver |
-| Purple | Garnet |
-| Lilac | Quartz |
-
-The dichroic circle serves as a door leading to a cave, the dwelling of the people of fire.
-
-### Plant-Spirits of the Ayahuasca Additives
-
-The spirits of various plants dance while extending the ayahuasca vine, each corresponding to plants occasionally added to the brew:
-
-- Mureohuasca
-- Chacruna (*Psychotria viridis*)
-- Clavohuasca
-- Bobinzana (*Calliandra angustifolia*)
-- Ajosquiro (*Gallizia corazema*)
-- Motelo huasca (*Bauhinia guianensis*)
-- Altaruna (unidentified)
-- Toe (*Brugmansia sp.*)
-- Albahaca (*Ocimum micranthum*)
-- Alcanfor (*Zanthoxylum sp.*)
-
-A row of luminous arches forms a protective fence around the ceremony, with aromatic plants contributing to the beauty of the visionary experience.
-
-## The Ayamanchare (Vision 24)
-
-The Ayamanchare (aya = dead person/spirit, manchare = fright) is a spirit from the steam of the earth with extraordinary qualities that help vegetalistas make medicines using aerotherapy — a respiratory discipline practised in a state of relaxation.
-
-### Physical Description
-
-The being wears a necklace with nine round plates front and back, representing the eighteen most fundamental elements of the earth. In its womb are beings of perpetual fire that contain the volcanoes. When it rises from the earthly depths, vegetalistas feel their bodies stretch like large waves — a trance that can drive weak or nervous people insane.
-
-### Horns as Healing Modalities
-
-The Ayamanchare's horns represent different therapeutic approaches:
-- **Blue horns**: Aerotherapy (respiratory discipline)
-- **Red horns**: Geotherapy (medicine through various types of clay)
-- **Yellow horns**: Physiotherapy (massages, walks, postures)
-
-### Associated Beings
-
-- **Mamaicunas**: Women on the left who tell mysterious tales, representing the five fingers of the right hand
-- **Tataicunas**: Men on the right representing the five fingers of the left hand
-- **Yura-aya** (white ghost): With four horns as antennae picking up supernatural bodies
-- **Allpa-pishco** (bird of the earth): Endures great temperatures, used by vegetalistas for astral and planetary trips
-- **Sylph Mesafel**: Expert in hyperchemical transformation — from spiritual to physical form and vice versa — working with ointments and perfumes of pleasant aroma
-
 ## Related Topics
 
 - [[ayahuasca-ceremony-and-mariri-system]]

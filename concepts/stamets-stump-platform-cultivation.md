@@ -19,7 +19,7 @@ summary: >
   gourmet and medicinal mushrooms. Based on Paul Stamets' [[stamets-outdoor-natural-culture-methods]],
   this technique transforms waste wood into productive fungal habitat, offering
   advantages over log culture including extended productive life, reduced labor,
-  and [[duck-keeping-and-integration-into-permaculture-systems]] and woodland management systems.
+  and [[duck-keeping]] and woodland management systems.
 ---
 
 # Stump Platform Mushroom Cultivation

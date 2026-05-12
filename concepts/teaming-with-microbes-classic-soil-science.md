@@ -21,6 +21,17 @@ Clay and humus particles carry negative electrical charges that attract positive
 
 See also: [[glomalin-and-soil-carbon]], [[nutrient-cycling-in-soil]]
 
+## Soil Health Indicators
+
+Healthy soil exhibits good structure, earthy smell, and diverse biological activity. Carbon-to-nitrogen ratios between 25:1 and 30:1 support optimal microbial decomposition. Regular soil testing guides amendment schedules.
+
+## See Also
+
+- [[teaming-with-microbes-protozoa-and-nematodes]]
+- [[microwave-interaction-with-microbial-cells]]
+- [[fukuoka-soil-building-approach]]
+- [[soil-building-ecological-garden]]
+
 ## See Also
 
 [[teaming-with-microbes-nematodes]], [[teaming-with-microbes-protozoa]], [[teaming-with-microbes-bacterial-vs-fungal-dominance]], [[teaming-with-microbes-fb-ratio]]

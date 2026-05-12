@@ -1,5 +1,5 @@
 ---
-title: "Tompkins [[cleve-backster]] Primary Perception"
+title: "Tompkins Cleve Backster Primary Perception"
 created: 2026-04-28
 tags: [[plant-perception]], backster-effect, galvanometer, esp, polygraph,
       consciousness, plant-intelligence]
@@ -88,3 +88,6 @@ plants showed similar reactions to Backster's minor emotional
 adventures among the crowd.
 
 ## The Concept of Primary Perception
+
+## See Also
+- [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]

@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 # Mushroom Cultivation History Mushroom cultivation has a long and fascinating history, stretching from ancient Mediterranean civilizations to the modern commercial industry. The cultivation of the common edible mushroom (*[[agaricus-campestris]]
-- mushroom-compost-preparation
+- [[mushroom-compost-preparation]]
 - [[mushroom-market-and-production]]
 ## Background and Context
 

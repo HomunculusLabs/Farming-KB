@@ -36,7 +36,7 @@ local soil environment.
 
 The magnitude of the difference is noteworthy. Plants shared approximately
 772 more OTUs on average with their own soil than with the foreign soil,
-representing a substantial fraction of the total [[Proteobacteria]]. This
+representing a substantial fraction of the total [[proteobacteria-dominance-cannabis-endorhiza]]. This
 indicates that the soil acts as the primary reservoir from which the
 endophytic community is drawn, with the majority of detected endorhiza OTUs
 having detectable counterparts in the surrounding soil.

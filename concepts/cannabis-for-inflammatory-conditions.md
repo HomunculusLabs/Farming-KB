@@ -42,7 +42,7 @@ Cannabis has significant anti-inflammatory properties mediated primarily through
 
 - CB2 activation on immune cells reduces cytokine production (TNF-alpha, IL-1, IL-6)
 - CBD inhibits COX-2 (similar mechanism to NSAIDs but without GI side effects)
-- Beta-caryophyllene is a selective CB2 agonist — one of the few terpenes that directly activates [[cannabinoid-receptors-cb1-and-cb2]]
+- Beta-caryophyllene is a selective CB2 agonist — one of the few terpenes that directly activates [[cannabinoid-receptors-cb1-cb2]]
 - THC at low doses reduces inflammatory mediator release
 
 ## Related

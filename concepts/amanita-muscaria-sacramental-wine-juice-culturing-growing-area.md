@@ -1,5 +1,5 @@
 ---
-title: [[amanita-muscaria-sacramental-wine-preparation]] Wine Juice Culturing and Growing Area
+title: Amanita Muscaria Sacramental Wine Juice Culturing Growing Area
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -30,7 +30,7 @@ Key principles:
 - **Living culture** — the finished wine contains actively growing mycelium,
   enabling perpetual, self-renewing sacramental practice.
 - **Active compounds** — the mycelium produces and concentrates bioactive
-  constituents (ibotenic acid, muscimol, and related compounds) directly within
+  constituents ([[amanita-muscaria-and-ibotenic-acid-containing-fungi]], muscimol, and related compounds) directly within
   the juice matrix, creating a potable form of the medicine.
 
 ## Growing Area Setup
@@ -148,17 +148,3 @@ communities may have maintained **continuous wine cultures** in exactly this
 manner — tending living sacramental vines as a central religious practice. The
 "true vine" that is never uprooted, always bearing fruit, maps directly onto
 this perpetual culturing system.
-
-## Bottle and Growth Vessel Requirements
-
-**Polyfill plugs** allow essential **[[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]** (the mycelium needs to
-breathe) while preventing contamination by filtering airborne organisms. The
-polyfill material acts as a sterile barrier — air passes through but mold
-spores, bacteria, and other contaminants cannot. Various bottle sizes can be
-used; small bottles are easier to manage and reduce the impact of any single
-contamination event.
-
-The vessel **must be clean and sterilized** before each use. Pasteurizing juice
-directly in the bottle provides an additional sterilization layer. Between
-uses, bottles should be thoroughly washed and ideally heat-sterilized to
-eliminate any residual organisms.

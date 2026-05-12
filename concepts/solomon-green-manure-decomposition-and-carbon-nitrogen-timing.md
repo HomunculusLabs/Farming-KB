@@ -43,7 +43,7 @@ A practical test for whether turned-in green manure has decomposed enough for pl
 
 ## Legume Versus Non-Legume Considerations
 
-Leguminous green manures such as [[compost]], hairy vetch, and field peas contribute fixed atmospheric nitrogen to the soil in addition to [[hamilton-composting-and-organic-matter-management]]. However, the decomposition timing rules apply equally to legumes. A mature, flowering legume that has become woody will still impose the four-to-five-week delay. The nitrogen benefit does not compensate for the lost [[savory-growing-season-and-non-growing-season-management]] if the material is turned in too late.
+Leguminous green manures such as [[mushroom-compost]], hairy vetch, and field peas contribute fixed atmospheric nitrogen to the soil in addition to [[hamilton-composting-and-organic-matter-management]]. However, the decomposition timing rules apply equally to legumes. A mature, flowering legume that has become woody will still impose the four-to-five-week delay. The nitrogen benefit does not compensate for the lost [[savory-growing-season-and-non-growing-season-management]] if the material is turned in too late.
 
 Non-legume green manures such as cereal rye, winter wheat, and buckwheat contribute [[savory-soil-organic-matter-and-decomposition-dynamics]] soil structure improvement but no net nitrogen addition. Their value lies in [[dighton-fungal-biomass-production-aquatic-ecosystems]], root penetration, and nutrient capture from deep soil layers that would otherwise leach away.
 

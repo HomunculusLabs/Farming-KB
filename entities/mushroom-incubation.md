@@ -71,5 +71,66 @@ For farmers with disabilities, the incubation phase requires monitoring skills r
 
 - Mushroom Inoculation
 - Mushroom Substrate Bags
-- [[mushroom-house-construction]]
+- [[mushroom-house-construction-design]]
 - [[mushroom-troubleshooting]]
+
+## Environmental Control Priorities
+
+The incubator should be warm, clean, and stable rather than constantly adjusted.
+
+Temperature swings stress the mycelium and can create condensation inside bags.
+
+Excess condensation may encourage bacteria, while excessive dryness can slow colonization.
+
+A grower should therefore track room temperature, bag appearance, smell, and colonization rate together.
+
+## Species and Timing Variation
+
+The 15-30 day range is a training guideline, not a fixed biological law.
+
+Oyster mushrooms may colonize quickly under good conditions, while other species or dense substrates may require more time.
+
+Spawn rate, substrate particle size, moisture level, and inoculation technique all influence speed.
+
+The practical goal is complete, clean colonization rather than racing toward fruiting.
+
+## Accessibility and Work Design
+
+Incubation tasks can be organized as a checklist suitable for disabled trainees.
+
+The worker can inspect shelf by shelf, record bag status, flag suspect bags, and request help only for lifting or moving heavy batches.
+
+This makes incubation a good example of [[rehabilitation-through-mushroom-cultivation]], where observation and routine management become economically valuable skills.
+
+## Link to Colonization Biology
+
+During [[mycelial-colonization]], the fungus binds loose substrate into a coherent block.
+
+That biological binding is what allows the bag to later produce flushes from cut openings or exposed surfaces.
+
+If colonization is incomplete, fruiting may be weak, contaminated, or uneven.
+
+## Operational Checklist
+
+- Keep incubation shelves clean and uncrowded.
+- Remove contaminated bags promptly.
+- Avoid unnecessary handling during early recovery.
+- Record inoculation and expected transfer dates.
+- Watch for overheating in densely packed batches.
+- Move fully colonized bags into fruiting before they age excessively.
+
+## Training Connections
+
+The incubation phase connects laboratory work, substrate preparation, and fruiting management.
+
+Clean cultures from [[mushroom-spawn]] must be protected through this stage.
+
+The practical routines are expanded in [[mushroom-training-incubation-management]], while problems are diagnosed through [[mushroom-troubleshooting]].
+
+## Summary
+
+Incubation is quiet, but it is not passive.
+
+The grower is managing a living conversion of substrate into mycelial mass.
+
+Success depends on cleanliness, patience, temperature control, and disciplined observation.

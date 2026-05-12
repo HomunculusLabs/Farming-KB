@@ -1,5 +1,5 @@
 ---
-title: "Shiitake vs [[comparison-maitake-vs-shiitake-cultivation]]"
+title: Comparison: Shiitake vs Maitake
 tags: [comparison, shiitake, maitake, mushroom-cultivation, medicinal-mushrooms]
 date: 2026-05-11
 updated: 2026-05-11
@@ -27,7 +27,7 @@ significantly more skill to produce reliably.
 
 ## Shiitake
 
-[[shiitake-mushroom-cultivation-and-medicinal-properties]]
+[[shiitake-mushroom-cultivation]]
 
 Shiitake is native to the forests of East Asia and has been cultivated for
 over

@@ -53,7 +53,7 @@ Also known as: HECATE.
 >
 >
 > play whatever one wants to. Worked at cleaning up the office until 11
-> PM. I slept well. This has none of the LSD or STP seriousness.
+> PM. I slept well. This has none of the [[lsd]] or STP seriousness.
 >
 > (with 6 mg) The onset was slow, and subtle. But the effects are
 > fully there in about three or so hours. Everything I smelled was
@@ -74,7 +74,7 @@ Also known as: HECATE.
 
 ## Extensions and Commentary
 
-The original code for this compound was DOE, which was completely logical based on DOM being the methyl member of this series (DO for the removal of the oxygen, desoxy, and M for putting a methyl in its place). And the putting of the ethyl thence should be DOE. This was fine until it was pointed out to me by a close colleague that DOE was a classic abbreviation for desoxyephedrine, a synonym for methamphetamine. The pressure to add the RTS of the RETS of the ethyl was heightened by looking ahead to other members of the series. DOA became DOAM, DOE became DOET, but DOM was already too firmly set in popular usage. And, anyway, DOME really looked strange.
+The original code for this compound was DOE, which was completely logical based on [[dom]] being the methyl member of this series (DO for the removal of the oxygen, desoxy, and M for putting a methyl in its place). And the putting of the ethyl thence should be DOE. This was fine until it was pointed out to me by a close colleague that DOE was a classic abbreviation for desoxyephedrine, a synonym for methamphetamine. The pressure to add the RTS of the RETS of the ethyl was heightened by looking ahead to other members of the series. DOA became DOAM, DOE became DOET, but DOM was already too firmly set in popular usage. And, anyway, DOME really looked strange.
 
 The original publications of the action of DOM clearly documented the compound as being a psychedelic and one with a sizeable measure of potential abuse. And, it is not a surprise that it was quickly shuffled into a legal classification that effectively precluded any further study of it. So, when this immediate homologue of DOM was studied and discussed in the literature, all reported dosages were those that were at the lowest levels, and no disturbing hints of abusability were mentioned. And this particular homologue has so far escaped the attention and restrictive action of the drug enforcement agencies, although the specific wording of the Controlled Substance Analogue Enforcement Act of 1986 might make this point moot, at least as far as human trials are concerned. At modest levels, DOET has the reputation of being a cognitive enhancer and is largely free of those sensory distortions that would catch the attention of the authorities who cannot tolerate drugs that distort the senses. The higher levels mentioned here have never been put into the published literature. It must be noted that there is a considerable variation of individual responses to this material. The effective dose range stated is quite broad. Some people are quite sensitive. This is, after all, one of the Classic Ladies, namely HECATE.
 

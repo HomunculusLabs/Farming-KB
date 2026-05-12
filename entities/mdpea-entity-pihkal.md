@@ -55,7 +55,7 @@ as well? The textbooks simply are not right.
 MDPEA was one of the seven compounds evaluated as to toxicity and
 animal behavior at the University of Michigan under contract from the
 Army Chemical Center. Its Edgewood Arsenal code number was EA-1297.
-The number for MDA itself was EA-1298.
+The number for [[mda]] itself was EA-1298.
 
 The beta-hydroxy analogue of MDPEA is the ethanolamine MDE, standing
 for methylenedioxyethanolamine. This is an old term, and in the more

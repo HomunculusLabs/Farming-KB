@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-black-locust-vs-honey-locust]] Entity"
+title: "Honey Locust"
 created: 2026-04-28
 tags: [species, plant, nitrogen-fixer, tree, legume]
 date: 2026-04-25

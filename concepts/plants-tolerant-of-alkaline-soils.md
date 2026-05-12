@@ -1,12 +1,12 @@
 ---
-title: Plants Tolerant of [[alkaline-soil-tolerant-plants-permaculture|[[alkaline-soil-plants|Alkaline]] Soils
-source: a-selection-permaculture-plants.md
+title: "Plants Tolerant of Alkaline Soils"
+source: a-selection-[[permaculture-plants-legume-trees-acacia-carob-locust|permaculture]]-plants.md
 type: concept
 ---
 
 # Plants Tolerant of Alkaline Soils
 
-Alkaline [[alkaline-soil-tolerant-plants-[[query-how-do-nitrogen-fixing-plants-work-in-permaculture|permaculture]]|[[alkaline-soil-plants|soil]]s, characterised by high pH (above 7.0) and often high calcium carbonate content, present significant challenges for plant growth. Nutrient availability decreases at higher pH, particularly for iron, manganese, zinc, and phosphorus. Despite these limitations, a remarkable diversity of plant species have adapted to alkaline conditions, ranging from Australian native shrubs to Mediterranean trees and ornamental species. This page catalogues plants known to tolerate or prefer alkaline soils, drawing primarily from Australian permaculture plant selections.
+Alkaline [[alkaline-soil-tolerant-plants-permaculture|permaculture]]|[[alkaline-soil-plants|soil]] s, characterised by high pH (above 7.0) and often high calcium carbonate content, present significant challenges for plant growth. Nutrient availability decreases at higher pH, particularly for iron, manganese, zinc, and phosphorus. Despite these limitations, a remarkable diversity of plant species have adapted to alkaline conditions, ranging from Australian native shrubs to Mediterranean trees and ornamental species. This page catalogues plants known to tolerate or prefer alkaline soils, drawing primarily from Australian permaculture plant selections.
 
 ## Acacia Species (Wattles)
 
@@ -36,7 +36,7 @@ The Acacia genus contains perhaps the largest number of species adapted to alkal
 
 Many Eucalyptus species tolerate alkaline soils, particularly those from the mallee regions and semi-arid interior of Australia where calcareous soils are widespread:
 
-- **Eucalyptus camaldulensis** (river red gum) — One of the most widely planted eucalypts; tolerates a range of soil pH
+- **[[eucalyptus-camaldulensis]]** (river red gum) — One of the most widely planted eucalypts; tolerates a range of soil pH
 - **Eucalyptus citriodora** (lemon-scented gum)
 - **Eucalyptus diversifolia**
 - **Eucalyptus erythrocorys** (illyarrie)
@@ -44,7 +44,7 @@ Many Eucalyptus species tolerate alkaline soils, particularly those from the mal
 - **Eucalyptus lansdowneana** (sub-alpine mallee)
 - **Eucalyptus leucoxylon** (yellow gum)
 - **Eucalyptus nutans** (jilarno)
-- **Eucalyptus occidentalis** (swamp yate) — Notably salt and alkaline tolerant
+- **[[eucalyptus-occidentalis]]** (swamp yate) — Notably salt and alkaline tolerant
 - **Eucalyptus platypus** (moort)
 - **Eucalyptus spathulata** (swamp mallet)
 - **Eucalyptus torquata** (coral gum)
@@ -143,8 +143,8 @@ Oaks are notably tolerant of alkaline soils, particularly:
 - **Atriplex nummularia** (old man saltbush) — Salt and alkaline tolerant forage shrub
 - **Banksia ashbyi** — Nectar in spring
 - **Banksia integrifolia** (coast banksia) — Good dark honey in autumn to winter
-- **Banksia marginata** (silver banksia) — Alkaline tolerant
-- **Banksia ornata** — Alkaline tolerant
-- **Brachycome iberidifolia** (Swan River daisy) — Hardy wildflower
-- **Brachysema lanceolata** (Swan River pea bush) — Hardy legume
-- **Bursaria spinosa** — Bush with summer flowers
+
+## See Also
+
+- [[alkaline-soil-tolerant-plants-permaculture]]
+- [[alkaline-soil-plants]]

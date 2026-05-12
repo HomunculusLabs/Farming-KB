@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-After mushroom harvest cycles are complete, the spent substrate represents both a waste management challenge and a valuable resource. Understanding how to handle, reuse, and recycle spent mushroom substrate is essential for economic and environmental sustainability in mushroom cultivation operations.
+After mushroom harvest cycles are complete, the spent substrate represents both a waste management challenge and a valuable resource. Understanding how to handle, reuse, and recycle [[spent-mushroom-substrate]] is essential for economic and environmental sustainability in [[mushroom-cultivation]] operations.
 
 ## Spent Substrate Composition
 
@@ -36,7 +36,7 @@ The exact composition varies depending on the original substrate formulation (co
 
 Spent substrate from Agaricus (button mushroom) cultivation has a long history of use as livestock feed:
 
-- After the cropping period ends, spent straw from Volvariella (paddy straw mushroom) cultivation has traditionally been used as fodder for farm animals
+- After the cropping period ends, spent straw from Volvariella ([[paddy-straw-mushroom]]) cultivation has traditionally been used as fodder for farm animals
 - Agaricus spent compost contains residual protein, fiber, and minerals that provide nutritional value for cattle, horses, and poultry
 - Must be monitored for contaminants and used while still fresh; spoiled substrate can harbor harmful organisms
 

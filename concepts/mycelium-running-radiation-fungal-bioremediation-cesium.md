@@ -18,7 +18,7 @@ Surveys of cesium-contaminated mushrooms (Fielitz 2001; Epik and Yaprak 2003) me
 
 | Species | Cesium Level (Bq/kg) | Notes |
 |---------|---------------------|-------|
-| [[Elaphomyces]] | 25,660 | Mycorrhizal truffle |
+| [[elaphomyces-granulatus]] | 25,660 | Mycorrhizal truffle |
 | Cortinarius hercynicus | 6,750 | Mycorrhizal |
 | Boletus badius | 3,030 | Bay bolete, mycorrhizal |
 | Boletus chrysenteron | 1,000 | Mycorrhizal |

@@ -1,5 +1,5 @@
 ---
-title: [[allegro-religious-lamentation-and-the-bacchic-cult]] Erotic Music Dithyramb and Bacchus
+title: "Allegro Religious Lamentation, Erotic Music, Dithyramb, and Bacchus"
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

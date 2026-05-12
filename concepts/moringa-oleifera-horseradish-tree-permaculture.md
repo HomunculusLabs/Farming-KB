@@ -1,5 +1,5 @@
 ---
-title: [[comparison-moringa-oleifera-vs-moringa-stenopetala]] — Horseradish Tree
+title: Moringa Oleifera, Horseradish Tree, and Permaculture
 source: a-selection-permaculture-plants
 type: concept
 ---

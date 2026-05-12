@@ -101,7 +101,7 @@ No such root exists in Aramaic. The translation is a pious fiction.
 
 Allegro's decipherment: **BAR** = "skin" and **nābüs** = "giraffe." Pliny
 describes the giraffe as having a "ruddy colour picked out with white spots" —
-precisely the colouration of the *Amanita muscaria* cap. Barnabas is thus
+precisely the colouration of the *[[allegro-colour-and-consistency-of-the-amanita-muscaria]]* cap. Barnabas is thus
 "spotted skin" — the mushroom's hide.
 
 The **n-b-s** root-group is remarkably consistent across languages:
@@ -148,8 +148,3 @@ word for "freckled." The coat was indeed multicoloured and spotted — a garment
 dyed in the image of the mushroom's cap.
 
 The "coat of many colours" is not a later romantic embellishment. It is the
-original and correct reading, preserving the mushroom's signature: red skin
-dotted with white. Joseph wears the Amanita. His brothers strip it from him,
-dip it in blood, and bring it to their father — a precise [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] of
-the fungus cult re-enacted as family drama. The coat is the mushroom's skin;
-the blood is its juice; the father's grief is the devotee's longing.

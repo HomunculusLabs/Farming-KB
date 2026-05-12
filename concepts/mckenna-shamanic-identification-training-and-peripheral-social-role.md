@@ -9,7 +9,7 @@ topics: [[shamanism]], training, initiation, indigenous-knowledge, social-struct
 
 ## Signs of Shamanic Calling in Archaic Societies
 
-[[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]] describes the process by which potential shamans are identified in archaic
+[[terence-mckenna]] describes the process by which potential shamans are identified in archaic
 societies. In cultures where shamanism is a thriving institution, the signs of shamanic
 vocation are "fairly easy to recognize" and center on what McKenna calls "oddness or
 uniqueness in an individual." These markers of difference serve as indicators that a person

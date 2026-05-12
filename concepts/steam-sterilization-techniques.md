@@ -7,7 +7,7 @@ created: 2026-05-09
 
 # Steam Sterilization Techniques
 
-One of the defining advantages of the PF TEK is that it does not require a
+One of the defining advantages of the [[pf-tek]] is that it does not require a
 [[pressure-cooker-sterilisation-fungal-substrate]] or autoclave. Steam sterilization using ordinary kitchen
 cookware is sufficient because the PF substrate contains no whole grain to
 cook through and the vermiculite keeps the substrate airy, allowing steam

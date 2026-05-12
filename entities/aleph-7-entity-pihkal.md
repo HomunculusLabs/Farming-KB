@@ -41,7 +41,7 @@ sources: ["Shulgin - PIHKAL"]
 > (with 7 mg) I did this alone, and in retrospect I wish I had not.
 > Somewhere between the hours 2 and 3, I got to a full +++, and I was
 > concerned that I saw the effects still developing. Where would it go
-> now? There was no reality loss as with LSD, no shakes or shimmers,
+> now? There was no reality loss as with [[lsd]], no shakes or shimmers,
 > but an intense and profound +++ of something characterized only by the
 > absence of extremes. And I am frightened because this is still
 > deepening. A couple of calls to friends were not successful, but I

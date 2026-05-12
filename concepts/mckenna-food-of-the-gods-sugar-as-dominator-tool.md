@@ -20,7 +20,7 @@ tags:
 ## Overview
 
 In Chapter 11 of *Food of the Gods*, "Complacencies of the Peignoir: Sugar,
-Coffee, Tea, and Chocolate," [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]] presents sugar as a central pillar
+Coffee, Tea, and Chocolate," [[terence-mckenna]] presents sugar as a central pillar
 of what he calls [[dominator-culture-and-partnership-society]]. Unlike the psychedelic plants that shaped
 early human consciousness and supported partnership-oriented societies, sugar
 is cast as a substance that narcotizes, creates dependency, and reinforces

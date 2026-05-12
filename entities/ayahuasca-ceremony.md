@@ -1,5 +1,5 @@
 ---
-title: [[ayahuasca-ceremony-and-mariri-system]]
+title: Ayahuasca Ceremony
 source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
@@ -37,3 +37,68 @@ The ayahuasca ceremony represents the traditional clinical setting for plant med
 - Mariri — the shaman's power activated during the ceremony
 - Chullachaki — spirit entity discussed in ceremony storytelling
 - Yakuruna — water beings discussed in ceremony storytelling
+
+## Sequence of Practice
+
+- The ceremony begins before the brew is swallowed.
+- Diet, intention, fear, expectation, and social trust shape the session.
+- The vegetalista's house becomes a temporary clinical and cosmological space.
+- Darkness reduces ordinary visual distraction.
+- Smoke, perfume, prayer, and song organize attention.
+- The shared gourd marks the brew as a mediated medicine rather than a casual drink.
+- The prayer to the ayahuasca spirit frames the experience as a request.
+- The participant asks to see what is needed, lost, hidden, or healing.
+- This request aligns the ceremony with [[ayahuasca-ceremony-structure-and-practice]].
+
+## Role of the Vegetalista
+
+- The leader is responsible for timing, protection, diagnosis, and song selection.
+- Jokes and supernatural stories help settle the group before deeper work begins.
+- Once the medicine opens, the tone becomes more focused.
+- The vegetalista listens to bodily signs such as yawning, trembling, crying, or purging.
+- These signs are interpreted within the local medical system.
+- Icaros guide the visions and call specific plant or spirit allies.
+- The practice is closely related to [[icaros-in-ayahuasca-ceremony]].
+- A trained singer can calm fear, intensify vision, or direct healing.
+- The song is both music and medicine.
+
+## Mariri and Protection
+
+- The ceremony also activates the healer's mariri.
+- [[mariri]] is described as a subtle phlegm or power substance.
+- It can contain, move, or neutralize harmful forces.
+- In extraction work, mariri protects the healer from what is removed.
+- This is why the page title links to [[ayahuasca-ceremony-and-mariri-system]].
+- The ceremony is not just visionary exploration.
+- It is a managed encounter with forces that can heal or harm.
+- Protection is therefore as important as revelation.
+- The ritual order of seating and participation supports that protection.
+
+## Set, Setting, and Interpretation
+
+- Modern language often calls these factors set and setting.
+- The Amazonian ceremony gives those factors precise cultural form.
+- Set includes intention, diet, prayer, and trust in the healer.
+- Setting includes darkness, songs, smells, stories, and group arrangement.
+- Interpretation includes the healer's ability to translate visions into counsel.
+- Without interpretation, visions may be confusing or frightening.
+- With interpretation, they can become diagnosis, warning, teaching, or reconciliation.
+- The ceremony's structure helps convert altered perception into usable knowledge.
+
+## Ethical Notes
+
+- The ceremony should not be reduced to chemical ingestion.
+- Brew composition matters, but so do lineage, training, consent, and aftercare.
+- Participants may be vulnerable under the influence of the medicine.
+- The practitioner's discipline and ethics are therefore central.
+- Traditional restrictions around food and behavior function partly as safety protocols.
+- They also mark respect for the plant teachers.
+- Cross-cultural use should preserve this seriousness.
+- Research should document who leads the ceremony, where it occurs, and how support is provided.
+
+## Cross-References
+
+- Yakuruna, Chullachaki, dolphins, serpents, and forest beings appear in ceremony stories.
+- Such stories prepare participants for visionary landscapes.
+- The ceremony links ethnobotany, music, myth, psychology, and medicine.
+- It remains the central container for understanding ayahuasca in Amaringo's source text.

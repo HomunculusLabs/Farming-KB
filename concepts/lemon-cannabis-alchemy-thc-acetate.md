@@ -1,5 +1,5 @@
 ---
-title: "[[lemon-cannabis-alchemy-advanced-refinement-techniques]] [[cannabis-thc-acetate-preparation]]"
+title: Lemon Cannabis Alchemy Thc Acetate
 created: 2026-04-28
 tags: [cannabis, thc-acetate,ben-lemony, synthesis, potency]
 date: 2026-04-28
@@ -15,7 +15,7 @@ Chapter 3 of *[[ben-lemon]] describes the synthesis of
 THC acetate, a derivative of THC with approximately twice the potency of
 the parent compound. This chapter details both the chemical properties of
 [[thc-acetate-and-isomerization]] the elaborate safety precautions necessary for its
-synthesis using acetic anhydride.
+synthesis using [[acetic-anhydride]].
 
 ## Properties of THC Acetate
 
@@ -86,5 +86,5 @@ anhydride. The following apparatus is assembled:
 5. Sparkless electric hotplate
 6. Rheostat to control temperature from outside the box
 7. Ring stand and proper clamps for securing flask and condenser
-8. Cottonseed oil for the oil bath
+8. [[cottonseed-oil]] for the oil bath
 9. Acetic anhydride (three times the volume of [[cervantes-hash-cannabis-oil-production]])

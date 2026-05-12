@@ -1,5 +1,5 @@
 ---
-title: "[[permaculture-energy-descent-planning]] Cycling And Resource Efficiency"
+title: Permaculture Energy Cycling And Resource Efficiency
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -24,7 +24,7 @@ tapping of fossil fuels during the industrial era caused the spectacular
 explosion in human numbers, technology, and every novel feature of modern
 society. The inevitable depletion of these fuels within a few generations will
 see a return to the general patterns observable in nature and pre-industrial
-societies dependent on [[holmgren-wind-power-and-renewable-energy-debate]]. Permaculture does not attempt to
+societies dependent on [[holmgren-wind-power-and-renewable-energy-debate]]. [[permaculture]] does not attempt to
 sustain the unsustainable; it asks how human settlements can function with
 progressively less energy while maintaining or improving quality of life.
 

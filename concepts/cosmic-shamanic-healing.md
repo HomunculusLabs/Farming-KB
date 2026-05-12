@@ -1,5 +1,5 @@
 ---
-title: Cosmic [[metzner-shamanic-healing-and-divination-paradigm]]
+title: "Cosmic Shamanic Healing"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
@@ -148,36 +148,3 @@ The queen in a blue dress defends the vegetalista during fights with enemies. He
 ### The Pregnant Woman's Wisdom
 
 A pregnant woman appears in the foreground, embodying the principle that all the mother's experiences — passions, desires, interests — transfer to the unborn child. If the mother appreciates art and music, the foetus learns from these experiences. The mother must educate her child from the moment of conception, reflecting a sophisticated understanding of prenatal influence.
-
-## Types of Sorcery and Defense
-
-### King Kundal
-
-Master of the Huairamama (great snake mother of the air), King Kundal wears a red cape symbolizing that no enemy can escape him. His umbrella is made of meteors — special ships with a psychomagnetic nucleus.
-
-### Queen Samhadi
-
-The "illuminated" queen offers King Kundal a kettle of medicinal balsam extracted from aromatic plants of vegetalismo. She carries her talents in a coffer shaped like a serpent holding its tail (an ouroboros). When she approaches an ayahuasca session, visions take on a purplish color. If an initiate whose body is not yet clean takes ayahuasca during her presence, they may vomit heavily — even blood — as the body purifies.
-
-### The Angash-machohualipa
-
-This blue cock appears when an initiate breaks the rigorous diet necessary to become an efficient vegetalista. Hen's meat is particularly dangerous during the diet: if a treated patient eats hen's meat, the sickness returns with greater force and may be fatal if not treated in time.
-
-### Chai Cuilkimama (Mother of Silver)
-
-She spreads white silver plates and her icaro helps people prosper in business and become rich. Her chant also cures the mal aire de difunto (illness from the spirit of a deceased person).
-
-### Millaipa-huarmi (Ugly Women)
-
-These two women perform a critical role in curanderismo by gathering the sickness the curandero extracts from patients:
-
-- **Younger woman** (sky-blue dress): Picks up sickness and contains it in her hands. If the patient doesn't diet, she returns the sickness and the patient worsens.
-- **Older woman** (lilac dress): Receives the sickness from the younger woman if the patient cooperates with the curandero and maintains their diet. She permanently contains the evil spell.
-
-This system illustrates the Amazonian understanding that healing is a collaborative process — the curandero extracts the illness, but the patient must participate through dietary discipline, or the treatment fails.
-
-## Beings from the Divine Kingdom
-
-Beings from the Divine Kingdom descend from above to give perfect foundation to the earth, whose nucleus appears behind them. A six-headed serpent and the rumi salamandra (salamander of the rock) with ultra-physical powers appear nearby. The ailpa-puma (jaguar of the earth) has bristles and two horns, representing a chthonic guardian force.
-
-The great sylph Mesafel is an expert in hyperchemical transformation in both directions — spiritual to physical and physical to spiritual — working with aromatic ointments and perfumes.

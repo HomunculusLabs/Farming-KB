@@ -36,3 +36,56 @@ Jergón sacha is a medicinal plant widely used in Amazonian traditional medicine
 
 ## Cultural Context
 Jergón sacha appears in Vision 27 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]], depicted alongside the jergón snake that it is used to treat. It is one of the most widely known and frequently used medicinal plants in the [[ayahuasca-tourism-economics-peruvian-amazon]], recognized across multiple indigenous and mestizo communities as a primary treatment for snakebite.
+
+## Doctrine of Signatures
+
+Jergón sacha is one of the clearest Amazonian examples of the doctrine of signatures.
+
+The mottled stem and leaf pattern resemble the body of the jergón snake, and that resemblance is interpreted as a sign of therapeutic relationship.
+
+The plant does not merely symbolize the snake; in traditional practice it participates in a practical system for responding to snakebite risk.
+
+This is why its appearance in [[amaringo-ayahuasca-visions-shipibo-iconography]] is visually paired with the snake itself.
+
+## Preparation and Use Context
+
+Traditional uses vary by community and healer, but the plant is commonly described as a tuber or [[cannabis-root-medicine-historical-modern-perspectives]].
+
+It may be prepared as a decoction, tincture, wash, or poultice depending on the condition being treated.
+
+For snakebite, the plant's use belongs to an emergency folk-medical context and should not be confused with modern antivenom access where that is available.
+
+Within vegetalismo, however, its protective role also extends beyond physical venom into magical and ceremonial danger.
+
+## Ecological Notes
+
+- Shade-loving understory plant.
+- Prefers humid tropical conditions.
+- Propagated by tuber division rather than seed in many cultivated contexts.
+- Vulnerable to habitat loss where forest understory is cleared.
+- Important as both medicine and cultural memory.
+- Associated with the wider ethnobotany of [[sananga-eye-medicine-amazonian-ethnobotany]].
+
+## Relationship to Ayahuasca Practice
+
+Jergón sacha appears in the same cultural world as [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], where plants are teachers, allies, and diagnostic signs.
+
+Its protective reputation makes it relevant to ceremonies in which participants may encounter frightening visions, sorcery themes, or animal powers.
+
+The plant's meaning therefore bridges ordinary forest medicine and visionary medicine.
+
+## Study Cautions
+
+The note should be read as an ethnobotanical summary, not as medical advice.
+
+Snakebite is life-threatening and requires urgent clinical care where available.
+
+The importance of jergón sacha in traditional medicine is nevertheless historically and culturally significant because it shows how Amazonian healers organize plant knowledge around observed form, habitat, danger, and remedy.
+
+## Summary
+
+Jergón sacha is a plant, a snake-sign, a protective ally, and a cultivated medicinal resource.
+
+Its significance comes from the tight fit between morphology, habitat, danger, and healing use.
+
+That fit makes it a key example for understanding how vegetalista knowledge links observation with spiritual interpretation.

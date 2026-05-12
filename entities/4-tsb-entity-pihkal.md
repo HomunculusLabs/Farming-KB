@@ -46,7 +46,7 @@ one of the two observations is presumed to be in error.
 
 A solution of 12.1 g N,N,N',N'-tetramethylethylenediamine
 and 16.6 g of 1,3-diethoxybenzene was made in 200 mL 30-60 deg C
-petroleum ether. This was stirred vigorously under a N2 atmosphere
+[[petroleum-ether]]. This was stirred vigorously under a N2 atmosphere
 and cooled to 0 deg C with an external ice bath. There was added 66 mL
 of 1.6 M butyllithium in hexane. The stirred reaction mixture became
 a little cloudy and then gradually formed a white granular

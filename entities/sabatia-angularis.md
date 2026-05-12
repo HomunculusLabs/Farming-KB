@@ -24,7 +24,7 @@ It produces showy pink to rose-purple flowers with a distinctive yellow-green st
 
 The species is found in open, acidic habitats across much of the eastern United States.
 
-Despite its visual appeal, Sabatia angularis remains largely absent from [[cannabinoid-pharmacology]] due to its specific habitat requirements.
+Despite its visual appeal, Sabatia angularis remains largely absent from [[blesching-cannabinoid-pharmacology]] due to its specific habitat requirements.
 
 It was first collected by early botanical explorers of the [[bolete-fungi-appalachian-region]] and has been documented in floras since the eighteenth century.
 

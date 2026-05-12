@@ -23,7 +23,7 @@ The hybrid results from a cross between *Calamagrostis epigejos* and *Calamagros
 
 It is widely regarded as one of the most useful and dependable ornamental grasses for temperate gardens worldwide.
 
-The cultivar 'Karl Foerster' is the most popular and widely planted ornamental grass in [[cannabinoid-pharmacology]].
+The cultivar 'Karl Foerster' is the most popular and widely planted ornamental grass in [[blesching-cannabinoid-pharmacology]].
 
 ## Taxonomy and Morphology
 

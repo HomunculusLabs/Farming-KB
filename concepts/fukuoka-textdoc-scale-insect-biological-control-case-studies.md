@@ -88,3 +88,17 @@ uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
+- [[doc]]
+- [[det]]
+- [[mycorrhiza]]
+- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]

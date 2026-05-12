@@ -34,7 +34,7 @@
 - This status is useful for entity disambiguation in the wiki.
 
 ## Relevance to this wiki
-- This entity was mined because photonic-crystals mentioned John without a dedicated entity page.
+- This entity was mined because [[photonic-crystals]] mentioned John without a dedicated entity page.
 - He anchors the concept's history alongside eli-yablonovitch.
 - Related topic: localization of light.
 - Related physics: photonic band gaps.

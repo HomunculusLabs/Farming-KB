@@ -1,5 +1,5 @@
 ---
-title: "Orientomania and the mckenna orientomania and european discovery of hashish of Hashish"
+title: Mckenna Orientomania And European Discovery Of Hashish
 created: 2026-05-06
 tags:
   - history
@@ -24,7 +24,7 @@ The introduction of cannabis into European consciousness was a gradual process
 spanning centuries, mediated by travelers, conquerors, and the broad cultural
 movement known as Orientomania. From Marco Polo's sensational account of the
 hashishin assassins in the thirteenth century to Napoleon's encounter with
-hashish in Egypt, European perceptions of cannabis were shaped by a potent mix
+[[hashish]] in Egypt, European perceptions of cannabis were shaped by a potent mix
 of fascination, fear, and romantic projection onto the exotic East.
 
 The European engagement with hashish coincided with and was reinforced by the

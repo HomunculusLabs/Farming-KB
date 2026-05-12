@@ -103,7 +103,7 @@ analgesic, antiemetic, bronchodilatory, and appetite-stimulating properties.
 Through CB2 activation in immune cells, THC modulates inflammatory signaling.
 ## See Also
 
-- [[cannabinoid]]
+- [[cannabinoid-receptors-cb1-cb2]]
 - [[blesching-cannabis-anandamide]]
 - [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
 - [[blesching-cannabis-administration-methods]]

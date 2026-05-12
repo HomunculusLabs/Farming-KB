@@ -114,7 +114,7 @@ Aquatic plants face different challenges — water attenuates light and scatters
 
 - [[photoperiodism-in-plants]]
 - [[phytochrome]]
-- [[Auxin]]
+- [[auxin-production-by-symbiotic-fungi]]
 - [[plant-sensory-systems]]
 
 The study of phototropism, from Darwin's gas-lamp experiments to modern molecular genetics, exemplifies how careful observation of plant behavior can reveal fundamental principles of biological sensing and response. As research continues, new discoveries about the interplay between phototropism and other signaling pathways promise to deepen our understanding of how plants integrate multiple environmental cues to orchestrate their growth and survival in a constantly changing world.

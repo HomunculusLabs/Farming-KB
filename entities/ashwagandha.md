@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-ashwagandha-at-[[query-how-to-grow-ashwagandha-at-home]]|Ashwagandha]] (*Withania somnifera*, Solanaceae) is one of the most important herbs in Ayurvedic medicine, classified as a *Rasayana* (rejuvenating) herb. The name derives from Sanskrit: *ashwa* (horse) + *gandha* (smell), referring to both the root's distinct aroma and the traditional belief that it imparts the vigor and strength of a horse. Sometimes called "Indian Ginseng" or "Winter Cherry," ashwagandha has been used continuously for over 3,000 years across the Indian subcontinent.
+ashwagandha-at-[[query-how-to-grow-ashwagandha-at-home]]|Ashwagandha (*Withania somnifera*, Solanaceae) is one of the most important herbs in Ayurvedic medicine, classified as a *Rasayana* (rejuvenating) herb. The name derives from Sanskrit: *ashwa* (horse) + *gandha* (smell), referring to both the root's distinct aroma and the traditional belief that it imparts the vigor and strength of a horse. Sometimes called "Indian Ginseng" or "Winter Cherry," ashwagandha has been used continuously for over 3,000 years across the Indian subcontinent.
 
 ## Taxonomy
 

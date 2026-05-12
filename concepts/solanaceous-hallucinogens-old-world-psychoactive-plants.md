@@ -1,5 +1,5 @@
 ---
-title: [[old-world-solanaceous-hallucinogens]] Hallucinogens and Old [[old-world-solanaceous-hallucinogens]] Psychoactive [[entheogenic-plants-and-psychoactive-flora]]
+title: "Solanaceous Hallucinogens and Old World Psychoactive Plants"
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---

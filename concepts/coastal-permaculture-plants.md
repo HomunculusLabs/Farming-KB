@@ -1,5 +1,5 @@
 ---
-title: Coastal [[permaculture-interaction-of-plants-and-animals|[[permaculture-plants-aquatic-systems-water-plants|Permaculture]] [[permaculture-plants-aquatic-systems-water-plants|Plants]]
+title: "Coastal Permaculture Plants"
 source: a-selection-permaculture-plants.md
 type: concept
 ---
@@ -40,7 +40,7 @@ A bushy, creeping perennial (to 25 cm) native to South Africa. It is half-hardy 
 - **Apium prostratum** (sea celery) — Small herb of coastal headlands and dunes; resembles celery; historically used to treat scurvy; potential as a bred vegetable
 - **Armeria maritima** (sea pink) — Hardy, frost-hardy, perennial creeping shrub covering sand banks readily
 - **Batis maritima** (saltwort, beachwort) — Spreading prostrate shrub of mangrove swamps and salt marshes
-- **Sarcocornia quinqueflora** (chicken claws, beaded glasswort) — Forms extensive colonies on tidal mudflats; fleshy stems absorb pickle flavours
+- **[[sarcocornia-quinqueflora]]** (chicken claws, beaded glasswort) — Forms extensive colonies on tidal mudflats; fleshy stems absorb pickle flavours
 - **Sesuvium portulacastrum** (sea purslane) — Fleshy-leaved shrubby herb of beaches and mudflats; leaves reported as excellent vegetable
 - **Suaeda australis** (sea blight) — Fleshy-leaved plant of saltflats and sandbanks; used as vegetable and in pickles by early settlers
 
@@ -65,7 +65,7 @@ A large bush or small tree (to 6 m) with scarlet-coloured foliage, native to Flo
 - **Coprosma baueri, C. repens** (New Zealand mirror plant) — Salt-tolerant hedge
 - **Correa alba** (Cape Barren tea) — Hardy, leaves used as tea substitute
 - **Escallonia macantha** — Coastal hedge
-- **Euphorbia tirucalli** — Probably a good honey plant
+- **[[euphorbia-tirucalli]]** — Probably a good honey plant
 - **Griselinia littoralis** — Coastal hedge
 - **Hakea suaveolens** — Honey plant
 - **Leptospermum laevigatum** (coast tea tree) — Dried leaves used as tea; good honey plant
@@ -111,8 +111,8 @@ A large tree (to 10 m), somewhat frost hardy. Commonly found growing with roots 
 - **Populus tremula** (European aspen) — Small suckering tree; withstands full sea exposure; frost hardy and salt resistant
 - **Salix caprea** (goat willow) — Coastal willow species
 - **Sapindus saponaria** (soapberry) — Small evergreen tree to 8 m; grows where salt water overflows frequently
-- **Swietenia mahagoni** (West Indian mahogany) — Evergreen to 24 m; low-lying limestone swamps near sea; frost tender
-- **Taxodium distichum** (bald cypress) — Swamp tree of the Everglades; quite frost hardy
+- **[[swietenia-mahagoni]]** (West Indian mahogany) — Evergreen to 24 m; low-lying limestone swamps near sea; frost tender
+- **[[taxodium-distichum]]** (bald cypress) — Swamp tree of the Everglades; quite frost hardy
 
 ## Coastal Shrubs
 
@@ -126,13 +126,13 @@ A large tree (to 10 m), somewhat frost hardy. Commonly found growing with roots 
 - **Asparagus officinalis** (asparagus)
 - **Chenopodium quinoa** (quinoa)
 - **Crithmum maritimum** (sea fennel)
-- **Distichlis palmeri** (Palmer saltgrass) — Perennial growing in tidal flats; seed traditionally harvested by Seri Indians; hybrid cultivars producing 1 tonne/ha grain; spreads by rhizomes
+- **[[distichlis-palmeri]]** (Palmer saltgrass) — Perennial growing in tidal flats; seed traditionally harvested by Seri Indians; hybrid cultivars producing 1 tonne/ha grain; spreads by rhizomes
 - **Distichlis spicata** (salt grass) — Distinct inland and seashore ecotypes; 20,000 hectares under cultivation near Mexico City for cattle fodder
 - **Kosteletzkya virginica** (seashore mallow)
 - **Leptochloa fusca** (kallar grass) — Highly salt-tolerant perennial forage species
 - **Mesembryanthemum crystallinum** (ice plant)
 - **Pennisetum typhoides** (pearl millet)
-- **Portulaca oleracea** (common purslane)
+- **[[portulaca-oleracea]]** (common purslane)
 
 ## Permaculture Design Principles for Coastal Planting
 

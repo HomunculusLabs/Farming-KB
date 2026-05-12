@@ -88,3 +88,10 @@ sources: ["Shulgin - PIHKAL"]
 > her death, I have found myself imposing this same 5:30-ness on myself,
 > as some form of an emasculating pattern that is comfortable and
 > stable. No, it is not comfortable, it is simply the course of the
+
+## See Also
+- [[lsd]]
+- [[det]]
+- [[mescaline]]
+- [[methyl-k-entity-pihkal]]
+- [[eem-entity-pihkal]]

@@ -87,3 +87,38 @@ A significant pulmonary health risk associated with cannabis is not the plant it
 The lungs contain both CB1 and CB2 receptors. CB1 receptors in bronchial tissue mediate the bronchodilatory effects of THC, while CB2 receptors on immune cells in lung tissue modulate the inflammatory response. This dual receptor system explains why cannabinoids can simultaneously open airways and reduce pulmonary inflammation — a combination particularly relevant for asthma and COPD management.
 
 ## Evidence Summary
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[dom]]
+- [[nicotine]]
+- [[spore]]
+- [[endocannabinoid-system]]

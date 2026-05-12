@@ -35,3 +35,49 @@ Huani sorcery's incurability may reflect an Amazonian recognition of certain poi
 - Marupa sorcery — animal-based sorcery (treatable)
 - Mariri — magical phlegm containing the living piranha
 - Icaro — songs involved in sorcery diagnosis
+
+## Diagnostic Context
+
+- Huani should be studied beside [[mariri]], because its lethality depends on what the sorcerer stores and animates inside that substance.
+- It also contrasts with [[marupa-sorcery]], which is presented as dangerous but treatable by skilled vegetalistas.
+- The visionary diagnostic pattern belongs with [[ayahuasca-vision-art-and-shipibo-tradition]], where visual forms carry clinical and spiritual information.
+- In Amaringo's system, the distinction between curable and incurable attack is central.
+- Huani marks the boundary case: ordinary shamanic technique can identify it, but cannot reliably reverse it.
+- That makes the category useful for understanding triage, prognosis, and humility in vegetalista healing.
+- The steel bow and crystal arrow combine manufactured hardness with visionary translucence, suggesting a weapon that is both material and subtle.
+- The living piranha in the mariri gives the attack a predatory digestive image: the victim is consumed from within.
+- The association with stinging plants reinforces the theme of piercing, burning, and irreversible penetration.
+- For comparative toxicology, huani may encode recognition of rapidly fatal syndromes that exceed local treatment capacity.
+- For ritual studies, it shows how sorcery classifications preserve detailed differences in symptoms, visions, and outcomes.
+- The page should therefore remain linked to both Amazonian plant medicine and broader shamanic theories of harmful intrusion.
+
+## Comparative Notes
+
+- Huani is structurally different from ordinary poisoning because the weapon returns to the attacker.
+- That return movement makes the sorcerer both source and storage place of the harm.
+- The armpit location may imply secrecy, concealment, and proximity to breath or body heat.
+- Crystal suggests clarity and sharpness, while steel suggests modern hardness and durability.
+- Together they form a weapon that is difficult to remove because it crosses ordinary categories.
+- The vomiting of blood gives the syndrome a dramatic internal injury profile.
+- Its incurability also reinforces the importance of avoiding conflict with dangerous specialists.
+- In narrative terms, huani teaches that not every affliction is within a healer's power.
+- That lesson protects the healer from false promises and the patient from misplaced certainty.
+- It also gives the cosmology a category for catastrophic illness.
+- Future additions should avoid naming real practitioners as sorcerers unless the source explicitly does so.
+- The page is strongest when it documents the classification, symptoms, and diagnostic signs.
+
+## Ethical Reading Notes
+
+- The page documents a source tradition and should not be used to accuse living people of harm.
+- Sorcery categories are part of a diagnostic and moral universe with its own rules of evidence.
+- The most useful comparison is structural: weapon, symptom, vision sign, prognosis, and cure status.
+- Huani's incurability makes it an extreme case in that structure.
+- It also shows why some healers refuse cases or refer them to divine power.
+- Refusal is not necessarily failure; it can be an honest recognition of limits.
+- For vault organization, huani links mariri, plant toxins, visionary diagnosis, and Amazonian conflict.
+- It should be cross-referenced whenever a note discusses magical darts or pathogenic intrusion.
+- The piranha image may also be useful in animal-symbolism comparisons.
+- Its flesh-eating behavior mirrors the progressive internal destruction attributed to the attack.
+- The plant associations should be researched cautiously because some names may not map cleanly to modern taxonomy.
+- Future additions should preserve indigenous terminology and source spelling variants.
+- This prevents flattening huani into a generic poison-arrow motif.

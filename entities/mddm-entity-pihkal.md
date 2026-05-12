@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDDM
 
-[[2c-b-pihkal-entry-20]] #105. N,N-DIMETHYL-MDA;.
+[[2c-b-pihkal-entry-20]] #105. N,N-DIMETHYL-[[mda]];.
 
 ## Chemical Name
 

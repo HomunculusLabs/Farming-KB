@@ -1,5 +1,5 @@
 ---
-title: "Mckenna [[mckenna-food-gods-television-dominator-drug]]"
+title: Mckenna Television Dominator Drug
 created: 2026-04-28
 tags: [mckenna, food-of-the-gods, television, electronic-drugs, dominator-
 culture, media, brainwashing, addiction, social-control, consumerism, sixties-
@@ -17,7 +17,7 @@ type: concept
 
 In the final section of *Food of the Gods*, [[terence-mckenna]] advances the
 provocative thesis that television is an "[[mckenna-television-as-electronic-drug-media-narcotic]]," the most powerful
-and pervasive instrument of social control ever devised. He argues that
+and pervasive instrument of [[patriarchal-law-and-social-control]] ever devised. He argues that
 television functions pharmacologically as an addictive substance that delivers
 users into an alternative reality by acting directly on the sensorium, without
 chemicals being introduced into the nervous system. Unlike any previous drug,
@@ -46,7 +46,7 @@ chemical drug.
 
 ## Parallels with Heroin Addiction
 
-McKenna draws a direct and sustained analogy between television and heroin
+McKenna draws a direct and sustained analogy between television and [[heroin]]
 addiction. Heroin flattens the image; with heroin, things are neither hot nor
 cold; the junkie looks out at the world certain that whatever it is, it does not
 matter. The illusion of knowing and of control that heroin engenders is

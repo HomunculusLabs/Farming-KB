@@ -52,7 +52,7 @@ and inhibit fundamental fungal cellular processes:
 - **Strobilurins (azoxystrobin)**: Inhibit [[electron-transport-chain-mitochondrial-respiration]] at complex III,
   essentially starving the fungal cell of ATP.
 
-These compounds are not selective for [[Cordyceps]] — they affect all fungi
+These compounds are not selective for [[cordyceps-cultivation]] — they affect all fungi
 indiscriminately, including cultivated mushroom species.
 
 ### Contact Fungicides
@@ -87,3 +87,38 @@ the mycelium without killing it outright.
 ## Detection of Treated Seed
 
 Identifying fungicide-treated seed before purchase:
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[mushroom-substrate-preparation]]
+- [[substrate-preparation]]
+- [[fungicide-treated-seed-hazard-mushroom-substrate-preparation]]
+- [[det]]
+- [[mycelium]]

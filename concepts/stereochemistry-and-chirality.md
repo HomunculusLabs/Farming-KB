@@ -64,7 +64,7 @@ C-C bond. Ethane's eclipsed conformation is 3.0 kcal/mol above
 staggered due to torsional strain. Butane ranks: anti (180 deg,
 reference) < gauche (+/-60 deg, +0.9 kcal/mol) < eclipsed methyl-H
 (+/-120 deg, +3.6 kcal/mol) < eclipsed methyl-methyl (0 deg, +6.0
-kcal/mol). Cyclohexane adopts chair conformations with ~109.5 degree
+kcal/mol). [[cyclohexane]] adopts chair conformations with ~109.5 degree
 bond angles and zero angle strain. Chair flips (barrier ~10.8
 kcal/mol) interconvert axial and equatorial positions. A-values
 (kcal/mol, equatorial preference): methyl 1.74, ethyl 1.75, isopropyl

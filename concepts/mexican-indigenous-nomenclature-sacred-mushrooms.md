@@ -84,6 +84,6 @@ and [[dictyophora-indusiata]] in its
 three forms as special narcotic fungi for divination purposes, though
 neurotropic properties remain uncertain. The Trique Indians of Alta
 Mixteca use Cordyceps capitata and Cordyceps ophioglossoides
-alongside [[Elaphomyces]], Elaphomyces muricatus, and Elaphomyces reticulatus are placed at the ceremony
+alongside [[elaphomyces-granulatus]], Elaphomyces muricatus, and Elaphomyces reticulatus are placed at the ceremony
 center as a director. These Elaphomyces are also used separately to
 heal wounds and to rejuvenate the organism.

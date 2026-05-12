@@ -117,7 +117,7 @@ converging beneath the historical surface.
 
 ---
 
-*See also:* [[Allegro Mushroom and Fertility Word-Field]]
-· [[Allegro Hermes Phallic Symbolism]]
-· [[Allegro Soma Haoma and the Living God]]
-· [[Allegro Philological Method]]
+*See also:* [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
+· [[allegro-mandrake-nectar-mushroom-phallic-nomenclature]]
+· [[allegro-soma-haoma-and-the-living-god]]
+· [[allegro-philological-methodology]]

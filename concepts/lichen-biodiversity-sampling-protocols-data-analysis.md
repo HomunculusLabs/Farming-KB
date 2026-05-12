@@ -1,5 +1,5 @@
 ---
-title: "Lichen Biodiversity [[macrofungal-sampling-protocols]] [[fungal-biodiversity-data-analysis]]"
+title: "Lichen Biodiversity Sampling Protocols and Data Analysis"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -88,3 +88,7 @@ robust and resilient outcomes. Rather than treating this topic in
 isolation, the most effective practitioners consider how it connects
 with and enhances other elements of the broader system within which
 they are working. This systems thinking approach generates synergies
+
+## See Also
+- [[macrofungal-sampling-protocols]]
+- [[fungal-biodiversity-data-analysis]]

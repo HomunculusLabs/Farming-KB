@@ -8,7 +8,7 @@ tags: [therapy, palliative, end-of-life, psilocybin, anxiety, depression, oncolo
 
 ## Overview
 
-Psilocybin-assisted therapy for patients facing end-of-life distress represents one of the most compelling and well-studied applications of [[iboga-ibogaine-and-the-bwiti-african-psychedelic-medicine]]. Patients with life-threatening cancer diagnoses and other terminal conditions frequently experience existential distress, [[psilocybin-and-death-anxiety]], depression, and demoralization that are poorly addressed by conventional psychiatric treatments. [[hofmann-lsd-clinical-research-early-studies]] since the 2000s has demonstrated that a single or limited number of psilocybin sessions, conducted within a structured therapeutic framework, can produce rapid, substantial, and enduring reductions in these symptoms.
+Psilocybin-assisted therapy for patients facing end-of-life distress represents one of the most compelling and well-studied applications of [[iboga]]. Patients with life-threatening cancer diagnoses and other terminal conditions frequently experience existential distress, [[psilocybin-and-death-anxiety]], depression, and demoralization that are poorly addressed by conventional psychiatric treatments. [[hofmann-lsd-clinical-research-early-studies]] since the 2000s has demonstrated that a single or limited number of psilocybin sessions, conducted within a structured therapeutic framework, can produce rapid, substantial, and enduring reductions in these symptoms.
 
 ## Clinical Problem: Existential Distress at End of Life
 

@@ -11,7 +11,7 @@ mined: 2026-05-10
 
 ## Overview
 
-Ecological succession is the process by which biological communities evolve and transform over time, progressing from simple pioneer assemblages to complex, stable climax ecosystems. In permaculture, understanding succession is fundamental — designers work with, accelerate, and guide natural successional processes rather than fighting them. Rather than planting a final system directly, [[bill-mollison-permaculture-designers-manual]] stage plantings to mimic and compress the natural timeline of ecological development.
+Ecological succession is the process by which biological communities evolve and transform over time, progressing from simple pioneer assemblages to complex, stable climax ecosystems. In permaculture, understanding succession is fundamental — designers work with, accelerate, and guide natural successional processes rather than fighting them. Rather than planting a final system directly, [[bill-mollison]] stage plantings to mimic and compress the natural timeline of ecological development.
 
 ## The Stages of Succession
 

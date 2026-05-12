@@ -13,7 +13,7 @@ created: 2026-04-28
 
 Phosphorus (P) is one of the three primary macronutrients limiting crop production globally, yet an estimated 60–90% of applied phosphorus fertilizer becomes immobilized in soil as insoluble complexes unavailable to plants. Two principal biological strategies address this bottleneck: phosphorus-solubilizing microorganisms (PSMs) that chemically liberate P from mineral and organic pools, and dynamic-accumulator-plants-phosphorus, iron/aluminum phosphates, organic P (phytate, nucleic acids) | Soluble and weakly adsorbed P in soil solution; P desorbed from soil particle surfaces |
 | **Spatial reach** | Localized to rhizosphere (1–5 mm from root surface) | Hyphal network extends well beyond depletion zone, accessing bulk soil P |
-| **Key organisms** | *Pseudomonas fluorescens*, *[[bacillus-subtilis]][[Bacillus]] rium*, *Penicillium* spp., *aspergillus [[funneliformis-mosseae]] rmis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
+| **Key organisms** | *Pseudomonas fluorescens*, *[[bacillus-subtilis]][[bacillus-subtilis]] rium*, *Penicillium* spp., *aspergillus [[funneliformis-mosseae]] rmis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
 | **Host specificity** | None — free-living organisms act independently of plant species | Obligate symbionts with varying compatibility across plant families |
 
 ## How PSMs Solubilize Phosphorus

@@ -1,5 +1,5 @@
 ---
-title: Chullachaki and Soul Recovery in Amazonian Shamanism
+title: "Chullachaki And Soul Recovery In Amazonian Shamanism"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Among the most vivid and culturally significant concepts in Amazonian shamanism are the *Chullachaki* (forest spirit with backwards feet) and the practice of soul recovery (*recuperación del alma*). These concepts address two fundamental anxieties of Amazonian life: the danger of becoming lost in the forest — both literally and spiritually — and the vulnerability of the human soul to capture by malevolent beings. Pablo Amaringo's paintings document multiple encounters with Chullachakis and several soul-recovery operations, providing detailed visual ethnography of these belief systems.
+Among the most vivid and culturally significant concepts in Amazonian shamanism are the *Chullachaki* (forest spirit with backwards feet) and the practice of soul recovery (*recuperación del alma*). These concepts address two fundamental anxieties of Amazonian life: the danger of becoming lost in the forest — both literally and spiritually — and the vulnerability of the human soul to capture by malevolent beings. [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s paintings document multiple encounters with Chullachakis and several soul-recovery operations, providing detailed visual ethnography of these belief systems.
 
 ## The Chullachaki
 
@@ -53,7 +53,7 @@ Vegetalistas counter Chullachaki influence through:
 
 ### The Concept of Soul Loss
 
-In Amazonian shamanic cosmology, the soul (*alma*) is not an indivisible essence but a mobile entity that can become separated from the body through fright (*susto*), sorcery, abduction by spirits, or the predations of spirit guardians working for sorcerers. Soul loss manifests as listlessness, apathy, serious illness, or a comatose state — the "inert body" left behind when the soul has been taken.
+In [[amazonian-shamanic-battles-and-defensive-powers]] cosmology, the soul (*alma*) is not an indivisible essence but a mobile entity that can become separated from the body through fright (*susto*), sorcery, abduction by spirits, or the predations of spirit guardians working for sorcerers. Soul loss manifests as listlessness, apathy, serious illness, or a comatose state — the "inert body" left behind when the soul has been taken.
 
 ### The Muraya's Soul Recovery Operation (Vision 37)
 
@@ -85,12 +85,12 @@ The *yakuruna* (water people) represent another class of spirit beings capable o
 
 ### The Muraya's Method
 
-The muraya sits on a living stone tiger that floats on water and summons an extensive army of aquatic spirit allies:
+The muraya sits on a living stone tiger that floats on water and summons an extensive army of [[yakuruna-aquatic-spirit-world]] allies:
 
 - **Sumi-lagarto**: A lizard able to submerge
 - **Anguila mama**: Electric eel
 - **Puka-bufeo**: Pink dolphin surrounded by diamond stones
-- **Sanguijuela mama**: Leech with powerful magnets
+- **[[sanguijuela-mama]]**: Leech with powerful magnets
 - **Yaku-toro**: Bull of the water
 - **Supay-puma**: Ghost jaguar
 - **Yaka-machin**: Monkey of the water
@@ -123,4 +123,11 @@ This vision emerged from an ayahuasca session that mixed "the science of vegetal
 
 *Maituch iscami* (from Quechua *maytuy* = to twist) describes the condition in which a vegetalista's medicine becomes ineffective — their "magic powers are twisted" by a sorcerer's malevolent waves. The victim forgets everything. A great sumiruna cures this by blowing *alli-huaira* (good wind) on the afflicted healer, forming "a great tornado that will disperse all this sorcery and scatter it into infinite particles."
 
-This concept addresses a fundamental vulnerability of the healer: that the same powers that enable healing can be turned against the healer himself, rendering him unable to practice. The cure requires intervention from a more powerful practitioner — a recognition of the hierarchical nature of shamanic power.
+This concept addresses a fundamental vulnerability of the healer: that the same powers that enable healing can be turned against the healer himself, rendering him unable to practice. The cure requires intervention from a more powerful practitioner — a recognition of the hierarchical nature of [[icaros-shamanic-power-songs]].
+
+## See Also
+
+- [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]]
+- [[chullachaki-and-yakuruna-spirit-encounters]]
+- [[ayahuasca-yakuruna-water-spirits-shamanic-allies-amazon]]
+- [[banco-sumiruna-muraya]]

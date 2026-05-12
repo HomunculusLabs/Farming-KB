@@ -31,7 +31,7 @@ This discovery led to U.S. Patent 6,660,290.
 
 ## How Entomopathogenic Fungi Work
 
-[[Cordyceps]],
+[[cordyceps-cultivation]],
 Beauveria, Paecilomyces, Hirsutella, and Cordyceps. Some species exhibit
 fungal dimorphism, expressing themselves as either mold or mushroom.
 

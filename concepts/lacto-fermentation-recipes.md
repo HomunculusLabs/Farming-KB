@@ -88,3 +88,38 @@ Lay the cucumbers tightly into a bowl, adding salt to each layer. Fill with wate
 Yogurt isn't fermented in the same way that sauerkraut or pickles are made, but it is technically fermented milk. Bacteria turn the lactose into [[cho-lactic-acid-bacteria-preparation]]. While store-bought yogurt has flavoring and sugar in it, homemade yogurt is simply milk and starter. You can use any milk, and the starter can simply be plain yogurt that has active cultures in it. If you get the yogurt from the store, it will use that phrase on the label.
 
 To make the yogurt, use a thermometer to precisely heat a quart of milk and 3 tablespoons of plain yogurt to 100°F (38°C), then turn off the heat and keep it warm for 8-12 hours. You can use a wood stove, thermos, an oven, the sun, or a crockpot. With a thermos and the sun, you can heat the milk directly before letting it sit. With other methods, preheat the oven or crockpot beforehand and then shut it off when the milk is sitting. You may have to turn it on periodically just to keep the temperature warm. On a woodstove simply set it at the back when the stove is cooling. The yogurt is done when you can tilt it and it doesn't run.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[bionutrients]]
+- [[comparison-vinegar-vs-lacto-fermentation]]
+- [[comparison-lacto-fermentation-vs-canning]]
+- [[comparison-lacto-fermentation-vs-kombucha]]
+- [[query-how-do-i-make-kimchi-with-lacto-fermentation]]

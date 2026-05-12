@@ -1,5 +1,5 @@
 ---
-title: Ergoline Alkaloids in [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
+title: "Morning Glory Ergoline Alkaloids Chemistry"
 source: a-golden-guide-to-hallucinogenic-plants
 type: concept
 ---

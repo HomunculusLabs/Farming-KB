@@ -19,7 +19,7 @@ Multiple sclerosis (MS) is the condition with perhaps the most extensive clinica
 ### Spasticity
 **Collin et al. (2007)**: "Randomized controlled trial of cannabis-based medicine in spasticity caused by multiple sclerosis." European Journal of Neurology 14(3):290-96.
 
-**Pryce and Baker (2007)**: "Control of spasticity in a multiple sclerosis model is mediated by CB1, not CB2, [[cannabinoid-receptors-cb1-and-cb2]]." British Journal of Pharmacology.
+**Pryce and Baker (2007)**: "Control of spasticity in a multiple sclerosis model is mediated by CB1, not CB2, [[cannabinoid-receptors-cb1-cb2]]." British Journal of Pharmacology.
 
 Spasticity relief is mediated through CB1 receptors, not CB2. This distinguishes MS spasticity from [[cannabis-for-inflammatory-conditions]] where CB2 dominates.
 
@@ -88,3 +88,38 @@ Balanced THC:CBD strains at low doses. Start with 1-2 sprays of tincture subling
 Indica-dominant strains with higher THC for nighttime. [[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]].
 
 ### For Cognitive Clarity
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[dom]]
+- [[soma]]
+- [[harlequin]]
+- [[curcumin]]

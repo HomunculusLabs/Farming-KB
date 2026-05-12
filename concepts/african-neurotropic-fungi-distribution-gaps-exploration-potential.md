@@ -95,7 +95,7 @@ Comparative studies between African Psilocybe populations and those from South A
 
 1. **Systematic field surveys** in West and Central African tropical forests, focusing on regions with high precipitation and intact forest cover. Priority areas include the Guinean Forests of West Africa biodiversity hotspot and the Congo Basin.
 2. **Examination of [[herbarium-specimens-fungal-collections]]** in African and European collections for misidentified or overlooked neurotropic species. Many specimens collected for agricultural or ecological surveys may contain unidentified Psilocybe or Panaeolus species.
-3. **Ethnobotanical surveys** among indigenous communities, particularly in regions with known mushroom-gathering traditions. Documentation of local names, uses, [[amanita-mushrooms-history-chemistry-and-cultural-significance]] could guide targeted collection efforts.
+3. **Ethnobotanical surveys** among indigenous communities, particularly in regions with known mushroom-gathering traditions. Documentation of local names, uses, [[amanita]] could guide targeted collection efforts.
 4. **Chemical screening** of Panaeolus, Copelandia, and Psilocybe specimens from African dung and grassland habitats using modern analytical methods such as HPLC-MS.
 5. **Molecular phylogenetic studies** to determine relationships between African populations and those from other continents. DNA barcoding could reveal cryptic species and clarify biogeographic patterns.
 6. **Compilation of existing records** from agricultural research stations, national parks, and botanical gardens across the continent. Many observations may exist in unpublished reports or grey literature.

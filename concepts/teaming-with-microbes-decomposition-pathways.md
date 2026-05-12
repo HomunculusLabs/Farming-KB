@@ -78,3 +78,14 @@ adept at decaying chitin. When arthropods molt or die, their chitinous
 exoskeletons become food for these specialized bacteria. The breakdown
 of chitin releases nitrogen back into the soil, contributing to the
 [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]],
+
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[teaming-with-microbes-protozoa-and-nematodes]]
+- [[microwave-interaction-with-microbial-cells]]
+- [[teaming-with-microbes-soil-food-web-overview]]
+- [[teaming-with-microbes-compost-mulch-tea]]

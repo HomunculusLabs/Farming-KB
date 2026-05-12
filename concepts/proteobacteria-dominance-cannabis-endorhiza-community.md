@@ -33,7 +33,7 @@ ability to utilize [[sour-diesel]].
 A methylotroph utilizing one-carbon compounds as carbon and energy sources.
 
 **Sphingomonas wittichii**: Prevalent in [[cannabis-endorhiza-microbiome]]
-- [[Proteobacteria]]
+- [[proteobacteria-dominance-cannabis-endorhiza]]
 
 ## Sources
 

@@ -1,5 +1,5 @@
 ---
-title: "Palmer Specific [[gourmet-mushroom-species-guide]]"
+title: Palmer Specific Mushroom Species Guide
 created: 2026-04-28
 tags: [mushroom-species, edible-fungi, identification, nineteenth-century,
   palmer]

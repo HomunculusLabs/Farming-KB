@@ -1,5 +1,5 @@
 ---
-title: "[[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Pond Edge Configuration And Yield Maximisation"
+title: Mollison Designers Pond Edge Configuration And Yield Maximisation
 created: 2026-04-26
 tags:
   - aquaculture

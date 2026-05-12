@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-argument-against-pruning]] Pruning and Natural Form of Fruit Trees
+title: "Fukuoka Argument Against Pruning and Natural Form Fruit Trees"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -148,7 +148,3 @@ damage do not exist."
 
 He saw modern fruit growing as a tragic inversion of logic: "Today, by spraying their
 orchards with pesticides, fruit growers increase disease and pest damage; by pruning,
-they create strange, misshapen trees; and by applying fertilizer, they promote nutrient
-deficiencies." Each intervention addresses a problem created by the previous one,
-locking the grower into an escalating cycle of damage and repair that could be avoided
-entirely by trusting the tree's innate natural form.

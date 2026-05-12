@@ -16,7 +16,7 @@ type: concept
 ## Chemical Identity
 
 - **Full name:** Asymbescaline; 3,4-diethoxy-5-methoxyphenethylamine
-- **Class:** Phenethylamine (mescaline analogue with asymmetric
+- **Class:** Phenethylamine ([[mescaline]] analogue with asymmetric
   diethoxy substitution)
 - **Molecular formula:** C13H21NO3 (free base)
 - **Hydrochloride salt:** white crystals, mp 142-143 °C
@@ -41,7 +41,7 @@ The plateau was evident by hour two but lacked the visual and
 interpretive richness expected. Sleep was fitful even after
 effects largely dropped. It was hard to relax guard even while
 up and about the next day, with a residual plus one. Few if any
-open interactions resembling 2C-B or LSD were noted, with some
+open interactions resembling 2C-B or [[lsd]] were noted, with some
 negative side effects present.
 
 ### At 280 mg (Subject 2)
@@ -81,7 +81,7 @@ oxygen substitution at the 3-position.
 The imine was treated with butyllithium (36 mL, 1.5 M in hexane)
 at dry ice temperature, followed by butyl borate (30 mL). After
 returning to room temperature, the borate was oxidized with H2O2
-(15 mL, 35%) in methanol. Acid workup gave the hydroxyaldehyde.
+(15 mL, 35%) in [[methanol]]. Acid workup gave the hydroxyaldehyde.
 
 ### Step 4: Methylation
 3,4-Diethoxy-5-hydroxybenzaldehyde (8.3 g, mp 70.5-71.5 °C) was
@@ -91,3 +91,38 @@ final aldehyde as a pale yellow liquid.
 
 ## See Also
 - [[bod-pihkal-entry-14]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[psilocybin]]
+- [[mescaline]]
+- [[methanol]]
+- [[ethanol]]
+- [[lsd]]

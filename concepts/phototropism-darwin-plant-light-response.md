@@ -71,7 +71,7 @@ domain.
 Darwin's experiments established that some signal travels from the shoot tip to
 the bending region, but the nature of this signal remained unknown for decades.
 In the 1920s, the Dutch botanist Frits Went finally identified the mobile
-signal as [[Auxin]] (indole-3-acetic acid, IAA).
+signal as [[auxin-production-by-symbiotic-fungi]] (indole-3-acetic acid, IAA).
 
 The mechanism operates as follows:
 

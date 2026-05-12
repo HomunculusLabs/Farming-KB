@@ -63,7 +63,7 @@ The book implicitly establishes several principles for oral cannabis consumption
 
 ## Advanced Refinement for Edible Products
 
-The book describes advanced [[mushroom-spawn-production-and-laboratory-techniques]] for producing nearly pure THC, which would yield the most potent possible capsules and tinctures. [[cannabis-fractional-distillation-cannabinoids]] of the oil under reduced pressure (vacuum) produces a product up to twice as strong as the ether-phase extract. Totally pure THC, a thin transparent oil, can be produced by chemically isolating pure cannabidiol and then isomerizing it to THC -- though this requires sophisticated equipment and chemicals beyond the reach of the starting alchemist.
+The book describes advanced [[mushroom-spawn]] for producing nearly pure THC, which would yield the most potent possible capsules and tinctures. [[cannabis-fractional-distillation-cannabinoids]] of the oil under reduced pressure (vacuum) produces a product up to twice as strong as the ether-phase extract. Totally pure THC, a thin transparent oil, can be produced by chemically isolating pure cannabidiol and then isomerizing it to THC -- though this requires sophisticated equipment and chemicals beyond the reach of the starting alchemist.
 
 The translucent (honey) oil produced by charcoal filtering the ether phase of extraction contains between thirty and sixty percent THC. This amber oil, dissolved in a small amount of alcohol and mixed with butter and filler, would produce capsules of exceptional potency and clarity of effect.
 

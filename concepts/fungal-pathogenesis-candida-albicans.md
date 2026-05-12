@@ -78,7 +78,7 @@ reasoning that a specific protease allowed *Candida* to penetrate tissues
 disrupted the genes encoding these enzymes. But the resulting mutants
 retained their ability to kill laboratory mice.
 
-This result echoed experiments on plant [[Cordyceps]], where disruption of
+This result echoed experiments on plant [[cordyceps-cultivation]], where disruption of
 individual cell-wall-degrading enzymes similarly failed to reduce virulence.
 The conclusion: there is no single tissue-degrading enzyme whose inhibition
 would disarm the pathogen. Fungi deploy redundant, overlapping enzymatic

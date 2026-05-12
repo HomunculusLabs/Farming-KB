@@ -132,6 +132,6 @@ Eye bolts, wire, pulley, twine mounted on existing wall/fence/eaves. Minimum 3â€
 
 - faires-hops-cultivation-and-home-brewing
 
-- [[circadian-rhythm-in-plants]]
-- [[circadian-rhythm-in-plants]]
+- [[chamovitz-circadian-rhythm-internal-clock-plants]]
+- [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]

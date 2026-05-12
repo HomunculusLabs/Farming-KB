@@ -6,11 +6,11 @@ updated: 2026-05-09
 sources: []
 ---
 
-# How Do I Start Vermicomposting at Home?
+# How Do I Start Vermi[[composting]] at Home?
 
 ## Short Answer
 
-Vermicomposting is the process of using earthworms to decompose organic waste into nutrient-rich castings.
+[[vermicomposting]] is the process of using earthworms to decompose organic waste into nutrient-rich castings.
 It requires a worm bin, bedding material, composting worms, and regular feeding of kitchen scraps.
 The most popular species for home systems is the red wiggler (*Eisenia fetida*).
 A well-managed bin can process several pounds of food waste per week and produces some of the finest soil amendment available.
@@ -23,26 +23,7 @@ The red wiggler (*Eisenia fetida*) is the gold standard because it thrives in co
 European nightcrawlers (*Eisenia hortensis*) are another excellent choice, tolerating slightly cooler temperatures.
 For more on species selection and breeding, see the [[earthworm-breeding|earthworm breeding]] concept page.
 Common garden earthworms prefer to burrow deep into soil and generally do not survive in shallow bin conditions.
-You can compare vermicomposting approaches with other composting methods in the [[comparison-bokashi-vs-vermicomposting|bokashi vs vermicomposting]] and [[comparison-black-soldier-fly-vs-vermicomposting|BSF vs vermicomposting]] comparisons.
-Starting with roughly one pound of worms (about 1,000 individuals) is enough for a typical household bin.
-
-## Setting Up the Worm Bin
-
-A worm bin can be as simple as a plastic tote with drilled drainage holes or as elaborate as a multi-tiered flow-through system.
-The bin should be roughly one square foot of surface area per pound of food waste generated per week.
-Depth matters less than surface area because composting worms feed near the top layers of the bedding.
-Bedding materials include shredded newspaper, coconut coir, aged leaves, and cardboard.
-The bedding should be moistened to the consistency of a wrung-out sponge before adding worms.
-Proper drainage is essential to prevent anaerobic conditions that can harm the worm population.
-Some bins include a spigot at the bottom to collect leachate, though this liquid should not be confused with brewed compost tea.
-
-## What to Feed Your Worms
-
-Worms thrive on fruit and vegetable scraps, coffee grounds, crushed eggshells, and tea bags.
-They also appreciate small amounts of bread, rice, and pasta in moderation.
-Avoid feeding them meat, dairy, oily foods, citrus peels in large quantities, and anything treated with pesticides.
-Onion and garlic skins should also be limited as they can repel worms when overfed.
-Chop or blend food scraps into smaller pieces to speed up decomposition and make nutrients more accessible.
+You can compare vermicomposting approaches with other composting methods in the [[bokashi-vs-vermicomposting]] and make nutrients more accessible.
 Surface area is key for microbial colonization, so smaller pieces break down significantly faster.
 Bury food under a few inches of bedding to deter fruit flies and reduce odors.
 Feed in moderation, roughly one quarter to one half pound of food per pound of worms per day.
@@ -98,7 +79,7 @@ Most growers use a thin layer of castings as a top dressing rather than mixing i
 This preserves the diverse microbial communities that make vermicompost so valuable.
 Compared to traditional hot composting, vermicompost often has higher levels of nitrogen, phosphorus, potassium, and micronutrients in forms readily absorbed by plants.
 For gardeners choosing between composting methods, the [[comparison-biochar-vs-vermicomposting|biochar vs vermicomposting]] guide offers useful context.
-Worm castings also improve soil structure, water retention, and cation exchange capacity.
+Worm castings also improve soil structure, water retention, and [[cation-exchange-capacity]].
 Research has shown that even small applications of vermicompost, around 5 to 10 percent by volume in potting mixes, significantly improve plant growth and disease resistance.
 Many growers combine vermicompost with [[aact-soil-food-web-twelve-step-balancing-protocol|soil food web]] management practices for maximum biological benefit.
 

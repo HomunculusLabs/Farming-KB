@@ -121,5 +121,5 @@ photoperiod, offering advantages in regions with short growing seasons.
 - [[photoperiodism-garner-allard-discovery]]
 - [[night-interruption-photoperiodism]]
 - [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
-- [[cannabinoid-pharmacology]]
+- [[blesching-cannabinoid-pharmacology]]
 - [[phytochrome-ecological-red-far-red-dusk-dawn-signaling]]

@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-Phytochrome is a photoreceptor protein found in plants that functions as a molecular
+[[phytochrome]] is a photoreceptor protein found in plants that functions as a molecular
 light-activated switch, toggling between two forms in response to red and far-red light.
 Discovered by Warren L. Butler and his colleagues in the early 1960s, phytochrome
 explains how plants can "remember" the last colour of light they saw and use that

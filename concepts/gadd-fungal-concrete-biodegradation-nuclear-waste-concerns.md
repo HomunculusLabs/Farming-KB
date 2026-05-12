@@ -87,3 +87,38 @@ Fungi can be highly efficient bioaccumulators of soluble and particulate forms o
 ### Microfungi on Barrier Concrete
 
 An experimental study of the effect of microfungi on barrier concrete showed that fungi were able to colonize and corrode the surface of concrete, **actively avoiding areas filled with granite** — a hostile substrate. This selective colonization behavior demonstrates the ability of fungi to discriminate between substrate types and preferentially attack vulnerable concrete matrix while steering clear of resistant mineral fills. The implications are clear: fungi do not attack indiscriminately but rather target the weakest components of engineered barrier systems.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[fungal-hyphae]]
+- [[doc]]
+- [[det]]
+- [[mycorestoration]]
+- [[aspergillus-niger]]

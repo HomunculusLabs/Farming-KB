@@ -58,7 +58,7 @@ The species is adaptable to a range of soil types but prefers well-drained, fert
 
 The root contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. Pfaffic acid, a triterpenoid saponin, is considered the primary bioactive marker compound. Other triterpenoid saponins include pfaffosides A through F, with varying glycosylation patterns.
 
-Ecdysteroids are notably abundant, including 20-hydroxyecdysone (ecdysterone), which is one of the highest concentrations found in any plant species. These insect molting hormones have anabolic [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] in mammals at pharmacological doses.
+Ecdysteroids are notably abundant, including 20-hydroxyecdysone (ecdysterone), which is one of the highest concentrations found in any plant species. These insect molting hormones have anabolic [[ashwagandha]] in mammals at pharmacological doses.
 
 Additional compounds include allantoin (wound-healing promoter), stigmasterol, sitosterol, and various flavonoid glycosides. The [[permaculture-designers-manual-essential-oil-plants]] profile includes sesquiterpenes such as β-caryophyllene and germacrene D.
 

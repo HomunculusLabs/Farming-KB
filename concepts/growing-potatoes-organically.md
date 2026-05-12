@@ -87,3 +87,38 @@ Potatoes benefit from several companion planting relationships. Horseradish plan
 ## Harvesting Techniques
 
 Proper harvesting technique preserves tuber quality and reduces damage. Use a digging fork rather than a spade, inserting it at an angle about 12 inches from the plant base and levering upward to lift the root zone. Work from the outside of the row inward to avoid spearing tubers. Allow lifted potatoes to dry on the soil surface for a few hours to toughen the skin before handling, which reduces bruising and storage rot. Harvest on a dry day when the soil is not waterlogged — wet soil sticks to tubers and increases handling damage. Sort potatoes immediately after harvest, setting aside any damaged or diseased tubers for immediate use (never store damaged potatoes, as they will rot and contaminate the entire batch).
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[det]]
+- [[spore]]
+- [[companion-planting]]
+- [[query-how-to-grow-potatoes-organically]]
+- [[growing-alliums-organically]]

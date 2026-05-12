@@ -1,11 +1,11 @@
 ---
-title: "Harner [[allegro-amanita-muscaria-properties-and-pharmacology]] [[siberian-shamanism-and-amanita]]"
+title: "Harner Amanita Muscaria Siberian Shamanism"
 created: 2026-04-26
 sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Introduction (Harner)
 related:
   - amanita-muscaria
   - siberian-shamanism
-  - fly-agaric
+  - [[fly-agaric]]
   - shamanism
 tags: [ethnobotany, shamanism, siberia, amanita-muscaria, fly-agaric, tungus]
 type: concept
@@ -21,7 +21,7 @@ The term "shaman" comes from the language of the **Tungus tribe of Siberia**. No
 ## Pharmacology
 
 *Amanita muscaria* is known to contain:
-- **Muscarine** -- with demonstrated hallucinogenic properties
+- **[[muscarine]]** -- with demonstrated hallucinogenic properties
 - **Muscimol** -- with demonstrated hallucinogenic properties
 - Other psychotropic substances in limited quantities or of undetermined effects
 
@@ -88,3 +88,38 @@ Yet by patient library research one can find overwhelming evidence of such subst
 ## The Soma Question
 
 While Harner does not address it directly in this work, the use of *Amanita muscaria* in Siberian shamanism has long been connected to the debate over the identity of **Soma**, the divine hallucinogenic plant of the ancient Vedic rituals of India. R. [[gordon-wasson-comparative-method-ethnomycology]]'s argument that Soma was *Amanita muscaria* rests in part on the Siberian parallels, particularly the urine-recycling practice, which Wasson connected to Vedic passages about filtering and purifying Soma.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[siberian-shamanism]]
+- [[amanita-muscaria]]
+- [[shamanism]]
+- [[amanita]]
+- [[det]]

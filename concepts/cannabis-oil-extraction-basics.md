@@ -1,0 +1,138 @@
+---
+title: Cannabis Oil Extraction Basics
+source: ben-lemon-cannabis-alchemy.md
+type: concept
+---
+
+# [[cannabis-oil-extraction]] Basics
+
+Cannabis oil extraction is the foundational process in cannabis alchemy — the art and science of separating the essential oils of the cannabis plant (containing THC, related cannabinoids, chlorophyll, and aromatic compounds) from the inert cellulose plant matter. The resulting essential oil can be consumed directly, further purified, or chemically modified to increase potency and alter the character of the psychoactive effect.
+
+## Historical Context
+
+The public attitude toward cannabis has shifted dramatically since the first edition of *Cannabis Alchemy* was published in 1979. What was once a criminalized substance associated with revolutionary symbolism has become commonplace recreational and medicinal practice for millions. The pharmaceutical industry has actively researched THC and its analogs for therapeutic applications, including treatment of glaucoma and alleviation of chemotherapy side effects. Despite this, the scientific consensus on moderate cannabis use has not found the kind of overwhelming damaging effects that exist for tobacco and alcohol. The simple fact remains: cannabis is easy to grow anywhere, and the methods for extracting and refining THC are elementary chemical techniques — making regulation inherently difficult.
+
+## Overview of the Extraction Process
+
+The basic extraction method involves six sequential steps:
+
+1. **Preparing** the cannabis material (drying and crumbling)
+2. **Pulverizing** to the finest possible powder
+3. **Refluxing** (boiling) in solvent to dissolve essential oils
+4. **Soxhleting** — washing the spent material with clean solvent to recover remaining oil
+5. **Distilling off** the solvent from the oil
+6. **Purifying** the crude oil (optional but recommended for increased potency)
+
+## Step 1: Preparing the Cannabis Material
+
+### Marijuana
+
+- Seeds are removed prior to extraction
+- Remaining material is crumbled or broken; stems are cut short with scissors
+- Material is dried thoroughly using an oven preheated to 250°F (then turned off)
+- The marijuana is placed on a cookie sheet for fifteen-minute intervals until the loose leaf and flower parts crumble easily to powder between the palms
+- This intermittent heating prevents scorching the plant material
+
+### [[hashish]]
+
+- Hashish is heated for several minutes in an oven or frying pan at low heat until it begins to smoke slightly
+- It is then easily crumbled by hand, or ground to a fine powder in a mortar and pestle
+- **Important**: Powdered hashish exposed to air for long periods decreases in potency, so grinding is done just prior to extraction
+
+## Step 2: Pulverizing the Cannabis Material
+
+Reducing the material to the finest possible powder is critical for three reasons:
+
+1. **Ruptured cell walls** allow the oil to be extracted more readily and completely
+2. **Reduced volume** of starting material lessens the size of extraction apparatus needed
+3. **Less solvent required** for the extraction
+
+### Technique for Marijuana
+
+- Place material in a heavy-duty blender until one-third full
+- Use a slower speed to allow ground material to fall into the blades while flowing up the sides
+- If necessary, agitate with a wooden stick while the blender is **not** running — stirring while the blender operates is dangerous, as the stick can be ejected with great force
+- Chop stems separately and mix the powdered material before proceeding
+
+### Technique for Hashish
+
+- Small amounts can be ground in a blender (larger amounts strain the motor)
+- Pressed hashish may be shredded with a cheese grater prior to blending
+
+## Step 3: Refluxing
+
+Refluxing (boiling) in a solvent is the core extraction step. The essential oil dissolves in the solvent while the cellulose parts of the herb do not. The leached marijuana is removed by straining, and the solvent is evaporated, leaving the essential oil as residue.
+
+### Why Refluxing Is Necessary
+
+It is very dangerous to boil solvents directly — the fumes and liquid are highly flammable. Specialized apparatus is required to perform the operation safely. The reflux apparatus uses an ice-cooled condenser to capture solvent fumes and return them as liquid to the boiling vessel, preventing both explosion risk and toxic fume release.
+
+### Refluxing Apparatus Components
+
+| Item | Description |
+|------|-------------|
+| Small stainless-steel pot | Holds powdered cannabis and solvent; not over two-thirds full when covered with half-again its volume of solvent |
+| Large stew pot with lid | At least 50% wider and twice as deep as the small pot; both must have flat bottoms |
+| Large deep tub | For boiling water; at least twice as wide as the stew pot |
+| Heavy-duty electric hotplate | With two burners |
+| One-inch hemp or manila rope | Several yards, placed in the tub bottom |
+| Thick polyethylene trash bags | 3-mil thickness preferred |
+| Inner-tube rubber bands | Cut to one-inch-wide bands fitting tightly around the stew pot |
+
+### Assembly and Operation
+
+1. The large tub is placed on the hotplate
+2. Rope is placed in the tub bottom to keep the stew pot from resting directly on the tub
+3. The small stainless-steel pot (containing cannabis and solvent) is placed inside the stew pot
+4. The stew pot lid is placed **inverted** (upside down)
+5. A plastic trash bag is cut and placed over the inverted lid, extending halfway down the sides
+6. The unit is sealed with inner-tube rubber bands positioned several inches down the side, allowing slack in the plastic
+7. Trapped air is forced out by loosening the rubber bands and flattening the bag
+8. As much ice as possible is piled on the plastic covering the inverted lid
+9. The tub is filled half-full of water and brought to a boil (~212°F)
+
+### How Refluxing Works
+
+- The boiling water heats the inner pot to approximately 212°F but not above
+- The solvent in the inner pot boils; fumes rise and contact the ice-cooled inverted lid
+- Fumes condense to liquid, relieving pressure, and drop back into the inner pot
+- No danger of explosion or toxic fumes escaping
+- The inner pot must be smaller than the stew pot so the condensing surface area (the ice-cooled lid) is **larger** than the surface area of the boiling solution
+
+### Safety Features of the Plastic Seal
+
+- The reaction is completely sealed from the atmosphere, preventing fumes from escaping or igniting
+- A rigid seal (like a pressure cooker lid) is **not** used — the plastic allows pressure buildup to inflate the bag, notifying the chemist and causing ice to fall into the boiling water bath, which cools the rig and reduces pressure
+- Refluxing is continued for **three to four hours**; most essential oils are dissolved by this point
+
+## Solvent Selection
+
+The choice of solvent significantly impacts yield, potency, safety, and the character of the final product.
+
+### M[[ethanol]] (Methyl Alcohol / Wood Alcohol)
+
+- **Boiling point**: 64°C (~190°F)
+- **Availability**: Pharmacies, industrial chemical suppliers, paint thinner (often impure)
+- **Advantages**: Common, effective, uniform evaporation temperature, does not extract many water-soluble (non-psychoactive) tars
+- **Disadvantages**: Fumes are toxic and explosive; inhalation causes body aches; continued inhalation may cause permanent damage; any residual solvent in the oil is hazardous to the consumer
+- **Verdict**: Does a fine job if used correctly, but toxicity is a significant concern
+
+### Isopropyl Rubbing Alcohol (70% isopropyl / 30% water)
+
+- **Advantages**: Widely available, inexpensive, much less toxic and explosive than [[methanol]]
+- **Disadvantages**: Water content extracts many water-soluble, non-psychoactive substances; oil yield is approximately **twice** that of methanol but proportionally less potent; water-soluble tars give undesirable taste and burning qualities; water remaining after alcohol evaporation takes a long time to remove
+- **Best use**: When the oil will be re-extracted later with a more selective solvent — the quality at this stage matters little
+
+### Ethanol (Ethyl Alcohol / Pure Grain Alcohol)
+
+- **Boiling point**: 78.5°C
+- **Advantages**: Extraction properties very similar to methanol but not as toxic
+- **Disadvantages**: Very difficult to obtain (heavily taxed as liquor); denatured ethanol contains non-removable poisons that evaporate at the same temperature
+- **Verdict**: Very desirable solvent if pure ethanol can be obtained
+
+### Petroleum Ether
+
+- **Boiling point**: 30–60°C
+- **Advantages**: Much more selective than any alcohol; produces oil approximately **twice as potent by weight** as alcohol-extracted oil
+- **Disadvantages**: Highly explosive; usually only available through chemical supply companies
+- **Best use**: Not for direct extraction (too dangerous with large volumes); instead, used for **re-extraction** of alcohol-extracted oil, requiring much smaller quantities of the dangerous solvent

@@ -76,7 +76,7 @@ open and architecturally diverse structures:
 
 - **[[basidiomycota-classification-major-clades]]
 - [[fungal-spore-dispersal]]
-- [[Cordyceps]]
+- [[cordyceps-cultivation]]
 
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.

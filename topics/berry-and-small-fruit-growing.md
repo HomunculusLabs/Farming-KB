@@ -99,7 +99,7 @@ become effective. Incorporating two to four inches of compost into planting beds
 improves both fertility and soil structure. For blueberries, elemental sulfur
 or peat moss should be worked into the soil to lower pH, keeping in mind that
 sulfur applications may require three to six months to achieve the desired
-effect. A cover crop of [[compost]] or buckwheat planted the season before
+effect. A cover crop of [[mushroom-compost]] or buckwheat planted the season before
 berry establishment helps suppress weeds and add organic matter. After planting,
 a thick mulch of three to six inches of wood chips, straw, or pine needles
 conserves moisture, suppresses weed competition, and slowly releases nutrients

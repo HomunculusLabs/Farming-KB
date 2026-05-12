@@ -133,6 +133,6 @@ favorable to a diverse and beneficial root-associated microbial community.
 ## See Also
 
 [[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
-[[Endorhiza]]
+[[endorhiza-microbiome]]
 [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
 [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]

@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-training-straw-mushroom-cultivation]]
+title: Straw Mushroom Cultivation
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, volvariella, straw-mushroom, tropical-mushroom]
@@ -71,6 +71,12 @@ Straw mushroom cultivation is covered in the FAO training manual as an alternati
 
 - Volvariella volvacea
 - [[mushroom-substrate-bags]]
-- [[mushroom-house-construction]]
+- [[mushroom-house-construction-design]]
 - Mushroom Inoculation
 - Mushroom Harvesting
+
+## Management Notes
+
+The very short crop cycle is both the main advantage and the main challenge of straw mushroom cultivation. Mistakes in moisture, temperature, or spawn distribution show up quickly, leaving little time for correction. Farmers therefore benefit from rehearsed routines: soak and drain straw consistently, build beds evenly, cover promptly, and check temperature and humidity at least daily during the first week.
+
+Because the crop favors high heat, it complements rather than replaces cooler-climate species. A farm that already uses [[mushroom-substrate-bags]] for oyster mushrooms may treat straw mushrooms as a warm-season or tropical-zone product with different infrastructure needs. The bed system is simpler than laboratory work, but it still depends on good spawn, sanitation, and timely harvest.

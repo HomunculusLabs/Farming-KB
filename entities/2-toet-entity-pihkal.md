@@ -53,7 +53,7 @@ alone.
 The 2-carbon analogue, 2C-2-TOET, was made from the same aldehyde
 intermediate. The appropriate nitrostyrene came smoothly from the
 aldehyde and nitromethane, and gave glistening pumpkin-orange crystals
-from methanol, that melted at 93-94 deg C. Anal. (C12H15NO3S) C,H. The
+from [[methanol]], that melted at 93-94 deg C. Anal. (C12H15NO3S) C,H. The
 final phenethylamine hydrochloride salt was prepared from its
 reduction with aluminum hydride in THF, and was isolated in the usual
 manner. It was a white crystalline mass that melted at 226-227 deg C.
@@ -82,7 +82,7 @@ mechanical stirring, which produced a mass of pale pink solids. These
 were removed by filtration, washed well with H2O, and air dried to
 give about 27 g of 3-ethyl-4-methoxybenzenesulfonyl chloride as an
 off-white solid that retained some H2O. A sample recrystallized from
-cyclohexane had a mp of 44-46 deg C. A sample treated with ammonium
+[[cyclohexane]] had a mp of 44-46 deg C. A sample treated with ammonium
 hydroxide provided white crystals of
 3-ethyl-4-methoxybenzenesulfonamide which could be recrystallized from
 H2O to give tufts of crystals with a mp of 97-98 deg C. Anal.

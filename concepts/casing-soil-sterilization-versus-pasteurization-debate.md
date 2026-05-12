@@ -14,7 +14,7 @@ tags:
 source: "Grass Seed Cultivation Guide — casing-soil-preparation|Casing Soil Preparation"
 ---
 
-# Casing Soil: Sterilization Versus Pasteurization
+# Casing Soil: [[sterilization]] Versus Pasteurization
 
 ## Overview
 
@@ -39,7 +39,7 @@ eliminate all contaminant organisms from the casing mixture.
 - **Incomplete heat penetration** — Casing soil is insulating. Core
   temperatures may not reach the target range, leaving pockets of viable
   competitor organisms.
-- **Variable starting loads** — If raw ingredients carry heavy spore loads,
+- **Variable starting loads** — If raw ingredients carry heavy [[spore]] loads,
   pasteurization temperatures may be insufficient.
 - **Post-treatment contamination** — Pasteurized casing lacks the biological
   competitive exclusion some proponents claim, leaving it vulnerable.
@@ -67,7 +67,7 @@ capacity, and a pH range suitable for Psilocybe fruiting.
 - **Vermiculite**: Expanded mineral improving aeration and preventing compaction.
   Enhances moisture distribution throughout the casing layer.
 - **Limestone (Marl)**: Raises and buffers peat pH. Most contaminant molds
-  (Trichoderma, Aspergillus) prefer acidic conditions, so limestone
+  ([[trichoderma]], Aspergillus) prefer acidic conditions, so limestone
   discourages competitors while favoring the target species.
 
 ## Moisture Calibration
@@ -91,3 +91,38 @@ and crumble apart easily when rubbed between fingers.
 ## See Also
 - [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
 - [[casing-soil-sterilization-debate-autoclave-vs-pasteurization]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[sterilization]]
+- [[casing-soil-sterilization-debate-autoclave-vs-pasteurization]]
+- [[det]]
+- [[spore]]

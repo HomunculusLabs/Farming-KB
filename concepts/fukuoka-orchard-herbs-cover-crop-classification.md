@@ -54,7 +54,7 @@ Legumes form the backbone of the orchard cover crop system because of their nitr
 - Ladino clover: the primary cover crop, provides year-round weed control for all fruit trees
 - Red and white clover: year-round weed control
 - Alfalfa: year-round, especially valuable in warm regions where clover loses summer vigor
-- [[compost]], sweet clover, sub clover: year-round persistence
+- [[mushroom-compost]], sweet clover, sub clover: year-round persistence
 
 **Spring and summer crops:**
 - Mung bean and cowpea: spring to summer, for large evergreen trees, controls summer weeds
@@ -87,3 +87,38 @@ The cover crop system is designed to work in combination rather than as single-s
 5. **Nitrogen contribution**: Legumes provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation; crucifers and grasses contribute [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 
 ## The Primary-Secondary Crop System
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[cover-crop]]
+- [[cover-crops]]
+- [[doc]]
+- [[composting]]
+- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]

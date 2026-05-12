@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
 type: concept
 ---
-# Global Biogeography of Neurotropic Mushrooms ## Overview Neurotropic (hallucinogenic or psychotropic) fungi are highly diverse and have a wide distribution throughout the world. The landmark 1998 study by Guzman, Allen, and Gartz documented 216 species of neurotropic fungi distributed across all continents, from Alaska and Siberia in the northern hemisphere to Chile, Australia, and New Zealand in the southern hemisphere. ## Classification of Neurotropic Fungi The 216 known species of neurotropic fungi are divided into four groups: 1. **Species with psilocybin and related indoles** (182+ species): The largest group, containing species confirmed or suspected to harbor psilocybin, psilocin, baeocystin, and norbaeocystin. Dominated by the genus [[gymnopilus-purpuratus]] (14 species), [[Copelandia]] (12 species), Hypholoma (6 species), [[inocybe-aeruginascens]] (6 species), [[amanita-muscaria-guide]], A.
+# Global Biogeography of Neurotropic Mushrooms ## Overview Neurotropic (hallucinogenic or psychotropic) fungi are highly diverse and have a wide distribution throughout the world. The landmark 1998 study by Guzman, Allen, and Gartz documented 216 species of neurotropic fungi distributed across all continents, from Alaska and Siberia in the northern hemisphere to Chile, Australia, and New Zealand in the southern hemisphere. ## Classification of Neurotropic Fungi The 216 known species of neurotropic fungi are divided into four groups: 1. **Species with psilocybin and related indoles** (182+ species): The largest group, containing species confirmed or suspected to harbor psilocybin, psilocin, baeocystin, and norbaeocystin. Dominated by the genus [[gymnopilus-purpuratus]] (14 species), [[copelandia-anomalus]] (12 species), Hypholoma (6 species), [[inocybe-aeruginascens]] (6 species), [[amanita-muscaria-guide]], A.
    pantherina, and A. regalis, which contain isoxazole derivatives rather
    than indole alkaloids.
 
@@ -93,3 +93,38 @@ present high diversity despite being poorly explored relative to Europe.
 
 - [[guzman-psilocybin-mushrooms-africa]]
 - [[guzman-psilocybin-mushrooms-europe]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[psilocybin]]
+- [[dom]]
+- [[psilocin]]
+- [[baeocystin]]

@@ -34,7 +34,7 @@ Quinine remains clinically significant today, particularly for treating *Plasmod
 - **Structure type:** Quinoline alkaloid with a quinuclidine ring system
 - **Appearance:** White to colorless, crystalline, needle-like powder with an intensely bitter taste
 - **Melting point:** 177 °C (decomposes)
-- **Solubility:** Slightly soluble in water (0.5 g/L at 25 °C); soluble in ethanol, chloroform, and dilute acids
+- **Solubility:** Slightly soluble in water (0.5 g/L at 25 °C); soluble in [[ethanol]], chloroform, and dilute acids
 - **pKa:** 4.2 (quinoline nitrogen), 8.5 (quinuclidine nitrogen)
 - **CAS number:** 130-95-0
 - **Optical rotation:** [α]D²⁰ = −168° (in ethanol)

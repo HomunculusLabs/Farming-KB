@@ -1,5 +1,5 @@
 ---
-title: [[amazonian-sorcery-illness-and-curing-practices]] Types
+title: "Amazonian Sorcery Types"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---

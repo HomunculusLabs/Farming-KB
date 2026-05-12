@@ -33,7 +33,7 @@ Psoralen (C₁₁H₆O₃) is the parent compound of the furanocoumarin class, a
 - **CAS number:** 66-97-7
 - **Appearance:** Colorless to pale yellow crystalline solid
 - **Melting point:** 159–162°C
-- **Solubility:** Slightly soluble in water; soluble in ethanol, DMSO, chloroform,
+- **Solubility:** Slightly soluble in water; soluble in [[ethanol]], DMSO, chloroform,
   and hot acetic acid
 - **Structure:** Fused tricyclic system consisting of a furan ring attached to a
   coumarin (benzopyrone) core at the 6,7-positions

@@ -1,5 +1,5 @@
 ---
-title: Allegro [[sacred-mushroom-and-the-cross]] Cross Introduction to Fertility Cults
+title: "Allegro Sacred Mushroom and the Cross Introduction Fertility Cults"
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

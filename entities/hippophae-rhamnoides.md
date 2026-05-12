@@ -20,7 +20,7 @@ sources:
 
 Hippophae rhamnoides, commonly known as sea buckthorn, is a deciduous wind-pollinated shrub in the family Elaeagnaceae. Native to Eurasia, it ranges from the Atlantic coasts of Europe across Central Asia to the Himalayas and northern China. The species is renowned for its exceptionally nutrient-dense orange berries and nitrogen-fixing root system.
 
-Sea buckthorn is a pioneer species colonizing sandy, stony, and saline substrates along coastlines, riverbanks, and mountain slopes. It plays a critical role in [[soil-erosion-control-and-landscape-restoration]] soil stabilization across its native range. The berries contain one of the highest concentrations of vitamin C found in any fruit.
+Sea buckthorn is a pioneer species colonizing sandy, stony, and saline substrates along coastlines, riverbanks, and mountain slopes. It plays a critical role in [[soil-erosion-control]] soil stabilization across its native range. The berries contain one of the highest concentrations of vitamin C found in any fruit.
 
 The plant is dioecious, with separate male and female individuals. It has been cultivated for centuries in Central Asia, the Himalayas, and Siberia for food, medicine, and animal fodder. Commercial cultivation has expanded globally since the 1990s.
 

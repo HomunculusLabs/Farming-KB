@@ -60,7 +60,7 @@ In practice, the activity of 2C-G-N was "already on the wane" and the action "to
 
 ## Synthesis
 
-The synthesis begins with 1,4-naphthaquinone, which is reduced with stannous chloride in methanol under HCl gas to give 1,4-naphthohydroquinone.
+The synthesis begins with 1,4-naphthaquinone, which is reduced with stannous chloride in [[methanol]] under HCl gas to give 1,4-naphthohydroquinone.
 
 Methylation with HCl and NaOH in methanol yields 1,4-dimethoxynaphthalene, which crystallizes as white needles melting at 87-88 degrees Celsius.
 

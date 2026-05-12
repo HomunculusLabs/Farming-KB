@@ -64,7 +64,7 @@ As a weed, A. aspera is difficult to control due to its persistent seed bank and
 
 The roots contain triterpenoid saponins as the major bioactive constituents, including achyranthosides A–F and betaine. Alkaloids, including achyranthine and betacyanine, have been isolated from various plant parts.
 
-The seeds are rich in ecdysteroids, particularly 20-hydroxyecdysone, a phytoecdysteroid with anabolic [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]. Concentrations of 0.5–2.0% have been reported in dried seed material.
+The seeds are rich in ecdysteroids, particularly 20-hydroxyecdysone, a phytoecdysteroid with anabolic [[ashwagandha]]. Concentrations of 0.5–2.0% have been reported in dried seed material.
 
 Pharmacological studies have demonstrated anti-inflammatory activity in carrageenan-induced paw edema models. Hepatoprotective effects have been documented against carbon tetrachloride and paracetamol-induced liver damage in rodent models.
 

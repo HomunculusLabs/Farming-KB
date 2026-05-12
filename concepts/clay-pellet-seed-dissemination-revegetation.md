@@ -145,4 +145,4 @@ concept influenced the "[[guerilla-gardening-guide]]" movement, where seed balls
 to establish plants in urban wastelands and neglected areas. Organizations in
 Africa, India, and the Middle East have experimented with [[clay-seed-pellet-composition-and-aerial-seeding-method]] using
 clay pellets, and the technique remains a staple of permaculture and
-[[biochar-in-regenerative-agriculture]] practice.
+[[biochar]] practice.

@@ -36,3 +36,61 @@ Piripiri species are excellent candidates for ethnobotanical cultivation. Cyperu
 - Chacruna ([[chacruna-psychotria-viridis]]) — fellow [[ayahuasca-additive-plants-and-dmt-synergy]]
 - Toe (Brugmansia sp.) — fellow Shipibo healing plant
 - Icaro — each piripiri variety has its own icaro
+
+## Varieties and Naming
+
+- Piripiri is a practical name for multiple sedges rather than a single settled species.
+- The genus Cyperus contains many similar wetland plants.
+- Amazonian specialists distinguish varieties by use, spirit, and icaro.
+- This makes piripiri a good example of Indigenous functional taxonomy.
+- A plant may be grouped by what it does rather than by floral morphology.
+- Blood piripiri, horse piripiri, and other named forms indicate different powers.
+- [[eleutherine-bulbosa]] is linked to yahuar-piripiri in the existing note.
+- That link suggests overlap between botanical identity and ritual category.
+- Care is needed before assuming all piripiri references are the same species.
+
+## Preparation and Restrictions
+
+- The caballo piripiri preparation is especially strict.
+- It is mixed with huito or jagua and applied to the whole body.
+- The black staining of the skin marks the treatment period visibly.
+- Avoidance of sun, salt, sweets, garlic, alcohol, pork fat, sex, and sexual contact creates a controlled regimen.
+- Such restrictions are common in Amazonian plant diets.
+- They protect the patient, focus intention, and separate the treatment from ordinary life.
+- The restrictions also warn that the plant is considered powerful.
+- A casual use would be inappropriate in the source tradition.
+- The practice should be compared with [[ayahuasca-additive-plants-and-dmt-synergy]] because both involve plant combinations and altered effects.
+
+## Healing and Magical Functions
+
+- Piripiri can be used for strength, protection, attraction, healing, or sorcery depending on variety.
+- In Amaringo's material, the plant is embedded in a world of songs and spirits.
+- The icaro is not an ornament added to the medicine.
+- It is part of how the medicine is activated and directed.
+- The yahuar-piripiri association with malaire shows its role in treating invisible illness.
+- Malaire is not simply a biomedical diagnosis; it is an illness of wind, place, and spiritual exposure.
+- The plant therefore mediates between body symptoms and cosmological cause.
+- Its use by Shipibo healers places it near [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]].
+- That broader concept links piripiri to sacha-huarmi and other plant teachers.
+
+## Cultivation Notes
+
+- Many Cyperus species prefer wet or seasonally moist soils.
+- They may be propagated by division when clumps are established.
+- Seed propagation may be possible but can be taxonomically uncertain.
+- Cultivators should avoid collecting unidentified sedges without local guidance.
+- Wetland cultivation can spread rhizomatous species quickly.
+- Containers or managed beds may be appropriate for living collections.
+- The plant's ethnobotanical value depends on correct identification and correct use.
+- A specimen grown without its cultural knowledge is incomplete as medicine.
+- Documentation should include local name, healer use, habitat, preparation, and restrictions.
+
+## Research Cautions
+
+- Piripiri should not be generalized as a safe supplement.
+- The dietary prohibitions imply potential potency or interaction risk.
+- Topical preparations with Genipa americana may alter skin absorption.
+- Pharmacological study should distinguish sedge material from companion plants.
+- Reports should also distinguish ritual effect, placebo response, and direct biochemical action.
+- The strongest reading is integrative rather than reductive.
+- Piripiri is a plant complex, a set of songs, and a disciplined treatment context.

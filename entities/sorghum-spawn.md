@@ -76,3 +76,11 @@ Self-produced spawn significantly reduces costs compared to purchasing commercia
 - Mushroom Substrate Bags
 - [[mushroom-pasteurization]]
 - Mushroom Inoculation
+
+## Quality Control
+
+Good sorghum spawn should colonize evenly, break apart without becoming wet paste, and recover quickly after shaking.
+Any sour smell, green mold, black spots, bacterial slime, or uncolonized wet grain is a warning sign.
+Because spawn multiplies into many substrate bags, a small contamination problem at this stage can become a large crop failure.
+Careful labeling by strain, date, and batch helps growers compare performance and avoid using old or suspect spawn.
+For training programs, these checks are practical skills as important as the laboratory steps themselves.

@@ -35,3 +35,50 @@ Marupa sorcery's use of actual venomous species as magical templates reflects de
 - Huani sorcery — the incurable crystal arrow sorcery
 - Mariri — magical phlegm storing the marupa animals
 - Cocama — indigenous group associated with marupa sorcery
+
+## Operational Sequence
+
+Marupa sorcery is described as a planned sequence rather than a spontaneous curse.
+First, the sorcerer selects or cultivates the animal form within the [[mariri]].
+Second, the attack is rehearsed or confirmed in visionary perception.
+Third, the victim is influenced to enter the place where the animal form can strike.
+Finally, the curandero must diagnose the pattern in the patient's visionary field and remove or neutralize the sent being.
+This sequence makes marupa a practical category of harm with recognizable signs, not simply a generic label for evil magic.
+
+## Diagnostic Importance
+
+The distinction between marupa, chonta, and huani sorcery matters because each implies a different prognosis.
+Marupa damage can be treated by a skilled vegetalista, while huani is described as much more dangerous or incurable.
+The larger-wave light pattern is therefore a diagnostic clue that guides treatment decisions during ayahuasca work.
+Such visual diagnostics connect marupa sorcery to [[amaringo-ayahuasca-visions-shipibo-iconography]], where patterned light is part of the clinical language of vision.
+The system also shows how toxicology, animal knowledge, and spiritual interpretation are integrated.
+
+## Relation to Plant Weapons
+
+Although marupa focuses on animals, it overlaps with plant-based weapons because darts, spines, and venoms often operate together in Amazonian thought.
+The spines of [[huiririma]] provide one example of a plant material that can be imagined as a virote.
+The animal list also preserves local ecological expertise: each creature has a habitat, behavior, and symptom profile.
+For researchers, the page is useful as a reminder that "sorcery" categories may encode empirical observations about bites, stings, toxins, and fear responses.
+For practitioners in the tradition, however, the decisive factor is not only the animal but the intention and mariri of the sender.
+
+## See Also
+
+- [[icaro]] — sonic technique used for diagnosis, defense, and treatment
+- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] — broader practitioner hierarchy
+- [[ayahuasca-ceremony-and-mariri-system]] — related account of mariri as a shamanic substance
+
+## Treatment Frame
+
+Treatment generally requires seeing the attacking form clearly before attempting removal.
+The healer may sing protective icaros, strengthen the patient's body, and call allies capable of extracting the animal influence.
+Because the attack is intentional, treatment also includes defense against the sender, not only relief of symptoms.
+This makes marupa cases socially complex: the illness points to relationships, rivalries, and hidden aggression.
+The curandero must therefore manage fear and accusation as well as visionary extraction.
+The category is best understood as a combined medical, moral, and social diagnosis.
+
+## Boundary with Natural Envenomation
+
+The animal taxonomy keeps marupa close to ordinary forest danger.
+Snakebite, scorpion sting, bat contact, and ray injury are all real risks in Amazonian environments.
+Marupa sorcery reinterprets those risks as spiritually directed when the timing or symptoms suggest hostile agency.
+That boundary between natural accident and sent attack is one of the main diagnostic problems for vegetalistas.

@@ -55,3 +55,51 @@ Eucalyptus marginata, commonly known as **jarrah**, is a large evergreen tree na
 - [[faires-beekeeping-and-honey-production]] (page 92)
 - Construction timber (pages 93, 96, 116)
 - Furniture making (pages 93, 95)
+
+## Silvicultural Context
+
+Jarrah is best understood as a long-lived forest tree rather than a quick plantation crop.
+
+Its value comes from density, durability, and the slow development of high-quality heartwood.
+
+In Western Australian landscapes it forms extensive forest communities on lateritic soils.
+
+Those soils are often gravelly, nutrient-poor, and seasonally dry, selecting for deep roots and conservative growth.
+
+The same adaptations make jarrah useful in restoration where soil stability and long-term canopy structure matter.
+
+However, its sensitivity to jarrah dieback means planting must be paired with hygiene and site assessment.
+
+Phytophthora pressure can turn an otherwise appropriate site into a major risk.
+
+## Design Uses
+
+In a permaculture design, jarrah is a structural species for large properties, shelterbelts, woodlots, and wildlife corridors.
+
+It is not suitable for small urban gardens where height, root spread, and fire behavior would create conflicts.
+
+Where appropriate, it can provide durable timber, bee forage, habitat complexity, and long-term carbon storage.
+
+Its nectar value links the tree to [[faires-beekeeping-and-honey-production]] and broader pollinator planning.
+
+Its forest role links it to [[hemenway-backyard-wildlife-habitat]] and [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
+
+Its stabilizing root system makes it relevant to [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], though at a much larger time scale.
+
+## Management Considerations
+
+- Plant only where mature canopy size is acceptable.
+- Avoid poorly drained sites despite the tree's drought tolerance.
+- Protect young trees from browsing and competition until roots establish.
+- Consider local provenance seed for ecological restoration plantings.
+- Maintain sanitation to reduce spread of *Phytophthora cinnamomi*.
+- Plan harvest rotations in decades rather than years.
+- Use prunings and thinnings carefully in fire-prone landscapes.
+
+## Research Questions
+
+- Which mycorrhizal partners are most important for jarrah establishment on degraded laterite?
+- How does jarrah honey chemistry differ from other eucalyptus honeys?
+- Can mixed plantings reduce dieback risk compared with monoculture stands?
+- What spacing balances timber quality with habitat value?
+- How do jarrah litter compounds influence fungal decomposition and soil acidity?

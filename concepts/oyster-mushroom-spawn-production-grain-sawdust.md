@@ -18,7 +18,7 @@ reduced yields regardless of how well the [[cannabis-growing-environment-setup]]
 ### Grain Spawn
 The most common form for oyster [[accessible-mushroom-cultivation-for-disabilities]]. Grain kernels — typically
 wheat, rye, millet, or sorghum — are cooked, sterilized, and inoculated with
-mycelium. Each kernel becomes a discrete inoculation point, allowing rapid and
+mycelium. Each kernel becomes a discrete [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]], allowing rapid and
 even colonization of the production substrate.
 
 Grain spawn advantages include fast colonization speed, high number of inoculation
@@ -38,14 +38,14 @@ colonization but potentially stronger [[fungal-mycelial-networks-nutrient-transl
 ### Liquid Spawn
 An emerging technology where mycelium is grown in liquid nutrient medium and then
 injected into substrate. Offers extremely fast colonization and easy automation.
-However, it requires more sophisticated equipment and quality control. The handbook
+However, it requires more sophisticated equipment and [[blesching-cannabis-contaminants-testing-quality-control]]. The handbook
 notes liquid spawn is gaining popularity in commercial operations.
 
 ## Spawn Production Process
 
 ### Stock Culture Maintenance
 The process begins with a pure culture of the desired strain, typically maintained
-on agar slants or plates in a laboratory. Strain selection is critical — different
+on agar slants or plates in a laboratory. [[blesching-cannabis-strain-selection-receptor-targeting]] is critical — different
 strains of the same species can vary dramatically in yield, speed, temperature
 tolerance, and fruiting quality. The handbook recommends periodic subculturing
 every 3-6 months and cryopreservation for long-term storage.
@@ -64,7 +64,7 @@ accumulation of contaminants. Each successive generation introduces risk.
 
 ### Sterilization Requirements
 Grain spawn requires sterilization at 121°C (15 psi) for 60-90 minutes in an
-autoclave or pressure cooker. Insufficient sterilization is the most common cause
+autoclave or [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]. Insufficient sterilization is the most common cause
 of spawn contamination. Sawdust spawn may require 90-120 minutes due to the insulating
 properties of sawdust. Cooling must occur in a clean environment to prevent
 contamination during handling.
@@ -82,7 +82,7 @@ rapid, complete colonization before contaminants can establish.
 
 ## Spawn Quality Indicators
 
-Good spawn appears uniformly white with vigorous mycelial growth, has a pleasant
+Good spawn appears uniformly white with vigorous [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], has a pleasant
 mushroomy smell, and shows no discoloration, sliminess, or off-odors. Contaminated
 spawn may show green (Trichoderma), black, or pink patches. The handbook recommends
  growers always test a small batch before committing to full production runs.

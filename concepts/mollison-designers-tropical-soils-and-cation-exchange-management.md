@@ -23,7 +23,7 @@ as Indonesia, soils are old (not renewed by glaciation) and
 deeply leached. Understanding the chemistry of
 mollison-green-manure-soil-fertility in humid tropical
 [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
-- [[perennial-vegetables-and-edible-perennial-crops]] rather than annuals
+- [[perennial-vegetables]] rather than annuals
 - Any cultivation loses humus as [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], so
   intercropping is essential to maintain soil cover
 

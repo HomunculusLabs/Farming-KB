@@ -63,7 +63,7 @@ should be applied within four to six hours of brewing to ensure maximum microbia
 | [[cervantes-nutrient-mobility-deficiency-diagnosis]] Limit | Immobile nutrients stay at deposition site | Not applicable, biological action |
 | Disease Protection | Indirect, via healthier plants | Direct competitive exclusion and antibiotics |
 | Application Frequency | As needed for diagnosed deficiencies | Weekly during active growing season |
-| Cost per Application | Low, just nutrient solutions | Moderate, requires compost and [[circadian-rhythm-in-plants]] |
+| Cost per Application | Low, just nutrient solutions | Moderate, requires compost and [[chamovitz-circadian-rhythm-internal-clock-plants]] |
 | Soil Benefits | None when applied strictly as foliar spray | Also improves soil biology when used as drench |
 | Risk of Plant Damage | Leaf burn if over-applied or in hot sun | Minimal if properly brewed and applied |
 | Duration of Effect | Short-term, nutrients metabolized quickly | Longer-term, microbes establish persistent colonies |

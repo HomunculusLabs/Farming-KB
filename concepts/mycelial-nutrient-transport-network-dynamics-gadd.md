@@ -9,7 +9,7 @@ tags: [mycelium, nutrient transport, fungal networks, basidiomycetes, translocat
 ## Overview
 
 Basidiomycetes are the major agents of decomposition and nutrient
-cycling in forest ecosystems, occurring as both saprotrophs and
+cycling in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], occurring as both saprotrophs and
 mycorrhizal symbionts. Their mycelium can scavenge and sequester
 nutrients from soil, concentrate nutrients from decomposing organic
 matter, relocate nutrients between different organic resources, and
@@ -57,10 +57,10 @@ resource patches while efficiently moving materials between them.
 
 ## Vacuolar Transport at the Micrometre Scale
 
-The precise mechanisms underlying nutrient translocation in fungi are
+The precise mechanisms underlying [[fungal-vacuolar-system-nutrient-translocation]] in fungi are
 not yet fully known but are thought to include mass flow, diffusion,
 generalized cytoplasmic streaming, and specific vesicular transport. The
-highly dynamic pleiomorphic vacuolar system present in filamentous fungi
+highly dynamic pleiomorphic vacuolar system present [[conidia-and-asexual-reproduction-in-filamentous-fungi]]
 may play a major role in long-distance translocation over millimetres or
 centimetres.
 
@@ -86,5 +86,5 @@ capacity.
 
 At the millimetre to centimetre scale, researchers have developed non-
 invasive techniques using photon-counting scintillation imaging (PCSI)
-to track movement of radiolabelled compounds through mycelial networks.
+to track movement of radiolabelled compounds through [[mycelial-networks]].
 Using the non-metabolized amino acid analogue a-amino-isobutyrate

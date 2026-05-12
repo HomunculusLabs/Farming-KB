@@ -87,3 +87,38 @@ Several countries addressed this through specific legislation:
 - **Denmark (2001):** Explicitly listed mushrooms or spores containing psilocybin as [[controlled-substances-act-and-psychedelic-research]], regardless of whether grown, dried, or processed.
 - **UK (2005):** Criminalized fresh mushrooms by classifying them as preparations containing psilocybin, closing a loophole that had allowed the sale of fresh mushrooms in markets and shops.
 - **Netherlands (2002):** The Dutch Supreme Court ruled that dried or processed mushrooms were controlled, though fresh mushrooms remained in a legal gray area until later legislation.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[psilocybin-mushroom]]
+- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
+- [[doc]]
+- [[psilocybe-moravica]]
+- [[psilocybin]]

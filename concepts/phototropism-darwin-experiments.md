@@ -9,7 +9,7 @@ created: 2026-05-09
 
 In 1880, Charles Darwin and his son Francis published a landmark finding
 in plant biology: they demonstrated that plants possess a form of sight.
-Their experiments on phototropism — the tendency of plants to grow
+Their experiments on [[phototropism]] — the tendency of plants to grow
 toward light — revealed that plants can detect the direction of light
 and coordinate a physical response, even though they lack anything
 resembling an eye or a brain. These experiments, described in Darwin's

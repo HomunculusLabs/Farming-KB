@@ -12,7 +12,7 @@ tags: [gardening, seedlings, transplants, garden-center, hardening-off, pot-boun
 Garden centers present multiple traps for the unwary vegetable gardener. The
 typical spring scenario involves buying armloads of expensive seedlings and a
 few seed packets, only to experience widespread transplant failure, wasted
-money, and disappointing harvests. [[steve-solomon-evidence-based-organic-gardening]] identifies several critical
+money, and disappointing harvests. [[steve-solomon]] identifies several critical
 errors that gardeners routinely make when purchasing seedlings, and explains
 why growing from seed is usually the superior approach.
 

@@ -1,9 +1,9 @@
 ---
-title: Darwins Five-Condition [[darwin-five-condition-phototropism-experiment-canary-grass]] and the Discovery of Plant Vision
+title: Darwin's Five-Condition Phototropism Experiment and Plant Vision
 created: 2026-05-11
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [darwin, phototropism, phototropism, plant-vision, canary-grass, seedling-tip, light-perception]
-aliases: [[[darwin-phototropism-discovery-plant-light-perception]] Five Conditions, Canary Grass Light Sensing Experiment]
+aliases: [[darwin-phototropism-discovery-plant-light-perception]] Five Conditions, Canary Grass Light Sensing Experiment]
 ---
 
 # Darwin's Five-Condition Phototropism Experiment and the Discovery of Plant Vision

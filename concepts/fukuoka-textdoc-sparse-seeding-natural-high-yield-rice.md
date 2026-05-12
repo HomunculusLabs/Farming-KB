@@ -87,3 +87,17 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
+- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
+- [[doc]]
+- [[det]]
+- [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]

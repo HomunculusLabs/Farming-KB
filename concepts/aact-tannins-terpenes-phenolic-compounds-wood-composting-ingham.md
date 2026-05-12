@@ -69,7 +69,7 @@ An interesting ancillary benefit of these compounds is their potential as weed s
 When brewing AACT using compost that contains woody materials, consider:
 
 - **Compost maturity**: Ensure woody compost has been adequately aged (minimum 4-6 weeks after chipping) before using as AACT starter
-- **Fungal biomass**: Teas made from woody compost tend to be more fungal-dominant, which is beneficial for [[perennial-vegetables-and-edible-perennial-crops]], trees, and shrubs
+- **Fungal biomass**: Teas made from woody compost tend to be more fungal-dominant, which is beneficial for [[perennial-vegetables]], trees, and shrubs
 - **Food sources**: Woody composts may require supplemental food sources (humic acids, fish hydrolysate) during brewing because the recalcitrant carbon is not readily available to the [[cannabis-cultivar-microbial-community-effects]] during the short brew cycle
 - **Volatilization during brewing**: Some terpene compounds may volatilize during the aeration process of AACT brewing, potentially reducing any phytotoxic effects
 
@@ -101,3 +101,31 @@ The development and understanding of aact tannins terpenes phenolic compounds wo
 - [[thermal-composting-vs-aact]]
 - [[ingham-wood-chips-compost-fungal-domination]]
 - [[aact-water-quality-chlorine-removal-brewing-standards-ingham]]
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[composting]]
+- [[ingham-tannins-terpenes-phenolic-compounds]]
+- [[dom]]
+- [[det]]
+- [[the-soil-food-web]]

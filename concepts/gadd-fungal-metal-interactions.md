@@ -87,3 +87,31 @@ The quantitative significance of fungal metal interactions in soil systems is su
 Fungal metal interactions have potential applications in phytomining (extracting metals from low-grade ores using biological systems) and bio-ore processing. Certain fungi can bioaccumulate metals from mineral matrices, concentrating them in their biomass to levels that exceed the original ore concentration. Fungal leaching of low-grade ores using organic acid production is commercially practiced for copper, gold (as a pretreatment step), and some rare earth elements. The concept of "fungal bio-ore" involves cultivating metal-accumulating fungi on contaminated substrates, harvesting the biomass, and processing it as a concentrated metal source. This approach is particularly promising for recovering valuable metals from electronic waste, industrial slag, and mine tailings that are too low in concentration for conventional metallurgical processing. The environmental advantage of fungal bio-ore processing is that it operates at [[jadam-ambient-temperature-principle]] and pressure, using renewable biological agents instead of energy-intensive chemical processes.
 
 ## Practical Applications in Mycoremediation
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[fungal-hyphae]]
+- [[doc]]
+- [[trimethylarsine]]
+- [[ericoid-mycorrhiza]]
+- [[det]]

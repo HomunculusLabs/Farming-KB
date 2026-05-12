@@ -130,7 +130,7 @@ in poverty.
 ## The Wasson Legacy
 
 Wasson's discovery stands as one of the most consequential events in
-the history of [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]] culture. It demonstrated
+the history of [[terence-mckenna]] culture. It demonstrated
 that indigenous societies had preserved sophisticated psychoactive
 plant knowledge — knowledge that modern science had entirely
 overlooked. It catalyzed the scientific study of psilocybin, leading

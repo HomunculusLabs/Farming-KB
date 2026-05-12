@@ -87,3 +87,10 @@ enabling collection and servicing to occur, or create better mutual
 exchange between the species in the garden.
 
 ## The Ratio of Large to Small Conduits
+
+## See Also
+- [[permaculture]]
+- [[det]]
+- [[mollison-designers-snow-ice-and-winter-design-strategies]]
+- [[mollison-designers-precipitation-types-and-design-effects]]
+- [[mollison-designers-design-client-interview-and-site-assessment-process]]

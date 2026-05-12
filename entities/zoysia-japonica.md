@@ -63,7 +63,7 @@ The species is also used as turf in Australia, South Africa, [[guzman-psilocybin
 
 It is adapted to a broad range of soil types, from sands to heavy clays, with optimal growth on well-drained, moderately fertile loams.
 
-Soil pH tolerance ranges from approximately 5.5 to 7.5, with reduced growth on strongly acidic or alkaline soils.
+Soil pH tolerance ranges from approximately 5.5 to 7.5, with reduced growth on strongly acidic or [[plants-tolerant-of-alkaline-soils]].
 
 Zoysia japonica is moderately salt-tolerant and performs well in coastal environments where many other turf species decline.
 

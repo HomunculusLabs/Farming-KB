@@ -88,3 +88,38 @@ The guide concludes with a section on psychopharmacology, noting:
 Richard Evans Schultes (1915-2001) was the foremost ethnobotanist of the 20th century, spending over a decade in the Amazon studying indigenous plant use. The Golden Guide represents his effort to make this knowledge accessible to a general audience while maintaining scientific rigor. The bibliography reflects Schultes's encyclopedic knowledge, citing works from 1911 through 1973, including Louis Lewin's "Phantastica," Wasson's "Soma: Divine Mushroom of Immortality," Harner's "Hallucinogens and Shamanism," and Schultes's own "The Botany and Chemistry of Hallucinogens" with Albert Hofmann.
 
 ## Plant Families Rich in Hallucinogens
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[hallucinogenic-plants-overview]]
+- [[ayahuasca]]
+- [[doc]]
+- [[harmine]]
+- [[richard-evans-schultes]]

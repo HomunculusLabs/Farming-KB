@@ -1,5 +1,5 @@
 ---
-title: Fukuoka [[fukuoka-high-yield-theory-photosynthesis-critique]] and the Philosophy of Mu
+title: "Fukuoka Photosynthesis Research Critique Mu Nothingness"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -116,8 +116,8 @@ The world of *somethingness* — of isolated variables, controlled experiments, 
 
 ## See Also
 
-- [[Mu (Nothingness)]]
-- [[Natural Farming]]
-- [[Scientific Farming vs. Natural Farming]]
-- [[Fukuoka on Yield and Productivity]]
-- [[Photosynthesis and Respiration in Rice]]
+- [[mu-(nothingness)]]
+- [[natural-farming]]
+- [[scientific-farming-vs.-natural-farming]]
+- [[fukuoka-on-yield-and-productivity]]
+- [[photosynthesis-and-respiration-in-rice]]

@@ -137,7 +137,7 @@ Current research is exploring Lion's Mane for:
 ## See Also
 
 - [[medicinal-mushroom-guide-reishi]]
-- [[Cordyceps]]
+- [[cordyceps-cultivation]]
 - [[turkey-tail-mushroom-cancer-research]]
 - [[beta-glucans]]
 - [[nerve-growth-factor]]

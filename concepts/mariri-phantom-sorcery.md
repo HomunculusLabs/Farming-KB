@@ -1,5 +1,5 @@
 ---
-title: [[mariri]] (Magical Phlegm)
+title: "Mariri Phantom Sorcery"
 created: 2026-04-28
 tags:
   - mariri

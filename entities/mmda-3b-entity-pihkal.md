@@ -24,7 +24,7 @@ sources: ["Shulgin - PIHKAL"]
 ## Qualitative Comments
 
 > (with 60 mg) Definitely active. Qualitatively
-> like MDA; quantitatively perhaps less.
+> like [[mda]]; quantitatively perhaps less.
 >
 > (with 80 mg) No more effective than 60 mg.
 

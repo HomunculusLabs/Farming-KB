@@ -1,5 +1,5 @@
 ---
-title: [[allegro-amanita-muscaria-properties-and-pharmacology]] Soma Born of Thunder and Eucharist Taste
+title: "Amanita Soma Born of Thunder Eucharist Taste Identification"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

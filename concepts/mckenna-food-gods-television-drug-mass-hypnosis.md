@@ -57,7 +57,7 @@ the drug of choice for mass hypnosis, while reasonable, should not be taken at
 face value.
 
 The implication is that the government discovered that electronic media were
-more effective tools of social control than pharmacological agents precisely
+more effective tools of [[patriarchal-law-and-social-control]] than pharmacological agents precisely
 because they create dependency without the boundary-dissolving effects that
 characterize psychedelics. Television creates the perfect compliant citizen: one
 who is chemically stimulated through dopamine loops, emotionally engaged enough

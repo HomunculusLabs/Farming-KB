@@ -11,7 +11,7 @@ sources:
 
 ## Overview
 
-Echinacea and St. John's Wort represent two pillars of Western [[herbal-medicine-making]]
+Echinacea and St. John's Wort represent two pillars of Western [[herbal-medicine-making-basics]]
 with distinctly different primary applications. Echinacea is renowned as an
 immune system modulator and stimulant, most commonly used at the onset of
 infections, while St. John's Wort is primarily valued for its mood-supporting

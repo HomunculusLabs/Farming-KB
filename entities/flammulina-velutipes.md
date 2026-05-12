@@ -90,5 +90,5 @@ compound from fungi.
 
 ## See Also
 - [[pleurotus-ostreatus]]
-- [[Agaricus]] (Himematsutake)
+- [[agaricus-aurora]] (Himematsutake)
 - [[trametes-versicolor-entity]]

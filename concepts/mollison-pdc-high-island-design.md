@@ -88,3 +88,10 @@ cross-wind patterns, sometimes only ten feet apart:
 ## Stream Openings and Harbors
 
 Fringing coral reefs disappear opposite streams on tropical islands
+
+## See Also
+- [[permaculture]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-pdc-low-island-design]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]
+- [[mollison-pdc-design-report-methodology]]

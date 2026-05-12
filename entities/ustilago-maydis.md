@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 Ustilago maydis is a basidiomycete fungus that causes corn smut
 disease in maize (Zea mays). It is one of the most thoroughly studied
-plant [[Cordyceps]] and serves as a [[canary-grass-phototropism-model-organism]] for
+plant [[cordyceps-cultivation]] and serves as a [[canary-grass-phototropism-model-organism]] for
 understanding fungal plant pathogenicity, dimorphism, and biotrophic
 interactions.
 

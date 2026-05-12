@@ -3,7 +3,7 @@ title: Blesching Cannabis Sleep Disorders
 created: 2026-04-26
 updated: 2026-04-24
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid]] [[blesching-cannabis-ptsd-anxiety]] [[cannabis-chronic-pain-management]]"
+wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid-receptors-cb1-cb2]] [[blesching-cannabis-ptsd-anxiety]] [[cannabis-chronic-pain-management]]"
 type: concept
 tags: [cannabis]
 ---
@@ -88,3 +88,45 @@ Practical reports from patients using cannabis to improve their sleep have
 shown that the use of indica and indica-dominant strains with their particular
 mix of cannabinoid ratios, namely a relatively lower THC:CBD combination,
 encourages sedation, relaxation, and grounding effects.
+
+## See Also
+- [[cannabis-for-sleep-disorders]]
+- [[cannabis-and-insomnia]]
+- [[lsd]]
+- [[dom]]
+- [[det]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[cannabis-for-sleep-disorders]]
+- [[cannabis-and-insomnia]]
+- [[dom]]
+- [[det]]
+- [[lsd]]

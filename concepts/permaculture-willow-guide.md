@@ -74,6 +74,17 @@ Living willow structures (dens, tunnels, domes, and fences) are popular in [[per
 
 Willows are among the most valuable trees for wildlife support. Their early catkins provide critical pollen and nectar for emerging bees and other pollinators in late winter and early spring. Over 260 insect species are associated with willows in Britain alone, supporting complex food webs. Caterpillars of several moth species feed exclusively on willow foliage. Birds nest in the dense canopy and forage for insects on the bark and leaves. The [[soil-food-web-nutrient-cycling]] around willow root zones is particularly active, supporting diverse microbial and invertebrate communities.
 
+## Design Principles
+
+Permaculture design integrates multiple elements working together. Each component should serve at least three functions. Zone planning places frequently accessed elements closer to the home.
+
+## See Also
+
+- [[ghouled-field-guide-historical-context]]
+- [[permaculture-broadscale-no-till-grain-production]]
+- [[bill-mollison-permaculture-designers-manual]]
+- [[cho-yeast-preparation-guide]]
+
 ## See Also
 
 - [[permaculture-multipurpose-trees]]

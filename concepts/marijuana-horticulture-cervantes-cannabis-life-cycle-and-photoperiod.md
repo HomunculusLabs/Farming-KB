@@ -120,4 +120,4 @@ Cervantes identifies several indicators of harvest readiness:
 
 - cannabis [[cannabis-grow-hydroponic-growing-systems]]
 - [[cannabis-breeding-basics]] and genetics
-- [[cannabis-nutrient-management]] in [[living-soil-cannabis-cultivation]]
+- [[cannabis-nutrient-management]] in [[living-soil-cannabis]]

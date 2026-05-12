@@ -1,5 +1,5 @@
 ---
-title: "[[bill-mollison-permaculture-designers-manual]] Highland Design"
+title: Permaculture Designers Manual Highland Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Highland and Mountain Climate Design
 
-> Source: [[bill-mollison]], *Permaculture: A Designers' Manual* (1988), Chapters 5, 10, and 12
+> Source: [[bill-mollison]], *[[permaculture]]: A Designers' Manual* (1988), Chapters 5, 10, and 12
 
 ## Overview
 

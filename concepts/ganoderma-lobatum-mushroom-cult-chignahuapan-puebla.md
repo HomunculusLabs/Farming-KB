@@ -86,7 +86,7 @@ This geographic overlap suggests several possible interpretations:
 
 4. **Independent tradition** — The cult may represent a genuinely independent
    tradition of fungal veneration, separate from the Psilocybe-centered
-   ceremonies, rooted in the [[amanita-mushrooms-history-chemistry-and-cultural-significance]] of fungi as a food
+   ceremonies, rooted in the [[amanita]] of fungi as a food
    source and ecological presence in the region.
 
 ## Sun and Moon Iconography

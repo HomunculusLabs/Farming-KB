@@ -18,7 +18,7 @@ In *Teaming with Microbes*, Lowenfels and Lewis present three tools as the pract
 "It's simple. Compost, mulch, and compost tea are the soil food web gardener's tools." The approach involves:
 1. Applying the proper kind of compost
 2. Mulching the right way, with the right kinds of [[hamilton-composting-and-organic-matter-management]]
-3. Applying [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[compost-tea-guide]], [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-classic-soil-science]], [[circadian-rhythm-in-plants]]
+3. Applying [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[compost-tea-guide]], [[compost-tea-aact]], [[teaming-with-microbes-overview]], [[teaming-with-microbes-classic-soil-science]], [[chamovitz-circadian-rhythm-internal-clock-plants]]
 
 ## Practical Applications
 

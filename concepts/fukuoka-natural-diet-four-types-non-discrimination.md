@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Four Types of [[natural-diet-and-seasonal-eating]] Non-Discrimination
+title: "Fukuoka Natural Diet, Four Types, and Non-Discrimination"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

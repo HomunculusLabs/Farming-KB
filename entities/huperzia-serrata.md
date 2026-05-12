@@ -45,7 +45,7 @@ The spores are relatively large for a lycophyte and are released without the spe
 
 The root system consists of a mycorrhizal association that is critical for [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]], as the roots are reduced and poorly developed.
 
-The gametophyte of Huperzia serrata is subterranean, non-photosynthetic, and mycoheterotrophic, depending on [[Auxin]] for nutrition.
+The gametophyte of Huperzia serrata is subterranean, non-photosynthetic, and mycoheterotrophic, depending on [[auxin-production-by-symbiotic-fungi]] for nutrition.
 
 ## Distribution and Habitat
 

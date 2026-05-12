@@ -50,7 +50,7 @@ greater than distances between bulk soil and rhizosphere communities for
 both unweighted (t = 25.15, p < 0.001) and weighted (t = 211.56,
 p < 0.001) analyses.
 
-The [[Proteobacteria]] is the most distinct, having undergone the
+The [[proteobacteria-dominance-cannabis-endorhiza]] is the most distinct, having undergone the
 strongest selective filtering as bacteria must overcome physical root
 barriers, plant immune responses, and compete for niche space within
 root tissue.

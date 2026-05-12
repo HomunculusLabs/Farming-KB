@@ -6,13 +6,13 @@ type: concept
 
 # Chullachaki and Yakuruna Spirit Encounters
 
-In the ayahuasca visionary cosmology documented by Pablo Amaringo, encounters with forest and water spirits represent some of the most dangerous and dramatic experiences a person can undergo. These spirits—known as the **Chullachaki** (forest dwellers) and **Yakuruna** (water people)—are capable of abducting humans, altering their bodies, and drawing them permanently into the spirit realm. Recovery from such encounters requires the intervention of skilled healers working in deep ayahuasca trance. A related phenomenon, the **Ayacatuca** (bath of the dead), further illustrates the complex relationship between the living, the dead, and the spirit world in Amazonian cosmology.
+In the [[ayahuasca-visions]] documented by [[pablo-amaringo]], encounters with forest and water spirits represent some of the most dangerous and dramatic experiences a person can undergo. These spirits—known as the **Chullachaki** (forest dwellers) and **Yakuruna** (water people)—are capable of abducting humans, altering their bodies, and drawing them permanently into the spirit realm. Recovery from such encounters requires the intervention of skilled healers working in deep ayahuasca trance. A related phenomenon, the **Ayacatuca** (bath of the dead), further illustrates the complex relationship between the living, the dead, and the [[yakuruna-aquatic-spirit-world]] in Amazonian cosmology.
 
 ## Chullachaki: The Forest Spirit with Backwards Feet
 
 ### Name and Nature
 
-The name **Chullachaki** derives from Quechua and translates roughly to "forest spirit with feet backwards." This characteristic—reversed or backward-facing feet—is a hallmark of the creature and is reflected in the tracks it leaves, which confuse those who attempt to follow it. The Chullachaki is also referred to as **Shapingo**, and these terms appear to be used somewhat interchangeably in Amaringo's visions.
+The name **Chullachaki** derives from Quechua and translates roughly to "forest spirit with feet backwards," a figure also treated in [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]]. This characteristic—reversed or backward-facing feet—is a hallmark of the creature and is reflected in the tracks it leaves, which confuse those who attempt to follow it. The Chullachaki is also referred to as **Shapingo**, and these terms appear to be used somewhat interchangeably in Amaringo's visions.
 
 ### Habitat and Abduction
 
@@ -25,7 +25,7 @@ One of the Chullachaki's most remarkable powers is its ability to **shapeshift i
 - **Deer** — common forest prey animal
 - **Tapir** (*sachavaca*) — the largest Amazonian land mammal
 - **Tortoises** — slow-moving reptiles found near water
-- **Armadillos** — burrowing mammals of the forest floor
+- **Armadillos** — burrowing mammals of the [[fungal-ecology-forest-floor]]
 - **Agouti** — large rodents that forage on the forest floor
 - **Monkeys** — specifically *supay-machin* (demon monkey), a spectral primate form
 - **Collared peccaries** (*sajino*) — wild pig-like ungulates
@@ -47,7 +47,7 @@ When a young man is recovered from Chullachaki captivity, he must be treated by 
 
 ### Nature and Appearance
 
-The **Yakuruna** are water-dwelling spirits who inhabit the rivers, lakes, and underwater realms of the Amazon basin. They are humanoid in form and bear a resemblance to indigenous Shipiba or Conibo people. A specific yakuruna named **Llulluchukcha** ("green hair") is described as having distinctive green-colored hair, marking him as a figure of particular power.
+The **Yakuruna** are water-dwelling spirits who inhabit the rivers, lakes, and underwater realms of the Amazon basin, overlapping with wider accounts of [[yakuruna-water-spirits-of-the-amazon]]. They are humanoid in form and bear a resemblance to indigenous Shipiba or Conibo people. A specific yakuruna named **Llulluchukcha** ("green hair") is described as having distinctive green-colored hair, marking him as a figure of particular power.
 
 ### Abduction from Canoes
 
@@ -71,7 +71,7 @@ Rescue of a yakuruna captive requires a **muraya**—a high-level vegetalista he
 
 ### Genies and Spirit Allies
 
-The muraya in the rescue vision is surrounded by numerous genies and spirit beings, each with distinct names and natures:
+The muraya in the rescue vision is surrounded by numerous genies and [[metzner-spirit-beings-multiple-realities-entheogens]], each with distinct names and natures:
 
 | Spirit Name | Translation / Identity | Nature |
 |---|---|---|
@@ -115,7 +115,7 @@ The visions documenting Chullachaki, Yakuruna, and Ayacatuca encounters referenc
 
 ### Plants for Sexual and Internal Conditions
 
-- **Shikshi huama** (*Dictyoloma Peruvianum*) — Used for calming excessive sexual desires and for treating cancerous ulcers, bridging the gap between behavioral/psychological medicine and physical pathology.
+- **[[shikshi-huama]]** (*Dictyoloma Peruvianum*) — Used for calming excessive sexual desires and for treating cancerous ulcers, bridging the gap between behavioral/psychological medicine and physical pathology.
 
 ### Musculoskeletal and Pain Plants
 
@@ -139,7 +139,7 @@ The visions documenting Chullachaki, Yakuruna, and Ayacatuca encounters referenc
 
 ### The Permeability of Human and Spirit Boundaries
 
-Both Chullachaki and Yakuruna encounters demonstrate that in Amazonian cosmology, the boundary between human and spirit realms is **permeable and negotiable**. Spirits can cross into human space to abduct, and humans can be drawn into spirit space—sometimes permanently. The physical deformations (twisted eyes, feet, head) serve as visible markers of this boundary-crossing.
+Both Chullachaki and Yakuruna encounters demonstrate that in Amazonian cosmology, the boundary between human and spirit realms is **permeable and negotiable**, a pattern also explored in [[forest-spirits-and-subaquatic-world]]. Spirits can cross into human space to abduct, and humans can be drawn into spirit space—sometimes permanently. The physical deformations (twisted eyes, feet, head) serve as visible markers of this boundary-crossing.
 
 ### The Centrality of the Healer
 
@@ -148,7 +148,3 @@ In every encounter scenario, the **vegetalista or muraya** serves as the essenti
 ### Ecological Embedding of Spirit Belief
 
 The spirit world described in these visions is **thoroughly ecological**. Chullachakis transform into specific Amazonian animals; Yakuruna genies mirror the full range of aquatic life; and medicinal plants address real health conditions while simultaneously serving spiritual functions. The cosmology cannot be separated from the rainforest ecosystem that generates it.
-
-### Sound and Voice as Spiritual Weapons
-
-Both Chullachaki and Yakuruna encounters emphasize the power of **sound**—the Chullachakis calling to their captive during healing, the yakuruna father's ceaseless pipe-smoking, the icaros that generate meteors and whirlwinds. In this tradition, voice and song are primary technologies of spiritual engagement.

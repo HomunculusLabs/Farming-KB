@@ -88,3 +88,8 @@ The species is one of the few *Paphiopedilum* that tolerates cool temperatures, 
 **Cultivation:**
 
 *Paphiopedilum insigne* is a classic houseplant orchid, valued for its ease of care and long-lasting winter flowers. It thrives in bright indirect light and intermediate temperatures.
+
+## See Also
+- [[dom]]
+- [[doc]]
+- [[leccinum-insigne]]

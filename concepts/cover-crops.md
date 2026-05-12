@@ -19,7 +19,7 @@ benefit the soil rather than for harvest. They are a cornerstone of
 
 Cover crops aren't just for farmers. Even small gardeners can use them
 effectively. In a [[hamilton-vegetable-bed-preparation]], after harvesting summer crops, sow
-[[compost]] or winter rye for winter cover. In spring, cut the
+[[mushroom-compost]] or winter rye for winter cover. In spring, cut the
 cover crop and plant directly through the residue. For perennial beds,
 [[fukuoka-white-clover-cover-crop-system]] makes an excellent [[comparison-living-mulch-vs-cover-crops]] between plants, fixing
 nitrogen and suppressing weeds while tolerating foot traffic.
@@ -88,3 +88,17 @@ uncertainty and improve the resilience of implementations over time.
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[cover-crop]]
+- [[doc]]
+- [[det]]
+- [[decomposition]]
+- [[mollison-designers-cover-crops-and-green-manure-species]]

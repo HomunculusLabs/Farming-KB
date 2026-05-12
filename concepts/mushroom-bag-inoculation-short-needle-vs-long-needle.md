@@ -1,7 +1,7 @@
 ---
-title: "Mushroom [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]] [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]] Long Needle"
+title: "Mushroom Bag Inoculation Short Needle Vs Long Needle"
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
-tags: [mushroom-cultivation, inoculation, spore-syringe, needle-method, boil-a-bag, sterile-technique]
+tags: [[mushroom-cultivation]], inoculation, [[spore-syringe]], needle-method, boil-a-bag, sterile-technique]
 created: 2026-05-09
 ---
 

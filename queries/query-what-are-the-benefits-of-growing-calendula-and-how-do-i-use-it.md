@@ -11,13 +11,13 @@ sources:
 
 ## Short Answer
 
-[[calendula-officinalis|Calendula]] (Calendula officinalis), commonly called pot marigold, is one of the most versatile plants you can grow in a garden.
+[[calendula-officinalis|Calendula]] ([[calendula-officinalis]]), commonly called pot marigold, is one of the most versatile plants you can grow in a garden.
 
 It serves simultaneously as a companion plant that attracts beneficial insects, a medicinal herb with powerful skin-healing properties, and an edible flower for culinary use.
 
 Calendula is easy to grow from seed, tolerates a wide range of conditions, and blooms prolifically from spring through fall with minimal care.
 
-Every part of the plant has a practical use, making it an essential addition to permaculture gardens, homesteads, and even container setups.
+Every part of the plant has a practical use, making it an essential addition to [[permaculture]] gardens, homesteads, and even container setups.
 
 ## Detailed Explanation
 
@@ -55,7 +55,7 @@ Native bees, honeybees, hoverflies, and butterflies all regularly visit calendul
 
 Including calendula in a [[query-how-to-create-a-biodiverse-pollinator-garden|biodiverse pollinator garden]] extends the foraging season with reliable, long-lasting blooms.
 
-Calendula pairs well with other insectary plants like yarrow, dill, and alyssum for maximum pollinator attraction.
+Calendula pairs well with other insectary plants like [[yarrow]], dill, and alyssum for maximum pollinator attraction.
 
 Hoverflies attracted to calendula are particularly valuable because their larvae are voracious aphid predators.
 

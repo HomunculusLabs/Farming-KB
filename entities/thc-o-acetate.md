@@ -66,7 +66,7 @@ THC-O acetate functions primarily as a **prodrug** of THC:
 
 1. After administration, the compound is absorbed and distributed throughout the body
 2. **Esterases** in plasma and tissues cleave the acetate ester bond
-3. The active metabolite (Δ⁹-THC or Δ⁸-THC, depending on precursor) is released and binds to **[[cannabinoid-receptors-cb1-and-cb2]] CB₁ and CB₂**
+3. The active metabolite (Δ⁹-THC or Δ⁸-THC, depending on precursor) is released and binds to **[[cannabinoid-receptors-cb1-cb2]] CB₁ and CB₂**
 4. The released THC then produces psychoactive effects through standard cannabinoid [[plant-signaling-pathways]]
 
 The prodrug mechanism accounts for the characteristically **delayed onset** of effects.

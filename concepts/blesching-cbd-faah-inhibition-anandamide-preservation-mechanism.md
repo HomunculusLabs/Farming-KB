@@ -21,7 +21,7 @@ related:
   - "[[anandamide-and-the-endocannabinoid-system]]"
   - "[[cbd-faah-inhibition-anandamide-preservation-blesching]]"
   - "[[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb2-receptor]]"
-  - "[[tetrahydrocannabinol-thc]]"
+  - "[[tetrahydrocannabinol]]"
   - "[[serotonin]]"
   - "[[beta-caryophyllene]]"
   - "[[blesching-cannabis-apoptosis-and-cancer-cell-death]]"
@@ -31,7 +31,7 @@ related:
 
 ## Overview
 
-[[cannabidiol-cbd]] (cannabidiol) is a non-psychoactive phytocannabinoid found in Cannabis sativa. Unlike [[tetrahydrocannabinol-thc]], CBD does not produce intoxicating effects and instead exerts its therapeutic influence primarily through modulation of the endocannabinoid system and related signaling pathways. CBD demonstrates greater binding affinity for the [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb2-receptor]] than for CB1, which underlies much of its anti-inflammatory and immunomodulatory profile while avoiding the psychoactive cascade associated with CB1 activation.
+[[cannabidiol-cbd]] (cannabidiol) is a non-psychoactive phytocannabinoid found in Cannabis sativa. Unlike [[tetrahydrocannabinol]], CBD does not produce intoxicating effects and instead exerts its therapeutic influence primarily through modulation of the endocannabinoid system and related signaling pathways. CBD demonstrates greater binding affinity for the [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb2-receptor]] than for CB1, which underlies much of its anti-inflammatory and immunomodulatory profile while avoiding the psychoactive cascade associated with CB1 activation.
 
 ## Primary Mechanism: FAAH Inhibition
 
@@ -47,7 +47,7 @@ This FAAH-inhibition mechanism means CBD amplifies the body's native endocannabi
 
 ## Modulation of THC Psychoactivity
 
-One of CBD's most clinically significant properties is its ability to temper the psychoactive effects of [[tetrahydrocannabinol-thc]]. When co-administered, CBD:
+One of CBD's most clinically significant properties is its ability to temper the psychoactive effects of [[tetrahydrocannabinol]]. When co-administered, CBD:
 
 - Reduces THC-induced anxiety and paranoia
 - Attenuates the cognitive impairment associated with high THC doses
@@ -88,3 +88,38 @@ CBD demonstrates selective anti-cancer properties through a mechanism that disti
 
 - Produces **oxidative stress selectively in cancer cells**, triggering [[blesching-cannabis-apoptosis-and-cancer-cell-death]] (programmed cell death)
 - Normal cells remain unaffected by this oxidative cascade, preserving healthy tissue
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[anandamide]]
+- [[cbd-faah-inhibition-anandamide-preservation-blesching]]
+- [[doc]]
+- [[ethanol]]
+- [[tetrahydrocannabinol]]

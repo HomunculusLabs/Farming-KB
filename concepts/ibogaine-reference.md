@@ -9,7 +9,7 @@ sources: []
 
 # Ibogaine Reference
 
-Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[plants-of-the-gods-tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the [[iboga-ibogaine-and-the-bwiti-african-psychedelic-medicine]] toolkit, with well-documented cardiac risks that require medical screening and monitoring.
+Ibogaine is a naturally occurring psychoactive alkaloid found in the root bark of the African shrub [[plants-of-the-gods-tabernanthe-iboga]]. It is renowned for its capacity to interrupt substance dependence, particularly opioid addiction, often producing a single-treatment interruption of withdrawal symptoms and drug craving. Ibogaine is simultaneously one of the most promising and most dangerous substances in the [[iboga]] toolkit, with well-documented cardiac risks that require medical screening and monitoring.
 
 ## Chemistry
 

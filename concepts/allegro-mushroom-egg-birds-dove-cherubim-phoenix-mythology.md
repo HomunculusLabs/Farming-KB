@@ -1,5 +1,5 @@
 ---
-title: [[allegro-mushroom-egg-and-birds-of-mythology]] and Birds of Mythology Dove Cherubim Phoenix
+title: Allegro Mushroom Egg, Birds, Dove, Cherubim, and Phoenix Mythology
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

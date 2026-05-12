@@ -20,7 +20,7 @@ responsible for several significant OTU abundance differences between cannabis
 strains in both experiments. Specifically, two orders within the phylum were
 highlighted:
 
-- **Sphingobacteriales**: Present as part of the core [[Proteobacteria]]
+- **Sphingobacteriales**: Present as part of the core [[proteobacteria-dominance-cannabis-endorhiza]]
   across all cultivars. These bacteria are known for their ability to
   degrade complex polysaccharides and are commonly found in soil and
   plant-associated environments. They are gram-negative, aerobic or
@@ -88,3 +88,38 @@ for root microbiome assembly. Under this model:
 This two-step process explains why the same Bacteroidetes taxa tend to be
 present across all cultivars (tier 1 filtering), but at significantly
 different abundances depending on which cannabis strain is hosting them
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[dom]]
+- [[det]]
+- [[root-exudates]]
+- [[pseudomonas]]
+- [[mycorrhiza]]

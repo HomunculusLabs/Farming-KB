@@ -72,7 +72,7 @@ The massive trunks provide habitat for epiphytes, ferns, and bryophytes. Old-gro
 
 Many native bird species, including kereru (New Zealand pigeon), kakariki (red-crowned parakeet), and tui, feed on kauri seeds and use the canopy for nesting. The seeds are an important food source during autumn and winter months.
 
-Kauri plays a significant role in New Zealand's [[fungal-decomposition-and-the-global-carbon-cycle]]. Old-growth kauri stores enormous quantities of carbon in both above-ground biomass and below-ground root systems. The loss of mature kauri forests to historical logging has had lasting effects on the regional carbon balance.
+Kauri plays a significant role in New Zealand's [[fungal-decomposition]]. Old-growth kauri stores enormous quantities of carbon in both above-ground biomass and below-ground root systems. The loss of mature kauri forests to historical logging has had lasting effects on the regional carbon balance.
 
 ## Timber and Uses
 

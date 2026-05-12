@@ -10,7 +10,7 @@ tags: [dmt, psychedelics]
 
 # 5-MeO-DMT Void Experience
 
-D.M. Turner's treatment of 5-Methoxy-DMT in "The [[turner-essential-psychedelics-dmt-hyperspace]] Guide"
+D.M. Turner's treatment of 5-Methoxy-[[dmt]] in "The [[turner-essential-psychedelics-dmt-hyperspace]] Guide"
 emphasizes its raw power and the uniquely overwhelming quality of the void
 experience it produces. He considers 5-MeO-DMT the more potent of the two
 common DMT varieties in terms of dose required, onset speed, and force of

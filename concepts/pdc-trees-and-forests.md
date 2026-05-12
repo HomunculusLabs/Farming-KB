@@ -1,5 +1,5 @@
 ---
-title: "[[williams-pdc-trees]] And Forests"
+title: "PDC Trees and Forests"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -88,3 +88,6 @@ above, we get a warm down-draft." Trees store heat as 86% water heat
 storage and release it slowly at night.
 ### Negative Ions
 "The amount of negative ions increases sharply in the air stream" moving
+
+## See also
+- [[williams-pdc-trees]]

@@ -41,7 +41,7 @@ The ecological logic of the phytochrome system becomes clear when viewed through
 
 ### Dawn: Red Light "Wakes Up" the Plant
 
-At sunrise, sunlight is rich in phytochrome ecological function dusk dawn red far red light switch. This red light converts phytochrome from its inactive Pr form to the active Pfr form, effectively "turning on" the plant's daytime physiological programs. Genes associated with photosynthesis, growth, and development are upregulated. The plant transitions from a night-time metabolic state to an active, photosynthetically competent state. The Pfr signal also interacts with the plant's [[chrysanthemum]] clock, helping to entrain daily rhythms to the external light-dark cycle.
+At sunrise, sunlight is rich in phytochrome ecological function dusk dawn red far red light switch. This red light converts phytochrome from its inactive Pr form to the active Pfr form, effectively "turning on" the plant's daytime physiological programs. Genes associated with photosynthesis, growth, and development are upregulated. The plant transitions from a night-time metabolic state to an active, photosynthetically competent state. The Pfr signal also interacts with the plant's [[chrysanthemum-coronarium]] clock, helping to entrain daily rhythms to the external light-dark cycle.
 
 ### Dusk: Far-Red Light "Turns Off" the Active State
 
@@ -53,7 +53,7 @@ The far-red signature of dusk thus serves as a reliable daily cue that daylight 
 
 A critical capability of the phytochrome system is its role in timekeeping. After the last light of day converts most phytochrome to Pr, the plant uses the duration of the Pfr-free (dark) period as a measure of night length. In effect, the plant "remembers" the last colour of light it saw — if that last light was far-red (signalling long night ahead), the Pr state persists and the dark period begins. If that last light was red (as occurs in shorter nights or artificially interrupted nights), Pfr persists longer, signalling a shorter night.
 
-This memory of the last spectral cue allows the plant to measure the duration of darkness with remarkable precision, forming the molecular basis of [[photoperiodism]]. The plant does not need an internal clock to measure night length per se; rather, it monitors the decay of the Pfr signal over time and uses the Pfr level at a critical internal checkpoint (often the [[chrysanthemum]]-gated expression of flowering genes such as CONSTANS) to decide whether the night has been long enough.
+This memory of the last spectral cue allows the plant to measure the duration of darkness with remarkable precision, forming the molecular basis of [[photoperiodism]]. The plant does not need an internal clock to measure night length per se; rather, it monitors the decay of the Pfr signal over time and uses the Pfr level at a critical internal checkpoint (often the [[chrysanthemum-coronarium]]-gated expression of flowering genes such as CONSTANS) to decide whether the night has been long enough.
 
 ## Photoperiodic Flowering: Short-Day vs Long-Day Plants
 
@@ -61,7 +61,7 @@ The phytochrome system underpins the [[photoperiodic-response]] that controls fl
 
 ### Short-Day Plants
 
-[[short-day-and-long-day-plant-classification]]s (more accurately described as long-night plants) require a sufficiently long, uninterrupted dark period to flower. They need the Pfr→Pr conversion at dusk to be followed by a long period without any red-light interruption. If the dark period is broken by even a brief flash of red light — converting Pr back to Pfr — the plant perceives a short night and does not flower. Examples include [[cannabinoid-pharmacology]], [[poinsettia]], [[soybean-oil-wastewater-fungi]], and [[strawberry-growing-guide]].
+[[short-day-and-long-day-plant-classification]]s (more accurately described as long-night plants) require a sufficiently long, uninterrupted dark period to flower. They need the Pfr→Pr conversion at dusk to be followed by a long period without any red-light interruption. If the dark period is broken by even a brief flash of red light — converting Pr back to Pfr — the plant perceives a short night and does not flower. Examples include [[blesching-cannabinoid-pharmacology]], [[poinsettia]], [[soybean-oil-wastewater-fungi]], and [[strawberry-growing-guide]].
 
 ### Long-Day Plants
 

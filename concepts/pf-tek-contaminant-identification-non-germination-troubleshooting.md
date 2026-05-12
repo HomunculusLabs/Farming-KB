@@ -147,4 +147,3 @@ vermiculite coarseness varies between brands and affects water-holding
 capacity.
 
 ## References
-

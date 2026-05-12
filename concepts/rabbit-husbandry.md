@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-duck-keeping-vs-rabbit-husbandry]]"
+title: Rabbit Husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

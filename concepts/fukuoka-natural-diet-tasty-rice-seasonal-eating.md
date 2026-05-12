@@ -1,12 +1,12 @@
 ---
-title: [[fukuoka-natural-diet-as-foundation]] Tasty Rice Critique [[natural-diet-and-seasonal-eating]]
+title: "Fukuoka Natural Diet Tasty Rice Seasonal Eating"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Fukuoka's Natural Diet Philosophy, Tasty Rice Critique, and Seasonal Eating
 
-Masanobu Fukuoka's philosophy of natural diet extends his critique of modern agriculture into the domain of human eating habits. He argues that the root cause of agricultural failure lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring natural farming — both require abandoning [[fukuoka-microbes-soil-health-discriminating-knowledge]] in favor of instinctive, non-discriminating awareness.
+Masanobu Fukuoka's philosophy of natural diet extends his [[fukuoka-road-critique-of-modern-science]] agriculture into the domain of human eating habits. He argues that the root cause of [[fukuoka-africa-agricultural-failure-deficit-farming-analysis]] lies not in technique but in humanity's fundamental misunderstanding of what diet represents. For Fukuoka, restoring a natural diet is inseparable from restoring natural farming — both require abandoning [[fukuoka-microbes-soil-health-discriminating-knowledge]] in favor of instinctive, non-discriminating awareness.
 
 ## What is Diet? — Origins of Agricultural Error
 
@@ -34,7 +34,7 @@ Animals are born with an instinctive ability to distinguish edible from inedible
 
 > "Man is an animal that feeds with his head rather than his mouth."
 
-Humans judge foods through discriminating knowledge — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
+Humans judge foods through [[fukuoka-nature-dissection-subjectivity-non-discriminating-knowledge]] — categorizing them as sweet, sour, bitter, hot, or tasty — feeding selectively according to impulse and fancy, producing what Fukuoka calls an "unbalanced and deficient diet." The tongue becomes the master rather than the body's deeper wisdom. This creates a self-reinforcing spiral of dissatisfaction:
 
 > "Once man eats something sweet, food that he had felt until then to be sweet loses its appeal. Once he samples epicurean food, plainer fare becomes unacceptable."
 
@@ -46,7 +46,7 @@ Fukuoka draws a sharp contrast between the instinctive eating of animals and the
 
 > "The food that animals eat by instinct constitutes a complete diet, but man, with his reliance on discriminating knowledge, has lost sight of what a complete diet is."
 
-Science, rather than correcting this loss, has deepened it. By breaking food into component parts, nutritional science creates an ever-expanding catalog of nutrients that obscures the wholeness of food: "a limitless array of components—starch, fat, protein, vitamins A, B, C, D, E, F..." This analytical approach leads to what Fukuoka calls "infinite fragmentation." The more we dissect food, the further we move from understanding it as a whole.
+Science, rather than correcting this loss, has deepened it. By breaking food into component parts, [[fukuoka-critique-western-dietetics-nutritional-science]] creates an ever-expanding catalog of nutrients that obscures the wholeness of food: "a limitless array of components—starch, fat, protein, vitamins A, B, C, D, E, F..." This analytical approach leads to what Fukuoka calls "infinite fragmentation." The more we dissect food, the further we move from understanding it as a whole.
 
 Fukuoka is blunt about what science has actually accomplished:
 
@@ -102,7 +102,7 @@ Cultivated crops that have adapted to environments over millennia are not fundam
 
 ### The Unity of Diet and Farming
 
-For Fukuoka, the connection between [[korean-natural-farming-and-jadam]] natural diet is not analogical but ontological:
+For Fukuoka, the connection between [[korean-natural-farming]] natural diet is not analogical but ontological:
 
 > "Natural diet [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] are not separate and distinct ideas, but united intimately as one whole."
 
@@ -147,5 +147,3 @@ Winter demands the most nourishing foods: wild game, pickled vegetables, oysters
 Fukuoka concludes with a vision of natural diet not as something distant or difficult to attain, but as something immediate and available:
 
 > "A natural diet lies at our feet—a diet that obeys the laws of heaven and has been followed naturally and without want by the people of farming and fishing villages."
-
-The natural diet does not require nutritional science, gourmet technique, or imported superfoods. It requires only the willingness to eat what the local environment provides in each season — to feed with the mouth rather than the head, and to trust the wisdom that thousands of years of co-evolution have encoded in the land and its produce.

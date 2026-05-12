@@ -88,3 +88,10 @@ Eleocharis equisetiformis responds positively to disturbance that opens the cano
 ## Ethnobotany and Uses
 
 Eleocharis equisetiformis has no well-documented ethnobotanical uses among Indigenous peoples of the southeastern United States.
+
+## See Also
+- [[doc]]
+- [[eleocharis-tenuis]]
+- [[eleocharis-acicularis]]
+- [[eleocharis-obtusa]]
+- [[eleocharis-palustris]]

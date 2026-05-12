@@ -1,12 +1,12 @@
 ---
-title: Fukuoka [[fukuoka-textdoc-greening-deserts-plant-irrigation]] Irrigation Method and Epilogue
+title: Fukuoka Greening Deserts Plant Irrigation Epilogue
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Fukuoka Greening Deserts Plant Irrigation Method and Epilogue
 
-Masanobu Fukuoka's *The One-Straw Revolution* closes with a profound epilogue that reflects on the limits of human knowledge, the philosophy behind natural farming, and a sweeping vision for restoring the world's deserts through entirely natural means. This page distills those closing reflections and Fukuoka's practical proposals for desert greening.
+[[masanobu-fukuoka]]'s *The One-Straw Revolution* closes with a profound epilogue that reflects on the limits of human knowledge, the philosophy behind [[beneficial-indigenous-microorganisms-natural-farming]], and a sweeping vision for restoring the world's deserts through entirely natural means. This page distills those closing reflections and Fukuoka's practical proposals for [[fukuoka-clay-pellet-desert-greening]].
 
 ## Epilogue — The Frog in the Well
 
@@ -52,7 +52,7 @@ This is perhaps the most provocative claim in the entire book. Natural farming a
 
 He drew a firm boundary:
 
-> "Natural farming can criticize scientific farming, but cannot itself be evaluated scientifically."
+> "Natural farming can criticize [[fukuoka-critique-scientific-farming-energy-efficiency]], but cannot itself be evaluated scientifically."
 
 Natural farming operates on principles that lie outside the framework of scientific inquiry. It cannot be reduced to variables, controls, and reproducible experiments without losing its essential character.
 
@@ -92,7 +92,7 @@ The violet does not bloom for admiration or utility. It blooms because that is w
 
 Fukuoka recognized that the transformation he sought was ultimately a transformation of consciousness:
 
-> "If people did not change, the world would not change; farming methods would not change."
+> "If people did not change, the world would not change; [[natural-farming-methods-comparison]] would not change."
 
 No technique, no technology, no policy can substitute for a fundamental shift in how human beings relate to the natural world. The crisis of agriculture is a crisis of perception.
 
@@ -148,38 +148,3 @@ The method follows a clear progressive sequence:
 2. **Establish a plant-irrigated green belt** — plant trees along the riverbank
 3. **Create fields and gardens on either side** — as the water table rises, cultivation becomes possible
 4. **Extend the forest outward** — plant additional trees at the expanding edge
-5. **Widen the green belt progressively** — each expansion creates conditions for the next
-
-Over time, the green belt widens, the forest deepens, and the desert recedes — all driven by the natural water-moving capacity of tree roots, not by human engineering.
-
-## Clay Pellets for Desert Seeding
-
-Fukuoka also devised a brilliantly simple method for direct seeding in arid environments: enclosing seeds in clay pellets and scattering them across deserts and savannas.
-
-> "Enclosing the seeds of suitable plants in clay pellets and scattering the pellets in the deserts."
-
-The seed mixture he proposed was intentionally diverse:
-
-- **Green manure tree seeds**, especially acacias, to establish the canopy layer
-- **Clover, alfalfa, and bur clover** as nitrogen-fixing ground cover
-- **Grain and vegetable seeds** to demonstrate productive potential
-
-These seeds receive a double coating — first a layer of earth, then a protective outer layer of clay — forming hard pellets that can be scattered by hand over vast areas of desert and savanna.
-
-> "The seeds within the hard pellets are protected from predation by mice and birds, and do not germinate until rain has fallen and conditions are just right."
-
-The clay pellet solves the central problem of desert seeding: most seeds scattered on bare desert are eaten by animals or germinate prematurely and die. The pellet shields the seed until the precise moment conditions are favorable — when rain falls and the soil is moist enough to support growth.
-
-Fukuoka's approach was radically non-selective about which plants should establish:
-
-> "Any types of plant will do as long as the deserts are soon covered once again with vegetation. Such a method will surely bring the rains back to the desert."
-
-The goal is not to create a specific plant community but to restore vegetative cover of any kind. Once vegetation is established, it creates its own microclimate — shading the soil, reducing evaporation, and contributing organic matter. Over time, this vegetative cover can influence regional weather patterns, including rainfall.
-
-The promise is breathtaking in its simplicity: cover the desert with plants, and the rains will return. Not through geoengineering or atmospheric manipulation, but through the restoration of the natural water cycle that vegetation sustains.
-
-## Summary
-
-Fukuoka's epilogue and desert greening proposals form a unified vision. The philosophical reflections on the limits of human knowledge are not abstract musings — they are the foundation upon which his practical methods rest. The plant irrigation method and [[clay-pellet-seeding]] are not technologies but expressions of a worldview: that nature is wiser than science, that non-action is more powerful than intervention, and that the path to [[fukuoka-straw-healing-the-earth]] begins with healing our relationship to it.
-
-The frog in the well need not remain in the well. But it must first stop mistaking its own reflection for the world.

@@ -1,5 +1,5 @@
 ---
-title: "[[halpern-sacramental-peyote-and-native-american-church]] Peyote [[ayahuasca-ceremony-structure-and-practice]] Roles Roadman"
+title: Native American Church Peyote Ceremony Structure Roles Roadman
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [native-american-church, peyote, ceremony, roadman, shamanism, entheogenic-ritual]
 created: 2026-05-10
@@ -31,7 +31,7 @@ The all-night duration is significant. It allows participants to move
 through different phases of the peyote experience, from initial onset
 through peak effects to the gradual return to ordinary consciousness.
 The progression from darkness through to dawn mirrors psychological and
-spiritual themes of death and rebirth that are central to many
+spiritual themes of [[shamanism-death-and-rebirth]] that are central to many
 indigenous ceremonial traditions.
 
 ## The Roadman: Central Ceremonial Authority

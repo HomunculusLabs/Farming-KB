@@ -20,7 +20,7 @@ in historical examples, psychological analysis, and indigenous wisdom.
 ## The Reality of Psychological Risk
 
 Powell acknowledges "the obvious dangers posed by the use of [[psychedelic-substances-comparison]] — such as
-their capacity to induce intense psychical terror (the so-called '[[EMCDDA]]')." He does not
+their capacity to induce intense psychical terror (the so-called '[[emcdda-magic-mushroom-hunting-europe]]')." He does not
 minimise this risk but contextualises it: native cultures have managed to "tame" psychedelics
 "through a learned appreciation of their scope of effect" while simultaneously acquiring "a
 wealth of supra-mundane knowledge along the way."

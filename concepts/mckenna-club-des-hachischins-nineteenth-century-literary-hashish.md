@@ -15,7 +15,7 @@ sources:
 
 # Club des Hachischins and Nineteenth-Century Literary Hashish
 
-The Club des Hachischins -- the Club of Hashish Eaters -- stands as one of the
+The Club des Hachischins -- the Club of [[hashish]] Eaters -- stands as one of the
 most celebrated episodes in the Western encounter with psychoactive plants.
 Formed in Paris in the early 1840s by leading French writers and artists, this
 weekly gathering represented the first systematic European exploration of

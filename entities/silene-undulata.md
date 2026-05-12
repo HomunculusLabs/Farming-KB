@@ -88,3 +88,10 @@ Among the Xhosa, *S. undulata* root is consumed during **ukuthwasa** — the pro
 The dried root is pulverized into a fine white powder and mixed with water, traditionally consumed before sleep to induce **prophetic dreams** believed to carry messages from ancestors.
 
 Initiates report experiencing exceptionally vivid, colorful dreams that are interpreted by elders to confirm the calling to become a healer.
+
+## See Also
+- [[silene-capensis]]
+- [[dom]]
+- [[doc]]
+- [[silene-vulgaris]]
+- [[silene-regia]]

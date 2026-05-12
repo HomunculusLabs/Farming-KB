@@ -17,7 +17,7 @@ purification.
 
 ### Step 1: Protection of 4-Hydroxyindole
 The synthesis begins with commercially available 4-hydroxyindole (compound 3).
-The hydroxyl group is protected by acetylation using acetic anhydride in
+The hydroxyl group is protected by acetylation using [[acetic-anhydride]] in
 pyridine and dichloromethane at 0 degrees Celsius to room temperature. The
 product, 4-acetylindole (compound 4), is obtained as ivory white crystals in
 high yield after aqueous workup and filtration. The acetyl protecting group was

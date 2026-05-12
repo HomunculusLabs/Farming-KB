@@ -67,7 +67,7 @@ solubilize and bind iron with affinities up to 10^30 times higher than plant
 iron chelators, effectively scavenging iron from the soil environment.
 PGPR siderophores can benefit host plants through competitive exclusion of
 pathogenic microorganisms. By sequestering available iron, PGPR create an
-iron-depleted zone around roots that inhibits the growth of [[Cordyceps]]
+iron-depleted zone around roots that inhibits the growth of [[cordyceps-cultivation]]
 and bacteria that cannot compete for iron. Some plants can directly uptake
 bacterial siderophore-iron complexes through specific transporters,
 effectively accessing iron that would otherwise be unavailable. Common

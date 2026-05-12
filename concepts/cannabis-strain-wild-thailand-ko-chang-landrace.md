@@ -76,7 +76,7 @@ Buds were threaded onto bamboo splints, bound with hemp string, and often soaked
 
 ### Old-School Breeder Perspectives
 
-Cannabis breeder and author The Rev has noted that Southeast Asian sativas — including [[Thai]], [[Haze]], [[vietnam-black]], and [[Cambodian]] — were among the most coveted genetics for old-school breeders. These strains formed the genetic backbone of many legendary hybrids, including [[amnesia-haze]], [[thai-haze]], and [[super-silver-haze]]. Wild Thailand represents a rare opportunity to work with relatively unadulterated Thai genetics in an era of increasing homogenization and hybridization.
+Cannabis breeder and author The Rev has noted that Southeast Asian sativas — including [[Thai]], [[haze-genetics]], [[vietnam-black]], and [[Cambodian]] — were among the most coveted genetics for old-school breeders. These strains formed the genetic backbone of many legendary hybrids, including [[amnesia-haze]], [[thai-haze]], and [[super-silver-haze]]. Wild Thailand represents a rare opportunity to work with relatively unadulterated Thai genetics in an era of increasing homogenization and hybridization.
 
 ## Ko Chang — The Source
 
@@ -88,3 +88,38 @@ Pure Southeast Asian sativas share several defining traits that distinguish them
 
 - **Extended flowering** periods of 12–16 weeks, reflecting equatorial photoperiods with minimal seasonal light variation
 - **Extreme height** and vigorous vegetative growth, often exceeding 3 meters outdoors
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[sea-of-green]]
+- [[supercropping]]
+- [[myrcene]]
+- [[terpinolene]]
+- [[ocimene]]

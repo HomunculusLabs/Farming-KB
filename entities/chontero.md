@@ -33,3 +33,71 @@ A chontero is a type of sorcerer in Amazonian vegetalismo who specializes in inf
 
 ## Cultural Context
 The chontero appears in Vision 12 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]] (Three Types of Sorcerers). The concept of magical dart sorcery is widespread across Amazonian cultures and is one of the most commonly reported forms of illness-causing sorcery in anthropological literature on the region.
+
+## Diagnostic Pattern
+
+The chontero is important because the harm is hidden inside an apparently ordinary illness.
+
+A victim may feel pain without seeing a wound, because the dart is spiritual rather than grossly physical.
+
+Ayahuasca diagnosis reveals the attack as zigzagging lights around the patient.
+
+Those lights function as a visual signature of dart movement and sorcery trajectory.
+
+A trained curandero must identify not only that the patient is ill, but what kind of sorcerer has acted.
+
+This makes chontero diagnosis part of the broader defensive system in [[amazonian-shamanic-battles-and-defensive-powers]].
+
+It also connects the entity to [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]] and [[shamanic-powers-and-mariris]].
+
+## Materials of the Dart
+
+The listed dart materials are all sharp, penetrating, or animal-associated.
+
+Plant thorns carry the aggressive power of defended vegetation.
+
+Bird beaks carry piercing, aerial attack.
+
+Snake fangs carry venom and stealth.
+
+Porcupine quills carry the defensive weaponry of the casha-cushillo.
+
+By combining these materials in the category of chontas or virotes, the tradition reads natural morphology as magical technology.
+
+The dart is not arbitrary; it borrows the injury-making capacity of the organism from which it comes.
+
+## Treatment Logic
+
+Protection against chontero attack depends on preparation before the attack and skilled removal after the attack.
+
+If the body has been treated by a good vegetalista, the victim notices the intrusion quickly.
+
+Early recognition allows rapid intervention before the dart settles deeply into the body.
+
+If untreated, the victim lacks the sensitivity and protection needed to interpret the pain.
+
+The illness can then progress until it becomes fatal.
+
+This pattern emphasizes prophylaxis: protective plants, songs, perfumes, and mariri are not optional extras.
+
+They create the conditions under which an attack becomes diagnosable and curable.
+
+## Relationship to Other Sorceries
+
+Chontero sorcery differs from [[marupa-sorcery]] and [[huani-sorcery]] by its emphasis on darts.
+
+The three sorcerer types form a practical taxonomy of harm.
+
+Each type implies different symptoms, visionary signs, plant allies, and countermeasures.
+
+For research purposes, chontero should be tracked wherever Amaringo describes virotes, chontas, mariri, or dart extraction.
+
+The concept also helps interpret why many plants in vegetalismo are valued primarily for defense rather than direct cure.
+
+## Research Questions
+
+- Are specific icaros named for removing chontas or virotes?
+- Which plants are used to harden or sensitize the body before attack?
+- Do zigzagging lights appear in other diagnostic contexts?
+- How does Shipibo dart sorcery compare with similar Amazonian illness theories?
+- Are different dart materials believed to produce different symptoms?

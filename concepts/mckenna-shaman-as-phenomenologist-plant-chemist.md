@@ -88,3 +88,10 @@ societies is ambivalent and often uncomfortable:
 - Called upon only in crisis: illness, death, psychological disturbance,
   theft, or weather prediction
 - Consulted as specialists — more like surgeons than saints
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[shamanism]]
+- [[mckenna-shaman-as-phenomenologist-and-crisis-responder]]
+- [[mckenna-shaman-centeredness-and-peripheral-social-role]]

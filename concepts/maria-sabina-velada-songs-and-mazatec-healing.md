@@ -1,5 +1,5 @@
 ---
-title: "[[maria-sabina]] Velada Songs And Mazatec Healing"
+title: Maria Sabina Velada Songs and Mazatec Healing
 created: 2026-04-26
 tags:
   - mazatec
@@ -88,3 +88,7 @@ Wasson's treatment of the veladas was deeply problematic. He forced
 complex indigenous [[blesching-cannabis-healing-practices-setting-intention-affirmations]] into his own preconceptions rather
 than attempting to understand them on their own terms. He arrived in
 Mexico with his vision of an ancient mushrooming cult fully formed,
+
+## See Also
+
+- [[maria-sabina]]

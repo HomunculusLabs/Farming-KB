@@ -23,7 +23,7 @@ sources: ["Shulgin - PIHKAL"]
 > total body and a light pressure in the head that changed with time
 > into the feeling of a balloon without any anatomical definition. The
 > usual color perception was not very much increased, and my vision was
-> not sharpened as it was with DOM. Rather, I noticed waves of
+> not sharpened as it was with [[dom]]. Rather, I noticed waves of
 > movement, very smooth and not too busy. Both my tactile perception
 > and auditory acuity were enhanced. The main effect for me was,
 > paradoxically, an easier handling of the outer world. None of the

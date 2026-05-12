@@ -1,12 +1,12 @@
 ---
-title: Amanita Muscaria Living Bread Recipes Cereal Ambrosia and Wine
+title: Amanita Muscaria Living Bread Recipes Cereal Ambrosia Wine
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
 
 # Living Bread Recipes: Cereal, Ambrosia, and Wine
 
-Dried *Amanita muscaria*, when prepared as food and drink, is called **Living Bread**. This page
+Dried *[[amanita-muscaria]]*, when prepared as food and drink, is called **Living Bread**. This page
 covers the primary recipes and preparations derived from the dried mushroom, along with their
 historical and religious significance.
 
@@ -55,7 +55,7 @@ with "ambrosia" encoding the memory of a real substance consumed in ritual conte
 ## Living Bread Wine
 
 One of the most remarkable properties of dried *Amanita muscaria* is its ability to transform
-fruit juice into a potent sacramental drink in a matter of minutes — with no fermentation
+[[bionutrients-lab-fermented-fruit-juice-ffj]] into a potent sacramental drink in a matter of minutes — with no fermentation
 required.
 
 ### Preparation
@@ -69,7 +69,7 @@ takes only a few minutes from start to finish.
 
 Multiple fruit juices work well for this preparation:
 
-- **Grape juice** — the most traditional choice, closely paralleling sacramental wine
+- **Grape juice** — the most traditional choice, closely paralleling [[amanita-muscaria-sacramental-wine-juice-culturing-growing-area]]
 - **Apple juice** — produces a milder, sweeter wine
 - **Pineapple juice** — adds a tropical brightness
 - **Orange juice** — creates a citrus-infused variant
@@ -107,7 +107,7 @@ source of both the bread and the wine — the true vine that sustains its follow
 ### Origins of the Eucharist
 
 Taken together, the evidence suggests that the Christian Eucharist may have originated as the
-consumption of *Amanita muscaria* preparations in early Christian communities. Over
+consumption of *Amanita muscaria* preparations in [[allegro-dead-sea-scrolls-and-early-christian-sects]] communities. Over
 centuries, as the original botanical knowledge was lost or suppressed, the literal mushroom
 was replaced with symbolic wheat bread and fermented grape wine, but the structure of the
 ritual — sacred bread and sacred wine consumed in communion — remained intact.
@@ -148,21 +148,3 @@ Grinding the dried mushroom into flour significantly increases its surface area,
 turn **accelerates the extraction of active compounds** into water or juice. Coarse pieces
 extract more slowly; fine flour extracts quickly. The grind size can be adjusted to control
 both the texture of the preparation and the speed of extraction.
-
-### Multiple Preparations from One Material
-
-A single batch of dried mushroom can be used to make many different preparations: hot cereal,
-cold Ambrosia, hot Ambrosia, grape wine, apple wine, and more. This multiplicity of forms
-from a single source material is a key feature that allowed the practice to adapt to diverse
-cultures while remaining fundamentally the same.
-
-### Taste and Palatability
-
-The taste of the dried mushroom is notably pleasant. Descriptions consistently mention notes
-of **honey, malt, and sweet bread** — far from the bitter or unpleasant flavor one might
-expect of a psychoactive botanical. This pleasant taste made it suitable for daily food use
-and easy to incorporate into existing culinary traditions without the need to mask its flavor.
-
----
-
-*See also: [[Amanita Muscaria: Herb of Immortality]]*

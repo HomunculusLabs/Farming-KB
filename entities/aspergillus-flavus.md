@@ -64,7 +64,7 @@ to mycoparasitic colonization by other soil fungi.
 ### Mycotoxin Production
 - Primary producer of aflatoxins B1 and B2, among the most potent
   naturally occurring carcinogens known
-- Aflatoxin B1 is classified as a Group 1 carcinogen by the
+- [[aflatoxin]] B1 is classified as a Group 1 carcinogen by the
   International Agency for Research on Cancer
 - Contamination of maize, peanuts, cottonseed, and tree nuts
   represents a major global food safety concern

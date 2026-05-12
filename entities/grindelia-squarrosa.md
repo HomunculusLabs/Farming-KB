@@ -88,3 +88,10 @@ The principal bioactive constituents are diterpene resin acids,
 particularly grindelic acid and related grindelane compounds.
 
 These resin acids are concentrated in the flower heads and leaf
+
+## See Also
+- [[dom]]
+- [[psilocybin]]
+- [[dicksonia-squarrosa]]
+- [[pholiota-squarrosa]]
+- [[grindelia-robusta]]

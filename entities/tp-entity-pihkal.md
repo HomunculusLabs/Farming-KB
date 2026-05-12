@@ -61,7 +61,7 @@ these alkylthio analogues would justify the labor needed to make them.
 
 A solution was made of 12.1 g
 N,N,N',N'-tetramethylethylenediamine and 13.8 g of
-1,3-dimethoxybenzene in 200 mL 30-60 deg C petroleum ether. This was
+1,3-dimethoxybenzene in 200 mL 30-60 deg C [[petroleum-ether]]. This was
 stirred vigorously under a He atmosphere and cooled to 0 deg C with an
 external ice bath. There was added 66 mL of 1.6 M butyllithium in
 hexane which produced a white granular precipitate. The reaction

@@ -137,7 +137,7 @@ influence.
 
 Despite these challenges, the core principle — working with natural processes
 rather than against them — has influenced modern restoration ecology and
-[[biochar-in-regenerative-agriculture]].
+[[biochar]].
 
 ## See Also
 

@@ -88,3 +88,10 @@ Plants demonstrate remarkable chemical perception:
 
 - Parasitical plants recognize the slightest trace of their victim's
   odor and overcome all obstacles to crawl in its direction
+
+## See Also
+- [[dom]]
+- [[doc]]
+- [[det]]
+- [[dandelion]]
+- [[plant-olfaction-and-chemical-communication]]

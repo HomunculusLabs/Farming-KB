@@ -9,7 +9,7 @@ tags: [germination, seed-sprouting, petri-dish, laboratory-germination, chitting
 
 ## Overview
 
-[[steve-solomon-evidence-based-organic-gardening]] devotes significant attention in *Gardening When It Counts* to the science of [[cannabis-seed-germination]], drawing directly from laboratory seed-testing protocols to help home gardeners achieve reliable [[solomon-thinning-overseeding-stand-establishment]]. The core principle is straightforward: to maximize field germination, gardeners should replicate as closely as possible the ideal sprouting conditions that seed laboratories use. Solomon teaches the specific techniques germ labs employ and translates them into practical methods for the home garden.
+[[steve-solomon]] devotes significant attention in *Gardening When It Counts* to the science of [[cannabis-seed-germination]], drawing directly from laboratory seed-testing protocols to help home gardeners achieve reliable [[solomon-thinning-overseeding-stand-establishment]]. The core principle is straightforward: to maximize field germination, gardeners should replicate as closely as possible the ideal sprouting conditions that seed laboratories use. Solomon teaches the specific techniques germ labs employ and translates them into practical methods for the home garden.
 
 ## Laboratory Germination Protocol
 

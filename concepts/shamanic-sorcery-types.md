@@ -142,22 +142,6 @@ This vision presents a mareación (visionary state) produced by cielo ayahuasca 
 - Grinfel, Count of the Empire of the Planet Saturn, with powers of sensual hypnotism
 - A Shipibo healer with ayahuasca
 - An Inca priest (Varayok) who had direct contact with extraterrestrial beings from Andromeda
-- A lama from the Himalayan mountains
-
-## The Three Powers — Land, Water, and Sky (Vision 14a)
-
-The vision of the Three Powers represents contact with elemental forces:
-
-**Land**: The Sachamama and those who dominate her, including witch doctors, sorcerers, true healers, and witches seated in various plants (maramara, toe, patiquina, siuca-huito).
-
-**Water**: A great Yakumama in the river, sometimes appearing as a steamboat, carrying the sumiruna, muraya, and banco. Also present are the huya-runa snakes fighting against the Puma-runa (jaguar-man).
-
-**Sky**: The Huairamama, a snake that moves with great wind. When this snake bathes, thunder is heard but no rain falls — a phenomenon called supay-cato (ghost bath). The Huairamama carries sylphs who teach sidereal defense and esoteric sciences, accompanied by flying objects as guardians.
-
-## Key Themes
-
-The taxonomy of sorcery in Amazonian vegetalismo reflects a sophisticated understanding of different types of spiritual harm, each requiring specific diagnostic and therapeutic approaches. The diagnostic system — reading light patterns during [[amaringo-ayahuasca-visions-shipibo-iconography]] — represents a form of spiritual medical technology. The tradition recognizes that the same plant knowledge used for healing can be inverted for harm, and the moral orientation of the practitioner determines the outcome.
-
 ## Related Topics
 
 - [[ayahuasca-ceremony-and-mariri-system]]

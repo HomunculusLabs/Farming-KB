@@ -36,3 +36,48 @@ The banco's practice of swallowing virotes from specific palm trees (inchahui, p
 - Muraya — ranking below banco
 - Mariri — magical substance at advanced stage in bancos
 - Icaro — sacred songs at highest proficiency in bancos
+
+## Position in the Hierarchy
+
+The banco rank marks a practitioner who has moved beyond ordinary curing into advanced esoteric work.
+Below the sumiruna but above the muraya, the banco is powerful enough to handle dangerous medicines, weapons, and spirit visitors.
+The title therefore signals both capability and risk: a banco can heal complex afflictions, but also operates in zones where mistakes have severe consequences.
+This makes the page a useful companion to [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]].
+
+## Tools and Emblems
+
+The flying wheel indicates mobility across visionary space.
+The diamond sword indicates precision cutting, especially the removal of darts, bindings, or hostile influences.
+The tortoise seat suggests stability, endurance, and an ability to remain grounded while swallowing dangerous virotes.
+Together these emblems describe a practitioner who combines movement, discernment, and containment.
+The same symbolic system appears aboard [[aceropunta]], where bancos work as high alchemists within a larger visionary institution.
+
+## Relation to Icaros
+
+A banco's power is not separate from song.
+Advanced icaros call descending masters, activate medicines, and coordinate the arrival of helper beings.
+Without the right [[icaro]], the banco's tools would be inert or unsafe.
+This emphasis on sung command explains why high rank is measured not only by visions seen but by the ability to reproduce effective songs under pressure.
+The banco thus represents a mature stage of the same sound-based practice described in [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]].
+
+## Research Use
+
+For comparative study, banco material is valuable because it records how Amazonian traditions classify expertise internally.
+Rather than treating all shamans as equivalent, the hierarchy distinguishes levels of medicine, danger, and cosmological access.
+That distinction helps interpret Amaringo's visionary scenes, where the rank of a practitioner often explains what beings, vehicles, or weapons appear.
+
+## Ceremony Dynamics
+
+In ceremony, a banco's authority is shown by composure under strong visionary pressure.
+The practitioner must remain oriented while other beings descend, medicines intensify, and patients present complicated afflictions.
+This steadiness explains the image of sitting on a tortoise while absorbing virotes.
+It is a picture of controlled slowness inside an otherwise volatile field.
+The banco does not merely resist danger; he metabolizes it into usable medicine.
+
+## Ethical Dimension
+
+High rank also implies ethical burden.
+A banco who can attract fortune, perform love magic, or wield spiritual weapons could easily misuse those capacities.
+The hierarchy therefore assumes that technical power must be paired with discipline and restraint.
+When this restraint fails, the same powers associated with healing can slide toward sorcery.
+This ambiguity is central to Amaringo's presentation of advanced shamanism.

@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Experience Preparation
 
-Proper preparation is the single most important factor in determining the quality and safety of a psychedelic experience. Turner emphasizes that the main reason for negative experiences is lack of preparation, rather than anything inherent in the person or in the substance. One's chances of having a [[EMCDDA]], or not being able to reintegrate afterwards, can be sharply reduced by learning about the experience beforehand.
+Proper preparation is the single most important factor in determining the quality and safety of a psychedelic experience. Turner emphasizes that the main reason for negative experiences is lack of preparation, rather than anything inherent in the person or in the substance. One's chances of having a [[emcdda-magic-mushroom-hunting-europe]], or not being able to reintegrate afterwards, can be sharply reduced by learning about the experience beforehand.
 
 ## Physical Preparation
 

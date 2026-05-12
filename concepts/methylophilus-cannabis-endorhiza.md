@@ -2,14 +2,14 @@
 
 ## Overview
 
-Methylophilus is a genus of methylotrophic bacteria that emerged as a striking
+Methylophilus is a genus of [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]] that emerged as a striking
 example of cultivar-specific microbial enrichment in the cannabis (Cannabis
-sativa L.) root microbiome. In a landmark study examining the endorhiza (root
+sativa L.) root microbiome. In a [[naturwissenschaften-1990-brassinosteroid-psilocybe-landmark-study]] examining the endorhiza (root
 interior) communities across three chemically distinct cultivars — Bookoo Kush,
 Burmese, and Sour Diesel — Methylophilus displayed dramatic variation in
 relative abundance that could not be explained by soil or [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 alone. This finding provided key evidence supporting a two-tier model of root
-microbiome selection, where host genotype acts as a secondary filter on top of
+[[cannabis-two-tier-microbiome-selection]], where host genotype acts as a secondary filter on top of
 soil-driven [[biodiversity-fungal-community-assembly]].
 
 ## Taxonomic Background
@@ -25,14 +25,14 @@ and remodeling, pectin degradation releases methanol into the surrounding
 rhizosphere and potentially into the root endosphere itself. Methylophilus
 species are well-adapted to exploit this niche, possessing methanol
 dehydrogenase enzymes that oxidize methanol to formaldehyde, which then enters
-central carbon metabolism via the ribulose monophosphate pathway.
+central [[one-carbon-metabolism]] via the ribulose monophosphate pathway.
 
 ## Cultivar-Specific Enrichment Pattern
 
 The [[otu-differential-abundance-cannabis-microbiome]] of Methylophilus across the three studied cannabis
 cultivars was one of the most pronounced taxonomic signals in the entire
 experiment. Bookoo Kush harbored approximately 13% Methylophilus sequences in
-its [[Proteobacteria]], making it one of the dominant genera in that
+its [[proteobacteria-dominance-cannabis-endorhiza]], making it one of the dominant genera in that
 cultivar's root interior. In stark contrast, Burmese showed only 0.13%
 Methylophilus — a 100-fold reduction. Sour Diesel had no detectable
 Methylophilus sequences whatsoever in its endorhiza. This three-tier gradient
@@ -46,8 +46,8 @@ enrichment.
 ## The Two-Tier Selection Model
 
 The Methylophilus pattern fits neatly into the two-tier selection model for
-root microbiome assembly. In the first tier, soil conditions — including pH,
-organic matter content, moisture, and mineral composition — select for a broad
+root [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]. In the first tier, soil conditions — including pH,
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content, moisture, and mineral composition — select for a broad
 pool of potentially root-associated bacteria from the vast soil metacommunity.
 This tier explains the shared core microbiome observed across all cannabis
 cultivars, which includes taxa like Pseudomonas, Cellvibrio, and members of

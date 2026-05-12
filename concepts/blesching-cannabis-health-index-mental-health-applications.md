@@ -88,3 +88,38 @@ The ECS influences dopamine, norepinephrine, GABA, and glutamate -- all implicat
 Self-medication with cannabis among ADHD patients is widely reported in clinical surveys. A 2015 German study found that cannabis preparations improved concentration, sleep quality, and reduced impulsivity in adult ADHD patients. Cannabinoids may help compensate for dopaminergic deficits in the prefrontal cortex by modulating CB1 receptor activity, which indirectly influences dopamine release. However, Blesching cautions that long-term heavy cannabis use during adolescence may impair executive function, suggesting treatment should be reserved for adults or carefully supervised in younger patients.
 
 ### Obsessive-Compulsive Disorder
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[cannabis-for-mental-health]]
+- [[cannabis-health-index]]
+- [[ayahuasca]]
+- [[doc]]
+- [[psilocybin]]

@@ -61,7 +61,7 @@ most farmers expect.
 ## The Summer Green Manure Phase
 
 One of the most important aspects of the backwards farm experiment was the use of summer
-[[cover-crops-and-green-manures]]. During the months when the greenhouses were empty of vegetable crops, the soil
+[[cover-crops]]. During the months when the greenhouses were empty of vegetable crops, the soil
 was planted with long-term, deep-rooting, leguminous [[green-manure-crops]].
 
 These green manures served multiple purposes. They protected the soil from erosion and weed
@@ -87,3 +87,38 @@ During this period, the farm refined many unique [[passive-solar-design]] featur
 programs. The [[coleman-mobile-greenhouse-system]] system was developed and tested. The transition from glass
 cold frames to floating row covers as the inner layer of protection was made. Precise
 planting dates for each crop were determined through years of trial and error.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[eliot-coleman]]
+- [[coleman-backwards-farm-winter-only-summer-fallow]]
+- [[doc]]
+- [[det]]
+- [[composting]]

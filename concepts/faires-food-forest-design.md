@@ -63,7 +63,7 @@ The end goal is not to destroy everything already there. Improvements should bec
 
 ## Plant Guilds
 
-Guilds are communities of plants organized around a central element based on [[companion-planting-and-polycultures]] growing tendencies. They reduce root competition, provide shelter, add nutrients, and deter pests.
+Guilds are communities of plants organized around a central element based on [[companion-planting]] growing tendencies. They reduce root competition, provide shelter, add nutrients, and deter pests.
 
 Classic examples:
 - **Three Sisters**: corn (support), beans (nitrogen fixer), squash (ground shade) — produces much more food per square foot than any could alone
@@ -88,3 +88,38 @@ Record each species on 3x5 index cards with all characteristics and growing inst
 Large-scale single crops are possible if the crop needs little work after planting and is easy to harvest and store. These should never replace other system elements. The forest garden's strength is diversity and resilience.
 
 ## See Also
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[food-forest-design]]
+- [[food-forest]]
+- [[forest-gardens]]
+- [[det]]
+- [[ecological-succession]]

@@ -1,5 +1,5 @@
 ---
-title: Mushroom [[mushroom-cultivation-disabilities-substrate-bag-production]]
+title: "Mushroom Substrate Bag Production"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-There is increasing concern about the use of peat as a growing medium. Peat is a dwindling natural resource, and excavating peat bogs on an industrial scale not only destroys unique habitats but is damaging to the wider environment. The [[geoff-hamilton-the-organic-gardening-companion]] movement has been at the forefront of promoting peat-free alternatives.
+There is increasing concern about the use of peat as a growing medium. Peat is a dwindling natural resource, and excavating peat bogs on an industrial scale not only destroys unique habitats but is damaging to the wider environment. The [[geoff-hamilton]] movement has been at the forefront of promoting peat-free alternatives.
 
 ## The Problem with Peat
 

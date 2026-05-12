@@ -87,3 +87,17 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[fukuoka-natural-orchard-three-dimensional-design]]
+- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
+- [[doc]]
+- [[det]]
+- [[mycorrhiza]]

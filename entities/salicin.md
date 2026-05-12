@@ -48,7 +48,7 @@ profile due to its gradual conversion to the active metabolite.
 - **CAS number:** 138-52-3
 - **Appearance:** White crystalline powder
 - **Melting point:** 199–201 °C
-- **Solubility:** Soluble in water, ethanol, and pyridine; slightly
+- **Solubility:** Soluble in water, [[ethanol]], and pyridine; slightly
   soluble in ether
 
 Salicin consists of salicyl alcohol linked via a β-glycosidic bond to

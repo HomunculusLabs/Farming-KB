@@ -141,4 +141,4 @@ spawn production operation, regardless of scale.
 - [[mushroom-cultivator-grain-spawn-production]]
 - [[mushroom-spawn-production-grain-inoculation]]
 - [[mushworld-oyster-spawn-production-guide]]
-- [[mushroom-spawn-production-and-laboratory-techniques]]
+- [[mushroom-spawn]]

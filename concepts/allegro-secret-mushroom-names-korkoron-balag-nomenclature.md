@@ -1,5 +1,5 @@
 ---
-title: Allegro Secret [[sacred-mushroom-names-cross-cultural-synonyms]] Korkoron BALAG and Nomenclature
+title: Allegro Secret Mushroom Names Korkoron Balag Nomenclature
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
@@ -24,7 +24,7 @@ The principal Sumerian originals of secret mushroom names include:
 - **KUR-KUR** — the doubled "mountain" name, describing the mushroom's double-cone form
 - **\*MASh-TAB-BA-RI / TI UKUSh-LI-LI-GI** — "twin bun-shape" names describing the
   mushroom's hemispherical cap split by the stem
-- **\*T-BA-PI-GI** — a variant name encoding cap and stem morphology
+- **\*T-BA-PI-GI** — a variant name encoding [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] morphology
 
 Each element is a Sumerian logogram carrying botanical, sexual, or religious connotation.
 Transmitted through Phoenician trade routes, these names surface in Greek botanical
@@ -68,7 +68,7 @@ records that the emperor Claudius expelled the Jews from Rome **"at the instigat
 Chrestus"** (*Vita Claudii* 25.4).
 
 The phonetic proximity of **Chrestus** and **Christus** (the "Anointed One") is no
-coincidence. Allegro concludes: **"What Pliny is describing then is the 'Jesus Christ'
+coincidence. Allegro concludes: **"What Pliny is describing then is the '[[oner-jesus-christ-and-jack-47]]'
 mushroom"** — the sacred fungus whose juice conferred health, popularity, prophetic
 insight, and the fulfillment of wishes upon those who consumed it.
 
@@ -145,18 +145,6 @@ cap. **MASh(-TAB-BA)** means "twin," referring to paired or duplicated structure
   dome-shaped halves
 - **GI** = "stem" — the mushroom's stalk
 - **LI-LI-GI** = "two halves [of the volva] separated by [the] erect stem" — a vivid
-  morphological description of the Amanita muscaria with its split universal veil
+  morphological description of the [[allegro-amanita-muscaria-properties-and-pharmacology]] with its split universal veil
 
 These compound names form the core of the mushroom's secret nomenclature, transmitted
-through centuries of esoteric tradition from Sumerian temple priests to the authors of
-the New Testament.
-
-## Summary
-
-The Sumerian mushroom names encode the sacred fungus in three overlapping registers:
-morphological (cone, mountain, twin hemispheres, split volva), pharmacological (healing,
-prophetic frenzy, wish-fulfillment), and phallic (glans, erection, raised crown). Through
-phonetic transmission and deliberate word-play, these names surface in Greek botanical
-literature (Korkoron, Kirkaion, Halicacabus), Hebrew scripture (paqqu'ah), and the
-New Testament (Peter's commission, the brazen serpent), revealing the mushroom at the
-hidden center of [[allegro-christian-origins-philological-study-esoteric-names]].

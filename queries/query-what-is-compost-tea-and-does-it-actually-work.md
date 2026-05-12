@@ -25,7 +25,7 @@ This is different from simply mixing compost with water, which produces a nutrie
 
 There is an important distinction between [[aerobic-vs-fermentative-compost-tea|aerobic and fermentative compost tea]].
 Aerobic teas use an air pump to maintain dissolved oxygen above 6 mg/L throughout the brew.
-Fermentative teas rely on anaerobic or low-oxygen conditions, producing different microbial communities that may include lactic acid bacteria and yeast.
+Fermentative teas rely on anaerobic or low-oxygen conditions, producing different microbial communities that may include [[lactic-acid-bacteria]] and yeast.
 The aerobic method is generally preferred for foliar spraying because it favors beneficial bacteria that compete with pathogens on leaf surfaces.
 
 ## What the Science Says
@@ -45,18 +45,7 @@ University extensions generally recommend it as part of an integrated approach r
 
 The foundation of good compost tea is high-quality, fully finished compost.
 Your compost should smell earthy and sweet, with no sour or putrid odors.
-Using [[comparison-bokashi-vs-compost-tea|bokashi-prepared compost]] as a tea base is possible but requires extra care since bokashi is acidic and still fermenting.
-Most brewers recommend vermicompost as a starting material because worm castings are rich in beneficial bacteria and humic acids.
-
-A basic AACT setup requires a 5-gallon bucket, an aquarium air pump with air stones, dechlorinated water, compost, and a microbial food source.
-Common food sources include molasses (feeds bacteria), kelp meal (provides micronutrients and trace minerals), and fish hydrolysate (feeds both bacteria and fungi).
-Brew for 24 to 36 hours at 65 to 75 degrees Fahrenheit, maintaining vigorous aeration throughout.
-The tea should smell fresh and earthy when finished; any sour or rotten smell indicates the brew went anaerobic and should be discarded.
-
-## Compost Tea vs Other Soil Amendments
-
-Compost tea occupies a specific niche that overlaps with but is distinct from other biological amendments.
-A [[comparison-compost-tea-vs-biochar|comparison with biochar]] shows that biochar provides long-term soil structure and nutrient retention, while compost tea delivers an immediate pulse of microbial activity.
+Using [[bokashi-vs-compost-tea]] shows that biochar provides long-term soil structure and nutrient retention, while compost tea delivers an immediate pulse of microbial activity.
 They complement each other well: biochar creates habitat for microbes, and compost tea populates that habitat.
 
 Similarly, [[comparison-comfrey-tea-vs-compost-tea|comfrey tea vs compost tea]] highlights different purposes.
@@ -73,7 +62,7 @@ Fermented plant extracts (FPEs) are sometimes confused with compost tea, but the
 FPEs are made by fermenting specific plant materials — typically weeds, herbs, or crop residues — in brown sugar or molasses over several weeks.
 The [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe|compost tea vs FPE comparison]] shows that FPEs contain plant-specific secondary metabolites, enzymes, and organic acids.
 Compost tea is a broad-spectrum microbial inoculant, while FPEs are targeted biochemical extracts.
-Many Korean Natural Farming practitioners use both: FPEs for their phytochemical benefits and compost tea for soil biology.
+Many Korean [[natural-farming]] practitioners use both: FPEs for their phytochemical benefits and compost tea for soil biology.
 In practice, they serve complementary roles rather than competing ones.
 
 ## Common Mistakes to Avoid

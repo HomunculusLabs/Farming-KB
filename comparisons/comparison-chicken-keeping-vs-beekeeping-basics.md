@@ -95,7 +95,7 @@ colony.
 Many homesteaders keep both chickens and bees in complementary roles
 within their permaculture systems. Chickens provide fertility and pest
 control for the garden plants that bees pollinate, creating a
-synergistic loop. See [[bee-forage-plants]] for planting to support both bees
+synergistic loop. See [[forage-turnip]] for planting to support both bees
 and the broader ecosystem. In practice, this means siting hives near
 pollinator-dependent crops and [[faires-chicken-coops-tractors-and-breeding-guide]] near garden beds that
 benefit from manure application. The two animals rarely conflict as long

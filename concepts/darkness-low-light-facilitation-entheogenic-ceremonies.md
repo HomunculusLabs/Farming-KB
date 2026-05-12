@@ -88,3 +88,31 @@ A systematic comparison of entheogenic ceremonies reveals a spectrum of light co
 | UDV | Night, low light | Maestres at center table | Auditory (sermons) |
 
 The consistent pattern is that visual input is minimized but not eliminated entirely. Complete sensory deprivation is not the goal; rather, the aim is to create conditions where internally generated visionary content can compete with — and eventually dominate — external sensory input. The small amount of light present (candle, fire, altar, mirror) serves as an anchor to consensus reality, preventing the experience from becoming ungrounded.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[shamanic-entheogenic-ceremonies]]
+- [[ayahuasca]]
+- [[doc]]
+- [[psilocybin]]
+- [[iboga]]

@@ -1,5 +1,5 @@
 ---
-title: "[[emcdda-psilocybin-mushroom-dose-and-effects]] Fresh Dried Product Forms And [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] 2006"
+title: EMCDDA Psilocybin Mushroom Fresh and Dried Product Forms and Potency Variability (2006)
 source: "carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper)"
 extracted: 2026-05-11
 type: concept

@@ -85,7 +85,7 @@ of medical [[query-how-does-no-till-cannabis-cultivation-work]].
 
 - [[cannabigerol]]
 
-- [[tetrahydrocannabinol-thc]]
+- [[tetrahydrocannabinol]]
 - [[cannabichromene-cbc]]
 - [[cannabinol-cbn]]
 - cannabigerolic acid (CBGA)

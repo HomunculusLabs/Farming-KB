@@ -117,5 +117,5 @@ disturbances.
 - [[phytochrome-ecological-red-far-red-dusk-dawn-signaling]]
 - [[photoperiodism-garner-allard-discovery]]
 - [[short-day-long-day-plant-flowering-classification]]
-- [[cannabinoid-pharmacology]]
+- [[blesching-cannabinoid-pharmacology]]
 - [[chamovitz-maryland-mammoth-photoperiodism-discovery]]

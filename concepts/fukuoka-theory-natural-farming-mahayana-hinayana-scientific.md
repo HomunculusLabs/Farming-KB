@@ -1,12 +1,12 @@
 ---
-title: Fukuoka Theory [[four-principles-of-natural-farming]] [[fukuoka-mahayana-hinayana-scientific-three-paths-detailed]] and Scientific
+title: "Fukuoka Theory Natural Farming Mahayana Hinayana Scientific"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Fukuoka's Theory of Natural Farming: Mahayana, Hinayana, and Scientific
 
-Masanobu Fukuoka, in *The One-Straw Revolution*, draws on Buddhist terminology to classify approaches to agriculture into three fundamental paths. His framework reveals deep philosophical distinctions between farming in harmony with nature and farming that attempts to dominate it through human ingenuity. The classification is not merely practical — it is ontological, touching on the nature of human knowledge, the [[neo-shamanic-phenomenology-and-limits-of-science]], and the meaning of perfection itself.
+[[masanobu-fukuoka]], in *The One-Straw Revolution*, draws on Buddhist terminology to classify approaches to agriculture into three fundamental paths. His framework reveals deep philosophical distinctions between farming in harmony with nature and farming that attempts to dominate it through human ingenuity. The classification is not merely practical — it is ontological, touching on the nature of human knowledge, the [[neo-shamanic-phenomenology-and-limits-of-science]], and the meaning of perfection itself.
 
 ## The Two Ways of Natural Farming
 
@@ -54,7 +54,7 @@ Fukuoka's verdict is unambiguous: "As imperfection can never be the equal of per
 
 ### Hinayana vs. Scientific Farming
 
-Both Hinayana [[korean-natural-farming-and-jadam]] scientific farming operate within what Fukuoka calls "the world of relativity" — the realm where human judgment and partial understanding prevail. Yet their directions are diametrically opposed, and this opposition reveals something essential about each approach.
+Both Hinayana [[korean-natural-farming]] scientific farming operate within what Fukuoka calls "the world of relativity" — the realm where human judgment and partial understanding prevail. Yet their directions are diametrically opposed, and this opposition reveals something essential about each approach.
 
 Hinayana attempts to cast off human knowledge and devote itself to the pure forces of nature, progressively stripping away artifice and approaching the condition of non-intervention. Scientific farming does the opposite — it adds human knowledge layer upon layer, continually intervening, always seeking to improve upon what nature provides unbidden.
 
@@ -100,7 +100,7 @@ Scientific farming is suited to the skillful use of time and space for profit �
 
 ### Where Both Are Equally Effective
 
-Under nearly natural conditions — field cropping, summer grazing, orchard management — natural farming is never inferior to scientific farming. It "is able to take full advantage of nature's forces" without the overhead of artificial inputs.
+Under nearly natural conditions — field cropping, summer grazing, [[fruit-tree-care-and-orchard-management]] — natural farming is never inferior to scientific farming. It "is able to take full advantage of nature's forces" without the overhead of artificial inputs.
 
 In these settings, the two approaches produce comparable yields, but natural farming does so with vastly less effort, cost, and ecological disturbance. The comparison is revealing: same output, radically different input.
 
@@ -112,10 +112,10 @@ Perhaps Fukuoka's most striking argument is the persimmon seed. The technology r
 
 The world's scientists, pooling all their accumulated knowledge and resources, could not fabricate a single viable seed.
 
-Nature accomplishes this effortlessly, billions of times over, every season, in every soil and climate on earth. No laboratory, no budget, no research program can replicate what a single persimmon tree does as a matter of course.
+Nature accomplishes this effortlessly, billions of times over, every season, in every soil and climate on earth. No laboratory, no budget, no [[hofmann-lsd-sandoz-research-program]] can replicate what a single persimmon tree does as a matter of course.
 
 The lesson is inescapable: "An imitation can never outclass the original. Imperfection shall always lie in the shadow of perfection." The gap between the original and the imitation is not one of degree but of kind.
 
 Yet man persists in reveries of technological mastery, despite knowing full well that planting a seed is infinitely easier than manufacturing one scientifically.
 
-The preference for the difficult artificial path over the simple natural one is, for Fukuoka, the central delusion of modern agriculture — and of modern civilization itself. We choose the path of maximum effort and minimum result because it flatters our sense of control, even as nature quietly outperforms us at every turn.
+The preference for the difficult artificial path over the simple natural one is, for Fukuoka, the central delusion of [[fukuoka-critique-modern-agriculture]] — and of modern civilization itself. We choose the path of maximum effort and minimum result because it flatters our sense of control, even as nature quietly outperforms us at every turn.

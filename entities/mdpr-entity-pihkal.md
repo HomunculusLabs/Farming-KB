@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDPR
 
-[[2c-b-pihkal-entry-20]] #118. N-PROPYL-MDA; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #118. N-PROPYL-[[mda]]; 3,4-METHYLENEDIOXY-N-PROPYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -41,7 +41,7 @@ that time, the mid-1970's) to describe the mental effects of [[mdma]]. It
 was as if the body was opened up and made receptive, instead of the
 mind. The second clue came from many anecdotal reports that
 methedrine (a potent central nervous system stimulant) would augment
-the effects of an LSD dosage which followed it. The putting of a drug
+the effects of an [[lsd]] dosage which followed it. The putting of a drug
 
 on top of an inactive drug is the "primer" concept. It turned out
 that MDPR was an extraordinary primer to some following psychedelic,

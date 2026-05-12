@@ -4,7 +4,7 @@
 
 Do plants know anything? Do they possess awareness, intelligence, or even consciousness? These questions have moved
 from philosophical speculation to active scientific controversy. Daniel Chamovitz's epilogue, "The Aware Plant," in
-*What a Plant Knows*, frames this debate by drawing a careful line between sophisticated [[plant-sensory-biology-and-intelligence]] genuine
+*What a Plant Knows*, frames this debate by drawing a careful line between sophisticated [[plant-sensory-biology]] genuine
 cognition. This page examines the scientific arguments, key experiments, and philosophical stakes.
 
 ## What Is Awareness?

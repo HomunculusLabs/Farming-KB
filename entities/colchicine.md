@@ -50,7 +50,7 @@ It is listed on the WHO Essential Medicines List.
 - **Structure:** Tricyclic structure with methoxy groups at positions
   1, 2, 3, and 10; an acetamido group at position 7
 - **Appearance:** Pale yellow to yellowish-white crystalline powder
-- **Solubility:** Slightly soluble in water; freely soluble in ethanol,
+- **Solubility:** Slightly soluble in water; freely soluble in [[ethanol]],
   chloroform; practically insoluble in ether
 
 Colchicine is a neutral compound with a pKa of 1.65, existing

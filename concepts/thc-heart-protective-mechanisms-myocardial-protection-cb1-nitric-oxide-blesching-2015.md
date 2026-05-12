@@ -1,8 +1,8 @@
 ---
-title: "[[blesching-thc-heart-protective-mechanisms-myocardial-protection]] Mechanisms Myocardial Protection Cb1 Nitric Oxide Blesching 2015"
+title: THC Heart Protective Mechanisms, Myocardial Protection, CB1, and Nitric Oxide (Blesching 2015)
 source: raw/papers/uwe-blesching-the-cannabis-health-index.md
 author: Uwe Blesching (2015)
-topic: cardiology, [[cannabinoid]], THC, myocardial protection
+topic: cardiology, [[cannabinoid-receptors-cb1-cb2]], THC, myocardial protection
 mined: 2026-05-11
 ---
 

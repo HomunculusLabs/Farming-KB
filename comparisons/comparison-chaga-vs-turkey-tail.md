@@ -19,7 +19,7 @@ health goals, or whether combining both is the optimal strategy.
 
 ## Chaga (Inonotus obliquus)
 
-[[chaga-mushroom-inonotus-obliquus-ecology-cultivation-and-medicine]]
+[[chaga]]
 
 Chaga is a sterile sclerotium — not a true fruiting body — that grows
 parasitically on living birch trees across the boreal forests of the Northern
@@ -132,7 +132,7 @@ medicinal mushroom blends, though product quality varies significantly. See
 
 ## See Also
 
-- [[chaga-mushroom-inonotus-obliquus-ecology-cultivation-and-medicine]]
+- [[chaga]]
 - [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]
 - [[chaga-mushroom-research]]
 - [[cancer-turkey-tail-psk-clinical-trials]]

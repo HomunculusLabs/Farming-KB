@@ -82,7 +82,7 @@ Pollination studies at Abisko [[psilocybin-isolation-and-early-scientific-resear
 
 Primula stricta often grows in association with other characteristic arctic and boreal wetland species. Common companions include Carex aquatilis, Eriophorum angustifolium, Pedicularis palustris, and various Saxifraga species. In richer calcareous fens, it may be found alongside Primula nutans, forming mixed primrose communities that are among the most botanically diverse habitats in the Arctic.
 
-Seed dispersal in Primula stricta occurs primarily by water and wind. The small, lightweight seeds are readily transported by surface water in the marshy habitats where the species grows, allowing colonisation of new sites along stream corridors. Wind dispersal over snow surfaces is also effective during the winter months when seeds may be blown considerable distances across frozen tundra. Despite these [[fungal-spore-biology-and-dispersal-mechanisms]], population genetic studies indicate limited gene flow between geographically separated populations.
+Seed dispersal in Primula stricta occurs primarily by water and wind. The small, lightweight seeds are readily transported by surface water in the marshy habitats where the species grows, allowing colonisation of new sites along stream corridors. Wind dispersal over snow surfaces is also effective during the winter months when seeds may be blown considerable distances across frozen tundra. Despite these [[fungal-spore-biology]], population genetic studies indicate limited gene flow between geographically separated populations.
 
 ## Conservation Status
 

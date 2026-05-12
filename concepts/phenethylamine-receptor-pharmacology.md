@@ -123,5 +123,5 @@ that can amplify overall effectiveness.
 - [[phenethylamine-pharmacology]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabinoid]]
+- [[cannabinoid-receptors-cb1-cb2]]
 - [[emcdda-psilocybin-psilocin-serotonin-5ht2a-receptor-pharmacology]]

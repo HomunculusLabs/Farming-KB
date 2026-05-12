@@ -1,5 +1,5 @@
 ---
-title: Hashish, the Scythians, and Classical Cannabis
+title: Mckenna Hashish Scythians And Classical Cannabis
 created: 2026-04-28
 tags: [cannabis, hashish, scythians, history, ethnobotany, herodotus, ancient-drugs, mckenna]
 date: 2026-04-28

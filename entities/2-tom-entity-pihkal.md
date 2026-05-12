@@ -63,7 +63,7 @@ this has been synthesized but not yet evaluated. The common
 intermediate benzaldehyde,
 5-methoxy-4-methyl-2-(methylthio)benzaldehyde was condensed with
 nitromethane and ammonium acetate to give the nitrostyrene which, upon
-re-crystallization from ethanol, had a melting point of 118-118.5 deg C.
+re-crystallization from [[ethanol]], had a melting point of 118-118.5 deg C.
 Anal. (C11H13NO3S) C,H. Reduction with aluminum hydride in THF gave
 the crystalline free base which, as the hydrochloride salt, melted at
 233-234 deg C. Anal. (C11H18ClNOS) C,H. Quite logically, it has been

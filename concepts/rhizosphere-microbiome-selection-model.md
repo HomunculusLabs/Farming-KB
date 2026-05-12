@@ -17,7 +17,7 @@ The two-tier selection model (also called the two-step selection model) describe
 how plant root microbiomes are assembled through a hierarchical filtering process.
 The model posits that soil [[soil-edaphic-factors-microbial-communities]] first determine the pool of available
 microbes in the rhizosphere, and then host plant genotype selects from that pool
-to shape the [[Proteobacteria]]. This model was proposed based on studies in
+to shape the [[proteobacteria-dominance-cannabis-endorhiza]]. This model was proposed based on studies in
 Arabidopsis, poplar, and other plant systems (Bulgarelli et al., 2013; Garbeva
 et al., 2004; Berg and Smalla, 2009) and has been tested in Cannabis by Winston
 et al. (2014).

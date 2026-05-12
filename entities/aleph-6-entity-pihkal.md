@@ -29,7 +29,7 @@ sources: ["Shulgin - PIHKAL"]
 > (with 40 mg) I am into a subtle but real effect, no more than one
 > plus, but real. I feel primed, but nothing more. It is not
 > interfering with work, maybe even helping with it. After another hour
-> of static one-plusness I decided to use it as a primer to LSD, using
+> of static one-plusness I decided to use it as a primer to [[lsd]], using
 > the usual 60 microgram quantity that is standard for primer studies.
 > The combination showed definite synergism, with a rapid show of the
 > LSD effects (within fifteen minutes) and an almost three plus effect.

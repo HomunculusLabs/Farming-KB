@@ -40,7 +40,7 @@ Its short [[trichome-development-and-morphology]] page references Arabidopsis be
 ## Light and hormone biology
 
 Arabidopsis has been central to research on phytochromes, cryptochromes, phototropins, and shade avoidance.
-In the wiki's [[Auxin]] page uses Arabidopsis root branching as a bioassay for fungal indole-3-acetic-acid effects.
+In the wiki's [[auxin-production-by-symbiotic-fungi]] page uses Arabidopsis root branching as a bioassay for fungal indole-3-acetic-acid effects.
 
 ## Plant-microbe interactions
 

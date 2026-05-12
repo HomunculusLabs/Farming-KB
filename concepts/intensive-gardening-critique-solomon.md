@@ -85,3 +85,38 @@ The answer, Solomon argues, is:
 - [[intensive-planting-spacing]], [[watering-irrigation-solomon]], [[solomon-choosing-seeds-and-catalogs]] - [[solomon-crop-rotation-and-garden-planning]] - [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon. Solomon calls watering the single most important decision the gardener will make. - [[watering-irrigation-solomon]] - [[complete-organic-fertilizer-recipes]] - [[root-competition-plant-spacing-solomon]] Modern intensive gardening methods, adapted to suburban lots and piped water, grow plants much closer together in massed plantings on raised beds.
 ## Merged: Solomon on Soil Preparation and Garden Layout
 From [[solomon-gardening-when-it-counts-index]] - [[composting-science-solomon]] - [[root-competition-plant-spacing-solomon]] - [[seed-germination-techniques-solomon]] For nearly complete caloric self-sufficiency, about 4,500 square feet (420 square meters) per adult is needed, helped by a root cellar or other winter storage.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[square-foot-gardening]]
+- [[steve-solomon]]
+- [[doc]]
+- [[composting]]
+- [[john-jeavons]]

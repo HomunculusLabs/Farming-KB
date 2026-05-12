@@ -41,7 +41,7 @@ GMO is famous for its extreme, polarizing aroma — many users describe it as th
 
 GMO's distinctive aroma and effects are driven by a unique terpene composition dominated by sulfur-containing and highly aromatic compounds:
 
-- **Caryophyllene** (dominant): 0.5–1.5%. This sesquiterpene contributes spicy, peppery, and woody notes. As the only terpene known to directly activate CB2 [[cannabinoid-receptors-cb1-and-cb2]], caryophyllene adds anti-inflammatory properties.
+- **Caryophyllene** (dominant): 0.5–1.5%. This sesquiterpene contributes spicy, peppery, and woody notes. As the only terpene known to directly activate CB2 [[cannabinoid-receptors-cb1-cb2]], caryophyllene adds anti-inflammatory properties.
 - **Limonene**: 0.3–1.0%. Provides subtle citrus brightness beneath the dominant savory notes. Contributes mood elevation and stress relief.
 - **Myrcene**: 0.3–0.8%. The most common [[oner-cannabis-terpene-profiles-effects]], adding earthy, herbal notes and enhancing the sedating, couch-lock effects.
 - **Humulene**: Present in moderate amounts. Contributes woody, earthy aromas and may suppress appetite.

@@ -132,7 +132,7 @@ inaccessible veil of mythological language.
 
 ## See Also
 
-- [[Allegro Sumerian Philology and the Sacred Mushroom]]
-- [[Allegro New Testament as Mushroom Cipher]]
-- [[Allegro Jesus as Mushroom Head]]
-- [[Allegro Key of Heaven and Mushroom Symbolism]]
+- [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
+- [[allegro-new-testament-names-as-mushroom-cryptograms]]
+- [[allegro-john-baptist-red-topped-mushroom-herodias]]
+- [[allegro-cross-crucifixion-harmony-yoke-mushroom-symbolism]]

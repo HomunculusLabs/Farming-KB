@@ -132,5 +132,5 @@ At commercial scale, pelletized spawn becomes highly attractive. Industrial pell
 
 ## See Also
 - [[pelletized-granular-spawn]]
-- [[mushroom-spawn-production-and-laboratory-techniques]]
+- [[mushroom-spawn]]
 - [[mushworld-oyster-spawn-production-guide]]

@@ -49,6 +49,17 @@ The specific prohibition on eggs at Eleusis is echoed in the Mazatec tradition, 
 
 The pelanos tradition appears to have been an older element of the Mysteries that was eventually superseded or supplemented by the kykeon. Some scholars suggest that in the earliest phases of the Eleusinian cult, the pelanos may have been the primary ritual food, with the kykeon developing later as a more refined preparation. The pelanos barley cake and fasting's simplicity — grain and water, perhaps with honey — connects it to the most ancient forms of Greek religious offering. The transition from solid barley cake to liquid kykeon may reflect a technological refinement in [[psychedelic-experience-stages]] recommended by modern psychedelic therapists bear striking resemblance to the Eleusinian fasting protocols. Contemporary guidelines for [[metzner-psycholytic-psychedelic-therapy-models]] sessions typically advise participants to fast for 4-8 hours beforehand, avoid alcohol and certain medications, and approach the experience with a clear and open mindset. The [[psychedelic-therapy-set-and-setting]] research that emerged from the mid-twentieth century onward has confirmed what the Eleusinian hierophants apparently understood through centuries of empirical practice: that the preparation period is not merely preliminary but integral to the quality of the [[leary-psychedelic-experience-bardo-mapping]].
 
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[fukuoka-direct-seeding-rice-barley-cultivation]]
+- [[no-till-rice-barley-succession]]
+- [[fukuoka-barley-winter-grain-method]]
+- [[fukuoka-rice-and-barley-natural-farming]]
+
 ## See Also
 
 - [[wasson-hofmann-ruck-collaboration]]

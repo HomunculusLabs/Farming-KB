@@ -116,7 +116,7 @@ microbiome is subsequently recruited.
 
 ## See Also
 
-[[Endorhiza]]
+[[endorhiza-microbiome]]
 [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
 [[nitrogen-salinity-carbon-water-edaphic-trio-cannabis]]
 [[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]

@@ -98,7 +98,7 @@ Transformity measures the solar energy required to produce one unit of a
 given energy form. Higher transformity means higher quality energy doing more
 work per unit. Fossil fuels represent extraordinarily high transformity
 energy accumulated over millions of years. Understanding transformity helps
-[[bill-mollison-permaculture-designers-manual]] evaluate energy sources, recognizing not all
+[[bill-mollison]] evaluate energy sources, recognizing not all
 kilojoules are equal in supporting complex organization.
 
 ## Energy Descent: Unwinding the Inverted Pyramid

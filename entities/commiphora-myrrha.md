@@ -88,3 +88,9 @@ It is often found with *[[acacia]]*, *Boswellia*, and other
 drought-adapted woody plants in degraded rangelands.
 
 ## Chemistry and Bioactive Compounds
+
+## See Also
+- [[acacia]]
+- [[dom]]
+- [[soma]]
+- [[commiphora-mukul]]

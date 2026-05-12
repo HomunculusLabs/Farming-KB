@@ -47,7 +47,7 @@ result in poor performance regardless of gardening skill.
 Solomon's vision of true self-sufficiency rests on closing all nutrient loops:
 
 1. All crop residues return to the soil (composting, green manuring)
-2. Human and animal waste is recycled (humanure, [[winter-squash-guide]], corn)
+2. Human and animal waste is recycled (humanure, [[winter-rye]], corn)
 - Use vegetable production to supplement calories and provide dietary variety
 - Invest in soil fertility as the foundation of all production
 - Learn to [[query-how-do-you-grow-and-process-tea-at-home]] field crops (grain grinding, bean drying, root

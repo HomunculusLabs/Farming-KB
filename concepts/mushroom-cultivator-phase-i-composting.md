@@ -14,7 +14,7 @@ capabilities of the substrate.
 
 ## Two Stages of Composting
 
-The composting process is divided into two stages:
+The [[composting]] process is divided into two stages:
 
 - **Phase I**: Outdoor composting involving mixing and primary
   [[falconer-horse-manure-varieties]]
@@ -44,7 +44,7 @@ and small fiber [[solomon-manure-quality-variable-nutrient-content-horse-steer-c
 
 Supplements are grouped by nitrogen content:
 
-### Group I: High Nitrogen, No [[animal-manure-guide]]s
+### Group I: High Nitrogen, No [[animal-manure-guide]] s
 - Cow manure (0.5% N)
 - Pig manure (0.3-0.8% N)
 - Rarely used except where horses and chickens are unavailable.

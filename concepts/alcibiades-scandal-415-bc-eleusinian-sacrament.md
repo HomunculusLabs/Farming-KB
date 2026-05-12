@@ -43,7 +43,7 @@ fascinated scholars for centuries.
 For most of the modern era, classical scholars assumed that the Mystery
 was purely symbolic or psychological — a matter of suggestion, dramatic
 staging, and emotional manipulation.
-This assumption reflected what [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]] called "the constipated
+This assumption reflected what [[terence-mckenna]] called "the constipated
 patriarchal academy" and its prejudice against the reality-transforming
 power of plant hallucinogens.
 

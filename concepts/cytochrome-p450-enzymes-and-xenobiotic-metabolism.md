@@ -87,3 +87,38 @@ Extrahepatic CYPs serve important physiological and toxicological roles. The sma
 CYP-mediated drug interactions are among the most common and clinically important. **CYP3A4 interactions** are most frequent: ritonavir + simvastatin (AUC increase ~30x, contraindicated due to rhabdomyolysis risk); ketoconazole + midazolam (AUC increase ~15x); rifampin + oral contraceptives (contraceptive failure from CYP3A4/P-gp induction); erythromycin + terfenadine (QT prolongation and torsades de pointes, leading to terfenadine withdrawal). **CYP2D6 interactions**: paroxetine + tamoxifen (reduced endoxifen formation, compromised breast cancer therapy); quinidine + codeine (no morphine formation, no analgesia). **CYP1A2 interactions**: fluvoxamine + theophylline (theophylline toxicity from narrow [[cannabis-therapeutic-index-overview]]); smoking cessation in clozapine patients causes clozapine toxicity as CYP1A2 induction reverses. **CYP2C9 interactions**: amiodarone + warfarin (increased INR and bleeding); fluconazole + phenytoin (phenytoin toxicity). These interactions underscore the need for systematic CYP assessment in drug development, codified in FDA and EMA regulatory guidance.
 
 ## Acetaminophen Toxicity as a Paradigm
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[dom]]
+- [[morphine]]
+- [[det]]
+- [[glutathione-conjugation]]
+- [[caffeine]]

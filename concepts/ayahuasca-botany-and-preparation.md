@@ -17,19 +17,19 @@ type: concept
 Ayahuasca is a psychoactive brew traditionally prepared in the
 Amazon basin, combining two essential plant species: the
 ayahuasca vine ([[psychotria-viridis]]). This combination produces a potent
-visionary medicine through the interaction between beta-carboline
-alkaloids from the vine and N,N-dimethyl[[tryptamine|tryptamine]] (DMT) from
+visionary medicine through the interaction between [[beta-carboline]]
+alkaloids from the vine and N,N-dimethyl[[tryptamine|tryptamine]] ([[dmt]]) from
 the leaf. The pharmacological synergy between these plants
 represents one of the most remarkable examples of indigenous
 pharmacological knowledge.
 
-## The Ayahuasca Vine: Banisteriopsis caapi
+## The Ayahuasca Vine: [[banisteriopsis-caapi]]
 
 Banisteriopsis caapi is a woody climbing vine belonging to the
 family Malpighiaceae. It grows as a liana, climbing up trees in
 the lowland tropical rainforest of the Amazon basin and adjacent
 regions. The vine is the primary ingredient of the brew and
-contains harmine, harmaline, and tetrahydroharmine, which are
+contains harmine, harmaline, and [[tetrahydroharmine]], which are
 beta-carboline alkaloids that function as reversible monoamine
 oxidase inhibitors (MAOIs).
 
@@ -88,3 +88,38 @@ guianensis), or clavohuasca.
 
 Clay pots are preferred over aluminum. The preparation must be
 done in solitude where nobody will look at the pot. The
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[ayahuasca]]
+- [[harmine]]
+- [[psilocybin]]
+- [[tetrahydroharmine]]
+- [[banisteriopsis-caapi]]

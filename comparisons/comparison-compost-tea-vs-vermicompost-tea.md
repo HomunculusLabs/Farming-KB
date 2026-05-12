@@ -61,7 +61,7 @@ suppression rather than the cheapest way to inoculate acres of soil.
 Choose compost tea when you have access to mature, biologically rich compost
 and want a broad biological inoculant that can be scaled. It is the better fit
 when the goal is to cover a large area, support a full [[compost-tea-brewing]]
-- [[circadian-rhythm-in-plants]]
+- [[chamovitz-circadian-rhythm-internal-clock-plants]]
 - [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]
 ## Practical Considerations
 

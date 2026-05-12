@@ -138,7 +138,7 @@ influence perceived microbiome composition.
 
 ## See Also
 
-[[Endorhiza]]
+[[endorhiza-microbiome]]
 [[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
 [[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
 [[nitrogen-salinity-carbon-water-edaphic-trio-cannabis]]

@@ -72,7 +72,7 @@ Jeavons recommends a progressive approach to developing a mini-farm:
 Start with the easiest crops based on yields expected of a good gardener. Focus on learning [[azurescens-outdoor-bed-preparation-woodchips]], composting, and basic transplanting. Leaf lettuce, radishes, carrots, and bush beans are good starting crops.
 
 ### Year 2: Expansion (200-280 square feet)
-Double the square footage and add more challenging crops. Begin incorporating [[companion-planting-and-polycultures]] simple crop rotations. Start learning about calorie crops and compost crops.
+Double the square footage and add more challenging crops. Begin incorporating [[companion-planting]] simple crop rotations. Start learning about calorie crops and compost crops.
 
 ### Year 3: Perennials (300-420 square feet)
 Add a third bed. Include permanent plantings — fruit trees, herbs, strawberries, and asparagus — placed in soil that has been worked and improved for 2 years.
@@ -87,3 +87,38 @@ Optimally, the garden area should have 11 hours of direct sunlight or more. Seve
 
 ### Bed Dimensions
 Standard beds are 3 to 6 feet wide and of varying lengths. The width should allow the gardener to reach the center of the bed from either side without stepping on it. Five-foot width is common and works well for most people.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[seasonal-planning]]
+- [[doc]]
+- [[jerusalem-artichoke]]
+- [[composting]]
+- [[companion-planting]]

@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Mushroom Foraging Safety
 
-Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]]s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
+Mushroom foraging is rewarding but carries genuine risks. Several mushroom species contain lethal [[mushroom-toxins-and-poisoning|toxin]] s, and many edible species have deadly lookalikes. Proper identification skills are essential before consuming any wild mushroom.
 
 ## The Golden Rules
 
@@ -22,7 +22,7 @@ Mushroom foraging is rewarding but carries genuine risks. Several mushroom speci
 ## Deadly Species
 
 ### Death Cap (Amanita phalloides)
-Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species (paddy straw mushroom, some caesar's mushrooms).
+Responsible for the majority of mushroom fatalities worldwide. Contains amatoxins that destroy the liver and kidneys. Symptoms may not appear for 6-24 hours after ingestion, by which time organ damage may be irreversible. Looks similar to several edible species ([[paddy-straw-mushroom]], some caesar's mushrooms).
 
 ### Destroying Angel (Amanita virosa, A. bisporigera, A. ocreata)
 Pure white, elegant mushrooms in the Amanita genus. Also contain lethal amatoxins. Often confused with edible white mushrooms by beginners.

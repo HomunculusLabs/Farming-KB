@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Clover Revolution [[fukuoka-natural-rice-barley-cultivation]] Wheat Cultivation
+title: "Fukuoka Clover Revolution Rice, Barley, and Wheat Cultivation"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

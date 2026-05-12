@@ -101,7 +101,7 @@ toxicity (sore throat, carbuncles, fevers), stopping bleeding
 | **Primary Applications** | Wound healing, cognitive support, venous health | Anti-inflammatory, neuroprotective, anxiolytic |
 | **Harvest Timing** | Leaves can be harvested year-round | Roots harvested in spring before flowering |
 | **Preparation Forms** | Teas, tinctures, fresh consumption, topical | Decoctions, extracts, powders, professional formulations |
-| **Preparation Techniques** | [[herbal-medicine-making]] offers guidance on tea and tincture preparation | Traditional decoction methods require specialized [[herbal-medicine-making]] knowledge |
+| **Preparation Techniques** | [[herbal-medicine-making-basics]] offers guidance on tea and tincture preparation | Traditional decoction methods require specialized [[herbal-medicine-making-basics]] knowledge |
 
 ## When to Choose Gotu Kola
 

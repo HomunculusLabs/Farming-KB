@@ -80,7 +80,7 @@ dimensions of reality normally hidden by the constraints of ordinary
 waking consciousness.
 
 This view challenges the standard neurobiological reduction of psychedelic
-experience to [[serotonin-receptor-interference-psychedelic-mechanism]] activation. While [[cannabinoid]]
+experience to [[serotonin-receptor-interference-psychedelic-mechanism]] activation. While [[cannabinoid-receptors-cb1-cb2]]
 is certainly involved, McKenna argued that it is the quantum mechanical
 properties of the receptor-ligand interaction that give rise to the
 extraordinary phenomenology of the tryptamine experience.

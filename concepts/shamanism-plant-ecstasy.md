@@ -88,3 +88,10 @@ shamanic cultures developed genuine, empirically grounded knowledge of psychoact
 plants — knowledge anticipating modern pharmacology by centuries. This was derived
 not from theoretical reasoning but from direct experience: shamans observed the
 effects of different plant combinations on their own consciousness, adjusting
+
+## See Also
+- [[shamanism]]
+- [[dmt]]
+- [[terence-mckenna]]
+- [[ayahuasca]]
+- [[doc]]

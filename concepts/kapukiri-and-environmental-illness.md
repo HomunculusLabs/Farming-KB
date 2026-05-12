@@ -1,5 +1,5 @@
 ---
-title: Kapukiri and Environmental Illness in Amazonian Shamanism
+title: "Kapukiri And Environmental Illness"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Kapukiri is a class of environmental illness recognized in Amazonian shamanic medicine, particularly within the vegetalista traditions of the Peruvian Amazon. The concept describes a noxious substance—often airborne—that arises from the natural decomposition of plant matter and is associated with specific tree species. In Amazonian cosmology, kapukiri represents a fundamental link between the forest ecosystem, spiritual hygiene, and human health, illustrating how disrespect toward the natural world can produce tangible physical consequences. The term and its associated pathologies were documented extensively by the Shipibo-Conibo painter and vegetalista Pablo Amaringo in his seminal work *Ayahuasca Visions* (Visions 30 and 31).
+Kapukiri is a class of environmental illness recognized in [[amazonian-shamanic-battles-and-defensive-powers]] medicine, particularly within the vegetalista traditions of the Peruvian Amazon. The concept describes a noxious substance—often airborne—that arises from the [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] of plant matter and is associated with specific tree species. In Amazonian cosmology, kapukiri represents a fundamental link between the forest ecosystem, spiritual hygiene, and human health, illustrating how disrespect toward the natural world can produce tangible physical consequences. The term and its associated pathologies were documented extensively by the Shipibo-Conibo painter and vegetalista Pablo Amaringo in his seminal work *Ayahuasca Visions* (Visions 30 and 31).
 
 ## Etymology and Definition
 
@@ -21,7 +21,7 @@ Thus, kapukiri literally translates to "the substance of that which has rotted."
 
 ## Nature of Kapukiri
 
-Kapukiri exists as an atmospheric substance, a kind of vapor or miasma that emanates from decaying plant material, particularly the leaves of specific sacred or powerful tree species. While the substance has a natural ecological function—providing nourishment to non-physical beings that inhabit the forest—it becomes dangerous to humans when encountered improperly. The vapor is said to be inhaled by certain spirit entities as sustenance, placing kapukiri within a broader cosmological framework in which the forest is alive with sentient beings that participate in complex ecological and spiritual exchange.
+Kapukiri exists as an atmospheric substance, a kind of vapor or miasma that emanates from decaying plant material, particularly the leaves of specific sacred or powerful tree species. While the substance has a natural [[bloomfield-fungal-fruiting-body-morphology-ecological-function]]—providing nourishment to non-physical beings that inhabit the forest—it becomes dangerous to humans when encountered improperly. The vapor is said to be inhaled by certain spirit entities as sustenance, placing kapukiri within a broader cosmological framework in which the forest is alive with sentient beings that participate in complex ecological and spiritual exchange.
 
 Evil shamans (*brujos*) are reported to deliberately harness and weaponize kapukiri, directing it toward intended victims as a form of sorcery. This aggressive use transforms what is fundamentally a natural process into a tool of harm, reinforcing the Amazonian principle that knowledge of the natural world carries both healing and destructive potential depending on the moral orientation of the practitioner.
 
@@ -84,7 +84,7 @@ While both kapukiri and cuncatuya are environmental illnesses weaponizable throu
 
 Pablo Amaringo described curing kapukiri through a combination of:
 
-- **Icaro del kapukiri**: A specific healing song (*icaro*) chanted by the vegetalista during an ayahuasca ceremony. Icaros are considered the primary therapeutic technology of Amazonian shamanism—vocalized invocations that carry spiritual power to neutralize illness, call upon protective spirits, and restore the patient's energetic balance.
+- **Icaro del kapukiri**: A specific healing song (*icaro*) chanted by the vegetalista during an [[ayahuasca-ceremony]]. Icaros are considered the primary therapeutic technology of Amazonian shamanism—vocalized invocations that carry spiritual power to neutralize illness, call upon protective spirits, and restore the patient's energetic balance.
 - **Leaves of catahua negra** (*Hura crepitans*): Paradoxically, the same tree species that produces one variety of kapukiri also provides the botanical remedy. This principle—that the source of an illness may also contain its cure—is widespread in Amazonian and indeed global herbal medicine traditions.
 
 ### Treatment of Cuncatuya
@@ -121,8 +121,8 @@ Kapukiri occupies a unique position at the intersection of ecology, spirituality
 
 ## See Also
 
-- Pablo Amaringo — Ayahuasca Visions (Visions 30 and 31)
-- Icaros — healing songs of the vegetalistas
-- Mariri — spiritual phlegm used in shamanic extraction
-- Tingunas — energy fields in Amazonian cosmology
-- Vegetalismo — the healing tradition of plant-based Amazonian shamanism
+- [[pablo-amaringo]] — Ayahuasca Visions (Visions 30 and 31)
+- [[icaros-in-ayahuasca-ceremony]] — healing songs of the vegetalistas
+- [[mariri]] — spiritual phlegm used in shamanic extraction
+- [[ayahuasca-plant-spirits]] — Amazonian vegetalista spirit ecology
+- [[shipibo-ayahuasca-traditions]] — related Peruvian Amazon [[kava-traditional-preparation-ceremonial-context]]

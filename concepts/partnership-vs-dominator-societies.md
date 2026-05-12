@@ -1,5 +1,5 @@
 ---
-title: "[[archaic-revival-partnership-vs-dominator-cultures]] Societies"
+title: Partnership Vs Dominator Societies
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

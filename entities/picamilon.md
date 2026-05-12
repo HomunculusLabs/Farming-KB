@@ -45,7 +45,7 @@ dietary supplement, removing it from the US market.
 - IUPAC name: 4-(pyridine-3-carbonylamino)butanoic acid
 - CAS number: 769-78-8
 - Appearance: White to slightly yellowish crystalline powder
-- Solubility: Freely soluble in water; sparingly soluble in ethanol
+- Solubility: Freely soluble in water; sparingly soluble in [[ethanol]]
 
 Picamilon is a prodrug that undergoes enzymatic hydrolysis after crossing
 the blood-brain barrier. The cleavage products — GABA and nicotinic acid —

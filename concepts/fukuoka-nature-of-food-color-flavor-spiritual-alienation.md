@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Nature of Food Color Flavor [[fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food]]
+title: "Fukuoka Nature of Food Color Flavor Spiritual Alienation"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -136,9 +136,9 @@ The error was to focus on the food rather than the eater. By trying to make the 
 
 ## See Also
 
-- [[Fukuoka Natural Farming]] — the agricultural practice that follows from this
+- [[fukuoka-natural-farming]] — the agricultural practice that follows from this
   philosophy
-- [[Fukuoka One Straw Revolution]] — the foundational text
-- [[Fukuoka Natural Diet]] — dietary principles derived from natural farming
-- [[Fukuoka Human Ignorance and the Return to Nature]] — the broader philosophical
+- [[fukuoka-one-straw-revolution-philosophy]] — the foundational text
+- [[fukuoka-natural-diet-four-types]] — dietary principles derived from natural farming
+- [[fukuoka-human-ignorance-and-the-return-to-nature]] — the broader philosophical
   framework

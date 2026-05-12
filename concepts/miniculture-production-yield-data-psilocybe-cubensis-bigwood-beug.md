@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-Bigwood and Beug (1982) adapted the rye-grain cultivation method originally described by San Antonio (1971) and refined by Oss and Oeric (1976) into a "miniculture" system for controlled scientific study of *Psilocybe cubensis* [[mycelial-broth-alkaloid-production]] across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. Their miniculture apparatus provided a standardized, reproducible platform that yielded quantitative data on flush-by-flush variation in [[hplc-analysis-of-psilocybin-and-psilocin]] levels.
+Bigwood and Beug (1982) adapted the rye-grain cultivation method originally described by San Antonio (1971) and refined by Oss and Oeric (1976) into a "miniculture" system for controlled scientific study of *[[psilocybe-cubensis]]* [[mycelial-broth-alkaloid-production]] across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. Their miniculture apparatus provided a standardized, reproducible platform that yielded quantitative data on flush-by-flush variation in [[hplc-analysis-of-psilocybin-and-psilocin]] levels.
 
 ## Miniculture Apparatus Design
 

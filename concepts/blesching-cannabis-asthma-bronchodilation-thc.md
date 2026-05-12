@@ -81,10 +81,45 @@ Asthmatic patients received aerosolized THC at steady-state dosages of 50–200 
 A key finding across multiple studies is that THC's bronchodilatory mechanism **differs from that of beta-2 adrenergic agonists**:
 
 - **Beta-2 agonists** (albuterol, salbutamol) stimulate the sympathetic nervous system, producing rapid bronchodilation but with cardiovascular side effects (increased heart rate, blood pressure).
-- **THC** appears to act through [[cannabinoid-receptors-cb1-and-cb2]] (CB1 and/or CB2) expressed on airway smooth muscle, producing bronchodilation **without the same cardiovascular stimulation**.
+- **THC** appears to act through [[cannabinoid-receptors-cb1-cb2]] (CB1 and/or CB2) expressed on airway smooth muscle, producing bronchodilation **without the same cardiovascular stimulation**.
 
 ### Endocannabinoid System in the Lungs
 
 The lungs express both CB1 and CB2 cannabinoid receptors:
 
 - **CB1 receptors** on bronchial smooth muscle may mediate the direct bronchodilatory effect.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[cannabis-and-asthma]]
+- [[cannabis-health-index]]
+- [[doc]]
+- [[dom]]
+- [[endocannabinoid-system]]

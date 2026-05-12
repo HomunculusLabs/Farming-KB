@@ -19,11 +19,11 @@ Hybrids are typically described by their indica/sativa ratio:
 
 ### Indica-Dominant Hybrids (60-90% indica)
 
-These strains lean toward indica effects while retaining some sativa influence. They provide physical relaxation with moderate cerebral stimulation. Examples include Girl Scout Cookies (70/30), OG Kush (75/25), and Blue Dream's more indica-leaning phenotypes.
+These strains lean toward indica effects while retaining some sativa influence. They provide physical relaxation with moderate cerebral stimulation. Examples include [[girl-scout-cookies]] (70/30), OG Kush (75/25), and [[blue-dream]]'s more indica-leaning phenotypes.
 
 ### Sativa-Dominant Hybrids (60-90% sativa)
 
-These strains emphasize uplifting effects with subtle body relaxation. Good for daytime use when some physical comfort is desired. Examples include Sour Tangie (80/20), Green Crack (75/25), and Jack Herer (65/35).
+These strains emphasize uplifting effects with subtle body relaxation. Good for daytime use when some physical comfort is desired. Examples include Sour Tangie (80/20), [[green-crack]] (75/25), and Jack Herer (65/35).
 
 ### Balanced Hybrids (50/50)
 
@@ -37,7 +37,7 @@ Strain ratios are often expressed as percentages, though these are rarely precis
 
 ### Girl Scout Cookies (GSC)
 
-A cross of OG Kush and Durban Poison. Indica-dominant with a sweet, earthy aroma featuring notes of chocolate and mint. Extremely popular with consistently high THC levels. Complex effects begin cerebral and transition to deep body relaxation.
+A cross of OG Kush and [[durban-poison]]. Indica-dominant with a sweet, earthy aroma featuring notes of chocolate and mint. Extremely popular with consistently high THC levels. Complex effects begin cerebral and transition to deep body relaxation.
 
 ### Blue Dream
 
@@ -61,7 +61,7 @@ Made famous by the 2008 film. Trainwreck crossed with Hawaiian. Tropical, pineap
 
 ### Zkittlez
 
-Indica-dominant hybrid with Grape Ape and Grapefruit lineage. Sweet, candy-like tropical fruit aroma. Mellow, happy effects suitable for evening relaxation. Popular for its unique flavor profile.
+Indica-dominant hybrid with [[grape-ape]] and Grapefruit lineage. Sweet, candy-like tropical fruit aroma. Mellow, happy effects suitable for evening relaxation. Popular for its unique flavor profile.
 
 ## Hybrid Breeding Principles
 

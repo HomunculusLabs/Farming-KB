@@ -43,7 +43,7 @@ North American and Eastern Asiatic species: ties exist between Psilocybe graveol
 
 Southeastern Asiatic species: Psilocybe subaeruginascens var. subaeruginascens from Japan and Java, var. septentrionalis only from Japan.
 
-Tropical and subtropical species: [[Copelandia]] species, possibly Gerronema fibula.
+Tropical and subtropical species: [[copelandia-anomalus]] species, possibly Gerronema fibula.
 
 Arctic and alpine species: [[psilocybe-subaeruginosa-australia]] from the Pacific Northwest and P. quebecensis from Quebec.
 
@@ -71,7 +71,7 @@ The majority of neurotropic Psilocybe species grow in subtropical, mesophytic, c
 
 In Mexico, of 42 neurotropic Psilocybe species, 34 are from mesophytic forests, 4 from tropical forests, and 4 from coniferous forests.
 
-Coprophilous species on cow dung include [[Copelandia]] species.
+Coprophilous species on cow dung include [[copelandia-anomalus]] species.
 
 Temperate species include [[psilocybin-mushroom-global-distribution]], neotropical-psilocybin-mushrooms, [[psilocybe-semperviva]]
 

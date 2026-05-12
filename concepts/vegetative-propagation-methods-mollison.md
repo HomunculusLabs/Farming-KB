@@ -10,7 +10,7 @@ sources:
 ---
 # Vegetative Propagation Methods (Mollison)
 Updated: 2026-04-18
-Source: Permaculture: A Designers' Manual, Bill Mollison, Sections 10-12
+Source: Permaculture: A Designers' Manual, [[bill-mollison]], Sections 10-12
 ## Overview
 Vegetative propagation is essential in permaculture for multiplying
 desired plants without relying on seed. Many tree crops, berries, and

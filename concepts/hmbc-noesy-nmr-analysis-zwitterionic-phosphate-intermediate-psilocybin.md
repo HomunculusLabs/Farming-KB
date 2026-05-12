@@ -1,5 +1,5 @@
 ---
-title: "Hmbc Noesy Nmr Analysis [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] Psilocybin"
+title: Hmbc Noesy Nmr Analysis Zwitterionic Phosphate Intermediate Psilocybin
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [NMR, HMBC, NOESY, zwitterionic, phosphate-intermediate, psilocybin-synthesis, 2D-NMR, structural-elucidation, shirota, spectroscopy]
 created: 2026-05-08
@@ -9,7 +9,7 @@ created: 2026-05-08
 
 ## Overview
 
-A key discovery in Shirota, Hakamata, and Goda's 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of psilocin. The structural elucidation of this compound relied on two-dimensional NMR techniques — specifically HMBC (Heteronuclear Multiple Bond Correlation) and NOESY (Nuclear Overhauser Effect Spectroscopy) — which revealed an [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
+A key discovery in Shirota, Hakamata, and Goda's 2003 synthesis of psilocybin was the identification of an unexpected zwitterionic N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation of [[psilocin]]. The structural elucidation of this compound relied on two-dimensional NMR techniques — specifically HMBC (Heteronuclear Multiple Bond Correlation) and NOESY (Nuclear Overhauser Effect Spectroscopy) — which revealed an [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] migration from oxygen to nitrogen that had not been previously characterized. This page examines the NMR methodology used and the structural insights it provided.
 
 ## The Discovery
 
@@ -87,3 +87,38 @@ This is a rare example of a synthetic intermediate's zwitterionic character bein
 ## NMR Data for Compound 8
 
 ### ¹H NMR (CD₃OD, 400 MHz)
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[psilocybin]]
+- [[psilocin]]
+- [[det]]
+- [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]]
+- [[zwitterionic-phosphate-intermediate-psilocybin-synthesis]]

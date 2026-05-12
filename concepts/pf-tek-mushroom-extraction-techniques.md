@@ -144,6 +144,6 @@ States, sometimes over the counter and sometimes with a simple state permit.
 In the United States, 200 proof anhydrous ethyl alcohol (100% pure, no water)
 is available from full-service liquor stores that supply hospitals and
 ## See Also
-- [[mushroom-spawn-production-and-laboratory-techniques]]
+- [[mushroom-spawn]]
 - [[gourmet-medicinal-mushroom-casing-layer-techniques]]
 - [[duggar-mushroom-spawn-preparation-techniques]]

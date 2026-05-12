@@ -88,3 +88,38 @@ Detecting and monitoring chytrid fungi presents substantial methodological diffi
 
 - **Baiting techniques**: Traditional surveys for free-living chytrids rely on baiting — placing substrates such as pollen, chitin, snake skin, or cellulose in water or soil samples and incubating to allow colonization and sporulation. This approach is labor-intensive, time-consuming (often requiring weeks), and biased toward fast-growing, easily cultured species.
 - **Molecular PCR detection**: Quantitative PCR (qPCR) assays have revolutionized Bd and Bsal detection, enabling rapid screening of skin swabs, water samples, and environmental DNA (eDNA). However, PCR cannot distinguish viable from non-viable organisms and may produce false negatives at low pathogen loads.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[zoosporic-fungi]]
+- [[doc]]
+- [[dom]]
+- [[det]]
+- [[spore-dispersal]]

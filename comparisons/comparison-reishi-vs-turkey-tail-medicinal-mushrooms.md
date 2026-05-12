@@ -103,7 +103,7 @@ Turkey Tail (Yun Zhi, "cloud mushroom") has a humbler cultural profile. Used in 
 
 **Choose Turkey Tail** for: evidence-based cancer adjunct therapy, immune restoration during or after chemotherapy, simpler daily immune maintenance, easier cultivation, or when budget is a concern (Turkey Tail supplements are typically less expensive).
 
-**Use both** for complementary coverage: Turkey Tail for targeted immune training and cancer support, Reishi for broader systemic benefits including organ protection and adaptogenic stress response. They work well in tandem and are noted to complement each other in [[staycare-trametes-versicolor-bioremediation-applications]], Turkey Tail has been more extensively studied for pollutant degradation, while Reishi shows broad-spectrum antimicrobial activity useful for [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
+**Use both** for complementary coverage: Turkey Tail for targeted immune training and cancer support, Reishi for broader systemic benefits including organ protection and adaptogenic stress response. They work well in tandem and are noted to complement each other in [[staycare-trametes-versicolor-bioremediation-applications]], Turkey Tail has been more extensively studied for pollutant degradation, while Reishi shows broad-spectrum antimicrobial activity useful for [[comparison-chaga-vs-turkey-tail]]
 
 - [[reishi-cultivation-guide]] for detailed Reishi growing methods
 - [[cancer-medicinal-mushrooms-turkey-tail-psk-and-psp]] for PSK/PSP clinical details

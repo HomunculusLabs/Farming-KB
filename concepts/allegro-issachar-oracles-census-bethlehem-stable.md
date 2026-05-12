@@ -6,10 +6,10 @@ type: concept
 
 # Allegro on the Issachar Oracles, Census, and the Bethlehem Stable
 
-John Allegro reads the biblical figure of Issachar and the surrounding census and
+[[john-allegro]] reads the biblical figure of Issachar and the surrounding census and
 Bethlehem narratives as dense layers of mushroom-cult wordplay. In his analysis,
 what appear to be straightforward historical oracles, genealogical records, and
-nativity stories encode references to the Amanita muscaria mushroom — its shape,
+nativity stories encode references to the [[amanita-muscaria]] mushroom — its shape,
 names, and ritual use — woven into the fabric of Hebrew Scripture and the New
 Testament.
 
@@ -34,7 +34,7 @@ burden and became a slave at forced labour." Allegro unpacks several
 interlocking puns here. The "resting-place" (m-n-w-h) plays on Na'iman
 (n-ʾ-m, "be sweet"), a Semitic mushroom epithet. The word rendered "forced
 labour," mas-ʿōbēd, Allegro traces back to an earlier mas-palakh — itself a
-phonetic echo of the Sumerian mushroom name MASh-BALAG. The "burden" (s-b-l)
+phonetic echo of the [[sumerian-mushroom-nomenclature]] name MASh-BALAG. The "burden" (s-b-l)
 and "yoke" motif is yet another way of describing the mushroom stalk bearing
 the weight of the cap.
 
@@ -50,7 +50,7 @@ heads under compulsion, becomes another vehicle for the same cluster of puns.
 
 ### Visual and Sexual Mushroom Allusions
 
-The mushroom symbolism in the Issachar oracles is not purely verbal. The
+The [[allegro-cross-and-mushroom-symbolism]] in the Issachar oracles is not purely verbal. The
 "sheepfold" — two barriers arranged in an open V — mirrors the shape of a
 mushroom cap seen from below. The tribal description carries an unmistakable
 sexual charge: Issachar is a "mighty penis lying between opened legs." The
@@ -76,11 +76,11 @@ true bread of the Presence.
 
 The Roman governor Quirinius (Greek Kūrēnios), credited with ordering the
 census, is himself a wordplay target. His Greek name echoes Grunon and
-Geraneion — known Greek names for the Amanita muscaria. The historical
+Geraneion — known Greek names for [[allegro-colour-and-consistency-of-the-amanita-muscaria]]. The historical
 difficulty is well known: Quirinius became governor of Syria in AD 6, while
 Herod the Great died around 4 BC. Allegro takes this chronological gap as
 evidence that the story was never intended as history — the names were chosen
-for their phonetic resonance with mushroom terminology, not for their
+for their phonetic resonance with [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]], not for their
 historical accuracy.
 
 ### The Stable and Manger (Luke 2:7)
@@ -107,7 +107,7 @@ pagan template whose original referent was the fungal sacrament.
 
 ### Adonis as Fertility Hero-God
 
-Adonis is the prime fertility hero-god of the ancient Near East, and Allegro
+Adonis is the prime fertility hero-god of [[allegro-fertility-philosophy-of-the-ancient-near-east]] East, and Allegro
 argues that the biblical David is portrayed in the same phallic form. The
 parallels extend beyond narrative pattern into the very language used of each
 figure.
@@ -126,7 +126,7 @@ mushroom cult mythology given a historical veneer.
 The Hebrew mezar (or masōr, "bond" / "protection") is another mushroom term.
 Allegro connects it with the name of Egypt (Mitzrayim) to argue that the entire
 Exodus narrative may rest on a pun: the "going out from Egypt" is originally a
-"going out from the Egyptian mushroom" — a reference to a particular variety or
+"going out from the [[egyptian-mushroom-symbolism]]" — a reference to a particular variety or
 source of the sacred fungus. The story of enslavement and liberation, like the
 Issachar forced-labour oracles, encodes the mushroom's role as both burden and
 saviour.
@@ -148,11 +148,3 @@ The New Testament, in Allegro's judgment, is a "cryptic document" — a
 inner circle that understood the mushroom wordplay, while presenting a surface
 narrative of miraculous history to outsiders. On this reading, there is no
 reason to suppose there was ever a real Jesus of Nazareth connected with the
-Christian sect. The figure of Jesus, like David, Moses, and the patriarchs,
-may be a literary construct built around the sacred mushroom — a fictional
-saviour whose story preserves, in encoded form, the rituals and beliefs of an
-ancient fertility cult.
-
----
-
-*See also:* [[allegro-sacred-mushroom-and-the-cross]] · [[allegro-mushroom-wordplay-techniques]] · [[allegro-sumerian-name-phrases]]

@@ -52,7 +52,7 @@ Caribbean, Africa, Asia, and Oceania. Key species include:
 - **Copelandia bispora**: A distinctive species producing only two spores
   per basidium rather than the typical four. Found in tropical America.
 
-- **[[Copelandia]]**: Described from Cambodia, this species
+- **[[copelandia-anomalus]]**: Described from Cambodia, this species
   is widespread in Southeast Asia. It is commonly found on bovine dung
   in rice paddies and pastures.
 
@@ -88,3 +88,38 @@ species but are widespread and commonly encountered. Key species include:
   taxonomic history. Some collections have tested positive for
   psilocybin while others have not, suggesting either chemical
   variation or cryptic species within the current concept.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[panaeolus-fimicola]]
+- [[panaeolus-africanus]]
+- [[panaeolus-tropicalis]]
+- [[panaeolus-sphinctrinus]]
+- [[doc]]

@@ -51,7 +51,7 @@ sources: ["Shulgin - PIHKAL"]
 > the past, the unbridled passion to vanquish everything. I could see
 > how such misguided power could lead nations to war. Wanting still
 > more power, I was about to find out if God would grant me the power to
-> destroy permaculture-cycles-and-niches-in-time to save the world.
+> destroy [[permaculture]]-cycles-and-niches-in-time to save the world.
 >
 > (with 275 mg) Never had I had such a magnificent appreciation of God.
 > It was clear that if I minded my business and turned to Him to learn

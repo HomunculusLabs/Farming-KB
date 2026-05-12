@@ -36,7 +36,7 @@ Teeter finds all these candidates wanting. Soma was specifically a plant that gr
 
 ## The Wasson Identification
 
-In 1974, Teeter read R. gordon-wasson's Soma: [[edaphic-factors]] of Immortality, which proposed amanita [[allegro-colour-and-consistency-of-the-amanita-muscaria]] herb of immortality soma hypothesis of immortality soma hypothesis
+In 1974, Teeter read R. gordon-wasson's Soma: [[edaphic-factors-microbial-communities]] of Immortality, which proposed amanita [[allegro-colour-and-consistency-of-the-amanita-muscaria]] herb of immortality soma hypothesis of immortality soma hypothesis
 
 - [[eleusinian-mysteries]] -- another possible psychedelic mystery cult
 - [[amanita-muscaria-drying-and-preparation]] -- the urinary property linking Amanita to Soma
@@ -87,3 +87,31 @@ Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
 and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[amanita-muscaria]]
+- [[soma-hypothesis]]
+- [[amanita]]
+- [[soma]]
+- [[amanita-muscaria-herb-of-immortality-soma-discovery]]

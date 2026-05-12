@@ -43,7 +43,7 @@ each change rippling through fungal communities in ways that are
 difficult to [[det|det]]ect until it is too late.
 
 This article examines the scope of fungal endangerment, the unique
-challenges of assessing and protecting fungal biodiversity, the major
+challenges of assessing and protecting [[fungal-biodiversity]], the major
 threats driving declines, and the conservation strategies that offer
 hope for preserving what remains of this hidden kingdom.
 
@@ -65,7 +65,7 @@ highest fungal diversity, are also the most undersampled and the most
 threatened by deforestation.
 
 Molecular methods continue to reveal that described species are often
-species complexes, containing multiple cryptic species that are
+species complexes, containing multiple [[cryptic-species]] that are
 morphologically similar but genetically distinct. Environmental DNA
 sampling from soil and water regularly detects fungal lineages that have
 no known cultivated or fruiting-body representative. The hidden
@@ -103,7 +103,7 @@ Standard IUCN Red List criteria were designed with animals and plants in
 mind and are difficult to apply to fungi. Population size is ambiguous
 for organisms whose biomass is primarily underground. Geographic range
 data relies on sporadic fruiting records rather than actual mycelial
-distribution. Generation time is difficult to estimate. Spore dispersal
+distribution. Generation time is difficult to estimate. [[spore-dispersal]]
 mechanisms make range calculations complex.
 
 Despite these challenges, progress is being made. The Global Fungal Red
@@ -133,7 +133,7 @@ assemblages including many rare specialists, are particularly
 threatened. When these forests are cleared, entire fungal communities
 disappear.
 
-Because most fungal biomass exists below ground as mycelium, habitat
+Because most fungal biomass exists below ground as [[mycelium]], habitat
 loss severs the hyphal connections that sustain ecosystem functioning
 long before above-ground effects become visible. A clearcut forest may
 retain some visible fungi for a few years, but the underground network

@@ -78,3 +78,14 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Cultivation Notes
+
+Temperature and humidity requirements vary by species. Most cultivated mushrooms prefer 18-24°C during fruiting with relative humidity above 85%. Substrate preparation is critical for commercial yields.
+
+## See Also
+
+- [[neurotropic-fungi-taxonomic-groups-classification]]
+- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+- [[singh-mycofiltration-water-runoff]]
+- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

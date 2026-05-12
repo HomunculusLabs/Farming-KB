@@ -103,7 +103,7 @@ through human manipulation, and that the path to true agricultural abundance lie
 increasing human intervention but in reducing it.
 
 Fukuoka's approach to developing Happy Hill rice was deeply connected to his philosophy of
-[[korean-natural-farming-and-jadam]] his understanding of the ideal form of rice. He had long searched for
+[[korean-natural-farming]] his understanding of the ideal form of rice. He had long searched for
 the true form of rice and asked what healthy rice is. When he grew rice, barley, and
 clover together, he found that rice ripening over a thick cover of clover is short-stalked,
 robust right down to the bottom leaf, and bears fine golden heads of grain. After observing

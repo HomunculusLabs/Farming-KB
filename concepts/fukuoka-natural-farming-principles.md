@@ -73,7 +73,7 @@ these are only distinctions invented by man. Nature maintained a great harmony w
 notions, and brought forth the grasses and trees without the helping hand of man.
 
 Underlying these practical principles is a deeper philosophical framework that Fukuoka
-described as the "do-nothing" movement. He distinguished between [[korean-natural-farming-and-jadam]]
+described as the "do-nothing" movement. He distinguished between [[korean-natural-farming]]
 scientific farming in fundamental terms. Scientific farming, in his view, breaks away from
 nature with the expansion of human wants and desires; it is centripetal and divergent,
 constantly generating new technologies that increase expense and labor without limit. Natural

@@ -89,7 +89,7 @@ process itself can activate intuitive knowing and emotional processing.
 
 ## Participant Backgrounds and Prior Experience
 
-Most participants in the hybrid neoshamanic circles described by [[metzner-neoshamanic-medicine-circles-structure-and-practice]]-talking-staff-and-preparation-integration-in-hybrid-ceremonies|metzner]] were
+Most participants in the hybrid neoshamanic circles described by [[metzner-neoshamanic-medicine-circles-structure-and-practice]]-talking-staff-and-preparation-integration-in-hybrid-ceremonies|metzner were
 experienced in one or more psychospiritual practices prior to their involvement
 with [[darkness-low-light-facilitation-entheogenic-ceremonies]]. Common backgrounds include:
 

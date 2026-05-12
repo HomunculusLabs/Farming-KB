@@ -20,7 +20,7 @@ Anandamide (AEA) is an endogenous cannabinoid produced naturally by the
 human body. Its name derives from the Sanskrit word "ananda" meaning
 "bliss" or "joy," reflecting its role in mood regulation and pleasure.
 Discovered in the 1990s, anandamide was a landmark finding that led to
-the identification of the entire [[tetrahydrocannabinol-thc]]
+the identification of the entire [[tetrahydrocannabinol]]
 - [[two-ag]]
 - endocannabinoid system (ECS)
 - fatty [[lysergic-acid-amide-containing-plants-halpern]] hydrolase (FAAH)

@@ -88,3 +88,10 @@ The species performs best on deep, well-drained loams but tolerates clay soils a
 Growth rate is moderate, typically 30–45 cm per year. Black maple is slightly slower-growing than sugar maple on optimal sites but more persistent on marginal sites.
 
 It is hardy in USDA zones 4–7. Fall color is reliable and provides significant ornamental value in landscape settings.
+
+## See Also
+- [[acer-saccharum]]
+- [[dom]]
+- [[ribes-nigrum]]
+- [[asplenium-adiantum-nigrum]]
+- [[solanum-nigrum]]

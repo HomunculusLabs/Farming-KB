@@ -87,3 +87,17 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[fukuoka-god-nature-and-man-as-one]]
+- [[doc]]
+- [[det]]
+- [[mycorrhiza]]
+- [[fukuoka-god-nature-man-unity-philosophy]]

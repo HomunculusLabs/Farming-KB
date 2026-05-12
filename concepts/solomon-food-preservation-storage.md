@@ -71,7 +71,7 @@ Mike and Nancy Bubel's book "Root Cellaring" is Solomon's recommended reference.
 - Need lower humidity than root vegetables
 - Inspect regularly; remove any developing mold
 
-**[[winter-squash-guide]]**:
+**[[winter-rye]]**:
 - Cure in warm, dry conditions for 1-2 weeks
 - Store at 50-55F (10-13C), dry conditions
 - Acorn squash: shorter storage (1-2 months)

@@ -17,7 +17,7 @@ sources:
 # Metaphysical Realms and Nonordinary Reality in Shamanic Cosmology
 
 One of the most radical departures of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]] from the accepted
-Western paradigm is the belief and perception that there are realities-spirit-beings-shamanic-worldview-[[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]|multiple]] realities
+Western paradigm is the belief and perception that there are realities-spirit-beings-shamanic-worldview-[[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple realities
 or worlds that can be explored in expanded [[mckenna-food-gods-designer-states-of-consciousness]]. This
 conception of a multidimensional cosmos represents a fundamental challenge to
 the materialist monism dominating modern science and [[fukuoka-descartes-western-philosophy-nature]].
@@ -74,20 +74,20 @@ than completely separate realms.
 
 ## Worldview Implications
 
-The recognition of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]|multiple]] realities carries profound implications. If multiple
+The recognition of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple realities carries profound implications. If multiple
 worlds are real and accessible, then the material world perceived by ordinary
 waking consciousness is not the whole of reality but merely one aspect or
 dimension.
 
-[[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]] identifies two points in which the shamanic worldview differs radically
+[[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner identifies two points in which the shamanic worldview differs radically
 from the Western worldview:
 
-1. The belief and assumption (really, perception) that there are [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]|multiple]]
+1. The belief and assumption (really, perception) that there are [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple
    realities that can be explored in expanded states of consciousness
 2. The belief that spirits, the beings one encounters in dreams and visions,
    are just as real as the physical organism
 
-These two beliefs are deeply interconnected: the existence of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]|multiple]] worlds
+These two beliefs are deeply interconnected: the existence of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple worlds
 implies the existence of beings inhabiting those worlds, and encounters with
 such beings provide experiential confirmation of the worlds' reality.
 
@@ -95,7 +95,7 @@ such beings provide experiential confirmation of the worlds' reality.
 
 The shamanic worldview finds unexpected support in the philosophy of William
 James, who wrote after his personal research with nitrous oxide almost a century
-before [[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]'s analysis:
+before [[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner's analysis:
 
 > Our normal waking consciousness, rational consciousness as we call it, is but
 > one special type of consciousness, whilst all about it, parted from it by the
@@ -108,7 +108,7 @@ consideration in any comprehensive account of reality. His openness to
 nonordinary states, grounded in direct personal experience, prefigured the
 modern interest in expanded states of consciousness.
 
-## Spirit Beings as Inhabitants of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]|multiple]] Worlds
+## Spirit Beings as Inhabitants of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple Worlds
 
 The experience of nonmaterial, normally invisible spirit beings or entities is
 a common feature of [[metzner-five-experience-features-entheogenic-shamanic-practice]] across cultures. Such
@@ -137,12 +137,12 @@ be exorcised or neutralized may also occur.
 ## Challenge to Western Scientific Paradigm
 
 The two elements of shamanic traditions that pose the most direct challenge to
-the Western worldview are the existence of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]|multiple]] worlds and of spirit beings.
+the Western worldview are the existence of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple worlds and of spirit beings.
 Such conceptions are considered completely beyond the pale of both reason and
 science within the dominant materialist paradigm.
 
-However, [[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]] notes that in hybrid shamanic-therapeutic rituals, the
-recognition of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner]]|multiple]] dimensions and spirit beings is becoming quite common
+However, [[metzner-three-features-shamanic-entheogenic-ceremonies]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner notes that in hybrid shamanic-therapeutic rituals, the
+recognition of [[multiple-realities-spirit-beings-shamanic-worldview-metzner]]-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment|metzner|multiple dimensions and spirit beings is becoming quite common
 among Western participants. The majority of Westerners with ongoing entheogenic
 practice have expanded their belief systems beyond the conventional materialistic
 paradigm.

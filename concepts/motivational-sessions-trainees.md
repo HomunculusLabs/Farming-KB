@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-training-motivational-sessions]] for Trainees
+title: Motivational Sessions Trainees
 created: 2026-04-28
 tags: [motivational-sessions, disability-inclusion, personal-development,
   training-program, community-building]
@@ -15,7 +15,7 @@ type: concept
 Motivational sessions are a core component of the Three-in-One training
 approach for [[rehabilitation-through-mushroom-cultivation]]
 - [[training-program-mushroom-cultivation]]
-- mushroom-cultivation-overview-disability-empowerment
+- [[mushroom-cultivation-overview]]-disability-empowerment
 ## Background and Context
 
 Motivational Sessions for Trainees is an important subject that has garnered significant attention

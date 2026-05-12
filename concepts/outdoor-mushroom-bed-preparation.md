@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-Outdoor mushroom beds offer one of the simplest and most natural methods of mushroom cultivation, requiring minimal equipment while producing substantial yields. This approach is ideal for [[wine-cap-stropharia-cultivation|wine cap]] (Stropharia rugosoannulata), [[kings-stropharia-garden-giant|King Stropharia]], [[morel-mushroom-guide|morels]], and other species adapted to ground-level fruiting.
+Outdoor mushroom beds offer one of the simplest and most natural methods of [[mushroom-cultivation]], requiring minimal equipment while producing substantial yields. This approach is ideal for [[wine-cap-stropharia-cultivation|[[wine-cap]] ([[stropharia-rugosoannulata]]), [[kings-stropharia-garden-giant|King Stropharia]], [[morel-mushroom-guide|morels]], and other species adapted to ground-level fruiting.
 
 ## Site Selection
 
 ### Ideal Conditions
 
-- **Shade:** Partial to full shade. Dappled shade from trees or shade cloth is ideal. Full sun dries beds and stresses mycelium. North-facing slopes naturally provide cooler, shadier conditions.
+- **Shade:** Partial to full shade. Dappled shade from trees or shade cloth is ideal. Full sun dries beds and stresses [[mycelium]]. North-facing slopes naturally provide cooler, shadier conditions.
 - **Moisture:** Consistent moisture without waterlogging. Beds near downspouts, natural drainage channels, or with easy access to irrigation are preferred.
 - **Protection from wind:** Wind accelerates drying. Natural windbreaks (fences, hedges, buildings) help maintain humidity.
 - **Soil quality:** Well-draining native soil as a base. Heavy clay should be amended with sand or organic matter.

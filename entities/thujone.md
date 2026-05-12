@@ -14,7 +14,7 @@ sources:
   - "Höld, K.M. et al. (2000). \"Three major terpenoids in extracts of golden-guide-salvia-divinorum-and-diviner-sage.\" Journal of Ethnopharmacology, 73(1-2), 49-52."
   - "Leth, P.M. & Gregersen, M. (2005). \"Absinthe.\" Forensic Science International, 155(1), 1-8."
   - "Pelchat, M.L. et al. (2004). \"Thujone: Absinthe and the GABA receptor.\" Journal of Natural Products, 67(1), 54-57."
-  - "Meschler, J.P. & Howlett, A.C. (1999). \"Thujone exhibits low affinity for [[cannabinoid-receptors-cb1-and-cb2]].\" Pharmacology Biochemistry and Behavior, 62(3), 473-478."
+  - "Meschler, J.P. & Howlett, A.C. (1999). \"Thujone exhibits low affinity for [[cannabinoid-receptors-cb1-cb2]].\" Pharmacology Biochemistry and Behavior, 62(3), 473-478."
 ---
 
 # Thujone

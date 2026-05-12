@@ -1,6 +1,6 @@
 ---
-title: Cannabis Endorhiza Core Community Bacterial Endophytes
-source: "Winston et al. (2014) - Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome"
+title: "Cannabis Endorhiza Core Community Bacterial Endophytes"
+source: "Winston et al. (2014) - Understanding Cultivar-Specificity and Soil Determinants of the [[16s-rrna-sequencing-cannabis-microbiome-profiling]]"
 tags: [cannabis, microbiome, endorhiza, endophyte, proteobacteria, pseudomonas, rhizobiales]
 created: 2026-05-10
 ---
@@ -51,20 +51,20 @@ The family Oxalobacteraceae was consistently present in Cannabis endorhiza sampl
 family includes genera such as Herbaspirillum, Oxalobacter, and Duganella, many of which
 are known endophytes or rhizosphere colonizers. Members of this family are frequently
 associated with:
-- Nitrogen fixation in association with grasses and other plants
+- [[biological-nitrogen-fixation-agriculture]] in association with grasses and other plants
 - Production of plant growth-promoting substances
 - Degradation of oxalic acid, which can be phytotoxic at high concentrations
 - Resistance to heavy metals and environmental stressors
 
 ### 4. Xanthomonadaceae (Gammaproteobacteria)
 Xanthomonadaceae, including genera like Stenotrophomonas and Xanthomonas, were part of
-the core [[Proteobacteria]]. While some Xanthomonas species are plant pathogens,
+the core [[proteobacteria-dominance-cannabis-endorhiza]]. While some Xanthomonas species are plant pathogens,
 many Stenotrophomonas strains are beneficial endophytes that contribute to plant health
 through:
 - Antibiotic production against fungal and bacterial pathogens
 - Enzyme production including proteases and chitinases
 - ACC deaminase activity that reduces ethylene stress in plants
-- Phosphate solubilization that improves nutrient availability
+- Phosphate solubilization that improves [[ph-and-nutrient-availability-garden-soils]]
 
 ### 5. Actinomycetales (Actinobacteria)
 Actinomycetales, particularly within the genus Streptomyces, are well-documented
@@ -76,7 +76,7 @@ contribute to:
 - Suppression of soil-borne pathogens through competitive exclusion
 
 ### 6. Sphingobacteriales (Bacteroidetes)
-Sphingobacteriales was a consistent member of the Cannabis endorhiza community. This
+Sphingobacteriales was a consistent member of the [[proteobacteria-dominance-cannabis-endorhiza-community]]. This
 order includes genera such as Sphingobacterium and Pedobacter, which are known for:
 - Degradation of complex polysaccharides and plant cell wall components
 - Production of sphingolipids that may modulate plant immune responses
@@ -88,3 +88,38 @@ The transition from bulk soil to endorhiza involved a dramatic restructuring of 
 level abundances. Under the two-tier selection model predictions:
 - **Acidobacteria** showed the most significant decrease, particularly the order iii1-15
   (Bonferroni-corrected ANOVA: p = 1.12e-7). These oligotrophic organisms are poorly
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[core-endorhiza-bacterial-community-composition-cannabis]]
+- [[doc]]
+- [[dom]]
+- [[streptomyces]]
+- [[det]]

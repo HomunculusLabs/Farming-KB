@@ -87,3 +87,8 @@ Polyvalent antivenoms manufactured in India, such as those produced by the Haffk
 Traditional snake charmers and folk remedies continue to delay appropriate medical treatment in some rural areas. Public health education programs have improved outcomes but snakebite remains a significant burden, with an estimated 15,000 to 58,000 deaths annually in India attributed to snakebite overall.
 
 ## Ecology and Conservation
+
+## See Also
+- [[psilocin]]
+- [[dom]]
+- [[psilocybin]]

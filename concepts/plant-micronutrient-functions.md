@@ -61,7 +61,7 @@ Manganese toxicity is more common than deficiency in acidic soils (pH below 5.5)
 ### Functions
 
 - **Enzyme component:** Zn is a component of many enzymes involved in oxidation and reduction reactions
-- **[[Auxin]]:** Helps in the production of auxins, the main [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] in plants
+- **[[auxin-production-by-symbiotic-fungi]]:** Helps in the production of auxins, the main [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] in plants
 - **Chlorophyll and carbohydrate synthesis:** Required for synthesis of both
 - **Protein synthesis:** Activates enzymes needed to make RNA and DNA
 - **Cold tolerance:** Can help plant cells withstand cold temperatures

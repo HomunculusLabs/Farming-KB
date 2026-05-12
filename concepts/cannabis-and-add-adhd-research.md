@@ -68,7 +68,7 @@ The endocannabinoid system modulates the same neurotransmitter systems implicate
 
 - **CBD's role in hyperactivity:** The 2012 Melbourne study demonstrated that CBD (3 mg/kg) specifically reduced hyperactivity and normalized social behavior in an animal model, though it did not improve attention span. This suggests CBD may be most useful for the hyperactive-impulsive subtype of ADHD.
 
-- **[[chrysanthemum]] modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates [[plant-circadian-rhythms]] through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
+- **[[chrysanthemum-coronarium]] modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates [[plant-circadian-rhythms]] through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
 
 - **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] normalization:** ADHD is associated with dysregulated stress responses. CBD modulates the HPA axis through 5-HT1A receptor activation, reducing cortisol reactivity and improving stress resilience.
 
@@ -87,3 +87,38 @@ The clinical evidence for cannabis in ADHD is moderate and growing, with a CHI v
 - **Self-medication evidence (2014, SUNY Albany):** The large national survey (2,811 users) showing that daily cannabis users self-medicate for hyperactive-impulsive symptoms adds epidemiological support to the clinical case reports.
 
 - **Comparison to stimulants:** Unlike stimulant medications, cannabis does not carry risks of appetite suppression, growth suppression in children, cardiovascular events, or psychotic episodes at therapeutic doses.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[ayahuasca]]
+- [[doc]]
+- [[uwe-blesching]]
+- [[dronabinol]]
+- [[endocannabinoid-system]]

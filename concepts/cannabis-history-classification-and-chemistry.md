@@ -1,5 +1,5 @@
 ---
-title: Cannabis History [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
+title: "Cannabis History, Classification, and Chemistry"
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---

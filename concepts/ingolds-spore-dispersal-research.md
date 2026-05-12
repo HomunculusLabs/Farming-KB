@@ -9,7 +9,7 @@ source: Nicholas P. Money - Mr. Bloomfield's Orchard
 # Ingold's Spore Dispersal Research
 
 C. T. Ingold (1905–2010) was a British mycologist whose work on fungal spore
-[[fungal-spore-biology-and-dispersal-mechanisms]], beginning in the 1930s, fundamentally transformed the
+[[fungal-spore-biology]], beginning in the 1930s, fundamentally transformed the
 understanding of how fungi reproduce and spread. His discovery and
 characterization of the "drop discharge" mechanism — the microscopic
 ballistic process by which basidiomycete fungi launch their spores — is

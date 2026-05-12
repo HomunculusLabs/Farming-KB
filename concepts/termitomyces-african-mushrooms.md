@@ -88,3 +88,10 @@ prepared by methods used for white potatoes. They are unusually rich in
 proteins and analyses compare favorably with those of truffles. They
 possess a rich flavor and mealy texture, yet possess only to a degree
 the deliciousness of the cultivated mushroom or the pervading aroma of
+
+## See Also
+- [[mycelium]]
+- [[dom]]
+- [[guzman-magic-mushrooms-african-species]]
+- [[african-landrace-sativa-strains]]
+- [[psilocybe-natalensis-african-species]]

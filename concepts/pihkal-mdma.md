@@ -1,5 +1,5 @@
 ---
-title: "Pihkal [[mdma]]"
+title: Pihkal Mdma
 created: 2026-04-28
 tags: [phenethylamine, empathogen, pihkal, entactogen, pharmacology]
 date: 2026-04-28
@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-MDMA (3,4-methylenedioxymethamphetamine), commonly known as "Ecstasy" or
+[[mdma]] (3,4-methylenedioxymethamphetamine), commonly known as "Ecstasy" or
 "Molly," is the most widely recognized compound from Shulgin's research.
 Documented in PIHKAL as compound #109, MDMA is an empathogen-entactogen
 producing its characteristic effects primarily through [[serotonin]] release,

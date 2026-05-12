@@ -88,3 +88,10 @@ Aquatic insects including dragonflies, damselflies, and beetles use the
 leaves and flowers as perching and mating sites.
 
 Frogs and turtles rest on the leaves, and fish shelter beneath them.
+
+## See Also
+- [[nymphaea-ampla]]
+- [[nymphaea-lotus]]
+- [[nymphaea-alba]]
+- [[nymphaea-caerulea]]
+- [[nymphaea-tetragona]]

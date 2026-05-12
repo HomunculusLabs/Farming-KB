@@ -105,7 +105,7 @@ The Ubon Ratchathani project demonstrates that mushroom cultivation is one of th
 
 ## See Also
 
-- [[mushroom-house-construction]]
+- [[mushroom-house-construction-design]]
 - [[mushroom-substrate-bags]]
 - Mushroom Processing
 - Sorghum Spawn

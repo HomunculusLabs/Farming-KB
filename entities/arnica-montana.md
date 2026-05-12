@@ -88,3 +88,10 @@ have declined significantly due to agricultural intensification.
 - **Dihydrohelenalin acetate:** Acetylated derivative; contributes to
   anti-edema effects.
 - **Flavonoids:** [[hypericum-perforatum]] — Co-occurring European meadow herb with
+
+## See Also
+- [[lsd]]
+- [[dom]]
+- [[carex-montana]]
+- [[pueraria-montana]]
+- [[jasione-montana]]

@@ -1,5 +1,5 @@
 ---
-title: [[eucalyptus-in-permaculture]] Systems
+title: Eucalyptus Permaculture
 source: a-selection-permaculture-plants.md
 type: concept
 ---
@@ -123,8 +123,8 @@ Eucalypts work best in permaculture systems when used as:
 
 ## See Also
 
-- [[Coppice Management in Permaculture]]
-- [[Australian Native Plants in Permaculture]]
-- [[Windbreak Design]]
-- [[Bee Forage Plants]]
-- [[Land Rehabilitation Techniques]]
+- [[coppice-management-permaculture]]
+- [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]
+- [[permaculture-windbreak-design]]
+- [[forage-turnip]]
+- [[land-rehabilitation-techniques]]

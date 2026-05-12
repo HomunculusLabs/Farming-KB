@@ -86,4 +86,4 @@ Extracts of Aralia racemosa root have demonstrated anti-inflammatory activity in
 
 Immunomodulatory effects include stimulation of phagocytosis and enhanced macrophage activity in animal models.
 
-The saponin fraction shows [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] comparable to other Araliaceae species, including improved [[fungal-lichen-stress-tolerance-and-poikilohydry]].
+The saponin fraction shows [[ashwagandha]] comparable to other Araliaceae species, including improved [[fungal-lichen-stress-tolerance-and-poikilohydry]].

@@ -88,3 +88,8 @@ to at least USDA zone 3.
 **Medicinal use:** Bogbean leaf has a long history of use in European folk medicine as a
 bitter tonic. The German Commission E and European Medicines Agency have recognized its use
 for loss of appetite and dyspeptic complaints. Dried leaves are prepared as infusions or
+
+## See Also
+- [[dom]]
+- [[psilocybin]]
+- [[herbal-medicine]]

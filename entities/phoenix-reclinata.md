@@ -25,7 +25,7 @@ The species is a multi-stemmed clustering palm, typically growing 6–12 meters 
 
 Senegal date palm is valued both for its edible fruit and for its ornamental qualities in tropical and subtropical landscapes. Its graceful, arching fronds and clustering habit make it a popular specimen for large gardens and public spaces.
 
-The species is among the most commonly planted ornamental palms in tropical Africa. It is also widely used in [[soil-erosion-control-and-landscape-restoration]] projects due to its soil-stabilizing root system and wildlife value.
+The species is among the most commonly planted ornamental palms in tropical Africa. It is also widely used in [[soil-erosion-control]] projects due to its soil-stabilizing root system and wildlife value.
 
 Young plants are sometimes grown as indoor specimens, though they eventually outgrow most interior spaces. The palm's tolerance for container culture makes it a popular choice for patios and poolside plantings.
 

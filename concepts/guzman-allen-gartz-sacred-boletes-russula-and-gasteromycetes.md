@@ -1,5 +1,5 @@
 ---
-title: "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]] And Gasteromycetes"
+title: "Guzmán, Allen, and Gartz on Sacred Boletes, Russula, and Gasteromycetes"
 created: 2026-04-28
 tags:
   - boletes
@@ -29,7 +29,7 @@ the use of Psilocybe, Russula, and Boletaceous fungi as [[poria-cocos]], neurotr
 - [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
 ## Practical Applications
 
-Sacred Boletes Russula and Gasteromycetes has a range of practical applications that make it relevant to
+[[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]] and Gasteromycetes has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -88,3 +88,17 @@ better results with each iteration of practice and experimentation.
 ## Integration and Future Development
 
 The greatest value from this topic often comes through integration
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
+- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
+- [[doc]]

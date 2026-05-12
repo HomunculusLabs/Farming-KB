@@ -26,7 +26,7 @@ sources: ["Shulgin - PIHKAL"]
 > (with 100 mg) I felt completely relaxed at one
 > hour. Almost as if I was floating. There were no obvious effects on
 > taste, and the relaxation and composed feeling is much like a small
-> dose, maybe 20 mikes, of LSD. There was some dilation, and in the
+> dose, maybe 20 mikes, of [[lsd]]. There was some dilation, and in the
 > evening I was a little restless and slightly tired. I slept well, and
 > awoke refreshed and happy.
 >

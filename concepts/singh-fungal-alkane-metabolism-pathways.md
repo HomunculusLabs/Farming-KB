@@ -1,5 +1,5 @@
 ---
-title: "[[singh-fungal-bioaugmentation-contaminated-soils]] Alkane Metabolism Pathways"
+title: Singh Fungal Alkane Metabolism Pathways
 created: 2026-04-26
 tags: [alkane-metabolism, fungal-enzymes, petroleum-biodegradation, monoxygenase, hydrocarbon-oxidation]
 date: 2026-04-25

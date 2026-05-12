@@ -1,5 +1,5 @@
 ---
-title: Mushroom [[pf-tek-inoculation-and-incubation]] Techniques
+title: "Mushroom Inoculation and Incubation Techniques"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

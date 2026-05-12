@@ -11,7 +11,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Shetler, S.G. & Morin, N.R. (1986). "Campanula L." In: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (eds.), Flora [[huckleberries-and-wild-berries-of-north-america]] North of Mexico, Vol. 19. Oxford University Press.
+  - Shetler, S.G. & Morin, N.R. (1986). "Campanula L." In: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (eds.), Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 19. Oxford University Press.
   - Weakley, A.S. (2020). Flora of the Southeastern United States. University of [[north-carolina-mycodiversity]] Herbarium.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
 ---
@@ -66,7 +66,7 @@ The Appalachian distribution pattern is shared with many other plant species tha
 
 ## Cultivation
 
-Campanula divaricata is cultivated as a native shade-garden plant, though it remains uncommon in [[cannabinoid-pharmacology]]. Native-plant nurseries in the [[bolete-fungi-appalachian-region]] occasionally offer it.
+Campanula divaricata is cultivated as a native shade-garden plant, though it remains uncommon in [[blesching-cannabinoid-pharmacology]]. Native-plant nurseries in the [[bolete-fungi-appalachian-region]] occasionally offer it.
 
 **Growing requirements:**
 - **Soil:** Humus-rich, acidic to neutral loam, consistently moist

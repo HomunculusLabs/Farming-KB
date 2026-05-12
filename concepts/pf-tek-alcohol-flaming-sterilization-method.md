@@ -1,5 +1,5 @@
 ---
-title: "Pf Tek [[inoculation-technique-and-alcohol-flaming]] [[sterilization]] Method"
+title: Pf Tek Alcohol Flaming Sterilization Method
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 topics: alcohol flame, needle sterilization, denatured alcohol, butane vs alcohol
 created: 2026-05-08
@@ -31,7 +31,7 @@ affecting colonisation.
 An alcohol flame produces a clean burn with no soot residue. The
 blue flame of burning denatured alcohol provides adequate heat for
 sterilisation while leaving the needle surface clean. This is
-particularly important for the PF Tek because the needle is inserted
+particularly important for the [[pf-tek]] because the needle is inserted
 directly into the substrate through the lid holes, and any residue
 on the needle will be carried into the sterile substrate.
 

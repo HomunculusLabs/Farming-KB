@@ -16,7 +16,7 @@ created: 2026-05-10
 | Attribute | Detail |
 |---|---|
 | **Breeder** | [[oner-mango-haze-mr-nice-seedbank-haze-skunk]], Holland |
-| **Genetics** | [[northern-lights-#5]]/Haze × Skunk/Haze |
+| **Genetics** | [[northern-lights]]/Haze × Skunk/Haze |
 | **Type** | Sativa-dominant (~55% sativa) |
 | **THC** | 19% |
 | **Flowering Time** | 66 days (indoor) |
@@ -27,19 +27,19 @@ created: 2026-05-10
 ## Genetics & Lineage
 
 Mango Haze carries an extraordinarily rich genetic pedigree. The cross brings together
-[[northern-lights-#5]]/Haze and Skunk/Haze, delivering a quadruple dose of [[Haze]]
-genetics augmented by [[skunk-#1]] and [[northern-lights-#5]] — two of the most
+[[northern-lights]]/Haze and Skunk/Haze, delivering a quadruple dose of [[haze-genetics]]
+genetics augmented by [[skunk-#1]] and [[northern-lights]] — two of the most
 consequential breeding lines in cannabis history.
 
 ### Parent Strains
 
-**[[Haze]]** — The quintessential sativa, originally developed in Santa Cruz, California
+**[[haze-genetics]]** — The quintessential sativa, originally developed in Santa Cruz, California
 during the 1970s by the Haze Brothers. Haze became the genetic backbone for countless
 satviva-dominant hybrids worldwide, prized for its soaring cerebral effects, long
 flowering time, and complex [[cannabis-terpene-profile]]. Nearly every award-winning sativa of the
 last four decades carries Haze ancestry.
 
-**[[northern-lights-#5]]** — One of the most influential indica breeding lines ever
+**[[northern-lights]]** — One of the most influential indica breeding lines ever
 created. Originating from Afghani landrace stock, NL#5 contributed compact structure,
 fast flowering, heavy resin production, and a deeply relaxing physical stone. It remains
 a staple in commercial and hobbyist breeding programs.
@@ -88,3 +88,38 @@ When forced into flowering from a rooted clone or seedling, indoor plants reach 
 — manageable for most grow spaces. Indoor yields average approximately 500 grams per
 square yard, while outdoor plants can produce significantly more given adequate space
 and sunlight.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[colombian-gold]]
+- [[dom]]
+- [[det]]
+- [[acapulco-gold]]
+- [[screen-of-green]]

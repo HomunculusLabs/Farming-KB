@@ -1,5 +1,5 @@
 ---
-title: "[[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]] Via [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]"
+title: Psilocybin Phosphorylation Via Zwitterionic Intermediate
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-sh
 
 ## Overview
 
-The key innovation in the Shirota, Hakamata, and Goda synthesis of psilocybin is the discovery and isolation of a zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] — a compound that forms spontaneously during the phosphorylation of psilocin and that enables large-scale purification without chromatography.
+The key innovation in the Shirota, Hakamata, and Goda synthesis of [[psilocybin]] is the discovery and isolation of a zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] — a compound that forms spontaneously during the phosphorylation of psilocin and that enables large-scale purification without chromatography.
 
 This intermediate, designated compound 8, was "completely identified by means of 2D NMR analyses" and represents a novel chemical entity not previously described in the literature.
 

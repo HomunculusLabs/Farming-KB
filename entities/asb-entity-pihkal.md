@@ -31,7 +31,7 @@ sources: ["Shulgin - PIHKAL"]
 > dropped Q it was hard to simply lie back and relax my guard Q and even
 > while being up and about the next day I felt a residual plus one.
 > Over all, there were few if any of the open interactions of 2C-B or
-> LSD. Some negative side seemed to be present.
+> [[lsd]]. Some negative side seemed to be present.
 >
 > (with 280 mg) The entire session was, in a sort of way, like being in
 > a corridor outside the lighted halls where a beautiful [[mescaline]]

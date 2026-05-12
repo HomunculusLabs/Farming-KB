@@ -21,14 +21,14 @@ The **Proteobacteria class shift** from [[alpha-diversity-gradient-bulk-soil-can
 Winston et al. (2014) sampled three root-associated compartments in [[cannabis-sativa]]:
 
 1. **[[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]**: Non-root-influenced soil serving as the baseline [[cannabis-cultivar-microbial-community-effects]].
-2. **[[Rhizosphere]]**: Soil tightly adhering to roots, influenced by root exudates and sloughed cells.
-3. **[[Endorhiza]]**: Internal root tissue representing true endophytic colonization.
+2. **[[rhizosphere-ecology]]**: Soil tightly adhering to roots, influenced by root exudates and sloughed cells.
+3. **[[endorhiza-microbiome]]**: Internal root tissue representing true endophytic colonization.
 
-Across these compartments, the relative abundance of [[Proteobacteria]] classes shifted markedly, while other phyla such as [[acidobacteria-decline-rhizosphere-endorhiza-transition]] and [[actinobacteria-enrichment-cannabis-endorhiza]] showed contrasting trends. These shifts were statistically robust, detected through both phylum-level and class-level analyses of 16S rRNA gene sequence data. The three-compartment sampling scheme allowed Winston et al. to resolve the direction and magnitude of microbial community change with greater precision than studies examining only bulk soil and rhizosphere.
+Across these compartments, the relative abundance of [[proteobacteria-dominance-cannabis-endorhiza]] classes shifted markedly, while other phyla such as [[acidobacteria-decline-rhizosphere-endorhiza-transition]] and [[actinobacteria-enrichment-cannabis-endorhiza]] showed contrasting trends. These shifts were statistically robust, detected through both phylum-level and class-level analyses of 16S rRNA gene sequence data. The three-compartment sampling scheme allowed Winston et al. to resolve the direction and magnitude of microbial community change with greater precision than studies examining only bulk soil and rhizosphere.
 
 ## Proteobacteria Class-Level Dynamics
 
-Three classes within the phylum [[Proteobacteria]] exhibited distinct enrichment patterns along the soil-to-root gradient, collectively accounting for the dominant compositional change observed by Winston et al. (2014).
+Three classes within the phylum [[proteobacteria-dominance-cannabis-endorhiza]] exhibited distinct enrichment patterns along the soil-to-root gradient, collectively accounting for the dominant compositional change observed by Winston et al. (2014).
 
 ### Gammaproteobacteria
 
@@ -47,7 +47,7 @@ Three classes within the phylum [[Proteobacteria]] exhibited distinct enrichment
 
 ## OTU-Level Enrichment in the Endorhiza
 
-At the operational taxonomic unit (OTU) level, Winston et al. identified 17 OTUs that increased significantly in the endorhiza relative to the rhizosphere. Of these, the majority were classified within [[Proteobacteria]], reinforcing the phylum-level trend with finer taxonomic resolution.
+At the operational taxonomic unit (OTU) level, Winston et al. identified 17 OTUs that increased significantly in the endorhiza relative to the rhizosphere. Of these, the majority were classified within [[proteobacteria-dominance-cannabis-endorhiza]], reinforcing the phylum-level trend with finer taxonomic resolution.
 
 This concentration of Proteobacterial OTUs among the endorhiza-enriched community members underscores the selective advantage these taxa hold for colonizing internal root tissues in [[cannabis-sativa]]. The OTU-level data demonstrated that the class-level shifts were not driven by a single dominant lineage but rather by a diverse set of Proteobacterial taxa converging on root interior niches. This diversity among the enriched OTUs suggests multiple independent colonization events and [[functional-redundancy-fungal-communities]] within the Proteobacterial community occupying the endorhiza.
 
@@ -55,11 +55,11 @@ This concentration of Proteobacterial OTUs among the endorhiza-enriched communit
 
 Perhaps the most statistically dramatic transition documented by Winston et al. was the collapse of [[acidobacteria-decline-rhizosphere-endorhiza-transition]] from the rhizosphere to the endorhiza. Specifically, the Acidobacterial subgroup *iii1-15* declined precipitously in the root interior. This shift was highly significant by Bonferroni-corrected ANOVA, with p = 1.12e-7, making it one of the strongest compartment effects detected in the entire study.
 
-[[acidobacteria-decline-rhizosphere-endorhiza-transition]] are generally oligotrophic and adapted to low-nutrient conditions, consistent with their relative abundance in [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] and gradual displacement by faster-growing copiotrophic [[Proteobacteria]] in the carbon-rich rhizosphere environment. Their near-complete absence from the endorhiza suggests that Acidobacteria lack the traits needed for root-endophytic colonization, such as motility, biofilm formation, or immune evasion capabilities. The extreme statistical significance of this decline (p = 1.12e-7) underscores the strength of the plant-driven filter operating at the rhizosphere-to-endorhiza boundary.
+[[acidobacteria-decline-rhizosphere-endorhiza-transition]] are generally oligotrophic and adapted to low-nutrient conditions, consistent with their relative abundance in [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] and gradual displacement by faster-growing copiotrophic [[proteobacteria-dominance-cannabis-endorhiza]] in the carbon-rich rhizosphere environment. Their near-complete absence from the endorhiza suggests that Acidobacteria lack the traits needed for root-endophytic colonization, such as motility, biofilm formation, or immune evasion capabilities. The extreme statistical significance of this decline (p = 1.12e-7) underscores the strength of the plant-driven filter operating at the rhizosphere-to-endorhiza boundary.
 
 ## Actinobacteria Enrichment
 
-[[actinobacteria-enrichment-cannabis-endorhiza]] showed notable enrichment in the endorhiza of [[cannabis-sativa]]. This finding aligns with the known ecological roles of Actinobacteria in producing antimicrobial [[antifungal-secondary-metabolites-coprophilous-fungi]], which may confer advantages for root endophytic colonization by suppressing competing microorganisms. Filamentous growth forms common among Actinobacteria may also facilitate tissue penetration and persistence within the root interior. The co-enrichment of [[actinobacteria-enrichment-cannabis-endorhiza]] and [[Proteobacteria]] in the endorhiza suggests complementary functional roles in the root endophytic community, with Actinobacteria potentially providing defense functions while Proteobacteria contribute metabolic versatility.
+[[actinobacteria-enrichment-cannabis-endorhiza]] showed notable enrichment in the endorhiza of [[cannabis-sativa]]. This finding aligns with the known ecological roles of Actinobacteria in producing antimicrobial [[antifungal-secondary-metabolites-coprophilous-fungi]], which may confer advantages for root endophytic colonization by suppressing competing microorganisms. Filamentous growth forms common among Actinobacteria may also facilitate tissue penetration and persistence within the root interior. The co-enrichment of [[actinobacteria-enrichment-cannabis-endorhiza]] and [[proteobacteria-dominance-cannabis-endorhiza]] in the endorhiza suggests complementary functional roles in the root endophytic community, with Actinobacteria potentially providing defense functions while Proteobacteria contribute metabolic versatility.
 
 ## Support for the Two-Tier Selection Model
 
@@ -69,7 +69,7 @@ The observed class-level shifts from [[alpha-diversity-gradient-bulk-soil-cannab
 
 2. **Tier 2 (Root selection)**: The plant exerts a second, more selective filter through root exudation, immune signaling, and tissue-specific physicochemical conditions. This tier progressively enriches certain taxa while excluding others as microbes move from rhizosphere soil into root tissues.
 
-The progressive enrichment of copiotrophic [[Proteobacteria]] and the dramatic loss of oligotrophic [[acidobacteria-decline-rhizosphere-endorhiza-transition]] (p = 1.12e-7) along the gradient exemplify Tier 2 selection. The root environment favors fast-growing, metabolically versatile taxa capable of responding to root-derived carbon compounds and navigating plant immune defenses — traits that are characteristic of many [[Proteobacteria]] but rare among [[acidobacteria-decline-rhizosphere-endorhiza-transition]].
+The progressive enrichment of copiotrophic [[proteobacteria-dominance-cannabis-endorhiza]] and the dramatic loss of oligotrophic [[acidobacteria-decline-rhizosphere-endorhiza-transition]] (p = 1.12e-7) along the gradient exemplify Tier 2 selection. The root environment favors fast-growing, metabolically versatile taxa capable of responding to root-derived carbon compounds and navigating plant immune defenses — traits that are characteristic of many [[proteobacteria-dominance-cannabis-endorhiza]] but rare among [[acidobacteria-decline-rhizosphere-endorhiza-transition]].
 
 ## Comparison to Other Plant Systems
 

@@ -92,3 +92,17 @@ expertise and contributing to the ongoing evolution of this field.
 - [[permaculture-community-design]]
 - [[urban-permaculture-community-building-social-design]]
 - [[community-garden-design]]
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[permaculture]]
+- [[holmgren-self-regulation-and-feedback-systems-design]]
+- [[holmgren-wholistic-design-thinking]]

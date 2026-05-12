@@ -43,7 +43,7 @@ use strong, vigorous seeds.
 
 He reserves transplanting for species that genuinely benefit from being
 given every possible frost-free day: mainly tomatoes, peppers, and
-eggplants. In short-season areas, a couple of melon or [[winter-squash-guide]]
+eggplants. In short-season areas, a couple of melon or [[winter-rye]]
 transplants may also be worthwhile.
 
 ## Seed-Sprouting Parties

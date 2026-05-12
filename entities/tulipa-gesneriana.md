@@ -68,7 +68,7 @@ In areas with mild winters, bulbs may be pre-chilled at 4–9°C for 12–14 wee
 
 Commercial growers use controlled temperature treatments to program flowering times. Warm pre-planting (34°C for 1 week), followed by cold treatment (9°C for 12–16 weeks), ensures uniform blooming.
 
-Tulips are typically treated as annuals in [[cannabinoid-pharmacology]] because flower quality declines in subsequent years. However, bulbs can persist and naturalize in favorable conditions for several years.
+Tulips are typically treated as annuals in [[blesching-cannabinoid-pharmacology]] because flower quality declines in subsequent years. However, bulbs can persist and naturalize in favorable conditions for several years.
 
 Major cultivar groups derived from *T. gesneriana* include Triumph, Darwin Hybrid, Single Early, Single Late, Lily-flowered, Fringed, Parrot, and Double Late tulips.
 

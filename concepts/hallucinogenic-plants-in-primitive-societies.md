@@ -1,13 +1,13 @@
 ---
-title: [[anticholinergic-hallucinogenic-plants|[[hallucinogenic-plants-history-ethnobotany|Hallucinogenic]] [[hallucinogenic-plants-history-ethnobotany|Plants]] in Primitive Societies
+title: Hallucinogenic Plants in Primitive Societies
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# Hallucinogenic [[allelopathy-and-chemical-warfare-in-[[biological-transmutation-in-plants|plants]]|Plants]] in Primitive Societies
+# Hallucinogenic plants|Plants in Primitive Societies
 
 > Hallucinogens permeate nearly every aspect of life in primitive societies.
-> — R.E. Schultes, *A Golden Guide to [[plants-of-the-gods-geography-hallucinogenic-plants|Hallucinogenic Plants]]* (1976)
+> — R.E. Schultes, *A Golden Guide to [[plants-of-the-gods-geography-hallucinogenic-plants]]* (1976)
 
 ## Overview
 
@@ -24,7 +24,7 @@ type: concept
 
 Hallucinogens permeate nearly every aspect of life in aboriginal cultures:
 
-- **Health and sickness** — central to healing practices and disease
+- **Health and sickness** — central to [[blesching-cannabis-healing-practices-setting-intention-affirmations]] and disease
   conceptualization
 - **Peace and war** — used to divine enemy plans, ensure victory, and
   ritualize conflict
@@ -38,7 +38,7 @@ Hallucinogens permeate nearly every aspect of life in aboriginal cultures:
 ## Medical and Religious Uses
 
 - Medical and religious applications are particularly important across
-  indigenous cultures
+  [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
 - Aboriginal peoples attribute sickness and health to the working of
   **spirit forces**
 - A "medicine" that can transport one to the spirit world is valued above
@@ -72,7 +72,7 @@ cultures:
   - Used in initiation ceremonies among Gabonese peoples
   - Induces intense visionary experiences confronting ancestral spirits
 - **Caapi / Ayahuasca (Amazon Basin)**
-  - Banisteriopsis caapi prepared as a brew
+  - [[ayahuasca-and-banisteriopsis-caapi]] prepared as a brew
   - Used in initiation rituals throughout the Amazon
   - Brings visions of the spirit world to new initiates
 
@@ -100,9 +100,9 @@ cultures:
 ### Mexican Indigenous Practices
 
 - Modern Mexican Indians value certain **mushrooms** as sacraments
-- **Morning glories** and **peyote** are used to predict the future,
+- **[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]** and **peyote** are used to predict the future,
   diagnose and cure disease, and placate good and evil spirits
-- **Mixtecs of Mexico** eat puffballs (*Lycoperdon mixtecorum* and
+- **Mixtecs of Mexico** eat puffballs (*[[lycoperdon-mixtecorum]]* and
   *L. marginotum*) to hear voices from heaven answering questions
 
 ### South American Shamanic Practices
@@ -128,7 +128,7 @@ cultures:
   **controversial**
 - Key distinctions from traditional use:
   - Widespread use may have little or no value, can be harmful without
-    proper cultural context
+    proper [[ayahuasca-pharmacology-and-cultural-context]]
   - Represents a **newly imported and superimposed cultural trait**
   - Lacks natural roots in Western tradition
   - Removed from integrated spiritual frameworks that gave these

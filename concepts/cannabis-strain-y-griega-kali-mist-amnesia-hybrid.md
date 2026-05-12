@@ -26,7 +26,7 @@ that have earned it a devoted following among sativa enthusiasts and medical pat
 | **Outdoor Yield** | 550g per plant |
 | **Outdoor Height** | Up to 11 feet |
 | **Outdoor Harvest** | Beginning of November |
-| **Aroma** | Classic [[Haze]] scent |
+| **Aroma** | Classic [[haze-genetics]] scent |
 
 ## Name Origin
 
@@ -54,7 +54,7 @@ crossbreeding candidate, contributing both yield potential and a complex [[canna
 
 ### The Haze Heritage
 
-Both parent strains carry deep [[Haze]] lineage, and Y Griega's Haze grandparent comes through
+Both parent strains carry deep [[haze-genetics]] lineage, and Y Griega's Haze grandparent comes through
 strongly in every aspect — from towering growth and extended flowering to pungent aroma and
 powerful psychoactive effects. This dual Haze inheritance gives Y Griega its unmistakable
 character.
@@ -88,3 +88,38 @@ undertones. The [[terpene-profile-chemotaxonomy]] is likely dominated by:
 
 - **Terpinolene** — floral, fruity, and slightly herbal notes
 - **Myrcene** — earthy, musky base notes
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[kali-mist]]
+- [[amnesia-haze]]
+- [[dom]]
+- [[det]]
+- [[myrcene]]

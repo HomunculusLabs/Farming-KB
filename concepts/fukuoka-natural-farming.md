@@ -1,15 +1,15 @@
 ---
-title: [[fukuoka-natural-farming-today|Fukuoka]] Natural Farming
-aliases: [[natural-farming-five-principles-fukuoka|farming]]-five-principles-fukuoka|[[fukuoka-natural-farming-today|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] farming, do-nothing farming, Masanobu Fukuoka farming]
+title: "Fukuoka Natural Farming"
+aliases: [[natural-farming-five-principles-fukuoka|farming-five-principles-fukuoka|fukuoka-natural-farming-today|natural-farming-fukuoka|natural-farming-principles-fukuoka|natural farming, do-nothing farming, Masanobu Fukuoka farming]
 tags: [agriculture, philosophy, farming, permaculture, sustainability]
 ---
 
-# Fukuoka [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] Farming
+# Fukuoka [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|[[natural-farming]]
 
-Masanobu Fukuoka (1913–2008) was a Japanese farmer and philosopher
-who developed a radical approach to agriculture he called "[[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]]
-farming" or "do-nothing farming." His book *The [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] Way of Farming:
-The Theory and Practice of Green Philosophy* presents a comprehensive
+[[masanobu-fukuoka]] (1913–2008) was a Japanese farmer and philosopher
+who developed a radical approach to agriculture he called "[[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural
+farming" or "do-nothing farming." His book *The [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural Way of Farming:
+The Theory and Practice of [[green-philosophy]]* presents a comprehensive
 critique of modern scientific agriculture and offers an alternative
 grounded in non-intervention and harmony with [[fukuoka-natural-farming-philosophy-road-back-to-nature|nature]].
 
@@ -17,9 +17,9 @@ Fukuoka spent over fifty years wandering in search of nature, and his
 writings are the record of that journey. While still a youth, a certain
 turn of events set him out on the proud and lonely road back to nature.
 
-## The Five Principles of [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] Farming
+## The Five Principles of [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural Farming
 
-Fukuoka's [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] farming is built on five fundamental principles
+Fukuoka's [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural farming is built on five fundamental principles
 that distinguish it from both conventional and organic agriculture.
 These principles apply universally, regardless of climate or crop type:
 
@@ -42,11 +42,11 @@ these diseases as insect damage and created with his own hands
 the need for labor and toil.
 
 4. **No weeding** — Nature does not arbitrarily call one plant a
-weed and try to eradicate it. Weeds are part of the [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] ecosystem
+weed and try to eradicate it. Weeds are part of the [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural ecosystem
 and serve ecological functions that man's understanding cannot
 fully grasp.
 
-5. **No pruning** — A fruit tree grows best in its [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] habitat.
+5. **No pruning** — A fruit tree grows best in its [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural habitat.
 The branches do not tangle, sunlight falls on every leaf, and the
 tree bears fully each year, not only in alternate years as is common
 with pruned trees.
@@ -74,7 +74,7 @@ defined disciplines and penetrates into ever smaller worlds.
 
 The scientist believes that his studies reach down to the deepest
 stratum of nature and his efforts bring man that much closer to a
-fundamental understanding of the [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] world, but these endeavors
+fundamental understanding of the [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural world, but these endeavors
 are just peripheral research that moves further and further away
 from the fountainhead of nature.
 
@@ -87,10 +87,10 @@ when seen collectively they cancel each other out and are totally
 ineffective.
 
 This property of mutual cancellation derives from the equilibrium
-of nature. Nature inherently abhors the un[[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] and makes every
+of nature. Nature inherently abhors the un[[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural and makes every
 effort to return to its true state by discarding human techniques
-for increasing harvests. A [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] control operates to hold down
-large harvests and raise low harvests, approaching the [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]]
+for increasing harvests. A [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural control operates to hold down
+large harvests and raise low harvests, approaching the [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural
 yield without disrupting the balance of nature.
 
 An improved variety with three good features will also have three
@@ -101,7 +101,7 @@ that defy solution.
 
 ## The Do-Nothing Movement
 
-Beyond agriculture, Fukuoka framed [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] farming as one branch
+Beyond agriculture, Fukuoka framed [[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural farming as one branch
 of a broader "do-nothing" movement — a spiritual and cultural
 philosophy of non-action. He argued that the age of aggressive
 expansion in materialistic culture had ended, and a [[fukuoka-natural-farming-new-age|new age]] of
@@ -114,7 +114,7 @@ him and his society. This philosophy draws from the Taoist concept
 of *wu wei* (non-action) and the Buddhist concept of *Mu*
 (nothingness).
 
-[[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural]]-farming-principles-fukuoka|natural]] farming is more than just a revolution in agricultural
+[[natural-farming-five-principles-fukuoka|natural]]-farming-fukuoka|natural-farming-principles-fukuoka|natural farming is more than just a revolution in agricultural
 techniques. It is the practical foundation of a spiritual movement,
 of a revolution to change the way man lives. Human knowledge and
 effort expand and grow increasingly complex and wasteful without

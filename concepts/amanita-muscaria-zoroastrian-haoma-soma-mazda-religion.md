@@ -1,5 +1,5 @@
 ---
-title: Zoroastrian [[zoroaster-mazda-religion-haoma]] Soma and Christian Influence
+title: "Amanita Muscaria Zoroastrian Haoma Soma Mazda Religion"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -137,7 +137,7 @@ traditions that shaped the Western world.
 
 ## See Also
 
-- [[Amanita Muscaria — Herb of Immortality]] (source document)
-- [[Vedic Soma and the Rig Veda]]
-- [[Christian Eucharist Origins]]
-- [[Indo-European Religious Traditions]]
+- [[amanita-muscaria-herb-of-immortality-soma-discovery]] (source document)
+- [[vedic-soma-and-the-rig-veda]]
+- [[christian-eucharist-origins]]
+- [[indo-european-religious-traditions]]

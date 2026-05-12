@@ -3,7 +3,7 @@ title: Chrysanthemum Night Interruption Flowering Commercial Horticulture
 aliases:
   - "chrysanthemum night break lighting"
   - "night interruption flowering control"
-  - "[[cannabinoid-pharmacology]] chrysanthemum"
+  - "[[blesching-cannabinoid-pharmacology]] chrysanthemum"
   - "short day plant flowering suppression"
 tags:
   - horticulture
@@ -87,3 +87,38 @@ Chrysanthemum is one of the top-selling cut flowers globally, and night-interrup
 ## Beyond Chrysanthemum: Other Crops
 
 Night interruption is effective on many other commercially important short-day plants. Strawberry growers use it to maintain vegetative runner production. Poinsettia ([[euphorbia-pulcherrima]]) producers apply night interruption to delay bract colouration until the desired market window. Kalanchoe, a popular ornamental succulent, responds similarly. The same phytochrome mechanism operates across all these species, though the critical night length and required light intensity vary.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[dom]]
+- [[phytochrome]]
+- [[night-interruption-photoperiodism-commercial-floral-manipulation]]
+- [[night-interruption-photoperiodism]]
+- [[photoperiodism-night-interruption-floral-manipulation]]

@@ -1,5 +1,5 @@
 ---
-title: Pepino Melon — [[solanum-muricatum]]
+title: "Pepino Melon (Solanum muricatum) Andean Fruit"
 source: a-selection-permaculture-plants
 type: concept
 ---
@@ -58,7 +58,6 @@ that contribute to diversified farming and permaculture systems.
 Pepino Melon Solanum Muricatum Andean Fruit interacts with surrounding ecosystems through pollinator
 relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
-
 
 ## Growing Conditions
 

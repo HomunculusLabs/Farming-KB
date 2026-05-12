@@ -17,7 +17,7 @@ type: concept
 # Tessellation and Annidation in Permaculture Design
 
 Tessellation and annidation are fundamental pattern strategies drawn
-from nature and applied in permaculture design to create complex,
+from nature and applied in [[permaculture-design]] to create complex,
 compact, and efficient systems. [[bill-mollison]] explores these concepts
 in detail in the [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] chapter of the Designers'
 Manual, showing how natural forms tile, nest, and interlock to

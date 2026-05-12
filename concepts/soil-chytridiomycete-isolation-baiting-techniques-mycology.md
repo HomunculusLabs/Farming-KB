@@ -1,5 +1,5 @@
 ---
-title: "[[soil-chytridiomycete-isolation-baiting-techniques]] Baiting Techniques [[mycology]]"
+title: Soil Chytridiomycete Isolation Baiting Techniques Mycology
 source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller & Bills)
 tags:
   - chytridiomycetes

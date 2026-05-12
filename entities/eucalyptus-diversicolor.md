@@ -53,3 +53,35 @@ Eucalyptus diversicolor, commonly known as **karri**, is one of the tallest hard
 - Firewood (page 95)
 - [[faires-beekeeping-and-honey-production]] (page 95)
 - Construction timber (pages 95, 116)
+
+## Forest Context
+
+Karri forests are structurally distinctive because the trees form very tall, relatively even canopies in wet southwestern Australia.
+Their height creates a cool, shaded forest interior with large volumes of leaf litter, bark, and woody debris.
+That material supports decomposer organisms and long-term soil building.
+The existing link to [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] is useful because both pages attend to tree-fungus-forest relationships, even though the ecosystems differ greatly.
+Karri's ecological value is tied to scale: it is a landscape tree, not a small shelter shrub.
+
+## Site Requirements
+
+Eucalyptus diversicolor should be planted only where rainfall, soil depth, and drainage can support its rapid growth.
+It performs poorly in dry, shallow, compacted, or waterlogged sites.
+Young trees are frost sensitive, so establishment is easiest in mild high-rainfall climates.
+Because mature trees are enormous, they require careful placement away from buildings, small gardens, and overhead infrastructure.
+Where conditions are right, the species can produce impressive biomass and useful timber in a few decades.
+
+## Production Uses
+
+The timber's strength explains its use in flooring, framing, joinery, and other structural applications.
+Karri honey is another major yield, especially when flowering coincides with strong nectar flows.
+For [[faires-beekeeping-and-honey-production]], the tree is valuable because a forest-scale bloom can support substantial hive activity.
+Its firewood value is secondary to timber but still useful where residues are available from managed operations.
+As with other eucalypts, coppice response and regrowth management depend on local practice and legal constraints.
+
+## Disease and Management
+
+Phytophthora dieback is a serious concern in southwestern Australian forests and must shape planting decisions.
+Good drainage and hygiene around soil movement are important preventive measures.
+In farm forestry, mixed plantings can reduce some risks compared with monoculture blocks.
+The reference to [[singh-wood-rot-fungi-structural-timber-decay]] is relevant after harvest, because timber durability and fungal decay determine appropriate end uses.
+Karri should be managed as part of a long rotation system with attention to access, fire, biodiversity, and soil protection.

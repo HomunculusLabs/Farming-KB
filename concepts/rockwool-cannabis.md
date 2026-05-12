@@ -54,6 +54,17 @@ Rockwool holds a lot of moisture, so irrigation must be carefully managed. In [[
 - **[[jadam-salt-accumulation-in-soil]]**: Visible as white deposits on the rockwool surface. Reduce nutrient concentration and flush with plain water.
 - **Fiber dust irritation**: Dry rockwool produces irritating dust. Always pre-moisten and wear protective equipment.
 
+## Practical Applications
+
+Cultivation techniques continue to evolve with advances in indoor growing technology. Environmental control, nutrient management, and genetic selection remain the three pillars of successful production.
+
+## See Also
+
+- [[cannabis-core-endorhiza-taxa-xanthomonadaceae-oxalobacteraceae-actinomycetales]]
+- [[blesching-cannabis-forms-preparations-and-resin-products]]
+- [[blesching-cannabis-forms-and-preparations]]
+- [[cannabis-therapeutic-condition-guide]]
+
 ## See Also
 
 - [[coco-coir-cannabis]]

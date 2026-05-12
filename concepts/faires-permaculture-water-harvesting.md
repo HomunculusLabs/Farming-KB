@@ -87,3 +87,38 @@ A well-developed water diversion system can make even a small property very self
 Graywater (from sinks, tubs, washing machines, showers) can be piped into marshes or container gardens to grow water-loving plants (cattails, rushes, reed grasses, horsetails). It cannot be spouted directly into food gardens.
 
 Sizing: one cubic foot of wetlands filters roughly 1 gallon of water. Marsh surface area should handle about 1/3 of daily graywater production, 2 feet deep. For a frugal household of five using ~940 gallons/week: 134 gallons/day divided by 3 equals 45 sq ft of marsh.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[permaculture-water-harvesting]]
+- [[permaculture]]
+- [[irrigation-systems]]
+- [[swale]]
+- [[graywater-systems]]

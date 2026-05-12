@@ -43,7 +43,7 @@ The study identified several Proteobacterial orders that were significantly enri
 
 - **Burkholderiales** (Betaproteobacteria): Another order with significant strain-level differentiation. Burkholderiales include both plant-beneficial and opportunistic pathogenic species, and their strain-specific enrichment suggests differential recruitment by different Cannabis genotypes.
 
-- **Pseudomonadales** (Gammaproteobacteria): Part of the core [[Proteobacteria]], found consistently across all cultivars. Pseudomonas species are among the most well-studied plant growth-promoting rhizobacteria (PGPR).
+- **Pseudomonadales** (Gammaproteobacteria): Part of the core [[proteobacteria-dominance-cannabis-endorhiza]], found consistently across all cultivars. Pseudomonas species are among the most well-studied plant growth-promoting rhizobacteria (PGPR).
 
 - **Sphingomonadales** (Alphaproteobacteria): Showed strain-specific abundance patterns. Notably, *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]* was prevalent in the Maui Wowie endorhiza but absent from others — one of the most dramatic cultivar-specific differences detected.
 

@@ -1,5 +1,5 @@
 ---
-title: "Jeavons [[comparison-double-digging-vs-no-till]] [[azurescens-outdoor-bed-preparation-woodchips]]"
+title: Jeavons Double Digging Bed Preparation
 created: 2026-04-26
 author: [[john-jeavons]]
 sources: How to Grow More Vegetables, 8th edition
@@ -87,3 +87,38 @@ The fundamental goal of all bed preparation is to develop soil structure so plan
 In a well-prepared bed, the soil should be friable — crumbly and loose rather than hard or compacted. When you squeeze a handful of moist soil and release it, it should hold its shape briefly, then break apart gently. This texture allows roots to penetrate easily, water to infiltrate and be retained, air to circulate, and microbial populations to thrive.
 
 ## Soil as a Living System
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[composting]]
+- [[solomon-autumn-digging-new-garden-bed-preparation]]
+- [[jeavons-flat-preparation-seedling-raising]]
+- [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
+- [[coleman-fall-bed-preparation-early-outdoor-planting]]

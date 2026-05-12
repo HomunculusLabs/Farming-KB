@@ -1,5 +1,5 @@
 ---
-title: "[[phototropism]] And Darwins Light Experiments"
+title: Phototropism And Darwins Light Experiments
 created: 2026-05-09
 tags: [plant-biology, phototropism, darwin, blue-light, auxin]
 date: 2026-05-09
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Phototropism is the directional growth response of a plant toward (positive
+[[phototropism]] is the directional growth response of a plant toward (positive
 phototropism) or away from (negative phototropism) a light source. The
 phenomenon was first systematically investigated by Charles Darwin and his
 son Francis in the late 19th century, whose elegant experiments revealed
@@ -77,7 +77,7 @@ have little effect. This was later confirmed and refined:
 
 - **Blue light** (~450 nm): Primary trigger for phototropic bending
 - **[[far-red-light-phytochrome-switch-mechanism]]**: Does not induce phototropism (but serves other functions
-  via phytochrome)
+  via [[phytochrome]])
 - **Green light**: Generally ineffective for phototropic response
 
 This colour specificity implied a dedicated blue-light photoreceptor,

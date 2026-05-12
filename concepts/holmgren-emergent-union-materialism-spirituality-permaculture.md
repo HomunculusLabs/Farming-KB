@@ -83,7 +83,7 @@ environment, tools and technology, culture and education, health and spiritual
 well-being, finance, and community governance. The Flower is notable for
 **explicitly including "Health and Spiritual Well-Being"** as a core domain
 alongside material domains like energy, water, and shelter. This embeds the
-material-spiritual [[duck-keeping-and-integration-into-permaculture-systems]]'s foundational model rather
+material-spiritual [[duck-keeping]]'s foundational model rather
 than treating it as an optional overlay.
 
 ## The 12 Design Principles

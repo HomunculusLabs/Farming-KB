@@ -1,10 +1,10 @@
 ---
-title: [[cannabis-botany-and-history|[[cannabis-history-classification-and-chemistry|Cannabis]] [[cannabis-botany-and-history|Botany]] [[cannabis-history-classification-and-chemistry|History]] and Chemistry
+title: "Cannabis Botany History Chemistry"
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# [[query-how-to-fix-phosphorus-deficiency-in-cannabis|[[query-how-to-fix-sulfur-deficiency-in-cannabis|[[query-what-causes-nutrient-lockout-in-cannabis|Cannabis]]]]]]: Botany, History, and Chemistry
+# [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]: Botany, History, and Chemistry
 
 Cannabis (genus *Cannabis*), also known as marihuana, hasheesh, hemp, kif, bhang, or charas, is one of the oldest cultivated plants and arguably the most widespread hallucinogen in human history. It serves as a source of hemp fiber, edible fruit, industrial oil, medicine, and narcotic. Despite its great age and economic importance, the plant remains poorly understood in many respects.
 
@@ -23,7 +23,7 @@ The intoxicating constituents are normally concentrated in a **resin** produced 
 
 ### Leaf Morphology
 
-Cannabis leaves are **palmately divided**, normally into 3–7 leaflets, occasionally into 11–13. Leaflets vary in length from 2 to 6 inches.
+[[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] are **palmately divided**, normally into 3–7 leaflets, occasionally into 11–13. Leaflets vary in length from 2 to 6 inches.
 
 ## Taxonomic Classification
 
@@ -36,13 +36,13 @@ The classification of cannabis is disputed among botanists, with disagreements a
 
 ### Species Debate
 
-The traditional view holds there is one species, *Cannabis sativa*, which has developed many "races" or "varieties" partly through human selection:
+The traditional view holds there is one species, *[[blesching-cannabis-sativa-indica-classification]]*, which has developed many "races" or "varieties" partly through human selection:
 
 - **Fiber varieties:** Selected for superior hemp fiber
 - **Oil varieties:** Selected for higher seed oil content
 - **Narcotic varieties:** Selected for stronger psychoactive properties (especially notable in India, where intoxicating properties had religious significance)
 
-Current research indicates there may be additional species:
+[[psychedelic-therapy-current-research]] indicates there may be additional species:
 
 - ***C. sativa*** — the type species
 - ***C. indica*** — shorter, more conical, often more potent
@@ -62,7 +62,7 @@ The history of cannabis use extends deep into antiquity:
 - **Egypt:** Specimens nearly 4,000 years old have been found at Egyptian sites. In ancient Thebes, the plant was made into a drink with opium-like effects.
 - **Turkey:** Hemp fabrics from the late 8th century B.C. have been discovered.
 - **Greece:** The physician Galen (c. A.D. 160) wrote that general use of hemp in cakes produced narcotic effects.
-- **Asia Minor (13th century):** Organized murderers rewarded with hasheesh were known as *hashishins* — possibly the origin of the word "assassin" in European languages.
+- **Asia Minor (13th century):** Organized murderers rewarded with hasheesh were known as *hashishins* — possibly the origin of the word "assassin" in [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]].
 
 ### New World Introduction
 
@@ -79,7 +79,7 @@ Frozen Scythian tombs in the Altai Mountains (Russia/Mongolia border) have yield
 
 ## Chemistry of Cannabis
 
-The chemistry of cannabis is notably complex. Many organic compounds have been isolated, some with narcotic properties and others without.
+The chemistry of cannabis is notably complex. Many [[chamovitz-plant-scent-communication-volatile-organic-compounds]] have been isolated, some with narcotic properties and others without.
 
 ### Major Constituents
 
@@ -108,7 +108,7 @@ These changes typically occur more rapidly in tropical than in cooler climates. 
 
 ## Methods of Use
 
-Cannabis preparations and methods of consumption vary enormously across cultures:
+Cannabis preparations and [[cannabis-methods-of-consumption]] vary enormously across cultures:
 
 ### New World Methods
 

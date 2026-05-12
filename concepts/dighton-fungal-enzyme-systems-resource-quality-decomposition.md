@@ -56,7 +56,7 @@ by polyphenols, normalized to nitrogen available to decomposer organisms.
 
 ## Fungal Enzyme Systems for Lignin Degradation
 
-[[Lignin]] is the most recalcitrant plant polymer and requires a highly specialized
+[[lignin-degradation]] is the most recalcitrant plant polymer and requires a highly specialized
 suite of fungal enzymes for its degradation. The enzyme system includes:
 lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], glucose oxidase, cellobiose oxidase,
 arylalcohol oxidase, glyoxaloxidase, and laccases (Sinsabaugh and Liptak, 1997).
@@ -69,7 +69,7 @@ such as glucose oxidase generate the hydrogen peroxide needed by peroxidases.
 
 ## Fungal Enzyme Systems for Cellulose Degradation
 
-[[Cellulose]] degradation is accomplished by three main classes of fungal enzymes: exo-1,4-β-glucanase, endo-1,4-β-glucanase, and 1,4-β-glucosidases
+[[fungal-cellulose-degradation]] degradation is accomplished by three main classes of fungal enzymes: exo-1,4-β-glucanase, endo-1,4-β-glucanase, and 1,4-β-glucosidases
 (Sinsabaugh and Liptak, 1997). Endoglucanases cleave internal β-1,4-glycosidic
 bonds within the cellulose chain. Exoglucanases processively release cellobiose
 units from chain ends. β-glucosidases hydrolyze cellobiose to glucose, completing
@@ -118,7 +118,7 @@ Frankland 1992, 1998).
 
 Linkins et al. (1984) discussed [[factors-affecting-mycoremediation-efficiency]] extracellular cellulase
 activity, particularly the positive influence of temperature and the
-cellulose:lignin ratio. [[Cellulose]] becomes unavailable when the
+cellulose:lignin ratio. [[fungal-cellulose-degradation]] becomes unavailable when the
 cellulose:lignin ratio declines below 0.5.
 
 ## Nutrient Control Over Enzyme Expression

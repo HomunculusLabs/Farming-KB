@@ -36,7 +36,7 @@ and metaphysical musing.
 
 Structurally, each neuron has four main components. Powell uses the analogy of a big tree
 suspended in mid-air: the roots are the dendrites, which receive signals from other neurons;
-the lower bulbous trunk is the soma (cell body), where signals are integrated; the long thin
+the lower bulbous trunk is the [[soma]] (cell body), where signals are integrated; the long thin
 upper trunk is the axon, which transmits the integrated result; and the topmost branches are
 the terminal fibres, which pass signals onward to other neurons.
 

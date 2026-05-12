@@ -21,7 +21,7 @@ name Marinol, it is one of three FDA-approved cannabinoid-based
 pharmaceuticals (alongside [[nabilone]] and Sativex). Dronabinol is
 chemically identical to natural THC in molecular formula but differs
 in structural arrangement (isomer). It activates both CB1 and CB2
-[[cannabinoid-receptors-cb1-and-cb2]].
+[[cannabinoid-receptors-cb1-cb2]].
 
 ## Key Details
 

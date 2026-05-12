@@ -58,7 +58,7 @@ frosts. The lowest sprouts mature first and can be picked individually
 over an extended period. Broccoli should be cut before the flower buds
 open.
 
-**Cucurbits:** [[winter-squash-guide]] and pumpkins are ready when the skin is
+**Cucurbits:** [[winter-rye]] and pumpkins are ready when the skin is
 too hard to puncture with a fingernail and the stem has dried. Harvest
 before hard frost. [[growing-sweet-corn-organically]] is at its peak when the kernels exude a
 milky juice when pressed.

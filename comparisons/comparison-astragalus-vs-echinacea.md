@@ -75,7 +75,7 @@ activity.
 | **Duration** | Long-term, daily use | Short-term, during acute illness |
 | **Traditional Action** | Qi tonic, adaptogen | Blood cleanser, immune stimulant |
 | **Best Season** | Year-round maintenance | Winter/early cold season |
-| **Preparation Focus** | Decoctions, tinctures (roots) - see [[herbal-medicine-making]] | Tinctures, pressed juice, teas - see [[herbal-medicine-making]] |
+| **Preparation Focus** | Decoctions, tinctures (roots) - see [[herbal-medicine-making-basics]] | Tinctures, pressed juice, teas - see [[herbal-medicine-making-basics]] |
 | **Contraindications** | Autoimmune flares, acute infection | Autoimmune conditions, progressive diseases |
 | **Climate Preference** | Arid, cold-tolerant | Temperate, widely adaptable |
 | **Botanical Family** | Fabaceae (legumes) | Asteraceae (daisy family) |

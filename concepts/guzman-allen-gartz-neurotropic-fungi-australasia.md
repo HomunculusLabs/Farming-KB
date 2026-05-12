@@ -88,3 +88,17 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-europe]]
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
+- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]

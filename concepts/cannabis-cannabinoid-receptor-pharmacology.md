@@ -95,7 +95,7 @@ and modern research methods have all contributed to current understanding.
 
 ## See Also
 
-- [[cannabinoid]]
+- [[cannabinoid-receptors-cb1-cb2]]
 - [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
 - [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
 - [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
@@ -114,10 +114,10 @@ Proper identification and quality control remain essential for
 consumer safety across all production methods.
 
 ## See Also
-- [[cannabinoid]]
+- [[cannabinoid-receptors-cb1-cb2]]
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[endocannabinoid-system-and-cannabis-pharmacology]]
-- [[cannabinoid]]
+- [[cannabinoid-receptors-cb1-cb2]]
 - [[emcdda-psilocybin-psilocin-serotonin-5ht2a-receptor-pharmacology]]
 ## See Also
 

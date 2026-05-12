@@ -76,5 +76,16 @@ methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
 
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]
+- [[mycelium-composites-materials]]
+- [[stamets-reishi-ganoderma-lucidum-cultivation]]
+- [[growing-gourmet-species-sequencing-substrate-cascades]]
+
 ## See Also
 - [[biological-efficiency]]

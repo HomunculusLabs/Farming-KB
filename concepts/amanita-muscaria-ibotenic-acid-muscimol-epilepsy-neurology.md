@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]] and Epilepsy Treatment
+title: "Amanita Muscaria Ibotenic Acid Muscimol Epilepsy Neurology"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

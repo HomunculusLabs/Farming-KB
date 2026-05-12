@@ -88,3 +88,17 @@ uncertainty and improve the resilience of implementations over time.
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[isopropyl-alcohol]]
+- [[mushroom-cultivation]]
+- [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]

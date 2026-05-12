@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
   - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
-  - Schultz, R.P. (1997). "Loblolly Pine: The [[matsutake-mushroom-ecology-and-culture]] of Loblolly Pine (Pinus taeda L.)." USDA Forest Service Agriculture Handbook 713.
+  - Schultz, R.P. (1997). "Loblolly Pine: The [[matsutake-mushroom]] of Loblolly Pine (Pinus taeda L.)." USDA Forest Service Agriculture Handbook 713.
   - Kossuth, S.V. & Michael, J.L. (2000). "A Guide to the Silviculture of Loblolly, Slash, and Shortleaf Pines in the Southeast." USDA Forest Service General Technical Report SRS-42.
 ---
 

@@ -21,7 +21,7 @@ created: 2026-05-07
 
 ## Overview
 
-Pink Runtz is a highly sought-after hybrid cannabis strain created through crossing [[runtz-entity]] genetic line, itself a cross of [[gelato]].
+Pink Runtz is a highly sought-after hybrid cannabis strain created through crossing [[runtz-entity]] genetic line, itself a cross of [[gelato-strain]].
 
 The specific "pink" phenotype is believed to be a selected cut expressing enhanced anthocyanin production, responsible for the vivid purple-pink coloration.
 
@@ -50,7 +50,7 @@ The flavor closely mirrors the aroma, delivering a smooth, sugary smoke with tro
 - **Limonene** — Dominant; citrus notes, mood elevation, stress relief
 - **[[myrcene]]** — Earthy, herbal base; sedative, muscle relaxation
 - **[[runtz-entity]] — Parent genetic line
-- [[gelato]] — Grandparent strain contributing creamy terpenes
+- [[gelato-strain]] — Grandparent strain contributing creamy terpenes
 - [[granddaddy-purple]] — Classic purple strain for comparison
 - [[thin-mint-cookies]] — Related Cookie family strain
 - [[cereal-milk]] — Another candy-forward modern hybrid

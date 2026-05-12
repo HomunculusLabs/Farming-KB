@@ -37,7 +37,7 @@ choices and their characteristics:
 
 | Species | N Contribution (lb/acre) | Hardiness | Best Termination |
 |---------|------------------------|-----------|-----------------|
-| [[compost]] | 70–130 | Zone 6+ | 50% bloom |
+| [[mushroom-compost]] | 70–130 | Zone 6+ | 50% bloom |
 | Hairy vetch | 90–200 | Zone 4+ | 50% bloom |
 | Field peas | 70–130 | Zone 5+ | Early pod |
 

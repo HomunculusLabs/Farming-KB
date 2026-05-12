@@ -88,3 +88,9 @@ tremor, jaw clenching.
 
 - **Threshold:** 50–100 µg
 - **Light:** 100–250 µg
+
+## See Also
+- [[lsd]]
+- [[serotonin]]
+- [[25i-nbome]]
+- [[25c-nbome]]

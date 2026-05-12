@@ -39,7 +39,7 @@ Lucuma can be grown from seed and cuttings, but grafting is reported as difficul
 2. **High yield**: Up to 500 fruits per tree per year
 3. **Chicken integration**: Fruit promotes enhanced egg yolk coloration
 4. **Evergreen canopy**: Year-round shade and [[holzer-climate-zone-microclimate-creation]]
-5. **[[amanita-mushrooms-history-chemistry-and-cultural-significance]]**: One of the most commercially important fruits in its native range, offering market potential
+5. **[[amanita]]**: One of the most commercially important fruits in its native range, offering market potential
 
 ## Botanical Characteristics
 
@@ -68,7 +68,6 @@ that contribute to diversified farming and permaculture systems.
 Lucuma Pouteria Lucmo Andean Fruit Tree interacts with surrounding ecosystems through pollinator
 relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
-
 
 ## Harvest and Storage
 

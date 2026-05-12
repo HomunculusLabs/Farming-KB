@@ -117,7 +117,7 @@ victims.
 Alternative portals of entry exist as well. Some entomopathogenic fungi can
 ## See Also
 
-- [[Cordyceps]]
+- [[cordyceps-cultivation]]
 - mycopesticides-entomopathogenic-fungi
 - [[singh-entomopathogenic-fungi-biocontrol-agents]]
 - [[mycelium-running-presporulating-mycopesticides]]

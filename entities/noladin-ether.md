@@ -91,4 +91,4 @@ medicine, as plant cannabinoids may modulate not just anandamide and
 ## See Also
 - [[two-ag]]
 - dopamine
-- [[tetrahydrocannabinol-thc]]
+- [[tetrahydrocannabinol]]

@@ -56,7 +56,7 @@ The standard modern beehive, invented in 1851. Uses removable frames that mainta
 - **Advantages**: Standardized equipment, widely available, easy to inspect and manage, modular expansion.
 - **Standard configuration**: 2 deep boxes for brood + medium supers for honey.
 
-### Top Bar Hive
+### [[top-bar-hive]]
 A horizontal hive with no frames. Bees build comb from wooden bars suspended across the top.
 
 - **Advantages**: No heavy lifting (horizontal management), bees build natural comb (no foundation), lower cost, simpler construction.

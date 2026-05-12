@@ -88,3 +88,10 @@ aconitine from handling fresh plant material has caused fatalities. The
 toxin is heat-stable — cooking does not destroy it.
 
 ## Pharmacology and Traditional Medicine
+
+## See Also
+- [[composting]]
+- [[dom]]
+- [[psilocybin]]
+- [[aconitine]]
+- [[aconitum-lycoctonum]]

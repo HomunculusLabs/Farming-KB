@@ -9,7 +9,7 @@ topics: [history, eschatology, entheogens, western-civilization, suppression]
 
 ## The Ignorance Tradition and Cultural Destruction
 
-[[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]] identifies what he calls "the Hellenistic-Christian-Judaic tradition" as a force of
+[[terence-mckenna]] identifies what he calls "the Hellenistic-Christian-Judaic tradition" as a force of
 ignorance that systematically destroyed the accumulated knowledge of antiquity. This tradition burned the
 libraries of the Hellenistic world, dispersing ancient knowledge and shattering the stellar and
 astronomical machinery that had been the work of centuries. The destruction was not merely accidental but

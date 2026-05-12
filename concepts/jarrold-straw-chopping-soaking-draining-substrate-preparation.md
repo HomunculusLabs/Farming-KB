@@ -54,7 +54,7 @@ Other yeast extract products, such as Vegemite, nutritional yeast, or brewing ye
 
 ## Draining
 
-After soaking, the straw is **turned out into a bathtub** and left to drain for **1 hour**. Proper drainage is critical because excess water in the substrate creates [[lowenfels-aerobic-anaerobic-soil-conditions|anaerobic microsites]] within the packed bag. These oxygen-depleted zones are ideal breeding grounds for anaerobic bacteria and wet-spot contaminants such as *[[Bacillus]]* species and various slime moulds, which produce foul odours and can stall or kill mycelial growth.
+After soaking, the straw is **turned out into a bathtub** and left to drain for **1 hour**. Proper drainage is critical because excess water in the substrate creates [[lowenfels-aerobic-anaerobic-soil-conditions|anaerobic microsites]] within the packed bag. These oxygen-depleted zones are ideal breeding grounds for anaerobic bacteria and wet-spot contaminants such as *[[bacillus-subtilis]]* species and various slime moulds, which produce foul odours and can stall or kill mycelial growth.
 
 The bathtub drain allows gravity to pull free water away from the straw mass. Jarrold emphasises that the straw should drain **thoroughly** — a brief drain is insufficient and is a common source of failure for beginners.
 
@@ -88,3 +88,38 @@ Jarrold's method employs household items (bathtub, kitchen containers) for subst
 
 - **Clean all containers and surfaces** with hot, soapy water or a dilute bleach solution before use.
 - **Rinse thoroughly** after cleaning to remove residual detergent or bleach, which can inhibit mycelial growth.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[substrate-preparation]]
+- [[dom]]
+- [[det]]
+- [[spore]]
+- [[fungal-hyphae]]

@@ -113,7 +113,7 @@ When applying these concepts, several factors warrant attention: environmental c
 - [[pond-maintenance-and-troubleshooting]]
 - [[pf-tek-contamination-prevention-and-troubleshooting]]
 - [[natural-fertilizer-sources-and-application]]
-- [[mushroom-contamination-identification-and-troubleshooting]]
+- [[mushroom-contamination-identification]]
 - [[mollison-mulch-materials-sources-and-tropical-application]]
 
 ## See Also

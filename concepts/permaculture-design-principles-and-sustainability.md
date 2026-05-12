@@ -1,5 +1,5 @@
 ---
-title: "Permaculture Design Principles And Sustainability"
+title: Permaculture Design Principles And Sustainability
 tags:
   - permaculture
   - sustainability
@@ -24,7 +24,7 @@ Permaculture is a comprehensive design system for creating sustainable human set
 - [[permaculture-plant-selection-and-useful-species-categories]]
 ## Practical Applications
 
-Permaculture Design Principles and Sustainability has a range of practical applications that make it relevant to
+[[permaculture-design-principles]] and Sustainability has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

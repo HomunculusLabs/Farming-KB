@@ -88,3 +88,10 @@ At powerlines and fences, perched thrushes and wood pigeons
 defecate, so that each post gains seed and manure, and each generates
 a plant from nearby forests. Perches plus disturbed soil produce this
 result. Fences also act as mulch accumulators across wind.
+
+## See Also
+- [[permaculture]]
+- [[permaculture-design]]
+- [[mollison-designers-pond-edge-configuration-and-yield-maximisation]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[dmt-phenomenology-and-hyperspace-geometry]]

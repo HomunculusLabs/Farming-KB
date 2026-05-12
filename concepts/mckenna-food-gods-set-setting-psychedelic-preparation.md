@@ -3,7 +3,7 @@
 
 ## The Framework of Set and Setting
 
-McKenna identifies set and setting as the primary reference points for
+McKenna identifies [[set-and-setting]] as the primary reference points for
 understanding and preparing for psychedelic experiences. Set refers to the
 interiorized feelings, hopes, fears, and expectations of the would-be
 psychonaut. Setting refers to the external situation in which the interior

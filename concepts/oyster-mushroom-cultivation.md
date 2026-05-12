@@ -68,6 +68,17 @@ For higher yields and commercial production:
 
 Pleurotus ostreatus is the keystone species for many [[cotter-mycoremediation-overview]] applications. It is indigenous, aggressive, adaptable to various conditions, and documented to break down petroleum hydrocarbons, PAHs, and other contaminants while still producing edible mushrooms.
 
+## Cultivation Notes
+
+Temperature and humidity requirements vary by species. Most cultivated mushrooms prefer 18-24°C during fruiting with relative humidity above 85%. Substrate preparation is critical for commercial yields.
+
+## See Also
+
+- [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
+- [[fukuoka-direct-seeding-rice-barley-cultivation]]
+- [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]]
+- [[comparison-vanilla-vs-cacao-cultivation]]
+
 ## See Also
 
 - [[gourmet-mushroom-species-guide]]

@@ -10,7 +10,7 @@ created: 2026-05-11
 
 ## Overview
 
-The NASA microwave surface sterilization system (MSC-22484) relies on a critical operational parameter: the application of approximately 9 microliters of water per square centimeter (9 µL/cm²) of contaminated surface. This trace water dose is essential for achieving complete sterilization, particularly against resistant spore-forming organisms such as *Bacillus pumilus*. The protocol exploits the fundamental physics of microwave-water interaction to convert a minimal amount of water into an effective sterilizing agent through microwave-induced steam flash.
+The NASA [[microwave-surface-sterilization]] system (MSC-22484) relies on a critical operational parameter: the application of approximately 9 microliters of water per square centimeter (9 µL/cm²) of contaminated surface. This trace water dose is essential for achieving complete sterilization, particularly against resistant spore-forming organisms such as *Bacillus pumilus*. The protocol exploits the fundamental physics of microwave-water interaction to convert a minimal amount of water into an effective sterilizing agent through microwave-induced steam flash.
 
 ## The Physics of Trace Water Enhancement
 

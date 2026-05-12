@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-farming-for-all-quarter-acre-vision]] All and [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
+title: "Fukuoka Farming for All Creating True People"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -124,7 +124,7 @@ Not economics, not policy, not technology — but the unwillingness of each indi
 
 ## See Also
 
-- [[One-Straw Revolution]] — Fukuoka's foundational work on [[cho-loess-powder-in-natural-farming]]
-- [[Do-Nothing Farming]] — The agricultural practice that embodies this philosophy
-- [[The Ultimate Goal of Farming]] — Fukuoka's spiritual vision for agriculture
-- [[Natural Farming]] — Overview of Fukuoka's ecological approach
+- [[one-straw-revolution-overview]] — Fukuoka's foundational work on [[cho-loess-powder-in-natural-farming]]
+- [[do-nothing-farming]] — The agricultural practice that embodies this philosophy
+- [[the-ultimate-goal-of-farming]] — Fukuoka's spiritual vision for agriculture
+- [[natural-farming]] — Overview of Fukuoka's ecological approach

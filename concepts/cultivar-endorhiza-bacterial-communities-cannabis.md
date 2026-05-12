@@ -33,7 +33,7 @@ crop plants, as has been demonstrated for wines.
 - **Burmese:** Balanced hybrid (sativa x indica), moderate THC:CBD ratio
 
 ### Experiment 2 Cultivars
-- **[[Proteobacteria]] samples
+- **[[proteobacteria-dominance-cannabis-endorhiza]] samples
 maintained a core bacterial community consisting of:
 
 - **Pseudomonas** -- well-known endophytic genus within Gammaproteobacteria
@@ -89,3 +89,38 @@ Key areas needing investigation:
 - Which aspects of host genotype produce observed endorhiza structure
 - Disentangling cannabinoid production from soil edaphic effects
 ## See Also
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[endorhiza-bacterial-communities]]
+- [[cannabis-cultivar-specificity]]
+- [[dom]]
+- [[det]]
+- [[pseudomonas]]

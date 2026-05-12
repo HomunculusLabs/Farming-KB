@@ -88,3 +88,10 @@ range of soil pH conditions.
 *Malva sylvestris* has been used medicinally for over 2000 years.
 Dioscorides described its wound-healing properties in *De [[herbal-materia-medica]]*
 (c. 50–70 CE), and it remained a staple of European herbalism through the
+
+## See Also
+- [[dom]]
+- [[herbal-medicine]]
+- [[phoenix-sylvestris]]
+- [[pinus-sylvestris]]
+- [[nicotiana-sylvestris]]

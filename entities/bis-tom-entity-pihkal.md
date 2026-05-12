@@ -29,7 +29,7 @@ sources: ["Shulgin - PIHKAL"]
 
 It is reasonable, in retrospect, to accept
 that BIS-TOM is not an active compound. The replacement of the
-2-position oxygen of DOM with a sulfur atom (to give 2-TOM) dropped
+2-position oxygen of [[dom]] with a sulfur atom (to give 2-TOM) dropped
 the potency by a factor of 15x, and the replacement of the 5-position
 oxygen with a sulfur atom (to give 5-TOM) dropped the potency by a
 factor of about 10x. It would be a logical calculation that the

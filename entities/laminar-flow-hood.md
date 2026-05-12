@@ -1,5 +1,5 @@
 ---
-title: [[laminar-flow-hood-construction-hepa-filter]]
+title: Laminar Flow Hood
 source: 2-laminar-flow-hood-construction.md
 type: entity
 ---

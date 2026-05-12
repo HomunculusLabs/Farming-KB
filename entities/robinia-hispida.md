@@ -63,7 +63,7 @@ Periodic disturbance such as road cuts, old fields, and stream bank erosion prom
 
 Rose acacia is planted as an [[hamilton-ornamental-shrub-care]] for its abundant pink flowers and drought tolerance. It is hardy to USDA zones 4 through 9 and adapts to poor soils, making it useful for difficult landscape sites.
 
-The species has been used in [[soil-erosion-control-and-landscape-restoration]] mine reclamation due to its nitrogen-fixing root nodules and vigorous suckering habit. Dense thickets stabilize soil on steep slopes and disturbed ground.
+The species has been used in [[soil-erosion-control]] mine reclamation due to its nitrogen-fixing root nodules and vigorous suckering habit. Dense thickets stabilize soil on steep slopes and disturbed ground.
 
 Young shoots and seeds contain toxic robin lectins and should not be consumed. The wood is light and brittle, with no commercial timber value.
 

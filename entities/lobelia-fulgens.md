@@ -77,7 +77,7 @@ Propagation is by seed sown on the surface in [[coleman-overwintered-onions-and-
 
 The species hybridizes readily with Lobelia cardinalis, and many cultivated forms are of hybrid origin. Named cultivars include 'Queen Victoria' (dark bronze foliage) and 'Sparkle Devine' (compact habit).
 
-The popular garden hybrid × Lobelia speciosa combines the hardiness of L. cardinalis with the vibrant flower color of L. fulgens. This hybrid group has largely replaced the pure species in [[cannabinoid-pharmacology]].
+The popular garden hybrid × Lobelia speciosa combines the hardiness of L. cardinalis with the vibrant flower color of L. fulgens. This hybrid group has largely replaced the pure species in [[blesching-cannabinoid-pharmacology]].
 
 ## Ecological Role
 

@@ -121,4 +121,4 @@ that can amplify overall effectiveness.
 - [[harner-sharanahua-visions-and-cures]]
 - [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
 - [[dmt-and-ayahuasca-history]]
-- [[ayahuasca-and-dmt-plant-medicine]]
+- [[ayahuasca]]

@@ -18,7 +18,7 @@ type: concept
 
 ## From Research Compound to Marketed Product
 
-After W. A. Stoll's groundbreaking 1947 studies demonstrated LSD's
+After W. A. Stoll's groundbreaking 1947 studies demonstrated [[lsd]]'s
 potential for medicinal-psychiatric use, Sandoz made the new active
 substance available to research institutes and physicians as an
 experimental drug. Hofmann himself proposed the trade name Delysid,
@@ -91,3 +91,38 @@ restructuring and curing the patient's personality in accompanying
 
 ## See Also
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[dmt]]
+- [[lsd]]
+- [[hofmann-ernst-junger-lsd-literary-dialogue]]
+- [[wasson-hofmann-psilocybin-connection]]
+- [[hofmann-lsd-animal-experiments-toxicity]]

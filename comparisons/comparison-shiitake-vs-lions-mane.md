@@ -20,7 +20,7 @@ enthusiasts choose the right species for their goals.
 
 ## Shiitake
 
-[[shiitake-mushroom-cultivation-and-medicinal-properties]]
+[[shiitake-mushroom-cultivation]]
 
 Shiitake is a saprotrophic basidiomycete native to East Asia, cultivated for
 over 1,000 years. It fruits on dead hardwood and is grown commercially on both

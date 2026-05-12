@@ -29,7 +29,7 @@ Many gardening books recommend intercropping corn and beans so
 that the nitrogen-loving corn will prosper from the association.
 The thinking follows that legume roots take large amounts of
 nitrogen from the air and make it available to nearby plants, as
-stated in the Encyclopedia of [[geoff-hamilton-the-organic-gardening-companion]] (Rodale Press,
+stated in the Encyclopedia of [[geoff-hamilton]] (Rodale Press,
 1978). This interpretation oversimplifies how legumes actually
 handle nitrogen.
 

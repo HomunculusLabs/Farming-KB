@@ -44,7 +44,7 @@ establishment before [[query-how-do-parasitoid-wasps-control-pest-populations]] 
 extensively used in greenhouse vegetables and ornamentals, often released via
 controlled-release sachets providing breeding habitat and gradual dispersal.
 
-**Galendromus / Typhlodromus** — Important in [[perennial-vegetables-and-edible-perennial-crops]]. *Galendromus
+**Galendromus / Typhlodromus** — Important in [[perennial-vegetables]]. *Galendromus
 occidentalis* is the primary biocontrol agent for [[cervantes-spider-mites-identification-control]] in Pacific
 Northwest apple and pear orchards. *Typhlodromus pyri* plays a similar role
 in European vineyards. Both are Type III generalists persisting through low

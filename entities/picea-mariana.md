@@ -64,7 +64,7 @@ Black spruce is extremely cold-hardy, withstanding temperatures below -60°C in 
 
 Black spruce forests and peatlands store enormous quantities of carbon, estimated at 30–50 tonnes per hectare in living biomass alone. Deep organic soil layers beneath stands can contain 100–500 tonnes of carbon per hectare, accumulated over millennia. Climate warming poses a dual threat through increased fire severity and permafrost thaw, both of which can release stored carbon.
 
-Permafrost thaw destabilizes the frozen soil supporting black spruce on northern peatlands, causing tree mortality, landscape subsidence, and accelerated decomposition. These feedback mechanisms make black spruce ecosystems critical to [[fungal-decomposition-and-the-global-carbon-cycle]] modeling and [[dighton-fungi-climate-change-feedback]] projections.
+Permafrost thaw destabilizes the frozen soil supporting black spruce on northern peatlands, causing tree mortality, landscape subsidence, and accelerated decomposition. These feedback mechanisms make black spruce ecosystems critical to [[fungal-decomposition]] modeling and [[dighton-fungi-climate-change-feedback]] projections.
 
 Wildlife value of black spruce forests is substantial despite low species diversity relative to temperate forests. The species provides important cover and foraging habitat for moose, woodland caribou, lynx, marten, and snowshoe hare. Black spruce stands are primary nesting habitat for boreal owls, great gray owls, and numerous passerine species including warblers and flycatchers during the breeding season.
 

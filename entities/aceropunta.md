@@ -37,3 +37,49 @@ Aceropunta represents the visionary framework through which Amazonian vegetalist
 - [[yakumama]] — water serpent that also transforms into a steamboat
 - Icaro — the song required to summon Aceropunta
 - Ayahuasca — the vine through which Aceropunta is accessed
+
+## Summoning Conditions
+
+Aceropunta does not appear casually.
+The vision requires strong mareación, a capable singer, and an [[icaro]] that can call the ship without destabilizing the ceremony.
+This makes the vessel a test of both pharmacological depth and musical discipline.
+The stronger the intoxication, the more elaborate the visionary infrastructure becomes, including crew, defenses, and specialized healers.
+
+## Institutional Imagery
+
+The ship is striking because it organizes spiritual work like a hospital, navy, and magical academy at the same time.
+Doctors, nurses, murayas, bancos, fairies, and defensive beings all have roles.
+This institutional imagery suggests that healing is coordinated labor rather than a solitary performance by one practitioner.
+The presence of [[banco-shaman]] figures aboard the ship reinforces its status as an advanced healing platform.
+Aceropunta is therefore a cosmological model for distributed expertise within vegetalismo.
+
+## Forms and Functions
+
+The seven forms of the ship should be read as functional transformations.
+A battleship emphasizes defense.
+A submarine emphasizes hidden descent and deep exploration.
+An aircraft carrier emphasizes deployment of many forces.
+A trimaran or speedboat emphasizes movement across water and rapid response.
+An airship emphasizes ascent and long-distance visibility.
+Across all forms, the white steel bow preserves identity: the ship changes mode without losing its defining power.
+
+## Cross-References
+
+Aceropunta belongs with [[amazonian-ship-aceropunta-and-visionary-cosmology]] as a focused entity-level note.
+It also depends on [[amaringo-ayahuasca-visions-shipibo-iconography]] for the visual grammar of patterned light, beings, and transport.
+Future notes could compare Aceropunta with Yakumama's steamboat transformation and other Amazonian visionary vehicles.
+
+## Healing Deployment
+
+When Aceropunta arrives, it brings an entire therapeutic environment rather than a single cure.
+The ship can surround a patient with defenses, deliver specialist beings, and create an ordered space inside the turbulence of mareación.
+Its medical crew imagery suggests triage, procedure, and coordinated intervention.
+Its military imagery suggests protection against hostile forces while that intervention occurs.
+The combination makes Aceropunta one of the clearest examples of healing and combat being inseparable in vegetalismo.
+
+## Interpretive Caution
+
+The modern ship forms should not be dismissed as mere technological fantasy.
+In Amaringo's visionary language, contemporary vehicles become containers for older powers of transport, protection, and descent.
+A steel bow can express the same invulnerability that another tradition might assign to a serpent, canoe, or celestial road.
+The important point is function: the vessel carries medicine across boundaries.

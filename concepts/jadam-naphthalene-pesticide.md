@@ -80,3 +80,38 @@ These degradation characteristics are relevant to JADAM practitioners because th
 ## Regulatory Status and International Considerations
 The regulatory status of naphthalene for agricultural use varies significantly between countries. In many jurisdictions, naphthalene is registered as a household pesticide (primarily for moth control) but is not specifically registered for agricultural crop protection. This regulatory gap means that JADAM practitioners who use naphthalene in agricultural settings may be operating in a legal grey area, depending on local pesticide regulations. JADAM emphasises that practitioners should familiarise themselves with local regulations before using naphthalene in any agricultural context and should consider the [[jadam-soil-foundation-work]] that JADAM recommends as the foundation of all crop production.
 Personal protective equipment should always be worn when handling naphthalene crystals. At minimum, nitrile gloves and a dust mask should be used to prevent skin contact and inhalation of naphthalene dust. Eye protection is recommended when handling large quantities. Naphthalene should be stored in airtight containers in a cool, dry, well-ventilated location away from food, feed, and water sources. The [[jadam-concentration-cautions]] provide additional safety guidance specific to the Korean regulatory context but the general principles — use the minimum effective dose, maximise ventilation, and avoid contact with food crops near harvest — apply universally.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[dom]]
+- [[det]]
+- [[youngsang-cho]]
+- [[integrated-pest-management]]

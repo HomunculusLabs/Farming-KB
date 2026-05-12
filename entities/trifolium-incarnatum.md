@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Trifolium+incarnatum
   - SARE ([[phosphate-accumulators-sustainable-agriculture]] Research and Education). "Managing Cover Crops Profitably." 3rd ed.
-  - USDA NRCS. "Plant Guide: [[compost]] (Trifolium incarnatum)."
+  - USDA NRCS. "Plant Guide: [[mushroom-compost]] (Trifolium incarnatum)."
   - Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press.
   - Fukuoka, M. (1978). The One-Straw Revolution. Rodale Press.
 ---

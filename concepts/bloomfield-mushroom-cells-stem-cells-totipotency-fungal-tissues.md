@@ -40,7 +40,7 @@ The totipotency of fungal cells has been demonstrated repeatedly in
 laboratory experiments. Tissue cultures derived from mushroom caps,
 stems, and even individual basidia can regenerate complete mycelial
 colonies capable of producing new fruiting bodies under appropriate
-conditions. This is the basis of commercial [[mushroom-spawn-production-and-laboratory-techniques]],
+conditions. This is the basis of commercial [[mushroom-spawn]],
 in which tissue from a single desirable mushroom is used to generate
 millions of genetically identical copies.
 

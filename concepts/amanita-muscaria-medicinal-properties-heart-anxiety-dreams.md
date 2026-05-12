@@ -148,9 +148,3 @@ its ability to treat diseases that were otherwise fatal gave that strong impress
 to those who witnessed or experienced its effects.
 
 ## See Also
-
-- Amanita muscaria as the Herb of Immortality (source document)
-- Nanobacteria and cardiovascular disease
-- GABA-A receptor pharmacology
-- [[siberian-shamanism-and-amanita]] entheogenic practice
-- Traditional use of medicinal mushrooms in cardiovascular health

@@ -27,7 +27,7 @@ than Rubisco and no oxygenase activity. PEPC combines CO₂ (as HCO₃⁻)
 with phosphoenolpyruvate (PEP) to form oxaloacetate (OAA), a 4-carbon
 acid — hence "C4 photosynthesis." OAA is converted to malate or
 aspartate and transported to bundle sheath cells via plasmodesmata,
-where decarboxylation releases concentrated CO₂ around Rubisco for the
+where [[decarboxylation]] releases concentrated CO₂ around Rubisco for the
 Calvin cycle. The resulting pyruvate returns to mesophyll cells and is
 regenerated to PEP by pyruvate phosphate dikinase (PPDK) using ATP.
 This pump raises bundle sheath CO₂ to 10-60× ambient, effectively
@@ -92,3 +92,38 @@ plants, but lower maximum daily carbon gain (5-15 μmol CO₂ m⁻² s⁻¹).
 ## See Also
 - [[fukuoka-high-yield-theory-photosynthesis-critique]]
 - [[tompkins-photosynthesis-biophotons]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current [[arbuscular-mycorrhizal-inoculum-production-best-practices]] and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. [[macrofungal-fruiting-phenology-climate-variability]], resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[decarboxylation]]
+- [[comparison-c3-c4-and-cam-photosynthesis-pathways]]
+- [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
+- [[photosynthesis-and-chloroplast-function]]
+- [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]

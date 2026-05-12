@@ -66,7 +66,7 @@ This principle connects to [[permaculture-principle-observe-and-interact]] (obse
 - [[query-how-to-design-a-permaculture-property-from-scratch]]
 - [[permaculture-principle-creatively-use-and-respond-to-change]]
 - [[permaculture-building-design]]
-- [[keyline-design-and-water-management-in-permaculture]]
+- [[keyline-design]]
 
 ## References
 - Primary research and review articles provide the scientific foundation.

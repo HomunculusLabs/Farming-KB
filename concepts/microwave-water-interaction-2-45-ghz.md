@@ -53,7 +53,7 @@ These values mean water absorbs approximately 15% of the energy it stores per cy
 ## Heating Mechanism in Surface Sterilization
 
 ### Thin Film Heating
-In the NASA sterilization system, only trace amounts of water (~9 μL/cm²) are present on contaminated surfaces. This thin water film absorbs microwave energy and heats rapidly. The heating occurs at the water-biomaterial interface where microorganisms reside.
+In the NASA [[sterilization]] system, only trace amounts of water (~9 μL/cm²) are present on contaminated surfaces. This thin water film absorbs microwave energy and heats rapidly. The heating occurs at the water-biomaterial interface where microorganisms reside.
 
 ### Steam Generation
 As the water film heats above 100°C, localized steam generation occurs at the microbial cell surfaces. The combination of:

@@ -87,3 +87,10 @@ but rock music caused 55-59 ml to evaporate -- plants under rock were
 using much more water while apparently "enjoying it less."
 
 ## George Smith's Field Experiments
+
+## See Also
+- [[mimosa]]
+- [[sound-and-music-effects-on-plants]]
+- [[plant-response-to-sound-and-vibration]]
+- [[tompkins-jagadis-bose-plant-response-crescograph]]
+- [[tompkins-marcel-vogel-plant-human-communication]]

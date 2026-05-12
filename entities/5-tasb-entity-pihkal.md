@@ -84,7 +84,7 @@ room temperature, and 7.0 g 3,4-diethoxy-5-(methylthio)benzaldehyde in
 50 mL THF was added dropwise, dispelling the color, and the mixture
 was held at reflux on the steam bath for 1 h. The reaction was
 quenched in 800 mL H2O, the top hexane layer separated, and the
-aqueous phase extracted with 2x75 mL of petroleum ether. The organic
+aqueous phase extracted with 2x75 mL of [[petroleum-ether]]. The organic
 fractions were combined and the solvents removed under vacuum to give
 12.0 g of the crude 3,4-diethoxy-5-methylthiostyrene as a pale
 amber-colored oil.

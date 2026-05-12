@@ -26,7 +26,7 @@ PMA; 4-METHOXYAMPHETAMINE
 > (with 60 mg) At just over an hour, there was a
 > sudden blood pressure rise, with the systolic going up 55 mm. This
 > was maintained for another hour. I found the effects reminiscent of
-> DET, distinct after-images, and some parasthesia. I was without any
+> [[det]], distinct after-images, and some parasthesia. I was without any
 > residue by early evening (after 5 hours).
 >
 > (with 70 mg) It hit quite suddenly. I had a feeling of druggedness,

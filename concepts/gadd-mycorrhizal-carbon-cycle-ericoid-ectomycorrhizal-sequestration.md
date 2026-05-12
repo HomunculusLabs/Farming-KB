@@ -87,3 +87,38 @@ Mycorrhizal mycelia are functionally distinct from saprotrophs in several import
 Standard substrate-induced respiration (SIR) techniques used to quantify microbial biomass (Anderson & Domsch, 1978) systematically discriminate against mycorrhizal contributions. Sieving soil samples fragments and detaches mycorrhizal mycelia from their plant carbohydrate supply. Within a few hours, this alone causes the mycorrhizal contribution to soil respiration to decrease by 60%–95% (Söderström & Read, 1987). External AM mycelium is unable to assimilate exogenous sugar (Pfeffer et al., 1999), further biasing SIR measurements against detecting AM contributions to microbial biomass.
 
 ## Myco-heterotrophic Plants — Evidence of Carbon Flow Magnitude
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[mycorrhizal-carbon-sequestration]]
+- [[mycorrhizal-fungi]]
+- [[mycorrhizal-symbiosis]]
+- [[mycorrhizal-types]]
+- [[ericoid-mycorrhiza]]

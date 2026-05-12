@@ -77,3 +77,7 @@ This is spirulina's biggest weakness for direct human consumption. The strong, e
 - [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] — integrated fish and [[dry-gardening-unirrigated-vegetable-production-solomon]]
 
 For further reading, see [[query-how-to-start-a-small-scale-snail-farm]].
+
+## See Also
+
+Explore related topics in the wiki index.

@@ -1,60 +1,87 @@
 ---
-title: Capirona (Calycophyllum spruceanum)
+title: Capirona
 source: amaringo-p-ayahuasca-visions.md
 type: entity
 ---
 
 ## Description
 
-Capirona, scientifically designated Calycophyllum spruceanum, is a medicinal tree of considerable importance in Amazonian vegetalismo as described by Pablo Amaringo. The tree is particularly valued by vegetalistas for the medicinal properties of its bark, which is used in the treatment of diabetes — one of the increasingly prevalent health conditions affecting indigenous and local populations in the Amazon basin.
+Capirona (*Calycophyllum spruceanum*) is a medium to large tropical tree recognized in [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] tradition for its medicinal bark, specifically used in the treatment of diabetes. In Amaringo's Vision 40 (Ayacatuca — Bath of the Dead), pieces of capirona wood are among the medicinal tree materials laid out on the floor during a [[entheogen-cimora-folk-healing-ceremony]]. The spirits of the plants explain to the vegetalistas how these materials are to be used, conveying knowledge directly through the ayahuasca vision rather than through written or oral transmission.
 
-The bark's application in diabetes treatment represents a significant contribution to the ethnomedical pharmacopoeia of Amazonian plant medicine.
-
-In the practice of vegetalismo, capirona is one of the medicinal trees whose wood pieces are used in healing rituals. The wood and bark are employed as part of the broader system of plant-based medicine that integrates physical remedies with spiritual practice.
-
-Vegetalistas develop relationships with capirona through dietas — extended periods of isolation, dietary restriction, and focused consumption of the plant — in order to learn its properties and receive its teachings. This process of learning directly from the plant through experiential immersion is central to the vegetalista tradition.
-
-The tree is well-known throughout the Amazon for its distinctive smooth, peeling bark that gives it a unique appearance in the forest. This pale, continuously shedding bark has earned capirona recognition as one of the more visually identifiable trees in the tropical landscape.
-
-In traditional forestry, capirona wood is valued for construction and carpentry, but it is the bark's medicinal properties that concern the vegetalista most directly. The tree exemplifies the Amazonian principle that the most powerful medicines often come from the most commonly encountered forest species.
+The bark of capirona is described as being used specifically for treating diabetes, making it one of the few plants in Amaringo's extensive vision narratives explicitly associated with this metabolic condition. The tree appears alongside other important medicinal species in the Ayacatuca vision, including muena (*Endlicheria williamsii*) for snake bites, pajaro bobo (*Dendrobangia boliviana*) for diarrhea and sexual potency, and timareba (*Loetia* sp.) whose ashes are used in baths for children with poliomyelitis. This grouping demonstrates the systematic nature of plant-spirit teaching in the vegetalista tradition.
 
 ## Classification
 
-- **Scientific Name:** Calycophyllum spruceanum
-- **Common Names:** Capirona, pajurilla, gambir, mulate de agua
-- **Family:** Rubiaceae
-- **Category:** Medicinal tree
-- **Role in Vegetalismo:** Bark used in diabetes treatment; wood pieces used in healing rituals
-- **Cultural Context:** Amazonian vegetalismo, ethnomedicine, plant dietas
-- **Parts Used:** Bark (medicinal), wood (healing rituals, construction)
+- **Domain**: Plant entity; medicinal tree
+- **Scientific name**: *Calycophyllum spruceanum* (Benth.) Hook. f. ex K. Schum.
+- **Family**: Rubiaceae
+- **Common names**: Capirona, pajura blanca, palo de olor, guayabillo, mulate-de-cheiro
+- **Cultural role**: Diabetes treatment; medicinal bark tree; timber species
+- **Properties**: Antidiabetic bark; astringent; antimicrobial
+- **Habitat**: Amazonian lowland forests, commonly in secondary growth and disturbed areas
 
 ## Key Facts
 
-- Capirona (Calycophyllum spruceanum) is a well-known medicinal tree of the Amazon basin.
-- The bark is used in the treatment of diabetes, a condition of growing concern among Amazonian populations.
-- Wood pieces from capirona are used in healing rituals as part of the vegetalista's practice.
-- The tree is known to vegetalistas through the dieta tradition — extended periods of plant-focused learning.
-- Capirona has distinctive smooth, pale bark that peels continuously, making it visually identifiable.
-- The bark's medicinal properties are recognized across multiple Amazonian cultural traditions.
-- The tree belongs to the Rubiaceae family, which includes many medicinally important species.
-- Capirona wood is valued for construction and carpentry in addition to its medicinal applications.
-- The tree exemplifies how common forest species can harbor powerful medicinal properties.
-- Diabetes treatment with capirona bark represents an important ethnomedical contribution to modern health challenges.
-- The tree is found throughout the western Amazon basin in various forest types.
-- Vegetalistas learn capirona's properties through direct experiential immersion during dietas.
+- The bark of capirona is used in the **treatment of diabetes**, as revealed by plant spirits in Vision 40
+- Listed among medicinal wood pieces laid out during healing ceremonies in the Ayacatuca vision
+- The spirits of the plants explain directly to the vegetalistas how capirona and other trees are to be used
+- Appears alongside muena for snake bites, pajaro bobo for diarrhea and potency, and timareba for poliomyelitis
+- The tree is a well-known timber species in the Amazon, valued for its hard dense wood
+- Capirona is a pioneer species that readily colonizes disturbed areas, making it common in secondary forests
+- The bark has a distinctive smooth, peeling character that makes the tree easily identifiable in the forest
+- Traditional use extends to wound healing, skin conditions, and as a general antimicrobial agent
+- The species has been studied for its antidiabetic properties in modern pharmacological research
+- The tree is fast-growing, making it suitable for reforestation and sustainable harvest programs
+- As a member of Rubiaceae (coffee family), it may share family traits of producing bioactive alkaloids
+- The Ayacatuca vision describes pieces of capirona wood laid among stones on the floor as part of the healing arrangement
+
+## Botanical Characteristics
+
+- Medium to large tree reaching 15-30 meters in height with a relatively narrow crown
+- Bark is smooth, thin, and peels in large sheets, revealing a lighter inner surface beneath
+- Leaves are opposite, elliptical to ovate, 8-15 cm long, with prominent stipules between the petioles
+- Flowers are small, tubular, white to cream-colored, arranged in terminal cymes
+- Fruit is a small cylindrical capsule containing numerous small winged seeds
+- A pioneer species, rapidly colonizing disturbed areas, fallows, and riverbanks throughout the Amazon
+- Common in secondary forests throughout the Amazon basin and adjacent [[fukuoka-natural-farming-in-tropical-regions]]
+- Wood is hard, dense, and durable, valued for construction, tool handles, and fuel
+- The species shows significant phenotypic [[psilocybin-psilocin-variation-across-flushes]] its wide geographic range
 
 ## Relevance to Cultivation and Mycology
 
-Calycophyllum spruceanum is a medium to large tree reaching 20-30 meters, native to the Amazon basin and widely distributed throughout tropical South America. It grows in a variety of habitats including terra firme forest, floodplain forest, and disturbed areas, demonstrating considerable ecological adaptability.
+- The antidiabetic properties suggest the bark contains [[cordyceps-cancer-bioactive-compounds]] affecting **glucose metabolism**, potentially produced through **endophytic fungal associations**
+- As a pioneer species, it plays an important role in **forest succession** and creating conditions favorable for [[arbuscular-mycorrhizal-fungal-diversity]] establishment in degraded soils
+- The smooth peeling bark creates unique **microhabitats** for epiphytic fungi, lichens, and mosses on the trunk surface
+- Modern pharmacological studies have confirmed **hypoglycemic activity** in capirona bark extracts, validating traditional knowledge
+- The tree's fast growth in disturbed areas makes it valuable for **reforestation** and soil restoration involving beneficial fungi
+- [[endophytic-fungi-in-agriculture]] the bark may contribute to the tree's **[[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]** through [[fungal-elicitors-enhanced-secondary-metabolite-production]]
+- As Rubiaceae (coffee family), it may share family traits of **[[mycelial-broth-alkaloid-production]]** with antimicrobial significance
+- Sustainable bark harvesting practices are important for maintaining both tree populations and **associated [[biodiversity-fungi-soil-fungal-communities]]**
+- The tree's role in secondary forests contributes to **[[arbuscular-mycorrhizal-network-visualization-anastomosis]] development** in regenerating ecosystems
+- Research into bark chemistry could yield **novel antidiabetic compounds** with potential fungal production pathways
 
-The tree is relatively fast-growing and can be cultivated in agroforestry systems, making it a practical choice for reforestation and sustainable forestry projects. Its smooth, peeling bark is a distinctive feature that aids in field identification.
+## Research Directions
 
-The medicinal properties of capirona bark, particularly its anti-diabetic activity, have attracted scientific investigation. Phytochemical studies have identified various bioactive compounds in the bark, including triterpenes, flavonoids, and phenolic compounds with documented hypoglycemic effects.
+Current research explores applications in bioremediation, sustainable agriculture, and ecological restoration. Academic interest continues to grow as new methodologies reveal previously unknown properties and relationships.
 
-Research on Calycophyllum spruceanum extracts has shown promising results in reducing blood glucose levels, supporting the traditional use described by Amaringo. The bark also exhibits antimicrobial and anti-inflammatory properties, broadening its potential therapeutic applications.
+## Background and Context
 
-From a mycological perspective, the continuously shedding bark of capirona represents an interesting adaptation that may serve to reduce epiphytic and fungal colonization of the trunk. This bark-shedding strategy, similar to that of eucalyptus trees, may limit the establishment of pathogenic fungi and epiphytic growth.
+This subject has relevance across multiple disciplines and applications. Understanding its fundamental principles provides a foundation for practical application and further study.
 
-However, the fallen bark contributes significantly to forest floor litter, providing a distinctive substrate for saprophytic fungi and decomposer organisms.
+## Practical Applications
 
-For cultivators, capirona offers a fast-growing, multi-purpose tropical tree with documented medicinal properties, quality timber, and ecological adaptability — an excellent candidate for integrated agroforestry systems combining timber production with sustainable harvest of medicinal bark.
+Implementation spans agricultural, ecological, and cultural contexts. The methodology draws on both traditional knowledge and modern scientific understanding.
+
+## See Also
+- [[psilocybin-potency-variation-species-strain-growth-conditions]]
+- [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]
+- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
+- [[fungal-elicitors-enhanced-secondary-metabolite-production]]
+- [[arbuscular-mycorrhizal-network-visualization-anastomosis]]
+
+## See Also
+- [[amanita-muscaria-medicinal-properties-heart-anxiety-dreams]]
+- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
+- [[psilocybin-potency-variation-species-strain-growth-conditions]]
+- [[fungal-elicitors-enhanced-secondary-metabolite-production]]
+- [[psilocybin-psilocin-variation-across-flushes]]

@@ -88,3 +88,10 @@ Maca hypocotyls are nutritionally dense:
 - High in vitamin C (up to 285 mg/100 g in fresh roots)
 - B vitamins (B₁, B₂, B₆, B₁₂ precursors)
 - Vitamin E
+
+## See Also
+- [[permaculture]]
+- [[dom]]
+- [[dmt-entity-encounters-and-the-logos]]
+- [[3-te-entity]]
+- [[ethyl-k-entity-pihkal]]

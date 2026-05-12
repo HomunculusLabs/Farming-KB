@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-Deschloroketamine (DCK; 2'-Oxo-PCE; α-deschloroketamine) is a dissociative anesthetic of the arylcyclohexylamine class, structurally derived from ketamine by removal of the chloro substituent on the phenyl ring.
+Deschloroketamine (DCK; 2'-Oxo-PCE; α-deschloroketamine) is a dissociative anesthetic of the arylcyclohexylamine class, structurally derived from [[ketamine]] by removal of the chloro substituent on the phenyl ring.
 
 It functions primarily as an NMDA receptor antagonist, producing dissociative, analgesic, and hallucinogenic effects similar to ketamine but with distinct pharmacokinetic and subjective properties.
 

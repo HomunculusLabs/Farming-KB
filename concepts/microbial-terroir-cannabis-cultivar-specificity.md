@@ -60,7 +60,7 @@ and Maui Wowie cultivars.
 In Experiment 1 (post-harvest), endorhiza-only analysis showed significant
 strain effects for both weighted (R² = 0.59, p = 0.004) and unweighted
 (R² = 0.39, p = 0.003). Notably, Methylophilus comprised 13% of the
-BooKoo Kush [[Proteobacteria]], 0.13% in Burmese, and was absent in Sour
+BooKoo Kush [[proteobacteria-dominance-cannabis-endorhiza]], 0.13% in Burmese, and was absent in Sour
 Diesel (FDR: p = 0.012).
 
 When both experiments were pooled, weighted UniFrac showed strain at

@@ -11,7 +11,7 @@ type: concept
 # Companion Planting Guilds and Plant Communities
 
 Plant communities, sometimes called guilds, are a way of organizing
-plants around a central element based on [[companion-planting-and-polycultures]] growing
+plants around a central element based on [[companion-planting]] growing
 tendencies. This approach reduces competition, provides shelter, adds
 nutrients to the soil, and deters pests, creating productive polyculture
 systems that mimic natural ecosystems.

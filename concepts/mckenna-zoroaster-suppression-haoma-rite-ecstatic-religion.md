@@ -17,7 +17,7 @@ to center stage in Zoroastrian liturgy, where it has remained for over two mille
 
 Zoroaster's religion represented a fundamental break with the earlier Indo-Iranian
 tradition of sacramental plant use. Where the older religion centered on the ecstatic
-experience induced by Soma/Haoma, Zoroastrianism placed the fire altar at the center
+experience induced by [[soma]]/Haoma, Zoroastrianism placed the fire altar at the center
 of cultic practice. The creatures of Ahura Mazda are free and thus responsible for
 their destiny; the outward symbol of Truth is fire. This shift from the internal
 vision produced by a plant to the external symbol of fire represents a fundamental

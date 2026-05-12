@@ -1,5 +1,5 @@
 ---
-title: [[accessible-mushroom-cultivation-for-disabilities]] Trainee Selection Criteria
+title: "Mushroom Trainee Selection Criteria"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

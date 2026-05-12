@@ -53,6 +53,17 @@ Plants inoculated with mycorrhizal fungi show enhanced radionuclide removal:
 
 The mycorrhizal strategy works through multiple mechanisms: expanded root absorption surface area via hyphal networks, chemical modification of the rhizosphere environment, and direct hyphal uptake and translocation of radionuclides to host plant tissues. For detailed mechanisms, see [[fungal-bioaccumulation-vs-biosorption]] is critical: biosorption is a surface process suitable for remediation, while bioaccumulation into fruiting bodies creates a food chain hazard.
 
+## Cultivation Notes
+
+Temperature and humidity requirements vary by species. Most cultivated mushrooms prefer 18-24°C during fruiting with relative humidity above 85%. Substrate preparation is critical for commercial yields.
+
+## See Also
+
+- [[neurotropic-fungi-taxonomic-groups-classification]]
+- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
+- [[white-rot-fungi-in-pesticide-and-btex-bioremediation]]
+
 ## See Also
 
 - [[mycoremediation-of-heavy-metals]]

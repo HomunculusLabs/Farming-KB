@@ -31,7 +31,7 @@ Monoculture farming practices are completely unnatural, cause many problems and 
 
 ### Alpine Plants
 
-Holzer's experience cultivating plants from Alpine regions has taught him that all events in nature should be observed closely. For example, yellow gentians ([[gentiana-lutea]]) only germinate under extreme climatic conditions — repeated cycles of frost, warmth, rain, and snow. Nature cannot be "improved" upon. Alpine plants often require [[Auxin]] in the soil, which can be introduced by taking soil from near the roots of the parent plant.
+Holzer's experience cultivating plants from Alpine regions has taught him that all events in nature should be observed closely. For example, yellow gentians ([[gentiana-lutea]]) only germinate under extreme climatic conditions — repeated cycles of frost, warmth, rain, and snow. Nature cannot be "improved" upon. Alpine plants often require [[auxin-production-by-symbiotic-fungi]] in the soil, which can be introduced by taking soil from near the roots of the parent plant.
 
 ### Livestock Integration
 
@@ -41,7 +41,7 @@ Livestock play a large role in Holzer's permaculture system. They provide high-q
 
 - [[holzer-raised-bed-design]]
 - [[holzer-raised-bed-design]]
-- [[holzer-indicator-plants]]
+- [[holzer-assessing-the-land]]
 - [[sepp-holzer-methods]]
 - [[vermicomposting]]
 

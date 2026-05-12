@@ -22,7 +22,7 @@ health, and increasingly studied for its signature compound cordycepin.
 
 ## Shiitake
 
-[[shiitake-mushroom-cultivation-and-medicinal-properties]]
+[[shiitake-mushroom-cultivation]]
 
 Shiitake is the second most cultivated mushroom globally, grown on
 hardwood logs or supplemented sawdust blocks in controlled environments.
@@ -47,7 +47,7 @@ most economically accessible medicinal mushrooms to produce.
 
 ## Cordyceps
 
-[[cordyceps-cultivation-and-medicinal-research]]
+[[cordyceps-cultivation]]
 
 Cordyceps militaris is an entomopathogenic ascomycete that parasitizes
 lepidopteran pupae, producing bright orange club-shaped fruiting bodies

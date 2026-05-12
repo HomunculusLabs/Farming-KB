@@ -1,0 +1,129 @@
+---
+title: Cannabis Isomerization and THC Acetate Synthesis
+source: ben-lemon-cannabis-alchemy.md
+type: concept
+---
+
+# Cannabis Isomerization and THC Acetate Synthesis
+
+> Based on Chapters Two and Three of *Cannabis Alchemy* by Ben Lemon.
+
+## Overview
+
+Cannabis alchemy encompasses two closely related chemical processes: the **isomerization** of cannabidiol (CBD) into delta-9-tetrahydrocannabinol (THC), and the subsequent **acetylation** of THC into THC acetate — a compound with roughly double the potency of THC itself. These transformations exploit the structural similarity among cannabinoid isomers and the reactivity of their hydroxyl groups.
+
+---
+
+## Part I: Isomerization of CBD to THC
+
+### Chemical Background
+
+Cannabidiol (CBD) and delta-9-THC share an identical molecular formula (C₂₁H₃₀O₂) and differ only in the arrangement of atoms — making them **isomers**. CBD contains an open-ring (resorcinol) structure, while THC possesses a cyclized cyclohexene ring. Isomerization converts the open form into the closed, psychoactive form by catalyzing intramolecular cyclization.
+
+During the same acid-catalyzed reaction, any existing delta-9-THC present in the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] is partially converted into **higher-rotating isomers** — forms that rotate plane-polarized light to a greater degree and exhibit measurably higher psychoactive potency. This simultaneous conversion boosts overall activity beyond what simple CBD-to-THC conversion alone would produce.
+
+### Reaction Conditions
+
+| Parameter | Value |
+|-----------|-------|
+| Catalyst | Sulfuric acid (H₂SO₄) |
+| Solvent | [[ethanol]] or methanol |
+| Duration | 2 hours |
+| Apparatus | Reflux setup |
+| Temperature | [[cannabis-solvent-reflux-extraction-methods]] temperature |
+
+The reaction is carried out by dissolving the CBD-rich cannabis oil in ethanol or methanol and adding a small amount of concentrated sulfuric acid. The mixture is heated under **reflux** — a technique where vapors condense and return to the reaction flask, preventing solvent loss and maintaining a constant reaction temperature — for approximately two hours.
+
+### Mechanism
+
+The sulfuric acid **protonates** the hydroxyl group on the CBD molecule, making it a better leaving group and facilitating ring closure. The resulting carbocation intermediate undergoes intramolecular attack by the adjacent double bond, forming the six-membered ring characteristic of THC. Under prolonged or more vigorous conditions, the double bond may migrate within the ring, producing the higher-rotating isomers (e.g., [[delta-8-thc]] and other analogues) that contribute to the increased potency of the final product.
+
+### Reflux Technique
+
+Reflux is essential to this transformation. It allows the reaction to proceed at the solvent's boiling point without losing solvent volume. A standard [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]] consists of:
+
+- A round-bottom flask containing the reaction mixture
+- A **condenser** mounted vertically above the flask
+- A cooling water supply circulating through the condenser jacket
+- A heat source (typically an oil bath for precise [[hamilton-greenhouse-heating-and-temperature-control]])
+
+The condensing vapors drip back into the flask, maintaining constant concentration and temperature throughout the two-hour reaction period.
+
+---
+
+## Part II: [[thc-acetate]] Synthesis
+
+### Why Acetylate?
+
+Acetylation of THC produces [[cannabinoid-isomerization-and-thc-acetate]] (tetrahydrocannabinol acetate), an ester derivative with several notable pharmacological differences from the parent compound:
+
+| Property | THC | THC Acetate |
+|----------|-----|-------------|
+| Adams scale potency | 7.3 | 14.6 |
+| Potency ratio | 1× | ~2× |
+| Molecular weight increase | — | +25% |
+| Onset delay | Rapid | ~30 minutes |
+| Character of effect | Standard | More psychedelic |
+
+The Adams scale is a standardized pharmacological measure of cannabinoid activity. THC acetate scores **14.6** compared to THC's **7.3** — a doubling of measured potency. The acetyl group also adds approximately 25% to the molecular weight, meaning that by weight the potency increase is even more significant than the raw Adams numbers suggest.
+
+The esterification also fundamentally alters the compound's pharmacokinetics. The 30-minute onset delay and more pronounced psychedelic character suggest slower absorption and possibly different metabolic pathways compared to free THC.
+
+### Reaction: Esterification with [[acetic-anhydride]]
+
+THC acetate is synthesized by refluxing THC oil with **acetic anhydride** at a 3:1 molar ratio (acetic anhydride to THC) for three hours. Acetic anhydride acts as both the acetylating agent and the solvent, driving the reaction toward completion through excess.
+
+The general reaction is:
+
+```
+THC-OH + (CH₃CO)₂O  →  THC-O-COCH₃ + CH₃COOH
+```
+
+The hydroxyl group on the THC molecule attacks one carbonyl of the acetic anhydride, displacing acetate ion and forming the acetate ester. The byproduct is acetic acid.
+
+### Critical Safety Considerations
+
+Acetic anhydride is a highly corrosive, moisture-sensitive, and volatile reagent. Its reaction is **exothermic** and must be conducted with rigorous safety measures:
+
+#### Safety Box (Glove Box) Construction
+
+A dedicated safety enclosure is essential. [[ben-lemon]] describes constructing a **glove box** with the following features:
+
+- **Nitrogen atmosphere**: All oxygen and moisture are purged with dry nitrogen before the reaction begins. Acetic anhydride reacts violently with water, producing heat and acetic acid.
+- **Glove ports**: Allow manipulation of apparatus and materials without breaking the inert atmosphere.
+- **Safety glass viewing panel**: Provides visibility into the reaction chamber.
+- **Sealed construction**: Prevents ingress of atmospheric moisture during the reaction.
+
+#### Apparatus
+
+| Component | Specification |
+|-----------|--------------|
+| Reaction flask | 500 mL Pyrex |
+| Condenser | Standard Liebig or Graham |
+| Heat source | Oil bath |
+| Temperature control | Rheostat (variable) |
+| Atmosphere | Continuous nitrogen purge |
+| Reaction time | 3 hours |
+
+The oil bath provides even, controllable heating without the hot spots that can cause local overheating. The rheostat allows fine adjustment of the heating rate, essential for managing the exothermic nature of the esterification.
+
+### Post-Reaction Processing
+
+After the three-hour reflux, the reaction mixture undergoes **distillation** to remove excess acetic anhydride and the acetic acid byproduct. This is typically done under reduced pressure (vacuum distillation) to lower the boiling point and protect the thermally sensitive THC acetate from degradation.
+
+Following distillation, purification steps may include:
+
+1. **Washing** the residue with water or dilute sodium bicarbonate to neutralize residual acid
+2. **Extraction** into a non-polar organic solvent
+3. **Drying** over a desiccant (e.g., anhydrous sodium sulfate)
+4. Final **evaporation** to yield purified THC acetate oil
+
+---
+
+## Summary
+
+These two processes — isomerization and acetylation — represent the core transformations of [[cannabis-alchemy-book]]. Isomerization converts the non-psychoactive CBD into THC and simultaneously generates higher-rotating, more potent isomers. Acetylation then doubles the potency through esterification, while introducing a distinct pharmacological profile characterized by delayed onset and enhanced psychedelic effects. Both require careful control of reaction conditions, appropriate apparatus, and — particularly for the acetylation step — rigorous safety precautions including inert-atmosphere glove box techniques.
+
+---
+
+*Source: Cannabis Alchemy, Chapters 2–3, Ben Lemon*

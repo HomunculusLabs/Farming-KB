@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rudolph, T.D. & Laidly, P.R. (1990). "Pinus banksiana Lamb." Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA FS.
+  - Rudolph, T.D. & Laidly, P.R. (1990). "Pinus banksiana Lamb." Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA FS.
   - Gauthier, S., Bergeron, Y. & Simon, J.P. (1993). "Fire History and Postfire Stand Dynamics." Canadian Journal of Forest Research 23.
   - Cayford, J.H. & McRae, D.J. (1983). "Ecological Role of Fire in Jack Pine Forests." In: The Role of Fire in Northern Circumpolar Ecosystems.
 ---

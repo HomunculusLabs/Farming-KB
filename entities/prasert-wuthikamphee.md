@@ -35,3 +35,46 @@ Wuthikamphee's contribution bridges institutional [[fukuoka-critique-agricultura
 
 - FAO RAP Publication 2001/12: "[[mushroom-cultivation-for-disabilities-training-program]] People with Disabilities — A Training Manual"
 - TCP/THA/8821(A): Mushroom Production Training for Disabled People project, Thailand
+
+## Project Role
+
+Wuthikamphee's role was important because the FAO project needed procedures that could survive classroom, farm, and extension settings.
+A consultant from the Ministry of Agriculture and Cooperatives could evaluate whether a method was technically sound and realistic for replication.
+That mattered especially for trainees with disabilities, where equipment, ergonomics, and step clarity directly affected success.
+His work therefore supported both production reliability and inclusive training design.
+
+## Technical Scope
+
+The procedures associated with the manual cover the full small-scale mushroom production chain.
+They begin with clean culture work and spawn preparation, continue through substrate bagging and pasteurization, and end with harvesting, processing, and marketing.
+Because each step can introduce contamination or crop failure, the consultant's testing role was central.
+The connection to [[substrate-bag-preparation]] is especially important because bag preparation is where hygiene, moisture, compaction, and sterilization practices meet.
+
+## Institutional Significance
+
+Wuthikamphee represents the institutional side of applied mycology.
+The manual did not rely only on local improvisation or entrepreneurial intuition.
+It also drew on government extension capacity, formal agricultural science, and FAO project coordination.
+This combination helped turn mushroom cultivation into a teachable livelihood system rather than a one-off demonstration.
+The page should therefore be read alongside [[mushroom-cultivation-training-program-design]] and [[mushroom-cultivation-for-disabilities-training-program]].
+
+## Notes for Further Work
+
+Future expansion could identify any Thai-language publications, extension bulletins, or ministry records associated with Wuthikamphee.
+It would also be useful to distinguish his contributions from those of Satit Thaithatgoon, whose role appears more entrepreneurial.
+For now, the safest claim is that Wuthikamphee helped validate and revise the technical procedures embedded in the FAO training manual.
+
+## Training Method Implications
+
+A manual built for disabled trainees must reduce hidden expert assumptions.
+Steps need to be visible, repeatable, and adaptable to different physical capacities.
+Wuthikamphee's testing role likely helped identify which parts of cultivation required demonstration, simplified tools, or additional safeguards.
+That attention to procedure is one reason the FAO manual remains useful as a teaching document rather than just a project report.
+
+## Mycology Context
+
+The project treated mushroom cultivation as applied biology, sanitation practice, and livelihood design at the same time.
+Spawn quality, substrate preparation, incubation conditions, and harvest timing all had to be reliable before marketing or processing could succeed.
+Wuthikamphee's institutional background helped anchor those steps in extension-friendly standards.
+This makes him an important but easily overlooked figure in the manual's practical success.
+The entry is therefore a concise node for connecting named project personnel to the manual's cultivation workflow.

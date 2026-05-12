@@ -35,7 +35,7 @@ This index covers plants from the letter M through R as catalogued in *Permacult
 
 ### Nasturtium and Edible Flowers
 - **Nasturtiums** (*Tropaeolum majus*) — page 119. Edible flowers, leaves, and seeds (capers); companion plant for pest deterrence.
-- **Nasturtium officinale** (Watercress) — page 123. Aquatic perennial with peppery leaves; nutrient-dense superfood; grows in clean flowing water.
+- **[[nasturtium-officinale]]** (Watercress) — page 123. Aquatic perennial with peppery leaves; nutrient-dense superfood; grows in clean flowing water.
 - **Nectarine** — page 118. Stone fruit related to peach; requires well-drained soil and adequate chilling hours.
 
 ### Neem
@@ -65,7 +65,7 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
 ## O
 
 ### Oak Species (*Quercus* spp.)
-- **Oak** — pages 80-82, 113, 115, 136. One of the most important timber and ecological genera in temperate regions.
+- **Oak** — pages 80-82, 113, 115, 136. One of the most important timber and ecological genera in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 - **Quercus robur** (English oak) — pages 81, 113, 136. The classic European oak for timber, acorns, and landscape.
 - **Quercus ilex** (Holm oak) — pages 80, 113, 132, 136. Evergreen Mediterranean oak; fire resistant; acorns for fodder; cork production.
 - **Quercus suber** (Cork oak) — pages 80, 82, 113. Source of commercial cork; multi-use tree for cork, acorns, and timber.
@@ -78,7 +78,7 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
 - **Quercus petraea** (Sessile oak) — page 81. European forest tree; similar uses to English oak.
 
 ### Olive
-- **Olive** (*Olea europaea*) — pages 60, 112, 118. Ancient Mediterranean fruit tree producing olives and oil; extremely long-lived (thousands of years); drought tolerant; important permaculture staple.
+- **Olive** (*Olea europaea*) — pages 60, 112, 118. Ancient Mediterranean fruit tree producing olives and oil; extremely long-lived (thousands of years); [[drought-tolerant-planting-design]]; important permaculture staple.
 
 ### Oils and Wax
 - **Oil** — pages 33, 40, 60, 68, 81, 83, 87, 90, 92, 98, 99, 100, 101, 102, 103, 104, 105, 107, 108, 117, 125. Plant oil sources include: olive (60), walnut (32-33), macadamia (31), jojoba wax (45), neem oil (87), and numerous palms (98-108).
@@ -97,7 +97,7 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
   - **Bamboo palms** (*Chamaedorea* spp.) — shade, ornamental
   - **Cabbage palms** — edible heart (palm cabbage)
   - **Coconut** (*Cocos nucifera*) — page 103. The "tree of life": food, oil, fibre, timber, thatch
-  - **Date palm** (*Phoenix dactylifera*) — pages 106, 136
+  - **Date palm** (*[[phoenix-dactylifera]]*) — pages 106, 136
   - **Ivory nut palm** (*Phytelephas macrocarpa*) — page 106. Produces vegetable ivory
   - **Peach palm** (*[[bactris-gasipaes]]*) — pages 99, 102. Edible fruit and heart of palm
   - **Piassaba palms** — fibre for rope and brooms
@@ -121,12 +121,12 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
 ### Persimmon
 - **Persimmon** (*Diospyros* spp.) — pages 59, 60, 118.
   - **Diospyros kaki** (Japanese persimmon) — page 59. Most widely cultivated species; sweet fruit when astringency resolves.
-  - **Diospyros virginiana** (American persimmon) — page 60. Smaller native North American species; very cold hardy.
+  - **[[diospyros-virginiana]]** (American persimmon) — page 60. Smaller native North American species; very cold hardy.
   - **Diospyros lotus** (Date plum) — page 60. Small, sweet fruit when fully ripe.
   - **Diospyros dignya** — page 60. Tropical persimmon species.
 
 ### Phragmites (Common Reed)
-- **Phragmites australis** (Common reed) — page 124. Tall perennial grass of wetlands worldwide; used for thatch, biofuel, water filtration, and phytoremediation.
+- **[[phragmites-australis]]** (Common reed) — page 124. Tall perennial grass of wetlands worldwide; used for thatch, biofuel, water filtration, and phytoremediation.
 
 ### Photinia
 - **Photinia glabra** — page 112. Evergreen hedging shrub with red new growth.
@@ -148,45 +148,3 @@ The text provides nutritional data for numerous species (pages 32-106 range), in
 ### Pistachio
 - **Pistacia vera** (Pistachio) — page 40. Desert nut tree requiring hot dry summers and cold winters; commercially important in Iran, California, and Mediterranean regions.
 - **Pistacia atlantica** (Mt. Atlas mastic) — pages 40, 136. Wild relative; source of mastic resin.
-- **Pistacia chinensis** (Chinese pistache) — pages 40, 112. Ornamental tree with brilliant fall color; drought tolerant.
-- **Pistacia terebinthus** (Terebinth) — page 40. Source of turpentine; rootstock for pistachio.
-
-### Poplar (*Populus* spp.)
-- **Populus deltoides** (Eastern cottonwood) — pages 86, 87, 113. Fast-growing North American species for timber, windbreaks, and phytoremediation.
-- **Populus nigra** (Black poplar) — pages 86, 87, 113. European species; source of Lombardy poplar cultivar.
-- **Populus alba** (White poplar) — pages 86, 112, 136. Silvery-leaved ornamental and timber tree.
-- **Populus euphratica** (Euphrates poplar) — pages 86, 113. Desert riparian species; extremely salt tolerant.
-- **Populus simonii** (Simon poplar) — pages 86, 113. Asian species for timber and shelterbelts.
-- **Populus x euramericana** (Euramerican poplar) — page 87. Hybrid poplar for fast-growing pulp and timber.
-
-## R
-
-### Rattan
-- **Rattan** — pages 98, 99, 100, 101, 102, 103, 104, 106, 107. Climbing palms of the Old World tropics producing flexible cane for furniture, basketry, and construction.
-
-### Raphia (Raffia Palm)
-- **Raphia farinifera** — page 107. African raffia palm.
-- **Raphia ruffia** — page 107. Madagascar raffia species.
-- **Raphia taedigera** — page 107. New World raffia palm.
-- **Raphia vinifera** — page 107. West African species producing commercial raffia fibre.
-
-### Raspberry
-- **Raspberry** (*Rubus* spp.) — pages 114, 115, 118, 119. Bramble fruits for fresh eating, preserves, and wine; include red, black, and purple varieties.
-
-### Redwood
-- **Redwood** (*[[sequoia-sempervirens]]*) — pages 95, 96. California coastal redwood; tallest tree species; extremely durable timber resistant to rot and insects.
-
-### Rhododendron and Ericaceous Plants
-- **ERICACEAE** — pages 76, 77. Heath family including blueberry, cranberry, rhododendron, and various ornamental ericaceous plants.
-
-### Robinia (Black Locust)
-- **[[robinia-pseudoacacia]]** (Black locust) — pages 28, 113. Nitrogen-fixing deciduous tree producing extremely durable rot-resistant timber; excellent for fence posts; fragrant flowers for honey; pods for livestock fodder. One of the most valuable temperate permaculture trees.
-
-### Ropes and Fibre
-- **Rope** — pages 71, 89, 104, 105. Natural fibre rope from agave (71), pongamia (89), and various palms (104, 105).
-
-### Rose
-- **Rose apple** (*Syzygium jambos*) — pages 74, 137. Tropical fruit tree producing bell-shaped, rose-scented fruit.
-
-### Rosemary and Herbs
-- **Rosemary** (*Salvia rosmarinus*) — page 114. Mediterranean culinary herb; bee forage; ornamental evergreen shrub.

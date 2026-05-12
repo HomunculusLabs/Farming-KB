@@ -83,7 +83,7 @@ Archaeological digging at Non Nak Tha in Thailand has yielded, in graves
 dated to 15,000 B.P., the remains of animal bones that appear to have
 had plant material repeatedly burned in their hollow centers. The
 favorite instrument for the smoking of cannabis in India even today is a
-chelum, a simple wooden, ceramic, or soapstone tube packed with hashish
+chelum, a simple wooden, ceramic, or soapstone tube packed with [[hashish]]
 and tobacco. How long chelums have been used in India is debated, but
 the method is extremely effective.
 
@@ -119,7 +119,7 @@ Mediterranean. Cannabis was one of many cultural elements they carried
 westward.
 
 Their cannabis sweat lodge represents a transitional technology between
-oral consumption (eating cannabis products) and true smoking with pipes
+oral consumption (eating [[hashish-preparation-and-cannabis-products]]) and true smoking with pipes
 or rolled cigarettes. It is a method that requires no manufactured
 smoking apparatus, only fire, heated stones, and [[query-how-to-germinate-cannabis-seeds]] or
 flowering tops. Its simplicity may explain why it persisted for so long

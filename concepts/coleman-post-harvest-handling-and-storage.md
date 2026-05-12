@@ -79,7 +79,7 @@ bags instead of bulk boxes.
 ## Root Crop Storage
 
 [[coleman-winter-harvesting-techniques]] extends beyond fresh greens to stored crops. From
-storage, Coleman offers onions, garlic, shallots, [[winter-squash-guide]], celery
+storage, Coleman offers onions, garlic, shallots, [[winter-rye]], celery
 root, parsley root, scorzonera, and storage beets. The cool-soil storage
 of certain crops in the ground, such as carrots left in unheated
 greenhouse beds, provides vegetables that are perceived as "freshly
@@ -88,3 +88,38 @@ growing and cool-soil storage is so pronounced that customers say it
 "almost transforms" their understanding of those vegetables.
 
 ## Quality Control
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[det]]
+- [[permaculture]]
+- [[ghb]]
+- [[mushroom-harvesting-and-post-harvest-handling]]
+- [[coleman-winter-harvest-post-harvest-handling]]

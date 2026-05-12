@@ -72,7 +72,7 @@ water, because it dramatically increases water-use efficiency.
 
 Fertigation is the practice of delivering dilute [[jadam-liquid-fertilizer-nutritional-perspective]]
 directly to individual plants through a bucket with a small drain hole.
-In Solomon's dry-farming trials in Oregon, a fertigated [[winter-squash-guide]]
+In Solomon's dry-farming trials in Oregon, a fertigated [[winter-rye]]
 vine yielded 30 pounds (13 kilograms) of squash using only 20 gallons
 of water over the entire growing season. That is a remarkably efficient
 exchange.

@@ -21,9 +21,9 @@ The largest and most chemically characterized group consists of fungi containing
 
 Beyond Psilocybe, psilocybin has been confirmed in the following genera, listed in approximate order of species richness:
 
-- [[Gymnopilus]]: 14 species containing psilocybin, belonging to the Cortinariaceae
+- [[gymnopilus-earlei]]: 14 species containing psilocybin, belonging to the Cortinariaceae
 - Panaeolus: 13 species, including several formerly classified separately
-- [[Copelandia]]: 12 species, sometimes treated as a subgenus or section of Panaeolus. See [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
+- [[copelandia-anomalus]]: 12 species, sometimes treated as a subgenus or section of Panaeolus. See [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
 - Hypholoma: 6 species within the Strophariaceae
 - Pluteus: 6 species in the Pluteaceae
 - Inocybe: 6 species in the Cortinariaceae

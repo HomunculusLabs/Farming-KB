@@ -75,7 +75,7 @@ Understanding the biophysical principles of protein folding and the cellular mac
 ## See Also
 
 - [[glutathione-biochemistry-and-redox-biology]]
-- [[Lignin]]
+- [[lignin-degradation]]
 ## Practical Considerations
 
 Successful implementation of Protein Folding And Misfolding Diseases Biochemistry requires attention to

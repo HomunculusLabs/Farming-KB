@@ -1,5 +1,5 @@
 ---
-title: [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]
+title: Mushroom Inoculation
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, inoculation, spawn, aseptic-technique]

@@ -1,5 +1,5 @@
 ---
-title: Allegro Menstrual Blood in [[allegro-womans-part-in-the-creative-process]] and Purple Fertility Symbolism
+title: "Allegro Menstrual Blood Creative Process Purple Fertility"
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
@@ -85,7 +85,7 @@ Kings wore purple as a mark of their generative authority. The Latin purpura den
 both royal robes and high dignity, linking political power to the same creative force
 that produced new life.
 
-Tyrian purple, the most prized dye of the ancient world, was described as "the colour
+Tyrian purple, the most prized dye of the [[amanita-indo-european-language-family-ancient-world-view]], was described as "the colour
 of congealed blood, blackish at first glance but gleaming when held up to light"—
 precisely evoking menstrual blood, dark in shadow yet radiant when illuminated. The
 most expensive colour in the ancient world was, in essence, the colour of the womb.
@@ -140,7 +140,7 @@ blossom in spring, its flowering understood as an erection, an "awakening" coinc
 with sunrise. Erection, dawn, and first blossom were all expressions of the same
 generative impulse.
 
-The acacia tree produced a "purple gum" that was used medicinally to check excessive
+The [[acacia]] tree produced a "purple gum" that was used medicinally to check excessive
 menstruation. Amulets made from this gum were understood to carry the "tree's menstrual
 blood"—the plant kingdom's own generative substance, paralleling the human and earthly
 cycles.
@@ -148,4 +148,3 @@ cycles.
 The inflammability of pitch and resin connected the botanical to the elemental—these
 plant products became sources of fire, and fire in the ancient fertility worldview was
 synonymous with generation itself. The spark that kindles flame is the same impulse
-that kindles life in the womb.

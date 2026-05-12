@@ -1,5 +1,5 @@
 ---
-title: Sorcery Combat and Cosmic Warfare in Amazonian Shamanism
+title: "Sorcery Combat And Cosmic Warfare"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In Amazonian shamanism, particularly as documented by Pablo Amaringo in *Ayahuasca Visions*, sorcery combat and cosmic warfare represent a vast, highly stratified system of esoteric conflict. Shamanic practitioners—both healers (*vegetalistas*, *murayas*) and sorcerers (*brujos*, *sumirunas*)—wield an arsenal of spirit allies, magical vessels, and elemental forces in battles that unfold across multiple dimensions of reality. These encounters, revealed through ayahuasca visions (Visions 43–49), describe warfare conducted not with physical weapons alone but through psychic intrusion, electromagnetic manipulation, and the mobilization of spirit armies. The system encompasses named entities with specialized functions, a graded hierarchy of esoteric power, and a moral architecture distinguishing healers from those who harm.
+In Amazonian shamanism, particularly as documented by [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]] in *[[amaringo-ayahuasca-visions-shipibo-iconography]]*, sorcery combat and cosmic warfare represent a vast, highly stratified system of esoteric conflict. Shamanic practitioners—both healers (*vegetalistas*, *murayas*) and sorcerers (*brujos*, *sumirunas*)—wield an arsenal of spirit allies, magical vessels, and elemental forces in battles that unfold across multiple dimensions of reality. These encounters, revealed through ayahuasca visions (Visions 43–49), describe warfare conducted not with physical weapons alone but through psychic intrusion, electromagnetic manipulation, and the mobilization of spirit armies. The system encompasses named entities with specialized functions, a graded hierarchy of esoteric power, and a moral architecture distinguishing healers from those who harm.
 
 ## The Nature of Shitana (Sorcery)
 
@@ -60,9 +60,13 @@ Sorcery and healing operate at different points on this spectrum. Witches occupy
 
 ## Battleships and Vessels of Cosmic Warfare
 
-A remarkable feature is the deployment of massive spirit vessels as battleships. The *yanayakumama* (black boa, mother of the waters) serves as a living battleship with a white forehead stripe. It inhabits black-water lakes, sun-bathes at midday for solar energy, and generates electrified tornadoes liberating flying animals. Behind it march *yana-puma runa* (black tiger-people with red eyes) as infantry.
+A remarkable feature is the deployment of massive spirit vessels as battleships.
 
-The *Aceropunta* is the most prominent battleship, piloted by sylphids in military formation with magic nets and pyramid-shaped lasers. Allied vessels include the *mocagua* (pot-ship) for riverine operations, *black tibes* for water battles, and the *alipa-tren* (train of the earth). Healers also summon *huitorunas* and *macanun-caballas* as mounted cavalry. These vessels imply a highly organized spirit military with reconnaissance, bombardment, and area-denial roles. The spirit military operates across domains—riverine, terrestrial, aerial, and cosmic—reflecting a comprehensive theater of war.
+The *yanayakumama* (black boa, mother of the waters) serves as a living battleship with a white forehead stripe. It inhabits black-water lakes, sun-bathes at midday for solar energy, and generates electrified tornadoes liberating flying animals. Behind it march *yana-puma runa* (black tiger-people with red eyes) as infantry. This living vessel demonstrates how [[ayahuasqueros-amazonian-shamans]] conceptualize nature's largest beings as weapons platforms in the spirit war.
+
+The *Aceropunta* is the most prominent battleship, piloted by sylphids in military formation with magic nets and pyramid-shaped lasers. Allied vessels include the *mocagua* (pot-ship) for riverine operations, *black tibes* for water battles, and the *alipa-tren* (train of the earth). Healers also summon *huitorunas* and *macanun-caballas* as mounted cavalry.
+
+These vessels imply a highly organized spirit military with reconnaissance, bombardment, and area-denial roles. The spirit military operates across domains—riverine, terrestrial, aerial, and cosmic—reflecting a comprehensive theater of war.
 
 ## The Muraya's Supreme Counterattack
 
@@ -70,7 +74,7 @@ When sorcerers stage death rituals like the *Sepultura Tonduri*, the *muraya* re
 
 ## Electromagnetism and the Role of Icaros
 
-The Vision 47 encounter highlights electromagnetism in combat. The *yanayakumama* stores solar energy as electrified tornadoes; Prince Tesael's trumpet radiates electrical sounds. Amazonian shamans conceptualized charge, discharge, and resonance as fundamental to spirit warfare, manifesting as electric chains, laser nets, and radiant auras.
+The Vision 47 encounter highlights electromagnetism as a core principle of shamanic combat. The *yanayakumama* stores solar energy and releases it as electrified tornadoes. Prince Tesael's trumpet radiates "electrical sounds." Amazonian shamans conceptualized charge, discharge, and resonance as fundamental to spirit warfare, manifesting as electric chains, laser nets, and radiant auras. The *Sinchicunan-muraya* defeats the *yanayakumama* by matching and exceeding the witch's electromagnetic output—a battle of energetic supremacy rather than symbolic one-upmanship.
 
 The *icaro* (sacred song) functions as both weapon and shield. The *Sepultura Tonduri* is an icaro that kills by constructing a death ritual in real time. Healers counter with icaros summoning protective spirits and neutralizing incoming sorcery. The schacapa (leaf bundle rattle) played by disciples provides the rhythmic foundation for combative songs—revealing that shamanic combat is not solitary. As Vision 47 notes, Pablo Amaringo himself served as a disciple playing schacapa during a battle between a *sumiruna* witch and *Sinchicunan-muraya*, demonstrating the disciple's role as combat support.
 
@@ -92,7 +96,7 @@ Priest Turmanshe's injunction against killing even hostile witches reinforces th
 
 ## Interethnic and Cross-Cultural Dimensions
 
-Vision 43 depicts a Shetebo sorcerer attacking a Shipibo healer, indicating sorcery raids crossed ethnic boundaries in the Peruvian Amazon. Each group possesses named spirit entities and combat techniques, suggesting a highly developed intertribal esoteric geopolitics. The appearance of a *kabbalistic lance* in Vision 48 further indicates that Amazonian sorcery warfare had absorbed elements from external esoteric traditions, creating a syncretic combat system where indigenous spirit forces mingled with Eurasian occult technology. This syncretism reflects centuries of cultural contact in the Amazon basin, where indigenous, African, European, and even Asian esoteric influences converged through trade, missionization, and migration.
+Vision 43 depicts a Shetebo sorcerer attacking a Shipibo healer, indicating sorcery raids crossed ethnic boundaries in the [[ayahuasca-tourism-economics-peruvian-amazon]]. Each group possesses named spirit entities and combat techniques, suggesting a highly developed intertribal esoteric geopolitics. The appearance of a *kabbalistic lance* in Vision 48 further indicates that [[amazonian-sorcery-illness-and-curing-practices]] warfare had absorbed elements from external esoteric traditions, creating a syncretic combat system where indigenous spirit forces mingled with Eurasian occult technology. This syncretism reflects centuries of cultural contact in the Amazon basin, where indigenous, African, European, and even Asian esoteric influences converged through trade, missionization, and migration.
 
 ## Key Entities Index
 
@@ -110,7 +114,7 @@ Vision 43 depicts a Shetebo sorcerer attacking a Shipibo healer, indicating sorc
 
 - [[ayahuasca-visions]] — Overview of Pablo Amaringo's vision cycle
 - [[icaros]] — Sacred songs and their functions in healing and combat
-- [[spirit-entities]] — Catalog of named beings in Amazonian spirit ecology
+- spirit entities — Catalog of named beings in Amazonian spirit ecology
 - [[muraya]] — High-grade practitioners and their powers
-- [[vegetalista]] — Plant-healer tradition and its practices
-- [[tingunas]] — Spiritual atmospheres and energy fields in visionary experience
+- vegetalista — Plant-healer tradition and its practices
+- tingunas — Spiritual atmospheres and energy fields in visionary experience

@@ -74,7 +74,7 @@ Bamboo integrates with [[permaculture-woody-mulch-systems]] through leaf litter 
 - [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
 - [[query-how-to-use-bamboo-in-permaculture]]
 - [[query-how-does-keyline-design-work-in-permaculture]]
-- [[keyline-design-and-water-management-in-permaculture]]
+- [[keyline-design]]
 - [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
 
 ## Benefits and Advantages

@@ -88,3 +88,10 @@ A MOSFET controls current via a gate field across an insulator. Threshold
 voltage V_T = V_{FB} + 2φ_F + √(2ε_s qN_A · 2φ_F)/C_{ox}. Saturation:
 I_D = (½)μ_n C_{ox}(W/L)(V_GS − V_T)²(1 + λV_DS). Linear region:
 I_D = μ_n C_{ox}(W/L)[(V_GS − V_T)V_DS − V_DS²/2]. Short-channel effects
+
+## See Also
+- [[silicon]]
+- [[dom]]
+- [[det]]
+- [[mollison-designers-hand-pump-and-water-lifting-devices]]
+- [[dmt-entity-encounters-and-the-logos]]

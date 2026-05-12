@@ -1,5 +1,5 @@
 ---
-title: "[[oner-cannabis-edibles-infusion-dosing]] Guide"
+title: Cannabis Edibles Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis edibles are food and beverage products infused with cannabinoids. They offer a smoke-free consumption method with longer-lasting effects compared to inhalation. The key challenges with edibles are proper decarboxylation, accurate dosing, and understanding the significantly different onset time and duration compared to smoking.
+Cannabis edibles are food and beverage products infused with cannabinoids. They offer a smoke-free consumption method with longer-lasting effects compared to inhalation. The key challenges with edibles are proper [[decarboxylation]], accurate dosing, and understanding the significantly different onset time and duration compared to smoking.
 
 ## Decarboxylation
 

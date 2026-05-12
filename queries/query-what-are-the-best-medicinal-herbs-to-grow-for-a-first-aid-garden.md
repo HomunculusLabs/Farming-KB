@@ -12,7 +12,7 @@ sources: []
 
 A first aid herb garden focuses on plants that treat minor cuts, burns, insect bites, rashes, and everyday ailments with minimal processing.
 
-The most essential herbs include [[calendula-officinalis|calendula]] for wound healing, [[yarrow-achillea-millefolium|yarrow]] for bleeding and bruising, and [[comfrey-plant-guide|comfrey]] for sprains and skin repair.
+The most essential herbs include [[calendula-officinalis|calendula]] for wound healing, yarrow-achillea-millefolium|yarrow for bleeding and bruising, and [[comfrey-plant-guide|comfrey]] for sprains and skin repair.
 
 Growing these plants at home gives you immediate access to safe, effective remedies that work alongside conventional first aid supplies.
 
@@ -32,7 +32,7 @@ Integrating medicinal herbs into your landscape follows [[query-how-to-grow-medi
 
 ## Calendula for Wounds and Skin Healing
 
-[[calendula-officinalis|Calendula]] (Calendula officinalis) is arguably the single most important herb in a first aid garden.
+[[calendula-officinalis|Calendula]] ([[calendula-officinalis]]) is arguably the single most important herb in a first aid garden.
 
 It has strong anti-inflammatory, antimicrobial, and wound-healing properties backed by both traditional use and clinical research.
 
@@ -46,7 +46,7 @@ The [[comparison-arnica-vs-calendula|arnica vs calendula comparison]] shows cale
 
 ## Yarrow for Bleeding and Bruising
 
-[[yarrow-achillea-millefolium|Yarrow]] (Achillea millefolium) is traditionally known as "woundwort" or "nosebleed plant" for its hemostatic properties.
+[[yarrow-achillea-millefolium|Yarrow]] ([[achillea-millefolium]]) is traditionally known as "woundwort" or "nosebleed plant" for its hemostatic properties.
 
 The leaves and flowering tops contain compounds that promote blood clotting when applied as a fresh poultice.
 
@@ -70,7 +70,7 @@ It should never be applied to deep puncture wounds or dirty cuts because it can 
 
 A comfrey leaf poultice wrapped around a sprained ankle provides noticeable relief within hours.
 
-The [[comparison-comfrey-vs-aloe-vera|comfrey vs aloe vera comparison]] shows comfrey is better for musculoskeletal injuries while aloe is superior for burns.
+The [[comparison-comfrey-vs-aloe-vera|comfrey vs aloe-vera comparison]] shows comfrey is better for musculoskeletal injuries while aloe is superior for burns.
 
 ## Aloe Vera for Burns and Sunburn
 

@@ -88,3 +88,8 @@ Catalpol, the marker compound, demonstrates activity across multiple systems.
   pathway activation, downregulates Bax/Bcl-2 ratio, and inhibits
   neuroinflammation through NF-κB suppression. Demonstrated efficacy in
   Alzheimer's and Parkinson's disease models.
+
+## See Also
+- [[composting]]
+- [[dom]]
+- [[alnus-glutinosa]]

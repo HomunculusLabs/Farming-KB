@@ -88,3 +88,10 @@ spore is only ten-millionths of a meter in length (10 µm), so its
 journey corresponds to a distance 100 times its own size. Scaling up to
 human dimensions, this would be equivalent to vaulting from a cliff edge
 and almost instantaneously reaching a speed of 400 miles per hour. The
+
+## See Also
+- [[spore]]
+- [[ghb]]
+- [[mushroom-spore-catapult-mechanism]]
+- [[fungal-spore-discharge-catapult-mechanism]]
+- [[fungal-spore-discharge-mechanism]]

@@ -31,7 +31,7 @@ Unlike bacteria or viruses that must be ingested, many entomopathogenic fungi ca
 
 Several species are commercially available for pest management:
 
-**[[Cordyceps]]** represent diverse specialized species:
+**[[cordyceps-cultivation]]** represent diverse specialized species:
 - Many are highly specific to particular insect hosts
 - Some produce visible fruiting bodies from infected insects
 - The mycopesticides-entomopathogenic-fungi reference covers commercial formulations, [[ingham-compost-tea-application-rates-and-timing]], and pest-specific recommendations.
@@ -64,7 +64,7 @@ For cannabis growers, combining entomopathogenic fungi with regular scouting and
 ## Key Points
 
 - Entomopathogenic fungi infect insects by penetrating the exoskeleton, making them effective against pests that do not eat treated surfaces
-- [[Cordyceps]] represent a diverse group with varying host specificities
+- [[cordyceps-cultivation]] represent a diverse group with varying host specificities
 - These fungi are safer for non-target organisms and face lower resistance development than chemical pesticides
 - Environmental conditions, especially humidity and UV exposure, significantly affect field effectiveness
 

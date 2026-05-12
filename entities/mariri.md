@@ -35,3 +35,49 @@ The mariri concept reveals how Amazonian peoples understand the relationship bet
 - [[marupa-sorcery]] — technique using mariri to send harmful animals
 - Icaro — songs used to activate and direct mariri power
 - Vegetalista — practitioners who cultivate mariri
+
+## Practice Context
+
+- Mariri should be read together with [[amazonian-medicinal-plants-in-amaringos-visions]], because Amaringo presents the substance inside a larger plant-spirit medical system.
+- It is closely connected to [[ayahuasca-preparation-and-ceremony]], where ingestion, purging, song, and vision form one therapeutic sequence.
+- The concept also overlaps with [[plants-gods-ayahuasca]], since the mariri is strengthened through relationships with plant teachers rather than by a purely mechanical technique.
+- In practical terms, mariri is the shaman's embodied storehouse of training, diet, and song.
+- The substance is not described as ordinary mucus alone; it is a cultivated capacity that becomes visible and usable in visionary space.
+- Its color distinctions imply a taxonomy of powers, with each variety suited to different healing, protective, or combative functions.
+- The same medium can heal or harm, which is why vegetalista ethics matter as much as technical ability.
+- Amaringo's descriptions repeatedly place mariri at the boundary between physiology and cosmology: it is located in the chest, yet it opens into spirit relations.
+- For research notes, mariri is therefore best tagged as both an entity of indigenous medicine and a model of how disciplined practice becomes embodied.
+- It also gives the vault a bridge between ayahuasca studies, plant dietas, and Amazonian theories of pathogenic intrusion.
+
+## Handling and Vulnerability
+
+- Mariri can be strengthened through dietas, but it can also be weakened by taboo violations.
+- This makes the substance a moral and relational capacity, not just a store of force.
+- A healer with strong mariri can suck out pathogenic objects, neutralize darts, and protect patients during ceremony.
+- A sorcerer with strong mariri can store dangerous beings or project intrusive objects.
+- The same technical skill therefore demands an ethical frame.
+- In Amaringo's material, loss of mariri is a major danger because it leaves the practitioner open to attack.
+- Protective songs, dietary discipline, and alliances with plant spirits all help maintain it.
+- The chest location suggests breath, song, and phlegm as one linked field of power.
+- Icaros do not merely accompany mariri; they direct and activate it.
+- This makes mariri one of the clearest examples of embodied song-power in the vault.
+- It is also a useful comparison point for other cultures where healers keep power objects inside the body.
+- Future notes should preserve the distinction between curandero use and brujo use.
+- That distinction keeps the concept from being flattened into a generic magical substance.
+- The page now works as a hub for Amazonian sorcery, healing, dieta, and visionary anatomy.
+
+## Comparison Points
+
+- Mariri differs from a tool or charm because it is cultivated inside the practitioner's body.
+- It differs from ordinary knowledge because it can be lost, stolen, strengthened, or contaminated.
+- It differs from song because song directs it, while mariri stores the force that song mobilizes.
+- It gives Amazonian healing a model of capacity built through long discipline.
+- That capacity is tested in diagnosis, extraction, defense, and visionary combat.
+- The color-coded forms imply specialized channels rather than one undifferentiated power.
+- White, black, red, and orange mariri can be read as a practical taxonomy within the tradition.
+- The concept also explains why diet and sexual restraint are treated as technical requirements.
+- They protect the embodied store of power from leakage or pollution.
+- This makes mariri a key term for understanding vegetalista apprenticeship.
+- It is accumulated slowly, displayed rarely, and judged by results in healing encounters.
+- The page should remain careful not to translate it too quickly into biomedical categories.
+- Its importance is precisely that it joins body, plant, spirit, and song in one concept.

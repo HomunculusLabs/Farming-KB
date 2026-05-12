@@ -92,5 +92,5 @@ intensive than managing each element independently.
 - [[permaculture-duck-orchard-integration]]
 - [[hemenway-chicken-tractor-and-poultry-integration]]
 - [[faires-livestock-integration-permaculture]]
-- [[pig-husbandry-and-permaculture-integration]]
+- [[pig-husbandry]]
 - [[fukuoka-morishima-acacia-orchard-integration]]

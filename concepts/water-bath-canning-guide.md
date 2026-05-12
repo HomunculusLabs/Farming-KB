@@ -84,7 +84,7 @@ The following foods MUST be pressure-canned:
 - Soups, stews, and chili
 - Beans and legumes
 - Dairy products (milk, butter, cheese — cannot be safely home-canned by any method)
-- Pumpkin or [[winter-squash-guide]] purée (can only be pressure-canned in cubes, not puréed)
+- Pumpkin or [[winter-rye]] purée (can only be pressure-canned in cubes, not puréed)
 - Any recipe that has not been tested and approved by a recognized authority
 
 ## Troubleshooting Common Problems

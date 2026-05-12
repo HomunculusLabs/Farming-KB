@@ -17,7 +17,7 @@ Fruiting bodies mature over 4 to 8 weeks and should be dried at low temperatures
 ## Detailed Explanation
 Growing [[cordyceps-sinensis]] grows only on specific caterpillars in the high Himalayas and cannot be practically cultivated, Cordyceps militaris can be grown on grain substrates.
 It produces similar [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including cordycepin and beta-glucans, making it an accessible alternative for home cultivators and commercial producers.
-The [[Cordyceps]] resource provides additional context on the biological adaptations that make this genus unique among [[fungi-cultivated-mushrooms-pathogens-competitors]].
+The [[cordyceps-cultivation]] resource provides additional context on the biological adaptations that make this genus unique among [[fungi-cultivated-mushrooms-pathogens-competitors]].
 ### Understanding Cordyceps Biology
 Cordyceps militaris is an entomopathogenic fungus, meaning it naturally parasitizes insect larvae and pupae in the wild.
 The [[grain-spawn-preparation]] principles apply here, though the moisture content and supplement ratios are specifically optimized for Cordyceps.

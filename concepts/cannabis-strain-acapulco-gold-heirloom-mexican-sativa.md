@@ -123,7 +123,7 @@ but the genetic diversity within these collections is necessarily limited compar
 Acapulco Gold's genetic legacy lives on in numerous modern hybrid strains that incorporate its genetics.
 Its influence can be detected in many sativa-dominant hybrids that exhibit similar energetic cerebral effects,
 complex flavor profiles,  and tall,  leggy growth patterns.
-The strain's [[amanita-mushrooms-history-chemistry-and-cultural-significance]] as a symbol of the 1960s counterculture era also ensures its continued recognition,
+The strain's [[amanita]] as a symbol of the 1960s counterculture era also ensures its continued recognition,
 even among consumers who have never encountered the genuine article.
 
 ## See Also

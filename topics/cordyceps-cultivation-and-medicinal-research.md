@@ -90,7 +90,7 @@ methods, and future directions.
 The taxonomy of Cordyceps underwent a significant revision in 2007 based on
 ## See Also
 
-- [[Cordyceps]]: Overview of Cordyceps taxonomy,
+- [[cordyceps-cultivation]]: Overview of Cordyceps taxonomy,
   entomopathogenic life cycles, and related genera including Beauveria and
   Metarhizium
 - [[cordyceps-cancer-bioactive-compounds]]: Detailed analysis of cordycepin

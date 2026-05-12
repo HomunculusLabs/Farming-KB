@@ -38,7 +38,7 @@ cancer adjunct therapies in Japan and China respectively. These compounds work
 primarily by enhancing the activity of natural killer cells, T-cells, and
 macrophages, strengthening the body's immune response against tumors.
 
-[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]] is particularly effective when used alongside conventional cancer
+[[comparison-chaga-vs-turkey-tail]] is particularly effective when used alongside conventional cancer
 treatments. Studies show it can improve survival rates in gastric, colorectal,
 and breast cancer patients, reduce the immunosuppressive effects of
 chemotherapy, and improve overall quality of life during cancer treatment.
@@ -77,3 +77,7 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## See Also
+
+Explore related topics in the wiki index.

@@ -87,3 +87,10 @@ Quinine (C₂₀H₂₄N₂O₂) has a molecular weight of 324.4 g/mol and is a 
 **Antimalarial activity:** Quinine binds to heme within the malaria parasite's food vacuole, preventing heme polymerization into hemozoin.
 
 This accumulation of free heme is lethal to *Plasmodium falciparum* trophozoites.
+
+## See Also
+- [[quinine]]
+- [[dom]]
+- [[psilocybin]]
+- [[cinchona-succirubra]]
+- [[bistorta-officinalis]]

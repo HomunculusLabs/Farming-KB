@@ -45,7 +45,7 @@ The most striking difference between the two experiments was the relative abunda
 | Cellvibrio mean abundance | 16.9% (SD = 13.0%) | 0.095% (SD = 2.7%) |
 | Sample size (N) | 9 | 18 |
 
-This 178-fold difference strongly suggests that *Cellvibrio* was not a member of the living [[Proteobacteria]] but rather a colonizer of decaying root tissue. In the post-harvest samples, senescing and decomposing root tissue provided abundant cellulose substrate, allowing *Cellvibrio* to proliferate dramatically. In the pre-harvest samples from actively growing plants, *Cellvibrio* was essentially absent from the endorhiza, consistent with living root tissue being resistant to cellulolytic colonization.
+This 178-fold difference strongly suggests that *Cellvibrio* was not a member of the living [[proteobacteria-dominance-cannabis-endorhiza]] but rather a colonizer of decaying root tissue. In the post-harvest samples, senescing and decomposing root tissue provided abundant cellulose substrate, allowing *Cellvibrio* to proliferate dramatically. In the pre-harvest samples from actively growing plants, *Cellvibrio* was essentially absent from the endorhiza, consistent with living root tissue being resistant to cellulolytic colonization.
 
 ### Cellvibrio as a Post-Mortem Colonizer
 

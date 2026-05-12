@@ -78,3 +78,14 @@ Roundwood shelters and storage rooms must be checked regularly like any other bu
 - [[earth-cellar-construction]]
 - [[stone-cellar-building]]
 - [[holzer-raised-bed-design]]
+
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[fukuoka-soil-building-approach]]
+- [[soil-building-ecological-garden]]
+- [[ozier-pdc-composting-and-soil-building]]
+- [[query-what-are-the-best-natural-building-methods]]

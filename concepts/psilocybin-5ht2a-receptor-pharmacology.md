@@ -1,6 +1,6 @@
 # Psilocybin 5-HT2A [[plant-signaling-pathways]]y activate specific signaling pathways:
 
-- **Psilocin** shows a balanced profile with both G protein and β-arrestin activation, but with a notable bias toward cortical plasticity-promoting pathways
+- **[[psilocin]]** shows a balanced profile with both G protein and β-arrestin activation, but with a notable bias toward cortical plasticity-promoting pathways
 - **LSD** demonstrates strong β-arrestin-2 recruitment and extremely long receptor residence time (several hours), contributing to its extended duration
 - **DOB and other phenethylamines** show stronger Gq coupling relative to β-arrestin
 
@@ -44,7 +44,7 @@ These genetic factors may explain the substantial inter-individual variability i
 |----------|----------------|----------------------|-------------------|--------------------|
 | Psilocin | 6–10 | ~50–80% | 4–6 | Balanced signaling, moderate duration |
 | LSD | 1–5 | ~70–90% | 8–12 | Extremely long residence time |
-| DMT | 10–30 | ~60–80% | 0.5–1 | Rapid onset/offset, also 5-HT1A |
+| [[dmt]] | 10–30 | ~60–80% | 0.5–1 | Rapid onset/offset, also 5-HT1A |
 | Mescaline | 200–500 | ~40–60% | 8–12 | Phenethylamine, lower affinity |
 | DOI | 0.5–2 | ~80–100% | 12–24 | Full agonist, research tool |
 

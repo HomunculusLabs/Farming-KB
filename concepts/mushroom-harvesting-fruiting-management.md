@@ -1,5 +1,5 @@
 ---
-title: Mushroom [[stamets-shiitake-fruiting-management]] and Harvesting
+title: "Mushroom Harvesting and Fruiting Management"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -148,5 +148,3 @@ Maintaining the right environment throughout fruiting is the single most importa
 | **Ventilation** | Continuous fresh air | Adjust with doors and windows; avoid direct drafts |
 | **Light** | Moderate to increasing | Natural light is sufficient; increase as fruiting progresses |
 | **Cleanliness** | High standard | Daily inspections; immediate removal of contaminated material |
-
-**Key principle:** A comfortable environment for people is generally a good environment for mushrooms. Use your own comfort as a baseline indicator, but always verify with regular monitoring and record-keeping.

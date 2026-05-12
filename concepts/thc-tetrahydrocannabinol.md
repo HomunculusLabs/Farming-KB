@@ -31,7 +31,7 @@ The THCA-to-THC conversion is critical for understanding cannabis potency: raw, 
 
 ## Receptor Pharmacology
 
-THC exerts its effects primarily through interaction with [[cannabinoid-receptors-cb1-and-cb2]] in the endocannabinoid system:
+THC exerts its effects primarily through interaction with [[cannabinoid-receptors-cb1-cb2]] in the endocannabinoid system:
 
 - **CB1 receptors**: THC binds as a partial agonist at CB1 receptors, producing the characteristic neurological and psychological effects of cannabis including euphoria, altered perception, relaxation, increased appetite, and impaired short-term memory. THC's affinity for CB1 is approximately equal to its affinity for CB2.
 - **CB2 receptors**: THC also activates CB2 receptors, producing immune-modulating and anti-inflammatory effects that are not psychoactive. These effects contribute to the [[metzner-ayahuasca-therapeutic-potential]] of THC for inflammatory and [[cannabis-autoimmune-conditions]].

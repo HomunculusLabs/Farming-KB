@@ -88,3 +88,10 @@ Tanzania, India, Sri Lanka, Indonesia, and parts of southern Europe.
 It has become a severe invasive in South Africa, New Zealand, Indonesia,
 Brazil, and parts of eastern Africa, where it colonizes riparian areas,
 grasslands, and disturbed sites with alarming speed.
+
+## See Also
+- [[acacia]]
+- [[dom]]
+- [[rhizobium]]
+- [[permaculture-plants-legume-trees-acacia-carob-locust]]
+- [[morishima-acacia-nitrogen-fixing-soil-building-tree]]

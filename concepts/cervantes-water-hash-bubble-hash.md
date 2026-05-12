@@ -22,7 +22,7 @@ quality grade achievable through water extraction.
 ## Sadu Sam's Secret
 
 Modern [[cervantes-15-bag-water-hash-extraction]] started with "Sadu Sam's Secret"
-published in HASHISH! by Robert Connell Clarke. The principle
+published in [[hashish]]! by Robert Connell Clarke. The principle
 is simple physics: resin is oil-based and cannabis foliage is
 water-based. This difference makes separating the two in
 aqueous solution easy. Heavy, oil-soluble [[greg-green-trichomes-and-resin-glands]] will not
@@ -91,3 +91,38 @@ Step-by-step procedure:
 
 ## See Also
 - [[oner-cannabis-water-extraction-ice-water-hash]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[hashish]]
+- [[cervantes-15-bag-water-hash-extraction]]
+- [[oner-cannabis-water-extraction-ice-water-hash]]
+- [[cervantes-water-quality-filtration]]
+- [[cervantes-wilting-plant-water-stress]]

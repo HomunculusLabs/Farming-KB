@@ -1,10 +1,10 @@
 ---
-title: [[cannabis-botany-history-chemistry|[[cannabis-strain-trainwreck-history-genetics|Cannabis]] [[cannabis-botany-history-chemistry|Botany]] and History
+title: "Cannabis Botany And History"
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: concept
 ---
 
-# [[query-how-to-fix-phosphorus-deficiency-in-cannabis|Cannabis]]: Botany, Chemistry, and History
+# [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]: Botany, Chemistry, and History
 
 Cannabis (genus *Cannabis*), known by many names including marihuana, hashish, hemp, kif, bhang, and charas, is one of humanity's oldest cultivated plants and simultaneously one of the most widespread weeds. It has served as a source of fiber, food, industrial oil, medicine, and psychoactive substance for millennia. Despite its great age and economic importance, Cannabis remains poorly understood — characterized more by what is unknown than by what is established.
 
@@ -30,13 +30,13 @@ Cannabis has been assigned to several families over time:
 
 - **Moraceae** (fig/mulberry family)
 - **Urticaceae** (nettle family)
-- **Cannabaceae** (hemp family) — the currently accepted placement, which also includes hops (*Humulus lupulus*)
+- **Cannabaceae** (hemp family) — the currently accepted placement, which also includes hops (*[[humulus-lupulus]]*)
 
 ### Species Debate
 
 The number of species within the genus remains contested:
 
-- **Single-species view**: *Cannabis sativa* L. with many varieties or "races" resulting from human selection for fiber, oil, or narcotic content, modified by environmental factors
+- **Single-species view**: *Cannabis sativa* L. with many varieties or "races" resulting from human selection for fiber, oil, or narcotic content, modified by [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 - **Multi-species view**: Current research supports the recognition of additional species:
   - *C. sativa* — tall, fiber-type plants
   - *C. indica* — shorter, broader-leafed plants associated with higher narcotic content
@@ -57,13 +57,13 @@ The history of Cannabis use extends back thousands of years:
 | ~3000 years ago | Scythians grew Cannabis along the Volga; threw seeds and leaves on hot stones in steam baths for intoxicating smoke |
 | ~2700 years ago | Hemp fabrics found in Turkey (late 8th century BC) |
 | ~3000 years ago | Indian medical writing (pre-1000 BC) reports therapeutic uses |
-| ~500 BC | Greek naturalist Herodotus describes Scythian cannabis steam-bath custom |
+| ~500 BC | Greek naturalist Herodotus describes [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]] steam-bath custom |
 | ~AD 160 | Greek physician Galen reports narcotic effects of hemp in cakes |
 | 13th century | Organized murderers in Asia Minor rewarded with hashish; origin of "hashishin" → "assassin" |
 
 ### The Chinese Name
 
-The oldest known Chinese characters [[query-how-to-set-up-drip-irrigation-for-cannabis|for Cannabis]] are TA MA (pronounced DA MA):
+The oldest known Chinese characters [[query-how-to-set-up-drip-irrigation-for-cannabis]] are TA MA (pronounced DA MA):
 - **TA** — literally "adult man," by extension "great" or "tall"
 - **MA** — represents a fiber plant, literally a clump of plants growing near a dwelling
 
@@ -93,7 +93,7 @@ Key cannabinoids include:
 | Cannabinol (CBN) | Weakly psychoactive | Degradation product |
 | Cannabichromene (CBC) | Minor | Less studied |
 
-THC and related tetrahydrocannabinols form an oily mixture of several stereoisomers. They are **not alkaloids** — they are non-nitrogenous terpenophenolic compounds derived from terpene biosynthesis. The recent synthesis of pure THC has been a major advance in studying the mechanism of its physiological activity.
+THC and related tetrahydrocannabinols form an oily mixture of several stereoisomers. They are **not alkaloids** — they are non-nitrogenous terpenophenolic compounds derived from [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. The recent synthesis of pure THC has been a major advance in studying the mechanism of its physiological activity.
 
 ## Methods of Use
 
@@ -113,7 +113,7 @@ Many of the most potent preparations derive from *C. indica*. In the New World, 
 
 ## Effects
 
-Cannabis effects are **highly variable** from person to person and from one plant [[cannabis-strain-trainwreck-history-genetics|strain]] to another. This variability stems mainly from the unstable character of some cannabinoids — inactive precursors convert to active compounds and eventually to inactive degradation products at different rates depending on temperature and age.
+Cannabis effects are **highly variable** from person to person and from one plant [[cannabis-strain-trainwreck-history-genetics]] to another. This variability stems mainly from the unstable character of some cannabinoids — inactive precursors convert to active compounds and eventually to inactive degradation products at different rates depending on temperature and age.
 
 ### Psychological Effects
 
@@ -144,7 +144,6 @@ The medicinal use of Cannabis has been documented for millennia:
 - Long history in folk medicine across multiple cultures
 - Ancient Indian names include "heavenly guide" and "soother of grief"
 - Chinese name: "liberator of sin" and "delight giver"
-- Modern research into therapeutic applications continues, particularly for pain management, anti-nausea, anti-spasmodic, and anti-inflammatory uses
+- Modern research into [[psilocybin-therapeutic-applications]] continues, particularly for pain management, anti-nausea, anti-spasmodic, and anti-inflammatory uses
 
 The chemical complexity of Cannabis — a prolific "chemical factory" — suggests potential for new medicines derived from its many active compounds.
-

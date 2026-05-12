@@ -141,5 +141,5 @@ mushroom's strengths without overlap.
 - [[comparison-chaga-vs-reishi-medicinal]]
 - [[medicinal-mushroom-guide-shiitake]]
 - [[medicinal-mushroom-guide-reishi]]
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
+- [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]

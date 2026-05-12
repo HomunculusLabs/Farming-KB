@@ -65,7 +65,7 @@ Wrapped and fermented in banana leaves for a naturally sour flavor profile.
 | Garlic | 150 g |
 | Salt | 30 g |
 | Shanghai noodles (optional) | 200 g |
-| Fresh chili peppers | to taste |
+| Fresh [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] | to taste |
 
 ### Preparation
 
@@ -98,7 +98,7 @@ A crispy, caramelized mushroom snack — popular as a sweet treat or gift item.
 
 ### Preparation
 
-1. Trim and shred fresh oyster mushrooms, then sun-dry until fully dehydrated (approximately 300 g dried).
+1. Trim and shred fresh [[cultivation-of-oyster-mushrooms]], then sun-dry until fully dehydrated (approximately 300 g dried).
 2. Heat vegetable oil in a wok or deep pan.
 3. Fry the dried mushrooms until browned and crispy; they will absorb oil during frying.
 4. In a separate pan, combine white soya sauce and palm sugar; cook over medium heat until the mixture becomes thick and sticky.
@@ -126,7 +126,7 @@ A simple, shelf-stable pickled mushroom product requiring minimal ingredients.
 1. Clean the mushrooms thoroughly.
 2. Cut larger mushrooms into 3–4 pieces; leave small ones whole.
 3. Blanch the mushrooms briefly in boiling water.
-4. Place the mushrooms loosely into a clean glass jar, leaving **approximately half the jar empty** at the top.
+4. Place the mushrooms loosely into a clean [[jarrold-glass-jar-spore-print-collection-drying]], leaving **approximately half the jar empty** at the top.
 5. Dissolve the salt and soya sauce in the water to create the brine.
 6. Pour the brine into the jar until the mushrooms are fully submerged and the jar is filled to the top.
 7. Steam the sealed bottles briefly to remove trapped air.
@@ -147,45 +147,3 @@ A plant-based alternative to traditional shrimp paste, made with fermented soybe
 | Ground mushrooms (not ear mushrooms) | 300 g |
 | Salt | 500 g |
 | Boiling water | 3 cups |
-
-### Preparation
-
-1. Steam the soybean tailings, cover, and let stand for **1–3 days** to begin fermentation.
-2. Separately, mix the dried ground mushrooms with boiling water, cover, and let stand for **3 days**.
-3. Combine the fermented soybeans and fermented mushrooms.
-4. Add salt and mix thoroughly.
-5. Ferment the combined mixture for **7 additional days**.
-6. Simmer the fermented mixture over low heat with the cover on, stirring regularly, until fully cooked.
-7. Store in a cool place. This product serves as a vegetarian substitute for shrimp paste in cooking.
-
----
-
-## Waste Management (Step 16)
-
-Proper waste management is essential for [[sustainable-mushroom-cultivation]]. The following protocol covers handling of all major waste streams:
-
-### 1. General Waste Collection
-
-- Collect all plastic waste and dirty cotton plugs generated during [[saffron-cultivation-and-harvesting]].
-- **Cotton plugs** can be burned as fuel — they are organic and burn cleanly.
-- **Plastic waste must NOT be burned in open air.** Burning plastic releases toxic fumes harmful to health and the environment. All plastic should be sent to a **municipal waste treatment facility** for proper disposal or recycling.
-
-### 2. Substrate Re-use
-
-Spent substrate from harvested mushroom bags still contains [[savory-soil-organic-matter-and-decomposition-dynamics]] nutrients. It can be managed in two ways:
-
-- **Re-cultivation:** Remove residual mycelium from the substrate, re-pasteurize, and use as a base for a new batch of mushroom substrate. This reduces the cost of fresh [[growing-gourmet-substrate-materials-wood-types]].
-- **Compost conversion:** Convert spent substrate into nutrient-rich compost (see below).
-
-### 3. Compost Production from Spent Substrate
-
-[[query-how-do-i-use-spent-mushroom-substrate-in-my-garden]] makes excellent compost for agricultural use:
-
-1. **Break open** the used cultivation bags.
-2. **Separate and send** all plastic wrapping to the municipal waste facility.
-3. **Mix** the substrate with **EM ([[bokashi-composting-and-effective-microorganisms]])** solution and sugar to accelerate decomposition.
-4. **Maintain humidity** at **65–75%** throughout the composting period by adding water as needed.
-5. **Pack** the substrate into used rice bags for approximately **30 days**, or spread on the ground under shade.
-6. The finished compost is ready for use in **gardens, rice paddies, or as potting soil** for other crops.
-
-This closed-loop approach minimizes waste, reduces input costs for new cultivation cycles, and provides a valuable soil amendment for broader farming activities.

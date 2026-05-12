@@ -11,7 +11,7 @@ sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 
 ## Overview
 
-Zero Emissions Research and Initiatives (ZERI) is an international organization founded by the visionary eco-designer Gunter Pauli. ZERI represents a revolutionary approach to sustainability based on the principle that "zero emissions means zero waste."
+[[zero-emissions-research-and-initiatives]] (ZERI) is an international organization founded by the visionary eco-designer Gunter Pauli. ZERI represents a revolutionary approach to sustainability based on the principle that "zero emissions means zero waste."
 
 ## Founding Philosophy
 

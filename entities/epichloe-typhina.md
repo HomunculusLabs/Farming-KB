@@ -20,7 +20,7 @@ systemic, asymptomatic associations with grasses (Poaceae) and is the
 causal agent of choke disease, characterized by the production of
 stromata that surround and suppress the host inflorescence. The species
 represents a key evolutionary transition between mutualistic endophytes
-and [[Cordyceps]] in grasses. E. typhina has been central to research
+and [[cordyceps-cultivation]] in grasses. E. typhina has been central to research
 on [[fungal-endophyte-colonization-patterns]] biology, including the origin of asexual Neotyphodium
 endophytes through hybridization events with sexual Epichloe species.
 The source text documents the species in the context of endophyte-host

@@ -1,5 +1,5 @@
 ---
-title: [[alkaline-soil-plants]] [[alkaline-soil-plants]] [[salt-tolerant-plants-permaculture]] Plants in Permaculture
+title: "Alkaline Soil Tolerant Plants in Permaculture"
 source: a-selection-permaculture-plants.md
 type: concept
 ---

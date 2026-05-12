@@ -8,11 +8,11 @@ tags: [thc, cardiovascular, heart, cardioprotection, cb1, nitric-oxide, bronchod
 
 ## Overview
 
-Tetrahydrocannabinol (THC), the primary psychoactive cannabinoid in cannabis, demonstrates a complex and somewhat paradoxical relationship with the cardiovascular system. While acute cannabis use is associated with transient tachycardia and blood pressure changes, emerging research has identified several mechanisms by which THC may protect the heart from damage, particularly in the context of ischemia (reduced blood flow) and myocardial infarction (heart attack). These cardioprotective properties represent one of the more surprising findings in [[cannabinoid]], given that heart disease remains the leading cause of death in many developed nations.
+Tetrahydrocannabinol (THC), the primary psychoactive cannabinoid in cannabis, demonstrates a complex and somewhat paradoxical relationship with the cardiovascular system. While acute cannabis use is associated with transient tachycardia and blood pressure changes, emerging research has identified several mechanisms by which THC may protect the heart from damage, particularly in the context of ischemia (reduced blood flow) and myocardial infarction (heart attack). These cardioprotective properties represent one of the more surprising findings in [[cannabinoid-receptors-cb1-cb2]], given that heart disease remains the leading cause of death in many developed nations.
 
 ## Chemical and Pharmacological Basis
 
-THC (C21H30O2) acts as a partial agonist at both CB1 and CB2 [[cannabinoid-receptors-cb1-and-cb2]]. CB1 receptors are expressed in cardiac tissue, vascular endothelium, and throughout the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], positioning them to directly modulate cardiovascular function. CB2 receptors, while less abundant in cardiac tissue, are expressed in immune cells that infiltrate damaged heart tissue during and after ischemic events.
+THC (C21H30O2) acts as a partial agonist at both CB1 and CB2 [[cannabinoid-receptors-cb1-cb2]]. CB1 receptors are expressed in cardiac tissue, vascular endothelium, and throughout the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], positioning them to directly modulate cardiovascular function. CB2 receptors, while less abundant in cardiac tissue, are expressed in immune cells that infiltrate damaged heart tissue during and after ischemic events.
 
 The dual receptor engagement of THC is critical to its [[blesching-cannabis-hypertension-cardiovascular-effects]] — CB1-mediated actions influence heart rate, contractility, and vascular tone through neural pathways, while CB2-mediated actions modulate the inflammatory response to cardiac injury.
 

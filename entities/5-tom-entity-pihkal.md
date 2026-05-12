@@ -81,7 +81,7 @@ TOMSO, and it is discussed there.
 The two-carbon homologue of 5-TOM has been prepared. It uses, of
 course, the same aldehyde, but the condensation was with nitromethane
 which yielded the nitrostyrene as an orange powder with a melting
-point of 118-119 deg C from methanol. This was reduced with LAH in ether
+point of 118-119 deg C from [[methanol]]. This was reduced with LAH in ether
 containing anhydrous AlCl3, giving
 2-methoxy-4-methyl-5-methylthiophenethylamine hydrochloride as white
 crystals with a melting point of 257-258 deg C. It has been named

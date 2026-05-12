@@ -86,7 +86,7 @@ The practical importance of the Third Bardo instructions lies in their emphasis 
 
 ## Historical and Cultural Significance
 
-The Tibetan Book of the Dead ([[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]) was composed in the 8th century CE, though its roots extend further into the Indian Buddhist tradition. The text belongs to the Nyingma school of Tibetan Buddhism, the oldest of the four major schools, and reflects the Dzogchen and Mahamudra traditions of direct experiential insight. Carl Jung, who wrote the introduction to Evans-Wentz's 1927 translation, recognized the text as a psychological document describing archetypal processes of death and rebirth that transcend its specific cultural and religious context.
+The Tibetan Book of the Dead ([[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]) was composed in the 8th century CE, though its roots extend further into the Indian Buddhist tradition. The text belongs to the Nyingma school of Tibetan Buddhism, the oldest of the four major schools, and reflects the Dzogchen and Mahamudra traditions of direct experiential insight. Carl Jung, who wrote the introduction to Evans-Wentz's 1927 translation, recognized the text as a psychological document describing archetypal processes of [[shamanism-death-and-rebirth]] that transcend its specific cultural and religious context.
 
 ## See Also
 - [[mckenna-food-gods-leary-harvard-psilocybin-project]]

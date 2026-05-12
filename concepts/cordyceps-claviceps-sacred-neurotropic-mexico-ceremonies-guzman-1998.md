@@ -123,7 +123,7 @@ commonly available *Psilocybe* species.
 
 ## See Also
 
-- [[Cordyceps]]
+- [[cordyceps-cultivation]]
 - [[ergot-fungi-and-cordyceps]]
 - [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]
 - [[ergot-fungi-claviceps-ergot-alkaloids]]

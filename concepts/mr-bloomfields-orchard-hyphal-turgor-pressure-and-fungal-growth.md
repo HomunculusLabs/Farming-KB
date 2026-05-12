@@ -1,5 +1,5 @@
 ---
-title: "Mr [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] [[bloomfield-turgor-pressure-and-hyphal-invasion]] [[brassinosteroid-fungal-growth-promotion]]"
+title: "Mr Bloomfield's Orchard: Hyphal Turgor Pressure and Fungal Growth"
 source: >-
   mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 source_author: Nicholas P. Money
@@ -39,7 +39,7 @@ things: first, fungi are biochemically equipped to decompose an extraordinary
 range of materials; second, they have had a very long evolutionary history in
 which to develop these capabilities. The scavenging (saprobic) lifestyle —
 growing on decaying [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] — actually demands more biochemical dexterity
-than parasitism, which means [[Cordyceps]] likely evolved from saprobic
+than parasitism, which means [[cordyceps-cultivation]] likely evolved from saprobic
 ancestors.
 
 ## The Scavenger's Legacy in Pathogens

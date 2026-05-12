@@ -18,7 +18,7 @@ sources:
 The concept of consciousness expansion versus contraction provides a framework for
 understanding both psychedelic experience and addictive behavior as existing on a
 single continuum of awareness. Introduced by Timothy Leary and elaborated by Ralph
-[[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner]]-consciousness-contraction-expansion-addiction-model|metzner]], this model contrasts the broadened, flexible awareness characteristic
+[[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner-consciousness-contraction-expansion-addiction-model|metzner, this model contrasts the broadened, flexible awareness characteristic
 of psychedelic states with the narrowed, fixated awareness typical of narcotic
 addictions and obsessive-compulsive patterns.
 
@@ -63,7 +63,7 @@ awareness characterized by:
 
 ## Addiction as Consciousness Contraction
 
-Leary and [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner]]-consciousness-contraction-expansion-addiction-model|metzner]] proposed that narcotic addictions, as well as obsessions and
+Leary and [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner-consciousness-contraction-expansion-addiction-model|metzner proposed that narcotic addictions, as well as obsessions and
 compulsions in general, could be understood as [[mckenna-food-gods-designer-states-of-consciousness]]
 contraction. The addict's awareness becomes progressively narrowed to focus on
 obtaining and using the substance, while other aspects of life recede from
@@ -103,7 +103,7 @@ action on the receptor sites for cocaine in the brain. Howard Lotsof's clinical
 perspectives on ibogaine raised the possibility of a chemical antidote to
 addiction.
 
-However, [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner]]-consciousness-contraction-expansion-addiction-model|metzner]] proposes a broader mechanism: all consciousness-expanding
+However, [[metzner-addiction-transcendence-consciousness-expansion-as-antidote]]-consciousness-expansion-versus-contraction-addiction|metzner-consciousness-contraction-expansion-addiction-model|metzner proposes a broader mechanism: all consciousness-expanding
 hallucinogens, including LSD, peyote, ayahuasca, and others, can serve to
 counteract the consciousness-contracting and fixating effect of addictive
 narcotics or stimulants.

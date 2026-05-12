@@ -127,4 +127,4 @@ Practitioners frequently encounter challenges related to resource availability, 
 - [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]] — Another case of conflicting toxic/edible/sacred classifications
 - [[dictyophora-indusiata-divination-fungus-chinantec]] — Another Group 4 sacred fungus without confirmed neurotropic properties
 - [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]] — Cordyceps species used ceremonially alongside *Psilocybe* in Mexico
-- [[Elaphomyces]] — The "director" of ceremonies involving sacred Cordyceps and *Psilocybe*
+- [[elaphomyces-granulatus]] — The "director" of ceremonies involving sacred Cordyceps and *Psilocybe*

@@ -57,7 +57,7 @@ PDA medium occupies a critical position in the mushroom cultivation pipeline:
 
 ## Relevance to Cultivation and Mycology
 
-PDA medium is the starting point for quality [[mushroom-spawn-production-and-laboratory-techniques]]. Without reliable tissue culture on PDA, the entire spawn production chain is compromised. The manual emphasizes that even trainees with disabilities must understand the PDA process, as it forms the foundation for spawn quality control. Understanding PDA preparation is essential for:
+PDA medium is the starting point for quality [[mushroom-spawn]]. Without reliable tissue culture on PDA, the entire spawn production chain is compromised. The manual emphasizes that even trainees with disabilities must understand the PDA process, as it forms the foundation for spawn quality control. Understanding PDA preparation is essential for:
 
 - Producing clean, vigorous mushroom cultures
 - Maintaining genetic stock of preferred mushroom strains
@@ -71,3 +71,57 @@ PDA medium is the starting point for quality [[mushroom-spawn-production-and-lab
 - Sorghum Spawn
 - Mushroom Spawn Production
 - [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]
+
+## Laboratory Handling Notes
+
+PDA is useful only when sterility is maintained throughout preparation, pouring, inoculation, incubation, and storage.
+
+The medium's richness makes it excellent for fungal tissue, but the same richness also supports bacteria and competing molds.
+
+For this reason, PDA work is usually paired with careful flame sterilization, clean-air technique, sealed plates, and accurate labeling.
+
+Every plate should record species or strain, transfer date, operator, and transfer generation.
+
+## Indicators on Plates
+
+- Healthy mushroom mycelium usually advances as a clean white colony.
+- Sectoring may indicate genetic variation or culture aging.
+- Wet, shiny, or greasy areas suggest bacterial contamination.
+- Green, black, or brightly colored colonies usually indicate mold contamination.
+- A sour smell or rapid spreading slime means the plate should be discarded.
+- Slow but clean growth can still be valuable if the species is naturally slow.
+
+## Place in the Training Manual
+
+The training manual treats PDA as part of an accessible production system rather than as an isolated laboratory exercise.
+
+Trainees learn PDA so that they can understand how spawn quality begins before bags or fruiting houses are involved.
+
+This connects the note directly to [[mushroom-spawn]] and to practical questions such as [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]].
+
+## Common Transfer Sequence
+
+1. Select healthy fruiting body tissue.
+2. Place tissue onto PDA under sterile conditions.
+3. Incubate until clean mycelium grows away from the tissue.
+4. Transfer the clean leading edge to fresh PDA.
+5. Expand a confirmed clean culture onto grain or sorghum spawn.
+6. Use spawn for substrate inoculation only after quality checks.
+
+## Accessibility Considerations
+
+PDA work can be adapted for trainees with limited mobility because the tasks are precise rather than heavy.
+
+A stable bench height, organized tools, clear labeling, and predictable routines reduce errors.
+
+For people with visual or motor limitations, larger labels, plate racks, and paired work can make laboratory culture more manageable.
+
+The manual's broader point is that technical mycology can be taught inclusively when the workflow is broken into repeatable steps.
+
+## Relationship to Contamination Control
+
+PDA is often where contamination is first seen, which makes it a diagnostic tool as well as a growth medium.
+
+Early detection on agar prevents contaminated cultures from being scaled into many spawn jars or substrate bags.
+
+Clean PDA technique therefore protects labor, materials, and the reliability of the entire cultivation cycle.

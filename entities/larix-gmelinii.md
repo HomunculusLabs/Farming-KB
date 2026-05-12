@@ -23,7 +23,7 @@ sources:
 
 Dahurian larch is notable for forming the world's **northernmost forest ecosystem**, reaching 72°N latitude in the Taymyr Peninsula. It is the dominant tree species across millions of hectares of central and eastern Siberia.
 
-The species is a critical component of the boreal forest biome and plays an outsized role in [[fungal-decomposition-and-the-global-carbon-cycle]] cycle due to the vast carbon stores in its permafrost-underlain forests.
+The species is a critical component of the boreal forest biome and plays an outsized role in [[fungal-decomposition]] cycle due to the vast carbon stores in its permafrost-underlain forests.
 
 Dahurian larch is estimated to cover approximately 2.6 million km² of forest area in Russia alone, making it one of the most extensive single-species forests on Earth.
 

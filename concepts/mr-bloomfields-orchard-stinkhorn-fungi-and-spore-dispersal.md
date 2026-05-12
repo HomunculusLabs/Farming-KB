@@ -1,5 +1,5 @@
 ---
-title: "[[mr-bloomfields-orchard-cryptococcus-and-opportunistic-fungal-pathogens]] [[stinkhorn-fungi-and-insect-spore-dispersal]] [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]"
+title: Mr. Bloomfield's Orchard, Stinkhorn Fungi, and Spore Dispersal
 source: >-
   mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 source_author: Nicholas P. Money

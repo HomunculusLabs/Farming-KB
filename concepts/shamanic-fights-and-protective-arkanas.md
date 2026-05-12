@@ -8,9 +8,9 @@ type: concept
 
 ## Overview
 
-Shamanic fights (*peleas de brujos* or *shitanería*) form a central category of visionary experience in Pablo Amaringo's ayahuasca paintings. These visions depict the active spiritual warfare between healers (*vegetalistas*, *curanderos*, *murayas*) and sorcerers (*brujos*, *shitaneros*), in which both sides deploy armies of spirit allies, magical weapons, and supernatural technologies. The concept of *arkana* — a protective spiritual defense — is central to the healer's ability to survive and prevail in these confrontations.
+Shamanic fights (*peleas de brujos* or *shitanería*) form a central category of visionary experience in [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s ayahuasca paintings. These visions depict the active spiritual warfare between healers (*vegetalistas*, *curanderos*, *murayas*) and sorcerers (*brujos*, *shitaneros*), in which both sides deploy armies of spirit allies, magical weapons, and supernatural technologies. The concept of *arkana* — a protective spiritual defense — is central to the healer's ability to survive and prevail in these confrontations.
 
-In Amazonian shamanism, the boundary between healing and sorcery is not absolute but relational: the same knowledge, spirit allies, and techniques can be used for either purpose depending on the practitioner's intent. A *banco* (master of the three realms) may cure, but an evil banco "usually does harm." This duality is embedded in the very structure of shamanic power.
+[[chullachaki-and-soul-recovery-in-amazonian-shamanism]], the boundary between healing and sorcery is not absolute but relational: the same knowledge, spirit allies, and techniques can be used for either purpose depending on the practitioner's intent. A *banco* (master of the three realms) may cure, but an evil banco "usually does harm." This duality is embedded in the very structure of [[icaros-shamanic-power-songs]].
 
 ## The Structure of Shamanic Combat
 
@@ -20,7 +20,7 @@ Sorcerers employ a diverse arsenal of attack methods:
 
 - **Virotes and chontas**: Magical darts made from palm wood, fish horns, snake teeth, and bird beaks. These are the primary projectiles in shamanic combat, fired from blowguns or bows and embedded in the victim's body.
 - **Yachay (magical phlegm)**: Sorcerers project harmful phlegm through their mariris (spiritual tubes) to cause disease, weakness, and death.
-- **Supay-masho (diabolic bat)**: A bat spirit whose penetrating waves produce "sleepy and forgetful weakness" in victims, rendering them unable to defend themselves.
+- **Supay-masho (diabolic bat)**: A bat spirit whose penetrating waves produce "sleepy and forgetful weakness" in victims, rendering them unable to [[query-how-do-plants-defend-themselves-chemically]].
 - **Huaira-umas (forgetful minds)**: Snakes that cast spells driving victims crazy and making them forget their defensive knowledge.
 - **Sepultura tonduri**: A "very sad and frightening icaro" sung by sorcerers to kill their enemies, literally meaning "grave funeral." It summons the Sachamama (mother of the forest) to swallow the victim, with the motelo-mama (tortoise) serving as the funeral table, mushrooms as candles, and fireflies as their flames.
 
@@ -69,7 +69,7 @@ The battle is described as "a great battle between the esoteric powers of good a
 
 When a sorcerer attacks a group peacefully taking ayahuasca, the vegetalistas transform into wolves to hide from him. They are protected by six named queens (*dueñas*) — Cushirima, Silove, Gabat, Manchahuarmi, Allimpaica, and Callpaican-Kapak — each possessing specialized esoteric knowledge: beautiful icaros, perfume-making, clairvoyance, warfare, compassionate healing, and rapid travel for hunting enemies.
 
-The defensive plants used in this battle include piñón colorado (Jatropha gossypifolia), yuca verde, achiote (Bixa orellana), patiquina (Dieffenbachia sp., used to kill sorcerers), and sacha-ajos (Mansoa alliacea, burned in the evening as a disinfectant against evil spirits).
+The defensive plants used in this battle include piñón colorado (Jatropha gossypifolia), yuca verde, achiote ([[bixa-orellana]]), patiquina (Dieffenbachia sp., used to kill sorcerers), and sacha-ajos (Mansoa alliacea, burned in the evening as a disinfectant against evil spirits).
 
 ## The Sepultura Tonduri Ritual (Vision 46)
 
@@ -103,8 +103,15 @@ The visions include a systematic classification of shamanic power levels, repres
 6. **Violet (amethyst)**: Sylphs, fairies, muses, kings, queens, princes, and princesses with great talent and wisdom
 7. **Carbon and silicon**: The opposite of all light — strange beings, sphinxes, animals, witches
 
-This gradation system provides a structured hierarchy of spiritual achievement, from the most basic shamanic practice to the highest realms of esoteric knowledge, with a clear warning about the final level — the domain of harmful sorcery.
+This gradation system provides a structured hierarchy of spiritual achievement, from the most basic [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] to the highest realms of esoteric knowledge, with a clear warning about the final level — the domain of harmful sorcery.
 
 ## Cultural Context
 
 Shamanic fights are not merely metaphorical. In Amazonian communities, accusations of sorcery are common and can lead to social conflict, displacement, and even violence. The elaborate defensive systems described in the visions reflect real social dynamics in which healers must maintain active defenses against perceived spiritual attacks. The visions also serve a pedagogical function: by visualizing the spirit world in such detail, they train apprentices in the taxonomy of threats and the repertoire of available defenses.
+
+## See also
+
+- [[shamanic-battles-and-protective-powers]]
+- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[shipibo-icaros-healing-songs]]
+- [[mariri-phantom-sorcery]]

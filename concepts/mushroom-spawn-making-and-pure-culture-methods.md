@@ -35,7 +35,7 @@ characteristics of the resulting crop — size, yield, color, flavor — were un
 
 ## The Challenge of Spore Germination
 
-One of the central challenges in improving [[mushroom-spawn-production-and-laboratory-techniques]] was the
+One of the central challenges in improving [[mushroom-spawn]] was the
 difficulty of germinating the spores of [[agaricus-campestris]] under controlled
 conditions. Unlike the spores of many other fungi, mushroom spores are often reluctant
 to germinate on the artificial media used in laboratory culture. Early mycologists

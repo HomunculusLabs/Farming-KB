@@ -88,3 +88,10 @@ formerly degraded areas.
 For over 150 years, feral goats reduced Brahea edulis to a relict population on
 cliffs. A systematic goat eradication program completed by 2007 led to dramatic
 recovery within a decade.
+
+## See Also
+- [[doc]]
+- [[brahea-armata]]
+- [[canna-edulis]]
+- [[boletus-edulis-entity]]
+- [[catha-edulis]]

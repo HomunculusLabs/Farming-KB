@@ -60,3 +60,25 @@ His involvement demonstrates an important principle in agricultural training pro
 - [[ubon-ratchathani-mushroom-project]] Project
 - [[mushroom-substrate-bags]]
 - Mushroom Pasteurization
+
+## Program Role
+
+Thaithatgoon's importance lies in translating commercial know-how into a training sequence that could be learned by beginners. Instead of presenting mushroom farming as a purely laboratory science, his contribution grounded the curriculum in Thai farm realities: available substrates, local climate, local markets, and the practical rhythm of bag filling, steaming, inoculation, incubation, and sales.
+
+This made the project more credible to trainees. The methods were not abstract development advice; they came from a practitioner whose livelihood depended on mushroom production working reliably. His role therefore complemented Johanne Hanko's disability-inclusive training design and Prasert Wuthikamphee's institutional support.
+
+## Practical Legacy
+
+For later programs, Thaithatgoon is a reminder that inclusive agriculture needs both social design and production competence. Accessibility adaptations matter, but they only create livelihoods when the underlying crop system is technically sound. In this case, the link between [[mushroom-substrate-bags]], local spawn supply, and marketable harvests gave the training model its economic realism.
+
+## Connection to Training Steps
+
+The procedures associated with Thaithatgoon's expertise covered the production chain from substrate preparation through harvesting. That chain matters because small failures compound: poor substrate moisture weakens colonization, weak colonization invites contamination, and contamination reduces both yield and trainee confidence. A consultant with commercial experience could identify which steps needed simplification and which could not be compromised.
+
+His contribution also helped align training with markets. Mushroom projects for livelihood development must produce varieties that buyers recognize, at volumes and quality levels that justify repeat sales. By grounding the curriculum in Thai commercial practice, Thaithatgoon helped keep the program from becoming merely therapeutic activity.
+
+## Documentation Value
+
+As an entity page, Satit Thaithatgoon anchors the human expertise behind the FAO manual. Technical manuals can appear institutionally anonymous, but this page preserves the practitioner role that made the methods realistic.
+
+His example supports a broader lesson: agricultural development materials should name and respect local experts, because they often supply the tacit adjustments that determine whether a protocol works outside the page.

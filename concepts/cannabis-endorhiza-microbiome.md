@@ -114,8 +114,8 @@ The practical applications of this research are substantial. Understanding the C
 ## See Also
 
 - [[two-tier-selection-model]]
-- [[cannabinoid]]
-- [[Rhizosphere]]
+- [[cannabinoid-receptors-cb1-cb2]]
+- [[rhizosphere-ecology]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
 
 The Cannabis endorhiza microbiome represents a frontier in plant-microbiome science with direct implications for one of the world's most commercially significant medicinal crops.

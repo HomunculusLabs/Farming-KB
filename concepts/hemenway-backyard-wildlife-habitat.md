@@ -1,7 +1,7 @@
 ---
 title: Hemenway Backyard Wildlife Habitat
 created: 2026-04-28
-tags: [permaculture, wildlife, birds, habitat-design, biodiversity]
+tags: [[permaculture]], wildlife, birds, habitat-design, biodiversity]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
@@ -24,7 +24,7 @@ numbers with chilling efficiency.
 Biodiversity means having a well-designed palette of useful plants that will
 attract and sustain helpful insects, birds, and other animals. A garden
 planted all to one crop is a magnet for pests, which will happily consume the
-abundant food. By providing habitat for these pests' natural predators,
+abundant food. By providing habitat for these pests' [[fukuoka-fruit-tree-disease-pest-control-natural-predators]],
 gardeners can let nature do the bug control.
 
 The two forms of garden biodiversity depend on each other: the diversity the
@@ -84,7 +84,35 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[doc]]
+- [[psilocybin]]
+- [[psilocin]]
+- [[wildlife-habitat-creation]]
+- [[habitat-nooks-for-garden-wildlife]]

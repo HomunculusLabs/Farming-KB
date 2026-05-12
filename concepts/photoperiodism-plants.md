@@ -10,7 +10,7 @@ created: 2026-05-09
 Plants do not simply react to light as it arrives. They measure the
 duration of light and darkness to make critical decisions about when to
 grow, when to flower, and when to prepare for winter. This ability —
-known as photoperiodism — is one of the most important adaptations in
+known as [[photoperiodism]] — is one of the most important adaptations in
 the plant kingdom, and its discovery in the early [[coleman-louis-savier-twentieth-century-maraicher]]
 transformed both basic plant science and commercial agriculture. The
 story begins with a peculiar tobacco plant that simply would not stop

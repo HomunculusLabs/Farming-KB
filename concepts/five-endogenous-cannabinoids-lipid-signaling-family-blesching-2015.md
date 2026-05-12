@@ -14,7 +14,7 @@ The human body produces at least five distinct endogenous cannabinoids
 (endocannabinoids) that serve as signaling molecules within the endocannabinoid
 system (ECS). While anandamide (AEA) and 2-AG are the most studied, Blesching's
 *[[blesching-cannabis-health-index-autoimmune-conditions]]* catalogs the full set of five identified lipid
-mediators that interact with [[cannabinoid-receptors-cb1-and-cb2]]. Each has unique binding
+mediators that interact with [[cannabinoid-receptors-cb1-cb2]]. Each has unique binding
 profiles, biosynthetic pathways, and [[hemenway-mulch-makers-and-plant-functional-roles]].
 
 ## The Five Endocannabinoids

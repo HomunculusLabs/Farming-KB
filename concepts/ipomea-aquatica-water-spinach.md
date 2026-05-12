@@ -1,5 +1,5 @@
 ---
-title: [[ipomoea-aquatica]] (Water Spinach / Kang Kong)
+title: "Ipomoea Aquatica Water Spinach"
 source: a-selection-permaculture-plants.md
 type: concept
 ---
@@ -128,8 +128,8 @@ Water spinach is a staple vegetable across Southeast Asia:
 
 ## See Also
 
-- [[Aquaculture in Permaculture]]
-- [[Constructed Wetlands]]
-- [[Aquaponics Systems]]
-- [[Asian Leafy Greens]]
-- [[Water Management in Permaculture]]
+- [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
+- [[comparison-mangrove-restoration-vs-constructed-wetlands]]
+- [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]
+- [[solomon-leafy-greens-growing]]
+- [[keyline-design]]

@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Piñon colorado (also spelled piñón colorado) is the common Amazonian name for *Jatropha gossypifolia*, a plant in the Euphorbiaceae family. In Amazonian vegetalismo, piñon colorado is used as a defense against evil sorcerers. For effective magical use, one must select leaves that have exactly five tips, resembling a human hand. The plant is depicted in Vision 45 of Pablo Amaringo's *Ayahuasca Visions* as one of the key defensive plants used by vegetalistas who transform themselves into wolves to hide from attacking sorcerers. A related variety, piñon negro, is also used.
+Piñon colorado (also spelled piñón colorado) is the common Amazonian name for *Jatropha gossypifolia*, a plant in the Euphorbiaceae family. In Amazonian vegetalismo, piñon colorado is used as a defense against evil sorcerers. For effective magical use, one must select leaves that have exactly five tips, resembling a human hand. The plant is depicted in Vision 45 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s *[[ayahuasca-visions]]* as one of the key defensive plants used by vegetalistas who transform themselves into wolves to hide from attacking sorcerers. A related variety, piñon negro, is also used.
 
 ## Classification
 
@@ -41,7 +41,7 @@ Piñon colorado (also spelled piñón colorado) is the common Amazonian name for
 - **Magical defense:** Used to ward off evil sorcerers during ayahuasca sessions
 - **Medicine:** Used traditionally for digestive complaints, skin conditions, and as a purgative
 - **The leaves with exactly five lobes are selected for magical use** — a specific morphological criterion
-- Related species in *Jatropha* are used for biodiesel production and have economic importance
+- Related species in *Jatropha* are used for [[biodiesel-production]] and have economic importance
 
 ## Magical Application Details
 
@@ -54,10 +54,10 @@ Piñon colorado (also spelled piñón colorado) is the common Amazonian name for
 
 - *Jatropha gossypifolia* is a pioneer species that colonizes disturbed areas, similar to many Euphorbiaceae
 - The toxic latex contains compounds with documented antimicrobial and antifungal properties
-- As a Euphorbiaceae member, the plant produces diterpene esters and other bioactive compounds
+- As a Euphorbiaceae member, the plant produces diterpene esters and other [[cordyceps-cancer-bioactive-compounds]]
 - The specific selection of five-lobed leaves for magical use demonstrates sophisticated morphological awareness
-- The plant's colonizing nature makes it ecologically relevant to soil microbial and fungal community development in disturbed sites
-- Jatropha species have been studied for antifungal compounds effective against plant pathogenic fungi
+- The plant's colonizing nature makes it ecologically relevant to soil microbial and [[air-pollution-fungal-community-responses]] development in disturbed sites
+- Jatropha species have been studied for antifungal compounds effective against plant [[cordyceps-insect-pathogenic-fungi]]
 
 ## See Also
 
@@ -66,3 +66,65 @@ Piñon colorado (also spelled piñón colorado) is the common Amazonian name for
 - Patiquina (*Dieffenbachia* sp.)
 - Yuca verde (green manioc)
 - Vegetalismo (Amazonian plant shamanism)
+
+## Defensive Morphology
+
+Piñon colorado is a strong example of morphology guiding magical selection.
+
+The plant as a whole is protective, but the most effective leaves are those with five tips.
+
+The five-lobed leaf resembles a human hand, turning the leaf into a botanical gesture of stopping, grasping, or warding off.
+
+This criterion shows that vegetalista plant choice may depend on visible form as much as chemical property.
+
+The healer reads the plant's shape as a sign of its spiritual function.
+
+That makes piñon colorado especially useful for comparing with [[achiote]], [[amaringo-ayahuasca-visions-shipibo-iconography]], and [[amazonian-shamanic-battles-and-defensive-powers]].
+
+## Protective Complex
+
+In Vision 45, piñon colorado appears with yuca verde, achiote, patiquina, sacha-ajos, and related defensive plants.
+
+The plants do not act as isolated charms.
+
+They form a protective complex around vegetalistas under attack.
+
+The transformation into wolves adds another layer: plant defense, animal disguise, and queenly magical knowledge operate together.
+
+This multi-layered protection is typical of Amaringo's battle scenes.
+
+A plant may guard the body, hide the practitioner, confuse enemies, or strengthen an animal form.
+
+## Botanical Caution
+
+As a *Jatropha*, piñon colorado should be treated with respect in any cultivation or handling context.
+
+Many *Jatropha* species contain irritating or toxic latex and bioactive seeds.
+
+Traditional magical use does not imply casual ingestion.
+
+The source emphasizes selected leaves for defense, not a general edible or medicinal preparation.
+
+Cultivation notes should therefore separate ritual selection from pharmacological experimentation.
+
+Any practical work with the plant should use gloves and avoid contact with eyes or mucous membranes.
+
+## Cultivation Notes
+
+Piñon colorado is well adapted to disturbed tropical and subtropical sites.
+
+It can behave as a pioneer shrub, establishing quickly where soil has been opened.
+
+That habit fits its defensive symbolism: it occupies edges, wounds, and exposed places.
+
+In agroforestry or ethnobotanical gardens, it should be placed where its toxicity, self-seeding, and shrub form can be managed.
+
+Its reddish stems, lobed leaves, and small flowers make it easy to distinguish from many companion plants.
+
+## Research Questions
+
+- Are five-lobed leaves chemically different from three-lobed leaves, or is the distinction purely symbolic?
+- How is piñon negro botanically related to piñon colorado in the source tradition?
+- Which defensive icaros accompany the selected leaves?
+- Does latex application appear in any documented treatment, or only leaf-based magic?
+- How does piñon colorado compare with other Euphorbiaceae used for protection?

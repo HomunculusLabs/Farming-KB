@@ -63,7 +63,7 @@ Northern US and Canada:
 
 Cover crops planted in autumn protect soil through winter and provide green manure in spring:
 - Winter rye
-- [[compost]]
+- [[mushroom-compost]]
 - Field peas
 - Fava beans
 - Hairy vetch

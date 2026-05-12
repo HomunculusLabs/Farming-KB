@@ -41,7 +41,7 @@ The seeds are fast-germinating, so the initial establishment is rapid and reliab
 
 Seed production marks the end of vegetative growth. Once flowering progresses beyond the first few blossoms, the stalks begin to lignify and the C/N ratio rises. The material should be dug in or pulled from the ground and dried for composting at the very first sign of flowering.
 
-If turned into moist soil before more than a few flowers have appeared, buckwheat decomposes in just one week. This extraordinarily rapid decomposition is one of its greatest virtues. The gardener loses only seven days from the rotation, compared to four to five weeks for more mature or woody [[cover-crops-and-green-manures]].
+If turned into moist soil before more than a few flowers have appeared, buckwheat decomposes in just one week. This extraordinarily rapid decomposition is one of its greatest virtues. The gardener loses only seven days from the rotation, compared to four to five weeks for more mature or woody [[cover-crops]].
 
 ## Ease of Incorporation
 

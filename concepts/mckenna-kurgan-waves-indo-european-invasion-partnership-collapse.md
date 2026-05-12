@@ -1,5 +1,5 @@
 ---
-title: "Mckenna Kurgan Waves [[mckenna-vedic-soma-indo-european-mysteries]] Invasion Partnership Collapse"
+title: "McKenna Kurgan Waves, Indo-European Invasion, and Partnership Collapse"
 created: 2026-04-28
 tags: [mckenna, food-of-the-gods, indo-european, kurgan, gimbutas, partnership-society, dominator-culture, archaeology, cultural-evolution]
 date: 2026-04-28

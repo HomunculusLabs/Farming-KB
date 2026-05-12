@@ -128,4 +128,4 @@ A typical productive hydroponic setup as described by Cervantes:
 
 - [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]] and photoperiod
 - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]] genetics
-- [[cannabis-nutrient-management]] in [[living-soil-cannabis-cultivation]]
+- [[cannabis-nutrient-management]] in [[living-soil-cannabis]]

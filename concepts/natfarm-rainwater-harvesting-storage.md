@@ -1,5 +1,5 @@
 ---
-title: "Natfarm [[comparison-drip-irrigation-vs-rainwater-harvesting]] Storage"
+title: "NatFarm Rainwater Harvesting and Storage"
 created: 2026-04-28
 tags: [rainwater, water-storage, water-harvesting, [[permaculture]], self-sufficiency]
 date: 2026-04-25
@@ -87,3 +87,7 @@ lead, which manufacturers at one time used.
 Concrete tanks are less expensive but have more metal in them in the form
 of rebar than galvanized steel tanks, and their lifespan is shorter. If the
 right concrete mix is used, they may be the safest to drink from.
+
+## See Also
+- [[rainwater-harvesting-systems]]
+- [[solomon-rainwater-harvesting-for-gardens]]

@@ -16,7 +16,7 @@ Topping is a fundamental [[comparison-lollipopping-vs-cannabis-pruning-and-defol
 
 ## Core Concept
 
-Cannabis plants naturally exhibit apical dominance, meaning the main central stem grows taller and faster than side branches. The apical meristem at the very top produces auxin hormones that suppress lateral branching below it. When this dominant tip is removed, [[Auxin]] at the cut site stops, and the two highest branch tips below the cut begin to grow vigorously as they compete to become the new dominant tips. The result is two main colas of similar size instead of one.
+Cannabis plants naturally exhibit apical dominance, meaning the main central stem grows taller and faster than side branches. The apical meristem at the very top produces auxin hormones that suppress lateral branching below it. When this dominant tip is removed, [[auxin-production-by-symbiotic-fungi]] at the cut site stops, and the two highest branch tips below the cut begin to grow vigorously as they compete to become the new dominant tips. The result is two main colas of similar size instead of one.
 
 Cervantes explains the hormonal mechanism: "Cutting the meristem (top growth tip) of a cannabis plant will diffuse auxins and cause greater concentrations in lower branch tips." This hormonal shift is what drives the plant to redirect energy from vertical growth into lateral branching.
 

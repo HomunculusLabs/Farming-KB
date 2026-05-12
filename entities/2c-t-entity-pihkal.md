@@ -75,7 +75,7 @@ explored much further than any of the ALEPHs.
 
 A note on the RTS in 2C-T. Many, in fact most, of the 2C's have their
 name based on the last letter of the amphetamine prototype. 2C-B from
-DOB, 2C-C from DOC, 2C-I from DOI, 2C-N from DON, etc. And since the
+DOB, 2C-C from [[doc]], 2C-I from DOI, 2C-N from DON, etc. And since the
 original name for ALEPH-1 was DOT (the desoxy- and a thiomethyl group
 at the 4-position), the 2C-T naming followed this general pattern.
 And as a note on the subsequent numbering, they (both the ALEPHs and

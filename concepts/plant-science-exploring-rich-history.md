@@ -13,7 +13,7 @@ type: concept
 - [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 ## Background and Context
 
-Exploring the Rich History of Plant Science is an important subject that has garnered significant attention
+Exploring the Rich [[history-of-plant-science]] is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

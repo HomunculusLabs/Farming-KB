@@ -1,5 +1,5 @@
 ---
-title: "[[homestead-dairy-equipment]] Guide"
+title: Homestead Dairy Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

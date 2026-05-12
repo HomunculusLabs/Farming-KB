@@ -74,7 +74,7 @@ physicochemical mechanisms:
 ### Biosorption Capacity
 
 Reported capacities range from 10-120 mg metal per gram dry biomass,
-depending on the metal, fungal species, and conditions. [[Agaricus]], and Saccharomyces
+depending on the metal, fungal species, and conditions. [[agaricus-aurora]], and Saccharomyces
 - **Cadmium-binding MTs**: Induced under cadmium stress
 - **Regulation**: Transcriptionally regulated by metal-responsive
   transcription factors (e.g., ACE1)

@@ -72,7 +72,7 @@ Most mycopesticidal patents target an insect species using a fungus strain, with
 
 ## See Also
 
-[[Cordyceps]]
+[[cordyceps-cultivation]]
 
 [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 

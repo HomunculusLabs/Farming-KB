@@ -16,7 +16,7 @@ Preserving the harvest extends seasonal abundance into year-round food security.
 The simplest and most energy-efficient preservation method:
 - Temperature: 32-40°F (0-4°C)
 - Humidity: 85-95%
-- Crops: [[growing-root-vegetables-guide]] (potatoes, carrots, beets, turnips, parsnips), cabbages, apples, onions, [[winter-squash-guide]]
+- Crops: [[growing-root-vegetables-guide]] (potatoes, carrots, beets, turnips, parsnips), cabbages, apples, onions, [[winter-rye]]
 - No electricity required — use [[earth-cellar-construction]] or [[stone-cellar-building]]
 - Store crops in layers separated by straw or sawdust
 - Check weekly; remove any rotting specimens immediately
@@ -78,3 +78,38 @@ The oldest and most nutritious preservation method:
 - [[fermented-plant-extract-fpe]] — for the science behind fermentation
 - [[earth-cellar-construction]] — for [[root-cellar-design-and-construction]]
 - [[compost-building-guide]] — for food scraps that can't be preserved
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[homesteading]]
+- [[spore]]
+- [[permaculture-food-storage-and-preservation]]
+- [[solomon-food-preservation-storage]]
+- [[pressure-canning-food-preservation]]

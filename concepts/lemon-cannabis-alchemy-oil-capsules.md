@@ -1,5 +1,5 @@
 ---
-title: "[[lemon-cannabis-alchemy-direct-vaporization]] [[cannabis-oil-capsules-preparation]]"
+title: Lemon Cannabis Alchemy Oil Capsules
 created: 2026-04-28
 tags: [cannabis, capsules, oral-ingestion, edibles, dosing]
 date: 2026-04-28
@@ -15,7 +15,7 @@ Chapter 6 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[be
 of cannabis oil capsules for oral ingestion, sometimes called "pot pills."
 This method provides a discreet, precisely dosable way to consume
 cannabis extracts, making it one of the most practical applications of
-the extraction and refinement techniques described in the earlier
+the [[high-volume-cannabis-extraction-and-refinement]] techniques described in the earlier
 chapters.
 
 ## Overview
@@ -51,7 +51,7 @@ provides excellent solubility for cannabinoids at body temperature.
 
 The cannabis oil used for capsules should ideally be at the highest level
 of refinement available. Oil that has been extracted, purified with
-petroleum ether, isomerized, and possibly acetylated will produce the
+[[petroleum-ether]], isomerized, and possibly acetylated will produce the
 most potent capsules. Even oil from a simple [[pf-tek-alcohol-extraction-method]] can be
 used, though the resulting capsules will be less potent.
 

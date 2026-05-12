@@ -90,5 +90,5 @@ Understanding rhizodeposition-driven filtering has practical applications for Ca
 - [[cannabis-microbiome-two-tier-selection|Two-Tier Selection Model for Cannabis Microbiome]]
 - [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza|Post-Harvest vs. Pre-Harvest Sampling Effects]]
 - [[edaphic-factors-structuring-cannabis-microbiome|Edaphic Determinants of Cannabis Microbiome]]
-- [[proteobacteria|Proteobacteria Dominance in Cannabis Endorhiza]]
+- [[proteobacteria-dominance-cannabis-endorhiza|Proteobacteria Dominance in Cannabis Endorhiza]]
 - [[acidobacteria-decline-rhizosphere-endorhiza-transition|Acidobacteria Decline from Rhizosphere to Endorhiza]]

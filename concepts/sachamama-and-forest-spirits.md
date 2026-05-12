@@ -1,12 +1,12 @@
 ---
-title: Sachamama and [[ayahuasca-chullachaki-forest-spirits-huairamama-wind-serpent]]
+title: "Sachamama And Forest Spirits"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---
 
 # Sachamama and Forest Spirits
 
-The Amazonian rainforest is inhabited by a vast hierarchy of spiritual beings that exist alongside and sometimes interpenetrate the physical world. In [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]], these beings range from the colossal Sachamama — a serpent so large it supports an entire ecosystem on its back — to the trickster Chullachaki who guards the wild animals, and the many snake spirits that respond to the shaman's icaros. Understanding these entities is fundamental to the practice of vegetalismo.
+The Amazonian rainforest is inhabited by a vast hierarchy of spiritual beings that exist alongside and sometimes interpenetrate the physical world. In [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]], these beings range from the colossal Sachamama — a serpent so large it supports an entire ecosystem on its back — to the trickster [[chullachaki]] who guards the wild animals, and the many snake spirits that respond to the shaman's [[icaros]]. Understanding these entities is fundamental to the practice of vegetalismo.
 
 ## The Sachamama (Mother of the Forest)
 
@@ -89,7 +89,7 @@ A creature that is simultaneously a paiche fish (Arapaima gigas) and a snake wit
 
 ### Mermaids with Two Tails
 
-These beings only emerge during sublime trances to cure sicknesses of the water — afflictions caused by the Yakumama, the yaku-caballo (water horse), the rayamama (ray mother), the dolphin, or the anguila mama (electric eel). Their dual-tailed form distinguishes them from ordinary mermaids.
+These beings only emerge during sublime trances to cure sicknesses of the water — afflictions caused by the [[yakumama]], the yaku-caballo (water horse), the rayamama (ray mother), the dolphin, or the anguila mama (electric eel). Their dual-tailed form distinguishes them from ordinary mermaids.
 
 ## The Muraya Entering the Subaquatic World
 

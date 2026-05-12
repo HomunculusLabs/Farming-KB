@@ -14,23 +14,23 @@ sources:
   - metzner-syncretic-entheogenic-churches-cultural-transformation-movement-metzner|entheogenic-churches-brazil-bwiti|metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]|entheogenic]] Churches and Cultural Transformation Movements
+# metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic Churches and Cultural Transformation Movements
 
-Syncretic religious movements centered on metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]|entheogenic]] plant sacraments represent
+Syncretic religious movements centered on metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic plant sacraments represent
 a significant development in the relationship between consciousness-altering
 substances and society. By organizing around ceremonial use of psychoactive
 plants within legally recognized church structures, these movements have made
 profoundly spiritually transforming experiences accessible to large numbers of
 people.
 
-Ralph [[metzner-syncretic-entheogenic-churches-brazil-bwiti]]-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]] suggests these movements may represent the beginnings of a broader
+Ralph [[metzner-syncretic-entheogenic-churches-brazil-bwiti]]-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner suggests these movements may represent the beginnings of a broader
 cultural transformation with significant impact on contemporary society.
 
 ## From Shamanic Healing to Organized Religion
 
-The syncretic metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]|entheogenic]] churches occupy a critical middle ground between
+The syncretic metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic churches occupy a critical middle ground between
 traditional shamanic [[shamanic-entheogenic-healing-rituals]] and modern Western approaches. In
-traditional shamanic contexts, metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]|entheogenic]] ceremonies are conducted in small
+traditional shamanic contexts, metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic ceremonies are conducted in small
 groups of around a dozen participants, with an emphasis on individual healing
 and divination.
 
@@ -40,7 +40,7 @@ individual healing to communal worship and celebration. The religious framework
 provides legal protection, social cohesion, and organizational stability, though
 the healing and divinatory aspects tend to recede into the background.
 
-## Social Functions of metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]|entheogenic]] Churches
+## Social Functions of metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic Churches
 
 ### Community Cohesion
 
@@ -70,7 +70,7 @@ these churches provide a protective shield of traditional lore against the
 encroachments of Christian missionaries and the seductions of Western consumer
 culture.
 
-By incorporating metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]|entheogenic]] use into a formal religious structure, indigenous
+By incorporating metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic use into a formal religious structure, indigenous
 communities can maintain practices that might otherwise be suppressed.
 
 ## The Brazilian Ayahuasca Churches
@@ -142,7 +142,7 @@ thousand members in Brazil, and two have established significant satellite
 centers in North America and Europe.
 
 This international expansion represents a significant development in the
-globalization of indigenous spiritual practices, spreading metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner]]|entheogenic]] ceremony
+globalization of indigenous spiritual practices, spreading metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha|metzner|entheogenic ceremony
 to a global audience.
 
 ## Health Research Findings

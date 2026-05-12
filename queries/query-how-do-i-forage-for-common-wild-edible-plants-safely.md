@@ -85,7 +85,7 @@ Urban foraging is increasingly popular but requires extra caution.
 Community gardens, vacant lots, and park edges can yield surprising amounts of wild food.
 Urban soils may contain lead, arsenic, or other contaminants — consider having soil tested before regular foraging.
 Focus on fruit-bearing trees and shrubs above ground level, as airborne contaminants settle on lower-growing plants.
-[[pawpaw-cultivation-and-variety-guide|Pawpaw trees]] and elderberry bushes are increasingly planted in urban landscapes and offer excellent foraging opportunities.
+[[pawpaw]] and elderberry bushes are increasingly planted in urban landscapes and offer excellent foraging opportunities.
 Connect with local urban farming groups to learn about safe foraging spots in your city.
 
 ### What About Foraging With Children?

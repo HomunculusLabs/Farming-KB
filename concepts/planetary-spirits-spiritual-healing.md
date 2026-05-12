@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The visionary cosmology of Amazonian vegetalismo, as documented by Pablo Amaringo, extends far beyond the Amazon rainforest to encompass planetary realms, extraterrestrial civilizations, ancient Andean cultures, and elaborate spiritual healing practices. This upper tier of the spirit world — the ouranian (heavenly) realm — includes beings from distant stars and galaxies who interact with shamans, provide healing technologies, and participate in the broader cosmic order. The healing practices described range from spiritual heart surgery performed by interdimensional doctors to the use of icaros for diagnosing and treating various forms of sorcery and illness.
+The [[amazonian-ship-aceropunta-and-visionary-cosmology]] of Amazonian vegetalismo, as documented by [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], extends far beyond the Amazon rainforest to encompass planetary realms, extraterrestrial civilizations, ancient Andean cultures, and elaborate spiritual [[blesching-cannabis-healing-practices-setting-intention-affirmations]]. This upper tier of the spirit world — the ouranian (heavenly) realm — includes beings from distant stars and galaxies who interact with shamans, provide healing technologies, and participate in the broader cosmic order. The healing practices described range from spiritual heart surgery performed by interdimensional doctors to the use of icaros for diagnosing and treating various forms of sorcery and illness.
 
 ## Vision of the Planets (Vision 25)
 
@@ -97,7 +97,7 @@ A flying saucer from one of Saturn's satellites appears above, accompanied by tw
 
 ### The Healing Narrative
 
-This is a first-person account from 1959, when Amaringo arrived in Tamanco. His father took him to a settlement called Brazil, where a woman named Maria Pacaya lived. The father needed to cure several patients and took ayahuasca, also giving the brew to Amaringo, who was suffering from heart disease.
+This is a first-person account from 1959, when Amaringo arrived in Tamanco. His father took him to a settlement called Brazil, where a woman named Maria Pacaya lived. The father needed to cure several patients and took ayahuasca, also giving the brew to Amaringo, who was suffering from [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]].
 
 The brew was so strong that Amaringo was at the edge of screaming. The visions were vivid enough that he felt contact with something physical and real. He saw sphinxes and visited Africa, Europe, and the Americas.
 
@@ -141,37 +141,6 @@ A pregnant woman in the foreground illustrates the belief that all of the mother
 ## Types of Sorcery and Spiritual Defense (Vision 29)
 
 ### King Kundal and Queen Samhadi
-
-**King Kundal** is the master of the Huairamama (great snake mother of the air). His red cape symbolizes that no enemy escapes, not even the most dextrous. His umbrella is made of meteors — special ships with a psychomagnetic nucleus.
-
-**Queen Samhadi** ("the illuminated") offers King Kundal a kettle of medicinal balsam from the most aromatic plants of vegetalismo. She carries her talents in a coffer shaped as a serpent holding its tail (ouroboros symbol). When she approaches an ayahuasca session, visions take on a purplish color. If an initiate's body is not yet clean, she causes vomiting — sometimes of blood — to purify the body.
-
-### The Angash-Machohualipa
-
-This spirit (brave blue cock) appears when an initiate breaks the rigorous diet necessary to become an efficient vegetalista. The meat of a hen is particularly dangerous during diet — if a treated patient eats hen's meat, the sickness returns with greater force and may cause death if not treated in time.
-
-### Economic and Protective Spirits
-
-- **Chai Cuilkimama** (mother of the silver): Spreads white silver plates. Her icaro helps a person prosper in business and become rich. Also cures mal aire de difunto (illness from the spirit of a deceased person).
-- **Millaipa-huarmi** (ugly woman): Two women who perform the critical task of gathering the sickness extracted from the patient. The younger one (sky-blue) picks up the sickness but returns it if the patient doesn't diet. The older one (lilac) has enough power to contain and neutralize the evil spell if the patient cooperates with the curandero.
-
-### The Sakia King and Shiva Spirit
-
-A celebrated king of the Sakias reveres King Kundal, acknowledging his superior occult powers. Another king guards many Gnostic pagodas. Beside him is the spirit of Shiva as a skull, representing the death or destruction of the physical body absorbed by magnetic powers from beyond the grave, which destroy the natural aura and convert it into a dissipating aura, causing death.
-
-### The Arkana Serpent
-
-A big lilac-colored serpent from the garden of Queen Samhadi serves as the arkana (defense) of the master curandero. It has strong vibrations and can even rob the mann from the curandero's breast, leaving him powerless — representing a defense system so powerful it can turn against its own master.
-
-## Synthesis
-
-The planetary and healing visions in Amaringo's cosmology reveal a universe where:
-- Physical illness has spiritual causes addressable through interdimensional surgery
-- Planetary and stellar beings participate in Amazonian healing practices
-- Ancient Andean civilizations (Tiahuanaco) connect to extraterrestrial intelligences
-- The same cosmological framework encompasses both healing and sorcery
-- Dietary discipline is as critical as any spiritual intervention for therapeutic success
-- The boundaries between Amazonian, Andean, Hindu, Christian, and extraterrestrial spiritual traditions are fluid and interconnected
 
 ## Related Topics
 

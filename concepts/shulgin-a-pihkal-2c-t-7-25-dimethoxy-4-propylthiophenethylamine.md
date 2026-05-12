@@ -81,7 +81,7 @@ This ranking places 2C-T-7 in the top tier of approximately 179 documented compo
 
 The synthesis of 2C-T-7 follows the general 2C-T pattern:
 
-1. **Alkylation**: 2,5-dimethoxythiophenol is reacted with (n)-propylbromide in methanol/KOH to yield 2,5-dimethoxyphenyl (n)-propyl sulfide as a pale yellow oil with a "light pleasant fruity smell."
+1. **Alkylation**: 2,5-dimethoxythiophenol is reacted with (n)-propylbromide in [[methanol]]/KOH to yield 2,5-dimethoxyphenyl (n)-propyl sulfide as a pale yellow oil with a "light pleasant fruity smell."
 
 2. **Vilsmeier-Haack formylation**: The sulfide is formylated using POCl₃ and N-methylformanilide to produce 2,5-dimethoxy-4-(n-propylthio)benzaldehyde (mp 76-77°C). The NMR spectrum confirmed correct placement with aromatic singlets at 6.81 and 7.27 ppm.
 

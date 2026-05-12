@@ -10,7 +10,7 @@ tags: [cultivation, fruiting-chamber, terrarium, humidity, pf-tek, mycology, env
 
 ## Overview
 
-After substrate jars are fully colonized with mycelium, the PF TEK transitions to the **fruiting phase** — inducing the mycelium to produce mushrooms. This requires a carefully controlled environment with high humidity, fresh air exchange, appropriate temperature, and indirect light. The PF TEK's solution was the **Dual Chambered Terrarium (DCT)**, an innovative design using two plastic containers of different sizes to create a self-regulating microclimate for [[aquarium-humidity-chamber-mushroom-fruiting]].
+After substrate jars are fully colonized with mycelium, the PF TEK transitions to the **fruiting phase** — inducing the mycelium to produce mushrooms. This requires a carefully controlled environment with high humidity, fresh air exchange, appropriate temperature, and indirect light. The PF TEK's solution was the **[[dual-chambered-terrarium]] (DCT)**, an innovative design using two plastic containers of different sizes to create a self-regulating microclimate for [[aquarium-humidity-chamber-mushroom-fruiting]].
 
 ## The Colonization Phase
 
@@ -26,7 +26,7 @@ Before fruiting can begin, the inoculated substrate jars must be fully colonized
 ### The Canning Jar Lid: Loose or Tight
 
 - **During sterilization**: Lids must be tight to prevent water from entering
-- **During colonization**: Lids should be loosely placed to allow **gas exchange** — mycelium produces CO2 that must escape, and O2 must enter
+- **During colonization**: Lids should be loosely placed to allow **[[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]** — mycelium produces CO2 that must escape, and O2 must enter
 - Some cultivators cover the inoculation hole with micropore tape for contamination filtration
 
 ## Removing the Colonized Cake from the Jar
@@ -57,7 +57,7 @@ The two-chamber design creates a self-regulating humidity environment:
 
 - Water evaporates from the reservoir in the inner chamber
 - The enclosed outer chamber traps moisture, maintaining high ambient humidity
-- Temperature differential between the chambers creates gentle air circulation
+- Temperature differential between the chambers creates gentle [[stamets-growing-room-air-circulation-co2-management]]
 - The design requires no active humidification equipment (no humidifiers, no air pumps)
 
 ### Perlite Humidification Technique
@@ -81,9 +81,9 @@ The PF TEK later incorporated the **perlite humidification technique**, which be
 
 ### Humidity
 
-High humidity is the single most critical parameter for mushroom fruiting:
+High humidity is the single most critical parameter for [[bacteria-and-microorganisms-in-mushroom-fruiting]]:
 
 - **Required range**: 85–95% relative humidity
-- **Low humidity symptoms**: Mushroom caps crack or tear as they expand (aborted caps), cakes dry out and turn blue (bruising reaction)
+- **[[pf-tek-low-humidity-symptoms-and-remediation]]**: Mushroom caps crack or tear as they expand (aborted caps), cakes dry out and turn blue (bruising reaction)
 - **Humidity monitoring**: Condensation on the terrarium walls indicates adequate humidity. If condensation disappears, humidity has dropped too low.
 - **Spraying**: The PF TEK includes a spraying procedure — misting the terrarium walls and air (not directly on the cakes) with a fine water spray to boost humidity when needed

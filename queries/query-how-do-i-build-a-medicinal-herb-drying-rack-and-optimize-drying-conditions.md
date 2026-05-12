@@ -77,3 +77,7 @@ Preparation varies by plant part and affects drying speed and final quality:
 5. **Not labeling immediately**: Once dried, many herbs look similar. Label every jar with the herb name, harvest date, [[query-how-to-build-and-manage-a-root-cellar]]
 - [[holzer-raised-bed-techniques-hugelkultur]]
 - [[query-how-to-build-and-use-a-solar-food-dehydrator]]
+
+## See Also
+
+Explore related topics in the wiki index.

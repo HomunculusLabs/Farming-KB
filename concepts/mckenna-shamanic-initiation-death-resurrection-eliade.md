@@ -1,5 +1,5 @@
 ---
-title: "Mckenna [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]] Resurrection Eliade"
+title: "McKenna Shamanic Initiation, Death, Resurrection, and Eliade"
 source: Food of the Gods - [[terence-mckenna]]
 tags: [mckenna, shamanism, eliade, initiation, ecstasy, death-resurrection, healing, paleolithic]
 created: 2026-05-11

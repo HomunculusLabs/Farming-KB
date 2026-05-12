@@ -37,3 +37,54 @@ The muraya's specialization in aromatic and perfume-based medicine connects dire
 - Yakumama — water serpent used by murayas for subaquatic travel
 - Mariri — magical phlegm cultivated by murayas
 - [[icaro]] — sacred songs used in muraya practice
+
+## Position in the Shamanic Hierarchy
+
+Muraya status indicates a practitioner who has moved beyond ordinary plant knowledge into specialized spirit travel and power management.
+The rank is still below banco and sumiruna, but it marks a high degree of training and recognition.
+A muraya's authority comes from cultivated relationships with perfumes, water beings, guardian animals, and subtle substances such as [[mariri]].
+The hierarchy is therefore not just administrative; it describes different modes of perception and different spiritual technologies.
+
+## Perfume as Technology
+
+Perfume in muraya practice is not cosmetic.
+Fragrant liquids, camphorated water, and aromatic plants are blown onto patients to cleanse, attract, repel, or stabilize forces.
+Volatile compounds become carriers of intention and spirit power.
+This makes the muraya an expert in airborne medicine, where scent enters the body through breath and nervous response.
+The practice overlaps with [[icaro]] work because song and scent both move invisibly through the ceremonial space.
+
+## Subaquatic Travel
+
+The muraya's descent with [[yakumama]] places water at the center of their visionary specialization.
+The serpent's transformation into a beautiful submarine is a vivid example of Amaringo's hybrid visionary imagery.
+Ancient spirit beings and modern vehicles are not opposites in the vision; both describe transport through hidden worlds.
+Golden underwater cities and mermaid guides mark the subaquatic realm as organized, inhabited, and politically significant.
+A muraya must know how to enter that world without becoming lost or captured.
+
+## Guardian Animals
+
+The osprey, anhinga, and cormorant are all birds associated with water, fishing, diving, or river edges.
+Their presence as guardians reinforces the muraya's relationship with aquatic thresholds.
+They move between air and water, just as the practitioner moves between ordinary ceremony and underwater visionary domains.
+In symbolic terms, these birds teach precision, patience, and the ability to see below the surface.
+
+## Ethnobotanical Significance
+
+Muraya practice highlights the importance of aromatic plant pharmacology in Amazonian healing.
+Plants used for perfumes and camphorated waters may affect mood, memory, respiration, and perceived safety.
+The page therefore complements broader notes on [[shamanism]] by showing that healing power can be organized through smell as much as ingestion.
+For research, muraya work suggests that olfaction deserves attention in studies of ayahuasca ceremony and plant-based therapeutics.
+
+## Relationship to Other Ranks
+
+Compared with a general vegetalista, a muraya has more specialized access to hidden aquatic domains.
+Compared with a banco or sumiruna, the muraya is powerful but not at the summit of the hierarchy.
+This middle-high position makes the role useful for understanding gradations of training.
+Power is accumulated through dietas, songs, spirit allies, and embodied substances rather than through title alone.
+
+## Clinical Implications
+
+In healing scenes, the muraya's perfume work may help calm patients and reorganize the ceremonial field.
+The blowing of scented liquid can mark the boundary between ordinary distress and treated affliction.
+Because scent is immediate and bodily, it can reinforce trust while the visionary work unfolds.
+This practical sensory dimension is part of why aromatic plants are so persistent in Amazonian medicine.

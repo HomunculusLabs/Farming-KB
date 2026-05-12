@@ -1,5 +1,5 @@
 ---
-title: [[amanita-muscaria-muscimol-ibotenic-acid]]
+title: "Ibotenic Acid"
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: entity
 ---

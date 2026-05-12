@@ -88,3 +88,10 @@ demonstrated the same reflex-arc behavior as leaves, with electrical
 excitation producing mechanical responses.
 
 In [[desmodium-gyrans]] (the telegraph plant), Bose found that if the cut
+
+## See Also
+- [[metzner-plant-teachers-diagnosis-divination-intelligence-communication]]
+- [[exopheromones-and-plant-intelligence]]
+- [[mckenna-vegetable-mind-gaian-holism-plant-intelligence]]
+- [[plant-intelligence-and-communication]]
+- [[plant-sensory-biology]]

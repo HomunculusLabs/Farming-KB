@@ -10,7 +10,7 @@ type: concept
 
 # Mushroom Contamination and Biocontrol
 
-Contamination is the single greatest cause of crop loss in mushroom cultivation.
+Contamination is the single greatest cause of crop loss in [[mushroom-cultivation]].
 Competing molds, bacteria, and pests can destroy entire production runs if not
 prevented or caught early. Understanding the common contaminants, their sources, and
 control methods is essential for any grower, whether operating a small home setup or a
@@ -21,7 +21,7 @@ pest management over chemical fungicides.
 
 The three most problematic mold genera in mushroom cultivation are Trichoderma
 (green mold), Aspergillus, and Penicillium. Trichoderma is by far the most destructive.
-It grows rapidly, outcompeting mushroom [[spore]]s mature.
+It grows rapidly, outcompeting mushroom [[spore]] s mature.
 
 Aspergillus species produce black, yellow, or green colonies and thrive in warm
 conditions (above 30 degrees C). Some species produce aflatoxins, making contaminated

@@ -73,7 +73,7 @@ drop of blood.
 
 The most significant of Abrams' findings occurred when, while
 demonstrating a malarial patient's reaction to a class, he asked if
-anyone could offer a scientific reason for prescribing quinine. When
+anyone could offer a scientific reason for prescribing [[quinine]]. When
 no one replied, he put a few grains of sulfate of quinine where the
 blood drop had been in his device. It produced exactly the same
 percussion note as malaria.

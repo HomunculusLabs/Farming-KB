@@ -36,7 +36,7 @@ from the most interesting of these isomers, PARA-DOT (ALEPH-1, or just
 ALEPH). In the rectal hyperthermia assay (which calculates the
 psychedelic potential of compounds by seeing how they influence the
 body temperature of experimental animals in comparison to known
-psychedelics) the three DOT's were compared with DOM. And the results
+psychedelics) the three DOT's were compared with [[dom]]. And the results
 fell into line in keeping with the activities (or loss of activities)
 found in man. PARA-DOT was about half as active as DOM, but both
 
@@ -44,7 +44,7 @@ ORTHO-DOT and the compound described here, META-DOT, were down by
 factors of 50x and 30x respectively. These animal studies certainly
 seem to give results that are reasonable with a view to other known
 psychedelic drugs, in that [[mescaline]] was down from DOM by a factor of
-more than 1000x, and LSD was some 33x more potent than DOM.
+more than 1000x, and [[lsd]] was some 33x more potent than DOM.
 
 I have a somewhat jaundiced view of this rabbit rectal hyperthermia
 business. One is presumably able to tell whether a compound is a

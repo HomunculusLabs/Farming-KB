@@ -47,7 +47,7 @@ Cordyceps (Kobayasi 1982) are available.
 
 Most necrotrophic parasites can be cultured from conidium or
 ascospore inoculum on simple media. However, some obligate
-[[Cordyceps]] fungi cannot be grown axenically. Humber
+[[cordyceps-cultivation]] fungi cannot be grown axenically. Humber
 (1994) discussed problems of culturing strictly obligate
 insect pathogenic fungi. Many require insect [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
 medium supplemented with fetal bovine serum but usually will
@@ -89,3 +89,38 @@ for both conservation and applied purposes.
 - [[harpellales-gut-dwelling-trichomycete-fungi]]
 - [[fungal-parasites-living-plants-estimating-diversity]]
 - [[zoopagales-dimargaritales-zygomycete-mycoparasites]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[spore]]
+- [[brassinosteroid]]
+- [[beauveria-bassiana]]

@@ -107,7 +107,7 @@ and the practice requires no special equipment beyond what is already
 used for primary crop management.
 
 Cover crops shine in rotational farming systems where different species
-address different needs across seasons. A winter cover of [[compost]]
+address different needs across seasons. A winter cover of [[mushroom-compost]]
 and winter rye fixes nitrogen and protects soil through cold months,
 while a summer buckwheat cover smothers weeds and mines phosphorus. This
 dynamic, responsive approach allows growers to tailor their

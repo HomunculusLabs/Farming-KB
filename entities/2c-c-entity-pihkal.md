@@ -54,7 +54,7 @@ the most potent. The next lighter is bromine, where the
 phenethylamine is 2C-B and the amphetamine is DOB. These two are a
 bit less potent, and are by far the most broadly explored of all the
 halides. Here, in the above recipe, we have the chlorine counterpart,
-2C-C. There is also the corresponding amphetamine DOC. These are
+2C-C. There is also the corresponding amphetamine [[doc]]. These are
 
 less potent still, and much less explored. Why? Perhaps because
 chlorine is a gas and troublesome to handle (bromine is a liquid, and

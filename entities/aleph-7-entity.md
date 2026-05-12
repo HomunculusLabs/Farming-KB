@@ -43,7 +43,7 @@ Residual strangeness persisted for a couple of days.
 
 At 7 mg, the experience reached a full plus three (+++) level between hours 2 and 3, with continued deepening.
 
-No reality loss as with LSD, no shakes or shimmers, but an intense and profound +++ characterized by the absence of extremes.
+No reality loss as with [[lsd]], no shakes or shimmers, but an intense and profound +++ characterized by the absence of extremes.
 
 Subjects reported fear at the continued deepening of effects.
 

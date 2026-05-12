@@ -88,3 +88,8 @@ Finger millet has superior [[coleman-winter-greens-nutritional-quality-cold-swee
 The grain is naturally gluten-free, making it suitable for celiac patients. It has a low glycemic index (GI ~68), beneficial for diabetes management.
 
 ## Permaculture and Agroecology Applications
+
+## See Also
+- [[permaculture]]
+- [[dom]]
+- [[agroecology]]

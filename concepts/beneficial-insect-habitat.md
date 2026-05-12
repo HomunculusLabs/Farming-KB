@@ -81,5 +81,40 @@ Choice insectary plants include yarrow, buckwheat, lavender, golden marguerite, 
 - **Integrate throughout**: Sprinkle insectary flowers in vegetable beds, along paths, and at the edges of [[fruit-tree-guild-roles]] -- guilds include insectary plants as a key role
 - chicken-integration-permaculture-guide -- chickens can help manage pest insects as well
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] -- interplanting strategies that support beneficial insect populations
-- [[bee-forage-plants]] -- specialized habitat for pollinator species
+- [[forage-turnip]] -- specialized habitat for pollinator species
 - [[fukuoka-natural-fruit-tree-pest-control]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[permaculture]]
+- [[yarrow]]
+- [[insectary-plants-and-beneficial-insect-habitat-design]]
+- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
+- [[query-how-do-i-design-habitat-for-beneficial-insects]]

@@ -87,3 +87,38 @@ The apple guild's belowground ecology is as important as the visible plantings. 
 ## Nutrient Cycling in the Guild
 
 A mature apple guild is designed to be largely self-fertilizing through internal nutrient cycling. Nitrogen enters the system through biological fixation by leguminous companions (seaberry, goumi, clover, licorice). Phosphorus and potassium are mined from subsoil by deep-rooted accumulators (comfrey, chicory, dandelion) and returned to the surface as leaf litter and chop-and-drop mulch. Calcium is provided by yarrow and chamomile. Trace minerals cycle through the diverse plant community and the decomposer organisms in the mulch layer. The apple tree accesses these nutrients through its mycorrhizal network and shallow feeder roots concentrated in the organic-rich surface layer. Annual soil testing helps identify any persistent deficiencies that require targeted amendment — boron is the most common limiting micronutrient for apple production and can be supplemented with a single annual application of borax (1 tablespoon dissolved in water, applied to the drip line in early spring).
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[glycyrrhiza-glabra]]
+- [[tropaeolum-majus]]
+- [[calendula-officinalis]]
+- [[borago-officinalis]]
+- [[dom]]

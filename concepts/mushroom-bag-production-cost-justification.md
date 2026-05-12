@@ -1,5 +1,5 @@
 ---
-title: Mushroom [[mushroom-cultivation-disabilities-substrate-bag-production]] Cost Justification
+title: Mushroom Bag Production Cost Justification
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -99,7 +99,7 @@ Corn cob 900 Baht/ton + wood 2,000 Baht/ton = 2,900 Baht total for 11,216 bags.
 `Cost = (37 / 3150) × 2 = 0.0235 Baht/bag`
 
 ### 12. Alcohol — 0.04 Baht/bag
-Sterilization: 35 Baht/bottle × 9 = 315 Baht. Lamp: 20 Baht/bottle × 4 = 80 Baht. Total 395 Baht for 11,216 bags.
+[[sterilization]]: 35 Baht/bottle × 9 = 315 Baht. Lamp: 20 Baht/bottle × 4 = 80 Baht. Total 395 Baht for 11,216 bags.
 `Cost = 395 / 11,216 = 0.0352 Baht/bag`
 
 ### 13. Labor for Bag Making — 0.30 Baht/bag

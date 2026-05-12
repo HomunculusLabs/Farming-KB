@@ -87,3 +87,10 @@ Substrate jars are prepared identically to the standard PF-TEK method:
    force-cool or open the vent.
 7. Wait an additional 10–15 minutes after pressure equalization before
    opening the lid.
+
+## See Also
+- [[sterilization]]
+- [[spore]]
+- [[pf-tek-pressure-canner-sterilization]]
+- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
+- [[pressure-cooker-sterilization-mushroom-substrate]]

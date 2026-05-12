@@ -74,7 +74,7 @@ Free-roaming pigs are still a rarity in Austria and raise a great deal of public
 ## See Also
 - [[holzer-livestock-philosophy-pig-breeds]]
 - [[comparison-pig-husbandry-vs-goat-husbandry]]
-- [[pig-husbandry-and-permaculture-integration]]
+- [[pig-husbandry]]
 - [[mollison-designers-pig-tractors-forage-systems]]
 - [[holzer-wild-cattle-and-old-breeds]]
 

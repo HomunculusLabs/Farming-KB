@@ -1,12 +1,12 @@
 ---
-title: [[fukuoka-critique-of-education-universities]] [[fukuoka-critique-laws-agricultural-science]] Laws and Liebig
+title: "Fukuoka Critique Agricultural Science Laws Liebig"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # A Critique of the Laws of Agricultural Science
 
-Masanobu Fukuoka, in *The One-Straw Revolution*, delivers a sweeping critique of the foundational laws that underpin modern agricultural science. He argues that these laws — while not necessarily wrong in their narrow descriptions — are fragmentary, incomplete, and fundamentally incapable of guiding farmers toward genuinely productive or harmonious cultivation. His critique culminates in a dismantling of Liebig's Law of Minimum, one of the most cherished principles of agronomy and the intellectual cornerstone of chemical farming.
+[[masanobu-fukuoka]], in *The One-Straw Revolution*, delivers a sweeping critique of the foundational laws that underpin modern agricultural science. He argues that these laws — while not necessarily wrong in their narrow descriptions — are fragmentary, incomplete, and fundamentally incapable of guiding farmers toward genuinely productive or harmonious cultivation. His critique culminates in a dismantling of Liebig's [[fukuoka-critique-of-liebig-law-of-minimum]], one of the most cherished principles of agronomy and the intellectual cornerstone of [[knf-vs-chemical-farming-comparison]].
 
 ## The Six Laws of Modern Agriculture
 
@@ -68,7 +68,7 @@ This is not merely a philosophical objection. It has practical consequences. A s
 
 ## Scientific Laws Cannot Improve Yields
 
-Fukuoka's most practical criticism is that these fragmentary laws, extracted from a single unnamed law, can never be reassembled into the great source principle. [[fukuoka-critique-scientific-farming-energy-efficiency]] is therefore vastly different from natural farming, which observes the basic principle directly.
+Fukuoka's most practical criticism is that these fragmentary laws, extracted from a single unnamed law, can never be reassembled into the great source principle. [[fukuoka-critique-scientific-farming-energy-efficiency]] is therefore vastly different from [[cho-loess-powder-in-natural-farming]], which observes the basic principle directly.
 
 The six laws are useful only in examining the status quo and preventing reduced yields. They cannot be used to develop better [[cannabis-sativa-indoor-cultivation-techniques]] or to boost yields beyond current methods. They are diagnostic, not prescriptive. They tell the farmer what went wrong after the fact; they offer no guidance for what to do right in the first place.
 

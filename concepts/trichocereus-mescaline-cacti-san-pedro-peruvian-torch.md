@@ -57,6 +57,17 @@ Trichocereus cacti are among the easiest psychoactive plants to cultivate:
 - Crosby DG, McLaughlin JL (1973) Lloydia 36: 416-418.
 - Helmlin HJ, Brenneisen R (1992) J Chromatogr 593: 87-94.
 - Pardanani JH, McLaughlin JL, Kondrat R, Cooks R (1977) Lloydia 40: 585-590.
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[mescaline-ethnobotany]]
+- [[turner-mescaline-peyote-san-pedro-experience]]
+- [[mescaline-derivatives-pihkal]]
+- [[psychoactive-cacti-species-reference]]
+
 ## See Also
 
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]

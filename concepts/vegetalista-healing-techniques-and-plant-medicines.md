@@ -31,7 +31,7 @@ Sucking is the most direct physical healing technique. The vegetalista places hi
 
 ### Blowing (*Soplada*)
 
-Blowing tobacco smoke or perfumes onto the patient, accompanied by icaros, serves multiple functions: it transfers healing energy, implants protective arkanas, and neutralizes harmful substances. The combination of breath, smoke, and song represents the convergence of the healer's physical vitality, spiritual power, and botanical knowledge.
+Blowing tobacco smoke or perfumes onto the patient, accompanied by icaros, serves multiple functions: it transfers healing energy, implants [[shamanic-fights-and-protective-arkanas]], and neutralizes harmful substances. The combination of breath, smoke, and song represents the convergence of the healer's physical vitality, spiritual power, and botanical knowledge.
 
 ### Pulsation Diagnosis
 
@@ -66,11 +66,11 @@ A specialized technique in which the healer enters a trance state and "gets into
 | Lobo-chupa | Unidentified | Children harmed by dolphin magic (burned with cinnamon) |
 | Pampa patiquina | Unidentified | Defense against sorcery (kept near houses) |
 | Yaku-oregano | Unidentified | Ritual baths for tranquility restoration |
-| Shimipampana del blanco | Maranta arundinacea | Taming wild animals; calming aggressive people |
+| Shimipampana del blanco | [[maranta-arundinacea]] | Taming wild animals; calming aggressive people |
 | Pucunucho | Capsicum sp. | Stunning boas during extraction procedures |
 | Rocoto | Capsicum sp. | Stunning boas during extraction procedures |
 | Huiririma | Astrocaryum jauari | Protection against sorcerers using thunder (icaro of the palm) |
-| Pashaquilla sensitiva | Macrolobium acaciaefolium | Love magic — uniting lovers in permanent fidelity |
+| [[pashaquilla-sensitiva]] | Macrolobium acaciaefolium | Love magic — uniting lovers in permanent fidelity |
 | Tamshi | Carludovica devergens | Baldness and cramps; also used in basketry and construction |
 | Itininga | Monstera falcifolia | Increasing sensitivity for pulsation diagnosis |
 | Piñón colorado | Jatropha gossypifolia | Defense against sorcerers (five-tipped leaves) |
@@ -98,11 +98,11 @@ The treatment for *boa chichuchishca* ("begot by a boa") — a condition caused 
 
 ### Geotherapy (Earth Medicine)
 
-The use of earth from caves for medicinal purposes is described as an ancient technique employed by Egyptians, Mayans, pre-Incas, Incas, and other civilizations. Earth is applied in specific preparations to cure various illnesses, reflecting a cross-cultural recognition of mineral and microbial therapeutic properties.
+The use of earth from caves for medicinal purposes is described as an ancient technique employed by Egyptians, Mayans, pre-Incas, Incas, and other civilizations. Earth is applied in specific preparations to cure various illnesses, reflecting a cross-cultural recognition of mineral and microbial [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]].
 
 ### Hydrotherapy
 
-Ceramic jars filled with water are used in healing rituals. The jars absorb solar rays, purifying the water within. This practice is attributed to the Tiahuanaco, Chanca, Chimú, and Inca cultures, and represents both a literal therapeutic technique (sun-purified water) and a symbolic one (the jars also represent flying objects used by spiritual beings).
+Ceramic jars filled with water are used in [[shamanic-entheogenic-healing-rituals]]. The jars absorb solar rays, purifying the water within. This practice is attributed to the Tiahuanaco, Chanca, Chimú, and Inca cultures, and represents both a literal therapeutic technique (sun-purified water) and a symbolic one (the jars also represent flying objects used by spiritual beings).
 
 ### Heliotherapy
 
@@ -118,6 +118,13 @@ The *raya balsa* plant (with round, ray-fish-shaped leaves) is smoked with tobac
 
 ## The Spirit Teachers
 
-Plants are not passive ingredients but active teachers. In the visions, the spirits or guardians inside the plants "explain to the vegetalistas how these plants are to be used." This direct transmission of knowledge — from plant spirit to human practitioner — is the epistemological foundation of vegetalismo. The healer's authority derives not from book learning or laboratory analysis but from personal visionary experience validated by therapeutic results.
+Plants are not passive ingredients but active teachers. In the visions, the spirits or guardians inside the plants "explain to the vegetalistas how these plants are to be used." This direct transmission of knowledge — from plant spirit to human practitioner — is the epistemological foundation of vegetalismo. The healer's authority derives not from book learning or [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] but from personal visionary experience validated by therapeutic results.
 
 The plant teachers include the chicuas (guardians of ayahuasca), the bun-bun monkeys (invisible by day, used for difficult cases), and the sylphs of the pashaquilla sensitiva vine (experts in love magic). Each plant maintains a relationship with specific spirit beings who serve as intermediaries between the plant's pharmacological properties and the healer's practical application.
+
+## See Also
+
+- [[amaringo-plant-teachers-and-vegetalista-cosmology]]
+- [[amazonian-medicinal-plants-reference]]
+- [[amazonian-plant-teachers-doctores]]
+- [[ayahuasca-plant-spirits-sacha-huarmi-piripiri-icaro-healing]]

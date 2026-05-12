@@ -1,5 +1,5 @@
 ---
-title: "[[phototropism-darwin-plant-light-response]] [[phototropism-light-sensing]]"
+title: Phototropism Darwin Plant Light Sensing
 created: 2026-05-09
 tags:
   - plant-biology
@@ -19,7 +19,7 @@ type: concept
 
 ## Overview
 
-Phototropism is the process by which plants bend and grow toward light. While it may
+[[phototropism]] is the process by which plants bend and grow toward light. While it may
 seem like a simple behaviour — anyone who has watched a houseplant lean toward a window
 has observed it — understanding the mechanism required one of the most elegant experiments
 in the history of botany. In the 1880s, Charles Darwin and his son Francis demonstrated

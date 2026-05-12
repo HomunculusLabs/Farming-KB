@@ -90,4 +90,4 @@ including the TRPV1 pathway.
 ## See Also
 - [[two-ag]]
 - [[virodhamine]]
-- [[tetrahydrocannabinol-thc]]
+- [[tetrahydrocannabinol]]

@@ -118,6 +118,6 @@ A hallmark of New World hallucinogen use is the addition of **subsidiary plants*
 
 - [[hallucinogenic-plants-overview]]
 - [[cannabis-botany-and-history]]
-- [[edaphic-factors]]
+- [[edaphic-factors-microbial-communities]]
 - [[ayahuasca-pharmacology]]
 - [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]]

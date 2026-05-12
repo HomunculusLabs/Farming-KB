@@ -12,7 +12,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Rocha, F. et al. (2001). \"Cephalopod [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]].\" Fisheries Research, 54, 1-6."
+  - "Rocha, F. et al. (2001). \"Cephalopod bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium.\" Fisheries Research, 54, 1-6."
   - "Boyle, P.R. & Rodhouse, P. (2005). Cephalopods: Ecology and Fisheries. Blackwell Publishing."
   - "Guerra, Á. (1992). \"Mollusca, Cephalopoda.\" Fauna Iberica, vol. 1. CSIC."
 ---

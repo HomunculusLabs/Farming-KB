@@ -1,5 +1,5 @@
 ---
-title: [[allegro-amanita-muscaria-properties-and-pharmacology]] Biology Mycelium and Ectomycorrhizal Symbiosis
+title: "Amanita Muscaria Biology Mycelium Ectomycorrhizal Symbiosis"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---

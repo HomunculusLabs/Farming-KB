@@ -88,3 +88,10 @@ Cold shock is performed by placing cased trays in a refrigerator (approximately 
 | *P. mexicana* flush pattern | One large flush + one small flush |
 
 *P. mexicana* tends to produce a single dominant flush followed by a much smaller second flush, while other species produce more consistent flush-to-flush yields.
+
+## See Also
+- [[fruiting-chamber]]
+- [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
+- [[dom]]
+- [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]
+- [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]

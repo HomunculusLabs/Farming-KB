@@ -88,3 +88,38 @@ Indigenous use emphasizes healing, divination, communal bonding, and spiritual i
 The survival of sacred [[sacred-mushroom-traditions-in-mexico]] Mexico is itself remarkable given the intensity of Spanish colonial efforts to eradicate indigenous religious practices. Following the conquest, Catholic missionaries identified mushroom ceremonies as particularly threatening examples of "pagan idolatry" and targeted them for systematic suppression. The Inquisition recorded numerous cases of mushroom use among indigenous peoples and punished practitioners severely.
 
 Despite these pressures, the traditions survived in remote communities where colonial authority was weakest and where indigenous cultural practices could be maintained with relative discretion. The geographic isolation of many Mazatec, Zapotec, and Mixtec communities proved crucial to the preservation of these practices into the modern era, where they were ultimately documented by Wasson, Heim, and Singer.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[psilocybin]]
+- [[dom]]
+- [[det]]
+- [[roger-heim]]

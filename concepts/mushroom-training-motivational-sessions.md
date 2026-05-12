@@ -1,5 +1,5 @@
 ---
-title: [[motivational-sessions-trainees]] in [[mushroom-cultivation-training-program-design]]
+title: "Mushroom Training Motivational Sessions"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -52,7 +52,7 @@ The first series takes place during the opening week of training. These three da
 
 - **Learn about yourself** — Guided self-reflection exercises help participants explore their personal histories, abilities, and hopes for the future.
 
-- **Talk, play games, sing songs** — Interactive activities break down social barriers and create an atmosphere of openness and joy.
+- **Talk, play games, sing songs** — Interactive activities [[query-can-fungi-break-down-plastic-pollution]] social barriers and create an atmosphere of openness and joy.
 
 - **How about "Love"** — A facilitated discussion on the meaning and practice of love in its many forms.
 
@@ -140,7 +140,7 @@ Motivational sessions are designed according to several key principles ensuring 
 
 - **Serve as a reference:** The sessions provide a structured framework that trainers can adapt to the specific needs of their trainees, serving as a reliable reference rather than a rigid script.
 
-- **Adapted to local customs and traditions:** Content and activities should reflect the cultural context of the training location. Songs, games, and spiritual practices should draw from local traditions.
+- **Adapted to local customs and traditions:** Content and activities should reflect the [[ayahuasca-pharmacology-and-cultural-context]] of the training location. Songs, games, and spiritual practices should draw from local traditions.
 
 - **Developed for better quality of life:** The ultimate purpose of all motivational content is the improvement of trainees' quality of life — emotionally, socially, and economically.
 

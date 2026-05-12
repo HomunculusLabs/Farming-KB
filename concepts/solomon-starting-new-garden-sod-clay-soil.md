@@ -1,5 +1,5 @@
 ---
-title: "[[solomon-starting-new-garden-sod-removal-tillage-techniques]] Garden Sod Clay Soil"
+title: "Solomon Starting New Garden Sod Clay Soil"
 source: "gardening-when-it-counts-steve-solomon.md"
 source_author: "[[steve-solomon]]"
 published: 2005
@@ -10,7 +10,7 @@ tags: [vegetable-gardening, sod-removal, clay-soil, rototiller, garden-startup, 
 
 ## Overview
 
-[[steve-solomon-evidence-based-organic-gardening]] provides detailed practical guidance for converting
+[[steve-solomon]] provides detailed practical guidance for converting
 grass sod into productive [[aphid-management-vegetable-garden-solomon]] soil, including specific
 techniques for rotary cultivation, hand digging, and the special
 challenges of clay soils. His approach is designed for gardeners
@@ -88,3 +88,6 @@ to a full spade's depth.
 - A "combination" shovel (part spade, part shovel) is ideal
 - The blade should be 8-9 inches wide with a solid handle
 - Keep a 10-inch mill bastard file for sharpening
+
+## See Also
+- [[solomon-starting-new-garden-sod-removal-tillage-techniques]]

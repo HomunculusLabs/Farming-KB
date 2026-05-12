@@ -46,7 +46,7 @@ Legumes are the primary nitrogen-fixing cover crops. Their effectiveness
 depends on proper inoculation with the appropriate Rhizobium strain, adequate
 soil pH, and sufficient phosphorus and molybdenum for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
-**Temperate species:** [[compost]], red clover, white clover, subterranean
+**Temperate species:** [[mushroom-compost]], red clover, white clover, subterranean
 clover, hairy vetch, field peas, faba beans, and lucerne (alfalfa). Crimson
 clover and hairy vetch are excellent autumn-sown covers that produce abundant
 biomass before being terminated in spring. Subterranean clover self-seeds

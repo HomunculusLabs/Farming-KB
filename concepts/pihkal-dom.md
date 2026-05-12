@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-DOM (4-methyl-2,5-dimethoxyamphetamine), also known as STP ("Serenity,
+[[dom]] (4-methyl-2,5-dimethoxyamphetamine), also known as STP ("Serenity,
 Tranquility, and Peace"), is one of the most infamous compounds in Shulgin's
 PIHKAL catalog. Listed as compound #35, DOM is a substituted amphetamine with
 extremely potent and long-lasting psychedelic effects. It holds a unique place
@@ -55,7 +55,7 @@ unexpectedly intense and prolonged experiences.
 
 DOM produces classic psychedelic effects including intense visual
 hallucinations, altered time and space perception, and profound cognitive
-shifts. Visual intensity is comparable to moderate-dose LSD. Cognitive
+shifts. Visual intensity is comparable to moderate-dose [[lsd]]. Cognitive
 effects include deep philosophical thinking, [[psilocybin-ego-dissolution-mechanisms]], and mystical
 or transcendental experiences.
 

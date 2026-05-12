@@ -30,7 +30,7 @@ Three functional groups of beneficial nematodes:
 
 ### Root-Feeding (Parasitic) Nematodes
 - Root-knot nematodes: Cause galling on roots. Managed through VAM fungi and trapping fungi in compost
-- Lesion nematodes: Attack root surfaces. Managed through non-host [[cover-crops-and-green-manures]] biological controls
+- Lesion nematodes: Attack root surfaces. Managed through non-host [[cover-crops]] biological controls
 - Cyst nematodes: Specific to certain crops. Managed through rotation and biological controls
 
 ## Managing Nematode Populations
@@ -101,3 +101,31 @@ The development and understanding of aact nematode protozoa management ingham ha
 - [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
 - [[ingham-pest-management-aact]]
 - [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[elaine-ingham]]
+- [[doc]]
+- [[soil-foodweb]]
+- [[det]]
+- [[soil-testing]]

@@ -99,7 +99,7 @@ Phototropism also interacts with gravitropismâ€”the plant's response to gravityâ
 - phototropism blue light response plants
 - auxin plant hormone overview
 - plant photoreceptors comparative overview
-- [[chrysanthemum]] plants biological clock
+- [[chrysanthemum-coronarium]] plants biological clock
 - gravitropism plant gravity response
 - auxin transport pin proteins
 - [[shade-avoidance-syndrome]] plants

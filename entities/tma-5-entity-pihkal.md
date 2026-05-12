@@ -29,7 +29,7 @@ sources: ["Shulgin - PIHKAL"]
 > stimulant. Go up with care.
 >
 > (with 30 mg) Intense introspection. Comparable to about 75
-> micrograms of LSD, or more.
+> micrograms of [[lsd]], or more.
 
 ## Extensions and Commentary
 

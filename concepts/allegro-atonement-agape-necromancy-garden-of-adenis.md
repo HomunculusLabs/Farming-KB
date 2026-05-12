@@ -1,5 +1,5 @@
 ---
-title: Allegro Atonement Agape Necromancy and the [[allegro-garden-of-adonis-eden-paradise-mushroom-connections]]
+title: Allegro Atonement, Agape, Necromancy, and the Garden of Adenis
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---

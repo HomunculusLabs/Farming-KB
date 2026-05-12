@@ -1,5 +1,5 @@
 ---
-title: "[[phytochrome]] Plant Photoreceptor"
+title: Phytochrome Plant Photoreceptor
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
@@ -10,7 +10,7 @@ created: 2026-05-09
 Plants do more than detect the direction of light. They also use the
 colour of light to measure the passage of time — specifically, to
 determine how long the night has been. This ability depends on a
-remarkable photoreceptor called phytochrome, a protein that acts as a
+remarkable photoreceptor called [[phytochrome]], a protein that acts as a
 biological toggle switch sensitive to red and far-red light. The
 discovery of phytochrome revealed one of the most elegant signalling
 systems in all of biology and transformed our understanding of how
@@ -34,7 +34,7 @@ this effect, the answer was surprising: only red light worked. Blue or
 green flashes during the night had no influence on flowering, but just
 a few seconds of red light was sufficient to alter the plant's
 flowering schedule. Plants, it turned out, were using [[chamovitz-julius-von-sachs-blue-light-phototropism]] to
-determine which direction to bend (phototropism) and red light to
+determine which direction to bend ([[phototropism]]) and red light to
 measure the length of the night (photoperiodism). This was compelling
 evidence that plants possess multiple, colour-specific photoreceptor
 systems — just as human eyes use different receptors for different

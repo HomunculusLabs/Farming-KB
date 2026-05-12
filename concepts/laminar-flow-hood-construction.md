@@ -1,5 +1,5 @@
 ---
-title: [[comparison-laminar-flow-hood-vs-fruiting-chamber]] Construction
+title: "Laminar Flow Hood Construction"
 source: 2-laminar-flow-hood-construction.md
 type: concept
 ---

@@ -41,7 +41,7 @@ derivative. A more highly substituted analogue has also been made,
 the N-methyl derivative of DMMDA. Isoapiole (see its preparation
 under DMMDA) was oxidized with formic acid and [[cervantes-hydrogen-peroxide-sterilization]] to
 the ketone (2,5-dimethoxy-3,4-methylenedioxyphenylacetone, a solid
-with a mp of 75-76 deg C from methanol) which was reductively aminated
+with a mp of 75-76 deg C from [[methanol]]) which was reductively aminated
 with methylamine and amalgamated aluminum to give
 
 2,5-dimethoxy-N-methyl-3,4-methylenedioxyamphetamine hydrobromide

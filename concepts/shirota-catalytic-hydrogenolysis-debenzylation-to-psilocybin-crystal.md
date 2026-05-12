@@ -88,3 +88,10 @@ washed with ethanol to afford pure psilocybin.
 - δ 7.13 (1H, t, J = 7.6 Hz, H-6): Aromatic proton
 - δ 6.98 (1H, d, J = 7.6 Hz, H-5): Aromatic proton
 - δ 3.44 (2H, t, J = 7.2 Hz, H₂-2'): The methylene adjacent to
+
+## See Also
+- [[psilocybin]]
+- [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]]
+- [[indole]]
+- [[dimethyltryptamine]]
+- [[methanol]]

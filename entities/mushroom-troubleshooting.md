@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-troubleshooting-guide]]
+title: Mushroom Troubleshooting
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, troubleshooting, pest-control, disease-management]

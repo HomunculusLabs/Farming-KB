@@ -88,3 +88,9 @@ Total lignan content is typically 3–7% dry weight, with schisandrin A constitu
 Studies demonstrate protection against carbon tetrachloride, acetaminophen, and alcohol-induced liver damage in animal models.
 
 **Antioxidant effects:** Lignans from *S. sphenanthera* scavenge free radicals and upregulate endogenous antioxidant enzyme systems (superoxide dismutase, catalase, glutathione peroxidase).
+
+## See Also
+- [[dom]]
+- [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
+- [[schisandra-chinensis]]
+- [[comparison-schisandra-vs-rhodiola]]

@@ -1,5 +1,5 @@
 ---
-title: Lagochilus inebrians ([[syrian-rue-turkestan-mint-and-lesser-old-world-hallucinogens]])
+title: "Lagochilus inebrians"
 source: a-golden-guide-to-hallucinogenic-plants.md
 type: entity
 ---

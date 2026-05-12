@@ -88,3 +88,10 @@ of electrical energy." The genesis of this energy was "ultra-microscopic
 units or furnaces in protoplasm" which Crile called radiogens. He
 predicted that future radio-diagnosticians could detect disease before
 it became outwardly apparent.
+
+## See Also
+- [[det]]
+- [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]]
+- [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
+- [[photosynthesis-carbon-cycle-plants]]
+- [[comparison-c3-c4-and-cam-photosynthesis-pathways]]

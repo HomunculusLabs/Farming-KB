@@ -59,7 +59,7 @@ CBC is typically found at higher levels in younger cannabis plants before extens
 
 [[tetrahydrocannabiphorol-thcp|THCP]] was discovered in 2019 and binds to CB1 receptors up to 33 times more strongly than THC, making it extremely potent.
 [[cannabis-minor-cannabinoids|minor cannabinoids]] is still being cataloged, with new compounds identified as analytical methods improve.
-Understanding the [[tetrahydrocannabinol-thc|THC]] | Yes, strongly | Euphoria, pain relief, appetite stimulant | 15-30% |
+Understanding the [[tetrahydrocannabinol|THC]] | Yes, strongly | Euphoria, pain relief, appetite stimulant | 15-30% |
 | [[cannabigerol-cbg|CBG]] | Minimal | Antibacterial, neuroprotectant | <1% |
 | [[cannabichromene-cbc|CBC]] | No | Anti-depressant, promotes neurogenesis | <1% |
 

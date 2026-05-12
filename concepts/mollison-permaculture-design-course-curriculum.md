@@ -9,7 +9,7 @@ tags: [culture, design, permaculture]
 
 # Permaculture Design Course Curriculum Overview
 
-The Permaculture Design Course (PDC) was taught by Bill Mollison at
+The [[permaculture-design]] Course (PDC) was taught by [[bill-mollison]] at
 The Rural Education Center, Wilton, New Hampshire, USA in 1981. The
 transcript was edited by Elizabeth Beyor, typed by Thelma Snell, and
 published as 15 pamphlets by Yankee Permaculture (Dan Hemenway) in
@@ -23,7 +23,7 @@ The 15 pamphlets cover the full scope of permaculture design:
 | No. | Title | Topic Area |
 |-----|-------|------------|
 | I | An Introduction to Permaculture | Ethics, principles, crisis |
-| II | Permaculture in Humid Landscapes | Water, [[swale]]s, forests |
+| II | Permaculture in Humid Landscapes | Water, [[swale]] s, forests |
 | III | Permaculture in Arid Landscapes | Desert strategies |
 | IV | Permaculture on Low Islands | Tropical atolls |
 | V | Permaculture on High Islands | Volcanic islands |

@@ -91,6 +91,6 @@ communities, and systematic experimentation to build expertise.
 ## See Also
 - [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
 - [[query-how-does-keyline-design-work-in-permaculture]]
-- [[keyline-design-and-water-management-in-permaculture]]
+- [[keyline-design]]
 - [[permaculture-multipurpose-trees]]
 - [[permaculture-bamboo-in-design]]

@@ -88,3 +88,10 @@ tubes were easily separable, it was specifically a boletus.
 ## Palmer's Confidence in the Family
 
 Of all the major families of toadstools, Palmer expressed the greatest
+
+## See Also
+- [[palmer-specific-mushroom-species-guide]]
+- [[mold-identification-guide]]
+- [[psilocybin-image-identification-guide]]
+- [[ramsbottom-poisonous-fungi-identification-guide]]
+- [[psilocybin-mushroom-identification-guide]]

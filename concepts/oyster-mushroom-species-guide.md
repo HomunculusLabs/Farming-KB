@@ -112,7 +112,7 @@ All Pleurotus species share similar substrate preparation:
 
 ## Related
 
-- [[Agaricus]] -- Agaricus species
+- [[agaricus-aurora]] -- Agaricus species
 ## Practical Cultivation Notes
 
 Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.

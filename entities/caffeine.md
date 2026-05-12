@@ -90,5 +90,8 @@ Caffeine has a Ki of ~44 μM at A₁ and ~40 μM at A₂A receptors, making it a
 ### Cognitive Enhancement
 
 ## See Also
+- [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]
 - [[mckenna-caffeine-coffee-and-industrial-revolution]]
-- [[caffeine-plants-and-stimulant-herb-cultivation]]
+- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
+- [[mckenna-caffeine-coffee-and-industrial-revolution]]
+- caffeine

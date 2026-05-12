@@ -82,7 +82,7 @@ as its counterpart, TMA-2. This latter compound, with its
 2,4,5-trisubstitution pattern, has served as a template from which an
 immense family of very active and fascinating drugs have arisen. The
 2,5-dimethoxy aspect has been kept intact, and modifications in the
-4-position have given rise to treasures such as DOM, DOB, DOET, DOI,
+4-position have given rise to treasures such as [[dom]], DOB, DOET, DOI,
 and the Aleph compounds. And, of course, the entire world of the
 2C-X's has exploited this same orientation.
 Here, there is the blatant, parallel call from TMA-6. It can serve,

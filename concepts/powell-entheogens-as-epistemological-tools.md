@@ -49,7 +49,7 @@ agents serves two complementary purposes:
 ## The Shamanic Precedent
 
 Powell grounds his epistemological argument in the historical practice
-of shamanism. Aboriginal shamans in Amazonia, Mexico, and elsewhere
+of [[shamanism]]. Aboriginal shamans in Amazonia, Mexico, and elsewhere
 have long utilized psychoactive flora to gain transcendental knowledge
 for the benefit of their cultures. The revelatory effects of these
 plants upon the human psyche are so powerful that they are typically

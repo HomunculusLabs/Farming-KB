@@ -9,7 +9,7 @@ tags: [mycology, cultivation, tissue-culture, laboratory, spawn-production]
 
 ## Description
 
-Mushroom tissue culture is the laboratory technique of excising a small piece of living mushroom tissue and placing it on a sterile growth medium (typically PDA) to regenerate into mycelium. This asexual propagation method produces genetically identical copies of the parent mushroom, preserving desirable traits such as yield, flavor, disease resistance, and growth rate. It is a fundamental skill in commercial [[mushroom-spawn-production-and-laboratory-techniques]].
+Mushroom tissue culture is the laboratory technique of excising a small piece of living mushroom tissue and placing it on a sterile growth medium (typically PDA) to regenerate into mycelium. This asexual propagation method produces genetically identical copies of the parent mushroom, preserving desirable traits such as yield, flavor, disease resistance, and growth rate. It is a fundamental skill in commercial [[mushroom-spawn]].
 
 ## Classification
 
@@ -74,3 +74,9 @@ Key importance:
 - Sorghum Spawn
 - Mushroom Spawn Production
 - [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]
+
+## Practical Training Notes
+
+In a training setting, tissue culture should be introduced after students understand why clean spawn matters. Demonstrations are most effective when instructors show both a successful plate and common contamination failures, because the contrast makes sterile technique concrete. Learners can then practice tool handling, labeling, and transfer movements before working with valuable cultures.
+
+The technique also creates a useful bridge between laboratory and farm. A clean culture is not an end product; it is the living starting point for grain spawn, substrate inoculation, and eventually saleable mushrooms. For that reason, tissue culture connects directly to [[mushroom-spawn]], [[mushroom-substrate-bags]], and the business side of small mushroom enterprises.

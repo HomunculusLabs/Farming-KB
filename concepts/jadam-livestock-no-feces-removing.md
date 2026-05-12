@@ -98,3 +98,24 @@ When applying these concepts, consider regional variations, available resources,
 - [[jadam-herbal-smoker-livestock]]
 - [[jadam-fly-control-livestock]]
 - [[ultra-low-jadam-wetting-agent-jwa]]
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[dom]]
+- [[youngsang-cho]]
+- [[composting]]
+- [[vermicomposting]]
+- [[permaculture]]

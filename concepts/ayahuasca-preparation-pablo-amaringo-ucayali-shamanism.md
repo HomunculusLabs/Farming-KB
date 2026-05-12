@@ -1,5 +1,5 @@
 ---
-title: [[ayahuasca-preparation]] Pablo Amaringo and Ucayali Shamanism
+title: "Ayahuasca Preparation, Pablo Amaringo, and Ucayali Shamanism"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---

@@ -56,7 +56,7 @@ Sharpening stones (whetstones) are the foundation of tool sharpening. Every home
 - Require periodic flattening on a lapping plate
 
 **Diamond Stones**
-- DMT and Eze-Lap are common brands
+- [[dmt]] and Eze-Lap are common brands
 - Available in coarse (325), fine (600), extra-fine (1200)
 - Cut very fast, excellent for hard steels
 - Do not require soaking or oiling

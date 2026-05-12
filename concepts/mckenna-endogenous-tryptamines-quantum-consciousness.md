@@ -36,7 +36,7 @@ psychoactive properties remains open and actively investigated.
 
 ## The Pineal Gland and DMT
 
-The pineal gland has been a focus of speculation regarding endogenous DMT
+The [[pineal-gland]] has been a focus of speculation regarding endogenous DMT
 production since the compound was first detected in mammalian brain tissue.
 The pineal is uniquely positioned as a neuroendocrine organ with no blood-
 brain barrier, and it is known to synthesize melatonin and serotonin—both

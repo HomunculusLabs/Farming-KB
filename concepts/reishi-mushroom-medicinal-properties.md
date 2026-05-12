@@ -91,6 +91,6 @@ foundation for developing deep expertise and contributing to the field.
 ## See Also
 - [[reishi-mushroom-cultivation-and-medicinal-properties]]
 - [[maitake-mushroom-cultivation-and-medicinal-properties]]
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]]
+- [[shiitake-mushroom-cultivation]]
 - [[reishi-mushroom-medicinal-research]]
 - [[medicinal-mushroom-properties]]

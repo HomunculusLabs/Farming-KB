@@ -54,7 +54,7 @@ Her place in the field differs from [[afrofuturism]] article.
 
 ## See Also
 
-- permaculture-futures-and-aid
+- [[permaculture]]-futures-and-aid
 
 See also: [[peyote-and-psychoactive-cacti]]
 ## Practical Considerations

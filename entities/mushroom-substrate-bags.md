@@ -1,5 +1,5 @@
 ---
-title: [[oil-drum-sterilizer-mushroom-substrate-bags]]
+title: "Mushroom Substrate Bags"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, substrate, growing-medium, bag-culture]

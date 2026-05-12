@@ -8,7 +8,7 @@ sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
-# How Do I Use Beauveria Bassiana for Pest Control?
+# How Do I Use [[beauveria-bassiana]] for Pest Control?
 
 ## Short Answer
 
@@ -28,7 +28,7 @@ It is available as a commercial biological insecticide and can be integrated int
 
 It belongs to a broader category of entomopathogenic fungi that use insects as hosts for reproduction.
 
-When spores contact an insect, they attach to the exoskeleton using hydrophobic interactions and enzymes.
+When [[spore]] s contact an insect, they attach to the exoskeleton using hydrophobic interactions and enzymes.
 
 The fungus then breaches the cuticle, grows inside the insect's body, and produces toxins that cause death within three to seven days.
 
@@ -44,7 +44,7 @@ Beauveria bassiana has a remarkably broad host range among insects.
 
 It is effective against many common garden and cannabis pests including aphids, whiteflies, thrips, spider mites, and fungus gnats.
 
-On cannabis specifically, it helps control [[aphids-cannabis|aphids]], [[cervantes-whitefly-pest-control|whiteflies]], and [[cervantes-thrips-pest-control|thrips]].
+On cannabis specifically, it helps control [[aphids-cannabis|aphids]], [[cervantes-whitefly-pest-control]]|whiteflies, and [[cervantes-thrips-pest-control|thrips]].
 
 It also targets [[cervantes-spider-mites-identification-control|spider mites]] and [[cervantes-fungus-gnats|fungus gnats]] in indoor grows.
 
@@ -110,15 +110,11 @@ It pairs well with [[hamilton-beneficial-insects-and-biological-pest-control|ben
 
 [[comparison-predatory-mites-vs-ladybugs-biocontrol|Predatory mites and ladybugs]] are generally not susceptible to Beauveria at recommended application rates.
 
-You can combine Beauveria sprays with [[jadam-pest-control-with-natural-pesticides-jhs|botanical pesticides]] like neem oil, but avoid tank-mixing without testing compatibility first.
+You can combine Beauveria sprays with [[jadam-pest-control-with-natural-pesticides-jhs|botanical pesticides]] like [[neem]] oil, but avoid tank-mixing without testing compatibility first.
 
 Some chemical fungicides will kill Beauveria spores, so separate fungicide and biocontrol applications by at least several days.
 
-The [[comparison-trichoderma-vs-entomopathogenic-fungi|relationship between Trichoderma and entomopathogenic fungi]] is complex since both are fungi but target different organisms.
-
-Applying Trichoderma for soil health and Beauveria for pest control is generally compatible in separate applications.
-
-[[comparison-neem-oil-vs-bacillus-thuringiensis|Neem oil and Bt]] can be rotated with Beauveria to target different pest life stages and reduce resistance development.
+The [[trichoderma-vs-entomopathogenic-fungi]] can be rotated with Beauveria to target different pest life stages and reduce resistance development.
 
 ## Safety and Precautions
 

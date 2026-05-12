@@ -91,4 +91,4 @@ approximately 3.5–4.5.
 
 ## See Also
 - [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]
-- [[endophytic-fungi-hidden-symbionts-within-plants]]
+- [[endophytic-fungi]]

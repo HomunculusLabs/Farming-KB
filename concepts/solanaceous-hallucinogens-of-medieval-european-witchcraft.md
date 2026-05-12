@@ -14,7 +14,7 @@ The nightshade family (Solanaceae) contributed several of the most
 important ingredients to the hallucinogenic brews and ointments of
 medieval European witchcraft. Belladonna, henbane, mandrake, and datura
 formed the core pharmacopoeia of the so-called witches' brews, all
-sharing a common chemistry of tropane alkaloids that induce vivid
+sharing a common chemistry of [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] that induce vivid
 hallucinations, sensations of flight, and [[weil-the-natural-mind-altered-states-normalcy]] of
 consciousness.
 

@@ -67,7 +67,7 @@ and modern research methods have all contributed to current understanding.
 ## See Also
 
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
-- [[amanita-mushrooms-history-chemistry-and-cultural-significance]]
+- [[amanita]]
 - [[muscimol-and-amanita-muscaria]]
 - [[fly-agaric-amanita-muscaria]]
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
@@ -85,7 +85,7 @@ to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
 ## See Also
-- [[amanita-mushrooms-history-chemistry-and-cultural-significance]]
+- [[amanita]]
 - [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
 - [[shroom-cultural-history-mushroom-art-and-iconography]]
 - [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]

@@ -66,7 +66,7 @@ isomers. The first intermediates are common to both. They will be
 presented here, under this recipe for 2-TIM.
 
 A solution of 150 mL of 1.6 M butyllithium in hexane under N2 was
-vigorously stirred and diluted with 150 mL petroleum ether (30-60 deg C)
+vigorously stirred and diluted with 150 mL [[petroleum-ether]] (30-60 deg C)
 and then cooled with an external ice bath to 0 deg C. The addition of
 26.7 g of veratrole produced a flocculant white precipitate. Next,
 there was added a solution of 23.2 g of

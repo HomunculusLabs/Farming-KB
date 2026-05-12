@@ -59,7 +59,7 @@ rituals with specific roles for each element:
 Elaphomyces species serve as the host organisms for Cordyceps capitata
 and C. ophioglossoides. Three species are documented in this role:
 
-- **[[Elaphomyces]]** Fr.
+- **[[elaphomyces-granulatus]]** Fr.
 - **Elaphomyces muricatus** Fr.
 - **Elaphomyces reticulatus** Vitt.
 

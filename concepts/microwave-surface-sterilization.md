@@ -73,7 +73,7 @@ Microwave irradiation is highly effective against all vegetative organisms:
 
 - ***Escherichia coli***: Gram-negative — rapidly killed
 - ***[[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]]***: Gram-negative — rapidly killed
-- ***[[Bacillus]]***: Gram-positive — vegetative cells killed rapidly
+- ***[[bacillus-subtilis]]***: Gram-positive — vegetative cells killed rapidly
 
 Vegetative cells contain high intracellular water, providing abundant
 targets for microwave energy absorption.

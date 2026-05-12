@@ -50,3 +50,64 @@ Eucalyptus obliqua, commonly known as **messmate stringybark** or simply **messm
 - Construction timber and flooring (pages 20, 95, 117)
 - Firewood (pages 20, 95)
 - Fast-growing timber species (pages 20, 95)
+
+## Identification Notes
+
+Messmate stringybark is recognized by its rough fibrous bark, tall straight habit, and oblique leaf bases that contribute to the species name.
+
+The bark usually persists well up the trunk and into smaller branches, giving the tree a strongly textured appearance.
+
+In mixed forests it may be confused with other stringybarks, so location, bark texture, juvenile foliage, buds, and fruit should be considered together.
+
+## Ecological Role
+
+Eucalyptus obliqua is a canopy-forming tree in many temperate Australian forests.
+
+It contributes leaf litter, hollows, nectar, shade, and large woody debris.
+
+Its flowers support pollinators [[holzer-beekeeping-and-honey-production]], which links it to [[faires-beekeeping-and-honey-production]].
+
+As a large biomass tree, it also participates in long-term [[dighton-fungi-elevated-co2-global-carbon-cycling]] and [[humus-and-soil-organic-matter]] formation.
+
+## Permaculture Assessment
+
+- Best suited to large properties rather than small gardens.
+- Useful where timber, shelter, nectar, and habitat are priorities.
+- Too large and competitive for many urban sites.
+- Appropriate for cool temperate and high-rainfall plantings.
+- Leaf litter and shade should be considered in understory design.
+- Fire behavior must be accounted for in Australian landscapes.
+
+## Timber and Material Qualities
+
+The timber is valued because the tree can produce long, usable logs.
+
+It is not the most durable of all eucalypts, but it is versatile for construction, flooring, joinery, and pulp.
+
+Its economic importance comes from abundance, size, and workability as much as from exceptional durability.
+
+## Fungal and Soil Connections
+
+Like other eucalypts, messmate interacts with [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] decomposer communities.
+
+Its litter and coarse woody debris provide substrates for fungi involved [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]].
+
+This makes the species relevant to [[gadd-fungal-carbon-sequestration]] and [[fungal-peat-decomposition-and-carbon-storage]] as part of broader questions about fungi, wood, and carbon retention.
+
+## Establishment Notes
+
+Seedlings need protection from browsing and competition during establishment.
+
+The species prefers moisture but should not be planted in waterlogged conditions.
+
+Spacing must anticipate mature height, crown spread, [[root-competition-plant-spacing-solomon]], and fire access.
+
+In a permaculture plan, it functions as a long-term overstory investment rather than a quick annual yield.
+
+## Summary
+
+Eucalyptus obliqua is a major southeastern Australian timber and habitat tree.
+
+Its value lies in scale: large biomass, useful wood, nectar, shelter, and ecological structure.
+
+Those same traits require careful placement, especially where fire risk, shade, or limited space are concerns.

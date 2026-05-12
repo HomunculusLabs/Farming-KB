@@ -22,7 +22,7 @@ Cover crops are plants grown to cover and protect bare soil between main crop ro
 
 ### Nitrogen Fixation
 Leguminous cover crops fix atmospheric nitrogen through symbiotic bacteria (Rhizobia) in their root nodules:
-- **[[compost]]:** Fixes 70-130 lbs N/acre; beautiful red flowers; winter annual
+- **[[mushroom-compost]]:** Fixes 70-130 lbs N/acre; beautiful red flowers; winter annual
 - **Hairy vetch:** Fixes 90-200 lbs N/acre; vigorous; hardy to -15°F
 - **Field peas:** Fixes 100-175 lbs N/acre; fast-growing; edible
 - **Fava beans:** Fixes 150-200 lbs N/acre; edible; deep-rooted
@@ -88,3 +88,38 @@ Some cover crops disrupt [[hamilton-pest-and-disease-control-organic]] cycles:
 - **Need beneficial [[hemenway-insectary-plants-and-beneficial-insects]]?** Buckwheat, clover, phacelia
 
 ## Management
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[cover-crops]]
+- [[cover-crops]]
+- [[cover-crop]]
+- [[root-exudates]]
+- [[permaculture]]

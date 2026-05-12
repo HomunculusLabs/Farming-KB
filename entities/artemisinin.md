@@ -50,7 +50,7 @@ earned Tu Youyou the 2015 Nobel Prize in Physiology or Medicine.
 - **Appearance:** White crystalline solid
 - **Melting point:** 156–157 °C
 - **Solubility:** Lipophilic; poorly soluble in water, soluble in
-  ethanol, acetone, and ethyl acetate
+  [[ethanol]], acetone, and ethyl acetate
 
 The endoperoxide bridge (O–O bond) is the pharmacophore responsible for
 antimalarial activity. This structural feature is rare in natural

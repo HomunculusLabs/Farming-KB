@@ -6,7 +6,7 @@ type: concept
 
 # David as Adonis, the Egypt/Exodus Myth, and Mushroom-Based Name Word-Play
 
-John Allegro argues that key biblical narratives—particularly those surrounding David, Egypt, and the Exodus—are constructed from mushroom-related word-play rooted in Sumerian and related ancient Near Eastern languages. Names, titles, and entire stories become vehicles for encoding the cultic significance of the sacred fungus.
+[[john-allegro|John Allegro]] argues that key biblical narratives—particularly those surrounding David, Egypt, and the Exodus—are constructed from mushroom-related word-play rooted in Sumerian and related ancient Near Eastern languages, an argument developed from his broader [[allegro-main-thesis|main thesis]]. Names, titles, and entire stories become vehicles for encoding the cultic significance of the sacred fungus.
 
 ## David as Adonis
 
@@ -18,7 +18,7 @@ The name **David** means "lover/beloved" in Hebrew. The Greek **Adonis** derives
 
 The oracle attributed to David is a dense web of phallic-mushroom word-play. Each epithet Allegro retranslates as a sexual-fungal designation:
 
-- **"Son of Jesse"** — reinterpreted as a hebraized form of *\*B_ush_SA*, "erect penis." The same root appears in the Dionysiac title **Briseus** or **Breseus**, linking David directly to the Greek fertility god.
+- **"Son of Jesse"** — reinterpreted as a hebraized form of *\*B_ush_SA*, "erect penis." The same root appears in the Dionysiac title **Briseus** or **Breseus**, linking David directly to the Greek fertility god and related [[dionysian-cults|Dionysian cults]].
 - **"Raised on high"** (RSV) — more properly "erect phallus," describing the mushroom's stance.
 - **"Anointed"** (RSV) — literally "semen-smeared," the cultic practice of preparing the fungus.
 - **"Sweet"** (RSV, from *Na'im*) — actually "heavenly canopy," the mushroom's umbel.
@@ -127,7 +127,7 @@ In each case, Allegro contends, the names are actually **Sumerian mushroom epith
 
 ### Legitimate Exegetical Method
 
-Such stories do not necessarily indicate that people lost the real meanings of their names and narratives. In the ancient Near East, word-play was itself a **"legitimate means of religious exposition"**—a way of unpacking theological truth through the resonances and ambiguities of language. The mushroom cult encoded its secrets in the very names and stories that later generations would inherit as "history."
+Such stories do not necessarily indicate that people lost the real meanings of their names and narratives. In the ancient Near East, word-play was itself a **"legitimate means of religious exposition"**—a way of unpacking theological truth through the resonances and ambiguities of language, consistent with Allegro's account of [[allegro-word-play-and-secret-names-in-scripture|word-play and secret names in scripture]]. The mushroom cult encoded its secrets in the very names and stories that later generations would inherit as "history."
 
 ### Historical Dubiety
 
@@ -139,4 +139,4 @@ The discovery that so many Jerusalem names are **"primarily Sumerian"** points t
 
 ---
 
-*Source: John M. Allegro, The Sacred Mushroom and the Cross*
+*Source: John M. Allegro, The [[sacred-mushroom-and-the-cross]]*

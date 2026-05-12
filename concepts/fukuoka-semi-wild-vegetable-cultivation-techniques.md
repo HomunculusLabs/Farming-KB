@@ -1,12 +1,12 @@
 ---
-title: Fukuoka Semi-Wild Vegetable [[cannabis-sativa-indoor-cultivation-techniques]]
+title: Fukuoka Semi Wild Vegetable Cultivation Techniques
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Fukuoka Semi-Wild Vegetable Cultivation Techniques
 
-Masanobu Fukuoka's approach to [[fukuoka-natural-vegetable-growing]] rejects modern agricultural
+[[masanobu-fukuoka]]'s approach to [[fukuoka-natural-vegetable-growing]] rejects modern agricultural
 methods in favor of a philosophy that works with nature rather than against it.
 Semi-wild cultivation is the practice of scattering seed on unused or minimally
 managed land and allowing vegetables to grow in a near-natural state, producing
@@ -19,9 +19,9 @@ Fukuoka points to traditional village life as the ideal model for vegetable
 cultivation:
 
 > [[hallucinogenic-plants-in-primitive-societies]] grew vegetables naturally next to their simple homes.
-> Children played under fruit trees in the garden. Pigs came and poked at the
+> Children played under [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] the garden. Pigs came and poked at the
 > stools left behind and rooted up the earth. A dog chased the pigs away and
-> people scattered vegetable seed in the rich earth. The vegetables grew fresh
+> people scattered [[vegetable-seed-and-transplant-guide]] in the rich earth. The vegetables grew fresh
 > and green, attracting insects. Fowl came and pecked at the insects, laying
 > eggs that the children ate.
 
@@ -44,7 +44,7 @@ Fukuoka contrasts this with modern greenhouse and hydroponic production:
 
 The core technique is disarmingly simple: scatter vegetable seed in fields,
 orchards, on earthen levees, or on any open, unused land. No tilling, no
-fertilizer, no raised beds. Mixed sowing with ladino clover provides a living
+fertilizer, no raised beds. Mixed sowing with [[fukuoka-ladino-clover-ground-cover-management]] provides a living
 mulch that protects the soil and suppresses weeds while fixing nitrogen.
 
 ### Timing
@@ -95,7 +95,7 @@ intervention once established.
 
 Sow legumes from spring to early summer. Inexpensive, high-yielding options
 include the asparagus bean, cowpea, and mung bean. Garden peas, soybeans, and
-adzuki beans also perform well, but their seeds should be sown in clay pellets
+adzuki beans also perform well, but their seeds should be sown in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
 to protect them from birds.
 
 ### Weak Vegetables (Tomatoes, Eggplants)
@@ -147,72 +147,3 @@ The key principles for success are diversity and integration:
 > damage becomes minimal.
 
 The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of semi-wild vegetables is their greatest reward:
-
-> Semi-wild vegetables have a pungent aroma and good body. Because these have
-> been produced in healthy soil containing all the necessary micronutrients,
-> they are without question the most healthy and nutritious food man can eat.
-
-## Pest Resistance Tables
-
-Vegetable families differ markedly in their natural resistance to pests and
-disease, which determines how well they suit semi-wild cultivation:
-
-### High Resistance (No Pesticides Needed)
-
-| Family | Examples |
-|--------|----------|
-| Yam | Yam |
-| Arum | Arum |
-| Goosefoot | Spinach, chard, Chinese cabbage |
-| Carrot | Carrot |
-| Composite | Burdock, lettuce |
-| Mint | Perilla |
-| Ginseng | Udo, ginseng |
-| Ginger | Ginger |
-| Morning-glory | Sweet potato |
-| Lily | Leek, garlic, scallion, onion, asparagus |
-
-### Moderate Resistance (Little Pesticide Needed)
-
-| Family | Examples |
-|--------|----------|
-| Pea | Garden pea, broad bean, adzuki, soybean, peanut |
-| Mustard | Cabbage, daikon, turnip, radish |
-
-### Low Resistance (Require Pesticides)
-
-| Family | Examples |
-|--------|----------|
-| Gourd | Watermelon, cucumber, melon, squash, chayote |
-| Potato | Tomato, eggplant, potato, red pepper |
-
-## Traditional Pest Control Methods
-
-Before [[comparison-parasitoid-wasps-vs-chemical-pesticides]], farmers managed insect pests through simple,
-non-toxic methods. They caught insects morning and evening by smearing gummy
-earth on the ends of split bamboo sticks and sweeping them through the crops.
-
-Natural preparations offer safe alternatives:
-
-> Pyrethrum flowers and derris root may be dried and stored as powders.
-
-These are harmless to humans and vegetables while effectively controlling
-insect pests.
-
-The most elegant solution integrates pest control into the farming system
-itself:
-
-> Letting fowl loose in a vegetable patch can be one very effective way of
-> keeping insect pests in check.
-
-Fukuoka extends this into a fully integrated polyculture:
-
-> Try raising vegetables as the undergrowth in an orchard and letting native
-> fowl loose in the orchard. The birds will feed on the insects and their
-> droppings will nourish the fruit trees. This is one perfect example of
-> natural farming at work.
-
-This circular system — trees shade vegetables, vegetables attract insects,
-birds eat insects, bird droppings fertilize trees — encapsulates the philosophy
-[[four-principles-of-natural-farming]]: every element supports every other element, producing food
-with no waste and no external inputs.

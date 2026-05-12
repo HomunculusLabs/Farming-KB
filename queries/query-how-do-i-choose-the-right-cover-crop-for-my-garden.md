@@ -13,7 +13,7 @@ type: query
 ## Short Answer
 Choose cover crops based on your primary goal: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], weed
 suppression, soil building, [[permplant-willows-salix-erosion-control-fodder]], or pest management. Legumes like
-[[compost]] and hairy vetch fix nitrogen, grains like cereal rye suppress
+[[mushroom-compost]] and hairy vetch fix nitrogen, grains like cereal rye suppress
 weeds and add biomass, and broadleaves like buckwheat attract pollinators and
 mine phosphorus. A diverse mix of several species usually outperforms a
 single-species cover crop.

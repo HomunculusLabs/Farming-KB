@@ -1,5 +1,5 @@
 ---
-title: Mushroom Farm [[fungal-herbarium-record-keeping-specimen-transactions]] and Profitability
+title: "Mushroom Farm Record Keeping Profitability"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

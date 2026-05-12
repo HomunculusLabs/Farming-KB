@@ -1,5 +1,5 @@
 ---
-title: [[fao-spent-mushroom-substrate-composting-recycling]] [[pasteurization-techniques]]
+title: "Mushroom Pasteurization Techniques"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -12,9 +12,9 @@ Pasteurization is a critical step [[contamination-prevention-in-mushroom-cultiva
 
 Mushroom substrate is composed of organic materials such as sawdust, rice bran, and various agricultural wastes. These raw ingredients naturally harbor a wide range of microorganisms — competitor fungi, bacteria, and other microbes that are already present in the environment.
 
-If substrate bags are not pasteurized before inoculation, these resident organisms will aggressively compete with the introduced [[antimicrobial-compounds-mushroom-mycelium]] for nutrients and space. In nearly all cases, the competitors overwhelm the mushroom mycelium, leading to:
+If substrate bags are not pasteurized before inoculation, these resident organisms will aggressively compete with the introduced [[antimicrobial-compounds-mushroom-mycelium]] for nutrients and space. In nearly all cases, the competitors overwhelm the [[growing-gourmet-iconic-types-mushroom-mycelium]], leading to:
 
-- Poor or stunted mushroom growth
+- Poor or stunted [[evaporative-demand-hypothesis-mushroom-growth]]
 - Complete spoilage of the substrate bag
 - Wasted time, labor, and materials
 
@@ -63,7 +63,7 @@ This method uses steam generated inside a large drum to pasteurize filled substr
 - **Time and temperature are non-negotiable.** Insufficient pasteurization — whether too short in duration or too low in temperature — will fail to kill enough competitor organisms, leading to contamination.
 - **Contaminated bags are a total loss.** Once contamination takes hold, mushroom growth is severely impaired or the bag is completely spoiled. Prevention through proper pasteurization is far cheaper than the loss of materials and labor.
 - **Never let the drum run dry.** The water at the bottom of the drum is the source of steam. If it evaporates, bags sitting on the screen will be exposed to direct heat and will burn. Monitor the water level throughout the process and add more if necessary.
-- **Insulation is essential.** The double rice bag layers plus the outer plastic wrap are not optional — they trap steam and maintain the critical temperature range. Without proper insulation, heat escapes and pasteurization will be uneven or incomplete.
+- **Insulation is essential.** The double rice bag layers plus the outer plastic wrap are not optional — they trap steam and maintain the critical [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]. Without proper insulation, heat escapes and pasteurization will be uneven or incomplete.
 - **Cool before inoculation.** Mushroom spawn is a living culture. Introducing spawn into a hot substrate bag will kill it. Always allow bags to cool to ambient temperature before proceeding to inoculation.
 
 ## Low-Cost Accessibility
@@ -74,11 +74,11 @@ One of the greatest strengths of the country-style method is its accessibility. 
 - **Firewood** serves as the fuel source, eliminating the need for electricity or gas — an important consideration for rural or off-grid operations.
 - **Old rice bags** are readily available in agricultural communities and serve perfectly as insulation material.
 - **The total cost is minimal**, making this method viable for small-scale farmers, community cooperatives, and disabled entrepreneurs working with limited capital.
-- **The system can be built entirely by the trainees themselves**, reinforcing self-sufficiency and practical skills that extend beyond mushroom cultivation.
+- **The system can be built entirely by the trainees themselves**, reinforcing self-sufficiency and practical skills that extend beyond [[accessible-mushroom-cultivation-for-disabilities]].
 
 ## Scaling Considerations
 
 - A single standard 200-liter drum processes **80–100 bags per batch**, which is appropriate for small to medium operations.
 - **Multiple drums can be run simultaneously** for larger-scale production, though this requires additional labor for fire management and monitoring.
 - The **key variable at any scale is temperature consistency**. Regardless of how many drums are in use, each one must maintain 90–100°C for the full 3–4 hour window once continuous steam flow begins.
-- For operations scaling beyond a few drums, a simple temperature log for each batch helps identify problems and maintain quality control over time.
+- For operations scaling beyond a few drums, a simple temperature log for each batch helps identify problems and maintain [[blesching-cannabis-contaminants-testing-quality-control]] over time.

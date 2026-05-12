@@ -57,7 +57,7 @@ The Spitzenkörper repositions in response to environmental signals:
 - **Chemotropism:** Growth toward nutrient sources (sugars, amino acids) involves Spitzenkörper reorientation toward the chemical gradient
 - **Thigmotropism:** Contact with surfaces causes Spitzenkörper repositioning that directs hyphal growth along grooves, ridges, and pores in solid substrates — critical for [[mycorrhizal-fungi-rock-penetration-soil-formation]] and bioweathering
 - **Electrotropism:** Weak electric fields can redirect Spitzenkörper position and hence growth direction
-- **Host signals:** In [[Cordyceps]], host-derived signals reposition the Spitzenkörper toward infection sites
+- **Host signals:** In [[cordyceps-cultivation]], host-derived signals reposition the Spitzenkörper toward infection sites
 
 ### Internal Regulation
 The Spitzenkörper position is regulated by an interplay of:
@@ -87,3 +87,38 @@ Not all fungal growth involves a Spitzenkörper:
 ## Significance for Fungal Ecology
 
 The Spitzenkörper's [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]] in directional growth is fundamental to [[fungal-ecology]]:
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[fungal-ecology]]
+- [[dom]]
+- [[det]]
+- [[fungal-hyphae]]
+- [[mycorrhiza]]

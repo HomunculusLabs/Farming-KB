@@ -12,7 +12,7 @@ sources:
   - Mathew, B. (1981). "The Iris." Batsford.
   - Austin, C. (2005). "Iris: The Classic Bearded Varieties." Timber Press.
   - Goldblatt, P. & Manning, J.C. (2008). "The Iris Family." Timber Press.
-  - Fennell, C.W. & Light, M.E. (2010). "Iridaceae: [[kava-kava-cultivation-ethnobotany-and-chemistry]]." Journal of Ethnopharmacology, 131(1), 1-13.
+  - Fennell, C.W. & Light, M.E. (2010). "Iridaceae: [[kava]]." Journal of Ethnopharmacology, 131(1), 1-13.
   - Wronecki, J. et al. (2022). "Iris rhizome metabolites." Phytochemistry Reviews, 21, 1125-1154.
 ---
 

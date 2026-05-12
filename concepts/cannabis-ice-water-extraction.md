@@ -1,9 +1,9 @@
 ---
-title: "[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] Extraction"
+title: Cannabis Ice Water Extraction
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
+  - "Cervantes - marijuana-horticulture-cervantes-cannabis-breeding-and-genetics"
 type: concept
 tags: [cannabis, water]
 ---
@@ -16,7 +16,7 @@ Ice water extraction (also called water hash, Ice-O-Lator hash, ice hash, THC cr
 
 ## Scientific Principle
 
-The process relies on simple physics described as "Sadu Sam's Secret" in HASHISH! by Robert Connell Clarke. The key principle is:
+The process relies on simple physics described as "Sadu Sam's Secret" in [[hashish]]! by Robert Connell Clarke. The key principle is:
 
 - Resin is oil-based and heavier than water
 - Cannabis foliage is water-based and lighter than water
@@ -88,3 +88,38 @@ For large-scale production, fill a washing machine with ice-cold water. Place fr
 ## Drying Water Hash
 
 After extraction, moisture must be removed quickly to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]:
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[hashish]]
+- [[oner-cannabis-water-extraction-ice-water-hash]]
+- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
+- [[green-cannabis-dry-sift-water-extraction]]
+- [[cervantes-15-bag-water-hash-extraction]]

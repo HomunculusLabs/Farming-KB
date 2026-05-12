@@ -1,5 +1,5 @@
 ---
-title: Microbial [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] Soil Plant Gradient
+title: "Microbial Alpha Diversity Soil-Plant Gradient"
 created: 2026-04-28
 tags: [microbiome, diversity, soil-science]
 date: 2026-04-28
@@ -72,7 +72,7 @@ experiment, but only in the bulk soil and rhizosphere compartments:
 
 The convergence of endorhiza diversity across soil types supports the
 two-tier [[two-tier-selection-model-plant-microbiome]]: despite different starting diversities in the
-soil, the plant selects a similarly diverse [[Proteobacteria]] regardless
+soil, the plant selects a similarly diverse [[proteobacteria-dominance-cannabis-endorhiza]] regardless
 of soil origin.
 
 ## Experiment 1: Shallow Sequencing Results

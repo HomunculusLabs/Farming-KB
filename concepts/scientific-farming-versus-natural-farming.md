@@ -144,7 +144,7 @@ agriculture's sustainability:
 - **Economic pressure**: Farmers are caught in a treadmill of rising input
   costs and falling commodity prices
 
-The [[biochar-in-regenerative-agriculture]] movement can be seen as a partial adoption of
+The [[biochar]] movement can be seen as a partial adoption of
 Fukuoka's principles, though most practitioners stop short of his radical
 "do-nothing" philosophy, preferring biological inputs and targeted
 interventions rather than complete non-intervention.

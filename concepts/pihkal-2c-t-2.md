@@ -86,5 +86,5 @@ contribution to [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology
 
 ## Pharmacology
 
-2C-T-2 acts primarily as a serotonin 5-HT2A receptor agonist with
+2C-T-2 acts primarily as a [[serotonin]] 5-HT2A receptor agonist with
 additional activity at 5-HT2C. The ethylthio substituent's unique electronic

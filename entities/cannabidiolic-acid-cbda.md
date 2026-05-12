@@ -83,5 +83,5 @@ potential alternative to pharmaceutical anti-inflammatories.
 
 ## See Also
 - [[cannabigerolic-acid-cbga]]
-- [[tetrahydrocannabinol-thc]]
+- [[tetrahydrocannabinol]]
 - [[anandamide-aea]]

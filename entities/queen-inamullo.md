@@ -33,3 +33,67 @@ Queen Inamullo (necklace of thorns), also known as Huacra-chukcha (hair of thorn
 
 ## Cultural Context
 Queen Inamullo appears in Vision 8 of [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]] (The Powers of the Mariris). She represents the archetypal teacher figure in vegetalismo, the spiritual source from whom the fundamental tools of the practice are received. Her presence explains how individual vegetalistas acquire their specific powers and specializations.
+
+## Role in Power Transmission
+
+Queen Inamullo explains how shamanic capacity is received rather than merely studied.
+
+In the source tradition, a vegetalista does not gain yachay, virotes, marupas, or huampis through ordinary instruction alone.
+
+These powers are transmitted through contact with master beings, tutelary spirits, and the embodied substance of [[mariri]].
+
+Her scene therefore presents apprenticeship as spiritual initiation.
+
+## The Mariri System
+
+The colored mariris are not decorative.
+
+Each color indexes a power, temperament, or specialty within the vegetalista's practice.
+
+Because the mariri is carried in the body as magical phlegm, it also makes healing knowledge somatic: the practitioner holds power in breath, throat, mouth, and song.
+
+This helps explain why blowing, sucking, singing, and smoking are practical techniques in Amazonian healing.
+
+## Protective Equipment
+
+- Feathered headdress that absorbs curses.
+- Jar of balsams for protecting mariris.
+- Tutelary spirits that assist in transmission.
+- Magical darts and animal weapons used in conflict or defense.
+- Rainbow vibration imagery linking power to color and harmony.
+
+## Relationship to Visionary Pedagogy
+
+Queen Inamullo belongs to the pedagogical world of [[amaringo-ayahuasca-visions-shipibo-iconography]].
+
+The paintings do not only record visions; they map how beings teach, test, protect, and arm practitioners.
+
+Her presence in Vision 8 shows that the acquisition of power is formal, relational, and dangerous.
+
+It is not a casual visionary event.
+
+## Ethical Ambivalence
+
+The same technologies that heal can harm if used aggressively.
+
+Virotes, marupas, and huampis are weapons as well as instruments of knowledge.
+
+Queen Inamullo's importance is therefore not only benevolent; she stands at the threshold where healing, protection, and sorcery must be distinguished.
+
+This ambivalence is central to [[ayahuasca-preparation-pablo-amaringo-ucayali-shamanism]], where curanderos and brujos may use overlapping powers with different intentions.
+
+## Study Notes
+
+Queen Inamullo should be compared with plant teachers, animal helpers, and serpent mothers rather than reduced to a generic goddess figure.
+
+Her specificity lies in instruction, power-transfer, and the maintenance of the mariri complex.
+
+She is a master of the tools that make vegetalista practice effective.
+
+## Summary
+
+Queen Inamullo is the teacher of embodied shamanic technology.
+
+She gives access to knowledge, darts, animal weapons, bone darts, protective balsams, and colored mariri powers.
+
+Her role clarifies how Amaringo's visionary world understands the training of healers.

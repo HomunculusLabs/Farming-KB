@@ -88,3 +88,10 @@ fatty nut. Dried and ground into flour, they serve as a gluten-free,
 nutrient-dense carbohydrate source.
 
 ## Cultivation
+
+## See Also
+- [[permaculture]]
+- [[psilocybin]]
+- [[mycorrhiza]]
+- [[agroforestry]]
+- [[food-forest]]

@@ -99,5 +99,5 @@ functions enhance overall system resilience and biodiversity.
 
 ## See Also
 - [[tetrahydrocannabinol-thc-pharmacology-blesching]]
-- [[tetrahydrocannabinol-thc]]
+- tetrahydrocannabinol
 - [[thc-tetrahydrocannabinol]]

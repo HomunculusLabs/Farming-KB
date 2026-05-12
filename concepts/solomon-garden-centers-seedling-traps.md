@@ -1,5 +1,5 @@
 ---
-title: "[[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] Centers Seedling Traps"
+title: Solomon Garden Centers Seedling Traps
 created: 2026-04-26
 tags:
   - gardening
@@ -15,7 +15,7 @@ type: concept
 
 # Garden Centers and Seedling Buying Traps
 
-[[steve-solomon-evidence-based-organic-gardening]] dedicates an entire chapter of "Gardening When It Counts" to
+[[steve-solomon]] dedicates an entire chapter of "Gardening When It Counts" to
 the pitfalls of buying seedlings at garden centers. His position is blunt:
 the first thing he aims to do is wean you off the garden center. This page
 covers the common mistakes, deceptive practices, and why growing your own

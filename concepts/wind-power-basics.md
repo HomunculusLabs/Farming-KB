@@ -1,5 +1,5 @@
 ---
-title: "[[holmgren-wind-power-and-renewable-energy-debate]] Basics"
+title: Wind Power Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

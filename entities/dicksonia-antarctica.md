@@ -64,7 +64,7 @@ The species thrives in deep, organic soils derived from volcanic or sedimentary 
 
 Annual rainfall in its native habitat ranges from 900 to 3,000 mm. The species relies on consistent moisture, including regular fog and mist at higher elevations.
 
-In Tasmanian temperate rainforests, *Dicksonia antarctica* co-occurs with *Nothofagus cunninghamii*, *Atherosperma moschatum*, and *Eucalyptus regnans*. It forms a distinct mid-canopy layer beneath the dominant eucalypts.
+In Tasmanian temperate rainforests, *Dicksonia antarctica* co-occurs with *Nothofagus cunninghamii*, *Atherosperma moschatum*, and *[[eucalyptus-regnans]]*. It forms a distinct mid-canopy layer beneath the dominant eucalypts.
 
 ## Cultivation
 

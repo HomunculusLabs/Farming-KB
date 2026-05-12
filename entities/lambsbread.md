@@ -62,12 +62,12 @@ standards.
 
 | Terpene | Approximate % | Effects / Aroma |
 |---------|--------------|-----------------|
-| **Myrcene** | 0.4–0.8% | Relaxation, earthy base |
+| **[[myrcene]]** | 0.4–0.8% | Relaxation, earthy base |
 | **Caryophyllene** | 0.3–0.7% | Anti-inflammatory, peppery |
 | **Limonene** | 0.2–0.5% | Mood elevation, citrus |
 | **[[pinene|Pinene]]** | 0.2–0.4% | Alertness, pine |
 | **[[humulene|Humulene]]** | 0.1–0.2% | Anti-inflammatory, woody |
-| **Terpinolene** | 0.1–0.2% | Antioxidant, floral |
+| **[[terpinolene]]** | 0.1–0.2% | Antioxidant, floral |
 
 The terpinolene content is notable and relatively high compared to most
 modern hybrids, contributing to the strain's unique energetic profile.

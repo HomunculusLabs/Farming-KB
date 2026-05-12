@@ -78,3 +78,14 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[psilocybe-cubensis-strains-names-and-marketing]]
+- [[baeocystin-co-alkaloid-psilocybe-repke-1977-bigwood-beug-1982]]
+- [[psilocybin-in-the-counter-culture]]
+- [[psilocybe-urdapilletae]]

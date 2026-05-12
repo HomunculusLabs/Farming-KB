@@ -88,3 +88,17 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[water-absorption-variability-grass-seed-substrate-preparation]]
+- [[substrate-preparation]]
+- [[grass-seed-substrate-water-absorption-variability-and-calibration]]
+- [[substrate-consistency-water-absorption-grass-seed]]
+- [[doc]]

@@ -53,3 +53,34 @@ Eucalyptus salmonophloia, commonly known as **salmon gum** or **salmon Gum**, is
 - Firewood of exceptional quality (pages 94, 95, 96)
 - Honey production (pages 94, 95)
 - Arid zone shelter and shade (pages 94, 95, 117)
+
+## Site Design Notes
+
+- Salmon gum belongs with [[permaculture-designers-manual-pioneer-species]] as a hardy dryland tree that can help establish structure in difficult sites.
+- Its alkaline and semi-arid tolerance makes it relevant to [[plants-tolerant-of-alkaline-soils]] and to dryland shelterbelt planning.
+- Compare its woodland role with [[eucalyptus-marginata]], another Western Australian eucalypt with major timber and ecological importance.
+- In design use, the tree is better suited to broadacre, shelter, and habitat functions than to small gardens.
+- The dense timber indicates slow, resource-conservative growth, so expectations should be set around long-term landscape establishment rather than quick yields.
+- Because mature trees become large, placement should account for shade, root competition, fire behavior, and future access for maintenance.
+- Salmon gum can be especially valuable where wind exposure and low rainfall limit the range of viable canopy species.
+- Its flowering can support honey production, but nectar yields may vary with seasonal rainfall and stress cycles.
+- The species also functions as a visual marker in arid-zone plantings, with bark color contributing ornamental value without irrigation-heavy management.
+- For restoration notes, the page should distinguish productive timber use from conservation of remnant goldfields woodland.
+- Seedling establishment is likely the limiting stage; once deep roots develop, the species becomes much more resilient.
+- Mulch, weed control, and protection from browsing are therefore more important early than intensive watering later.
+- In mixed systems, pair it with lower dryland shrubs and grasses rather than moisture-demanding understory crops.
+- Its strongest vault connection is as a dryland multipurpose tree: shelter, bee forage, timber, firewood, habitat, and landscape identity.
+- The page should be used cautiously outside climates resembling inland or Mediterranean Western Australia.
+
+## Management Cautions
+
+- Avoid planting salmon gum where mature height or limb drop would threaten buildings.
+- Young trees may need protection from rabbits, livestock, and wind abrasion.
+- Irrigation should support establishment without creating shallow-root dependency.
+- In fire-prone landscapes, placement should consider access, fuel breaks, and local regulations.
+- The hard timber is useful, but harvesting should not be assumed in conservation plantings.
+- Mixed-species shelterbelts reduce the risk of relying on a single slow-growing canopy tree.
+- Local provenance seed is preferable for restoration in Western Australian contexts.
+- Outside its native range, monitor whether the species behaves appropriately for the site.
+- Its best role is often structural: shade, shelter, bee forage, and long-term woodland character.
+- Treat it as a decades-long investment rather than a short rotation crop.

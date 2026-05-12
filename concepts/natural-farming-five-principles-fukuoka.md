@@ -135,7 +135,7 @@ divergent, doomed to ever-increasing complexity, expense, and labor.
 ## Modern Relevance
 
 Fukuoka's principles have influenced permaculture, no-till farming, and
-[[biochar-in-regenerative-agriculture]] worldwide. His work demonstrates that high yields are
+[[biochar]] worldwide. His work demonstrates that high yields are
 compatible with minimal intervention when farming works with natural systems.
 The growing global interest in [[regenerative-agriculture]] reflects renewed
 appreciation for insights Fukuoka articulated decades before they became

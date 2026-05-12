@@ -36,7 +36,7 @@ Understanding [[cover-crop-guide-detailed]] explains how different species serve
 
 | Cover Crop | Primary Benefit | When to Plant |
 |---|---|---|
-| [[compost]] | [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Fall (zones 6-9) |
+| [[mushroom-compost]] | [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Fall (zones 6-9) |
 | Hairy vetch | Nitrogen fixation, biomass | Fall |
 | Cereal rye | Soil structure, weed suppression | Fall |
 | Oats | Quick biomass, scavenges nutrients | Fall or spring |
@@ -77,3 +77,7 @@ A garden with abundant earthworm activity is a garden with healthy soil.
 The [[soil-foodweb]] cycles nutrients naturally and suppresses disease
 - [[cover-crop-guide-detailed]] explains how to select cover crops for specific soil-building goals
 - [[cannabis-living-soil-amendment-schedule]]
+
+## See Also
+
+Explore related topics in the wiki index.

@@ -1,5 +1,5 @@
 ---
-title: "Mckenna Roland Fischer [[psilocybin]] Visual Acuity"
+title: Mckenna Roland Fischer Psilocybin Visual Acuity
 created: 2026-04-28
 tags:
   - psilocybin
@@ -23,7 +23,7 @@ type: concept
 ## Overview
 
 The experiments conducted by psychopharmacologist Roland Fischer in the late 1960s on the
-effects of psilocybin on visual perception occupy a pivotal position in [[stoned-ape-hypothesis]], as presented in *Food of the Gods*. Fischer demonstrated that small
+effects of [[psilocybin]] on visual perception occupy a pivotal position in [[stoned-ape-hypothesis]], as presented in *Food of the Gods*. Fischer demonstrated that small
 doses of psilocybin measurably improved human performance on certain visual tasks, particularly
 the detection of when previously parallel lines became skewed. McKenna seized on these findings
 as empirical support for his argument that psilocybin-containing mushrooms conferred direct

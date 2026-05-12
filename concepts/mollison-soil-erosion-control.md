@@ -71,7 +71,7 @@ Maintaining permanent vegetative cover is the single most effective [[mollison-p
 
 Permanent pasture, forests, and groundcover plants protect soil from raindrop impact and wind.
 
-[[cover-crops-and-green-manures]] between cropping cycles maintain soil protection.
+[[cover-crops]] between cropping cycles maintain soil protection.
 
 ### Mulching
 

@@ -128,7 +128,7 @@ Modern soil science has largely validated Fukuoka's core insights:
   carbon sequestration, and water retention
 - **Soil microbiome research** has revealed the critical importance of
   microbial diversity for [[soil-protozoa-nutrient-cycling-and-mineralization]] disease suppression
-- **[[biochar-in-regenerative-agriculture]]** explicitly aims to build soil biology rather
+- **[[biochar]]** explicitly aims to build soil biology rather
   than merely replace chemical inputs
 - **The soil food web** concept, formalized by Elaine Ingham and others,
   describes the same biological nutrient cycling that Fukuoka relied upon

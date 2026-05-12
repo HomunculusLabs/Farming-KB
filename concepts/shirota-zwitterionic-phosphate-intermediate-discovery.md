@@ -1,5 +1,5 @@
 ---
-title: "Shirota [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] Discovery"
+title: Shirota Zwitterionic Phosphate Intermediate Discovery
 aliases: [zwitterion intermediate, N,O-dibenzyl phosphate, [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]]
 tags: [chemistry, synthesis, psilocybin, phosphorylation, NMR, organic-chemistry]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
@@ -9,7 +9,7 @@ created: 2026-05-09
 # Zwitterionic Phosphate Intermediate Discovery
 
 One of the most significant findings in Shirota, Hakamata, and Goda's 2003
-synthesis of psilocybin was the accidental discovery of a zwitterionic
+synthesis of [[psilocybin]] was the accidental discovery of a zwitterionic
 N,O-dibenzyl phosphate derivative (compound 8) formed during the phosphorylation
 of psilocin. This intermediate, which arises from an intramolecular O-to-N benzyl
 group migration, enabled practical gram-scale [[gottlieb-psilocybin-production-extraction-methods]] by simple
@@ -88,3 +88,6 @@ standards for forensic and regulatory applications.
 
 The original Hofmann synthesis of psilocybin, published in 1959, achieved only
 low yields and required extensive chromatographic purification. Subsequent
+
+## See also
+- [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]

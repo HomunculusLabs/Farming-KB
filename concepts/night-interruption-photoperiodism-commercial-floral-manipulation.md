@@ -114,7 +114,7 @@ the phloem to the shoot apical meristem and triggers the floral transition.
 
 ## See Also
 
-- [[cannabinoid-pharmacology]] — detailed cultivation guide
+- [[blesching-cannabinoid-pharmacology]] — detailed cultivation guide
 - [[night-interruption-photoperiodism]] — technical protocols
 - [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — mobile signal mechanism
 - [[photoperiodism-plant-flowering]] — comprehensive flowering overview

@@ -6,7 +6,7 @@ type: entity
 tags: [mycology, identification, mushrooms]
 sources: [papers/cultivation-of-panaeolus-cyanescens-and-panaeolus-tropicalis.md]
 ---
-# Panaeolus tropicalis Panaeolus tropicalis is a psilocybin-containing mushroom species closely related to [[Copelandia]] as Copelandia tropicalis by some taxonomists, reflecting the ongoing debate about generic boundaries within this group.
+# Panaeolus tropicalis Panaeolus tropicalis is a psilocybin-containing mushroom species closely related to [[copelandia-anomalus]] as Copelandia tropicalis by some taxonomists, reflecting the ongoing debate about generic boundaries within this group.
 
 ## Taxonomy and Description
 

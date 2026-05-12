@@ -78,7 +78,7 @@ Soil type determined *composition*—the identity of taxa available for root col
 
 Winston et al. employed a suite of complementary statistical approaches to ensure robustness:
 
-- **[[ADONIS]]** (PERMANOVA): Partitioned variance in UniFrac distance matrices by factor (strain, soil). Confirmed that both strain and soil significantly explain community variation when tested independently.
+- **[[adonis-annua]]** (PERMANOVA): Partitioned variance in UniFrac distance matrices by factor (strain, soil). Confirmed that both strain and soil significantly explain community variation when tested independently.
 - **[[ANOSIM]]**: Non-parametric test of group differences based on rank dissimilarities. Provided an independent confirmation of ADONIS results without distributional assumptions.
 - **[[ANOVA]] with [[fdr-correction]]**: Applied at the individual [[OTU]] level to identify which specific taxa differed significantly between treatment groups. The [[false-discovery-rate]] correction controlled for multiple comparisons across hundreds of OTUs, reducing the risk of false positives inherent in high-dimensional microbiome data.
 

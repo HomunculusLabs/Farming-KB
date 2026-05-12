@@ -1,5 +1,5 @@
 ---
-title: "Bloomfield Fungal [[mushroom-fruiting-body-morphology]] [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]"
+title: "Bloomfield Fungal Fruiting Body Morphology and Ecological Function"
 source: bloomfields-orchard
 category: mycology
 tags: [fungi, fruiting-bodies, mushrooms, morphology, spore-dispersal, ecology, basidiomycota, ascomycota, mycology]

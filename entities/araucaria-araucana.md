@@ -34,7 +34,7 @@ of the most recognisable trees in the world.
 - **Common relatives:** A. bidwillii (bunya pine), A. angustifolia
   (Parana pine), A. heterophylla (Norfolk Island pine)
 
-## Key [[det|Det]]ails
+## Key [[det|Det]] ails
 - **Growth rate:** Slow growing, very long lived
 - **Height:** 15-35 m, spread 8 m
 - **Climate:** Prefers cool, moist, loamy soils; intolerant of hot
@@ -66,7 +66,7 @@ maritime climates with reliable rainfall and moderate summers.
 ## Ecological Context
 The species is considered a living fossil, with the Araucariaceae
 family dating back to the Mesozoic era. It occupies a unique
-ecological niche in the southern Andes as a [[dom|dom]]inant canopy tree in
+ecological niche in the southern Andes as a [[dom|dom]] inant canopy tree in
 mixed conifer-broadleaf forests. The seeds are an important food
 source for native wildlife including birds and rodents.
 
@@ -77,7 +77,7 @@ climates where few other nut trees thrive. Its exceptional cold
 hardiness and wind resistance make it a valuable species for
 [[food-forest-design]]
 - araucaria angustifolia
-- pinus pinea
+- [[pinus-pinea]]
 - pinus cembra
 - [[juglans-regia]]
 

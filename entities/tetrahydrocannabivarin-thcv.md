@@ -86,6 +86,6 @@ currently under investigation.
 
 ## See Also
 
-- [[tetrahydrocannabinol-thc]]
+- [[tetrahydrocannabinol]]
 - [[cannabigerol-cbg]]
 - [[cannabis-indica]]

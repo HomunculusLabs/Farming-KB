@@ -85,7 +85,7 @@ extracted with 4x100 mL CH2Cl2. The pooled extracts were washed with
 saturated brine, and the solvent removed under vacuum to give 3.3 g of
 a pale amber oil which set up as crystals of
 3,5-dimethoxy-4-ethoxybenzaldehyde with a mp of 47-48 deg C. A small
-sample recrystallized from methanol had a mp of 48-49 deg C.
+sample recrystallized from [[methanol]] had a mp of 48-49 deg C.
 
 A solution of 3.3 g 3,5-dimethoxy-4-ethoxybenzaldehyde in 25 mL
 

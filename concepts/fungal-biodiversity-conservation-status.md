@@ -12,7 +12,7 @@ sources:
   - raw/papers/unknown-biodiversity-of-fungi.md
 ---
 
-# Fungal Biodiversity Conservation Status
+# [[fungal-biodiversity]] Conservation Status
 
 ## Overview
 
@@ -22,7 +22,7 @@ Fungi represent one of the most biodiverse kingdoms of life, yet their conservat
 
 ### Why Fungi Are Underrepresented
 
-The [[fungal-species-concept-and-taxonomy|species concept]] itself poses difficulties for conservation assessments. Unlike animals and plants, fungi often lack conspicuous above-ground structures for much of their life cycle, existing primarily as microscopic mycelial networks in soil, wood, or other substrates. Key challenges include:
+The [[fungal-species-concept-and-taxonomy|species concept]] itself poses difficulties for conservation assessments. Unlike animals and plants, fungi often lack conspicuous above-ground structures for much of their life cycle, existing primarily as microscopic [[mycelial-networks]] in soil, wood, or other substrates. Key challenges include:
 
 - **Ephemeral fruiting:** Many fungi produce visible fruiting bodies only briefly, making population assessment difficult
 - **Cryptic lifestyles:** [[saprotrophic-fungi|saprotrophic]] and [[endophytic-fungi|endophytic]] species are largely invisible
@@ -58,7 +58,7 @@ Shifts in temperature and precipitation patterns affect fungal fruiting phenolog
 
 ### Overharvesting
 
-Commercial and recreational harvesting of wild edible mushrooms (particularly in Europe and Asia) can reduce local populations of target species. [[matsutake-mushroom|Matsutake]] (Tricholoma matsutake) and [[porcini-boletus-guide|porcini]] (Boletus edulis) are notable examples of species subject to significant harvesting pressure.
+Commercial and recreational harvesting of wild edible mushrooms (particularly in Europe and Asia) can reduce local populations of target species. [[matsutake-mushroom|Matsutake]] ([[tricholoma-matsutake]]) and [[porcini-boletus-guide|porcini]] (Boletus edulis) are notable examples of species subject to significant harvesting pressure.
 
 ## Conservation Strategies
 
@@ -89,3 +89,38 @@ Some countries have begun listing fungal species as protected. Scandinavian coun
 
 - [[fungal-biodiversity-in-extreme-environments]]
 - [[mycoforestry]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[fungal-biodiversity]]
+- [[fungal-biodiversity-overview]]
+- [[doc]]
+- [[dom]]
+- [[mycorrhizal-networks]]

@@ -1,13 +1,13 @@
 ---
-title: Allegro Mushroom Cosmography Jerusalem Zion and Gehenna
+title: Allegro Mushroom Cosmography Jerusalem Zion Gehenna
 source: allegro-j-the-sacred-mushroomcross.md
 type: concept
 ---
 
 # Mushroom Cosmography: Jerusalem, Zion, and Gehenna
 
-In John Allegro's mushroom-based reading of ancient Near Eastern cosmography, the physical form of the
-**Amanita muscaria** — its volva, stem, and canopy — serves as the template for how ancient peoples
+In [[john-allegro]]'s mushroom-based reading of [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern cosmography, the physical form of the
+**[[amanita-muscaria]]** — its volva, stem, and canopy — serves as the template for how ancient peoples
 conceptualized the created universe, sacred geography, and mythological narrative. The mushroom is not
 merely a symbol but the generative model from which cosmological language, place-names, and ritual
 practice derive.
@@ -80,7 +80,7 @@ the underworld through the Mediterranean's western horizon.
 are joined. **Cyprus** is *\*GU_BAR_USh* "head of erect penis awaiting entry"; the Greek *kupros*
 also means henna-red dye, evoking the flushed colour of the Amanita cap. The **Essenes**, described
 by Pliny as a "company of palm-trees," are thus a Phoenix-fungus cult — devotees of the living
-mushroom-palm preserving its mysteries by the Dead Sea.
+mushroom-palm preserving its mysteries by the [[allegro-dead-sea-scrolls]].
 
 ## Jerusalem Topography as Fertility Geography
 
@@ -128,7 +128,7 @@ Jacob names the place **Bethel** — "House of God" — and declares it the "gat
 is the literal house of God: its stem the pillar, its canopy the roof, its base the foundation-stone.
 The gate of heaven is the opening in the volva through which the cap emerges — the birth-canal of the
 cosmos. When Jacob pours oil on the stone, he anoints the phallic stem with semen — the act of
-consecration binding the sacred mushroom to its worshippers.
+consecration binding [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] to its worshippers.
 
 ## Moses and Sinai
 
@@ -148,7 +148,3 @@ The **Ten Commandments** (literally "ten words" in Hebrew) operate on both numer
 levels: the number ten and the content of each commandment encode word-plays on Sumerian fungus names,
 so that the Law itself is a recitation of the sacred mushroom's attributes disguised as moral
 instruction. The covenant is a fungal contract; the Law is the mushroom speaking.
-
----
-
-*See also:* [[Allegro Mushroom as Word]], [[Allegro Jesus and the Fly-Agaric]], [[Allegro Linguistic Methodology]]

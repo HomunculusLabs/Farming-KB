@@ -33,7 +33,7 @@ sources: ["Shulgin - PIHKAL"]
 There is no logical way to try to guess
 where the active level of this might be. In a comparison of 4-oxy
 with 4-thio- and with 4-alkyl (as, for example, TMA-2, PARA-DOT and
-DOM) the analogue with the sulfur atom lies intermediate in potency
+[[dom]]) the analogue with the sulfur atom lies intermediate in potency
 between the oxygen atom and the carbon atom. Then, perhaps, 4T-MMDA-2
 should be somewhat more potent than MMDA-2. Which is where the trials
 have gone to, and the absence of effects therefore declares that line

@@ -54,7 +54,7 @@ See [[flocculation-and-natural-subsoil-loosening-solomon]] for Solomon's discuss
 ## Cover Crops and Green Manures
 
 Cover crops provide living root systems that naturally break up compacted layers throughout the growing season.
-Deep-rooted cover crops like [[compost]] and winter rye, daikon radish (tillage radish), and sweet clover can penetrate compacted subsoil layers.
+Deep-rooted cover crops like [[mushroom-compost]] and winter rye, daikon radish (tillage radish), and sweet clover can penetrate compacted subsoil layers.
 Their roots create channels that remain open after the cover crop is terminated, allowing subsequent vegetable roots to follow the same pathways.
 Grass cover crops like cereal rye have dense, fibrous root systems that build soil structure in the top layers.
 [[solomon-cover-crops-green-manure-guide]] provides detailed guidance on selecting and managing cover crops for soil improvement.

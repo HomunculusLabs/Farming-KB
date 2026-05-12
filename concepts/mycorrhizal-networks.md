@@ -116,7 +116,7 @@ sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
 
 ## See Also
-- [[mycorrhizal-networks-and-the-wood-wide-web]]
+- mycorrhizal networks
 - [[mycorrhizal-networks-common-mycelial-network]]
 - [[mycorrhizal-networks-and-forest-communication]]
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]

@@ -48,7 +48,7 @@ with forest trees.
 Elaphomyces species, commonly called deer truffles, are eagerly sought and
 consumed by deer and other forest animals. In the Mexican ethnomycological
 context, Elaphomyces has documented ceremonial significance — certain Chinantec
-communities recognize a "[[Elaphomyces]]" of Elaphomyces collections, and
+communities recognize a "[[elaphomyces-granulatus]]" of Elaphomyces collections, and
 the truffles are associated with divination practices.
 
 The Cordyceps species that parasitize Elaphomyces therefore occupy a unique
@@ -140,7 +140,7 @@ of fungi for food, medicine, and ceremonial purposes.
 
 ## See Also
 
-- [[Elaphomyces]] — deer truffles, the host fungi parasitized by these Cordyceps
-- [[Cordyceps]] — the broader genus and its global ethnomycological significance
+- [[elaphomyces-granulatus]] — deer truffles, the host fungi parasitized by these Cordyceps
+- [[cordyceps-cultivation]] — the broader genus and its global ethnomycological significance
 - [[neurotropic-fungi]] — Guzmán's classification of psychoactive fungi
 - chinantec fungal knowledge — indigenous mycological traditions of Oaxaca

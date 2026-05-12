@@ -62,5 +62,25 @@ The training methodology she developed has broader applicability beyond disabili
 
 - [[ubon-ratchathani-mushroom-project]] Project
 - Satit Thaithatgoon
-- [[mushroom-house-construction]]
+- [[mushroom-house-construction-design]]
 - [[mushroom-tissue-culture]]
+
+## Methodological Importance
+
+Hanko's work is significant because it treats mushroom cultivation as a complete livelihood system rather than as a single technical skill. The manual moves from motivation and self-confidence to laboratory work, production, processing, bookkeeping, and follow-up. This sequence recognizes that a trainee may learn to produce mushrooms yet still fail without support in planning, marketing, or household-level enterprise management.
+
+Her disability focus also changes how agricultural training is evaluated. Success is not measured only by yield; it includes whether tools, benches, buildings, lesson pacing, and peer support allow different bodies and learning styles to participate. That makes the manual relevant to broader [[mushroom-cultivation-training-program-design]] beyond the original Thai project.
+
+## Relationship to the Project Team
+
+Hanko's contribution should be read alongside the practical expertise of Satit Thaithatgoon and the local implementation context of [[ubon-ratchathani-mushroom-project]]. Together, these roles show that durable training programs require technical accuracy, institutional coordination, and learner-centered pedagogy.
+
+## Training Philosophy
+
+The manual's philosophy is participatory and confidence-building. Trainees are not treated as passive recipients of charity; they are potential producers who need appropriate instruction, adapted workspaces, and a realistic path to income. This framing matters because it shifts disability programming from care alone toward agency and enterprise.
+
+Hanko also emphasizes follow-up after formal training. New growers need troubleshooting, encouragement, and market support when they return home, especially if family members or community expectations are uncertain. The training center is therefore only one stage in a longer transition toward self-managed production.
+
+## Broader Use
+
+The model can inform other livelihood programs that combine technical agriculture with rehabilitation. Its main lesson is that accessibility must be designed into the entire system: recruitment, motivation, classroom methods, tools, buildings, crop choice, finance, and market connection.

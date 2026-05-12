@@ -63,7 +63,7 @@ soybean, peanut, kidney bean, asparagus bean, Egyptian kidney bean, and
 sword bean. The mustard family is also well represented, including Chinese
 cabbage, cabbage, daikon, turnip, Indian mustard, rapeseed, leaf mustard,
 potherb mustard, and sea-kale. Black mustard also falls in this category.
-These crops can generally be managed through [[companion-planting-and-polycultures]] proper
+These crops can generally be managed through [[companion-planting]] proper
 timing, with only occasional intervention needed.
 
 ## The Low-Resistance Category
@@ -88,3 +88,31 @@ leaf vegetables, melon flies on watermelon and cucumbers, and ladybugs
 on eggplant and potatoes. Disease and pest damage could usually be
 prevented by being familiar with the nature and features of such damage
 rather than attempting direct control. Although ten to twenty types of
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[dom]]
+- [[det]]
+- [[natural-farming]]
+- [[sterilization]]

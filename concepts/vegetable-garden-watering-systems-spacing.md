@@ -79,7 +79,7 @@ The volume and frequency depend on soil type. On clay soils (20 percent clay
 or more), about five gallons (20 liters) every three weeks is appropriate.
 On sandy soils with less moisture-holding capacity, perhaps half that amount
 — 2.5 gallons (10 liters) every ten days — works better. The results can
-be remarkable: Solomon reports that a single fertigated [[winter-squash-guide]] vine
+be remarkable: Solomon reports that a single fertigated [[winter-rye]] vine
 yielded 50 pounds (22 kg), compared to 20 pounds (9 kg) for un-fertigated
 vines. Thirty pounds of produce from 20 gallons of water represents an
 exceptionally efficient exchange.

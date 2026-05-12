@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]] And [[fukuoka-textdoc-village-philosophy-disappearance]]"
+title: "Fukuoka Sunken Hearth and Village Philosophy"
 source: The Natural Way of Farming - [[masanobu-fukuoka]]
 tags: [fukuoka, [[natural-farming]], mu, zen, village-culture, irori, oral-tradition, japanese-agriculture, philosophy]
 created: 2026-05-11
@@ -124,3 +124,7 @@ song, and the television replaced the fireside discussion. What was lost was
 not merely cultural color but an entire way of knowing—a philosophy of Mu
 that cannot be recovered once the living community that embodied it has been
 dispersed.
+
+## See Also
+- [[fukuoka-textdoc-sunken-hearth-extinction-village-culture]]
+- [[fukuoka-textdoc-village-philosophy-disappearance]]

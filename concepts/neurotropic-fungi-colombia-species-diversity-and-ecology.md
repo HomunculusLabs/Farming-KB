@@ -78,3 +78,14 @@ Colombia:
 - [[guzman-allen-gartz-neotropical-psilocybe-species|Neurotropical Psilocybe Species]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Distribution and Ecology](psilocybe-cubensis-distribution-and-ecology.md)
 - [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] Species Guide](copelandia-genus-species-guide.md)
+
+## Cultivation Notes
+
+Temperature and humidity requirements vary by species. Most cultivated mushrooms prefer 18-24°C during fruiting with relative humidity above 85%. Substrate preparation is critical for commercial yields.
+
+## See Also
+
+- [[neurotropic-fungi-taxonomic-groups-classification]]
+- [[mexico-center-neurotropic-fungal-diversity]]
+- [[guzman-allen-gartz-neurotropic-fungi-classification-system]]
+- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

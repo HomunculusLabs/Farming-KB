@@ -1,5 +1,5 @@
 ---
-title: "[[mckenna-catalyzing-consciousness-and-language]] [[mckenna-psilocybin-and-language-formation]]"
+title: Mckenna Catalyzing Consciousness Language Formation
 created: 2026-04-28
 tags:
   - consciousness

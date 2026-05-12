@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-spawn-production-and-laboratory-techniques]] on Sorghum Seeds
+title: "Mushroom Spawn Production on Sorghum Seeds"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

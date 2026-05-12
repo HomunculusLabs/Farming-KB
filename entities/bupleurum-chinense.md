@@ -64,7 +64,7 @@ The principal bioactive constituents are triterpenoid saponins known as saikosap
 
 Saikosaponin a exhibits potent hepatoprotective activity by reducing hepatic stellate cell activation and collagen deposition in animal models of liver fibrosis. It also demonstrates anti-inflammatory effects through suppression of NF-κB signaling and reduction of TNF-α, IL-6, and IL-1β production.
 
-Saikosaponin d is the most cytotoxic of the group, inducing apoptosis in various cancer cell lines (HepG2, HeLa, A549) via mitochondrial pathway activation and caspase-3 cleavage. It also modulates glucocorticoid receptor function, which accounts for the [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] attributed to chai hu in TCM.
+Saikosaponin d is the most cytotoxic of the group, inducing apoptosis in various cancer cell lines (HepG2, HeLa, A549) via mitochondrial pathway activation and caspase-3 cleavage. It also modulates glucocorticoid receptor function, which accounts for the [[ashwagandha]] attributed to chai hu in TCM.
 
 Structural modification of saikosaponins through hydrolysis and derivatization has produced semi-synthetic analogues with improved bioavailability and reduced toxicity. Saikosaponin b2, a metabolite formed during processing, shows comparable anti-inflammatory activity with lower hepatotoxic potential than the parent compounds.
 

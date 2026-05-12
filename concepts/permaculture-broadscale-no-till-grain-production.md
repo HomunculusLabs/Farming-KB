@@ -57,6 +57,17 @@ Legumes such as lab-lab bean (Dolichos lab-lab) under Borassus palm serve as per
 
 Where sparrows are a problem, grains are mixed with mud, pressed through wire-mesh, and rolled into small balls. Alternatively, dampened seed is shaken in a tray of clay dust to form mud-coated pellets. Pellets can also be formed by extruding mud and grain through a domestic mincer onto a vibrating table of dust or flour.
 
+## Design Principles
+
+Permaculture design integrates multiple elements working together. Each component should serve at least three functions. Zone planning places frequently accessed elements closer to the home.
+
+## See Also
+
+- [[directed-inoculum-production-process-for-amf]]
+- [[sorghum-seed-spawn-production]]
+- [[bill-mollison-permaculture-designers-manual]]
+- [[permaculture-designers-manual-pattern-application]]
+
 ## See Also
 - [[fukuoka-sowing-clay-seed-ball-preparation]]
 

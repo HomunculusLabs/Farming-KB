@@ -11,7 +11,7 @@ type: concept
 # Bioaugmentation Versus Biostimulation in Fungal Bioremediation
 
 Two major biological strategies are employed to increase the
-effectiveness of microbial bioremediation in [[mycoremediation-field-applications]].
+effectiveness of microbial bioremediation in [[field-peas]].
 Biostimulation involves stimulating indigenous microbial populations
 through delivery of limiting nutrients, while bioaugmentation involves
 the controlled addition of specific microorganisms to contaminated

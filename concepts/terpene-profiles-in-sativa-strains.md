@@ -60,7 +60,7 @@ Terpenes serve [[fungal-melanin-biosynthesis-ecological-functions]] in the plant
 - **Aroma**: Peppery, spicy, woody
 - **Prevalence**: Present in most [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] at moderate levels
 - **Sativa association**: Found in both sativa and indica strains. Particularly prominent in strains with "peppery" or "spicy" aroma descriptions
-- **Effects**: Anti-inflammatory, analgesic, anti-anxiety. Unique among cannabis terpenes in that it directly activates CB2 [[cannabinoid-receptors-cb1-and-cb2]]
+- **Effects**: Anti-inflammatory, analgesic, anti-anxiety. Unique among cannabis terpenes in that it directly activates CB2 [[cannabinoid-receptors-cb1-cb2]]
 - **Other sources**: Black pepper, cloves, cinnamon
 - **Notable sativa strains**: Chemdawg, Sour Diesel, [[girl-scout-cookies]]
 

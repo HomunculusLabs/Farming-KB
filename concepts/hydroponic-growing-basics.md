@@ -125,7 +125,7 @@ Drain-to-waste drip:
 - Solution passes through the medium once and is discarded
 - More precise nutrient control (fresh solution each time)
 - Higher water and nutrient consumption
-- Common in commercial [[living-soil-cannabis-cultivation]]
+- Common in commercial [[living-soil-cannabis]]
 
 Pros:
 - Scalable to any size operation

@@ -74,7 +74,7 @@ When applying these concepts, consider regional variations, available resources,
 - [[tompkins-bose-plant-nervous-system-hypothesis]]
 - [[terence-mckenna-tryptamine-hypothesis]]
 - [[terence-mckenna-stoned-ape-hypothesis]]
-- [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]]
+- [[terence-mckenna]]
 - [[stropharia-cubensis-ur-plant-mckenna]]
 
 ## See Also

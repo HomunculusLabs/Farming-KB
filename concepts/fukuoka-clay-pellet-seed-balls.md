@@ -17,7 +17,7 @@ refined over decades of experimentation on his farm in Ehime Prefecture, Japan, 
 multiple purposes simultaneously: it protects seeds from predation by birds and rodents,
 prevents premature germination before conditions are favorable, and allows for the efficient
 distribution of seeds over large areas without the need for plowing, tilling, or individual
-planting. The technique is central to Fukuoka's system of no-tillage [[korean-natural-farming-and-jadam]]
+planting. The technique is central to Fukuoka's system of no-tillage [[korean-natural-farming]]
 formed the basis of his ambitious proposal for revegetating the world's deserts.
 
 The preparation of clay pellets for agricultural use is a straightforward but precise process.

@@ -80,7 +80,7 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 ## Holy Basil (Ocimum sanctum / Ocimum tenuiflorum)
 
 ### Overview
-Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have [[ashwagandha-cultivation-uses-and-adaptogenic-properties]], with some variation in potency.
+Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have [[ashwagandha]], with some variation in potency.
 
 ### Key Compounds
 - **Eugenol:** Phenolic compound (also found in cloves). Anti-inflammatory, analgesic, antioxidant.

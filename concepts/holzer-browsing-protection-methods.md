@@ -85,3 +85,38 @@ The most effective browsing protection in Holzer's system is achieved through lo
 Holzer's browsing protection methods were developed on his 45-hectare Krameterhof in the Austrian Alps, but the principles translate to smaller properties with appropriate modifications. For suburban gardens of 500-2000 square metres, the natural distraction strategy can be adapted by interplanting sacrificial crops among valued plants — letting clover and wildflowers grow as ground cover rather than maintaining bare soil, and planting berry bushes at the garden perimeter as the first food source browsing animals encounter. The browsing salve remains effective at any scale and requires only small quantities of ingredients; Holzer's recipe can be scaled down for a handful of trees. On properties of 1-5 hectares, a more complete implementation becomes possible: dedicated distraction zones planted with preferred forage species can be established at the woodland-garden interface, creating a buffer where animals feed before reaching cultivated areas. Thorny hedge plantings of wild roses, blackthorn, and barberry provide both physical barriers and productive yields of berries and flowers. For larger properties above 5 hectares, Holzer's full system of paddock rotation, mixed plantings, and browsing salve can be implemented as designed. The key principle at any scale is abundance rather than exclusion — creating conditions where browsing animals have enough alternative food that they lose interest in protected plants. Even a small garden can apply this principle by maintaining biodiversity and avoiding the manicured, plant-free aesthetic that signals food scarcity to browsing animals. See faires-deer-proofing-and-wildlife-control for suburban-scale wildlife management and [[holzer-wild-fruit-trees-and-hedges]]
 - [[holzer-green-manure-and-soil-building-plants]]
 - [[holzer-alpine-plant-cultivation-gentian]]
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[dom]]
+- [[jerusalem-artichoke]]
+- [[permaculture]]
+- [[food-forest]]

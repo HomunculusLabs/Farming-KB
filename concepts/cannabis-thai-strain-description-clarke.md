@@ -87,3 +87,31 @@ The distinctive sweet, citrus aroma of Thai strains results from a specific terp
 ## Historical Significance in Modern Breeding
 
 Thai genetics have contributed to some of the most influential hybrid strains in cannabis history. The legendary "Thai Stick" of the 1960s and 1970s became one of the most sought-after cannabis products in the world, creating demand that drove the initial expansion of the international cannabis trade. Modern strains with significant Thai parentage include AK-47, Chocolate Thai, and various "Haze" lines. The Haze lineage, which Thai genetics helped create, became foundational for contemporary sativa-dominant hybrids and is present in the genetic background of countless modern cultivars. Despite this influence, pure Thai landrace genetics are increasingly difficult to find due to decades of hybridization and the pressures of commercial [[query-how-does-no-till-cannabis-cultivation-work]].
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[hindu-kush]]
+- [[dom]]
+- [[myrcene]]
+- [[terpinolene]]
+- [[limonene]]

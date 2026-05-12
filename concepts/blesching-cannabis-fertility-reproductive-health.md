@@ -25,7 +25,7 @@ a significant role in fertility.
 
 The [[blesching-cannabis-pregnancy]]
 - [[blesching-cannabis-menstrual-pain]]
-- [[cannabinoid]]
+- [[cannabinoid-receptors-cb1-cb2]]
 ## Practical Applications
 
 Cannabis and Fertility and Reproductive Health has a range of practical applications that make it relevant to
@@ -88,3 +88,17 @@ better results with each iteration of practice and experimentation.
 
 The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[anandamide]]
+- [[mycorrhiza]]
+- [[cannabis-health-index-chi-scoring-methodology-blesching]]

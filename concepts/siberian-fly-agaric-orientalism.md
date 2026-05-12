@@ -1,9 +1,9 @@
 ---
-title: "[[siberian-fly-agaric-shamanism-urine-recycling]] Orientalism"
+title: Siberian Fly Agaric Orientalism
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]]"
+  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the australian-magic-mushroom-common-names"
 type: concept
 tags: [agar]
 ---
@@ -54,7 +54,7 @@ widely.
 Shamans everywhere assumed different roles and undertook different duties,
 coexisting alongside other religious functionaries, priests and magic-workers.
 Each expressed an individuality of style through distinctive costumes,
-performances and attitudes, and each adhered to their own world view. One Khanty
+performances and attitudes, and each adhered to their own [[amanita-indo-european-language-family-ancient-world-view]]. One Khanty
 shaman was recorded as reaching an upperworld by means of a rope lowered from
 the heavens, riding across the sky in a boat and brushing aside stars. An Altai
 shaman described riding a horse across the steppes to an island littered with

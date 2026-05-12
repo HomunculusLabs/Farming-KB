@@ -1,5 +1,5 @@
 ---
-title: "Nitrogen Strongest Edaphic Factor [[edaphic-factors-cannabis-microbiome-structuring]]"
+title: "Nitrogen Strongest Edaphic Factor Cannabis Microbiome Structuring"
 tags:
   - nitrogen
   - edaphic-factors

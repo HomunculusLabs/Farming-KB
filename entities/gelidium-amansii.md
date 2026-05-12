@@ -1,5 +1,5 @@
 ---
-title: "Gelidium Amansii"
+title: Gelidium Amansii
 type: species
 tags:
   - seaweed

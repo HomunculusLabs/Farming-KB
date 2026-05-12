@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-mu-economics]] and Natural Economy
+title: Fukuoka Mu Economics Natural Economy
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -130,7 +130,7 @@ Despite the severity of his critique, Fukuoka's vision is ultimately hopeful. He
 
 > "If people have a change of heart, they will not need vast green fields to achieve this rebirth; it will be enough for them to work small fields."
 
-This is a deeply democratic vision. The return to [[korean-natural-farming-and-jadam]] Mu economics does not require elite expertise, massive capital investment, or government mandate. It requires only small plots of land, tended by people who have recovered their relationship with nature. The small field is not a limitation but a liberation — from debt, from dependency, from the treadmill of production and consumption.
+This is a deeply democratic vision. The return to [[korean-natural-farming]] Mu economics does not require elite expertise, massive capital investment, or government mandate. It requires only small plots of land, tended by people who have recovered their relationship with nature. The small field is not a limitation but a liberation — from debt, from dependency, from the treadmill of production and consumption.
 
 Fukuoka diagnosed the modern condition with stark clarity:
 

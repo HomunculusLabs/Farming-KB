@@ -87,3 +87,10 @@ to sporulate for dispersal. This symbiosis has persisted for approximately
 30 million years.
 
 ## Nutritional Value
+
+## See Also
+- [[dom]]
+- [[spore]]
+- [[agroforestry]]
+- [[termitomyces-eurrhizus]]
+- [[termitomyces-titanicus]]

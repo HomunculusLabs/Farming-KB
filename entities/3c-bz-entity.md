@@ -42,7 +42,7 @@ until the next day. I am not too keen to do this again -- it lasts too long.
 
 (with 100 mg) No effects.
 
-(with 150 mg) This is in every way identical to 100 micrograms of LSD.
+(with 150 mg) This is in every way identical to 100 micrograms of [[lsd]].
 
 (with 180 mg) I can compare this directly to TMA which was the material I took
 last week. Many similarities, but this is unquestionably more intense than the

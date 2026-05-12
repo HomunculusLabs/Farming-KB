@@ -48,7 +48,7 @@ The tea serves as a carrier for even distribution, but the spores should not be 
 
 ### Why Mycorrhizal Fungi Are Different
 
-Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. They require root exudates to initiate colonization and do not grow freely in soil or tea the way saprophytic fungi like Trichoderma do. Their biology makes them incompatible with the high-agitation [[circadian-rhythm-in-plants]] environment.
+Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. They require root exudates to initiate colonization and do not grow freely in soil or tea the way saprophytic fungi like Trichoderma do. Their biology makes them incompatible with the high-agitation [[chamovitz-circadian-rhythm-internal-clock-plants]] environment.
 
 ### Research Resources
 
@@ -101,3 +101,31 @@ The development and understanding of aact forest litter fungi mycorrhizal ingham
 - [[ingham-trichoderma-biocontrol-fungi-aact]]
 - [[fungi-forest-fire-succession-litter-dighton]]
 - [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[mycorrhizal-fungi]]
+- [[ectomycorrhizal-fungi]]
+- [[saprophytic-fungi]]
+- [[mycorrhizal-types]]
+- [[elaine-ingham]]

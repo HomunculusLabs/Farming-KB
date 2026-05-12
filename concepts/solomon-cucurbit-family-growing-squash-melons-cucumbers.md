@@ -22,7 +22,7 @@ candidates for chitting (pre-sprouting [[query-what-is-seed-starting-and-when-sh
 many vegetables that can be direct-sown with confidence, cucurbit seeds
 planted directly into cool spring soil often rot or fail to germinate
 uniformly. Chitting eliminates this uncertainty by ensuring that only viable,
-sprouted seeds go into the ground. (see [[winter-squash-guide]]).
+sprouted seeds go into the ground. (see [[winter-rye]]).
 
 **Chitting technique for cucurbits [[solomon-growing-cucurbits-guide]]**:
 

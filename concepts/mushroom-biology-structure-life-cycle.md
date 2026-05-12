@@ -88,3 +88,10 @@ Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[mushroom-biology-and-life-cycle]]
+- [[mushroom-biology-life-cycle-classification]]
+- [[pf-tek-mushroom-life-cycle-timeline]]

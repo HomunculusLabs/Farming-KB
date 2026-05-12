@@ -78,3 +78,14 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Design Principles
+
+Permaculture design integrates multiple elements working together. Each component should serve at least three functions. Zone planning places frequently accessed elements closer to the home.
+
+## See Also
+
+- [[permaculture-broadscale-no-till-grain-production]]
+- [[bill-mollison-permaculture-designers-manual]]
+- [[permaculture-designers-manual-pattern-application]]
+- [[plant-propagation-techniques-for-permaculture]]

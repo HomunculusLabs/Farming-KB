@@ -98,7 +98,7 @@ signal for immune cells.
 - [[chaga-inonotus-obliquus-medicinal-profile]]
 - [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[turkey-tail-research-psk]]
-- [[Cordyceps]]
+- [[cordyceps-cultivation]]
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 
 ## References

@@ -22,7 +22,7 @@ sources:
 
 Ashwagandha, scientifically known as *Withania somnifera*, is one of the most important herbs in Ayurvedic medicine, where it has been used for over 3,000 years. Commonly referred to as "Indian Ginseng" or "Winter Cherry," it is classified as a **rasayana** (rejuvenator) in the Ayurvedic pharmacopoeia. The name *ashwagandha* derives from Sanskrit: **ashva** (horse) and **gandha** (smell), referring both to the root's characteristic horse-like aroma and the traditional belief that it imparts the vigor and strength of a stallion.
 
-Modern [[hofmann-lsd-clinical-research-early-studies]] has validated many of its traditional uses, particularly its [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] [[rhodiola-rosea-cultivation-and-adaptogenic-properties]] uses and adaptogenic properties—its ability to help the body manage physiological and psychological stress. It is now one of the most widely used botanical supplements globally, with a growing body of evidence supporting its efficacy for anxiety, stress, sleep, cognitive function, and hormonal balance.
+Modern [[hofmann-lsd-clinical-research-early-studies]] has validated many of its traditional uses, particularly its [[ashwagandha]] [[rhodiola-rosea]] uses and adaptogenic properties—its ability to help the body manage physiological and psychological stress. It is now one of the most widely used botanical supplements globally, with a growing body of evidence supporting its efficacy for anxiety, stress, sleep, cognitive function, and hormonal balance.
 
 ## Taxonomy
 

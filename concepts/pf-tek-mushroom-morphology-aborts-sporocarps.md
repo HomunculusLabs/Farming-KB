@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The PF TEK documents three distinct morphological outcomes during the fruiting
+The [[pf-tek]] documents three distinct morphological outcomes during the fruiting
 cycle of [[brassinosteroid-growth-promotion-psilocybe-cubensis]]: abortive mushrooms, normal sporocarps, and
 mutant growth forms. Each type has different characteristics, potency profiles,
 and harvesting implications. Understanding these morphological categories is

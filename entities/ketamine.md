@@ -13,7 +13,7 @@ sources:
 # Ketamine
 Ketamine is a dissociative anesthetic and psychedelic compound first synthesized
 in 1962 by Calvin Stevens at Parke-Davis. Originally developed as a safer
-alternative to phencyclidine (PCP), it became a widely used battlefield and
+alternative to phencyclidine ([[pcp]]), it became a widely used battlefield and
 veterinary anesthetic due to its cardiovascular stability and analgesic
 properties. In the 21st century, ketamine has gained prominence in psychiatric
 medicine as a rapid-acting treatment for treatment-resistant depression, and

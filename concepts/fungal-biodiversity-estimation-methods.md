@@ -99,7 +99,7 @@ the balance between rigor and feasibility.
 
 ## Challenges Unique to Fungal Inventory
 
-[[fungal-biodiversity-assessment-and-conservation]] faces distinctive challenges:
+[[fungal-biodiversity]] faces distinctive challenges:
 
 - **Ephemeral fruiting**: Many fungi produce fruiting bodies only briefly,
   making temporal coverage critical.

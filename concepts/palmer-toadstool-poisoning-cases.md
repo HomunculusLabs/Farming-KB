@@ -88,3 +88,10 @@ neighbor Mrs. B. aged forty were all stricken. On Sunday afternoon Mr.
 F. and his brother-in-law Thomas R., aged thirteen, found clusters of
 beautiful toadstools growing under chestnut trees and gathered them
 for supper. Mrs. F. cooked three pints, stewing them in milk with
+
+## See Also
+- [[amanita]]
+- [[doc]]
+- [[det]]
+- [[ghb]]
+- [[palmer-mushroom-vs-toadstool-terminology]]

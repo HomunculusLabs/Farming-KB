@@ -23,7 +23,7 @@ In 1918, Wightman W. Garner and Harry A. Allard at the US Department of Agricult
 
 Following Garner and Allard's discovery, scientists around World War II made another critical finding: they could manipulate flowering by briefly turning lights on and off during the night. A short-day plant like soybean could be kept from flowering during naturally short autumn days if lights were turned on for just a few minutes in the middle of the night. Conversely, a long-day plant like iris could be induced to flower in winter if given a brief light pulse during the night.
 
-This proved that plants measure not the length of the day but the length of the **continuous period of darkness**. A momentary flash of light during the night resets the plant's [[chrysanthemum]], as if the dark period had never occurred. This finding had immediate practical applications: chrysanthemum farmers could prevent flowering throughout autumn and winter by giving brief night-time light pulses, then stop the treatment two weeks before Mother's Day to trigger simultaneous flowering just in time for the spring market.
+This proved that plants measure not the length of the day but the length of the **continuous period of darkness**. A momentary flash of light during the night resets the plant's [[chrysanthemum-coronarium]], as if the dark period had never occurred. This finding had immediate practical applications: chrysanthemum farmers could prevent flowering throughout autumn and winter by giving brief night-time light pulses, then stop the treatment two weeks before Mother's Day to trigger simultaneous flowering just in time for the spring market.
 
 ### Color Specificity
 

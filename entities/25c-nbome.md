@@ -88,3 +88,8 @@ first-pass metabolism.
 Effects include visual hallucinations (geometric patterns, color
 enhancement, texture distortion), altered perception of time, enhanced
 emotional responsiveness, and mild cognitive shifts. Compared to 25I-
+
+## See Also
+- [[lsd]]
+- [[25b-nbome]]
+- [[25i-nbome]]

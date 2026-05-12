@@ -23,7 +23,7 @@ Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic orchid
 
 It is one of the most important medicinal plants in traditional Chinese medicine.
 
-The species entirely lacks chlorophyll and depends on [[Auxin]] for nutrition throughout its life cycle.
+The species entirely lacks chlorophyll and depends on [[auxin-production-by-symbiotic-fungi]] for nutrition throughout its life cycle.
 
 The dried tuber of Gastrodia elata has been used medicinally for over 2,000 years in East Asia.
 
@@ -88,3 +88,8 @@ Additional bioactive constituents include parishin, gastrodigenin, vanillyl alco
 The tuber also contains [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], organic acids, and polysaccharides.
 
 Gastrodin has demonstrated neuroprotective effects in numerous preclinical studies.
+
+## See Also
+- [[composting]]
+- [[mycelium]]
+- [[morchella-elata]]

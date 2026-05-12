@@ -1,6 +1,6 @@
 ---
 title: Shirota Psilocybin Phosphorylation Synthesis
-aliases: [psilocybin synthesis, [[phosphorylation-methods-psilocybin-production-comparison]], tetrabenzylpyrophosphate]
+aliases: [[acetyl-protection-route-psilocin-psilocybin-synthesis]], [[phosphorylation-methods-psilocybin-production-comparison]], tetrabenzylpyrophosphate]
 tags: [chemistry, synthesis, psilocybin, phosphorylation, organic-chemistry, tryptamines]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-09
@@ -18,7 +18,7 @@ chromatography-free process.
 ## Phosphorylation Method Selection
 
 Several phosphorylation methodologies were applied to psilocin. Most of the
-phosphorylation methods tested did not consume the starting material at all,
+phosphorylation methods tested did not consume the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] at all,
 indicating that the steric and electronic environment of the psilocin 4-hydroxy
 group presents challenges for phosphorylation.
 
@@ -40,14 +40,14 @@ procedure—is added all at once. Stirring continues for one hour while the
 temperature is allowed to warm to 0°C.
 
 After checking TLC for production of the dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] (7),
-aminopropyl silica gel is added to the reaction mixture, which is then diluted
+[[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] is added to the reaction mixture, which is then diluted
 with ethyl acetate and filtered through a Celite pad. The filtrate is
 concentrated, redissolved in CH2Cl2, and stored overnight to allow
 precipitation of the [[psilocybin-phosphorylation-via-zwitterionic-intermediate]] (8).
 
 ## Catalytic Hydrogenolysis
 
-The zwitterionic N,O-dibenzyl phosphate intermediate (8) is subjected to
+The zwitterionic N,O-dibenzyl [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] (8) is subjected to
 catalytic hydrogenolysis to remove both benzyl protecting groups. The reaction
 uses hydrogen gas and palladium on carbon (Pd/C) in methanol at room temperature.
 The disappearance of compound 8 and its mono-debenzyl derivative is monitored

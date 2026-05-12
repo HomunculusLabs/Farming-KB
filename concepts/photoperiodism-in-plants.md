@@ -25,7 +25,7 @@ The implications were profound: if Maryland Mammoth was exposed to the long days
 
 Following the discovery of photoperiodism, plants were classified into several categories based on their [[mollison-designers-day-length-and-flowering-response]] to day length:
 
-**Short-day plants** flower only when the length of the uninterrupted dark period exceeds a critical threshold. These typically flower in late summer or autumn as days shorten. Examples include chrysanthemums, soybeans, poinsettias, and cannabis (most photoperiod-sensitive varieties). In [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], short-day [[cannabinoid-pharmacology]] is the standard method for inducing flowering — typically by switching from 18/6 or 24/0 light/dark to 12/12.
+**Short-day plants** flower only when the length of the uninterrupted dark period exceeds a critical threshold. These typically flower in late summer or autumn as days shorten. Examples include chrysanthemums, soybeans, poinsettias, and cannabis (most photoperiod-sensitive varieties). In [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], short-day [[blesching-cannabinoid-pharmacology]] is the standard method for inducing flowering — typically by switching from 18/6 or 24/0 light/dark to 12/12.
 
 **Long-day plants** require a minimum period of daylight to flower and typically bloom in spring or early summer. Examples include irises, barley, spinach, and lettuce. These plants will not flower during the short days of winter even if temperatures are favorable.
 
@@ -125,7 +125,7 @@ occurs under optimal conditions for reproductive success.
 
 - [[plant-phototropism]]
 - [[phytochrome]]
-- [[chrysanthemum]]
+- [[chrysanthemum-coronarium]]
 - [[Florigen]]
 
 Photoperiodism remains one of the best-understood examples of how plants perceive and respond to their environment, bridging molecular biology, ecology, and practical agriculture.

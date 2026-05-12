@@ -1,5 +1,5 @@
 ---
-title: "Van Life [[cotter-off-grid-mushroom-cultivation]]"
+title: Van Life Off Grid
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

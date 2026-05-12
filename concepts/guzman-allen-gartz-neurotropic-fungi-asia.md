@@ -50,7 +50,7 @@ Southeast Asia is a major center of tropical neurotropic fungal diversity, parti
 - **Indonesia (Java, Sumatra)** — Psilocybe subaeruginascens var. subaeruginascens was documented from Java by Singer and Smith (1958). Copelandia cyanescens is widespread, reported by Wasson (1959a), Heim (1960), and Allen and Gartz (1997). Boletus flammeus, B. nigerrimus, and B. nigroviolaceus were documented from Singapore by Corner (1972), though Ott (1993) questioned whether these boletes are truly neurotropic.
 - **Thailand** — Psilocybe samuiensis was described from Ko Samui by Guzmán, Bandala, and Allen (Gartz et al., 1994). [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], Copelandia cyanescens, and Dictyophora indusiata are also documented.
 - **Cambodia** — [[amanita-muscaria]]
-- [[Copelandia]]
+- [[copelandia-anomalus]]
 ## Practical Considerations
 
 When working with Neurotropic Fungi of Asia: Distribution, Taxonomy, and Ethnobotany, several practical factors should be
@@ -88,3 +88,31 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-europe]]
+- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
+- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
+- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]

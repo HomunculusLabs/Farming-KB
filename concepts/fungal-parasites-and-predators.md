@@ -117,5 +117,5 @@ Challenges:
 - [[fungal-symbiosis-types]] — Mutualistic fungal relationships
 - [[mycorrhizal-inoculation-guide]] — Beneficial fungal inoculation for crops
 - [[fungal-dna-barcoding]] — Identifying these fungi in environmental samples
-- [[Cordyceps]]
+- [[cordyceps-cultivation]]
 - [[fungal-ecology]]

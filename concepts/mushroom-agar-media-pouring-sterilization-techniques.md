@@ -73,7 +73,7 @@ As the media cools within the pressure cooker, outside air is sucked in. If this
 
 ### Yield
 
-One liter of malt extract agar medium will pour approximately **20 to 40 petri dishes** (100 × 15 mm), depending upon the depth of the pour. Shallower pours yield more dishes but may dry out faster during incubation.
+One liter of [[malt-extract-agar]] medium will pour approximately **20 to 40 petri dishes** (100 × 15 mm), depending upon the depth of the pour. Shallower pours yield more dishes but may dry out faster during incubation.
 
 ### Pre-Pour Preparation
 

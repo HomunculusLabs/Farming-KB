@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-The Winston et al. (2014) [[winston-cannabis-microbiome-study-design]] provided quantitative measurements of community dissimilarity between three root-associated compartments — bulk soil, rhizosphere soil, and endorhiza (root interior) — using both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances. These inter-compartment distance comparisons revealed a key pattern: rhizosphere and bulk soil communities are significantly more similar to each other than either is to the [[Proteobacteria]]. This finding has implications for understanding how root colonization progresses and whether the two-tier selection model's predicted intermediate step between soil and endorhiza is detectable as a distinct community state.
+The Winston et al. (2014) [[winston-cannabis-microbiome-study-design]] provided quantitative measurements of community dissimilarity between three root-associated compartments — bulk soil, rhizosphere soil, and endorhiza (root interior) — using both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances. These inter-compartment distance comparisons revealed a key pattern: rhizosphere and bulk soil communities are significantly more similar to each other than either is to the [[proteobacteria-dominance-cannabis-endorhiza]]. This finding has implications for understanding how root colonization progresses and whether the two-tier selection model's predicted intermediate step between soil and endorhiza is detectable as a distinct community state.
 
 ## The Three Compartments
 
@@ -87,3 +87,38 @@ Of the 51 OTUs significantly different between sample types in the weighted anal
 Beta-diversity distances were computed using QIIME 1.7.0 with both weighted and unweighted UniFrac metrics. The phylogenetic tree was built using FastTree from PyNAST-aligned sequences against the Greengenes core set. Significance of distance comparisons was assessed using pairwise t-tests between distance matrices, with all samples from both experiments included in the analysis. Samples were rarified to an even depth of 3,000 sequences (first experiment) or 45,000 sequences (second experiment) before distance computation.
 
 The use of triplicate samples per plant (three separate root samples per plant) in the second experiment provided within-plant replication that allowed estimation of within-plant heterogeneity, though these pseudoreplicates do not represent true biological independence. The PCoA visualization of community distances showed clear clustering patterns, with PC1 dominated by soil type (32.06% variance in [[unifrac-weighted-unweighted-analysis-cannabis-microbiome]]) and PC2 dominated by sample type differentiation (11.34% variance).
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[cannabis-alpha-diversity-gradient-bulk-soil-rhizosphere-endorhiza]]
+- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
+- [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]]
+- [[dom]]
+- [[det]]

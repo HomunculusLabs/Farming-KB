@@ -70,7 +70,7 @@ known below selenium in the Periodic Table. Each deserves some
 ## Synthesis
 
 A suspension of 5.65 g 1,4-dimethoxybenzene in 100 mL
-petroleum ether containing 6.5 mL N,N,N',N'-tetramethylethylenediamine
+[[petroleum-ether]] containing 6.5 mL N,N,N',N'-tetramethylethylenediamine
 was magnetically stirred, placed in an inert atmosphere, and cooled to
 0 deg C with an external ice bath. There was then added 27 mL of 1.6 M
 butyllithium in hexane. The solids present went into solution, and

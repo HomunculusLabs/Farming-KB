@@ -10,12 +10,12 @@
     10|## Summary
     11|
     12|Alfalfa pellets and flaked alfalfa meal serve as versatile food resources
-    13|in actively aerated compost tea (AACT) brewing, supporting both bacterial
+    13|in [[actively-aerated-compost-tea-aact-brewing]] tea (AACT) brewing, supporting both bacterial
     14|and fungal growth. While not the strongest fungal food available, alfalfa
     15|provides nitrogen, growth regulators such as triacontanol, and complex
     16|carbohydrates that certain fungi can metabolize. When combined with
     17|molasses and other fungal foods, alfalfa contributes to a balanced
-    18|microbial community in the brew. (see [[compost-tea-ingredients-and-recipes]]).
+    18|[[cannabis-cultivar-microbial-community-effects]] in the brew. (see [[compost-tea-ingredients-and-recipes]]).
     19|
     20|## Nutrient Profile and Characteristics
     21|
@@ -30,9 +30,9 @@
     30|on the source and processing method. This places it in a range that
     31|supports robust bacterial activity while also providing substrates that
     32|select for certain fungal species. This moderate C:N ratio makes it a
-    33|useful intermediate food resource when you want both bacterial and fungal
+    33|useful intermediate food resource when you want both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]]
     34|growth in a brew, unlike the strong fungal selectors which have much
-    35|wider C:N ratios. (see [[circadian-rhythm-in-plants]]).
+    35|wider C:N ratios. (see circadian rhythm in plants).
     36|
     37|The key distinction Ingham makes is that alfalfa hay (not straw) is the
     38|correct material. Hay retains the leafy, nutrient-rich portions of the
@@ -59,7 +59,7 @@
     59|most recalcitrant carbon, which bacteria cannot easily metabolize but
     60|fungi can break down enzymatically. Alfalfa's position as a moderate
     61|fungal food means it is best used when you want a balanced brew that
-    62|supports both bacterial and fungal communities.
+    62|supports both bacterial and [[biodiversity-fungi-soil-fungal-communities]].
     63|
     64|If your goal is to maximize fungal biomass for a perennial crop or a
     65|disease-susceptible plant, you would want to supplement alfalfa with
@@ -68,7 +68,7 @@
     68|fungal foods in the brew, and that these can be combined with alfalfa
     69|for complementary effects.
     70|
-    71|## Triacontanol and Plant Growth Regulators
+    71|## Triacontanol and [[singh-fungal-plant-growth-regulators-production]]
     72|
     73|Alfalfa contains naturally occurring growth regulators, most notably
     74|triacontanol, a 30-carbon long-chain alcohol that functions as a natural
@@ -85,6 +85,41 @@
     85|The presence of triacontanol is one distinguishing feature of alfalfa
     86|compared to other protein meals such as blood meal and feather meal.
     87|These alternative protein meals provide nitrogen for microbial growth but
-    88|lack the secondary metabolite profile found in alfalfa. Cottonseed meal,
+    88|lack the [[fungal-elicitors-enhanced-secondary-metabolite-production]] profile found in alfalfa. Cottonseed meal,
     89|while sometimes more effective for fungal selection, also does not
     90|contain the same growth-regulating compounds.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[dom]]
+- [[ingham-bacterial-to-fungal-succession-soil-food-web]]
+- [[ingham-fungal-food-selection]]
+- [[molasses-fungal-food-sticker-spreader-ingham]]

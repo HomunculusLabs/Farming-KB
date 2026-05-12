@@ -16,7 +16,7 @@ Source: [[steve-solomon]], "Gardening When It Counts" (2005)
 
 Solomon's chapter on compost challenges the [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] orthodoxy that "all compost is good compost." His core argument: most home-made compost is nutritionally inadequate for growing high-demand vegetables, and excessive [[hamilton-composting-and-organic-matter-management]] can unbalance soil minerals.
 
-The original [[geoff-hamilton-the-organic-gardening-companion]] movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
+The original [[geoff-hamilton]] movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
 - Nitrogen content exceeding 3 percent
 - Total N+P+K exceeding 6 percent (with fair phosphorus)
 - C/N ratio no higher than 12:1

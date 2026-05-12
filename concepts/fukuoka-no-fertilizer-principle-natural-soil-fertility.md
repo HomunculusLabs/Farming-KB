@@ -1,12 +1,12 @@
 ---
-title: Fukuoka [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]] and [[fukuoka-natural-soil-fertility]]
+title: "Fukuoka No Fertilizer Principle Natural Soil Fertility"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Fukuoka's No-Fertilizer Principle and Natural Soil Fertility
 
-Masanobu Fukuoka's second principle [[four-principles-of-natural-farming]] — **no fertilizer** — challenges one of the most deeply held assumptions of modern agriculture: that crops require human-supplied nutrients to thrive. Fukuoka argues that the soil, when left to its own devices, already provides everything plants need.
+[[masanobu-fukuoka]]'s second principle [[four-principles-of-natural-farming]] — **no fertilizer** — challenges one of the most deeply held assumptions of [[fukuoka-critique-modern-agriculture]]: that crops require human-supplied nutrients to thrive. Fukuoka argues that the soil, when left to its own devices, already provides everything plants need.
 
 ## Crops Depend on the Soil
 
@@ -51,10 +51,10 @@ Plants grown with fertilizer are weakened at a fundamental level. This weakness 
 Fertilizers do not behave in the field the way they do in the laboratory. Approximately 30% of the nitrogen in ammonium sulfate is denitrified by soil microbes and escapes into the atmosphere — a fact discovered only after decades of widespread use. Phosphate fertilizers, meanwhile, penetrate no more than two inches into the soil, leaving the vast majority of the root zone untouched.
 
 ### 4. Soil Acidification and Microbial Destruction
-More than 70% of the "big three" fertilizers — ammonium sulfate, super-phosphate, and potassium sulfate — consists of concentrated sulfuric acid. At the time of Fukuoka's writing, roughly 1.8 million tons of these materials were being dumped annually on Japanese farmland. The result is progressive acidification of the soil and the wholesale killing of soil microorganisms — the very organisms that make natural fertility possible.
+More than 70% of the "big three" fertilizers — ammonium sulfate, super-phosphate, and potassium sulfate — consists of concentrated sulfuric acid. At the time of Fukuoka's writing, roughly 1.8 million tons of these materials were being dumped annually on Japanese farmland. The result is progressive acidification of the soil and the wholesale killing of soil microorganisms — the very organisms that make [[fukuoka-natural-fertility-cycle]] possible.
 
 ### 5. Trace Element Deficiency
-By killing the soil with chemicals, farmers create deficiencies in the trace elements that are essential to crop health — elements that a living soil would ordinarily supply in abundance.
+By killing the soil with chemicals, farmers create deficiencies in the [[teaming-with-nutrients-micronutrients-and-trace-elements]] that are essential to crop health — elements that a living soil would ordinarily supply in abundance.
 
 ## Complex Interactions That Science Overlooks
 
@@ -112,7 +112,7 @@ Nature already provides all the fertilizers needed. The progression from bare ro
 
 Fukuoka is careful to distinguish his position from a blanket rejection of all soil amendments:
 
-> "The no-fertilizer principle does not say that fertilizers are worthless, but that there is no need to apply chemical fertilizers."
+> "The no-fertilizer principle does not say that fertilizers are worthless, but that there is no need to apply [[cervantes-chemical-fertilizers-guide]]."
 
 Even composting, widely regarded as a cornerstone of organic agriculture, comes under Fukuoka's scrutiny. He argues that the net effect of all the labor involved in preparing compost is to speed up decomposition by at most 10 to 20% — a marginal gain that does not justify the effort:
 

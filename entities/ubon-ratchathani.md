@@ -37,3 +37,60 @@ Ubon Ratchathani is significant in the context of disability-inclusive mycology 
 
 - FAO RAP Publication 2001/12: "[[mushroom-cultivation-for-disabilities-training-program]] People with Disabilities — A Training Manual"
 - TCP/THA/8821(A): Mushroom Production Training for Disabled People project
+
+## Why the Province Mattered
+
+Ubon Ratchathani provided a realistic test environment for disability-inclusive mushroom training.
+
+The project was not designed for an affluent laboratory setting; it was designed for rural households with limited capital.
+
+That made the province a strong demonstration site for low-cost houses, short production cycles, and skills that could be transferred to family members.
+
+## Program Conditions
+
+- Rural poverty created a need for income-generating work.
+- Mushrooms already had dietary and market relevance in Thailand.
+- Local materials kept infrastructure costs low.
+- Government and FAO support supplied training structure.
+- The Training Center for Disabled People offered an institutional base.
+- Successful trainees could become peer trainers.
+
+## Link to Training Design
+
+The Ubon Ratchathani project is a place-based example of [[mushroom-cultivation-training-program-design]].
+
+Its results showed that training had to include practical construction, substrate preparation, inoculation, incubation, fruiting, harvesting, and marketing.
+
+The province therefore functions as more than a location; it is evidence that the training sequence could work under constrained rural conditions.
+
+## Accessibility Lessons
+
+The project demonstrated that mushroom cultivation can be divided into tasks suited to different abilities.
+
+Some trainees could manage bag filling or harvesting, while others could focus on monitoring, cleaning, sales, or record keeping.
+
+This division of labor connects directly to [[rehabilitation-through-mushroom-cultivation]], where economic participation and confidence are part of the outcome.
+
+## Economic Significance
+
+A 1,000-bag mushroom house costing about 500 Baht was central to the model's appeal.
+
+Low capital cost meant trainees did not need large loans before testing production.
+
+Short cycles meant income could begin within months rather than years.
+
+Family knowledge transfer expanded the benefit beyond the individual trainee.
+
+## Relationship to Cultivation Practice
+
+Ubon Ratchathani's experience ties infrastructure to biology.
+
+Cheap buildings still had to support humidity, cleanliness, airflow, incubation, and fruiting.
+
+The program's success therefore depended on matching local construction with reliable mushroom technique, as summarized in [[mushroom-cultivation-for-disabilities-training-program]].
+
+## Summary
+
+Ubon Ratchathani is important because it made an inclusive mycology program concrete.
+
+It supplied the social setting, institutional base, local constraints, and success cases that turned mushroom cultivation into a replicable livelihood model.

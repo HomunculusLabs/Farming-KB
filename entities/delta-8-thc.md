@@ -33,7 +33,7 @@ created: 2026-04-28
 | Double Bond Position | C-8 (between C-8 and C-9) |
 | Stereochemistry | (−)-trans-Δ⁸-THC |
 
-The critical structural distinction from Δ⁹-THC is the location of the double bond in the cyclohexene ring. In Δ⁹-THC, the double bond is between C-9 and C-10, while in Δ⁸-THC it is between C-8 and C-9. This shift from a terminal to an internal double bond alters the molecule's three-dimensional conformation and its affinity for [[cannabinoid-receptors-cb1-and-cb2]].
+The critical structural distinction from Δ⁹-THC is the location of the double bond in the cyclohexene ring. In Δ⁹-THC, the double bond is between C-9 and C-10, while in Δ⁸-THC it is between C-8 and C-9. This shift from a terminal to an internal double bond alters the molecule's three-dimensional conformation and its affinity for [[cannabinoid-receptors-cb1-cb2]].
 
 ### Biosynthesis
 

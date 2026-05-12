@@ -13,24 +13,24 @@ sources:
   - metzner-entheogen-terminology-and-worldview-paradigms|metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 ---
 
-# metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] Plant Knowledge and Entheogen Safety
+# metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous Plant Knowledge and Entheogen Safety
 
-plant-knowledge-versus-synthetic-drug-safety-[[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] peoples possess profound knowledge of plants, herbs, and their effects on
+plant-knowledge-versus-synthetic-drug-safety-[[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous peoples possess profound knowledge of plants, herbs, and their effects on
 the body and mind. This accumulated botanical wisdom, developed over millennia of
 careful observation and use, represents a significant advantage in the assessment
 of psychoactive substance safety compared to newly synthesized compounds whose
 long-term effects remain unknown.
 
-Ralph [[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]], drawing on decades of research into both Western psychotherapy and
-metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] shamanic traditions, highlights this traditional knowledge as a critical
+Ralph [[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner, drawing on decades of research into both Western psychotherapy and
+metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous shamanic traditions, highlights this traditional knowledge as a critical
 resource for understanding the safe use of hallucinogenic plants. His personal
-journey from Harvard LSD research to appreciation of metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] plant wisdom
+journey from Harvard LSD research to appreciation of metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous plant wisdom
 illustrates this evolution in thinking.
 
 ## Traditional Ethnobotanical Expertise
 
 Shamanic cultures around the world have developed extensive pharmacopoeias through
-generations of empirical testing. metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] healers are well able to distinguish
+generations of empirical testing. metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous healers are well able to distinguish
 harmful from beneficial medicines, having refined their understanding through
 centuries of direct experience with the plants in their local ecosystems.
 
@@ -57,7 +57,7 @@ effects across many human lifetimes of use within a living cultural tradition.
 ## Historical Depth of Entheogenic Use
 
 Many entheogenic plants used in shamanic contexts have been employed for hundreds
-or even thousands of years. Peyote use among North American metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] peoples,
+or even thousands of years. Peyote use among North American metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous peoples,
 ayahuasca use throughout the Amazon basin, [[powell-mayan-civilisation-and-psilocybin-mushroom-use]] among the
 Mazatec peoples of Mexico, and iboga use among the Fang peoples of Central Africa
 all predate European contact by centuries or more.
@@ -73,10 +73,10 @@ art and ceramics, and consistent oral traditions spanning many generations. This
 natural selection process, operating over centuries, has produced a corpus of plant
 medicines with well-established safety profiles.
 
-## [[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]'s Intellectual Journey to Plant Wisdom
+## [[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner's Intellectual Journey to Plant Wisdom
 
-[[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]'s own intellectual trajectory illustrates the growing recognition of
-metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] plant knowledge within metzner western psychology freud jung reich entheogenic integration. Beginning in the 1960s with
+[[metzner-entheogen-terminology-and-worldview-paradigms]]-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner's own intellectual trajectory illustrates the growing recognition of
+metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous plant knowledge within metzner western psychology freud jung reich entheogenic integration. Beginning in the 1960s with
 research on LSD and psilocybin at Harvard University alongside Timothy Leary and
 Richard Alpert, his focus shifted during the 1970s to nondrug methods of
 consciousness transformation.
@@ -85,7 +85,7 @@ During the 1980s, contact with the work of Michael Harner, Joan Halifax, Peter
 Furst, and Terence and Dennis McKenna led to a deeper appreciation of shamanic
 traditions and their sophisticated understanding of psychoactive plants.
 
-This progression from laboratory psychedelics to metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner]]|indigenous]] plant wisdom reflected
+This progression from laboratory psychedelics to metzner-hallucinogen-etymology-alucinare-rehabilitation-and-entheogen-wasson-ott|metzner|indigenous plant wisdom reflected
 a growing awareness that traditional knowledge systems surrounding entheogenic
 plants contained safety information and ceremonial wisdom that the Western
 scientific approach had largely overlooked.

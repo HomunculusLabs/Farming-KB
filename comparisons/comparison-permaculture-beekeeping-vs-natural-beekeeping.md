@@ -93,5 +93,5 @@ management philosophy.
 - [[comparison-natural-beekeeping-vs-standard-beekeeping]]
 
 - [[beekeeping-basics]]
-- [[bee-forage-plants]]
+- [[forage-turnip]]
 - [[beneficial-insects-guide]]

@@ -12,7 +12,7 @@ type: concept
 
 ## Overview
 
-DOC (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine
+[[doc]] (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine
 documented in PIHKAL as compound #33. It is the alpha-methylated analogue of
 2C-C and a member of the DO (dimethoxyamphetamine) family. With the chlorine
 atom at the 4-position, DOC occupies an interesting middle ground in the DO

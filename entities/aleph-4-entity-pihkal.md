@@ -37,7 +37,7 @@ sources: ["Shulgin - PIHKAL"]
 > try it again, but will block out more time for it.
 >
 > (with 8 mg) There was without question a plus two, but none of the
-> edges of unreality that are part of LSD. The sounds that are just
+> edges of unreality that are part of [[lsd]]. The sounds that are just
 > outside of my hearing are intriguing, and distract me from the
 > eyes-closed imagery that is just barely possible with music while
 > lying down. But, going outside, there were no obvious sources of the

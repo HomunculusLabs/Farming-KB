@@ -77,7 +77,7 @@ Designed for mirror scrying and banishing, this arrangement creates an immersive
 - Mirror placed directly across from the practitioner
 - One mirror on each side of the practitioner (three mirrors total)
 - Fog machine filling the space with atmospheric haze
-- Vaporizer for cannabis consumption
+- Vaporizer for [[hashish-preparation-and-cannabis-consumption]]
 
 The three-mirror arrangement is the most elaborate spatial setup in the guide, creating a scrying chamber where the practitioner is surrounded by reflections that multiply infinitely in the darkness and fog.
 

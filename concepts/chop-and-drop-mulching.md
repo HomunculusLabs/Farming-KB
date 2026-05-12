@@ -39,7 +39,7 @@ Toby Hemenway describes using mulch-producing species such as comfrey and cardoo
 
 - [[sheet-mulching]] -- layered [[fukuoka-straw-mulch-technique]] for creating garden beds
 - [[cover-crop-selection-guide]] -- choosing cover crops for chop-and-drop
-- [[hugelkultur-bed-construction-detailed]] -- [[coppice-and-pollard-systems-for-woody-biomass]] buried in beds
+- [[hugelkultur-bed-construction-detailed]] -- [[coppice-and-pollard-systems]] buried in beds
 
 ## Design Principles
 Effective implementation follows core permaculture principles:

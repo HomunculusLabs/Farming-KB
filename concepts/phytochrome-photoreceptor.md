@@ -15,7 +15,7 @@ enables them to detect red and far-red light. Discovered through the
 photoperiodism research of the 1940s and 1950s, phytochrome acts as a
 molecular switch that controls numerous developmental processes
 including [[cannabis-seed-germination]], [[shade-avoidance-syndrome]], [[what-a-plant-knows-photoperiodism-flowering-time-measurement]], and
-[[chrysanthemum]] entrainment. It is one of the most important sensory
+[[chrysanthemum-coronarium]] entrainment. It is one of the most important sensory
 molecules in plant biology and plays a direct role in [[cannabis-flowering-cycles]]
 regulation.
 

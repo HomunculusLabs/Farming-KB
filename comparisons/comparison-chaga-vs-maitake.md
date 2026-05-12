@@ -125,7 +125,7 @@ immune-modulating arms of the body's defense system.
 ## See Also
 
 - [[comparison-lions-mane-vs-chaga-medicinal-mushrooms]]
-- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
+- [[comparison-chaga-vs-turkey-tail]]
 - [[medicinal-mushrooms]]
 - [[chaga-mushroom-research]]
 - [[maitake-cancer-clinical-research]]

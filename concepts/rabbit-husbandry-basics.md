@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-quail-husbandry-vs-rabbit-husbandry]] Basics"
+title: Rabbit Husbandry Basics
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -90,4 +90,4 @@ good mothers), Satin (good meat yield, beautiful sheen).
 
 ## See Also
 - [[comparison-duck-keeping-vs-rabbit-husbandry]]
-- [[rabbit-husbandry-and-breeding-in-permaculture-systems]]
+- [[rabbit-husbandry]]

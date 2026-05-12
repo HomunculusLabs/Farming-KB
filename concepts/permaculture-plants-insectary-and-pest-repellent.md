@@ -51,7 +51,7 @@ Species with combined bee forage, medicinal (to livestock), and fire-retardant p
 
 | Plant | Nectar | Pollen | Season/Notes |
 |-------|--------|--------|--------------|
-| Clovers | N | P | Up to 400 kg/ha N yield; [[compost]] especially high |
+| Clovers | N | P | Up to 400 kg/ha N yield; [[mushroom-compost]] especially high |
 | Cowpea | N | P | |
 | Lotus spp | N | P | |
 | Lucerne | N | P | Very long flowering; 78-285 kg/ha/day measured |

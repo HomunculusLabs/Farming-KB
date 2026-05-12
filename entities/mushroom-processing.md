@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-processing-recipes-waste-management]]
+title: "Mushroom Processing"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, processing, preservation, food-preservation, value-addition]

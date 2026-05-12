@@ -65,7 +65,7 @@ Modern research has focused on its D-fraction, a protein-bound β-glucan with de
 
 **Fruiting season:** Late summer to early autumn (August–November in the Northern Hemisphere). Prefers cool, wet conditions following warm summer months. Initiated by dropping temperatures and increased moisture.
 
-The species is ecologically significant as a decomposer of large root systems, recycling substantial quantities of [[coppice-and-pollard-systems-for-woody-biomass]] in forest ecosystems. It can persist on infected root systems for years, producing annual fruitings.
+The species is ecologically significant as a decomposer of large root systems, recycling substantial quantities of [[coppice-and-pollard-systems]] in forest ecosystems. It can persist on infected root systems for years, producing annual fruitings.
 
 ## Bioactive Compounds and Pharmacology
 

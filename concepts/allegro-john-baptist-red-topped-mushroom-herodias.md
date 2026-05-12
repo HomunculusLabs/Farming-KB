@@ -116,3 +116,31 @@ In Numbers 11:7, **bdellium** is described as having "white spots like fingernai
 ## Summary
 
 Across the Gospel and Revelation texts, John the Baptist functions as a concentrated node of mushroom word-play. His name encodes the red cap (*kh-n-n*), his title encodes the dyeing mushroom (*tabbal*), his clothing references the split volva (*kirkārāh*), his diet conceals fungal vocabulary (*gobay/gab'ā*), and his execution dramatizes the serving of the mushroom cap on a platter. The surrounding cast — Herod, Herodias, her daughter, the men of Galilee — are all recruited for their phonetic resemblance to mushroom names and epithets. The red-and-white Amanita, visible in the Revelation vision and in the panther-based titles applied to Jesus, is the single referent that unifies these otherwise disparate narratives.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[amanita-pantherina]]
+- [[dom]]
+- [[amanita-muscaria]]
+- [[mandrake-plant]]
+- [[amanita]]

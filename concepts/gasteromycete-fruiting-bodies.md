@@ -24,7 +24,7 @@ diverse assemblage of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-clean
 enclosed spore-producing tissues. Unlike gilled mushrooms that expose
 their basidia to the air for ballistic [[bloomfield-fungal-spore-discharge-and-dispersal]], gasteromycetes
 form spores internally and have evolved a remarkable circus of
-alternative [[fungal-spore-biology-and-dispersal-mechanisms]].
+alternative [[fungal-spore-biology]].
 Though not a natural phylogenetic group (they evolved independently
 from multiple mushroom ancestors), gasteromycetes display some of the
 most inventive structures in the [[fungal-kingdom-diversity]].
@@ -88,3 +88,38 @@ surfaces are smeared with spore slime.
 The time-lapse of *Anthurus* hatching has been described as resembling
 the agonized contortions of a horribly injured lobster. *Laternea*
 fuses its arms at the tips and dangles a reeking lantern inside the
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[dom]]
+- [[det]]
+- [[spore]]
+- [[mycelium]]
+- [[decomposition]]

@@ -77,7 +77,7 @@ FPE is ideal for growers following Korean Natural Farming or seeking
 low-cost, low-tech inputs that target specific crop needs. When a crop shows
 deficiency symptoms, selecting the right FPE from a specific plant can address
 the shortfall precisely. FPE is also excellent for small-scale growers who
-cannot invest in [[circadian-rhythm-in-plants]], and for those who want to leverage locally
+cannot invest in [[chamovitz-circadian-rhythm-internal-clock-plants]], and for those who want to leverage locally
 abundant wild plants as [[natural-fertilizer-sources-and-application]]. The long shelf life and simplicity
 make it practical for anyone, regardless of scale. Backpack sprayers can apply
 FPJ over large areas with minimal effort. See [[knf-input-application-timing]] for scheduling guidance.

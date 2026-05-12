@@ -1,5 +1,5 @@
 ---
-title: "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] [[biofumigation-and-brassica-cover-crops-for-pest-management]]"
+title: "Growing Gourmet Pest Management"
 created: 2026-04-26
 tags:
   - [[mycology]]
@@ -88,3 +88,20 @@ is increasingly recognized as essential for sustainable outcomes.
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
+
+## See Also
+- [[growing-gourmet-sciarid-phorid-fly-management]]
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[mushroom-cultivation]]
+- [[mycorrhiza]]
+- [[growing-gourmet-gypsum-lime-ph-management]]

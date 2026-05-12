@@ -13,7 +13,7 @@ type: query
 ## Short Answer
 The best ground covers for no-till gardens combine soil protection with
 multiple functions like [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nutrient accumulation, weed
-suppression, and pollinator support. White clover, [[compost]], and
+suppression, and pollinator support. White clover, [[mushroom-compost]], and
 perennial peanut provide nitrogen fixation; comfrey mines deep minerals;
 daikon radish breaks compacted soil; and buckwheat attracts pollinators
 while smothering weeds. The right choice depends on your climate, goals,

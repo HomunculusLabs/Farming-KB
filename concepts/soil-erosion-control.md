@@ -66,7 +66,7 @@ A = R x K x LS x C x P
 ### Cover Crops
 Living plant cover protects soil from raindrop impact and binds soil with roots:
 
-- **Winter cover crops**: Cereal rye, winter wheat, [[compost]], hairy vetch protect soil through winter
+- **Winter cover crops**: Cereal rye, winter wheat, [[mushroom-compost]], hairy vetch protect soil through winter
 - **Summer cover crops**: Buckwheat, cowpeas, sorghum-sudangrass cover soil between cash crops
 - **Permanent cover**: Maintain permanent vegetation on steep slopes, waterways, and critical areas
 - See [[cover-cropping-guide]] for species selection and management details

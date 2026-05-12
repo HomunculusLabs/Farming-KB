@@ -42,7 +42,7 @@ illustrates how preconceived notions can shape psychedelic experiences.
 
 ## See Also
 
-- [[EMCDDA]]
+- [[emcdda-magic-mushroom-hunting-europe]]
 
 - [[leary-harvard-psilocybin-project]]
 - gordon-wasson

@@ -60,3 +60,24 @@ Both amendments are considered safe for organic gardening and are approved by mo
 Both perlite and vermiculite are naturally occurring minerals that are mined and then processed through high-temperature heat expansion.
 Perlite is mined primarily in the United States, Greece, Turkey, and Japan, with the largest deposits located in New Mexico.
 The expansion process for perlite involves heating crude ore to approximately 1600 degrees Fahrenheit, causing trapped water to vaporize and expand the material.
+
+## Practical Selection Guide
+
+- For a direct side-by-side note, see [[comparison-perlite-vs-vermiculite]].
+- For mushroom casing applications, compare [[casing-soil-recipe-peat-vermiculite-limestone]] and [[peat-perlite-casing-layer-composition-psilocybe-cubensis-miniculture-bigwood-beug]].
+- For general soil terminology, place both amendments within [[garden-soil-terminology-glossary]].
+- Choose more perlite when the main risk is waterlogging, root rot, compaction, or low oxygen in the root zone.
+- Choose more vermiculite when the main risk is drying out, uneven germination moisture, or poor nutrient retention.
+- In seed-starting trays, vermiculite can help keep the surface evenly moist, but too much can keep delicate seedlings saturated.
+- In succulent, cactus, Mediterranean herb, and many cannabis container mixes, perlite is usually safer because it opens pore space.
+- In hot propagation areas, a small amount of vermiculite can buffer rapid drying between waterings.
+- Rinse or pre-moisten dusty material before mixing, especially indoors or around people with respiratory sensitivity.
+- Neither amendment replaces compost, fertilizer, mineral balancing, or biological soil management.
+- Think of perlite as structure and air; think of vermiculite as sponge and exchange surface.
+- The right blend depends on container size, watering frequency, plant species, humidity, and the base medium.
+- Small containers dry quickly and may tolerate more vermiculite, while large containers retain water longer and often need more perlite.
+- For hydroponics, perlite's drainage and inertness usually make it more predictable than vermiculite.
+- For mushroom work, vermiculite's water-holding and barrier properties explain why it appears in PF-style methods and casing formulas.
+- A useful test is to water a sample pot, let it drain, and squeeze a handful: if it stays soggy and dense, increase perlite; if it sheds water too fast, add vermiculite or organic matter.
+- Avoid duplicating amendment advice without naming the crop and growing context, because the same material can solve one problem and create another.
+- The safest default for beginners is a balanced blend, adjusted after observing drainage speed and plant response.

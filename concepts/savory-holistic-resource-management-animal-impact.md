@@ -72,6 +72,17 @@ community of the time.
 ## Application to Croplands
 
 The concept of animal impact may also serve goals on cropland. In brittle
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[animal-cookies]]
+- [[animal-harvest-and-processing]]
+- [[savory-testing-and-management-guidelines]]
+- [[savory-animal-days-and-forage-measurement]]
+
 ## See Also
 
 - [[savory-holistic-resource-management-energy-flow]]

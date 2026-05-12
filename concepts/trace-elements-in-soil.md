@@ -72,6 +72,17 @@ The best treatment for trace-element deficiencies is to prevent them from occurr
 - Multiple interacting factors contribute to system-level effects.
 - Understanding these processes enables more targeted and effective interventions.
 
+## Soil Health Indicators
+
+Healthy soil exhibits good structure, earthy smell, and diverse biological activity. Carbon-to-nitrogen ratios between 25:1 and 30:1 support optimal microbial decomposition. Regular soil testing guides amendment schedules.
+
+## See Also
+
+- [[fukuoka-soil-building-approach]]
+- [[soil-building-ecological-garden]]
+- [[ozier-pdc-composting-and-soil-building]]
+- [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]
+
 ## See Also
 - [[teaming-with-microbes-bacteria-and-archaea-in-soil]]
 - [[singh-fungal-interactions-with-heavy-metals-in-soil]]

@@ -1,5 +1,5 @@
 ---
-title: "Mollison Sediment Management And [[mollison-designers-check-dam-types-and-landscape-placement]] Systems"
+title: Mollison Sediment Management and Check Dam Systems
 created: 2026-04-26
 tags:
   - [[permaculture]]
@@ -88,3 +88,7 @@ stabilized, sediment-filled benches. The process works as follows:
 
 1. The first gabion captures the coarsest sediment during flow events.
 2. A small silt field forms behind it.
+
+## See Also
+
+- [[mollison-designers-check-dam-types-and-landscape-placement]]

@@ -141,28 +141,10 @@ The Christian Eucharist was not unique. It belongs to a family of Indo-European
 sacramental practices, all centered on the consumption of [[ceremonial-shamanic-use-psychoactive-mushrooms]]:
 
 | Tradition | Sacrament | Deity/Figure |
-|-----------|-----------|-------------|
-| **Vedic** | Soma | Indra |
-| **Zoroastrian** | Haoma | Ahura Mazda |
-| **Greek** | Ambrosia | Olympian gods |
-| **Christian** | Eucharist (Living Bread & Wine) | Jesus Christ |
-
-In each tradition, the ritual follows the same pattern: a sacred plant is
-prepared as both food and drink, consumed in a communal ceremony, and produces
-experiences of divine communion, visionary insight, healing, and spiritual
-rebirth. The names differ, the cultural frameworks differ, but the underlying
-pharmacological practice is **the same**.
-
-All Indo-European religions shared the mushroom sacrament at their core. The
-Vedic Soma ceremony, the Zoroastrian Haoma ritual, the Greek consumption of
-Ambrosia, and the original Christian Eucharist were regional expressions of a
-single ancient practice — the ritual consumption of *Amanita muscaria* as the
-Herb of Immortality.
-
 ## See Also
 
-- [[Amanita Muscaria — Herb of Immortality]]
-- [[Amanita Muscaria — Tree of Knowledge of Good and Evil]]
-- [[Amanita Muscaria — Living Bread and Sacramental Wine]]
-- [[Soma — Sacred Mushroom of the Vedas]]
-- [[Haoma — Zoroastrian Mushroom Sacrament]]
+- [[amanita-muscaria-herb-of-immortality-soma-discovery]]
+- [[amanita-muscaria]]
+- [[amanita-muscaria-living-bread-sacrament]]
+- [[soma]]
+- [[haoma-—-zoroastrian-mushroom-sacrament]]

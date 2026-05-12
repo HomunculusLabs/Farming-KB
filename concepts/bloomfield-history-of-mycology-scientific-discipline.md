@@ -67,7 +67,7 @@ Several developments have moved mycology from the margins toward the center of b
 
 - **The antibiotic revolution**: The discovery of penicillin from *Penicillium* fungi demonstrated that fungi were sources of life-saving medicines
 - **The AIDS epidemic**: Opportunistic fungal infections became a major cause of mortality in immunocompromised patients, driving investment in medical mycology
-- **Ecological recognition**: The importance of mycorrhizal fungi in plant nutrition and forest health, and of decomposer fungi [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], has become central to [[fungal-ecology-and-environmental-biology]] science
+- **Ecological recognition**: The importance of mycorrhizal fungi in plant nutrition and forest health, and of decomposer fungi [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], has become central to [[fungal-ecology]] science
 - **Biotechnology**: Fungi are used in industrial fermentation, enzyme production, and bioremediation
 - **Climate science**: Fungi play critical roles in soil carbon storage and the global carbon cycle
 - **Food security**: Fungal pathogens cause devastating crop losses, while edible mushroom cultivation provides nutrition and income

@@ -77,7 +77,7 @@ The body load may be somewhat higher than with mdma-entity|MDMA, with reports of
 
 Two synthetic routes to FLEA are described in PiHKAL.
 
-The first route starts from 3,4-methylenedioxyphenylacetone, which is reacted with N-methylhydroxylamine hydrochloride and sodium cyanoborohydride in methanol.
+The first route starts from 3,4-methylenedioxyphenylacetone, which is reacted with N-methylhydroxylamine hydrochloride and sodium cyanoborohydride in [[methanol]].
 
 The pH is maintained at neutrality throughout the reaction.
 

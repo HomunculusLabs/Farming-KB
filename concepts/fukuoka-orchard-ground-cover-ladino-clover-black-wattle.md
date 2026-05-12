@@ -1,5 +1,5 @@
 ---
-title: Fukuoka [[fukuoka-citrus-orchard-ground-cover-cultivation]] Ladino Clover and Black Wattle
+title: "Fukuoka Orchard Ground Cover, Ladino Clover, and Black Wattle"
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

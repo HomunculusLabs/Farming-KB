@@ -20,7 +20,7 @@ Stamets presents a chart sampling research on species-specific metal uptake. Key
 | [[paxillus-atrotomentosus]] | Radioactive Cesium | 1,180× |
 | Boletus badius | Radioactive Cesium | 3,030 Bq/kg |
 | Cortinarius hercynicus | Radioactive Cesium | 6,750 Bq/kg |
-| [[Elaphomyces]] | Radioactive Cesium | 25,660 Bq/kg |
+| [[elaphomyces-granulatus]] | Radioactive Cesium | 25,660 Bq/kg |
 | Chlorophyllum rachodes | Cadmium | 250× |
 | Tricholoma magnivelare (Matsutake) | Arsenic | 100× |
 | [[coprinus-comatus]] (Shaggy mane) | Arsenic | 27× |
@@ -49,7 +49,7 @@ A Canadian study in the Northwest Territories measured 494 mcg/g (dry weight) of
 
 ## Cadmium Accumulation
 
-The [[Agaricus]] genus stands out for concentrating acutely toxic cadmium. Cadmium hyperaccumulation has been a concern for the button mushroom (Agaricus bisporus) industry for many years. The maximum acceptable level for cadmium intake is 2 ppb per kg of body weight per day. Intakes as low as 1 mcg per day can harm the neurological and immune systems and may cause cancer.
+The [[agaricus-aurora]] genus stands out for concentrating acutely toxic cadmium. Cadmium hyperaccumulation has been a concern for the button mushroom (Agaricus bisporus) industry for many years. The maximum acceptable level for cadmium intake is 2 ppb per kg of body weight per day. Intakes as low as 1 mcg per day can harm the neurological and immune systems and may cause cancer.
 
 Agaricus blazei (now Agaricus brasiliensis) specimens from China contained 2.75 mg/kg of cadmium, compared to 0.90 mg/kg from California and 0.53 mg/kg from Washington — likely reflecting industrial air pollution differences. If the commercial mushroom industry uses cadmium-contaminated substrate, such as high-nitrogen chicken manure, their produce will concentrate cadmium.
 

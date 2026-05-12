@@ -25,7 +25,7 @@ created: 2026-04-28
 
 Terminalia bellerica, commonly known as bibhitaki or bahera, is a large deciduous tree in the family Combretaceae. It is one of the three constituent herbs of Triphala, the most widely used polyherbal formulation in Ayurvedic medicine, alongside [[terminalia-chebula]] (haritaki) and [[emblica-officinalis]] (amla).
 
-The species is valued in traditional medicine for its astringent, anti-inflammatory, hepatoprotective, [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]. Its dried fruit is the primary plant part used medicinally, and it has been the subject of extensive pharmacological research validating many of its traditional applications.
+The species is valued in traditional medicine for its astringent, anti-inflammatory, hepatoprotective, [[ashwagandha]]. Its dried fruit is the primary plant part used medicinally, and it has been the subject of extensive pharmacological research validating many of its traditional applications.
 
 ## Taxonomy and Morphology
 

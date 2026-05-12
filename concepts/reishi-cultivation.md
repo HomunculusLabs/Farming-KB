@@ -120,7 +120,7 @@ Reishi is the most extensively studied [[medicinal-mushroom-guide-reishi]], with
 - **Anti-tumor activity:** Laboratory studies show tumor-inhibiting effects; clinical trials ongoing
 - **Liver protection:** Hepatoprotective effects demonstrated in multiple studies
 - **Cardiovascular benefits:** Blood pressure reduction, cholesterol modulation, antiplatelet effects
-- **[[ashwagandha-cultivation-uses-and-adaptogenic-properties]]:** Helps the body manage stress and maintain homeostasis
+- **[[ashwagandha]]:** Helps the body manage stress and maintain homeostasis
 
 ## See Also
 

@@ -88,3 +88,10 @@ time."
 
 Bose summed up his philosophy: "This vast abode of nature is built in
 many wings, each with its own portal. The physicist, the chemist and the
+
+## See Also
+- [[plant-electrophysiology]]
+- [[plant-bioelectricity]]
+- [[mimosa]]
+- [[dom]]
+- [[phototropism]]

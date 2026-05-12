@@ -88,3 +88,17 @@ maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

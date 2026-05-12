@@ -115,8 +115,8 @@ Finally, integrating fungal communities into the model is essential. The origina
 ## See Also
 
 - [[cannabis-endorhiza-microbiome]]
-- [[cannabinoid]]
-- [[Rhizosphere]]
+- [[cannabinoid-receptors-cb1-cb2]]
+- [[rhizosphere-ecology]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
 - [[crimson-clover]]
 - [[root-exudates]]

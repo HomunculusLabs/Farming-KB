@@ -1,5 +1,5 @@
 ---
-title: [[yakuruna-water-spirits]] of the Amazon Shamanic Allies
+title: "Ayahuasca Yakuruna Water Spirits and Shamanic Allies of the Amazon"
 source: amaringo-p-ayahuasca-visions.md
 type: concept
 ---

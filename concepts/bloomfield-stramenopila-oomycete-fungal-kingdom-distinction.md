@@ -18,7 +18,7 @@ True fungi (Kingdom Fungi) share several fundamental features that distinguish t
 - **Ergosterol in membranes**: Unlike animals (cholesterol) and plants (sitosterol), fungi use ergosterol as their primary membrane sterol—this is the biochemical basis for many antifungal drugs
 - **Absorptive nutrition**: All true fungi digest food externally through enzyme secretion and absorb the resulting small molecules
 - **Hyphal growth**: The invasive filamentous growth form, whether septate (with cross-walls) or coenocytic (without), is uniquely adapted for penetrating solid substrates
-- **Spore-based reproduction**: Fungi produce spores through both sexual and asexual pathways, often with remarkable [[fungal-spore-biology-and-dispersal-mechanisms]]
+- **Spore-based reproduction**: Fungi produce spores through both sexual and asexual pathways, often with remarkable [[fungal-spore-biology]]
 
 ## The Stramenopila: A Separate Evolutionary Lineage
 

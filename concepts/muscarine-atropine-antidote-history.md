@@ -11,7 +11,7 @@ American reports of atropine as a potential treatment.
 
 ## Naming the Toxin
 
-The deadly principle of [[amanita-mushrooms-history-chemistry-and-cultural-significance]] received multiple names as different
+The deadly principle of [[amanita]] received multiple names as different
 chemists isolated or attempted to isolate it:
 
 - **Amanitine** — Dr. Letellier's designation, probably derived from multiple
@@ -54,7 +54,7 @@ Schmiedeberg and Koppe established the fundamental pharmacological antagonism: t
 throbbing heart of a frog is silenced by a drop of muscarine, and action is
 restored by a drop of atropine. Animals injected with atropine are protected from
 a fatal dose of muscarine. This reciprocal antagonism between a fungal poison and
-a plant-derived alkaloid was among the earliest examples of [[cannabinoid]].
+a plant-derived alkaloid was among the earliest examples of [[cannabinoid-receptors-cb1-cb2]].
 
 ## Clinical Case: The October 1876 Poisoning
 

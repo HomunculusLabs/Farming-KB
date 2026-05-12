@@ -101,3 +101,17 @@ The development and understanding of 2c i pihkal entry 33 has evolved considerab
 - [[aem-pihkal-entry-1]]
 - [[aleph-7-pihkal-entry-7]]
 - [[2c-d-pihkal-entry-23]]
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[doc]]
+- [[det]]
+- [[2c-i]]
+- [[mycorrhiza]]
+- [[bis-tom-pihkal-entry-12]]

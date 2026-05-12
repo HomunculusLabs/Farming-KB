@@ -1,5 +1,5 @@
 ---
-title: [[comparison-laminar-flow-hood-vs-fruiting-chamber]] Blower and Filter Sizing
+title: Laminar Flow Hood Blower and Filter Sizing
 source: 2-laminar-flow-hood-construction.md
 type: concept
 ---

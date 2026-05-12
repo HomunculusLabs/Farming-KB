@@ -43,7 +43,7 @@ This emphasis on language centers and the Logos was central to McKenna's argumen
 
 ### Pharmacological Basis for the Distinction
 
-The pharmacological distinction McKenna intuited has some basis in [[cannabinoid]]. While both LSD and tryptamines act primarily as 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], they differ in their activity profiles across the serotonergic receptor family:
+The pharmacological distinction McKenna intuited has some basis in [[cannabinoid-receptors-cb1-cb2]]. While both LSD and tryptamines act primarily as 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], they differ in their activity profiles across the serotonergic receptor family:
 
 - **DMT and psilocybin** are relatively selective for 5-HT2A and 5-HT2C receptors, with less activity at other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes
 - **LSD** has broader receptor activity, including significant affinity for 5-HT1A, 5-HT5A, 5-HT6, and dopamine D2 receptors

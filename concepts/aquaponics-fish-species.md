@@ -119,6 +119,6 @@ Practitioners frequently encounter challenges related to resource availability, 
 ## See Also
 - [[african-truffle-species]]
 - [[agaricus-cultivation-and-species-guide]]
-- [[Agaricus]]
+- [[agaricus-aurora]]
 - [[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-psilocybin-potency-australian-species]]

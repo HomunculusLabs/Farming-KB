@@ -111,7 +111,7 @@ When applying these concepts, several factors warrant attention: environmental c
 ## See Also
 
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
-- [[mycelium-materials-and-fungal-biomanufacturing]]
+- [[mycelium]]
 - [[mycelium-composites-materials]]
 - [[comparison-mycelium-materials-vs-bioplastics-pla-pha]]
 - [[woodlovers-mycelium-running-pathway-technique]]
@@ -120,7 +120,7 @@ When applying these concepts, several factors warrant attention: environmental c
 
 - [[fungal-enzyme-systems]]
 - [[brown-rot-fungi-cellulose-degradation-wood-decay]]
-- [[Lignin]]
+- [[lignin-degradation]]
 - [[bioluminescent-fungi]]
 - [[endophytic-fungi]]
 - [[fungal-ecology-forest-floor]]

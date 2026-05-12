@@ -1,5 +1,5 @@
 ---
-title: Indo-European Language Family and [[allegro-plants-and-drugs-in-the-ancient-world]] View
+title: Amanita, the Indo-European Language Family, and Ancient World View
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -148,64 +148,3 @@ vision was not practicing two separate disciplines — they were exercising a si
 integrated body of knowledge.
 
 The sacred plant was simultaneously food, medicine, religious sacrament, and source
-of knowledge — because these functions were not conceived as separate domains. To call
-Soma "a drug" or "a medicine" or "a religious symbol" is to impose modern categories
-that would have been meaningless to the Vedic poets who composed the Rig Veda. To
-them, Soma was all of these things at once, and the attempt to reduce it to any
-single category is a distortion introduced by the modern mind.
-
-This unified world view explains why ancient texts describe the sacred plant in terms
-that seem contradictory to modern readers. A substance that is simultaneously a
-beverage, a deity, a medicine, a cosmic principle, and a source of prophetic vision
-is not being described inconsistently — it is being described within a conceptual
-framework that did not impose the rigid boundaries modern people assume. The apparent
-contradictions are artifacts of translation into modern categories, not features of
-the original texts.
-
-Modern compartmentalization — the separation of science from religion, medicine from
-spirituality, food from sacrament — is a relatively recent historical development,
-largely emerging in Europe during the Enlightenment. Projecting these categories
-backward onto ancient texts produces systematic misunderstandings. When a modern
-reader encounters a description of a divine food that grants immortality, the
-tendency is to classify it as "mythology" — a category that implicitly means "not
-real." But this classification reflects the reader's assumptions, not the text's
-intent.
-
-Ancient texts must be read without imposing modern categories and assumptions. The
-ancients meant what they said: there existed a plant preparation that produced
-extraordinary experiences, was considered sacred, and was central to their
-civilization's understanding of the world. To dismiss these accounts as mere
-metaphor or primitive superstition is to refuse to engage with the evidence on its
-own terms.
-
-## Implications
-
-The convergence of linguistic, textual, and mythological evidence points to a
-remarkable conclusion: the Herb of Immortality was central to prehistoric
-Indo-European culture. It was not a marginal folk belief or an occasional curiosity —
-it was a foundational element of the culture from which much of Western and South
-Asian civilization descends. The reverence accorded to this plant shaped the
-development of religion, medicine, philosophy, and social organization across the
-Indo-European world.
-
-The importance of this sacred plant persisted across millennia and across cultures,
-despite changing names, changing languages, and changing religious frameworks. From
-the Soma of the Rig Veda to the Ambrosia of the Greeks, from the Haoma of the
-Persians to the mead of the Norse, the same fundamental concept recurs with striking
-consistency. The endurance of this tradition across such vast stretches of time and
-space testifies to its original centrality in Proto-Indo-European culture.
-
-Modern dismissal of "mythological plants" reflects not the weakness of the ancient
-evidence, but our own inability to see past literal reading and categorical
-assumptions. The ancients were describing something they experienced directly and
-considered of supreme importance. The task of the modern investigator is not to
-decide whether their descriptions are "true" or "false" by contemporary standards,
-but to understand what they were describing and why it mattered so profoundly to
-them.
-
-The Indo-European framework provides the key: a shared prehistoric culture, a shared
-sacred plant tradition, and a shared vocabulary for describing the divine substance at
-the heart of their world. By tracing the linguistic threads that connect Soma,
-Haoma, Ambrosia, and their cognates across the Indo-European family, we can begin to
-reconstruct a tradition that predates written history and shaped the spiritual
-landscape of an entire hemisphere.

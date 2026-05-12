@@ -1,0 +1,143 @@
+---
+title: Cannabis Oil Consumption Methods
+source: ben-lemon-cannabis-alchemy.md
+type: concept
+---
+
+# Cannabis Oil Consumption Methods
+
+Once cannabis oil has been extracted and purified through the alchemical processes
+described in earlier chapters, the practitioner must choose how best to consume
+it. Chapters Six through Nine of *[[cannabis-alchemy-book]]* by [[ben-lemon]] detail four
+principal methods, each with its own practical considerations and advantages.
+
+| Method | Route | Key Advantage |
+|--------|-------|---------------|
+| Oil Capsules | Oral / Ingestion | Precise dosing, no inhalation |
+| Direct Vaporization | Inhalation | Rapid onset, full flavor |
+| [[honey-oil]] (Translucent) | Refinement prerequisite | Cleaner product for any use |
+| Reefers | Inhalation (smoking) | Familiar form factor, social use |
+
+## 1. Oil Capsules (Chapter 6)
+
+Oral consumption of purified cannabis oil delivers cannabinoids through the
+digestive system. The critical challenge is bioavailability: cannabinoids are
+lipophilic (fat-soluble), so they require a fat carrier to pass efficiently
+through the stomach and intestinal membranes into the bloodstream.
+
+**Preparation:**
+
+1. **Butter Emulsion** — Mix the purified oil with an equal amount of butter.
+   The butterfat acts as a lipid carrier, enabling the oil to traverse the
+   stomach and intestinal walls more effectively than it would alone.
+2. **Powder Blending** — Blend the butter-oil mixture into two volumes of an
+   inert, edible powder. Options include finely ground marijuana leaf or flower
+   (adds synergistic cannabinoids), parsley (neutral flavor, inexpensive bulking
+   agent), lactose (milk sugar; common in pharmaceutical preparations), or any
+   other inert edible powder that absorbs the mixture evenly.
+3. **Encapsulation** — Stuff the resulting paste into large gelatin capsules.
+   Standard "00" or "000" size capsules are typical, as they hold sufficient
+   material to deliver an effective dose.
+
+**Considerations:**
+
+- **Onset time:** Oral [[hashish-preparation-and-cannabis-products]] typically take 30–90 minutes to take
+  effect, as cannabinoids must pass through the digestive tract and liver.
+- **Duration:** Effects last significantly longer than inhaled methods, often
+  4–8 hours, due to slower metabolism and conversion of THC to 11-hydroxy-THC
+  in the liver.
+- **Dose control:** Capsules allow precise, repeatable dosing — a significant
+  advantage over smoked or vaporized methods where intake is harder to measure.
+
+## 2. Smoking Oil by Direct Vaporization (Chapter 7)
+
+Direct vaporization heats purified cannabis oil until its active compounds
+volatilize into an inhalable vapor, bypassing the digestive system entirely.
+Cannabinoids are absorbed through the alveolar membranes of the lungs directly
+into the bloodstream, providing rapid onset.
+
+**Glass Oil Pipe (Vapor Pipe):** A dedicated glass oil pipe consists of a small
+glass bowl mounted on a stem or water pipe. The oil is placed in the bowl and
+heated from below using a lighter or small torch. As the oil warms, it
+vaporizes and the user draws the vapor through the pipe. This method is
+analogous to traditional opium smoking apparatus.
+
+**Aluminum Foil Method:** A simpler, improvised approach using aluminum foil:
+
+1. Place a tiny dab of oil onto a small piece of aluminum foil.
+2. Hold the foil and apply a flame from beneath.
+3. As the oil vaporizes, inhale the rising smoke through a tube or paper funnel.
+
+**Important:** Before use, pre-burn the aluminum foil over a gas flame to burn
+off factory coatings, lubricants, or oxidized layers, preventing inhalation of
+potentially harmful byproducts.
+
+**Considerations:** Vaporization is highly efficient since cannabinoids are
+absorbed directly. Overheating can degrade cannabinoids and produce harsh smoke;
+gentle, even heating is preferred. The foil method requires minimal equipment,
+while glass pipes offer a more refined experience.
+
+## 3. Translucent (Honey) Oil — Refinement Process (Chapter 8)
+
+Honey oil is a further refinement of purified cannabis oil producing a cleaner,
+more aesthetically appealing product. The translucent amber oil resembles dark
+honey in color and consistency. This refined product can then be used with any
+consumption method.
+
+The process uses activated charcoal filtration to remove residual pigments,
+waxes, and impurities:
+
+1. **Dissolution** — Dissolve the purified oil in approximately ten times its
+   volume of pure (high-proof, preferably 190+ proof) alcohol to create a
+   dilute solution that can be filtered effectively.
+2. **Charcoal Addition** — Add granular activated charcoal (the text recommends
+   the brand "Norit") at a ratio of half the weight of the oil. The charcoal
+   binds to impurities, pigments, and chlorophyll residues through adsorption.
+3. **Filtration** — Filter the mixture through fine filter paper. The charcoal,
+   now laden with impurities, is retained while the clarified solution passes
+   through.
+4. **Evaporation** — Gently evaporate the alcohol from the filtrate, leaving
+   behind the refined oil: a thick, translucent amber oil like dark honey.
+
+**Characteristics:** Deep amber and translucent when held to light, thick and
+viscous, with significantly reduced chlorophyll, plant waxes, and particulate
+matter compared to crude extracts. Can be vaporized, used in capsules, or
+applied to reefers.
+
+## 4. Reefers (Chapter 9)
+
+A reefer, in the context of cannabis alchemy, is a marijuana cigarette
+impregnated or fortified with cannabis extract or oil. This combines the
+familiar form of a hand-rolled cigarette with the enhanced potency of
+concentrated cannabis oil, producing a product significantly stronger than a
+standard marijuana joint.
+
+**Impregnation Methods:**
+
+- **Working oil into the material:** Purified or honey oil is gently kneaded
+  directly into the ground marijuana flower before rolling, distributing the
+  oil throughout for even combustion.
+- **Painting the paper:** Oil is thinned (if necessary) and brushed onto the
+  rolling paper. As the cigarette burns, the oil on the paper vaporizes with
+  each puff.
+- **Dipping in tincture:** The finished cigarette is dipped into a cannabis
+  tincture (alcohol-based liquid extract), saturating the material. The
+  cigarette must dry completely before smoking.
+- **Injecting with tincture:** A syringe injects [[cannabis-tincture-preparation]] directly
+  into the interior of the rolled cigarette, concentrating the extract in the
+  core for a potent center.
+
+**Considerations:** Reefers made with concentrated oil or tincture are
+substantially more potent than standard marijuana cigarettes — dose awareness is
+essential. Methods that distribute extract evenly (working into material,
+dipping) produce a more consistent experience than localized application.
+Tincture-based methods require adequate drying time to evaporate residual
+alcohol.
+
+## Cross-Method Notes
+
+These four approaches can be combined. Honey oil produced via charcoal refinement
+(Chapter 8) can be used to make capsules (Chapter 6), vaporized in a glass pipe
+(Chapter 7), or worked into reefers (Chapter 9). The choice of consumption
+method depends on desired onset speed, duration of effect, [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]], and
+the practitioner's access to [[oss-oeric-equipment-and-materials-list]].

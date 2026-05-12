@@ -22,7 +22,7 @@ bioweathering activities.
 ## Bioweathering Defined
 
 Bioweathering can be defined as the erosion, decay, and decomposition of
-rocks and minerals mediated by living organisms. One of the most
+rocks and minerals mediated by [[savory-living-organisms-as-tools]]. One of the most
 important processes of bioweathering is weathering mediated by
 microorganisms, including fungi. While bacteria have historically
 received more attention in geomicrobiological studies due to their
@@ -71,7 +71,7 @@ rock subsurface), chasmolithic (in cracks and fissures),
 cryptoendolithic (inside cavities among crystal grains), and
 euendolithic (actively boring into rock).
 
-Filamentous fungi occur on rock surfaces and in cracks, fissures, and
+[[conidia-and-asexual-reproduction-in-filamentous-fungi]] occur on rock surfaces and in cracks, fissures, and
 pores of the rock subsurface. They have been found in many rock types
 including limestone, marble, granite, sandstone, basalt, andesite,
 gneiss, dolerite, and quartz. Fungi are likely ubiquitous components of
@@ -88,3 +88,38 @@ through proton excretion and acidolysis, production of organic acid
 metabolites that chelate metal cations and destabilize mineral crystal
 lattices, redox reactions that transform mineral oxidation states and
 increase solubility, extracellular polymeric substance production that
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[fungal-bioweathering-and-mineral-transformations]]
+- [[fungal-bioweathering]]
+- [[permaculture]]
+- [[decomposition]]
+- [[gadd-fungal-bioweathering-rock-mineral-interactions]]

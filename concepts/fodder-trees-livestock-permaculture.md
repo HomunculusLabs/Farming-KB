@@ -1,5 +1,5 @@
 ---
-title: Fodder Trees and Livestock [[mollison-guinea-pig-integration-in-permaculture-gardens]]
+title: "Fodder Trees and Livestock in Permaculture"
 source: a-selection-permaculture-plants.md
 type: concept
 ---
@@ -41,7 +41,7 @@ Oak acorns have historically been a major fodder source for pigs, providing high
 Several Eucalyptus species provide supplementary browse for livestock, particularly in Australia. While not as palatable as dedicated fodder trees, they offer emergency drought feed and valuable shelter. Care must be taken as some species contain oils that can be toxic in quantity.
 
 ### Alder (*Alnus spp*)
-Alder is a nitrogen-fixing tree whose foliage is browsed by cattle, sheep, and goats. It thrives in moist soils and riparian areas, making it valuable for stream-side livestock systems where it also provides [[soil-erosion-control-and-landscape-restoration]] water quality benefits.
+Alder is a nitrogen-fixing tree whose foliage is browsed by cattle, sheep, and goats. It thrives in moist soils and riparian areas, making it valuable for stream-side livestock systems where it also provides [[soil-erosion-control]] water quality benefits.
 
 ### Elms (*Ulmus spp*)
 Elms produce palatable foliage browsed by cattle and sheep. Their broad canopy provides excellent shade, and their deep root systems access subsoil moisture and nutrients. Elm can be incorporated into shelterbelt plantings alongside other fodder species.

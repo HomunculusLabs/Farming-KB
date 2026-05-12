@@ -1,5 +1,5 @@
 ---
-title: "[[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] [[knf-fish-pond-integration]] Water Quality And Aeration"
+title: Mollison Designers Fish Pond Water Quality And Aeration
 created: 2026-04-26
 tags:
   - aquaculture
@@ -62,7 +62,7 @@ then oxygen as air bubbles needs to be supplied.
 ## Classification of Water Bodies
 
 Waters (and in particular [[mollison-von-karman-trails-and-flowforms]]
-will oxygenate ponds. These are elegant permaculture
+will oxygenate ponds. These are elegant [[permaculture]]
 solutions that use gravity rather than fossil energy.
 
 ### Partial Pond Aeration

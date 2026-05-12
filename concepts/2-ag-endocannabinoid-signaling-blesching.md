@@ -26,7 +26,7 @@ The arachidonic acid precursor in 2-AG is the same 20-carbon polyunsaturated fat
 
 ### CB1 Receptor Activation
 
-2-AG functions as a full agonist at both CB1 and CB2 [[cannabinoid-receptors-cb1-and-cb2]], making it the most versatile endocannabinoid in terms of receptor engagement. At CB1 receptors, which are concentrated in the central nervous system — particularly in the cerebral cortex, hippocampus, basal ganglia, cerebellum, and [[blesching-cannabis-spinal-cord-injuries]] — 2-AG triggers Gi/o protein-mediated signaling cascades that:
+2-AG functions as a full agonist at both CB1 and CB2 [[cannabinoid-receptors-cb1-cb2]], making it the most versatile endocannabinoid in terms of receptor engagement. At CB1 receptors, which are concentrated in the central nervous system — particularly in the cerebral cortex, hippocampus, basal ganglia, cerebellum, and [[blesching-cannabis-spinal-cord-injuries]] — 2-AG triggers Gi/o protein-mediated signaling cascades that:
 
 - Inhibit adenylyl cyclase, reducing cyclic AMP (cAMP) production
 - Activate inwardly-rectifying potassium channels (GIRK), hyperpolarizing neurons
@@ -96,3 +96,24 @@ The development and understanding of 2 ag endocannabinoid signaling blesching ha
 
 ## Key Considerations
 Successful implementation of 2 ag endocannabinoid signaling blesching requires attention to local conditions, climate adaptability, and integration with existing ecological systems. Regular monitoring and adaptive management are essential for optimal results.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[dom]]
+- [[det]]
+- [[ethanol]]
+- [[anandamide]]

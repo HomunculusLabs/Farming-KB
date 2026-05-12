@@ -1,5 +1,5 @@
 ---
-title: "[[turner-ketamine]] Combinations And Cydelikspace Navigation"
+title: Turner Ketamine Combinations And Cydelikspace Navigation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Turner Ketamine Combinations and CydelikSpace Navigation
 
-Turner's advanced techniques for navigating CydelikSpace using Ketamine combinations, particularly with 2C-B and LSD.
+Turner's advanced techniques for navigating CydelikSpace using [[ketamine]] combinations, particularly with 2C-B and LSD.
 
 ## The Ketamine Challenge
 

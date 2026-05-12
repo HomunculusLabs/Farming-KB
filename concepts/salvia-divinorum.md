@@ -130,4 +130,4 @@ Practitioners frequently encounter challenges related to resource availability, 
 - [[hofmann-salvia-divinorum-discovery]]
 - [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
 - [[salvia-apiana]]
-- [[salvia-divinorum-and-salvinorin]]
+- [[salvia-divinorum-and-salvinorin-a]]

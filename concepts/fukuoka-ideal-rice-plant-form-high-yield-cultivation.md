@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]] Plant Form and High-Yield Cultivation
+title: Fukuoka Ideal Rice Plant Form and High-Yield Cultivation
 source: administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

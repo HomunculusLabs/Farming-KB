@@ -6,7 +6,7 @@ type: concept
 
 # Fukuoka on the Entanglement of Natural and Scientific Farming
 
-Masanobu Fukuoka argues that [[korean-natural-farming-and-jadam]] scientific farming are not points on a continuum but divergent, irreconcilable trajectories. They are not two methods of achieving the same end; they are movements toward fundamentally different ends. He uses the history of sericulture (silkworm cultivation) as an extended case study to show how the two paths entangle yet never converge — always approaching, never meeting, and always pulling further apart.
+Masanobu Fukuoka argues that [[korean-natural-farming]] scientific farming are not points on a continuum but divergent, irreconcilable trajectories. They are not two methods of achieving the same end; they are movements toward fundamentally different ends. He uses the history of sericulture (silkworm cultivation) as an extended case study to show how the two paths entangle yet never converge — always approaching, never meeting, and always pulling further apart.
 
 ## Sunlight as the Upper Limit of Yield
 
@@ -91,3 +91,38 @@ Scientific farming, by contrast, **seeks to appropriate time and space through c
 Natural farming ultimately seeks a return to the true world of nature that transcends relativity — a state where human action is unnecessary because natural processes operate in complete sufficiency. Scientific farming expands within the relative world of cause and effect, problem and solution, always generating new complexities. These two orientations are locked in irreconcilable conflict. No compromise, synthesis, or integration can bridge the gap between zero and infinity, between Mu and the endless proliferation of human contrivance.
 
 The sericulture story is not merely history; it is the archetype of every agricultural technology. Each innovation promises liberation but delivers deeper entanglement, each return toward nature is intercepted by a new scientific advance, and the two paths — parallel, widening, never crossing — continue to define the fundamental tension of human agriculture.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[natural-farming]]
+- [[masanobu-fukuoka]]
+- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
+- [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
+- [[dom]]

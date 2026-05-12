@@ -43,7 +43,7 @@ through online vendors.
 - IUPAC name: 2-amino-4-phenylbutanoic acid
 - CAS number: 1078-21-3
 - Appearance: White crystalline powder
-- Solubility: Freely soluble in water; slightly soluble in ethanol
+- Solubility: Freely soluble in water; slightly soluble in [[ethanol]]
 
 Phenibut exists as two stereoisomers. The (S)-enantiomer is the
 pharmacologically active form used in pharmaceutical preparations.

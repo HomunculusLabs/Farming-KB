@@ -78,3 +78,14 @@ LSD. Research into the chemistry of Salvia divinorum has revealed
   chemistry of plant hallucinogens
 - [[plants-of-the-gods-hallucinogens-medicine]] — medical and
   therapeutic potential of visionary plants
+
+## Key Considerations
+
+Understanding the fundamental principles behind this topic enables better practical application. Integration with related systems often produces synergistic benefits.
+
+## See Also
+
+- [[psychedelic-plants-human-coevolution]]
+- [[mckenna-food-gods-cannabis-culture-dreaming-weavers]]
+- [[cannabis-cloning-and-mother-plants]]
+- [[permaculture-plants-nitrogen-fixing-trees]]

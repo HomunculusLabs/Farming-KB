@@ -1,5 +1,5 @@
 ---
-title: [[amanita-muscaria-grail-legends-healing-immortality-magic-pots]] Terra Cotta Vessel Preparation
+title: "Amanita Muscaria Grail Terra Cotta Vessel Preparation"
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -148,8 +148,3 @@ comprehensible as literal descriptions of its properties:
   straightforward correspondence of all. The Grail is a vessel. You put
   something in it, and it produces a drink with remarkable properties. That
   is not a poetic metaphor — it is a plain, factual description of the
-  practice.
-
-The Grail was never merely a symbol. It was a technology — one of the oldest
-and most consequential technologies in human history, disguised by millennia of
-mythological elaboration but never truly lost.

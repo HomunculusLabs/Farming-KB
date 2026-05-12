@@ -88,3 +88,10 @@ that exceed the sum of individual component contributions.
 Case studies and documented examples provide valuable models for
 implementation, though direct replication is rarely possible due to
 the uniqueness of each context. Instead, these examples serve as
+
+## See Also
+- [[permaculture]]
+- [[dom]]
+- [[doc]]
+- [[det]]
+- [[mycorrhiza]]

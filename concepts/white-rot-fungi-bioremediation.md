@@ -52,7 +52,7 @@ White-rot fungi degrade pollutants through their ligninolytic system, originally
 - [[mycoremediation-enzymology]] for detailed enzyme biochemistry
 - [[mycoremediation-techniques]] for application methods
 - [[mycoremediation-textile-dye-degradation]] for dye-specific applications
-- [[mycoremediation-field-applications]] for field deployment
+- [[field-peas]] for field deployment
 - [[fungal-role-in-carbon-cycling]] for natural decomposition roles
 
 ## Practical Applications

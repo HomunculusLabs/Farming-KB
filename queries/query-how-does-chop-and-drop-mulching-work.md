@@ -46,7 +46,7 @@ buckwheat when green for a quick nitrogen boost, and leave woody prunings
 from fruit trees to decompose slowly as a long-term mulch.
 
 Comfrey is perhaps the most celebrated chop and drop plant because it is a
-[[cover-crops|cover crop]]), and various legumes like [[compost]]
+[[cover-crops|cover crop]]), and various legumes like [[mushroom-compost]]
 and hairy vetch that fix atmospheric nitrogen through their Comfrey is the premier chop and drop
   plant, mining subsoil minerals with deep taproots
 - The mulch layer suppresses weeds, retains moisture, moderates

@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Sargassum horneri** (devil weed, wireweed, horneri sargassum) is a large brown macroalga in the family Sargassaceae, order Fucales.
+**[[sargassum]] horneri** (devil weed, wireweed, horneri sargassum) is a large brown macroalga in the family Sargassaceae, order Fucales.
 
 It is native to the northwest Pacific, occurring along the coasts of Japan, Korea, and China, where it forms extensive subtidal beds.
 

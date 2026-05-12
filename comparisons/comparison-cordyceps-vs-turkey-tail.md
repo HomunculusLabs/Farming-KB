@@ -123,5 +123,5 @@ tail with or between meals for immune support throughout the day.
 - [[comparison-cordyceps-vs-chaga-medicinal]]
 - [[comparison-cordyceps-vs-reishi-cultivation]]
 - [[comparison-reishi-vs-turkey-tail-medicinal-mushrooms]]
-- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]]
+- [[comparison-chaga-vs-turkey-tail]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]

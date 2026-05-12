@@ -88,3 +88,10 @@ a state of heightened preparedness for future water scarcity.
 The molecular basis of plant memory primarily involves **epigenetic
 modifications** — heritable changes in gene expression that do not involve
 changes to the DNA sequence itself. Key mechanisms include:
+
+## See Also
+- [[doc]]
+- [[soma]]
+- [[plant-memory-and-priming-responses]]
+- [[plant-memory-and-priming]]
+- [[plant-epigenetic-memory-gene-based-remembering]]

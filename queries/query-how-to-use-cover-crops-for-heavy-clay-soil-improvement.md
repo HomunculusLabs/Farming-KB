@@ -54,7 +54,7 @@ When choosing cover crops for heavy clay, consider the following factors:
 
 #### Spring/Summer Planting
 
-In the growing season, use quick-growing combinations that provide immediate benefits. [[sorghum-bicolor]] mixed with [[cowpeas]] offers rapid biomass production and nitrogen fixation. This combination can be incorporated as green manure after 6-8 weeks of growth.
+In the growing season, use quick-growing combinations that provide immediate benefits. [[sorghum-bicolor]] mixed with [[comparison-cowpea-vs-mung-bean]] offers rapid biomass production and nitrogen fixation. This combination can be incorporated as green manure after 6-8 weeks of growth.
 
 For areas with main crops already established, use living mulch approaches. [[white-clover-living-mulch]] can be seeded between rows of vegetables, providing ground cover and nitrogen fixation without competing significantly with the cash crops.
 
@@ -88,7 +88,7 @@ Implementing a well-designed cover cropping program for heavy clay typically res
 
 ### Common Challenges and Solutions
 
-**Slow Germination**: Clay soils can crust over and impede seedling emergence. Use higher seeding rates and consider [[circadian-rhythm-in-plants]] as a seedbed amendment to improve soil structure around seeds.
+**Slow Germination**: Clay soils can crust over and impede seedling emergence. Use higher seeding rates and consider [[chamovitz-circadian-rhythm-internal-clock-plants]] as a seedbed amendment to improve soil structure around seeds.
 
 **Weed Competition**: Some cover crops may not establish quickly enough to suppress weeds. Use a nurse crop like [[annual-ryegrass]] to provide initial ground cover while the primary cover crop establishes.
 
@@ -102,7 +102,7 @@ Integrate cover crops into your overall crop rotation strategy for maximum benef
 
 1. **Compaction Phase**: Use deep-rooted crops like [[daikon-radish]] and [[forage-turnip]] for one season
 2. **Organic Matter Phase**: Follow with grass-heavy mixes like [[winter-rye]] and [[oats]]
-3. **Nutrient Balance Phase**: Incorporate nitrogen-fixing [[legumes]] like [[hairy-vetch]] and [[compost]]
+3. **Nutrient Balance Phase**: Incorporate nitrogen-fixing [[legumes]] like [[hairy-vetch]] and [[mushroom-compost]]
 4. **Cash Crop Phase**: Plant vegetables or cash crops in the improved soil
 
 This rotational approach addresses multiple soil limitations systematically rather than trying to solve everything at once.
@@ -122,7 +122,7 @@ Different climate regions may require adjustments to the standard cover crop app
 
 **Cold Climates**: Focus on winter-hardy crops like [[winter-rye]] and [[hairy-vetch]]. Plant in early fall to establish before winter. Consider frost-tolerant legumes for early spring growth.
 
-**Warm Climates**: Can utilize [[sorghum-bicolor]] during hot summer months. Warm-season legumes like [[cowpeas]] and [[sesbania-grandiflora]] provide excellent nitrogen fixation.
+**Warm Climates**: Can utilize [[sorghum-bicolor]] during hot summer months. Warm-season legumes like [[comparison-cowpea-vs-mung-bean]] and [[sesbania-grandiflora]] provide excellent nitrogen fixation.
 
 **Temperate Regions**: Benefit from diverse seasonal rotations with both cool and warm-season cover crops. The extended growing season allows for multiple cover crop cycles per year.
 
@@ -130,7 +130,7 @@ Different climate regions may require adjustments to the standard cover crop app
 
 - Heavy clay soil requires specialized cover crop selection focusing on deep roots and organic matter
 - [[daikon-radish]] and [[forage-turnip]] provide essential taproots for breaking up compaction
-- [[hairy-vetch]] and [[compost]] fix nitrogen while improving soil structure
+- [[hairy-vetch]] and [[mushroom-compost]] fix nitrogen while improving soil structure
 - [[winter-rye]] and [[oats]] build organic matter through extensive root systems
 - Proper timing and termination methods are crucial for maximum soil improvement
 - Monitor soil response through visual observations and testing to track improvement

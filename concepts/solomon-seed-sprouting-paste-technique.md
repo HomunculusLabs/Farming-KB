@@ -19,7 +19,7 @@ source:
 
 # Solomon's Seed-Sprouting Paste Technique
 
-The **seed-sprouting paste technique** is a method described by [[steve-solomon-evidence-based-organic-gardening]]
+The **seed-sprouting paste technique** is a method described by [[steve-solomon]]
 in *Gardening When It Counts* (2005) for successfully [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]] small-seeded crops such as lettuce, carrots, and similar vegetables.
 It combines the reliability of controlled indoor sprouting with the simplicity
 of planting seeds directly in their final growing position.

@@ -12,7 +12,7 @@ The endocannabinoid system (ECS) is a biological regulatory mechanism found in a
 
 ## Discovery and Naming
 
-The endocannabinoid system was identified when researchers seeking the mechanism of action of THC (the primary psychoactive component of cannabis) discovered specific [[cannabinoid-receptors-cb1-and-cb2]] in the brain. This led to the realization that the human body produces its own cannabinoid-like compounds (endocannabinoids) that activate these same receptors. The system was named after the cannabis plant because cannabis research led to its discovery, but the ECS functions independently of cannabis use — it is active in all people regardless of whether they use cannabis.
+The endocannabinoid system was identified when researchers seeking the mechanism of action of THC (the primary psychoactive component of cannabis) discovered specific [[cannabinoid-receptors-cb1-cb2]] in the brain. This led to the realization that the human body produces its own cannabinoid-like compounds (endocannabinoids) that activate these same receptors. The system was named after the cannabis plant because cannabis research led to its discovery, but the ECS functions independently of cannabis use — it is active in all people regardless of whether they use cannabis.
 
 ## Core Components of the ECS
 

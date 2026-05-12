@@ -12,7 +12,7 @@ type: concept
 # Street Sample Alkaloid Variability and Dosage Unpredictability in Psilocybin Mushrooms
 
 Bigwood and Beug's 1982 study revealed that psilocybin levels in dried
-Psilocybe cubensis street samples varied by over a factor of ten between
+[[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982-detailed]] samples varied by over a factor of ten between
 different collections. Combined with their controlled culture data showing a
 four-fold variation even under rigorously standardized conditions, these
 findings establish that [[psilocybin-mushroom-potency-and-dosage-guide]] is fundamentally
@@ -51,9 +51,9 @@ conditions, and analytical methodology. The additional variability observed
 in street samples, pushing the total range to over ten-fold, can be
 attributed to uncontrolled variables including strain genetics, substrate
 composition, flush number, environmental conditions, harvest timing, drying
-method, and storage conditions.
+method, and [[spawn-storage-conditions]].
 
-The fact that controlled conditions still produce four-fold variability
+The fact that [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] still produce four-fold variability
 suggests that a substantial component of [[psilocybe-cubensis-potency-variation-by-flush]] is intrinsic to
 the biological system rather than being attributable to cultivation
 variables. This intrinsic variability may reflect stochastic elements of
@@ -72,7 +72,7 @@ they believe to be a moderate dose could receive anywhere from a threshold
 sub-perceptual amount to a strongly psychedelic dose.
 
 Bigwood and Beug concluded that users of Psilocybe cubensis have no way of
-predicting the amount of psilocybin and psilocin they are ingesting with a
+predicting the amount of [[psilocybin-and-psilocin-biosynthesis-variation]] they are ingesting with a
 given dry weight of mushroom material. They further noted that variations
 in subjective experience will stem not only from the well-established effects
 of set and setting but also from large dosage differences inherent in the

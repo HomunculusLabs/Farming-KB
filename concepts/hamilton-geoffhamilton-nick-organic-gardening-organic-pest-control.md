@@ -88,3 +88,17 @@ is increasingly recognized as essential for sustainable outcomes.
 Future development in this area is likely to be driven by advances
 in scientific understanding, new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-weed-control]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

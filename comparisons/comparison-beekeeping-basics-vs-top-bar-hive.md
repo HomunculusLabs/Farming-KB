@@ -80,7 +80,7 @@ off-the-shelf management resources and no compatibility with commercial
 honey extractors.
 
 ## Key Differences
-| Aspect | Conventional (Langstroth) | [[bee-forage-plants]]. The horizontal design works well in small yards where
+| Aspect | Conventional (Langstroth) | [[forage-turnip]]. The horizontal design works well in small yards where
 vertical stacking might look imposing to neighbors, and the aesthetic
 appeal of a natural-looking horizontal hive can be easier to integrate
 into residential landscapes. Beekeepers interested in the treatment-free

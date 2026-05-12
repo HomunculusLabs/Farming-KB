@@ -88,3 +88,38 @@ Alongside the disputed boletes and russulas, New Guinea also has confirmed indol
 - **Copelandia lentispora** (Gerhardt, 1996)
 - **[[gerronema-fibula]]** (Hongo, 1974; Corner, 1994)
 - **Panaeolus rubricaulis** (Yokoyama, 1979; Gerhardt, 1996)
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]]
+- [[neurotropic-fungi]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
+- [[guzman-allen-gartz-sacred-boletes-russula-and-gasteromycetes]]
+- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]

@@ -78,7 +78,7 @@ Spores are released in June and July, dispersing on air currents to new sites. H
 
 The plant provides habitat for small invertebrates and contributes to the botanical diversity of species-rich meadow communities. Its presence is often used as an indicator of ancient, undisturbed grassland.
 
-Studies of Ophioglossum gametophytes have revealed complex [[dark-septate-endophytes-and-non-mycorrhizal-fungal-symbioses]] involving multiple glomeromycete taxa. These [[arbuscular-mycorrhizal-networks]] may connect Ophioglossum individuals underground, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] across colony boundaries.
+Studies of Ophioglossum gametophytes have revealed complex [[dark-septate-endophytes]] involving multiple glomeromycete taxa. These [[arbuscular-mycorrhizal-networks]] may connect Ophioglossum individuals underground, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] across colony boundaries.
 
 ## Conservation
 

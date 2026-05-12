@@ -44,7 +44,7 @@ plants in Brazilian [[turnera-diffusa]]*, *[[humulene]]
 - [[humulene]]
 
 See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
-See [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]] for more on Query What Is [[mycorrhizal-networks-and-the-wood-wide-web]] Web And How Do [[arbuscular-mycorrhizal-networks]] Work.
+See [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]] for more on Query What Is [[mycorrhizal-networks]] Web And How Do [[arbuscular-mycorrhizal-networks]] Work.
 
 ## See Also
 

@@ -80,7 +80,7 @@ notes, accompanied by a peppery spice on the back of the palate. The
 exhale carries a woody, hashish-like quality with subtle floral hints.
 
 The terpene profile is led by [[beta-caryophyllene]] (peppery, anti-inflammatory), and [[limonene]] | 0.1–0.4% | Citrus, uplifting |
-| [[tetrahydrocannabinol-thc]] for cannabinoid chemistry.
+| [[tetrahydrocannabinol]] for cannabinoid chemistry.
 - **CBD:** 0.1–0.5% (negligible; not a CBD-rich strain)
 - **CBN:** Trace amounts in aged flower
 

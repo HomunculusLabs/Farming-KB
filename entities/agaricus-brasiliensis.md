@@ -16,7 +16,7 @@ aliases: [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]], [[agari
 
 **Family:** Agaricaceae
 
-**Also known as:** Almond mushroom, [[Agaricus]] (sensu Heinemann), Agaricus subrufescens (correct name), Himematsutake, Cogumelo do Sol (Mushroom of the Sun)
+**Also known as:** Almond mushroom, [[agaricus-aurora]] (sensu Heinemann), Agaricus subrufescens (correct name), Himematsutake, Cogumelo do Sol (Mushroom of the Sun)
 
 ## Overview
 

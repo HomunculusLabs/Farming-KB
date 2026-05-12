@@ -37,7 +37,7 @@ through complementary root architectures (shallow fibrous roots alongside deep
 taproots), diverse biomass types (grasses for carbon, legumes for nitrogen), and
 synergistic biological interactions. A cold-climate fall mix might combine cereal rye
 (erosion control, winter-hardy biomass), hairy vetch ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], climbing
-growth), [[compost]] (nitrogen fixation, early spring bloom for pollinators), and
+growth), [[mushroom-compost]] (nitrogen fixation, early spring bloom for pollinators), and
 daikon radish (compaction breaking, nutrient scavenging from deep soil layers). Each
 species occupies a different niche, creating a living mulch that protects and feeds
 soil simultaneously.

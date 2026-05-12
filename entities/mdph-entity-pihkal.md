@@ -23,7 +23,7 @@ a,a-DIMETHYL-3,4-METHYLENEDIOXY-
 > (with 120 mg) The alert was felt in forty
 > 
 > minutes and I was pretty much there at an hour and twenty. Quite like
-> MDA, simple, with no lines, no colors, no motion, no fantasy. I am
+> [[mda]], simple, with no lines, no colors, no motion, no fantasy. I am
 > pleasantly stoned. The anorexia is real, as is the impotency. The
 > drop from the 4th to the 6th hour was softened by a modest amount of
 > wine, and this proved to be extremely intoxicating. My speech was

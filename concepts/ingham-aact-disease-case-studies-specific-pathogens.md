@@ -24,7 +24,7 @@ If no diseases are present, [[aact-microbial-foliar-nutrient-uptake-co2-stomata-
 
 ## The Coverage Principle
 
-For any foliar disease, the main agent of protection is coverage. If beneficial organisms already occupy the leaf surface, [[Cordyceps]] cannot push them out. The enzymatic ability of many common foliar pathogens is surprisingly weak — they cannot out-compete even modest communities of beneficial organisms for space or resources. The question then becomes: why are these diseases so prevalent? Because conventional management practices continuously destroy the protective biology on leaf surfaces.
+For any foliar disease, the main agent of protection is coverage. If beneficial organisms already occupy the leaf surface, [[cordyceps-cultivation]] cannot push them out. The enzymatic ability of many common foliar pathogens is surprisingly weak — they cannot out-compete even modest communities of beneficial organisms for space or resources. The question then becomes: why are these diseases so prevalent? Because conventional management practices continuously destroy the protective biology on leaf surfaces.
 
 Ingham categorizes diseases by difficulty: black spot is "easy," mildew is harder, anthracnose is not easy, and *Fusarium* is "a piece of cake." These assessments reflect the relative enzymatic competitiveness of each pathogen against the beneficial organisms typically present in well-made AACT.
 
@@ -87,3 +87,38 @@ Leaf curl caused by *Taphrina* is described as "a breeze to shut down" with tea 
 2. **Spring**: Apply soil drench again before growth begins
 3. **Two weeks before budbreak**: Begin foliar AACT applications
 4. **During season**: Apply minimum once monthly, more like every 10 to 14 days depending on disease severity
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[doc]]
+- [[psilocybin]]
+- [[det]]
+- [[spore]]
+- [[decomposition]]

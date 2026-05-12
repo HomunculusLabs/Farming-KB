@@ -57,7 +57,7 @@ whole-plant constituents are additive or cancel each other out.
   for nighttime use.
 - **Cardiovascular:** CBN has potentially potent cardioprotective
   properties alongside THC, as referenced in cardiovascular research
-  sections of the [[tetrahydrocannabinol-thc]]
+  sections of the [[tetrahydrocannabinol]]
 - [[cannabigerol-cbg]]
 - [[cannabichromene-cbc]]
 - endocannabinoid system (ECS)

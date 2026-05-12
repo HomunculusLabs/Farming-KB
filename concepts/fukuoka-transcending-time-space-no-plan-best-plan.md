@@ -118,6 +118,6 @@ This is not nihilism or neglect. It is the disciplined practice of refraining fr
 
 ## See Also
 
-- [[Fukuoka Natural Farming]] — core principles of do-nothing agriculture
-- [[Fukuoka One Straw Revolution]] — foundational text overview
-- [[Fukuoka Human Knowledge vs Natural Truth]] — on the limits of [[fukuoka-fallacies-scientific-understanding]]
+- [[fukuoka-natural-farming]] — core principles of do-nothing agriculture
+- [[fukuoka-one-straw-revolution-philosophy]] — foundational text overview
+- [[fukuoka-human-knowledge-vs-natural-truth]] — on the limits of [[fukuoka-fallacies-scientific-understanding]]

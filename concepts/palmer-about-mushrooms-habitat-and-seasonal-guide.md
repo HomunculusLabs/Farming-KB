@@ -1,5 +1,5 @@
 ---
-title: "Palmer About Mushrooms Habitat And Seasonal Guide"
+title: Palmer About Mushrooms Habitat And Seasonal Guide
 created: 2026-04-26
 updated: 2026-04-24
 sources:

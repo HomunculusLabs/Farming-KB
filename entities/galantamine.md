@@ -38,7 +38,7 @@ of Alzheimer's disease.
 - **Molecular weight:** 287.35 g/mol
 - **CAS number:** 357-70-0
 - **Appearance:** White to off-white crystalline powder
-- **Solubility:** Soluble in water, ethanol; slightly soluble in chloroform
+- **Solubility:** Soluble in water, [[ethanol]]; slightly soluble in chloroform
 
 The structure features a fused tetracyclic ring system unique to
 Amaryllidaceae alkaloids, with a phenolic hydroxyl group essential for

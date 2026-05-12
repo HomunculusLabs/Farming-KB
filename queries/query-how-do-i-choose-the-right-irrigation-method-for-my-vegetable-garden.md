@@ -43,7 +43,7 @@ Water distribution can be uneven over longer runs, with more water exiting near 
 
 ### Sprinkler and Overhead Methods
 
-Sprinklers cover large areas quickly and are useful for establishing cover crops, germinating direct-sown seeds, or watering lawns adjacent to garden beds.
+Sprinklers cover large areas quickly and are useful for establishing [[cover-crops]], germinating direct-sown seeds, or watering lawns adjacent to garden beds.
 However, they are the least efficient method for established vegetable crops, losing significant water to evaporation and wind drift.
 Wet foliage from overhead watering promotes fungal diseases, especially in humid climates where tomatoes, cucumbers, and squash are disease-prone.
 If you must use sprinklers, water early in the morning so foliage dries quickly before evening.
@@ -87,7 +87,7 @@ Grouping containers close together reduces evaporation from exposed pot sides an
 In humid climates, less frequent deep watering encourages deeper roots and reduces surface moisture that promotes disease.
 Arid and semi-arid climates benefit from drip irrigation combined with heavy mulching and shade cloth during peak heat.
 Cold-climate gardeners should drain drip systems before first frost to prevent frozen tubes and cracked fittings.
-Tropical gardens with high rainfall may need raised beds and drainage channels more than irrigation systems.
+Tropical gardens with high rainfall may need raised beds and drainage channels more than [[irrigation-systems]].
 Coastal gardens with salt exposure should flush drip emitters periodically to prevent salt buildup that blocks flow.
 
 ### What About Automating Your Irrigation System?

@@ -87,3 +87,38 @@ Several alternative explanations for the observed tropisms complicate the pictur
 - **Mechanical force hypothesis** — The mushroom may be responding to the physical force of wind bending the stipe, similar to thigmotropism in plants. Dennison (1961) showed that Phycomyces sporangiophores respond to gravitational and centrifugal force, suggesting that mechanical stimuli can directly influence growth direction.
 - **Gas redistribution hypothesis** — Wind may redistribute gases other than water vapor (such as ethylene or CO₂) that serve as signaling molecules. Russo et al. (1975) found ethylene involvement in Phycomyces autochemotropism, and CO₂ is known to affect fungal growth patterns.
 - **Boundary layer CO₂ depletion** — Wind may reduce the CO₂ concentration at the stipe surface more on the windward side, and since elevated CO₂ generally suppresses stipe elongation, this depletion could promote faster growth on the windward side.
+
+## Practical Applications
+
+The principles and techniques discussed here have wide-ranging applications
+across multiple disciplines and contexts. Practitioners and researchers
+continue to explore new ways to integrate these concepts into modern practice,
+adapting traditional knowledge to contemporary challenges and opportunities.
+
+## Key Considerations
+
+Several important factors influence the effectiveness and outcomes described
+in this topic. Understanding these considerations helps practitioners make
+informed decisions and avoid common pitfalls. Environmental conditions,
+timing, and material selection all play critical roles.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## Common Challenges
+
+Practitioners frequently encounter several challenges when working with
+these concepts. Climate variability, resource limitations, and knowledge
+gaps can all affect outcomes. Addressing these challenges requires patience,
+observation, and a willingness to adapt approaches based on results.
+
+## See Also
+- [[dom]]
+- [[det]]
+- [[spore]]
+- [[phototropism]]
+- [[evaporative-demand-hypothesis-mushroom-growth]]

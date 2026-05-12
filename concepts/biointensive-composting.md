@@ -27,7 +27,7 @@ The target C:N ratio for GB compost piles is approximately 30:1. This is achieve
 - **Established beds**: 1/2 to 1 inch per crop cycle
 - **[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]**: Can be made from GB compost for [[comparison-foliar-feeding-vs-vermicompost-tea]] and soil drenching (see [[biointensive-gardening-overview]]
 - [[biointensive-bed-preparation]]
-- [[circadian-rhythm-in-plants]]
+- [[chamovitz-circadian-rhythm-internal-clock-plants]]
 
 - [[2c-d-pihkal-entry-23]]
 - [[compost-tea-application-rates]]
@@ -88,3 +88,17 @@ uncertainty and improve the resilience of implementations over time.
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[composting]]
+- [[doc]]
+- [[det]]
+- [[biointensive-calorie-crops]]
+- [[biointensive-mini-farming]]

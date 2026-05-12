@@ -38,3 +38,47 @@ Sorghum seed spawn production is the critical multiplication step in the mushroo
 
 - FAO RAP Publication 2001/12: "[[mushroom-cultivation-for-disabilities-training-program]] People with Disabilities — A Training Manual", Step 4: Multiplying Spawn on Sorghum Seeds
 - TCP/THA/8821(A): Mushroom Production Training [[holzer-lebenshilfe-permaculture-project-for-disabled-people]] project, Thailand
+
+## Process Position in the Training Sequence
+
+The sorghum stage sits between laboratory culture and farm-scale fruiting work.
+Trainees first learn to make PDA medium, isolate clean tissue, and recognize vigorous mycelial growth.
+Only after that foundation does the manual move to sorghum, because grain spawn amplifies both success and error.
+A clean PDA culture can rapidly colonize many seeds, but a contaminated plate will also spread contamination throughout the grain.
+For that reason, [[contamination-prevention-in-mushroom-cultivation]] remains the governing principle of the whole operation.
+The method teaches farmers to observe color, smell, growth rate, and uniformity rather than treating spawn as an invisible input.
+
+## Practical Preparation Details
+
+Sorghum grains are selected because each seed becomes a discrete inoculation point when mixed into a final substrate.
+The grain must be cleaned to remove dust, broken kernels, and debris that can harbor competitor organisms.
+Hydration is controlled so the seed contains enough moisture for mycelium but not enough free water to become anaerobic.
+After filling containers, sterilization converts the grain from a microbial habitat into a temporary blank substrate.
+Cooling is as important as heating, because hot grain can damage the transferred mycelium.
+Inoculation is normally done with small wedges of colonized agar from a healthy culture.
+The containers are then incubated without repeated opening, preserving the sterile interior established during heating.
+
+## Quality Indicators
+
+Healthy sorghum spawn develops a white, even mycelial network around and between the grains.
+Patchy growth can signal poor moisture distribution, weak culture, or uneven sterilization.
+Green, black, orange, or wet-looking colonies indicate contamination and should not be used for production bags.
+A sour or rotten smell is another warning sign, even when visible growth appears partly white.
+Fully colonized grain should break apart enough to distribute inoculum through straw or sawdust substrates.
+This makes the technique a bridge between the laboratory practices of [[mushroom-cultivation-training-program-design]] and hands-on crop establishment.
+
+## Training Value
+
+The FAO disability-focused curriculum treats spawn making as an empowering skill rather than a specialist secret.
+Learners gain control over timing because they are not dependent on external spawn suppliers.
+They also learn why cleanliness, sequence, and patience matter before moving into larger substrate-bag work.
+The step reinforces the economic logic of the [[mushroom-cultivation-disabilities-nine-week-training-program]]: low-cost inputs, repeatable routines, and visible feedback.
+For small farms, reliable sorghum spawn can determine whether mushroom cultivation becomes a stable enterprise or an irregular experiment.
+
+## Common Failure Points
+
+Over-wet grain is one of the most common causes of failure because it encourages bacterial growth.
+Under-sterilized grain can look acceptable at first and then collapse after inoculation.
+Rough handling during transfer can also introduce airborne spores or dirty tool contact.
+For trainees, learning to discard bad spawn is as important as learning to produce good spawn.
+A single contaminated jar can waste many substrate bags if used carelessly.

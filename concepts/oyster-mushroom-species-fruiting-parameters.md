@@ -1,5 +1,5 @@
 ---
-title: "Oyster Mushroom Species Fruiting Parameters"
+title: Oyster Mushroom Species Fruiting Parameters
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -14,7 +14,7 @@ sources: []
 - mushroom-substrate-recipes
 ## Background and Context
 
-Oyster Mushroom Species and Fruiting Parameters is an important subject that has garnered significant attention
+[[oyster-mushroom-species]] and Fruiting Parameters is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

@@ -1,5 +1,5 @@
 ---
-title: [[growing-gourmet-mushroom-harvesting-marketing-guide]]
+title: "Mushroom Harvesting"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, harvesting, post-harvest, yield]

@@ -87,3 +87,17 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[water-management]]
+- [[doc]]
+- [[det]]
+- [[greg-green-mother-plants-and-clone-maintenance]]
+- [[greg-green-npk-and-nutrient-deficiency]]

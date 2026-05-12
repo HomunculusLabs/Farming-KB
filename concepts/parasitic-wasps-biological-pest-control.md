@@ -24,7 +24,7 @@ speciose superfamily relevant to [[fukuoka-textdoc-biological-control-fallacy-ph
 wasps known (some under 0.5 mm). Key families include:
 
 - **Aphelinidae** — includes *Encarsia formosa*, a cornerstone agent for whitefly
-  control in protected cropping systems worldwide.
+  control in [[mollison-designers-glasshouse-protected-cropping]] systems worldwide.
 - **Encyrtidae** — large family of endoparasitoids; many species attack scale insects,
   mealybugs, and leafhoppers.
 - **Eulophidae** — important parasitoids of leafminers, gall-formers, and
@@ -41,7 +41,7 @@ wasps known (some under 0.5 mm). Key families include:
 ### Trichogramma spp.
 
 *Trichogramma* species are egg parasitoids of Lepidoptera and represent the most
-widely used biological control agents globally by release volume. Females oviposit
+widely used [[fukuoka-textdoc-scale-insect-biological-control-case-studies]] agents globally by release volume. Females oviposit
 into host eggs; a single larva consumes the egg contents, preventing caterpillar
 emergence. Mass releases of *T. pretiosum*, *T. brassicae*, and *T. nubilale* are
 routine in corn (European corn borer), rice (stem borers), cotton (bollworms), and

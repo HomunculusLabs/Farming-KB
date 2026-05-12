@@ -4,7 +4,7 @@
 
 ## Overview
 
-Steve Solomon, who popularized [[geoff-hamilton-the-organic-gardening-companion]] in the [[psilocybin-north-america-pacific-northwest]],
+Steve Solomon, who popularized [[geoff-hamilton]] in the [[psilocybin-north-america-pacific-northwest]],
 explicitly critiques the permanent mulching movement. While mulching has
 enthusiastic proponents (notably Ruth Stout), Solomon's direct experience in
 two mild climates convinced him that permanent mulching creates more problems

@@ -10,11 +10,11 @@ sources: []
 
 ## Short Answer
 
-Biointensive gardening is a small-scale, high-yield organic growing method developed by John Jeavons at Ecology Action.
+Biointensive gardening is a small-scale, high-yield organic growing method developed by [[john-jeavons]] at Ecology Action.
 
 It uses deep soil preparation, close plant spacing, companion planting, and intensive composting to produce maximum food from minimal land.
 
-The goal is to grow a complete diet in the smallest possible area while building soil fertility over time.
+The goal is to grow a complete diet in the smallest possible area while [[building-soil]] fertility over time.
 
 This is different from permaculture's broader whole-property design approach, though both aim for sustainable food production.
 
@@ -22,7 +22,7 @@ This is different from permaculture's broader whole-property design approach, th
 
 Biointensive gardening rests on eight interconnected principles that work together as a system.
 
-The first principle is deep soil preparation through double-digging, which loosens soil to a depth of 24 inches.
+The first principle is deep soil preparation through [[double-digging]], which loosens soil to a depth of 24 inches.
 
 This creates a friable root zone that allows plants to access nutrients and water far more effectively.
 

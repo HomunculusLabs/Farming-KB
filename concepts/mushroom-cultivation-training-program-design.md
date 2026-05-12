@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation [[mushroom-disabilities-training-program-design]]
+title: Mushroom Cultivation Training Program Design
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

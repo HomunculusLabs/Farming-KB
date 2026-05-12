@@ -1,5 +1,5 @@
 ---
-title: "[[photoperiodism]] Plant [[coleman-persephone-months-winter-day-length]] Measurement"
+title: Photoperiodism Plant Day Length Measurement
 created: 2026-05-09
 tags:
   - plant-biology
@@ -21,7 +21,7 @@ type: concept
 
 ## Overview
 
-Photoperiodism is the physiological response of plants to the length of day and night,
+[[photoperiodism]] is the physiological response of plants to the length of day and night,
 and it is one of the most important timing mechanisms in the plant kingdom. Through
 photoperiodism, plants can determine the time of year and coordinate critical life
 events — especially flowering — with the appropriate season. The discovery of

@@ -144,6 +144,6 @@ The most extensively studied application of Turkey Tail is as an adjuvant (compl
 - [[medicinal-herb-growing-guide]] — integrating medicinal mushrooms with herb gardening
 - [[bioremediation-using-fungi]] — Turkey Tail's white-rot capabilities in environmental cleanup
 - [[herbal-medicine-making]] — [[gottlieb-peyote-extraction-and-preparation-methods]] techniques applicable to Turkey Tail
-- [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms]] — comparison with another tree-growing polypore
+- [[comparison-chaga-vs-turkey-tail]] — comparison with another tree-growing polypore
 - comparison-lions-mane-vs-reishi-medicinal-mushrooms — medicinal mushroom comparisons
 - [[mushroom-cultivation-history]] — historical context of Turkey Tail use across cultures

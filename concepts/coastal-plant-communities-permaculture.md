@@ -1,5 +1,5 @@
 ---
-title: [[coastal-ground-covers-hedges-permaculture]] Plant Communities in Permaculture
+title: "Coastal Plant Communities in Permaculture"
 source: a-selection-permaculture-plants.md
 type: concept
 ---

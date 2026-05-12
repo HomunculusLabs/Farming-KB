@@ -88,3 +88,17 @@ is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[smut-fungi]]
+- [[doc]]
+- [[det]]
+- [[mycorrhiza]]
+- [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]

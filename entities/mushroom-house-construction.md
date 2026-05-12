@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-house-construction-duggar]]
+title: "Mushroom House Construction"
 source: a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: entity
 tags: [mycology, cultivation, infrastructure, mushroom-house, building]

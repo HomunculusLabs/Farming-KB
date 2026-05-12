@@ -1,5 +1,5 @@
 ---
-title: "[[palmer-mushroom-anatomy-and-structure]] [[fungal-kingdom-taxonomy-classification]] System"
+title: "Palmer Mushroom Taxonomy Classification System"
 created: 2026-04-28
 tags: [[fungal-taxonomy]], classification, mycology-history, nineteenth-century, palmer]
 date: 2026-04-28
@@ -88,3 +88,7 @@ alkaloid (amanitine). About thirty species exist, of which eight are
 edible and at least five contain the deadly principle. Distinguishing
 features include the volva at the stem base, white gills, warty caps,
 and a ring on the stem. Cap colors range from the bright scarlet of
+
+## See Also
+- [[palmer-mushroom-anatomy-and-structure]]
+- [[fungal-kingdom-taxonomy-classification]]

@@ -46,7 +46,7 @@ significant abundance differences and 657 showing significant
 presence/absence differences. This overwhelming soil effect underpins the
 first tier of the [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 
-- [[Proteobacteria]] for Proteobacteria
+- [[proteobacteria-dominance-cannabis-endorhiza]] for Proteobacteria
   details
 - [[cannabis-cultivar-microbiome-specificity]] for [[cannabis-cultivar-effects-soil-microbiome]]
 ## Practical Considerations

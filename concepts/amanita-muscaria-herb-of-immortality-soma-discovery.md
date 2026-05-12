@@ -1,5 +1,5 @@
 ---
-title: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] of Immortality Discovery
+title: Amanita Muscaria Herb Of Immortality Soma Discovery
 source: amanita-muscaria-herb-of-immortality.md
 type: concept
 ---
@@ -57,7 +57,7 @@ a divine plant with remarkably consistent properties:
 
 ### The Solid Starting Point
 
-Teeter's key insight was logical in nature: if dozens of unrelated ancient cultures
+Teeter's key insight was logical in nature: if dozens of unrelated [[plants-of-the-gods-cannabis-ancient-cultures]]
 all describe the same miraculous plant — with consistent details of preparation,
 effects, and theological significance — then the plant must be real. This provides
 what he called a "solid starting point" for making sense of religious stories that
@@ -134,7 +134,7 @@ Teeter's approach was inherently interdisciplinary, drawing on:
 ## The Underlying Pattern
 
 The pattern Teeter identified is that ancient religions across Eurasia were not
-founded on abstract theological propositions but on a concrete ritual practice:
+founded on abstract theological propositions but on a concrete [[powell-shamanic-wisdom-and-ritual-practice]]:
 the [[magic-mushroom-preparation-and-consumption-methods]] of a specific sacred plant. Theologies, myths,
 priesthoods, and temples grew up around this practice over centuries, gradually
 obscuring the original botanical reality. Through comparative linguistics and
@@ -145,13 +145,5 @@ cross-cultural analysis, that original reality can be recovered.
 If Teeter's identification is correct, it means that a single mushroom species —
 *Amanita muscaria* — was the central sacrament of the major religious traditions of
 the ancient Indo-European world. This would fundamentally reshape our understanding
-of the origins of religion, the development of theology, and the relationship
-between altered states of consciousness and spiritual experience in human history.
-
-## See Also
-
-- [[Amanita muscaria]] — Botanical profile and pharmacology
-- [[soma]] — The Vedic sacred plant
-- [[Haoma]] — The Zoroastrian equivalent
-- [[Indo-European religion]] — Common religious heritage
-- [[Entheogens in antiquity]] — [[cultural-evolution-and-psychoactive-substances]] in ancient ritual
+of the [[anunnaki-and-sumerian-origins-of-religion]], the development of theology, and the relationship
+between altered [[mckenna-food-gods-designer-states-of-consciousness]] and spiritual experience in human history.

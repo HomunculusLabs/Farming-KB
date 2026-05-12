@@ -91,3 +91,17 @@ expertise and contributing to the ongoing evolution of this field.
 ## See Also
 
 - fungal-succession-isotope-tracking
+
+## Historical Context
+
+The historical development of this subject reflects centuries of accumulated
+knowledge and practical experience. From traditional methods passed down
+through generations to modern scientific approaches, the evolution continues
+to inform current best practices and research directions.
+
+## See Also
+- [[fungal-decomposition]]
+- [[decomposition]]
+- [[doc]]
+- [[det]]
+- [[mycorrhiza]]

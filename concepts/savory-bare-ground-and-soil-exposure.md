@@ -72,6 +72,17 @@ reveal whether bare ground is increasing or decreasing. Transect
 measurements can quantify the proportion of bare soil versus plant cover
 and litter.
 
+## Soil Health Indicators
+
+Healthy soil exhibits good structure, earthy smell, and diverse biological activity. Carbon-to-nitrogen ratios between 25:1 and 30:1 support optimal microbial decomposition. Regular soil testing guides amendment schedules.
+
+## See Also
+
+- [[fukuoka-soil-building-approach]]
+- [[soil-building-ecological-garden]]
+- [[ozier-pdc-composting-and-soil-building]]
+- [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]]
+
 ## See Also
 
 - [[savory-predator-prey-and-herding-behavior]]
