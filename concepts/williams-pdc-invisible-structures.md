@@ -89,3 +89,9 @@ The permaculture designer should apply the same analytical tools used for physic
 The most effective permaculture designs integrate physical and invisible structures from the outset. A [[permaculture-design]] that includes productive landscapes but fails to address the economic structures needed to sustain them will ultimately fail. Similarly, a design that addresses governance and economics but neglects the physical realities of soil, water, and climate will fall short of its potential.
 
 The PDC teaches that the designer must be fluent in both languages -- the language of physical landscape design and the language of invisible social and economic systems -- to create truly regenerative and resilient human settlements.
+
+## See Also
+
+- [[williams-pdc-additional-permaculture-principles]]
+- [[williams-pdc-client-interview-process]]
+- [[williams-pdc-non-violent-communication]]

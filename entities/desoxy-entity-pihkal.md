@@ -14,7 +14,7 @@ sources: ["Shulgin - PIHKAL"]
 
 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE
 
-## Dosage and Duration
+## Dosage and Du[[phytochrome-red-far-red-ratio-shade-detection-plants]]n
 
 | Property | Value |
 |----------|-------|
@@ -33,9 +33,9 @@ sources: ["Shulgin - PIHKAL"]
 > imagery. After 3 hours the nausea was gone, I was able to get up and
 > explore. A little food went down well. No drive, no strong focus in
 > any direction. Feel this was a quite fascinating experience.
-> Completely down by six hours. Would go a bit slowly because of slight
+> Completely down by six hours. Would go a bit slowly because of s[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]
 > hints of neurological sensitivity -- the instant chilling and a
-> tendency to dart on going to sleep. The nervous system does not feel
+> tendency to dart on going to sleep. The nervous [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] does not feel
 > over-exposed, but all of a sudden there will be a millisecond of
 > auditory hallucination, or an out-of-the-blue startle. So take it
 > easy going up. [Some 24 hours after this experiment had been
@@ -44,14 +44,14 @@ sources: ["Shulgin - PIHKAL"]
 >
 > completed, and a normal baseline re-established, a complex and
 > psycho-logically disruptive syndrome occurred, that lasted for the
-> better part of a week. The temporal juxtaposition between the use of
-> desoxy and the subsequent "spiritual crisis" initially suggested some
+> better part of a week. The temporal juxtaposition [[query-difference-between-white-rot-and-brown-rot-fungi]] the use of
+> desoxy and the subsequent "[[cannabis-spiritual-ritual-use]] crisis" initially suggested some
 > possible connection, but in retrospect the events seem to be
 > unrelated].
 >
-> (with 40 mg) I have offered to be a control on an experiment where
+> (with 40 mg) I have offered to be a [[query-how-to-use-neem-oil-for-cannabis-pest-control]] on an experiment where
 > there had been a close relationship between a trial with desoxy and
-> what might have been a psychotic break, or some kind of so-called
+> what might have been a psychotic [[query-how-do-white-rot-fungi-break-down-lignin]], or some kind of so-called
 > spiritual emergency. These two events lay within a day of one
 > another. I was aware of my 40 milligram dosage at about
 > three-quarters of an hour into the experiment, and felt that there was
@@ -79,7 +79,7 @@ To a well-stirred solution of 31 g 2,6-dimethoxytoluene in 200 mL CH2Cl2 there w
 
 A well-stirred solution of 42 mL diisopropylamine in 100 mL [[petroleum-ether]] was placed in a He atmosphere and cooled to 0 deg C with an external ice-water bath. There was then added 120 mL of a 2.5 M solution of n-butyllithium in hexane, producing a clear but viscous solution of the lithium amide. Maintaining this temperature, there was added 100 mL of anhydrous THF, followed by 10 mL dry CH3CN, which produced an immediate white precipitate. A solution of 23 g of 3-bromo-2,6-dimethoxytoluene in 75 mL anhydrous THF was then added which produced a light red color. The reaction mixture was allowed to
 
-come to room temperature. The color became progressively darkened, eventually becoming a deep red-brown. After 0.5 h, the reaction mixture was poured into 500 mL of dilute H2SO4, the layers were separated, and the aqueous layer extracted with 2x75 mL CH2Cl2. The organics were combined, the solvent removed under vacuum, and the residue distilled. Discarding a first fraction, the cut boiling at 125-165 deg C at 0.3 mm/Hg was collected. This light yellow fraction spontaneously crystallized and weighed 11.0 g. Trituration under 20 mL petroleum ether provided 1.72 g of 3,5-dimethoxy-4-methylphenylacetonitrile as a yellowish solid.
+come to room temperature. The color became progressively darkened, eventually becoming a deep red-brown. After 0.5 h, the reaction mixture was poured into 500 mL of dilute H2SO4, the layers were separated, and the aqueous layer [[query-what-is-the-difference-between-compost-tea-and-compost-extract]]ed with 2x75 mL CH2Cl2. The organics were combined, the solvent removed under vacuum, and the residue distilled. Discarding a first fraction, the cut boiling at 125-165 deg C at 0.3 mm/Hg was collected. This light yellow fraction spontaneously crystallized and weighed 11.0 g. Trituration under 20 mL petroleum ether provided 1.72 g of 3,5-dimethoxy-4-methylphenylacetonitrile as a yellowish solid.
 
 A solution of LAH in anhydrous THF under nitrogen (20 mL of a 1.0 M solution) was cooled to 0 deg C and vigorously stirred. There was added, dropwise, 0.54 mL 100% H2SO4, followed by 1.5 g 3,5-dimethoxy-4-methylphenylacetonitrile as a solid. The reaction mixture was stirred at 0 deg C for a few min, then brought to room temperature for 1 h, and finally to a reflux on the [[scythian-cannabis-steam-bath-ritual]] for 30 min. After cooling back to 0 deg C there was added IPA until no more hydrogen was evolved, followed by sufficient 15% NaOH to produce a granular texture. The white solids were removed by filtration, and washed with THF. The filtrate and washes were stripped of solvent under vacuum, the residue added to 150 mL dilute H2SO4 and washed with 2x50 mL CH2Cl2. The aqueous phase was made basic with 25% NaOH, and extracted with 3x100 mL CH2Cl2. These extracts were pooled, the solvent removed under vacuum, and the residue distilled at 110-120 deg C at 0.45 mm/Hg to give a colorless viscous oil. This was dissolved in 10 mL of IPA, neutralized with 10 drops of concentrated HCl and diluted with 20 mL anhydrous Et2O. The product was removed by filtration, washed with Et2O, and air dried to give 0.55 g 3,5-dimethoxy-4-methylphenethylamine (DESOX...
 

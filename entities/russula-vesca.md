@@ -25,9 +25,9 @@ sources:
 ## Overview
 
 **Russula vesca**, commonly known as the barefoot russula, tender russula, or
-flirt russula, is an edible species of mushroom in the family Russulaceae.
-It is one of the most widely consumed wild Russula species in Europe due to
-its mild flavor and relatively simple identification.
+flirt russula, is an edible species of [[jarrold-boil-a-bag-mushroom-cultivation-method]] in the family Russulaceae.
+It is one of the most widely consumed wild Russula species in [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] due to
+its mild flavor and relatively simple [[emcdda-psilocybin-mushroom-species-and-identification]].
 
 The species was originally described by Elias Magnus Fries in 1836.
 It is a member of the large genus *Russula*, which contains over 750 species
@@ -39,7 +39,7 @@ with age.
 
 **Classification:**
 - Kingdom: Fungi
-- Division: Basidiomycota
+- Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]: Basidiomycota
 - Class: Agaricomycetes
 - Order: Russulales
 - Family: Russulaceae
@@ -50,7 +50,7 @@ with age.
 **Synonyms:** *Agaricus vesca* Schaeff. (1774)
 
 **Cap:** 5–12 cm diameter, convex when young, becoming depressed at center
-with age. Surface smooth, slightly viscid when wet, dull red to pinkish-carmine,
+with age. [[casing-surface-roughness-technique-mushroom-fruiting]] smooth, slightly viscid when wet, dull red to pinkish-carmine,
 often paler toward margin, sometimes with yellowish patches.
 Cuticle peels easily from the cap margin, extending about halfway to center.
 
@@ -76,14 +76,14 @@ Guanidine test negative. KOH on cap cuticle turns yellowish.
 *Russula vesca* is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe
 and [[psilocybin-north-america-pacific-northwest]], with scattered records from North Africa and Asia.
 
-It is an obligate ectomycorrhizal species, forming associations primarily
+It is an obligate ecto[[mycorrhizal-edible-mushroom-species-overview]] species, forming associations primarily
 with broadleaf trees. Common host genera include *Quercus* (oak), *Fagus*
 (beech), *Betula* (birch), *Corylus* (hazel), and *Carpinus* (hornbeam).
 
-Fruiting occurs from early summer through autumn (June–October in the
+[[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] occurs from early summer through autumn (June–October in the
 Northern Hemisphere). It prefers deciduous and mixed woodlands with
 well-drained, slightly acidic to neutral soils.
 
 The species is relatively common in old-growth and mature secondary forests,
-and is less frequently encountered in heavily disturbed or monoculture
+and is less frequently encountered in heavily disturbed or mono[[acid-house-rave-culture-and-second-mushroom-boom]]
 conifer plantations.

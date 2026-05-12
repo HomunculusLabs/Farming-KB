@@ -69,7 +69,7 @@ with Your Land (1949), and Selman Waksman's The Soil and the Microbe
 manures, mixed farming, and [[coleman-deep-organic-farming]],
 
 See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
-See [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.
+See [[the-ultimate-goal-of-farming]] for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.
 
 ## See Also
 
@@ -122,7 +122,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[the-ultimate-goal-of-farming]]
 - [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
 - [[doc]]
 - [[cannabis-nutrient-management]]

@@ -9,7 +9,7 @@ chemically and hence ideal molecules for [[arbuscule-isolation-metabolic-activit
 world of organic life.
 
 The indole hallucinogens represent one of the most pharmacologically and
-culturally significant classes of [[cultural-evolution-and-psychoactive-substances]]. [[terence-mckenna]],
+culturally significant classes of [[star-fire-and-sacred-substances]]. [[terence-mckenna]],
 in "Food of the Gods," identified four principal [[four-families-of-indole-hallucinogens]]
 hallucinogens that occur in plants and have been used by humans for visionary
 and spiritual purposes.

@@ -120,6 +120,6 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[eliot-coleman]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[beneficial-insects-and-biological-pest-control]]
+- [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[det]]
 - [[savory-biological-pest-control-and-succession]]

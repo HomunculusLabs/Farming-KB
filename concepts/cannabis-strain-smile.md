@@ -25,6 +25,12 @@ Smile is a sativa-dominant hybrid [[cannabis-strain-guide-reference]]
 ## See Also
 
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
+
+- [[cannabis-strain-chupacabra]]
+- [[cannabis-strain-naming]]
+- [[cannabis-strain-peptide]]
+- [[cannabis-strain-satori]]
+- [[cannabis-strain-sherpa]]
 ## Practical Applications
 
 Smile has a range of practical applications that make it relevant to

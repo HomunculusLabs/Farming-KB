@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T
 
-[[2c-b-pihkal-entry-20]] #39. 4-Methylthio-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #39. 4-[[methyl-dma-entity-pihkal]]thio-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -21,14 +21,14 @@ sources: ["Shulgin - PIHKAL"]
 
 > (with 60 mg) Poetry was an easy and natural
 > thing. Both the reading of it and the writing of it. This is a
-> potential [[mdma]] substitute since it opens things up but it doesn't do
+> potential [[mdma]] substitute since it opens [[fukuoka-textdoc-one-thing-is-all-things-holism]] up but it doesn't do
 > anything to get in the way.
 >
 > (with 75 mg) I am already aware at a quarter of an hour into it! It
 > develops very quickly but very quietly. There are no visuals at all
 > but, rather, a tactile sensitivity, with warm close feelings. This
 > could be very erotic. There is some fantasy to music, but nothing
-> very demanding. The viewing of pictures doesn't do much either. The
+> very [[solomon-vegetable-demand-classification-low-medium-high]]ing. The viewing of pictures doesn't do much either. The
 > drop-off was extremely relaxed, with a good body feeling. At the
 > fifth hour I was able to drift into an excellent, deep sleep with busy
 > dreams. In the morning I felt refreshed and active, without apparent
@@ -40,7 +40,7 @@ sources: ["Shulgin - PIHKAL"]
 > everything around me. I do not think the overall experiment was worth
 > it.
 >
-> (with 100 mg) Material all right, but a little bit along the lines of
+> (with 100 mg) Material all [[query-how-to-choose-the-right-pot-size-for-cannabis]], but a little bit along the lines of
 > a 'generic' psychedelic effect. Sharper edges than 2C-B. The one
 > true negative, which has been pretty consistent with this drug, is
 > that there is a certain emotional removal. One teeny step removed.
@@ -63,18 +63,18 @@ sources: ["Shulgin - PIHKAL"]
 The earliest work with the sulfur atom was
 with the three-carbon chain materials, the ALEPHs. It was only after
 a considerable time of working with them, and trying to come to peace
-with their property of being so different from person to person as to
-potency, that the two-carbon homologues were looked at. Although the
+with their property of being so [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] from person to person as to
+potency, that the two-carbon [[tweetio-series-ethoxy-homologues-pihkal]] were looked at. Although the
 first of these (this compound, called 2C-T) was prepared at the same
 time as ALEPH-1, there was a lapse of about four years between their
 trials. The relatively low potency of 2C-T was a bit discouraging.
 
-But the methodical pursuit of the higher 2C-T's (to parallel the
+But the [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]ical pursuit of the higher 2C-T's (to parallel the
 higher ALEPHs) proved to be a treasure house, and they have been
 explored much further than any of the ALEPHs.
 
 A note on the RTS in 2C-T. Many, in fact most, of the 2C's have their
-name based on the last letter of the amphetamine prototype. 2C-B from
+name based on the last letter of the [[pihkal-dob-doi-dom-amphetamine-series-comparison]] prototype. 2C-B from
 DOB, 2C-C from [[doc]], 2C-I from DOI, 2C-N from DON, etc. And since the
 original name for ALEPH-1 was DOT (the desoxy- and a thiomethyl group
 at the 4-position), the 2C-T naming followed this general pattern.

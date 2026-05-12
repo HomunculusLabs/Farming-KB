@@ -8,23 +8,23 @@ type: concept
 tags: [reference]
 ---
 
-# Protozoa and Nematodes in the Soil Food Web
+# Protozoa and Nematodes in the [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil]]
 
 ## Overview
 
-Protozoa and nematodes occupy the second trophic level of the soil food web as
+Protozoa and nematodes occupy the second trophic level of the [[teaming-with-microbes-soil-food-web-overview]] as
 consumers of bacteria and fungi. They are the critical link that converts
 microbe-locked nutrients into plant-available forms. Protozoa are single-celled
 animals that feed on bacteria and other microbes; nematodes are tiny unsegmented
 roundworms that feed on bacteria, fungi, and each other. A teaspoon of good
 garden soil contains thousands of protozoa and dozens of nematodes. Both groups
-play essential [[dighton-fungal-roles-in-nutrient-cycling]] cycling and soil food web regulation.
+play essential [[dighton-fungal-roles-in-nutrient-cycling]] cycling and [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] regulation.
 
-## Protozoa: The Three Types
+## Protozoa: The Three [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 
 Soil protozoa come in three forms:
 
-1. **Flagellates** -- The smallest, equipped with one or more whip-like flagella
+1. **[[teaming-with-microbes-protozoa-types-amoeba-flagellate-ciliate]]s** -- The smallest, equipped with one or more whip-like flagella
    for propulsion. They are the most numerous protozoa in soil and the most
    common predators of bacteria.
 
@@ -39,7 +39,7 @@ Soil protozoa come in three forms:
    poor aeration. A healthy, well-aerated soil should have relatively few
    ciliates compared to flagellates and amoebae.
 
-## Protozoa and Nutrient Cycling
+## Protozoa and [[ingham-protozoa-soil-food-web-nutrient-cycling]]
 
 Protozoa are the primary grazers of soil bacteria. They consume bacteria
 continuously, digesting the nutrient-rich bacterial bodies. Because bacteria
@@ -47,7 +47,7 @@ have a narrow carbon-to-nitrogen ratio (approximately 5:1), protozoa cannot use
 all the nitrogen they ingest. The excess nitrogen -- about 30-60% of what was
 in the bacteria -- is excreted as ammonium waste directly in the rhizosphere,
 where plant roots can immediately absorb it. This is the core mechanism by which
-the soil food web feeds plants: bacteria lock up nutrients, protozoa eat the
+the soil food web feeds [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]]: bacteria lock up nutrients, protozoa eat the
 bacteria, and excess nitrogen becomes plant-available ammonium.
 
 Protozoa require water films to move, which means they are most active when soil
@@ -58,7 +58,7 @@ protected resting stages that reactivate when conditions improve.
 
 Protozoa are essential for maintaining bacterial populations in active growth
 phase. Without predation pressure, bacteria would consume all available food and
-then go dormant -- a less productive state for nutrient cycling. Protozoa
+then go dormant -- a less productive state for [[ingham-nutrient-cycling-soil-food-web]]. Protozoa
 continuously harvest bacteria, which forces the remaining bacteria to remain
 active, growing, and decomposing [[hamilton-composting-and-organic-matter-management]]. This [[gadd-mycelial-network-resilience-grazing-pressure]] maintains
 the nutrient cycling engine of the soil food web.

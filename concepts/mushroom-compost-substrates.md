@@ -75,6 +75,9 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 - [[mushroom-species-guide]] — Species-specific substrate requirements
 - [[mushroom-contamination-identification]] — [[pf-tek-contamination-prevention-and-troubleshooting]] recovery
 
+- [[mushroom-compost-and-stable-manure-preparation]]
+- [[mushroom-compost-fermentation-process]]
+- [[mushroom-compost-preparation-and-manure-selection]]
 ## Historical Context
 - These approaches have evolved through decades of research and practical application.
 - Traditional knowledge systems have contributed significantly to modern understanding.

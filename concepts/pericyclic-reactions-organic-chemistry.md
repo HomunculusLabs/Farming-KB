@@ -4,12 +4,12 @@
 Pericyclic reactions are a fundamental class of organic reactions that proceed through a single
 concerted cyclic transition state, meaning all bond-breaking and bond-forming events occur
 simultaneously through a continuous cyclic overlap of orbitals. They involve no discrete
-intermediates, no charged species, and no catalysts. The defining characteristic is a cyclic
+[[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]s, no charged species, and no catalysts. The defining characteristic is a cyclic
 array of interacting molecular orbitals connecting the reacting centers. Pericyclic reactions
-are among the most stereospecific transformations in organic chemistry and are governed by the
+are among the most stereospecific transformations in organic [[guzman-neurotropic-fungi-classification-four-groups-chemistry-system]] and are governed by the
 principle of orbital symmetry conservation.
 
-## Classification
+## [[event-classification-and-time-in-pattern-models]]
 
 Pericyclic reactions fall into four main categories based on the topology of bond reorganization:
 
@@ -37,7 +37,7 @@ the reaction coordinate.
 
 A pericyclic reaction is thermally allowed if the total number of (4q+2)s + (4r)a components is
 odd, where s denotes suprafacial (same face) and a denotes antarafacial (opposite face) components.
-Systems with 4n pi electrons require antarafacial overlap thermally but suprafacial photochemically.
+Systems with 4n pi electrons require antarafacial overlap thermally but suprafacial photo[[psilocybin-and-psilocin-chemical-synthesis]]ly.
 Systems with 4n+2 pi electrons require suprafacial overlap thermally but antarafacial photochemically.
 
 Dewar and Zimmerman's aromatic transition state theory provides an equivalent formulation. Allowed
@@ -51,7 +51,7 @@ HOMO of one reactant and the LUMO of another. For pericyclic reactions, the symm
 HOMO dictates stereochemical outcomes under thermal conditions, while photochemical excitation
 inverts frontier orbital symmetry and reverses selection rules. In electrocyclic reactions, the
 phase relationship of terminal HOMO lobes determines whether conrotatory or disrotatory motion
-is required. Same-phase termini favor disrotation; opposite-phase termini favor conrotation.
+is required. Same-phase termini favor dis[[coleman-mobile-greenhouse-rotation-design-two-three-four-plot-systems]]; opposite-phase termini favor conrotation.
 
 ## Thermal and Photochemical Selectivity
 
@@ -82,7 +82,7 @@ dienophiles yield cis-substituted cyclohexenes, and trans-dienophiles yield tran
 products. Endo selectivity arises from secondary orbital interactions between dienophile
 substituent pi orbitals and the diene pi system, making the endo transition state kinetically
 favored despite the exo product being thermodynamically more stable. Regioselectivity follows
-frontier orbital coefficient magnitudes: the largest HOMO coefficient on the diene pairs with
+frontier orbital coefficient magnitudes: the [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]st HOMO coefficient on the diene pairs with
 the largest LUMO coefficient on the dienophile under normal electron demand.
 
 Thermal [2+2] cycloadditions are symmetry-forbidden, but photochemical [2+2] cycloadditions are

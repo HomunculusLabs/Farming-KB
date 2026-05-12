@@ -18,7 +18,7 @@ type: concept
 
 ## Sacred Leaf of the Andes
 
-Coca is one of the most culturally significant plants of South
+Coca is one of the most culturally significant [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] of South
 America. Along with Tobacco, Coca rose to exalted positions in
 the sacred native pharmacopoeias. In the Andean world, Coca has
 been cultivated and revered for millennia. The plant is so deeply
@@ -28,7 +28,7 @@ cultural identity.
 
 ## Botanical Background
 
-Erythroxylum coca is a shrub or small tree of the family
+Erythroxylum coca is a shrub or small tree of the [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]
 Erythroxylaceae, growing 6 to 10 feet (2-3 m) tall. The plant has
 bright green, elliptical leaves 1.5 to 3 inches (4-7 cm) long,
 with a distinctive midrib. The small white flowers are followed
@@ -39,11 +39,11 @@ coca), the latter typically containing lower alkaloid levels.
 The plant is native to the eastern slopes of the Andes, from
 Colombia through Peru and Bolivia to northern Argentina. Coca
 cultivation has been practiced for at least 4,000 to 5,000 years,
-making it one of the oldest domesticated psychoactive plants in
+making it one of the oldest domesticated psycho[[leaf-senescence-autumn-colour-change-active-plant-process]]s in
 the Americas. Archaeological evidence from coastal Peru includes
 coca leaves in burial sites dating to 2500 B.C.
 
-## Traditional Methods of Use
+## [[mckenna-coca-mama-coca-inca-goddess-tradition]]al Methods of Use
 
 The primary traditional method of coca consumption is chewing the
 dried leaves, known as "acullicu" or "coqueo." A wad of leaves is
@@ -57,9 +57,9 @@ deities — Pachamama (Mother Earth), the Apus (mountain spirits),
 and Inti (the sun god). Coca leaves serve as a medium of divination,
 with the patterns formed by scattered leaves being interpreted by
 specialist readers. In some communities, Coca may be employed in
-large doses to induce visions, functioning as a mild hallucinogen.
+large doses to induce visions, functioning as a mild [[mckenna-food-gods-new-world-hallucinogen-clustering-americas-psychedelic-continent]].
 
-## Psychoactive Properties
+## [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]] Properties
 
 The primary active alkaloid in coca is cocaine
 (benzoylmethylecgonine), along with other [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] tropane alkaloids flying salves tropane alkaloids [[schultes-witches-ointments-flying-salves]]
@@ -68,7 +68,7 @@ alkaloid content of dried coca leaves typically ranges from 0.5%
 to 1.5%. In traditional chewing, the effects are mild stimulation,
 reduced fatigue, appetite suppression, and increased alertness.
 
-The stimulant effects of coca are qualitatively different from
+The stimulant effects of coca are qualitatively [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] from
 those of isolated cocaine. Traditional coca use produces a gentle,
 sustained stimulation without the intense euphoria and subsequent
 crash associated with purified cocaine. This difference is
@@ -80,7 +80,7 @@ Coca leaves also contain [[comparison-essential-oils-vs-neem-oil-vs-insecticidal
 phosphorus), and protein. The nutritional content of coca is
 significant; indigenous peoples often view the leaf as a food
 source as much as a medicine or stimulant. Coca tea (mate de coca)
-is commonly consumed in the Andes to alleviate altitude sickness,
+is commonly consumed in the Andes to alleviate altitude [[cho-morning-sickness-and-plant-cross-over-period]],
 a practice validated by modern research on the plant's effects.
 
 ## Role in Andean Culture

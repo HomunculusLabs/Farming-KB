@@ -123,3 +123,10 @@ be grown on grass seed, rye grain is generally preferred for that species due
 to its larger kernel size and higher nutrient content. For sclerotia-producing
 species, grass seed is arguably the optimal substrate due to the ease of both
 colonization and sclerotia harvesting.
+
+## See Also
+
+- [[grass-seed-mushroom-cultivation]]
+- [[grass-seed-substrate-mycology]]
+- [[grass-seed-substrate-species-compatibility]]
+- [[grass-seed-substrate-water-calibration]]

@@ -9,7 +9,7 @@ sources:
 ---
 # FLEA
 
-FLEA (N-Hydroxy-N-methyl-3,4-methylenedioxyamphetamine) is an entactogenic phenethylamine that is the N-hydroxy analogue of [[alexander-shulgin]].
+FLEA (N-Hydroxy-N-[[methyl-dma-entity-pihkal]]-3,4-methylenedioxyamphetamine) is an entactogenic phenethylamine that is the N-hydroxy analogue of [[alexander-shulgin]].
 
 ## Chemical Identity
 
@@ -29,11 +29,11 @@ Effective oral dosage: 100 - 160 mg.
 
 Duration of effects: 4 - 8 hours.
 
-The dosage is nearly identical to that of mdma-entity|MDMA, consistent with Shulgin's broader hypothesis about N-hydroxy compounds.
+The dosage is nearly identical to that of mdma-entity|MDMA, consistent with Shulgin's broader hypothesis about N-hydroxy [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 
 ## Qualitative Effects
 
-At 90 mg, users report a taste described as "terrible, like grapefruit juice that has stayed in the can too long."
+At 90 mg, users report a taste described as "terrible, like grape[[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] juice that has stayed in the can too long."
 
 No nausea or difficulty swallowing was noted.
 
@@ -43,7 +43,7 @@ All senses appeared enhanced, with pleasant observation of colors, objects, and 
 
 The experience is described as similar to but distinct from mdma-entity|MDMA.
 
-At 110 mg, effects are described as "very similar to MDMA, but perhaps slightly slower."
+At 110 mg, effects are described as "very similar to MDMA, but perhaps s[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ly slower."
 
 Plateau occurs at approximately 2.5 hours with a very gradual descent.
 
@@ -59,11 +59,11 @@ The affect is described as "good, communicative, friendly, accepting, but withou
 
 The following day was described as feeling "very much like a post-LSD day" with light body, good energy, high emotions, and clear interactions.
 
-## Comparison with MDMA
+## [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] with MDMA
 
 The consensus among evaluators was that FLEA closely resembles mdma-entity|MDMA in dosage, duration, and general character.
 
-Differences noted include slightly less capacity for establishing closeness with others.
+[[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]]s noted include slightly less capacity for establishing closeness with others.
 
 There may be a greater tendency toward introspection compared to mdma-entity|MDMA.
 
@@ -77,9 +77,9 @@ The body load may be somewhat higher than with mdma-entity|MDMA, with reports of
 
 Two synthetic routes to FLEA are described in PiHKAL.
 
-The first route starts from 3,4-methylenedioxyphenylacetone, which is reacted with N-methylhydroxylamine hydrochloride and sodium cyanoborohydride in [[methanol]].
+The first route [[query-how-do-i-start-a-no-till-garden-bed]]s from 3,4-methylenedioxyphenylacetone, which is reacted with N-methylhydroxylamine hydrochloride and sodium cyanoborohydride in [[methanol]].
 
-The pH is maintained at neutrality throughout the reaction.
+The pH is maintained at neutrality [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]out the reaction.
 
 The second route starts from MDOH, which is methylated using formaldehyde and sodium cyanoborohydride.
 

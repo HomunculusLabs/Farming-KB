@@ -10,16 +10,11 @@ type: concept
 
 Beyond the primary cultivated *Agaricus* species, several other genera within the Agaricaceae family offer edible mushrooms of culinary and economic interest. The genus **Coprinus** (ink caps) and **Lepiota** (parasol mushrooms) are particularly noteworthy, representing distinct spore-color groups and growth habits. Understanding these genera broadens the forager's and cultivator's appreciation of edible fungal diversity.
 
-
 ## Coprinus: The Ink Caps
-
-
 
 ### Defining Characteristic
 
 The genus Coprinus is characterized by the **deliquescence** (dissolving) of gills and other parts of the pileus, and sometimes of the stem, when fully mature, into an inky black liquid. This autodigestion process is unique among edible mushrooms and has important implications for collection timing and preparation.
-
-
 
 ### Edible Species
 
@@ -28,8 +23,6 @@ The genus Coprinus is characterized by the **deliquescence** (dissolving) of gil
 **Coprinus atramentarius** — The true Ink Cap. Usually smaller than C. comatus, with a distinctly shorter cap. The cap is at first oval, later opening wider. It is invariably **slaty gray** in color, due to the background of the dark gills showing through the hygrophorous (water-absorbing) tissues. Plants are commonly found in clusters, especially about sidewalks and paths. This species is so rapidly deliquescent that it should be put on ice as soon as gathered and promptly used.
 
 **Coprinus micaceus** — Much smaller than either of the preceding, often occurring in solid phalanx covering several square feet of space about old stumps or over decaying roots. When young, the tan-colored, obtusely conical cap is covered with temporary, glistening scales like minute particles of mica (hence the specific epithet). With age the cap becomes convex or almost plane. This species is not so rapidly deliquescent as the larger forms.
-
-
 
 ### Practical Considerations for Coprinus
 
@@ -41,25 +34,17 @@ All three species are recommended as edible. However, foragers should note:
 - Some other species of Coprinus possess an unpleasant earthy flavor, so accurate identification is essential
 - **Important**: C. atramentarius should never be consumed with alcohol, as it contains coprine, which causes a disulfiram-like reaction
 
-
-
 ## Agarics with White Spores: Lepiota
-
-
 
 ### General Characteristics
 
 The genus Lepiota resembles Agaricus in many structural features. It is the white-spored equivalent, differing chiefly in possessing **white spores** and species that are usually less stocky than those of Agaricus. Lepiota possesses the usual cap and stem, a definite ring, and white gills. The species differ widely in size and color.
-
-
 
 ### Notable Species
 
 **[[lepiota-procera]]** — The Parasol Mushroom. Among the [[edible-agarics]], none is perhaps more conspicuous. This large, handsome mushroom occurs throughout the country in lawns, fields, and meadows. The cap expands to form a broad, flat parasol-like structure atop a tall, slender stem. The cap surface typically shows characteristic brown scales on a white to cream background.
 
 **Lepiota naucinoides** — Another of the larger edible Lepiota species, found in similar habitats to L. procera.
-
-
 
 ### Caution: Amanita Confusion
 
@@ -68,8 +53,6 @@ The most critical warning in [[mushroom-identification]] concerns the confusion 
 - **[[amanita-phalloides]]** — The Death Cap, responsible for the majority of fatal mushroom poisonings worldwide
 - **Amanita muscaria** — The Fly Agaric, perhaps the handsomest mushroom of the forest, with a cap varying from yellow to orange-red, frosty with soft creamy-white scales or patches. These scales indicate that the upper portion of the volva breaks into many areas as the plant emerges, and generally ruptures transversally into small incomplete rings remaining at the stem base as interrupted volval rings or ridges
 - **Amanita Casarea** — The Royal Agaric, possessing an orange-red cap but with yellow gills and a cup-like volva. Regarded as a great delicacy, but should be omitted by the amateur collector due to the lethal risk of confusion with deadly species
-
-
 
 ## Identification Principles
 
@@ -82,3 +65,28 @@ The transition from black-spored to white-spored agarics introduces additional i
 5. **Habitat and season** help narrow possibilities but should never be used as sole identification criteria
 
 The fundamental principle for all mushroom foragers remains: when in doubt, do not eat it. The consequences of misidentification with Amanita species are severe and irreversible.
+
+## Key Principles
+- Central to understanding ecological and sustainable design systems
+- Integrates theoretical knowledge with practical application
+- Functions within complex adaptive systems and natural patterns
+- Requires consideration of multiple interacting factors
+
+## Practical Applications
+- Applied in permaculture design and sustainable land management
+- Supports decision-making in agricultural and ecological contexts
+- Used in conservation and environmental restoration projects
+- Helps practitioners develop more resilient and productive systems
+
+## Ecological Significance
+- Contributes to understanding of ecosystem dynamics and function
+- Supports biodiversity and enhances natural system resilience
+- Plays role in nutrient cycling and energy flow processes
+- Understanding improves capacity for sustainable resource management
+
+## Related Concepts
+- [[suillus-edible-species]]
+- [[russula-edible-species]]
+- [[edible-agarics]]
+- [[mycorrhizal-edible-mushroom-species-overview]]
+- [[lepiota-brunneoincarnata]]

@@ -85,7 +85,7 @@ and modern research methods have all contributed to current understanding.
 
 ## See Also
 
-- [[beneficial-insects-and-biological-pest-control]]
+- [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]
 - [[query-how-to-attract-native-bees-and-beneficial-insects]]
 - [[beneficial-insects-cannabis]]
@@ -106,7 +106,7 @@ that can amplify overall effectiveness.
 ## See Also
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[gaias-garden-beneficial-insects-pest-management]]
-- [[beneficial-insects-and-biological-pest-control]]
+- [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[hemenway-insectary-plants-and-beneficial-insects]]
 - [[gaias-garden-beneficial-insects-gallery]]
 ## See Also

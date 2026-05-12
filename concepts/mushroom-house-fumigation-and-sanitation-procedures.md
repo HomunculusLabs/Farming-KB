@@ -4,17 +4,17 @@ source: benjamin-minge-duggar-mushroom-growing.md
 type: concept
 ---
 
-# Mushroom House Fumigation and Sanitation Procedures
+# [[straw-based-mushroom-cultivation-boil-bag-method]] House Fumigation and Sanitation Procedures
 
 ## Overview
 
-Fumigation of mushroom houses is a critical sanitary practice performed between crops to eliminate insect pests and fungal pathogens that may have accumulated during the growing season. The procedures described in early 20th century [[mushroom-cultivation]] literature involve both formaldehyde-permanganate gas generation and sulphur burning, each with specific techniques and safety considerations. Proper fumigation is one of the most effective measures for ensuring crop success in subsequent growing cycles.
+Fumigation of mushroom houses is a critical sanitary practice performed between crops to eliminate insect pests and fungal pathogens that may have accumulated during the [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]. The procedures described in early 20th century [[mushroom-cultivation]] literature involve both formaldehyde-permanganate gas generation and sulphur burning, each with specific techniques and safety considerations. Proper fumigation is one of the most effective measures for ensuring crop success in subsequent growing cycles.
 
-## Preparation for Fumigation
+## [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]] Fumigation
 
 ### Timing
 
-Fumigation must be completed **before new beds go in**. Long before this, all remains of the previous crop should have been completely removed from the vicinity. The entire cycle of cleanup, preparation, fumigation, and airing must be completed well in advance of spawning new beds.
+Fumigation must be completed **before new beds go in**. Long before this, all remains of the previous crop should have been completely removed from the vicinity. The entire cycle of [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]]up, preparation, fumigation, and airing must be completed well in advance of spawning new beds.
 
 ### Pre-Fumigation Cleaning
 
@@ -22,7 +22,7 @@ Thorough preparation is essential for effective fumigation:
 
 1. **Clean and sweep** the mushroom houses completely, removing all organic debris
 2. **Spray with water** one or two days in advance to insure a moist condition — this helps the fumigant gas penetrate and spread effectively
-3. **Select damp weather** for the operation if possible, as humidity aids gas distribution
+3. **Select damp weather** for the [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]] if possible, as humidity aids gas distribution
 4. **Seal the house** — make it as air-tight as possible by pasting paper over all cracks and openings
 
 ### Materials Required
@@ -38,7 +38,7 @@ For formaldehyde-permanganate fumigation:
 
 ### Chemistry
 
-When potassium permanganate is dropped into formaldehyde solution, a vigorous chemical reaction occurs that releases formaldehyde gas. The reaction is sufficiently exothermic that the mixture boils, and if the container is too small, the material will boil over the sides. This rapid gas generation fills the enclosed space with fumigant vapor.
+When potassium permanganate is dropped into formaldehyde solution, a vigorous [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] reaction occurs that [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]s formaldehyde gas. The reaction is sufficiently exothermic that the mixture boils, and if the container is too small, the material will boil over the sides. This rapid gas generation fills the enclosed space with fumigant vapor.
 
 ### Procedure
 
@@ -103,7 +103,7 @@ The effectiveness of any fumigation procedure depends on several key principles:
 1. **Concentration**: Adequate fumigant must be present throughout the entire volume of the house
 2. **Contact time**: Sufficient exposure duration (minimum 24 hours) ensures lethal effect
 3. **Penetration**: Pre-moistening and proper sealing ensure gas reaches all surfaces and crevices
-4. **Completeness**: All cracks and openings must be sealed to prevent gas escape
+4. **Completeness**: All cracks and openings must be sealed [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] gas escape
 5. **Safety**: Operators must understand and respect the hazards of the fumigants being used
 
 The formaldehyde-permanganate method, while requiring more careful preparation and handling, provides rapid and thorough gas generation that, combined with proper sealing and adequate exposure time, achieves reliable disinfection of the mushroom house environment.

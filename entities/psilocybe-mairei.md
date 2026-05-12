@@ -8,7 +8,7 @@ sources: [psilocybin-mushrooms-of-the-world-stamets.md]
 type: entity
 ---
 
-# Psilocybe mairei
+# [[stamets-psi-psilocybe-cyanescens-species-guide]] mairei
 
 **Type:** Species (Fungus)
 **Category:** Basidiomycota, [[psilocybe-cyanescens]]
@@ -16,22 +16,22 @@ type: entity
 - [[psilocybe-semilanceata]]
 ## Background and Context
 
-Psilocybe mairei is an important subject that has garnered significant attention
+Psilocybe mairei is an [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
 understanding requires engagement with both the theoretical foundations
 and the accumulated wisdom of hands-on practice in the field.
 
-Historical development of knowledge in this area has been gradual and
+Historical [[light-multi-phase-regulatory-signal-psilocybe-cubensis-development]] of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
-cultures and time periods. Modern understanding builds on centuries of
+cultures and time periods. Modern understanding [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]]s on centuries of
 traditional knowledge combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 
 The broader context within which this topic exists includes evolving
-environmental conditions, changing social priorities, and advancing
+[[mushroom-environmental-requirements-temperature-moisture-light]] conditions, changing social priorities, and advancing
 technological capabilities. Each of these factors influences both the
 relevance and the practical application of the principles involved.
 
@@ -45,7 +45,7 @@ attempting more advanced or specialized implementations.
 
 The primary mechanisms through which these principles manifest in
 practice involve complex interactions between biological, chemical,
-and physical processes. Understanding these mechanisms at a systems
+and physical processes. Understanding these mechanisms at a [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s
 level enables practitioners to diagnose problems, optimize outcomes,
 and adapt approaches to changing conditions with greater confidence.
 
@@ -85,6 +85,6 @@ combined in creative ways to address diverse needs and objectives.
 Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
 
-Integration with other systems and approaches often yields the most
+Integration with other systems and approaches often yields [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
 robust and resilient outcomes. Rather than treating this topic in
-isolation, the most effective practitioners consider how it connects
+isolation, [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] effective practitioners consider how it connects

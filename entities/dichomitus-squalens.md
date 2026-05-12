@@ -24,11 +24,11 @@ created: 2026-04-28
 
 **Dichomitus squalens** is a white-rot basidiomycete fungus belonging to the family Polyporaceae.
 
-It is a cosmopolitan wood-decay species recognized for its aggressive lignin-degrading capabilities.
+It is a cosmopolitan wood-[[brown-rot-fungi-cellulose-degradation-wood-decay]] species recognized for its aggressive [[query-how-do-white-rot-fungi-break-down-lignin]]-degrading capabilities.
 
-The fungus produces both lignin peroxidases and manganese peroxidases, key enzymes in the breakdown of woody substrate.
+The fungus produces both lignin peroxidases and manganese peroxidases, key [[singh-white-rot-fungi-lignin-modifying-enzymes]] in the breakdown of woody substrate.
 
-Its bioremediation potential has attracted significant research interest for degradation of recalcitrant pollutants.
+Its bio[[brown-rot-white-rot-fungi-remediation]] potential has attracted significant research interest for [[fungal-degradation-of-pcbs-by-white-rot-fungi]] recalcitrant pollutants.
 
 ## Taxonomy
 
@@ -64,7 +64,7 @@ Spores are cylindrical to allantoid, smooth, hyaline, non-amyloid, measuring 6-8
 
 Basidia are clavate, four-spored, with a prominent basal [[clamp-connection-formation-and-nuclear-migration]].
 
-## Distribution and Habitat
+## [[emcdda-free-spore-ring-europe-spore-distribution-network]] and Habitat
 
 D. squalens has a wide distribution across temperate and [[fungal-diversity-boreal-forests-taiga]] of the Northern Hemisphere.
 
@@ -80,10 +80,10 @@ Fruiting occurs from late summer through autumn, though in mild climates it may 
 
 ## Enzymatic Capabilities
 
-D. squalens is a potent producer of lignin-modifying enzymes essential for white-rot decomposition.
+D. squalens is a potent producer of lignin-[[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] essential for white-rot decomposition.
 
 It secretes lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase in variable ratios depending on culture conditions.
 
-Lignin peroxidases catalyze the oxidative depolymerization of lignin via hydrogen peroxide-dependent mechanisms.
+Lignin peroxidases catalyze the oxidative depolymerization of lignin via hydrogen peroxide-dependent [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]].
 
 Manganese peroxidase oxidizes Mn²⁺ to Mn³⁺, generating diffusible oxidants that attack phenolic lignin structures.

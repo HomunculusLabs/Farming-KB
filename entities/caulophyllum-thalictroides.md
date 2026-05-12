@@ -24,22 +24,22 @@ sources:
 ## Overview
 
 **Caulophyllum thalictroides**, commonly called blue cohosh, is a perennial
-herbaceous plant in the barberry family (Berberidaceae). Native to the
+herbaceous [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] in the barberry family (Berberidaceae). Native to the
 woodlands of [[polypore-fungi-eastern-north-america]] America, it has a long history of use in
-traditional medicine, particularly among Indigenous peoples and 19th-century
+traditional medicine, particularly among [[neurotropic-fungi-new-guinea-melanesia-indigenous-use-guzman-1998]] peoples and 19th-century
 eclectic physicians, for women's reproductive health.
 
-The name "blue cohosh" refers to the bluish-green foliage and the blue
+The name "blue cohosh" refers to the bluish-[[green-cannabis-grow-bible-seed-selection-and-seed-banks]] foliage and the blue
 berries, while "cohosh" is an Algonquin word meaning "rough," describing the
 rhizome's texture. Despite its traditional reputation, blue cohosh contains
 alkaloids with uterine-stimulating properties and requires careful dosing.
 
-## Taxonomy and Morphology
+## [[fungal-taxonomy-and-kingdom-fungi]] Morphology
 
-**Classification:**
+**[[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]:**
 
 - Kingdom: Plantae
-- Division: Magnoliophyta
+- Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]: Magnoliophyta
 - Class: Magnoliopsida
 - Order: Ranunculales
 - Family: Berberidaceae
@@ -78,7 +78,7 @@ Preferred habitat includes:
 - Ravines and wooded stream banks
 
 The plant grows in USDA zones 3–8 and thrives in dappled shade to full
-shade with well-drained, loamy soils high in [[hamilton-composting-and-organic-matter-management]]. It is slow-growing,
+shade with well-drained, loamy soils high in [[hamilton-composting-and-organic-matter-management]]. It is slow-[[hamilton-organic-fruit-growing]],
 often taking 3–4 years to flower from seed.
 
 ## Bioactive Compounds
@@ -87,4 +87,4 @@ Blue cohosh contains several pharmacologically active alkaloids and
 saponins concentrated in the rhizome:
 
 - **N-methylcytisine** (caulophylline) — a quinolizidine alkaloid and
-  potent nicotinic receptor agonist; structurally related to cytisine
+  potent nicotinic [[phototropin-blue-light-receptor-plant-directional-sensing]] agonist; structurally related to cytisine

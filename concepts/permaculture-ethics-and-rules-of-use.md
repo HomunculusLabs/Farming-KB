@@ -4,11 +4,11 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Ethics and Rules of Use
+# [[permaculture-ethics-earth-care-people-care-fair-share]] and Rules of Use
 
 ## The Three Ethical Foundations
 
-[[permaculture]] is grounded in three ethical principles, distilled from research into community ethics as adopted by older religious and cooperative groups. Although many traditional systems contained as many as 18 principles, Mollison found that most could be subsumed under these three — and even the second and third arise from the first:
+[[permaculture]] is grounded in three ethical principles, distilled from research into [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]] ethics as adopted by older religious and cooperative groups. Although many traditional systems contained as many as 18 principles, Mollison found that most could be subsumed under these three — and even the second and third arise from the first:
 
 ### 1. Care of the Earth
 
@@ -20,13 +20,13 @@ This first ethic is the foundation upon which the others rest. It requires that 
 
 *Provision for people to access those resources necessary to their existence.*
 
-This ethic focuses on ensuring that human communities can meet their needs for food, water, shelter, energy, and social connection. The emphasis on "access" rather than "ownership" is significant — it implies systems designed for sharing, common resource management, and equitable distribution rather than private accumulation.
+This ethic focuses on ensuring that human communities can meet their needs for food, water, shelter, energy, and social connection. The emphasis on "access" rather than "ownership" is significant — it implies systems designed for sharing, common resource [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]], and equitable distribution rather than private accumulation.
 
 ### 3. Setting Limits to Population and Consumption
 
 *By governing our own needs, we can set resources aside to further the above principles.*
 
-The third ethic recognizes that unlimited growth is incompatible with a finite planet. It calls for voluntary self-regulation of consumption and population, creating surpluses that can be reinvested in earth care and community care. This is not a call for austerity but for intelligent management — reducing waste while maintaining quality of life.
+The third ethic recognizes that unlimited growth is incompatible with a finite planet. It calls for voluntary self-regulation of consumption and population, creating surpluses that can be reinvested in [[permaculture-ethics-of-earth-care-and-people-care]] community care. This is not a call for austerity but for intelligent management — reducing waste while maintaining quality of life.
 
 ## The Taoist Influence
 
@@ -56,7 +56,7 @@ This rule establishes a default posture of non-interference — natural systems 
 Once necessity has been established and a natural resource must be used, the **Rules of Conservative Use** require every attempt to:
 
 - **Reduce waste, hence pollution**: Every output of a system should be an input for another. Waste is a failure of design, not an inevitable byproduct.
-- **Thoroughly replace lost minerals**: Nutrients removed in harvests must be returned to the soil through composting, mulching, green manures, or mineral amendments.
+- **Thoroughly replace lost minerals**: Nutrients removed in harvests must be returned to the soil [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] composting, mulching, green manures, or mineral amendments.
 - **Do a careful energy accounting**: Every energy input and output must be tracked. Systems should produce more energy than they consume.
 - **Make an assessment of long-term, negative biosocial effects on society, and act to buffer or eliminate these**: Design must consider not only immediate productivity but also multi-generational social and biological consequences.
 
@@ -64,7 +64,7 @@ Once necessity has been established and a natural resource must be used, the **R
 
 Mollison provides a framework for understanding how ethics evolve:
 
-Humans are thinking beings with long memories, oral and written records, and the ability to investigate the distant past. It is therefore evident that behaviors in the natural world which seemed appropriate at one time later prove to be damaging to our own society in the long-term — for example, the effects of biocidal pest controls on soils and water.
+Humans are thinking beings with long memories, oral and written records, and the ability to investigate the distant past. It is therefore evident that behaviors in the natural world which seemed appropriate at one time later prove to be damaging to our own society in the long-term — for example, the effects of biocidal [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]s on soils and water.
 
 Thus, people are led by information, reflection, and careful investigation to moderate, abandon, or forbid certain behaviors and substances that in the long-term threaten their own survival. Conservative and cautious rules of behavior evolve. This is a rational and sensible process, responsible for many taboos in tribal societies.
 
@@ -74,8 +74,8 @@ This evolutionary view of ethics means that ethical principles are not fixed dog
 
 The ethical system leads naturally to various forms of accounting for human actions. Mollison identifies several domains:
 
-- **Fiscal accounting**: Tracking financial costs and benefits
-- **Social accounting**: Evaluating impacts on community health and cohesion
+- **Fiscal accounting**: Tracking financial costs and [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]s
+- **Social accounting**: Evaluating impacts on community [[query-what-are-the-health-benefits-of-sea-buckthorn-and-how-do-i-grow-it]] and cohesion
 - **Environmental accounting**: Measuring effects on ecological systems
 - **Aesthetic accounting**: Considering beauty, meaning, and cultural value
 - **Energetic accounting**: Calculating energy inputs and outputs

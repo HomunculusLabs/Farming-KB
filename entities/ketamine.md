@@ -16,7 +16,7 @@ in 1962 by Calvin Stevens at Parke-Davis. Originally developed as a safer
 alternative to phencyclidine ([[pcp]]), it became a widely used battlefield and
 veterinary anesthetic due to its cardiovascular stability and analgesic
 properties. In the 21st century, ketamine has gained prominence in psychiatric
-medicine as a rapid-acting treatment for treatment-resistant depression, and
+[[vioxx-scandal-evidence-based-medicine-gaps-lessons-cannabis-research-blesching-2015]] as a rapid-acting treatment for treatment-resistant depression, and
 is increasingly recognized in [[metzner-psycholytic-psychedelic-therapy-models]] research for its ability to
 produce profound dissociative experiences at sub-anesthetic doses.
 ## Chemical Identity
@@ -62,8 +62,8 @@ conventional monoamine-based antidepressants.
 | 2.0–4.0 mg/kg | Full surgical anesthesia |
 Oral and intranasal bioavailability is lower (~20–30% oral, ~45% intranasal)
 compared to intravenous (100%). The primary active metabolite, norketamine,
-retains approximately one-third the potency of the parent compound.
-## Medical Applications
+retains approximately one-third the [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]] of the parent compound.
+## Medical [[blesching-cannabis-health-index-mental-health-applications]]
 ### Anesthesia and Analgesia
 Ketamine is classified as a WHO Essential Medicine. It is particularly valued
 in emergency medicine, battlefield surgery, and resource-limited settings
@@ -74,17 +74,17 @@ care, and procedural sedation.
 Since the landmark 2006 study by Zarate et al. at NIMH demonstrating that
 a single IV ketamine infusion produced rapid antidepressant effects within
 hours, ketamine has revolutionized treatment of refractory mood disorders.
-Clinical response rates of 50–70% have been reported in patients who failed
+[[metzner-sandoz-psycholytic-therapy-european-clinical-model]] response rates of 50–70% have been reported in patients who failed
 multiple conventional antidepressant trials.
 ### Esketamine (Spravato)
 Approved March 2019 for treatment-resistant depression and later for
 depressive symptoms in adults with major depressive disorder with acute
 suicidal ideation. Administered as a 56 mg or 84 mg nasal spray in
-certified healthcare settings under REMS protocol.
+certified healthcare settings under REMS [[mindful-healing-protocol-setting-intention-cannabis-therapy-blesching]].
 ### Chronic Pain Management
 Ketamine infusions at sub-anesthetic doses (0.1–0.5 mg/kg/hr) are used for
 refractory chronic pain conditions including complex regional pain syndrome
-(CRPS), [[blesching-cannabis-neuropathic-pain]], and fibromyalgia. NMDA receptor antagonism is
+(CRPS), [[blesching-cannabis-neuropathic-pain]], and [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]. NMDA receptor antagonism is
 thought to reverse central sensitization and opioid tolerance.
-### Psychedelic Therapy
-In the emerging field of psychedelic-assisted psychotherapy, ketamine is
+### [[set-and-setting-model-psychedelic-therapy]]
+In the emerging field of psychedelic-assisted [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]], ketamine is

@@ -9,7 +9,7 @@ sources: []
 
 # Mescaline Reference
 
-Mescaline is a naturally occurring protoalkaloid and psychedelic compound found in several species of cacti. It is one of the oldest known [[cultural-evolution-and-psychoactive-substances]], with evidence of ceremonial use spanning over 5,000 years in the Americas. Mescaline produces profound alterations in consciousness, visual hallucinations, and altered perception of time and space.
+Mescaline is a naturally occurring protoalkaloid and psychedelic compound found in several species of cacti. It is one of the oldest known [[star-fire-and-sacred-substances]], with evidence of ceremonial use spanning over 5,000 years in the Americas. Mescaline produces profound alterations in consciousness, visual hallucinations, and altered perception of time and space.
 
 ## Chemistry
 

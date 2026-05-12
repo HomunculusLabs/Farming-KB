@@ -61,7 +61,7 @@ The following protocols ensure successful yeast cultivation:
 
 ### Harvesting
 
-After approximately 7 days, the yeast culture is ready. The liquid is strained and can be used directly as a plant spray (diluted) or added to livestock feed. For longer storage, the yeast can be preserved with [[cho-indigenous-microorganisms-collection-and-cultivation]]-treated soil.
+After approximately 7 days, the yeast culture is ready. The liquid is strained and can be used directly as a plant spray (diluted) or added to livestock feed. For longer storage, the yeast can be preserved with [[indigenous-spirituality-and-freedom]]-treated soil.
 
 - **Recovery agent** — For stressed or diseased plants, increase concentration to 1:200 and apply as both foliar spray and soil drench for 3-5 consecutive days.
 

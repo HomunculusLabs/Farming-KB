@@ -117,6 +117,12 @@ that can amplify overall effectiveness.
 - [[mde-compound-profile]]
 - [[shulgin-mda-compound-profile]]
 - [[mescaline-compound-profile]]
+
+- [[5-meo-dalt-entity]]
+- [[5-meo-dpt]]
+- [[5-meo-eipt]]
+- [[5-meo-malt]]
+- [[5-meo-pyr-t-entity-tihkal]]
 ## See Also
 
 - [[5-meo-dmt-compound-profile]]

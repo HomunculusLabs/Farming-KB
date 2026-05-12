@@ -9,11 +9,11 @@ updated: 2026-04-26
 
 # Tryptamine Oral Activity and MAO Inhibition
 
-## The Central Problem
+## The [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] Problem
 
-The single most important factor determining whether a tryptamine is orally active is its susceptibility to **monoamine oxidase (MAO)** -- an enzyme system that oxidatively deaminates primary and secondary amines, rendering them pharmacologically inactive.
+The single [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] factor determining whether a tryptamine is orally active is its susceptibility to **monoamine oxidase (MAO)** -- an enzyme [[guzman-allen-gartz-neurotropic-fungi-classification-system]] that oxidatively deaminates primary and secondary amines, rendering them pharmacologically inactive.
 
-Simple tryptamines like DMT are orally inactive because MAO in the gut and liver efficiently destroys them before they can reach the brain. This is the fundamental pharmacological barrier that explains why [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] developed [[ayahuasca]] (combining DMT-containing plants with MAOI-containing plants).
+Simple tryptamines like DMT are orally inactive because MAO in the gut and liver efficiently destroys them before they can reach the brain. This is the fundamental pharmacological barrier that explains why [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] developed [[ayahuasca]] (combining DMT-[[dmt-containing-plants-united-states-halpern]] [[dmt-maoi-plants-united-states]] with MAOI-[[dmt-containing-plants-and-maoi-combination]]).
 
 ## How MAO Inhibition Works
 
@@ -35,7 +35,7 @@ Combining orally inactive tryptamines with MAO inhibitors:
 
 The harmaline dose of 150 mg is identified as "highly effective as an MAO blocker."
 
-### 2. Alpha-Methylation (Structural Protection)
+### 2. Alpha-[[query-how-does-one-carbon-metabolism-affect-methylation]] ([[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] Protection)
 
 Adding a methyl group to the alpha-carbon (adjacent to the amine) physically blocks MAO from accessing the vulnerable amine:
 

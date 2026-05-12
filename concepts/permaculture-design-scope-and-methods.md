@@ -4,11 +4,11 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Design Scope and Methods
+# [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] Design Scope and Methods
 
 ## Overview
 
-[[permaculture-design]] encompasses a vast interdisciplinary scope, integrating concepts from ecology, agriculture, forestry, hydrology, climatology, sociology, economics, and law. The Permaculture Designers' Manual systematically covers these domains through 14 chapters, each addressing a critical component of sustainable human settlement design.
+[[permaculture-design]] encompasses a vast interdisciplinary scope, integrating concepts from ecology, agriculture, forestry, hydrology, climatology, sociology, economics, and law. The [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]ers' Manual systematically covers these domains through 14 chapters, each addressing a critical component of sustainable human settlement design.
 
 ## Design Concepts and Themes
 
@@ -24,10 +24,10 @@ Every element in a permaculture system participates in cycles — nutrient cycle
 Energy in ecosystems flows through trophic levels in pyramid structures. Permaculture design works with these natural energy flows, recognizing that complex food webs with many connections are more resilient than simple chains. The relationship between growth, yield, and system maturity is a key consideration in design.
 
 ### Complexity and Connections
-Resilient systems are characterized by high connectivity between elements. Complexity in permaculture is not random but is the result of thoughtful assembly of components that support each other. The number of beneficial connections between elements is a measure of system health.
+Resilient systems are characterized by high connectivity between elements. Complexity [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] is not random but is the result of thoughtful assembly of components that support each other. The number of beneficial connections between elements is a measure of system health.
 
 ### Diversity, Stability, and Time
-Diversity contributes to stability but only when the diverse elements are functionally connected. A diverse collection of unrelated elements does not create stability. The timing of yields, succession of species, and evolution of systems over time are critical design considerations.
+Diversity contributes to stability but only when the diverse elements are functionally connected. A diverse collection of unrelated elements does not create stability. The timing of yields, [[bill-mollison-permaculture-a-designers-manual-succession-and-ecological-evolution]] of species, and evolution of systems over time are critical design considerations.
 
 ### Permitted and Forced Functions
 Every element in a system performs multiple functions, and every function is supported by multiple elements. Designers distinguish between "permitted functions" (behaviors an element naturally performs) and "forced functions" (behaviors imposed by design). Good design works with permitted functions rather than forcing elements into unnatural roles.
@@ -70,7 +70,7 @@ Permaculture design draws heavily on the study of natural patterns. The manual p
 
 The application of pattern understanding extends from landscape design to social organization, with the principle that similar patterns recur at different scales (the concept of "fractal" or self-similar organization, though Mollison describes it in his own terms).
 
-## Climatic Factors
+## [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]
 
 Permaculture design is inherently climate-specific. The manual covers:
 
@@ -99,13 +99,13 @@ Planning earthworks, slope measurement, leveling techniques, types of earthworks
 
 The manual devotes three chapters to strategies for different climate types:
 
-- **Humid Tropics** — tropical soils, house design, tropical home gardens, integrated land management, polycultures
-- **Dryland Strategies** — water harvesting, desert houses and gardens, irrigation systems, desertification prevention
+- **Humid Tropics** — tropical soils, house design, tropical home [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], integrated land management, polycultures
+- **[[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]]** — water harvesting, desert houses and gardens, irrigation systems, desertification prevention
 - **Humid Cool to Cold Climates** — settlement design, home gardens, orchards, farm forestry, free-range forage systems, wildfire management
 
 ## Aquaculture
 
-Aquaculture in permaculture encompasses fish farming, invertebrate cultivation, channel and chinampa systems, and traditional and new water polycultures. The approach emphasizes integrated systems where aquaculture supports and is supported by terrestrial agriculture.
+Aquaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] encompasses fish farming, invertebrate cultivation, channel and chinampa systems, and traditional and new water polycultures. The approach emphasizes integrated systems where aquaculture supports and is supported by terrestrial agriculture.
 
 ## Social and Economic Design
 

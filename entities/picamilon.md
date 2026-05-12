@@ -17,7 +17,7 @@ sources:
 
 # Picamilon
 
-**Type:** Chemical / Pharmaceutical / Niacin-GABA Prodrug
+**Type:** Chemical / [[cannabis-pharmaceutical-cannabinoids-synthetic-research]] / Niacin-GABA Prodrug
 **Category:** Nootropic vasodilator
 **Also known as:** Nicotinoyl-GABA, Pikamilon
 
@@ -27,7 +27,7 @@ Picamilon is a synthetic compound formed by combining niacin (nicotinic
 acid, vitamin B3) with GABA (gamma-aminobutyric acid) via a peptide bond.
 Developed in the Soviet Union in 1969 at the All-Union Vitamin Research
 Institute, it was designed to overcome GABA's inability to cross the
-blood-brain barrier. The niacin moiety provides lipophilicity for CNS
+blood-[[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]]. The niacin moiety provides lipophilicity for CNS
 penetration, where the compound hydrolyzes to release both GABA and
 niacin independently.
 
@@ -44,12 +44,12 @@ dietary supplement, removing it from the US market.
 - Molecular weight: 208.21 g/mol
 - IUPAC name: 4-(pyridine-3-carbonylamino)butanoic acid
 - CAS number: 769-78-8
-- Appearance: White to slightly yellowish crystalline powder
-- Solubility: Freely soluble in water; sparingly soluble in [[ethanol]]
+- Appearance: White to s[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]ly [[yellow-metabolite-excretion-mycelial-stress-indicator-grain-spawn]]ish crystalline powder
+- Solubility: Freely soluble in [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]; sparingly soluble in [[ethanol]]
 
 Picamilon is a prodrug that undergoes enzymatic hydrolysis after crossing
 the blood-brain barrier. The cleavage products — GABA and nicotinic acid —
-exert their pharmacological effects independently. This dual-release
+exert their [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] effects independently. This dual-release
 mechanism distinguishes picamilon from simple GABA derivatives like
 [[phenibut]], which acts primarily on GABA receptors.
 
@@ -57,7 +57,7 @@ mechanism distinguishes picamilon from simple GABA derivatives like
 
 ### Mechanism of Action
 
-Picamilon's effects derive from its two metabolites acting in concert.
+Picamilon's effects derive from its two [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]s acting in concert.
 GABA provides anxiolytic and mild sedative effects through GABA-A and
 GABA-B receptor activation. Niacin produces significant cerebral
 vasodilation through activation of the GPR109A receptor, increasing
@@ -66,7 +66,7 @@ cerebral blood flow and oxygen delivery.
 The vasodilatory effect is the key differentiator from phenibut. While
 phenibut acts almost exclusively through GABA-B receptors, picamilon's
 niacin component addresses cerebrovascular insufficiency directly. This
-dual mechanism makes it particularly suited for conditions where reduced
+dual mechanism makes it particularly suited [[cannabis-thc-cbd-ratio-guide-for-conditions]] where reduced
 cerebral blood flow contributes to cognitive and mood symptoms.
 
 ### Pharmacokinetics

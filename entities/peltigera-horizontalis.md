@@ -20,11 +20,11 @@ sources:
 Peltigera horizontalis, commonly known as the horizontal pelt lichen, is a
 foliose cyanolichen in the family Peltigeraceae. It forms large, broadly
 lobed thalli that spread over soil, moss, and decaying wood in humid
-forests.
+[[biodiversity-fungi-temperate-boreal-forests]].
 
-The species is distinguished from other Peltigera by its prominent, raised
-vein network on the lower surface and its preference for mineral-rich
-substrates. It is widely distributed across temperate and boreal regions of
+The [[guzman-central-america-neurotropic-fungi-species-distribution]] is distinguished from other Peltigera by its prominent, raised
+vein [[free-spore-ring-europe-mushroom-cultivation-network]] on the lower surface and its preference for mineral-rich
+substrates. It is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and boreal regions of
 the Northern Hemisphere.
 
 Like other Peltigera species, P. horizontalis hosts *Nostoc* cyanobacteria
@@ -39,7 +39,7 @@ Peltigera horizontalis was first described by Franz Georg Hoffmann in
 Peltigera, section Peltigera.
 
 The thallus is large, reaching 10–20 cm in diameter, with broadly rounded
-lobes 1–3 cm wide. The upper surface is grayish-brown to dark brown when
+lobes 1–3 cm wide. The upper surface is grayish-[[brown-rot-fungi-cellulose-degradation-wood-decay]] to dark brown when
 dry, becoming darker and more olive-green when wet.
 
 The lower surface is pale tan to light brown with a densely reticulate
@@ -52,7 +52,7 @@ with a brown to dark red disc, 1–5 mm in diameter, and a thin, crenulate
 margin. The species produces simple ascospores, hyaline, ellipsoid, 3- to
 7-septate, measuring 28–50 × 3–4 µm.
 
-## Distribution and Habitat
+## [[emcdda-free-spore-ring-europe-spore-distribution-network]] and Habitat
 
 Peltigera horizontalis has a circumboreal distribution, found across
 Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]]. In Europe, it ranges from Scandinavia to
@@ -78,7 +78,7 @@ photobiont is *Nostoc* (cyanobacteria), housed in a well-defined
 cephalodium-like layer within the thallus medulla.
 
 The *Nostoc* symbiont fixes atmospheric nitrogen through heterocyst
-formation, contributing significant nitrogen input to forest soils. Studies
+[[mycorrhizal-fungi-rock-penetration-soil-formation]], contributing significant nitrogen input to forest soils. Studies
 estimate Peltigera species can fix 5–20 kg N per hectare per year in
 densely colonized stands.
 
@@ -87,4 +87,4 @@ springtails (Collembola) and mites, which feed on the lichen or shelter
 within its thallus. It is also a substrate for specialized lichenicolous
 fungi.
 
-In successional dynamics, P. horizontalis is often a mid- to late-successional
+In [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]]al dynamics, P. horizontalis is often a mid- to late-successional

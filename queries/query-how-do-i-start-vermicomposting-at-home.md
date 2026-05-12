@@ -23,7 +23,7 @@ The red wiggler (*Eisenia fetida*) is the gold standard because it thrives in co
 European nightcrawlers (*Eisenia hortensis*) are another excellent choice, tolerating slightly cooler temperatures.
 For more on species selection and breeding, see the [[earthworm-breeding|earthworm breeding]] concept page.
 Common garden earthworms prefer to burrow deep into soil and generally do not survive in shallow bin conditions.
-You can compare vermicomposting approaches with other composting methods in the [[bokashi-vs-vermicomposting]] and make nutrients more accessible.
+You can compare vermicomposting approaches with other composting methods in the [[bokashi]] and make nutrients more accessible.
 Surface area is key for microbial colonization, so smaller pieces break down significantly faster.
 Bury food under a few inches of bedding to deter fruit flies and reduce odors.
 Feed in moderation, roughly one quarter to one half pound of food per pound of worms per day.

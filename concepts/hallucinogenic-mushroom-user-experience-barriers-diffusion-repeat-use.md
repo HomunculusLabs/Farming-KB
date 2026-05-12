@@ -14,7 +14,7 @@ The EMCDDA's 2006 case study on [[emcdda-eu-legislative-timeline-hallucinogenic-
 
 The diffusion of an emerging drug trend requires opportunities for potential users to witness others using the substance in order to make a cost-benefit assessment (Golub and Johnson, 1996). For magic mushrooms, this observational learning pathway is significantly constrained. Unlike ecstasy, which is purchased and consumed in convenient tablet form at parties and dance events, mushrooms must be chewed or brewed in tea — a cumbersome and conspicuous [[mushroom-taste-route-of-administration-and-consumption-barriers]] that is poorly suited to social settings.
 
-The unfamiliar and often unpleasant taste of raw mushrooms further discourages public consumption. Combined with the unpredictable nature of the experience, these practical barriers mean that opportunities for young people to witness others using mushrooms are limited, and consequently the potential for social diffusion is lower than for more convenient [[cultural-evolution-and-psychoactive-substances]].
+The unfamiliar and often unpleasant taste of raw mushrooms further discourages public consumption. Combined with the unpredictable nature of the experience, these practical barriers mean that opportunities for young people to witness others using mushrooms are limited, and consequently the potential for social diffusion is lower than for more convenient [[star-fire-and-sacred-substances]].
 
 ## Unpredictable Potency
 

@@ -11,7 +11,7 @@ tags: [holzer, plant-growth]
 
 # Holzer Seed Saving and Variety Preservation
 
-The preservation of old [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] and [[sepp-holzer-method]]. Holzer's experiences consistently show that [[holzer-old-varieties-and-seed-saving]] of cereal, vegetable, and potato make the best crops -- better flavour, less demanding, and far better adapted to local conditions than modern overbred varieties.
+The preservation of old [[the-ultimate-goal-of-farming]] and [[sepp-holzer-method]]. Holzer's experiences consistently show that [[holzer-old-varieties-and-seed-saving]] of cereal, vegetable, and potato make the best crops -- better flavour, less demanding, and far better adapted to local conditions than modern overbred varieties.
 
 ## Why Old Varieties
 

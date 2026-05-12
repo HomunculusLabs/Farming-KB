@@ -102,3 +102,11 @@ to inform current best practices and research directions.
 - [[det]]
 - [[mycorrhiza]]
 - [[fukuoka-textdoc-direct-seeding-rice-barley-succession-evolution]]
+
+- [[fukuoka-textdoc-black-wattle-soil-improvement]]
+- [[fukuoka-textdoc-cottony-cushion-red-wax-scale]]
+- [[fukuoka-textdoc-flood-irrigation-clover-suppression]]
+- [[fukuoka-textdoc-laying-waste-land-sea]]
+- [[fukuoka-textdoc-microbes-as-scavengers-decomposition-drama]]
+- [[fukuoka-textdoc-mountain-wood-preserve-revegetation-method]]
+- [[fukuoka-textdoc-orchard-terracing-slope-management]]

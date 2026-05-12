@@ -61,7 +61,7 @@ maximum productivity per [[comparison-biointensive-vs-square-foot-gardening]].
 
 - [[blanching-vegetables-for-freezing]] Questions
 - [[query-how-to-start-a-food-forest]]
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[the-ultimate-goal-of-farming]]
 
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
 ## Practical Considerations

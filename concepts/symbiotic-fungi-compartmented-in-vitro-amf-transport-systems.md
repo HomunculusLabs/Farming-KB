@@ -141,3 +141,7 @@ These systems have been used to study:
 - [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
 - carbon isotope mycorrhizal allocation tracking
 - [[nitrogen-transfer-mycorrhizal]]
+
+- [[symbiotic-fungi-mycorrhizosphere-helper-bacteria]]
+- [[symbiotic-fungi-rrna-versus-rdna-fungal-community-analysis]]
+- [[symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions]]

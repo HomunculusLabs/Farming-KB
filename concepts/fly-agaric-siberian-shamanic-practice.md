@@ -57,6 +57,10 @@ traditional knowledge surrounding its use has been lost.
 
 - [[rig-veda-soma-hymns-amanita-muscaria]]
 - [[consciousness-and-psychedelics]]
+
+- [[fly-agaric-ethnobotany]]
+- [[fly-agaric-literary-history]]
+- [[fly-agaric-victorian-fairy-paintings]]
 ## Practical Considerations
 
 When working with Fly-Agaric in Siberian Shamanic Practice, several practical factors should be

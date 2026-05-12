@@ -74,7 +74,7 @@ and extensive floodplains and deltaic deposits.
 ## Staple Crops and Trade Species
 
 Staple cultivated foods of the wet tropics include plantain
-and banana, cassava, yams, coconut, corn, taro, [[integrated-paddy-rice-and-tree-system]],
+and banana, cassava, yams, coconut, corn, taro, [[photosynthesis-and-respiration-in-rice]],
 ducks, pigs, poultry, and fish. Trade and plantation crops are
 spices, copra, palm oil, cacao, rubber, banana, manilla hemp,
 rare hardwoods, balsa, tropical nuts, chicle, and drug plants.

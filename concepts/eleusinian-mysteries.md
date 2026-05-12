@@ -46,7 +46,7 @@ classical civilization for two millennia.
 
 ## The Psychedelic Theory
 
-The theory that the Eleusinian Mysteries involved [[cultural-evolution-and-psychoactive-substances]]
+The theory that the Eleusinian Mysteries involved [[star-fire-and-sacred-substances]]
 has been proposed by several scholars, most prominently by R. Gordon Wasson,
 Albert Hofmann (the discoverer of LSD), and Carl Ruck in their 1978 book
 "The Road to Eleusis." Terence McKenna popularized and expanded this theory

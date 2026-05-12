@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Morris, H. & Wallach, J. (2014). "From PCP to MXE." Drug Science.
-  - Champion, E. et al. (2022). "Novel [[cultural-evolution-and-psychoactive-substances]]: arylcyclohexylamines."
+  - Champion, E. et al. (2022). "Novel [[star-fire-and-sacred-substances]]: arylcyclohexylamines."
     Frontiers in Psychiatry 13: 841921.
   - EMCDDA (2023). "3-Methoxyeticyclidine (3-MeO-PCE) Drug Profile."
     European Monitoring Centre for Drugs and Drug Addiction.

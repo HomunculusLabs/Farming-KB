@@ -39,7 +39,7 @@ Bionutrients are biological nutrients produced through the fermentation of plant
 
 ## Relevance to Cultivation
 
-Bionutrients represent the core feeding strategy in natural farming — providing plants with biologically processed, readily available nutrition while simultaneously supporting [[the-soil-food-web]]. For any cultivation system, the fermentation approach offers advantages over raw application: improved bioavailability, enzymatic activity, longer shelf life, and compatibility with beneficial microorganisms. The principle that "the potency depends on the plant part used" (seed > fruit > leaf) provides practical guidance for formulating inputs at different concentration levels.
+Bionutrients represent the core feeding strategy in natural farming — providing plants with biologically processed, readily available nutrition while simultaneously supporting [[query-what-is-the-soil-food-web-and-why-does-it-matter]]. For any cultivation system, the fermentation approach offers advantages over raw application: improved bioavailability, enzymatic activity, longer shelf life, and compatibility with beneficial microorganisms. The principle that "the potency depends on the plant part used" (seed > fruit > leaf) provides practical guidance for formulating inputs at different concentration levels.
 
 ## Research Directions
 
@@ -84,7 +84,7 @@ Emerging applications span ecological management, therapeutic protocols, and mat
 
 ## See Also
 
-- [[beneficial-indigenous-microorganisms]]
+- [[designer-compost-bokashi]]
 - [[fish-amino-acid]]
 - [[calcium-phosphate]]
 - [[kangkong-water-spinach]]

@@ -66,7 +66,7 @@ significantly depending on multiple factors:
 ### Species-Level Variation
 Different species contained vastly different concentrations of psilocybin
 and psilocin. The EMCDDA cited general potency references where the total
-[[psilocybin-and-psilocin-biosynthesis-variation]] content ranged from trace amounts to over 1% dry
+[[wiki:concepts/partial-veil-and-annulus-variation]] content ranged from trace amounts to over 1% dry
 weight depending on the species. P. semilanceata (liberty caps) and
 P. cyanescens were generally considered among the more potent species,
 while some marketed cubensis varieties contained lower alkaloid levels.

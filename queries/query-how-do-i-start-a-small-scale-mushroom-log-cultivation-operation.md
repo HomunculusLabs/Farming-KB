@@ -95,4 +95,4 @@ A practical guide for beginners looking to [[query-how-do-i-grow-king-oyster-mus
 - [[cervantes-backyard-small-scale-cultivation]]
 
 - [[query-how-to-start-a-small-scale-snail-farm]]
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[the-ultimate-goal-of-farming]]

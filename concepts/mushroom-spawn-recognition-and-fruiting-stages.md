@@ -119,4 +119,3 @@ Commercial yields depend on spawn quality, substrate formulation, and environmen
 - [[mushroom-training-pasteurization-sterilization]]
 - [[query-how-do-you-make-your-own-mushroom-spawn-at-home]]
 - [[european-mushroom-markets-and-smartshop-economy]]
-

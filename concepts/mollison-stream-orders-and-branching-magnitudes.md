@@ -91,5 +91,5 @@ shapes:
 
 ## See Also
 - [[mollison-classification-of-events-and-orders-in-design]]
-- [[mollison-fractals-branching-and-conduit-design]]
+- [[fractals-branching-and-conduit-design]]
 - [[mollison-avenue-cropping-with-legumes]]

@@ -4,13 +4,13 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Science and Living Systems in Permaculture
+# Science and Living Systems in [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]
 
 ## The Limits of Reductionist Science
 
 Mollison mounts a substantial critique of conventional scientific method as applied to living systems. Although we can observe nature, living systems do not lend themselves to strict scientific definition for two fundamental reasons: life is always in process of change, and life systems react to investigation or experiments. There will never be "laws" in the area of biology comparable to those in physics.
 
-"Hard" science (physics, mathematics, inorganic chemistry) studiously avoids life systems, regarding as not quite respectable those sciences (botany, zoology, psychology) that try to deal with life. Rigorous scientific method demands rigorous control of variables, which presumes two things that are impossible:
+"Hard" science (physics, mathematics, inorganic chemistry) studiously avoids life systems, regarding as not quite respectable those sciences (botany, zoology, psychology) that try [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]] life. Rigorous scientific method demands rigorous control of variables, which presumes two things that are impossible:
 
 1. That you know all variables before you start, in order to control some and measure others
 2. That you can in fact control all or any variables without creating disorder in the life system
@@ -25,9 +25,9 @@ Living things respond to strict control (either by removal of stimuli or by cons
 
 Mollison identifies a critical split: scientists who "know" and observe don't usually apply their knowledge in the world. Those who "act" often don't know or observe. This has resulted in several tragic conditions where productive natural ecosystems have been destroyed to create unproductive cultivated systems, breaking every sane environmental principle in the process.
 
-Energy-efficient animals (deer, kangaroo, fish) have been displaced by inefficient animal systems (sheep, cattle). Every widespread modern agricultural system needs great energy inputs; most agriculture destroys basic resources and denies future yields. The scientist's refusal to consider the function of life in such systems leads to natural systems disintegrating and decaying, producing more helpless plants, animals, and people. The State becomes the father of the orphaned child; the farmer becomes the father of the orphaned chicken.
+Energy-efficient animals (deer, kangaroo, fish) have been displaced by inefficient [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (sheep, cattle). Every widespread modern agricultural system needs great energy inputs; most agriculture destroys basic resources and denies future yields. The scientist's refusal to consider the function of life in such systems leads to natural systems disintegrating and decaying, producing more helpless plants, animals, and people. The State becomes the father of the orphaned child; the farmer becomes the father of the orphaned chicken.
 
-## The Ecodynamics Alternative
+## The Eco[[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]]s Alternative
 
 [[edward-goldsmith]]'s concept of "ecodynamics" (vs. thermodynamics) challenges the conventional framework. Many scientists refuse to consider the function of life in energy systems. Natural systems, when freed from human intervention, tend toward self-regulation and increasing complexity—a characteristic that classical thermodynamics cannot explain.
 
@@ -35,7 +35,7 @@ It is only by returning self-regulating function and responsibility to living th
 
 ## Multiple Ways of Knowing
 
-Mollison identifies two complementary approaches to understanding the real world:
+Mollison identifies two complementary approaches to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] the real world:
 
 1. **Scientific method**: One way to know about the real world, through timing, measuring, and observing—enough to make calendars, computers, clocks, meters, and rulers
 2. **Observation and contemplative understanding**: Another way, capable of insights not accessible to reductionist methods
@@ -50,10 +50,10 @@ This extends to social systems: if you submit to poverty, you equip yourself to 
 
 ## Ten Approaches to Problem-Solving
 
-Despite his critique of reductionist science, Mollison identifies ten productive approaches that work well for designers seeking solutions to specific problems:
+Despite his critique of reductionist science, Mollison identifies ten productive approaches that work well for [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] seeking solutions to specific problems:
 
 1. **Improving tools**: Inventing new tools for specific jobs
-2. **Collecting observations**: Sorting phenomena by likeness–unlikeness, establishing systems and boundaries, categories, and keys to systems—often revealing common characteristics suggesting design strategies
+2. **Collecting observations**: Sorting phenomena by likeness–unlikeness, establishing [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] boundaries, categories, and keys to systems—often revealing common characteristics suggesting design strategies
 3. **Insight**: The "Aha!" or "Eureka!" response, likely the endpoint of extensive observation
 4. **Trials**: "Give it a try and see if it works"—eliminates what doesn't work, but doesn't necessarily establish how or why
 5. **Guessing**: The best guesses are based on trials already known to work
@@ -67,4 +67,29 @@ Despite his critique of reductionist science, Mollison identifies ten productive
 
 Mollison is scathing about value-free approaches: there are several ways not to face life—by taking drugs, watching television, becoming a fakir in a cave, or reading in pure science. All are an abdication of personal responsibility for life on earth, including one's own life. Value- and ethic-free lifestyles are as aberrant in science as in society.
 
-Perverse planning is everywhere obvious: houses face not the sun but the road, lawns replace gardens, and trees are planted to be pruned and tended. Make-work is the rule. Mollison suspects that most theoretical scientists inhabit demented domestic environments, just as many psychiatrists are inhabitants of mental institutions.
+Perverse planning is everywhere obvious: houses face not the sun but the road, lawns replace [[gaias-garden-many-gardens-garden-design-process]], and trees are planted to be pruned and tended. Make-work is the rule. Mollison suspects that most theoretical scientists inhabit demented domestic environments, just as many psychiatrists are inhabitants of mental institutions.
+
+## Key Principles
+- Central to understanding ecological and sustainable design systems
+- Integrates theoretical knowledge with practical application
+- Functions within complex adaptive systems and natural patterns
+- Requires consideration of multiple interacting factors
+
+## Practical Applications
+- Applied in permaculture design and sustainable land management
+- Supports decision-making in agricultural and ecological contexts
+- Used in conservation and environmental restoration projects
+- Helps practitioners develop more resilient and productive systems
+
+## Ecological Significance
+- Contributes to understanding of ecosystem dynamics and function
+- Supports biodiversity and enhances natural system resilience
+- Plays role in nutrient cycling and energy flow processes
+- Understanding improves capacity for sustainable resource management
+
+## Related Concepts
+- [[science-and-living-systems-permaculture-perspective]]
+- [[mollison-tree-crop-systems-permaculture]]
+- [[gaias-garden-living-plant-systems-insectary]]
+- [[permaculture-designers-manual-vine-systems]]
+- [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]

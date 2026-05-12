@@ -28,8 +28,8 @@ Hemisphere. Prized for its exceptionally early ripening and remarkable cold
 hardiness, it has emerged as a commercially significant berry crop.
 
 The berries are rich in anthocyanins, vitamin C, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]],
-earning recognition as a "superfruit" in nutritional and functional food
-contexts.
+earning recognition as a "superfruit" in [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]al and functional food
+[[neurotropic-fungi-japan-east-asia-species-cultural-context]]s.
 
 ## Taxonomy
 
@@ -37,7 +37,7 @@ contexts.
 - **Order:** Dipsacales
 - **Family:** Caprifoliaceae
 - **Genus:** Lonicera
-- **Species:** L. caerulea L.
+- **[[guzman-magic-mushrooms-temperate-zone-species]]:** L. caerulea L.
 
 Recognized subspecies include subsp. *caerulea* (European), subsp. *edulis*
 (Japanese haskap), subsp. *kamtschatica* (Kuril/Kamchatka), and subsp.
@@ -48,10 +48,10 @@ Recognized subspecies include subsp. *caerulea* (European), subsp. *edulis*
 
 A multi-stemmed deciduous shrub reaching 1.0–1.8 m in height and spread.
 
-**Stems:** Slender, tan to brown, with peeling bark on older wood; produces
+**Stems:** Slender, tan to [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]], with peeling bark on older wood; produces
 vigorous basal shoots.
 
-**Leaves:** Opposite, simple, elliptic to ovate, 3–7 cm long, dark green
+**Leaves:** Opposite, simple, elliptic to ovate, 3–7 cm long, dark [[green-cannabis-grow-bible-indoor-grow-room-setup]]
 adaxially, paler abaxially. Leaf pairs fused at base forming a small cup —
 diagnostic for the genus.
 
@@ -62,13 +62,13 @@ mid-April), making frost risk a concern.
 **Fruit:** Elongated cylindrical berry, 1–2.5 cm, blue to dark blue-purple
 with waxy bloom. Calyx persists at apex. Brix 12–18° depending on cultivar.
 
-## Distribution and Habitat
+## [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] and Habitat
 
 Circumboreal distribution spanning eastern Europe, northern Asia (Siberia,
 Kamchatka, Hokkaido), and [[guzman-psilocybin-mushrooms-north-america]] (Alaska to Newfoundland).
 
 Inhabits forest margins, riparian zones, bogs, wet meadows, and mountain
-slopes from sea level to 1500 m. Tolerates winter temperatures to -40°C,
+slopes from sea level to 1500 m. Tolerates winter [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]s to -40°C,
 requiring 800–1200 chill hours for dormancy fulfillment.
 
 ## Bioactive Compounds

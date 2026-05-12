@@ -88,3 +88,10 @@ value at each stage while reducing environmental pollution.
 In the Nepal case study, spent substrate from 100 bags of oyster mushroom
 production generated approximately 200-250 kg of organic compost. At local
 market prices, this represented an additional NPR 1,000-2,000 (USD 13-27)
+
+## See Also
+
+- [[oyster-mushroom-bagging-methods-worldwide-comparison]]
+- [[oyster-mushroom-bottle-cultivation-system-sawdust-sterilization-automation]]
+- [[oyster-mushroom-by-products-permaculture]]
+- [[oyster-mushroom-spawning-methods-worldwide-comparison]]

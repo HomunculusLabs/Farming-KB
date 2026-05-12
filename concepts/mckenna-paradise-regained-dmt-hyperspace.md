@@ -18,7 +18,7 @@ human freedom and planetary survival.
 ## The Case for Hallucinogenic Tryptamines
 
 McKenna argues that the indoleamine hallucinogens (tryptamines)
-deserve special attention among all [[cultural-evolution-and-psychoactive-substances]] because:
+deserve special attention among all [[star-fire-and-sacred-substances]] because:
 
 - They are structurally similar to serotonin and naturally occur in
   the human brain, suggesting an evolutionary role in consciousness

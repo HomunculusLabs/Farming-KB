@@ -127,4 +127,4 @@ Eucalypts work best in permaculture systems when used as:
 - [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]
 - [[permaculture-windbreak-design]]
 - [[forage-turnip]]
-- [[land-rehabilitation-techniques]]
+- [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]

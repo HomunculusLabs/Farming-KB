@@ -87,3 +87,9 @@ a practitioner of direct experiential investigation whose methodology, though
 expressed in mythological rather than scientific language, produces reliable
 knowledge about the properties of consciousness and the dimensions accessible
 through [[harner-shamanic-journey-and-altered-states]].
+
+## See Also
+
+- [[mckenna-shamanic-identification-epilepsy-lightning-ordeal-training]]
+- [[mckenna-shamanic-identification-training-and-peripheral-social-role]]
+- [[mckenna-shamanic-meme]]

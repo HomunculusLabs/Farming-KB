@@ -20,7 +20,7 @@ sources:
 
 Edraianthus serpyllifolius, commonly called thyme-leaved hairbell, is a low-growing alpine perennial in the family Campanulaceae. It is endemic to the Dinaric Alps and Balkan Peninsula, where it inhabits limestone crevices and rocky outcrops at montane to alpine elevations.
 
-The species forms dense, cushion-like mats of narrow, grassy foliage topped by solitary, upward-facing violet-blue bell flowers. Its compact habit and showy blooms make it a prized subject for rock gardens and alpine troughs.
+The species forms dense, cushion-like mats of narrow, grassy foliage topped by solitary, upward-facing violet-blue bell flowers. Its compact habit and showy blooms make it a prized subject for rock [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]s and alpine troughs.
 
 Edraianthus is distinguished from the closely related Campanula by its funnel-shaped rather than bell-shaped corolla and its dense, tufted growth form adapted to harsh montane conditions.
 
@@ -28,13 +28,13 @@ The genus name derives from the Greek *edraios* ("sitting close to the ground") 
 
 The species is sometimes confused with the closely related [[edraianthus-graminifolius]], which has a wider distribution and more elongated leaf tufts. E. serpyllifolius is distinguished by its narrower, more tightly appressed leaves and generally more compact cushion form.
 
-## Taxonomy and Morphology
+## Taxonomy and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
 
 Edraianthus serpyllifolius (A.DC.) A.DC. belongs to the family Campanulaceae, subfamily Campanuloideae. The species was first described from material collected in the Dinaric mountains of the western Balkans.
 
 The genus Edraianthus comprises approximately 20 species, all endemic to southeastern Europe, primarily the Balkan Peninsula. It forms a monophyletic group within the campanuloid clade, most closely allied with the genus Muehlbergella.
 
-Plants form compact, cushion-forming mats 3–8 cm tall and 10–20 cm across. The stems are very short, with most growth concentrated in a dense basal tuft of linear leaves.
+Plants form compact, cushion-forming mats 3–8 cm tall and 10–20 cm across. The stems are very [[short-day-long-day-plant-flowering-classification]], with most growth concentrated in a dense basal tuft of linear leaves.
 
 Leaves are narrow, grass-like, 1–3 cm long and 0.5–1 mm wide, dark green, and slightly pubescent. The specific epithet *serpyllifolius* means "thyme-leaved," referring to the small, narrow foliage.
 
@@ -50,11 +50,11 @@ Chromosome counts for E. serpyllifolius are not widely reported, but other Edrai
 
 Edraianthus serpyllifolius is endemic to the Dinaric Alps, occurring in Croatia, Bosnia and Herzegovina, Montenegro, northern Albania, and possibly western Serbia. Its range follows the limestone karst backbone of the western Balkans.
 
-The species grows exclusively on calcareous substrates, colonizing crevices in limestone cliffs, bare rock ledges, and stabilized scree. It occurs at elevations from 800 to 2,200 m, with highest densities between 1,200 and 1,800 m.
+The species grows exclusively on calcareous substrates, colonizing crevices in limestone cliffs, bare rock ledges, and stabilized scree. It occurs at elevations from 800 to 2,200 m, with highest densities [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] 1,200 and 1,800 m.
 
 Typical associates include other calcicole alpines such as Saxifraga hostii, Potentilla clusiana, and Arenaria ciliata. The species is a characteristic component of the Asplenietea trichomanis rock-crevice plant community.
 
-Winter snow cover provides critical insulation against freezing temperatures and desiccating winds at alpine elevations. Plants emerge slowly in spring, often not flowering until late June or early July depending on snowmelt timing.
+[[coleman-cool-house-vs-cold-house-economics-winter-production]] snow cover provides critical insulation against freezing temperatures and desiccating winds at alpine elevations. Plants emerge slowly in spring, often not [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] until late June or early July depending on snowmelt timing.
 
 Populations are often highly localized, restricted to specific cliff faces or ridge systems with suitable microclimatic conditions. Individual colonies may consist of fewer than 100 mature plants.
 
@@ -64,9 +64,9 @@ The karst limestone habitat of the Dinaric Alps provides ideal conditions with i
 
 Edraianthus serpyllifolius is cultivated as an alpine plant in rock gardens, trough gardens, and crevice plantings. It requires excellent drainage, full sun, and a neutral to alkaline soil mix rich in crushed limestone or grit.
 
-Propagation is by seed, division of established cushions, or stem cuttings taken in late spring. Seeds benefit from cold stratification and should be surface-sown on gritty compost in late winter.
+Propagation is by seed, di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] of established cushions, or stem cuttings taken in late spring. Seeds benefit from cold stratification and should be surface-sown on gritty compost in late winter.
 
-Division is best performed in [[coleman-overwintered-onions-and-early-spring-crops]] by carefully separating cushion segments with attached roots. Each division should include several rooted rosettes to ensure establishment.
+Division is best performed in [[coleman-overwintered-onions-and-early-spring-crops]] by carefully separating cushion segments with attached roots. Each division [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]nclude several rooted rosettes to ensure establishment.
 
 The species is hardy in USDA zones 4–7, tolerating winter cold readily when protected from excessive winter moisture. A pane of glass or alpine house frame prevents crown rot during wet winter periods.
 

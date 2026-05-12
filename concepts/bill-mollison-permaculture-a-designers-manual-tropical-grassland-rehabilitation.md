@@ -122,3 +122,7 @@ observation, and a willingness to adapt approaches based on results.
 - [[bill-mollison]]
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
+
+- [[bill-mollison-permaculture-a-designers-manual-climatic-factors-in-design]]
+- [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]]
+- [[bill-mollison-permaculture-overview]]

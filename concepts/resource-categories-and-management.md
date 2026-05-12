@@ -105,4 +105,4 @@ As evidence: superhighways and overpasses in Massachusetts alone need approximat
 ## See Also
 
 - [[permaculture-design-principles]] — foundational design principles
-- system yield and production strategies — how yield relates to resource management
+- [[system-yield-and-production-strategies]] — how yield relates to resource management

@@ -86,6 +86,6 @@ Permaculture design integrates multiple elements working together. Each componen
 ## See Also
 
 - [[permaculture-broadscale-no-till-grain-production]]
-- [[bill-mollison-permaculture-designers-manual]]
+- [[bill-mollison]]
 - [[permaculture-designers-manual-pattern-application]]
 - [[plant-propagation-techniques-for-permaculture]]

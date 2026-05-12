@@ -7,9 +7,9 @@ created: 2026-05-11
 
 # The Sunken Hearth and Village Philosophy: Mu, Woodcutter Songs, and the Lost Culture of Japanese Farming Villages
 
-Fukuoka's account of Japanese farming village culture is not mere nostalgia.
+[[fukuoka-textdoc-natural-paddy-farm-establishment-method]]'s account of Japanese farming village culture is not mere nostalgia.
 It is a philosophical argument about the nature of wisdom, the meaning of
-Mu (nothingness), and the irreparable loss that occurs when a living oral
+Mu ([[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]]), and the irreparable loss that occurs when a living oral
 tradition is extinguished by mechanization.
 
 ## The Farming Village as Philosophical Society
@@ -47,7 +47,7 @@ understanding of life and death, these farmers were free of anguish and
 grief; they had no need for learning."
 
 This philosophy of Mu is directly connected to Fukuoka's method of natural
-farming. "[[cho-loess-powder-in-natural-farming]] is a Buddhist way of farming that originates in
+farming. "[[cho-loess-powder-in-natural-farming]] is a Buddhist [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] that originates in
 the philosophy of 'Mu,' or nothingness, and returns to a 'do-nothing'
 nature." The farming practice and the philosophical stance are one and the
 same.
@@ -70,12 +70,12 @@ which violated nothing and was not itself violated."
 
 The culture of the village expressed itself through music and communal
 ritual. "Not that long ago one could still hear the woodsman sing a
-woodcutter's song as he sawed down a tree. During transplanting, singing
+woodcutter's song as he sawed down a tree. During trans[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ing, singing
 voices rolled over the paddy fields, and the sound of drums surged through
 the village after the fall harvest."
 
 The woodcutter's song, the transplanting songs, the harvest drums—these
-were not mere entertainment but the carriers of agricultural knowledge,
+were not mere entertainment but the carriers of [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] knowledge,
 ecological observation, and communal values passed from generation to
 generation. They were the medium through which the philosophy of Mu was
 transmitted without ever being named as philosophy.
@@ -87,13 +87,13 @@ drastically over the past twenty years or so. In the mountains, instead of
 the rasping of hand saws, we now hear the angry snarl of chain saws. We
 see mechanical plows and transplanters racing over the fields. Vegetables
 today are grown in vinyl houses ranged in neat rows like factories. The
-fields are automatically sprayed with fertilizers and pesticides."
+fields are automatically sprayed with [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]]s and pesticides."
 
 The mechanization of farming did not merely change how crops were grown; it
 destroyed the cultural infrastructure through which wisdom was transmitted.
 "Because all of the farmer's work has been mechanized and systematized, the
 farming village has lost its human touch. Singing voices are no longer heard.
-Everyone sits instead before the TV set, listening to traditional country
+Everyone sits instead before the TV set, listening to [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]] country
 songs and reminiscing over the past."
 
 ## The Sunken Hearth (Irori) as Cultural Center
@@ -105,7 +105,7 @@ and with them, the village philosophy."
 
 The irori was the physical center of the home and the social center of the
 village. Around the hearth, elders passed wisdom to the young, stories were
-told, agricultural knowledge was shared, and the values of the community
+told, agricultural knowledge was shared, and the values of the [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]
 were reinforced through daily conversation. When the hearth disappeared—
 replaced by modern heating and cooking conveniences—the forum for this
 oral transmission disappeared with it.

@@ -25,9 +25,9 @@ reflecting the widespread use of its leaves as a vegetable.
 
 The species is closely related to *[[moringa-oleifera]]* but produces larger leaves
 and greater leaf biomass per tree. In its native range, it serves as a staple
-leaf vegetable, water purification agent, and traditional medicine.
+leaf vegetable, [[dighton-mycorrhizal-drought-tolerance-plant-water-relations]] purification agent, and traditional medicine.
 
-Local communities in southern Ethiopia rely on *M. stenopetala* as a primary
+Local [[dighton-fungal-communities-grassland-soils]] in southern Ethiopia rely on *M. stenopetala* as a primary
 micronutrient source during dry seasons. The tree is increasingly recognized
 for [[dighton-fungal-drought-tolerance-plant-water-relations]] and agroforestry potential.
 
@@ -59,15 +59,15 @@ It occurs at 400–1,800 m elevation in dry Afromontane forest and woodland-
 grassland mosaics, with annual rainfall of 500–1,500 mm.
 
 The tree prefers well-drained sandy or loamy soils but tolerates clay and rocky
-substrates. It is drought-deciduous, dropping leaves in dry periods and
+[[water-absorption-variability-grass-seed-substrate-preparation]]s. It is drought-deciduous, dropping leaves in dry periods and
 refoliating rapidly with rains.
 
-Introduced to Tanzania, Uganda, and India for cultivation trials, with
+Introduced to Tanzania, Uganda, and India for [[species-specific-fruiting-timelines-grass-seed-cultivation]] trials, with
 naturalized populations reported in parts of East Africa.
 
 ## Bioactive Compounds and Pharmacology
 
-Leaf extracts contain glucomoringin (a Moringaceae-specific glucosinolate),
+Leaf [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]s contain glucomoringin (a Moringaceae-specific glucosinolate),
 quercetin, kaempferol, and chlorogenic acid as primary constituents.
 
 Hypoglycemic activity is confirmed in animal models. Aqueous leaf extracts
@@ -77,14 +77,14 @@ Antibacterial activity is documented against *S. aureus*, *E. coli*, and
 *P. aeruginosa*. Methanol extracts showed the strongest inhibition with MIC
 values of 0.5–2.0 mg/mL.
 
-Anti-inflammatory and antioxidant properties are attributed to flavonoids. Leaf
+Anti-[[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]] and antioxidant properties are attributed to flavonoids. Leaf
 extracts exhibit significant DPPH radical-scavenging activity comparable to
 ascorbic acid.
 
 Traditional uses include treatment of diabetes, hypertension, malaria, and
-[[blesching-cannabis-gastrointestinal-disorders]]. Root preparations require caution due to the
+[[blesching-cannabis-gastrointestinal-disorders]]. Root [[grass-seed-water-absorption-variability-substrate-preparation]]s require caution due to the
 toxic alkaloid spirochin.
 
-## Culinary and Nutritional Use
+## Culinary [[moringa-oleifera-cultivation-uses-and-nutrition]]al Use
 
 Leaves are consumed fresh or cooked, added to stews, sauces, and porridges

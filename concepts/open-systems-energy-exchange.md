@@ -25,7 +25,7 @@ The designer's work, therefore, is to identify pathways by which life systems co
 A powerful illustration of this principle is the cascading use of manure through multiple transformations:
 
 1. **Fermentation and distillation** — Manure is fermented and distilled to produce alcohol, a fuel product.
-2. **Biogas digestion** — The waste is routed through a biogas digester where anaerobic organisms convert it to methane, usable as cooking gas, heating fuel, or vehicle fuel.
+2. **Biogas digestion** — The waste is routed through a [[biogas-digester]] where anaerobic organisms convert it to methane, usable as cooking gas, heating fuel, or vehicle fuel.
 3. **Liquid effluent** — The liquid effluent from the digester is sent to fields as fertilizer.
 4. **Vermicomposting** — The solid sludge is fed to worms, which convert it to rich horticultural soil.
 5. **Animal feed** — The worms themselves become feed for fish or poultry.
@@ -75,3 +75,28 @@ Efficiency in design means selecting interventions where the smallest effort pro
 ### The Yield of a System Is Theoretically Unlimited
 
 The only limit on the number of uses of a resource within a system lies in the information and imagination of the designer. Any area that seems fully planted can almost always accommodate another vine, fungus, beneficial insect, or previously overlooked yield potential.
+
+## Key Principles
+- Central to understanding ecological and sustainable design systems
+- Integrates theoretical knowledge with practical application
+- Functions within complex adaptive systems and natural patterns
+- Requires consideration of multiple interacting factors
+
+## Practical Applications
+- Applied in permaculture design and sustainable land management
+- Supports decision-making in agricultural and ecological contexts
+- Used in conservation and environmental restoration projects
+- Helps practitioners develop more resilient and productive systems
+
+## Ecological Significance
+- Contributes to understanding of ecosystem dynamics and function
+- Supports biodiversity and enhances natural system resilience
+- Plays role in nutrient cycling and energy flow processes
+- Understanding improves capacity for sustainable resource management
+
+## Related Concepts
+- [[mollison-open-living-systems-and-design-principles]]
+- [[gaia-hypothesis-and-open-systems-in-permaculture]]
+- [[energy-efficiency-farming-systems-comparison]]
+- [[passive-solar-greenhouse-design-and-energy-systems]]
+- [[open-systems-entropy-and-life-complexity]]

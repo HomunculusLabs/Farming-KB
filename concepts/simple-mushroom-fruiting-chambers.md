@@ -7,7 +7,7 @@ source: guid-mhtml_file___e___textos__mycology__exotic_.md
 related: [mushroom-casing-soil-recipes, grass-seed-as-mushroom-substrate, exotic-cultivation-flush-management-and-casing-hygiene]
 ---
 
-# Simple Mushroom Fruiting Chambers and Flush Management
+# [[simple-stackable-fruiting-chamber-passive-humidity-cultivation]] [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]s and Flush Management
 
 Mushroom fruiting requires specific environmental conditions: high humidity,
 fresh [[growing-gourmet-growing-room-ventilation-air-exchange]], appropriate temperature, and light. While elaborate
@@ -22,7 +22,7 @@ The core fruiting container is a clear plastic storage bin covered with
 [[passive-humidity-fruit-chamber-polyethylene-sheeting]] (plastic wrap). This design has several advantages:
 
 - **Inexpensive** — standard storage bins and plastic wrap cost very little
-- **Stackable** — multiple bins can be stacked vertically, making excellent
+- **[[stackable-plastic-bin-fruiting-chamber-design]]** — multiple bins can be stacked vertically, making excellent
   use of limited space
 - **Transparent** — clear bins allow monitoring without opening the chamber
 - **Self-humidifying** — evaporation from the [[casing-surface-roughness-technique-mushroom-fruiting]] maintains
@@ -33,7 +33,7 @@ The core fruiting container is a clear plastic storage bin covered with
 1. Obtain a clear plastic storage bin of appropriate size
 2. Melt or drill small holes in the sides for air exchange
 3. Cover holes with mesh (optional) to exclude [[cervantes-fungus-gnats]] and other pests
-4. Cover the top opening with polyethylene sheeting, secured with tape or
+4. Cover the top opening with [[polyethylene-sheeting-fruiting-chamber-simple-stackable-design]], secured with tape or
    the bin's own lid (with the lid removed or modified)
 5. Place up to five cased trays inside the bin
 
@@ -67,11 +67,11 @@ The holes in the bin sides provide passive air exchange. For larger setups
 or species with higher fresh air requirements, a small fan on a timer can
 be used to periodically flush the chamber.
 
-## Cold Shocking
+## [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]ing
 
 Some strains benefit from a cold shock to initiate fruiting. The procedure
 is simple: place the cased tray in a refrigerator (approximately 4°C) for
-one night (8–12 hours), then transfer to the fruiting chamber. This
+one night (8–12 hours), then transfer to the [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]. This
 temperature drop simulates seasonal change and can trigger pinning in
 reluctant strains.
 
@@ -85,6 +85,6 @@ Species and strain responsiveness to cold shock varies:
 
 ## The Pinning Phase
 
-After cased trays are placed in the fruiting chamber, the first pinheads
+After cased trays are placed in the [[polyethylene-sheeting-fruiting-chamber-passive-humidity]], the first pinheads
 (primordia) typically appear within 6–15 days. Pins first appear as small
 white dots on the casing surface, which then develop into miniature mushroom

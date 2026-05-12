@@ -22,17 +22,17 @@ sources:
     Yams and Aroids. CABI.
 ---
 
-## Overview
+## [[psilocybin-mushroom-species-overview]]
 
 **Dioscorea trifida**, commonly known as cush-cush yam, ají yam, or yampee,
 is a species of yam in the family Dioscoreaceae native to the Caribbean and
-northern [[guzman-psilocybin-mushrooms-south-america]].
+[[guzman-psilocybin-mushrooms-north-america]]ern [[guzman-psilocybin-mushrooms-south-america]].
 
-It is one of the most important traditional [[permaculture-plants-root-crops-and-tubers]] in the Caribbean basin,
+It is one of [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] traditional [[permaculture-plants-root-crops-and-tubers]] in the Caribbean basin,
 particularly in Trinidad, Tobago, Dominica, and the Lesser Antilles, where it
 is valued for its early maturity and palatable flavor.
 
-The species produces clusters of small to medium tubers with white to yellow
+The species produces clusters of small to medium tubers with [[comparison-brown-rot-vs-white-rot-bioremediation]] to yellow
 flesh that are less fibrous than many other yam species, making it
 particularly suitable for boiling and roasting.
 
@@ -61,10 +61,10 @@ separate plants in axillary racemes or panicles. Female inflorescences are
 typically longer and more robust than male ones.
 
 Tubers are borne in clusters of 3–15 per plant, each measuring 5–15 cm in
-length and 3–8 cm in diameter. The skin is brown and roughened, while the
+length and 3–8 cm in diameter. The skin is [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] and roughened, while the
 flesh is white, cream, or pale yellow, firm, and smooth-textured when cooked.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
 *D. trifida* is native to the Caribbean and the Guiana Shield region of
 northern South America, encompassing Trinidad and Tobago, the Windward and
@@ -74,11 +74,11 @@ Its center of diversity is believed to be the Amazon basin, and it was likely
 dispersed throughout the Caribbean by pre-Columbian indigenous peoples.
 
 The species thrives in tropical lowland climates with annual rainfall of
-1,200–2,000 mm, mean temperatures of 24–28°C, and well-drained, fertile
+1,200–2,000 mm, mean [[soil-temperature-plant-growth-rate-doubling-rule]]s of 24–28°C, and well-drained, fertile
 loamy to sandy loam soils.
 
 It is typically cultivated at low elevations below 500 meters, though it
-tolerates a range of soil types including acidic ultisols common in tropical
+tolerates a range of [[cervantes-outdoor-soil-types-clay-sand-loam]] including acidic ultisols common in tropical
 forest margins.
 
 ## Nutritional Value

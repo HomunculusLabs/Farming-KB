@@ -19,25 +19,25 @@ sources:
 
 ## Overview
 
-**Ulva lactuca** is a species of green macroalgae (sea lettuce) in the family
+**Ulva lactuca** is a [[guzman-allen-gartz-india-neurotropic-fungi-diversity-psychoactive-species]] of green macroalgae (sea lettuce) in the family
 Ulvaceae, widely distributed in marine and estuarine environments worldwide.
 It is one of the most commonly encountered intertidal seaweeds on temperate
 coastlines.
 
 The species is edible and has been consumed as food for centuries in coastal
-communities across Europe, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It is rich in
+communities across [[guzman-allen-gartz-neurotropic-fungi-europe]], Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It is rich in
 protein, dietary fiber, vitamins, and essential minerals.
 
 *Ulva lactuca* is ecologically significant as a primary producer in coastal
 ecosystems and as a bioindicator of water quality. Excessive growth can cause
 nuisance "green tides" in eutrophic waters.
 
-The common name "sea lettuce" derives from the thallus's translucent green
+The common name "sea lettuce" derives from the thallus's [[guzman-allen-gartz-trans-pacific-species-pairs-psilocybe-biogeography]]lucent green
 appearance and leaf-like morphology, which closely resembles garden lettuce.
 
-## Taxonomy and Morphology
+## [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] Morphology
 
-**Classification:**
+**[[guzman-allen-gartz-neurotropic-fungi-classification-system]]:**
 
 - Kingdom: Chromista
 - Division: Chlorophyta
@@ -65,9 +65,9 @@ The genus *Ulva* has undergone significant taxonomic revision with
 molecular phylogenetics. Some previously described species have been
 synonymized, and *U. lactuca* is now considered a species complex.
 
-## Distribution and Habitat
+## [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]] and Habitat
 
-*Ulva lactuca* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and tropical
+*Ulva lactuca* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]]
 marine waters. It occurs on all continents except Antarctica and is found
 in the Atlantic, Pacific, Indian, and Arctic Oceans.
 
@@ -83,7 +83,7 @@ frequently forms extensive blooms in eutrophic coastal environments.
 2–3 days under optimal conditions of light, temperature, and nutrient
 availability.
 
-## Nutritional and Chemical Composition
+## Nutritional and [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]] Composition
 
 *Ulva lactuca* is approximately 15–25% protein (dry weight), 40–50%
 carbohydrate, 1–3% lipid, and 10–15% ash (mineral content). The protein

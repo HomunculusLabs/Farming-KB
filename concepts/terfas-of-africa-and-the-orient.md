@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The terfas (or kames) are subterranean fungi of the family Terfeziaceae, almost wholly the product of arid Mohammedan countries. Known to the ancient Greeks and Romans long before [[european-truffles]], terfas occupy a similar ecological niche in desert and semi-desert regions of North Africa, the Middle East, and Central Asia. While lacking the pervading aroma of true truffles, they are rich in protein and constitute an important food resource for indigenous populations.
+The terfas (or kames) are subterranean fungi of the family Terfeziaceae, almost wholly the product of arid Mohammedan countries. Known to the ancient Greeks and Romans long before [[european-truffles]], terfas occupy a similar [[ecological-niche]] in desert and semi-desert regions of North Africa, the Middle East, and Central Asia. While lacking the pervading aroma of true truffles, they are rich in protein and constitute an important food resource for indigenous populations.
 
 ## Historical Significance
 
@@ -44,26 +44,19 @@ The Terfeziaceae differ from the Tuberaceae in two important respects:
 
 Species of Terfezia have been found under and associated with roots of herbaceous or shrubby forms of **Cistus** and **Helianthemum**, though this is not invariable. Those collected in Algeria were under **Artemisia herba-alba**. The parasitism — or at least partial parasitism — of the terfas upon the roots of these plants seems beyond question: when found under Artemisia herba-alba, the host plant proved injured almost in direct proportion to the size of the terfas produced.
 
-
 ### Principal Species
 
 - **Terfezia leonis** Tul. — Believed to occur in Northern Africa (forests of pine and cedar in mountain regions), Spain (in fields of Cistus), Sardinia, and near Smyrna. Whitish yellow, from the size of a nut to an orange. The least desert-adjusted of all good forms. Found March to April; sweet and agreeable in flavor.
 - **T. Boudieri**, **T. claveryi**, **T. Hafizi** — Desert species of southern Algeria and Asiatic Turkey, found mostly in spring
 - **Tirmania ovalispora** — Reported ripe in October
 
-
-
 ## Habitat and Soil
 
 The soil in which terfas occur is **invariably sandy**, sometimes a rich sandy loam. The dominant vegetation consists of composite weeds like Artemisia herba-alba and plants of similar habits. They are found in flat grazing lands adjacent to small oueds (stream beds). The terfas of Africa and Asia occur only in **silicious soils** — contrasting with the calcareous preference of European truffles.
 
-
-
 ## Collecting Methods
 
 In hunting for terfas, **neither dogs nor pigs are used**. A native Arab is required to point out favorable regions, and then careful observation suffices. When terfas are nearly mature they absorb water more abundantly through the mycelium, increasing rapidly in size and causing a **slight bulging and breaking of the soil** around the roots of host plants. With a sharp stick, alpine stock, or trowel, the fungus is readily removed — seldom more than one or two inches beneath the surface. Many false alarms are caused by ant hills.
-
-
 
 ## Culinary Quality and Use
 
@@ -76,8 +69,6 @@ Terfas are used with meats as one would use mushrooms, or prepared by many metho
 - Do not often reach European markets
 
 The terfas are considered an important article of food by native populations, and in the movements of native tribes, terfa fields were given due consideration as a food resource.
-
-
 
 ## Absence from North America
 

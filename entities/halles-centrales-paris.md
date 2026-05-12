@@ -10,12 +10,6 @@ The Halles Centrales (Central Markets) of Paris served as the primary wholesale 
 
 The data collected from the Halles Centrales represents an extraordinary level of market transparency for an agricultural product of this era, providing researchers and historians with detailed monthly production figures, price data, and annual trend information spanning the critical period of 1899 through 1906 and beyond.
 
-
-
-
-
-
-
 ## Classification
 
 - **Type**: Market / distribution center
@@ -23,12 +17,6 @@ The data collected from the Halles Centrales represents an extraordinary level o
 - **Period of significance**: 1899-1911 (documented data)
 - **Primary product**: Cultivated Agaricus campestris and related species
 - **Distribution**: Fresh and canned mushrooms
-
-
-
-
-
-
 
 ## Key Facts
 
@@ -41,12 +29,6 @@ The data collected from the Halles Centrales represents an extraordinary level o
 - The canned product was very largely exported, with approximately 3,000,000 pounds of canned mushrooms consumed in the US by 1900, rising to 4-5 million pounds by 1906.
 - By 1907, the average wholesale price had risen to approximately two francs per kilogram, suggesting either increased demand or reduced supply.
 
-
-
-
-
-
-
 ## Market Data (Selected Years)
 
 | Year | Annual Volume (kg) | Avg Wholesale Price |
@@ -57,12 +39,6 @@ The data collected from the Halles Centrales represents an extraordinary level o
 | 1907 | Reduced from 1901 | ~2.00 francs/kg |
 | 1911 | ~5,000,000 est. | 1.50 francs/kg |
 
-
-
-
-
-
-
 ## Relevance to Cultivation and Mycology
 
 - **Industry scale indicator**: The Halles Centrales data demonstrates the enormous scale of French mushroom production, which dwarfed all other national outputs during this period and set the template for industrial [[mushroom-cultivation]] worldwide.
@@ -71,14 +47,63 @@ The data collected from the Halles Centrales represents an extraordinary level o
 - **Year-round production**: The monthly data confirms that Paris-area cave facilities enabled nearly continuous production throughout the year, a key competitive advantage of subterranean cultivation that no other country could match at the time.
 - **Historical benchmark**: These figures serve as a baseline for understanding the growth and development of the global mushroom industry from its French origins to its modern worldwide distribution.
 
-
-
-
-
-
-
 ## See Also
 
 - [[agaricus-campestris]]
 - [[mushroom-marketing]]
 - [[paris-mushroom-caves]]
+
+## Background and Overview
+- Important concept within ecological and sustainable systems
+- Contributes to understanding of natural processes
+- Has practical applications in land management
+- Integrates with broader design principles
+
+## Key Characteristics
+- Exhibits specific properties relevant to ecological function
+- Interacts with multiple components of natural systems
+- Role varies across different environmental contexts
+- Understanding enables more effective system design
+
+## Practical Applications
+- Applied in permaculture design and sustainable agriculture
+- Contributes to resource management strategies
+- Used in ecological restoration and conservation
+- Supports decision-making in land-use planning
+
+## Related Topics
+- [[paris-mushroom-caves-champignonieres]]
+- [[paris-catacombs-mushroom-caves]]
+- [[paris-mushroom-caves]]
+- [[early-paris-psilocybin-research-1960s]]
+- [[french-mushroom-caves-of-paris]]
+
+## Historical Context
+- Emerged from observations of natural systems and ecological patterns
+- Documented through systematic study and practical experimentation
+- Has evolved through integration with modern scientific understanding
+- Continues to be refined through ongoing research and practice
+
+## Ecological Significance
+- Plays role in maintaining ecosystem balance and function
+- Contributes to biodiversity and habitat complexity
+- Supports natural processes including nutrient cycling
+- Influenced by and influences surrounding environmental conditions
+
+## Management Considerations
+- Requires understanding of local conditions and context
+- Benefits from integrated approaches to land management
+- Monitoring and adaptive management improve outcomes
+- Long-term sustainability depends on holistic system design
+
+## Research and Development
+- Ongoing studies explore new applications and understanding
+- Cross-disciplinary approaches enhance practical knowledge
+- Field observations complement controlled experimental results
+
+## See Also
+- [[paris-mushroom-caves]]
+- [[paris-catacombs-mushroom-caves]]
+- [[paris-mushroom-caves-champignonieres]]
+- [[early-paris-psilocybin-research-1960s]]
+- [[fukuoka-paris-peace-march-nature-university]]

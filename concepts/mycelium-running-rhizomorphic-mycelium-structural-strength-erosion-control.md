@@ -4,30 +4,30 @@ source: [[woodlovers-mycelium-running-pathway-technique]] (Stamets, 2005)
 tags: [mycology, mycorestoration, erosion-control, rhizomorphs, watershed-protection, mycelium]
 ---
 
-# Rhizomorphic Mycelium — Structural Strength and Erosion Control
+# Rhizomorphic [[mycelium-running-rot-fungi-wood-decomposition]] — Structural Strength and Erosion Control
 
 ## Overview
 
-In *Mycelium Running*, [[paul-stamets]] devotes significant attention to the physical
+In *[[mycelium-running-white-rot-brown-rot-fungi]]*, [[paul-stamets]] devotes significant attention to the physical
 properties of rhizomorphic mycelium — the thick, rope-like structures that certain
-fungi produce to extend across their environment. These rhizomorphs possess
+fungi produce to extend across their [[fungi-environment-mycelial-nutrient-transport-imaging]]. These rhizomorphs possess
 remarkable tensile strength and cohesiveness that give them direct applications in
 erosion control, [[mycofiltration-watershed-protection]], and hillside stabilization. Stamets argues
 that rhizomorphic mycelium represents a largely untapped biological material for
 infrastructure applications where conventional engineering solutions are expensive,
 environmentally disruptive, or inadequate.
 
-## What Are Rhizomorphs?
+## [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] Rhizomorphs?
 
 Rhizomorphs are specialized mycelial structures consisting of densely packed,
 parallel bundles of hyphae that form cord-like strands visible to the naked eye.
 Unlike the diffuse, cottony mycelium that many fungi produce, rhizomorphs are
 organized, directional structures that allow fungi to extend rapidly across
-surfaces, bridge gaps between nutrient sources, and maintain physical connectivity
+surfaces, bridge gaps between nutrient sources, and [[query-what-is-a-cannabis-mother-plant-and-how-do-i-maintain-one]] physical connectivity
 across distances that would be impractical for individual hyphae to traverse.
 
 The term "rhizomorphic" refers to root-like appearance, and indeed rhizomorphs
-function in some ways analogous to plant roots — anchoring the fungal organism,
+function in some ways analogous to plant roots — anchoring the [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] organism,
 transporting water and nutrients, and physically structuring the surrounding
 substrate. However, unlike plant roots, rhizomorphs grow primarily at their tips
 and can extend across surfaces and through air gaps, giving them capabilities
@@ -68,7 +68,7 @@ collective strength through their organized, parallel arrangement.
 ## Stropharia rugoso-annulata and Wood Chip Binding
 
 A key observation from Stamets' work is the ability of *Stropharia rugoso-
-annulata* rhizomorphs to tenaciously bind wood chips together. When *Stropharia*
+annulata* rhizomorphs to tenaciously bind [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]]gether. When *Stropharia*
 is grown on wood chip substrates — as in mycofiltration installations — the
 rhizomorphic mycelium penetrates and wraps around individual chips, creating a
 cohesive mat that resists displacement by water flow, wind, or physical
@@ -85,6 +85,6 @@ substrate together at a microscopic level.
 
 One of the more significant findings Stamets discusses is the role of bacterial
 contact in stimulating rhizomorph production. Rhizomorphs grown in sterile
-laboratory conditions — in the absence of bacteria and other microorganisms —
+laboratory conditions — in the absence of bacteria [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] —
 tend to be less robust and less extensively branched than those grown in natural
 settings with a full complement of microbial competitors and partners.

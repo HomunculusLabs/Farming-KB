@@ -10,7 +10,7 @@ type: concept
 ---
 # Garner and Allard Photoperiodism Experiment Methodology
 
-The [[coleman-winter-day-length-and-persephone-months]]. Many modern [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] have been bred for
+The [[coleman-winter-day-length-and-persephone-months]]. Many modern [[the-ultimate-goal-of-farming]] have been bred for
 day-neutral flowering to ensure consistent production across latitudes and
 seasons.
 

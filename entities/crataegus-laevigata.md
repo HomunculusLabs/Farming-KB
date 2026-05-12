@@ -21,7 +21,7 @@ sources:
 
 **Crataegus laevigata** (Poir.) DC., the woodland hawthorn or midland hawthorn, is a deciduous shrub or small tree in the family Rosaceae. It is native to Europe and western Asia, where it grows in hedgerows, woodland edges, and scrub habitats.
 
-The species is one of the two principal hawthorns of western Europe, alongside *C. monogyna*. It is widely cultivated as an ornamental and harvested for its medicinal berries and flowers.
+The species is one of the two principal hawthorns of western Europe, alongside *C. monogyna*. It is widely cultivated as an ornamental and harvested for its medicinal berries and [[query-how-do-i-grow-and-use-edible-flowers-in-my-garden]].
 
 Its flavonoid-rich fruits have a long history of use in European [[childrens-herbal-medicine]] for cardiovascular support.
 
@@ -29,7 +29,7 @@ Its flavonoid-rich fruits have a long history of use in European [[childrens-her
 
 **Crataegus laevigata** was described by Jean-Baptiste Lamarck as *Mespilus laevigata* in 1789 and later transferred to *Crataegus* by Augustin Pyramus de Candolle. It belongs to the tribe Maleae within Rosaceae.
 
-The tree typically reaches 5–8 metres in height with a dense, rounded crown. The bark is pale grey-brown and develops shallow fissures with age.
+The tree typically reaches 5–8 metres in height with a dense, rounded crown. The bark is pale grey-[[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] and develops shallow fissures with age.
 
 Young twigs are slender and bear sharp thorns up to 1.5 cm long, though fewer than those of *C. monogyna*. Buds are hairless and dark brown.
 
@@ -57,9 +57,9 @@ Hawthorn preparations from *C. laevigata* (and related species) are among the be
 
 Flavonoid content is concentrated in the leaves and flowers, with hyperoside (quercetin-3-O-galactoside), vitexin, and rutin as major compounds. OPCs are particularly abundant in the fruits.
 
-The European Medicines Agency recognises hawthorn leaf and flower extracts as a traditional herbal medicine for mild heart complaints. These include a feeling of heaviness in the legs and cold hands associated with poor circulation.
+The European Medicines Agency recognises hawthorn leaf and flower [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] as a traditional herbal medicine for mild heart complaints. These include a feeling of heaviness in the legs and cold hands associated with poor circulation.
 
-Clinical evidence supports mild positive inotropic effects, improved coronary blood flow, and reduction in blood pressure. A 2008 Cochrane review found hawthorn extract showed significant benefit in chronic heart failure as an adjunct to conventional therapy.
+Clinical evidence supports mild positive inotropic effects, [[query-how-do-i-use-cover-crops-to-improve-soil-health]]d coronary blood flow, and reduction in blood pressure. A 2008 Cochrane review found hawthorn extract showed significant benefit in chronic heart failure as an adjunct to conventional therapy.
 
 The primary mechanism involves inhibition of 3',5'-cyclic adenosine monophosphate phosphodiesterase, leading to increased intracellular calcium in cardiomyocytes and enhanced contractility.
 
@@ -73,13 +73,13 @@ Hawthorn extracts are generally well tolerated. Side effects are rare and mild, 
 
 *Crataegus laevigata* is hardy to USDA zone 5 (−29 °C) and tolerates a wide range of soil types, from acidic to alkaline, provided drainage is adequate. It is more shade-tolerant than *C. monogyna*, making it suitable for woodland-edge plantings.
 
-Propagation is typically by seed (requiring 18-month stratification) or by semi-hardwood cuttings taken in late summer. Grafted cultivars ensure consistent flowering and fruiting characteristics.
+[[query-how-do-i-use-woody-herb-cuttings-for-plant-propagation]] is typically by seed (requiring 18-month stratification) or by semi-hardwood cuttings taken in late summer. Grafted cultivars ensure consistent flowering and fruiting characteristics.
 
 The species is widely planted as an ornamental hedging plant and specimen tree in European and [[growing-gourmet-north-american-reishi-species]] gardens. Several double-flowered cultivars exist, including 'Paul's Scarlet' (deep red double flowers) and 'Crimson Cloud' (red-centred single flowers).
 
-In permaculture and agroforestry systems, hawthorn serves as a component of mixed hedges that provide windbreaks, livestock barriers, and [[hemenway-backyard-wildlife-habitat]] simultaneously.
+In permaculture and agroforestry [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s, hawthorn serves as a component of mixed hedges that provide windbreaks, livestock barriers, and [[hemenway-backyard-wildlife-habitat]] simultaneously.
 
-The dense, thorny growth makes it effective as a barrier hedge. Its value for pollinators is high, with flowers attracting bees, hoverflies, and moths.
+The dense, thorny growth makes it effective as a barrier hedge. Its value for [[query-how-to-attract-and-support-native-bee-pollinators]] is high, with flowers attracting bees, hoverflies, and moths.
 
 Mature hawthorns can live for over 200 years and develop significant girth. Ancient, pollarded hawthorns are a feature of historic European hedgerows and field boundaries.
 
@@ -87,4 +87,4 @@ Mature hawthorns can live for over 200 years and develop significant girth. Anci
 
 Hawthorn berries are edible when cooked and are traditionally used in jams, jellies, fruit leathers, and preserves. The raw fruit has a mealy texture and mild apple-like flavour.
 
-In Britain, hawthorn berries were historically used to make hawthorn wine and a fruit-based sauce similar to cranberry sauce. The young leaves are also edible raw and have been used as a salad green.
+In Britain, hawthorn berries were historically used [[query-how-to-make-fermented-plant-extracts-for-natural-fertilizer]] hawthorn wine and a fruit-based sauce similar to cranberry sauce. The young leaves are also edible raw and have been used as a salad green.

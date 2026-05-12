@@ -60,24 +60,17 @@ The greatest economy in mushroom house construction is attained by building hous
 - **Bed width**: Wall beds should seldom be more than 3 feet across (accessible from one side only). Beds approachable from either side may be up to 6 feet across.
 - **Aisles**: At least 3 feet of aisle width is usually sufficient, with one or more wider aisles where houses are very large.
 
-
 ### Structural Supports
 
 The upright supports for beds in tiers of four or five should be scantling not less than 2x6 inches, placed about 4 feet apart. Experienced commercial growers have adopted large gas piping for the supports, which offers great permanency and is perfect from a sanitary standpoint — the smooth metal surfaces resist contamination and are easily cleaned.
-
-
 
 ## Cave and Cellar Bed Preparation
 
 When beds are to be prepared in caves, cellars, or merely on the floors of buildings, the matter of preparing for the beds is a very simple one. When every foot of available space is to be used for commercial production, and especially in purpose-built houses, the construction of tier supports requires particular attention. Adequate structural support is essential — underestimating the weight of compost (which can be extremely heavy when moist) is a common and costly mistake.
 
-
-
 ## American vs. European Practice
 
 In the United States, production has been confined to special houses, caves, and cellars. Near Philadelphia, Chicago, Boston, and other production centers, mushrooms are grown wholly in special mushroom houses, with the major part of the American market supply produced this way. A few commercial growers in Minnesota, Ohio, Indiana, New York, and Missouri have secured underground quarries, caves, or storage cellars of considerable extent. In England, mushrooms are grown in specially constructed houses, cellars, caves, and sometimes in the open air with protection.
-
-
 
 ## Heating
 
@@ -87,3 +80,7 @@ Some form of heating is essential for winter mushroom production. The specific h
 
 - [[mushroom-compost-preparation]]
 - [[mushroom-spawn-and-mycelial-growth]]
+
+- [[mushroom-house-design-and-construction]]
+- [[mushroom-house-fumigation-and-sanitation-procedures]]
+- [[mushroom-house-preparation-shelving-systems]]

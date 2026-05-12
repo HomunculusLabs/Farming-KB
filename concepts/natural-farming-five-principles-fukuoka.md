@@ -67,7 +67,7 @@ his own hands the need for labor and toil.
 In Fukuoka's fields, spiders and frogs, locusts and dragonflies all coexisted.
 Whenever a large outbreak of leafhoppers occurred, spider populations multiplied
 in response. As long as natural enemies were present, a [[fukuoka-pesticide-cascade-collapse-natural-balance]] asserted
-itself. Pesticides, by contrast, kill [[beneficial-insects-and-biological-pest-control]] alongside pests, create
+itself. Pesticides, by contrast, kill [[hamilton-beneficial-insects-and-biological-pest-control]] alongside pests, create
 pollution problems, and leave crops dependent on continued chemical
 intervention.
 

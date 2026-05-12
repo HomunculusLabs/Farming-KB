@@ -19,16 +19,16 @@ sources:
 
 # Anomodon viticulosus
 
-## Overview
+## [[mushroom-cultivator-species-growing-parameters-overview]]
 
 Anomodon viticulosus, commonly known as common tree moss or rope moss, is a
 robust pleurocarpous moss in the family Thuidiaceae. It forms extensive, rope-like
 mats on the trunks and branches of trees, particularly in mature forests with
 calcium-rich bark.
 
-The species is among the largest and most conspicuous epiphytic mosses in
-temperate forests of Europe. Its elongate, branching stems create dangling curtains
-of green vegetation on tree trunks and branches that can reach 15 to 20 centimeters
+The [[guzman-magic-mushrooms-temperate-zone-species]] is among the largest and most conspicuous epiphytic mosses in
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] forests of Europe. Its elongate, branching stems create dangling curtains
+of [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] vegetation on tree trunks and branches that can reach 15 to 20 centimeters
 in length.
 
 Anomodon viticulosus is strongly calcicolous and is most abundant on trees with
@@ -36,7 +36,7 @@ basic bark such as ash, elm, wych elm, and sycamore. It is a characteristic
 species of the Anomodon-Neckera epiphyte community found on mature deciduous trees.
 
 The genus Anomodon contains approximately 40 species distributed across temperate
-regions of the Northern Hemisphere. A. viticulosus is the most widespread and
+regions of the [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]] Hemisphere. A. viticulosus is the most widespread and
 abundant species in the genus in Europe.
 
 ## Taxonomy and Morphology
@@ -46,7 +46,7 @@ order Hypnales, class Bryopsida. The genus Anomodon is characterized by its
 robust habit, complanate branching, and strongly differentiated stem and branch
 leaves.
 
-Plants form large, irregularly branched mats or wefts that are yellowish-green
+[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]s form large, irregularly branched mats or wefts that are yellowish-green
 to dark green when moist, becoming brownish when dry. The primary stems are
 creeping, with erect secondary stems 5 to 15 centimeters tall.
 
@@ -71,10 +71,10 @@ Sporophytes are produced moderately frequently but are not always present. The
 species often reproduces primarily through vegetative means, with stem fragments
 serving as the main propagule.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
 Anomodon viticulosus is distributed across temperate Europe, western Asia, and
-eastern [[guzman-psilocybin-mushrooms-north-america]]. In Europe, it occurs from southern Scandinavia and the
+eastern [[guzman-psilocybin-mushrooms-north-america]]. In Europe, it occurs from [[guzman-psilocybin-mushrooms-south-america]]ern Scandinavia and the
 British Isles southward through central Europe to the Mediterranean region.
 
 The species is absent from the most oceanic and the most continental parts of

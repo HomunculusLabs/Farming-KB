@@ -8,14 +8,14 @@ sources: [savory-holistic-resource-management.md]
 type: concept
 ---
 
-# Human Creativity in Resource Management
+# Human Creativity in [[savory-holistic-resource-management-energy-flow]]
 
 Savory argues that creativity, not brainpower or technical knowledge, is the
-crucial element in resource management. Every management situation is unique,
+crucial element in [[savory-holistic-resource-management-water-cycle]]. Every management situation is unique,
 requiring solutions that are original products of human imagination custom-made
 to fit the circumstances at hand. The modern tendency to rely on outside
 experts telling managers what to do has undermined the creative capacity that
-successful resource management demands.
+successful [[savory-holistic-resource-management-decision-framework]] demands.
 
 ## Overview
 
@@ -35,7 +35,7 @@ attain maximum effect may not work for another.
 ## Key Concepts
 
 - Creativity differs fundamentally from brainpower; a person who adds up
-  six-digit numbers may have great brainpower but no common sense.
+  six-digit numbers may have great brainpower but no [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] sense.
 - Every management situation is unique because no other individual has the same
   set of resources in the same time frame with the same people.
 - Management must be an original product of human imagination that evolves as
@@ -58,12 +58,12 @@ could never fully understand. His clients, living within the situation daily,
 could have produced far better ideas had they been encouraged to think for
 themselves.
 
-This pattern repeats across institutional structures. Government agencies,
+This pattern repeats across institutional [[coleman-quick-hoops-low-cost-season-extension-structures-design]]. Government agencies,
 universities, and private consultants all tend to prescribe solutions based on
 generalized research rather than site-specific creative thinking by the people
 closest to the problem. The training most professionals receive embraces
 reductionist approaches that work well for mechanical problems but fail
-miserably for the organic, multidimensional problems of resource management.
+miserably for the [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]], multidimensional problems of resource management.
 
 ### Creativity in Practice
 
@@ -71,11 +71,11 @@ Creativity is needed constantly because every situation changes. The manager
 who defines the whole within his realm of responsibility must think through
 each situation to discover whether management that worked for someone else
 applies to his own unique set of goals and circumstances. If it does not,
-that person must create something different.
+that person must create something [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]].
 
 Savory found that with sufficient training, almost anyone can use the HRM
 model to solicit and direct the kind of expert advice needed, while
-maintaining control of their own management. The model serves as a framework
+maintaining [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] of their own management. The model serves as a framework
 for thought that enables creativity rather than replacing it.
 
 ### The Knowledge Problem

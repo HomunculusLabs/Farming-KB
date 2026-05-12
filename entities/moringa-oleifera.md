@@ -33,29 +33,29 @@ sources:
 
 ## Taxonomy
 
-| Rank | Classification |
+| Rank | [[short-day-and-long-day-plant-classification]] |
 |------|---------------|
 | Kingdom | Plantae |
 | Order | **Brassicales** |
 | Family | **Moringaceae** |
 | Genus | **Moringa** |
-| Species | **M. oleifera** |
+| [[growing-gourmet-tree-oyster-ostreatus-species-profile]] | **M. oleifera** |
 
 *Moringa oleifera* is the most widely cultivated species of the monogeneric family Moringaceae, which contains 13 species distributed across Africa and Asia.
 
 ## Botanical Description
 
-*Moringa oleifera* is a fast-growing, drought-deciduous tree reaching **5–10 m** height (up to 12 m in optimal conditions), with whitish-gray corky bark and a deep taproot conferring exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]]. Leaves are tripinnately compound, 30–60 cm long, with 2–3 pairs of pinnae bearing 4–6 pairs of elliptic to obovate leaflets (1–2 cm × 0.5–1.2 cm). Inflorescences are axillary panicles (15–25 cm) with fragrant, bisexual flowers bearing 5 white spatulate petals and a monadelphous stamen column. Fruits are pendulous tri-lobed capsules (drumstick pods), 20–60 cm × 1.2–1.8 cm, containing 10–20 roughly globular seeds (~38% oil by weight) with three papery wings.
+*Moringa oleifera* is a fast-[[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]], [[dighton-mycorrhizal-drought-tolerance-plant-water-relations]]-deciduous tree reaching **5–10 m** height (up to 12 m in optimal conditions), with whitish-gray corky bark and a deep taproot conferring exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]]. Leaves are tripinnately compound, 30–60 cm long, with 2–3 pairs of pinnae bearing 4–6 pairs of elliptic to obovate leaflets (1–2 cm × 0.5–1.2 cm). Inflorescences are axillary panicles (15–25 cm) with fragrant, bisexual flowers bearing 5 [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] spatulate petals and a monadelphous stamen column. Fruits are pendulous tri-lobed capsules (drumstick pods), 20–60 cm × 1.2–1.8 cm, containing 10–20 roughly globular seeds (~38% oil by weight) with three papery wings.
 
 ## Distribution and Native Range
 
 Native to the **Indian subcontinent** (sub-Himalayan tracts of India, Pakistan, Bangladesh, Afghanistan), now naturalized across the **pantropical** zone in >80 countries. USDA hardiness zones **9–11** (tolerates light frost, killed below ~0 °C). Altitude range: 0–2,000 m a.s.l. Low invasive potential.
 
-## Nutritional Profile
+## [[dighton-fungal-nutritional-composition-animal-diets]] Profile
 
 Nutrient composition per **100 g fresh leaves**:
 
-| Nutrient | Amount | % DV | Comparison |
+| Nutrient | Amount | % DV | [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]] |
 |----------|--------|------|------------|
 | Energy | 64 kcal | — | — |
 | Protein | 9.4 g | 19% | 2× spinach |
@@ -84,6 +84,6 @@ In Ayurveda, known as *Shigru* (चिंग्रु), used for 3,000+ years fo
 - **Antioxidant**: DPPH/ABTS radical scavenging IC₅₀ 11.5–17.8 μg/mL (Gopalakrishnan et al., 2016; PMID: 26834564)
 - **Anti-inflammatory**: Moringin inhibits NF-κB, reduces TNF-α, IL-6, IL-1β (Galuppo et al., 2014; PMID: 24859664)
 - **Antidiabetic**: 8 g/day leaf powder for 40 days reduced fasting glucose 28% and HbA1c in T2DM patients (Jaiswal et al., 2009)
-- **Hepatoprotective**: Leaf extracts restore ALT/AST/ALP, enhance glutathione peroxidase in CCl₄-induced rat models (Paliwal et al., 2011; PMID: 21468488)
+- **Hepatoprotective**: Leaf [[comparison-fermented-plant-extract-vs-compost-tea]]s restore ALT/AST/ALP, enhance glutathione peroxidase in CCl₄-induced rat models (Paliwal et al., 2011; PMID: 21468488)
 - **Neuroprotective**: Attenuates Aβ plaques and tau phosphorylation in Alzheimer's mouse models (Ganguly et al., 2017; PMID: 28428318)
 - **Antimicrobial**: Seed extracts MIC 50–200 μg/mL against *S. aureus*, *E. coli*, *P. aeruginosa*, *C. albicans* (Saadabi & Abu Zaid, 2011)

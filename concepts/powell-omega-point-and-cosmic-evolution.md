@@ -14,14 +14,14 @@ type: concept
 Simon G. Powell explores the concept of the Omega Point, originally proposed
 by the Jesuit priest and palaeontologist Pierre Teilhard de Chardin, as a
 framework for understanding the ultimate direction of cosmic evolution. Powell
-argues that the Universal Computation
+argues that the [[set-and-setting-universal-framework-altered-states]] Computation
 is not merely running down but is progressing toward a climactic state of
 maximum informational integration, a point at which the Other
 or [[psychedelic-mushroom-set-and-setting]] echoed Teilhard's mystical claims, assuming the role of
-"psychedelic prophet" by consistently predicting that human history would be
+"psychedelic prophet" by consistently predicting that [[cultural-acceleration-temporal-compression-human-history-mckenna]] would be
 utterly transformed. His "fractal theory of time" viewed time as a cyclical
 patterning process involving continual "ingression of novelty" with a
-definite culmination point. McKenna's "transcendental object" or eschaton,
+definite culmination point. [[mckenna-new-world-mushroom-rediscovery]]'s "transcendental object" or eschaton,
 like Teilhard's Omega Point, "sheds reflections of itself into the past,"
 reflections which inspire saints, mystics, and visionary shamans. He also
 used the term "attractor" to describe this final eschatological state.
@@ -59,9 +59,9 @@ be a kind of "local singularity," a state of informational unification
 embodied through a planet-wide shared experience. If such a phenomenon were
 to realise itself, it would be preceded by a tremendous surge of information
 announcing the event, whether through new scientific discoveries, new
-technologies, or a growing recognition of biospheric interconnectedness.
+technologies, or a growing [[hyphal-anastomosis-self-non-self-recognition]] of biospheric interconnectedness.
 
-## Consciousness as Essential to the Plan
+## [[mckenna-tryptamine-psilocybin-consciousness-evolution]] as Essential to the Plan
 
 Powell concludes that when one has encountered the Other through the visionary
 effects of psilocybin, "it becomes quite evident that, whatever its ultimate
@@ -75,12 +75,12 @@ in action.
 
 McKenna's date for the culmination of novelty, late December 2012, coincided
 with the mysterious end date of the Mayan calendar. The Maya were a
-time-obsessed civilisation, and this Mayan end-of-time prophecy was not known
-to McKenna when he first developed his theory. At that culmination point,
+time-obsessed [[powell-mayan-civilisation-and-psilocybin-mushroom-use]], and this Mayan end-of-time prophecy was not known
+to McKenna when he first developed h[[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]]ory. At that culmination point,
 McKenna suggested, the full purpose of reality would become manifest as
 information-integration reaches its zenith. This convergence of Teilhard's
 Omega Point, McKenna's eschaton, and the Mayan calendar's end date gives
-the concept of a cosmic attractor a remarkable cross-cultural resonance.
+the concept of a cosmic attractor a remarkable cross-[[shroom-cultural-history-mushroom-art-and-iconography]] resonance.
 
 ## Crises as Catalysts for Transformation
 

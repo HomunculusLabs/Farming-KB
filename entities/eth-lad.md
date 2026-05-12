@@ -13,7 +13,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hofmann, A. & Troxler, F. (1949). "Alkaloids of ergot: N-alkylated ergot-and-lysergic-acid-history derivatives." Helvetica Chimica Acta, 32, 893–904.
-  - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New [[cultural-evolution-and-psychoactive-substances]]. Springer.
+  - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New [[star-fire-and-sacred-substances]]. Springer.
   - Brandt, S.D., et al. (2016). "Return of the lysergamides." psychedelic-drug-testing-and-adulterant-screening and Analysis, 8(9), 891–900.
   - Passie, T., et al. (2008). "The pharmacology of [[lsd-d-lysergic-acid-diethylamide]]." CNS Neuroscience & Therapeutics, 14(4), 295–314.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–726.
@@ -21,9 +21,9 @@ sources:
 
 ## Overview
 
-**Eth-LAD** (6-ethyl-6-nor-lysergic acid diethylamide) is a semisynthetic psychedelic lysergamide and analog of LSD (lysergic acid diethylamide).
+**Eth-LAD** (6-ethyl-6-nor-[[lsd-lysergic-acid-diethylamide-experience-guide]]) is a semisynthetic psychedelic lysergamide and analog of LSD (lysergic acid diethylamide).
 
-It belongs to the nor-lysergamide family, characterized by substitution at the 6-position of the lysergic acid ring system with an alkyl group.
+It belongs to the nor-lysergamide family, characterized by substitution at the 6-position of the lysergic acid ring [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] with an alkyl group.
 
 Eth-LAD was first synthesized in the late 1940s by [[albert-hofmann]] during systematic investigations of lysergamide structure-activity relationships.
 
@@ -37,15 +37,15 @@ The compound has gained attention as a novel psychoactive substance (NPS) in the
 - **CAS Number:** 23369-16-4 (estimated; multiple isomers may share this number)
 - **SMILES:** CC[C@H]1C(=O)NC2[C@@H](CN3C[C@H]1CC3=C2c4cc[nH]c5ccccc45)C(=O)O
 
-The compound exists as a white crystalline solid in its tartarate salt form, while the freebase is an oil.
+The compound exists as a [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] crystalline solid in its tartarate salt form, while the freebase is an oil.
 
 It is photosensitive and degrades under UV light exposure, requiring amber glass storage at low temperatures.
 
 The 6-ethyl substitution distinguishes it from LSD (unsubstituted at position 6) and from other nor-lysergamides like 1P-LSD (propionyl at N1).
 
-## Pharmacology
+## [[hofmann-lsd-pharmacology-serotonin-brain]]
 
-Eth-LAD acts as a potent agonist at the 5-HT2A receptor, the primary pharmacological target responsible for its psychedelic effects.
+Eth-LAD acts as a potent agonist at the 5-HT2A receptor, the primary [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] target responsible for its psychedelic effects.
 
 In vitro binding studies indicate 5-HT2A affinity comparable to or slightly lower than LSD, with Ki values estimated in the low nanomolar range.
 
@@ -69,7 +69,7 @@ The somatic profile resembles other lysergamides: mild body load, temperature dy
 
 Compared to LSD, Eth-LAD is typically reported as slightly less intense per microgram but qualitatively similar in character.
 
-Some users distinguish Eth-LAD as having a "warmer" or more "organic" quality compared to the sharp, analytical character attributed to LSD.
+Some users distinguish Eth-LAD as having a "warmer" or more "organic" quality compared to the sharp, [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] character attributed to LSD.
 
 ## Dosage and Duration
 
@@ -78,7 +78,7 @@ Some users distinguish Eth-LAD as having a "warmer" or more "organic" quality co
 - **Common dose:** 100–150 μg
 - **Strong dose:** 150–250 μg
 
-These estimates are approximate and based on self-reported user data, as formal clinical dose-response studies have not been published.
+These estimates are approximate and based on self-reported user data, as formal [[hofmann-lsd-clinical-research-early-studies]] dose-response studies have not been published.
 
 Onset occurs within 30–90 minutes after oral administration, with peak effects at 3–5 hours.
 
@@ -86,4 +86,4 @@ Total duration is approximately 8–12 hours, with a gradual comedown period of 
 
 The compound is active at remarkably low doses consistent with the high potency typical of the lysergamide class.
 
-Tolerance develops rapidly and cross-tolerance with LSD and other 5-HT2A agonists is complete, persisting for 5–7 days.
+Tolerance develops rapidly and [[cho-morning-sickness-and-plant-cross-over-period]]-tolerance with LSD and other 5-HT2A agonists is complete, persisting for 5–7 days.

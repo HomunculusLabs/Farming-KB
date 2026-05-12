@@ -17,11 +17,11 @@ sources:
   - Borovička, J., Noordeloos, M.E. & Gryndler, M. (2015). "Molecular phylogeny of Psilocybe sensu lato." Mycologia, 107(6), 1274-1286.
 ---
 
-# Psilocybe margaritalis
+# [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]] margaritalis
 
 ## Overview
 
-*Psilocybe margaritalis* is a rare, bluing species of [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in the
+*Psilocybe margaritalis* is a rare, bluing [[query-what-is-the-strongest-psilocybin-mushroom-species]] of [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in the
 family Hymenogastraceae (formerly Strophariaceae).
 
 It was first described from Spain and is one of the lesser-known members of
@@ -35,8 +35,8 @@ bluing, psilocybin-producing taxa found across temperate and subtropical regions
 
 ## Taxonomy
 
-- **Kingdom:** Fungi
-- **Division:** Basidiomycota
+- **Kingdom:** [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+- **Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Basidiomycota
 - **Class:** Agaricomycetes
 - **Order:** Agaricales
 - **Family:** Hymenogastraceae
@@ -44,7 +44,7 @@ bluing, psilocybin-producing taxa found across temperate and subtropical regions
 - **Species:** *P. margaritalis* Guzmán, Tapia & Gándara (2004)
 
 The species was circumscribed by Gastón Guzmán and colleagues from
-collections on the Iberian Peninsula.
+[[jarrold-glass-jar-spore-print-collection-drying]]s on the Iberian Peninsula.
 
 Molecular phylogenetic studies by Borovička et al. (2015) placed it within
 the *Psilocybe* clade containing *P. cubensis* and *P. subaeruginosa*.
@@ -52,7 +52,7 @@ the *Psilocybe* clade containing *P. cubensis* and *P. subaeruginosa*.
 ## Morphology
 
 **Cap:** 10–25 mm diameter, convex to broadly convex, sometimes umbo.
-Surface smooth, hygrophanous, becoming pale straw-yellow to ochraceous
+Surface smooth, hygrophanous, becoming pale [[straw-substrate-mushroom-cultivation-boil-bag]]-yellow to ochraceous
 when dry, with a distinct pearly sheen when fresh.
 
 Margin translucent-striate when moist. Cap surface does not become viscid
@@ -80,8 +80,8 @@ with a broad germ pore.
 *P. margaritalis* has been documented primarily from the Iberian Peninsula,
 specifically in Spain.
 
-It is found in grasslands, pastures, and open areas with rich soil, often
-in association with herbaceous plant debris and dung-enriched substrates.
+It is found in grasslands, [[query-what-are-dung-beetles-and-how-do-they-benefit-soil-and-pasture-health]]s, and open areas with rich soil, often
+in association with herbaceous plant debris and dung-enriched [[query-what-are-the-best-mushroom-substrates-for-different-species]].
 
 Collections have been made in autumn months following seasonal rains, when
 soil moisture levels support fruiting.

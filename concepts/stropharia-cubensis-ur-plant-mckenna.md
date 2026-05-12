@@ -88,3 +88,10 @@ psilocin in the body by alkaline phosphatase enzymes.
 
 - **Psilocin** (4-HO-DMT): The pharmacologically active compound. Acts
 primarily as a 5-HT2A receptor agonist, mimicking serotonin and producing
+
+## See Also
+
+- [[stropharia-cubensis-as-ur-plant]]
+- [[stropharia-cubensis-hypothesis]]
+- [[stropharia-cubensis-spore-electron-density-interstellar-survival]]
+- [[stropharia-cubensis-ur-plant]]

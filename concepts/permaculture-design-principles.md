@@ -6,13 +6,13 @@ type: concept
 
 # Permaculture Design Principles
 
-Permaculture design principles, as articulated by Bill Mollison in *Permaculture: A Designers' Manual*, draw upon a deep understanding of natural systems ecology. These principles serve as the foundational thinking tools for designing sustainable human settlements and agricultural systems that work in harmony with ecological processes rather than against them. They are not rigid rules but flexible lenses through which designers evaluate every decision in a landscape.
+[[permaculture-design]] principles, as articulated by [[bill-mollison]] in *Permaculture: A Designers' Manual*, draw upon a deep understanding of natural systems ecology. These principles serve as the foundational thinking tools for designing sustainable human settlements and agricultural systems that work in harmony with ecological processes rather than against them. They are not rigid rules but flexible lenses through which designers evaluate every decision in a landscape.
 
 ## Open vs. Closed Systems
 
 A critical distinction in permaculture thinking is between open and closed systems. Closed systems are thermodynamically isolated — no energy or matter enters or leaves. In strict physical terms, no ecosystem on Earth is truly closed, but some approach closure more than others. Open systems freely exchange energy and materials with their surroundings.
 
-Most natural ecosystems are open systems that cycle nutrients internally while exchanging energy (sunlight, heat) with the broader environment. Permaculture design aims to create systems that approach closure in their material cycles — recycling nutrients, water, and biomass on-site — while remaining open to the flow of solar energy. This reduces dependence on external inputs and creates self-sustaining productive landscapes that require less maintenance over time. The material world can perhaps be predictably measured by applications of the laws of thermodynamics, but these relate mainly to non-living or experimentally closed systems.
+Most natural ecosystems are open systems that cycle nutrients internally while exchanging energy (sunlight, heat) with the broader environment. Permaculture design aims to create systems that approach closure in their material cycles — recycling nutrients, water, and biomass on-site — while remaining open to the flow of solar energy. This reduces dependence on external inputs and creates self-sustaining productive landscapes that require less maintenance over time. The material world can perhaps be predictably measured by applications of the [[laws-of-thermodynamics]], but these relate mainly to non-living or experimentally closed systems.
 
 Cities, while appearing open, often function as one-way systems: they import food and energy from surrounding landscapes and export wastes as pollutants. They break the basic "law of return" where nutrients are cycled back to their source. Permaculture design seeks to close these loops, returning all outputs back into productive use within the system.
 
@@ -48,7 +48,7 @@ Our ability to change the face of the earth increases at a faster rate than our 
 
 ### 6. Organisms Are Ends, Not Means
 
-Living organisms are not only means but ends. In addition to their instrumental value to humans and other living organisms, they have an intrinsic worth. This life ethic thesis is fundamental to permaculture ethics — treating organisms merely as resources without regard for their ecological roles degrades the system as a whole.
+Living organisms are not only means but ends. In addition to their instrumental value to humans and other living organisms, they have an intrinsic worth. This life ethic thesis is fundamental to [[permaculture-ethics]] — treating organisms merely as resources without regard for their ecological roles degrades the system as a whole.
 
 ## Mollison's Permaculture Design Principles
 
@@ -58,7 +58,7 @@ Building on ecological foundations including Birch's work, Mollison articulated 
 
 This is the overarching ethos of permaculture. Rather than imposing human will through force — bulldozing, spraying, fighting natural processes — the designer observes how nature already achieves the desired outcome and cooperates with those processes. In natural successions, grasses slowly give way to shrubs, which eventually give way to trees. We can actively assist this natural succession by using pioneer species to provide microclimate, nutrients, and wind protection for the species we want to establish.
 
-The alternative — working against nature — leads to escalating cycles of intervention. Masanobu Fukuoka captured this vividly: "If we throw nature out the window, she comes back in the door with a pitchfork." A classic example is the pest spray spiral: spraying pesticides kills both target pests and their natural predators. With predators removed, pest populations rebound more aggressively, and survivors breed more resistant progeny — nature's pitchfork. Working with nature means designing systems where natural pest control emerges from ecological balance.
+The alternative — working against nature — leads to escalating cycles of intervention. [[masanobu-fukuoka]] captured this vividly: "If we throw nature out the window, she comes back in the door with a pitchfork." A classic example is the pest spray spiral: spraying pesticides kills both target pests and their natural predators. With predators removed, pest populations rebound more aggressively, and survivors breed more resistant progeny — nature's pitchfork. Working with nature means designing systems where natural pest control emerges from ecological balance.
 
 ### Principle 2: The Problem Is the Solution
 
@@ -111,4 +111,3 @@ This is fundamentally different from conventional agricultural or engineering ap
 ## Summary
 
 Permaculture design principles form a coherent framework for ecological design grounded in systems thinking, thermodynamics, and natural history. They move beyond simply "being sustainable" toward actively regenerating productive capacity through working with, rather than against, the inherent tendencies of natural systems. The principles are interconnected and mutually reinforcing: working with nature reveals problems as solutions, which enables minimal interventions for maximum effect, which unlocks unlimited yield potential, which is achieved because every organism is already gardening its environment. By applying these principles consistently, the designer creates systems that become more productive, more resilient, and more self-sustaining over time — the opposite of entropy, and the essence of permaculture design intelligence.
-

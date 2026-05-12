@@ -1,132 +1,96 @@
 ---
 title: Heat Transfer Mechanisms
-created: 2026-04-28
-tags: [physics, thermodynamics, engineering, heat-transfer]
-date: 2026-05-02
-updated: 2026-05-02
-sources: []
+source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-## Overview
+# Heat Transfer Mechanisms
 
-Heat transfer is the transport of [[phase-change-materials-thermal-energy-storage]] from regions of
-higher temperature to regions of lower temperature, driven by
-temperature gradients. It is governed by three fundamental
-mechanisms: conduction, convection, and radiation. Understanding
-these mechanisms is essential for designing thermal systems
-including heat exchangers, building insulation, electronic
-cooling, power generation equipment, and refrigeration cycles.
-Each mechanism operates through distinct physical principles and
-dominates in different practical scenarios.
+Heat transfer is a fundamental process governing site climate, building design, and agricultural planning in [[permaculture]] systems. Understanding how heat moves through environments allows designers to position structures, select plant species, and create microclimates that reduce energy inputs and improve growing conditions.
 
-## Conduction
+## The Three Grades of Heat Transfer
 
-Conduction transfers thermal energy through a stationary medium
-via molecular interactions without bulk motion. In gases and
-liquids, conduction occurs through random molecular collisions
-where higher-energy molecules transfer kinetic energy to
-neighbors. In solids, particularly metals, conduction proceeds
-through lattice vibrations called phonons and through free
-electron drift, explaining why metals are superior conductors.
-Fourier's law states that conductive heat flux equals negative k
-times dT/dx, where k is thermal conductivity. This property
-ranges from roughly 0.02 W/m-K for insulating foams to over 400
-W/m-K for pure copper. Conduction dominates in solids and in the
-thin stagnant fluid layers adjacent to surfaces.
+Heat moves through the environment via three distinct mechanisms, each operating at different scales and efficiencies:
 
-## Convection
+### Low-Grade Heat: Conduction
 
-Convection combines molecular conduction with bulk fluid motion.
-It subdivides into natural convection, driven by buoyancy from
-density differences in heated fluid, and forced convection,
-driven by pumps, fans, or blowers. Newton's law of cooling gives
-the governing equation: q equals h times A times delta-T, where h
-is the convective heat transfer coefficient and A is the surface
-area. The coefficient h depends on fluid properties, geometry,
-velocity, and flow regime characterized by the and flow regimes.
-Typical values range from 5 to 25 W/m^2-K for natural air
-convection, 25 to 250 for forced air, 50 to 10,000 for forced
-water, and 2,500 to 250,000 for boiling or condensation.
-Dimensionless Nusselt number correlations predict h for specific
-configurations.
+Conduction is the transfer of heat between solids (or between fluids) through direct physical contact. When one end of a solid is heated, thermal energy diffuses through the material toward cooler regions. This is the basis of [[radiant-floor-heating]] systems, where hot water pipes buried in concrete slabs conduct warmth across an entire floor surface. Conduction is highly efficient for heating solid masses, which is why slab-floored houses with embedded heating elements perform so well — provided the slab is insulated from the surrounding earth to prevent heat loss downward.
 
-## Radiation
+Conduction is inherently local in uninsulated systems, as heat is rapidly radiated away from exposed soil surfaces. The key to harnessing conduction effectively is insulation: solid foam, straw, cork, sawdust, or air-trapping materials placed between the heated mass and the surrounding environment.
 
-Thermal radiation is electromagnetic energy emission by matter at
-finite temperature. Unlike conduction and convection, it requires
-no medium and propagates through vacuum, enabling [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] to
-reach Earth. All bodies above absolute zero emit radiation. The
-Stefan-Boltzmann law gives the maximum emissive power of an ideal
-blackbody: q equals sigma times T to the fourth power, where
-sigma equals 5.67 times 10 to the negative 8 W/m^2-K^4 and T is
-absolute temperature in Kelvin. Real surfaces emit less according
-to their emissivity, a material property between zero and one.
-Radiation exchange between surfaces depends on geometry, surface
-properties, and view factors, analyzed using radiosity methods
-for enclosures with multiple reflections.
+### Medium-Grade Heat: Convection
 
-## Combined Mechanisms
+Convection is the movement of heat via the circulation of fluids and gases. As air or water is heated, it expands, decreases in density, and rises, while cooler, denser fluid sinks to replace it. This creates circulation patterns — convection currents — that transfer heat throughout a system.
 
-In most engineering systems, all three mechanisms operate
-simultaneously. In a building wall, heat conducts through solid
-material, convects from outer surfaces to ambient air, and
-radiates to surroundings. Relative importance depends on
-temperature level and geometry. Below roughly 500 Kelvin,
-conduction and convection dominate; above this threshold,
-radiation grows increasingly significant. In furnaces above 1000
-Kelvin, radiation often accounts for most heat transfer. Thermal
-resistance networks, analogous to electrical circuits, analyze
-combined modes by assigning each mechanism a resistance term:
-conductive resistance equals L/kA, convective resistance equals
-1/hA, and radiative resistance depends on emissivities and view
-factors.
+In the atmosphere, columns of heated air over land ascend as "Overbeck jets," and at altitude, cooling causes condensation and rainfall. These convectional rains are responsible for the patchy rainfall patterns characteristic of desert regions. Valley climates are largely shaped by convection: cool, dense air drains downslope at night and pools in low-lying areas, while daytime heating sends warm air rising up slopes.
 
-## Phase Change Heat Transfer
+**Convection Loops and Thermosiphons:** When heated air or water is contained in pipes or ducts, a closed-loop circulation system can be established. By applying heat to the lower portion of the loop and providing a minimum vertical rise of 40 cm (about 18 inches), a [[thermosiphon]] effect is created — the heated fluid rises naturally and the cooled fluid descends, driving continuous circulation without pumps. This principle is used in solar hot water systems, where flat-plate collectors positioned below storage tanks create self-regulating thermosiphons that transfer heat to radiators or hot water tanks.
 
-Boiling and condensation are special convection cases with
-exceptionally high transfer coefficients. During nucleate
-boiling, vapor bubbles form at surface nucleation sites and
-agitate surrounding liquid, producing coefficients an order of
+Convection does not operate effectively in closed, unventilated rooms, where hot air stratifies in a quiet layer below the ceiling. Air is difficult to heat and stores little thermal energy, making air convection an inefficient means of heating building interiors, despite its role as the primary engine of global atmospheric circulation.
 
-## See Also
-- [[heat-transfer-coefficient]]
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[transcendent-other-and-plant-human-information-transfer]]
-- [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
-- [[bloomfield-rust-sex-insect-mediated-spermatia-transfer-dikaryon-formation]]
+### High-Grade Heat: Radiation
 
-## Practical Applications
+Radiation is the transmission of heat across space via electromagnetic waves — the mechanism by which the sun heats the Earth. Radiant heat travels in straight lines in all directions and can only be conserved by reflective, dust-free surfaces or mirrors. Radiant heaters (electric, gas, or wood-fired massive stoves) warm the human body and other solid objects directly while having minimal effect on air temperature, making them extremely efficient space heaters. Because radiation crosses space and is nondirectional, focused radiation can produce very intense localized heat.
 
-The principles and techniques discussed here have wide-ranging applications
-across multiple disciplines and contexts. Practitioners and researchers
-continue to explore new ways to integrate these concepts into modern practice,
-adapting traditional knowledge to contemporary challenges and opportunities.
+## Solar Radiation and Site Selection
 
-## Key Considerations
+The quantity of solar radiation received at ground level varies enormously depending on several factors:
 
-Several important factors influence the effectiveness and outcomes described
-in this topic. Understanding these considerations helps practitioners make
-informed decisions and avoid common pitfalls. Environmental conditions,
-timing, and material selection all play critical roles.
+- **Latitude and season:** These determine the depth of atmosphere through which sunlight must pass. When the sun is directly overhead on a clear day, only 22% of radiant energy penetrates one atmosphere of depth. In polar regions, where the sun sits at 5° elevation, light passes through the equivalent of 11 atmospheres, and as little as 1% of incoming energy reaches the surface.
+- **Slope angle:** Slope orientation profoundly affects absorption and reflection. Pole-facing slopes receive significantly less radiation than equator-facing slopes.
+- **Atmospheric conditions:** Ice, water vapor, dust, and cloud cover all reduce ground-level radiation.
 
-## Historical Context
+Incoming solar radiation is measured in Langleys (gram calories per square centimeter). The sun delivers approximately 2 Langleys per minute to the outer atmosphere, but ground-level receipt varies widely based on the factors above.
 
-The historical development of this subject reflects centuries of accumulated
-knowledge and practical experience. From traditional methods passed down
-through generations to modern scientific approaches, the evolution continues
-to inform current best practices and research directions.
+## Albedo: Reflection and Absorption
 
-## Common Challenges
+Albedo — the proportion of incoming radiation that a surface reflects rather than absorbs — is a critical factor in site energy balance. Surfaces with high albedo reflect most energy and remain cool, while dark surfaces with low albedo absorb energy and warm significantly.
 
-Practitioners frequently encounter several challenges when working with
-these concepts. Climate variability, resource limitations, and knowledge
-gaps can all affect outcomes. Addressing these challenges requires patience,
-observation, and a willingness to adapt approaches based on results.
+Notable albedo values include:
 
-## See Also
-- [[heat-transfer-coefficient]]
-- [[doc]]
-- [[dom]]
-- [[ghb]]
-- [[mycorrhiza]]
+| Surface | Reflected (%) | Absorbed (%) |
+|---------|:---:|:---:|
+| Fresh snow | 75–95 | 5–25 |
+| White gravel | 50–93 | 7–50 |
+| Dense white clouds | 60–90 | 10–40 |
+| Sand dunes | 30–40 | 60–70 |
+| Sandy soils | 15–40 | 60–85 |
+| Young oaks | 18 | 82 |
+| Dark soils | 7–10 | 90–93 |
+| Fir forest | 10 | 90 |
+
+Designers must account for albedo when planning sites. Snow-covered, white-sand, or granite areas can produce severe radiation burns, skin cancers, and temporary blindness. Plants in high-albedo environments require screening against sunburn through partial shade or white stem paint, especially when young.
+
+## Temperature Inversions
+
+Under normal conditions, temperature decreases with altitude at approximately 1°C per 100 meters of elevation gain. However, in valleys or plains surrounded by mountains, cool air draining from hills or generated by rapid radiative cooling from soils can become trapped beneath warmer air layers, creating a **temperature inversion**. In these conditions, fog, smog, and pollution accumulate over cities in valleys where wind is minimal. Such sites require careful analysis for pollutant potential.
+
+## Thermal Belts
+
+In hill country, the **[[thermal-belt]]** — a midslope zone positioned above cold valley floors and below exposed, chilly hilltops — represents the optimal positioning for gardens and housing in temperate to cool climates. Sun-facing slopes in the thermal belt absorb maximum solar radiation while naturally draining cold air at night. These belts may lie at 1,000–5,000 m elevation in mountainous terrain, 100–200 m on lower hill slopes, and as low as 10–15 m on desert mesa slopes. Local information from plant observation, anecdotal evidence, or trial plantings of frost-susceptible species helps identify precise thermal belt positions.
+
+## Advected Heat and Cold
+
+Winds carry warmth or cold from distant regions into local areas — a process called **advection**. Advected warm air invading cool regions causes moisture condensation, which is critical for forest precipitation but problematic in enclosed buildings where condensation creates dampness. Advected cold air flowing downslope and pooling in hollows causes advection frosts. Designers should channel dry warm air into buildings or provide mechanisms to direct condensation moisture to the exterior.
+
+## Heat Storage Materials
+
+Materials vary enormously in their capacity to store thermal energy, measured as specific heat:
+
+- **Water and stone** have high specific heat and are excellent heat storage media. Bodies of water serve as effective thermal masses in landscape design.
+- **Air** has very low specific heat and is a very poor conductor, making it an excellent insulator. Most insulation systems work by trapping air in pockets (fiberglass, foam, straw).
+- **Earth, brick, stone, and concrete** store substantial heat when used as thermal masses in buildings, but must be insulated from ground conduction and external radiation losses to retain their warmth effectively.
+
+Reflective insulation (shiny foil) prevents radiative heat loss but loses effectiveness when dusty, dirty, or pressed against conducting surfaces. It works best as free-hanging sheets or in clean environments like solar attics. Plain white paint serves as an excellent everyday reflector for walls and concentrators.
+
+## Practical Design Applications
+
+Key design strategies derived from heat transfer principles include:
+
+1. **Site houses on sun-facing slopes** in the thermal belt for all but tropical climates
+2. **Position solar collectors** at least 0.5 m below storage or use points to enable thermosiphon circulation
+3. **Build solar chimneys** to induce cross-ventilation by drawing in cool air
+4. **Insulate thermal masses** (earth floors, brick walls, stone stoves) from ground and exterior surfaces
+5. **Use reflective insulation** in solar attics and wall cavities, kept clean and free-hanging
+6. **Convert excess heat** to fuel cross-ventilation systems in arid and tropical areas
+7. **Employ light shelves and skylights** to direct light into dark areas and reflect heat onto cool zones

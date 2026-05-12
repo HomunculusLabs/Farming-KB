@@ -145,6 +145,6 @@ among linguists and scholars of the ancient Near East.
 # See Also
 - [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
 - [[allegro-etymological-method]]
-- [[sumerian-language-—-role-in-allegro's-theory]]
+- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 - [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
 - [[allegro-dionysus-jesus-parallel]]

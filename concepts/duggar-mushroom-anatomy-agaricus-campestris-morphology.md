@@ -141,7 +141,7 @@ the early [[coleman-louis-savier-twentieth-century-maraicher]]:
 
 ## See Also
 
-- [[wiki:concepts/spore-print-techniques]] — Detailed methods for
+- [[spore-print]] — Detailed methods for
   making and interpreting spore prints.
 - [[wiki:concepts/amanita-identification-danger]] — Field marks for
   distinguishing deadly Amanita species from edible agarics.

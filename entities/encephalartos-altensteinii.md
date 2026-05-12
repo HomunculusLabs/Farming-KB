@@ -39,7 +39,7 @@ Encephalartos is one of the most threatened plant genera globally, with over 75%
 
 The trunk is erect, unbranched, and can reach 4 to 6 meters in height with a diameter of 30 to 60 cm. The trunk surface is covered with old leaf bases that form a rough, corky texture.
 
-In cultivation, the species often develops a more robust and compact crown compared to [[strain-isolation-from-wild-specimens]]. This difference is attributed to the more consistent nutrient and water availability in garden conditions.
+In [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]], the species often develops a more robust and compact crown compared to [[strain-isolation-from-wild-specimens]]. This difference is attributed to the more consistent [[query-how-to-read-cannabis-plants-for-nutrient-problems]] and water availability in garden conditions.
 
 Leaves are pinnate, 1.5 to 3 meters long, with 120 to 200 leaflets arranged in a V-shaped orientation. Leaflets are lanceolate, 15 to 25 cm long and 2 to 4 cm wide, with serrated margins near the tip and a glossy dark green color.
 
@@ -47,9 +47,9 @@ Male cones are cylindrical, 30 to 50 cm long and 10 to 15 cm in diameter, and ye
 
 Seeds are oblong to ovoid, 3 to 4 cm long, with a bright red sarcotesta. Each female cone produces 200 to 400 seeds, making it one of the more prolific seed producers in the genus.
 
-The root system includes coralloid roots near the soil surface that host symbiotic cyanobacteria of the genus Nostoc. These bacteria fix atmospheric nitrogen, providing the plant with a supplemental nitrogen source in nutrient-poor soils.
+The root system includes coralloid roots near the soil surface that host [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]] cyanobacteria of the genus Nostoc. These bacteria fix atmospheric nitrogen, providing the plant with a supplemental nitrogen source in nutrient-poor soils.
 
-Cone production is irregular and does not occur annually. Individual plants typically cone every 2 to 5 years, with male and female plants in a population often coning in synchrony.
+Cone production is irregular and does not occur annually. Indivi[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s typically cone every 2 to 5 years, with male and female plants in a population often coning in synchrony.
 
 ## Distribution and Habitat
 
@@ -57,7 +57,7 @@ Encephalartos altensteinii occurs along the eastern coast of South Africa, from 
 
 Populations are found in coastal dune forests, coastal scrub, and the margins of evergreen forests at elevations from sea level to approximately 600 meters.
 
-The species grows in well-drained sandy or loamy soils with moderate organic content. It is often found on steep, south-facing slopes that receive moisture from coastal fog and mist.
+The species grows in well-drained sandy or loamy soils with moderate [[query-how-do-i-make-homemade-organic-pest-control-sprays-for-my-garden]] content. It is often found on steep, south-facing slopes that receive moisture from coastal fog and mist.
 
 The native climate is subtropical, with warm summers and mild, frost-free winters. Annual rainfall ranges from 800 to 1,250 mm, distributed throughout the year but with peak precipitation during summer months.
 
@@ -73,7 +73,7 @@ Propagation from seed is the standard method. Seeds germinate readily within 2 t
 
 The species grows faster than many other cycads, producing 2 to 4 flushes of leaves per year under favorable conditions. A trunk height of 1 meter can be achieved in approximately 15 to 20 years.
 
-Scale insects, mealybugs, and the cycad blue butterfly (Lepidochrysops spp.) are the most common pests in cultivation. Regular inspection and treatment with horticultural oils or systemic insecticides provide effective control.
+Scale insects, mealybugs, and the cycad blue butterfly (Lepidochrysops spp.) are the most common pests in cultivation. Regular inspection [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]ment with horticultural oils or systemic insecticides provide effective [[query-how-to-use-neem-oil-for-cannabis-pest-control]].
 
 The species has become naturalized in parts of Australia, particularly in coastal Queensland, where garden escapees have established small, self-sustaining populations. This naturalization has raised concerns about the invasive potential of Encephalartos in non-native ecosystems.
 
@@ -83,7 +83,7 @@ Encephalartos altensteinii is listed as Vulnerable on the IUCN Red List. The pri
 
 Large, mature specimens are particularly targeted by poachers due to their horticultural value. The removal of these plants from wild populations has a disproportionate impact on reproduction because only mature individuals produce cones.
 
-The species is protected under South Africa's National Forests Act and the National Environmental Management: Biodiversity Act. Permits are required for possession, propagation, and sale of wild-collected material.
+The species is protected under South Africa's National Forests Act and the National Environmental [[query-how-to-manage-humidity-cannabis-grow-room]]ment: Biodiversity Act. Permits are required for possession, propagation, and sale of wild-collected material.
 
 Several populations occur within protected areas, including Addo Elephant National Park and various nature reserves in the Eastern Cape. These populations serve as important genetic reservoirs.
 

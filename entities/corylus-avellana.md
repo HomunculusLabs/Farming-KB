@@ -27,10 +27,10 @@ primary commercial source of hazelnuts (filberts), one of the world's
 most important tree nut crops, with Turkey, Italy, and the USA as leading
 producers.
 
-In permaculture and agroforestry, hazel is valued as a productive
+In [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]] and agroforestry, hazel is valued as a productive
 multi-purpose species providing nuts, biomass, [[hemenway-backyard-wildlife-habitat]], wind
 protection, and [[permplant-willows-salix-erosion-control-fodder]]. Its reliability and low maintenance
-requirements make it a staple of temperate [[food-forest]] designs.
+requirements make it a staple of temperate [[food-forest]] [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]s.
 
 ## Taxonomy and Morphology
 
@@ -62,17 +62,17 @@ Native to Europe from the British Isles east to the Caucasus and
 western Russia, and to Turkey and northern Iran. Introduced and
 widely cultivated in [[psilocybin-north-america-pacific-northwest]], Chile, Australia, and New Zealand.
 
-Grows naturally in woodland margins, hedgerows, and scrubland on
+Grows [[natural-fruit-tree-form-and-non-pruning]]ly in woodland margins, hedgerows, and scrubland on
 well-drained loamy to clay soils, pH 5.5–7.5. Hardy to -25°C or
-colder. Tolerates partial shade but produces best nuts in full sun.
+colder. Tolerates partial shade but produces [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]s in full sun.
 Optimal annual rainfall: 700–1,200 mm.
 
-## Cultivation
+## [[nut-tree-cultivation-for-permaculture-food-forests]]
 
-Hazels are propagated by layering, stooling, or grafting onto
+Hazels are propagated by layering, stooling, or [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]] onto
 seedling rootstock. Micropropagation is used for large-scale clonal
-production of named cultivars. Planting density in orchards ranges
-from 300–800 trees/ha depending on cultivar and training system.
+production of named cultivars. Planting density in [[comparison-food-forest-design-vs-backyard-orchard-design]]s ranges
+from 300–800 trees/ha depending on cultivar and [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] system.
 
 Commercial orchards require cross-pollination between compatible
 cultivars. Important pollinizer groups include early, mid, and late

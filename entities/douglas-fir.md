@@ -28,17 +28,17 @@ updated: 2026-05-02
 # Douglas-fir
 
 **Douglas-fir** (*Pseudotsuga menziesii*) is a large evergreen conifer native to western [[psilocybin-north-america-pacific-northwest]].
-It is one of the most important timber trees in the world and a keystone forest species in the Pacific
+It is one of the most important timber [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]] in the world and a keystone [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] species in the Pacific
 Northwest. The hyphenated common name signals that it is not a true fir in the genus *Abies*. It is also
 not a spruce, pine, or hemlock, despite several historical names. The genus name *Pseudotsuga* means
-"false hemlock." In mycology and permaculture pages, it often appears as a [[ectomycorrhizal-host-tree-partnerships]] for ectomycorrhizal
+"false hemlock." In mycology and [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]] pages, it often appears as a [[ectomycorrhizal-host-tree-partnerships]] for ectomycorrhizal
 fungi and as a major woodlot species.
 
 ## Classification
 
 | Rank | Name |
 |---|---|
-| Kingdom | Plantae |
+| [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]] | Plantae |
 | Clade | Tracheophytes |
 | Division | Pinophyta |
 | Class | Pinopsida |
@@ -51,8 +51,8 @@ fungi and as a major woodlot species.
 
 Three major varieties are commonly recognized. *P. menziesii* var. *menziesii* is the coast Douglas-fir
 of the Pacific slope. It is the fastest-growing and tallest variety. *P. menziesii* var. *glauca* is the
-Rocky Mountain or interior Douglas-fir. It is generally smaller, hardier, and more drought- and cold-
-tolerant. *P. menziesii* var. *lindleyana* is the Mexican Douglas-fir. The varieties intergrade in some
+Rocky Mountain or interior Douglas-fir. It is generally smaller, hardier, and more [[query-how-do-mycorrhizal-fungi-help-plants-resist-drought]]- and cold-
+[[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]. *P. menziesii* var. *lindleyana* is the Mexican Douglas-fir. The varieties intergrade in some
 regions, especially where coastal and interior influences meet.
 
 ## Identification
@@ -61,7 +61,7 @@ Mature coast trees may reach 60-100 m tall under favorable conditions. Interior 
 but still substantial forest dominants. Needles are single, soft, flat, and arranged around the twig
 rather than in bundles. Crushed needles often smell resinous, citrusy, or sweet. Young bark is thin,
 smooth, gray, and marked with resin blisters. Old bark becomes very thick, corky, furrowed, and fire-
-resistant. The cones are pendulous and 6-10 cm long. Each cone scale has a distinctive three-pointed
+[[permaculture-plants-fire-resistant-trees-shrubs]]. The cones are pendulous and 6-10 cm long. Each cone scale has a distinctive three-pointed
 bract protruding beyond it. The bracts are often described as looking like the tail and hind feet of a
 mouse hiding under the scale.
 
@@ -87,4 +87,4 @@ reflect harsher continental conditions.
 
 Douglas-fir forms ectomycorrhizal partnerships with many fungi. Associated genera include *Rhizopogon*,
 *Suillus*, *Tuber*, *Cortinarius*, *Russula*, *Laccaria*, and many others. These symbioses improve
-mineral nutrition, water relations, and seedling establishment. The species is central to discussions of
+mineral nutrition, [[dighton-mycorrhizal-drought-tolerance-plant-water-relations]], and seedling establishment. The species is central to discussions of

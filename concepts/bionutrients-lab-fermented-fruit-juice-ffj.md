@@ -120,5 +120,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[bionutrients]]
 - [[indigenous-microorganisms]]
 - [[det]]
-- [[beneficial-indigenous-microorganisms]]
+- [[designer-compost-bokashi]]
 - [[bionutrients-lab-fermented-plant-juice-fpj]]

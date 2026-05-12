@@ -22,7 +22,7 @@ Prior to the 2002 regulation, the use of "magic mushrooms" (hallucinogenic fungi
 - **Relative inexpensiveness**: Compared to other controlled substances, psilocybin mushrooms were relatively affordable.
 - **Lower awareness of guilt**: The mushrooms were perceived as natural products rather than synthetic drugs, reducing the psychological barrier to use.
 - **Legal gray area**: Prior to the 2002 regulation, the sale and possession of psilocybin-containing mushrooms existed in a legal gray area. While [[hplc-analysis-of-psilocybin-and-psilocin]] themselves were technically controlled substances, the fresh mushrooms containing these compounds were not explicitly scheduled, allowing commercial sale through shops and online retailers.
-- **Cultural factors**: Interest in natural [[cultural-evolution-and-psychoactive-substances]] aligned with broader Japanese cultural appreciation for natural products and fungi (notably including the long tradition of shiitake [[pine-disease-and-matsutake-mushroom-decline]] appreciation).
+- **Cultural factors**: Interest in natural [[star-fire-and-sacred-substances]] aligned with broader Japanese cultural appreciation for natural products and fungi (notably including the long tradition of shiitake [[pine-disease-and-matsutake-mushroom-decline]] appreciation).
 
 ### Commercial Availability
 

@@ -7,11 +7,11 @@ created: 2026-05-10
 source: "Growing Gourmet and [[cancer-medicinal-mushrooms-extraction-bioavailability]] (Paul Stamets, 1993)"
 ---
 
-# Mushroom Life Cycle
+# [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] [[growing-gourmet-black-morel-sclerotia-life-cycle]]
 
 ## Overview
 
-The mushroom life cycle remains largely invisible to most mushroom hunters,
+The [[mushroom-life-cycle-spore-to-fruiting-body]] remains largely invisible to most mushroom hunters,
 but not to cultivators. When a collector finds mushrooms in the wild, the
 encounter is a mere snapshot in time of a far vaster process. Only at the
 completion of the life cycle, which may span weeks or months, do mushrooms
@@ -39,13 +39,13 @@ After ejaculation, the basidium collapses, making way for neighboring basidia to
 enlarge. Successions of basidia mature in ever increasing quantities until
 peaking at mushroom maturity.
 
-## Spore Germination and Hyphal Growth
+## [[mushroom-cultivator-life-cycle-and-spore-germination]] and Hyphal Growth
 
 Upon germination, a filamentous cell called a hypha extends from the spore.
 Hyphae continue to reproduce mitotically, growing outward radially from the
 site of origin. The resulting network of cells is collectively called the
-[[beber-mycelial-network-graph-theory-cord-routing]]. Enzymes and acids are secreted by the mycelium into the
-surrounding environment, breaking down lignin-cellulose complexes into simpler
+[[beber-mycelial-network-graph-theory-cord-routing]]. Enzymes and acids are secreted by the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] into the
+surrounding environment, breaking [[query-how-do-white-rot-fungi-break-down-lignin]]-cellulose complexes into simpler
 compounds. The mycelium absorbs these reduced organic molecules as nutrients
 directly through its cell walls. This decompositional capacity makes fungi
 essential recyclers in virtually every terrestrial ecosystem.
@@ -62,10 +62,10 @@ mycelium produces clamp connections — bridges between cells useful for
 cultivators to confirm successful mating. Mycelium from a single spore lacks
 clamp connections and cannot produce fertile mushrooms.
 
-## Vegetative Growth and the Mycelial Network
+## Vegetative [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] the Mycelial Network
 
 While running through a substrate, the mycelium is in its vegetative state —
-the longest phase in the mushroom life cycle. The substrate continues to be
+the longest phase in the [[duggar-mushroom-life-cycle-spore-germination-fruiting]]. The substrate continues to be
 colonized until physical boundaries prevent further growth or a biological
 competitor is encountered. As the mycelial network extends, it produces heat,
 enormous quantities of carbon dioxide, and volatile alcohols and ethylenes.

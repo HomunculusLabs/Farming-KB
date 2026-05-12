@@ -13,7 +13,7 @@ sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Shulgin, A.T., Carter, M.F. & Shulgin, A. (1980). "Central Stimulant Properties of 4-Alkoxy Substituted Amphetamines." Journal of Medicinal Chemistry 23: 380–383.
   - Dean, B.J. et al. (2013). "Analytical Profiles of Tryptamine Substitutes." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 5(9-10): 754–761.
-  - EMCDDA (2016). "New [[cultural-evolution-and-psychoactive-substances]]: Tryptamines." EMCDDA-Europol Joint Publications.
+  - EMCDDA (2016). "New [[star-fire-and-sacred-substances]]: Tryptamines." EMCDDA-Europol Joint Publications.
 created: 2026-04-28
 ---
 
@@ -21,8 +21,8 @@ created: 2026-04-28
 
 ## Overview
 
-**4-HO-DiPT** (4-hydroxy-N,N-diisopropyltryptamine), also known as **Iprocin**, is
-a synthetic substituted tryptamine with psychedelic properties. It is a
+**4-HO-DiPT** (4-hydroxy-N,N-diisopropyltrypt[[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]), also known as **Iprocin**, is
+a synthetic substituted tryptamine with [[serotonin-receptor-interference-psychedelic-mechanism]] properties. It is a
 hydroxylated analogue of DiPT, first synthesized and characterized by Alexander
 Shulgin and documented in TIHKAL (Tryptamines I Have Known and Loved).
 
@@ -42,9 +42,9 @@ history of traditional or ceremonial use.
 **SMILES:** CC(C)N(C)CCc1c[nH]c2ccc(O)cc12.
 
 4-HO-DiPT is a member of the 4-hydroxy [[tryptamine-family-overview]], sharing the
-indole-4-ol core with psilocin (4-HO-DMT). The distinguishing structural
+indole-4-ol core with [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]] (4-HO-DMT). The distinguishing [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]]
 feature is the diisopropyl substitution on the terminal amine nitrogen, which
-significantly alters the pharmacological profile relative to simpler alkyl
+significantly alters the [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] profile relative to simpler alkyl
 substitutions.
 
 The freebase form is an oily liquid at room temperature, while the
@@ -52,7 +52,7 @@ phosphate or fumarate salt forms are crystalline solids suitable for
 laboratory handling. The compound is sensitive to light, heat, and oxidation,
 requiring storage under inert atmosphere at low temperatures.
 
-## Pharmacology
+## [[tryptamine-chemistry-and-psychedelic-pharmacology]]
 
 4-HO-DiPT acts primarily as a serotonin 5-HT₂A receptor agonist, the same
 mechanism underlying the psychedelic effects of psilocin, LSD, and DMT. The
@@ -71,8 +71,8 @@ oxidative deamination, consistent with other primary tryptamines. The
 ## Effects
 
 The subjective effects of 4-HO-DiPT are qualitatively distinct from those of
-psilocin despite their structural similarity. The most notable characteristic
-is a pronounced alteration of auditory perception.
+psilocin despite their [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]]. The most notable characteristic
+is a pronounced alteration of auditory [[human-eye-photoreceptor-analogy-plant-light-perception]].
 
 **Auditory effects** include pitch distortion, frequency shifting, and a
 general warping of sound quality. Music may sound deeper, slower, or

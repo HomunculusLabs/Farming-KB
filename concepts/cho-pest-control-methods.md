@@ -63,7 +63,7 @@ populations.
 
 ## Fish Amino Acid for Pest Control
 
-[[cho-indigenous-microorganisms-collection-and-cultivation]],
+[[indigenous-spirituality-and-freedom]],
 [[knf-nutritive-cycle-theory]] approach means plants receive
 appropriate nutrition at each growth stage. Plants that are not
 overfed with nitrogen (a common cause of pest attraction) are

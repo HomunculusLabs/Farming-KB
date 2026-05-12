@@ -132,7 +132,7 @@ Age, a Fall, a period of darkness, and the possibility of redemption.
 
 McKenna adapted the partnership-dominator framework from Riane
 Eisler's *The Chalice and the Blade* (1987), using it to organize
-his analysis of human [[cultural-evolution-and-psychoactive-substances]]. Partnership societies, in
+his analysis of human [[star-fire-and-sacred-substances]]. Partnership societies, in
 McKenna's formulation, are characterized by egalitarian social
 organization, Goddess-centered religion, respect for nature, and the
 sacred use of psychoactive plants. [[partnership-vs-dominator-societies]] are

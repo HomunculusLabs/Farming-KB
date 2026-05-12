@@ -12,13 +12,13 @@ updated: 2026-05-10
 sources:
   - Wallach J, et al. (2014). "Pharmacological profiles of novel dissociative drugs." Drug and cannabis-for-alcohol-dependence.
   - Zawilska JB, et al. (2020). "New arylcyclohexylamines: An emerging class of dissociative NPS." Drug and Alcohol Dependence.
-  - EMCDDA (2022). "European Drug Report: New [[cultural-evolution-and-psychoactive-substances]]." European Monitoring Centre for Drugs and Drug Addiction.
+  - EMCDDA (2022). "European Drug Report: New star fire and sacred substances." European Monitoring Centre for Drugs and Drug Addiction.
   - Kolecki P, et al. (2023). "Clinical toxicology of novel dissociative substances." Clinical Toxicology.
 ---
 
 ## Overview
 
-O-PCE (2-oxo-PCE), also known as deschloroketamine's ethylamino analog, is a synthetic dissociative substance in the arylcyclohexylamine class. It is structurally related to ketamine and deschloroketamine (DCK), differing in its aminoalkyl chain composition.
+O-PCE (2-oxo-PCE), also known as [[deschloroketamine]]'s ethylamino analog, is a synthetic dissociative substance in the arylcyclohexylamine class. It is structurally related to ketamine and deschloroketamine (DCK), differing in its aminoalkyl chain composition.
 
 The compound emerged on the research chemical market around 2017 as a novel dissociative alternative. It produces effects similar to ketamine and MXE but with distinctive characteristics including a relatively long duration and pronounced "hole" experience.
 

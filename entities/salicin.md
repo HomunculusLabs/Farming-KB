@@ -24,19 +24,19 @@ sources:
 ## Overview
 
 Salicin is an alcoholic β-glucoside of salicyl alcohol, found in the bark
-of willow (*Salix* spp.) and poplar (*Populus* spp.) trees. It is the
+of willow (*Salix* spp.) and poplar (*Populus* spp.) trees. It [[query-what-is-the-difference-between-hot-compost-and-cold-compost]]
 pharmacological precursor to acetylsalicylic acid (aspirin), one of the
 most widely used medications in human history.
 
-After ingestion, salicin is metabolized to salicylic acid, which
-provides analgesic, anti-inflammatory, and antipyretic effects. The
+After ingestion, salicin is metabolized to salicylic acid, [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]
+provides analgesic, anti-inflammatory, [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]ntipyretic effects. The
 compound has been used in traditional medicine for millennia, with
 records of willow bark preparations for [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] dating back to
 ancient Mesopotamia, Egypt, and Greece.
 
 Salicin remains of interest as a natural alternative to synthetic
 salicylates, with a potentially more favorable gastrointestinal safety
-profile due to its gradual conversion to the active metabolite.
+[[oner-bay-11-granddaddy-purp-genetics-sativa-strain-profile]] due to its gradual conversion to the active metabolite.
 
 ## Chemical Properties
 
@@ -53,12 +53,12 @@ profile due to its gradual conversion to the active metabolite.
 
 Salicin consists of salicyl alcohol linked via a β-glycosidic bond to
 D-glucose. Upon hydrolysis, it yields one molecule each of salicyl
-alcohol and glucose. The salicyl alcohol is then oxidized to salicylic
+alcohol and glucose. The salicyl alcohol [[query-what-is-the-difference-between-compost-tea-and-compost-extract]]n oxidized to salicylic
 acid in the body.
 
 Unlike salicylic acid, salicin is not directly irritating to the gastric
-mucosa. This difference is clinically significant — the acetylation of
-salicylic acid to produce aspirin was motivated partly by the need to
+mucosa. This [[query-what-is-the-difference-between-compost-tea-and-vermicompost-tea]] is clinically significant — the acetylation of
+salicylic acid to [[query-which-cannabis-training-techniques-produce-highest-yields]] aspirin was motivated partly by the need to
 reduce direct gastric irritation caused by free salicylic acid.
 
 ## Pharmacology
@@ -71,7 +71,7 @@ than direct administration of salicylic acid or aspirin.
 The primary mechanism of action involves inhibition of cyclooxygenase
 (COX) enzymes, particularly COX-1 and COX-2, which are responsible for
 prostaglandin synthesis. Reduced prostaglandin production accounts for
-the analgesic, anti-inflammatory, and antipyretic effects.
+the analgesic, anti-inflammatory, [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]ntipyretic effects.
 
 **Pharmacological profile:**
 

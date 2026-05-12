@@ -15,17 +15,17 @@ tags:
   - metzner
 ---
 
-# Five Features of Entheogenic Shamanic Experience
+# Five [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]] of [[metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment]] Shamanic Experience
 
 ## The Shamanic Worldview Encoded in Experience
 
 Ralph Metzner's comparative analysis culminates in a catalog of five
-experiential features "found in the anthropological literature on the
-experiences of shamanistic indigenous societies with hallucinogenic plants."
+[[metzner-therapist-experiential-prerequisite-psychedelic-therapy]] features "found in the anthropological literature on the
+experiences of shamanistic indigenous societies with [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic]] plants."
 These features are consistent across cultures, continents, and centuries,
 and they encode a worldview radically different from the accepted Western
 paradigm. They also appear in accounts of shamanic journeys using other
-modalities — drumming, vision questing, conscious dreaming — confirming
+[[shamanic-healing-modalities-extraction-soul-retrieval-dismemberment]] — drumming, vision questing, conscious dreaming — confirming
 that they are properties of the shamanic state of consciousness rather
 than pharmacological artifacts of any particular substance.
 
@@ -39,10 +39,10 @@ experience. The shaman does not merely hold space but actively constructs
 the experiential environment through singing, ritual gesture, and
 specialized knowledge of visionary plants.
 
-The parallel to Western psychotherapy is direct. Metzner notes that "it
+The parallel to Western [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] is direct. Metzner notes that "it
 is widely recognized that the personal experience of the therapist or
 guide is an essential prerequisite of effective [[metzner-psychedelic-psychotherapy-clinical-history]]."
-Without prior personal experience, communication between therapist and
+Without prior personal experience, [[metzner-plant-teachers-diagnosis-divination-intelligence-communication]] between therapist and
 client in a psychedelic state is "likely to be severely limited." The
 shamanic tradition takes this to its logical extreme: the guide must
 not merely have experienced the state but must have mastered it through
@@ -63,7 +63,7 @@ destroyed, and then reconstituted with a healthier, stronger body." This
 death-and-rebirth pattern appears in shamanic traditions worldwide — from
 the Siberian shaman dismembered by spirits and reassembled with new bones
 to the Amazonian initiate who dies and is reborn during an iboga ceremony.
-[[stanislav-grof]] would later theorize this as the emergence of perinatal
+[[stanislav-grof]] would later theorize this as the emergence of [[metzner-grof-perinatal-matrices-psychedelic-therapy]]
 matrices in deep psychedelic states, but the shamanic understanding is
 more direct: the old self must die before the new self can be assembled.
 These three modes correspond to three models of illness: contamination,

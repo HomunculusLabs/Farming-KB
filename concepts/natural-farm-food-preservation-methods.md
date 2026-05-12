@@ -9,15 +9,15 @@ sources:
 type: concept
 ---
 
-# Food Preservation Methods
+# Food Preservation [[what-natural-farming-method-should-i-use]]s
 
-Preserving food is essential for any [[natural-farming-sustainable-living-principles]] system. A productive
+Preserving food is essential for any [[natural-farming-sustainable-living-principles]] [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]. A productive
 garden following natural-farm-permaculture-ethics-principles
 - [[natural-farm-composting-vermicomposting]]
 - [[natural-farm-water-conservation-irrigation]]
-## Background and Context
+## Back[[query-what-are-the-best-ground-covers-for-a-no-till-garden]] and Context
 
-Food Preservation Methods is an important subject that has garnered significant attention
+Food Preservation Methods is an [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -26,13 +26,13 @@ and the accumulated wisdom of hands-on practice in the field.
 
 Historical development of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
-cultures and time periods. Modern understanding builds on centuries of
+cultures and time periods. Modern understanding [[query-how-to-build-a-compost-pile-that-works]]s on centuries of
 traditional knowledge combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 
 The broader context within which this topic exists includes evolving
-environmental conditions, changing social priorities, and advancing
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] conditions, changing social priorities, and advancing
 technological capabilities. Each of these factors influences both the
 relevance and the practical application of the principles involved.
 
@@ -56,7 +56,7 @@ as the specific characteristics of the materials and organisms involved.
 Managing these variables effectively is the hallmark of skilled practice
 and a key determinant of success in implementation at any scale.
 
-## Methods and Techniques
+## [[natural-farming-guide-composting-methods-and-techniques]]
 
 A range of established methods and techniques exist for working with
 this topic effectively. These approaches vary in complexity, resource
@@ -86,5 +86,5 @@ combined in creative ways to address diverse needs and objectives.
 Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
 
-Integration with other systems and approaches often yields the most
+Integration with other [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] approaches often yields the most
 robust and resilient outcomes. Rather than treating this topic in

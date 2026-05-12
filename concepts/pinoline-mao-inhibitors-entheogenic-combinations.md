@@ -118,4 +118,4 @@ The five-plant theory honors the contributions of every researcher who has propo
 - [[ayahuasca-pharmacology]]
 - [[soma:-the-divine-sacrament]]
 - [[syrian-rue]]
-- [[entheogenic-plants-in-ancient-religions]]
+- [[gaian-psychotherapy-and-entheogenic-plants]]

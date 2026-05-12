@@ -38,12 +38,12 @@ updated: 2026-05-02
 
 # Walter Gropius
 
-## Overview
+## [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
 - Walter Gropius was a German-American architect, educator, and institutional founder.
 - He is best known as the founder and first director of the Bauhaus.
 - He helped define modernist architecture as a social and educational project.
 - His work linked art, craft, technology, industrial production, and architecture.
-- He is a key entity for the permaculture-tools-and-technology, a new unity.
+- He is a key entity for the [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]-tools-and-technology, a new unity.
 - That phrase summarizes his mature educational program.
 
 ## Educational philosophy
@@ -52,18 +52,18 @@ updated: 2026-05-02
 - Students learned by testing materials directly.
 - The preliminary course trained perception before specialization.
 - Workshop masters joined artistic form with craft technique.
-- Architecture served as the symbolic endpoint of the curriculum.
+- Architecture served as the symbolic endpoint of the [[mollison-permaculture-design-course-curriculum]].
 - Gropius believed industry could distribute good design widely.
 - This optimism remains both inspiring and contested.
 
-## Dessau period
+## Dessau [[cho-morning-sickness-and-plant-cross-over-period]]
 - Political pressure forced the Bauhaus to leave Weimar in 1925.
-- Dessau offered municipal support and an industrial context.
-- Gropius designed the Bauhaus building in Dessau.
+- Dessau offered municipal support and an industrial [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]].
+- Gropius designed the Bauhaus [[urban-permaculture-community-building-social-design]] in Dessau.
 - The building opened in 1926.
 - It became the architectural emblem of the Bauhaus.
 - Gropius also designed the Dessau Masters' Houses.
-- The campus made the school's ideals visible in built form.
+- The campus made the [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use]]'s ideals visible in built form.
 - Gropius resigned as director in 1928.
 
 ## Exile and American career
@@ -72,7 +72,7 @@ updated: 2026-05-02
 - In America he joined the Harvard Graduate School of Design.
 - He influenced many American architects through teaching.
 - Marcel Breuer collaborated with him after also leaving Europe.
-- The Gropius House in Lincoln adapted modernist principles to New England.
+- The Gropius House in Lincoln adapted modernist [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] to New England.
 - In 1945 he helped found The Architects Collaborative.
 - TAC emphasized teamwork over the isolated genius model.
 - That model extended his Bauhaus commitment to collective design.

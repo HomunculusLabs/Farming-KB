@@ -22,10 +22,10 @@ sources:
 
 ## Overview
 
-**Sargassum** is a large genus of brown macroalgae (Phaeophyceae, order Fucales)
+**Sargassum** is a large genus of [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] macroalgae (Phaeophyceae, order Fucales)
 containing over 350 described species distributed across tropical and temperate
 oceans. The genus is unique among large seaweeds in including both benthic
-attached species and **holopelagic** (free-floating) species that complete their
+attached species and **holopelagic** (free-floating) species that complete [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]
 entire [[agaricus-campestris-biology-and-life-cycle]] without ever attaching to substrate.
 
 Two holopelagic species, *S. natans* and *S. fluitans*, form the iconic
@@ -38,12 +38,12 @@ Sargassum species produce a wide array of [[query-what-are-the-main-bioactive-co
 fucoidans, phlorotannins, and alginate. These have demonstrated antioxidant,
 antimicrobial, antitumor, and anti-inflammatory properties in research settings.
 
-## Taxonomy and Morphology
+## Taxonomy and [[agaricus-campestris-morphology-and-life-cycle]]
 
 Sargassum belongs to the class Phaeophyceae, order Fucales, family Sargassaceae.
 The genus was described by C. Agardh in 1820 and named after the Portuguese
 word for the Sargasso Sea region. Molecular phylogenetics has revealed
-significant polyphyly within the genus, suggesting future taxonomic revision.
+significant polyphyly within the genus, suggesting [[fukuoka-only-future-man-three-stages-collapse-energy-efficiency]] taxonomic revision.
 
 **Benthic species** attach to substrate via a discoid **holdfast** and develop
 a woody **main axis** (stipe) up to several meters in length. **Holopelagic
@@ -56,8 +56,8 @@ creates extensive three-dimensional habitat structure in the water column.
 
 Reproduction in Sargassum follows the typical fucalean pattern of
 **oogamy**, with separate male and female gametes released into the water
-column. Holopelagic species reproduce exclusively through vegetative
-fragmentation, maintaining populations clonally across vast ocean distances.
+column. Holopelagic species reproduce exclusively [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] vegetative
+fragmentation, [[query-what-is-a-cannabis-mother-plant-and-how-do-i-maintain-one]]ing populations clonally across vast ocean distances.
 
 ## Distribution and Habitat
 
@@ -80,8 +80,8 @@ moderate to high [[ph-and-nutrient-availability-garden-soils]].
 Sargassum beds and mats are ecologically critical habitat. The complex
 three-dimensional structure provides shelter, nursery grounds, and feeding
 areas for over 120 species of fish, 120 species of invertebrates, and 5 species
-of sea turtles. Juvenile mahi-mahi, amberjack, and other commercially
-important species depend on pelagic Sargassum during early life stages.
+of sea turtles. Juvenile mahi-mahi, amberjack, [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] commercially
+[[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] species depend on pelagic Sargassum during early life stages.
 
 The holopelagic Sargassum community is a self-contained ecosystem with endemic
 species found nowhere else, including the Sargassum fish (*Histrio histrio*),

@@ -6,7 +6,7 @@ type: concept
 
 # Farm Strategies for Yield Increase
 
-Permaculture farm strategies are systematic approaches to increasing yield that go far beyond varietal selection. Applied to existing "fencepost-to-fencepost" agricultural landscapes, these strategies produce dramatic improvements through site design, water management, soil development, and integration of multiple production systems.
+[[permaculture]] farm strategies are systematic approaches to increasing yield that go far beyond varietal selection. Applied to existing "fencepost-to-fencepost" agricultural landscapes, these strategies produce dramatic improvements through site design, [[water-management]], soil development, and integration of multiple production systems.
 
 ## Water Storage (12-20% of Landscape)
 
@@ -88,12 +88,12 @@ Low or no-tillage farming provides multiple simultaneous advantages:
 
 - **Energy savings** from reduced tillage operations
 - **Soil conservation** preserving structure and organic matter
-- **Water conservation** through reduced evaporation from exposed soil
+- **[[water-conservation]]** through reduced evaporation from exposed soil
 - **Time savings** between crops, enabling more diverse rotations
 
 ## The Practical Case of Norm Sims
 
-Farmer Norm Sims (Weekly Times, 5 Jan 1983) demonstrated the compound effect of multiple strategies applied together:
+Farmer [[norm-sims]] (Weekly Times, 5 Jan 1983) demonstrated the compound effect of multiple strategies applied together:
 
 - **Land-forming**: "We expect to double production over the next few years, using half the irrigation water" — a four-fold benefit. "Salinity is reduced." In severe drought: "Pasture production has never looked better and water is available." Irrigation time reduced from six days to two.
 - **Grazing rotation**: 26 paddocks grazed in a 21-day rotation, averaging 1.6 hectares each with central trough water-points for cattle.

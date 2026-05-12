@@ -112,5 +112,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[dom]]
 - [[shamanism]]
 - [[mystical-experience]]
-- [[allegro-christian-origins-philological-study-esoteric-names]]
+- [[christian-eucharist-origins]]
 - [[oss-oeric-rice-cake-tek-methodology]]

@@ -23,10 +23,10 @@ sources:
 **Picea rubens**, the red spruce, is a medium to large conifer native to
 the northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada.
 
-It is a defining species of the high-elevation spruce-fir forests of the
+It is a defining [[ultra-low-green-manure-cover-crop-species]] of the high-elevation spruce-fir forests of the
 Appalachian Mountains and a major component of the Acadian forest.
 
-Red spruce declined dramatically during the late 20th century due to acid
+Red spruce [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]d dramatically during the late 20th century due to acid
 rain deposition, causing widespread dieback across its range.
 
 Recent [[cervantes-air-quality-ventilation]] improvements have allowed partial recovery, though
@@ -34,8 +34,8 @@ Recent [[cervantes-air-quality-ventilation]] improvements have allowed partial r
 
 ## Taxonomy
 
-- **Kingdom:** Plantae
-- **Division:** Pinophyta
+- **[[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]:** Plantae
+- **Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Pinophyta
 - **Class:** Pinopsida
 - **Order:** Pinales
 - **Family:** Pinaceae
@@ -45,10 +45,10 @@ Recent [[cervantes-air-quality-ventilation]] improvements have allowed partial r
 Described by Charles Sprague Sargent in 1898.
 
 Red spruce is closely related to [[picea-abies]] and has a complex
-relationship with black spruce, with which it hybridizes in areas of range
+relationship with black spruce, with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] it [[cervantes-seed-population-types-ibl-hybrid]]izes in areas of range
 overlap.
 
-Some authorities treated it as a variety of Norway spruce, but modern
+Some authorities treated it as a [[solomon-hybrid-op-seed-nutrition-variety-decline]] of Norway spruce, but modern
 genetic studies support species status.
 
 ## Morphology
@@ -81,7 +81,7 @@ upper 30 cm of soil.
 
 ## Distribution and Habitat
 
-Red spruce ranges from Nova Scotia and New Brunswick west through Quebec to
+Red spruce ranges from Nova Scotia and New Brunswick west [[nutrient-movement-through-soil-to-plant-roots]] Quebec to
 southern Ontario, and south through New England to the high Appalachians.
 
 In the southern Appalachians it occurs primarily above 1,200 m elevation,

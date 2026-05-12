@@ -5,11 +5,11 @@ created: 2026-05-09
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 ---
 
-# Rectangular Waveguide and Dipole Antenna Array Design for Microwave Surface Sterilization
+# Rectangular Waveguide and [[dipole-antenna-array-configuration-microwave-surface-sterilization]] Design for [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
 
 ## Overview
 
-The [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] sterilization system (MSC-22484) employs a
+The [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] [[microwave-sterilization-system-hardware-architecture-power-waveguide-antenna]] (MSC-[[microwave-sterilization-d-value-microbial-kill-kinetics-nasa-msc-22484]]) employs a
 specific [[microwave-sterilization-system-hardware-architecture]] to deliver 2.45 GHz microwave energy to
 contaminated surfaces. The system comprises a [[magnetron-oscillator-microwave-sterilization]], power
 supply, rectangular waveguide, waveguide-to-coaxial adapter, coaxial
@@ -17,7 +17,7 @@ supply, rectangular waveguide, waveguide-to-coaxial adapter, coaxial
 architecture is essential for reproducing or adapting the system for
 specific applications.
 
-## System Architecture Overview
+## [[microwave-exposure-system-architecture-surface-sterilization]] Overview
 
 The microwave energy follows this path from generation to application:
 
@@ -37,15 +37,15 @@ electrical power from the power supply into 2.45 GHz microwave radiation
 through the interaction of electrons with a magnetic field in a resonant
 cavity structure. Key characteristics for sterilization applications:
 
-- **Frequency**: 2.45 GHz, the ISM (Industrial, Scientific, Medical)
+- **[[microwave-frequency-2450-mhz-water-dipole-coupling-sterilization]]**: 2.45 GHz, the ISM (Industrial, Scientific, Medical)
   band frequency reserved for microwave heating applications worldwide.
   This frequency couples efficiently with water molecules through
-  dipolar rotational absorption.
+  dipolar [[rotational-transition-water-dipole-microwave-physics-sterilization]] absorption.
 
 - **Power output**: The magnetron must deliver sufficient power to
   achieve the target exposure rate of 3.6 W/cm² at the surface. The
   actual magnetron power rating depends on the surface area being
-  sterilized and the coupling efficiency of the antenna system.
+  sterilized and the [[microwave-water-coupling-2-45-ghz-surface-sterilization-physics]] efficiency of the antenna system.
 
 - **Continuous wave operation**: Unlike pulsed radar magnetrons,
   sterilization magnetrons operate in continuous wave (CW) mode,

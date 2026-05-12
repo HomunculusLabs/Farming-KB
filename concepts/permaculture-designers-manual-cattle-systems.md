@@ -88,3 +88,15 @@ remedies that can be produced on-farm, reducing dependence on external
 veterinary supplies. However, he acknowledges that conventional veterinary
 care may be needed for acute conditions and emergencies.
 ## Breed Selection
+
+## See Also
+
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-design-concepts-themes]]
+- [[permaculture-design-framework]]
+- [[permaculture-design-methods-and-topics]]
+- [[permaculture-design-principles-ethics]]
+- [[permaculture-design-principles-overview]]
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-design-scope-and-methods]]
+- [[permaculture-design-system-nature-conservation]]

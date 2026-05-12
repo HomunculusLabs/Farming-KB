@@ -24,7 +24,7 @@ sources:
 
 Cathinone (β-keto-amphetamine) is a naturally occurring monoamine alkaloid found in the leaves of *[[catha-edulis]]* (khat), a plant cultivated for centuries in East Africa and the Arabian Peninsula.
 
-It is structurally classified as a β-ketone substituted amphetamine, making it the parent compound of the synthetic cathinone class — a large family of novel [[cultural-evolution-and-psychoactive-substances]] that includes mephedrone, methylone, and α-PVP.
+It is structurally classified as a β-ketone substituted amphetamine, making it the parent compound of the synthetic cathinone class — a large family of novel [[star-fire-and-sacred-substances]] that includes mephedrone, methylone, and α-PVP.
 
 Cathinone acts primarily as a releasing agent and reuptake inhibitor of dopamine, norepinephrine, and serotonin, producing stimulant and empathogenic effects similar to amphetamine.
 

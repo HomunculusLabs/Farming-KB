@@ -30,7 +30,7 @@ Arbuscular mycorrhizal (AM) fungi are the dominant mycorrhizal type in grassland
 - **Plant community interactions** — AM networks can mediate competition between grass species, influencing [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ### Soil Crust Fungi in Arid Grasslands
-States and Christensen (2001) described fungi associated with [[biological-soil-crusts]] in desert grasslands of Utah and Wyoming. These communities include:
+States and Christensen (2001) described fungi associated with [[singh-mycelial-mats-and-biological-soil-crusts]] in desert grasslands of Utah and Wyoming. These communities include:
 - Dark septate fungi
 - Melanized hyphomycetes
 - Yeast-like fungi

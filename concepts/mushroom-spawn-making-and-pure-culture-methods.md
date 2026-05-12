@@ -87,3 +87,14 @@ importance of scientific knowledge in what had previously been a purely empirica
 He documented the biological basis of spawn production, explaining the role of the
 mycelium, the conditions required for its growth, and the reasons why traditional
 methods produced inconsistent results.
+
+## See Also
+
+- [[mushroom-spawn-and-fruiting-stages]]
+- [[mushroom-spawn-characteristics-and-recognition]]
+- [[mushroom-spawn-making-history-and-pure-culture-revolution]]
+- [[mushroom-spawn-production-sorghum-seeds]]
+- [[mushroom-spawn-pure-culture]]
+- [[mushroom-spawn-recognition-and-fruiting-stages]]
+- [[mushroom-spawn-storage-and-vitality-preservation]]
+- [[mushroom-spawn-vitality-testing-and-quality-assessment]]

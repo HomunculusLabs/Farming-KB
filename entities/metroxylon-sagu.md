@@ -21,15 +21,15 @@ sources:
 
 ## Overview
 
-**Metroxylon sagu** (true sago palm) is a large, hapaxanthic palm species native to the swamps and lowlands of [[psilocybe-southeast-asia-pacific]] and Melanesia.
+**Metroxylon sagu** (true sago palm) is a large, hapaxanthic palm [[guzman-allen-gartz-trans-pacific-species-pairs-psilocybe-biogeography]] native to the swamps and lowlands of [[psilocybe-southeast-asia-pacific]] and Melanesia.
 
 It is the primary commercial source of sago starch, extracted from the pith of mature stems.
 
-The species reaches heights of 12–20 meters and dies after a single flowering event, producing massive inflorescences.
+The species reaches heights of 12–20 meters and dies after a single [[green-cannabis-grow-bible-flowering-phase-and-harvest]] event, producing massive inflorescences.
 
 Sago palm starch has served as a staple carbohydrate for millions of people across the Malay Archipelago for centuries.
 
-## Taxonomy and Morphology
+## [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] Morphology
 
 **Metroxylon sagu** Rottb. belongs to the family Arecaceae, subfamily Calamoideae, tribe Metroxyloneae.
 
@@ -39,7 +39,7 @@ The trunk is massive, solitary, reaching 12–20 meters in height and 30–60 ce
 
 It is covered with large, diamond-shaped leaf scars arranged in regular rows along the stem.
 
-Leaves are pinnate, arching, 6–9 meters long, with numerous dark green leaflets on each side of the rachis.
+Leaves are pinnate, arching, 6–9 meters long, with numerous dark [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] leaflets on each side of the rachis.
 
 The leaf sheaths are densely armed with black, flattened spines, a characteristic feature of the genus.
 
@@ -53,7 +53,7 @@ Fruits are globose to ovoid, approximately 5 centimeters in diameter, covered in
 
 ## Distribution and Habitat
 
-Metroxylon sagu is native to the Malay Archipelago, occurring naturally in Malaysia, Indonesia, Papua New Guinea, and the Philippines.
+Metroxylon sagu is native to the Malay Archipelago, occurring [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]ly in Malaysia, Indonesia, Papua [[neurotropic-fungi-new-guinea-melanesia-indigenous-use-guzman-1998]], and the Philippines.
 
 It has been introduced and naturalized in Thailand, Myanmar, Sri Lanka, and various [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
@@ -67,11 +67,11 @@ Sago palms are tolerant of waterlogged, acidic, and nutrient-poor soils that are
 
 They form dense stands along riverbanks, in peat swamp forests, and in alluvial plains.
 
-The species is particularly abundant in the lowland peat domes of Sumatra, Borneo, and New Guinea.
+The species is particularly abundant in the lowland peat domes of Sumatra, Borneo, and [[guzman-allen-gartz-new-guinea-sacred-fungi-boletus-russula-controversy]].
 
 ## Cultivation
 
-Propagation is primarily from suckers (tillers), which are separated from mature mother palms and transplanted.
+Propagation is primarily from suckers (tillers), which are separated from mature mother palms and trans[[green-cannabis-grow-bible-plant-training-pruning-and-yield]]ed.
 
 [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but slower, requiring 3–6 months for germination.
 

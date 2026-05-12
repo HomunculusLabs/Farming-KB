@@ -15,13 +15,13 @@ sources:
 type: concept
 ---
 
-# Arid Landscape Settlement and Water Strategy
+# [[arid-landscape-scarp-wadi-desert-settlement]] Settlement and [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]] Strategy
 
 ## The Arid Landscape Profile
 
-The [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course provides detailed analysis of arid
-landscape geomorphology as the basis for [[cool-climate-settlement-design-mollison]]. For complementary strategies, see [[permaculture-earthworks]]. In the
-classic arid landscape, two erosion levels define the landform: a
+The [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course provides [[permaculture-designers-manual-animal-housing-detailed]] [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] of arid
+landscape geomorphology as the basis for [[cool-climate-settlement-design-mollison]]. For complementary [[bill-mollison-permaculture-a-designers-manual-dryland-strategies-and-desert-agriculture]], see [[permaculture-earthworks]]. In the
+classic arid landscape, two [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] levels define the landform: a
 receding scarp traveling geologically backwards, a down-drop of the
 scarp, a back slope, and then a slope to the pediment. Scarps are very
 sharp features. Out in the desert, buttes appear as residual bits of
@@ -57,14 +57,14 @@ primitive tools.
 
 "When it rains in the desert, it usually rains cats and dogs." Desert
 rainfall is intense but brief. Water pours off escarpments, sometimes
-three to six feet high, into swales behind the scarp and then surges
+three to six feet high, into [[mollison-designers-swale-design-and-water-harvesting-earthworks]]s behind the scarp and then surges
 through wadis picking up enormous loads of sand.
 
 Critical water principles from the PDC:
 
 - Sand stores water about 50% of its bulk; water in sand cannot
   evaporate
-- A tank filled with sand stores water safely where animals cannot
+- A tank filled with sand stores water safely where [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]s cannot
   drink it
 - Water holes on the scarp, just before the drop-off, are the most
   reliable water sources -- "that is the rule for this sort of desert"

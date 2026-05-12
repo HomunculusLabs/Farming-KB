@@ -118,7 +118,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[beneficial-insects-and-biological-pest-control]]
+- hamilton beneficial insects and biological pest control
 - [[coleman-beneficial-insects-and-ecological-pest-control]]
 - [[dom]]
 - [[composting]]

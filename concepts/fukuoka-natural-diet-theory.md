@@ -43,7 +43,7 @@ White rice is the classic example. By removing the bran and germ, we lose most o
 
 ## The Wilder the Better
 
-"The wilder and more primitive the food, the greater its medicinal value." Fukuoka valued wild plants and traditional [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] above modern cultivars. Modern breeding has focused on yield, appearance, and transportability at the expense of [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and resilience.
+"The wilder and more primitive the food, the greater its medicinal value." Fukuoka valued wild plants and traditional [[the-ultimate-goal-of-farming]] above modern cultivars. Modern breeding has focused on yield, appearance, and transportability at the expense of [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and resilience.
 
 Minor grains -- millet, buckwheat, Job's tears -- deserve more attention for their value as "prototypic health foods essential for maintaining the physical well-being of human beings." These grains have been neglected because they don't suit the needs of industrial agriculture, not because they lack nutritional value. The [[fukuoka-food-and-human-health]] is therefore not just a personal matter but a civilizational imperative.
 

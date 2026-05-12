@@ -12,7 +12,7 @@ sources: []
 
 Homemade organic pest control sprays use simple kitchen and garden ingredients to manage insect pests and fungal diseases without synthetic chemicals.
 Common recipes include oil-based sprays, soap sprays, garlic-pepper deterrents, and fermented botanical extracts inspired by the [[jadam-natural-pesticide-jnp|JADAM Natural Pesticide (JNP)]] system.
-These sprays are inexpensive, safe for edible crops, and fit naturally into an [[beneficial-insects-and-biological-pest-control|integrated pest management (IPM)]] approach.
+These sprays are inexpensive, safe for edible crops, and fit naturally into an [[hamilton-beneficial-insects-and-biological-pest-control]] approach.
 
 ## Oil-Based Sprays
 

@@ -67,7 +67,7 @@ Permaculture employs abundant strategies across several broad categories to crea
 
 ### Spatial and Pattern Strategies
 
-- **Annidation** — a design or pattern strategy of "nesting" or stacking one thing within another, like a bowl in a bowl, or a vine in a tree
+- **[[annidation]]** — a design or pattern strategy of "nesting" or stacking one thing within another, like a bowl in a bowl, or a vine in a tree
 - **Tessellation** — the forming or arranging of a mosaic of parts to fill space efficiently
 - **Innovative spatial geometry** of designs using edge effects and harmonics
 - **Routing of materials or energy** to next best use at every opportunity

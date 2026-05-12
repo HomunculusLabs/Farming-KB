@@ -76,7 +76,7 @@ be a consequence of the toxic gastrointestinal reaction — delirium, confusion,
 delirium, confusion, or altered consciousness secondary to gastrointestinal distress
 and dehydration, which can itself produce dissociative or visionary-like states.
 Third, the name could reflect a cultural practice of combining C. molybdites
-with genuinely [[cultural-evolution-and-psychoactive-substances]], or the mushroom could be confused with
+with genuinely [[star-fire-and-sacred-substances]], or the mushroom could be confused with
 a psychoactive look-alike species.
 
 ## Cross-Cultural Confusion and Species Misidentification

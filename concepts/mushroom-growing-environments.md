@@ -88,3 +88,12 @@ produce a fine mist that is easily absorbed into the air. Evaporative
 pad humidifiers work but are less precise. The ideal controller uses a
 humidistat to trigger fogging when humidity drops below a setpoint and
 stops when the target is reached. A band between the on and off
+
+## See Also
+
+- [[mushroom-growing-environment-and-housing]]
+- [[mushroom-growing-facilities-and-sites]]
+- [[mushroom-growing-period-and-crop-management]]
+- [[mushroom-growing-situations-and-cave-cultivation]]
+- [[mushroom-growing-situations-and-caves]]
+- [[mushroom-growing-success-failure-and-economics]]

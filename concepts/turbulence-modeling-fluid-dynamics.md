@@ -11,20 +11,20 @@ sources: []
 
 ## Overview
 
-Turbulence is a regime of fluid motion characterized by chaotic, three-dimensional, time-dependent fluctuations in velocity, pressure, and other transported quantities. It is inherently dissipative (converting kinetic energy to heat via viscosity) and multi-scale, containing eddies spanning from the integral scale down to the Kolmogorov microscale. The transition from laminar to turbulent flow is governed by the Reynolds number Re = ρUL/μ. For pipe flow, transition occurs at Re ≈ 2,300–4,000; for flat-plate boundary layers at Re_x ≈ 5×10⁵.
+Turbulence is a regime of fluid motion characterized by chaotic, [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]-[[fukuoka-natural-orchard-management-three-dimensional-system]], time-dependent fluctuations in velocity, pressure, and other transported quantities. It is inherently dissipative (converting kinetic energy to heat via viscosity) and multi-scale, containing eddies spanning from the integral scale down to the Kolmogorov microscale. The transition from laminar to turbulent flow is governed by the Reynolds number Re = ρUL/μ. For pipe flow, transition occurs at Re ≈ 2,300–4,000; for flat-plate boundary layers at Re_x ≈ 5×10⁵.
 
-The fundamental challenge in turbulence modeling is the **closure problem**: when the [[decomposition]], 1895), the nonlinear convection term produces **Reynolds stresses** −ρ⟨u′ᵢu′ⱼ⟩ that cannot be expressed in terms of mean flow variables alone. All turbulence modeling is an attempt to close this system of equations. The Reynolds stress tensor has six independent components: three normal stresses (⟨u′²⟩, ⟨v′²⟩, ⟨w′²⟩) contributing to turbulent kinetic energy, and three shear stresses (⟨u′v′⟩, ⟨u′w′⟩, ⟨v′w′⟩) driving turbulent momentum transport.
+The fundamental challenge in turbulence modeling is the **closure [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]**: when the [[decomposition]], 1895), the nonlinear convection term produces **Reynolds stresses** −ρ⟨u′ᵢu′ⱼ⟩ that cannot be expressed in terms of mean flow variables alone. All turbulence modeling is an attempt to close this system of equations. The Reynolds stress tensor has six independent components: three normal stresses (⟨u′²⟩, ⟨v′²⟩, ⟨w′²⟩) contributing to turbulent kinetic energy, and three shear stresses (⟨u′v′⟩, ⟨u′w′⟩, ⟨v′w′⟩) driving turbulent momentum transport.
 
-## [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]] and Kolmogorov Theory
+## [[fukuoka-textdoc-fox-rabbit-grass-energy-cascade-caloric-waste-luxury-foods]] and Kolmogorov [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
 
-Richardson (1922) described how energy cascades from large to small eddies: "Big whirls have little whirls that feed on their velocity, and little whirls have lesser whirls and so on to viscosity." The process has three stages: energy production at large scales (comparable to flow geometry), inertial transfer through nonlinear vortex interactions (no significant dissipation), and viscous dissipation at the smallest scales.
+Richardson (1922) described how energy cascades from large to small eddies: "Big whirls have little whirls that feed on their velocity, and little whirls have lesser whirls and so on to viscosity." The process has [[fukuoka-only-future-man-three-stages-collapse-energy-efficiency]]: energy production at large scales (comparable to flow geometry), inertial transfer through nonlinear vortex inter[[fukuoka-textdoc-soil-self-plowing-natural-root-action]]s (no significant dissipation), and viscous dissipation at the smallest scales.
 
 Kolmogorov (1941) formalized this with two hypotheses: (1) at high Re, small-scale statistics depend only on ε (dissipation rate) and ν (kinematic viscosity); (2) in the infinite Re limit, they depend only on ε. Three characteristic scales emerge from dimensional analysis:
 - **Kolmogorov length**: η = (ν³/ε)^(1/4)
 - **Kolmogorov velocity**: u_η = (νε)^(1/4)
 - **Kolmogorov time**: τ_η = (ν/ε)^(1/2)
 
-The energy spectrum in the **inertial subrange** follows the famous −5/3 law: E(k) = C_K ε^(2/3) k^([[cytochrome-p450-enzymes-structure-function-pharmacology]] 1.5 is the Kolmogorov constant. The corresponding second-order [[dighton-ectomycorrhizal-hartig-net-structure-function]] scales as ⟨|Δu(r)|²⟩ = C₂(εr)^(2/3). The ratio of largest to smallest scales grows as Re^(3/4), meaning that at Re_L = 10⁶ the largest eddies are ~30,000× larger than the smallest.
+The energy spectrum in the **inertial subrange** follows the famous −5/3 law: E(k) = C_K ε^(2/3) k^([[cytochrome-p450-enzymes-structure-function-pharmacology]] 1.5 is the Kolmogorov constant. The corresponding second-[[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]] [[dighton-ectomycorrhizal-hartig-net-structure-function]] scales as ⟨|Δu(r)|²⟩ = C₂(εr)^(2/3). The ratio of largest to smallest scales grows as Re^(3/4), meaning that at Re_L = 10⁶ the largest eddies are ~30,000× larger than the smallest.
 
 **Intermittency** (Batchelor & Townsend, 1949) modifies Kolmogorov's predictions: dissipation is concentrated in localized regions of intense strain rate, following approximately a log-normal distribution. This causes higher-order structure functions to deviate from self-similar scaling (e.g., ζ₆ ≈ 1.80 vs. the K41 prediction of 2.0). Kolmogorov's 1962 refined similarity hypothesis accounts for local dissipation fluctuations.
 
@@ -44,7 +44,7 @@ Variants include the realizable k-ε (Shih et al., 1995) and RNG k-ε (Yakhot & 
 
 ### k-ω Model (Wilcox, 1988)
 
-Uses specific dissipation rate ω = ε/k instead of ε, with ν_t = k/ω. **Strengths**: excellent in adverse pressure gradients, naturally resolves the viscous sublayer without wall-damping functions. **Weaknesses**: strong sensitivity to free-stream ω values, overpredicts shear stress in attached boundary layers.
+Uses specific dissipation rate ω = ε/k instead of ε, with ν_t = k/ω. **Strengths**: excellent in adverse pressure gradients, [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]ly resolves the viscous sublayer without wall-damping functions. **Weaknesses**: strong sensitivity to free-stream ω values, overpredicts shear stress in attached boundary layers.
 
 ### SST k-ω Model (Menter, 1994)
 

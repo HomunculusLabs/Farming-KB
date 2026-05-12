@@ -88,3 +88,9 @@ The relationship between 2C-G and GANESHA is unique in psychedelic chemistry and
 - Sleep disruption is likely; plan for at least 24 hours before any responsibilities
 
 - The cognitive intensity of the experience may be challenging for individuals prone to anxiety or obsessive thought patterns
+
+## See Also
+
+- [[2c-g-3-entity-pihkal]]
+- [[2c-g-n-entity-pihkal]]
+- [[2c-g-pihkal-entry-27]]

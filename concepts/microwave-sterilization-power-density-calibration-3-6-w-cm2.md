@@ -94,3 +94,7 @@ For validated sterilization processes, power density calibration should follow:
 - [[microwave-sterilizable-access-port-msap]]
 - [[microwave-sterilizable-access-port-nasa]]
 - [[microwave-sterilizable-access-port-nasa-msap-msc-22484]]
+
+- [[microwave-sterilization-d-value-microbial-kill-kinetics-nasa-msc-22484]]
+- [[microwave-sterilization-dose-response-lethality-curves]]
+- [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]]

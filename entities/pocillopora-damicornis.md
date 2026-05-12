@@ -21,14 +21,14 @@ sources:
 
 ## Overview
 
-*Pocillopora damicornis* is one of the most widespread and ecologically
+*Pocillopora damicornis* is one of the most widespread and [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]ly
 important reef-building corals in the Indo-Pacific and eastern Pacific. Known
-for its cauliflower-like colony shape, the species exhibits remarkable
-environmental tolerance and reproductive versatility. It is a dominant
+for its cauliflower-like colony shape, the [[neurotropic-fungi-japan-east-asia-species-cultural-context]] exhibits remarkable
+environmental [[mdma-tolerance-and-cross-tolerance]] reproductive versatility. It is a [[psilocybe-as-dominant-neurotropic-fungus-genus]]
 framework builder on many tropical reefs and serves as a critical habitat
 for numerous reef-associated organisms.
 
-## Taxonomy
+## [[psilocybe-genus-diversity-and-taxonomy]]
 
 - **Kingdom:** Animalia
 - **Phylum:** Cnidaria
@@ -54,13 +54,13 @@ Corallites are immersed or slightly protruding, arranged in a verrucae-like
 are a distinctive feature of the genus, giving colonies their rough, textured
 appearance. Polyp tentacles are typically extended only at night.
 
-Coloration is highly variable, ranging from cream and pale brown to pink,
-blue, and green. This variability reflects differences in the composition
+Coloration is highly variable, ranging from cream and pale [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] to pink,
+blue, and green. This variability reflects [[query-difference-between-white-rot-and-brown-rot-fungi]]s in the composition
 and density of endosymbiotic Symbiodiniaceae communities. The species
 demonstrates phenotypic plasticity in colony morphology in response to water
 flow, light, and depth.
 
-## Distribution and Habitat
+## [[psilocybin-vs-psilocin-distribution-cap-stem]] and Habitat
 
 *Pocillopora damicornis* has the broadest [[geographic-distribution-of-psilocybe-species]] any
 Pocilloporidae species, spanning the Indo-Pacific from East Africa and the

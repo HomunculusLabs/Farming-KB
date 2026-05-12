@@ -16,7 +16,7 @@ The simultaneous production of protein-rich [[bioremediation-fungal-biomass-bios
 - fungal-bioremediation
 - [[fungal-distillery-waste-treatment]]
 - [[fertilizer-pollution-environmental-impact]]
-- [[fungal-pah-degradation-and-soil-bioremediation]]
+- [[soil-health-and-microbial-life]]
 ## Practical Applications
 
 Fungal Silage Wastewater Treatment has a range of practical applications that make it relevant to

@@ -47,12 +47,9 @@ In contemporary mushroom cultivation, the principle established by cotton seed m
 
 These modern supplements are typically added at spawning or casing to provide a slow-release nitrogen source that boosts yields by 15-25%.
 
-
 ### Nutritional Mechanism
 
 The effectiveness of cotton seed meal relates to the nitrogen metabolism of Agaricus species. Research has shown that while mushrooms can utilize inorganic nitrogen salts in pure culture, in compost environments the microbial ecology requires organic nitrogen sources that undergo gradual decomposition. Cotton seed meal provides this through its protein content, which is broken down by compost microorganisms into amino acids and peptides that the mushroom mycelium can absorb.
-
-
 
 ### Practical Considerations
 
@@ -62,8 +59,6 @@ The effectiveness of cotton seed meal relates to the nitrogen metabolism of Agar
 - Should be incorporated during composting phase, not added directly to finished compost
 - Experiments with mineral nutrients added to sawdust or leaf substrates were inconclusive
 
-
-
 ## Related Entities
 
 - [[mushroom-compost]] — The primary substrate supplemented by cotton seed meal
@@ -71,14 +66,22 @@ The effectiveness of cotton seed meal relates to the nitrogen metabolism of Agar
 - [[agaricus-campestris]] — Primary species cultivated using supplemented compost
 - [[benjamin-duggar]] — Researcher who studied cotton seed meal in mushroom cultivation
 
-
-
 ## References
 
 - Duggar, B.M. (1905). *Mushroom Growing*. Chapters on Nutrition and Compost.
 
-
-
 ### Compost Substitution Research Context
 
 Duggar also investigated whether cotton seed meal and similar supplements could enable the use of alternative substrates like sawdust, decayed leaves, or woods mould instead of stable manure. These experiments showed that none of these alternative substrates approached the value of stable manure even with supplementation. However, he noted that certain forest species of Agaricus — notably A. silvicola and A. placomyces — might be more amenable to culture on such supplemented substrata, and proposed continuing experiments with these forms. This insight anticipated later work in specialty mushroom cultivation on enriched substrates.
+
+## Practical Significance
+- Relevant to sustainable land management and design
+- Applications in permaculture and ecological systems
+- Connected to broader themes of resource management
+
+## See Also
+- [[cotton-seed-meal-mushroom-supplement]]
+- [[comparison-kelp-meal-vs-basalt-rock-dust]]
+- [[sacred-meal-ancient-traditions]]
+- [[aflatoxin-turkey-x-disease-1960-discovery-peanut-meal]]
+- [[comparison-fish-aminos-vs-kelp-meal]]

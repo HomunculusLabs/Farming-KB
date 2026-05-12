@@ -28,21 +28,21 @@ sources:
 ## Overview
 
 **Salvia miltiorrhiza**, commonly known as **danshen** (丹参) or Chinese sage,
-is a perennial flowering plant in the family Lamiaceae. One of the most
+is a perennial flowering [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] in the family Lamiaceae. One of the most
 important herbs in Traditional Chinese Medicine (TCM), it has been used
 for over 2,000 years to treat cardiovascular disorders, [[cannabis-for-hepatitis-and-liver-conditions]],
-and inflammation. The dried root is the primary medicinal part, valued
+and inflammation. The dried root is the primary medicinal part, [[blesching-cannabis-prostate-cancer-chi-value-3]]d
 for its unique diterpenoid quinones (tanshinones) and water-soluble
 phenolic acids (salvianolic acids).
 
 ## Taxonomy and Morphology
 
-**Classification:** Magnoliophyta → Magnoliopsida → Lamiales →
+**[[short-day-long-day-plant-flowering-classification]]:** Magnoliophyta → Magnoliopsida → Lamiales →
 **Lamiaceae → *Salvia → *S. miltiorrhiza***
 
 **Authority:** Bunge, 1833. Two major variants are recognized: *S.
-miltiorrhiza* var. *miltiorrhiza* (white-flowered) and var. *charbonnelii*
-(purple-flowered), though medicinal quality is comparable between them.
+miltiorrhiza* var. *miltiorrhiza* ([[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]-flowered) and var. *charbonnelii*
+(purple-flowered), though medicinal [[greg-green-water-quality-and-hard-water]] is comparable [[query-difference-between-white-rot-and-brown-rot-fungi]] them.
 
 ### Macroscopic Features
 
@@ -52,7 +52,7 @@ miltiorrhiza* var. *miltiorrhiza* (white-flowered) and var. *charbonnelii*
   lanceolate, 2–8 cm, serrate margins, glandular-punctate
 - **Flowers:** Whorled in terminal verticillasters; calyx 8–10 mm, purple;
   corolla bilabiate, 1.5–2.5 cm, blue-violet to purple, blooming May–August
-- **Root:** Thick, cylindrical taproot, 10–30 cm long, reddish-brown
+- **Root:** Thick, cylindrical taproot, 10–30 cm long, reddish-[[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]
   exterior, bright red interior — the distinctive color gives rise to
   "dan-shen" (red ginseng) though it is unrelated to true ginseng
 - **Fruit:** Nutlets, four per calyx, ovoid, dark brown, 2–3 mm
@@ -79,7 +79,7 @@ classes with distinct chemical properties and therapeutic roles:
 ### Lipophilic Tanshinones
 
 - **Tanshinone IIA:** The most studied diterpenoid quinone; cardioprotective,
-  anti-angiogenic, and anti-inflammatory. Used as the reference marker
+  anti-angiogenic, and anti-[[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]. Used as the reference marker
   for [[blesching-cannabis-contaminants-testing-quality-control]] in Chinese Pharmacopoeia
 - **Tanshinone I:** Cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines;
   contributes to antimicrobial effects

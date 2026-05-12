@@ -55,7 +55,7 @@ A good seed-ball practice is built through local trials.
 - [[fukuoka-seed-ball-method]] connects seed balls to natural farming and no-till sowing.
 - [[clay-pellet-seed-balls]] and [[fukuoka-seed-balls-and-direct-seeding]] helps compare seed balls with ordinary broadcasting.
 - [[comparison-seed-balls-vs-direct-seeding]] helps decide whether pellets are worth the extra work.
-- [[query-what-is-korean-natural-farming-and-how-does-it-work]]
+- [[natural-farming-vs-scientific-agriculture]]
 - [[query-how-to-make-korean-natural-farming-inputs]]
 ## Practical Considerations
 

@@ -13,7 +13,7 @@ The emergence of smartshops in the Netherlands during the 1990s represented a pi
 
 ### Origins and Growth
 
-Smartshops first appeared in the Netherlands during the early 1990s, taking advantage of the country's relatively permissive legal framework regarding [[cultural-evolution-and-psychoactive-substances]]. While the Netherlands maintained strict controls on many drugs, fresh psilocybin mushrooms occupied a legal gray area that smartshop operators were able to exploit. The shops proliferated rapidly, particularly in Amsterdam and other tourist destinations, creating a readily accessible retail channel for both domestic and international consumers.
+Smartshops first appeared in the Netherlands during the early 1990s, taking advantage of the country's relatively permissive legal framework regarding [[star-fire-and-sacred-substances]]. While the Netherlands maintained strict controls on many drugs, fresh psilocybin mushrooms occupied a legal gray area that smartshop operators were able to exploit. The shops proliferated rapidly, particularly in Amsterdam and other tourist destinations, creating a readily accessible retail channel for both domestic and international consumers.
 
 ### Product Range
 

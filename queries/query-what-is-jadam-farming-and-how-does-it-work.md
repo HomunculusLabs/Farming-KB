@@ -57,7 +57,7 @@ Similarly, the [[no-till-cannabis]] approaches and [[jadam-all-purpose-pesticide
 ## Related
 
 - [[query-jadam-vs-korean-natural-farming]]
-- [[query-what-is-korean-natural-farming-and-how-does-it-work]]
+- [[natural-farming-vs-scientific-agriculture]]
 
 ## Practical Considerations
 

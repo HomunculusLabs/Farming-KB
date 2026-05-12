@@ -110,7 +110,7 @@ gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
 ## See Also
-- [[beneficial-indigenous-microorganisms]]
+- [[designer-compost-bokashi]]
 - [[indigenous-microorganisms]]
 - [[bionutrients]]
 - [[lactic-acid-bacteria]]

@@ -79,3 +79,6 @@ The practical approach to conservation within permaculture includes:
 Permaculture as a design system contains nothing fundamentally new — it arranges what was always there in a different way so that it works to conserve energy or generate more energy than it consumes. What is novel, and often overlooked, is that any system of total commonsense design for human communities is inherently revolutionary.
 
 The end result of adopting permaculture strategies is a dramatic reduction in the agricultural area needed by households and settlements, releasing much of the landscape for wildlife and re-occupation by endemic flora. Respect for all life forms is not merely an ideal but an essential ethic for all people.
+
+## See Also
+- [[permaculture-landscape-society-anthropocentric-nature-centered-design]]

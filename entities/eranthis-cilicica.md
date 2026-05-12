@@ -26,7 +26,7 @@ The species produces bright yellow cup-shaped flowers in late winter, often emer
 
 Eranthis cilicica is closely related to [[eranthis-hyemalis]] but is distinguished by more deeply divided bracts and a generally more robust growth habit. Both species are widely cultivated as winter-interest groundcovers in temperate gardens.
 
-Unlike many Ranunculaceae, Eranthis species bloom before leaves appear on deciduous trees, exploiting the brief window of full sun at ground level. This phenological strategy defines its ecological niche as a classic spring ephemeral.
+Unlike many Ranunculaceae, Eranthis species bloom before leaves appear on deciduous trees, exploiting the brief window of full sun at ground level. This phenological strategy defines its [[ecological-niche]] as a classic spring ephemeral.
 
 The species has received the RHS Award of Garden Merit, confirming its reliability and ornamental value in cultivation. It is frequently used in mass plantings beneath deciduous trees and along woodland paths for late-winter color.
 

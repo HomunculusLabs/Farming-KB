@@ -26,7 +26,7 @@ treatment, or broader cosmological and philosophical insights.
 
 ### Contrast with the Pharmaceutical Model
 The concept of plant teachers stands in stark contrast to the Western
-pharmaceutical model, in which [[cultural-evolution-and-psychoactive-substances]] are understood as
+pharmaceutical model, in which star fire and sacred substances are understood as
 chemicals that act upon the brain's receptor sites to produce predictable
 pharmacological effects. In the pharmaceutical model, the drug is inert—it has
 no intention, no agency, and nothing to communicate. In the shamanic model,
@@ -56,7 +56,7 @@ visions, auditory phenomena (the "voices" of the plant or [[metzner-spirit-being
 bodily sensations, and direct intuitive knowing.
 
 ### The Amazonian Ayahuasca Context
-In Amazonian traditions, ayahuasca is perhaps the paradigmatic plant teacher.
+In Amazonian traditions, [[ayahuasca]] is perhaps the paradigmatic plant teacher.
 Indigenous and mestizo ayahuasceros report that the vine communicates detailed
 information about the physical, emotional, and spiritual condition of the
 person who drinks it. The ayahuasca "shows" the healer what is wrong with the

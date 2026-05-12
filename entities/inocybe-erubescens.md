@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-*Inocybe erubescens*, synonym *Inocybe patouillardii*, is a poisonous basidiomycete fungus in the family Inocybaceae. It is one of the most dangerous mushrooms in Europe, containing high concentrations of muscarine — a toxic alkaloid that acts as a potent parasympathomimetic agent. Ingestion causes classic muscarinic poisoning within 30 minutes to 2 hours, and severe cases can result in respiratory failure and death if untreated. The species is widespread across temperate Europe, where it commonly fruits in parks, gardens, and woodland edges, often in proximity to human habitations, increasing the risk of accidental poisoning.
+*Inocybe erubescens*, synonym *Inocybe patouillardii*, is a poisonous basidiomycete fungus in the family Inocybaceae. It is one of the most dangerous [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]s in Europe, containing high concentrations of muscarine — a toxic [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]] that acts as a potent parasympathomimetic agent. Ingestion causes classic muscarinic poisoning within 30 minutes to 2 hours, [[emcdda-fatal-and-severe-incident-cases-hallucinogenic-mushrooms-europe]] cases can result in respiratory failure and death if untreated. The species is widespread across temperate Europe, where it commonly [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]s in parks, gardens, and woodland edges, often in proximity to human habitations, increasing the risk of accidental poisoning.
 
 ## Taxonomy
 
@@ -49,7 +49,7 @@ Basidiomycota → Agaricomycetes → Agaricales → **Inocybaceae → *Inocybe* 
 - **Spores:** Smooth, bean-shaped (amygdaliform), roughly 9–12 × 5–6.5 µm; without germ pore
 - **Cystidia:** Cheilocystidia numerous, thin-walled, clavate to ventricose, often with crystalline incrustations; pleurocystidia similar but less common
 
-## Distribution and Habitat
+## [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] and Habitat
 
 - **Geographic range:** Widely distributed across temperate Europe, especially common in Western and Central Europe (France, Germany, Benelux, Britain, Italy, Spain); also reported from parts of North Africa and Asia
 - **Habitat:** Terrestrial, ectomycorrhizal; found singly or in small groups on soil in deciduous and mixed woodlands, parks, gardens, orchards, and along hedgerows; frequently associated with oak, beech, hornbeam, and lime trees
@@ -60,7 +60,7 @@ Basidiomycota → Agaricomycetes → Agaricales → **Inocybaceae → *Inocybe* 
 
 *I. erubescens* is considered the most dangerous muscarine-containing [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]. Muscarine concentrations are significantly higher than in *[[clitocybe-dealbata]]* or *Inocybe fastigiata*, making ingestion of even small quantities hazardous.
 
-**Muscarine content:** Approximately 0.03–0.05% dry weight, among the highest recorded for any mushroom species.
+**Muscarine content:** Approximately 0.03–0.05% dry weight, among the highest recorded for any [[mycorrhizal-edible-mushroom-species-overview]].
 
 ### Symptoms of Poisoning
 
@@ -68,7 +68,7 @@ Onset: 15 minutes to 2 hours after ingestion.
 
 - **SLUDGE syndrome:** Salivation, Lacrimation, Urination, Defecation, Gastrointestinal distress, Emesis
 - Profuse sweating and tearing
-- Constricted pupils (miosis) and blurred vision
+- Constricted pupils (miosis) and blurred [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 - Bradycardia (slow heart rate) and hypotension
 - Bronchorrhea and bronchoconstriction, potentially leading to respiratory distress
 - Nausea, vomiting, abdominal cramps, and diarrhea
@@ -78,7 +78,7 @@ Onset: 15 minutes to 2 hours after ingestion.
 
 - [[atropine]] is the specific antidote for muscarine poisoning; it competitively blocks muscarinic acetylcholine receptors
 - Intravenous atropine (1–2 mg in adults, repeated as needed) rapidly reverses the life-threatening parasympathomimetic effects
-- Supportive care including intravenous fluids, airway management, and cardiac monitoring
+- Supportive care including intravenous fluids, airway [[fruit-tree-care-and-orchard-management]], and cardiac monitoring
 - Hospitalization is recommended for all confirmed or suspected cases
 - Activated charcoal may be administered if presentation is within 1 hour of ingestion
 - **Important:** Muscarine is NOT dialyzable and is not metabolized by cholinesterase inhibitors — physostigmine is contraindicated

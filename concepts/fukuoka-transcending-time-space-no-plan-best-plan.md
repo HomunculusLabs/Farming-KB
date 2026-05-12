@@ -120,4 +120,4 @@ This is not nihilism or neglect. It is the disciplined practice of refraining fr
 
 - [[fukuoka-natural-farming]] — core principles of do-nothing agriculture
 - [[fukuoka-one-straw-revolution-philosophy]] — foundational text overview
-- [[fukuoka-human-knowledge-vs-natural-truth]] — on the limits of [[fukuoka-fallacies-scientific-understanding]]
+- [[fukuoka-textdoc-pruning-destruction-natural-tree-form]] — on the limits of [[fukuoka-fallacies-scientific-understanding]]

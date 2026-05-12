@@ -12,16 +12,16 @@ type: concept
 
 ## Overview
 
-2C-I (2,5-dimethoxy-4-iodophenethylamine) is a halogen-substituted
+2C-I (2,5-[[shulgin-a-pihkal-doi-25-dimethoxy-4-iodoamphetamine]]-4-[[shulgin-a-pihkal-2c-i-25-dimethoxy-4-iodophenethylamine]]) is a halogen-substituted
 phenethylamine and a prominent member of the 2C family documented in PIHKAL
-as compound #22. The iodine analogue of 2C-B, 2C-I produces longer-lasting
-and more visually intense experiences. It gained popularity in the early
+as [[doc-compound-profile]] #22. The iodine analogue of 2C-B, 2C-I produces longer-lasting
+and more visually intense [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]s. It gained popularity in the early
 2000s as a research chemical after 2C-B was scheduled, earning a reputation
 for producing colorful, enjoyable visual effects described as "clean" and
 "sparkling."
 
 Despite its popularity, 2C-I is considered more challenging than 2C-B, with
-longer duration and greater cognitive intensity. Users describe it as more
+longer du[[phytochrome-red-far-red-ratio-shade-detection-plants]]n and greater cognitive intensity. Users describe it as more
 "psychedelic" and less "empathogenic" than 2C-B, occupying a space between
 2C-B and the more intense 2C-E in overall character.
 
@@ -33,7 +33,7 @@ Shulgin's work: heavier halogens increase both potency and duration, from
 ## Chemical Structure and Classification
 
 2C-I's IUPAC name is 2-(4-iodo-2,5-dimethoxyphenyl)ethan-1-amine. It
-features the characteristic 2,5-dimethoxyphenethylamine backbone shared by
+features the characteristic 2,5-[[shulgin-a-pihkal-2c-i-4-iodo-25-dimethoxyphenethylamine]] backbone shared by
 all 2C compounds, with an iodine atom at the 4-position. The iodine's large
 atomic radius and high polarizability influence [[tihkal-receptor-binding-serotonin]] profile
 and metabolic stability, contributing to longer duration compared to smaller
@@ -77,7 +77,7 @@ than with [[mescaline]] or 2C-E.
 
 Shulgin documented 2C-I as having a "goodly amount of visual activity" and a
 pleasant overall character. He noted its similarity to 2C-B while
-acknowledging differences from the heavier iodine substituent. He
+acknowledging [[query-difference-between-white-rot-and-brown-rot-fungi]]s from the heavier iodine substituent. He
 appreciated its visual richness, describing colors as particularly vivid
 with a unique quality not found in other 2C compounds.
 
@@ -86,7 +86,7 @@ produced subtle sensory enhancement while higher doses became significantly
 more psychedelic and introspective, with a narrow range between comfortable
 and overwhelming experiences.
 
-## Pharmacology
+## [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
 
 ## See Also
 - [[pihkal-2c-b-family]]

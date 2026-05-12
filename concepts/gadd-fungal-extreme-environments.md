@@ -118,6 +118,6 @@ observation, and a willingness to adapt approaches based on results.
 ## See Also
 - [[doc]]
 - [[dom]]
-- [[biological-soil-crusts]]
+- [[singh-mycelial-mats-and-biological-soil-crusts]]
 - [[cetraria-islandica]]
 - [[spore]]

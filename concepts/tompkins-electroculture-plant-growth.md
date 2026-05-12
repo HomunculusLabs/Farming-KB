@@ -9,20 +9,20 @@ sources:
 type: concept
 ---
 
-# Electroculture: Electrical Stimulation of Plant Growth
+# Electroculture: Electrical Stimulation of [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
 
 Electroculture is the practice of using electrical currents,
 electromagnetic fields, and atmospheric electricity to stimulate plant
 growth. The field has a long history of experimentation, from
-nineteenth-century European researchers to twentieth-century American
+[[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]]-century European researchers to twentieth-century [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition]]
 scientists, with results ranging from the remarkable to the puzzling.
 
-## Early Experiments: Atmospheric Electricity
+## [[palmer-early-american-mycology-nineteenth-century]] Experiments: Atmospheric Electricity
 
 Selim Lemstrom, a Finnish professor at the University of Helsingfors,
 was among the earliest systematic researchers of electroculture. His
 extensive field experiments in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] demonstrated
-that plants exposed to atmospheric electricity grew more vigorously.
+that [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]] exposed to atmospheric electricity grew more vigorously.
 Lemstrom reported his success in 1902, showing that plants growing
 under electrical stimulation not only produced more abundantly but in
 some cases were sweeter and more nutritious.
@@ -32,7 +32,7 @@ collect atmospheric electricity and conduct it into the soil through
 grounded poles. During storms, when atmospheric electrical activity was
 intense, the polarity of the earth was reversed. Lemstrom found that
 manuring the soil with iron filings enhanced the electrical effects,
-presumably because the ferrous material improved conductivity.
+presumably because the ferrous material [[query-how-do-i-use-cover-crops-to-improve-soil-health]]d conductivity.
 
 ## Professor Lund's Bioelectric Fields
 
@@ -57,12 +57,12 @@ George Washington Crile, founder of the Cleveland Clinic Foundation,
 published The Phenomena of Life: A Radio-Electrical Interpretation in
 1936, the result of a lifetime of research. He offered evidence that
 the living organism is specifically adapted to the formation, storage,
-and use of electrical energy. The genesis of this energy, according to
+[[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] of electrical energy. The genesis of this energy, according to
 Crile, was ultra-microscopic units or furnaces in protoplasm which he
 called "radiogens."
 
 Three years before his book appeared, Crile told the Congress of the
-American College of Surgeons that future radio-diagnosticians would be
+American College of Surgeons that [[fukuoka-only-future-man-three-stages-collapse-energy-efficiency]] radio-diagnosticians would be
 able to detect the presence of disease before it became outwardly
 apparent. For his efforts, Crile was ridiculed by medical colleagues
 and cellular biologists alike.

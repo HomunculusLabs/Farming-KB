@@ -56,7 +56,7 @@ gifts, while double-edged, helped spread his ideas widely.
 Despite his strengths, Wasson's scholarship suffers from several serious flaws:
 
 **Intellectual framework**: Wasson was trapped by an intellectual tradition,
-[[cultural-evolution-and-psychoactive-substances]], that was already out of date. His ideas about mycophobia and
+[[star-fire-and-sacred-substances]], that was already out of date. His ideas about mycophobia and
 mycophilia as a fundamental cultural divide, and his belief in an ancient
 [[african-mushroom-cult-history]] at the origins of religion, were unfeasible and should be rejected.
 

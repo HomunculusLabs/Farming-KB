@@ -93,7 +93,7 @@ Cultural and administrative strategies for overcoming yield impediments include:
 
 - [[mollison-yield-theory-and-creation-strategies]]
 - [[mollison-farm-design-strategies-for-yield-increase]]
-- [[mollison-resource-classification-and-management]]
+- [[resource-classification-and-management-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
 - [[mollison-designers-water-purification-and-storage-principles]]
 - [[mollison-open-living-systems-and-design-principles]]

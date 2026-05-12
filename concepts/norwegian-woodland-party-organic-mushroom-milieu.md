@@ -48,7 +48,7 @@ The woodland party format may have facilitated hallucinogenic mushroom use throu
 
 ## Drug Use Patterns
 
-Cannabis and hallucinogenic mushrooms were the primary drugs associated with this milieu. The combination of these two substances reflects a pattern of polydrug use centered on natural or plant-based [[cultural-evolution-and-psychoactive-substances]], consistent with the group's organic lifestyle orientation. This pattern differs fundamentally from the polydrug use clusters observed in clubbing settings.
+Cannabis and hallucinogenic mushrooms were the primary drugs associated with this milieu. The combination of these two substances reflects a pattern of polydrug use centered on natural or plant-based [[star-fire-and-sacred-substances]], consistent with the group's organic lifestyle orientation. This pattern differs fundamentally from the polydrug use clusters observed in clubbing settings.
 
 In clubbing environments across Europe, hallucinogenic mushroom use typically co-occurred with ecstasy, amphetamines, cocaine, and other synthetic drugs. Survey data from six European countries showed that school students aged 15 to 16 who had used LSD, ecstasy, amphetamines, or cocaine were much more likely to have also used hallucinogenic mushrooms than students who had only used cannabis or legal substances. The Norwegian pattern, by contrast, centered on cannabis and mushrooms without the strong association with synthetic party drugs.
 

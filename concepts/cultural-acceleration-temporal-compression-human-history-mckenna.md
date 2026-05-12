@@ -3,7 +3,7 @@
 ## Overview
 
 [[terence-mckenna]], drawing on observations from both ordinary historical analysis and
-tryptamine-informed visionary experience, proposed that human [[cultural-evolution-and-psychoactive-substances]] is
+tryptamine-informed visionary experience, proposed that human [[star-fire-and-sacred-substances]] is
 characterized by an accelerating trajectory — a compression of time in which major
 innovations occur with increasing frequency as history progresses toward a
 culminating point. This pattern, visible in the archaeological and historical record,

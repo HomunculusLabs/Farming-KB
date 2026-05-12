@@ -21,7 +21,7 @@ sources: ["Shulgin - PIHKAL"]
 | Dosage | 60 - 100 mg. |
 | Duration | 10 - 15 h. |
 
-## Qualitative Comments
+## [[qualitative-comments-methodology-pihkal]]
 
 > (with 60 mg) There was a strange off-baseness
 >
@@ -30,7 +30,7 @@ sources: ["Shulgin - PIHKAL"]
 > mild gastric upset in the evening. The mild mental disturbance is
 > neither visual nor particularly interesting.
 >
-> (with 100 mg) A benign and gentle altered state became progressively
+> (with 100 mg) A benign and gentle altered [[pf-tek-200-proof-ethyl-alcohol-procurement-state-permit]] became progressively
 > sad and morbid. Nothing went together well Q I could not empathize
 > with anyone, and trying to write at the typewriter was useless. So
 > were efforts to sleep at midnight, but this was totally relieved with
@@ -41,22 +41,22 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Extensions and Commentary
 
-Sometimes things work well in their
+Sometimes [[fukuoka-textdoc-one-thing-is-all-things-holism]] work well in their
 mysterious ways. The reports with 4-TME were more to the toxic than
 to the joyous side, and this by chance with a compound that could only
 be obtained in an atrociously small yield.
 
 ## Synthesis
 
-A solution of 5.1 g N,N,N',N'-tetramethylethylenediamine
+A solution of 5.1 g N,N,N',N'-tetra[[methyl-dma-entity-pihkal]]ethylenediamine
 and 6.8 g of 3-ethoxyanisole was dissolved in 80 mL hexane. This was
 stirred vigorously under a He atmosphere and cooled to 0 deg C with an
 external ice bath. There was added 27.5 mL of 1.6 M solution of
 butyllithium in hexane. The stirred reaction mixture deposited a fine
 white precipitate. It was warmed to room temperature and stirred for
-15 min. After cooling again to 0 deg C, there was added 4.6 mL of
+15 min. After [[jar-lid-management-sterilization-cooling-vacuum-prevention-shaking]] again to 0 deg C, there was added 4.6 mL of
 dimethyl disulfide which converted the precipitate to a creamy white
-material. Stirring was continued while the reaction mixture was
+[[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]. Stirring was continued while the reaction mixture was
 brought up to room temperature, and continued for an additional h.
 All was then added to 200 mL dilute H2SO4. The solids dissolved and
 there was the formation of two phases. These were separated, the
@@ -71,8 +71,8 @@ Anal. (C10H14O2S) C,H.
 To a stirred solution of 7.6 g of 3-ethoxy-2-(methylthio)anisole in
 100 mL CH2Cl2 there was added 6.2 g elemental bromine dissolved in 50
 mL CH2Cl2. The initial dark red color gradually faded to a pale
-yellow and there was a steady evolution of HBr. An added crystal of
-iodine did not appear to increase the rate of reaction. After 4 min
+yellow and there was a steady [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]] of HBr. An added crystal of
+iodine did not appear [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] the rate of reaction. After 4 min
 the color was a pale orange. The reaction mixture was extracted with
 H2O containing sufficient dithionite to remove most of the residual
 color. The solvent was removed under vacuum leaving 12.2 g of a pale

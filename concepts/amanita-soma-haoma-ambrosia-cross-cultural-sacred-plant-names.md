@@ -91,7 +91,7 @@ The cross-cultural consistency provides mutual confirmation. If Soma alone were 
 ## See Also
 
 - [[amanita-muscaria-herb-of-immortality-soma-discovery]] — primary source analysis
-- [[indo-european-religious-reconstruction]]
+- [[amanita-indo-european-language-family-ancient-world-view]]
 - [[soma]]
 - [[dionysian-mysteries]]
 

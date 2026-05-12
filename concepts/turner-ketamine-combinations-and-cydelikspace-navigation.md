@@ -7,16 +7,16 @@ tags: [reference]
 sources:
   - "raw/papers/the-essential-psychedelic-guide-by-dimitri-turner.md"
 ---
-# Turner Ketamine Combinations and CydelikSpace Navigation
+# Turner [[turner-essential-psychedelics-ketamine-anaesthetic-realm]] Combinations and CydelikSpace Navigation
 
 Turner's advanced techniques for navigating CydelikSpace using [[ketamine]] combinations, particularly with 2C-B and LSD.
 
 ## The Ketamine Challenge
 
-- Ketamine can diminish the ego "much further than any other psychedelic, even to the point of total unconsciousness"
+- Ketamine can diminish the ego "much further than any other psychedelic, even to the point of total un[[turner-essential-psychedelics-lsd-cosmic-consciousness]]"
 - Keeps ego in abeyance for 15-45 minutes
 - "Provides a more complete by-pass of the [[mckenna-huxley-mind-at-large-reducing-valve]] than any other psychedelic"
-- Problem: "tends to diminish the ego too far" — approaching unconsciousness means less CydelikSpace experienced and less retained
+- Problem: "tends to diminish the ego too far" — approaching unconsciousness means less CydelikSpace [[turner-essential-psychedelics-5-meo-dmt-void-experience]]d and less retained
 
 ## The Solution: Pre-dosing with Psychedelics
 
@@ -27,7 +27,7 @@ Turner's advanced techniques for navigating CydelikSpace using [[ketamine]] comb
 
 ## LSD + Ketamine
 
-- Drawback: Ketamine recovery period "significantly increased and quite unpleasant"
+- Drawback: Ketamine recovery [[cho-morning-sickness-and-plant-cross-over-period]] "significantly increased and quite unpleasant"
 - Best timing: take Ketamine about 2/3 through the LSD trip, remain in bed until falling asleep
 - However: "The Ketamine trip is most spectacular if taken in the early stages"
 
@@ -64,10 +64,10 @@ Turner's advanced techniques for navigating CydelikSpace using [[ketamine]] comb
 
 - During one 2C-B + Ketamine experience, transcribed a message from discarnate entities:
 - "They see what's happening but seldom have mediums through whom they can communicate"
-- "We coded this information in the mind, in the DNA, so it would not be lost. Plants will allow access to this information"
+- "We coded this information in the mind, in the DNA, so it would not be lost. [[phytochrome-red-far-red-ratio-shade-detection-plants]] will allow access to this information"
 - "Ancient knowledge" becomes more diluted with each generation
 
-## CydelikSpace Experience Reports
+## CydelikSpace [[turner-psychedelic-combination-experience-reports]]
 
 ### The Encryptor of DNA
 - Became "the encryptor of DNA, the evolutionary blueprint"
@@ -82,12 +82,12 @@ Turner's advanced techniques for navigating CydelikSpace using [[ketamine]] comb
 - Race descended from "Atlanteans" in a parallel universe
 
 ### The Creator's Experiment
-- As omnipotent consciousness, created objects with degrees of consciousness
+- As omnipotent consciousness, created objects with degrees [[mind-body-problem-vs-information-paradigm-of-consciousness]]
 - Watched objects grow in knowledge and ability to interact
 - Realization: "all of us are just particles of the Creator's consciousness"
 - Overwhelming feeling of love with "distinct feminine or maternal quality"
 
-### The Mother of All Forms
+### The [[query-what-is-a-cannabis-mother-plant-and-how-do-i-maintain-one]] of All Forms
 
 ## See Also
 - [[turner-multiple-combinations-cosmic-synergism]]

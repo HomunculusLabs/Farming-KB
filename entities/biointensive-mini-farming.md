@@ -85,6 +85,6 @@ Emerging applications span ecological management, therapeutic protocols, and mat
 ## See Also
 
 - [[double-digging]]
-- [[beneficial-indigenous-microorganisms]]
+- [[designer-compost-bokashi]]
 - [[bokashi]]
 - [[bionutrients]]

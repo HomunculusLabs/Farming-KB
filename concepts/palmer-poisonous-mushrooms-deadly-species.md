@@ -10,7 +10,7 @@ type: concept
 updated: 2026-04-26
 ---
 
-# Poisonous Mushrooms -- Deadly Species and Look-alikes
+# Poisonous [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] -- Deadly Species and Look-alikes
 
 Palmer's *About Mushrooms* (1894) represents a landmark in mycological toxicology: it was the first work to **segregate the Amanita family** as the sole source of fatal mushroom poisoning, distinguishing its deadly alkaloid (amanitine/muscarine) from the merely disagreeable properties of other non-esculent fungi. This conclusion, published in the *Moniteur Scientifique* of Paris in 1879, was independently confirmed by Charles McIlvaine in 1885.
 
@@ -18,9 +18,9 @@ Palmer's *About Mushrooms* (1894) represents a landmark in mycological toxicolog
 
 Palmer classified the ways mushrooms can harm humans:
 
-1. **Digestive disagreement** -- Hard, tough varieties or partially decomposed common mushrooms generating hydrogen gas, causing nausea and vomiting. Relief comes naturally or via emetics.
+1. **Digestive disagreement** -- Hard, tough varieties or partially decomposed [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]s generating hydrogen gas, causing nausea and vomiting. Relief comes naturally or via emetics.
 
-2. **Acrid or nauseous elements** -- Many Russulas have biting acridity; some Boleti are slimy or bitter; *Polyporus squamosus* tastes of leaves and grass. Treated by expulsion followed by emollients (sweet-oil, slippery-elm, gum-arabic).
+2. **Acrid or nauseous elements** -- Many [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]s have biting acridity; some Boleti are slimy or bitter; *Polyporus squamosus* tastes of leaves and grass. Treated by expulsion followed by emollients (sweet-oil, slippery-elm, gum-arabic).
 
 3. **Amanitine (the deadly alkaloid)** -- A tasteless, odorless, invisible poison found only in the Amanita family. Causes symptoms resembling Asiatic cholera, ending in delirium and death. No antidote was known during Palmer's lifetime, though atropine showed promise.
 
@@ -36,19 +36,19 @@ Additional features: pure white gills and stem; cap color highly variable (white
 
 ## Key Amanita Species
 
-- **Amanita phalloides** (death cap) -- most deadly; introduced to North America from Europe; accounts for the vast majority of fatal mushroom poisonings worldwide. The death cap contains both amatoxins and phallotoxins. Symptoms typically do not appear for 6-12 hours after ingestion, by which time significant organ damage has already occurred. The lethal dose is estimated at approximately 50g of fresh mushroom for an adult.
+- **[[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]** (death cap) -- most deadly; introduced to North America from Europe; accounts for the vast majority of fatal mushroom poisonings worldwide. The death cap contains both amatoxins and phallotoxins. Symptoms typically do not appear for 6-12 hours after ingestion, by which time significant organ damage has already occurred. The lethal dose is estimated at approximately 50g of fresh mushroom for an adult.
 
-- **Amanita muscaria** (fly agaric) -- the iconic red-capped mushroom with white warts. Contains ibotenic acid and muscimol rather than amatoxins. While rarely fatal to healthy adults, it produces pronounced psychoactive effects including confusion, hallucinations, and disorientation. Palmer noted that this species was once used in folk preparations to kill flies, hence the common name.
+- **[[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]** (fly agaric) -- the iconic red-capped mushroom with white warts. Contains ibotenic acid and muscimol rather than amatoxins. While rarely fatal to healthy adults, it produces pronounced psychoactive effects including confusion, hallucinations, and disorientation. Palmer noted that this species was once used in folk preparations to kill flies, hence the common name.
 
 - **Amanita verna** (fool's mushroom) -- closely resembles edible species when young; one of the most dangerous due to its resemblance to the common button mushroom. Pure white throughout, with the characteristic volva, ring, and free white gills.
 
-- **Amanita virosa** (destroying angel) -- among the most toxic organisms known; contains the same amatoxins as the death cap but in potentially higher concentrations. The name "destroying angel" aptly reflects its lethal reputation.
+- **Amanita virosa** ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]) -- among the most toxic organisms known; contains the same amatoxins as the death cap but in potentially higher concentrations. The name "destroying angel" aptly reflects its lethal reputation.
 
 ## The Look-alike Problem
 
-One of Palmer's most important contributions was drawing attention to the deadly resemblance between poisonous Amanitas and edible species. Several factors compound this danger:
+One of Palmer's most important contributions was drawing attention to the deadly resemblance [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] poisonous Amanitas and edible species. Several factors compound this danger:
 
-- **Amanita phalloides** resembles the paddy straw mushroom (*Volvariella volvacea*) and certain edible [[psilocybe-genus-taxonomy-classification]] species in its early developmental stages. Both have a volva at the base, but the gills of the death cap are white and free, while the paddy straw mushroom has pinkish gills.
+- **Amanita phalloides** resembles the [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] mushroom (*Volvariella volvacea*) and certain edible [[psilocybe-genus-taxonomy-classification]] species in its early developmental stages. Both have a volva at the base, but the gills of the death cap are white and free, while the paddy straw mushroom has pinkish gills.
 
 - **Amanita virosa** and **Amanita verna** are easily confused with young specimens of edible [[mushroom-species-guide]] commonly collected for food. Their pure white appearance and smooth caps make them particularly insidious.
 

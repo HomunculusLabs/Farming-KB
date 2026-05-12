@@ -95,6 +95,9 @@ daily as a commonly recommended dose.
 - cannabis health index chi scoring
 - [[cannabis-health-index-methodology]]
 
+- [[cannabis-health-cancer]]
+- [[cannabis-health-cbd-cannabidiol]]
+- [[cannabis-health-pain-management]]
 ## Practical Applications
 
 The principles and techniques discussed here have wide-ranging applications

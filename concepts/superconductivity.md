@@ -11,9 +11,9 @@ sources: []
 
 Superconductivity is a [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] phenomenon in which certain materials exhibit
 zero electrical resistance and expel magnetic fields below a characteristic critical
-temperature (Tc). Discovered by Heike Kamerlingh Onnes in 1911 at Leiden University
+[[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]] (Tc). Discovered by Heike Kamerlingh Onnes in 1911 at Leiden University
 in solid mercury at 4.2 K, it remains one of the most profound phenomena in condensed
-matter physics with transformative applications in medicine, energy, and computing.
+matter [[rotational-transition-water-dipole-microwave-physics-sterilization]] with transformative [[ingham-field-guide-compost-tea-application-rates]]s in medicine, energy, and computing.
 
 ## Historical Milestones
 
@@ -33,9 +33,9 @@ Hosono (2008), and hydrogen-rich compounds H3S at 203 K under 150 GPa by Eremets
 
 ## Cooper Pairs and BCS Theory
 
-In the BCS framework, electrons near the Fermi surface form bound pairs via an attractive
+In the BCS framework, electrons near the Fermi [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]] form bound pairs via an attractive
 interaction mediated by lattice vibrations (phonons). Each Cooper pair has total spin 0
-(singlet, s-wave symmetry in conventional superconductors) and carries charge 2e. The
+(singlet, s-wave symmetry in [[microwave-versus-conventional-surface-sterilization-comparison]] superconductors) and carries charge 2e. The
 pairing condenses into a macroscopic quantum ground state described by a single coherent
 wavefunction. The energy gap Delta(T) opens at the Fermi surface below Tc; at T = 0,
 Delta(0) = 1.764 kB Tc. The coherence length xi_0 = hbar v_F / (pi Delta) sets the
@@ -48,7 +48,7 @@ to M^(-0.5) confirmed the phonon [[trace-water-flash-steam-mechanism-microwave-s
 
 Below Tc, a superconductor expels all magnetic flux from its interior (B = 0), not merely
 failing to resist changes in flux. This distinguishes a superconductor from a perfect
-conductor. The screening current flows in a surface layer of penetration depth lambda
+conductor. The screening current flows in a surface layer of [[microwave-penetration-through-elastomeric-materials-sterilization]] depth lambda
 (London penetration depth, typically 20-200 nm). The London equations govern this:
 the first gives zero DC resistance; the second predicts exponential field decay over
 lambda_L = sqrt(m* / (mu_0 n_s e^2)). Magnetic flux threading a superconducting loop
@@ -57,11 +57,11 @@ confirming the Cooper pair charge carrier of 2e.
 
 ## Type I and Type II Superconductors
 
-Type I superconductors exhibit a single critical field Hc with an abrupt transition:
+Type I superconductors exhibit a single critical field Hc with an abrupt [[rotational-transition-water-dipole-microwave-sterilization-physics]]:
 full Meissner state below Hc, normal above. Hc values are low (0.01-0.1 T). Examples
 include Pb (Tc=7.2 K, Hc=0.08 T), Hg (Tc=4.2 K), Al (Tc=1.2 K), and Sn (Tc=3.7 K).
 Nearly all are elemental. Type II superconductors possess two critical fields (Hc1 and
-Hc2). Between them, magnetic flux partially penetrates as quantized vortices in the
+Hc2). [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] them, magnetic flux partially penetrates as quantized vortices in the
 mixed (Shubnikov) state. Each vortex carries one flux quantum Phi_0 with a normal core
 of radius ~xi surrounded by supercurrents decaying over lambda. Hc2 can reach tens of
 Tesla. Examples: NbTi (Tc=9.8 K, Hc2=14.5 T), Nb3Sn (Tc=18.3 K, Hc2=28 T), YBCO

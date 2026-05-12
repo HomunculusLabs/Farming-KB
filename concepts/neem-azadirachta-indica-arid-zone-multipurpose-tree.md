@@ -21,7 +21,7 @@ Neem (*Azadirachta indica*, family Meliaceae) is a deep-rooted, broad-leaved tre
 
 ## Azadirachtin and Pest Control
 
-The seeds and leaves contain azadirachtin, a complex limonoid that acts as a powerful natural insecticide, antifeedant, and growth disruptor for hundreds of insect pest species while being relatively non-toxic to [[beneficial-insects-and-biological-pest-control]], mammals, and humans. Uses include:
+The seeds and leaves contain azadirachtin, a complex limonoid that acts as a powerful natural insecticide, antifeedant, and growth disruptor for hundreds of insect pest species while being relatively non-toxic to [[hamilton-beneficial-insects-and-biological-pest-control]], mammals, and humans. Uses include:
 
 - **Agricultural pest control**: Foliar sprays from neem seed extracts
 - **Grain storage**: Dried leaves placed in books, grain, and clothes repel insects

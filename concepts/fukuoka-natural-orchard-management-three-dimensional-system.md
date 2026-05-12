@@ -128,5 +128,5 @@ Perhaps the most striking insight is the role of weeds as diagnostic tools and a
 
 - [[fukuoka-natural-farming]] — foundational philosophy
 - [[hamilton-green-manure-crops-and-cover-cropping]] — detailed crop selection
-- [[polyculture-and-companion-planting]] — multi-species integration
+- [[comparison-companion-planting-vs-green-manure]] — multi-species integration
 - [[soil-health-and-microbial-life]] — the living soil ecosystem

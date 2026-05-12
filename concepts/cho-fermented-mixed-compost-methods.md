@@ -13,7 +13,7 @@ Fermented Mixed Compost (FMC) is a premium compost input in Dr. Cho's
 yard manure, its quality is completely different. FMC is highly
 effective in promoting micronutrient absorption, enhancing plant
 hormone effectiveness, and providing vitamins. It incorporates
-multiple [[cho-indigenous-microorganisms-collection-and-cultivation]]
+multiple [[indigenous-spirituality-and-freedom]]
 for superior biological activity.
 
 ## Seasonal Considerations

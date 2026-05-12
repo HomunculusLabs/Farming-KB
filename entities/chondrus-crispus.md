@@ -25,7 +25,7 @@ sources:
 
 *Chondrus crispus* is a red alga (Rhodophyta) in the family Gigartinaceae, commonly known as Irish moss or carrageen. It is harvested commercially as the primary source of carrageenan, a polysaccharide thickener used extensively in food, pharmaceutical, and cosmetic industries.
 
-The species forms bushy, fan-shaped fronds 5–15 cm tall that attach to rocks in the lower intertidal and shallow subtidal zones. Frond color varies from dark purple-red to yellowish-green depending on light conditions and reproductive state.
+The species forms bushy, fan-shaped fronds 5–15 cm tall that attach to rocks in the lower intertidal and shallow subtidal zones. Frond color varies from dark purple-red to yellowish-green depending on [[query-what-is-light-deprivation-cannabis-growing-and-how-does-it-work]] conditions and reproductive state.
 
 Global carrageenan production exceeds 80,000 tonnes annually, with *C. crispus* and related *Gigartina* species as the principal sources. The species has been harvested in Ireland and the Scottish Highlands for over 600 years.
 
@@ -42,7 +42,7 @@ Fronds are dichotomously branched, flat, and 5–15 cm in height. The branching 
 
 Branch width is 2–8 mm, with edges that may be smooth or slightly undulating. The surface texture is cartilaginous when wet and brittle when dry, producing a characteristic snapping fracture.
 
-Reproduction involves a triphasic [[agaricus-campestris-biology-and-life-cycle]] with tetrasporophyte, gametophyte, and carposporophyte phases. Carrageenan type varies between life stages: gametophytes produce kappa carrageenan while tetrasporophytes produce lambda carrageenan.
+Reproduction involves a triphasic [[agaricus-campestris-biology-and-life-cycle]] with tetrasporophyte, gametophyte, and carposporophyte phases. Carrageenan type varies [[query-what-is-the-difference-between-wet-trimming-and-dry-trimming-cannabis]] life stages: gametophytes produce kappa carrageenan while tetrasporophytes produce lambda carrageenan.
 
 ## Distribution and Habitat
 
@@ -50,7 +50,7 @@ Reproduction involves a triphasic [[agaricus-campestris-biology-and-life-cycle]]
 
 The species inhabits the lower intertidal to shallow subtidal zone (0–20 m depth) on rocky substrates with moderate wave exposure. It prefers firm attachment surfaces including bedrock, boulders, and mussel shells.
 
-Optimal growth occurs at 8–15°C and salinities of 25–35 ppt. It tolerates a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many kelps, persisting through summer temperatures up to 20°C in sheltered locations.
+Optimal growth occurs at 8–15°C and salinities of 25–35 ppt. It tolerates a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many kelps, persisting [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] summer temperatures up to 20°C in sheltered locations.
 
 ## Carrageenan Chemistry
 
@@ -60,9 +60,9 @@ Carrageenans are sulfated galactans composed of alternating 3-linked and 4-linke
 
 **Lambda carrageenan** (from tetrasporophytes) does not gel but provides thickening and stabilization in acidic environments. It is used in cold dairy products, syrups, and pharmaceutical suspensions.
 
-Carrageenan extraction involves washing, alkali treatment to modify the sulfate pattern, precipitation with alcohol, and drying. Food-grade carrageenan meets specific viscosity and gel strength specifications.
+Carrageenan [[green-cannabis-dry-sift-water-extraction]] involves washing, alkali [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]]ment to modify the sulfate pattern, precipitation with alcohol, and drying. Food-grade carrageenan meets specific viscosity and gel strength specifications.
 
-## Nutritional and Medicinal Properties
+## Nutritional and [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] Properties
 
 **Macronutrients (per 100 g dry weight):**
 
@@ -80,9 +80,9 @@ Degraded carrageenan (poligeenan, molecular weight below 50 kDa) has been associ
 
 ## Industrial Applications
 
-Carrageenan from *C. crispus* is used in over 50 food product categories globally. Major applications include stabilizing chocolate milk, preventing ice crystal formation in [[ice-cream-bean-entity]], and binding water in processed deli meats.
+Carrageenan from *C. crispus* is used in over 50 food product categories globally. Major applications include stabilizing chocolate milk, [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]]ing ice crystal formation in [[ice-cream-bean-entity]], and binding water in processed deli meats.
 
-In the pharmaceutical industry, carrageenan serves as an excipient in tablet formulations, a controlled-release matrix, and a suspending agent for liquid medications. Its mucoadhesive properties make it useful for topical formulations.
+In the pharmaceutical industry, carrageenan serves as an excipient in tablet formulations, a [[query-how-to-use-neem-oil-for-cannabis-pest-control]]led-release matrix, and a suspending agent for liquid medications. Its mucoadhesive properties make it useful for topical formulations.
 
 Cosmetic applications include thickening toothpaste, stabilizing lotions, and forming the gel matrix in air fresheners. Carrageenan films have been investigated as biodegradable packaging materials.
 

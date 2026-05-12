@@ -34,7 +34,7 @@ The last ember of resistance held out at the desert fortress of **Masada**, perc
 
 ### Josephus's Reluctant Admiration
 
-Despite his hostility to the rebels' cause, Josephus records a grudging admiration for their almost inhuman disregard for personal safety. This fearlessness, Allegro suggests, is characteristic of individuals under the influence of powerful [[cultural-evolution-and-psychoactive-substances]]: the mushroom-induced conviction that death is merely a transition liberates the user from ordinary self-preservation.
+Despite his hostility to the rebels' cause, Josephus records a grudging admiration for their almost inhuman disregard for personal safety. This fearlessness, Allegro suggests, is characteristic of individuals under the influence of powerful [[star-fire-and-sacred-substances]]: the mushroom-induced conviction that death is merely a transition liberates the user from ordinary self-preservation.
 
 ## Masada — Eleazar's Speech on the Soul
 

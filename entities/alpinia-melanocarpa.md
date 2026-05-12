@@ -19,15 +19,15 @@ sources:
 
 ## Overview
 
-**Alpinia melanocarpa** is a species of flowering plant in the family Zingiberaceae,
-commonly known as black-fruited shell ginger. The specific epithet *melanocarpa*
+**Alpinia melanocarpa** is a species of [[short-day-long-day-plant-flowering-classification]] plant in the family Zingiberaceae,
+commonly known as black-[[query-how-to-design-a-food-forest-guild-for-fruit-trees]]ed shell [[query-how-do-i-grow-and-use-ginger-and-turmeric]]. The specific epithet *melanocarpa*
 refers to the distinctive dark-colored fruits produced by the species.
 
 The plant is native to Borneo and surrounding islands in Maritime [[psilocybe-southeast-asia-pacific]].
-It is a moderately sized rhizomatous herb found in lowland and hill tropical
-forests, where it contributes to the understory diversity.
+It is a moderately sized rhizomatous herb found in lowland and hill [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
+[[query-how-to-start-a-food-forest]]s, where it contributes to the understory diversity.
 
-A. melanocarpa is recognized for its attractive inflorescences and dark fruit
+A. melanocarpa is recognized for its [[query-how-to-attract-and-support-native-bee-pollinators]]ive inflorescences and dark fruit
 clusters, which give it ornamental value. Traditional uses are documented among
 indigenous communities in Borneo, though the species remains relatively obscure
 in the scientific literature compared to commercially important Alpinia species.
@@ -60,9 +60,9 @@ A. melanocarpa is distributed across Borneo, with confirmed collections from
 Sabah, Sarawak, and Kalimantan. It has also been recorded from the Philippines
 and possibly Sulawesi, though records from outside Borneo require confirmation.
 
-The species occurs in primary and secondary lowland dipterocarp forests at
+The species occurs in primary and secondary lowland dipterocarp [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]] at
 elevations from sea level to approximately 1,000 meters. It grows in well-
-drained forest soils with high organic content, often near streams or on slopes.
+drained forest soils with high organic content, often near streams or on [[query-how-to-design-a-food-forest-on-a-slope]]s.
 
 In Sabah, it is found in Kinabalu Park and surrounding protected areas. The
 species is relatively common within intact forest habitats but is vulnerable to

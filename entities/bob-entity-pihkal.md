@@ -21,10 +21,10 @@ sources: ["Shulgin - PIHKAL"]
 
 > (with 10 mg) I don't know if it was me this
 > day, or if it was the chemical, but I got into a granddaddy of a
-> paranoid, sociopathic snit, without feeling and without emotion. I
+> paranoid, sociopathic snit, [[solomon-weed-management-without-chemicals]] feeling and without emotion. I
 > was indifferent to everything. Later on, there was some improvement,
 > with body tingling (good, I'm pretty sure) and a sense of awareness
-> (good, I guess) but I still canceled my evening dinner company. All
+> (good, I guess) but I [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] canceled my evening dinner company. All
 > in all, pretty negative.
 >
 > (with 10 mg) I had to get away and into myself, so I weeded in the
@@ -34,7 +34,7 @@ sources: ["Shulgin - PIHKAL"]
 > magically pulled. In another couple of hours a neurological
 > over-stimulation became apparent, and I spent the rest of the day
 > defending myself. In the evening, I took 100 milligrams phenobarbital
-> which seemed to smooth things just enough. Too bad. Nice material,
+> which seemed to smooth [[fukuoka-textdoc-one-thing-is-all-things-holism]] just enough. Too bad. Nice material,
 > otherwise.
 >
 > (with 15 mg) The erotic was lustful, but at the critical moment of
@@ -53,7 +53,7 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Extensions and Commentary
 
-This compound, BOB, is the most potent of
+This compound, BOB, is [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] potent of
 the BOX series. And yet, as with all of the members of this family,
 there are overtones of physical concern, and of some worry as to the
 integrity of the body. There may well be a separation of activity
@@ -61,11 +61,11 @@ with the two [[optical-isomers-psychedelic-phenethylamines]], but there is not a
 explore this particular family much further. They can't all be
 winners, I guess. What would be the activities of compounds with a
 sulfur instead of an oxygen at the beta-oxygen position? What would
-be the nature of action if there were an alpha-methyl group, making
+be the [[fukuoka-learning-about-nature-distances-one-from-nature]] of action if there were an alpha-methyl group, making
 all of these into amphetamine derivatives? Or what about both a
 sulfur and a methyl group? And what about the isomers that are
 intrinsic to all of this, the threo- and the erythro- and the "D's"
-and the "L's"? All this is terra incognita, and must someday be
+and the "L's"? All this [[query-what-is-terra-preta-and-how-does-it-differ-from-modern-biochar]] incognita, and must someday be
 
 looked into. It is chemically simple, and pharmacologically
 provocative. Someone, somewhere, someday, answer these questions!
@@ -80,10 +80,10 @@ C,H] in 20 mL anhydrous MeOH, there was added a solution of sodium
 methoxide in MeOH (generated from 0.5 g metallic sodium in 20 mL
 anhydrous MeOH). After a few min there was added 10 mL acetic acid
 (no solids formed) followed by the slow addition of 50 mL of H2O. A
-cream-colored solid was produced, which was removed by filtration and
+cream-colored solid was [[query-what-is-shellac-and-how-is-it-produced-from-lac-insects]], which was removed by filtration and
 washed well with H2O. After air drying the product,
 1-(4-bromo-2,5-dimethoxyphenyl)-1-methoxy-2-nitroethane, weighed 2.0
-g. An analytical sample from MeOH was off-white in color and had a mp
+g. An analytical sample from MeOH was off-[[query-how-do-white-rot-fungi-break-down-lignin]] in color and had a mp
 of 119-120 deg C. Anal. (C11H14BrNO5) C,H.
 
 A solution of LAH (15 mL of 1 M solution in THF) was diluted with an

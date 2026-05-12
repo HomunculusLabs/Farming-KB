@@ -34,7 +34,7 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 35 mg) Thinking is clear. No fuzziness, no feeling of being
 > pushed. None of the walking on the fine middle line between light and
-> dark that is the excitement and the threat of LSD. This is just a
+> dark that is the excitement and the threat of [[lsd]]. This is just a
 > friend, an ally, which invites you to do anything you wish to.
 > [comment added two days later] RMy sleep was not deep enough, but it
 > was pleasant and relatively resting. The whole next day I was feeling
@@ -87,4 +87,4 @@ to stand at room temperature for 0.5 h which produced a deep claret
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent star fire and sacred substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.

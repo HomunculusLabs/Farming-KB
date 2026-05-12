@@ -26,7 +26,7 @@ content.
 The species is widely cultivated commercially in Europe, particularly in
 the Netherlands, Poland, Germany, and Russia. Red currants are processed
 into jams, jellies, juices, and sauces, and are also grown for home
-gardens.
+[[gaias-garden-many-gardens-garden-design-process]].
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ Stems are unarmed, distinguishing it from gooseberries (*Ribes
 uva-crispa*).
 
 Leaves are palmately lobed with 3–5 shallow lobes, 4–9 cm wide, with
-serrate margins and a light green abaxial surface.
+serrate margins and a light [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] abaxial surface.
 
 Flowers are borne in pendulous racemes of 10–20 flowers. Each flower has
 five greenish-yellow to reddish petals and a bell-shaped hypanthium.
@@ -51,7 +51,7 @@ translucent skin.
 ## Distribution and Habitat
 
 Red currant is native to Belgium, France, Germany, the Netherlands, and
-northern Italy. It has been widely naturalized across temperate Europe
+northern Italy. It has been widely [[natural-fruit-tree-form-and-non-pruning]]ized across [[guzman-magic-mushrooms-temperate-zone-species]] Europe
 and introduced to [[psilocybin-north-america-pacific-northwest]], New Zealand, and parts of Asia.
 
 The species prefers cool, moist climates and is hardy to USDA zones
@@ -61,14 +61,14 @@ slopes with well-drained, slightly acidic soils.
 It tolerates partial shade but produces the best fruit yield in full
 sun. Optimal soil pH ranges from 5.5 to 7.0.
 
-## Cultivation
+## [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 
-Red currant propagation is primarily through hardwood cuttings taken in
+Red currant [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is primarily through hardwood cuttings taken in
 late autumn or early winter. Softwood cuttings and layering are also
 practiced. Certified virus-free planting material is essential, as
 Ribes species are susceptible to several [[cervantes-viral-diseases-cannabis]].
 
-Bushes are typically planted 1.2–1.5 m apart in rows. Pruning focuses
+Bushes are typically planted 1.2–1.5 m apart in rows. [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] focuses
 on removing older wood to maintain productive young shoots. Fruiting
 occurs primarily on one- and two-year-old wood.
 
@@ -78,7 +78,7 @@ that shake the fruit from the branches.
 
 Key pests include gooseberry sawfly (*Nematus ribesii*), currant aphid
 (*Cryptomyzus ribis*), and currant borer (*Synanthedon tipuliformis*).
-White pine blister rust (*Cronartium ribicola*) is a significant disease
+[[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]] pine blister rust (*Cronartium ribicola*) is a significant disease
 concern in [[guzman-psilocybin-mushrooms-north-america]].
 
 ## Nutritional Value and Chemistry

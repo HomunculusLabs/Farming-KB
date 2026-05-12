@@ -90,4 +90,4 @@ Emerging applications span ecological management, therapeutic protocols, and mat
 - [[bionutrients]]
 - [[fish-amino-acid]]
 - [[fermented-plant-juice-fpj]]
-- [[beneficial-indigenous-microorganisms]]
+- [[designer-compost-bokashi]]

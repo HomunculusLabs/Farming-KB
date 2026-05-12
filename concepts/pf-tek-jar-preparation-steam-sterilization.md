@@ -73,6 +73,28 @@ contamination while allowing the [[spore-syringe]] vigorously to distribute spor
 
 - [[mushroom-desiccant-drying-methods]] - Post-harvest drying
 - [[mushroom-potency-harvest-age]] - [[cannabis-harvest-timing-visual-cues]] and potency
+
+- [[pf-tek-brown-rice-vermiculite-substrate-formulation]]
+- [[pf-tek-contaminant-identification-non-germination-troubleshooting]]
+- [[pf-tek-desiccant-drying-mushroom-preservation]]
+- [[pf-tek-desiccant-types-sourcing-cool-drying-technique]]
+- [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]]
+- [[pf-tek-evaporation-concentration-extraction]]
+- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
+- [[pf-tek-fruiting-harvesting]]
+- [[pf-tek-history-high-times-to-worldwide-internet-adoption]]
+- [[pf-tek-inoculation-sterilization]]
+- [[pf-tek-mass-spore-inoculation-and-senescence-avoidance]]
+- [[pf-tek-mushroom-cultivation-method]]
+- [[pf-tek-perlite-humidification-mushroom-cultivation]]
+- [[pf-tek-pressure-canner-substrate-sterilization-upgrade-fanaticus]]
+- [[pf-tek-primordia-abort-harvesting-potency-by-age]]
+- [[pf-tek-spraying-and-ventilation-procedure]]
+- [[pf-tek-steam-sterilization-and-inoculation-technique]]
+- [[pf-tek-steam-sterilization-jar-preparation]]
+- [[pf-tek-substrate-formula-and-preparation]]
+- [[pf-tek-substrate-preparation]]
+- [[pf-tek-syringe-sterilization-and-storage]]
 ## Practical Considerations
 
 Successful implementation of Pf Tek Jar Preparation Steam Sterilization requires attention to

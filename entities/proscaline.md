@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1991). "PiHKAL: A Chemical Love Story." Transform Press.
-  - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel [[cultural-evolution-and-psychoactive-substances]]." Springer.
+  - Trachsel, D. et al. (2013). "The Psychopharmacology of Novel [[star-fire-and-sacred-substances]]." Springer.
   - Roth, B.L. et al. (1997). "LSD and phenethylamine hallucinogens." Psychopharmacology 130(3): 203-210.
   - Ray, T.S. (2010). "Psychedelics and the human receptorome." PLoS ONE 5(2): e9019.
 created: 2026-05-07

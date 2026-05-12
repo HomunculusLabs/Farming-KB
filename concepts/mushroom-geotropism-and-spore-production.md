@@ -113,7 +113,7 @@ The relationship between geotropism, sporulation, and alkaloid production ([[hpl
 
 - [[mushroom-anemotropism]]
 - [[evaporative-demand-and-fungal-growth]]
-- [[psilocybin-and-psilocin-biosynthesis-variation]]
+- [[wiki:concepts/partial-veil-and-annulus-variation]]
 
 ## References
 

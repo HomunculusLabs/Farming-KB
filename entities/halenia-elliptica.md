@@ -16,7 +16,7 @@ sources:
   - Yang, Y. et al. (2020). "Ethnobotanical survey of medicinal Gentianaceae in southwestern China." Journal of Ethnopharmacology, 254.
 ---
 
-## Overview
+## [[guzman-neurotropic-fungi-genus-diversity-overview]]
 
 **Halenia elliptica** is a herbaceous annual or biennial plant in the family Gentianaceae.
 
@@ -30,11 +30,11 @@ It represents the only genus in Gentianaceae with spurred corollas, making it mo
 
 ## Taxonomy and Morphology
 
-Halenia elliptica was first described by David Don in 1836 based on specimens from the Himalayan region.
+Halenia elliptica was first described by David Don in 1836 based on [[neurotropic-fungi-specimen-age-potency-degradation]]s from the Himalayan region.
 
-The genus Halenia comprises approximately 40 species, most native to montane regions of Asia and the Americas.
+The genus Halenia comprises approximately 40 species, most native to montane regions of Asia and the [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]].
 
-The species grows 20–60 cm tall with erect, simple or branched stems that are quadrangular in cross-section.
+The species grows 20–60 cm tall with erect, simple or branched stems that are quadrangular in cross-[[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]].
 
 Leaves are opposite, elliptic to ovate-lanceolate, 2–6 cm long, and sessile or with short petioles.
 
@@ -44,15 +44,15 @@ Each flower bears a distinctive hollow spur 3–5 mm long projecting backward fr
 
 This spur is the key diagnostic feature separating Halenia from other gentian genera.
 
-Fruiting capsules are ovoid, 5–8 mm long, containing numerous small brown seeds.
+Fruiting capsules are ovoid, 5–8 mm long, containing numerous small [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] seeds.
 
 Blooming occurs from July to September, with fruiting following in September and October.
 
-The root system consists of a slender taproot with minimal branching, typical of annual gentian species.
+The root [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] consists of a slender taproot with minimal branching, typical of annual gentian species.
 
 Basal leaves form a small rosette at the base, while cauline leaves decrease in size toward the stem apex.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
 Halenia elliptica is native to the Himalayan region and mountainous areas of [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
@@ -60,7 +60,7 @@ Its range extends from Nepal and northern India through Bhutan, Myanmar, and sou
 
 It grows at elevations of 2,000–4,200 meters in alpine meadows, forest margins, grassy slopes, and stream banks.
 
-The species prefers moist, humus-rich soils in partially shaded to open sites.
+The species prefers moist, humus-rich soils in partially [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] to open sites.
 
 It is commonly found in disturbed ground and along trails at high elevations.
 

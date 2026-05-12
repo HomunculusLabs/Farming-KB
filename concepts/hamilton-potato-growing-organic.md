@@ -21,7 +21,7 @@ Potatoes are one of the most rewarding crops for the organic gardener.
 Geoff Hamilton considered the potato to be a vegetable that truly
 justifies organic methods, as the difference in taste between
 organically grown early potatoes and their inorganic counterparts
-is remarkable. Main [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] also serve as an excellent
+is remarkable. Main [[the-ultimate-goal-of-farming]] also serve as an excellent
 cleaning crop in new gardens, helping to break up compacted soil
 with their vigorous root systems.
 

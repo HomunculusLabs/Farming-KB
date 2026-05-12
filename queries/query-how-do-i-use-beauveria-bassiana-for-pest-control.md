@@ -114,7 +114,7 @@ You can combine Beauveria sprays with [[jadam-pest-control-with-natural-pesticid
 
 Some chemical fungicides will kill Beauveria spores, so separate fungicide and biocontrol applications by at least several days.
 
-The [[trichoderma-vs-entomopathogenic-fungi]] can be rotated with Beauveria to target different pest life stages and reduce resistance development.
+The [[trichoderma]] can be rotated with Beauveria to target different pest life stages and reduce resistance development.
 
 ## Safety and Precautions
 

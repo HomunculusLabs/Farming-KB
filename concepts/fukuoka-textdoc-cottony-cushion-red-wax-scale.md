@@ -52,7 +52,7 @@ serious resurgence. Without its natural predator, the pest multiplied rapidly
 and it became impossible to contain. Farmers found themselves locked in a cycle
 of escalating pesticide applications that never solved the underlying problem.
 The more they sprayed, the worse the pest outbreaks became, because each round
-of spraying further depleted the populations of [[beneficial-insects-and-biological-pest-control]].
+of spraying further depleted the populations of [[hamilton-beneficial-insects-and-biological-pest-control]].
 
 In Fukuoka's natural orchard, where he did not use strong pesticides, the
 cottony-cushion scale continued as before to serve as prey for several types of

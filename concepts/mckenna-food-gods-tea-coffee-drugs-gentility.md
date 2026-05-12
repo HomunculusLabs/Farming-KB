@@ -88,3 +88,10 @@ McKenna notes that the invention of morphine in 1803 and then heroin in 1873 car
 There it remains, controlled today not by robber baron corporations operating under public charter, but by international crime cartels often posing as [[mckenna-drugs-governments-and-intelligence-agencies]].
 
 It is, as William Burroughs has remarked, "Not a pretty picture." Since the Age of Exploration, drugs and plant products have become increasingly important factors in the equations of international diplomacy.
+
+## See Also
+
+- [[mckenna-food-gods-new-world-hallucinogen-clustering-americas-psychedelic-continent]]
+- [[mckenna-food-of-the-gods-alcohol-and-dominator-culture]]
+- [[mckenna-food-of-the-gods-bwiti-religion-and-iboga]]
+- [[mckenna-food-of-the-gods-sugar-as-dominator-tool]]

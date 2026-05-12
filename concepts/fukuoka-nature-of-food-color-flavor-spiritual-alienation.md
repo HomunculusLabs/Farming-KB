@@ -140,5 +140,5 @@ The error was to focus on the food rather than the eater. By trying to make the 
   philosophy
 - [[fukuoka-one-straw-revolution-philosophy]] — the foundational text
 - [[fukuoka-natural-diet-four-types]] — dietary principles derived from natural farming
-- [[fukuoka-human-ignorance-and-the-return-to-nature]] — the broader philosophical
+- [[fukuoka-reunifying-god-nature-and-man]] — the broader philosophical
   framework

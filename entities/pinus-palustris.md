@@ -28,9 +28,9 @@ approximately 2% of its original range by logging, turpentining, and fire
 suppression.
 
 The species is renowned for its grass stage, a prolonged juvenile period in
-which the tree invests in root development while remaining fire-resistant.
+[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] the tree invests in root development while remaining fire-[[permaculture-plants-fire-resistant-trees-shrubs]].
 
-Longleaf pine ecosystems are among the most biologically diverse temperate
+Longleaf pine [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]] are among the most biologically diverse [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 forests in [[psilocybin-north-america-pacific-northwest]], supporting hundreds of endemic species.
 
 ## Taxonomy
@@ -39,7 +39,7 @@ forests in [[psilocybin-north-america-pacific-northwest]], supporting hundreds o
 - **Division:** Pinophyta
 - **Class:** Pinopsida
 - **Order:** Pinales
-- **Family:** Pinaceae
+- **[[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]]:** Pinaceae
 - **Genus:** Pinus
 - **Subgenus:** Pinus (Diploxylon / hard pines)
 - **Species:** *Pinus palustris* P.Mill.
@@ -60,10 +60,10 @@ Mature DBH ranges from 40 to 80 cm; exceptional specimens exceed 1 m.
 The crown is open and irregular with a characteristic "limby" form in
 open-grown trees.
 
-Bark is thick (2–5 cm), orange-brown to reddish-brown, forming large
+Bark is thick (2–5 cm), orange-[[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] to reddish-brown, forming large
 irregular plates with deep fissures.
 
-Needles are the longest of any [[polypore-fungi-eastern-north-america]] American pine, 20–45 cm long,
+Needles are the longest of any [[polypore-fungi-eastern-north-america]] [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] pine, 20–45 cm long,
 in fascicles of three.
 
 They are dark green, stout, and flexible, persisting 2–3 years.
@@ -79,7 +79,7 @@ collar and taproot while producing only a dense tuft of needles.
 The terminal bud is protected by dense needle bases, making seedlings
 extremely fire-resistant.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
 Longleaf pine ranges from southeastern Virginia south to central Florida and
 west to eastern Texas.

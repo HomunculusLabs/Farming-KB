@@ -74,7 +74,7 @@ The basic dilution ratio is 1:1000 (LAB to water).
    leaves, a condition that arises from the abuse of insecticides and
    fungicides.
 2. When using LAB alone, it is more effective to use it with
-   [[cho-indigenous-microorganisms-collection-and-cultivation]] mixed
+   [[indigenous-spirituality-and-freedom]] mixed
    with LAB is sprayed on the field.
 4. LAB is extremely effective in making fruits and leaves large, but
    the amount should be reduced while approaching the later growth

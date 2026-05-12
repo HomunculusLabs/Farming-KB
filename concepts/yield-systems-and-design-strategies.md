@@ -94,7 +94,7 @@ These strategies focus on what the system *does* — the roles and functions per
 
 These strategies address *where* elements are placed in relation to each other:
 
-- **Annidation (nesting)** — arranging elements in nested hierarchies, like a forest with canopy, understory, shrub, herb, and ground layers, each occupying its own vertical niche.
+- **[[annidation]] (nesting)** — arranging elements in nested hierarchies, like a forest with canopy, understory, shrub, herb, and ground layers, each occupying its own vertical niche.
 - **Tessellation (mosaic)** — creating a patchwork of interlocking elements across the landscape, like a mosaic, where each patch supports its neighbors.
 - **Edge harmonics** — maximizing and managing the interfaces between different elements or communities, since edges are where diversity and interaction are greatest.
 - **Zone, sector, and slope strategies** — organizing placement by frequency of use (zones), by directional influences like sun and wind (sectors), and by elevation and water flow (slope).

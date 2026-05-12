@@ -31,7 +31,7 @@ Unlike most *Fraxinus* species, which flower before leaf emergence, the manna as
 
 The tree typically reaches 15–20 metres in height with a rounded to oval crown. The bark is smooth and grey on young trees, becoming fissured with age.
 
-Buds are dark brown and velvety, opposite, with visible bud scales. Young twigs are grey-green and slightly pubescent.
+Buds are dark [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] and velvety, opposite, with visible bud scales. Young twigs are grey-green and s[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]ly pubescent.
 
 Leaves are pinnately compound, 20–30 cm long, with 5–9 leaflets. Leaflets are ovate to elliptic, 5–10 cm long, with serrate margins and acute tips. The upper surface is dark green and glabrous.
 
@@ -39,7 +39,7 @@ Flowers are borne in dense, showy panicles 10–20 cm long, appearing in April t
 
 The fruit is a samara, 2–3 cm long, with an elongated wing. Seeds ripen in September to October and are dispersed by wind.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
 *Fraxinus ornus* is native to southern and central Europe, from Italy and the Balkan Peninsula eastward to Turkey, Lebanon, and the Caucasus. It also occurs in southern France and Switzerland.
 
@@ -47,7 +47,7 @@ The species is characteristic of thermophilous deciduous forests and scrubland. 
 
 It is a component of sub-Mediterranean oak-hornbeam forests and is particularly abundant in southern Italy, Sicily, and the southern Balkans. In these regions it can form nearly pure stands on south-facing slopes.
 
-The manna ash has been widely planted as an ornamental beyond its native range throughout temperate Europe and [[guzman-psilocybin-mushrooms-north-america]]. It is hardy to approximately −20 °C but is less cold-tolerant than *Fraxinus excelsior*.
+The manna ash has been widely planted as an ornamental beyond its native range throughout [[query-how-to-grow-and-use-oca-in-temperate-climates]] Europe and [[guzman-psilocybin-mushrooms-north-america]]. It is hardy to approximately −20 °C but is less cold-tolerant than *Fraxinus excelsior*.
 
 ## Bioactive Compounds and Traditional Uses
 
@@ -61,7 +61,7 @@ Modern phytochemical analysis has identified additional constituents including f
 
 Manna was also used as a sweetener before the widespread availability of cane sugar. In southern Italian cuisine, manna was dissolved in water as a refreshing summer drink or added to desserts.
 
-Commercial manna production peaked in the 19th century and has declined significantly. Current production in the Madonie Mountains is protected as a Slow Food Presidium product, recognising its cultural and gastronomic heritage.
+Commercial manna production peaked in the 19th century and has [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]d significantly. Current production in the Madonie Mountains is protected as a Slow Food Presidium product, recognising its cultural and gastronomic heritage.
 
 The leaves contain secoiridoid glucosides and have been used in traditional folk medicine as an anti-inflammatory and diuretic. Extracts show moderate antimicrobial activity in vitro.
 
@@ -73,17 +73,17 @@ Manna was administered to infants as a first food and digestive aid. It was also
 
 In Calabrian folk medicine, the bark was boiled to make a decoction for treating skin wounds and ulcers. The wood was valued for making tool handles and walking sticks due to its elasticity.
 
-## Cultivation and Ornamental Value
+## [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and Ornamental Value
 
 The manna ash is widely cultivated as a street and park tree in southern and central Europe. Its tolerance of drought, heat, and urban pollution makes it suitable for Mediterranean urban landscapes.
 
-Propagation is by seed (requiring cold stratification) or by softwood cuttings. Grafted selections ensure consistent flower quality and manna production characteristics.
+[[query-how-do-i-use-woody-herb-cuttings-for-plant-propagation]] is by seed (requiring cold stratification) or by softwood cuttings. Grafted selections ensure consistent flower quality and manna production characteristics.
 
 Several named cultivars are available, including 'Meczek' (compact form), 'Velvet Crown' (selected for dense flowering), and various manna-production clones maintained in Sicily.
 
 The species is a valuable melliferous tree, producing abundant nectar and pollen that support bee populations in Mediterranean regions. Honey from manna ash has a light, delicate flavour.
 
-The wood is hard, dense, and elastic, with a pale yellow-brown heartwood. It has been used for tool handles, agricultural implements, and veneer, though it is less commercially important than that of *F. excelsior*.
+The wood is hard, dense, and elastic, with a pale yellow-brown heartwood. It has been used for tool handles, agricultural implements, and veneer, though it is less commercially [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] than that of *F. excelsior*.
 
 Young trees establish quickly and can begin flowering within 5–8 years from seed. Mature trees are long-lived, with specimens exceeding 100 years documented in managed groves.
 

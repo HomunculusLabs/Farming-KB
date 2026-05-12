@@ -21,7 +21,7 @@ sources:
 
 Campanula patula, the spreading bellflower, is a slender herbaceous perennial or biennial in the family Campanulaceae. It is widely distributed across Europe, from the British Isles to the western edges of Russia.
 
-The species is characterized by its delicate, star-shaped, violet-blue flowers that open widely rather than forming the typical bell shape. It is a familiar component of traditional hay meadows and woodland edges.
+The species is characterized by its delicate, star-[[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]d, violet-blue flowers that open widely rather than forming the typical bell shape. It is a familiar component of traditional hay meadows and woodland edges.
 
 Unlike the closely related [[campanula-rapunculoides]], C. patula is not aggressive and does not produce creeping rootstock. It behaves as a well-mannered meadow plant that self-seeds modestly.
 
@@ -39,7 +39,7 @@ Campanula patula is protected by law in several European countries, including th
 - Genus: Campanula
 - Species: C. patula L.
 
-Stems are slender, erect or slightly spreading, reaching 30–80 cm in height. They are typically unbranched or sparsely branched above, with narrow linear-lanceolate leaves.
+Stems are slender, erect or s[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]ly spreading, reaching 30–80 cm in height. They are typically unbranched or sparsely branched above, with narrow linear-lanceolate leaves.
 
 Basal leaves form a rosette in the first year, oblong to lanceolate, with crenate or entire margins. Stem leaves are sessile, linear, and gradually reduced upward.
 
@@ -47,7 +47,7 @@ Flowers are produced in loose, terminal racemes or panicles from June to August.
 
 The corolla is pale to deep violet-blue, rarely white. The style is prominently exserted and curves downward at the tip, a characteristic feature of the species.
 
-The capsule is erect, cylindrical, and dehisces through three recurved pores near the base. Seeds are numerous, small, and pale brown.
+The capsule is erect, cylindrical, and dehisces through three recurved pores near the base. Seeds are numerous, small, and pale [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]].
 
 The chromosome number is 2n = 20, which distinguishes it from the closely related C. rapunculoides (2n = 102). This large cytogenetic difference indicates ancient divergence despite morphological similarity.
 
@@ -59,25 +59,25 @@ The species is most abundant in central Europe, particularly in Germany, Poland,
 
 It grows in mesic to moderately dry meadows, woodland margins, hedgerows, and road banks. Populations prefer neutral to slightly acidic soils and are intolerant of heavy fertilization.
 
-The plant functions as a weak competitor in species-rich grasslands. It relies on traditional hay meadow management, where late-summer cutting prevents dominant grasses from suppressing it.
+The plant functions as a weak competitor in species-rich grasslands. It relies on traditional hay meadow [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]], where late-summer cutting prevents dominant grasses from suppressing it.
 
 Elevational range extends from lowlands to approximately 1200 m in the Alps and Carpathians. Alpine populations tend to be more compact with larger flowers.
 
-The species is absent from the Mediterranean region, where summer drought and high temperatures exceed its ecological tolerance. Isolated populations in the Pyrenees and Apennines represent the southern range margin.
+The species is absent from the Mediterranean region, where summer drought and high temperatures exceed its [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] tolerance. Isolated populations in the Pyrenees and Apennines represent the southern range margin.
 
 Seed banking studies show that C. patula seeds remain viable for 8–12 years in soil, forming a persistent seed bank. This allows populations to recover after temporary habitat disturbance or unfavorable management periods.
 
 ## Cultivation
 
-Spreading bellflower is easy to grow from seed, which should be surface-sown in spring or autumn. Germination typically occurs within 2–4 weeks without cold stratification.
+Spreading bellflower is easy [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]] from seed, which should be surface-sown in spring or autumn. Germination typically occurs within 2–4 weeks without cold stratification.
 
 The species prefers well-drained loamy soil in full sun or partial shade. It tolerates a range of pH from mildly acidic to mildly alkaline.
 
 Plants are short-lived perennials or biennials, typically flowering in their second year and declining thereafter. Allow self-seeding to maintain the colony in garden settings.
 
-Hardy to USDA zones 4–8, the species requires no special winter protection. It is relatively drought-tolerant once established but flowers better with consistent moisture.
+Hardy to USDA zones 4–8, the species requires no special winter [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]. It is relatively drought-tolerant once established but flowers better with consistent moisture.
 
-No serious pests or diseases affect this species in cultivation. Aphids may occasionally colonize young shoots but rarely cause significant damage.
+No serious pests or [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]s affect this species in cultivation. Aphids may occasionally colonize young shoots but rarely cause significant damage.
 
 Deer and rabbits tend to avoid Campanula patula, likely due to the milky latex in its stems. This makes it a useful component of gardens with heavy browsing pressure.
 

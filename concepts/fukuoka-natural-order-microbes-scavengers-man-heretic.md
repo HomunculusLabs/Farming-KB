@@ -74,7 +74,7 @@ A field already contains decomposers, predators, parasites, roots, seeds, and we
 The farmer's task is to notice which actions allow those relationships to function with the least disturbance.
 This is why straw returned to the field, modest animal manure, and living ground cover matter more than elaborate inputs.
 They feed the existing order instead of replacing it with a manufactured one.
-The same lesson connects decomposition to [[beneficial-insects-and-biological-pest-control]], soil fertility, and human humility.
+The same lesson connects decomposition to [[hamilton-beneficial-insects-and-biological-pest-control]], soil fertility, and human humility.
 A farmer who trusts the chain of life can intervene more lightly and still receive abundant yields.
 
 ## Connection to Natural Farming

@@ -7,7 +7,7 @@ tags: [technology, energy, waste-management, permaculture, anaerobic]
 
 ## Description
 
-A biogas digester is an anaerobic digestion system that converts organic waste materials — such as manure, agricultural residues, and food scraps — into methane-rich biogas and nutrient-rich digestate. In permaculture design, it represents a key technology for cycling energy and nutrients through multiple productive transformations before returning them to the land.
+A biogas digester is an anaerobic digestion system that converts organic waste materials — such as manure, agricultural residues, and food scraps — into methane-rich biogas and nutrient-rich digestate. In [[permaculture-design]], it represents a key technology for cycling energy and nutrients through multiple productive transformations before returning them to the land.
 
 ## Classification
 
@@ -31,7 +31,7 @@ A biogas digester is an anaerobic digestion system that converts organic waste m
 
 ## The Mollison Resource Cascade
 
-Bill Mollison describes a multi-stage resource routing for manure through a biogas digester system:
+[[bill-mollison]] describes a multi-stage resource routing for manure through a biogas digester system:
 
 1. **Fermentation and distillation** → alcohol fuel
 2. **Biogas digestion** → methane for cooking, heating, vehicles
@@ -39,7 +39,7 @@ Bill Mollison describes a multi-stage resource routing for manure through a biog
 4. **Solid sludge** → worm composting → horticultural soil
 5. **Worms** → feed for fish or poultry
 
-This cascade demonstrates the permaculture principle of obtaining multiple yields from a single resource input by routing it through sequential transformations.
+This cascade demonstrates the [[permaculture]] principle of obtaining multiple yields from a single resource input by routing it through sequential transformations.
 
 ## Relevance to Cultivation
 
@@ -48,7 +48,7 @@ This cascade demonstrates the permaculture principle of obtaining multiple yield
 - Integrates seamlessly with animal husbandry systems (manure management)
 - Closing the nutrient loop: waste becomes resource, embodying the "law of return"
 - Particularly valuable in integrated aquaculture systems where digestate feeds algae and plankton
-- Appropriate technology for off-grid and developing-world permaculture installations
+- [[appropriate-technology]] for off-grid and developing-world permaculture installations
 - Reduces farm operating costs by displacing purchased fuel and fertilizer
 
 ## Design Considerations
@@ -61,5 +61,22 @@ This cascade demonstrates the permaculture principle of obtaining multiple yield
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 2.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2.
 - Also referenced in context of farm strategies for yield optimization through resource cascading.
+
+## Practical Significance
+- Relevant to sustainable land management and ecological design
+- Applications in permaculture and regenerative agriculture
+- Connected to broader themes of resource conservation
+
+## Key Principles
+- Functions within interconnected ecological systems
+- Contributes to overall system resilience and stability
+- Understanding enables better design decisions
+
+## See Also
+- [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]]
+- [[mollison-designers-biogas-digester-sewage-treatment]]
+- [[biogas-digester-basics]]
+- [[biogas-digesters-and-anaerobic-digestion-systems]]
+- [[comparison-biogas-vs-composting-toilet]]

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-# Chromium Bioremediation by Fungi
+# Chromium [[dighton-fungal-heavy-metal-accumulation-bioremediation]] by Fungi
 
 Chromium is a highly toxic [[dighton-fungal-biosorption-heavy-metal-remediation]] that exists in two primary
 oxidation states: hexavalent chromium Cr(VI), which is highly toxic,
@@ -20,7 +20,7 @@ added benefit of reducing Cr(VI) to the less harmful Cr(III) state.
 
 ## Chromium Toxicity and Environmental Concerns
 
-Chromium contamination originates from tanneries, electroplating,
+Chromium [[gadd-fungal-biosorption-metal-contamination-remediation]] originates from tanneries, electroplating,
 metal finishing, wood preservation using chromated copper arsenate
 (CCA), and textile industries. Singh's review identifies chromium as
 highly toxic, noting that it must be reduced to a trivalent state that
@@ -31,11 +31,11 @@ Co(II) > Zn(II) > Ni(II) > Fe(II) > Mo(V) > Cd(II) > Cs(I) > Cr2O7(2-)
 > CrO4(2-). This demonstrates the differential behavior of chromium
 species in biosorption systems depending on their oxidation state.
 
-## Chromium Biosorption by Filamentous Fungi
+## Chromium Biosorption [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 
 Several filamentous fungi demonstrate strong chromium biosorption
 capacity. Mucor miehei achieves 1.15 mM/g of Cr(III) removal at pH 4.0,
-with effective regeneration using NaOH and H2SO4. Rhizopus nigricans,
+with effective re[[singh-key-fungal-genera-bioremediation]]tion using NaOH and H2SO4. Rhizopus nigricans,
 particularly when treated with APTS (3-aminopropyltriethoxysilane),
 shows 212 mg/g Cr(VI) removal from 500 mg/l solutions within 8 hours
 at pH 2.0. PEI (polyethyleneimine)-treated R. nigricans biomass achieves
@@ -44,13 +44,13 @@ R. nigricans has been shown to be a potent biosorbent of Cr(VI) ions.
 R. arrhizus demonstrates 8.4 mg/g per minute of Cr(VI) removal from
 125-150 mg/l solutions within 30 minutes at pH 2.0.
 
-## Chromium Reduction Mechanisms
+## Chromium Reduction [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]
 
 The uptake of chromium by fungi can involve both biosorption and active
 accumulation, with oxidation-reduction reactions playing a key role. A
 yeast mechanism for chromium stress may involve oxidation-reduction
 reactions, interaction with cellular organelles, binding by cytosolic
-molecules, formation of protein-DNA and Cr-DNA adducts, and formation
+molecules, formation of [[singh-single-cell-protein-fungal-wastewater-treatment]]-DNA and Cr-DNA adducts, and formation
 of breaks in DNA strands and DNA-DNA cross-links. The reduction of
 Cr(VI) to Cr(III) is a critical detoxification step, as Cr(III) is far
 less toxic and less mobile in the environment. This redox transformation
@@ -78,12 +78,12 @@ oxidation states. The total cellular chromium is 29.3% for Cr(III) and
 52.3% for Cr(VI), respectively, indicating that Cr(VI) is more readily
 taken up and retained by fungal cells. Maximum accumulation capabilities
 of Pichia guilliermondii range between 4.0 and 13.0 mg/g dry weight
-for Cr(III) and 2 to 6.7 mg/g dry weight for Cr(VI). These differences
+for Cr(III) and 2 to 6.7 mg/g dry weight for Cr(VI). These [[query-difference-between-white-rot-and-brown-rot-fungi]]s
 in cellular distribution and accumulation between Cr(III) and Cr(VI)
 have important implications for the design of chromium biosorption
 processes and the selection of appropriate fungal species.
 
-## Chromium in Binary Metal Biosorption Systems
+## Chromium in Binary [[fungal-heavy-metal-biosorption-and-detoxification]] Systems
 
 In binary biosorption systems, chromium demonstrates interesting
 competitive behavior. The adsorption capacity of Cr(VI) on Rhizopus

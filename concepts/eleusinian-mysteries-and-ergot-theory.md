@@ -15,7 +15,7 @@ The **Eleusinian Mysteries** were the most important religious initiation ceremo
 ancient Greece, conducted annually for nearly two thousand years at Eleusis, a sanctuary
 near Athens. In *Food of the Gods*, Terence McKenna examines the Mysteries as a
 paradigmatic example of institutionalized psychedelic use in [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]'s
-foundational culture, central to his broader argument about [[cultural-evolution-and-psychoactive-substances]] in
+foundational culture, central to his broader argument about [[star-fire-and-sacred-substances]] in
 human spiritual history.
 
 ## The Annual Athenian Pilgrimage

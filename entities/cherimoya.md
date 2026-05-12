@@ -33,11 +33,11 @@ Cherimoya (*Annona cherimola*) is a subtropical to mild-temperate fruit tree in 
 
 ## Permaculture Significance
 
-In *Permaculture: A Designers' Manual*, Mollison highlights a case study from Gahan Gilfedder at the Garden of Eden in Australia, who discovered an unsuspected market for cherimoya seed. Nurseries required the seed as rootstock for grafting purposes, transforming what was previously considered a "waste" product from damaged fruit into a saleable resource. This exemplifies the permaculture principles of "the problem is the solution" and finding yield in overlooked niches.
+In *Permaculture: A Designers' Manual*, Mollison highlights a case study from [[gahan-gilfedder]] at the Garden of Eden in Australia, who discovered an unsuspected market for cherimoya seed. Nurseries required the seed as rootstock for grafting purposes, transforming what was previously considered a "waste" product from damaged fruit into a saleable resource. This exemplifies the [[permaculture-principles]] of "the problem is the solution" and finding yield in overlooked niches.
 
 ## Relevance to Cultivation
 
-- Excellent candidate for food forest canopy or sub-canopy layers in appropriate climates
+- Excellent candidate for [[food-forest]] canopy or sub-canopy layers in appropriate climates
 - Seeds serve dual purpose: propagation/rootstock and potential market product
 - Integrates well with understory plantings that tolerate partial shade
 - Can be grafted onto related rootstock for improved disease resistance and vigor
@@ -56,12 +56,25 @@ In *Permaculture: A Designers' Manual*, Mollison highlights a case study from Ga
 
 ## Related Species
 
-- *Annona muricata* — Soursop (guanábana)
+- *[[annona-muricata]]* — Soursop (guanábana)
 - *Annona reticulata* — Bullock's heart
-- *Annona squamosa* — Sugar apple (sweetsop)
+- *[[annona-squamosa]]* — Sugar apple (sweetsop)
 - *Annona atemoya* — Atemoya (cherimoya × sugar apple hybrid)
 
 ## References
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 2.
 - Morton, J. (1987). *Fruits of Warm Climates*. Miami, FL.
+
+## Practical Significance
+- Relevant to sustainable land management and ecological design
+- Applications in permaculture and regenerative agriculture
+- Connected to broader themes of resource conservation
+
+## Key Principles
+- Functions within interconnected ecological systems
+- Contributes to overall system resilience and stability
+- Understanding enables better design decisions
+
+## See Also
+- [[comparison-soursop-vs-cherimoya-cultivation]]

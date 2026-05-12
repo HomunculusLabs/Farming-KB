@@ -37,7 +37,7 @@ Once established, feed the starter at a 1:1:1 ratio (equal weights starter, flou
 - Whole wheat flour: Adds flavor, nutrients, and complexity. Use at 10-30% of total flour.
 - Rye flour: Adds flavor, moisture, and helps fermentation. Use at 5-20%.
 - All-purpose flour: Works but produces less open crumb than bread flour.
-- Spelt, einkorn, emmer: [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] can be used in part but have weaker gluten.
+- Spelt, einkorn, emmer: [[the-ultimate-goal-of-farming]] can be used in part but have weaker gluten.
 
 A typical blend: 80% bread flour, 20% whole wheat. Or 75% bread flour, 15% whole wheat, 10% rye.
 

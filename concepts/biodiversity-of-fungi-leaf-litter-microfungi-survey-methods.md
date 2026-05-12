@@ -138,3 +138,7 @@ experiments complementing field surveys.
 - [[biodiversity-of-fungi-soil-isolation-methods]]
 - [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
 - [[biodiversity-fungal-biodiversity-estimation-methods]]
+
+- [[biodiversity-of-fungi-database-specimen-management]]
+- [[biodiversity-of-fungi-foliage-pathogens-cankers-galls-sampling]]
+- [[biodiversity-of-fungi-species-estimates-discovery-gap]]

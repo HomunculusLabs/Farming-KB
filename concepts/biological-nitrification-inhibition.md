@@ -113,7 +113,7 @@ that can amplify overall effectiveness.
 - [[compost-tea-and-biological-extracts]]
 - [[soil-foodweb-biological-balancing-protocol-ingham]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[beneficial-insects-and-biological-pest-control]]
+- [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[biological-network-optimization]]
 ## See Also
 

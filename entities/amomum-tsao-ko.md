@@ -20,17 +20,17 @@ sources:
 
 ## Overview
 
-**Amomum tsao-ko** is a species of flowering plant in the Zingiberaceae family, native to the mountainous regions of southern China and northern Vietnam.
+**Amomum tsao-ko** is a species of [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]] plant in the Zingiberaceae family, native to the mountainous regions of southern China and northern Vietnam.
 
-It is the source of **tsao-ko** (also rendered **caoguo**, **black cardamom**), an important spice in Chinese, Vietnamese, and Laotian cuisines.
+It is the source of **tsao-ko** (also rendered **caoguo**, **black [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]**), an important spice in Chinese, Vietnamese, and Laotian cuisines.
 
-The dried fruits are large, brown, and strongly aromatic with a smoky, camphoraceous flavor profile distinct from the related green cardamom (*[[elettaria-cardamomum]]*).
+The dried fruits are large, [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]], and strongly aromatic with a smoky, camphoraceous flavor profile distinct from the related green cardamom (*[[elettaria-cardamomum]]*).
 
 Tsao-ko is one of the key spices in Chinese five-spice powder and is essential to the cuisine of Yunnan, Sichuan, and Guizhou provinces.
 
 ## Taxonomy and Morphology
 
-**Classification:**
+**[[short-day-long-day-plant-flowering-classification]]:**
 
 - **Kingdom:** Plantae
 - **Family:** Zingiberaceae
@@ -43,11 +43,11 @@ Tsao-ko is one of the key spices in Chinese five-spice powder and is essential t
 
 The species has also been classified under the synonym *Amomum costatum* Benth. in some historical treatments.
 
-Recent taxonomic revisions have placed it in the genus *Wurfbainia* by some authorities, though *Amomum* remains widely used.
+Recent taxonomic re[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s have placed it in the genus *Wurfbainia* by some authorities, though *Amomum* remains widely used.
 
 **Morphology:**
 
-Plants are robust, clump-forming perennial herbs reaching 2–3 meters in height.
+[[phytochrome-red-far-red-ratio-shade-detection-plants]] are robust, clump-forming perennial herbs reaching 2–3 meters in height.
 
 Pseudostems are formed from tightly overlapping leaf sheaths, 1.5–3 cm in diameter.
 
@@ -75,13 +75,13 @@ Annual rainfall in its native range typically exceeds 1,000 mm, with a pronounce
 
 The species is cold-tolerant compared to many other Zingiberaceae, surviving light frost at higher elevations.
 
-Wild populations have been reduced by over-collection and habitat loss, though commercial cultivation has expanded its cultivated range.
+Wild populations have been reduced by over-collection and habitat loss, though commercial [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] has expanded its cultivated range.
 
 ## Culinary Use
 
 Tsao-ko is a foundational spice in the culinary traditions of southwestern China, particularly Yunnan and Sichuan provinces.
 
-The dried fruits are used whole in braised meat dishes, stews, and long-simmered preparations where their robust flavor develops slowly.
+The dried fruits are used whole in braised meat dishes, stews, [[short-day-and-long-day-plant-classification]]-simmered preparations where their robust flavor develops slowly.
 
 Tsao-ko is a key ingredient in **master stock** (lǔshuǐ), the concentrated braising liquid used repeatedly in Chinese restaurant kitchens.
 

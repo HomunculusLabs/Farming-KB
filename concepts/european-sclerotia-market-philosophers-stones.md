@@ -14,7 +14,7 @@ fruiting bodies, sclerotia are dense masses of hardened mycelium that form
 underground as survival structures for certain fungal species.
 
 The EMCDDA has monitored the European sclerotia market as part of its broader
-surveillance of novel [[cultural-evolution-and-psychoactive-substances]] and drug market trends. Sclerotia
+surveillance of novel [[star-fire-and-sacred-substances]] and drug market trends. Sclerotia
 occupied a legal grey area in several European countries, most notably the
 Netherlands, where they were sold openly in "smart shops" even after the 2008
 ban on dried [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]].

@@ -9,7 +9,7 @@ sources: []
 
 # MDMA Reference
 
-MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
+[[mdma]] (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
 
 ## Chemistry
 
@@ -86,7 +86,7 @@ The serotonin release mechanism is the key differentiator. While classical psych
 - Typical therapeutic dose in clinical trials: 80-120 mg, with optional supplemental half-dose at 1.5-2 hours
 
 Note: street MDMA varies enormously in purity and content. Pills may contain:
-- Methylone, mephedrone, or other cathinones (NPS — novel [[cultural-evolution-and-psychoactive-substances]])
+- Methylone, mephedrone, or other cathinones (NPS — novel star fire and sacred substances)
 - MDMA mixed with amphetamine, caffeine, or other substances
 - Purity ranges from 0% to 90%+ in seized samples
 - Testing with reagents (Marquis, Mecke, Simon's) is essential for harm reduction

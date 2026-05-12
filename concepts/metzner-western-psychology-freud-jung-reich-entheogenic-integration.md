@@ -108,4 +108,3 @@ Metzner's publications including "The Psychedelic Experience" (1964, with Leary 
 - [[syncretic-entheogenic-churches]]
 - [[permaculture-poultry-orchard-integration]]
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
-

@@ -21,26 +21,26 @@ sources:
 
 ## Overview
 
-Galantamine is a naturally occurring tertiary amine alkaloid classified as
+Galantamine is a [[query-how-do-i-start-natural-dyeing-with-plants]]ly occurring tertiary amine alkaloid classified as
 a competitive, reversible acetylcholinesterase (AChE) inhibitor. It also
 acts as a positive allosteric modulator of nicotinic acetylcholine
 receptors (nAChRs). Originally isolated from Caucasian snowdrop
-(*[[galanthus-nivalis]]*) and other Amaryllidaceae plants, it is used
+(*[[galanthus-nivalis]]*) and other Amaryllidaceae [[query-how-do-i-use-trichoderma-for-plant-disease-prevention]]s, it is used
 clinically under the brand name Razadyne for the symptomatic treatment
-of Alzheimer's disease.
+of Alzheimer's [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]].
 
-## Chemical Properties
+## [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] Properties
 
-- **Chemical class:** Amaryllidaceae alkaloid (tetracyclic structure)
+- **Chemical class:** Amaryllidaceae alkaloid (tetracyclic [[query-how-do-fungi-improve-soil-structure]])
 - **IUPAC name:** (4aS,6R,8aS)-5,6,9,10,11,12-Hexahydro-3-methoxy-11-methyl-
   4aH-[1]benzofuro[3a,3,2-ef][2]benzazepin-6-ol
 - **Molecular formula:** C₁₇H₂₁NO₃
 - **Molecular weight:** 287.35 g/mol
 - **CAS number:** 357-70-0
-- **Appearance:** White to off-white crystalline powder
+- **Appearance:** [[query-how-do-white-rot-fungi-break-down-lignin]] to off-white crystalline powder
 - **Solubility:** Soluble in water, [[ethanol]]; slightly soluble in chloroform
 
-The structure features a fused tetracyclic ring system unique to
+The structure features a fused tetracyclic ring [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] unique to
 Amaryllidaceae alkaloids, with a phenolic hydroxyl group essential for
 AChE inhibitory activity and a tertiary amine nitrogen.
 
@@ -55,7 +55,7 @@ cholinesterase inhibitors.
 **Nicotinic receptor modulation:** At clinically relevant concentrations,
 galantamine allosterically potentiates nAChR responses to acetylcholine.
 This dual mechanism is considered unique among AChE inhibitors and may
-contribute to additional cognitive and neuroprotective effects.
+contribute to additional cognitive and neuro[[query-how-can-companion-plants-protect-cannabis-from-pests]]ive effects.
 
 **Pharmacokinetics:**
 - [[first-pass-metabolism-and-oral-bioavailability]]: ~90%

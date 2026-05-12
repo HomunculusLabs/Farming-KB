@@ -4,11 +4,11 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-# Permaculture Ethics
+# [[permaculture-ethics-earth-care-people-care-fair-share]]
 
 ## The Ethical Foundation
 
-The ethics of [[permaculture]] were developed through research into community ethics as adopted by older religious and cooperative groups. Although many such guidelines contained as many as 18 principles, Mollison found that most could be distilled into three foundational ethics — and even the second and third arise from the first:
+The ethics of [[permaculture]] were developed through research into community ethics as adopted by older religious and cooperative groups. Although many such guidelines contained as many as 18 [[holmgren-ethical-principles-care-earth-people-fair-shares]], [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] found that most could be distilled into three foundational ethics — and even the second and third arise from the first:
 
 ### The Three Ethics of Permaculture
 
@@ -22,7 +22,7 @@ These ethics serve as a simple but powerful statement of guidance for everyday e
 
 Mollison presents a rational, evolutionary basis for ethical behaviour. Humans are thinking beings with long memories, oral and written records, and the ability to investigate the distant past through techniques from dendrochronology to archaeology, pollen analysis to geological sciences. It is therefore evident that behaviours once thought appropriate in the natural world later prove damaging to society in the long term.
 
-He cites the example of biocidal pest controls and their effects on soils and water — practices once widely accepted that were later understood to cause serious harm. This pattern repeats throughout modern history: technologies and practices adopted without long-term assessment turn out to have catastrophic consequences.
+He cites the example of biocidal [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]s and their effects on soils and water — practices once widely accepted that were later understood to cause serious harm. This pattern repeats throughout modern history: technologies and practices adopted without long-term assessment turn out to have catastrophic consequences.
 
 Thus, people are led by information, reflection, and careful investigation to moderate, abandon, or forbid certain behaviours and substances that in the long term threaten survival. Conservative and cautious rules of behaviour evolve — what Mollison calls a "rational and sensible process, responsible for many taboos in tribal societies." Ethics, in this view, are not arbitrary moral codes but survival strategies refined over time through observation and experience.
 
@@ -49,21 +49,21 @@ In practice, Mollison argues, people evolve over time to various forms of accoun
 
 - **Fiscal** — economic costs and returns
 - **Social** — impacts on community and human welfare
-- **Environmental** — effects on ecosystems and natural processes
+- **Environmental** — effects on eco[[mollison-open-living-systems-and-design-principles]] natural processes
 - **Aesthetic** — impacts on beauty, cultural values, and quality of life
 - **Energetic** — energy inputs and outputs, true energy cost
 
-All of these forms of accounting are appropriate to survival. [[permaculture-design]] seeks to integrate all of them into the decision-making process, rather than privileging one (typically the fiscal) over the others.
+All of these forms of accounting are appropriate to survival. [[permaculture-design]] seeks to [[query-how-do-i-integrate-ducks-into-my-permaculture-system]] all of them into the decision-making process, rather than privileging one (typically the fiscal) over the others.
 
 ## The Fundamental Realization
 
 Consideration of the rules of necessitous and conservative use leads, step by step, to the basic realization of human interconnectedness with nature — that we are not separate from or above natural systems but are embedded within them and dependent on their continued functioning.
 
-This realization is not merely philosophical but has practical consequences for design. If we understand that we are part of the system we are designing, then the health of the system is our own health. Degrading the soil is degrading ourselves. Polluting the water is poisoning our own future. This understanding shifts the design question from "How can I extract maximum yield?" to "How can I participate in a way that enhances the system's long-term vitality?"
+This realization is not merely philosophical but has practical consequences for design. If we understand that we are part of the system we are designing, then the health of the system is our own health. Degrading the soil is degrading ourselves. Polluting the water is poisoning our own future. This [[permaculture-pattern-understanding-design-process]] shifts the design question from "How can I extract maximum yield?" to "How can I participate in a way that enhances the system's long-term vitality?"
 
 ## Ethics in Practice
 
-The permaculture ethics are deliberately broad and interpretable. They are not a rigid code but a set of guiding principles that can be applied to any situation — from designing a backyard garden to organizing a bioregional economy. The breadth is intentional: Mollison wanted ethics that could guide action across all scales and cultures.
+The [[permaculture-ethics-of-earth-care-and-people-care]] are deliberately broad and interpretable. They are not a rigid code but a set of guiding principles that can be applied to any situation — from designing a backyard garden to organizing a bioregional economy. The breadth is intentional: Mollison wanted ethics that could guide action across all scales and cultures.
 
 The ethics also serve a unifying function. People who agree on these principles may go their own way, at their own pace, and within the limits of their resources, yet all lead toward the same goals. This is what Mollison calls a "global nation" — not a political entity but a community of shared values and purpose.
 

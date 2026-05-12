@@ -123,3 +123,8 @@ observation, and a willingness to adapt approaches based on results.
 - [[det]]
 - [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]]
 - [[fungal-beta-diversity-similarity-indices-zak-willig]]
+
+- [[fungal-biodiversity-crisis]]
+- [[fungal-biodiversity-education-citizen-science]]
+- [[fungal-biodiversity-scale-discovery-estimation]]
+- [[fungal-biodiversity-species-estimation]]

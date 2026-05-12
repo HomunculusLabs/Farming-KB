@@ -6,7 +6,7 @@ type: concept
 
 # System Yield and Yield Strategies
 
-In permaculture, yield is fundamentally redefined from the narrow agricultural concept of a single product per hectare. System yield encompasses the total surplus energy produced, stored, conserved, reused, or converted by a design — energy that remains after the system itself has met all its needs for growth, reproduction, and maintenance.
+In [[permaculture]], yield is fundamentally redefined from the narrow agricultural concept of a single product per hectare. System yield encompasses the total surplus energy produced, stored, conserved, reused, or converted by a design — energy that remains after the system itself has met all its needs for growth, reproduction, and maintenance.
 
 ## Types of Yield
 
@@ -55,7 +55,7 @@ Permaculture organizes yield-producing strategies into several categories:
 
 ### Pattern Strategies
 
-- **Annidation**: A design strategy of nesting or stacking one thing within another, like a bowl in a bowl or a vine in a tree. Sequential annidation includes interplanting and intercropping.
+- **[[annidation]]**: A design strategy of nesting or stacking one thing within another, like a bowl in a bowl or a vine in a tree. Sequential annidation includes interplanting and intercropping.
 - **Tessellation**: Forming or arranging a mosaic of parts — tessellation of cycles and successions as in browsing sequences.
 - **Innovative spatial geometry** of designs using edge and harmonics
 - **Routing of materials or energy** to their next best use
@@ -91,7 +91,7 @@ This approach to production is theoretically unlimited in its potential. System 
 
 Yield in design is not a fixed, immutable quantity limited by pre-existing circumstances. It results from behavior, knowledge, and the application of intellect, skill, and comprehension. These can either limit or liberate the concept of yield.
 
-The profound difference between permaculture design and nature is that permaculture actively intervenes to supply missing elements and guide system evolution. There is always room for another plant, another cycle, another route, another arrangement, another technique or structure. The area needed to survive can be continually shrunk. The critical yield strategy is governing our own appetites.
+The profound difference between [[permaculture-design]] and nature is that permaculture actively intervenes to supply missing elements and guide system evolution. There is always room for another plant, another cycle, another route, another arrangement, another technique or structure. The area needed to survive can be continually shrunk. The critical yield strategy is governing our own appetites.
 
 ## Decreasing Yield
 

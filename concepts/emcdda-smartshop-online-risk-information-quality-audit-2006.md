@@ -109,7 +109,7 @@ However, the extent and quality of information on these independent sites was al
 
 The audit findings highlighted a gap between existing consumer protection frameworks and the novel challenges posed by online psychoactive substance retail. While physical smartshops in the Netherlands were subject to some degree of local oversight, online retailers could reach consumers across the EU with minimal regulatory scrutiny. The EMCDDA audit demonstrated that voluntary self-regulation by online retailers was insufficient to ensure consumer safety.
 
-The findings contributed to the broader case for legislative action in several EU member states, as the combination of biased retail information, lack of dosage guidance, and cross-border accessibility created conditions where consumers were making decisions about [[cultural-evolution-and-psychoactive-substances]] without adequate risk information.
+The findings contributed to the broader case for legislative action in several EU member states, as the combination of biased retail information, lack of dosage guidance, and cross-border accessibility created conditions where consumers were making decisions about star fire and sacred substances without adequate risk information.
 
 ## Methodological Limitations
 
@@ -122,7 +122,7 @@ The EMCDDA acknowledged several limitations of the audit:
 
 ## See Also
 
-- emcdda-retailer-risk-information-quality.md
+- [[emcdda-retailer-risk-information-quality]].md
 - smartshop-product-labels-and-retailer-risk-information-hallucinogenic-mushrooms.md
 - emcdda-hallucinogenic-mushroom-harm-reduction.md
 - emcdda-hallucinogenic-mushroom-dose-effects.md

@@ -105,7 +105,7 @@ This hierarchy directly affects **dilution rates**. For example, fermented grain
 
 ## Designer Compost (Bokashi)
 
-**Designer compost**, known as **bokashi** in Japan, is an improved, nutrient-fortified compost that integrates bionutrients and biodiversed [[beneficial-indigenous-microorganisms]] (BIM) into a concentrated organic soil amendment. Unlike traditional composting, bokashi is an **anaerobic fermentation** process that preserves more nutrients and produces a more potent end product.
+**Designer compost**, known as **bokashi** in Japan, is an improved, nutrient-fortified compost that integrates bionutrients and biodiversed [[beneficial-indigenous-microorganisms-bim|BIM]] (BIM) into a concentrated organic soil amendment. Unlike traditional composting, bokashi is an **anaerobic fermentation** process that preserves more nutrients and produces a more potent end product.
 
 ### Philippine Base Recipe
 

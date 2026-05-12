@@ -8,7 +8,7 @@ sources: []
 ---
 # Polycyclic Aromatic Hydrocarbons -- Properties and Toxicity
 
-[[fungal-pah-degradation-and-soil-bioremediation]]. Understanding their chemical properties, environmental behavior, and toxicological significance is essential for developing effective remediation strategies.
+[[soil-health-and-microbial-life]]. Understanding their chemical properties, environmental behavior, and toxicological significance is essential for developing effective remediation strategies.
 
 ## Chemical Nature and Sources
 

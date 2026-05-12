@@ -25,7 +25,7 @@ common and ecologically important sedges in the northern [[guzman-magic-mushroom
 
 The species is recognized by its sharply pointed, awn-tipped perigynia and
 stout, densely flowered spikes. It is highly adaptable and occurs in a wide
-range of wetland and moist habitats.
+range of [[mollison-designers-aquatic-edge-planted-wetland-design]] and moist [[guzman-magic-mushrooms-habitat-ecology]]s.
 
 Carex stipata has a circumboreal distribution, occurring across North America
 and extending into Eurasia. The [[growing-gourmet-north-american-reishi-species]] populations are assigned to
@@ -45,7 +45,7 @@ Two varieties are generally recognized in North America: var. stipata, which
 has narrower perigynia and occurs in northeastern North America, and var.
 maxima, which has broader perigynia and ranges across the continent.
 
-The plant forms dense tussocks from short, stout rhizomes. Culms are sharply
+The plant forms dense tussocks from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], stout rhizomes. Culms are sharply
 triangular, 30 to 100 centimeters tall, and 1.5 to 3.5 millimeters thick.
 
 Leaf blades are 3 to 8 millimeters wide, green to dark green, and typically
@@ -73,9 +73,9 @@ northern Great Lakes region and New England.
 
 It occupies a broad range of wetland and moist habitats including marshes,
 sedge meadows, fens, streambanks, pond margins, roadside ditches, and
-depressional wetlands. Elevation ranges from sea level to over 2,000 meters.
+depressional wetlands. Elevation ranges from [[mollison-designers-sea-level-change-coastal-zones]] to over 2,000 meters.
 
-Carex stipata tolerates both mineral and organic substrates. It grows in full
+Carex stipata tolerates both mineral and organic [[growing-gourmet-mushrooms-species-sequencing-substrate-utilization]]s. It grows in full
 sun to partial shade and is notably tolerant of fluctuating water levels.
 
 ## Ecology
@@ -85,6 +85,6 @@ communities across northern North America. It is a characteristic species of
 the [[carex-stricta]] sedge meadow alliance and the Calamagrostis–Carex wet
 meadow type.
 
-The dense root systems and rhizome mats stabilize soil in riparian and
-palustrine wetlands. Plants spread clonally, forming extensive patches that
-resist erosion and sediment movement.
+The dense root [[mollison-designers-soil-water-storage-in-forest-systems]] and rhizome mats stabilize soil in riparian and
+palustrine wetlands. [[phytochrome-red-far-red-ratio-shade-detection-plants]] spread clonally, forming extensive patches that
+resist [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] and sediment movement.

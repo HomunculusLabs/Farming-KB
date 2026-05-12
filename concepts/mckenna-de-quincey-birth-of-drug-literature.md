@@ -11,7 +11,7 @@ created: 2026-05-08
 Thomas De Quincey's "Confessions of an English Opium-Eater" (1821) represents
 a watershed moment in intellectual history: the first serious literary
 exploration of drug experience from the inside. De Quincey invented not merely a
-genre but an entire framework for understanding [[cultural-evolution-and-psychoactive-substances]] as
+genre but an entire framework for understanding [[star-fire-and-sacred-substances]] as
 objects of sustained personal and philosophical inquiry.
 
 ## The Confessions

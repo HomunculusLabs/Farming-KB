@@ -28,30 +28,30 @@ No qualitative comments available in source.
 ## Extensions and Commentary
 
 The benzyl group is a good ally in the
-synthetic world of the organic chemist, in that it can be easily
+synthetic world of the [[query-how-to-make-your-own-organic-fertilizer-at-home]] chemist, in that it can be easily
 removed by catalytic hydrogenation. This is a trick often used to
 protect (for a step or series of steps) a position on the molecule,
 and allowing it to become free and available at a later part in a
 synthetic scheme. In pharmacology, however, it is often a
 disappointment. With most centrally active alkaloids, there is a
-two-carbon separation between the weak base that is called the
+two-carbon separation [[query-what-is-the-difference-between-organic-regenerative-and-biodynamic-agriculture]] the weak base that is called the
 aromatic ring, and the strong base that is called the nitrogen. This
-is what makes phenethylamines what they are. The phen- is the
+is what makes phenethylamines what they are. The phen- [[query-what-is-the-difference-between-biointensive-and-no-till-gardening]]
 aromatic ring (this is a shortened form of prefix phenyl which is a
 word which came, in turn, from the simplest aromatic alcohol, phenol);
 the ethyl is the two carbon chain, and the amine is the basic
 nitrogen. If one carbon is removed, one has a benzylamine, and it is
-usually identified with an entirely different pharmacology, or is most
+usually identified with an entirely [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] pharmacology, or is most
 often simply not active. A vivid example is the narcotic drug,
 [[fentanyl]]. The replacement of the phenethyl group, attached to the
 nitrogen atom with a benzyl group, virtually eliminates its analgesic
 potency.
 
 Here too, there appears to be little if any activity in the N-benzyl
-analogue of MDA. A number of other variations had been synthesized,
+analogue of MDA. A number of other [[gartz-psilocybin-potency-and-alkaloid-variations]] had been synthesized,
 and none of them ever put into [[psilocybin-clinical-trial-landscape-2020-2025]]. With many of them
-there was an ongoing problem in the separation of the starting amine
-from the product amine. Sometimes the difference in boiling points
+there was an ongoing problem in the separation of the [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] amine
+from the product amine. Sometimes [[query-what-is-the-difference-between-compost-tea-and-compost-extract]] in boiling points
 could serve, and sometimes their relative polarities could be
 exploited. Sometimes, ion-pair extraction would work wonders. But
 occasionally, nothing really worked well, and the final product had to
@@ -71,7 +71,7 @@ a mixture of (t)-butylamine hydrochloride and
 3,4-methylenedioxy-N-(t)-butylamphetamine (MDTB) but the yield was
 miniscule. The amyl analog was similarly prepared from (n)-amylamine
 hydrochloride and 3,4-methylenedioxyphenylacetone in methanol to give
-3,4-methylenedioxy-N-amylamphetamine which distilled at 110-120 deg C at
+3,4-methylenedioxy-N-amylamphetamine which di[[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]ed at 110-120 deg C at
 0.2 mm/Hg and formed a hydrochloride salt (MDAM) with a mp of 164-166
 deg C. Anal. (C15H24ClNO2) N. A similar reaction with (n)-hexylamine
 hydrochloride and 3,4-methylenedioxyphenylacetone in methanol, with

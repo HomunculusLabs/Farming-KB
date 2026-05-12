@@ -45,7 +45,7 @@ University extensions generally recommend it as part of an integrated approach r
 
 The foundation of good compost tea is high-quality, fully finished compost.
 Your compost should smell earthy and sweet, with no sour or putrid odors.
-Using [[bokashi-vs-compost-tea]] shows that biochar provides long-term soil structure and nutrient retention, while compost tea delivers an immediate pulse of microbial activity.
+Using [[bokashi]] shows that biochar provides long-term soil structure and nutrient retention, while compost tea delivers an immediate pulse of microbial activity.
 They complement each other well: biochar creates habitat for microbes, and compost tea populates that habitat.
 
 Similarly, [[comparison-comfrey-tea-vs-compost-tea|comfrey tea vs compost tea]] highlights different purposes.

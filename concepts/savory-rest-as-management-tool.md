@@ -14,7 +14,7 @@ sources:
 type: concept
 ---
 
-# Rest as a Management Tool
+# Rest as a [[savory-growing-season-and-non-growing-season-management]] Tool
 
 Rest as a tool in [[savory-holistic-resource-management-animal-impact]] Management differs fundamentally
 from the short physiological rest a plant requires to recover from
@@ -37,23 +37,23 @@ Partial rest is a widespread policy, evident anywhere small numbers
 of livestock or game animals are widely scattered and seldom agitated.
 That rest in either form functions as a tool of the same order as fire
 or a plow comes as a new concept. We considered rest natural until we
-registered the fact that brittle and nonbrittle environments react to
+registered the fact that brittle and [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]] react to
 it in very different ways.
 
 ## Rest in Nonbrittle Environments
 
-In nonbrittle environments, plant material decomposes quickly through
+In nonbrittle environments, plant material decomposes quickly [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
 biological decay starting close to the ground where the microenvironment
 supports abundant decomposer organisms. This process suits perennial
-grass plants particularly well because old leaves and stems weaken at
+grass [[phytochrome-red-far-red-ratio-shade-detection-plants]] particularly well because old leaves and stems weaken at
 the base and fall aside, allowing light to reach basal growing points
 and new growth to begin unimpeded.
 
 Communities under total rest in nonbrittle environments maintain a
-high degree of stability and complexity of species. Water, if it runs
+high degree of stability and complexity of species. [[savory-holistic-resource-management-water-cycle]], if it runs
 off at all, carries no silt or debris. Even very prolonged rest from
 fire or physical impact has little or no adverse effect on the water
-cycle, [[savory-mineral-cycle-management]], succession, or energy flow. Desertification is
+[[savory-holistic-resource-management-mineral-cycle]], [[savory-mineral-cycle-management]], [[savory-holistic-resource-management-ecological-succession]], or [[savory-holistic-resource-management-energy-flow]]. Desertification is
 seldom a danger.
 
 ## Rest in Brittle Environments

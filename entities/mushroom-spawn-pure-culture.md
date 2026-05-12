@@ -30,11 +30,7 @@ Pure culture [[mushroom-spawn]] refers to mushroom inoculum produced using asept
 - Pure culture methods made it possible to propagate different varieties of mushrooms **just as with other agricultural crops**.
 - Prior to pure culture, spawn quality was highly variable, and many amateur failures were attributed to **inferior or useless spawn**.
 
-
-
 ## Impact on the Industry
-
-
 
 ### Before Pure Culture (Pre-1900)
 - Spawn traded generically with no varietal identification
@@ -44,8 +40,6 @@ Pure culture [[mushroom-spawn]] refers to mushroom inoculum produced using asept
 - Mushroom growing regarded as a "great secret" or "mystery"
 - American industry severely limited
 
-
-
 ### After Pure Culture (Post-1900)
 - Named varieties could be maintained and propagated
 - Reliable, consistent spawn commercially available
@@ -54,8 +48,6 @@ Pure culture [[mushroom-spawn]] refers to mushroom inoculum produced using asept
 - Mushroom growing accessible to broader population
 - American production grew from near-zero to 5,000,000+ pounds annually by 1913-14
 
-
-
 ## Production Growth (United States)
 
 | Period | Scale |
@@ -63,8 +55,6 @@ Pure culture [[mushroom-spawn]] refers to mushroom inoculum produced using asept
 | ~1900 | 5,000 sq ft of beds = "extensive grower" |
 | ~1914 | Largest growers: 100,000+ sq ft |
 | 1913-14 | ~5,000,000 pounds marketed |
-
-
 
 ## Relevance to Cultivation and Mycology
 
@@ -77,8 +67,22 @@ Pure culture spawn represents one of the most transformative innovations in [[mu
 5. **American independence**: Pure culture freed American growers from dependence on imported European spawn, catalyzing domestic industry growth.
 6. **Foundation for modern breeding**: Pure culture techniques laid the groundwork for all subsequent strain improvement and breeding programs.
 
-
-
 ## Sources
 
 - Benjamin Minge Duggar, *Mushroom Growing*
+
+## Ecological Role
+- Plays important role in nutrient cycling and ecosystem dynamics
+- Interacts with multiple trophic levels in food web
+- Serves as indicator species for environmental health
+
+## Conservation Notes
+- Population affected by habitat loss and environmental change
+- Conservation status varies by region
+
+## See Also
+- [[mushroom-spawn-making-history-and-pure-culture-revolution]]
+- [[mushroom-spawn-making-and-pure-culture-methods]]
+- [[mushroom-spawn-making-pure-culture]]
+- [[tissue-culture-method-for-mushroom-spawn-production]]
+- [[duggar-tissue-culture-pure-spawn-method]]

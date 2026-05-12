@@ -107,7 +107,7 @@ subsidies for sugar production, mandatory warning labels on sugar packaging, and
 making sugar a mandatory topic in school nutrition curricula. This position
 reflects his broader argument that the dominator culture has systematically
 legitimized some drugs while demonizing others, and that a genuine understanding
-of our relationship to [[cultural-evolution-and-psychoactive-substances]] must begin with honesty about
+of our relationship to [[star-fire-and-sacred-substances]] must begin with honesty about
 sugar.
 
 ## Practical Applications

@@ -25,7 +25,7 @@ sources:
 *Rehmannia glutinosa* is a perennial herbaceous plant in the family Orophusaceae
 (formerly Scrophulariaceae), native to China, Korea, and Japan.
 
-It is one of the most important herbs in Traditional Chinese Medicine (TCM),
+It is one of [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] herbs in Traditional Chinese Medicine (TCM),
 where the processed root (*Shu Di Huang*) is considered a premier kidney-yin tonic.
 
 The fresh root (*Sheng Di Huang*) is used to clear heat and cool blood,
@@ -43,7 +43,7 @@ while the prepared root nourishes yin, tonifies the kidney, and benefits the mar
 *purpurea* Makino
 
 **Etymology:** The genus honors Joseph Rehmann (1778–1831), a Russian botanist.
-The specific epithet *glutinosa* refers to the sticky, glutinous nature of the
+The [[ingham-aact-disease-case-studies-specific-pathogens]] epithet *glutinosa* refers to the sticky, glutinous nature of the
 fresh roots when boiled.
 
 ## Morphology
@@ -56,13 +56,13 @@ Rehmannia is a low-growing herb reaching 15–30 cm in height.
 - **Flowers:** Tubular, 3–4 cm long, purplish with yellowish throat, borne
   in terminal cymes; calyx 5-lobed, corolla bilabiate.
 - **Fruit:** Ovoid capsule containing numerous small seeds.
-- **Root:** Thick, fleshy tuberous root system, the primary medicinal organ.
-  Fresh roots are pale yellow; processed roots turn dark brown-black.
+- **Root:** Thick, fleshy tuberous root system, the primary [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] organ.
+  Fresh roots are pale yellow; processed roots turn dark [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]-black.
 
 ## Phytochemistry
 
 The bioactive constituents of *R. glutinosa* are dominated by iridoid glycosides,
-with additional [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and polysaccharides contributing to activity.
+with additional [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]] contributing to activity.
 
 **Primary iridoid glycosides:**
 
@@ -82,11 +82,11 @@ Catalpol content decreases by 60–80% during processing, while 5-HMF
 
 ## Pharmacology
 
-Catalpol, the marker compound, demonstrates activity across multiple systems.
+Catalpol, the marker compound, demonst[[ingham-compost-tea-application-rates-and-timing]] activity across multiple systems.
 
 - **Neuroprotective:** Catalpol reduces neuronal apoptosis via PI3K/Akt
   pathway activation, downregulates Bax/Bcl-2 ratio, and inhibits
-  neuroinflammation through NF-κB suppression. Demonstrated efficacy in
+  neuroinflammation [[ingham-aact-disease-suppression-through-food-competition]] NF-κB [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust]]. Demonstrated efficacy in
   Alzheimer's and Parkinson's disease models.
 
 ## See Also

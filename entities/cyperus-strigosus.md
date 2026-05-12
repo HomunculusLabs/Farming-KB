@@ -21,13 +21,13 @@ sources:
 
 **Cyperus strigosus**, commonly known as straw-colored flatsedge, is an annual sedge native to North and South America.
 
-It is a widespread species of disturbed habitats, wetlands, and agricultural areas across its range.
+It is a widespread [[guzman-caribbean-neurotropic-fungi-species-distribution]] of disturbed habitats, wetlands, and agricultural areas across its range.
 
 The plant belongs to the large genus **Cyperus** in the family Cyperaceae.
 
 It is often considered a weed in cultivated fields but plays an important ecological role in wetland successional communities.
 
-## Taxonomy and Morphology
+## [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] Morphology
 
 Cyperus strigosus L. was described by Carl Linnaeus in 1753 in *Species Plantarum*.
 
@@ -49,19 +49,19 @@ Glumes are distichous, 2–2.5 mm long, with a green keel and hyaline margins.
 
 The achene is obovate, approximately 1 mm long, brown, and three-angled.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
-Cyperus strigosus is native to the eastern and central United States, ranging from Massachusetts to Florida and west to Texas and Minnesota.
+Cyperus strigosus is native to the eastern and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] [[neurotropic-fungi-distribution-united-states-regions-guzman-1998]], ranging from Massachusetts to Florida and west to Texas and Minnesota.
 
 Its range extends into Mexico, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and parts of South America.
 
-The species has been introduced in Hawaii and other tropical regions.
+The species has been introduced in Hawaii and other [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]] regions.
 
 It is highly adaptable, occurring in wet meadows, pond margins, ditches, disturbed ground, and cultivated fields.
 
 It tolerates both seasonal flooding and moderate drought, thriving in sunny, open conditions.
 
-Soil types include clays, loams, and sandy alluvium with neutral to slightly acidic pH.
+Soil [[guzman-allen-gartz-akira-hongo-distribution-types-neurotropic-fungi-examples]] include clays, loams, and sandy alluvium with neutral to slightly acidic pH.
 
 ## Ecology
 
@@ -75,7 +75,7 @@ The species provides food and cover for waterfowl, shorebirds, and small mammals
 
 It serves as a host plant for several moth species, including the diphenia moth (*Pseudosermyle straminea*).
 
-In agricultural contexts, it is classified as a minor weed of rice, soybeans, and cotton.
+In agri[[neurotropic-fungi-japan-east-asia-species-cultural-context]]s, it is classified as a minor weed of rice, soybeans, and cotton.
 
 ## Ethnobotany and Uses
 

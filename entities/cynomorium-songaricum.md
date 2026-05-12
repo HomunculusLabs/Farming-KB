@@ -30,7 +30,7 @@ The species is entirely parasitic on the roots of desert shrubs, primarily
 species of Nitraria (Nitrariaceae). It produces no chlorophyll and is visible
 above ground only during its flowering and fruiting period.
 
-C. songaricum occupies a unique ecological niche in arid and semi-arid
+C. songaricum occupies a unique [[ecological-niche]] in arid and semi-arid
 environments of Central and [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where it has been used medicinally for
 over 1,200 years.
 

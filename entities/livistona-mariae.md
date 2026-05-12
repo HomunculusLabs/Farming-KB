@@ -41,7 +41,7 @@ Petioles are robust, 1.5 to 2 meters in length, armed with sharp, recurved teeth
 
 Inflorescences are interfoliar, arising from among the leaf bases, and are shorter than the leaves. They are branched and bear small, cream to pale yellow flowers in dense clusters.
 
-Fruit is a spherical to slightly ovoid drupe, 1.5 to 2 cm in diameter, ripening from green to dark brown or black. The mesocarp is thin and fibrous, enclosing a single globose seed.
+Fruit is a spherical to s[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ly ovoid drupe, 1.5 to 2 cm in diameter, ripening from green to dark brown or black. The mesocarp is thin and fibrous, enclosing a single globose seed.
 
 ## Distribution and Habitat
 
@@ -49,17 +49,17 @@ Livistona mariae is endemic to the MacDonnell Ranges and adjacent ranges in cent
 
 The species is restricted to permanent or semi-permanent watercourses within rocky gorges and valleys. These refugial habitats provide reliable moisture in an otherwise [[arid-landscape-scarp-wadi-desert-settlement]] receiving less than 300 mm of annual rainfall.
 
-The palm forests of Palm Valley represent one of the most isolated palm populations in the world. The nearest Livistona populations are over 1,000 km to the north in the tropical savannas of the Top End.
+The palm forests of Palm Valley represent one of the most isolated palm populations in the world. The nearest Livistona populations are over 1,000 km to the north in the [[query-how-to-design-a-food-forest-for-a-tropical-climate]] savannas of the Top End.
 
 Palm Valley contains an estimated 3,000 to 5,000 mature individuals, making it the largest and most iconic population. Smaller, scattered populations occur in nearby gorges including Ormiston Gorge and Standley Chasm.
 
-The species occurs at elevations between 500 and 900 meters in sheltered, narrow gorge systems. These sites receive supplementary moisture from groundwater seepage and seasonal flash flooding.
+The species occurs at elevations between 500 and 900 meters in sheltered, narrow gorge [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s. These sites receive supplementary moisture from groundwater seepage and seasonal flash flooding.
 
 Soils are typically shallow, rocky, and alkaline, derived from sandstone and limestone substrates. Despite the arid regional climate, the microclimate within the gorges is significantly cooler and more humid.
 
-Water chemistry studies have shown that the permanent water sources supporting these palm populations are fed by deep aquifers. These ancient groundwater reserves may be thousands of years old and provide critical drought refugia.
+Water chemistry studies have shown that the permanent water sources supporting these palm populations are fed by deep aquifers. These ancient groundwater reserves may be thousands of years old and provide critical [[dighton-fungal-drought-tolerance-plant-water-relations]] refugia.
 
-The isolated nature of the Palm Valley population has led to significant genetic differentiation from northern Livistona species. Molecular studies suggest that Livistona mariae has been separated from its nearest relatives for approximately 15,000 to 30,000 years.
+The isolated nature of the Palm Valley population has led to significant genetic [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]iation from northern Livistona species. Molecular studies suggest that Livistona mariae has been separated from its nearest relatives for approximately 15,000 to 30,000 years.
 
 Genomic research has confirmed that Livistona mariae is closely related to Livistona rigida from northern Australia. The two species diverged when aridification of the Australian interior fragmented previously continuous populations.
 
@@ -69,7 +69,7 @@ Livistona mariae is a relict species, surviving in central Australian gorges as 
 
 The palm is dependent on permanent water for regeneration and survival. Seedlings establish primarily along moist stream banks and in areas of groundwater seepage within the gorge systems.
 
-Fire is a significant ecological factor affecting palm populations. Low-intensity fires are generally tolerated by mature palms due to their thick bark and elevated crowns. However, crown fires and severe wildfires can kill mature individuals.
+Fire is a significant [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] factor affecting palm populations. Low-intensity fires are generally tolerated by mature palms due to their thick bark and elevated crowns. However, crown fires and severe wildfires can kill mature individuals.
 
 Concern has been raised about the long-term viability of the Palm Valley population. Research has documented declining recruitment rates, with relatively few seedlings surviving to maturity in recent decades.
 
@@ -85,6 +85,6 @@ Livistona mariae holds profound cultural importance for the Western Arrernte Abo
 
 According to Arrernte tradition, the cabbage palm was created by ancestral beings during the Dreaming and planted in the gorges. These stories encode important ecological knowledge about the palm's distribution and habitat requirements.
 
-The heart of the young palm, known as cabbage, has been traditionally harvested as a food source. This practice required considerable skill, as overharvesting kills the individual palm.
+The heart of the young palm, known as cabbage, has been traditionally [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]]ed as a food source. This practice required considerable skill, as over[[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] kills the individual palm.
 
 Arrernte people used the fronds for weaving baskets, mats, and shelters. The leaf fibers were also employed in making string and rope for various practical purposes.

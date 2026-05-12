@@ -94,3 +94,7 @@ Market considerations should also inform species selection. Shiitake and oyster 
 - [[mushroom-ecological-species]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
 - [[entheogenic-mushroom-species]]
+
+- [[mushroom-species-parameters-comparison]]
+- [[mushroom-species-sequencing]]
+- [[mushroom-species-sequencing-cultivation]]

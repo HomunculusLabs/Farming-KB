@@ -28,15 +28,15 @@ sources:
   - Kobsa, M. (2010). "Eriodictyon: California's Sacred Herb." Economic Botany, 64(1), 18-30.
 ---
 
-## Overview
+## [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
 
 **Eriodictyon californicum** (Hook. & Arn.) Torr., commonly known as yerba
 santa ("sacred herb" in Spanish), is an evergreen shrub in the family
 Hydrophyllaceae (or Boraginaceae, under modern APG IV classification).
 Native to the western slopes of California and the [[psilocybin-north-america-pacific-northwest]], it
-is one of the most important medicinal plants in the pharmacopoeia of
+is one of [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] plants in the pharmacopoeia of
 Native California peoples, who have used it for centuries to treat
-respiratory ailments, wounds, and musculoskeletal pain.
+respiratory ailments, [[blesching-cannabis-post-surgery-wounds]], and musculoskeletal pain.
 
 The plant's common name was bestowed by Spanish missionaries who observed
 its central role in Indigenous [[blesching-cannabis-healing-practices-setting-intention-affirmations]]. It entered Western
@@ -56,8 +56,8 @@ are covered in a whitish, felt-like tomentum; mature stems become
 glabrous and woody.
 
 Leaves are alternate, oblong-lanceolate to ovate, 5–15 cm long and 2–6 cm
-wide, with entire or slightly toothed margins. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is
-dark green and leathery; the lower surface is densely white-tomentose.
+wide, with entire or s[[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ly toothed margins. The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is
+dark green and leathery; the lower surface is densely [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]-tomentose.
 Leaves are coated in sticky resin (primarily eriodictyol and related
 flavonoids) that gives them a characteristic balsamic aroma.
 
@@ -66,15 +66,15 @@ inflorescences). Petals are white to pale lavender, often with purple
 striping. Blooming occurs April through August. Fruit is a small, 2-chambered
 capsule containing 2–4 seeds.
 
-## Distribution and Habitat
+## [[psilocybin-vs-psilocin-distribution-cap-stem]] and Habitat
 
 Native to California (Coast Ranges, Sierra Nevada foothills, Klamath
 Mountains) and southwestern Oregon, at elevations of 150–2,000 m. It
-inhabits chaparral, mixed evergreen forests, oak woodlands, and dry rocky
+inhabits chaparral, mixed evergreen [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]], oak woodlands, and dry rocky
 slopes, often in post-fire succession communities.
 
 The species prefers well-drained, rocky or sandy soils in full sun to
-partial shade. It is moderately drought-tolerant, adapted to the
+partial [[phytochrome-red-far-red-ratio-shade-detection-plants]]. It is moderately drought-tolerant, adapted to the
 Mediterranean climate regime of California, and resprouts vigorously
 after fire from a woody lignotuber.
 

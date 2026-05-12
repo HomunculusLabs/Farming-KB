@@ -88,3 +88,10 @@ dry substrate mass) of approximately 23-29%.
 ### Brassinosteroid Yield
 
 Brassinosteroid-treated cultures yielded 3.4 to 3.9 grams dry mass per 10
+
+## See Also
+
+- [[psilocybe-cubensis-alkaloid-distribution]]
+- [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]]
+- [[psilocybe-cubensis-mycelial-growth-optimization]]
+- [[psilocybe-cubensis-strain-varieties-and-characteristics]]

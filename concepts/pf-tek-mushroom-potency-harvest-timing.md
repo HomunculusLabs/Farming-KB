@@ -10,22 +10,22 @@ created: 2026-05-09
 ## Overview
 
 One of the most practical and frequently discussed aspects of home mushroom
-cultivation is the relationship between harvest timing and mushroom potency. The
-PF TEK, authored by Psilocybe Fanaticus, includes detailed guidance on
-maximizing the psychoactive potency of cultivated [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] through
-strategic harvesting decisions. This guidance draws on both Fanaticus's own
+[[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]] is the relationship between harvest timing and mushroom potency. The
+PF TEK, authored by [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] Fanaticus, includes detailed guidance on
+maximizing the psychoactive potency of [[psilocybin-potency-factors-cultivated-wild-mushrooms-gartz]] [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] through
+strategic [[pf-tek-primordia-abort-harvesting-potency-by-age]] decisions. This guidance draws on both Fanaticus's own
 cultivation experience and published research by Jochen Gartz, and is
 supplemented by extensive dosage and potency excerpts from Paul Stamets's
 "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World."
 
-## Stamets Dosage Guidelines (Excerpted in PF TEK)
+## [[pf-tek-stamets-dosage-reference-psilocybin-potency-guidelines]] Guidelines (Excerpted in PF TEK)
 
 The PF TEK reproduces key passages from Chapter 5 of Stamets's book regarding
 dosage and potency, providing a framework for understanding individual
 sensitivity and dosage ranges:
 
 **Individual Sensitivity**: Stamets notes significant individual variation in
-sensitivity to psilocybin mushrooms. One mycologist reportedly responds to only
+sensitivity to [[emcdda-psilocybin-mushroom-potency-species-comparison-dosage-guidelines]]s. One mycologist reportedly responds to only
 1-2 grams (dried) as if he had consumed 3-4 times that dose. At the other
 extreme, a woman reported feeling no effects whatsoever at doses exceeding 5
 grams (dried), despite being well-read on mushroom history and eagerly
@@ -47,7 +47,7 @@ overwhelming, spanning 6 hours.
 **High-Dose Considerations**: Stamets recommends against doses above 7 grams
 dried, even for experienced users. At higher doses, some users report loss of
 muscular control and strength persisting into the following day. This has been
-reported with P. azurescens, P. cyanescens, and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]].
+reported with P. azurescens, P. [[stamets-psi-psilocybe-cyanescens-species-guide]], and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]].
 
 ## Psilocybe Fanaticus on Potency
 
@@ -57,7 +57,7 @@ potency, based on his cultivation experience and the research of Jochen Gartz:
 ### Key Potency Principles
 
 1. **Substrate quality**: P. cubensis can achieve a baseline psilocybin content
-   of 1% (similar to P. semilanceata) when grown on brown rice, but this
+   of 1% (similar to P. semilanceata) when grown on [[pf-tek-brown-rice-vermiculite-substrate-method]], but this
    depends on multiple factors.
 
 2. **Age and maturity**: Young specimens are significantly more potent than

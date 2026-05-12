@@ -119,7 +119,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[soil-food-web-assessment]]
-- [[the-soil-food-web]]
+- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]
 - [[soil-foodweb]]
 - [[ingham-field-guide-soil-food-web-assessment]]

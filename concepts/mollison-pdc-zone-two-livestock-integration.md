@@ -15,19 +15,19 @@ sources:
 type: concept
 ---
 
-# Zone mollison pdc zone two livestock integration
+# Zone [[mollison-designers-small-dam-site-selection-design]] pdc zone two livestock [[mollison-animal-integration-permaculture-design]]
 
 ## The Biological Funnel
 
-The pdc-forage-systems-animal-integration
-- Animals provide heat and [[decomposition]] of manures, creating synergistic
-  effects with [[mollison-permaculture-two-zone-planning-and-site-layout]]
+The pdc-[[mollison-designers-free-range-forage-design-principles]]-[[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]-animal-integration
+- [[mollison-domestic-small-animals-zone-one]] provide heat and [[decomposition]] of manures, creating synergistic
+  [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]s with [[mollison-permaculture-two-zone-planning-and-site-layout]]
 - [[mollison-designers-temperate-zone-food-forest-design]]
 ## Practical Applications
 
 Zone Two Livestock Integration has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
+requires familiarity with the underlying [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] and their
 manifestation in real-world contexts. The breadth of applications
 reflects the fundamental importance of this topic across disciplines.
 
@@ -35,7 +35,7 @@ Implementation varies based on scale, available resources, and
 specific objectives. Small-scale applications may be relatively
 straightforward, while larger implementations require more careful
 planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
+essential [[query-how-do-i-design-a-food-forest-for-a-small-backyard]]chieving optimal results regardless of scale.
 
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and

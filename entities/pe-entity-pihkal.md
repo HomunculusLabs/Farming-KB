@@ -14,7 +14,7 @@ sources: ["Shulgin - PIHKAL"]
 
 PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE
 
-## Dosage and Duration
+## [[psilocybin-mushroom-dosage-and-acute-effects]] Du[[phytochrome-red-far-red-ratio-shade-detection-plants]]n
 
 | Property | Value |
 |----------|-------|
@@ -32,11 +32,11 @@ PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE
 ## Extensions and Commentary
 
 There is not much there, so there is not
-much to make commentary on. This response is called a "threshhold"
+much [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] commentary on. This response is called a "threshhold"
 effect, and cannot be used to predict with any confidence just what
 level (if any) would produce [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]].
 
-A similar chain on the 4-position, but with one less carbon atom,
+A similar chain on the 4-position, but with one less [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] atom,
 deserves special comment. Rather than a phenethyloxy group, this
 would be benzyloxy group (which in this day and age of Chemical
 Abstracts purity should probably be called a phenylmethoxy group). If
@@ -47,7 +47,7 @@ the compound PM (for phenylmescaline or, more likely
 phenylmethoxydimethoxyphenethylamine), since the term BZ is awkward
 and misleading. It is a code name that has been given to a potent CNS
 agent known as quinuclidin-3-yl benzilate, which is a chemical and
-[[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] (CBW) incapacitating agent currently being stored
+[[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] (CBW) incapacitating agent currently being [[query-how-to-store-mushroom-spores-long-term]]d
 by the military to the extent of 20,000 pounds. And, BZ has also
 recently become the jargon name given to benzodiazepine receptors.
 They have been called the BZ-receptors.
@@ -57,7 +57,7 @@ BZ. For one thing, the three-carbon analogue 3C-BZ has already been
 described in its own recipe using this code. And the 4-fluoroanalogue
 of it, 3C-FBZ, is also mentioned there. And BZ has already been
 described synthetically, having been made in exactly the procedure
-given for escaline, except that the reduction of the nitrile was not
+given for escaline, except that the [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] of the nitrile was not
 done by catalytic hydrogenation but rather by sodium borohydride in
 the presence of cobalt chloride. It has been shown to be a effective
 [[serotonin]] agonist, and may warrant human experimentation. The
@@ -66,7 +66,7 @@ found for proscaline.
 
 All of this says very little about PE. But then, there is very little
 to say about PE except that it may be active at very high levels, and
-I am not sure just how to get there safely.
+I am not sure just [[query-what-are-green-manures-and-how-to-use-them]] get there safely.
 
 ## Synthesis
 
@@ -77,7 +77,7 @@ beta-phenethylbromide and 6.9 g of finely powdered anhydrous K2CO3. The
 greenish mixture was refluxed for 3 days, with two additional 4 g
 batches of anhydrous K2CO3 being added at 24 h intervals. After
 addition to aqueous base, the product was extracted with CH2Cl2, the
-pooled extracts were washed with dilute base (the organic phase
+pooled extracts were washed with dilute base (the [[query-how-to-make-your-own-organic-fertilizer-at-home]] phase
 remained a deep purple color) and then finally with dilute HCl (the
 organic phase became a pale yellow). The solvent was removed giving
 15.6 g crude 3,5-dimethoxy-4-phenethyloxyphenylacetonitrile which

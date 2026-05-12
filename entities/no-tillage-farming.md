@@ -7,7 +7,7 @@ tags: [technique, soil-conservation, permaculture, agriculture, conservation-til
 
 ## Description
 
-No-tillage farming (also called zero-tillage or direct drilling) is an agricultural technique that eliminates mechanical soil disturbance during planting. Instead of plowing, disking, or cultivating the soil before sowing, seeds are planted directly into undisturbed soil or into the residue of the previous crop. This approach preserves soil structure, retains moisture, reduces erosion, and maintains soil biological communities. Mollison identifies no-tillage as both a conservation strategy and a yield-creating strategy within permaculture design.
+No-tillage farming (also called zero-tillage or direct drilling) is an agricultural technique that eliminates mechanical soil disturbance during planting. Instead of plowing, disking, or cultivating the soil before sowing, seeds are planted directly into undisturbed soil or into the residue of the previous crop. This approach preserves soil structure, retains moisture, reduces erosion, and maintains soil biological communities. Mollison identifies no-tillage as both a conservation strategy and a yield-creating strategy within [[permaculture-design]].
 
 ## Classification
 
@@ -50,16 +50,16 @@ Mollison identifies no-tillage as a key strategy within both conservation and pr
 
 - Essential technique for regenerative agriculture and soil restoration
 - Particularly valuable on sloping land where erosion risk is high
-- Integrates with cover cropping systems — cover crops are terminated (roller-crimped or sprayed) and next crop planted directly into the residue
+- Integrates with [[cover-cropping-systems]] — cover crops are terminated (roller-crimped or sprayed) and next crop planted directly into the residue
 - Compatible with permaculture polyculture systems where multiple species are grown simultaneously
-- Supports the soil food web: mycorrhizal networks remain intact, providing nutrient exchange between plants
+- Supports [[the-soil-food-web]]: mycorrhizal networks remain intact, providing nutrient exchange between plants
 - Reduces the need for synthetic fertilizers as soil biology provides natural nutrient cycling
 - Low-tillage variant allows minimal disturbance (e.g., strip tillage or shallow cultivation) where full no-till is impractical
 
 ## Challenges
 
 - Requires specialized planting equipment (no-till drill or planter)
-- May require herbicide use for weed control in early transition years (though organic no-till methods exist using cover crop termination)
+- May require herbicide use for weed control in early transition years (though organic no-till methods exist using [[cover-crop-termination]])
 - Transition period of 3–5 years before full soil structure benefits are realized
 - Slower soil warming in spring due to surface residue (can delay planting in cold climates)
 - Disease and pest carryover risk from surface crop residue in some systems
@@ -74,4 +74,16 @@ Mollison identifies no-tillage as a key strategy within both conservation and pr
 ## References
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 2 (Conservation strategies, p. 32).
-- Listed among key farm strategies for yield increase through soil conservation and energy savings.
+- Listed among key [[farm-strategies-for-yield-increase]] through soil conservation and energy savings.
+
+## Practical Significance
+- Relevant to sustainable land management and design
+- Applications in permaculture and ecological systems
+- Connected to broader themes of resource management
+
+## See Also
+- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
+- [[query-how-to-transition-from-conventional-to-no-till-farming]]
+- [[comparison-dry-farming-vs-xeriscaping]]
+- [[crop-rotation-and-ley-farming]]
+- [[jeavons-calorie-farming]]

@@ -8,14 +8,14 @@ type: concept
 tags: [knf, nutrients]
 ---
 
-# Master Cho's OHN (Oriental Herb Nutrient) Recipe
+# Master Cho's OHN ([[knf-ohn-oriental-herbal-nutrient-recipe]] Herb Nutrient) Recipe
 
-The [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) is made from herbs full of energy that increase plant robustness, sterilize, and keep plants warm. OHN revitalizes crops and activates their growth. It is one of the most frequently used inputs in Korean [[comparison-natural-farming-vs-permaculture]].
+The [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) is made from herbs full of energy that increase [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] robustness, sterilize, and keep [[phytochrome-red-far-red-ratio-shade-detection-plants]] warm. OHN revitalizes crops and activates their growth. It is one of the most frequently used [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] in Korean [[comparison-natural-farming-vs-permaculture]].
 
-## Preparation Overview
+## [[cho-oriental-herbal-nutrient-preparation]] [[cho-natural-farming-inputs-overview]]
 
 - **Optimum season**: Spring or fall
-- **Fermentation temperature**: 23-25 deg C
+- **Fermentation [[soil-temperature-plant-growth-rate-doubling-rule]]**: 23-25 deg C
 - **Storage temperature**: 1-15 deg C
 - **Ingredients**: Gigantic angelica root (Angelica gigas), cinnamon bark, licorice root ([[glycyrrhiza-glabra]]), garlic, ginger, Makgeolli (Korean rice wine), brown sugar, Soju (Korean distilled liquor, 30-35% alcohol)
 - **Tools**: 20L jars (one per herb), porous paper, vinyl film, wooden sticks, rubber bands
@@ -79,7 +79,7 @@ Base dilution: 1:1,000 (OHN to water). Adjust depending on weather and plant con
 
 ### Mixing Ratio of Five OHNs
 
-Combine the five extracts just before use in this ratio:
+Combine the five [[korean-natural-farming-imo-collection-fermented-plant-extracts]] just before use in this ratio:
 **2 (Angelica) : 1 (Licorice) : 1 (Cinnamon) : 1 (Garlic) : 1 (Ginger)**
 
 Example: Dilute OHNs 1000x with 18L of water, then add 6cc Angelica, 3cc licorice, 3cc cinnamon, 3cc garlic, 3cc ginger.

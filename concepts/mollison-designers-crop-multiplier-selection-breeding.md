@@ -19,7 +19,7 @@ type: concept
 
 Crop multiplier selection is a practical plant breeding approach described by
 permaculture-designers-manual-bamboo that empowers
-gardeners and farmers to develop locally adapted [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] through
+gardeners and farmers to develop locally adapted [[the-ultimate-goal-of-farming]] through
 systematic [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] saving. Rather than depending on commercial
 seed suppliers, permaculture practitioners observe their growing conditions,
 identify the best-performing individual plants, and save seed exclusively

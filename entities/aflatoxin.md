@@ -58,7 +58,7 @@ Prevention and mitigation strategies include:
 - **Good agricultural practices (GAP):** Timely harvest, proper drying to safe moisture levels, and [[mushroom-pests-insect-control-stamets]]
 - **Nixtamalization:** Traditional Mesoamerican alkaline cooking of maize reduces aflatoxin levels by 80–95%
 - **Binders and adsorbents:** Clay minerals (e.g., bentonite, NovaSil™) added to animal feed can sequester aflatoxins in the gastrointestinal tract
-- **Breeding for resistance:** Development of [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] with reduced susceptibility through marker-assisted selection
+- **Breeding for resistance:** Development of [[the-ultimate-goal-of-farming]] with reduced susceptibility through marker-assisted selection
 
 ## Health Effects in Humans
 

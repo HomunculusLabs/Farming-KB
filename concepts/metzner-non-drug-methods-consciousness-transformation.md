@@ -66,7 +66,7 @@ of alchemy and the newer psychotherapeutic methods deriving from the work of
 Wilhelm Reich. Reichian and post-Reichian bodywork and breathwork practices
 involved the induction of deep altered states through physical manipulation,
 breathing techniques, and emotional catharsis. These methods, while not
-involving [[cultural-evolution-and-psychoactive-substances]], could produce experiences of emotional
+involving [[star-fire-and-sacred-substances]], could produce experiences of emotional
 intensity, physical release, and psychological insight that paralleled
 aspects of the psychedelic experience.
 

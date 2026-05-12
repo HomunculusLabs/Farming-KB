@@ -118,6 +118,6 @@ The world of *somethingness* — of isolated variables, controlled experiments, 
 
 - [[mu-(nothingness)]]
 - [[natural-farming]]
-- [[scientific-farming-vs.-natural-farming]]
-- [[fukuoka-on-yield-and-productivity]]
+- [[natural-farming-vs-scientific-agriculture]]
+- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
 - [[photosynthesis-and-respiration-in-rice]]

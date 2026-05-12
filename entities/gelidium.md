@@ -21,24 +21,24 @@ sources:
 
 ## Overview
 
-**Gelidium** is a genus of red algae (Rhodophyta, order Gelidiales, family
+**Gelidium** is a genus of red algae (Rhodophyta, [[fukuoka-textdoc-man-sole-heretic-natural-order]] Gelidiales, family
 Gelidiaceae) comprising approximately 125 described species distributed across
-temperate and subtropical coasts worldwide. The genus is the **original and
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and subtropical coasts worldwide. The genus is the **original and
 premium source of agar**, a gelling polysaccharide indispensable to microbiology,
 food science, and biotechnology.
 
 Gelidium agar commands a significantly higher price than Gracilaria agar due
 to its superior gel strength, clarity, and lower sulfate content. Despite being
-largely supplanted in bulk agar production by faster-growing Gracilaria species,
+largely sup[[fukuoka-ideal-rice-plant-form-high-yield-cultivation]]ed in bulk agar production by faster-growing Gracilaria species,
 Gelidium remains essential for high-purity applications including
 microbiological [[agar-culture-media]], electrophoresis, and pharmaceutical-grade agarose.
 
 Most commercial Gelidium is still harvested from wild populations rather than
 cultivated, making the genus one of the few major seaweed crops that has not
-transitioned to aquaculture at scale. Overharvesting has depleted natural beds
+transitioned to aquaculture at scale. Overharvesting has depleted [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]] beds
 in several regions, particularly along the Iberian Peninsula and Japan.
 
-## Taxonomy and Morphology
+## Taxonomy and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
 
 Gelidium belongs to the class Florideophyceae, order Gelidiales, and family
 Gelidiaceae. The genus was established by Lamouroux in 1813. Molecular
@@ -66,7 +66,7 @@ identification in this morphologically conservative genus.
 ## Distribution and Habitat
 
 Gelidium species are primarily temperate, found on rocky coasts in areas of
-high wave energy. The genus is particularly diverse along the Pacific coasts
+high wave [[fukuoka-textdoc-energy-efficiency-natural-farming]]. The genus is particularly diverse along the Pacific coasts
 of Japan, Korea, and Mexico, as well as the Atlantic coasts of Portugal,
 Spain, and Morocco.
 
@@ -76,13 +76,13 @@ habitats with moderate to strong water movement and are rarely found in
 sheltered or silty environments.
 
 Optimal growth occurs at 15–22°C, salinity of 30–35 ppt, and high irradiance.
-Seasonal growth patterns follow water temperature cycles, with peak biomass
+[[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]] growth patterns follow water temperature cycles, with peak biomass
 production in spring and autumn for most temperate species.
 
 ## Harvesting and Production
 
 Commercial Gelidium harvesting is predominantly **wild-capture** using manual
-methods. Harvesters wade or dive at low tide, cutting thalli above the holdfast
+[[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]. Harvesters wade or dive at low tide, cutting thalli above the holdfast
 to allow regrowth. In some regions, mechanical harvesters using boats with
 rotating blades are used, though this method is more damaging to beds.
 

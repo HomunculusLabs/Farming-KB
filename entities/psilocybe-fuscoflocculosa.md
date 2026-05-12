@@ -14,23 +14,23 @@ sources:
   - /Users/t3rpz/wiki/raw/papers/field-guide-psilocybin-mushroom-species-identification|field-guide-to-the-psilocybin-mushroom.md
 ---
 
-# Psilocybe fuscoflocculosa
+# [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]] fuscoflocculosa
 
 **Psilocybe fuscoflocculosa** is a tropical and subtropical [[spore]]s
 - Spore print dark brown to purplish-brown
-- Spores ellipsoid to slightly amygdaliform
+- Spores ellipsoid to s[[mushroom-environmental-requirements-temperature-moisture-light]]ly amygdaliform
 - Thick-walled, with a distinct germ pore
 - Size range approximately 10–14 × 6–8 µm
 
-## Distribution and Habitat
+## [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] and Habitat
 
-P. fuscoflocculosa is found in tropical and subtropical regions, including Central and South America and the Caribbean. It grows as a saprotroph on decaying woody debris, leaf litter, and enriched soils in humid forest environments. Fruiting occurs during warm, wet seasons.
+P. fuscoflocculosa is found in tropical and subtropical regions, including Central and South America and the Caribbean. It grows as a saprotroph on [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]ing woody debris, leaf litter, and enriched soils in humid forest environments. Fruiting occurs during warm, wet seasons.
 
 ## Chemistry
 
-Contains psilocybin and [[psilocybe-medullosa]] — related European Psilocybe species
+Contains psilocybin and [[psilocybe-medullosa]] — related [[emcdda-free-spore-ring-europe-spore-distribution-network]]an Psilocybe species
 - [[psilocybin-mushrooms]] — overview of psychoactive mushroom genera
-- [[mushroom-species-guide]] — comprehensive identification resource
+- [[mushroom-species-guide]] — comprehensive [[field-guide-psilocybin-mushroom-species-identification]] resource
 ## Practical Applications
 
 Psilocybe fuscoflocculosa has a range of practical applications that make it relevant to
@@ -47,14 +47,14 @@ essential for achieving optimal results regardless of scale.
 
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
+con[[strain-dependent-alkaloid-tissue-distribution-cap-stem-psilocybe-cubensis]]ts that require context-specific solutions. The most
 successful implementations combine established best practices with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
+making when working with this topic. These include [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 factors, resource availability, timing, and the specific goals of the
 implementation. Careful attention to these factors improves outcomes
 and reduces the likelihood of common problems and setbacks.

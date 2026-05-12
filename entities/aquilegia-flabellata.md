@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Aquilegia flabellata, the fan columbine or dwarf columbine, is a compact herbaceous perennial in the family Ranunculaceae. It is one of the smallest columbine species, rarely exceeding 20–30 cm in height, making it a prized subject for rock gardens and alpine troughs.
+Aquilegia flabellata, the fan columbine or dwarf columbine, is a compact herbaceous perennial in the family Ranunculaceae. It is one of the smallest columbine species, rarely exceeding 20–30 cm in height, making it a prized subject for rock [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]]s and alpine troughs.
 
 The species is native to Japan and Korea, where it grows on mountain slopes and rocky outcrops in subalpine and montane zones. Its diminutive size and proportionally large flowers give it a charm that belies its rugged alpine constitution.
 
@@ -33,7 +33,7 @@ In Japanese, the plant is called *ōdamaki* (大ダマキ), referring to the pro
 
 ## Taxonomy and Morphology
 
-**Scientific classification:**
+**Scientific [[short-day-and-long-day-plant-classification]]:**
 
 - Kingdom: Plantae
 - Clade: Tracheophytes
@@ -52,7 +52,7 @@ Flowers are 3–5 cm across, nodding, with pale blue to lavender sepals and whit
 
 Stamens are prominently exerted, creating a showy yellow center. The fruit is a cluster of 5 smooth follicles, each containing numerous small, glossy black seeds.
 
-The flowers are mildly fragrant, emitting a light, sweet scent on warm days. This fragrance is unusual among columbine species and may attract specialized pollinators.
+The flowers are mildly fragrant, emitting a light, sweet scent on warm days. This fragrance is unusual among columbine species and may attract specialized [[query-how-to-attract-and-support-native-bee-pollinators]].
 
 ## Distribution and Habitat
 
@@ -60,7 +60,7 @@ The flowers are mildly fragrant, emitting a light, sweet scent on warm days. Thi
 
 It grows at elevations of 600–2,400 m on rocky slopes, cliff faces, and among boulders in montane forests. The species favors cool, moist, shaded crevices where roots find purchase in thin, organic-rich soil.
 
-The species is often found growing in moss-covered rock crevices alongside ferns and small saxifrages. These crevice communities are characteristic of the Japanese montane rock garden aesthetic.
+The species is often found [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] in moss-[[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]]ed rock crevices alongside ferns and small saxifrages. These crevice communities are characteristic of the Japanese montane rock garden aesthetic.
 
 The species is adapted to cold, snowy winters and cool, humid summers. Winter snowpack provides essential insulation for the compact root crown.
 
@@ -74,7 +74,7 @@ The Japanese Alps receive some of the heaviest snowfall in the world, with accum
 
 Plants thrive in gritty, well-drained, humus-rich soil with neutral to slightly acidic pH. They are particularly well-suited to trough gardens, crevice plantings, and shaded rock walls.
 
-Propagation is by seed, which germinates best after cold stratification for 4–6 weeks. Seeds should be surface-sown and kept moist until germination occurs in 3–5 weeks.
+Propagation is by seed, [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] germinates best after cold stratification for 4–6 weeks. Seeds [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] be surface-sown and kept moist until germination occurs in 3–5 weeks.
 
 The species self-seeds modestly in favorable conditions but is not invasive. Plants are longer-lived than many columbines, persisting 5–10 years in well-sited plantings.
 
@@ -82,7 +82,7 @@ Division is possible but challenging due to the deep, branching taproot. The com
 
 Plants pair well with other shade-loving rock garden subjects such as *Saxifraga*, *Asarum*, and small ferns. The glaucous foliage provides textural contrast even when not in flower.
 
-Slugs pose the primary pest threat, especially to emerging spring growth. Coarse grit mulch around the crown deters slug feeding and improves drainage.
+Slugs pose the primary pest threat, especially to emerging spring growth. Coarse grit mulch around the crown deters slug feeding and improves [[query-how-do-i-improve-soil-drainage-in-my-garden]].
 
 ## Ecological Role
 

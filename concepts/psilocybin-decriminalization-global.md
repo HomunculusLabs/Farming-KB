@@ -79,7 +79,7 @@ An important dimension of decriminalization is the recognition of indigenous rig
 - **Sacramental use**: indigenous and religious communities have legitimate claims to ceremonial access
 
 ### Arguments Against
-- **Safety concerns**: potent [[cultural-evolution-and-psychoactive-substances]] can cause acute psychological distress, especially without proper set and setting
+- **Safety concerns**: potent [[star-fire-and-sacred-substances]] can cause acute psychological distress, especially without proper set and setting
 - **Vulnerable populations**: potential risks for individuals with personal or family history of psychosis
 - **Commercialization concerns**: regulated access models could be exploited for profit
 - **Insufficient research**: long-term effects of widespread psilocybin use are not fully characterized

@@ -11,7 +11,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 ## Overview
 
-[[ralph-metzner]] identifies four paradigms for the therapeutic use of [[cultural-evolution-and-psychoactive-substances]], each grounded in fundamentally different worldviews.
+[[ralph-metzner]] identifies four paradigms for the therapeutic use of [[star-fire-and-sacred-substances]], each grounded in fundamentally different worldviews.
 
 While Western psychotherapy and indigenous shamanism may sometimes use the same or similar psychoactive substances for healing and obtaining knowledge, Metzner argues there are "profound differences between them in underlying worldview and assumptions about the nature of reality."
 

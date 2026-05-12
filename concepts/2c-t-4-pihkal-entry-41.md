@@ -114,3 +114,12 @@ observation, and a willingness to adapt approaches based on results.
 - [[bis-tom-pihkal-entry-12]]
 - [[pihkal-entry-46]]
 - [[2c-c-pihkal-entry-22]]
+
+- [[2c-t-13-entity-pihkal]]
+- [[2c-t-15-entity]]
+- [[2c-t-15-entity-pihkal]]
+- [[2c-t-4-entity-pihkal]]
+- [[2c-t-8-entity]]
+- [[2c-t-9-entity]]
+- [[2c-t-9-entity-pihkal]]
+- [[2c-t-entity-pihkal]]

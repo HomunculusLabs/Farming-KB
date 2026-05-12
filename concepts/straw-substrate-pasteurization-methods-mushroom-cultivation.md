@@ -88,3 +88,9 @@ Grain spawn is gravity-fed or hand-broadcasted onto the straw as it is conveyed 
 ## Hydrated Lime Bath Method
 
 Hydrated lime (calcium hydroxide) offers a non-thermal alternative. By immersing straw in water baths high in hydrated lime, competitor fungi and bacteria are largely rendered inactive from the drastic change in pH. The preparation is simple: two to four pounds of lime per 50 gallons of water. This method avoids the need for heat equipment entirely and is particularly useful in [[fukuoka-natural-farming-tropical-climates]] where energy for heating water is expensive.
+
+## See Also
+
+- [[straw-substrate-mushroom-cultivation-boil-bag]]
+- [[straw-substrate-preparation]]
+- [[straw-substrate-yeast-extract-marmite-spore-germination-enrichment]]

@@ -47,7 +47,7 @@ Achiote is also referred to as *achote* and appears in the context of the achote
 - Fruit is a distinctive ovoid capsule covered in soft bristles, 3-5 cm long, splitting when ripe
 - Seeds are covered in a bright red-orange waxy aril containing the dye pigment bixin
 - Thrives in [[fukuoka-natural-farming-tropical-climates]] with well-drained soil; highly adaptable to various growing conditions
-- Begins [[query-why-are-my-plants-not-producing-fruit-and-how-do-i-hand-pollinate]] within 1-2 years of planting from seed
+- Begins [[permaculture-designers-manual-essential-oil-plants]] within 1-2 years of planting from seed
 - Can produce two harvests per year under optimal growing conditions
 
 ## Relevance to Cultivation and Mycology
@@ -79,12 +79,12 @@ Implementation spans agricultural, ecological, and cultural contexts. The method
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 - [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - [[mycelium-running-mycorrhizal-mushroom-gardens]]
-- [[query-why-are-my-plants-not-producing-fruit-and-how-do-i-hand-pollinate]]
+- [[permaculture-designers-manual-essential-oil-plants]]
 - [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
 
 ## See Also
 - [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
-- [[query-why-are-my-plants-not-producing-fruit-and-how-do-i-hand-pollinate]]
+- [[permaculture-designers-manual-essential-oil-plants]]
 - [[fukuoka-natural-farming-tropical-climates]]
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]

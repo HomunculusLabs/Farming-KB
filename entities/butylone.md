@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Kamal, A.K.M. et al. (2012). "An analytical overview on the designer drug β-keto-N-methylbenzodioxolylbutanamine (butylone)." psychedelic-drug-testing-and-adulterant-screening and Analysis, 4(4), 307–318.
   - López-Arnau, R. et al. (2014). "3,4-Methylenedioxymethcathinone (methylone), a new drug of abuse." Toxicology Letters, 227(3), 199–206.
-  - EMCDDA (2014). "Report on the risk assessment of butylone in the framework of the Council Decision on new [[cultural-evolution-and-psychoactive-substances]]."
+  - EMCDDA (2014). "Report on the risk assessment of butylone in the framework of the Council Decision on new [[star-fire-and-sacred-substances]]."
   - Zaitsu, K. et al. (2009). "Simultaneous determination of 11 cathinone derivatives in human hair by LC-MS/MS." Forensic Science International, 184(1–3), 1–7.
   - Iversen, L. (2014). "Contemporary research on the pharmacology and toxicology of recreational cathinones." Psychopharmacology, 231(5), 929–939.
 created: 2026-04-28

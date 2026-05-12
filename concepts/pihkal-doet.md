@@ -12,17 +12,17 @@ type: concept
 
 ## Overview
 
-DOET (2,5-dimethoxy-4-ethylamphetamine), also known as DOETH, is a
-psychedelic amphetamine documented in PIHKAL as compound #35. It is a member
+DOET (2,5-dimethoxy-4-ethyl[[pihkal-dob-doi-dom-amphetamine-series-comparison]]), also known as DOETH, is a
+psychedelic amphetamine documented in PIHKAL as [[shulgin-mda-compound-profile]] #35. It is a member
 of the DO (dimethoxyamphetamine) family, distinguished by an ethyl group at
 the 4-position rather than the halogen atoms found in more famous DO
 compounds like DOB, DOC, and DOI.
 
-The ethyl substituent gives DOET a pharmacological and subjective profile
+The ethyl substituent gives DOET a [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] and subjective profile
 that differs meaningfully from the halogenated DO compounds. It is less
 potent and shorter-acting than DOB or DOI, and its effects are often
 described as having a warmer, more empathogenic quality. This places DOET
-in an interesting niche between the purely psychedelic DO compounds and the
+in an interesting niche [[query-difference-between-white-rot-and-brown-rot-fungi]] the purely psychedelic DO compounds and the
 more emotion-focused members of the phenethylamine family.
 
 DOET was one of the compounds that contributed to Shulgin's broader
@@ -37,8 +37,8 @@ with an ethyl group (two-carbon chain) at the 4-position. This ethyl
 substituent connects it structurally to DOM (methyl at 4-position) while
 distinguishing it from the halogenated DO compounds.
 
-The ethyl group is larger and more lipophilic than the methyl group in DOM,
-contributing to differences in both potency and subjective character. The
+The ethyl group is [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]r and more lipophilic than the methyl group in DOM,
+contributing to [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]s in both potency and subjective character. The
 alpha-methyl group on the ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] provides resistance to MAO
 metabolism and extends duration of action relative to non-methylated
 phenethylamine analogues. DOET has a molecular weight of approximately
@@ -68,7 +68,7 @@ DOET produces a [[lsd-psychedelic-experience-guide]] that many users describe as
 and more interpersonal than the halogenated DO compounds. Visual effects
 are present but tend to be less dominant than with DOB or DOI, including
 moderate geometric patterning, color enhancement, and perceptual
-sharpening. The visual character is often described as "soft" or "organic"
+sharpening. The visual character is often described as "soft" or "[[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]"
 compared to the more intense and crystalline visuals of the bromine and
 iodine analogues.
 
@@ -76,7 +76,7 @@ Cognitive effects include enhanced introspection, increased verbal fluency,
 and a quality of emotional openness that distinguishes DOET from many other
 DO compounds. Some users report mild empathogenic effects reminiscent of
 the MDA/[[mdma]] family, though less pronounced than with dedicated entactogens.
-The headspace is generally described as clear and controllable.
+The headspace is generally described as clear and [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]lable.
 
 Physical effects include moderate stimulation, mydriasis, elevated heart
 rate, and appetite suppression. The stimulant component is present but less

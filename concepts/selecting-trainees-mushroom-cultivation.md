@@ -10,10 +10,10 @@ sources:
 type: concept
 ---
 
-# Selecting Trainees for Mushroom Cultivation
+# Selecting Trainees for [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] [[query-how-do-i-grow-mushrooms-using-log-cultivation]]
 
 Selection of trainees is a critical component in ensuring sustainability
-and replicability of mushroom farms on a private scale. The process must
+and replicability of mushroom farms on a private [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]. The [[query-how-do-you-grow-and-process-tea-at-home]] must
 be conducted under strict criteria with careful assessment of motivation.
 Many people with disabilities are fully capable of accomplishing required
 tasks, however their motivation needs careful evaluation before committing
@@ -28,7 +28,7 @@ from local or central government officials, including municipal or
 provincial authorities, Ministry of Labour and Social Welfare, or Ministry
 of Health. Advertising on radio, television, and in newspapers helps
 establish a list of people interested in learning [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
-becoming entrepreneurs.
+becoming [[fao-monitoring-evaluation-disabled-mushroom-entrepreneurs]].
 
 ### 2. Pre-Selection
 
@@ -49,7 +49,7 @@ saturation in any single area.
 
 ### 4. Home Visits
 
-Trainers must visit all short-listed candidates at their home. Critical
+Trainers must visit all [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]-listed candidates at their home. Critical
 verifications include family support, community support, and access to
 land for setting up a [[mushroom-house-construction-duggar]] following training. Trainees must be
 capable of taking care of themselves during the training period.
@@ -57,7 +57,7 @@ capable of taking care of themselves during the training period.
 ### 5. Commitment Verification
 
 Trainers must verify the commitment of both family and potential trainees
-regarding their will and readiness to set up a [[fao-accessible-mushroom-house-design-disabilities]] following
+regarding their will and readiness [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]] [[fao-accessible-mushroom-house-design-disabilities]] following
 training. This includes assessing whether the candidate has the firm
 intention of establishing an enterprise and attends training voluntarily.
 
@@ -67,7 +67,7 @@ Candidates should be highly motivated for learning about mushroom
 cultivation. Indicators include personal enjoyment of eating and cooking
 mushrooms, familiarity with mushrooms from parents and grandparents, and
 a genuine wish to learn more. Candidates should have already left home in
-the past for rehabilitation, training, or work with positive experience.
+the past for [[fao-three-in-one-training-rehabilitation-mushroom-enterprise]], training, or work with positive experience.
 
 ### 7. Availability Confirmation
 

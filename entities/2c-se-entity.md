@@ -34,14 +34,14 @@ half again would be an effective dose. The first awareness was at 45 minutes,
 and the plateau lasted from 1.5 hours to about the fourth hour. I was at
 certain baseline at 8 hours.
 
-## Synthesis
+## [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
 
 A suspension of 5.65 g 1,4-dimethoxybenzene in 100 mL petroleum ether
 containing 6.5 mL N,N,N',N'-tetramethylethylenediamine was magnetically stirred,
 placed in an inert atmosphere, and cooled to 0 degrees C. There was then added
 27 mL of 1.6 M butyllithium in hexane. After coming to room temperature, 4.8 g
 dimethyl diselenide was added, leading to an exothermic reaction with color
-change from white to yellow, to light green, to an eventual brown. After 2 h,
+change from [[brown-rot-white-rot-fungi-remediation]] to yellow, to [[what-a-plant-knows-phytochrome-red-far-red-light-switch]] [[greg-green-water-quality-and-hard-water]], to an eventual [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]. After 2 h,
 the reaction was quenched in dilute NaOH. Distillation at 0.4 mm/Hg gave 2,5-
 dimethoxyphenyl methyl selenide as a pale yellow oil (100-120 degrees C), used
 without further purification.
@@ -55,11 +55,11 @@ mm/Hg. The hydrochloride salt had mp 240-241 degrees C.
 ## Extensions and Commentary
 
 With an entirely new hetero atom in the molecule (the selenium), and with
-clear indications that large dosages would be needed (100 milligrams or more),
+clear indications that [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]] dosages would be needed (100 milligrams or more),
 some discretion was felt desirable. There was certainly an odd taste and an odd
 smell. Some early biochemical work where selenium replaced sulfur in some amino
-acid chemistry showed things could get pretty toxic. It might be appropriate to
-get some general animal toxicity data before exploring those dosages that might
+acid chemistry showed [[fukuoka-textdoc-one-thing-is-all-things-holism]] could get pretty toxic. It might be appropriate to
+get some general [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]] toxicity data before exploring those dosages that might
 get to a +++.
 
 What doors are opened by the observation that the selenium analog of 2C-T is an

@@ -63,7 +63,7 @@ direct contact between fungal cells and hydrophobic substrates.
 Fungal biosurfactants significantly enhance
 [[singh-fungal-consortia-synergistic-biodegradation]],
 biosurfactant producers support hydrocarbon-degrading partners.
-Sophorolipid addition increases [[fungal-pah-degradation-and-soil-bioremediation]] 2-10 fold.
+Sophorolipid addition increases [[soil-health-and-microbial-life]] 2-10 fold.
 
 ### Soil Washing and Flushing
 

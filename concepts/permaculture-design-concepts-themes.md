@@ -54,3 +54,28 @@ The practical approach: in life and in design, accept that immutable rules will 
 Chief Seattle's 1854 response to a U.S. government offer to buy Indian land encapsulates the permaculture ethic: "Man did not weave the web of life, he is merely a strand in it. Whatever he does to the web, he does to himself... to harm the earth is to heap contempt upon the creator... contaminate your bed, and you will one night suffocate in your own waste."
 
 This indigenous wisdom, predating modern ecology by a century, expresses the same understanding that permaculture formalises: that human welfare is inseparable from ecological health, and that all actions have consequences that ripple through the web of life.
+
+## Key Principles
+- Central to understanding ecological and sustainable design systems
+- Integrates theoretical knowledge with practical application
+- Functions within complex adaptive systems and natural patterns
+- Requires consideration of multiple interacting factors
+
+## Practical Applications
+- Applied in permaculture design and sustainable land management
+- Supports decision-making in agricultural and ecological contexts
+- Used in conservation and environmental restoration projects
+- Helps practitioners develop more resilient and productive systems
+
+## Ecological Significance
+- Contributes to understanding of ecosystem dynamics and function
+- Supports biodiversity and enhances natural system resilience
+- Plays role in nutrient cycling and energy flow processes
+- Understanding improves capacity for sustainable resource management
+
+## Related Concepts
+- [[permaculture-design-science-concepts-themes]]
+- [[permaculture-design-concepts-and-methods-overview]]
+- [[permaculture-guild-design-method]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+- [[applied-pattern-design-in-permaculture]]

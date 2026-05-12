@@ -57,7 +57,7 @@ He argued that Western science's dismissal of shamanic experience as mere intoxi
 
 ## The Gastronomic and Cultural Connection
 
-McKenna emphasized the fundamental connection between food, consciousness, and culture: "The ways in which humans use plants, foods, and drugs cause the values of individuals and, ultimately, whole societies to shift." He argued that cultures are shaped by the [[cultural-evolution-and-psychoactive-substances]] they sanction, creating an "ambience of intoxication" that is as invisible and powerful as language.
+McKenna emphasized the fundamental connection between food, consciousness, and culture: "The ways in which humans use plants, foods, and drugs cause the values of individuals and, ultimately, whole societies to shift." He argued that cultures are shaped by the [[star-fire-and-sacred-substances]] they sanction, creating an "ambience of intoxication" that is as invisible and powerful as language.
 
 ## Criticism
 

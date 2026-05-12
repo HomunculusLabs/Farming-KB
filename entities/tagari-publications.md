@@ -46,16 +46,11 @@ Tagari pioneered an ethical publishing approach that includes:
 - **Educational Mission**: Publications are produced primarily to support the global permaculture teaching network rather than to maximize revenue.
 - **Copyright Stewardship**: The word "PERMACULTURE" itself is copyright-vested in the Permaculture Institutes and their College of Graduates, with Tagari serving as the publishing guardian of this intellectual property.
 
-
-
 ## Printing and Production
 
 - Printed in Australia by McPherson's Printing Group, Maryborough, Victoria 3465.
 - ISBN 0908228 015 for the Designers' Manual.
 - The manual is a substantial hardcover volume, reflecting the commitment to producing a durable reference work rather than a disposable paperback.
-
-
-
 
 ## Relevance to Cultivation and Mycology
 
@@ -65,16 +60,10 @@ Tagari Publications serves the cultivation community by:
 - Making region-specific cultivation strategies available for tropical, arid, and temperate zones
 - Supporting the educational infrastructure (PDC courses) that train cultivators worldwide in sustainable methods
 
-
-
-
 ## Sources
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications, Tyalgum, Australia.
 - Copyright and publication information from the Designers' Manual front matter.
-
-
-
 
 ## See Also
 
@@ -82,3 +71,10 @@ Tagari Publications serves the cultivation community by:
 - [[permaculture-institute]]
 - [[permaculture]]
 - [[david-holmgren]]
+
+## Practical Significance
+- Relevant to sustainable land management and design
+- Applications in permaculture and ecological systems
+- Connected to broader themes of resource management
+
+## See Also

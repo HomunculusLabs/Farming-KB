@@ -18,17 +18,17 @@ sources:
 
 ## Overview
 
-**Utricularia sandersonii** is a small, terrestrial carnivorous plant in the
+**Utricularia sandersonii** is [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]], terrestrial carnivorous plant in the
 family Lentibulariaceae, commonly known as Sanderson's bladderwort. It is
 native to the Eastern Cape province of South Africa.
 
 This species is renowned among horticulturists for its charming, orchid-like
 flowers that resemble miniature rabbits or dancing figures. The blossoms are
-white with violet markings and are produced abundantly throughout the growing
+white with violet markings and are produced abundantly [[nutrient-movement-through-soil-to-plant-roots]]out the [[savory-growing-season-and-non-growing-season-management]]
 season.
 
 U. sandersonii is one of the most popular and widely cultivated bladderwort
-species due to its compact size, ease of culture, and prolific flowering
+species due to its compact size, ease of culture, and prolific [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
 habit. It was first described by Daniel Oliver in 1865.
 
 ## Taxonomy and Morphology
@@ -39,15 +39,15 @@ Utricularia sandersonii belongs to section *Calpidisca*, subgenus
 U. bisquamata.
 
 Molecular phylogenetic analyses place it within the African clade of
-subgenus *Bivalvaria*, though its precise relationships within the section
+subgenus *Bivalvaria*, though its precise [[dighton-fungal-drought-tolerance-plant-water-relations]]hips within the section
 remain unresolved due to limited sampling of related taxa.
 
 **Vegetative morphology:** The species forms a low mat of stolons with small,
 narrow leaves 5–20 mm long. The leaves are elliptic to linear and sparsely
 distributed along the stolon network.
 
-The plant lacks true roots. Anchorage and water absorption are handled by
-the stolon system, which grows just below the soil surface. The stolons are
+The plant lacks true roots. Anchorage and [[water-absorption-variability-grass-seed-substrate-preparation]] are handled by
+the stolon [[plant-immune-system-pti-eti]], which grows just below the soil surface. The stolons are
 filamentous, white to pale green, and freely branching.
 
 **Traps:** Bladders are 0.5–1.5 mm in diameter and are produced on
@@ -66,7 +66,7 @@ short, conical, and directed forward.
 
 Utricularia sandersonii is endemic to the Eastern Cape province of South
 Africa. It occurs in the Albany Thicket and Pondoland Centre of Endemism
-vegetation types at elevations of 200–1,200 m.
+[[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] types at elevations of 200–1,200 m.
 
 The species grows in damp, mossy sites along stream banks, seepage areas on
 rocky outcrops, and saturated [[dighton-fungal-communities-grassland-soils]]. It is frequently found in the

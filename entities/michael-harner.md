@@ -35,7 +35,7 @@ Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (S
 
 ### "Hallucinogens and Shamanism" (1973)
 
-Harner's edited anthology was one of the first academic works to systematically examine the relationship between [[cultural-evolution-and-psychoactive-substances]] and shamanic practices across cultures. In his introduction, Harner argued:
+Harner's edited anthology was one of the first academic works to systematically examine the relationship between [[star-fire-and-sacred-substances]] and shamanic practices across cultures. In his introduction, Harner argued:
 
 - The use of hallucinogens to achieve trance states is "an ancient and widespread human practice"
 - "In using a powerful hallucinogen, an individual is brought face to face with visions and experiences of an overwhelming nature, tending strongly to reinforce his beliefs in the reality of the supernatural world"

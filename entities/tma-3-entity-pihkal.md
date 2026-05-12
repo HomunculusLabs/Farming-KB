@@ -14,7 +14,7 @@ sources: ["Shulgin - PIHKAL"]
 
 2,3,4-TRIMETHOXYAMPHETAMINE
 
-## Dosage and Duration
+## Dosage and Du[[phytochrome-red-far-red-ratio-shade-detection-plants]]n
 
 | Property | Value |
 |----------|-------|
@@ -23,7 +23,7 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Qualitative Comments
 
-> (with 100 mg) There were no effects at all. No
+> (with 100 mg) There were no [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]] at all. No
 > eye dilation, no believable diversion from complete normalcy.
 > Appetite was normal, as well.
 
@@ -33,7 +33,7 @@ There is a small lesson to be learned from
 this completely inactive compound. There is no way of saying that it
 is or is not in-active. All that can be said is that trials were made
 (in this case using three separate individuals) at an oral level of
-100 milligrams. And, at this level, nothing happened. And since a
+100 milligrams. And, at this level, no[[fukuoka-textdoc-one-thing-is-all-things-holism]] happened. And since a
 bottom threshold for [[mescaline]] would be perhaps 200 milligrams, it can
 be honestly said that the activity of this compound, if expressed
 
@@ -54,7 +54,7 @@ preceded by the "less than" sign, the "<."
 
 To a solution of 12.4 g 2,3,4-trimethoxybenzaldehyde in 45
 mL glacial acetic acid, there was added 7 mL nitroethane and 4.1 g
-anhydrous ammonium acetate, and all was held at reflux temperature for
+anhydrous ammonium acetate, and all was held at reflux [[coleman-double-cover-air-inflated-trial-temperature-data]] for
 1.5 h. To the cooled and well stirred reaction mixture, H2O was added
 slowly, dropping out an oily crystalline solid mass. This was
 separated by filtration, and ground under a quantity of 50% aqueous
@@ -71,8 +71,8 @@ and effectively adding a warm saturated solu-tion of it dropwise.
 Refluxing was maintained for 5 h following the completion of the
 addition of the nitrostyrene. The milky reaction mixture was cooled
 and the excess hydride destroyed by the addition of 200 mL 10% H2SO4.
-When the aqueous and Et2O layers were finally clear, they were
-separated, and 75 g of potassium sodium tartrate was dissolved in the
+When the aqueous and Et2O [[coleman-double-layer-climate-modification-temperature-data]]s were finally clear, they were
+separated, and 75 g of [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] sodium tartrate was dissolved in the
 aqueous fraction. NaOH (25%) was then added until the pH was >9, and
 this was then extracted with 3x75 mL CH2Cl2. Evaporation of the
 solvent under vacuum produced 2.5 g of a nearly colorless clear oil
@@ -85,6 +85,6 @@ IPA, had a mp of 148-149 deg C. Anal. (C12H20ClNO3) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-[[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent [[star-fire-and-sacred-substances]] that may carry unknown [[ayahuasca-tourism-medical-risks-prescription-interactions]]. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also

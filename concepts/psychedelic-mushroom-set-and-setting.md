@@ -142,7 +142,7 @@ Integration is the process of making sense of and incorporating the insights, em
 - Start with lower doses and increase gradually
 - Always have a trusted trip sitter, especially at moderate to high doses
 - Test substances when possible — see [[fungal-toxins-reference]] for risks of misidentification
-- Never combine with alcohol, stimulants, or other [[cultural-evolution-and-psychoactive-substances]] without expert guidance
+- Never combine with alcohol, stimulants, or other [[star-fire-and-sacred-substances]] without expert guidance
 - Avoid driving or operating machinery during and for at least 12 hours after the experience
 - Have a plan for difficult experiences — breathing techniques, change of setting, grounding objects
 - Know your limits and respect them

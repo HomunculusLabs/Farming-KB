@@ -18,13 +18,13 @@ sources:
 type: concept
 ---
 
-## Overview
+## [[old-world-hallucinogenic-plants-overview]]
 
 The introduction of caffeine beverages into Europe in the mid-seventeenth
-century represented far more than a culinary novelty. Tea, coffee, and chocolate
+century represented far more than a culinary novelty. Tea, [[mckenna-food-gods-tea-coffee-drugs-gentility]], and [[mckenna-sugar-coffee-tea-chocolate]]
 arrived simultaneously in England in the 1650s, providing Christian Europe with
-its first alternative to alcohol as a daily beverage. More significantly, these
-caffeine stimulants proved ideally suited to the demands of the emerging
+its first alternative to [[mckenna-food-of-the-gods-alcohol-and-dominator-culture]] as a daily beverage. More significantly, these
+caffeine [[mckenna-tea-coffee-chocolate-stimulants]] proved ideally suited to the demands of the emerging
 Industrial Revolution, enabling workers to maintain concentration during long
 hours of repetitive factory labor.
 
@@ -65,14 +65,14 @@ drove both the sugar trade and the caffeine trade to new heights.
 
 The stimulant effect of caffeine is powerful at doses well below the toxic
 threshold. Caffeine occurs not only in tea and coffee but in numerous other
-plants, such as Ilex paraguayensis, the source of mate, and Paullinia yoco,
+[[phytochrome-red-far-red-ratio-shade-detection-plants]], such as Ilex paraguayensis, the source of mate, and Paullinia yoco,
 an appetite-suppressing Amazonian liana, each with its own ancient and
 ritualized style of use.
 
 ## The Contra-Coffee Movement
 
 Coffee was not without its detractors. It was widely blamed for the death of
-French minister Colbert, who died of stomach cancer. Goethe blamed his habitual
+French minister Colbert, who died of stomach cancer. Goethe blamed his [[mckenna-food-gods-habit-culture-religion-obsession-vs-ecstasy]]ual
 cafe latte for chronic melancholia and anxiety attacks. Lewin described coffee's
 capacity to produce "an excessive state of brain-excitation which becomes
 manifest by a remarkable loquaciousness sometimes accompanied by accelerated
@@ -87,4 +87,4 @@ them coffee.
 
 ## Coffee and Political Revolution
 
-By 1777, continental European authorities recognized the suitability of coffee
+By 1777, [[mckenna-food-gods-new-world-hallucinogen-clustering-americas-psychedelic-continent]]al European authorities recognized the suitability of coffee

@@ -7,14 +7,14 @@ tags: [technique, design-pattern, permaculture, spatial-arrangement, stacking]
 
 ## Description
 
-Annidation is a design and pattern strategy in permaculture involving the "nesting" or stacking of one element, function, or species within another — like a bowl within a bowl, or a vine growing within a tree canopy. The term originates from ecology, where it describes the way organisms occupy nested niches within a larger ecosystem. In permaculture design, annidation is used to maximize the productive use of space, resources, and energy by arranging elements so they occupy complementary niches at different scales, heights, depths, or temporal windows.
+Annidation is a design and pattern strategy in permaculture involving the "nesting" or stacking of one element, function, or species within another — like a bowl within a bowl, or a vine growing within a tree canopy. The term originates from ecology, where it describes the way organisms occupy nested niches within a larger ecosystem. In [[permaculture-design]], annidation is used to maximize the productive use of space, resources, and energy by arranging elements so they occupy complementary niches at different scales, heights, depths, or temporal windows.
 
 ## Classification
 
 - **Category:** Design pattern / spatial strategy
 - **Domain:** Permaculture design, ecology, spatial planning
 - **Type:** Arrangement principle
-- **Related concepts:** Stacking, companion planting, food forest layers, guild design
+- **Related concepts:** Stacking, [[companion-planting]], [[food-forest]] layers, guild design
 
 ## Key Facts
 
@@ -38,7 +38,7 @@ Annidation is a design and pattern strategy in permaculture involving the "nesti
 ### Sequential Annidation
 - **Interplanting:** Fast-growing catch crops between slow-growing perennials
 - **Intercropping:** Beans climbing corn stalks (Three Sisters guild)
-- **Succession planting:** Following spring peas with summer squash in the same bed
+- **[[succession-planting]]:** Following spring peas with summer squash in the same bed
 
 ### Functional Annidation
 - **Pond as multi-function:** Aquaculture + irrigation + fire protection + microclimate + wildlife
@@ -67,9 +67,19 @@ When applying annidation, designers should consider:
 ## Relationship to Other Design Patterns
 
 - **Tessellation:** Complements annidation by arranging nested elements in repeating mosaic patterns
-- **Edge effect:** Annidation increases edge between elements, enhancing productivity
+- **[[edge-effect]]:** Annidation increases edge between elements, enhancing productivity
 - **Guild design:** Guilds are assemblies of annidated species occupying complementary niches
 
 ## References
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 2 (Strategies That Create Yields).
+
+## Practical Significance
+- Relevant to sustainable land management and design
+- Applications in permaculture and ecological systems
+- Connected to broader themes of resource management
+
+## See Also
+- [[mollison-tessellation-and-annidation-in-design]]
+- [[tessellation-and-annidation-patterns]]
+- [[tessellation-annidation-patterns]]

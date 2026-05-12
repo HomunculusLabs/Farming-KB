@@ -21,9 +21,9 @@ sources:
 
 # Psoralen
 
-## Overview
+## [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
 
-Psoralen (C₁₁H₆O₃) is the parent compound of the furanocoumarin class, a family of photoactive molecules found widely in plants, particularly within Apiaceae, Rutaceae, and Fabaceae families. It intercalates into DNA and forms covalent crosslinks upon exposure to long-wave ultraviolet radiation (UVA, 320–400 nm), making it both a potent phototoxic agent and the basis of PUVA therapy — one of the most effective treatments for vitiligo, psoriasis, and cutaneous T-cell lymphoma.
+Psoralen (C₁₁H₆O₃) is the parent compound of the furanocoumarin class, a family of photoactive [[molecules-of-life-plant-cells]] found widely in plants, particularly within Apiaceae, Rutaceae, and Fabaceae families. It intercalates into DNA and forms covalent crosslinks upon exposure to long-wave ultraviolet radiation (UVA, 320–400 nm), making it both a potent phototoxic agent and the basis of PUVA therapy — one of the most effective [[singh-single-cell-protein-fungal-wastewater-treatment]]s for vitiligo, psoriasis, and cutaneous T-cell lymphoma.
 
 ## Chemical Properties
 
@@ -35,7 +35,7 @@ Psoralen (C₁₁H₆O₃) is the parent compound of the furanocoumarin class, a
 - **Melting point:** 159–162°C
 - **Solubility:** Slightly soluble in water; soluble in [[ethanol]], DMSO, chloroform,
   and hot acetic acid
-- **Structure:** Fused tricyclic system consisting of a furan ring attached to a
+- **Structure:** Fused tricyclic [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] consisting of a furan ring attached to a
   coumarin (benzopyrone) core at the 6,7-positions
 
 The planar tricyclic structure allows intercalation between DNA base pairs,
@@ -58,18 +58,18 @@ The pharmacological action of psoralen depends on two sequential steps:
 Interstrand crosslinks block DNA replication and transcription, triggering
 apoptosis in rapidly dividing cells — the mechanistic basis for PUVA therapy.
 
-## Natural Occurrence
+## [[natural-fruit-tree-form-and-non-pruning]] Occurrence
 
 Psoralen is biosynthesized via the phenylpropanoid pathway, starting from
 umbelliferone (7-hydroxycoumarin):
 
 - **Prenylation:** Dimethylallyl pyrophosphate (DMAPP) adds a prenyl group
   to umbelliferone, forming demethylsuberosin
-- **Ring closure:** Oxidative cyclization forms the furan ring, yielding
+- **Ring closure:** Oxidative cyclization forms the furan ring, [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]]ing
   psoralen
 
 **Major plant sources:**
-- *[[permplant-fig-ficus-carica-fruit-tree]]* (fig) — latex and leaf sap contain high concentrations
+- *[[permplant-fig-ficus-carica-fruit-tree]]* (fig) — latex and leaf sap contain high [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]s
 - *Ammi majus* (bishop's weed) — commercial source for medicinal psoralen
 - *[[pastinaca-sativa]]* (parsnip) — furanocoumarins in roots and foliage
 - *Citrus* spp. — peel oils contain bergamottin and related furanocoumarins
@@ -82,7 +82,7 @@ umbelliferone (7-hydroxycoumarin):
   lasting 3–6 months on average
 - **Vitiligo:** Stimulates melanocyte proliferation and migration; the most
   effective repigmentation therapy available, especially for widespread lesions
-- **Mycosis fungoides (CTCL):** PUVA is first-line for early-stage disease
+- **Mycosis fungoides (CTCL):** PUVA is first-line for early-stage [[fukuoka-fruit-tree-disease-pest-control-natural-predators]]
 - **Dose:** Oral 8-methoxypsoralen (methoxsalen, 0.6 mg/kg) + UVA exposure
   1–2 hours later; topical psoralen baths are an alternative
 

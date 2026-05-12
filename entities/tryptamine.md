@@ -6,7 +6,7 @@ type: entity
 
 ## Description
 
-Tryptamine is a monoamine alkaloid that serves as the foundational chemical structure for a large family of hallucinogenic compounds. The indole nucleus of tryptamine appears in numerous [[cultural-evolution-and-psychoactive-substances]], including DMT (dimethyltryptamine), psilocybin, psilocin, serotonin, and the ergoline and beta-carboline alkaloids. Understanding tryptamine is essential for understanding the chemistry of the most powerful natural hallucinogens.
+Tryptamine is a monoamine alkaloid that serves as the foundational chemical structure for a large family of hallucinogenic compounds. The indole nucleus of tryptamine appears in numerous [[star-fire-and-sacred-substances]], including DMT (dimethyltryptamine), psilocybin, psilocin, serotonin, and the ergoline and beta-carboline alkaloids. Understanding tryptamine is essential for understanding the chemistry of the most powerful natural hallucinogens.
 
 ## Classification
 

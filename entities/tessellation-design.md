@@ -7,14 +7,14 @@ tags: [technique, design-pattern, permaculture, spatial-arrangement, mosaic]
 
 ## Description
 
-Tessellation in permaculture design is the arrangement of landscape units, functions, and species into repeating mosaic patterns — analogous to the tiles in a mosaic floor or the cells in a honeycomb. Borrowed from geometry (where tessellation means covering a plane with repeating shapes without gaps or overlaps), the concept is applied in permaculture to create efficient, repeating patterns that maximize edge, distribute resources evenly, and create beneficial interactions between adjacent units. Tessellation works in concert with annidation (nesting) to create highly productive spatial designs.
+Tessellation in [[permaculture-design]] is the arrangement of landscape units, functions, and species into repeating mosaic patterns — analogous to the tiles in a mosaic floor or the cells in a honeycomb. Borrowed from geometry (where tessellation means covering a plane with repeating shapes without gaps or overlaps), the concept is applied in permaculture to create efficient, repeating patterns that maximize edge, distribute resources evenly, and create beneficial interactions between adjacent units. Tessellation works in concert with annidation (nesting) to create highly productive spatial designs.
 
 ## Classification
 
 - **Category:** Design pattern / spatial arrangement strategy
 - **Domain:** Permaculture design, landscape architecture, spatial planning
 - **Type:** Arrangement principle
-- **Related concepts:** Mosaic, keyline, pattern language, edge effect
+- **Related concepts:** Mosaic, keyline, pattern language, [[edge-effect]]
 
 ## Key Facts
 
@@ -32,7 +32,7 @@ Tessellation in permaculture design is the arrangement of landscape units, funct
 
 Common tessellation patterns applicable to landscape design:
 
-- **Hexagonal:** Most efficient packing (honeycomb pattern); maximizes area-to-perimeter ratio; ideal for orchard and food forest planting
+- **Hexagonal:** Most efficient packing (honeycomb pattern); maximizes area-to-perimeter ratio; ideal for orchard and [[food-forest]] planting
 - **Triangular:** Creates maximum edge; useful for windbreak and hedge networks
 - **Square/Rectangular:** Easy to lay out and manage; standard for garden beds and paddock systems
 - **Irregular/Organic:** Follows landform contours and natural features; keyline and contour patterns
@@ -77,8 +77,8 @@ When applying tessellation:
 - **Annidation:** Tessellation arranges the outer pattern; annidation nests elements within each tile
 - **Edge effect:** Tessellation inherently increases edge, which is where productivity concentrates
 - **Zone planning:** Zones can be tessellated around multiple activity centers rather than a single hub
-- **Keyline design:** Keyline geometry is a form of contour-based tessellation
+- **[[keyline-design]]:** Keyline geometry is a form of contour-based tessellation
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 2 (Strategies That Create Yields).
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2 (Strategies That Create Yields).

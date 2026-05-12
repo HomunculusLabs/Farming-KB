@@ -62,7 +62,7 @@ He locates the "first cause of cosmic life" in "a higher plane of reality" that 
 
 As part of his evolution thinking, Fukuoka describes his experiments in "reverse cross-fertilization" -- crossing plants backwards to search for ancestral traits. He believed it possible to trace back and revive "missing link" species by returning to ancestral organisms from which differing species and genera arose.
 
-He hypothesized crossing rice with crabgrass or couch grass to find common ancestral roots, or combining proso millet with barnyard millet. His research suggested that glutinous and nonglutinous rice are sister races from the same ancestors, and that [[fukuoka-natural-upland-rice-minor-grains]] and [[integrated-paddy-rice-and-tree-system]] belong to the same species.
+He hypothesized crossing rice with crabgrass or couch grass to find common ancestral roots, or combining proso millet with barnyard millet. His research suggested that glutinous and nonglutinous rice are sister races from the same ancestors, and that [[fukuoka-natural-upland-rice-minor-grains]] and [[photosynthesis-and-respiration-in-rice]] belong to the same species.
 
 ## Nature Has No Intent
 

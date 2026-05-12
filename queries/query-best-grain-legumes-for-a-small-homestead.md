@@ -73,8 +73,8 @@ Cowpea is the homestead pulse for tough conditions. Where other crops wilt and f
 
 ### 5. Common Dry Bean — *Phaseolus vulgaris*
 
-**Best for**: Culinary variety, temperate to subtropical climates, [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+**Best for**: Culinary variety, temperate to subtropical climates, [[the-ultimate-goal-of-farming]]
+- [[the-ultimate-goal-of-farming]]
 
 ## See Also
 

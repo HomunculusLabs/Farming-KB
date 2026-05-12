@@ -9,7 +9,7 @@ sources: []
 
 # Basic Plumbing for Homestead
 
-Homestead plumbing ranges from simple gravity-fed water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, and troubleshooting saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
+Homestead plumbing ranges from simple gravity-fed water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]]ing saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
 
 ## Piping Materials
 
@@ -27,9 +27,9 @@ PEX has become the standard for residential and homestead plumbing due to its fl
 
 **Installation:**
 - Use PEX-A (Uponor/Wirsbo) for the best expansion memory and kink resistance
-- PEX-B (Zurn/Viega) is slightly cheaper but less flexible
+- PEX-B (Zurn/Viega) is s[[phytochrome-red-far-red-light-switch-plant-pigment]]ly cheaper but less flexible
 - PEX-C is the least flexible — avoid for main runs
-- Cut with a dedicated PEX cutter (not a saw) for clean, square cuts
+- Cut with a dedicated PEX cutter (not a saw) f[[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]], square cuts
 - Connect using crimp rings (copper rings compressed with a crimp tool) or expansion fittings (PEX-A only)
 - Inspect every crimp ring with a go/no-go gauge after installation
 - Support PEX every 32 inches horizontally, every 4-6 feet vertically
@@ -58,7 +58,7 @@ Traditional plumbing material with a proven track record spanning decades.
 - Type M: Thinnest wall — for interior residential use only
 - Type L: Medium wall — the standard for most applications
 - Type K: Thickest wall — for underground and high-pressure applications
-- Clean fittings and pipe with sandpaper and flux before soldering
+- Clean fittings and pipe with sandpaper and flux [[query-when-should-i-flush-my-cannabis-plants-before-harvest]] soldering
 - Apply heat to the fitting, not the pipe — solder follows the heat
 - Do not overheat — overheating destroys flux and creates weak joints
 
@@ -70,7 +70,7 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 
 **PVC (Polyvinyl Chloride):**
 - Used for drain, waste, and vent (DWV) lines
-- White or gray color
+- [[query-how-do-white-rot-fungi-break-down-lignin]] or gray color
 - Solvent-welded with PVC cement (purple primer + cement)
 - Schedule 40 for most residential applications
 - Never use for hot water supply
@@ -108,7 +108,7 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 - T&P (temperature and pressure) relief valve is mandatory — pipe it to within 6 inches of the floor or to the exterior
 - Use dielectric unions when connecting copper to steel (galvanic corrosion prevention)
 - Install an expansion tank on closed-loop systems
-- Set temperature to 120°F to prevent scalding and save energy
+- Set temperature to 120°F [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] scalding and save energy
 - Flush the tank annually to remove sediment buildup
 
 ## Troubleshooting Common Problems
@@ -127,8 +127,8 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 **Electric water heater:**
 - Check circuit breaker
 - Test heating elements with multimeter (continuity test)
-- Check upper and lower thermostats
-- Reset button on high-limit switch
+- Check upper [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]er thermostats
+- Reset button on high-limit [[what-a-plant-knows-phytochrome-red-far-red-light-switch]]
 
 **Gas/propane water heater:**
 - Check pilot light — relight if out

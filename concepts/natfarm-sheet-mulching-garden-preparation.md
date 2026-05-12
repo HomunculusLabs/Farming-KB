@@ -8,7 +8,7 @@ sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livi
 type: concept
 ---
 
-# Sheet Mulching for Garden Preparation
+# Sheet Mulching for [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]] Preparation
 
 [[sheet-mulching]] is a layered garden [[pf-tek-substrate-formula-and-jar-preparation-method]] that creates new growing
 areas without the hard labor of digging and turning dirt. By stacking sheets
@@ -17,16 +17,16 @@ ground, [[query-how-do-cover-crops-suppress-weeds]], and establish gardens on al
 technique is central to and
 [[teaming-with-microbes-mulch-and-soil-food-web]] organisms.
 
-## Step-by-Step Process
+## Step-by-Step [[query-how-do-you-grow-and-process-tea-at-home]]
 
 ### 1. Plant Large Trees and Shrubs First
 Get this out of the way before laying down mulch layers. Otherwise you will
-have to dig through the mulch later to plant them.
+have to dig through the mulch later to [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]].
 
-### 2. Amend the Soil Surface
+### 2. Amend [[teaming-with-microbes-the-organic-gardeners-guide-to-the-soil-food-web]] Surface
 Cover the area with a sprinkling of dolomite, and if the soil is clay, add
 gypsum as well. Add any nitrogen sources you can obtain, such as composted
-manure fertilizer and kitchen compost.
+manure [[query-how-to-make-your-own-organic-fertilizer-at-home]] and kitchen compost.
 
 ### 3. Lay Down Green Material
 If you have spare hay that is unfit for other use, make a 1 to 2 inch layer
@@ -58,7 +58,7 @@ thicker the better. If you do not have enough material, make your bed smaller
 rather than spreading it thin over a wide area.
 
 ### 9. Plant Through the Mulch
-Make a hole through the mulch to the sheet material. Cut an X in the
+Make a hole through the mulch to the sheet material. Cut an X [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
 cardboard with an old axe or knife, and put dirt in the hole. Place seeds,
 potatoes, or seedlings in the soil. For tiny seeds, sprout them first and
 make a line rather than an X.
@@ -66,7 +66,7 @@ make a line rather than an X.
 ### 10. Ongoing Maintenance
 Roots will not do very well in the first year, but deep-rooted plants will
 begin to break up the soil under the mulch. By the end of the first summer,
-soil will be immensely improved. Add fresh mulch as the season continues.
+soil will be immensely [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]d. Add fresh mulch as the season continues.
 Annuals can tolerate food scraps from the kitchen layered under the mulch
 where worms will dispose of them immediately.
 
@@ -85,6 +85,6 @@ where worms will dispose of them immediately.
 - Mulch should be loose and light, with many different materials mixed
  together to achieve proper air texture.
 
-## Relationship to Soil Health
+## Relationship to [[query-how-do-i-use-cover-crops-to-improve-soil-health]]
 
 Sheet mulching connects directly to and

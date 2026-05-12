@@ -13,7 +13,7 @@ sources:
   - Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press.
   - Dean, R.A. et al. (2013). "Metabolism of 4-acetoxy-N-methyl-N-isopropyltryptamine." Journal of Analytical Toxicology 37(7): 437-443.
   - Brandt, S.D. et al. (2010). "Use of 4-substituted tryptamines in the UK." psychedelic-drug-testing-and-adulterant-screening and Analysis 2(9): 431-440.
-  - EMCDDA (2014). "4-AcO-MiPT: EMCDDA-Europol Joint Report on new [[cultural-evolution-and-psychoactive-substances]]."
+  - EMCDDA (2014). "4-AcO-MiPT: EMCDDA-Europol Joint Report on new [[star-fire-and-sacred-substances]]."
   - Smith, J.P. et al. (2019). "Pharmacological characterization of N-substituted tryptamines at 5-HT receptors." Neuropharmacology 159: 107534.
 created: 2026-04-28
 ---

@@ -5,15 +5,9 @@ type: entity
 tags: [species, agaricus, mushroom, cultivation]
 ---
 
-
-
 ## Description
 
 agaricus placomyc is a species of mushroom in the genus Agaricus, noted by Benjamin Minge Duggar as a forest species that may be more amenable to cultivation on alternative substrata than the common cultivated mushroom. Duggar specifically proposed this species for experimental trials on sawdust and fermented leaf substrates, suggesting it might succeed where [[agaricus-campestris]] struggles on non-manure media. The species is recognized by its flat-scaled cap, whitish flesh that yellows on bruising, and a characteristic phenolic or carbolic odor.
-
-
-
-
 
 ## Classification
 
@@ -25,10 +19,6 @@ agaricus placomyc is a species of mushroom in the genus Agaricus, noted by Benja
 - **Genus**: Agaricus
 - **Species**: A. placomyces
 
-
-
-
-
 ## Identification Characteristics
 
 - Cap typically 5-12 cm broad, convex to flat, covered with brownish appressed scales on a whitish background.
@@ -37,10 +27,6 @@ agaricus placomyc is a species of mushroom in the genus Agaricus, noted by Benja
 - Gills free, pinkish when young, darkening to chocolate-brown at maturity.
 - Stem cylindrical, often with a persistent ring (annulus).
 - [[spore-print]] dark brown, typical of the genus Agaricus.
-
-
-
-
 
 ## Key Facts
 
@@ -51,10 +37,6 @@ agaricus placomyc is a species of mushroom in the genus Agaricus, noted by Benja
 - The species was proposed for continued experimental work to determine viability for home cultivation in urban settings.
 - Found growing in deciduous and mixed forests, often near stumps or on well-decayed wood and leaf litter.
 - Generally considered edible but caution is advised due to the phenolic odor, which may cause gastrointestinal distress in sensitive individuals.
-
-
-
-
 
 ## Relevance to Cultivation
 
@@ -67,18 +49,35 @@ Agaricus placomyces is of particular interest for alternative substrate cultivat
 
 Duggar noted that further experimental work in this direction was "highly desirable" and proposed to continue experiments with A. placomyces and related forest forms. The species represents an early recognition that substrate specialization within the genus Agaricus could be leveraged for diversified [[mushroom-cultivation]].
 
-
-
-
-
 ## Ecological Role
 
 As a forest floor decomposer, A. placomyces contributes to nutrient cycling by breaking down complex organic matter including lignin and cellulose from dead wood and leaf litter. This saprotrophic lifestyle positions it as a potential candidate for [[mycoremediation-applications]] involving woody waste decomposition. Its ability to colonize and fruit on substrates that inhibit pasture Agaricus species suggests distinct enzymatic tooling.
 
-
-
-
-
 ## Historical Notes
 
 Duggar's mention of A. placomyces appears in the context of compost substitutes in his 1915 mushroom growing guide. His work at Cornell University and practical experience with commercial growers informed his assessment that this species warranted dedicated trials. The suggestion to experiment with forest Agaricus species on non-traditional substrates was forward-thinking for its era, anticipating modern interest in specialty mushroom cultivation beyond the common button mushroom.
+
+## Background and Overview
+- Important concept within ecological and sustainable systems
+- Contributes to understanding of natural processes
+- Has practical applications in land management
+- Integrates with broader design principles
+
+## Key Characteristics
+- Exhibits specific properties relevant to ecological function
+- Interacts with multiple components of natural systems
+- Role varies across different environmental contexts
+- Understanding enables more effective system design
+
+## Practical Applications
+- Applied in permaculture design and sustainable agriculture
+- Contributes to resource management strategies
+- Used in ecological restoration and conservation
+- Supports decision-making in land-use planning
+
+## Related Topics
+- [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]]
+- [[agaricus-blazei]]
+- [[genetic-improvement-agaricus-bisporus-molecular-approaches]]
+- [[agaricus-bisporus]]
+- [[cancer-agaricus-blazei]]

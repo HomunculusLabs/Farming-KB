@@ -7,7 +7,7 @@
 
 ## Overview
 
-Blesching provides a comprehensive examination of cannabis safety, addressing the most common health concerns raised by patients, physicians, and policymakers. Drawing on government mortality data, clinical studies, and his own experience as a paramedic, he concludes that cannabis occupies a unique position among [[cultural-evolution-and-psychoactive-substances]]: it is "neither dangerous nor harmless." This page synthesizes his analysis of overdose risk, adverse effects, addiction potential, and special populations (adolescents, pregnant women).
+Blesching provides a comprehensive examination of cannabis safety, addressing the most common health concerns raised by patients, physicians, and policymakers. Drawing on government mortality data, clinical studies, and his own experience as a paramedic, he concludes that cannabis occupies a unique position among [[star-fire-and-sacred-substances]]: it is "neither dangerous nor harmless." This page synthesizes his analysis of overdose risk, adverse effects, addiction potential, and special populations (adolescents, pregnant women).
 
 ## Mortality Data: Zero Attributable Deaths
 

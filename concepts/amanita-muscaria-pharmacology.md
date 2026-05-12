@@ -116,3 +116,11 @@ to inform current best practices and research directions.
 - [[amanita]]
 - [[amanita-phalloides]]
 - [[doc]]
+
+- [[amanita-muscaria-biology-mycelium-ectomycorrhizal-symbiosis]]
+- [[amanita-muscaria-dosage-drying-preparation-variables]]
+- [[amanita-muscaria-historical-names-and-symbols]]
+- [[amanita-muscaria-living-bread-recipes-cereal-ambrosia-wine]]
+- [[amanita-muscaria-resurrection-rehydration-three-days]]
+- [[amanita-muscaria-vs-psilocybe]]
+- [[amanita-muscaria-zoroastrian-haoma-soma-mazda-religion]]

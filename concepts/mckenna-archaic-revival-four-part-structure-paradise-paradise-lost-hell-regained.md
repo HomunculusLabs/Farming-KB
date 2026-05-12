@@ -40,7 +40,7 @@ McKenna's "Hell" section also explores specific cultural moments in the suppress
 
 - The persecution of European witches (who preserved pre-Christian plant knowledge)
 - The destruction of [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] in the Americas
-- The criminalization of [[cultural-evolution-and-psychoactive-substances]] in the 20th century
+- The criminalization of [[star-fire-and-sacred-substances]] in the 20th century
 - The emergence of designer drugs (MDMA, anabolic steroids) as harbingers of "an era of ever more frequent and effective pharmacological intervention"
 
 ## Paradise Regained?: The Archaic Revival

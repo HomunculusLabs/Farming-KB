@@ -31,7 +31,7 @@ Before inoculation, two inoculation points must be prepared on each bag:
 
 1. **Tape placement**: Small pieces of adhesive tape are positioned at two points on the bag wall, below the filter level. Jarrold describes a **loop-back tape design** where the tape is folded back on itself, leaving a non-adhesive tab. This allows the operator to quickly cover the needle puncture site immediately after withdrawing the needle, without fumbling.
 
-2. **Sterilisation of inoculation points**: Each inoculation site is wiped with a [[cotton-wool]] swab soaked in [[propyl-alcohol]] (isopropyl alcohol) to surface-sterilise the bag wall before needle insertion.
+2. **Sterilisation of inoculation points**: Each inoculation site is wiped with a [[cotton-wool]] swab soaked in [[isopropyl-alcohol]] (isopropyl alcohol) to surface-sterilise the bag wall before needle insertion.
 
 ### Inoculation Procedure
 

@@ -31,10 +31,10 @@ sources:
 
 *Ruta graveolens*, commonly known as rue, herb-of-grace, or bitter herb, is a
 perennial aromatic plant in the family Rutaceae. Native to the Balkan
-Peninsula and southeastern Europe, rue has been cultivated for over 3,000
+Peninsula and [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]]ern [[free-spore-ring-europe-mushroom-cultivation-network]], rue has been cultivated for over 3,000
 years as a [[holzer-medicinal-and-culinary-herbs-compendium]] herb. It was a staple of classical
 Mediterranean pharmacology and Roman cuisine but has declined in modern use
-due to its toxicity at therapeutic doses. The species name *graveolens* means
+due to its toxicity at therapeutic doses. The [[guzman-magic-mushrooms-temperate-zone-species]] name *graveolens* means
 "strong-smelling," referring to its pungent, bitter aroma.
 
 ## Taxonomy and Classification
@@ -68,16 +68,16 @@ by animals.
 **Roots:** Woody taproot with extensive lateral branching. Drought-tolerant
 once established.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
 Rue is native to the Balkan Peninsula (particularly the Dalmatian coast of
 modern Croatia), Greece, and southern Italy. It has been widely naturalized
-across southern and central Europe, North Africa, the Middle East, and
+across southern and central Europe, [[guzman-psilocybin-mushrooms-north-america]] [[guzman-psilocybin-mushrooms-africa]], the Middle East, and
 [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of North and [[guzman-psilocybin-mushrooms-south-america]]. The plant prefers well-drained,
 calcareous soils in full sun and tolerates drought, poor soils, and
 moderate salinity. It is hardy to USDA zones 4–9.
 
-## Bioactive Compounds
+## Bioactive [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 
 Rue contains a complex mixture of [[antifungal-secondary-metabolites-coprophilous-fungi]], several of which
 contribute to both its medicinal activity and its toxicity:
@@ -87,4 +87,4 @@ contribute to both its medicinal activity and its toxicity:
   (phytophotodermatitis) when the plant sap contacts skin followed by UV
   exposure. Psoralen is used therapeutically in PUVA therapy for vitiligo
   and psoriasis.
-- **Alkaloids:** Rutacridone, graveoline, and other acridone and quinoline
+- **[[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]s:** Rutacridone, graveoline, and other acridone and quinoline

@@ -55,7 +55,7 @@ Norbaeocystin (4-phosphoryloxytryptamine) is another minor alkaloid found in som
 
 Psilocybin, psilocin, baeocystin, and norbaeocystin are all classified as indolealkylamines, a broad chemical category that includes the classical psychedelics LSD ([[lsd-d-lysergic-acid-diethylamide]]) and DMT (N,N-dimethyltryptamine). This classification reflects their shared indole ring structure and their common mechanism of action at serotonin receptors.
 
-The indolealkylamine group is one of the major chemical categories of naturally occurring [[cultural-evolution-and-psychoactive-substances]], alongside phenethylamines, [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]], and cannabinoids.
+The indolealkylamine group is one of the major chemical categories of naturally occurring [[star-fire-and-sacred-substances]], alongside phenethylamines, [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]], and cannabinoids.
 
 ## The Blue Bruising Reaction
 

@@ -14,9 +14,9 @@ sources:
 
 ## Overview
 
-**Astragalus membranaceus**, commonly known as Huang Qi (黄芪) in Chinese, is a perennial flowering plant in the legume family (Fabaceae) and one of the most important herbs in Traditional Chinese Medicine (TCM). Native to the arid and semi-arid regions of northern China, Mongolia, and Korea, it has been used medicinally for over 2,000 years to strengthen vitality, support immune function, and promote longevity.
-The root is the primary medicinal part, harvested from plants typically 4–5 years old. Astragalus is classified as a premier **adaptogen** — a substance that helps the body maintain homeostasis and resist the damaging effects of stress through broad, non-specific physiological support.
-In modern herbalism and clinical practice, Astragalus is valued for its immunomodulatory, cardioprotective, anti-inflammatory, and anti-aging properties. It is one of the most thoroughly researched [[adaptogenic-herbs-guide]], with over 3,000 published scientific studies.
+**Astragalus membranaceus**, commonly known as Huang Qi (黄芪) in Chinese, is a perennial flowering plant in the legume family (Fabaceae) and one of [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] herbs in Traditional Chinese Medicine (TCM). Native to the arid and semi-arid regions of northern China, Mongolia, and Korea, it has been used medicinally for over 2,000 years to strengthen vitality, support immune function, and [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]] longevity.
+The root is the primary medicinal part, harvested from [[query-what-are-dynamic-accumulator-plants-and-how-do-i-use-them]] typically 4–5 years old. Astragalus is classified as a premier **adaptogen** — a substance that helps the body maintain homeostasis and resist the damaging effects of stress through broad, non-specific physiological support.
+In modern [[query-how-to-make-herbal-infused-oils-at-home]]ism and clinical practice, Astragalus is valued for its immunomodulatory, cardioprotective, anti-inflammatory, and anti-aging properties. It is one of the most thoroughly researched [[adaptogenic-herbs-guide]], with over 3,000 published scientific studies.
 
 ## Taxonomy
 
@@ -34,11 +34,11 @@ In modern herbalism and clinical practice, Astragalus is valued for its immunomo
 ### Growth Habit
 
 Astragalus is a herbaceous perennial that grows 30–60 cm tall, with a sprawling, multi-stemmed habit.
-- **Root:** The taproot is thick, woody, and cylindrical, reaching 30–100 cm in length. Outer bark is yellowish-brown with a fibrous texture; inner cortex is pale yellow to white. The root is the sole commercially valuable part.
+- **Root:** The taproot is thick, woody, and cylindrical, reaching 30–100 cm in length. Outer bark is yellowish-[[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] with a fibrous texture; inner cortex is pale yellow to white. The root is the sole commercially valuable part.
 - **Stems:** Multiple ascending stems from a woody crown, covered with fine white hairs
 - **Leaves:** Pinnately compound, 12–25 cm long, with 9–21 pairs of leaflets. Leaflets are elliptical to oblong, 5–20 mm long, with hairy undersides
 - **Flowers:** Pea-like, pale yellow to yellowish-white, borne in axillary racemes. Each flower is 15–18 mm long. Blooms June–August.
-- **Fruit:** Legume pods, 20–30 mm long, pendulous, swollen, containing numerous kidney-shaped seeds. Mature pods are brown and papery.
+- **Fruit:** Legume pods, 20–30 mm long, pendulous, swollen, containing numerous kidney-[[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]d seeds. Mature pods are brown and papery.
 
 ### Habitat and Distribution
 
@@ -49,7 +49,7 @@ Native to dry, sandy soils in:
 - Eastern Siberia
 It thrives in full sun, well-drained sandy or loamy soils, and tolerates drought, cold (hardy to USDA Zone 4), and poor soils. These characteristics make it well-suited for permaculture applications in challenging environments.
 
-## Active Compounds
+## Active [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 
 The therapeutic activity of Astragalus is attributed to several classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
@@ -80,7 +80,7 @@ High-molecular-weight water-soluble polysaccharides (primarily glucans) that are
 
 - **Amino acids:** Including γ-aminobutyric acid (GABA), arginine, and asparagine
 - **[[dynamic-accumulator-plants-trace-minerals]]:** Selenium (important for antioxidant enzyme function), zinc, iron, magnesium
-- **GABA:** Contributes to calming, anxiolytic effects
+- **GABA:** Contributes to calming, [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]] effects
 - **Betaine:** Osmoprotectant and methyl donor
 
 ## Traditional Chinese Medicine Applications

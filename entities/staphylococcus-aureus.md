@@ -22,11 +22,11 @@ sources:
 
 ## Overview
 
-**Staphylococcus aureus** is a Gram-positive coccus and one of the most significant human bacterial pathogens. It is a leading cause of skin and soft tissue infections, bloodstream infections, pneumonia, and surgical site infections worldwide.
+**Staphylococcus aureus** is a Gram-positive coccus and one of the most significant [[mr-bloomfields-orchard-dermatophytes-and-human-fungal-infections]] bacterial pathogens. It is a leading cause of skin and soft tissue [[bloomfield-fungal-pathogens-human-opportunistic-infections]], bloodstream infections, pneumonia, and surgical site infections worldwide.
 
 The bacterium is notable for its ability to develop antibiotic resistance, most critically methicillin-resistant strains (MRSA). Approximately 30% of the human population carries *Staphylococcus aureus* persistently in the anterior nares, serving as a reservoir for both endogenous infection and transmission.
 
-## Classification and Biology
+## Classification and [[bloomfield-fungal-biology-and-hyphal-growth]]
 
 - **Domain:** Bacteria
 - **Phylum:** Bacillota (formerly Firmicutes)
@@ -40,7 +40,7 @@ The bacterium is notable for its ability to develop antibiotic resistance, most 
 - **Oxygen requirement:** Facultative anaerobe
 - **Catalase:** Positive (distinguishes from Streptococcus)
 - **Coagulase:** Positive (distinguishes from other Staphylococcus species)
-- **Growth:** Optimal 35–37 degrees Celsius; tolerates high salt concentrations (up to 10% NaCl)
+- **[[mr-bloomfields-orchard-hyphal-turgor-pressure-and-fungal-growth]]:** Optimal 35–37 degrees Celsius; tolerates high salt concentrations (up to 10% NaCl)
 
 The bacterium produces golden-pigmented colonies on agar, from which the species name *aureus* (golden) is derived. The pigment is a carotenoid called staphyloxanthin, which acts as an antioxidant virulence factor.
 
@@ -49,7 +49,7 @@ The bacterium produces golden-pigmented colonies on agar, from which the species
 ### Surface Proteins
 
 - **Protein A** — binds Fc region of IgG, preventing opsonization and phagocytosis
-- **Clumping factors and fibronectin-binding proteins** — mediate adhesion to host tissues and medical devices
+- **Clumping factors and fibronectin-binding proteins** — mediate adhesion to host [[bloomfield-mushroom-cells-stem-cells-totipotency-fungal-tissues]] and medical devices
 - **Collagen-binding protein** — facilitates tissue invasion
 
 ### Toxins and Enzymes
@@ -64,9 +64,9 @@ The bacterium produces golden-pigmented colonies on agar, from which the species
 
 ### Biofilm Formation
 
-*Staphylococcus aureus* forms robust biofilms on abiotic surfaces including catheters, prosthetic joints, and heart valves. Biofilm-embedded bacteria exhibit dramatically increased tolerance to antibiotics and [[fungal-virulence-factors-host-immune-evasion]] defenses.
+*Staphylococcus aureus* forms robust biofilms on abiotic surfaces including catheters, prosthetic joints, and heart valves. Biofilm-embedded bacteria exhibit dramatically increased [[fungal-salt-tolerance-and-ion-homeostasis]] to [[bloomfield-fungal-antibiotics-bacterial-predation-nitrogen-acquisition-soil]] and [[fungal-virulence-factors-host-immune-evasion]] defenses.
 
-The polysaccharide intercellular adhesin (PIA) and extracellular DNA are major biofilm matrix components. Biofilm formation is a critical factor in device-related infections that are notoriously difficult to eradicate.
+The polysaccharide intercellular adhesin (PIA) and [[dighton-fungal-extracellular-enzyme-systems-decomposition]] DNA are major biofilm matrix components. Biofilm formation is a critical factor in device-related infections that are notoriously difficult to eradicate.
 
 ## Clinical Manifestations
 

@@ -11,12 +11,12 @@ tags: [pihkal, phenethylamine, amphetamine, psychedelic, DOB, DOI, DOM, STP, SAR
 
 ## Overview
 
-Among the most significant compounds documented in [[pihkal-sulfur-substitution-potency-sar]]
+Among [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] significant compounds documented in [[pihkal-sulfur-substitution-potency-sar]]
 - [[2c-i-compound-profile]]
 - [[pihkal-beta-substituted-phenethylamines]]
 ## Background and Context
 
-PiHKAL DOB DOI DOM Amphetamine Psychedelic Series Comparison is an important subject that has garnered significant attention
+PiHKAL DOB DOI DOM Amphetamine Psychedelic Series Comparison is an [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough
@@ -25,13 +25,13 @@ and the accumulated wisdom of hands-on practice in the field.
 
 Historical development of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
-cultures and time periods. Modern understanding builds on centuries of
+cultures and time periods. Modern understanding [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]]s on centuries of
 traditional knowledge combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
 insights for practitioners seeking to apply these principles effectively.
 
 The broader context within which this topic exists includes evolving
-environmental conditions, changing social priorities, and advancing
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] conditions, changing social priorities, and advancing
 technological capabilities. Each of these factors influences both the
 relevance and the practical application of the principles involved.
 
@@ -45,7 +45,7 @@ attempting more advanced or specialized implementations.
 
 The primary mechanisms through which these principles manifest in
 practice involve complex interactions between biological, chemical,
-and physical processes. Understanding these mechanisms at a systems
+and physical processes. Understanding these mechanisms at a [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s
 level enables practitioners to diagnose problems, optimize outcomes,
 and adapt approaches to changing conditions with greater confidence.
 
@@ -59,7 +59,7 @@ and a key determinant of success in implementation at any scale.
 
 A range of established methods and techniques exist for working with
 this topic effectively. These approaches vary in complexity, resource
-requirements, and suitability for different contexts and objectives.
+[[mushroom-environmental-requirements-temperature-moisture-light]], and suitability for different contexts and objectives.
 Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
@@ -85,6 +85,6 @@ combined in creative ways to address diverse needs and objectives.
 Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
 
-Integration with other systems and approaches often yields the most
+Integration with other [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] approaches often yields [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
 robust and resilient outcomes. Rather than treating this topic in
 isolation, the most effective practitioners consider how it connects

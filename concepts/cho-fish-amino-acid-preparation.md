@@ -12,7 +12,7 @@ Fish Amino Acid (FAA) is a nitrogen-rich [[jadam-liquid-fertilizer-nutritional-p
 fish waste through fermentation. It contains abundant nutrients and
 various types of amino acids that are directly absorbed by crops and
 stimulate microbial activity. FAA is one of the key
-[[cho-indigenous-microorganisms-collection-and-cultivation]]
+[[indigenous-spirituality-and-freedom]]
 - Mosquito net and rubber band
 - Clay pot, plastic jar (PE container), or [[sterile-spore-print-collection-glass-jar-technique]]
 

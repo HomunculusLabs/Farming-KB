@@ -65,7 +65,7 @@ Traditional Bwiti practice involves consuming raw or minimally processed root ba
 A "flood dose" is a large, single dose intended to produce the full visionary experience. This is the traditional initiation approach:
 
 **Preparation Phase (1–2 weeks before):**
-- Discontinue all [[cultural-evolution-and-psychoactive-substances]] (critical safety requirement)
+- Discontinue all [[star-fire-and-sacred-substances]] (critical safety requirement)
 - Stop SSRIs at least 2 weeks prior (serotonin syndrome risk)
 - Discontinue opioids — withdrawal should be managed before the flood dose
 - Light, healthy diet

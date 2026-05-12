@@ -79,7 +79,7 @@ fertilizers.
 ## Ancient Grains as Green Manure
 Holzer specifically recommends ancient cereal varieties as components of green
 manure mixtures. Emmer wheat (Triticum dicoccum), einkorn wheat (Triticum
-monococcum), spelt (Triticum spelta), and other [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] produce vigorous
+monococcum), spelt (Triticum spelta), and other [[the-ultimate-goal-of-farming]] produce vigorous
 root systems that improve soil structure, generate substantial biomass, and can
 be harvested for grain if desired. These ancient varieties are adapted to low-
 input conditions — they perform well without synthetic fertilizers or pesticides,

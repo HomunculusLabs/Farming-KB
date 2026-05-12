@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[composting]]
 - [[permaculture]]
 - [[mushroom-harvesting-and-post-harvest-handling]]
-- [[root-cellaring-and-crop-storage]]
+- [[solomon-root-cellaring-and-crop-storage]]

@@ -20,16 +20,16 @@ type: concept
 
 ## Overview
 
-The introduction of cannabis into European consciousness was a gradual process
+The introduction of [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]] into European [[mckenna-consciousness-expansion-and-drug-war]] was a gradual process
 spanning centuries, mediated by travelers, conquerors, and the broad cultural
 movement known as Orientomania. From Marco Polo's sensational account of the
-hashishin assassins in the thirteenth century to Napoleon's encounter with
+hashishin assassins in the thirteenth [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] to Napoleon's encounter with
 [[hashish]] in Egypt, European perceptions of cannabis were shaped by a potent mix
 of fascination, fear, and romantic projection onto the exotic East.
 
 The European engagement with hashish coincided with and was reinforced by the
-older established interest in opium, creating a synergistic relationship
-between the two substances in shaping the Romantic literary imagination.
+older established interest in opium, creating a synergistic [[weil-the-mind-drug-relationship-paradigm]]
+between the two substances in shaping the Romantic [[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]] imagination.
 
 ## Marco Polo and the Hashishin Legend
 
@@ -38,8 +38,8 @@ in his description of the "Old Man of the Mountain," Ibn el Sabah, the reputed
 leader of the violent cult of the hashishin, the infamous sect of assassins.
 
 According to the legend, young men wishing to join the sect were given large
-doses of hashish and then introduced into an "artificial paradise" of exotic
-floral gardens, splashing fountains, and nubile young women. They were told
+doses of hashish and then introduced into an "artificial [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" of exotic
+floral [[gaias-garden-many-gardens-garden-design-process]], splashing fountains, and nubile young women. They were told
 that return to this land of dreams was only possible after carrying out certain
 acts of political murder. The words "hashishin" and "assassin" are thought to
 be etymologically related.
@@ -55,7 +55,7 @@ with exoticism, violence, and Eastern decadence.
 Five hundred years after Marco Polo, French administrators of Napoleonic Egypt
 failed utterly in their efforts to control the production and sale of cannabis.
 In response to a ban on sales, Greek smugglers immediately began a lucrative
-underground business of importing hashish into Egypt.
+under[[fukuoka-natural-alfalfa-black-wattle-ground-cover]] business of importing hashish into Egypt.
 
 Militarily, Napoleon's Egyptian expedition was a failure, but as an effort at
 cross-cultural fertilization it was a resounding success. Napoleon brought an

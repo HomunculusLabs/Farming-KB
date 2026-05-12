@@ -112,9 +112,9 @@ Nevertheless, the pattern the narrative identifies — of knowledge-bringing fig
 
 ## See Also
 
-- [[sumerian-civilization-and-entheogenic-ritual]]
+- [[powell-shamanic-wisdom-and-ritual-practice]]
 - [[entheogenic-christianity]]
-- [[the-serpent-as-knowledge-bringer]]
+- [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
 - [[patriarchal-religion-and-control-systems]]
 - [[allegro-cross-crucifixion-harmony-yoke-mushroom-symbolism]]
 - [[star-fire-and-sacred-substances]]

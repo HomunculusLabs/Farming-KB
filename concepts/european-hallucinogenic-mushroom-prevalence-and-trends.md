@@ -35,7 +35,7 @@ consistently report the highest lifetime prevalence rates. The Netherlands,
 with its tolerant smartshop culture, stands out as a notable outlier in
 [[european-prevalence-and-patterns-of-magic-mushroom-use]] data. The Czech Republic similarly shows elevated rates,
 likely influenced by relatively permissive legal frameworks regarding
-[[cultural-evolution-and-psychoactive-substances]].
+[[star-fire-and-sacred-substances]].
 
 ### Lowest Prevalence Countries
 

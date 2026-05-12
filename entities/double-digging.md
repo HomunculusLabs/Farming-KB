@@ -83,4 +83,4 @@ Emerging applications span ecological management, therapeutic protocols, and mat
 ## See Also
 
 - [[biointensive-mini-farming]]
-- [[beneficial-indigenous-microorganisms-(bim)---[[bokashi]]
+- [[designer-compost-bokashi]]

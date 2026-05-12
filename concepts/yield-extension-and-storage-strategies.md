@@ -6,7 +6,7 @@ type: concept
 
 # Yield Extension and Storage Strategies
 
-In conventional agriculture, yield is concentrated into short harvest windows — a "feast and famine" regime that creates market gluts, storage crises, and periods of scarcity. Permaculture takes a fundamentally different approach: the aim is to disperse food yield over time so that many products are available at any season. This requires both strategic design for temporal distribution and robust systems for preserving and storing surplus when it is abundant.
+In conventional agriculture, yield is concentrated into short harvest windows — a "feast and famine" regime that creates market gluts, storage crises, and periods of scarcity. [[permaculture]] takes a fundamentally different approach: the aim is to disperse food yield over time so that many products are available at any season. This requires both strategic design for temporal distribution and robust systems for preserving and storing surplus when it is abundant.
 
 ## The Problem of Concentrated Yields
 
@@ -108,10 +108,13 @@ Practical application of yield extension strategies demonstrates their effective
 
 Cultural attitudes can be the greatest barrier to realizing potential yields. Mollison noted that affluent suburbanites often develop zoophobia — fear of animals — that makes it almost taboo to use rabbits, quail, pigs, poultry, or cows in urban food systems. These animals are commonplace city farm animals in England, ordinary village animals in Asia, and edible guinea pigs live in South American homes, but in North America they are effectively banned from cities.
 
-When useful animals are abolished from urban areas, the ecological niche they occupied is filled by less desirable species. Pigeons forage streets, gulls defecate in city reservoirs, rats proliferate in garbage, and pest species multiply without competition. The refusal to integrate productive animals into human settlements is a cultural impediment that reduces both food security and ecological health.
+When useful animals are abolished from urban areas, the [[ecological-niche]] they occupied is filled by less desirable species. Pigeons forage streets, gulls defecate in city reservoirs, rats proliferate in garbage, and pest species multiply without competition. The refusal to integrate productive animals into human settlements is a cultural impediment that reduces both food security and ecological health.
 
 Mollison suggests people should "mulch their recipe books" — replace books that specify out-of-season or non-local foods with ones that stress low-energy food preservation or how to live easily from a garden in season. This cultural shift from expecting year-round availability of everything to eating seasonally and locally is fundamental to sustainable yield management.
 
 ## People as the Primary Impediment
 
 Just as designers can increase yield, so can yield be decreased. The perverse aims of some politicians, developers, and even religious dogmatists limit yield by disallowing certain products. Just as one's neighbors may refuse the snail and eat the lettuce, refuse the blackbird and eat the strawberry, so people may only allow certain types of toilets or certain plants in gardens and parks. People are the main impediment to using their potential yields — not physical limitations of the land or climate.
+
+## See Also
+- [[yield-extension-and-storage]]

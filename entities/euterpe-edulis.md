@@ -21,12 +21,12 @@ sources:
 
 ## Overview
 
-Euterpe edulis, commonly known as jussara or açaí-do-Brasil, is a slender
-monoecious palm endemic to the Atlantic Forest of Brazil. It is one of the most
+Euterpe edulis, [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]ly known as jussara or açaí-do-Brasil, is a slender
+monoecious palm [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]] to the Atlantic Forest of Brazil. It is one of [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
 economically important native palms in Brazil, harvested extensively for its
 edible palm heart.
 
-The species reaches 10 to 15 meters in height with a straight slender grey trunk
+The [[ice-cream-bean-inga-species]] reaches 10 to 15 meters in height with a straight slender grey trunk
 10 to 15 centimeters in diameter. Unlike its close relative [[euterpe-oleracea]],
 Euterpe edulis produces a single trunk and does not form multi-stemmed clumps.
 
@@ -34,13 +34,13 @@ Palm heart harvest is destructive, requiring the entire tree to be felled. This
 practice, combined with Atlantic Forest deforestation, has led to severe
 population declines and an Endangered listing on the IUCN Red List.
 
-The species also produces an edible fruit known as jussara, increasingly
+The species also produces an edible [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide]] known as jussara, increasingly
 marketed as a sustainable alternative to Amazonian açaí since fruit harvesting
 does not kill the tree.
 
 ## Taxonomy and Morphology
 
-**Classification:** Plantae → Tracheophyta → Liliopsida → Arecales → Arecaceae
+**Classification:** [[what-a-plant-knows-phytochrome-red-far-red-light-switch]]ae → Tracheophyta → Liliopsida → Arecales → Arecaceae
 → Arecoideae → Euterpeae → **Euterpe edulis** Mart. (1824). Described by von
 Martius from collections in the Atlantic Forest of southern Brazil.
 
@@ -65,7 +65,7 @@ branching to three orders. Flowers small, cream to brownish.
 green to purple to nearly black. Mesocarp is thin, fleshy, and rich in
 anthocyanins.
 
-## Distribution and Habitat
+## [[seasonal-distribution-and-habitat-of-wild-mushrooms]]
 
 Euterpe edulis is endemic to the Atlantic Forest of eastern and southern Brazil,
 from Bahia south to Rio Grande do Sul, with populations in eastern Paraguay and
@@ -83,7 +83,7 @@ The Atlantic Forest has been reduced to approximately 12 to 15 percent of its
 original extent. This habitat loss is the primary driver of population declines
 in Euterpe edulis.
 
-## Cultivation and Uses
+## [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]] and Uses
 
 **Palm heart (palmito):** Euterpe edulis has been the primary source of canned
 palm heart in Brazil since the mid-20th century. The palm heart is considered

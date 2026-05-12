@@ -44,7 +44,7 @@ the effort.
 
 A solution of 12.1 g N,N,N',N'-tetramethylethylenediamine
 and 16.6 g of 1,3-diethoxybenzene was made in 200 mL 30-60 deg C
-petroleum ether. This was stirred vigorously under a He atmosphere
+[[petroleum-ether]]. This was stirred vigorously under a He atmosphere
 and cooled to 0 deg C with an external ice bath. There was added 66 mL
 of 1.6 M butyllithium in hexane. The stirred reaction mixture became
 a little cloudy and then gradually formed a white granular
@@ -86,4 +86,4 @@ ice/MeOH bath, there was added 125 mL of a 1.6 M solution of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent star fire and sacred substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.

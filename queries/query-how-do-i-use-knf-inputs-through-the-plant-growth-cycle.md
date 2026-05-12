@@ -72,7 +72,7 @@ Then compare symptoms with [[knf-imo-four-soil-foundation-and-field-application|
 
 ## Related Questions
 
-- [[query-what-is-korean-natural-farming-and-how-does-it-work]]
+- [[natural-farming-vs-scientific-agriculture]]
 - [[query-how-to-make-fermented-plant-extracts-for-natural-fertilizer]]
 ## Practical Considerations
 

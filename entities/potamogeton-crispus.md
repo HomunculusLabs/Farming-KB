@@ -21,13 +21,13 @@ sources:
 
 ## Overview
 
-**Potamogeton crispus** is a submerged aquatic plant in the family Potamogetonaceae, commonly known as curly pondweed, crisp pondweed, or curly-leaf pondweed. It is one of the most widespread and ecologically important freshwater macrophytes in the Northern Hemisphere.
+**Potamogeton crispus** is a submerged aquatic plant in the family Potamogetonaceae, commonly known as curly pondweed, crisp pondweed, or curly-leaf pondweed. It is one of the most widespread and ecologically important fresh[[mollison-designers-fish-pond-water-quality-and-aeration]] macrophytes in the Northern Hemisphere.
 
-The species is easily recognized by its distinctive undulate, crisped leaf margins, which give the underwater foliage a wavy, ruffled appearance unlike any other common aquatic plant.
+The [[ultra-low-green-manure-cover-crop-species]] is easily recognized by its distinctive undulate, crisped leaf margins, which give the underwater foliage a wavy, ruffled appearance unlike any other common aquatic plant.
 
 Native to Eurasia, *P. crispus* has been widely introduced outside its natural range through anthropogenic means and is considered invasive in parts [[berry-growing]], Australia, and New Zealand.
 
-Despite its invasive status in some regions, the species provides significant ecological benefits as habitat for aquatic invertebrates and fish, and as a nutrient bioaccumulator that improves water clarity.
+Despite its invasive status in some [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], the species provides significant ecological benefits as habitat for aquatic invertebrates and fish, and as a nutrient bioaccumulator that improves water clarity.
 
 ## Taxonomy and Morphology
 
@@ -53,11 +53,11 @@ Leaf bases are clasping (amplexicaul), wrapping around the stem. A conspicuous s
 
 The turion-like overwintering structures (modified apical buds) are produced in late summer. These dense, hardened buds detach and sink to the substrate, allowing the species to survive winter and colonize new areas.
 
-## Distribution and Habitat
+## [[neurotropic-fungi-distribution-united-states-regions-guzman-1998]] and Habitat
 
 *P. crispus* is native to Eurasia, with a natural range extending from the British Isles and Scandinavia across Europe and northern Asia to Japan and the Korean Peninsula.
 
-The species has been widely introduced in North America, where it was first recorded in the mid-19th century. It now occurs across most of the contiguous [[dmt-containing-plants-united-states-halpern]] and southern Canada.
+The species has been widely introduced in [[guzman-psilocybin-mushrooms-north-america]], where it was first recorded in the mid-19th century. It now occurs across most of the contiguous [[dmt-containing-plants-united-states-halpern]] and southern Canada.
 
 It has also been introduced to Australia, New Zealand, South Africa, and parts of [[guzman-psilocybin-mushrooms-south-america]], primarily through aquarium and waterfowl-mediated dispersal.
 
@@ -77,14 +77,14 @@ Invasive populations form dense monospecific beds that exclude native aquatic ve
 
 The species spreads primarily through vegetative reproduction. The turions (overwintering buds) are easily transported on boats, trailers, and waterfowl, enabling rapid colonization of new water bodies.
 
-In North America, curly pondweed is considered a nuisance species in many states. Mechanical harvesting, herbicide treatment (diquat, endothall), and benthic barriers are used for control.
+In North America, curly pondweed is considered a nuisance species in many states. Mechanical harvesting, herbicide [[ingham-aact-leaf-curl-taphrina-treatment-protocol]] (diquat, endothall), and benthic barriers are used for control.
 
 Despite its invasive impacts, the species provides important habitat structure for aquatic invertebrates, including mayfly nymphs, dragonfly larvae, and amphipods. Dense beds serve as nursery areas for young fish.
 
-The early-season growth pattern means *P. crispus* fills an ecological niche before most native macrophytes begin growing, providing cover and food during a period when little other structure is available.
+The early-[[savory-growing-season-and-non-growing-season-management]] growth pattern means *P. crispus* fills an ecological niche before most native macrophytes begin growing, providing cover and food during a period when little other structure is available.
 
 Waterfowl consume the turions and foliage, particularly diving ducks. The species is considered moderately important in waterfowl diets in some regions.
 
-## Water Quality and Phytoremediation
+## [[greg-green-water-quality-and-hard-water]] Phytoremediation
 
 *P. crispus* is an effective bioaccumulator of nitrogen and phosphorus. Dense beds can remove significant quantities of nutrients from the water column, contributing to improved water clarity.

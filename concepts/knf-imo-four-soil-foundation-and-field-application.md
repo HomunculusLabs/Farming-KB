@@ -52,7 +52,7 @@ wilt and damping-off in seedlings.
 3. For 1,000 litres of water, use 1-2 kg of IMO #4
 4. Apply to seedlings in the nursery or as a foliar spray
 
-Liquid IMO #4 applied together with other [[cho-indigenous-microorganisms-collection-and-cultivation]]
+Liquid IMO #4 applied together with other [[indigenous-spirituality-and-freedom]]
 - [[knf-seed-treatment-and-soil-foundation]]
 - [[natural-farming-soil-management]]
 - [[imo-collection-multi-stage-cultivation]]

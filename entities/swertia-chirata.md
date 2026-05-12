@@ -27,7 +27,7 @@ sources:
 
 *swertia chirata* (syn. *S. chirayita*) is a critically endangered
 herb in Gentianaceae, renowned as one of the most valuable bitter
-tonic plants in traditional medicine.
+tonic [[phytochrome-red-far-red-light-switch-plant-pigment]]s in traditional medicine.
 
 Commonly known as **chirayita** or **bhunimba**, it is native to the
 Himalayan region at elevations of 1,200–3,000 meters.
@@ -36,13 +36,13 @@ In Ayurveda, it is classified as *tikta rasa* (bitter) and is a primary
 ingredient in formulations for liver disorders, digestive complaints,
 and fever.
 
-Overharvesting from wild populations has driven severe declines,
+Overharvesting from wild populations has driven severe [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]]s,
 and *CITES Appendix II* regulates its trade.
 
 ## Taxonomy
 
 - **King [[dom]]:** Plantae
-- **Division:** Angiospermae
+- **Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Angiospermae
 - **Class:** Magnoliopsida
 - **Order:** Gentianales
 - **Family:** Gentianaceae
@@ -50,7 +50,7 @@ and *CITES Appendix II* regulates its trade.
 - **Species:** *S. chirayita* (Roxb. ex Flem.) Karsten
 
  persists between *S. chirata*, *S. angustifolia*,
-and *S. alata*, which are often sold interchangeably in herbal markets.
+and *S. alata*, which are often sold inter[[query-how-does-phosphorus-availability-change-across-soil-ph-levels]]ably in herbal markets.
 
 ## Morphology
 
@@ -67,7 +67,7 @@ with 3–5 prominent parallel veins. Upper leaves sessile, clasping.
 **Fruit:** Capsule, ellipsoid, 1–1.5 cm, splitting loculicidally,
 releasing numerous small, winged seeds.
 
-**Flowering:** July to October at higher elevations.
+**[[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]:** July to October at higher elevations.
 
 ## Distribution and Habitat
 
@@ -75,11 +75,11 @@ releasing numerous small, winged seeds.
 Nepal, Bhutan, northern India (Uttarakhand, Sikkim, Arunachal Pradesh,
 and other northeastern states), and parts of Myanmar and southern China.
 
-It occupies subalpine and temperate habitats in open grasslands, forest
+It occupies subalpine and temperate habitats in open [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]lands, forest
 clearings, and rocky slopes at 1,200–3,000 meters elevation.
 
 The species prefers moist, well-drained, acidic to neutral soils with
-himedicinal--bioactive-compounds(1,500–3,000 mm).
+hi[[medicinal-mushroom-bioactive-compounds]]--bioactive-compounds(1,500–3,000 mm).
 
 ## 
 
@@ -87,7 +87,7 @@ The principal bioactive constituents are **xanthones** and **secoiridoid
 glycosides**, contributing to its intensely bitter taste and
 pharmacological activity.
 
-Key compounds include:
+Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]clude:
 
 ## See Also
 - [[swertia-japonica]]

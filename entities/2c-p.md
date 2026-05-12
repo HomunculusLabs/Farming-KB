@@ -13,7 +13,7 @@ sources:
   - Shulgin, A. & Shulgin, A. (1991). "PIHKAL: A Chemical Love Story." Transform Press.
   - Ray, T.S. (2010). "Psychoactive shulgin-designer-drugs-analysis: The '2C' Family." Drug Enforcement Administration Microgram Journal 8(1): 1–10.
   - Dean, B.V. et al. (2013). "2C Phenethylamines and NBOMe Compounds." American Journal of Health-System Pharmacy 70(23): 2111–2117.
-  - EMCDDA. (2014). "Europol-EMCDDA Report on New [[cultural-evolution-and-psychoactive-substances]]." Publications Office of the EU.
+  - EMCDDA. (2014). "Europol-EMCDDA Report on New [[star-fire-and-sacred-substances]]." Publications Office of the EU.
 ---
 
 ## Overview

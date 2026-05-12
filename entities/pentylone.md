@@ -18,7 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Zaitsu, K. et al. (2009). "Ring-substituted cathinones." Forensic Toxicology, 27(1), 7–16.
-  - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new [[cultural-evolution-and-psychoactive-substances]]." European Monitoring Centre for Drugs and Drug Addiction.
+  - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new [[star-fire-and-sacred-substances]]." European Monitoring Centre for Drugs and Drug Addiction.
   - El Balkhi, S. et al. (2023). "[[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] of pentylone and its metabolites." psychedelic-drug-testing-and-adulterant-screening and Analysis, 15(2), 289–302.
   - https://pubchem.ncbi.nlm.nih.gov/compound/Pentylone
 aliases:

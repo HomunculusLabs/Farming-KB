@@ -26,17 +26,17 @@ sources:
 
 ## Overview
 
-**[[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] morpholide** (LSM) is a hallucinogenic lysergamide and a close structural
+**[[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] morpholide** (LSM) is a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] lysergamide and a close [[shirota-psilocin-serotonin-structural-pharmacology]]
 analogue of LSD ([[lysergic-acid-diethylamide]]). It is one of several lysergamide
 derivatives explored during the mid-20th century as part of systematic research into
-structure-activity relationships of ergoline-based psychedelics.
+structure-activity relationships of ergoline-based [[psychedelic-research-legal-history-united-states]]s.
 
 LSM replaces the diethylamide group of LSD with a morpholine ring, a six-membered
 heterocycle containing both nitrogen and oxygen. This substitution modifies the
 molecule's pharmacokinetic properties while retaining significant 5-HT₂A receptor
 affinity and psychedelic activity.
 
-The compound was first synthesized and tested by researchers at Sandoz Laboratories
+The compound was first synthesized and tested by researchers at [[mckenna-food-gods-lsd-invention-hofmann-sandoz-psychedelic-era]] Laboratories
 and is catalogued in [[alexander-shulgin]]'s *TiHKAL* (Tryptamines I Have Known and Loved)
 under entry #26. It is classified as a Schedule I controlled substance in the United
 States under the Federal Analogue Act.
@@ -47,15 +47,15 @@ States under the Federal Analogue Act.
 - **Molecular weight:** 340.42 g/mol
 - **IUPAC name:** (6aR,9R)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-fg]quinoline-9-carboxylic acid morpholine amide
 - **SMILES:** CC1CN(C2CC3=CNC4=CC=CC(=C34)C2=C1)C(=O)N5CCOCC5
-- **Appearance:** White crystalline solid
+- **Appearance:** [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] crystalline solid
 
-The morpholine ring substitution represents the key structural difference from LSD.
+The morpholine ring substitution represents the key structural [[query-difference-between-white-rot-and-brown-rot-fungi]] from LSD.
 In LSD, the amide nitrogen bears two ethyl groups (diethylamide), while in LSM the
 nitrogen is incorporated into a morpholine ring system.
 
 This cyclization constrains the conformational flexibility of the amide group and
 introduces a polar oxygen atom. The effects on [[tihkal-receptor-binding-serotonin]] and metabolic
-stability are discussed in the pharmacology section.
+stability are discussed in the [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]] section.
 
 LSM is soluble in organic solvents including ethanol, methanol, and DMSO, and insoluble
 in water. Like other lysergamides, it is sensitive to light, heat, and oxidation.
@@ -70,7 +70,7 @@ eliminate psychedelic activity. In animal models and human reports, LSM produces
 effects qualitatively similar to LSD but with reduced potency and altered duration.
 
 The compound also shows affinity for 5-HT₁A, 5-HT₂C, and dopamine D₂ receptors,
-consistent with the broader lysergamide pharmacological profile. The exact binding
+consistent with the broader lysergamide [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] profile. The exact binding
 constants for LSM have not been as thoroughly characterized as those for LSD.
 
 Metabolism likely proceeds via N-dealkylation and aromatic hydroxylation pathways

@@ -28,21 +28,21 @@ sources:
 ## Overview
 
 **Desmodium gyrans** (syn. *Codariocalyx motorius*), commonly known as the
-**telegraph plant**, dancing plant, or semaphore plant, is a tropical
+**telegraph plant**, dancing plant, or semaphore plant, is a [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]]
 leguminous shrub in the family Fabaceae. It is renowned for its rapid
 nastic movement — the small lateral leaflets oscillate continuously in
 response to stimuli including light, sound, temperature, and touch.
 This visible movement has made it a subject of scientific curiosity
 since the 19th century and a popular ornamental curiosity plant.
 
-Beyond its novelty value, the species has traditional medicinal uses in
+Beyond its novelty value, the [[guzman-allen-gartz-india-neurotropic-fungi-diversity-psychoactive-species]] has traditional medicinal uses in
 Ayurvedic and folk medicine across South and [[psilocybe-southeast-asia-pacific]], and it
-serves practical roles in permaculture as a nitrogen-fixing groundcover
+serves practical roles in permaculture as a nitrogen-fixing ground[[ultra-low-green-manure-cover-crop-species]]
 and [[holzer-green-manure-crop-compendium]].
 
-## Taxonomy and Morphology
+## [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] Morphology
 
-**Classification:** Magnoliophyta → Magnoliopsida → Fabales →
+**[[guzman-allen-gartz-neurotropic-fungi-classification-system]]:** Magnoliophyta → Magnoliopsida → Fabales →
 **Fabaceae → *Desmodium → *D. gyrans***
 
 **Authority:** (Houtt.) Merr., 1910. The species has been variously placed in
@@ -52,7 +52,7 @@ and [[holzer-green-manure-crop-compendium]].
 ### Macroscopic Features
 
 - **Habit:** Subshrub or scandent shrub, 0.5–2 m tall, spreading and
-  semi-climbing, often sprawling over neighboring vegetation
+  semi-climbing, often sprawling over neighboring [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
 - **Stem:** Slender, green to brownish, pubescent with appressed hairs,
   angular when young, becoming rounded with age
 - **Leaves:** Trifoliate; terminal leaflet larger (3–8 × 2–4 cm),
@@ -77,8 +77,8 @@ cease movement in prolonged darkness.
 
 Native to tropical and subtropical regions of South and Southeast Asia,
 from India and Bangladesh through Myanmar, Thailand, Vietnam, and
-southern China. Widely introduced and naturalized in tropical Africa,
-the Americas, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
+[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] China. Widely introduced and naturalized in tropical Africa,
+the [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]s, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 - **Habitat:** Open grasslands, forest edges, roadsides, and disturbed
   areas at 100–1,500 m elevation

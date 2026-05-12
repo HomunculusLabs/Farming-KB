@@ -121,7 +121,7 @@ The core principles — deep litter, BIM application, proper ventilation, sunlig
 
 ## See Also
 
-- [[beneficial-indigenous-microorganisms]] — Culturing and applying BIM
+- [[designer-compost-bokashi|Bokashi]] — Culturing and applying BIM
 - [[bionutrients-fermented-plant-extracts]] — Ginger-garlic extract and other natural supplements
 - [[farming-with-air-water-sunlight]] — The foundational principle behind housing design
 - lactic acid bacteria agriculture — Detailed lactic acid bacteria culture methods

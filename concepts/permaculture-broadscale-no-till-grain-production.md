@@ -65,7 +65,7 @@ Permaculture design integrates multiple elements working together. Each componen
 
 - [[directed-inoculum-production-process-for-amf]]
 - [[sorghum-seed-spawn-production]]
-- [[bill-mollison-permaculture-designers-manual]]
+- [[bill-mollison]]
 - [[permaculture-designers-manual-pattern-application]]
 
 ## See Also

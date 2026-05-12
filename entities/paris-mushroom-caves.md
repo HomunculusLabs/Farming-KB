@@ -10,10 +10,6 @@ The Paris mushroom caves, known as champignonnières, are extensive underground 
 
 The caves were created as a byproduct of limestone mining for Parisian building construction. As the city expanded, enormous quantities of limestone were extracted from beneath the city and its environs, leaving behind vast labyrinthian systems of interconnected galleries. While the caves beneath the city proper became the famous Paris catacombs, the suburban quarries were transformed into the most productive mushroom growing operations the world had ever seen.
 
-
-
-
-
 ## Classification
 
 - **Type**: Subterranean cultivation facility / historical site
@@ -22,11 +18,6 @@ The caves were created as a byproduct of limestone mining for Parisian building 
 - **Period of operation**: Early 1800s - mid 20th century
 - **Primary crop**: Agaricus campestris and related species
 - **Also known as**: Champignonnières (mushroom caves)
-
-
-
-
-
 
 ## Key Facts
 
@@ -41,11 +32,6 @@ The caves were created as a byproduct of limestone mining for Parisian building 
 - The caves provided nearly year-round production capability due to naturally stable temperature and humidity conditions.
 - All-year use of the cave facilities was documented in the vicinity of Paris, giving French producers an enormous competitive advantage over seasonal operations.
 
-
-
-
-
-
 ## Geography and Key Suburban Centers
 
 | Location | Notes |
@@ -58,11 +44,6 @@ The caves were created as a byproduct of limestone mining for Parisian building 
 | Rosny-sous-Bois | Eastern suburb |
 | Passy | Within modern Paris, western area |
 
-
-
-
-
-
 ## Relevance to Cultivation and Mycology
 
 - **Temperature stability**: The underground environment maintained consistent temperatures ideal for mushroom fruiting (approximately 48-56F / 9-13C), eliminating the need for artificial heating or cooling and reducing production costs dramatically.
@@ -72,13 +53,33 @@ The caves were created as a byproduct of limestone mining for Parisian building 
 - **Spawn and variety development**: The concentration of mushroom expertise in these caves facilitated the eventual development of pure culture spawn techniques around 1900 in France and the United States.
 - **Sustainability model**: The repurposing of industrial byproducts (abandoned quarries) for food production represents an early example of adaptive reuse with lasting agricultural significance.
 
-
-
-
-
-
 ## See Also
 
 - [[agaricus-campestris]]
 - [[mushroom-house-construction-design]]
 - [[halles-centrales-paris]]
+
+## Background and Overview
+- Important concept within ecological and sustainable systems
+- Contributes to understanding of natural processes
+- Has practical applications in land management
+- Integrates with broader design principles
+
+## Key Characteristics
+- Exhibits specific properties relevant to ecological function
+- Interacts with multiple components of natural systems
+- Role varies across different environmental contexts
+- Understanding enables more effective system design
+
+## Practical Applications
+- Applied in permaculture design and sustainable agriculture
+- Contributes to resource management strategies
+- Used in ecological restoration and conservation
+- Supports decision-making in land-use planning
+
+## Related Topics
+- [[paris-mushroom-caves-champignonieres]]
+- [[paris-catacombs-mushroom-caves]]
+- [[french-mushroom-caves-of-paris]]
+- [[french-mushroom-caves-and-underground-cultivation]]
+- [[mushroom-growing-situations-and-caves]]

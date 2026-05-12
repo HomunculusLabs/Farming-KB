@@ -81,6 +81,6 @@ soil types, and seasonal patterns for optimal results.
 
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
 - [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[the-ultimate-goal-of-farming]]
 - [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
 - [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]

@@ -10,16 +10,16 @@ sources:
 type: concept
 ---
 
-# Mycelial Morphology and Strain Evaluation
+# Mycelial [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and Strain Evaluation
 
 ## Overview
 
-Understanding mycelial morphology is essential for mushroom cultivators who wish
-to select and develop high-performing strains. Mycelium, the vegetative body of
+Understanding mycelial morphology is essential for [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] cultivators who wish
+to select and develop high-performing strains. [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]], the vegetative body of
 the fungus, manifests in several distinct growth forms that directly correlate
 with fruiting potential. The ability to recognize and selectively propagate
 desirable mycelial characteristics is a fundamental skill in mushroom breeding
-and cultivation.
+and [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]].
 
 ## Types of Mycelial Growth
 
@@ -50,7 +50,7 @@ primordia, but this usually occurs soon after it forms rhizomorphs.
 A sector is defined solely in contrast to the surrounding, predominant mycelia.
 In a dish largely covered with cottony mycelia, a fan of strandy mycelia would
 be called a rhizomorphic sector, and vice versa. Sectors are common in mushroom
-culture and although little is known about their cause or function, it is clear
+culture and although little is known about their cause or [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], it is clear
 that genetics, nutrition and age of the mycelium play important roles.
 
 ## Factors Influencing Mycelial Morphology
@@ -65,7 +65,7 @@ Sectoring on grain can be reduced by avoiding exploded grains (a consequence of
 excessive water) and buffering the pH to 6.5 using a combination of chalk
 (precipitated calcium carbonate) and gypsum (calcium sulfate).
 
-## Rhizomorphic vs. Cottony: Performance Comparison
+## Rhizomorphic vs. Cottony: Performance [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
 
 Rhizomorphic mycelia run faster, form more primordia and in the final analysis
 yield more mushrooms than cottony mycelia. Primordia frequently form along
@@ -77,11 +77,11 @@ abundant primordia while the cottony sector does not.
 ## Strain Senescence
 
 When a mycelium grows old it is said to be senescing. Senescent mycelium, like
-any aged plant or animal, is far less vigorous and fertile than its counterpart.
+any aged [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]] or animal, is far less vigorous and fertile than its counterpart.
 A change from rhizomorphic to cottony looking mycelium should be a warning that
 strain degeneration has begun.
 
-After many cell divisions and continual transfers over several years at optimum
+After many cell di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s and continual transfers over several years at optimum
 temperatures, a sub-strain is likely to have been selected out, one that may
 distantly resemble the original in vitality, mycelial appearance and fruiting
 potential. This is an inevitable consequence of extended subculturing.

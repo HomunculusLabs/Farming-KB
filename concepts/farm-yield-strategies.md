@@ -116,5 +116,5 @@ These are often permanent or durable strategies whose continuous benefit accrues
 
 ## See Also
 
-- system yield and production strategies — the theoretical framework underlying these practical strategies
+- [[system-yield-and-production-strategies]] — the theoretical framework underlying these practical strategies
 - [[permaculture-design-principles]] — foundational principles that guide all strategy selection

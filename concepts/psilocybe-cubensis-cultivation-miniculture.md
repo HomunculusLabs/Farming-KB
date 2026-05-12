@@ -118,7 +118,7 @@ While developed for alkaloid analysis, the miniculture method has broader applic
 
 ## See Also
 
-- [[psilocybin-and-psilocin-biosynthesis-variation]]
+- [[wiki:concepts/partial-veil-and-annulus-variation]]
 - [[psilocybe-cubensis]]
 
 ## References

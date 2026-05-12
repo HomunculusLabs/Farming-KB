@@ -143,4 +143,4 @@ Melaleucas are best placed in:
 - [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]
 - [[forage-turnip]]
 - [[wetland-rehabilitation]]
-- [[essential-oil-producing-plants]]
+- [[permaculture-designers-manual-essential-oil-plants]]

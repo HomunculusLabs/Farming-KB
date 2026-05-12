@@ -99,7 +99,7 @@ Coppicing has been practiced for thousands of years across Europe, Asia, and els
 - [[nitrogen-fixing-trees]]
 - [[agroforestry]]
 - [[permaculture-windbreak-design]]
-- [[sustainable-forestry]]
+- [[sustainable-forestry-coppicing-and-woodlot-management]]
 - [[forest-garden-design-principles]]
 
 ## Practical Applications

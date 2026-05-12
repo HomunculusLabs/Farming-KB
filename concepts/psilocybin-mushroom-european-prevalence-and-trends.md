@@ -5,22 +5,22 @@ tags: [epidemiology, europe, prevalence, psilocybin, drug-policy, emcdda]
 created: 2026-05-09
 ---
 
-# Psilocybin Mushroom Prevalence and Use Patterns in Europe
+# [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]] Prevalence and Use Patterns in Europe
 
 ## Overview
 
 The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) published a
-comprehensive case study in 2006 examining hallucinogenic mushroom use across the
+comprehensive case study in 2006 examining [[emcdda-legal-alternative-products-market-hallucinogenic-mushroom-substitutes-europe]] use across the
 European Union. This study, drawing on data from 12 EU member states plus Norway,
 revealed that while overall prevalence was considerably lower than cannabis, lifetime
 use among young people (15-16 years) in some countries equaled or exceeded ecstasy
-use. The emergence of magic mushrooms as a drug trend was closely linked to the
+use. The emergence of [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]s as a drug trend was closely linked to the
 expansion of smartshops, internet commerce, and broader "return to nature" cultural
 currents.
 
 ## Prevalence Among General Population (15-24 years)
 
-Lifetime prevalence of hallucinogenic mushroom use among young adults aged 15-24
+Lifetime prevalence of [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006]] use among young adults aged 15-24
 across 12 EU member states ranged from less than 1% to 8%:
 
 - **Highest prevalence**: Netherlands, Czech Republic, UK, Germany, and Ireland.
@@ -40,7 +40,7 @@ reflecting the self-limiting nature of mushroom use.
 ## School Survey Data (ESPAD, 15-16 years)
 
 The 2003 ESPAD school survey across 22 EU member states, Norway, and four
-candidate countries provided additional prevalence data:
+candidate countries provided additional [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]]:
 
 - Lifetime use among 15-16 year old students ranged from 0% to 8%.
 - **Highest**: Czech Republic, Netherlands, France, and Belgium.
@@ -53,13 +53,13 @@ candidate countries provided additional prevalence data:
 
 Drug surveys conducted in club settings consistently showed higher prevalence
 of all illegal drug use compared to general or school populations. Use of
-hallucinogenic mushrooms was more common among young people who had used other
+[[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]s was more common among young people who had used other
 illegal drugs than among those who had not, placing mushrooms within the
 broader pattern of polydrug use common in club environments.
 
 ## Historical Timeline
 
-The emergence of hallucinogenic mushrooms as a European drug trend followed a
+The emergence of [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]]s as a European drug trend followed a
 distinct timeline:
 
 - **Pre-1957**: Only LSD dominated the field of hallucinogenic drug use in
@@ -75,7 +75,7 @@ distinct timeline:
 - **2001-2006**: Six EU countries tightened legislation: Denmark (2001),
   Netherlands (2002), Germany, Estonia, UK (2005), and Ireland (2006).
 
-## Dose, Administration, and Effects
+## Dose, Administration, and [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]]
 
 ### Potency and Dose
 

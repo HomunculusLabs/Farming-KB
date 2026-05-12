@@ -70,7 +70,7 @@ rather than being a cultural invention.
 
 McKenna places psychoactive plants at the center of shamanic
 tradition. The ethnographic record is unambiguous: the majority of
-the world's shamanic cultures employ [[cultural-evolution-and-psychoactive-substances]] as
+the world's shamanic cultures employ [[star-fire-and-sacred-substances]] as
 primary tools for entering ecstatic states. In the Amazon, **ayahuasca**
 (*Banisteriopsis caapi*, combined with *[[chacruna-psychotria-viridis]]*) serves as
 the central sacrament. In North America, **peyote** (*Lophophora

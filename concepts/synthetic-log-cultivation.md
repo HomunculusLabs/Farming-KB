@@ -8,9 +8,9 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-a-practical-guide-to-synthetic-lo
 type: concept
 ---
 
-# Synthetic Log Cultivation
+# Synthetic [[query-how-do-i-start-a-small-scale-mushroom-log-cultivation-operation]]
 
-Synthetic log cultivation is the systematic practice of generating, curating,
+Synthetic [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]] is the systematic practice of generating, curating,
 and repurposing model reasoning traces as training data. Rather than training
 on input-output pairs alone, the model learns from the full chain of thought
 that produced the answer. The term "cultivation" emphasizes that these logs are
@@ -22,7 +22,7 @@ iterations.
 Human reasoning traces are expensive and inconsistent. Annotators differ in
 their and [[maitake-problem-solving-troubleshooting]] approaches, verbosity, and error rates. Even expert
 annotators struggle to produce the detailed, by step reasoning that models
-benefit from most. Synthetic log cultivation solves this by having a capable
+[[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] from most. Synthetic [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] solves this by having a capable
 model produce exhaustive reasoning traces at scale, with consistent formatting
 and thoroughness.
 
@@ -38,14 +38,14 @@ hyperparameters include temperature (higher values increase diversity),
 max tokens (allowing full reasoning chains), and system prompts that encourage
 thorough step-by-step thinking.
 
-**Pruning** removes low-quality logs. Common pruning criteria include
+**Pruning** removes low-quality logs. [[query-how-do-i-grow-carrots-successfully-and-troubleshoot-common-problems]] pruning criteria include
 incorrectness (the final answer is wrong), circular reasoning (the trace loops
 without progress), premature termination (the model stops reasoning before
 reaching an answer), and low information density (verbose but shallow traces).
 
 **Replanting** takes successful logs and uses them as seeds for further
-generation. For example, a correct math solution can be modified to create
-variant problems with similar structure but different numbers. This recursive
+generation. For example, a correct math solution can be modified to [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
+variant [[query-how-to-troubleshoot-common-problems-in-mushroom-cultivation]] with similar structure but different numbers. This recursive
 expansion dramatically increases coverage of the problem space.
 
 **Selection** picks the final training subset. Criteria include diversity of
@@ -68,7 +68,7 @@ strategy that comes to mind.
 
 ## Iterative Refinement
 
-Cultivation is not a one-shot process. The most effective systems run multiple
+Cultivation is not a one-shot process. [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] effective systems run multiple
 rounds: generate logs, train a student model on those logs, then use the
 student (or an updated teacher) to generate better logs for the next round.
 Each iteration improves the quality and coverage of the training data.

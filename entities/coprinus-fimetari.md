@@ -19,8 +19,6 @@ coprinus fimetari is a small species of ink cap mushroom that commonly appears o
 - **Genus**: Coprinus
 - **Species**: C. fimetarius
 
-
-
 ## Identification Characteristics
 
 - Small fruiting bodies, typically 2-5 cm cap diameter.
@@ -29,9 +27,6 @@ coprinus fimetari is a small species of ink cap mushroom that commonly appears o
 - Thin, hollow stipe.
 - Rapid fruiting cycle: can appear and auto-digest within 24-48 hours.
 - Typically found in dense clusters on compost, manure, or enriched soils.
-
-
-
 
 ## Key Facts
 
@@ -42,9 +37,6 @@ coprinus fimetari is a small species of ink cap mushroom that commonly appears o
 - Duggar noted that if mould and C. fimetarius continue abundantly after spawning, the condition can be remedied by further compression of the compost or by early casing.
 - Auto-digestion (deliquescence) is characteristic of the genus and aids in [[spore-dispersal]].
 - Thrives in nitrogen-rich environments with partially decomposed organic matter.
-
-
-
 
 ## Relevance to Cultivation
 
@@ -57,9 +49,6 @@ Coprinus fimetarius serves as a biological indicator in [[mushroom-cultivation]]
 
 Unlike many mould contaminants that directly attack or crowd out mushroom mycelium, C. fimetarius is relatively benign. It fruits, releases spores, and auto-digests without significantly damaging the underlying compost. However, its presence should prompt the cultivator to evaluate whether the bed environment is fully prepared for successful spawn run.
 
-
-
-
 ## Management Strategies
 
 When C. fimetarius appears abundantly on prepared beds, cultivators can employ several responses:
@@ -69,16 +58,39 @@ When C. fimetarius appears abundantly on prepared beds, cultivators can employ s
 3. **Early casing**: Apply casing soil sooner than usual to create conditions less favorable to ink caps and more favorable to Agaricus mycelium.
 4. **Assess compost composition**: If shavings or sawdust are responsible, adjust the substrate recipe for future batches.
 
-
-
-
 ## Relationship to Other Species
 
 The genus Coprinus (now largely reclassified into Coprinellus, Coprinopsis, and Parasola) contains several species relevant to mushroom cultivation. [[coprinus-comatus]] (shaggy ink cap) is itself an edible species of commercial interest. Coprinus atramentaria contains coprine and causes adverse reactions when consumed with alcohol. C. fimetarius occupies a niche as a common compost colonizer rather than a cultivated species, and is generally considered inedible due to its small size and insubstantial flesh.
 
-
-
-
 ## Ecological Role
 
 As a coprophilous (dung-loving) fungus, C. fimetarius plays an important role in nutrient cycling in manure and compost environments. It rapidly colonizes partially decomposed organic matter, breaking down readily available nutrients and contributing to the microbial succession that ultimately produces a mature compost suitable for mushroom cultivation. In this sense, it is a natural part of the composting ecosystem rather than a true pest.
+
+## Practical Significance
+- Relevant to sustainable land management and design
+- Applications in permaculture and ecological systems
+- Connected to broader themes of resource management
+
+## See Also
+- [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
+- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
+- [[coprinus-comatus-cultivation]]
+- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
+- [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
+
+## Practical Significance
+- Relevant to sustainable land management and ecological design
+- Applications in permaculture and regenerative agriculture
+- Connected to broader themes of resource conservation
+
+## Key Principles
+- Functions within interconnected ecological systems
+- Contributes to overall system resilience and stability
+- Understanding enables better design decisions
+
+## See Also
+- [[edible-agarics-coprinus-and-lepiota-species]]
+- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
+- [[coprinus-comatus]]
+- [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
+- [[coprinus-picaceus]]

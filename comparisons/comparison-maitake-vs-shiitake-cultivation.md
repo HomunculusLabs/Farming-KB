@@ -121,3 +121,7 @@ must remain separate.
 - [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
 - [[comparison-oyster-vs-shiitake-cultivation]]
 - [[maitake-grifola-frondosa-cultivation]]
+
+- [[comparison-maitake-vs-cordyceps]]
+- [[comparison-maitake-vs-oyster-cultivation]]
+- [[comparison-maitake-vs-wine-cap-cultivation]]

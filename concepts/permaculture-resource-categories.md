@@ -6,9 +6,9 @@ type: concept
 
 # Resource Categories in Permaculture
 
-In permaculture, resources are defined as useful reserves created when living components and technological units translate incoming natural energies (sun, wind, rain) into storable forms. Some resources must remain within the system for its own purposes — fish stocks must be maintained to produce more fish. An ideal technology should, at minimum, fuel itself. The surplus beyond system needs constitutes yield.
+In [[permaculture]], resources are defined as useful reserves created when [[query-what-is-living-mulch-and-when-should-i-use-it]] components and technological units translate incoming natural energies (sun, wind, rain) into storable forms. Some resources must remain within the [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] for its own purposes — fish stocks must be maintained to produce more fish. An [[fukuoka-ideal-rice-plant-form-dimensions-high-yield]] technology should, at minimum, fuel itself. The surplus beyond system needs constitutes yield.
 
-Understanding what resources are and how they respond to use is fundamental to permaculture design, because not all resources can be used in the same way or to the same ends.
+Understanding what resources are [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]] they respond [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]] is fundamental to [[permaculture-design]], because not all resources can be used in the same way or to the same ends.
 
 ## The Ethics of Resource Use
 
@@ -22,7 +22,7 @@ A use-and-results approach reveals five distinct resource categories based on wh
 
 These resources flourish when used moderately and deteriorate when neglected. Green browse exemplifies this: if deer do not browse shrubs, the plants become woody and unpalatable. A browsed biennial, unable to flower, may tiller out and become perennial. Seedling trees can be maintained at browse height, but ungrazed specimens "escape" to unbrowsable height and shade out other palatable plants.
 
-**Information** is perhaps the most important resource in this category. It withers or becomes outdated if not used. Too little impoverishes a system, but when freely used and exchanged, it flourishes and increases.
+**Information** is perhaps [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] resource in this category. It withers or becomes outdated if not used. Too little impoverishes a system, but when freely used and exchanged, it flourishes and increases.
 
 Overgrazing can cause extinction of palatable browse and browsers through damage, but underbrowsing produces similar effects through woody dominance. Balance is essential.
 
@@ -63,7 +63,7 @@ These resources are permanent pollutants in terms of human lifetimes and represe
 
 Categories 1 through 3 are the resources most commonly produced in natural systems and rural living situations, and they constitute the only sustainable basis of society. Categories 4 and 5 result primarily from urban and industrial development. If Category 4 and 5 resources are not used to produce permanent beneficial changes to the ecosystem, they become pollutants.
 
-A sane society manages Categories 1 through 4 wisely, bans the use of Category 5, and regulates all uses to produce sustainable yield. This is called **resource management** and has been successfully applied to some fish and animal populations, but seldom to human lives and economies.
+A sane society manages Categories 1 through 4 wisely, bans the use of Category 5, and regulates all uses to produce sustainable yield. This [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]]led **resource management** and has been [[query-how-to-grow-successfully-in-containers-and-what-plants-work-best]] applied to some fish and animal populations, but seldom to human lives and economies.
 
 ## The Principle of Enough
 
@@ -75,7 +75,7 @@ Both over- and undersupply of resources produce similar systemic disorder, excep
 
 A responsible human society must ban the use of resources that permanently reduce yields of sustainable resources — pollutants, persistent poisons, radioactives, large areas of concrete and highways, sewers from city to sea. Failure to do so will cause the society itself to fail.
 
-Programs of highway building, city expansion, release of persistent biocides, and loss of soil bring societies down more surely and permanently than war. Governments that tolerate desertification, land salting, concreted highways, and city sprawl take more good land permanently out of life production than the loss of territory to a conqueror. This immorality is often termed "progress" and "growth" to confuse the ignorant and supplant local self-reliance for the temporary ends of centralized power.
+Programs of highway building, city expansion, release of persistent biocides, and loss of soil bring societies down more surely and permanently than war. Governments that tolerate [[desertification]], land salting, concreted highways, and city sprawl take more good land permanently out of life production than the loss of territory to a conqueror. This immorality is often termed "progress" and "growth" to confuse the ignorant and supplant local self-reliance for the temporary ends of centralized power.
 
 The economic dimension is stark: superhighways and overpasses in Massachusetts alone need approximately $400 billion to repair, and the collapsing sewer systems of London and New York some $80 billion. Neither jurisdiction can raise this money, demonstrating that unthinking historical development strategy can cripple a future society. Today's luxuries are tomorrow's disasters.
 

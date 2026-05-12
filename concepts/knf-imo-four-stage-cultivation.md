@@ -13,7 +13,7 @@ sources:
 **Source:** [[knf-indigenous-microorganism-culture]]
 - [[knf-carrot-enzyme-soil-preparation]]
 - [[natural-farming-knf-overview]]
-- [[cho-indigenous-microorganisms-collection-and-cultivation]]
+- [[indigenous-spirituality-and-freedom]]
 ## Background and Context
 
 IMO Four-Stage Cultivation System is an important subject that has garnered significant attention

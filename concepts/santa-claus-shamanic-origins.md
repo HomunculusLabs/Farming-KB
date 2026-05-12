@@ -119,4 +119,3 @@ Not all scholars accept the shamanic origin theory. Some attribute Santa Claus i
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
 - [[guzman-transcontinental-species-pairs-southern-hemisphere-origins]]
 - [[sativa-landrace-strains-and-geographic-origins]]
-

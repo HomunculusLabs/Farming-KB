@@ -6,7 +6,7 @@ type: entity
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
-# ALEPH-7
+# [[aleph-6-pihkal-entry-6]]-7
 
 [[2c-b-pihkal-entry-20]] #7. 4-Propylthio-2,5-dimethoxy-A.
 
@@ -20,11 +20,11 @@ sources: ["Shulgin - PIHKAL"]
 ## Qualitative Comments
 
 > (with 4 mg) At the second hour I had a
-> paraesthetic twinge or two (all pins and needles), and then felt quite
+> paraesthetic twinge or two (all pins and [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]]s), and then felt quite
 > relaxed, quite willing to let this play itself out. In the evening my
-> ears still feel 'popped' and there is a little bit of physical
+> ears [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] feel 'popped' and there is a little bit of physical
 > awareness. There is not much fun with this. The night following, I
-> was unable to sleep and only dozed slightly, but I seemed to be OK the
+> was unable to sleep and only dozed s[[phytochrome-photoreceptor-red-far-red-light]]ly, but I seemed to be OK the
 > next day.
 >
 > (with 6 mg) The alert was felt within a half hour, and then nothing
@@ -39,8 +39,8 @@ sources: ["Shulgin - PIHKAL"]
 > lost the residual strangeness feeling. Never again.
 >
 > (with 7 mg) I did this alone, and in retrospect I wish I had not.
-> Somewhere between the hours 2 and 3, I got to a full +++, and I was
-> concerned that I saw the effects still developing. Where would it go
+> Somewhere [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] the hours 2 and 3, I got to a full +++, and I was
+> concerned that I saw the [[sound-and-music-effects-on-plants]] still developing. Where would it go
 > now? There was no reality loss as with [[lsd]], no shakes or shimmers,
 > but an intense and profound +++ of something characterized only by the
 > absence of extremes. And I am frightened because this is still
@@ -53,9 +53,9 @@ sources: ["Shulgin - PIHKAL"]
 > the S.F. Bay Bridge, at every moment of my travels. The middle lane
 > through the tunnel. The second from the left when descending into San
 > Francisco. The white lane-marker stripes were zipping up past my
-> lateral field of vision as I drove, those that were to my right zipped
+> lateral field of [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] as I drove, those that were to my right zipped
 > past my right eye, those to the left past my left eye. Like disturbed
-> fruit flies leaving an over-ripe peach. But, as everything had been
+> [[query-when-and-how-should-i-prune-my-fruit-trees]] flies leaving an over-ripe peach. But, as everything had been
 > preprogrammed, there were no surprises. I made it successfully, and
 > my baby-sitting friend probed, with a blend of curiosity, love, and
 > envy, my uncaring state. And in the course of the next couple of

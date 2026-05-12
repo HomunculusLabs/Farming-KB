@@ -28,7 +28,7 @@ aliases:
 
 # AHCC (Active Hexose Correlated Compound)
 
-**AHCC** (Active Hexose Correlated Compound) is a proprietary, standardized extract derived from the **mycelium** of several basidiomycete mushrooms, primarily *Lentinula edodes* (shiitake). Developed in Japan in the late 1980s, AHCC is one of the most clinically researched mushroom-derived immunomodulatory supplements, with over 30 human clinical trials and 100+ preclinical studies investigating its effects on immune function, cancer outcomes, liver health, and infectious disease. It is marketed as a dietary supplement in over 40 countries and is widely used in Japanese integrative oncology as a [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] alongside conventional cancer treatment.
+**AHCC** (Active Hexose Correlated Compound) is a proprietary, standardized extract derived from the **mycelium** of several basidiomycete [[cancer-medicinal-mushrooms-ahcc-clinical-outcomes]], primarily *Lentinula edodes* (shiitake). Developed in Japan in the late 1980s, AHCC is one of the most clinically researched mushroom-derived immunomodulatory supplements, with over 30 human [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]] and 100+ preclinical studies investigating its effects on [[blesching-cannabis-immune-system-modulation]] function, cancer outcomes, liver health, and infectious disease. It is marketed as a [[blesching-dietary-beta-caryophyllene-spice-sources-cb2-agonist]] supplement in over 40 countries and is widely used in Japanese integrative oncology as a [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] alongside conventional cancer treatment.
 
 ## Composition and Manufacture
 
@@ -68,13 +68,13 @@ AHCC exerts broad immunomodulatory effects through activation and enhancement of
 - **Macrophages:** Activation of peritoneal and alveolar macrophages with enhanced phagocytic activity and cytokine secretion
 - **B lymphocytes:** Modest enhancement of antibody production and B cell proliferation
 
-### Cytokine Modulation
+### Cytokine [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
 AHCC shifts the cytokine profile toward a **Th1-dominant** pattern, increasing IL-2, IL-12, IFN-γ, and TNF-α while modulating IL-6 and IL-10. This Th1 bias is considered therapeutically advantageous for anti-tumor immunity and antiviral defense, as Th1 responses drive cellular immunity against infected and malignant cells.
 
 ### Gut Immunity
 AHCC influences the gut-immune axis by modulating intestinal microbiota composition and enhancing gut-associated lymphoid tissue (GALT) function. It increases secretory IgA production and strengthens intestinal barrier integrity, contributing to systemic immune surveillance.
 
-## Clinical Evidence
+## Clinical [[cannabis-health-index-chi-score-evidence-interpretation-blesching]]
 
 ### Cancer Adjunct Therapy
 The largest body of clinical evidence for AHCC concerns its use as a complementary therapy in cancer patients. Key findings from controlled clinical trials include:
@@ -85,6 +85,6 @@ The largest body of clinical evidence for AHCC concerns its use as a complementa
 - **Tumor markers:** Decreased levels of CEA, CA19-9, and AFP in various cancer types during AHCC supplementation
 
 ### Hepatoprotection
-AHCC protects liver function through multiple mechanisms:
+AHCC protects liver function through multiple [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]:
 
-- Reduction of serum ALT, AST, and GGT in patients with chronic hepatitis
+- Reduction of serum ALT, AST, and GGT in patients with chronic [[blesching-cannabis-hepatitis-antiviral-treatment-adjunct]]

@@ -27,7 +27,7 @@ Acetic anhydride can distinguish between the compounds: mda-entity|MDA gives an 
 
 ## Dosage and Duration
 
-Effective oral dosage: 100 - 160 mg.
+[[savory-animal-impact-and-herd-effect]]ive oral dosage: 100 - 160 mg.
 
 Duration of effects: 3 - 6 hours.
 
@@ -35,7 +35,7 @@ The dosage and duration are remarkably similar to those of mda-entity|MDA itself
 
 ## Qualitative Effects
 
-At 100 mg, users describe an initial internal barrier that gradually dissolves into a "wonderful contemplative space where things gently unfolded as you put your attention on them."
+At 100 mg, users describe an initial internal barrier that gradually dissolves into a "wonderful contemplative [[fukuoka-transcending-time-space-no-plan-best-plan]] where [[fukuoka-textdoc-one-thing-is-all-things-holism]] gently unfolded as you put your attention on them."
 
 A marvelous inner glow and warmth from other participants is noted, with nature appearing particularly beautiful.
 
@@ -48,14 +48,14 @@ At 100 mg, another subject reported rapid onset within 30 minutes, with intoxica
 When working with MDOH, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
+[[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]s, timing requirements, and the interactions between this
+topic and other elements of the broader system. A [[savory-holistic-resource-management-decision-framework]] view
 that considers these interconnections produces better outcomes.
 
 Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
+seasonal patterns significantly influence results. [[savory-holistic-resource-management-biological-monitoring]] these
 variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
+[[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
@@ -69,7 +69,7 @@ that implementations remain viable and productive over the long term.
 Several recurring challenges tend to arise in work related to this
 topic. These include variability in environmental conditions, the
 complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
+predicting outcomes with certainty in [[query-what-are-dynamic-accumulators-and-how-do-i-use-them]] systems. Anticipating
 these challenges enables more proactive and effective management.
 
 Building resilience into implementations through diversity, redundancy,

@@ -33,7 +33,7 @@ systems. These geometric green circles are oases carved into desert —
 artificial and unsustainable enclaves that depend on enormous inputs of water
 and energy to maintain the illusion of fertility.
 
-The land beneath and between them is [[fungal-pah-degradation-and-soil-bioremediation|organic matter]] has been consumed and not
+The land beneath and between them is [[soil-health-and-microbial-life|organic matter]] has been consumed and not
 replaced. Microbial life — the living foundation of any healthy soil — has
 been decimated by chemical applications. What remains is a lifeless growing
 medium that functions more as a structural support for chemical nutrient
@@ -77,7 +77,7 @@ override them through force and chemistry. His American travels served as a
 case study in what happens when that reversal is not made.
 ## Related Concepts
 
-- [[fungal-pah-degradation-and-soil-bioremediation]] — the process destroying [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] worldwide
+- [[soil-health-and-microbial-life]] — the process destroying [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] worldwide
 - monoculture problems — how uniform cropping destroys ecological resilience
 - energy return on investment — declining [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] of industrial agriculture
 - [[mollison-soil-formation-rates-and-erosion-costs]] — historical practice echoed in modern farming

@@ -124,7 +124,7 @@ Mix and set aside 3-5 hours for microorganisms to propagate. Apply 7 days before
 
 ## Pest Control Methods
 
-KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for [[beneficial-insects-and-biological-pest-control]].
+KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for [[hamilton-beneficial-insects-and-biological-pest-control]].
 
 ### Aromatic Insect Attractant (AIA)
 - Slit open a PET bottle on two sides

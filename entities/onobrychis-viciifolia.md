@@ -37,9 +37,9 @@ sources:
 
 It is valued as a high-protein forage crop that does not cause bloat in ruminants, making it a safer alternative to alfalfa for [[savory-livestock-grazing-planning]].
 
-The species is also a nitrogen-fixing pioneer plant with applications in soil restoration, pollinator support, and [[phosphate-accumulators-sustainable-agriculture]] systems.
+The species is also a nitrogen-fixing pioneer [[fukuoka-ideal-rice-plant-form-high-yield-cultivation]] with applications in soil restoration, pollinator support, and [[phosphate-accumulators-sustainable-agriculture]] [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]s.
 
-## Taxonomy and Morphology
+## Taxonomy and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
 
 Kingdom: Plantae → Tracheophyta → Magnoliopsida → Fabales → **Fabaceae → Faboideae → Hedysareae → Onobrychis → O. viciifolia**.
 
@@ -57,15 +57,15 @@ The genus *Onobrychis* comprises approximately 150 species centered in the Medit
 
 **Stipules** are membranous and semi-sagittate, a distinctive taxonomic character for the genus.
 
-**Flowers:** Papilionaceous, pink to reddish-pink, borne in dense, axillary racemes 4–10 cm long; standard 10–14 mm, wings 8–10 mm, keel slightly shorter.
+**Flowers:** Papilionaceous, pink to reddish-pink, borne in dense, axillary racemes 4–10 cm long; standard 10–14 mm, wings 8–10 mm, keel slightly [[savory-short-duration-grazing-and-cell-systems]]er.
 
 **Fruit:** Flattened, single-seeded loment with a distinctively serrate dorsal margin and reticulate venation; each pod contains one kidney-shaped seed.
 
-**Seeds:** Kidney-shaped, 3–4 mm, brown to dark brown, with a hard seed coat requiring scarification for germination.
+**Seeds:** Kidney-shaped, 3–4 mm, [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] to dark brown, with a hard seed coat requiring scarification for germination.
 
 ## Distribution and Habitat
 
-Native to southern Europe (France, Italy, Spain, Balkans) and western Asia (Turkey, Iran, Caucasus), with a long history of cultivation across temperate Europe.
+Native to southern Europe (France, Italy, Spain, Balkans) and western Asia (Turkey, Iran, Caucasus), with a long history of [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] across temperate Europe.
 
 It is adapted to calcareous, alkaline, and shallow soils where many other legumes fail, thriving on limestone-derived soils with pH 6.5–8.5.
 
@@ -75,7 +75,7 @@ Optimal growth occurs at 400–700 mm rainfall with well-drained soils; it toler
 
 Sainfoin was widely grown across Europe and [[psilocybin-north-america-pacific-northwest]] before being largely displaced by alfalfa in the mid-20th century.
 
-## Agricultural Value
+## [[fukuoka-machine-culture-doomed-agricultural-decline-america-europe]] Value
 
 Sainfoin produces forage with 15–20% crude protein, comparable to alfalfa, but with the critical advantage of containing condensed tannins that prevent frothy bloat in cattle and sheep.
 
@@ -87,4 +87,4 @@ The species persists 5–8 years under grazing, longer than many annual forage l
 
 It produces excellent quality hay with rapid drying characteristics due to hollow stems, reducing the risk of weather-related losses during haymaking.
 
-## Bioactive Compounds and Medicinal Uses
+## Bioactive [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] and Medicinal Uses

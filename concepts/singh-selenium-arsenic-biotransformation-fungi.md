@@ -14,21 +14,21 @@ sources:
 type: concept
 ---
 
-# Selenium and Arsenic Biotransformation by Fungi
+# Selenium and Arsenic Bio[[fungal-metalloid-transformation-methylation-volatilization]] by Fungi
 
-Selenium and arsenic are metalloids posing significant environmental and
+Selenium and arsenic are metalloids posing significant [[fungi-environment-biogeochemical-cycling-mineral-transformations]]al and
 health risks due to their toxicity and widespread distribution. Fungi
 play critical roles in their [[gadd-fungal-metal-transformations-biogeochemical-cycling]], mediating
 oxidation-reduction reactions, methylation-demethylation processes, and
 volatilization pathways that form the basis of [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 strategies.
 
-## Selenium in the Environment
+## Selenium [[fungi-in-the-environment-soil-fungi-roles]]
 
-Selenium exists in four oxidation states: selenide (Se2-), elemental
+Selenium exists in four oxidation states: selenide (Se2-), [[gadd-soil-biomass-fungal-dominance-elemental-cycles]]
 selenium (Se0), selenite (SeO3 2-), and selenate (SeO4 2-). Solubility
 and toxicity follow the order selenate > selenite > selenide.
-Contamination arises from agricultural drainage in seleniferous soils,
+[[gadd-fungal-biosorption-metal-contamination-remediation]] arises from agricultural drainage in seleniferous soils,
 coal combustion, mining operations, electronics manufacturing, and
 phosphate [[cervantes-fertilizer-application-strain-feeding]].
 
@@ -60,9 +60,9 @@ converting up to 30% of added selenite to volatile forms.
 Fungi incorporate selenium into selenocysteine (SeCys) and
 selenomethionine (SeMet) as amino acid analogs. While useful for
 bioaccumulation, selenoamino acids raise concerns about biomagnification
-in food chains.
+in [[fukuoka-textdoc-natural-order-food-chain-unity]]s.
 
-## Arsenic in the Environment
+## Arsenic [[fungi-in-the-environment-fungal-species-recognition-phylogenetics]]
 
 Inorganic arsenic species include arsenite (As(III), approximately 60x
 more toxic than arsenate As(V)). Organic species include
@@ -78,7 +78,7 @@ Fungi reduce As(V) to As(III) through arsenate reductases using
 glutaredoxin or thioredoxin systems, and through non-enzymatic reduction
 by glutathione and phytochelatins. Arsenate enters cells through
 phosphate transporters due to chemical similarity with phosphate. While
-reduction is a detoxification mechanism, it can paradoxically increase
+reduction is a detoxification [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]], it can paradoxically increase
 environmental mobility since arsenite is more toxic and mobile.
 
 ### Arsenite Efflux and Sequestration

@@ -55,7 +55,7 @@ relationship with the natural world.
 
 Fukuoka identifies the [[dmt-containing-plants-united-states-halpern]] as the dominant player in what he calls
 the "seed war" — the global competition to develop and control high-yielding
-[[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]. America's agricultural research establishment, generously
+[[the-ultimate-goal-of-farming]]. America's agricultural research establishment, generously
 funded by government and industry, has systematically developed crop varieties
 designed for maximum yield under intensive chemical management. These
 varieties are then promoted globally through development agencies, trade

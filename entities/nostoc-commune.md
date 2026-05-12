@@ -22,7 +22,7 @@ sources:
 
 The species forms conspicuous dark green to bluish-black gelatinous colonies that swell dramatically when wet. These colonies are commonly known as star jelly, fallen star, or witch's butter, though these names are shared with unrelated organisms.
 
-*Nostoc commune* is a nitrogen-fixing organism that plays a critical role in soil fertility, particularly in arid, polar, and nutrient-poor environments where it forms [[biological-soil-crusts]].
+*Nostoc commune* is a nitrogen-fixing organism that plays a critical role in soil fertility, particularly in arid, polar, and nutrient-poor environments where it forms [[singh-mycelial-mats-and-biological-soil-crusts]].
 
 The species has a long history of human use as food and medicine in East Asia, [[psilocybe-southeast-asia-pacific]], and parts of Africa. Dried colonies are sold commercially in Chinese markets as a culinary ingredient.
 

@@ -27,19 +27,19 @@ sources:
 ## Overview
 
 *Amorpha fruticosa*, commonly known as false indigo, desert false
-indigo, or bastard indigo, is a deciduous, nitrogen-fixing shrub
+indigo, or bastard indigo, is a deciduous, [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]-fixing shrub
 in the family Fabaceae. Native to [[psilocybin-north-america-pacific-northwest]], it is widely
 cultivated for [[permplant-willows-salix-erosion-control-fodder]], habitat restoration, and as a
-component of permaculture and agroforestry systems.
+component of perma[[query-how-to-make-liquid-culture-for-mushroom-cultivation]] and agroforestry [[query-benefits-of-integrating-mushrooms-into-a-permaculture-system]]s.
 
 The species is valued for its hardiness, rapid growth, ability to
 thrive in poor soils, and its role as a nitrogen fixer through
 root-associated rhizobial symbiosis. Its dense root system makes it
-exceptionally effective for bank stabilization and riparian buffer
-plantings.
+exceptionally [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] for bank stabilization and riparian buffer
+[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]s.
 
 *Amorpha fruticosa* produces showy, deep purple to blue-violet
-spike inflorescences that attract a wide range of pollinators,
+spike inflorescences that attract a wide range of [[query-how-to-attract-and-support-native-bee-pollinators]],
 including [[query-how-to-attract-native-bees-and-beneficial-insects]], honeybees, butterflies, and hummingbirds.
 
 ## Taxonomy and Morphology
@@ -58,7 +58,7 @@ including [[query-how-to-attract-native-bees-and-beneficial-insects]], honeybees
 
 **Habit:** Deciduous shrub, 1–3 m tall (occasionally to 5 m).
 Multi-stemmed with spreading, irregular crown. Root system is
-deeply taprooted with abundant lateral roots and nitrogen-fixing
+deeply taprooted with abundant lateral roots [[legume-trees-and-nitrogen-fixing-permaculture-species]]-fixing
 nodules.
 
 **Stems:** Slender, green to grey-brown, smooth when young.
@@ -79,7 +79,7 @@ at maturity, often persisting into winter.
 
 ## Distribution and Habitat
 
-*Amorpha fruticosa* is native to eastern and central North
+*Amorpha fruticosa* is native to eastern and [[guzman-psilocybin-mushrooms-mexico-central-america]] North
 America, from southern Canada to Texas and northern Mexico,
 and east to the Atlantic coast.
 

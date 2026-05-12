@@ -88,7 +88,7 @@ Many reports in Shulgin's files describe combining 2C-B with MDMA. The optimal p
 
 2C-B was first scheduled in the United States in 1995. It is now controlled internationally under the UN Convention on Psychotropic Substances and is scheduled in most countries worldwide. Prior to scheduling, it was briefly sold commercially as an aphrodisiac under the brand name "Nexus."
 
-The scheduling of 2C-B had the unintended consequence of driving the market toward other members of the 2C family, many of which were not specifically listed in controlled substance legislation. This led to the phenomenon of "research chemicals" — novel [[cultural-evolution-and-psychoactive-substances]] sold in a legal gray area. Eventually, most countries adopted analogue or blanket scheduling laws to address the proliferation of 2C compounds.
+The scheduling of 2C-B had the unintended consequence of driving the market toward other members of the 2C family, many of which were not specifically listed in controlled substance legislation. This led to the phenomenon of "research chemicals" — novel [[star-fire-and-sacred-substances]] sold in a legal gray area. Eventually, most countries adopted analogue or blanket scheduling laws to address the proliferation of 2C compounds.
 
 ## Historical Context
 

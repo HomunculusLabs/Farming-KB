@@ -14,12 +14,12 @@ sources:
 type: concept
 ---
 
-# Bose and the Plant Nervous System Hypothesis
+# Bose and the [[chamovitz-plant-scent-communication-volatile-organic-compounds]] Nervous System Hypothesis
 
 ## Overview
 
 Sir Jagadis [[jagadis-chandra-bose-plant-research]]'s research, extensively documented in *The
-[[plant-communication-volatile-organic-compounds]] Plants*, represents one of the most ambitious attempts to
+[[plant-communication-volatile-organic-compounds]] [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]]*, represents one of the most ambitious attempts to
 demonstrate that plants possess a nervous system analogous to that of
 animals. Working in Calcutta in the early 1900s, Bose developed
 innovative instruments and conducted hundreds of experiments to prove that
@@ -37,7 +37,7 @@ nerve-like structures and functions.
 
 Bose maintained that "the isolated vegetal nerve is indistinguishable
 from animal nerve." His experiments consistently pointed to a real
-continuity between plant and animal responses, rather than the wide
+continuity [[query-how-does-mycorrhizal-network-communication-work-between-plants]] plant and animal [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]], rather than the wide
 range of specific differences that were the accepted doctrine of the
 time.
 
@@ -48,11 +48,11 @@ Bose's first major work, *Response in the Living and Non-Living*
 responses to stimulation. Herbert Spencer, the great British synthetic
 philosopher, personally acknowledged Bose's volume. Bose argued that the
 customary assumption that all response to stimulus must involve an
-explosive chemical change with inevitable energy rundown was incorrect.
-Instead, plant movement, sap ascent, and growth were due to energy
-absorbed from surroundings, which could be held latent or stored.
+explosive [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] change with inevitable energy rundown was incorrect.
+Instead, plant movement, sap ascent, and [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] were due to energy
+absorbed from surroundings, which could be held latent or [[query-how-to-store-mushroom-spores-long-term]]d.
 
-## Plant Response as Physiological Investigation
+## [[tompkins-jagadis-bose-plant-response-crescograph]] as Physiological Investigation
 
 Bose's 1906 volume, *Plant Response as a Means of Physiological
 Investigation*, detailed 315 separate experiments across 781 pages.

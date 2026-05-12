@@ -68,7 +68,7 @@ The potency of a fermented extract depends significantly on which part of the pl
 
 ### Core Principle
 
-Bokashi is naturally fortified with bionutrients and biodiversed [[beneficial-indigenous-microorganisms]] (BIM). The fundamental principle is that living soil depends on microbial diversity and balance. By combining carbon-rich organic matter with nitrogen sources, mineral amendments, and active microbial cultures, Bokashi creates a complete soil ecosystem in a compact, manageable form.
+Bokashi is naturally fortified with bionutrients and biodiversed [[beneficial-indigenous-microorganisms-bim|BIM]]
 
 ### Philippine Standard Recipe
 

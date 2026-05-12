@@ -104,7 +104,7 @@ Beyond the technical strategies, Mollison includes organizational approaches:
 
 ## See Also
 
-- [[mollison-resource-classification-and-management]]
+- [[resource-classification-and-management-in-permaculture]]
 - [[mollison-tessellation-and-annidation-in-design]]
 - [[mollison-open-living-systems-and-design-principles]]
 - [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]

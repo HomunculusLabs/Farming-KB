@@ -38,7 +38,7 @@ the most commonly added nutrients. Composting represents a form of
 biostimulation where mixtures of straw, manure, and agricultural wastes
 are combined with contaminated soils to stimulate consortia of bacteria
 and fungi. The addition of suitable [[cervantes-organic-amendments-chart]] alone can
-sometimes improve [[fungal-pah-degradation-and-soil-bioremediation]] more than inoculation with specific
+sometimes improve [[soil-health-and-microbial-life]] more than inoculation with specific
 fungal species.
 
 ## Alginate Encapsulation

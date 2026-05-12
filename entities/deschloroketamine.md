@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Morris, H. & Wallach, J. (2014). \"From PCP to MXE.\" Drug Science, Policy and Law, 1, 1–17."
   - "Wallach, J. et al. (2019). \"The pharmacology of dissociative anesthetics.\" In Pharmacology of LSD. Springer."
-  - "EMCDDA. (2024). EU Early Warning System: New [[cultural-evolution-and-psychoactive-substances]]. emcdda.europa.eu."
+  - "EMCDDA. (2024). EU Early Warning System: New [[star-fire-and-sacred-substances]]. emcdda.europa.eu."
   - "Cunningham, C.W. & Roth, B.L. (2016). \"Ketamine's mechanism of action.\" Current Opinion in Anaesthesiology, 29(4), 455–460."
   - "UNODC. (2023). World Drug Report. United Nations Office on Drugs and Crime."
 ---

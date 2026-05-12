@@ -20,13 +20,13 @@ sources:
 
 ## Overview
 
-**Aquilegia canadensis** (Canadian columbine or eastern red columbine) is a perennial herbaceous plant in the family Ranunculaceae, native to eastern and central [[guzman-psilocybin-mushrooms-north-america]].
+**Aquilegia canadensis** (Canadian columbine or eastern red columbine) is a perennial herbaceous plant in the family Ranunculaceae, native to eastern and [[guzman-psilocybin-mushrooms-mexico-central-america]] [[guzman-psilocybin-mushrooms-north-america]].
 
-It is one of the most recognizable native wildflowers of [[polypore-fungi-eastern-north-america]], noted for its distinctive red and yellow spurred flowers.
+It is one of [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]] recognizable native wildflowers of [[polypore-fungi-eastern-north-america]], noted for its distinctive red and yellow spurred flowers.
 
 The species is a primary nectar source for ruby-throated hummingbirds during spring migration in eastern deciduous forests.
 
-It is widely cultivated in shade gardens and woodland plantings for its attractive flowers and delicate foliage.
+It is widely cultivated in shade [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]]s and woodland plantings for its attractive flowers and delicate foliage.
 
 ## Taxonomy and Morphology
 
@@ -44,11 +44,11 @@ Flowers are nodding, 3 to 5 cm long, with five red sepals and five red petals wi
 
 Each petal extends backward into a slender nectar spur measuring 15 to 25 mm.
 
-The numerous stamens extend well beyond the petals, creating a showy golden tuft.
+The numerous stamens extend well beyond the petals, [[fukuoka-textdoc-creating-true-people-do-nothing-road]] a showy golden tuft.
 
 Fruit consists of 5 erect follicles, each 15 to 25 mm, that split open at maturity to release shiny black seeds.
 
-## Distribution and Habitat
+## [[guzman-central-america-neurotropic-fungi-species-distribution]] and Habitat
 
 **Aquilegia canadensis** is native to eastern North America, ranging from Saskatchewan and Nova Scotia south through the Appalachian Mountains to northern Florida and eastern Texas.
 
@@ -56,7 +56,7 @@ It is also found in the Rocky Mountains of Colorado and Wyoming, representing a 
 
 The species occupies a wide range of habitats including rocky woods, cliff faces, woodland borders, stream banks, and rocky outcrops.
 
-It grows on both acidic and calcareous substrates, showing broad edaphic tolerance.
+It grows on both acidic and calcareous [[growing-gourmet-mushrooms-species-sequencing-substrate-utilization]]s, showing broad edaphic tolerance.
 
 Elevation ranges from near sea level in the north to over 2,000 meters in the southern Appalachians.
 
@@ -66,7 +66,7 @@ Populations are typically scattered rather than forming dense colonies.
 
 ## Ethnobotanical Use
 
-Several Indigenous peoples of eastern North America used **Aquilegia canadensis** medicinally, though it was not among the most important medicinal plants.
+Several Indigenous peoples of eastern North America used **Aquilegia canadensis** medicinally, though it was not among [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] plants.
 
 The Meskwaki people used crushed seeds as a love charm and treated headaches with an infusion of the roots.
 
@@ -80,7 +80,7 @@ European settlers adopted the plant into horticulture by the early 18th century,
 
 The common name "columbine" derives from the Latin *columba* (dove), as the inverted flower resembles a cluster of five doves.
 
-## Cultivation
+## [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
 
 **Aquilegia canadensis** is easily cultivated from seed and is one of the most popular native wildflowers for shade gardens in North America.
 

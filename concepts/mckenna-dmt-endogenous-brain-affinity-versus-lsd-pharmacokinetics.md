@@ -88,3 +88,9 @@ McKenna noted that psilocybin is "lumped together with LSD and mescaline" in pub
 McKenna noted that one of the interesting characteristics of DMT is that it sometimes inspires fear—"this marks the experience as existentially authentic." He argued that a "touch of terror gives the stamp of validity to the experience because it means 'This is real.'" The natural reaction of amazement persists because "one's ego is intact" and "one's fear reflexes are intact"—the experiencer is not "fuzzed out" but fully present and overwhelmed.
 
 This criterion of [[mckenna-psychedelic-terror-and-existential-authenticity]] distinguishes the DMT experience from purely hedonic intoxication. For McKenna, the experience "must move one's heart, and it will not move the heart unless it deals with the issues of life and death."
+
+## See Also
+
+- [[mckenna-dmt-cognitive-dissonance-and-wonder-response]]
+- [[mckenna-dmt-endogenous-hallucinogen-brain-affinity]]
+- [[mckenna-dmt-psilocybin-lsd-pharmacokinetic-comparison]]

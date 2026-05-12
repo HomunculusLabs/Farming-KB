@@ -128,3 +128,10 @@ observation, and a willingness to adapt approaches based on results.
 - [[psilocybin]]
 - [[dom]]
 - [[fly-agaric]]
+
+- [[hallucinogenic-mushroom-dosage-effects]]
+- [[hallucinogenic-mushroom-legal-responses-europe]]
+- [[hallucinogenic-mushroom-legislation-in-europe]]
+- [[hallucinogenic-mushroom-markets-and-availability-europe]]
+- [[hallucinogenic-mushroom-markets-europe]]
+- [[hallucinogenic-mushroom-user-experience-barriers-diffusion-repeat-use]]

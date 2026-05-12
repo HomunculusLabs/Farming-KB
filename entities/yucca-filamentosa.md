@@ -13,9 +13,9 @@ sources: ["domain-knowledge"]
 
 ## Overview
 
-- **Common names:** Adam's Needle, Beargrass, Needle Palm,
+- **Common names:** Adam's [[mushroom-bag-inoculation-short-needle-vs-long-needle]], Beargrass, Needle Palm,
   Spoonleaf Yucca
-- **Growth form:** Evergreen perennial shrub, acaulescent
+- **[[soil-temperature-plant-growth-rate-doubling-rule]] form:** Ever[[green-cannabis-grow-bible-seed-selection-and-seed-banks]] perennial shrub, acaulescent
   (stemless or nearly so)
 - **Lifespan:** Long-lived; individual rosettes persist 20+
   years; clonal colonies are indefinite
@@ -24,7 +24,7 @@ sources: ["domain-knowledge"]
 - **Key trait:** Classic obligate pollination mutualism with
   yucca moths (Tegeticula spp.)
 - **Multi-use:** [[comparison-scented-geraniums-vs-edible-flowers]] and stalks, fiber crop,
-  soap-producing roots
+  soap-[[query-why-are-my-plants-not-producing-fruit-and-how-do-i-hand-pollinate]] [[nutrient-movement-through-soil-to-plant-roots]]
 - **Hardiness:** One of the most cold-hardy yuccas; USDA
   Zones 5-10
 
@@ -33,7 +33,7 @@ sources: ["domain-knowledge"]
 - **Binomial:** Yucca filamentosa L.
 - **Family:** Asparagaceae (subfamily Agavoideae)
 - **Order:** Asparagales
-- **Authority:** Carl Linnaeus, 1753 (Species Plantarum)
+- **Authority:** Carl Linnaeus, 1753 ([[golden-guide-hallucinogenic-plants-dmt-containing-species]] Plantarum)
 - **Genus:** Yucca L. (approximately 40-50 species in the
   Americas and Caribbean)
 - **Synonyms:**
@@ -67,7 +67,7 @@ sources: ["domain-knowledge"]
   2.5-4 cm broad
 - **Seeds:** Numerous, black, flat, winged, approximately
   6-8 mm; 20-30% consumed by moth larvae
-- **Root system:** Deep taproot with fibrous laterals;
+- **Root [[plant-immune-system-pti-eti]]:** Deep taproot with fibrous laterals;
   extremely drought-resistant
 - **Monocarpic flowering:** The flowering rosette dies after
   seed set, but surrounding offsets (pups) persist and
@@ -76,7 +76,7 @@ sources: ["domain-knowledge"]
 ## Distribution and Habitat
 
 - **Native range:** Southeastern US coastal plain from
-  Virginia through the Carolinas, Georgia, northern Florida
+  Virginia [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] Carolinas, Georgia, northern Florida
 - **Inland range:** Extending west to Alabama, Mississippi,
   Louisiana, and into the Piedmont region
 - **Disjunct populations:** North to New Jersey along the

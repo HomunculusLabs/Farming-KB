@@ -26,7 +26,6 @@ Andrew Jeeves (born 1956) is an Australian illustrator, graphic designer, and vi
 - The cover design of the manual features the Rainbow Serpent motif coiled within the egg of life, a design that became iconic within the permaculture movement.
 - Listed in the National Library of Australia cataloguing entry for the publication.
 
-
 ## Role in Permaculture Literature
 
 Jeeves' illustrations serve several critical functions in the Designers' Manual:
@@ -36,15 +35,9 @@ Jeeves' illustrations serve several critical functions in the Designers' Manual:
 3. **Zone and Sector Diagrams**: Creating the visual templates for zone planning (Zone 0 through Zone 5) and sector analysis that have been reproduced in permaculture teaching materials worldwide.
 4. **Climatic Illustrations**: Depicting house designs, garden layouts, and land management strategies appropriate to different climatic zones (humid tropics, drylands, cool/cold climates).
 
-
-
-
 ## Collaboration with Bill Mollison
 
 The working relationship between Mollison and Jeeves produced one of the most visually rich textbooks in the sustainable design field. Mollison provided manuscript text and photographs; Jeeves transformed these into a cohesive visual presentation. The result is a publication where text and image are deeply integrated rather than merely supplemented.
-
-
-
 
 ## Legacy
 
@@ -54,9 +47,6 @@ The visual style Jeeves established in the Designers' Manual has influenced:
 - The graphic conventions used in [[permaculture-site-analysis]] and design presentations
 - Educational posters and teaching aids used in permaculture training
 
-
-
-
 ## Relevance to Cultivation and Mycology
 
 While Jeeves is not a cultivator or mycologist, his illustrative work directly supports the dissemination of cultivation knowledge. The design diagrams he created enable practitioners to:
@@ -65,16 +55,10 @@ While Jeeves is not a cultivator or mycologist, his illustrative work directly s
 - Visualize guild plantings that support fungal associates and mycorrhizal networks
 - Design earthworks that create microclimates favorable to diverse biological production
 
-
-
-
 ## Sources
 
 - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications, Tyalgum, Australia.
 - National Library of Australia cataloguing-in-publication entry for *Permaculture: Designers' Manual*.
-
-
-
 
 ## See Also
 
@@ -82,3 +66,16 @@ While Jeeves is not a cultivator or mycologist, his illustrative work directly s
 - [[permaculture]]
 - [[tagari-publications]]
 - [[reny-mia-slay]]
+
+## Practical Significance
+- Relevant to sustainable land management and ecological design
+- Applications in permaculture and regenerative agriculture
+- Connected to broader themes of resource conservation
+
+## Key Principles
+- Functions within interconnected ecological systems
+- Contributes to overall system resilience and stability
+- Understanding enables better design decisions
+
+## See Also
+- [[andrew-weil]]

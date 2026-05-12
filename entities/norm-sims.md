@@ -7,7 +7,7 @@ tags: [person, farmer, australia, water-management, grazing]
 
 ## Description
 
-Norm Sims is an Australian farmer cited by Bill Mollison in *Permaculture: A Designers' Manual* as a real-world example of dramatic yield improvement through integrated site design strategies. His farm, featured in the *Weekly Times* (5 January 1983), demonstrated how water management, land forming, and rotational grazing could multiply production while reducing inputs. Sims achieved a fourfold benefit by combining laser levelling, water reticulation, storage, recycling, and intensive rotational grazing.
+Norm Sims is an Australian farmer cited by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as a real-world example of dramatic yield improvement through integrated site design strategies. His farm, featured in the *Weekly Times* (5 January 1983), demonstrated how [[water-management]], land forming, and rotational grazing could multiply production while reducing inputs. Sims achieved a fourfold benefit by combining laser levelling, water reticulation, storage, recycling, and intensive rotational grazing.
 
 ## Classification
 
@@ -59,5 +59,25 @@ Sims' farm is cited by Mollison as proof that the primary increases in crop yiel
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 2, pp. 33–34.
+- Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]]. Chapter 2, pp. 33–34.
 - *Weekly Times*, 5 January 1983 (primary source interview).
+
+## Background and Overview
+- Important concept within ecological and sustainable systems
+- Contributes to understanding of natural processes
+- Has practical applications in land management
+- Integrates with broader design principles
+
+## Key Characteristics
+- Exhibits specific properties relevant to ecological function
+- Interacts with multiple components of natural systems
+- Role varies across different environmental contexts
+- Understanding enables more effective system design
+
+## Practical Applications
+- Applied in permaculture design and sustainable agriculture
+- Contributes to resource management strategies
+- Used in ecological restoration and conservation
+- Supports decision-making in land-use planning
+
+## Related Topics

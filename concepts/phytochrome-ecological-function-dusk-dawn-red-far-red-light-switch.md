@@ -2,7 +2,7 @@
 title: Phytochrome Ecological Function — The Dusk/Dawn Red/Far-Red Light Switch
 wiki_category: Plant Physiology
 related_topics:
-  - "[[photomorphogenesis]]"
+  - "[[cervantes-light-spectrum-photomorphogenesis]]"
   - "[[photoperiodism]]"
   - "[[shade-avoidance-syndrome]]"
   - "[[short-day-and-long-day-plant-classification]]"

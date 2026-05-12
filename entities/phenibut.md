@@ -27,11 +27,11 @@ sources:
 Phenibut (β-phenyl-γ-aminobutyric acid) is a synthetic derivative of GABA
 with a phenyl ring attached at the beta position. Developed in the Soviet
 Union in the 1960s by V.V. Zakusov at the Institute of Pharmacology, it was
-designed to cross the blood-brain barrier — a structural limitation of GABA
+designed to cross the blood-[[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]] — a structural limitation of GABA
 itself. The phenyl group provides lipophilicity, enabling central nervous
-system penetration and direct GABAergic modulation.
+[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] penetration and direct GABAergic modulation.
 
-In Russia and parts of Eastern Europe, phenibut is a prescribed medication
+In Russia and parts of Eastern [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]], phenibut is a prescribed medication
 for anxiety, insomnia, and post-traumatic stress disorder. In the West, it
 exists in a regulatory gray area as an unapproved dietary supplement sold
 through online vendors.
@@ -42,11 +42,11 @@ through online vendors.
 - Molecular weight: 179.22 g/mol
 - IUPAC name: 2-amino-4-phenylbutanoic acid
 - CAS number: 1078-21-3
-- Appearance: White crystalline powder
-- Solubility: Freely soluble in water; slightly soluble in [[ethanol]]
+- Appearance: [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] crystalline powder
+- Solubility: Freely [[knf-water-soluble-phosphoric-acid]] in water; slightly soluble in [[ethanol]]
 
 Phenibut exists as two stereoisomers. The (S)-enantiomer is the
-pharmacologically active form used in pharmaceutical preparations.
+[[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]ly active form used in pharmaceutical [[cho-water-soluble-phosphoric-acid-preparation]]s.
 
 ## Pharmacology
 
@@ -86,5 +86,5 @@ accidental overdose.
 
 ### Subjective Effects
 
-- **Anxiolysis:** Pronounced anxiety reduction without sedation at low doses
+- **Anxiolysis:** Pronounced anxiety [[psilocybin-mushroom-dose-effects-and-harm-reduction]] without sedation at low doses
 - **Sociability:** Increased verbal fluency and social comfort

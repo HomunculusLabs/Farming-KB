@@ -20,7 +20,7 @@ between solanaceous intoxication and animal transformation beliefs
 provides a pharmacological explanation for one of the most persistent
 folk beliefs in European history. Harner's hypothesis was part of a
 broader scholarly effort to identify the botanical and chemical
-identities of the [[cultural-evolution-and-psychoactive-substances]] used in [[harner-european-witchcraft-hallucinogens]]
+identities of the [[star-fire-and-sacred-substances]] used in [[harner-european-witchcraft-hallucinogens]]
 practices from the late medieval period through the early [[mycology-modern-era]].
 
 ## Historical Accounts of Lycanthropy

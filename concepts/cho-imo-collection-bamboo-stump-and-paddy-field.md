@@ -17,7 +17,7 @@ type: concept
 # IMO Collection from Bamboo Stump and Paddy Field
 
 Dr. Cho's Korean [[comparison-natural-farming-vs-permaculture]] system describes multiple methods for
-collecting [[cho-indigenous-microorganisms-collection-and-cultivation]] for the standard forest method.
+collecting [[indigenous-spirituality-and-freedom]] for the standard forest method.
 
 ## Method 1: Bamboo Stump Collection
 

@@ -123,3 +123,7 @@ observation, and a willingness to adapt approaches based on results.
 - [[albert-hofmann]]
 - [[rigveda]]
 - [[fly-agaric]]
+
+- [[eleusinian-mysteries-ergot-theory]]
+- [[eleusinian-mysteries-ethnomycology]]
+- [[eleusinian-mysteries-kykeon]]

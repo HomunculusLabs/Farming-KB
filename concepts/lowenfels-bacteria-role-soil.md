@@ -19,21 +19,21 @@ period at the end of a sentence. They come in three basic shapes: coccus
 (spherical), bacillus (rod-shaped), and spiral. A teaspoon of good garden soil
 contains roughly a billion bacteria. Under laboratory conditions, a single
 bacterium can produce 5 billion offspring in 12 hours, but natural conditions
-(moisture requirements, predators, slower reproduction) keep populations in check.
+(moisture requirements, predators, slower re[[fungal-single-cell-protein-production]]) keep populations in check.
 
 ## Primary Decomposers
 
 Bacteria are among the earth's primary decomposers of [[hamilton-composting-and-organic-matter-management]], second only
 to fungi. They decompose plant and animal material to ingest nitrogen, carbon
-compounds, and other nutrients, which are then held immobilized inside their
+[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]], and other nutrients, which are then held immobilized inside their
 bodies. Different kinds of soil bacteria survive on different food sources. Most
 do best decomposing young, still-fresh "green" plant material, which contains lots
-of sugars that are easier to digest than the complex carbon compounds of "brown"
+of sugars that are easier to digest than the complex carbon compounds of "[[mycelium-running-white-rot-brown-rot-fungi]]"
 material (leaves, wood). Bacteria take in food directly through their [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
 via molecular transport -- membrane proteins act as pumps, using energy to push
 nutrients in and waste products out.
 
-## Feeding and Root Exudates
+## Feeding and [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
 
 [[root-exudates]] are favorite foods for certain soil bacteria, and huge populations
 concentrate in the rhizosphere, where bacteria also find nutrition from cells
@@ -41,7 +41,7 @@ sloughed off during root-tip growth. Bacteria use enzymes to break bonds holding
 organic chains together before ingestion. They have adapted over millennia to
 attack all manner of organic and even inorganic matter. Once nutrients are inside
 the bacteria, they are locked up until the bacteria are consumed by protozoa or
-nematodes, at which point excess nitrogen is released as ammonium waste in the
+[[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]], at which point excess nitrogen is released as ammonium waste in the
 rhizosphere.
 
 ## Aerobic vs. Anaerobic Bacteria
@@ -52,8 +52,8 @@ vinegar. Facultative anaerobes like E. coli prefer anaerobic environments but
 can survive in aerobic conditions. Aerobic bacteria require air and are the
 beneficial group. The actinomycetes (order Actinomycetales, genus Streptomyces)
 produce the volatile chemicals that give soil its clean, earthy aroma. They grow
-filaments almost like [[fungal-hyphae-and-mycelium]] are particularly adept at decaying
-cellulose and chitin -- difficult-to-digest carbon compounds in plant cell walls
+filaments almost like [[fungal-hyphae-and-mycelium]] are particularly adept at [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]]ing
+[[brown-rot-fungi-cellulose-degradation-wood-decay]] and chitin -- difficult-to-digest carbon compounds in [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] walls
 and fungal/arthropod exoskeletons.
 
 ## The Nitrogen Cycle

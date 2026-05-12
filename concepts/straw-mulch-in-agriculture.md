@@ -9,11 +9,11 @@ created: 2026-04-28
 type: concept
 ---
 
-# Straw Mulch in Agriculture
+# [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] Agriculture
 
 Straw mulch is the central and most fundamental technique in Masanobu
-Fukuoka's [[water-management]]." In actual practice and in theory, the use of straw in
-farming is a crucial issue. The practice of returning all straw and organic
+[[fukuoka-natural-way-of-farming-theory-of-natural-farming]]'s [[water-management]]." In actual practice and in theory, the use of straw in
+farming is a crucial issue. The practice of returning all straw and [[fukuoka-natural-farming-vs-organic-farming]]
 residues to the field surface, rather than burning or [[natural-farm-soil-health-mulching]]
 - [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
 ## Background and Context
@@ -28,9 +28,9 @@ and the accumulated wisdom of hands-on practice in the field.
 Historical development of knowledge in this area has been gradual and
 incremental, with key contributions from researchers across different
 cultures and time periods. Modern understanding builds on centuries of
-traditional knowledge combined with contemporary scientific methods.
+[[fukuoka-culture-of-clothing-traditional-garb-natural-farming]] knowledge combined with contemporary scientific methods.
 This synthesis of old and new approaches continues to yield valuable
-insights for practitioners seeking to apply these principles effectively.
+insights for practitioners seeking to apply these [[fukuoka-natural-farming-soil-ecology-principles]] effectively.
 
 The broader context within which this topic exists includes evolving
 environmental conditions, changing social priorities, and advancing
@@ -62,7 +62,7 @@ and a key determinant of success in implementation at any scale.
 A range of established methods and techniques exist for working with
 this topic effectively. These approaches vary in complexity, resource
 requirements, and suitability for different contexts and objectives.
-Selection of appropriate methods should be based on careful assessment
+Selection of appropriate methods should be [[natural-farming-guide-vermicomposting-and-worm-based-soil-building]] on careful [[soil-health-assessment-biological-chemical-physical-indicators]]
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
@@ -87,4 +87,4 @@ combined in creative ways to address diverse needs and objectives.
 Understanding the range of possible applications helps practitioners
 identify opportunities for implementation in their own contexts.
 
-Integration with other systems and approaches often yields the most
+Integration with other [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] approaches often yields the most

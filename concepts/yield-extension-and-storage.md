@@ -65,7 +65,7 @@ Many affluent suburbanites have developed an almost total **zoophobia** — fear
 
 It is difficult, almost taboo, to discuss using rabbits, quail, pigs, poultry, or cows in city farms or urban gardens in the United States. Yet these are commonplace city farm animals in England, ordinary village animals in Asia, and the edible guinea-pig lives comfortably in South American homes.
 
-The consequence of abolishing useful animals from American cities has been catastrophic. The ecological niche is filled by less desirable species: pigeons foraging the streets, thousands of gulls defecating in New York City reservoirs, gigantic garbage bins tipped over by large flea-ridden dogs in Los Angeles, and rats half the size of dogs tunneling under bus stops by the millions in Washington, D.C.
+The consequence of abolishing useful animals from American cities has been catastrophic. The [[ecological-niche]] is filled by less desirable species: pigeons foraging the streets, thousands of gulls defecating in New York City reservoirs, gigantic garbage bins tipped over by large flea-ridden dogs in Los Angeles, and rats half the size of dogs tunneling under bus stops by the millions in Washington, D.C.
 
 ### The Broader Pattern of Self-Imposed Limitation
 
@@ -84,6 +84,6 @@ Accumulations of unused benefits are predictive of collapse at the production le
 
 ## See Also
 
-- system yield and production strategies — theoretical framework for yield creation
-- farm yield strategies — practical strategies for maximizing farm-scale production
-- resource categories and management — understanding resource behavior under use
+- [[system-yield-and-production-strategies]] — theoretical framework for yield creation
+- [[farm-yield-strategies]] — practical strategies for maximizing farm-scale production
+- [[resource-categories-and-management]] — understanding resource behavior under use

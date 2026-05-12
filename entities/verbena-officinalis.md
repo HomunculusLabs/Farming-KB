@@ -24,19 +24,19 @@ sources:
 ## Overview
 
 *Verbena officinalis*, commonly known as vervain or common verbena, is a
-perennial herbaceous plant in the family Verbenaceae. It has a long history of
+perennial herbaceous [[plant-immune-system-pti-eti]] in the family Verbenaceae. It has a long history of
 use in European traditional medicine, Egyptian ritual, and Roman religious
 ceremony, where it was called *herba sacra* (sacred herb).
 
 The aerial parts contain iridoid glycosides (verbenalin), flavonoids, and
-triterpenoids with documented anti-inflammatory, analgesic, and mild sedative
+triterpenoids with documented anti-[[medicinal-mushroom-antioxidant-anti-inflammatory]], analgesic, and mild sedative
 properties. Modern herbalism values it primarily as a nervine tonic and
 digestive bitter.
 
 ## Taxonomy
 
 - **Kingdom:** Plantae
-- **Division:** Angiospermae (Magnoliophyta)
+- **Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Angiospermae (Magnoliophyta)
 - **Class:** Magnoliopsida
 - **Order:** Lamiales
 - **Family:** Verbenaceae
@@ -61,9 +61,9 @@ digestive bitter.
 - **Fruit:** Schizocarp splitting into 4 nutlets, ~2 mm each
 - **Root:** Fibrous taproot system; flowering June–September
 
-## Distribution and Habitat
+## [[european-truffles-species-habitat-and-distribution]] and Habitat
 
-- Native to Europe, North Africa, and temperate Asia; naturalized in the
+- Native to Europe, North Africa, and [[query-how-to-grow-and-use-oca-in-temperate-climates]] Asia; [[natural-fruit-tree-form-and-non-pruning]]ized in the
   Americas and Australia
 - Found in grasslands, roadsides, waste ground, and riverbanks
 - Tolerates pH 5.5–7.5, sandy to clay loams; full sun to partial shade
@@ -76,7 +76,7 @@ digestive bitter.
 - **Verbenalin (cornin):** 0.3–1.5% of [[dried-herb-storage]]; bitter principle with
   parasympathomimetic and mild hypotensive activity
 - **Aucubin:** Hepatoprotective; anti-inflammatory in vitro
-- **Hastatoside:** Iridoid glucoside specific to *Verbena* species
+- **Hastatoside:** Iridoid glucoside [[species-specific-fruiting-timelines-grass-seed-cultivation]] to *Verbena* species
 
 ### Flavonoids and Phenylpropanoids
 
@@ -85,6 +85,6 @@ digestive bitter.
 - **Verbascoside (acteoside):** Phenylpropanoid glycoside; potent antioxidant
   and immunomodulator (0.5–2.0%)
 
-### Other Compounds
+### Other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 
 - **Triterpenoids:** [[ursolic-acid]], oleanolic acid

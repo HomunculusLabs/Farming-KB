@@ -104,5 +104,5 @@ This approach is theoretically unlimited in its potential, as system yield resul
 ## See Also
 
 - [[permaculture-design-principles]] — the foundational principles that guide yield-creating design
-- resource categories and management — understanding what resources are available and how they behave
-- farm yield strategies — practical applications of yield strategies at the farm scale
+- [[resource-categories-and-management]] — understanding what resources are available and how they behave
+- [[farm-yield-strategies]] — practical applications of yield strategies at the farm scale

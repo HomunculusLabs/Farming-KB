@@ -58,7 +58,7 @@ However, the different receptions in Japan and the West suggest that cultural co
 
 ## Contemporary Relevance
 
-The East-West comparison in Fukuoka's work remains relevant as interest in [[query-what-is-korean-natural-farming-and-how-does-it-work]] regenerative agriculture grows globally:
+The East-West comparison in Fukuoka's work remains relevant as interest in [[natural-farming-vs-scientific-agriculture]] regenerative agriculture grows globally:
 
 - The tension between method-seeking and philosophy-receiving continues in how natural farming is taught online
 

@@ -75,6 +75,14 @@ as important for reducing adverse outcomes and maximizing therapeutic benefit.
 - [[stropharia-cubensis]]
 
 [[psychedelic-integration-guide]]
+
+- [[psilocybin-mushroom-alcohol-extraction-pf-tek]]
+- [[psilocybin-mushroom-galactic-symbiote-mckenna-hypothesis]]
+- [[psilocybin-mushroom-markets-and-availability-europe]]
+- [[psilocybin-mushroom-minor-genera]]
+- [[psilocybin-mushroom-prevalence-europe]]
+- [[psilocybin-mushroom-sclerotia-philosophers-stone-truffle]]
+- [[psilocybin-mushroom-taxonomy]]
 ## Practical Considerations
 
 Successful implementation of Psilocybin Mushroom Dosage and Acute Effects requires attention to

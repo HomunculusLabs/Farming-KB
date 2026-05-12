@@ -7,12 +7,12 @@ extracted: 2026-05-11
 
 # Witch Ointments and Tropane Alkaloids
 
-## The Suppression of Plant Knowledge
+## The [[mckenna-inquisition-suppression-of-plant-knowledge]]
 
 The late medieval Church that conducted the great witch burnings wanted
 all magic and derangement to be attributed to the Devil. For this
-reason, it suppressed all knowledge of plants such as thorn apple
-(Datura), deadly nightshade (Atropa belladonna), and monkshood
+reason, it suppressed all knowledge of [[query-what-is-cal-mag-and-when-do-cannabis-plants-need-it]] such as thorn apple
+(Datura), deadly nightshade ([[plants-of-the-gods-atropa-belladonna-deadly-nightshade]]), and monkshood
 (Aconitum), and of the role these plants were playing in the nocturnal
 activities of practitioners of witchcraft. This suppression of botanical
 knowledge was part of a broader pattern: the elimination of the
@@ -39,7 +39,7 @@ Tropane alkaloids, including scopolamine, hyoscyamine, and atropine, are
 the active compounds in the solanaceous plants used in flying ointments.
 These alkaloids are absorbed efficiently through the skin and mucous
 membranes, making topical application via ointments a practical route of
-administration. Applied to the armpits or other thin-skinned areas, they
+administ[[phytochrome-red-far-red-ratio-shade-detection-plants]]n. Applied to the armpits or other thin-skinned areas, they
 could produce powerful hallucinatory states.
 
 ## The Deliberate Cover-Up
@@ -119,13 +119,13 @@ interpreted within a supernatural framework.
 McKenna identifies the suppression of [[plutarch-and-cicero-on-the-eleusinian-mysteries]] by
 enthusiastic Christian barbarians in A.D. 268 as a critical turning
 point. After this event, the mainstream of Western thought ceased to be
-refreshed by the gnosis of boundary-dissolving plant hallucinogens. The
+refreshed by the gnosis of boundary-dissolving [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]. The
 consequence of that severed connection is what McKenna calls "a planet
 dying under moral anesthesia."
 
-The witch hunts represent the most violent expression of this break.
+The witch hunts represent [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] violent expression of this break.
 Between the fifteenth and seventeenth centuries, an estimated forty
-thousand to one hundred thousand people, predominantly women, were
+thousand to one hundred thousand people, pre[[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]ly women, were
 executed for witchcraft in Europe. Many of these women were likely
 herbalists, midwives, and keepers of traditional plant knowledge whose
 practices threatened the institutional authority of the Church.
@@ -136,7 +136,7 @@ McKenna concludes that the next evolutionary step must involve not only
 a repudiation of dominator culture but an [[archaic-revival-partnership-vs-dominator-cultures]] and a rebirth
 of awareness of the Goddess. The same vegetable mind that coaxed humans
 into self-reflecting language now offers the boundless landscapes of the
-imagination. Without a visionary relationship to the plant kingdom,
+imagination. Without a [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]ary relationship to the plant kingdom,
 humans stand outside an understanding of planetary purpose.
 
 The witch ointments represent a degraded remnant of what was once a

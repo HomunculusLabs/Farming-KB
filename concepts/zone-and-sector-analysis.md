@@ -1,83 +1,104 @@
 ---
-title: Zone and mollison-designers-sector-analysis-wind-sun-fire in Permaculture
-created: 2026-04-14
-updated: 2026-04-15
+title: Zone and Sector Analysis
+source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
-tags: [reference]
-sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
-# Zone and Sector Analysis in Permaculture
 
-Zone and sector analysis is the master pattern of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. It is the primary method for placing elements in a landscape based on [[mollison-designers-home-energy-conservation-and-solar-heating]] principles. See [[permaculture-site-analysis]] for the broader design context.
+# Zone and Sector Analysis
 
-## Zones: Frequency of Visit
+Zone and sector analysis is a foundational [[permaculture-design]] methodology for optimizing the placement of elements (plants, animals, structures) on a site. It combines two complementary frameworks: **zones**, which organize placement by frequency of human visit and management intensity; and **sectors**, which map the paths of external wild energies (sun, wind, fire, water flow) through the site.
 
-Zones are concentric rings around the home (Zone 0), numbered by frequency of human visit and management intensity:
+## The Zone System
 
-- **Zone 0**: The house, home center, or settlement. The most intensely managed area. See [[zone-1-intensive-garden]].
-- **Zone 2**: Less frequently visited -- orchard, main crop gardens, poultry houses, ponds, composting areas, small livestock.
-- **Zone 3**: Farm scale -- main crop areas, pastures, larger livestock, orchards, woodlots for coppice. Visited weekly to monthly.
-- **Zone 4**: Forage and forestry -- timber, large animal grazing, wildlife corridors. Visited seasonally.
-- **Zone 5**: Unmanaged or wilderness zone. Used for conservation, observation, and as a reference system.
+Zones are concentric rings radiating outward from the home (Zone 0), numbered from 1 through 5. The guiding principle is simple: **the more frequently you need to visit or manage an element, the closer it should be to the home.**
 
-The golden rule: develop the nearest area first, get it under control, then expand the perimeter. A single perimeter should enclose all needs.
+### Frequency-Based Placement
 
-### Zone 0: The Home Center
+The system is grounded in a quantitative assessment of visit frequency. For example, a lemon tree may be visited 60–100 times per year for harvesting, plus 6–12 times for pruning and care — totaling 66–112 annual visits. An apple tree, with less frequent gathering, might require only 15 visits. Species naturally sort themselves into zones according to this visitation calculus.
 
-Zone 0 centers on good [[mollison-designers-house-design-climate-zones]] with an attached [[permaculture-zone-0-house-design]].
+The **golden rule** of zone design is to develop the nearest area first, bring it under control, and only then expand the perimeter. A single perimeter should ideally enclose all household needs.
 
-### Zone 1: Intensive Garden
+A common novice mistake is to place the garden far from the house, resulting in poor harvesting efficiency and inadequate care. Mollison emphasizes that any soil can grow a good garden with effort and compost from recycled wastes — so stay close to the home.
 
-Within 6m (20 feet) of a home, householders can produce most food necessary to existence. This zone includes seedlings, young trees for outer zone placement, mother plants for cuttings, rare and delicate species, small domestic animals (fish, rabbits, pigeons, guinea pigs), [[holzer-medicinal-and-culinary-herbs-compendium]], and rainwater catchment tanks connected to [[permaculture-zones-in-practice]].
+### The Dooryard Garden Model
 
-### Zone 4: Forage and Forestry
+Edgar Anderson's description of Central Honduran home gardens provides a vivid illustration of integrated zone design. The compact garden-orchard surrounding the house (typically several hundred square feet) is a polycultural mosaic:
 
-Area bordering on forest or wilderness, still managed for wild gathering, forest and fuel needs, pasture or range. Planted to hardy, unpruned, or volunteer trees. Water stored as dams only, with piped input to other zones.
+- Fruit trees (nance, citrus, melias, mango) with shade-loving coffee bushes beneath
+- Tapioca in semi-ordered rows at the tree edges
+- Patches of taro as structural framework
+- Corn and beans in scattered rows or patches
+- Climbing vines — squashes, chayote (grown for both fruit and starchy root), luffa gourd (whose skeleton serves as dishrag/sponge) — clambering over eaves, along ridgepoles, into trees, and along fences
+- Flowers and useful weeds (dahlias, gladioli, climbing roses, asparagus fern, cannas) setting off the whole garden
+- Grain amaranth as a self-sowing "encouraged weed"
 
-### Zone 5: Wilderness
+Anderson contrasts this productive, naturally-ordered polyculture with the rigid, segmented thinking of European monoculture. In these gardens, boundaries between orchard, field, house, and garden dissolve. Annuals and perennials intermingle. Cultivation blends into naturally-evolved systems. The house and fence themselves serve as trellis.
 
-Natural, unmanaged environment for occasional foraging, recreation, or "just let be." "This is where we learn the rules that we try to apply elsewhere."
+### Intrinsic Properties
 
-### What Decides Zoning?
+When placing components into zones, only the **context-dependent functions** of a component should be assessed. Intrinsic properties (e.g., all trees provide shade) are available regardless of placement and should not influence zonal decisions.
 
-Two factors determine zoning: (1) the number of times you need to visit the plant, animal, or structure, AND (2) the number of times the plant, animal, or structure needs you. For example, a poultry shed is visited ~460 times/year while an oak tree may be visited only twice. See [[permaculture-sector-analysis]] and [[permaculture-zones-and-sectors]] for combined mapping techniques.
+## The Sector System
 
-### Pine Tree Placement Example
+Sectors address the **wild energies** that originate outside the system and pass through it: sun, light, wind, rain, wildfire, and water flow. While zones are conceptual and universal, sectors are **site-specific** and based on real landscape conditions.
 
-A pine tree belongs in Zone 4, away from the fire danger sector (it accumulates fuel), towards the cold wind sector (hardy windbreak), and should also bear edible nuts to serve multiple functions.
+### Sector Mapping
 
-### Poultry Shed Placement Example
+Sectors are mapped as compass directions from which particular energies arrive. For each sector, the designer chooses one of three strategies:
 
-A poultry shed should BORDER Zone 1 (frequent visits), sit away from the fire sector, BORDER the annual garden (for manure collection), BACK ONTO a forage system, possibly ATTACH to a greenhouse, and form part of a windbreak.
+1. **Block or screen** — exclude unwanted energy (e.g., an unpleasant view, cold wind, fire danger)
+2. **Channel** — direct the energy for special uses (e.g., wind toward a turbine, water toward storage)
+3. **Open** — allow full access (e.g., maximum sunlight for solar collectors or plant growth)
 
-## Slope, Aspect, and Orientation
+Protective elements include embankments, dense tree belts, ponds, roads, fences, and stone walls. Wildlife is managed through forage plantings, fencing, and nest boxes.
 
-No site is flat. Slope determines unpowered water flow from source to use point. The ideal humid landscape profile has:
-- High plateaus/ridges for forest and water collection
-- Steep upper slopes as protected watershed
-- Midslope for settlement and intensive agriculture
-- Foothills and plains for water storage dams and extensive cropping
+### Combining Zones and Sectors
 
-See [[keyline-design]] for slope-based water management.
+The placement of any component is finalized by **revolving** it through the zone system until it simultaneously works to govern sector energies. A pine tree, for example:
 
-### Slope and Infrastructure
+- Goes in **Zone 4** (infrequent visits needed)
+- Away from the **fire danger sector** (pines accumulate fuel and burn intensely)
+- Toward the **cold wind sector** (pines are hardy windbreaks)
+- Should also bear **edible nuts** as forage
 
-[[mollison-designers-slope-analysis-keyline-design]] informs [[permaculture-designers-manual-settlement-types]] are placed at critical junctions of two natural ecologies -- foothill forests and plains, plain and marsh, or land and estuary. "Successful and permanent settlements have always been able to draw from the resources of at least two environments."
+A poultry shed should **border Zone 1** (for frequent visits), stay away from the fire sector, border the annual garden (for easy manure collection), back onto the forage system, potentially attach to a greenhouse, and form part of a windbreak.
 
 ## The Basic Energy-Conserving Rules
 
-1. Every element (plant, animal, or structure) must be placed so that it serves at least two or more functions.
-2. Every function (e.g. water collection, fire protection) is served in two or more ways.
+Mollison distills zone-sector design into two fundamental rules:
 
-These rules reflect the broader [[zone-sector-analysis-guide]]
+1. **Every element** (plant, animal, or structure) must be placed so that it serves at least **two or more functions**.
+2. **Every function** (e.g., water collection, fire protection) must be served in **two or more ways**.
 
-- [[permaculture-design]]
+## The Broad Pattern Approach
+
+When broad initial patterning is well-analyzed and good placements made, many more advantages than were explicitly designed for naturally emerge. Observation then evolves additional strategies — watching animal movement, wind variation, water flow — to achieve further desirable ends such as easy animal mustering, directing manure to needed sites, steering cool winds, and directing water.
+
+## Summary
+
+Zone and sector analysis transforms site design from ad-hoc placement into a systematic, energy-conscious process. By organizing elements according to visit frequency (zones) and managing incoming natural energies (sectors), the designer creates systems that are simultaneously productive, efficient, and resilient. The two frameworks, overlaid as a "spiderweb" of placements, ensure that every tree, plant, structure, and activity is positioned for maximum benefit with minimum energy input.
+
+## Key Principles
+- Central to understanding ecological and sustainable design systems
+- Integrates theoretical knowledge with practical application
+- Functions within complex adaptive systems and natural patterns
+- Requires consideration of multiple interacting factors
+
+## Practical Applications
+- Applied in permaculture design and sustainable land management
+- Supports decision-making in agricultural and ecological contexts
+- Used in conservation and environmental restoration projects
+- Helps practitioners develop more resilient and productive systems
+
+## Ecological Significance
+- Contributes to understanding of ecosystem dynamics and function
+- Supports biodiversity and enhances natural system resilience
+- Plays role in nutrient cycling and energy flow processes
+- Understanding improves capacity for sustainable resource management
+
+## Related Concepts
+- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
+- [[permaculture-zone-and-sector-analysis]]
+- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-planning]]
 - [[permaculture-sector-analysis]]
-- [[urban-permaculture-rainwater-harvesting-graywater]]
-- [[permaculture-slope-analysis-and-reading]]
-- [[zone-1-intensive-garden]]
-- [[permaculture-zones-and-sectors]]
-- [[permaculture-settlement-design]]
-- [[permaculture-access-and-circulation-design]]

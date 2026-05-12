@@ -11,7 +11,7 @@ tags: [aact, hydroponics, nutrient-cycling, algae-control, root-disease, water-m
 
 ## Overview
 
-Dr. Elaine Ingham's field guide addresses a question rarely discussed in compost tea literature: can [[actively-aerated-compost-tea]] compost tea (AACT) be used in hydroponic growing systems? Ingham's answer is affirmative, though with important caveats about methodology and expectations. The integration of AACT into hydroponic systems represents a bridge between soil-based biological growing [[hydroponics-and-soilless-cultivation]], applying [[the-soil-food-web]] principles to water-based growing environments.
+Dr. Elaine Ingham's field guide addresses a question rarely discussed in compost tea literature: can [[actively-aerated-compost-tea]] compost tea (AACT) be used in hydroponic growing systems? Ingham's answer is affirmative, though with important caveats about methodology and expectations. The integration of AACT into hydroponic systems represents a bridge between soil-based biological growing [[hydroponics-and-soilless-cultivation]], applying [[query-what-is-the-soil-food-web-and-why-does-it-matter]] principles to water-based growing environments.
 
 ## The Core Concept: Restoring Predator Populations
 

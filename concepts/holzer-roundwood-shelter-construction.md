@@ -84,7 +84,7 @@ Earth is the cheapest and best insulation. The temperature of the soil balances 
 ### Storage Conditions
 - [[sepp-holzer-earth-cellars-and-philosophy]] maintain 80-90% humidity (ideal for crops)
 - Steady temperature between 8-10C using only soil warmth
-- Modern heated cellars with concrete floors are disastrous for [[root-cellaring-and-crop-storage]] (too dry -- apples wither and wrinkle)
+- Modern heated cellars with concrete floors are disastrous for [[solomon-root-cellaring-and-crop-storage]] (too dry -- apples wither and wrinkle)
 - High humidity + steady temperature = ideal for the majority of crops
 
 ### Stone Cellars (Permanent Storage)

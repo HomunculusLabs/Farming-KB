@@ -7,9 +7,9 @@ tags: [species, vegetable, perennial, mediterranean, permaculture, asteraceae]
 
 ## Description
 
-Cardoon (*Cynara cardunculus*) is a robust perennial vegetable in the family Asteraceae, closely related to the globe artichoke (*Cynara cardunculus* var. *scolymus*). Native to the Mediterranean region, it is cultivated for its blanched leaf stalks (leaf midribs) which have a flavor similar to artichoke hearts. Mollison mentions cardoons in the context of rabbit management — rabbits create conditions favorable for thistles, and the designer can use this behavior to cultivate cardoons and globe artichokes, which are domesticated thistle relatives.
+Cardoon (*[[cynara-cardunculus]]*) is a robust perennial vegetable in the family Asteraceae, closely related to the globe artichoke (*Cynara cardunculus* var. *scolymus*). Native to the Mediterranean region, it is cultivated for its blanched leaf stalks (leaf midribs) which have a flavor similar to artichoke hearts. Mollison mentions cardoons in the context of rabbit management — rabbits create conditions favorable for thistles, and the designer can use this behavior to cultivate cardoons and globe artichokes, which are domesticated thistle relatives.
 
-## Classification
+## [[mollison-designers-climate-classification-and-design-zones]]
 
 - **Kingdom:** Plantae
 - **Family:** Asteraceae (daisy/aster family)
@@ -17,7 +17,7 @@ Cardoon (*Cynara cardunculus*) is a robust perennial vegetable in the family Ast
 - **Species:** *C. cardunculus*
 - **Common names:** Cardoon, cardone, cardi, artichoke thistle
 - **Growth habit:** Large clumping perennial, 1–2 m tall
-- **Climate zone:** Mediterranean, temperate (USDA Zones 7–10)
+- **Climate zone:** Mediterranean, [[permaculture-designers-manual-temperate-climate-design]] (USDA Zones 7–10)
 
 ## Key Facts
 
@@ -31,26 +31,26 @@ Cardoon (*Cynara cardunculus*) is a robust perennial vegetable in the family Ast
 - Rich in cynarin, a compound that stimulates bile production and has documented hepatoprotective properties
 - Historically used as a rennet substitute for cheese-making (contains cardosin enzymes)
 
-## Permaculture Significance
+## [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] Significance
 
-Mollison identifies cardoons as a crop that can be deliberately cultivated in association with rabbit activity. Rabbits naturally create conditions favorable for thistles through their scratching, burrowing, and selective grazing behaviors. Rather than fighting this tendency, the permaculture designer channels it by planting cardoons and globe artichokes — domesticated thistle relatives that benefit from similar conditions. This embodies the principle "work with nature rather than against it" and "everything gardens."
+Mollison identifies cardoons as a crop that can be deliberately cultivated in association with rabbit activity. Rabbits naturally create conditions favorable for thistles through their scratching, burrowing, and selective grazing behaviors. Rather than fighting this tendency, the [[permaculture]] designer channels it by planting cardoons and globe artichokes — domesticated thistle relatives that benefit from similar conditions. This embodies the principle "work with nature rather than against it" and "everything gardens."
 
 ## Relevance to Cultivation
 
-- Excellent perennial vegetable for food forests, requiring minimal replanting
+- Excellent perennial vegetable for [[mollison-designers-temperate-zone-food-forest-design]]s, requiring minimal replanting
 - Deep roots mine subsoil minerals and bring nutrients to the surface
 - Flowers are highly attractive to pollinators, especially bees
 - Biomass producer — large leaves provide excellent mulch material
-- Can serve as a windbreak in mixed plantings due to substantial size
+- Can serve as a [[bill-mollison-permaculture-a-designers-manual-windbreak-design-and-shelter]] in mixed plantings due to substantial size
 - Tolerates poor soils and drought, making it suitable for marginal sites
-- Cardoon and globe artichoke represent domesticated versions of "weeds" that rabbits encourage, turning a potential problem into a productive yield
-- Useful in Mediterranean-climate permaculture designs as a low-maintenance, high-yield perennial vegetable
+- Cardoon and globe artichoke represent domesticated versions of "weeds" that rabbits encourage, turning a potential [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]] into a productive yield
+- Useful in Mediterranean-climate [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]s as a low-maintenance, high-yield perennial vegetable
 
 ## Relationship to Globe Artichoke
 
 - Globe artichoke (*Cynara cardunculus* var. *scolymus*) is a cultivated variety of the same species
 - Cardoon is grown for its stems; artichoke for its flower buds
-- Both share the same growing conditions and ecological niche
+- Both share the same growing conditions and [[ecological-niche]]
 - Cardoon is considered the wild progenitor of the globe artichoke
 - Both can be used similarly in permaculture designs where thistle-adapted species are desired
 
@@ -64,5 +64,17 @@ Mollison identifies cardoons as a crop that can be deliberately cultivated in as
 
 ## References
 
-- Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications. Chapter 2.
+- Mollison, B. (1988). *Permaculture: [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]' Manual*. [[tagari-publications]]. Chapter 2.
 - Zone: Mediterranean food forests, perennial vegetable gardens.
+
+## Practical Significance
+- Relevant to sustainable land management and ecological design
+- Applications in permaculture and regenerative agriculture
+- Connected to broader themes of resource conservation
+
+## Key Principles
+- Functions within interconnected ecological systems
+- Contributes to overall system resilience and stability
+- Understanding enables better design decisions
+
+## See Also

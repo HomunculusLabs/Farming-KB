@@ -24,7 +24,7 @@ to be between 20,000 and 40,000 to one, meaning a patient would need to
 consume approximately 20,000 to 40,000 times the effective dose for there
 to be a risk of fatal outcome. By comparison, the therapeutic ratio of
 aspirin is approximately 20 to one. This extraordinary safety margin
-distinguishes cannabis from virtually all other [[cultural-evolution-and-psychoactive-substances]].
+distinguishes cannabis from virtually all other [[star-fire-and-sacred-substances]].
 
 Despite its overall safety, cannabis can produce a range of adverse effects,
 particularly at higher doses or in susceptible individuals. The most commonly

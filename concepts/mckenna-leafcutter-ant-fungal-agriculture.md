@@ -12,10 +12,10 @@ type: concept
 
 ## Overview
 
-The relationship between leafcutter ants (genus *Atta* and *Acromyrmex*) and their cultivated basidiomycete fungus represents one 's most remarkable examples of interspecies symbiosis — a fungal agriculture system that evolved millions of years ago -mushrooms-species-south-america.
+The relationship [[query-how-does-mycorrhizal-network-communication-work-between-plants]] leafcutter ants (genus *Atta* and *Acromyrmex*) and their cultivated basidiomycete fungus represents one 's most remarkable examples of interspecies symbiosis — a fungal agriculture [[query-what-is-biogas-and-how-do-i-build-a-small-scale-digester-system]] that evolved millions of years ago -[[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]]s-species-south-america.
 
  used this relationship as a central analogy in *Food of the Gods* to illustrate how human-, particularly with [[ceremonial-shamanic-use-psychoactive-mushrooms]], may have functioned as a form of **behavioral symbiosis** that conferred adaptive advantages and catalyzed [[mckenna-symbiosis-and-human-plant-relationships]]
-- fungal-symbiosis-with-plants-beyond-mycorrhizae
+- fungal-symbiosis-with-[[mckenna-food-gods-european-witchcraft-psychoactive-plants-thornapple-mandrake-nightshade]]-beyond-mycorrhizae
 
 ## See Also
 
@@ -25,7 +25,7 @@ The relationship between leafcutter ants (genus *Atta* and *Acromyrmex*) and the
 Leafcutter Ant Fungal Agriculture and Human-Plant Symbiosis has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
+manifestation in real-[[mckenna-food-gods-new-world-hallucinogen-clustering-americas-psychedelic-continent]] contexts. The breadth of applications
 reflects the fundamental importance of this topic across disciplines.
 
 Implementation varies based on scale, available resources, and
@@ -43,7 +43,7 @@ creative adaptation to local conditions and emerging challenges.
 ## Key Considerations
 
 Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
+making when working with this topic. These include [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 factors, resource availability, timing, and the specific goals of the
 implementation. Careful attention to these factors improves outcomes
 and reduces the likelihood of common problems and setbacks.
@@ -51,7 +51,7 @@ and reduces the likelihood of common problems and setbacks.
 Environmental conditions play a particularly significant role in
 determining outcomes. Factors such as temperature, moisture, light
 exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
+[[fungal-monitoring-long-term-studies]] these conditions and adapting practices accordingly is
 a hallmark of experienced and effective practice in this area.
 
 Resource considerations include not only material inputs but also
@@ -80,7 +80,7 @@ better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
 
-The greatest value from this topic often comes through integration
+The greatest value from this topic often comes [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach

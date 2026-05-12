@@ -112,7 +112,7 @@ artistic achievements from the historical record.
 ## Significance in McKenna's Argument
 
 Qatal Huyuk occupies a central place in McKenna's broader thesis about
-the role of [[cultural-evolution-and-psychoactive-substances]] in human [[entheogens-and-cultural-evolution]]. It
+the role of [[star-fire-and-sacred-substances]] in human [[entheogens-and-cultural-evolution]]. It
 represents the moment when the partnership model — sustained by the
 visionary mushroom — reached its highest expression in settled urban life.
 Its destruction marks the point at which dominator culture seized

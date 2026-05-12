@@ -78,7 +78,7 @@ original input removes both the problem and the need for its solution.
 
 For example: chemical fertilizer stimulates rapid [[cannabis-vegetative-growth-stage]],
 which attracts insect pests. The farmer applies pesticide. The pesticide
-kills [[beneficial-insects-and-biological-pest-control]] that control other pests. A secondary pest
+kills [[hamilton-beneficial-insects-and-biological-pest-control]] that control other pests. A secondary pest
 outbreak occurs, requiring more pesticide. [[fukuoka-natural-farming-method]]'s approach asks:
 [[what-natural-farming-method-should-i-use]] if the original fertilizer was unnecessary? Remove it, and the
 cascade of interventions collapses.

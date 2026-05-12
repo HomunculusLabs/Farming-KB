@@ -42,13 +42,13 @@ reaction mixture, the nitrostyrene appears, but there is usually the
 development of one or more slower moving components as seen by TLC.
 Such a wrong-product is called scrudge. The reaction should be
 continuously titrated, and stopped when there is a favorable balance
-between the aldehyde being mostly gone, the nitrostyrene being mostly
+[[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]] the aldehyde being mostly gone, the nitrostyrene being mostly
 made, and the slower-moving scrudge components being not yet too
 plentiful. Methylene chloride is an excellent solvent to try first,
-with [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] plates and UV detection. The nitrostyrene is always
+with [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] plates and UV [[phytochrome-red-far-red-ratio-shade-detection-plants]]. The nitrostyrene is always
 the fastest moving component of the reaction mixture and often
-fluoresces a dull purple. The starting aldehyde is the second spot
-and usually fluoresces white or pale yellow. The scrudge spots then
+fluoresces a dull purple. The [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] aldehyde [[query-what-is-the-difference-between-wet-trimming-and-dry-trimming-cannabis]] second spot
+and usually fluoresces white or pale [[query-what-causes-cannabis-leaves-to-turn-yellow]]. The scrudge spots then
 occur in a cascade from the aldehyde to the origin. A maddening
 property is that they are yellow or brown colored, and in the probe
 mass spectrograph they can crack to give rise to what appears to be
@@ -77,7 +77,7 @@ to come to room temperature over the course of 1 h, and then added to
 removed under vacuum. The residue was dissolved in 50 mL MeOH,
 combined with the original aqueous phase, and the entire mixture
 heated on the [[scythian-cannabis-steam-bath-ritual]] for 0.5 h. The aqueous solution was cooled
-to room temperature, extracted with 3x100 mL CH2Cl2, the extracts
+to room temperature, [[query-what-is-the-difference-between-compost-tea-and-compost-extract]]ed with 3x100 mL CH2Cl2, the [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]
 pooled, and the solvent removed under vacuum. The residue was
 distilled at 132-140 deg C at 0.3 mm/Hg to yield 9.1 g of
 3-ethoxy-5-ethylthio-4-methoxybenzaldehyde as a white oil that, on
@@ -87,4 +87,4 @@ provide white crystals with a mp of 31.5-32.5 deg C. Anal. (C12H16O3S)
 C,H. The crude distillate was used in the following reactions.
 
 Several attempts were made to prepare the nitrostyrene from this
-aldehyde and nitromethane. The most successful, but still inadequate,
+aldehyde and nitromethane. [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]] successful, but still inadequate,

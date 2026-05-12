@@ -147,4 +147,4 @@ sacramental practices, all centered on the consumption of [[ceremonial-shamanic-
 - [[amanita-muscaria]]
 - [[amanita-muscaria-living-bread-sacrament]]
 - [[soma]]
-- [[haoma-—-zoroastrian-mushroom-sacrament]]
+- [[sacred-sacrament-mushroom-rites]]

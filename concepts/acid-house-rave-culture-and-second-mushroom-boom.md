@@ -48,7 +48,7 @@ the '90s and into the 21st century."
 imprisonment in the 1970s, revived when he found a new following
 amongst the Rave generation. He addressed crowds at events and his
 message of [[mckenna-consciousness-expansion-and-drug-war]] resonated with young people who had
-discovered [[cultural-evolution-and-psychoactive-substances]] through dance culture rather than
+discovered [[star-fire-and-sacred-substances]] through dance culture rather than
 through the counterculture of the previous generation. The rave scene
 provided a platform for psychedelic ideas to reach a new audience.
 

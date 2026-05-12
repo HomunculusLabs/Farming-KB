@@ -88,3 +88,9 @@ is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
+
+## See Also
+
+- [[plant-olfaction-volatile-chemical-perception]]
+- [[plant-olfaction-volatile-chemical-sensing-chamovitz]]
+- [[plant-olfaction-volatile-sensing]]

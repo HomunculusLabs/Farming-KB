@@ -84,3 +84,8 @@ The concept of Ayahuasca has expanded to include numerous "Ayahuasca analogs" â€
 - *Mimosa tenuiflora* â€” DMT-containing plant used in some analog preparations
 - [[plants-gods-peyote]]
 - [[dmt-and-ayahuasca-history]]
+
+- [[plants-gods-datura-solanaceous]]
+- [[plants-gods-psilocybin-mushrooms]]
+- [[plants-gods-san-pedro]]
+- [[plants-gods-syrian-rue]]

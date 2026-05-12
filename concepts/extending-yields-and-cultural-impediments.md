@@ -6,14 +6,14 @@ type: concept
 
 # Extending Yields and Cultural Impediments
 
-The concentration of yields into one short period is a fiscal strategy, not an environmental or subsistence one. It has resulted in a "feast and famine" regime in both markets and fields, with consequent high storage costs and periodic scarcity. Permaculture aims to disperse food yield over time so that many products are available at any season.
+The concentration of yields into one short period is a fiscal [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]], not an environmental or subsistence one. It has resulted in a "feast and famine" regime in both markets and fields, with consequent high storage costs and periodic scarcity. [[permaculture]] aims to disperse food yield over time so that many products are available at any season.
 
-## Strategies for Extending Yields Over Time
+## [[mollison-farm-design-strategies-for-yield-increase]] Extending Yields Over Time
 
 ### Temporal Diversity
 
 - **Selection of early, mid, and late season varieties** to spread harvest across the growing period
-- **Planting the same variety in early or late-ripening situations** using microclimate, aspect, or elevation differences to stagger maturity
+- **Planting the same variety in early or late-ripening situations** using microclimate, aspect, or elevation [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]s to stagger maturity
 - **Selection of long-season varieties** that yield over extended periods rather than in a single flush
 
 ### Structural Diversity
@@ -24,10 +24,10 @@ The concentration of yields into one short period is a fiscal strategy, not an e
 
 ### Preservation Strategies
 
-Food can be stored for days, weeks, or years through a series of preservation techniques:
+Food can be stored for days, weeks, or years through a series of preservation [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]:
 
 - Preserving (canning, fermentation)
-- Drying (solar, dehydrator, air)
+- Drying (solar, [[query-how-to-build-and-use-a-solar-food-dehydrator]], air)
 - Pitting (underground storage in cool, stable conditions)
 - Cool storage (root cellars, evaporative cooling)
 
@@ -41,7 +41,7 @@ Because of seasonal and diurnal cycles, storage strategies demand close attentio
 
 ## The Principle of Enough in Practice
 
-The principle of "enough" governs both the production and consumption sides of yield. Oversupply of resources — whether fertilizer, water, food, or information — is a form of chronic pollution that throws systems into disorder. Just as undersupply causes famine, oversupply causes obesity, waste, and systemic pathology. Ethical resource management requires balancing both extremes.
+The principle of "enough" governs both the production and consumption sides of yield. Oversupply of resources — whether fertilizer, water, food, or information — is a form of chronic pollution that throws systems into disorder. Just as undersupply causes famine, oversupply causes obesity, waste, and systemic pathology. Ethical resource [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] requires balancing both extremes.
 
 The critical yield strategy is ultimately about governing appetites — both personal and societal. Yield has no known limits because we cannot know all ways to conserve, store, and save energy, nor can we fail to improve any system we build and observe.
 
@@ -53,14 +53,14 @@ Mollison identified a significant barrier to yield in affluent societies: an alm
 
 ### The Consequence of Excluding Useful Animals
 
-When useful animals are abolished from cities, the ecological niche they occupied does not remain empty. Instead, it is filled by less desirable species:
+When useful animals are abolished from cities, the [[ecological-niche]] they occupied does not remain empty. Instead, it is filled by less desirable species:
 
 - **Pigeons** forage the streets
 - **Thousands of gulls** defecate in New York City reservoirs, fresh from garbage piles
 - **Gigantic garbage bins** are tipped over by large, flea-ridden dogs in Los Angeles
 - **Rats half the size of dogs**, also flea-ridden, tunnel under bus stops in Washington, D.C. by the millions — not far from the White House
 
-The exclusion of productive animals from human settlements creates pest problems that are far worse than the imagined problems of keeping domestic animals. This represents a profound failure of understanding about ecological systems and the role of animals in nutrient cycling, pest control, and food production.
+The exclusion of productive animals from human settlements creates pest problems that are far worse than the imagined problems of keeping domestic animals. This represents a profound failure of understanding about ecological [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]] the role of animals in nutrient cycling, pest control, [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]] production.
 
 ### Broader Cultural Barriers
 

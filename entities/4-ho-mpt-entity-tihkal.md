@@ -87,3 +87,9 @@ profile remains largely uncharacterized beyond this single data point.
 ## Comparison to Related Compounds
 
 - 4-HO-DMT (psilocin): N,N-dimethyl, 10-20 mg, 3-6 h, well characterized
+
+## See Also
+
+- [[4-ho-ept]]
+- [[4-ho-mipt]]
+- [[4-ho-mpt]]

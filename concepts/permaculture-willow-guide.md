@@ -82,7 +82,7 @@ Permaculture design integrates multiple elements working together. Each componen
 
 - [[ghouled-field-guide-historical-context]]
 - [[permaculture-broadscale-no-till-grain-production]]
-- [[bill-mollison-permaculture-designers-manual]]
+- [[bill-mollison]]
 - [[cho-yeast-preparation-guide]]
 
 ## See Also

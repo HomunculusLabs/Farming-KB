@@ -88,3 +88,11 @@ physical sensation. The sulfur atom introduces metabolic considerations,
 and Shulgin advised caution with dose escalation.
 
 ## 2C-T-7 (2,5-Dimethoxy-4-Propylthiophenethylamine)
+
+## See Also
+
+- [[pihkal-2c-b]]
+- [[pihkal-2c-e]]
+- [[pihkal-2c-i]]
+- [[pihkal-2c-t-2]]
+- [[pihkal-2c-t-7]]

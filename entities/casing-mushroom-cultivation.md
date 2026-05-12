@@ -9,19 +9,12 @@ tags: [technique, cultivation, casing, pinning, soil-layer]
 
 Casing is the practice of covering a fully or partially colonized mushroom bed with a layer of soil or soil-like material, typically 1 to 1.5 inches deep. This technique is essential for initiating fruiting body (sporophore) formation in cultivated mushrooms, particularly Agaricus species. The casing layer provides a microenvironment with specific moisture, microbial, and physical conditions that trigger the transition from vegetative mycelial growth to reproductive fruiting.
 
-
-
-
 ## Classification
 
 - **Category**: Cultivation technique
 - **Process**: Soil layer application
 - **Purpose**: [[fruiting-initiation]], moisture regulation
 - **Timing**: After spawn run confirmed
-
-
-
-
 
 ## Key Facts
 
@@ -37,10 +30,6 @@ Casing is the practice of covering a fully or partially colonized mushroom bed w
 - Woods-mould is objectionable as it introduces competing fungi and tends to increase fruit count at the expense of individual mushroom size.
 - Good casing materials: garden loam, potting soil, soil found beneath grass sod.
 
-
-
-
-
 ## Relevance to Cultivation
 
 Casing is one of the most critical techniques in Agaricus cultivation. Its importance spans multiple functions:
@@ -51,10 +40,6 @@ Casing is one of the most critical techniques in Agaricus cultivation. Its impor
 - **Sanitation**: Lime-enriched casing layers suppress unwanted microorganisms.
 
 The timing of casing is critical. Applying casing too early may smother struggling spawn; applying too late may delay the crop or allow the compost surface to dry. Duggar emphasizes that the compost beneath should be at ideal moisture when casing is applied, and the casing soil itself should be thoroughly moistened through repeated gentle sprinkling rather than flooding.
-
-
-
-
 
 ## Casing Materials Comparison
 
@@ -67,10 +52,6 @@ The timing of casing is critical. Applying casing too early may smother struggli
 | Pure sand | Poor | Dries too quickly |
 | Heavy clay | Poor | Bakes with artificial heat |
 | Woods-mould | Objectionable | Introduces competing fungi, reduces mushroom size |
-
-
-
-
 
 ## Application Procedure
 
@@ -88,3 +69,19 @@ The timing of casing is critical. Applying casing too early may smother struggli
 - [[mushroom-cultivation]]
 - [[mushroom-compost-preparation]]
 - [[mushroom-spawn-and-mycelial-growth]]
+
+## Ecological Role
+- Plays important role in nutrient cycling and ecosystem dynamics
+- Interacts with multiple trophic levels in food web
+- Serves as indicator species for environmental health
+
+## Conservation Notes
+- Population affected by habitat loss and environmental change
+- Conservation status varies by region
+
+## See Also
+- [[casing-soil-mushroom-cultivation]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
+- [[casing-soil-preparation-mushroom-cultivation]]
+- [[growing-gourmet-casing-soils-mushroom-cultivation]]
+- [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]

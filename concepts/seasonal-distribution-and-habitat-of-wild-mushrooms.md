@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The seasonal occurrence of wild mushrooms follows predictable patterns governed by temperature, rainfall, and the biological rhythms of fungal mycelia. Understanding these patterns allows experienced foragers to anticipate productive seasons and locate specific species. While general patterns exist, regional climate variations — particularly the distinction between typical temperate seasons and Mediterranean-type climates with winter wet seasons — significantly modify the timing of fruiting.
+The seasonal occurrence of wild mushrooms follows predictable patterns governed by [[soil-temperature-plant-growth-rate-doubling-rule]], rainfall, and the biological rhythms of [[gadd-fungal-wood-decay-brown-rot-white-rot-soft-rot-mechanisms]] mycelia. Understanding these patterns allows experienced foragers to anticipate productive seasons and locate specific species. While general patterns exist, regional climate variations — particularly the distinction [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] typical [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] seasons and Mediterranean-type climates with winter wet seasons — significantly modify the timing of fruiting.
 
 ## The Seasonal Cycle
 
@@ -20,7 +20,7 @@ The springtime brings a paucity of larger fleshy fungi, but it is the season for
 - **Helvellas** and **Gyromitras** — allies of the morel sharing similar habitat and timing
 - **Ink caps** (*Coprinus*) — under certain conditions
 - **African terfas** — mature in March and April
-- **Winter truffle** of Southern Europe sometimes extends into this season
+- **Winter truffle** of Southern Europe sometimes [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]s into this season
 
 Neither morels nor the larger coprini ordinarily extend into summer.
 
@@ -55,7 +55,7 @@ As cold weather begins, the last forms to disappear are some of the tougher type
 - **Armillaria**
 - **Collybia** — including *C. velutipes*
 
-*Collybia velutipes* is able to withstand considerable frost and may be designated as a typical early winter fleshy species. Both *Clitocybe illudens* and *C. velutipes* are conspicuous at the time of early frost, occurring about decayed roots or stumps.
+*Collybia velutipes* is able to withstand considerable [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] may be designated as a typical early winter fleshy species. Both *Clitocybe illudens* and *C. velutipes* are conspicuous at the time of early frost, occurring about decayed roots or stumps.
 
 ### Mediterranean and Winter-Flushing Climates
 
@@ -85,11 +85,11 @@ The moist forests everywhere abound sufficiently in wild forms. In Germany, fina
 
 ### Rainfall as Governor
 
-Rainfall governs to a marked degree the production of sporophores. The expert can, from the nature of the season, foretell with considerable accuracy whether or not the season will be favorable for finding any particular species. The relative water content of the soil, within certain limits, is often a far less important consideration during spring and summer (when mycelium grows under protective cover) than during the more exposed autumn season.
+Rainfall governs to a marked degree the production of sporophores. The expert can, from the nature of the season, foretell with considerable accuracy whether or not the season will be favorable for finding any particular species. The relative water content of the soil, within certain limits, is often a far less [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] consideration during spring and summer (when mycelium grows under protective cover) than during the more exposed autumn season.
 
 ### Mycelial Growth Timing
 
-The abundance of mushrooms in late summer and autumn does not mean that the main growth of mycelium occurs during this period. It is more probable that under the cover of leaves and other forest floor material, or protected by grass turf in pastures and meadows, the mycelium grows more or less abundantly throughout the whole spring and summer.
+The abundance of mushrooms in late summer and autumn does not mean that the main growth of mycelium occurs during this period. It is more probable that under the cover of leaves and other forest floor material, or protected by grass turf in pastures and meadows, the mycelium grows more or less abundantly [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]out the whole spring and summer.
 
 ### Reduced Competition
 

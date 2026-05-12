@@ -34,13 +34,13 @@ antioxidant properties.
 
 ## Taxonomy
 
-- **Kingdom:** Plantae
-- **Division:** Magnoliophyta
+- **Kingdom:** [[what-a-plant-knows-plant-vision-and-light-perception]]ae
+- **Di[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]:** Magnoliophyta
 - **Class:** Magnoliopsida
 - **Order:** Asterales
 - **Family:** Asteraceae
 - **Genus:** Artemisia
-- **Species:** A. dracunculus L.
+- **[[green-cannabis-grow-bible-species-indica-sativa-ruderalis]]:** A. dracunculus L.
 
 **Synonyms:** Artemisia dracunculoides Pursh; A. glauca Pall. ex Willd.
 
@@ -54,7 +54,7 @@ coiled root system. "Tarragon" derives from Arabic *tarkhūn* via Latin *tarchon
 - **Russian tarragon** (var. *inodora*) — Seed-fertile, 5–30% estragole,
   vigorous but milder flavor
 
-## Morphology
+## [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
 
 ### Growth Habit
 
@@ -67,11 +67,11 @@ coiled root system. "Tarragon" derives from Arabic *tarkhūn* via Latin *tarchon
 
 - **Leaves:** Alternate, sessile, linear-lanceolate, 2–8 cm × 3–10 mm
 - **Color:** Glossy dark green above, paler beneath; smooth, slightly leathery
-- **Aroma:** Strongly anise-like (French) or mild/grassy (Russian)
+- **Aroma:** Strongly anise-like (French) or mild/[[grass-seed-substrate-preparation-rye-grass-mycology]]y (Russian)
 - **Flowers:** Narrow paniculate capitula, greenish-yellow, 2–4 mm
-- **Flowering:** August–October; French type rarely flowers, no viable seed
+- **[[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]:** August–October; French type rarely flowers, no viable seed
 
-## Phytochemistry
+## Phyto[[guzman-neurotropic-fungi-classification-four-groups-chemistry-system]]
 
 ### Essential Oil Composition
 
@@ -84,7 +84,7 @@ coiled root system. "Tarragon" derives from Arabic *tarkhūn* via Latin *tarchon
 | [[sabinene]] | Low | Often 10–25% |
 | Total oil yield | 0.5–1.5% | 0.1–0.5% |
 
-### Non-Volatile Compounds
+### Non-[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 
 - **Coumarins:** Umbelliferone, scopoletin — bitter notes
 - **Flavonoids:** [[quercetin]], [[companion-planting]]:** Traditional companion to eggplant and tomatoes;

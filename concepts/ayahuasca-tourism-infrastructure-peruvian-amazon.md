@@ -123,3 +123,7 @@ observation, and a willingness to adapt approaches based on results.
 - [[dom]]
 - [[det]]
 - [[cocaine]]
+
+- [[ayahuasca-tourism-ethnography]]
+- [[ayahuasca-tourism-peruvian-amazon]]
+- [[ayahuasca-tourism-risks-and-ethics]]

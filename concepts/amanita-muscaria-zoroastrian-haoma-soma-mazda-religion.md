@@ -138,6 +138,6 @@ traditions that shaped the Western world.
 ## See Also
 
 - [[amanita-muscaria-herb-of-immortality-soma-discovery]] (source document)
-- [[vedic-soma-and-the-rig-veda]]
+- [[allegro-religious-lamentation-and-the-bacchic-cult]]
 - [[christian-eucharist-origins]]
-- [[indo-european-religious-traditions]]
+- [[amanita-indo-european-language-family-ancient-world-view]]

@@ -8,7 +8,7 @@ sources: [tompkins-secret-life-of-plants.md]
 type: concept
 ---
 
-# Luther Burbank's Plant Breeding Methods
+# Luther Burbank's Plant Breeding [[fukuoka-desert-revegetation-clay-pellet-method]]s
 
 Luther Burbank (1849-1926), the "Wizard of Horticulture," introduced over
 a thousand new plant varieties during his career, working from Santa Rosa,
@@ -19,10 +19,10 @@ fruits, vegetables, and flowers that transformed [[fukuoka-american-agriculture-
 
 ## Overview
 
-When the Dutch geneticist Hugo De Vries, discoverer of the mutation theory,
+When the Dutch geneticist Hugo De Vries, discoverer of the mutation [[fukuoka-desert-revegetation-vegetation-brings-rain-theory]],
 visited Santa Rosa to investigate the catalog of Burbank's astonishing
 creations, he was dumbstruck. In the wizard's front yard grew a fourteen-
-year-old Paradox walnut larger than the Persian variety four times its age,
+year-old Paradox walnut larger than the Persian [[fukuoka-old-rice-variety-yield-scientific-agriculture-critique]] four times its age,
 and a monkey-puzzle tree that dropped twenty-pound nuts. Yet in the little
 cottage where Burbank worked there was neither library nor laboratory, and
 his work notes were kept on tearings from brown-paper bags and the backs
@@ -32,9 +32,9 @@ in my head."
 
 Burbank's 1901 speech to the [[shipibo-san-francisco-ceremonial-center-ucayali]] Floral Congress infuriated
 botanists: "The chief work of the botanists of yesterday was the study and
-classification of dried, shriveled plant mummies whose souls had fled. We
+[[short-day-and-long-day-plant-classification]] of dried, shriveled plant mummies whose souls had fled. We
 have learned that they are as plastic in our hands as clay in the hands of
-the potter." De Vries, accepting Burbank as a natural-born genius, wrote
+the potter." De Vries, accepting Burbank as a [[fukuoka-textdoc-natural-form-fruit-trees]]-born genius, wrote
 that "its value for the doctrine of evolution compels our highest
 admiration."
 
@@ -44,7 +44,7 @@ admiration."
   specimen every three weeks over his career
 - His method centered on concentration and rapid elimination of
   non-essentials rather than meticulous record-keeping
-- Mass production was key: working with thousands of plants simultaneously
+- Mass [[clay-seed-pellet-production-method-concrete-mixer]] was key: working with thousands of [[phytochrome-red-far-red-ratio-shade-detection-plants]] simultaneously
   prodded nature to reveal secrets normally withheld
 - Plants were treated as responsive, sensitive beings that could be
   communicated with and directed
@@ -53,7 +53,7 @@ admiration."
 - His work anticipated many principles later validated by genetics while
   operating entirely on intuitive principles
 
-## Early Breakthroughs and Philosophy
+## Early Breakthroughs and [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
 
 Born in rural Massachusetts in 1849, Burbank was deeply influenced by
 Thoreau, Humboldt, Agassiz, and especially Darwin's The Variation of

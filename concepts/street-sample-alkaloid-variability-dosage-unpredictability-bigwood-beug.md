@@ -72,7 +72,7 @@ they believe to be a moderate dose could receive anywhere from a threshold
 sub-perceptual amount to a strongly psychedelic dose.
 
 Bigwood and Beug concluded that users of Psilocybe cubensis have no way of
-predicting the amount of [[psilocybin-and-psilocin-biosynthesis-variation]] they are ingesting with a
+predicting the amount of [[wiki:concepts/partial-veil-and-annulus-variation]] they are ingesting with a
 given dry weight of mushroom material. They further noted that variations
 in subjective experience will stem not only from the well-established effects
 of set and setting but also from large dosage differences inherent in the

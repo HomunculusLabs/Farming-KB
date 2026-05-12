@@ -61,7 +61,7 @@ eaten until determined safe through testing.
 ## See Also
 
 - [[mycoremediation-of-heavy-metals]] -- heavy metal focus
-- mycoremediation-of-pahs -- [[fungal-pah-degradation-and-soil-bioremediation]]
+- mycoremediation-of-pahs -- [[soil-health-and-microbial-life]]
 - mycoremediation-of-explosives -- explosives remediation
 - [[woodlovers-mycelium-running-pathway-technique]] remediating toxic waste -- this page
 ## Practical Considerations

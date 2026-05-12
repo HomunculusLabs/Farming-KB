@@ -52,7 +52,7 @@ summary of their implications: "You see what is conclusively proven here is that
 certain circumstances one is actually better informed concerning the real world if one has
 taken a drug than if one has not." McKenna describes Fischer's facetious remark as initially
 an academic anecdote but later as an effort to communicate something profound about the
-relationship between [[cultural-evolution-and-psychoactive-substances]] and the accurate perception of reality.
+relationship between [[star-fire-and-sacred-substances]] and the accurate perception of reality.
 
 This conclusion directly challenges the conventional assumption that psychoactive drugs
 necessarily impair perception and cognitive function. While it is well established that

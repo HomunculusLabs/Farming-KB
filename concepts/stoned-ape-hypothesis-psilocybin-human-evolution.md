@@ -122,6 +122,6 @@ The Stoned Ape hypothesis faces several serious objections:
   psychedelic culture onto prehistoric humanity
 
 Despite these criticisms, the hypothesis remains a thought-provoking
-contribution to discussions about the role of [[cultural-evolution-and-psychoactive-substances]] in human
+contribution to discussions about the role of [[star-fire-and-sacred-substances]] in human
 [[entheogens-and-cultural-evolution]]. The broader question — how diet shaped human consciousness
 — remains an active area of interdisciplinary inquiry.

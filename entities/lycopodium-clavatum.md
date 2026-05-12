@@ -24,9 +24,9 @@ created: 2026-05-07
 ## Overview
 
 **Lycopodium clavatum**, commonly known as running clubmoss or ground pine,
-is a widespread lycophyte species in the family Lycopodiaceae. It is
-distributed circumboreally across temperate and subarctic regions of the
-Northern Hemisphere, with disjunct populations in tropical mountains.
+is a widespread lycophyte [[guzman-central-america-neurotropic-fungi-species-distribution]] in the family Lycopodiaceae. It is
+distributed circumboreally across temperate and subarctic [[neurotropic-fungi-distribution-united-states-regions-guzman-1998]] of the
+Northern [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with disjunct populations in [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]] mountains.
 
 The species is one of the most recognizable lycophytes, forming extensive
  creeping mats with evergreen, scale-like leaves and upright cone-bearing
@@ -38,9 +38,9 @@ Despite its common name, L. clavatum is not a true moss but belongs to
 the ancient Lycopodiophyta lineage, which diverged from other vascular
 plants over 400 million years ago.
 
-## Taxonomy and Morphology
+## [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] Morphology
 
-**Classification:** Plantae → Lycopodiophyta → Lycopodiopsida →
+**[[guzman-allen-gartz-neurotropic-fungi-classification-system]]:** Plantae → Lycopodiophyta → Lycopodiopsida →
 Lycopodiales → Lycopodiaceae → Lycopodium → L. clavatum
 
 **Authority:** L., Species Plantarum 1753
@@ -62,11 +62,11 @@ distinctive three-branched tetrad scar (trilete mark). The spore surface
 is finely reticulate. Spores are produced in enormous quantities — a
 single strobilus can release millions of spores.
 
-## Distribution and Habitat
+## [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]] and Habitat
 
 L. clavatum has a circumboreal distribution across Europe, northern Asia,
 and [[guzman-psilocybin-mushrooms-north-america]]. It extends from Scandinavia and the British Isles
-across Siberia to Japan, and from Alaska across Canada to the northeastern
+across Siberia to [[guzman-allen-gartz-japan-neurotropic-fungi-diversity-ethnomycology]], and from Alaska across Canada to the northeastern
 [[dmt-containing-plants-united-states-halpern]].
 
 Disjunct tropical populations occur in the mountains of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]],

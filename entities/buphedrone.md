@@ -20,7 +20,7 @@ sources:
 
 Buphedrone is a synthetic stimulant belonging to the substituted cathinone class of chemicals. It is structurally related to methcathinone, differing only by the addition of an alpha-methyl group extending the carbon chain.
 
-The compound emerged in the early 2010s as part of the "bath salts" wave of novel [[cultural-evolution-and-psychoactive-substances]]. It produces stimulant and mild entactogenic effects through monoamine transporter interaction.
+The compound emerged in the early 2010s as part of the "bath salts" wave of novel [[star-fire-and-sacred-substances]]. It produces stimulant and mild entactogenic effects through monoamine transporter interaction.
 
 Buphedone is also known by the chemical name 2-(methylamino)-1-phenylbutan-1-one. It has been sold under street names including "B" and occasionally mixed into products labeled as mephedrone.
 

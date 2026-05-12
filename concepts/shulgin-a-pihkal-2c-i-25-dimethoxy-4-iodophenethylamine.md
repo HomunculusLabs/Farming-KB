@@ -128,3 +128,8 @@ makes the halogen series particularly clean for structure-activity relationship 
 - [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]]
 - [[shulgin-a-pihkal-doi-25-dimethoxy-4-iodoamphetamine]]
 - [[shulgin-rating-scale]]
+
+- [[shulgin-a-pihkal-2c-e-25-dimethoxy-4-ethylphenethylamine]]
+- [[shulgin-a-pihkal-2c-e-4-ethyl-25-dimethoxyphenethylamine]]
+- [[shulgin-a-pihkal-2c-i-4-iodo-25-dimethoxyphenethylamine]]
+- [[shulgin-a-pihkal-mmda-and-mmda-2-methoxy-methylenedioxyamphetamine]]
