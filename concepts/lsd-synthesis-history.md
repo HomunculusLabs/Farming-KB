@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-[[lsd-d-lysergic-acid-diethylamide]] (LSD) is one of the most potent [[star-fire-and-sacred-substances]] known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
+[[lsd-d-lysergic-acid-diethylamide]] (LSD) is one of the most potent [[cultural-evolution-and-psychoactive-substances]] known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
 
 This page covers the history of LSD — its discovery, development, cultural impact, and synthesis. Detailed synthesis procedures are not provided, as LSD is a Schedule I controlled substance and its synthesis requires advanced organic chemistry expertise and controlled precursor chemicals.
 

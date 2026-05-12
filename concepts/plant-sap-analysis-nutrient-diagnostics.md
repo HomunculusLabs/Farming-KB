@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [plant-nutrition, nutrient-analysis, crop-monitoring, diagnostics]
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 ---
 
 # Plant Sap Analysis — Real-Time Nutrient Diagnostics

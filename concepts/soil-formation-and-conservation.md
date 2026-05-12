@@ -13,7 +13,7 @@ Soil formation is the slow geological and biological process by which rock is tr
 ### Mechanical Weathering
 Water physically breaks down rock through multiple mechanisms:
 
-- **Hydration swelling** — water combines with common minerals like felspars, causing them to swell and fracture the parent rock
+- **Hydration swelling** — water combines with common minerals like felspars, causing [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management|them]] to swell and fracture the parent rock
 - **Ice expansion** — water freezing in rock cracks exerts enormous pressure, progressively splitting rock apart
 - **Glacial grinding** — glaciers pulverize rock to fine mineral flour across vast landscapes
 - **Plant wedging** — roots physically pry open rocks and mineral particles
@@ -31,7 +31,7 @@ Plants actively accelerate soil formation through:
 - **Root penetration** — wedging rocks apart and creating channels for water and air
 - **Acid exudation** — roots recreate acids that dissolve mineral particles
 - **Mineral transport** — dissolved minerals are drawn into plant sap and redistributed through leaf fall and decomposition to other locations
-- **Organic matter accumulation** — decaying plant material becomes humus, the living component of soil
+- **Organic [[humus-formation-and-soil-organic-matter|matter]] accumulation** — decaying plant material becomes humus, the living component of soil
 
 ### Soil Building Rate
 Natural soil formation produces approximately **2–4 tonnes per hectare per year** of uncompacted topsoil. This rate represents the baseline against which all human soil management must be measured.
@@ -68,7 +68,7 @@ Forests represent the most effective soil-building systems:
 - Continuous canopy reduces rainfall impact energy
 - Root networks stabilize soil on slopes
 - Leaf litter and woody debris provide constant organic input
-- Mycorrhizal networks facilitate nutrient cycling
+- [[mycorrhizal-networks]] facilitate nutrient cycling
 - Shaded conditions reduce evaporation and maintain soil moisture
 
 ### 2. Lakes and Ponds
@@ -88,7 +88,7 @@ Permanent grassland systems maintain soil through:
 ### 4. Mulched and No-Till Systems
 Human-managed systems that approximate natural soil conservation:
 - **Mulched systems** — organic cover protects soil surface from erosion, moderates temperature, and feeds soil organisms
-- **No-till systems** — minimize soil disturbance, preserving crumb structure and fungal networks
+- **No-till systems** — minimize soil disturbance, preserving [[crumb-structure]] and fungal networks
 
 ## Value Frameworks for Soil Management
 
@@ -112,7 +112,7 @@ The yield debate reveals a critical tension in modern agriculture:
 - Once-off yield of ploughed, fertilized monocultures supported by chemicals and large energy inputs can out-yield almost every other production system
 
 **The questions that must be asked:**
-- At what **public cost**?
+- At [[query-what-are-root-exudates-and-how-do-they-shape-soil-life|what]] **public cost**?
 - For **how long** maintained?
 - With what improvement in **nutrition**?
 - With what guarantee of **sustainability**?
@@ -130,7 +130,7 @@ Soil organisms are a **major soil factor** with profound effects on:
 
 - **pH** — microbial activity modifies soil acidity
 - **Mineral content and availability** — organisms solubilize locked minerals
-- **Soil structure** — fungal hyphae and root exudates create and maintain crumb structure
+- **Soil structure** — fungal hyphae and [[root-exudates]] create and maintain crumb structure
 - **Erosion resistance** — biological crusts and root networks stabilize soil surfaces
 
 ### Ethics Framework
@@ -147,49 +147,3 @@ Various estimates suggest how much land could be returned to nature:
 
 - **Colin Tudge** (New Scientist, 1986): conservatively estimated perhaps **60%** of the British Isles could be returned to nature
 - **John Jeavons** (based on garden productivity data): estimated perhaps **94%** of land could be returned to nature while still meeting food needs
-
-A reduction of the "ecological deserts" of conventional agriculture is overdue, as is a reduction in newspapers and packaging derived from ancient forests.
-
-## Soil-Plant-Animal Health Connection
-
-### Disease and Antibiotics in Soil
-Soils harbour and transfer both diseases and antibiotics:
-
-- Plants can take up modern antibiotics (penicillin, sulfa drugs) from soil
-- These may then be ingested at concentrated levels by humans and animals
-- Animals retain residual antibiotics, fostering new and resistant disease strains
-- Both plants and animals may concentrate or nullify environmental pollutants, varying by species
-
-### Nutritional Transfer
-Natural levels of soil antibiotics may sustain human health. Natural resistance to disease is transmitted through food, including:
-
-- **Vitamins** — maintain metabolic processes in necessary amounts
-- **Trace elements** — essential for enzyme function, immune response, and cellular repair
-
-### The Risk of Globalized Food Systems
-When people lived as inhabitants of regions, they adapted to local soils, plants, and nutritional levels or died out. Today:
-
-- Global food reaches global markets
-- Risk of global spread of **"agricologenic"** (farm-caused) diseases increases
-- The home garden represents a limited, localized risk under personal control
-- Public water supplies and commercial foods distribute risk widely across societies
-
-## Soil Rehabilitation Timeline
-
-Practical timelines for soil restoration:
-
-- **Building a new garden**: 3–4 years
-- **Restoring a devastated soil landscape**: 5–15 years (physical restoration only)
-- **Chemical pollution remediation**: far more lengthy, potentially decades or centuries
-
-Rehabilitation applies only to physical restoration and appropriate plant system development. Chemical pollution requires additional, often far more extensive, remediation processes.
-
-## Key Principles
-
-1. **Soil is alive** — it is a complex, dynamic system, not an inert growing medium
-2. **Formation is slow, destruction is fast** — every management decision must account for this asymmetry
-3. **Diversity builds soil** — forests, prairies, and mixed plantings conserve soil better than monocultures
-4. **Minimal disturbance** — the less soil is tilled, compacted, or exposed, the better it is preserved
-5. **Permanent cover** — soil should always be protected by vegetation or mulch
-6. **Health over yield** — sustainable nutrition matters more than maximum production
-7. **Restoration is the priority** — before clearing any more land, we must restore what has been destroyed

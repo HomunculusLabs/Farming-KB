@@ -88,3 +88,9 @@ These diterpenoids exhibit anti-inflammatory, hepatoprotective, and hypoglycaemi
 Teucrium chamaedrys extracts have demonstrated antioxidant capacity in vitro, attributed to flavonoids and phenolic acids.
 
 The [[permaculture-designers-manual-essential-oil-plants]], obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of aerial parts, contains β-caryophyllene, germacrene D, and α-pinene as major components.
+
+## See Also
+
+- [[teucrium-marum]]
+- [[teucrium-polium]]
+- [[teucrium-scorodonia]]

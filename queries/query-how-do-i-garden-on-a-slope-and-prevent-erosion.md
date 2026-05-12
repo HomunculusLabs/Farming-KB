@@ -3,7 +3,8 @@ title: "How Do I Garden on a Slope and Prevent Erosion?"
 tags: [query, slope-gardening, erosion-control, earthworks, permaculture]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/mollison-permaculture-designers-manual.md"
 ---
 
 # How Do I Garden on a Slope and Prevent Erosion?

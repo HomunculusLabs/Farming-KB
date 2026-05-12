@@ -115,8 +115,8 @@ This cross-cultural consistency suggests that the death-and-rebirth experience r
 - [[entheogens-in-ancient-cultures]]
 - [[soma]]
 - [[patriarchal-religion-and-control-systems]]
-- [[the-hero's-journey]]
+- shamanism death and rebirth
 - [[consciousness-and-psychedelics]]
 - [[wilhelm-reich]]
-- [[indigenous-spirituality-and-freedom]]
+- 
 - [[pineal-gland]]

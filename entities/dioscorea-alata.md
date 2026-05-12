@@ -88,3 +88,10 @@ Fallen leaves contribute to soil [[hamilton-composting-and-organic-matter-manage
 ### Challenges
 
 The species can become aggressively weedy in tropical environments, with escaped vines smothering native vegetation.
+
+## See Also
+
+- [[dioscorea-bulbifera]]
+- [[dioscorea-esculenta]]
+- [[dioscorea-rotundata]]
+- [[dioscorea-trifida]]

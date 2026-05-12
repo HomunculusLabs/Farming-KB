@@ -82,7 +82,7 @@ popular [[acid-house-rave-culture-and-second-mushroom-boom]] of the late 1980s a
 
 The rave setting, combining MDMA with the continuous rhythmic pulse
 of techno music, represents one end of the spectrum of set-and-
-setting rituals using [[star-fire-and-sacred-substances]] in the modern world.
+setting rituals using [[cultural-evolution-and-psychoactive-substances]] in the modern world.
 
 Metzner contrasted the recreational rave context with the more
 structured [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles he studied, noting that

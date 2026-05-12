@@ -81,7 +81,7 @@ Choice insectary plants include yarrow, buckwheat, lavender, golden marguerite, 
 - **Integrate throughout**: Sprinkle insectary flowers in vegetable beds, along paths, and at the edges of [[fruit-tree-guild-roles]] -- guilds include insectary plants as a key role
 - chicken-integration-permaculture-guide -- chickens can help manage pest insects as well
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] -- interplanting strategies that support beneficial insect populations
-- [[forage-turnip]] -- specialized habitat for pollinator species
+- [[cover-crops]] -- specialized habitat for pollinator species
 - [[fukuoka-natural-fruit-tree-pest-control]]
 
 ## Practical Applications

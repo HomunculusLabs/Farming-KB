@@ -88,3 +88,10 @@ Additional threats include **goldspotted oak borer** (*Agrilus auroguttatus*), a
 ### Timber and Products
 
 Coast live oak wood is heavy, hard, and durable (density 0.70–0.85 g/cm³), with a light brown to reddish-brown heartwood. Historically it was used for wagon wheels, agricultural implements, ship timbers, and fuelwood. The species is rarely harvested commercially today, but individual trees are valued for specialty woodworking and artisanal products.
+
+## See Also
+
+- [[quercus-imbricaria]]
+- [[quercus-muhlenbergii]]
+- [[quercus-nigra]]
+- [[quercus-velutina]]

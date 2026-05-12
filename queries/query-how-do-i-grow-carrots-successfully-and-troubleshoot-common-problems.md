@@ -3,7 +3,8 @@ title: Query How Do I Grow Carrots Successfully And Troubleshoot Common Problems
 tags: [query, vegetables, carrots, root-crops, gardening, troubleshooting]
 date: 2026-05-13
 updated: 2026-05-13
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 ---
 
 # How Do I Grow Carrots Successfully and Troubleshoot Common Problems?

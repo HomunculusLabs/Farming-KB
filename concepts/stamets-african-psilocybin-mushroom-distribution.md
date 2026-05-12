@@ -50,7 +50,6 @@ The living traditions of mushroom use in Nigeria and Ivory Coast
 represent invaluable ethnopharmacological knowledge that deserves
 careful documentation before it is lost.
 
-
 ## See Also
 
 - [[stamets-agarikon-pox-virus-antiviral-bio-defense]]

@@ -3,7 +3,8 @@ title: "How Do I Make comparison-comfrey-tea-vs-compost-tea Fertilizer?"
 tags: [query, comfrey, liquid-fertilizer, organic-fertilizer, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 ---
 
 # How Do I Make Comfrey Tea Fertilizer?

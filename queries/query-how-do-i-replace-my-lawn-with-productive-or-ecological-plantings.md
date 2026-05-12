@@ -3,7 +3,8 @@ title: "How Do I Replace My Lawn With Productive or Ecological Plantings?"
 tags: [query, lawn-replacement, ground-covers, meadow, permaculture]
 date: 2026-05-12
 updated: 2026-05-12
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
 # How Do I Replace My Lawn With Productive or Ecological Plantings?

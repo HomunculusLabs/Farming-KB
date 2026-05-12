@@ -67,7 +67,7 @@ The plant remains relatively understudied by Western standards, partly due to th
 [[syrian-rue-peganum-harmala-ethnobotany]] — [[golden-guide-syrian-rue-and-maoi-plants]] and its traditional uses.
 
 [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[star-fire-and-sacred-substances]]
+- [[cultural-evolution-and-psychoactive-substances]]
 ## Practical Considerations
 
 Successful implementation of Turkestan Mint (Lagochilus inebrians): Central Asian Intoxicant requires attention to

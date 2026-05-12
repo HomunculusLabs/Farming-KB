@@ -147,4 +147,4 @@ any wild spawn for cultivation.
 - [[duggar-mushroom-marketing-economics-1915]]
 - [[duggar-cultivated-agaricus-taxonomy-and-variety]]
 - [[duggar-tissue-culture-pure-spawn-method]]
-- [[hymenium-basidium-spore-morphology]]
+- [[fungal-cell-wall-composition-and-structural-organization]]

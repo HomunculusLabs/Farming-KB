@@ -87,3 +87,9 @@ The species has been used in landscape architecture for over 150 years, with ear
 The palm's massive trunk and dense crown create a strong vertical element in landscape design. It is frequently planted in formal avenues and plazas for its symmetrical habit and tolerance of pruning.
 
 In the Canary Islands, mature palms are protected by law, and their removal requires special permits. The species is an iconic element of the archipelago's cultural landscape.
+
+## See Also
+
+- [[phoenix-reclinata]]
+- [[phoenix-roebelenii]]
+- [[phoenix-theophrasti]]

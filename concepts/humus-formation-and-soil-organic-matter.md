@@ -115,7 +115,7 @@ observation, and a willingness to adapt approaches based on results.
 
 ## See Also
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
-- [[humus-and-soil-organic-matter]]
+- [[humus]]
 - [[mollison-designers-humus-building-and-soil-organic-matter]]
 - [[composting]]
 - [[root-exudates]]

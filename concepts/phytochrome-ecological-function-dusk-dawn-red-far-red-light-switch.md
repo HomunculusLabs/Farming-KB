@@ -8,13 +8,13 @@ related_topics:
   - "[[short-day-and-long-day-plant-classification]]"
   - "[[short-day-and-long-day-plant-classification]]"
   - "[[porphyrin-chemistry-heme-chlorophyll-b12]]"
-  - "[[canopy-light-environment]]"
+  - "phytochrome ecological function dusk dawn red far red light switch"
 tags: [phytochrome, photoreceptor, red-light, far-red-light, photoperiodism, flowering, shade-detection]
 ---
 
 # Phytochrome Ecological Function — The Dusk/Dawn Red/Far-Red Light Switch
 
-The [[phytochrome]] system is a [[photoreceptor]] mechanism that allows plants to sense the spectral quality of light — specifically the ratio of phytochrome ecological function dusk dawn red far red light switch (~660 nm) to phytochrome ecological function dusk dawn red far red light switch (~730 nm) — and use this information to regulate growth, development, and the timing of critical life events such as [[flowering-phase-cannabis]]. Described in detail in Daniel Chamovitz's *What a Plant Knows* (Chapter 1: What a Plant Sees), the phytochrome switch functions as a biological light memory, enabling a plant to "remember the last colour it saw" and measure elapsed time since that last light signal.
+The [[phytochrome]] system is a [[photoperiodism-in-plants]] mechanism that allows plants to sense the spectral quality of light — specifically the ratio of phytochrome ecological function dusk dawn red far red light switch (~660 nm) to phytochrome ecological function dusk dawn red far red light switch (~730 nm) — and use this information to regulate growth, development, and the timing of critical life events such as [[flowering-phase-cannabis]]. Described in detail in Daniel Chamovitz's *What a Plant Knows* (Chapter 1: What a Plant Sees), the phytochrome switch functions as a biological light memory, enabling a plant to "remember the last colour it saw" and measure elapsed time since that last light signal.
 
 This capacity for spectral memory is one of the most elegant examples of how plants perceive and respond to their environment, turning the simple alternation of light and darkness into a sophisticated timing and position-sensing system.
 
@@ -31,9 +31,9 @@ The system is remarkably sensitive. Even very brief flashes of light can shift t
 
 ## Warren Butler's Single-Receptor Demonstration
 
-The insight that a single molecular receptor mediated both the red-light activation and far-red-light deactivation of plant responses was established through elegant experiments by [[Warren-Butler]] and colleagues in the late 1950s. By alternately flashing plants with red and far-red light and observing that the final flash determined the physiological outcome — regardless of how many prior flashes had occurred — Butler demonstrated that both effects, promotion and reversal, were controlled by one reversible pigment system.
+The insight that a single molecular receptor mediated both the red-light activation and far-red-light deactivation of plant responses was established through elegant experiments by [[photoperiodism-in-plants]] and colleagues in the late 1950s. By alternately flashing plants with red and far-red light and observing that the final flash determined the physiological outcome — regardless of how many prior flashes had occurred — Butler demonstrated that both effects, promotion and reversal, were controlled by one reversible pigment system.
 
-This was a landmark finding in [[photobiology]], establishing phytochrome as the first discovered plant photoreceptor with a clearly defined molecular switching mechanism. It overturned earlier models that proposed separate red-light and far-red-light receptors, replacing them with the simpler and more powerful single-pigment toggle model.
+This was a landmark finding in [[photoperiodism-in-plants]], establishing phytochrome as the first discovered plant photoreceptor with a clearly defined molecular switching mechanism. It overturned earlier models that proposed separate red-light and far-red-light receptors, replacing them with the simpler and more powerful single-pigment toggle model.
 
 ## The Daily Light Cycle: Dusk and Dawn Signalling
 
@@ -45,7 +45,7 @@ At sunrise, sunlight is rich in phytochrome ecological function dusk dawn red fa
 
 ### Dusk: Far-Red Light "Turns Off" the Active State
 
-At sunset, the sun passes through a longer atmospheric path, scattering shorter wavelengths and enriching the remaining light in phytochrome ecological function dusk dawn red far red light switch. This far-red enrichment at dusk converts Pfr back to Pr, signalling the plant to wind down its active programs. The transition to the Pr-dominated state helps prepare the plant for the coming night period, during which no photoconversion occurs and Pfr slowly reverts to Pr through a natural thermal relaxation process ([[dark-reversion]]).
+At sunset, the sun passes through a longer atmospheric path, scattering shorter wavelengths and enriching the remaining light in phytochrome ecological function dusk dawn red far red light switch. This far-red enrichment at dusk converts Pfr back to Pr, signalling the plant to wind down its active programs. The transition to the Pr-dominated state helps prepare the plant for the coming night period, during which no photoconversion occurs and Pfr slowly reverts to Pr through a natural thermal relaxation process (phytochrome ecological function dusk dawn red far red light switch).
 
 The far-red signature of dusk thus serves as a reliable daily cue that daylight is ending and a dark period is beginning. This cue is independent of cloud cover or total light intensity, making it a robust environmental signal.
 
@@ -57,19 +57,19 @@ This memory of the last spectral cue allows the plant to measure the duration of
 
 ## Photoperiodic Flowering: Short-Day vs Long-Day Plants
 
-The phytochrome system underpins the [[photoperiodic-response]] that controls flowering in many species. Different species have evolved to use the same phytochrome signal in opposite ways, depending on their ecological niche.
+The phytochrome system underpins the [[photoperiodism-in-plants]] that controls flowering in many species. Different species have evolved to use the same phytochrome signal in opposite ways, depending on their ecological niche.
 
 ### Short-Day Plants
 
-[[short-day-and-long-day-plant-classification]]s (more accurately described as long-night plants) require a sufficiently long, uninterrupted dark period to flower. They need the Pfr→Pr conversion at dusk to be followed by a long period without any red-light interruption. If the dark period is broken by even a brief flash of red light — converting Pr back to Pfr — the plant perceives a short night and does not flower. Examples include [[blesching-cannabinoid-pharmacology]], [[poinsettia]], [[soybean-oil-wastewater-fungi]], and [[strawberry-growing-guide]].
+[[short-day-and-long-day-plant-classification]]s (more accurately described as long-night plants) require a sufficiently long, uninterrupted dark period to flower. They need the Pfr→Pr conversion at dusk to be followed by a long period without any red-light interruption. If the dark period is broken by even a brief flash of red light — converting Pr back to Pfr — the plant perceives a short night and does not flower. Examples include [[blesching-cannabinoid-pharmacology]], [[photoperiodism-in-plants]], [[soybean-oil-wastewater-fungi]], and [[strawberry-growing-guide]].
 
 ### Long-Day Plants
 
-[[short-day-and-long-day-plant-classification]]s require short nights (long days) to flower. In these species, the persistence of some Pfr into the early part of the night — or a shorter overall dark period — triggers flowering pathways. The phytochrome system effectively measures whether the night is short enough to signal summer conditions. Examples include [[spinach]], [[lettuce-and-leafy-greens]], [[radish]], and [[clover]].
+[[short-day-and-long-day-plant-classification]]s require short nights (long days) to flower. In these species, the persistence of some Pfr into the early part of the night — or a shorter overall dark period — triggers flowering pathways. The phytochrome system effectively measures whether the night is short enough to signal summer conditions. Examples include [[companion-planting-reference]], [[lettuce-and-leafy-greens]], [[cover-crops]], and [[cover-crops]].
 
 ### Practical Implications
 
-These principles are widely exploited in commercial [[greenhouse-growing-guide]] horticulture and [[controlled-environment-agriculture]]:
+These principles are widely exploited in commercial [[greenhouse-growing-guide]] horticulture and [[cannabinoid-microbiome-interactions]]:
 
 - **Far-red light at end of day** can trigger flowering in short-day plants by ensuring a complete Pfr→Pr transition before the dark period.
 - **Red light interruption at night** (a "night break") prevents flowering in short-day plants by artificially re-establishing Pfr and signalling a short night.
@@ -86,4 +86,4 @@ The same mechanism operates at the community level: dense plantings with high le
 
 ## Molecular Basis of the Conformational Change
 
-At the molecular level, phytochrome is a dimeric protein with a covalently attached [[chromophore]] called phytochromobilin (a linear tetrapyrrole related to the [[porphyrin-chemistry-heme-chlorophyll-b12]] and [[phycocyanobilin]] pigments). Upon absorption of a red photon, the chromophore undergoes a **Z-to-E isomerisation** around a double bond, which triggers a cascade of structural rearrangements in the protein.
+At the molecular level, phytochrome is a dimeric protein with a covalently attached phytochrome ecological function dusk dawn red far red light switch called phytochromobilin (a linear tetrapyrrole related to the [[porphyrin-chemistry-heme-chlorophyll-b12]] and phytochrome ecological function dusk dawn red far red light switch pigments). Upon absorption of a red photon, the chromophore undergoes a **Z-to-E isomerisation** around a double bond, which triggers a cascade of structural rearrangements in the protein.

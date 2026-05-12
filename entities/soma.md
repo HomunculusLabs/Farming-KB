@@ -83,7 +83,6 @@ Soma interacts with surrounding ecosystems through pollinator
 relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
 functions enhance overall system resilience and biodiversity.
 
-
 ## See Also
 
 - [[soma-brew-entheogenic-admixture]]

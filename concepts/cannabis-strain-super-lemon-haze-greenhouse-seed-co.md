@@ -11,7 +11,7 @@ created: 2026-05-10
 > *"A true modern classic."* — S.T. Oner, *Cannabis Sativa Vol 3*
 
 Super Lemon Haze is a sativa-dominant hybrid bred by [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] of Holland.
-A cross of [[lemon-skunk]] and [[super-silver-haze]], it has become one of the most
+A cross of [[skunk-1|lemon-skunk]] and [[super-silver-haze]], it has become one of the most
 recognized and commercially successful [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] of the modern era. Known for
 its intense lemony aroma, balanced social effects, and generous yields, Super Lemon Haze
 made an immediate splash when first introduced and continues to be widely popular among
@@ -21,7 +21,7 @@ both recreational and medical consumers.
 
 | Parent | Breeder | Profile |
 |--------|---------|---------|
-| [[lemon-skunk]] | DNA Genetics | Lemon-scented Skunk phenotype selected for pungent citrus terpenes |
+| [[skunk-1|lemon-skunk]] | DNA Genetics | Lemon-scented Skunk phenotype selected for pungent citrus terpenes |
 | [[super-silver-haze]] | Green House Seed Co. | Legendary hybrid; Neville's Haze × [[cannabis-strain-mango-haze-northern-lights-skunk-haze]] × Haze |
 
 The combination merges the bright, zesty [[cannabis-terpene-profile]] of Lemon Skunk with the
@@ -54,7 +54,7 @@ responsible for its signature intense lemony aroma. Supporting terpenes include:
 
 - **[[limonene]]** — Dominant; citrus, mood elevation, stress relief
 - **[[myrcene]]** — Herbal, musky; contributes to sedative body effects
-- **[[Caryophyllene]]** — Peppery, spicy; anti-inflammatory properties
+- **[[cannabinoid-microbiome-interactions]]** — Peppery, spicy; anti-inflammatory properties
 - **[[pinene]]** — Piney; promotes mental clarity and focus
 
 The interplay of these terpenes produces a scent and flavor that is unmistakably

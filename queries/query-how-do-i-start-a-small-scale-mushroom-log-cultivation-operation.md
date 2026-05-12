@@ -1,20 +1,20 @@
 ---
 title: "How Do I Start a Small-Scale Mushroom pleurotus-natural-log-cultivation-methods Operation?"
 tags:
-  - mushroom-cultivation
-  - log-inoculation
-  - small-scale-farming
-  - shiitake
-  - sustainable-agriculture
-  - diy-farming
+ - mushroom-cultivation
+ - log-inoculation
+ - small-scale-farming
+ - shiitake
+ - sustainable-agriculture
+ - diy-farming
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://mushroommountain.com/pages/growing-on-logs
-  - https://www.fungi.com/blog/growing-shiitake-mushrooms-on-logs
-  - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=397
-  - https://www.freshcapmushrooms.com/grow-mushrooms-on-logs
-  - https://extension.psu.edu/shiitake-mushroom-cultivation-on-logscreated: 2026-05-07
+ - https://mushroommountain.com/pages/growing-on-logs
+ - https://www.fungi.com/blog/growing-shiitake-mushrooms-on-logs
+ - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=397
+ - https://www.freshcapmushrooms.com/grow-mushrooms-on-logs
+ - https://extension.psu.edu/shiitake-mushroom-cultivation-on-logscreated: 2026-05-07
 type: query
 
 created: 2026-05-07
@@ -95,4 +95,4 @@ A practical guide for beginners looking to [[query-how-do-i-grow-king-oyster-mus
 - [[cervantes-backyard-small-scale-cultivation]]
 
 - [[query-how-to-start-a-small-scale-snail-farm]]
-- [[the-ultimate-goal-of-farming]]
+- 

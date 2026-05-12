@@ -6,88 +6,141 @@ type: concept
 
 # Natural Swimming Pools
 
-Natural swimming pools represent a permaculture approach to recreational water that eliminates the need for chlorine and other chemical biocides. Instead of treating water with toxic substances, these pools use biological filtration, plant-based nutrient uptake, and natural aeration to maintain clean, safe swimming water.
+> *"No man is an island, entire of itself; every man is a piece of the
+> continent."* — John Donne
 
-## Problems with Conventional Pools
+Natural swimming pools embody a core permaculture principle: human systems
+should integrate with ecological processes rather than oppose them. Mollison's
+central challenge is compelling — if fish cannot survive in a pool, should
+humans swim in it?
 
-Conventional swimming pools present several significant problems:
+## Critique of Conventional Chlorinated Pools
 
-- **Chlorine is a biocide** — it kills all biological organisms. As Mollison observed, if fish cannot live in our pools, we should also keep our bodies out of the water
-- **Carcinogenic by-products** — chlorine forms carcinogenic chloroform when it reacts with organic matter in swimming water
-- **Chemical dependency** — pools require continuous chemical input and regular servicing
-- **Ecological barrenness** — chemically treated pools support no life and contribute nothing to the local ecosystem
-- **Resource consumption** — conventional pools consume significant water, energy, and chemicals over their lifetime
+Conventional pools rely on biocide chemicals, primarily chlorine, to maintain
+water clarity. From a permaculture perspective this approach is fundamentally
+flawed:
 
-## How Natural Pools Work
+- **Chlorine is a broad-spectrum biocide** — it kills beneficial bacteria,
+  algae, insects, and amphibians, creating an ecological dead zone.
+- **Swimmers absorb chemicals** through skin and mucous membranes, and inhale
+  volatile chlorination by-products such as trihalomethanes.
+- **Pools consume energy** for pumping and heating while contributing nothing
+  to the surrounding ecosystem.
+- **Maintenance demands are high** — constant chemical monitoring, dosing, and
+  periodic draining are required.
 
-Natural pool designers filter pool water below a **base pebble bed**, using the pebbles as algal and bacterial cleaners. The water then cycles through a **reed-bed zone** to remove excess nutrients before cascading back, freshly oxygenated, into the swimming area.
+Mollison's argument is simple: a healthy pool should support life, not
+destroy it.
 
-### System Components
+## Natural Pool Design
 
-1. **Swimming zone** — The main open water area for bathing, designed to be deep enough for swimming
-2. **Pebble bed filtration** — A gravel substrate below the pool floor that hosts beneficial bacteria and algae for biological filtration
-3. **Reed-bed regeneration zone** — A planted shallow area where emergent aquatic plants (reeds, irises, rushes) absorb nutrients, filter particulates, and provide habitat for filtration organisms
-4. **Flowform or stepped cascade** — Water is oxygenated through vortex patterns as it cascades back into the pool, often powered by photovoltaic pumps
-5. **Skimming system** — Surface debris (leaves, pollen) is removed before water enters the filtration cycle
+Natural swimming pools eliminate chemicals by relying on biological filtration,
+plant-based nutrient uptake, and careful hydraulic design.
 
-### Filtration Biology
+### Biological Filtration with Reed Beds
 
-The biological filtration relies on:
+The **[[reed-bed-filtration]] zone** is a living water treatment plant:
 
-- **Beneficial bacteria** in the pebble bed that break down organic matter
-- **Aquatic plants** in the regeneration zone that absorb dissolved nutrients (nitrogen, phosphorus)
-- **Algae** (controlled levels) that uptake nutrients and produce oxygen
-- **Zooplankton** and other microorganisms that consume algae and bacteria
-- **Physical filtration** through gravel substrates that trap particulate matter
+- A regeneration zone (50-60% of total pool area) is planted with reeds and
+  aquatic macrophytes.
+- Plant roots provide substrate for beneficial bacteria that break down
+  organic matter, pathogens, and excess nutrients.
+- Water circulates continuously between the swimming zone and regeneration
+  zone, mimicking natural wetland purification.
 
-## Design Features
+### Flowform Aeration
 
-Natural pools can incorporate many additional design elements that conventional pools cannot:
+**Flowform** technology oxygenates water through sculpted channels creating
+figure-eight flow patterns:
 
-- **Tame fish** — ornamental or edible fish can coexist with swimmers
-- **Crayfish habitats** — rock ledges and crevices provide habitat
-- **Over-arching ferns** and marginal plantings for aesthetic beauty and habitat
-- **Rock ledges** for seating, climbing, and habitat creation
-- **Fire-fighting reserve** — pools serve as emergency water supplies
-- **Heat source for heat pumps** — the thermal mass of pool water can be used for climate control
-- **Fire barriers** — positioned strategically, pools can act as firebreaks
-- **Emergency water supply** — rechargeable from roof catchment via photovoltaic pumps
+- Cascading rhythmic movement entrains atmospheric oxygen, supporting aerobic
+  bacterial activity.
+- Gentle vortices improve mixing and prevent stagnation without harsh
+  mechanical agitation.
+- Far more energy-efficient than conventional air pumps, with a pleasant
+  aesthetic of flowing water.
 
-## Water Quality Monitoring
+### Surface Skimming and Gravel Base
 
-Key water quality parameters for natural pools include:
+- **Skimming**: Simple surface skimmers or overflow weirs direct leaves to a
+  collection zone. Regular skimming prevents nutrient loading and algal
+  blooms. Leaf litter is composted and returned to garden systems.
+- **Gravel base**: A **23-30 cm layer of coarse river gravel** forms the
+  filtration substrate. Intake pipes positioned below the gravel draw water
+  through the biofilm-colonized substrate. Coarse river gravel is preferred
+  over crushed stone because rounded edges resist compaction.
 
-- **E. coli bacteria counts** — must be maintained below thresholds for safe swimming; regular testing is essential
-- **pH levels** — typically maintained between 6.5 and 8.5
-- **Nutrient levels** — nitrogen and phosphorus must be kept low enough to prevent algal blooms
-- **Clarity** — water should remain clear enough to see the bottom at the shallow end
+## Septic Tank Effluent Disposal Systems
 
-Slow flow through the reed bed is essential for effective nutrient removal. E. coli counts must be maintained below acceptable thresholds for safe swimming without chlorine.
+Permaculture transforms waste disposal into productive resource management.
+Treated septic effluent becomes nutrient-rich irrigation water.
 
-## Maintenance Advantages
+### Leach Fields with Fruit Trees
 
-Natural swimming pools eliminate the need for:
+- Effluent is distributed through subsurface perforated pipes into shallow
+  leach trenches.
+- **Fruit trees planted above leach fields** absorb nutrients and water,
+  converting waste into food production.
+- Deep-rooted trees prevent waterlogging while accessing nutrients at multiple
+  soil horizons.
 
-- Regular chemical purchases and dosing
-- Acid washing and draining
-- Expensive mechanical filtration systems
-- Professional pool servicing contracts
+### Disposal Pits with Graded Stone and Straw Mulch
 
-Instead, maintenance involves:
+- Pits are filled with **graded stone** — larger at bottom, finer toward
+  surface — to distribute flow and prevent clogging.
+- A **straw mulch layer** retains moisture, filters particulates, and supports
+  surface biological activity.
+- These pits integrate directly into orchard or garden systems.
 
-- Seasonal plant management (pruning, dividing)
-- Occasional sediment removal from settling zones
-- Monitoring water quality parameters
-- Managing the biological balance between plants and nutrients
+## Biogas Conversion of Septic Tank Effluent
 
-## Broader Integration
+Septic effluent can feed a [[biogas-digester]], producing methane for cooking,
+lighting, and refrigeration while further treating wastewater.
 
-Natural swimming pools can be integrated with other permaculture water systems:
+### Digester Specifications and Operation
 
-- **Roof water catchment** — pools can be recharged from harvested rainwater
-- **Solar-powered pumping** — photovoltaic panels drive circulation without grid energy
-- **Aquaculture** — fish and crayfish provide food yields alongside recreation
-- **Wildlife habitat** — pools support amphibians, insects, and birds
-- **Landscape aesthetics** — pools become living features of garden design rather than sterile blue boxes
+- The tank is **1.5-2 m deep** and **3-4 m in diameter**, with a **loading
+  chute** for adding organic waste without introducing air.
+- Anaerobic bacteria decompose organic matter over 30-60 days, producing
+  methane-rich biogas.
+- Effluent overflows into a **baffled pond** planted with **Pistia (water
+  lettuce)** and **watercress** for nutrient absorption and polishing.
 
-The result is a system that provides great health, recreational value, ecological function, and food production — all without the chemical burden of conventional pool maintenance.
+### Gas Collection and Use
+
+- A **gas compressor** breaks up surface scum, improving gas production.
+- Biogas is collected under an **inverted tank** gas holder that rises as gas
+  accumulates and falls as it is consumed.
+- Uses include **cooking** (biogas stoves), **lighting** (mantle lamps), and
+  **refrigeration** (absorption refrigerators).
+
+## The Arbor System (South Australian)
+
+The **Arbor system** is a South Australian approach to productive water
+disposal, suited to arid and semi-arid climates:
+
+- **Half-pipe trenches** are excavated along contour lines and lined with
+  curved sections to create contained water channels.
+- **Cross-supports** placed at intervals create a series of small pools or
+  sumps along each trench.
+- Trees planted adjacent to these pools access stored water through their
+  roots.
+- The system directs greywater, stormwater, or treated effluent to tree
+  plantings, maximizing infiltration while minimizing evaporation.
+
+## Productive Disposal
+
+The unifying principle is **productive disposal** — wastewater is a resource,
+not waste. Permaculture design closes nutrient and water loops by:
+
+- Using treated effluent to irrigate food-producing plants
+- Capturing methane energy from organic decomposition
+- Creating wildlife habitat through constructed wetlands
+- Integrating multiple functions — swimming, filtration, irrigation, energy
+  production — into single designed systems
+
+## See Also
+
+- [[natural-swimming-pools-and-water-design]]
+- [[septic-tanks-and-natural-swimming-pools]]
+- [[mollison-designers-natural-swimming-pools-and-water-purification]]

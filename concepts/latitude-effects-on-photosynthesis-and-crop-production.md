@@ -6,7 +6,7 @@ type: concept
 
 # Latitude Effects on Photosynthesis and Crop Production
 
-Latitude profoundly influences photosynthetic efficiency, crop yields, and appropriate agricultural strategies. Contrary to common assumptions, high-latitude regions often provide superior conditions for biomass production during their growing season, while tropical regions face significant photosynthetic challenges from excessive light and heat.
+Latitude profoundly influences [[photosynthetic-efficiency]], crop yields, and appropriate agricultural strategies. Contrary to common assumptions, high-latitude regions often provide superior conditions for biomass production during their growing season, while tropical regions face significant photosynthetic challenges from excessive light and heat.
 
 ## High Latitude Advantages
 
@@ -110,7 +110,7 @@ Climate factors of a site should not be accepted as unchangeable, any more than 
 
 ### The Designer's Checklist for Climate
 
-Key data to gather for any permaculture design:
+Key data to gather for any [[permaculture-design]]:
 
 - Average rainfall, temperature, and wind speed/direction for the region
 - General hardiness zone (based on temperature, with frost as limiting factor)

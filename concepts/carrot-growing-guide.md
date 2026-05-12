@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, soil, troubleshooting]
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
 ## Overview

@@ -88,3 +88,10 @@ The species can form extensive floating mats that reduce light penetration to th
 Pollinators include small bees, flies, and butterflies that visit the aerial flowers. The flowers are self-compatible but also attract insect visitors for cross-pollination.
 
 In [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] ecosystems, the species has been investigated for its potential as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against mosquito larvae. Its carnivorous bladders can significantly reduce larval populations in standing water.
+
+## See Also
+
+- [[utricularia-gibba]]
+- [[utricularia-reniformis]]
+- [[utricularia-sandersonii]]
+- [[utricularia-subulata]]

@@ -144,7 +144,7 @@ appropriated by Judaism and Christianity — a claim that remains highly controv
 among linguists and scholars of the ancient Near East.
 # See Also
 - [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
-- [[allegro-etymological-method]]
+- [[allegro-mushroom-cosmography]]
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 - [[allegro-sacred-mushroom-cross-introduction-fertility-cults]]
-- [[allegro-dionysus-jesus-parallel]]
+- [[allegro-soma-mushroom-thesis]]

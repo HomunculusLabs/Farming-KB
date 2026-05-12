@@ -27,7 +27,7 @@ MDMA, and 2-CB introduced a qualitatively different class of psychoactive
 compounds that expand and center awareness primarily on the emotional or
 heart level, with minimal or no perceptual changes or otherworldly
 consciousness. This distinction from classical hallucinogens represents an
-important development in the therapeutic use of [[star-fire-and-sacred-substances]].
+important development in the therapeutic use of [[cultural-evolution-and-psychoactive-substances]].
 
 ## Alexander Shulgin and the Phenethylamine Discovery
 

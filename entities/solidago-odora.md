@@ -88,3 +88,9 @@ Contemporary herbalists occasionally recommend S. odora as a milder alternative 
 The [[permaculture-designers-manual-essential-oil-plants]] obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of the flowering tops has been investigated for its aromatic and potential [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]], though commercial production is limited.
 
 Yield of dried herb is approximately 200 to 400 grams per square meter when harvested at peak bloom.
+
+## See Also
+
+- [[solidago-canadensis]]
+- [[solidago-nemoralis]]
+- [[solidago-speciosa]]

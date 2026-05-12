@@ -88,6 +88,10 @@ The species has received the RHS Award of Garden Merit, confirming its garden wo
 
 Beyond ornamental horticulture, Clematis alpina has limited practical uses. The plant is toxic if ingested due to protoanemonin content, precluding any culinary application.
 
+
 ## See Also
-- [[garden-myths-planting-and-pruning]]
-- [[pulsatilla-alpina]]
+
+- [[clematis-flammula]]
+- [[clematis-florida]]
+- [[clematis-tangutica]]
+- [[clematis-viticella]]

@@ -42,23 +42,17 @@ Gley is a traditional pond and dam sealing technique that uses anaerobically fer
 - Cold areas: 1–2 weeks for fermentation
 - Tropical areas: as little as 1 day
 
-
-
 ### Modifications
 
 - Pen and feed cattle in the dry dam until the bottom becomes a manurial pug
 - Strew bales of green hay and manure on ponds that leak slightly to produce algae sealing minor cracks
 - Sow green crop in the dry dam, spray irrigate, and feed it off regularly with cattle
 
-
-
 ## Relevance to Cultivation and Mycology
 
 Gley sealing is directly relevant to permaculture-based cultivation systems where water storage is essential. For mushroom cultivation and mycology, gley-sealed ponds provide a low-cost method for establishing reliable water supplies for substrate preparation, humidity management, and irrigation of mushroom logs or beds. The anaerobic biological process aligns with permaculture principles of working with natural systems rather than against them.
 
 The technique enables creation of water storage in sandy, gravelly, or shale substrates where conventional earth dams would leak. This is particularly valuable in arid and semi-arid regions where water retention is critical for any form of cultivation. The biological nature of the seal means it integrates with rather than disrupts local ecosystems.
-
-
 
 ## Comparison with Other Sealing Methods
 
@@ -67,13 +61,38 @@ The technique enables creation of water storage in sandy, gravelly, or shale sub
 - **Explosives**: Dynamite compaction of dam sides; dangerous and unpredictable
 - **Impermeable membranes**: Plastic, neoprene, or concrete; most expensive; enables steeper banks; not biological
 
-
-
 ## Source Reference
 
 Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), pages 164–165. Described as part of the section on sealing leaky dams alongside bentonite, explosives, clay, and impermeable membranes.
 
+## Practical Applications
 
+Gley Pond Sealing finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
+
+## Ecological Context
+
+Understanding gley pond sealing within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating gley pond sealing into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
+
+## See Also
+
+- [[holzer-pivoting-monk-pond-drainage]]
+- [[permaculture-pond-construction]]
+- [[pond-and-aquaculture]]
+- [[query-what-is-a-gley-pond-and-how-does-it-work]]
+- [[sepp-holzer-pond-construction]]
 
 ## See Also
 

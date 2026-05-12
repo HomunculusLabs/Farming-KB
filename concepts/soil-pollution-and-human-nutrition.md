@@ -6,7 +6,7 @@ type: concept
 
 # Soil Pollution and Human Nutrition
 
-The integrity of soils and waters is foundational to human health. In permaculture design, understanding the legacy of chemical pollution in agricultural landscapes and its direct consequences for nutrition is essential for making responsible land-use decisions. This concept page addresses soil rehabilitation timelines, major categories of soil and water pollutants, and the critical linkages between soil health, food quality, and human nutrition as outlined in Bill Mollison's *Permaculture: A Designers' Manual*.
+The integrity of soils and waters is foundational to human health. In [[permaculture-design]], understanding the legacy of chemical pollution in agricultural landscapes and its direct consequences for nutrition is essential for making responsible land-use decisions. This concept page addresses soil rehabilitation timelines, major categories of soil and water pollutants, and the critical linkages between soil health, food quality, and human nutrition as outlined in [[bill-mollison]]'s *Permaculture: A Designers' Manual*.
 
 ## Soil Rehabilitation Timelines
 
@@ -103,3 +103,8 @@ These principles reflect the permaculture ethic of caring for people through sys
 - **Harvest rainwater** and conserve water to reduce dependence on potentially polluted groundwater.
 - **Design for dietary diversity** in all food systems, ensuring a wide range of nutrients is available locally.
 - **Prioritise trace mineral availability** through mineral-rich compost, rock dust amendments, and diverse cropping.
+
+## See Also
+- [[soil-pollution-and-human-health]]
+- [[solomon-vegetable-nutrition-decline-and-soil-mineral-depletion]]
+- [[soil-food-web-and-building-soil]]

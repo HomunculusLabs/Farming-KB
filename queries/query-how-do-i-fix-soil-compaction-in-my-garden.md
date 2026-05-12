@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, soil, compaction, garden, remediation]
 date: 2026-04-25
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 type: query
 ---
 

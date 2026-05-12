@@ -144,10 +144,6 @@ the need for ongoing applications.
 
 ## See Also
 
-- [[ingham-aact-hydroponic-integration-microbe-restoration]]
-- [[ingham-aact-seed-treatment-bare-root-transplant-inoculation]]
-- [[ingham-alfalfa-pellets-fungal-food-brewing]]
-- [[ingham-brix-and-plant-quality]]
 - [[ingham-charcoal-biochar-compost-tea]]
 - [[ingham-inoculants-vs-food-resources-brewing-distinction]]
 - [[ingham-light-uv-effects-compost-tea]]

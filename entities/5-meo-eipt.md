@@ -66,7 +66,7 @@ Body load is reported as moderate, with some users noting mild gastrointestinal 
 
 5-MeO-EiPT is unscheduled in most jurisdictions, though it may fall under analog acts in countries with blanket tryptamine prohibition. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analog Act potentially classifies it as a Schedule I substance if intended for human consumption.
 
-The compound is controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016, which prohibits all [[star-fire-and-sacred-substances]] not specifically exempted.
+The compound is controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016, which prohibits all [[cultural-evolution-and-psychoactive-substances]] not specifically exempted.
 
 In many European countries, 5-MeO-EiPT exists in a legal grey area due to its absence from specific scheduling lists. It is not listed on the UN Convention on Psychotropic Substances.
 

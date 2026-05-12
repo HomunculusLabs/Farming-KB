@@ -126,5 +126,5 @@ Not economics, not policy, not technology — but the unwillingness of each indi
 
 - [[one-straw-revolution-overview]] — Fukuoka's foundational work on [[cho-loess-powder-in-natural-farming]]
 - [[do-nothing-farming]] — The agricultural practice that embodies this philosophy
-- [[the-ultimate-goal-of-farming]] — Fukuoka's spiritual vision for agriculture
+- — Fukuoka's spiritual vision for agriculture
 - [[natural-farming]] — Overview of Fukuoka's ecological approach

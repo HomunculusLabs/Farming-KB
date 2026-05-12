@@ -138,7 +138,7 @@ agriculture's sustainability:
   fertilizers and pesticides, having lost the natural resilience that wild
   plants possess
 - **Soil degradation**: Decades of intensive tillage and chemical inputs have
-  depleted [[humus-and-soil-organic-matter]] and biological activity worldwide
+  depleted [[humus]] and biological activity worldwide
 - **Energy intensity**: The food system's dependence on fossil fuels makes it
   vulnerable to energy supply disruptions
 - **Economic pressure**: Farmers are caught in a treadmill of rising input

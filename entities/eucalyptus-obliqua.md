@@ -67,7 +67,7 @@ It contributes leaf litter, hollows, nectar, shade, and large woody debris.
 
 Its flowers support pollinators [[holzer-beekeeping-and-honey-production]], which links it to [[faires-beekeeping-and-honey-production]].
 
-As a large biomass tree, it also participates in long-term [[dighton-fungi-elevated-co2-global-carbon-cycling]] and [[humus-and-soil-organic-matter]] formation.
+As a large biomass tree, it also participates in long-term [[dighton-fungi-elevated-co2-global-carbon-cycling]] and [[humus]] formation.
 
 ## Permaculture Assessment
 

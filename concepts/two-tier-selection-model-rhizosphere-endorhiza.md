@@ -5,7 +5,7 @@ tags: [microbiome, rhizosphere, endorhiza, plant-microbe-interactions]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+ - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
 type: concept
 ---
 
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The two-tier selection model describes how [[crimson-clover]] associated
+The two-tier selection model describes how associated
 with plant roots are assembled through two sequential filtering steps. First,
 [[soil-edaphic-factors-microbial-communities]] determine which bacteria colonize the rhizosphere from
 the broader bulk soil community. Second, host plant genotype determines which

@@ -5,12 +5,12 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+ - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+ - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Critique of the Green Revolution
 
-In [[natural-farming-fukuoka]] dedicates significant attention to critiquing the Green Revolution -- the mid-20th century movement to increase agricultural yields through high-yield [[the-ultimate-goal-of-farming]], [[cervantes-chemical-fertilizers-guide]], pesticides, and irrigation. His critique goes beyond the usual environmental objections to challenge the entire epistemological basis of the Green Revolution.
+In [[natural-farming-fukuoka]] dedicates significant attention to critiquing the Green Revolution -- the mid-20th century movement to increase agricultural yields through high-yield , [[cervantes-chemical-fertilizers-guide]], pesticides, and irrigation. His critique goes beyond the usual environmental objections to challenge the entire epistemological basis of the Green Revolution.
 
 ## The False Promise of Feeding the World
 

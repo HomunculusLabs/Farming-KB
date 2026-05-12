@@ -17,7 +17,7 @@ created: 2026-05-10
 
 | Attribute        | Detail                                          |
 |------------------|-------------------------------------------------|
-| **Breeder**      | [[kingdom-organic-seeds]] (The Rev), USA        |
+| **Breeder**      | [[seed-pelleting]] (The Rev), USA        |
 | **Genetics**     | cannabis strain chunky cherry mawi deep chunk hybrid × [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] (three-way F1 hybrid) |
 | **Type**         | Sativa-dominant hybrid                          |
 | **Flowering**    | 50–60 days                                      |
@@ -29,8 +29,8 @@ created: 2026-05-10
 ## Breeder — The Rev & Kingdom Organic Seeds
 
 Chunky Cherry Malawi was created by **The Rev**, cultivation columnist
-for [[skunk-magazine]] and author of *True Living Organics*. His
-breeding philosophy centres on [[true-living-organics-(tlo)]], a
+for [[cannabis-breeding-basics]] and author of *True Living Organics*. His
+breeding philosophy centres on [[cannabinoid-microbiome-interactions]], a
 living-soil methodology that rejects all synthetic bottled nutrients in
 favour of a biologically active soil food web. Kingdom Organic Seeds
 operates out of the United States
@@ -42,7 +42,7 @@ potential without chemical inputs.
 
 ### cannabis strain chunky cherry mawi deep chunk hybrid — The Indica Anchor
 
-Deep Chunk is a pure indica bred from original [[afghani-hashplant]]
+Deep Chunk is a pure indica bred from original [[cannabis-strain-wild-thailand-ko-chang-landrace]]
 genetics, renowned for extreme yields ("like it's a million feet tall")
 despite compact, short stature. It produces dense, resinous buds rich
 in trichomes — a hallmark of its hashplant heritage. As a largely

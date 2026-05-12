@@ -88,3 +88,8 @@ These multipliers assume the gardener is using the standard application rates de
 Solomon recommends that gardeners in [[holzer-fruit-growing-marginal-climates]] monitor soil temperature directly using a soil thermometer inserted 3-4 inches deep. This is more useful than air temperature readings for predicting plant growth rates and amendment effectiveness. Key temperature milestones:
 
 - **10°C:** Beans and corn can be planted; lettuce and peas grow well
+
+## See Also
+
+- [[solomon-complete-organic-fertilizer-soil-science]]
+- [[solomon-soil-temperature-and-nighttime-plant-growth]]

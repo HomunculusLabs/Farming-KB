@@ -106,15 +106,9 @@ Accurate identification requires attention to spore print color, ring characteri
 
 The species has been reported from Japan and temperate East Asia, though some Asian records may represent closely related but distinct taxa. Further molecular work is needed to clarify the global species boundaries within the Stropharia aeruginosa complex.
 
+
 ## See Also
 
-- [[stropharia-rugosoannulata]]
-- [[psilocybe-semilanceata]]
-- [[hypholoma-capnoides]]
-- [[coprinus-atramentaria]]
-- [[mycoremediation]]
-- [[permaculture]]
-- [[staycare-trametes-versicolor-bioremediation-applications]]
-- [[lepista-nuda]]
-- [[armillaria-mellea-entity]]
-- [[pluteus-cervinus]]
+- [[stropharia-hornemannii]]
+- [[stropharia-semiglobata]]
+- [[stropharia-venenata-japanese-bluing-species]]

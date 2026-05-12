@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In permaculture design, the concept of "orders"—borrowed from stream hydrology and fractal geometry—provides a powerful framework for understanding how size, function, and behavior change systematically across scales. Orders of magnitude govern everything from the species found in different stream reaches to the appropriate size of human settlements, from trophic levels in food webs to the stable functioning of social hierarchies. Understanding these orders allows designers to work with natural scaling laws rather than against them.
+In [[permaculture-design]], the concept of "orders"—borrowed from stream hydrology and fractal geometry—provides a powerful framework for understanding how size, function, and behavior change systematically across scales. Orders of magnitude govern everything from the species found in different stream reaches to the appropriate size of human settlements, from trophic levels in food webs to the stable functioning of social hierarchies. Understanding these orders allows designers to work with natural scaling laws rather than against them.
 
 ## The Order Principle
 
@@ -98,7 +98,7 @@ The correct understanding is that **each part needs the other, and none function
 - When subordinates are removed, others are created from within the dominants
 - The same principle applies to streams: altering one aspect changes the whole regime
 
-The permaculture position is to **refute the concept of status and assert that of function**: "It is not what you are; it is what you do in relation to the society you choose to live in. We need each other, and it is a reciprocal need wherever we have a function in relation to each other."
+The [[permaculture]] position is to **refute the concept of status and assert that of function**: "It is not what you are; it is what you do in relation to the society you choose to live in. We need each other, and it is a reciprocal need wherever we have a function in relation to each other."
 
 This reframing has profound implications for how we design human systems. Rather than creating hierarchies of status, permaculture seeks to create networks of function where every element serves and is served by the whole—exactly as a tree's roots, trunk, branches, and leaves each serve essential functions without any one being "higher" or "more important" than the others.
 
@@ -111,3 +111,8 @@ Designers can build either appropriate or inappropriate systems by choosing part
 3. **Respect behavioral thresholds** that define stable vs. unstable configurations
 4. **Design for functional reciprocity** rather than status hierarchy
 5. **Recognize that water, nutrients, information, and energy are of the whole**—not to be thought of in terms of their parts alone
+
+## See Also
+- [[mollison-classification-of-events-and-orders-in-design]]
+- [[event-classification-and-orders-of-magnitude]]
+- [[stream-orders-and-settlement-design]]

@@ -2,22 +2,22 @@
 title: "bahay-kubo-imo-collection-and-preparation from Bamboo Stump and Paddy Field"
 created: 2026-04-28
 tags:
-  - natural-farming
-  - indigenous-microorganisms
-  - knf
-  - soil-biology
-  - fermentation
+ - natural-farming
+ - indigenous-microorganisms
+ - knf
+ - soil-biology
+ - fermentation
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - papers/chos-global-natural-farming.md
+ - papers/chos-global-natural-farming.md
 type: concept
 ---
 
 # IMO Collection from Bamboo Stump and Paddy Field
 
 Dr. Cho's Korean [[comparison-natural-farming-vs-permaculture]] system describes multiple methods for
-collecting [[indigenous-spirituality-and-freedom]] for the standard forest method.
+collecting for the standard forest method.
 
 ## Method 1: Bamboo Stump Collection
 
@@ -44,13 +44,13 @@ juice containing growth-promoting compounds.
 1. Select a bamboo bush in the centre of a bamboo grove
 2. Cut a healthy bamboo shoot approximately 10 cm from ground level
 3. Trim the cut stump edges so the inner edge slants toward the hollow
-   end, preventing bamboo juice leakage
+ end, preventing bamboo juice leakage
 4. Fill the bamboo cavity with boiled rice (low moisture), rice level
-   above the stump edge
+ above the stump edge
 5. Cover with the wooden box, then dry leaves for insulation
 6. Cover with plastic sheet, weighted to secure position
 7. After 3-5 days, diverse microorganisms colonise the rice along with
-   bamboo juice
+ bamboo juice
 8. Cut the stump and transfer colonised rice to a jar. This is IMO-1
 9. Mix jaggery with IMO-1 in 1:1 ratio to create IMO-2
 10. Cover container with porous paper secured by rubber band
@@ -74,7 +74,7 @@ decomposition and [[aact-disease-suppression-mechanisms-ingham]].
 ### Key Microbes Collected
 
 - **Bacillus licheniformis**: Breaks down protein, fat, and
-  carbohydrates
+ carbohydrates
 - **Bacillus subtilis**: Degrades strong fibres such as straw and reeds
 
 ### Materials Required

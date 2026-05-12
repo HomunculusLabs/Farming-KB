@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, irrigation, water-management, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 type: comparison
 ---
 

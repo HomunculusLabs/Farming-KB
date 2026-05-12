@@ -142,13 +142,6 @@ Mycelium-colonized substrate placed as permeable barriers in drainage pathways. 
 
 ## Limitations and Challenges
 
-- **Speed**: Fungal remediation is slower than chemical methods; typically requires weeks to months
-- **Environmental conditions**: Fungi require appropriate moisture (50–70%), temperature (15–30°C), pH, and oxygen
-- **Competing organisms**: Bacteria and other fungi may outcompete introduced species
-- **Toxicity thresholds**: Very high pollutant concentrations can inhibit fungal growth
-- **Scale-up**: Transitioning from laboratory to field-scale results has proven challenging
-- **Monitoring**: Difficulty tracking fungal activity [[staycare-lignin-peroxidase-and-pollutant-degradation]] in complex field environments
-
 ## See Also
 
 - [[mycoremediation-field-applications]]

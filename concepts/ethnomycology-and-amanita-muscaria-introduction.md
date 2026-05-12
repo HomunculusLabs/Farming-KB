@@ -31,7 +31,7 @@ The social power, respect, reverence, and authority held by these pharmacopoeia-
 
 The word **entheogen** is derived from Greek: *en* (in) + *theo* (God) + *gen* (generation) — meaning "the generation of God within." For the experiencer, it signifies "the realization of God within one's own consciousness." This term has largely replaced older, more loaded words like "psychedelic" or "hallucinogen" among serious researchers, as it better captures the spiritual context in which these substances have traditionally been used.
 
-Entheogens are fundamentally spiritual in nature. Their sacramental use has only recently been stigmatized, largely due to the conflation of all [[star-fire-and-sacred-substances]] — from heroin to [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] — under blanket prohibition policies.
+Entheogens are fundamentally spiritual in nature. Their sacramental use has only recently been stigmatized, largely due to the conflation of all [[cultural-evolution-and-psychoactive-substances]] — from heroin to [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] — under blanket prohibition policies.
 
 ## The Political Suppression of Shamanic Knowledge
 

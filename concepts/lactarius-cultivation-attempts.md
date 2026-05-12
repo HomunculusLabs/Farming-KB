@@ -17,17 +17,14 @@ The genus Lactarius contains approximately 400 described species of ectomycorrhi
 
 All Lactarius species are obligate [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] that require living host trees to complete their [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. This fundamental biological constraint means that cultivation necessarily involves growing host trees with the fungal symbiont, a process measured in years rather than the weeks or months typical of saprotrophic [[accessible-mushroom-cultivation-for-disabilities]]. See [[truffle-cultivation-basics]] and mycoforestry-forest-management-with-fungi and agroforestry.
 
+
 ## See Also
 
-- [[lactarius-rufus]]
+- [[lactarius-camphoratus]]
+- [[lactarius-chrysorrheus]]
+- [[lactarius-torminosus]]
+- [[lactarius-volemus]]
 
-- [[truffle-cultivation-basics]]
-
-- [[ectomycorrhizal-ecology]]
-
-- [[ectomycorrhizal-morphological-structures]]
-
-- mycoforestry-forest-management-with-fungi
 ## Practical Applications
 
 Lactarius Cultivation Attempts has a range of practical applications that make it relevant to

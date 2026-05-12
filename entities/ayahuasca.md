@@ -62,7 +62,6 @@ The essential pharmacological innovation of ayahuasca is the MAO-A inhibition th
 
 ## Traditional and Cultural Use
 
-
 ## See Also
 
 - [[ayahuasca-chemistry-mao-inhibition-synergy]]

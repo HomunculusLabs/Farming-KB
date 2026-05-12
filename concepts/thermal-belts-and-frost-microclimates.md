@@ -6,7 +6,7 @@ type: concept
 
 # Thermal Belts and Frost Microclimates
 
-Understanding thermal belts and frost microclimates is essential in permaculture design. The interplay of altitude, slope, wind, and vegetation creates dramatically different growing conditions over very short distances. By learning to read and work with these patterns, designers can site structures and gardens for maximum productivity and minimal frost damage.
+Understanding thermal belts and frost microclimates is essential in [[permaculture-design]]. The interplay of altitude, slope, wind, and vegetation creates dramatically different growing conditions over very short distances. By learning to read and work with these patterns, designers can site structures and gardens for maximum productivity and minimal frost damage.
 
 ## Altitude and Its Climatic Effects
 
@@ -105,3 +105,8 @@ Tropical and subtropical regions require specific consideration in windbreak des
 9. Design multi-functional windbreaks with species serving food, fodder, mulch, and bee forage roles
 10. In severe wind zones, establish pioneer shelter first, then introduce productive species in the lee
 11. Adapt windbreak configuration to tropical and subtropical conditions, considering multi-directional storm exposure
+
+## See Also
+- [[frost-protection-and-thermal-belts]]
+- [[mollison-frost-protection-and-thermal-belt-design]]
+- [[albedo-heat-transfer-and-thermal-belts]]

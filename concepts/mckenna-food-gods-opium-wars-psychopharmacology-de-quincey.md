@@ -12,7 +12,7 @@ tags: [psychedelics, ethnobotany, mckenna, opium, colonialism, psychopharmacolog
 
 Terence McKenna traces how opium shaped the colonial era through the Opium Wars
 while catalyzing the birth of modern psychopharmacology. The transition from
-alchemical to scientific understandings of [[star-fire-and-sacred-substances]]—Paracelsus's
+alchemical to scientific understandings of [[cultural-evolution-and-psychoactive-substances]]—Paracelsus's
 laudanum, De Quincey's literary explorations, the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], and the
 isolation of morphine—marks a critical turning point in humanity's relationship
 with plant medicines. McKenna frames the British opium trade as a pattern of

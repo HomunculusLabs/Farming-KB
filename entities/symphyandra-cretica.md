@@ -85,7 +85,7 @@ A planting medium of equal parts loam, grit, and limestone chippings provides id
 
 Watering should be regular during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] but reduced substantially during summer dormancy. Overwatering during dormancy is the most common cause of losses in cultivation.
 
-Propagation is primarily by seed, sown in autumn on the surface of a gritty compost. Germination occurs in spring without cold stratification, though a brief cold period may improve uniformity.
+Propagation is primarily by seed, sown in autumn on the surface of a gritty [[compost]]. Germination occurs in spring without cold stratification, though a brief cold period may improve uniformity.
 
 Basal cuttings are not a viable propagation method due to the plant's monocarpic tendency. However, non-flowering side rosettes can be carefully removed and rooted in damp grit.
 

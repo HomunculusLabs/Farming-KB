@@ -88,3 +88,9 @@ The NASA report presented kill curves for the mixed surface population at an exp
 3. **Final decline**: At higher exposure levels, even the spores are destroyed. The addition of trace water (9 µL/cm²) is critical in this phase, as the flash steam generated penetrates the spore structures and achieves thermal kill.
 
 4. **Complete sterilization**: At 13.1 W-hr total exposure, the population drops to zero CFU — complete surface sterilization.
+
+## See Also
+
+- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
+- [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]
+- [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]]

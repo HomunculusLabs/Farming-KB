@@ -116,7 +116,7 @@ The world of *somethingness* — of isolated variables, controlled experiments, 
 
 ## See Also
 
-- [[mu-(nothingness)]]
+- [[natural-farming-philosophy-of-mu]]
 - [[natural-farming]]
 - [[natural-farming-vs-scientific-agriculture]]
 - [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]

@@ -5,7 +5,7 @@ tags: [bioremediation, bioaugmentation, formulation, encapsulation, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
+ - ~/wiki/raw/papers/staycare-mngmt-fungi-in-bioremediation.md
 type: concept
 ---
 
@@ -38,7 +38,7 @@ the most commonly added nutrients. Composting represents a form of
 biostimulation where mixtures of straw, manure, and agricultural wastes
 are combined with contaminated soils to stimulate consortia of bacteria
 and fungi. The addition of suitable [[cervantes-organic-amendments-chart]] alone can
-sometimes improve [[soil-health-and-microbial-life]] more than inoculation with specific
+sometimes improve more than inoculation with specific
 fungal species.
 
 ## Alginate Encapsulation
@@ -62,7 +62,7 @@ encourage rapid proliferation upon rehydration.
 - Cost of alginate makes large-scale deployment expensive
 - Mechanical strength of pellets can be compromised during handling
 - Nutrient fillers may inadvertently favor indigenous species over
-  the introduced fungus
+ the introduced fungus
 
 ## Solid-State Fermentation Formulations
 
@@ -87,4 +87,4 @@ form thin sheets, air-dried, and crushed into granules. This produces a
 homogenous mixture of fungi, nutrients, and filler. However, wheat
 gluten inhibits the growth of some white rot fungi including
 [[staycare-fungal-formulation-in-situ-bioremediation]] for
-  additional formulation details
+ additional formulation details

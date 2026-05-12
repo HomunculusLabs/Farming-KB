@@ -6,7 +6,7 @@ type: concept
 
 # Soil Structure and Classification
 
-Understanding soil structure and classification is fundamental to permaculture design. Soils are complex, living systems whose physical properties determine their suitability for agriculture, building, water storage, and ecological function.
+Understanding soil structure and classification is fundamental to [[permaculture-design]]. Soils are complex, living systems whose physical properties determine their suitability for agriculture, building, water storage, and ecological function.
 
 ## Tribal and Traditional Soil Classifications
 
@@ -58,7 +58,7 @@ Uncompacted soils are open, crumbly, or soft — unless concreted by chemical so
 - Roots (living and decaying)
 - Clay minerals
 - Chemical bonds
-- Organic glues and fungal hyphae
+- Organic glues and [[fungal-hyphae]]
 
 When a plough or drag harrow passes through these fragile assemblies, they may powder up — as in a potter's ballmill or on outback roads ("bulldust" in Australian terms, or "snuff" to a soil scientist). Dryland soils with high salt content are particularly susceptible to loss of crumb structure, only partly relieved by gypsum application.
 
@@ -114,3 +114,8 @@ Soil crumb structure, aided by lime (calcium), bonds the different fractions tog
 ### USDA Classification
 
 The USDA classifies soil types by particle size ratios (the soil texture triangle), plotting the percentages of sand, silt, and clay to determine textural classes such as sandy loam, clay loam, silty clay, and so on. This standardised system allows consistent communication about soil properties across regions and disciplines.
+
+## See Also
+- [[soil-classification-and-structure]]
+- [[tribal-soil-classification-and-structure]]
+- [[mollison-tribal-soil-classifications-and-soil-structure]]

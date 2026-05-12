@@ -6,7 +6,7 @@ type: concept
 
 # Septic Effluent Disposal Designs
 
-Permaculture design offers two basic productive disposal systems for septic tank effluent, transforming what is conventionally treated as waste into a resource for irrigation, tree growth, and energy production.
+[[permaculture-design]] offers two basic productive disposal systems for septic tank effluent, transforming what is conventionally treated as waste into a resource for irrigation, tree growth, and energy production.
 
 ## System Types
 
@@ -77,8 +77,13 @@ This cascading approach extracts maximum energy value from the waste stream befo
 
 These disposal systems integrate with:
 
-- **Natural swimming pools** as a final polishing stage
+- **[[natural-swimming-pools]]** as a final polishing stage
 - **Greywater systems** for combined household water management
 - **Orchard and food forest plantings** for nutrient cycling
 - **Methane production** for household energy independence
 - **Comfrey beds** for additional nutrient uptake and fodder production
+
+## See Also
+- [[wood-rotting-fungi-for-effluent-decolorization]]
+- [[pulp-paper-effluent-treatment]]
+- [[kraft-pulp-bleach-effluent-fungal-treatment]]

@@ -43,7 +43,7 @@ commercial markets. Vast genetic diversity resides in the Andean
 highlands, maintained by indigenous communities for millennia.
 
 Global production exceeds 370 million tonnes annually. China leads,
-followed by India and Russia. Most potatoes are consumed [[dom|dom]]estically
+followed by India and Russia. Most potatoes are consumed [[dom|dom]] estically
 rather than traded internationally, underscoring food sovereignty.
 
 ## Botany and Origin
@@ -107,7 +107,7 @@ Potatoes tolerate a wide range of soil types but prefer loose,
 well-drained loam. Heavy clay restricts tuber expansion and
 promotes disease. Sandy soils drain well but need more irrigation.
 
-Soil pH between 5.0 and 6.0 is optimal, slightly acidic. This
+[[soil-ph]] between 5.0 and 6.0 is optimal, slightly acidic. This
 range suppresses common scab while allowing full nutrient uptake.
 Avoid liming potato beds.
 

@@ -115,6 +115,6 @@ The Biblical serpent, far from being a symbol of evil, is reinterpreted in this 
 - [[soma]]
 - [[egyptian-mystery-schools-and-pyramid-initiation]]
 - [[pineal-gland]]
-- [[alchemical-traditions]]
+- secret societies and entheogen suppression
 - [[shamanism-death-and-rebirth]]
 - [[patriarchal-religion-and-control-systems]]

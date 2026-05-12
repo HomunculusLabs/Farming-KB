@@ -124,7 +124,7 @@ material in forensic laboratories represents a scenario very similar to
 Guzmán's experience, though it is rarely discussed in published reports.
 
 Temple workers in traditional contexts have sometimes reported effects from
-proximity to burning [[star-fire-and-sacred-substances]]. While this is a different
+proximity to burning [[cultural-evolution-and-psychoactive-substances]]. While this is a different
 mechanism (inhalation of combustion products rather than dust), the principle
 of involuntary exposure through airborne routes is the same.
 

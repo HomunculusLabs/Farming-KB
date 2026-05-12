@@ -16,7 +16,7 @@ The EMCDDA 2006 report documented a sophisticated and rapidly evolving commercia
 
 ### Origins and Expansion
 
-The Netherlands pioneered the legal retail model for [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] through "smartshops" — specialized retail outlets that sold [[star-fire-and-sacred-substances]] alongside herbal remedies, supplements, and drug paraphernalia:
+The Netherlands pioneered the legal retail model for [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] through "smartshops" — specialized retail outlets that sold [[cultural-evolution-and-psychoactive-substances]] alongside herbal remedies, supplements, and drug paraphernalia:
 
 - Smartshops emerged in the Netherlands during the early 1990s as part of the country's pragmatic drug policy
 - Fresh psilocybin mushrooms were sold openly under the argument that fresh mushrooms were not explicitly covered by the opium law's scheduling of psilocybin as a chemical substance

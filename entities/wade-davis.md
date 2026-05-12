@@ -18,7 +18,7 @@ His work emphasized that psychoactive plant use was not merely about pharmacolog
 
 ## One River: A Legacy of Ethnobotanical Exploration
 
-In *One River: Explorations and Discoveries in the Amazon Rain Forest* (1996), Davis wove together three narratives: the story of Richard [[richard-evans-schultes-updated]]'s pioneering Amazonian expeditions beginning in the 1940s; the story of his own fieldwork in the same region decades later; and the story of Tim Plowman, a Harvard colleague who studied coca (*[[star-fire-and-sacred-substances]], [[wasson-hofmann-schultes-research-network]]
+In *One River: Explorations and Discoveries in the Amazon Rain Forest* (1996), Davis wove together three narratives: the story of Richard [[richard-evans-schultes-updated]]'s pioneering Amazonian expeditions beginning in the 1940s; the story of his own fieldwork in the same region decades later; and the story of Tim Plowman, a Harvard colleague who studied coca (*[[cultural-evolution-and-psychoactive-substances]], [[wasson-hofmann-schultes-research-network]]
 ## Practical Applications
 
 Wade Davis has a range of practical applications that make it relevant to

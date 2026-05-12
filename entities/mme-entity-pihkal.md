@@ -88,3 +88,8 @@ A solution of 14 g of the distilled, solid 4-ethoxy-3-methoxyphenol in
 MeOH. There was then added 11.9 g methyl iodide, and the mixture was
 held at reflux temperature for 2 h. The reaction was quenched with 3
 volumes H2O, made strongly basic by the addition of 1 volume of 5%
+
+## See Also
+
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+- [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use]]

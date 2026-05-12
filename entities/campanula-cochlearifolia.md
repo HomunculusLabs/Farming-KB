@@ -60,7 +60,7 @@ Campanula cochlearifolia is endemic to the mountains of central and southern Eur
 
 It grows at elevations between 1,500 and 3,200 meters, primarily on calcareous substrates. Typical habitats include limestone crevices, moraines, scree slopes, and alpine turf.
 
-The species is a calcicole, strongly associated with limestone and dolomite bedrock. It occasionally occurs on base-rich schists but is absent from acidic granite areas.
+The species is a calcicole, strongly associated with limestone and [[dolomite]] bedrock. It occasionally occurs on base-rich schists but is absent from acidic granite areas.
 
 In the high Alps, it is one of the most common and conspicuous alpine bellflowers. It forms extensive mats on limestone pavements, cliff faces, and stable scree at and above the treeline.
 

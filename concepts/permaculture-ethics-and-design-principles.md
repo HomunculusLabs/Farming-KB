@@ -148,7 +148,3 @@ Neatness, tidiness, uniformity, and straightness signify an energy-maintained di
 - A policy of responsible authority: the role of beneficial authority is to return function and responsibility to life and to people. If successful, no further authority is needed.
 
 ## The Basic Law of Thermodynamics (Restated)
-
-> All energy entering an organism, population, or ecosystem can be accounted for as energy which is stored or leaves. Energy can be transferred from one form to another, but it cannot disappear, or be destroyed, or created. No energy conversion system is ever completely efficient.
-
-As Asimov stated (1970): "The total energy of the universe is constant and the total entropy is increasing."

@@ -88,3 +88,9 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 ### Advantages over *T. melanosporum*
 
 - Greater frost tolerance (survives below −20°C)
+
+## See Also
+
+- [[tuber-borchii]]
+- [[tuber-brumale]]
+- [[tuber-macrosporum]]

@@ -47,7 +47,7 @@ Introduce a whole range of plants to extend the flowering season:
 
 | Plant | Nectar | Pollen | Season/Notes |
 |-------|--------|--------|-------------|
-| [[forage-turnip]]
+| [[cover-crops]]
 
 - **Blueberries**: Nectar
 - **Buddleia spp**: Butterfly bush, masses of flowers

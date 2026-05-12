@@ -10,7 +10,7 @@ tags: [shamanism]
 
 # The Shamanic Journey and Altered States of Consciousness
 
-A central thesis running through Harner's "[[hallucinogens-and-shamanism-harner-anthology]]" is that the shamanic journey--the experience of the soul leaving the body to travel through supernatural realms--is one of the most typical and widespread aspects of [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of [[star-fire-and-sacred-substances]]. The concept of the "trip" in modern Western culture is presented as an independent rediscovery of this ancient pattern.
+A central thesis running through Harner's "[[hallucinogens-and-shamanism-harner-anthology]]" is that the shamanic journey--the experience of the soul leaving the body to travel through supernatural realms--is one of the most typical and widespread aspects of [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] worldwide. The volume argues that this experience is not merely a cultural construct but may have a biochemical basis reinforced across millennia of human use of [[cultural-evolution-and-psychoactive-substances]]. The concept of the "trip" in modern Western culture is presented as an independent rediscovery of this ancient pattern.
 
 ## Defining the Shamanic Journey
 

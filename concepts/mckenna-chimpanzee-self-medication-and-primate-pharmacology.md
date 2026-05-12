@@ -15,7 +15,7 @@ The discovery that chimpanzees deliberately seek out and consume specific
 plants for their [[panax-ginseng]] represents one of the most significant 
 findings at the intersection of primatology, pharmacology, and evolutionary 
 biology. [[terence-mckenna]], in Food of the Gods, used this evidence to support 
-his broader argument that [[star-fire-and-sacred-substances]] played a central role in 
+his broader argument that [[cultural-evolution-and-psychoactive-substances]] played a central role in 
 human evolution, a factor systematically neglected by mainstream evolutionary 
 theory. The implications extend beyond chimpanzee behavior to questions about 
 the origins of human medicine, the evolution of consciousness, and the deep 

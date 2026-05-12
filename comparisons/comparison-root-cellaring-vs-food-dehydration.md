@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [food-preservation, storage, comparison, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 type: comparison
 ---
 # Root Cellaring vs Food Dehydration

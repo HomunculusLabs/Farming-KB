@@ -8,169 +8,120 @@ type: concept
 
 ## Overview
 
-Applied pattern design takes abstract principles of natural patterning and translates them into practical, functional landscape elements. These designs achieve multiple benefits simultaneously — space efficiency, [[water-conservation]], microclimate creation, and aesthetic integration — by working with natural forms rather than against them. The [[herb-spiral]], circle-mulch gardens, flood-plain embankments, and Flowform water oxygenation systems all exemplify this approach.
+Applied pattern design takes the abstract principles of pattern understanding and translates them into practical landscape and garden features. The [[herb-spiral]], circle-mulch grow pits, flood-plain embankments, and Flowform water systems demonstrate how natural patterns can be adapted to create efficient, productive, and beautiful designs that reduce resource use, increase yield, and improve system resilience.
 
 ## The Herb Spiral
 
-### Design Specifications
+### Concept and Origin
 
-The herb spiral was evolved in 1978 as a kitchen-door design. It is a three-dimensional earth construct on a small scale that compactly coils a linear path or bed of herbs into one mound:
+The herb spiral was evolved by [[bill-mollison]] in 1978 as a kitchen-door garden design. It represents a rare three-dimensional earth construct on a small domestic scale, compactly coiling a linear path of herbs into a single mound placed conveniently near the kitchen.
 
-- **Base diameter**: 2 metres
-- **Height**: 1 to 1.3 metres
-- **Total plantable edge**: exceeds 9 metres of plant space
-- **Watering**: one 2-metre sprinkler covers the entire spiral
-- **Accessibility**: all herbs planted on the spiral ramp are reachable
+### Physical Specifications
 
-### Microclimate Zonation
+- **Base diameter**: 2 meters wide
+- **Height**: 1 to 1.3 meters high
+- **Ramp and walls**: Exceed 9 meters of planting space from just a 2-meter diameter footprint
+- **Watering**: Can be efficiently watered with one 2-meter sprinkler
 
-The spiral creates a gradient of conditions across its surface:
+### Microclimate Zones
 
-**Sunny, dry sites** (upper, outer areas):
-- Thyme (*Thymus* spp.)
-- Sage (*Salvia* spp.)
-- Rosemary (*Salvia rosmarinus*)
-- Other oil-rich Mediterranean herbs
+The spiral construct creates a gradient of microclimates:
 
-**Moist or shaded sites** (lower, inner areas):
-- Mint (*Mentha* spp.)
-- Parsley (*[[petroselinum-crispum]]*)
-- Chives (*[[allium-schoenoprasum]]*)
-- Coriander (*Coriandrum sativum*)
+**Sunny, dry sites (upper spiral and south-facing aspects)**: Thyme, sage, rosemary, and other oil-rich Mediterranean herbs
 
-This zonation arises naturally from the spiral geometry: the top is more exposed to sun and wind (drying faster), while the base retains moisture and receives runoff from above. The variable aspect means different sides of the spiral receive different sun exposures throughout the day.
+**Moist or shaded sites (lower spiral and north-facing aspects)**: Mint, parsley, chives, coriander, and other green foliage herbs
 
-### Variations and Adaptations
+### Design Principles Demonstrated
 
-If kitchens are not at ground level, several alternatives carry pot-herbs:
-- Roof or balcony gardens with **stepped walls**
-- **Wall shelves**
-- **Window boxes**
-- **Stacks of pots in earth mounds**
+1. **Three-dimensional stacking**: Vertical space multiplies effective growing area beyond the footprint
+2. **Edge effect**: The spiral shape maximizes edge between different microclimates, creating more niches
+3. **Least-path design**: All herbs are accessible from a single standing position
+4. **Resource efficiency**: One sprinkler waters the entire system versus multiple for row crops
+5. **Microclimate creation**: The mound shape naturally creates sun/shade and wet/dry gradients
 
-The spiral principle applies at any scale — the key insight is that coiling linear space into a three-dimensional form creates multiple microclimates while minimising footprint and edge-to-area ratio.
+### Adaptations for Non-Ground-Level Kitchens
 
-## Circle-Mulch Gardens
+Where kitchens are not at ground level, similar principles apply through roof or balcony gardens with pot-herbs in stepped walls, wall shelves, window boxes, or stacks of pots in earth mounds.
+
+## Circle-Mulch Grow Pits
 
 ### Design Specifications
 
-A **mulch-pit** garden provides highly efficient water use through circular geometry:
+- **Mulch pit**: 60 cm wide and 60 cm deep
+- **Planting shelf**: Surrounded by a spill bank
+- **Total diameter**: 1.2 meters (4 feet) across
+- **Perimeter**: 3.8 meters (12 feet)
+- **Watering**: One low-pressure sprinkler
 
-- **Central pit**: 60 cm wide and deep
-- **Surrounding planting shelf and spill bank**: totalling 1.2 m (4 feet) across
-- **Perimeter**: 3.8 m (12 feet) — requiring only **one** low-pressure sprinkler
-- **Comparison**: a 3.8 m straight row requires **three** sprinklers
+### Comparison with Row Cropping
 
-### Water Conservation Mechanism
+A 3.8-meter straight row of crops requires three 1.2-meter sprinklers, while a circle of the same circumference needs only one — a saving of approximately 60% in water use.
 
-The central mulch pit receives all water and organic material. Plants on the surrounding shelf eventually over-shade the centre to prevent evaporation, creating a self-mulching, self-shading system. The result is approximately **one-third the water use** of equivalent row-crop plantings.
+### Advantages
 
-### Scale Variants
+1. **Water conservation**: Central mulch pit with plants eventually overshading to prevent evaporation
+2. **Mulch concentration**: Organic matter concentrated in the center pit feeds surrounding plants
+3. **Reduced path space**: Circle gardens greatly reduce path space and land area needed
+4. **Self-shading**: Plants naturally shade the central mulch pit as they grow
 
-- **Standard vegetable gardens**: 1.2 m across (60 cm pit + 60 cm shelf)
-- **Banana circles**: 1.8 m (6 feet) across
-- **Coconut circles**: 1.8–3 m (6–10 feet) across
+### Scaling for Larger Plants
 
-A series or set of such gardens greatly reduces:
-- Path space between plantings
-- Total land area needed for home gardens or orchards
-- Water consumption
-- Mulch requirements (material concentrates in the central pit)
+- **Bananas**: 1.8 meters (6 feet) across
+- **Coconuts**: 1.8 to 3 meters (6-10 feet) across
+
+Both out-produce row crop systems for approximately one-third of the water use.
 
 ## Flood-Plain Embankments and Flow Interceptors
 
-### Design Principles
+### Design Concept
 
-A field application of patterned ground designed to direct flow and capture materials in flow uses **flood-plain embankments** or **tree lines** (poplar, willow, tamarack), or both combined. These are very effective pattern impositions on the landscape — although all occur naturally as rock dykes or resistant rock strata in the field.
+Field-scale patterned ground designed to direct flow and capture materials in flow, using tree lines (poplar, willow, tamarack), embankments, or both combined.
 
 ### Beneficial Effects
 
-For a household or settlement nearby, flow interceptors on flood plains can:
+1. **Material capture**: Floodwaters carry silt, mulch, and firewood that can be intercepted
+2. **Water scouring**: Directing water energy to scour and clean river sand
+3. **Flow direction**: Deflectors and tree rows bring mulch, water, and silt to plain edges
+4. **Aeration**: Over-shallow structures allow water to aerate
+5. **Channel maintenance**: Structures keep water channels open
 
-1. **Scour out river sand** — tree rows create turbulence patterns that prevent sand deposition in unwanted areas
-2. **Gather mulch and silt** — deflector trees bring organic material and fertile sediment to the plain edge
-3. **Capture firewood** — floodwaters carry woody debris that is deposited by the embankments
-4. **Create scour holes** — sub-surface scour patterns aerate and deepen water channels
-5. **Direct water energy** — structures can concentrate or disperse flow for part-flood cropping
+## Flowform Water Treatment Systems
 
-### Natural Precedents
+### Origin
 
-These patterns all occur naturally as:
-- Rock dykes in stream beds
-- Resistant rock strata across alluvial plains
-- Natural tree fall patterns across watercourses
-- Beaver dam complexes
+Developed at the Virbella Institute by artist-technicians. These turbulence basins are found in nature as shaped basins in streams, were modeled by Roman hydrologists, and are now cast in concrete or fibreglass.
 
-The applied design simply accelerates and directs processes that nature already performs.
+### Operating Principles
 
-## Flowform Water Oxygenation Systems
+1. **Vertical turbulence**: Fluid drops from one basin to another, creating vertical overturn entraining air
+2. **Lateral flow**: Water flows in a figure-8 pattern around the basins
+3. **Interactive rhythm**: Water deflects the vertical drop, switching side to side in regular pulsing
 
-### Design Origins
+### Practical Applications
 
-The **Flowform** models developed at the Virbella Institute by artist-technicians are artificial replicates of rock forms carved by turbulent streams, cast in concrete or fibreglass. Such turbulence basins appear in nature as shaped basins in streams flowing over massive sandstones or mudstones, and were modelled in pozzolanic cement by Roman hydrologists in antiquity.
+- Primary treatment of sewage and organically polluted waters
+- Oxygenation of ponds for aquatic species production
+- Aesthetic and instructive hydrological pattern models
 
-### Application
+### Configurations
 
-Flowforms are **stacked in series**:
-- Below sewage pipe outfalls for primary treatment
-- Above fish ponds at pipe inlets for oxygenation
+Basins can be elongate, truncate, symmetrical, asymmetrical, stepped in line, stacked like ladders, or spiralled to conserve space.
 
-### Three Mixing Effects
+## Designer's Checklist
 
-Flowforms create three distinct mixing processes:
-
-1. **Plunge or vertical overturn** — fluid drops from one basin to another, entraining air
-2. **Figure-8 or lateral flow** — water courses around the basins in a figure-8 pattern
-3. **Interaction effect** — water coursing around the basins deflects the vertical drop flow, switching it from side to side in a regular rhythm
-
-### Detailed Turbulence Patterns
-
-Within these major turbulence patterns — clearly portrayed by Leonardo da Vinci and further analysed in terms of computer models and catastrophic theory by Chappell (1978) for coastal uprush and backwash turbulence — are distinct:
-
-- **Vortices and counterflow** — rotational water movement
-- **Overfolds and cusps** — secondary turbulence at basin edges
-- Further mixing of air and water at the edges and in the main flow stream
-
-### Functional Benefits
-
-- **Aeration** of water through turbulence
-- **Oxidation of pollutants** in sewage and organically polluted water
-- **Aesthetic value** — the basins are visually pleasing sculptural forms
-- **Instructive hydrological models** — they demonstrate natural flow patterns
-
-### Configuration Variants
-
-Flowform basins can be:
-- Elongate or truncate
-- Symmetrical or asymmetrical
-- Stepped in line
-- Stacked like ladders
-- **Spiralled to conserve space**
-
-## Pattern Application: The Designer's Approach
-
-### Key Principles
-
-1. **Appropriate size** — patterned systems must be of appropriate size or of the right order for their context
-2. **Natural precedent** — the best applied patterns mirror forms that already occur in nature
-3. **Multiple functions** — every pattern element should serve at least three functions
-4. **Minimum energy** — patterns should reduce the energy inputs needed for a given output
-5. **Compact coiling** — linear systems coiled into three dimensions create efficiency gains
-
-### The Efficiency of Curves Over Lines
-
-The fundamental insight underlying all these designs is that **curved and circular patterns are inherently more efficient than rectilinear ones**:
-
-- A circle encloses maximum area for minimum perimeter
-- Spiral ramps create multiple microclimates in a compact footprint
-- Turbulent flow in curved basins mixes far more efficiently than in straight channels
-- Radial land division follows natural water flow lines rather than cutting across them
+1. **Study orders and forms in nature**: Patterned systems must be of appropriate size and right order
+2. **Minimize waste space**: Use spiral, keyhole, and least-path systems, clumped plantings
+3. **Use edge effects**: Especially for intercropping, plant guilds, pond production
+4. **Direct energies on site**: Use patterns for zone, sector, slope, and orientation benefits
 
 ## Key References
 
-- Chappell, J. (1978). "Landform Evolution in Australia." ANU Press, Canberra.
-- Popham, A.E. (1946). *The Drawings of Leonardo da Vinci*. Jonathan Cape, London.
-- Schwenke, T. (1976). *Sensitive Chaos: The Creation of Flowing Forms in Air or Water*. Schocken Books.
-- Tweedie, A.D. (1975). *Water and the World*. Thos. Nelson (Aust) Ltd.
-- Vogel, S. (1981). *Life in Moving Fluids: The Physical Biology of Flow*. Willard Grant Press.
-- Virbela Institute, Emerson College, Forest Row, East Sussex, UK (Flowform designs and research).
+- Alexander, Christopher et al., *A Pattern Language*, Oxford University Press, 1977
+- Schwenke, Theodore, *Sensitive Chaos*, Schocken Books, 1976
+- Virbella Institute, Emerson College, Forest Row, East Sussex — Flowform designs and research
+- Vogel, Steven, *Life in Moving Fluids*, Willard Grant Press, 1981
+
+## See Also
+- [[herb-spiral-and-applied-pattern-design]]
+- [[herb-spirals-and-compact-garden-design]]
+- [[applied-pattern-design-in-permaculture]]

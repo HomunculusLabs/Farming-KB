@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, season-extension, vegetables, agriculture, climate, cultivation, plant-growth]
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 ---
 
 # Winter Gardening Techniques

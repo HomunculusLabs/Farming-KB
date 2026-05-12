@@ -11,7 +11,6 @@ tags: [bacteria, sewage-treatment, sulphur, anaerobic, bioremediation]
 
 Chromatium is a genus of purple sulphur bacteria found in the anaerobic zones of sewage treatment ponds. Mollison identifies it alongside Thiospirillum and Rhodopseudomonas as one of the specialised bacteria that give anaerobic ponds their characteristic pink colouration. These bacteria use hydrogen sulphide as a hydrogen source for carbon assimilation, producing elemental sulphur that precipitates heavy metals.
 
-
 ## Classification
 
 - **Domain**: Bacteria
@@ -21,10 +20,6 @@ Chromatium is a genus of purple sulphur bacteria found in the anaerobic zones of
 - **Family**: Chromatiaceae
 - **Genus**: Chromatium
 - **Functional group**: Purple sulphur bacterium / anoxygenic photosynthesiser
-
-
-
-
 
 ## Key Facts
 
@@ -36,10 +31,6 @@ Chromatium is a genus of purple sulphur bacteria found in the anaerobic zones of
 - Works in concert with Thiospirillum and Rhodopseudomonas in the anaerobic pond ecosystem
 - Can tolerate high concentrations of organic matter and dissolved solids
 
-
-
-
-
 ## Role in Sewage Treatment
 
 Chromatium contributes to wastewater treatment through:
@@ -50,20 +41,12 @@ Chromatium contributes to wastewater treatment through:
 4. **Odour reduction**: By metabolising H2S, reduces the characteristic rotten egg smell of anaerobic systems
 5. **Ecological indicator**: Pink colouration in ponds signals active anaerobic photosynthetic bacterial activity
 
-
-
-
-
 ## Relevance to Cultivation
 
 - **Wastewater treatment**: Essential biological agent in anaerobic sewage lagoons
 - **Heavy metal immobilisation**: Natural mechanism for removing toxic metals from wastewater without chemical intervention
 - **Permaculture design**: Demonstrates that biological systems can achieve what industrial chemistry does with less energy and cost
 - **Bioremediation**: Potential application in treating acid mine drainage and other metal-contaminated waters
-
-
-
-
 
 ## Environmental Conditions
 
@@ -73,9 +56,26 @@ Chromatium contributes to wastewater treatment through:
 - **pH**: Tolerant of the pH 6.2-7.8 range found in anaerobic sewage ponds
 - **Temperature**: Most active at 25-30 degrees C (77-86 degrees F); reduced activity in winter
 
+## Practical Applications
 
+Chromatium finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
 
+## Ecological Context
 
+Understanding chromatium within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating chromatium into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
 
 ## See Also
 

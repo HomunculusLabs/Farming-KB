@@ -106,7 +106,7 @@ These abilities represent a practical form of "pulser" pattern understanding —
 
 ## The Anasazi Spiral Calendar
 
-Perhaps the most striking example of pattern encoding is the Anasazi spiral petroglyph in the desert southwest USA. This apparently simple spiral form, inscribed on a rock surface near the top of a mesa, functions as a **long-term astronomical calendar**:
+Perhaps the most striking example of pattern encoding is the [[anasazi-spiral]] petroglyph in the desert southwest USA. This apparently simple spiral form, inscribed on a rock surface near the top of a mesa, functions as a **long-term astronomical calendar**:
 
 ### How It Works
 
@@ -145,34 +145,5 @@ In tribal society, wisdom is measured not by years lived but by **degree of reve
 ## Implications for Permaculture
 
 ### Reintegrating Pattern Education
-
-Mollison argues that pattern, song, and dance should be reintroduced into education:
-
-- They are the easiest forms of knowledge to accurately reproduce
-- They encode holistic, interconnected information
-- They are accessible to all members of society
-- They integrate aesthetic, functional, and sacred dimensions
-
-### Design Applications
-
-- **Pattern maps** can replace or supplement written design documents
-- **Song and chant** can encode planting calendars, harvest schedules, and management routines
-- **Dance and movement** can teach physical skills (digging, pruning, building) through embodied learning
-- **Multi-sensory observation** (listening, smelling, feeling, watching) reveals information unavailable to text-based analysis
-
-### Preserving and Learning from Traditional Systems
-
-Wherever indigenous knowledge systems remain intact, they contain complex, information-dense pattern encodings. The destruction of these systems through cultural genocide, museum collection, or religious conversion represents a profound loss of human knowledge — knowledge that is often more sophisticated than what replaces it.
-
-## Key Takeaways
-
-- Tribal pattern systems encode vast amounts of navigational, ecological, and cultural information in compact, memorable forms
-- Song, dance, sand patterns, and carved designs function as integrated recording and transmission systems
-- Pattern maps work through multi-sensory channels and multi-layered meaning
-- Phenomenological time (based on natural events) may be more useful than clock time for ecological design
-- Simple geometric patterns can encode complex astronomical and ecological cycles
-- Wisdom in traditional cultures is measured by pattern understanding, not by age
-- Permaculture designers can learn from these systems to create more memorable, holistic, and accessible design documentation
-
 ## See Also
 - [[tribal-pattern-knowledge-systems]]

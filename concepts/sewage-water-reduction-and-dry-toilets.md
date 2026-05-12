@@ -8,24 +8,17 @@ type: concept
 
 In modern cities, enormous volumes of clean water are wasted flushing toilets. This represents approximately **40% of domestic water misuse**. Permaculture approaches this problem through multiple strategies: handbasin-to-toilet diversion, low-flush systems, dry toilets, and intelligent greywater management.
 
-
 ## The Problem with Conventional Sewage
 
 Cities chlorinate water and feed it back into supply systems, sometimes mixing it with seawater or "treated" waste water. Surplus sewage, often untreated, is passed to sea with bacteria, viruses, and parasites intact. This arises from the frequent, wasteful, and unnecessary flushing of toilets.
 
 Sweden has made dry toilets compulsory in remote, unsewered, or unsuitable areas. In contrast, the USA, UK, and Australia require fighting to get permission to use dry toilets, as it serves the vested interest of industry and town clerks to supply and charge for sewerage systems.
 
-
-
-
 ## Handbasin Diversion Systems
 
 No clean water need be used to flush toilets if there is a **diversion from a hand-basin to the toilet tank**. In Australia, hand-basins moulded into toilet flush tanks are available. The water used in handbasins approximately equals that needed for toilets, so in effect no extra clean water is used.
 
 **Critical requirement**: Low-flush toilet bowls must be used with such systems, otherwise they flush incompletely and build up heavy pathogenic bacteria populations. This simple solution encourages hand cleanliness rather than the false cleanliness of toilet flushing for its own sake.
-
-
-
 
 ## When to Use Dry Toilets
 
@@ -36,9 +29,6 @@ Dry toilets are specifically useful where:
 - **Cities have critical water supply** problems
 
 Dry toilets are unnecessary on farms or in well-drained soils, or wherever sewage is used to produce methane by anaerobic digestion in tanks. In fact, dry toilets reduce the potential uses of sewage, just as compost is a reduction in the potential use of mulch. They are quite specifically appropriate for water-critical urban environments.
-
-
-
 
 ## Greywater Chemistry and Soil Safety
 
@@ -51,18 +41,12 @@ When using wastewater from kitchen, bathroom, and laundry, it is essential to un
 - Additives: resins (hardeners), scents, dyes, brighteners
 - Faecal bacteria, viral or worm pathogens from washing
 
-
-
-
 ### Safe Concentrations
 
 Most of these contaminants can be dealt with by soil organisms, but critical thresholds exist:
 
 - **Sodium and potassium salts**: Can deflocculate soil clays or damage leaves at concentrations >1,000 ppm, especially problematic if the base water supply is already saline
 - **Borates**: At >0.5 ppm can create excessive boron concentration in soils; above 1.0 ppm is harmful to soil life and plants
-
-
-
 
 ### Best Practices for Greywater
 
@@ -73,12 +57,38 @@ Most of these contaminants can be dealt with by soil organisms, but critical thr
 
 There is no blanket policy — only specific cases where we can expect to gain yield and also clean up water if we know the composition of soils and soaps.
 
-
-
-
 ## Related Topics
 
-- [[sewage-treatment-using-natural-processes]]
+- [[natural-sewage-treatment-systems]]
 - [[biological-water-purification]]
-- [[water-filtration-systems]]
-- [[anaerobic-digestion-and-biogas-production]]
+- [[water-filtration-and-treatment-systems]]
+- [[anaerobic-digestion-biogas-production]]
+
+## Practical Applications
+
+Sewage Water Reduction And Dry Toilets finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
+
+## Ecological Context
+
+Understanding sewage water reduction and dry toilets within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating sewage water reduction and dry toilets into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
+
+## See Also
+
+- [[anaerobic-sewage-digestion-and-biogas-production]]
+- [[anaerobic-sewage-digestion-methane]]
+- [[biological-sewage-treatment-plants]]
+- [[water-conservation-in-sewage-systems]]
+- [[werribee-sewage-lagoons-mollison]]

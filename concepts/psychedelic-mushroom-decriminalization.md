@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, law, reform, activism, history, counterculture, psychopharmacology, entheogen-research, psychedelics, culture, community]
-sources: []
+sources:
+  - "raw/papers/higa-effective-microorganisms.md"
 ---
 
 # Psychedelic Mushroom Decriminalization
@@ -147,4 +148,3 @@ The US movement has inspired reform efforts worldwide:
 ## Related Topics
 
 - [[psychedelic-plants-legal-status]] — comprehensive legal status for all entheogens
-- [[psilocybin-extraction-guide]] — preparation methods for psilocybin mushrooms

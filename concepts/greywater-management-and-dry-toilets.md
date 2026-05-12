@@ -6,7 +6,7 @@ type: concept
 
 # Greywater Management and Dry Toilets
 
-In permaculture design, the responsible handling of human waste and domestic wastewater is a critical concern. Bill Mollison emphasises that conventional approaches to sewage and greywater are not only wasteful of water but also introduce persistent pollutants into soils and waterways. A permaculture approach seeks to close nutrient loops, minimise water use, and design systems that treat waste on-site through biological processes rather than relying on centralised, energy-intensive treatment infrastructure.
+In [[permaculture-design]], the responsible handling of human waste and domestic wastewater is a critical concern. [[bill-mollison]] emphasises that conventional approaches to sewage and greywater are not only wasteful of water but also introduce persistent pollutants into soils and waterways. A permaculture approach seeks to close nutrient loops, minimise water use, and design systems that treat waste on-site through biological processes rather than relying on centralised, energy-intensive treatment infrastructure.
 
 ## Dry Toilets
 
@@ -131,3 +131,8 @@ Mollison emphasises that **there is no blanket policy** for greywater management
 5. **Protect forested catchments** — the ultimate long-term strategy for maintaining water quality at its source.
 6. **Understand contaminant interactions** — design systems that account for synergistic effects between pollutants, not just individual concentrations.
 7. **Design for site-specific conditions** — soil type, climate, baseline water quality, and intended end-use all shape the appropriate greywater system.
+
+## See Also
+- [[comparison-composting-toilets-vs-greywater-systems-detailed]]
+- [[greywater-systems-detailed]]
+- [[comparison-rainwater-vs-greywater]]

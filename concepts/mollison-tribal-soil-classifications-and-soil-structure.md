@@ -71,7 +71,7 @@ we speed a plough or drag harrows through these fragile assemblies,
 they may powder up as they do in a potter's ballmill.
 
 Dryland soils with a high salt content are particularly susceptible to
-loss of crumb structure, only partly relieved by application of gypsum.
+loss of [[crumb-structure]], only partly relieved by application of gypsum.
 
 ## The Five Components of Soil
 
@@ -124,3 +124,8 @@ The USDA classification of soil types by particle size provides a
 standard reference, but the jar test remains one of the most
 accessible and practical field methods for assessing soil composition
 for specific uses in permaculture design.
+
+## See Also
+- [[tribal-soil-classification-and-structure]]
+- [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]
+- [[soil-food-web-and-building-living-soil]]

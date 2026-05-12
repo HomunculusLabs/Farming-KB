@@ -44,19 +44,13 @@ Bentonite is a slippery clay powder derived from volcanic ash that swells dramat
 - Bituminous spray rolled in after tilling can substitute
 - In naturally clay-rich soils, salt or sodium carbonate can achieve similar sealing effects
 
-
-
 ### Cost Considerations
 
 Bentonite is noted as expensive compared to biological sealing methods like gley. Its use is most justified when local clay sources are unavailable, gley materials are scarce, rapid predictable sealing is needed, or the storage is high-value (house water supply).
 
-
-
 ## Relevance to Cultivation and Mycology
 
 Water storage sealed with bentonite enables reliable water supply in porous-soil regions where cultivation would otherwise be impractical. For mushroom cultivation, sealed ponds ensure consistent water availability for substrate moisture management, misting systems, and climate control in growing chambers. The inert nature of bentonite means it does not introduce chemicals that could affect fungal substrates.
-
-
 
 ## Comparison with Other Sealing Methods
 
@@ -68,13 +62,38 @@ Water storage sealed with bentonite enables reliable water supply in porous-soil
 | **Explosives** | Moderate | Unpredictable | Poor |
 | **Membranes** | Very high | High | Poor (without soil overlay) |
 
-
-
 ## Source Reference
 
 Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), pages 164–165.
 
+## Practical Applications
 
+Bentonite Clay Sealing finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
+
+## Ecological Context
+
+Understanding bentonite clay sealing within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating bentonite clay sealing into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
+
+## See Also
+
+- [[clay-pellet-seed-broadcasting]]
+- [[fukuoka-desert-revegetation-clay-pellet-method]]
+- [[fukuoka-orchard-soil-restoration-barren-clay]]
+- [[jadam-red-clay-powder-method]]
+- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
 
 ## See Also
 

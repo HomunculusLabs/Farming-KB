@@ -54,7 +54,7 @@ grass to grow beneath, providing dual production.
 
 ## Fodder System Design
 
-Willows can be integrated into [[forage-turnip]],
+Willows can be integrated into [[cover-crops]],
 providing both nectar and pollen at a time when few other plants are
 flowering. This early-season resource is critical for building hive
 strength in spring and supports the [[salix-alba]])

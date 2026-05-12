@@ -5,7 +5,7 @@ tags: [query, perennial-vegetables, food-forest, permaculture, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
+ - "raw/papers/gaias-garden-toby-hemenway.md"
 type: query
 ---
 
@@ -52,16 +52,16 @@ maximum productivity per [[comparison-biointensive-vs-square-foot-gardening]].
 
 ## Key Points
 - permaculture-jerusalem-artichoke are extremely
-  productive but need containment strategies to prevent invasiveness
+ productive but need containment strategies to prevent invasiveness
 - Perennial kales and tree collards provide year-round greens with minimal
-  maintenance once established
+ maintenance once established
 - Use the gaias-garden-vine-layer-food-forest based on its light and space requirements
 
 ## Related
 
 - [[blanching-vegetables-for-freezing]] Questions
 - [[query-how-to-start-a-food-forest]]
-- [[the-ultimate-goal-of-farming]]
+- 
 
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
 ## Practical Considerations

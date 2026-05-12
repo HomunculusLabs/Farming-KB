@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The Anasazi spiral petroglyph is one of the most remarkable examples of how a single, deceptively simple geometric pattern can encode complex astronomical, agricultural, and ceremonial information. Inscribed on a rock surface near the top of a mesa in the desert southwest of the United States, this spiral — combined with three carefully positioned rock slab gnomons — functions as a precision long-term calendar that tracks lunar cycles, solar events, and ecological rhythms.
+The [[anasazi-spiral]] petroglyph is one of the most remarkable examples of how a single, deceptively simple geometric pattern can encode complex astronomical, agricultural, and ceremonial information. Inscribed on a rock surface near the top of a mesa in the desert southwest of the United States, this spiral — combined with three carefully positioned rock slab gnomons — functions as a precision long-term calendar that tracks lunar cycles, solar events, and ecological rhythms.
 
 ## The Physical Installation
 
@@ -145,12 +145,5 @@ The Anasazi spiral stands as evidence that indigenous peoples possessed sophisti
 ## Key Takeaways
 
 - The Anasazi spiral is a single geometric pattern encoding lunar, solar, agricultural, and ceremonial information
-- Three gnomon slabs cast precise shadows and light daggers to 19 intercept points tracking the 18.6-year lunar cycle
-- The calendar predicted drought/flood cycles, regulated planting, and timed ceremonies
-- The information density rivals what would require a small library in Western notation
-- Pattern encoding is a universal human capability, not limited to any culture or era
-- Modern science has often underestimated tribal peoples' capacity for sophisticated long-term pattern recording
-- Permaculture designers can learn from this approach to create more compact, memorable, and durable design systems
-
 ## See Also
 - [[comparison-herb-spiral-vs-keyhole-beds]]

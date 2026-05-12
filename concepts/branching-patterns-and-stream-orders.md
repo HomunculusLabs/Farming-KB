@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Branching is one of the most pervasive patterns in nature, observable in trees, river systems, lungs, kidneys, blood vessels, root systems, lightning strikes, and fungal mycelia. In permaculture design, understanding the principles of branching enables designers to create efficient pathways, nutrient exchange networks, and access systems that mirror the effectiveness of natural branching structures. The quantitative study of stream orders provides a mathematical framework for understanding how branching systems function at every scale.
+Branching is one of the most pervasive [[patterns-in-nature]], observable in trees, river systems, lungs, kidneys, blood vessels, root systems, lightning strikes, and fungal mycelia. In [[permaculture-design]], understanding the principles of branching enables designers to create efficient pathways, nutrient exchange networks, and access systems that mirror the effectiveness of natural branching structures. The quantitative study of stream orders provides a mathematical framework for understanding how branching systems function at every scale.
 
 ## Fractal Nature of Branching
 
@@ -121,3 +121,8 @@ As designers, understanding branching patterns is essential for:
 - **Water infrastructure**: Sequences of dam spillways should follow natural branching orders
 - **Social hierarchies**: Functional hierarchies where information passes in both directions work best when they respect natural order ratios
 - **Nutrient exchange networks**: Garden layouts should maximize branching contact between gardener and cultivated elements
+
+## See Also
+- [[mollison-stream-orders-and-branching-magnitudes]]
+- [[stream-orders-and-branching-hierarchies]]
+- [[fractals-and-branching-patterns]]

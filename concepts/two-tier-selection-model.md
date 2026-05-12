@@ -118,7 +118,7 @@ Finally, integrating fungal communities into the model is essential. The origina
 - [[cannabinoid-receptors-cb1-cb2]]
 - [[rhizosphere-ecology]]
 - [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
-- [[crimson-clover]]
+- 
 - [[root-exudates]]
 
 The two-tier selection model continues to serve as the primary conceptual framework for root microbiome assembly, guiding both basic research and applied agricultural microbiology. As more data accumulates from diverse plant systems, the model will continue to be refined and extended, potentially incorporating multi-kingdom interactions and temporal dynamics.

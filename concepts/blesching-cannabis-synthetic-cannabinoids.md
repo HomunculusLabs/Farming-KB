@@ -34,7 +34,7 @@ Approved medications like dronabinol and nabilone contain precise doses of
 specific cannabinoids and have undergone [[mushroom-cancer-clinical-trials-overview]] demonstrating safety
 and efficacy for particular indications. In contrast, unregulated synthetic
 cannabinoids such as those sold as Spice, K2, or Black Mamba are novel
-[[star-fire-and-sacred-substances]] of unknown composition and potency that have been
+[[cultural-evolution-and-psychoactive-substances]] of unknown composition and potency that have been
 associated with severe toxicity, hospitalization, and death.
 
 Whole-plant cannabis contains over 100 identified cannabinoids, hundreds of

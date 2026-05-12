@@ -142,6 +142,7 @@ bridge central to healthy forest ecology and a practical benefit of widespread s
 inoculation.
 
 ## See Also
+- [[oyster-mushroom-growing-house-design-site-selection-tropical-climates]]
 
 - stamets log culture — Conventional log-based mushroom cultivation
 - mycological wood decay — Fungal ecology of wood decomposition

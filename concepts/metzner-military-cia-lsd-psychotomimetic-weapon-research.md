@@ -76,7 +76,7 @@ Agents who were administered LSD as part of MKUltra experiments sometimes had ex
 
 The military and intelligence research on LSD raises profound ethical questions that remain relevant today.
 
-The administration of powerful [[star-fire-and-sacred-substances]] to unwitting subjects — including civilians, military personnel, and even mental patients — constitutes one of the most serious ethical violations in the history of medical research.
+The administration of powerful [[cultural-evolution-and-psychoactive-substances]] to unwitting subjects — including civilians, military personnel, and even mental patients — constitutes one of the most serious ethical violations in the history of medical research.
 
 The MKUltra program operated without informed consent, without proper oversight, and without regard for the potential long-term psychological harm to its subjects.
 

@@ -88,3 +88,9 @@ be used as a natural food coloring.
 
 Nutritionally, red dead-nettle contains vitamin C, iron, and various
 antioxidant compounds. It is considered a nutritious addition to foraged
+
+## See Also
+
+- [[lamium-album]]
+- [[lamium-galeobdolon]]
+- [[lamium-maculatum]]

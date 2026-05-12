@@ -37,7 +37,7 @@ Solomon identifies that most "drought" damage isn't actually from lack of water 
 | Bush beans | 6 | 12 | |
 | Pole beans | 6 (double row) | 8-12 (single) | On trellis |
 | Summer squash | 24 | 48-60 | Very greedy |
-| [[winter-rye]] | 36 | 72-96 | Needs huge area |
+| [[cover-crops]] | 36 | 72-96 | Needs huge area |
 | Cucumbers | 12 | 24-36 | |
 | Corn | 8-12 | 15-18 | |
 | Lettuce | 8-10 | 12-15 | |

@@ -5,7 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [knf]
 sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
+ - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 Fermented Mixed Compost (FMC) is a premium compost input in Dr. Cho's
@@ -13,14 +13,14 @@ Fermented Mixed Compost (FMC) is a premium compost input in Dr. Cho's
 yard manure, its quality is completely different. FMC is highly
 effective in promoting micronutrient absorption, enhancing plant
 hormone effectiveness, and providing vitamins. It incorporates
-multiple [[indigenous-spirituality-and-freedom]]
+multiple 
 for superior biological activity.
 
 ## Seasonal Considerations
 
 - **Summer** (hot and humid): Favorable for bacteria to multiply
 - **Late fall to winter** (cool and dry): Favorable for fermenting
-  microbes to multiply, with less hindrance from bacteria
+ microbes to multiply, with less hindrance from bacteria
 
 FMC should ideally be made in late fall when fermenting microbes can
 work without bacterial competition.
@@ -29,9 +29,9 @@ work without bacterial competition.
 
 - Little wind, good drainage, water available
 - For greenhouses: install shade (transparent vinyl film should not
-  be used; direct sunlight must be blocked)
+ be used; direct sunlight must be blocked)
 - Floor MUST be soil, not concrete (concrete causes moisture emission
-  in all directions when FMC heats, leading to decay)
+ in all directions when FMC heats, leading to decay)
 - Cover concrete floor with one foot of soil if necessary
 
 ## Method 1: Detailed Procedure
@@ -45,25 +45,25 @@ work without bacterial competition.
 
 ### Procedure
 1. Mix organic ingredients on soil floor under roof, protected from
-   sun and rain. Total materials should exceed 500 kg (difficult to
-   maintain fermentation heat with smaller volumes)
+ sun and rain. Total materials should exceed 500 kg (difficult to
+ maintain fermentation heat with smaller volumes)
 2. Add IMO-4 (10% of total). One microorganism possesses hundreds of
-   enzymes and compounds that [[phase-change-materials-thermal-energy-storage]] into easily absorbed
-   substances
+ enzymes and compounds that [[phase-change-materials-thermal-energy-storage]] into easily absorbed
+ substances
 3. Heap to 40 cm height in hot weather, 80 cm in cold weather
 4. Adjust moisture to 60% using diluted (1:500) FPJ, FAA, OHN. The
-   mix should be slightly wet to the hand and barely maintain shape
-   when squeezed
+ mix should be slightly wet to the hand and barely maintain shape
+ when squeezed
 5. Add powdered calcium sources (oyster, crab, shrimp, eggshells)
 6. Cover with rice straw mat to control moisture, temperature, and
-   propagation
+ propagation
 7. **Temperature management is critical**:
-   - When temperature reaches 50 degrees C, turn the pile
-   - First turning: Day 2
-   - Second turning: Days 5-6
-   - Third turning: Days 8-10
-   - If temperature reaches 70 degrees C, nutrients and liquids
-     evaporate -- must be avoided
+ - When temperature reaches 50 degrees C, turn the pile
+ - First turning: Day 2
+ - Second turning: Days 5-6
+ - Third turning: Days 8-10
+ - If temperature reaches 70 degrees C, nutrients and liquids
+ evaporate -- must be avoided
 8. Control moisture with NF inputs when necessary
 9. After 20 days, FMC is complete
 
@@ -71,7 +71,7 @@ work without bacterial competition.
 - Well-made FMC has a sweet smell
 - If it stinks, it is not properly fermented -- it is deterioration
 - In worst cases (insufficient turning, too much water), maggots may
-  appear
+ appear
 
 ### Storage
 - Place in sacks or gunny bags
@@ -81,11 +81,11 @@ work without bacterial competition.
 ## Method 2: Simplified Procedure
 
 1. Mix IMO-4 with compost materials (oil cake, fowl droppings, pig
-   manure, cow manure, fish meal, commercial [[complete-organic-fertilizer-cof-recipe-solomon]]) at
-   a 1:10 ratio
+ manure, cow manure, fish meal, commercial [[complete-organic-fertilizer-cof-recipe-solomon]]) at
+ a 1:10 ratio
 2. Ferment for 7-14 days
 3. For enhanced results, add cow bone powder, shrimp shell, or crab
-   shell and ferment for more than one week
+ shell and ferment for more than one week
 4. The result is called IMO-5
 
 ## Practical Applications

@@ -13,7 +13,7 @@ sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Shulgin, A.T., Carter, M.F. & Shulgin, A. (1980). "Central Stimulant Properties of 4-Alkoxy Substituted Amphetamines." Journal of Medicinal Chemistry 23: 380–383.
   - Dean, B.J. et al. (2013). "Analytical Profiles of Tryptamine Substitutes." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 5(9-10): 754–761.
-  - EMCDDA (2016). "New [[star-fire-and-sacred-substances]]: Tryptamines." EMCDDA-Europol Joint Publications.
+  - EMCDDA (2016). "New [[cultural-evolution-and-psychoactive-substances]]: Tryptamines." EMCDDA-Europol Joint Publications.
 created: 2026-04-28
 ---
 

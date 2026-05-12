@@ -17,7 +17,7 @@ Source: Harbhajan Singh, Mycoremediation: [[singh-ligninolytic-enzymes-fungal-bi
 ## Key Mediators
 
 ### HBT (1-hydroxybenzotriazole)
-- Most effective mediator for mycoremediation-of-pahs|[[soil-health-and-microbial-life]]
+- Most effective mediator for mycoremediation-of-pahs|
 - Enables oxidation of nonphenolic mycoremediation-of-pahs|PAHs by laccase
 - Dramatic enhancement: from 3-37% to 91-100% degradation
 

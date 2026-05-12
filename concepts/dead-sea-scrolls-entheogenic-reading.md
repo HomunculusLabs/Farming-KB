@@ -12,7 +12,7 @@ sources:
 The Dead Sea Scrolls, discovered in caves near Qumran beginning in 1947, have
 inspired various entheogenic interpretations, most notably by [[john-allegro]] in [The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross
 (1970). These readings propose that the Jewish sect responsible for the Scrolls
-used [[star-fire-and-sacred-substances]], particularly the [[fly-agaric]] mushroom, in their religious practices.
+used [[cultural-evolution-and-psychoactive-substances]], particularly the [[fly-agaric]] mushroom, in their religious practices.
 
 ## Allegro's Role with the Scrolls
 

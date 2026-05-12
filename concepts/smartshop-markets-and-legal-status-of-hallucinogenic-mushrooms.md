@@ -88,3 +88,9 @@ Price ranges observed in European markets:
 | Fresh *P. cubensis* (30g) | €8.50–45 |
 | Grow kits | €25–100 |
 | Spore prints / syringes | €9–28 |
+
+## See Also
+
+- [[query-spore-syringes-vs-liquid-culture]]
+- [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]
+- [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]

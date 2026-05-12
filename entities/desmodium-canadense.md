@@ -88,3 +88,10 @@ Optimal sowing occurs in spring (April–May) or early fall (September–October
 Once established, stands persist for 10+ years and tolerate temperatures to -35°C. Fertilization is generally unnecessary due to nitrogen fixation, though phosphorus amendments may improve growth on deficient soils.
 
 ## Related Species
+
+## See Also
+
+- [[desmodium-illinoense]]
+- [[desmodium-incanum]]
+- [[desmodium-paniculatum]]
+- [[desmodium-rotundifolium]]

@@ -3,7 +3,8 @@ title: "Compost Extract vs Compost Leachate"
 tags: [comparison, compost-extract, compost-leachate, compost-methods, soil-amendments]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources:
+  - "raw/papers/ingham-soil-food-web.md"
 ---
 
 # Compost Extract vs Compost Leachate

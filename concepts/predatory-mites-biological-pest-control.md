@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [biological-control, predatory-mites, ipm, pest-management]
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
 # Predatory Mites — Biological Pest Control Agents

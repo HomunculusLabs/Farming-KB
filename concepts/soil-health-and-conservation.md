@@ -104,7 +104,7 @@ Soil health cannot be separated from water management. The designer's water chec
 
 ### Natural Swimming Pools
 
-Natural swimming pools demonstrate integrated water and soil thinking: water filters below a pebble bed (pebbles serve as algal and bacterial cleaners), cycles through a reed-bed to remove nutrients, then cascades back oxygenated. These pools support tame fish, crayfish, rock ledges, and ferns — all without chemicals. They simultaneously serve as fire-fighting reserves, heat pump sources, fire barriers, and emergency water supplies.
+[[natural-swimming-pools]] demonstrate integrated water and soil thinking: water filters below a pebble bed (pebbles serve as algal and bacterial cleaners), cycles through a reed-bed to remove nutrients, then cascades back oxygenated. These pools support tame fish, crayfish, rock ledges, and ferns — all without chemicals. They simultaneously serve as fire-fighting reserves, heat pump sources, fire barriers, and emergency water supplies.
 
 ## Human Health, Nutrition, and Soil
 
@@ -127,6 +127,9 @@ The relationship between soil health and human nutrition is fundamental but ofte
 8. Prioritise perennial and tree-based systems that naturally conserve and build soil
 
 ## See Also
+- [[fukuoka-textdoc-soil-microorganism-natural-fertility-one-gram-soil]]
+- [[tompkins-soil-health-humus-connection]]
+- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
 
 - Water Conservation and Storage
 - Keyline Design

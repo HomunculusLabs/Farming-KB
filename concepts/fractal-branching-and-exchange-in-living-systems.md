@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Branching patterns are among the most pervasive structures in nature, appearing in trees, river networks, lungs, kidneys, root systems, and even social organizations. In permaculture design theory, branching is understood not merely as a geometric curiosity but as a fundamental strategy for efficient exchange — the collection and distribution of materials, energy, gases, and heat between organisms and their environments. The fractal nature of branching systems creates enormous surface areas for exchange while minimizing the energy cost of transport.
+Branching patterns are among the most pervasive structures in nature, appearing in trees, river networks, lungs, kidneys, root systems, and even social organizations. In [[permaculture-design]] theory, branching is understood not merely as a geometric curiosity but as a fundamental strategy for efficient exchange — the collection and distribution of materials, energy, gases, and heat between organisms and their environments. The fractal nature of branching systems creates enormous surface areas for exchange while minimizing the energy cost of transport.
 
 ## Fractal Geometry in Nature
 
@@ -107,7 +107,7 @@ Any form specialized for diffusion or infusion tends to develop branching:
 
 - **Lungs**: Branching airways terminating in alveolar exchange surfaces
 - **Kidneys**: Branching tubule systems for filtration and reabsorption
-- **Mushrooms**: Mycelial networks branching through substrate for nutrient exchange
+- **Mushrooms**: [[mycelial-networks]] branching through substrate for nutrient exchange
 - **Palm trees**: Frond branching for light capture and gas exchange
 - **Root systems**: Underground branching for water and mineral collection
 
@@ -117,3 +117,8 @@ These "half-models" in one medium demonstrate that wherever exchange between a t
 
 - Vogel, S. (1981). *Life in Moving Fluids*. Princeton University Press.
 - Mandelbrot, B.B. (1982). *The Fractal Geometry of Nature*. W.H. Freeman.
+
+## See Also
+- [[branching-patterns-and-fractal-geometry-in-nature]]
+- [[fractal-geometry-and-branching-conduits]]
+- [[open-systems-energy-exchange]]

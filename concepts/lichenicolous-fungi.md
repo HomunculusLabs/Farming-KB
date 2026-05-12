@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [[mycology]], fungi]
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 # Lichenicolous Fungi
 

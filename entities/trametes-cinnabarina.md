@@ -87,3 +87,10 @@ The bright red pore surface makes *T. cinnabarina* difficult to confuse with oth
 Other red-pored polypores include *Pycnoporus sanguineus*, which is brighter orange-red, has a thinner context, and occurs primarily in tropical and subtropical zones. Within *Trametes*, the species is most closely related to *T. versicolor* and *T. hirsuta*, which share similar substrate ecology but have white to cream pore surfaces.
 
 ## Cultivation Notes
+
+## See Also
+
+- [[trametes-coccinea]]
+- [[trametes-hispida]]
+- [[trametes-pubescens]]
+- [[trametes-sanguinea]]

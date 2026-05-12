@@ -7,14 +7,9 @@ tags: [environmental-health, heavy-metals, mercury, pollution, japan]
 
 # Minamata Disease
 
-
 ## Description
 
 Minamata disease is a neurological syndrome caused by severe mercury poisoning, first identified in Minamata, Japan. It serves as a landmark case study in Mollison's discussion of water pollution, demonstrating how organisms can convert inorganic mercury into organic forms that are readily absorbed by the human body, and how sewage in water aids such conversion to biologically active metals.
-
-
-
-
 
 ## Classification
 
@@ -22,10 +17,6 @@ Minamata disease is a neurological syndrome caused by severe mercury poisoning, 
 - **Location**: Minamata, Japan
 - **Causative agent**: Methylmercury (organic mercury compound)
 - **Discovery period**: 1950s
-
-
-
-
 
 ## Key Facts
 
@@ -36,10 +27,6 @@ Minamata disease is a neurological syndrome caused by severe mercury poisoning, 
 - Mercury bioaccumulates through the food chain, with highest concentrations in apex predators and humans
 - Mercuric fungicide dressing on seeds has caused direct poisoning of people who ate treated seed grain, and also poisons soil long-term
 
-
-
-
-
 ## Mollison's Analysis
 
 Mollison uses the Minamata case to illustrate several interconnected principles about water quality:
@@ -49,10 +36,6 @@ Mollison uses the Minamata case to illustrate several interconnected principles 
 3. **Sewage interaction**: Organic matter in sewage facilitates the conversion of metals into biologically active compounds
 4. **Food chain concentration**: Metals concentrate progressively up the food chain
 5. **Synergistic toxicity**: Aldrin prevents DDT from being excreted, and the combination is deadly — a mix still available in some countries
-
-
-
-
 
 ## Relevance to Cultivation
 
@@ -66,19 +49,41 @@ Minamata disease highlights critical principles for safe water management in agr
 
 The case also supports the permaculture principle that biological treatment systems are superior to chemical treatment, as they address root causes rather than adding further pollutants to the system.
 
-
-
-
-
 ## Broader Context
 
 The Minamata case exemplifies what Mollison calls the end point of the technological fix: pollution is fixed by further pollution. It supports his argument for forested catchments, biological water treatment, and the prevention of polluting activities rather than attempts to treat polluted water after contamination.
 
+## Practical Applications
 
+Minamata Disease finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
 
+## Ecological Context
 
+Understanding minamata disease within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating minamata disease into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
 
 ## See Also
+
+- [[bloomfield-apple-orchard-fungal-disease-devastation]]
+- [[cannabis-disease-pest-resistance-breeding-clarke]]
+- [[cannabis-for-parkinsons-disease]]
+- [[compost-tea-disease-suppression]]
+- [[white-muscle-disease]]
+
+## See Also
+- [[white-muscle-disease-mollison]]
 
 - [[bill-mollison]]
 - [[biogas-digester]]

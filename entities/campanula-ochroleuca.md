@@ -69,7 +69,7 @@ The species shows a preference for north-facing slopes and gorge systems where s
 Campanula ochroleuca is cultivated as a collector's alpine and woodland-garden plant. It is rarely available commercially but can be found through specialist seed exchanges such as the Alpine Garden Society.
 
 **Growing requirements:**
-- **Soil:** Humus-rich, well-drained loam, neutral to slightly alkaline
+- **Soil:** [[humus]]-rich, well-drained loam, neutral to slightly alkaline
 - **Position:** Partial shade; tolerates full sun in cool-summer climates
 - **Hardiness:** Hardy to approximately USDA zones 5–8
 - **Propagation:** Seed sown fresh in autumn, or division of rhizomes in [[coleman-overwintered-onions-and-early-spring-crops]]

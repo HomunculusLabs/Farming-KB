@@ -2,16 +2,16 @@
 title: Mollison Designers Crop Multiplier Selection Breeding
 created: 2026-04-28
 tags:
-  - seed-saving
-  - plant-breeding
-  - genetic-diversity
-  - local-adaptation
-  - [[permaculture-design]]
+ - seed-saving
+ - plant-breeding
+ - genetic-diversity
+ - local-adaptation
+ - [[permaculture-design]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
-  - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
+ - "raw/papers/bill-mollison-permaculture-design-course.md"
+ - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
@@ -19,7 +19,7 @@ type: concept
 
 Crop multiplier selection is a practical plant breeding approach described by
 permaculture-designers-manual-bamboo that empowers
-gardeners and farmers to develop locally adapted [[the-ultimate-goal-of-farming]] through
+gardeners and farmers to develop locally adapted through
 systematic [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] saving. Rather than depending on commercial
 seed suppliers, permaculture practitioners observe their growing conditions,
 identify the best-performing individual plants, and save seed exclusively

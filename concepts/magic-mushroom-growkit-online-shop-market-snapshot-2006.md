@@ -16,7 +16,7 @@ The EMCDDA's 2006 market analysis of [[emcdda-barriers-to-hallucinogenic-mushroo
 
 The Netherlands served as the undisputed center of the European [[magic-mushroom-retail-markets-and-commercial-distribution-channels]] trade. An estimated 120-150 smartshops operated in the country, concentrated primarily in Amsterdam, selling legal and predominantly natural products including [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]. According to the Dutch Risk Assessment Report, magic mushrooms accounted for approximately 50% of smartshop turnover, making them the single most important product category.
 
-Smartshops were specialized retail outlets that distinguished themselves from headshops (which sold drug paraphernalia) and coffee shops (which sold cannabis). They marketed themselves as purveyors of natural [[star-fire-and-sacred-substances]], aligning with the broader consumer trend toward organic and herbal products that emerged in the late 1990s. Some coffee shops and headshops also sold mushrooms, and in some Dutch cities, "paddo cabs" offered home delivery services.
+Smartshops were specialized retail outlets that distinguished themselves from headshops (which sold drug paraphernalia) and coffee shops (which sold cannabis). They marketed themselves as purveyors of natural [[cultural-evolution-and-psychoactive-substances]], aligning with the broader consumer trend toward organic and herbal products that emerged in the late 1990s. Some coffee shops and headshops also sold mushrooms, and in some Dutch cities, "paddo cabs" offered home delivery services.
 
 ### Product Range
 

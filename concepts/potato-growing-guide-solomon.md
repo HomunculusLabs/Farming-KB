@@ -23,7 +23,7 @@ When growing food during lean times, maximizing calories per unit area is essent
 ### Soil and Fertilization
 
 - Potatoes are a medium-demand vegetable. Extremely high fertility is not needed.
-- Avoid too much manure or compost, which can cause the potatoes to be diseased.
+- Avoid too much manure or [[compost]], which can cause the potatoes to be diseased.
 - It's better to make the entire potato bed moderately fertile rather than concentrating amendments in rows or hills.
 - Light soils are preferred; [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] can restrict tuber development.
 - Good drainage after heavy rains is essential.

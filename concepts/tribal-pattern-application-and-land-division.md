@@ -135,3 +135,8 @@ Many dances and chants evolved directly from work and travel movements, embeddin
 4. **Knowledge should be embedded in practice**: Songs, dances, and patterns that are used daily retain knowledge more effectively than stored documents
 5. **The whole watershed is the design unit**: The Hawaiian ahupua'a model demonstrates that managing from ridge to reef creates stable, resource-rich systems
 6. **Rectilinear patterns are cultural, not natural**: They can be replaced by patterns that serve ecological and human needs
+
+## See Also
+- [[pattern-applications-and-tribal-pattern-knowledge]]
+- [[tribal-pattern-navigation-and-knowledge]]
+- [[tribal-pattern-knowledge-and-song-navigation]]

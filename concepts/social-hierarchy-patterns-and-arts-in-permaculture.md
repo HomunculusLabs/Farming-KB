@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-[[permaculture]] extends pattern understanding beyond the biological and physical realms into the structure of human societies and the role of the arts. By analyzing social hierarchies as pattern forms, and by examining how traditional art served as a functional knowledge system, Mollison reveals how pattern thinking can inform social design, education, and cultural practice. This concept explores the "boat pattern" of social stratification, the role of art as sacred mnemonic, and the implications for permaculture as a design system for human settlement.
+[[permaculture]] extends pattern understanding beyond the biological and physical realms into the structure of human societies and the role of the arts. By analyzing social hierarchies as pattern forms, and by examining how traditional art served as a functional knowledge system, Mollison reveals how pattern thinking can inform social [[urban-permaculture-community-building-social-design|design]], education, and cultural practice. This concept explores the "boat pattern" of social stratification, the role of art as sacred mnemonic, and the implications for permaculture as a design system for human settlement.
 
 ## The Boat Pattern of Social Hierarchy
 
@@ -147,51 +147,3 @@ The fanatic "cares not what is destroyed if it empowers the repressive hierarchy
 ## The Flowform as Applied Art
 
 The **[[flowform]]** systems of the Virbella Institute (Emerson College, Kent, UK) represent a contemporary example of art serving life. Modelled on older Roman water cascades and natural stream turbulence patterns, Flowforms:
-
-- **Serve an aesthetic function**: The flowing water forms are visually beautiful
-- **Serve a practical function**: They aerate water and oxidize pollutants
-- **Bridge art and science**: They embody scientific understanding of fluid dynamics in artistic form
-- **Demonstrate the principle**: Art can be both beautiful and functional, both meaningful and decorative
-
-This represents "a small step towards applied art as patterning in everyday use" — art that serves life rather than merely adorning it.
-
-## Implications for Permaculture Social Design
-
-### Designing for Human Social Patterns
-
-Understanding the boat pattern of social hierarchy suggests that [[permaculture-community-design]] should:
-
-- **Acknowledge natural social stratification**: Rather than attempting to eliminate hierarchy, design systems that make resource distribution more equitable
-- **Support genetic and social mobility**: Create structures that allow movement between strata rather than rigid class boundaries
-- **Distribute resources broadly**: The sex ratio data suggests that resource access at the base of the hierarchy produces different reproductive dynamics than concentration at the top
-- **Create meaningful roles**: Ensure that all occupational levels have dignity and purpose within the community
-
-### Art and Knowledge in Permaculture Communities
-
-Permaculture communities can reintegrate art and knowledge by:
-
-- **Creating pattern-based design documents**: Visual, memorable, and multi-layered rather than linear and text-based
-- **Using song and dance** for practical knowledge transmission (planting calendars, management routines, harvest songs)
-- **Making art functional**: Garden designs, water systems, and buildings that embody pattern understanding
-- **Preserving and learning from** surviving traditional art systems
-- **Making knowledge public**: Ensuring that design knowledge is accessible to all community members, not locked in specialist expertise
-
-### Education Reform
-
-The abandonment of pattern learning in favor of purely numerical and alphabetical education is identified as a "gross error." Permaculture education should include:
-
-- **Pattern recognition training**: Learning to see and interpret natural patterns
-- **Multi-modal learning**: Integrating visual, auditory, kinesthetic, and spatial learning
-- **Ecological literacy**: Education connected to long-term observation of natural systems
-- **Mnemonic arts**: Song, dance, and visual pattern as tools for knowledge retention
-
-## Key Takeaways
-
-- Social hierarchies follow a predictable "boat pattern" with characteristic sex ratios at each level that drive genetic streaming between strata
-- Resource distribution fundamentally shapes social dynamics, family structure, and population composition
-- Tribal art functions primarily as a public mnemonic system encoding vast amounts of ecological, navigational, and cultural knowledge
-- Modern art has largely lost its educational and sacred functions, becoming individualistic and decorative
-- Cultural destruction — through burning, looting, museum collection, or religious conversion — represents a profound loss of functional ecological knowledge
-- Permaculture challenges artists to create compact, memorable, transmissible knowledge forms and educators to revive pattern-based learning
-- The Flowform system demonstrates that art and function can be integrated in practical design
-- Permaculture communities should design for natural social dynamics while working to make knowledge, resources, and meaning accessible to all members

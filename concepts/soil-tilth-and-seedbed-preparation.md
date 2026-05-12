@@ -8,7 +8,7 @@ tags: [soil-tilth, seedbed, gardening, germination, humus, crumb-structure, comp
 
 ## Understanding Soil Tilth
 
-Soil tilth refers to the physical condition of soil in relation to its suitability for growing plants. Good tilth means soil has a crumb structure with well-defined, stable aggregates that resist breakdown from rain and irrigation. Soil with obvious crumb structure is said to have "good tilth," and it is one of the most important qualities for successful gardening.
+Soil tilth refers to the physical condition of soil in relation to its suitability for growing plants. Good tilth means soil has a [[crumb-structure]] with well-defined, stable aggregates that resist breakdown from rain and irrigation. Soil with obvious crumb structure is said to have "good tilth," and it is one of the most important qualities for successful gardening.
 
 The components of mineral soil — sand, silt, and clay — blend together much like sand, gravel, and cement in concrete. The sand acts like gravel, silt like coarse sand, and clay like cement. Pounding rain or sprinkler droplets hitting bare soil act exactly like a cement finisher's trowel, separating the clay and silt from the sand. The sand settles a fraction of an inch, leaving clay and silt on top that dries into a tough, impenetrable skin.
 
@@ -26,7 +26,7 @@ When a gardener waters after planting seeds, the soil surface can slump into a s
 
 ## The Role of Humus
 
-The solution to both crust formation and puddling is to increase the amount of decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], called humus, in the soil. When enough humus is mixed into the soil:
+The solution to both crust formation and puddling is to increase the amount of decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], called [[humus]], in the soil. When enough humus is mixed into the soil:
 
 - Particles of sand, silt, and clay become firmly cemented into stable, irregularly shaped crumbs
 - These crumbs can be as large as grains of uncooked rice

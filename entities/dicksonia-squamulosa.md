@@ -96,7 +96,7 @@ Further field surveys are needed to document the species' full distribution, pop
 - [[dicksonia-fibrosa]]
 - [[dicksonia-sellowiana]]
 - [[dicksonia-berteriana]]
-- [[cyathea-mediterranea]]
+- dicksonia squamulosa
 - [[cyathea-cooperi]]
 - [[cibotium-barometz]]
 - [[alsophila-aspera]]

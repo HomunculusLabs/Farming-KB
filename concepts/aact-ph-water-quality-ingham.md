@@ -15,7 +15,7 @@ Updated: 2026-04-18
 
 Source: The [[field-guide-psilocybin-bluing-reaction-identification]] I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. [[elaine-ingham]], Soil Foodweb Inc.
 
-Ingham provides a nuanced view of pH in [[compost-tea-and-biological-extracts]] soil, arguing that the soil foodweb itself manages pH and that excessive focus on pH numbers is part of the "chemical paradigm."
+Ingham provides a nuanced view of pH in [[compost]] soil, arguing that the soil foodweb itself manages pH and that excessive focus on pH numbers is part of the "chemical paradigm."
 
 ## pH Is a Symptom, Not a Cause
 

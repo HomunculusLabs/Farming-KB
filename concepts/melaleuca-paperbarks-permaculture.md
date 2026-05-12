@@ -141,6 +141,6 @@ Melaleucas are best placed in:
 
 - [[eucalyptus-in-permaculture]]
 - [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]
-- [[forage-turnip]]
-- [[wetland-rehabilitation]]
+- [[cover-crops]]
+- [[interceptor-drains-and-desertification-control]]
 - [[permaculture-designers-manual-essential-oil-plants]]

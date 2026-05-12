@@ -141,6 +141,6 @@ Cross-pollination can occur between different amaranth species grown nearby, so 
 
 ## Related Questions
 
-- [[the-ultimate-goal-of-farming|What are the best ancient and heritage grains for small-scale farming?]]
+- [[natural-farming-philosophy-of-mu]]
 - [[query-how-to-start-seed-saving|How to start seed saving]]
 - [[query-best-cover-crops-for-sandy-soil|What are the best cover crops for sandy soil?]]

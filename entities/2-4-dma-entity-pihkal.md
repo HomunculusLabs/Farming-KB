@@ -60,21 +60,13 @@ A magnetically stirred suspension of 6.0 g LAH in 300 mL anhydrous Et2O was brou
 safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
+
 ## See Also
 
-- [[2c-t-8-entity-pihkal]]
+- [[2-br-4-5-mda-entity]]
+- [[2-fdck]]
+- [[2-me-dmt-entity-tihkal]]
 
-- [[3-te-entity-pihkal]]
-
-- [[2c-t-21-entity-pihkal]]
-
-- [[2c-t-17-entity-pihkal]]
-
-- [[4-br-3-5-dma-entity-pihkal]]
-- [[2-5-dma-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related phenethylamine compounds in PIHKAL
 ## Practical Considerations
 
 Successful implementation of 2,4-DMA -- 2,4-DIMETHOXYAMPHETAMINE -- PIHKAL Entry #53 requires attention to

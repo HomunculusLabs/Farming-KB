@@ -88,3 +88,9 @@ The disease spreads through rain-splashed spores and is most virulent during coo
 [[weed-management-strategies]] include pruning infected branches, improving air circulation, and applying fungicides. Resistant selections, particularly the 'Appalachian Spring' cultivar, have been developed from surviving trees in the Great Smoky Mountains.
 
 The 'Appalachian Spring' cultivar was discovered as a surviving specimen in the Cades Cove area of the Great Smoky Mountains National Park. It has shown exceptional resistance to anthracnose in long-term field trials and is now widely available in the nursery trade.
+
+## See Also
+
+- [[cornus-kousa]]
+- [[cornus-officinalis]]
+- [[cornus-sericea]]

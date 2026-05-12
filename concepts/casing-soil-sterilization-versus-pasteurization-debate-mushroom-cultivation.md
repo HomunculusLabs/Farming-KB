@@ -25,17 +25,17 @@ sterilization of casing soil:
 
 ### Rationale for Pasteurization
 1. **Beneficial microorganisms**: The casing layer naturally hosts bacteria such as
-   *Pseudomonas putida* and actinomycetes that stimulate fruiting body initiation
-   in many mushroom species. These bacteria produce volatile [[plant-communication-volatile-organic-compounds]]
-   enzymes that trigger the developmental switch from vegetative mycelium to
-   reproductive fruiting.
+ *Pseudomonas putida* and actinomycetes that stimulate fruiting body initiation
+ in many mushroom species. These bacteria produce volatile [[plant-communication-volatile-organic-compounds]]
+ enzymes that trigger the developmental switch from vegetative mycelium to
+ reproductive fruiting.
 2. **Biological buffering**: A living [[cannabis-cultivar-microbial-community-effects]] in the casing competes
-   with contaminant molds (particularly *Trichoderma* species), providing
-   biological protection that sterile casing lacks.
+ with contaminant molds (particularly *Trichoderma* species), providing
+ biological protection that sterile casing lacks.
 3. **Moisture retention**: Microbial polysaccharides help maintain casing structure
-   and water-holding capacity.
+ and water-holding capacity.
 4. **Nutrient availability**: Microbial activity gradually releases bound nutrients,
-   providing a sustained nutrient supply for the developing mycelium.
+ providing a sustained nutrient supply for the developing mycelium.
 
 ### Standard Pasteurization Method
 Casing soil is typically pasteurized at 60–70°C for 30–60 minutes, which kills most
@@ -65,13 +65,13 @@ The guide focuses on *Psilocybe mexicana*, *P. tampanensis*, and *Panaeolus
 subbalteatus*, which may have different casing requirements than *A. bisporus*:
 - These species may not require bacterial triggers for fruiting
 - The smaller-scale cultivation may not generate sufficient microbial
-  recolonization of pasteurized casing
+ recolonization of pasteurized casing
 - These tropical/subtropical species may fruit more readily without bacterial cues
 
 ### Practical Experience
 The authors state explicitly that they have had "only bad experiences with untreated
 or pasteurised casing soils." This empirical observation, while anecdotal, suggests
-that the theoretical benefits of [[crimson-clover]] in casing may not translate
+that the theoretical benefits of in casing may not translate
 to practice in all cultivation contexts, particularly for these species at small
 scale.
 
@@ -81,7 +81,7 @@ The casing recipe used is:
 - **10 parts peat**: Provides organic matter, water retention, and acidity
 - **5 parts vermiculite**: Provides aeration, moisture buffering, and structure
 - **2 parts limestone (marl)**: Raises pH to the preferred 7.0–7.5 range for
-  casing and provides calcium
+ casing and provides calcium
 
 This recipe is essentially identical to the standard "50/50+" casing used widely in
 both commercial and hobby cultivation. The lime adjustment is critical because peat

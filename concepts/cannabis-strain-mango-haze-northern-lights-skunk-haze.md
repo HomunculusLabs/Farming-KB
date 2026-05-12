@@ -44,7 +44,7 @@ created. Originating from Afghani landrace stock, NL#5 contributed compact struc
 fast flowering, heavy resin production, and a deeply relaxing physical stone. It remains
 a staple in commercial and hobbyist breeding programs.
 
-**[[skunk-#1]]** — The foundational hybrid created by [[sam-the-skunkman]] (David Watson)
+**[[skunk-#1]]** — The foundational hybrid created by [[cannabis-breeding-basics]] (David Watson)
 in the 1970s. Skunk #1 stabilized a reliable mix of Afghani, Acapulco Gold, and
 Colombian Gold genetics, becoming the genetic anchor for an enormous number of modern
 hybrids. Its vigorous growth, uniform structure, and pungent aroma made it an
@@ -52,7 +52,7 @@ indispensable tool for breeders.
 
 ## The Mr. Nice Seedbank Story
 
-[[oner-mango-haze-mr-nice-seedbank-haze-skunk]] was founded by [[neville-schoenmaker]] and [[Shantibaba]] (Scott
+[[oner-mango-haze-mr-nice-seedbank-haze-skunk]] was founded by [[cannabis-breeding-basics]] and [[cannabis-breeding-basics]] (Scott
 Blakey), two of the most respected figures in [[cannabis-breeding-basics]]. Both men previously
 worked at [[green-cannabis-grow-bible-seed-selection-and-seed-banks]] in Amsterdam before departing to establish their own
 venture dedicated to preserving and refining elite genetics.
@@ -71,7 +71,7 @@ Mango Haze performs well in both [[query-what-is-integrated-pest-management-for-
 setups, giving growers flexibility in approach. The strain responds exceptionally well
 to [[cannabis-sativa-indoor-training-techniques]]:
 
-- **[[ScrOG]] (Screen of Green):** Ideal for managing canopy height and maximizing
+- **[[cannabis-training-techniques]] (Screen of Green):** Ideal for managing canopy height and maximizing
   light penetration across bud sites.
 - **[[low-stress-training]] (LST):** Bending and tying branches encourages an even
   canopy and increases colas without the recovery time of high-stress methods.

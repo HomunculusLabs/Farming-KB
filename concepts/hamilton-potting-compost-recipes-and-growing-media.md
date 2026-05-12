@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[ingham-compost-tea-recipes-and-ingredient-formulations]]
 - [[compost-tea-ingredients-and-recipes]]
 - [[hamilton-melon-and-pumpkin-growing]]
-- [[compost-tea-and-biological-extracts]]
+- [[compost]]

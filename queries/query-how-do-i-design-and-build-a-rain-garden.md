@@ -3,7 +3,8 @@ title: "How Do I Design and Build a Rain Garden?"
 tags: [query, rain-garden, water-management, permaculture, stormwater]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/mollison-permaculture-designers-manual.md"
 ---
 
 # How Do I Design and Build a Rain Garden?

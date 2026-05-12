@@ -6,7 +6,7 @@
 ## Summary
 McKenna's introduction to *Food of the Gods* frames the global drug crisis not as a
 [[cervantes-grow-room-security-law-enforcement]] problem but as a cultural and philosophical failure to understand the
-nature of habit and the distinction between different types of [[star-fire-and-sacred-substances]].
+nature of habit and the distinction between different types of [[cultural-evolution-and-psychoactive-substances]].
 He argues that all culture is ultimately habit, that obsessions arise when devotion to
 habits exceeds cultural norms, and that the current pandemic of drug use cannot be
 addressed without a hard-eyed reappraisal of the relationship between human beings and

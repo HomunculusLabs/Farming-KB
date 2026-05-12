@@ -83,8 +83,10 @@ While not commonly consumed, P. cervinus has a nutritional profile typical of wo
 - **Vitamins:** Contains B vitamins in moderate amounts
 - **Calories:** Low calorie, typical of mushroom species
 
+
 ## See Also
 
-- [[pleurotus-ostreatus]] — Tree [[cotter-oyster-mushroom-cultivation]] for comparison of wood-inhabiting species
-- [[volvariella-volvacea]] — Paddy [[mushroom-training-straw-mushroom-cultivation]], same family
-- [[stropharia-rugoso-annulata]] — Garden Giant, another wood decomposer
+- [[pluteus-americanus]]
+- [[pluteus-salvianus]]
+- [[pluteus-salvinus]]
+- [[pluteus-umbrosus]]

@@ -92,7 +92,7 @@ The only option is growing them in pots or building [[query-how-to-build-a-raise
 - [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
 - [[soil-nematodes-ecology-and-management]]
 - [[jadam-soil-management-no-till-and-weed-control]]
-- [[soil-phosphorus-potassium-calcium-and-micronutrient-management]]
+- [[soil-phosphorus-and-mineral-nutrients]]
 
 ## Practical Applications
 

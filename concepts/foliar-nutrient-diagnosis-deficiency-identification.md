@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [plant-nutrition, nutrient-deficiency, visual-diagnosis, crop-health]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Foliar Nutrient Diagnosis — Visual Deficiency Identification

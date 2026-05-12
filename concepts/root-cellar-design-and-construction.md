@@ -21,7 +21,7 @@ Most [[growing-root-vegetables-guide]] store best at 32-35F. Below 28F freezes p
 ventilation cools the cellar below this.
 
 ### Humidity: 85-95%
-High humidity prevents shriveling. [[hamilton-root-vegetables-growing]] need 90-95%; [[winter-rye]],
+High humidity prevents shriveling. [[hamilton-root-vegetables-growing]] need 90-95%; [[cover-crops]],
 onions, and garlic prefer 60-70% at warmer temperatures (50-55F). Design with
 separate zones for different humidity needs.
 

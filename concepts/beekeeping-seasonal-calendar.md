@@ -46,7 +46,7 @@ warmer or cooler zones.
 - Perform splits to control swarming and increase colony count
 - Rotate in fresh foundation or drawn comb
 - Super colonies ahead of the main nectar flow
-- Plant [[forage-turnip]] for mid-summer gaps
+- Plant [[cover-crops]] for mid-summer gaps
 - Monitor for American foulbrood, European foulbrood, and chalkbrood
 
 ## Summer Nectar Flow (June - August)
@@ -120,5 +120,5 @@ seasonal [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] a
 4. **Early fall** — aggressive treatment before winter brood is raised
 
 See [[beekeeping-problems-and-solutions]] for detailed [[hamilton-pest-and-disease-control-organic]]
-management, and [[forage-turnip]] for ensuring adequate nutrition
+management, and [[cover-crops]] for ensuring adequate nutrition
 throughout the season.

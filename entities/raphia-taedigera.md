@@ -87,3 +87,7 @@ Raffia is exported globally as a natural tying and weaving material for horticul
 The palm sap is tapped for wine production (palm wine) across West and Central Africa.
 
 Sap collection involves cutting the inflorescence and collecting the flowing juice in containers.
+
+## See Also
+
+- [[guzman-central-america-neurotropic-fungi-species-distribution]]

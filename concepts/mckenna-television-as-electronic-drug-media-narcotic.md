@@ -11,7 +11,7 @@ Terence McKenna advanced the provocative thesis that television functions
 as a pharmacological agent — an "electronic drug" that alters consciousness,
 induces dependency, and serves the interests of social control. Drawing on
 the work of media theorists and his own analysis of the relationship
-between [[star-fire-and-sacred-substances]] and [[entheogenic-churches-cultural-transformation-movement-metzner]], McKenna argued
+between [[cultural-evolution-and-psychoactive-substances]] and [[entheogenic-churches-cultural-transformation-movement-metzner]], McKenna argued
 that television represents the most widespread and insidious form of
 drug abuse in modern civilization.
 

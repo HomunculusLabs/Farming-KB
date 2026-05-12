@@ -5,32 +5,32 @@ tags: [weeds, weed-management, organic-gardening, no-till, permaculture, soil-ec
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
-  - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
-  - /Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md
-  - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
-  - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
-  - /Users/t3rpz/wiki/raw/papers/gaias-garden-toby-hemenway.md
-  - /Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+ - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+ - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+ - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+ - /Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md
+ - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
+ - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
+ - /Users/t3rpz/wiki/raw/papers/gaias-garden-toby-hemenway.md
+ - /Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 related_concepts:
-  - fukuoka-weed-ecology
-  - fukuoka-no-weeding-no-pesticides
-  - fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration
-  - fukuoka-weed-succession-crop-selection-guide
-  - fukuoka-weed-management-and-green-manure
-  - jadam-weed-control-strategies-natural
-  - coleman-weed-control
-  - solomon-weed-management-without-chemicals
-  - hamilton-organic-weed-control
-  - hamilton-useful-weeds-and-weed-identification
-  - gaias-garden-weeds-pioneer-plants
-  - ingham-weed-control-through-biology
-  - weed-management-strategies
-  - weed-suppression-strategies
-  - weeding-strategies-low-input-garden
-  - common-homestead-weeds
-  - jeavons-weed-management
+ - fukuoka-weed-ecology
+ - fukuoka-no-weeding-no-pesticides
+ - fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration
+ - fukuoka-weed-succession-crop-selection-guide
+ - fukuoka-weed-management-and-green-manure
+ - jadam-weed-control-strategies-natural
+ - coleman-weed-control
+ - solomon-weed-management-without-chemicals
+ - hamilton-organic-weed-control
+ - hamilton-useful-weeds-and-weed-identification
+ - gaias-garden-weeds-pioneer-plants
+ - ingham-weed-control-through-biology
+ - weed-management-strategies
+ - weed-suppression-strategies
+ - weeding-strategies-low-input-garden
+ - common-homestead-weeds
+ - jeavons-weed-management
 ---
 
 # Weed Management and Ecological Weed Control
@@ -122,7 +122,7 @@ hundred tons per year. In twenty to thirty years without plant cover,
 the topsoil washes entirely away, reducing fertility to near zero. Weeds
 and grasses are absolutely essential for maintaining the organic,
 living character of soil. Their roots prevent erosion, and their
-decomposition feeds the [[crimson-clover]] that sustain soil
+decomposition feeds the that sustain soil
 fertility.
 
 Deep-rooted weeds like dandelion, dock, and thistle mine minerals

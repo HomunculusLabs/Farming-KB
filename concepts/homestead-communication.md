@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [[homesteading]], equipment, engineering, safety, community]
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 ---
 
 # Homestead [[query-how-does-mycorrhizal-network-communication-work-between-plants]]
@@ -147,4 +148,3 @@ Every homestead should have a dedicated emergency communication kit:
 - 146.520 MHz — National simplex calling frequency (ham)
 - 446.000 MHz — National UHF simplex calling frequency (ham)
 - [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] 19 (27.185 MHz) — CB emergency and trucker channel
-- FRS/GMRS Channel 1 — Family communication

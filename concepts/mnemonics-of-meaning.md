@@ -148,5 +148,3 @@ boat hierarchy — all are structures that either encode or distort the
 relationship between observer and environment. The permaculture designer
 distinguishes between mnemonics preserving ecological intelligence and those
 decayed into dogma, creating new mnemonic forms — [[maps]], models, rituals of
-observation — that keep design knowledge alive, adaptable, and grounded in
-the phenomenological reality of place.

@@ -22,9 +22,6 @@ Scenedesmus is a genus of colonial green algae identified by Mollison as one of 
 - **Genus**: Scenedesmus
 - **Functional group**: Phytoplankton / colonial green alga
 
-
-
-
 ## Key Facts
 
 - One of four universal sewage lagoon algae alongside Euglena, Chlamydomonas, and Chlorella
@@ -36,9 +33,6 @@ Scenedesmus is a genus of colonial green algae identified by Mollison as one of 
 - Reproduces primarily through autocolony formation, enabling rapid population growth
 - Dense blooms can reach concentrations sufficient for commercial harvesting
 
-
-
-
 ## Role in Sewage Treatment
 
 Scenedesmus contributes to wastewater treatment through several mechanisms:
@@ -48,9 +42,6 @@ Scenedesmus contributes to wastewater treatment through several mechanisms:
 3. **BOD reduction**: Converts soluble organic compounds into algal biomass, reducing biological oxygen demand
 4. **Heavy metal biosorption**: Cell walls can adsorb trace metals from the water column
 5. **Food web support**: Colonies are grazed by zooplankton including Daphnia, Moina, and various rotifers
-
-
-
 
 ## Relevance to Cultivation
 
@@ -63,9 +54,6 @@ Scenedesmus has significant applications in sustainable agriculture and permacul
 - **Biofuel feedstock**: High lipid content makes it a candidate for biodiesel production
 - **Industrial applications**: Used in waste-to-value systems converting sewage nutrients into marketable products
 
-
-
-
 ## Environmental Parameters
 
 - **Optimal temperature**: 20-30 degrees C, with reduced growth below 10 degrees C
@@ -73,8 +61,26 @@ Scenedesmus has significant applications in sustainable agriculture and permacul
 - **Light**: Requires adequate sunlight for photosynthesis; dense cultures may need mechanical mixing
 - **Growth rate**: Can double biomass every 6-12 hours under optimal conditions
 
+## Practical Applications
 
+Scenedesmus finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
 
+## Ecological Context
+
+Understanding scenedesmus within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating scenedesmus into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
 
 ## See Also
 

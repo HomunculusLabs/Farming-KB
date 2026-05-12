@@ -5,8 +5,8 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
-  - "raw/papers/sepp-holzer-practical-guide.md"
+ - "raw/papers/sepp-holzer-practical-guide.md"
+ - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Green Manure Crops
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
@@ -79,7 +79,7 @@ fertilizers.
 ## Ancient Grains as Green Manure
 Holzer specifically recommends ancient cereal varieties as components of green
 manure mixtures. Emmer wheat (Triticum dicoccum), einkorn wheat (Triticum
-monococcum), spelt (Triticum spelta), and other [[the-ultimate-goal-of-farming]] produce vigorous
+monococcum), spelt (Triticum spelta), and other produce vigorous
 root systems that improve soil structure, generate substantial biomass, and can
 be harvested for grain if desired. These ancient varieties are adapted to low-
 input conditions — they perform well without synthetic fertilizers or pesticides,

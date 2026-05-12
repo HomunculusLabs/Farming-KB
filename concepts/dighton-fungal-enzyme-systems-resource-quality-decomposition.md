@@ -77,7 +77,7 @@ the conversion of insoluble cellulose to metabolically usable sugar.
 
 ## Fungal Enzyme Systems for Hemicellulose Degradation
 
-[[Hemicellulose]] requires an even more diverse array of fungal enzymes than
+[[fungal-cell-wall-composition-and-structural-organization]] requires an even more diverse array of fungal enzymes than
 cellulose due to its heterogeneous and branched structure. The major enzyme
 systems identified by Sinsabaugh and Liptak (1997) include:
 
@@ -95,7 +95,7 @@ succession during decomposition of hemicellulose-rich substrates.
 
 ## Fungal Enzyme Systems for Pectin Degradation
 
-[[Pectin]] is degraded by polygalacturonases, endo-1,4-α-polygalacturonase,
+[[fungal-cell-wall-composition-and-structural-organization]] is degraded by polygalacturonases, endo-1,4-α-polygalacturonase,
 exo-1,4-α-polygalacturonase, pectinlyases (pectate lyases), and pectinesterases
 (Sinsabaugh and Liptak, 1997). Pectinesterases first remove methyl ester groups,
 converting pectin to pectate. Polygalacturonases hydrolyze the α-1,4-galacturonan

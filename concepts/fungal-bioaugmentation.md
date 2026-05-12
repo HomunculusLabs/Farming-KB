@@ -21,7 +21,7 @@ Fungal bioaugmentation refers to the deliberate introduction of specific
 persistent organic pollutants. Laboratory-based studies have shown that fungi
 are able to degrade a wide range of organic pollutants, and fungal bioaugmentation
 has great potential for use as an inoculant strategy. However, soil is a
-heterogeneous environment, and [[field-peas]] using [[fungal-bioremediation-mechanisms]]
+heterogeneous environment, and [[cover-crops]] using [[fungal-bioremediation-mechanisms]]
 - mycoremediation-species-selection-guide
 - fungal-ecology-mycoremediation
 ## Practical Applications

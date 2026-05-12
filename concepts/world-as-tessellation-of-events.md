@@ -91,4 +91,9 @@ Pattern understanding contributes to the continuing evolution of new worldviews 
 - **People-care** follows from understanding that all people are expressions of the same totality
 - **Fair share** (return of surplus) is the recognition that nothing is truly separate and all surplus belongs to the system as a whole
 
-The universe, and this earth, behave as self-regulating and self-generated constructs very much akin to a single organism or a thought process. Permaculture design is, at its deepest level, the practice of aligning human activity with the patterns of this single, self-regulating whole.
+The universe, and this earth, behave as self-regulating and self-generated constructs very much akin to a single organism or a thought process. [[permaculture-design]] is, at its deepest level, the practice of aligning human activity with the patterns of this single, self-regulating whole.
+
+## See Also
+- [[solanaceous-hallucinogens-old-world-psychoactive-plants]]
+- [[mckenna-new-world-mushroom-rediscovery]]
+- [[allegro-plants-and-drugs-in-the-ancient-world]]

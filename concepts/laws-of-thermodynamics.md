@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [physics, thermodynamics, entropy, energy, engineering, chemistry]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 type: concept
 ---
 

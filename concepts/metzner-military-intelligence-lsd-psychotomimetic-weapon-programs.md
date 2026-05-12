@@ -70,7 +70,7 @@ The knowledge gained through these programs eventually leaked into the academic 
 
 Ken Kesey, who received LSD as a volunteer in government-sponsored experiments at a VA hospital, went on to organize the Merry Pranksters and become one of the key figures in the popularization of LSD.
 
-This ironic chain of events — from military weapon research to countercultural icon — illustrates the difficulty of controlling knowledge about powerful [[star-fire-and-sacred-substances]].
+This ironic chain of events — from military weapon research to countercultural icon — illustrates the difficulty of controlling knowledge about powerful [[cultural-evolution-and-psychoactive-substances]].
 
 ## Ethical Violations and Accountability
 

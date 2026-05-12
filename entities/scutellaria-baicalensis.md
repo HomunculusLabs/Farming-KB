@@ -88,3 +88,9 @@ In TCM, *S. baicalensis* root (huáng qín) is classified as bitter, cold, and e
 
 - Clearing heat and drying dampness (diarrhea, dysentery, jaundice)
 - Purging fire and resolving toxicity (sore throat, carbuncles, fevers)
+
+## See Also
+
+- [[scutellaria-barbata]]
+- [[scutellaria-galericulata]]
+- [[scutellaria-indica]]

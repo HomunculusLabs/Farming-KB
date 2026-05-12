@@ -41,7 +41,7 @@ To the American commercial grower, the sort of flat bed that is almost invariabl
 
 ### Compression
 
-The compost for flat beds is pitched into the designated area and immediately arranged and somewhat compressed with blows from a shovel, or "firmed" with a compressing board, to prevent it from becoming loose and dry. Compression should not be so severe as to involve hammering with a mallet, but the bed should be firm enough even before spawning to support a person without sinking more than 1 or 2 inches.
+The [[compost]] for flat beds is pitched into the designated area and immediately arranged and somewhat compressed with blows from a shovel, or "firmed" with a compressing board, to prevent it from becoming loose and dry. Compression should not be so severe as to involve hammering with a mallet, but the bed should be firm enough even before spawning to support a person without sinking more than 1 or 2 inches.
 
 ## The Ridge Bed (French Type)
 

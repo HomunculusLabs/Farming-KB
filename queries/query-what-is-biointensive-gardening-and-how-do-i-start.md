@@ -3,7 +3,8 @@ title: "What is Biointensive Gardening and How Do I Start?"
 tags: [query, biointensive, gardening, permaculture, soil]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/jeavons-how-grow-vegetables.md"
 ---
 
 # What is Biointensive Gardening and How Do I Start?

@@ -6,7 +6,7 @@ type: concept
 
 # Windbreak Design and Livestock Shelter
 
-Windbreaks (also called shelterbelts) are one of the most cost-effective and multi-functional elements in permaculture design. They provide shelter for livestock, increase crop yields, conserve soil moisture, prevent wind erosion, and can be designed to yield forage, timber, fuelwood, and mulch simultaneously.
+Windbreaks (also called shelterbelts) are one of the most cost-effective and multi-functional elements in [[permaculture-design]]. They provide shelter for livestock, increase crop yields, conserve soil moisture, prevent wind erosion, and can be designed to yield forage, timber, fuelwood, and mulch simultaneously.
 
 ## Effects on Livestock Production
 
@@ -98,7 +98,7 @@ Beyond shelter, windbreak species can provide:
 - **Crop mulch**: Prosopis, Acacia, Erythrina, Melia, Canna
 - **Fodder**: All the above plus Leucaena, Fig, Pennisetum
 - **Nitrogen and phosphorus fixation** or recycling
-- **Trace element mining**: Casuarina, Banksia, Eucalyptus camaldulensis
+- **Trace element mining**: Casuarina, Banksia, [[eucalyptus-camaldulensis]]
 
 Dry or cold-deciduous species provide natural leaf fall in crop, automatically adding growth elements. In every crop and orchard, interplanting leguminous trees for mulch, soil building, and in-crop windbreak or frost cover is advisable.
 

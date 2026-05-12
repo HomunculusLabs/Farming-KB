@@ -50,7 +50,7 @@ Entrance to the champignonières varied considerably in convenience:
 - **Open quarry access**: Some caves were entered through an open quarry face, more or less readily accessible for the transport of materials and mushrooms
 - **Shaft access**: Other caves were reached only through a hole a few feet or more in diameter, requiring descent by ladder, with a **windlass for lifting or lowering materials**—a far more labor-intensive arrangement
 
-The logistics of moving compost (prepared horse manure) into the caves and spent bedding material out again were significant operational considerations that affected the economic viability of individual cave sites. Caves with poor access or distant manure sources could be economically prohibitive despite otherwise ideal growing conditions.
+The logistics of moving [[compost]] (prepared horse manure) into the caves and spent bedding material out again were significant operational considerations that affected the economic viability of individual cave sites. Caves with poor access or distant manure sources could be economically prohibitive despite otherwise ideal growing conditions.
 
 ## Environmental Conditions
 

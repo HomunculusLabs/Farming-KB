@@ -3,19 +3,19 @@ title: Aflatoxin
 created: 2026-04-28
 type: chemical
 tags:
-  - mycotoxin
-  - aspergillus
-  - public-health
-  - carcinogen
-  - food-safety
-  - hepatotoxin
-  - fungal-metabolite
+ - mycotoxin
+ - aspergillus
+ - public-health
+ - carcinogen
+ - food-safety
+ - hepatotoxin
+ - fungal-metabolite
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - IARC Working Group on the Evaluation of Carcinogenic Risks to Humans (2012). "Chemical Agents and Related Occupations." IARC Monographs Vol. 100F
-  - Williams JH et al. (2004). "Human aflatoxicosis in developing countries: a review of toxicology, exposure, potential health consequences, and interventions." American Journal of Clinical Nutrition, 80(5): 1106-1122
-  - FDA (2020). "Aflatoxins in Food and Feed: Compliance Program Guidance." US FDA
+ - IARC Working Group on the Evaluation of Carcinogenic Risks to Humans (2012). "Chemical Agents and Related Occupations." IARC Monographs Vol. 100F
+ - Williams JH et al. (2004). "Human aflatoxicosis in developing countries: a review of toxicology, exposure, potential health consequences, and interventions." American Journal of Clinical Nutrition, 80(5): 1106-1122
+ - FDA (2020). "Aflatoxins in Food and Feed: Compliance Program Guidance." US FDA
 ---
 
 ## Overview
@@ -58,7 +58,7 @@ Prevention and mitigation strategies include:
 - **Good agricultural practices (GAP):** Timely harvest, proper drying to safe moisture levels, and [[mushroom-pests-insect-control-stamets]]
 - **Nixtamalization:** Traditional Mesoamerican alkaline cooking of maize reduces aflatoxin levels by 80–95%
 - **Binders and adsorbents:** Clay minerals (e.g., bentonite, NovaSil™) added to animal feed can sequester aflatoxins in the gastrointestinal tract
-- **Breeding for resistance:** Development of [[the-ultimate-goal-of-farming]] with reduced susceptibility through marker-assisted selection
+- **Breeding for resistance:** Development of with reduced susceptibility through marker-assisted selection
 
 ## Health Effects in Humans
 

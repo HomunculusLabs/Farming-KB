@@ -116,7 +116,7 @@ The ordering principles observed in streams apply to many systems:
 
 ## Design Implications
 
-For permaculture designers, the ordering principle offers several critical lessons:
+For [[permaculture]] designers, the ordering principle offers several critical lessons:
 
 1. **Study before building**: Understand the natural stable orders for any system type before designing
 2. **Respect equilibrium**: Altering one aspect of a branching system (e.g., widening a highway) cascades through all connected levels
@@ -129,4 +129,9 @@ The concept of "status" is explicitly rejected in favor of "function." As Mollis
 ## Key References
 
 - Vogel, S. (1981). *Life in Moving Fluids*. Princeton University Press.
-- Mollison, B. (1988). *Permaculture: A Designer's Manual*. Tagari Publications.
+- Mollison, B. (1988). *Permaculture: A Designer's Manual*. [[tagari-publications]].
+
+## See Also
+- [[mollison-stream-orders-and-branching-magnitudes]]
+- [[branching-patterns-and-stream-orders]]
+- [[stream-orders-and-settlement-design]]

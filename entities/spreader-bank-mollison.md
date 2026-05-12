@@ -11,17 +11,11 @@ tags: [earthworks, water-management, permaculture, irrigation, erosion-control]
 
 A spreader bank is an earthwork designed to spill a thin sheet of surplus (overflow) water down a broad grassy slope for irrigation or, in desert environments, to prevent channel scour and gullying. Spreader banks take overflow from swales and dams and distribute it evenly across the landscape as sheet flow rather than concentrated channel flow.
 
-
-
 ## Classification
 
 - **Category**: Water management earthwork
 - **Function**: Sheet flow distribution and erosion prevention
 - **Design lineage**: Permaculture earthworks / surface irrigation
-
-
-
-
 
 ## Design Specifications
 
@@ -30,10 +24,6 @@ A spreader bank is an earthwork designed to spill a thin sheet of surplus (overf
 - **Water source**: Dam, swale, or minor stream
 - **Spoil placement**: Piled uphill, preferably in mounds, or removed entirely
 - **Cross-slope gradient**: Level sill on the downhill lip
-
-
-
-
 
 ## Key Facts
 
@@ -45,10 +35,6 @@ A spreader bank is an earthwork designed to spill a thin sheet of surplus (overf
 - Pipes may be replaced with level concrete sills
 - In established systems, the entire lower lip may be concreted for a permanent level spill immune to damage by cattle or vehicles
 
-
-
-
-
 ## Components of a Spreader Bank Irrigation System
 
 1. **Head race**: Primary feeder drain running along the contour
@@ -57,10 +43,6 @@ A spreader bank is an earthwork designed to spill a thin sheet of surplus (overf
 4. **Steering banks**: Low side walls that confine water to each irrigation bay
 5. **Irrigation bays**: Flat, planed areas ideally not exceeding 100 m in length
 6. **Tail drain**: Surplus water drain at the lower end, leading to stream or secondary storage
-
-
-
-
 
 ## Relevance to Cultivation
 
@@ -73,9 +55,34 @@ Spreader banks are a key permaculture earthwork for distributing water across th
 
 The system is particularly effective when gravity-fed, requiring no pumps or energy inputs once constructed. Mollison notes that with plastic flag gates, one or two people can water 200-240 ha (400-600 acres) in a morning using these systems.
 
+## Practical Applications
 
+Spreader Bank finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
 
+## Ecological Context
 
+Understanding spreader bank within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating spreader bank into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
+
+## See Also
+
+- [[diversion-drains-and-spreader-banks]]
+- [[diversion-drains-interceptor-drains-spreader-banks]]
+- [[ingham-sticker-spreader-surfactants]]
+- [[spreader-banks-and-interceptor-drains]]
+- [[spreader-banks-and-irrigation-bays]]
 
 ## See Also
 

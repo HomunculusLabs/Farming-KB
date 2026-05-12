@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Valley climates are the distinctive local climatic conditions that develop within valleys and gorges due to the interaction of topography, solar radiation, and air drainage patterns. In permaculture design, understanding valley climate dynamics is essential for site selection, microclimate modification, and optimal placement of crops, structures, and windbreak systems. Bill Mollison devotes significant attention to valley climate effects in *Permaculture: A Designer's Manual*, describing how valleys can create both highly favorable and severely limiting growing conditions depending on their orientation, width, and altitude.
+Valley climates are the distinctive local climatic conditions that develop within valleys and gorges due to the interaction of topography, solar radiation, and air drainage patterns. In [[permaculture-design]], understanding valley climate dynamics is essential for site selection, microclimate modification, and optimal placement of crops, structures, and windbreak systems. Bill Mollison devotes significant attention to valley climate effects in *Permaculture: A Designer's Manual*, describing how valleys can create both highly favorable and severely limiting growing conditions depending on their orientation, width, and altitude.
 
 ## Classification
 

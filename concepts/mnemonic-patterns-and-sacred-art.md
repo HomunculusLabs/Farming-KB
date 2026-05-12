@@ -91,7 +91,7 @@ Some modern sculptural forms serve both aesthetic and functional purposes. The *
 ## Key References
 
 - Matthiessen, P. (1980). *The Snow Leopard*. Picador.
-- Virbela Institute, Emerson College, Forest Row, East Sussex, UK (Flowform designs and research).
+- [[virbela-institute]], Emerson College, Forest Row, East Sussex, UK (Flowform designs and research).
 
 ## See Also
 - [[tessellation-annidation-patterns]]

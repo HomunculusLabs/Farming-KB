@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Understanding how heat moves through landscapes is fundamental to [[permaculture-design]]. Heat is transferred by three principal mechanisms—conduction, convection, and radiation—each operating at different scales and with distinct implications for site planning, building design, and agricultural strategy. The concept of the **[[thermal-belt]]** on hillsides, combined with knowledge of convection loops and thermosiphons, gives designers powerful tools for placing structures, gardens, and settlements to maximize thermal comfort and minimize energy input.
+Understanding how heat moves through landscapes is fundamental to [[permaculture-design]]. Heat is transferred by three principal mechanisms—conduction, convection, and radiation—each operating at different scales and with distinct implications for site planning, building design, and agricultural strategy. The concept of the **[[thermal-belt]]** on hillsides, combined with knowledge of [[convection-loops-and-thermosiphons]], gives designers powerful tools for placing structures, gardens, and settlements to maximize thermal comfort and minimize energy input.
 
 ## Heat Transfer Mechanisms
 

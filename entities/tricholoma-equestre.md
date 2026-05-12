@@ -88,3 +88,10 @@ The discovery of T. equestre's toxicity represents a landmark case in medical my
 - **Reversal of status:** Prior to Bedry's 2001 NEJM publication, T. equestre was listed in major European field guides as "excellent edible" and was commercially sold in markets in France, Spain, Poland, and Russia. The species was subsequently reclassified as poisonous.
 
 ### Unresolved Questions
+
+## See Also
+
+- [[tricholoma-lobayense]]
+- [[tricholoma-pleurotus-and-white-spored-edible-genera]]
+- [[tricholoma-portentosum]]
+- [[tricholoma-tigrinum]]

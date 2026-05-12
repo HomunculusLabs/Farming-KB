@@ -35,7 +35,7 @@ tissue, and so on. Most remarkably, Abrams found he could diagnose
 patients from a single drop of blood, and even determine over telephone
 wires from miles away.
 
-His crowning insight was that [[quinine]] molecules emitted radiations
+His crowning insight was that [[quinine-mollison]] molecules emitted radiations
 that exactly canceled those from malarial molecules. Mercury canceled
 syphilis. This suggested that radiations from antidotes could be used
 to destroy disease-causing oscillations -- leading to the invention of

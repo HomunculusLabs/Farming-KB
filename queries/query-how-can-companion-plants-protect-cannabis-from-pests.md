@@ -71,9 +71,14 @@ interference to light penetration and airflow around your cannabis canopy.
 - [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]]
 - [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 
+
 ## See Also
 
-- [[query-how-to-transition-cannabis-from-vegetative-to-flowering]]
+- [[query-how-do-i-build-and-use-a-keyhole-garden]]
+- [[query-how-do-i-design-an-edible-landscape-for-my-front-yard]]
+- [[query-how-do-i-start-an-outdoor-mushroom-garden-in-my-backyard]]
+- [[query-how-do-i-train-and-trellis-fruiting-vines-and-climbing-plants]]
+
 ## Practical Considerations
 
 Successful implementation of How Can Companion Plants Protect Cannabis from Pests? requires attention to

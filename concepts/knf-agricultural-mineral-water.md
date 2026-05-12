@@ -83,7 +83,6 @@ There is no special dilution — use AMW like regular water:
 - Microorganisms from IMO colonize the water
 - One AMW watering equals 5 regular waterings in effectiveness
 
-
 ## See Also
 
 - [[knf-chitosan-preparation]]

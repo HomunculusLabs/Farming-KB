@@ -32,18 +32,18 @@ Three classes within the phylum [[proteobacteria-dominance-cannabis-endorhiza]] 
 
 ### Gammaproteobacteria
 
-[[gammaproteobacteria-dominance-cannabis-endorhiza]] showed the strongest enrichment in the endorhiza, driven primarily by increases in the order [[Pseudomonadales]]. Members of this class are frequently associated with plant growth-promoting functions and competitive root colonization. Their rapid growth rates and metabolic flexibility allow them to capitalize on the carbon-rich environment created by root exudates. Within [[cannabis-sativa]], the rise of [[gammaproteobacteria-dominance-cannabis-endorhiza]] from rhizosphere to endorhiza was among the most pronounced class-level transitions observed in the study.
+[[gammaproteobacteria-dominance-cannabis-endorhiza]] showed the strongest enrichment in the endorhiza, driven primarily by increases in the order [[pseudomonas|Pseudomonadales]]. Members of this class are frequently associated with plant growth-promoting functions and competitive root colonization. Their rapid growth rates and metabolic flexibility allow them to capitalize on the carbon-rich environment created by root exudates. Within [[cannabis-sativa]], the rise of [[gammaproteobacteria-dominance-cannabis-endorhiza]] from rhizosphere to endorhiza was among the most pronounced class-level transitions observed in the study.
 
 ### Alphaproteobacteria
 
-[[Alphaproteobacteria]] increased steadily from [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] to endorhiza, with notable contributions from two key orders:
+Alphaproteobacteria increased steadily from [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] to endorhiza, with notable contributions from two key orders:
 
-- **[[Sphingomonadales]]**: Known for their ability to degrade complex plant-derived polymers and tolerate a range of environmental stresses. Their enrichment in root interiors suggests adaptation to the unique chemical environment of plant tissues.
-- **[[Rhizobiales]]**: This order includes nitrogen-fixing and hormone-producing symbionts that may form beneficial associations with [[cannabis-sativa]] roots even in the absence of formal nodulation structures commonly observed in legumes.
+- **[[soil-microbiology-basics]]**: Known for their ability to degrade complex plant-derived polymers and tolerate a range of environmental stresses. Their enrichment in root interiors suggests adaptation to the unique chemical environment of plant tissues.
+- **[[soil-microbiology-basics]]**: This order includes nitrogen-fixing and hormone-producing symbionts that may form beneficial associations with [[cannabis-sativa]] roots even in the absence of formal nodulation structures commonly observed in legumes.
 
 ### Betaproteobacteria
 
-[[Betaproteobacteria]] were also enriched in root compartments relative to [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]], largely represented by the order [[Burkholderiales]]. This order contains many taxa with broad metabolic versatility and antagonistic properties against soil-borne pathogens, making them strong candidates for root-endophytic colonization in [[cannabis-sativa]].
+Betaproteobacteria were also enriched in root compartments relative to [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]], largely represented by the order [[soil-microbiology-basics]]. This order contains many taxa with broad metabolic versatility and antagonistic properties against soil-borne pathogens, making them strong candidates for root-endophytic colonization in [[cannabis-sativa]].
 
 ## OTU-Level Enrichment in the Endorhiza
 
@@ -75,8 +75,8 @@ The progressive enrichment of copiotrophic [[proteobacteria-dominance-cannabis-e
 
 The Cannabis microbiome pattern is not unique. Similar Proteobacterial enrichment from rhizosphere to endorhiza has been documented across diverse plant species:
 
-- **[[populus-alba]]**: Studies of poplar root microbiomes consistently show enrichment of [[gammaproteobacteria-dominance-cannabis-endorhiza]] (especially [[Pseudomonadales]] and [[Enterobacteriales]]) in root compartments, closely mirroring the [[cannabis-sativa]] pattern. The convergence is notable given the phylogenetic distance between woody perennials and herbaceous annuals.
-- **[[arabidopsis-thaliana]]**: The model plant also exhibits a strong Proteobacterial shift toward root interior tissues, with [[Alphaproteobacteria]] and [[Betaproteobacteria]] dominating the endorhizal community, paralleling the [[cannabis-sativa]] findings.
+- **[[populus-alba]]**: Studies of poplar root microbiomes consistently show enrichment of [[gammaproteobacteria-dominance-cannabis-endorhiza]] (especially [[pseudomonas|Pseudomonadales]] and [[soil-microbiology-basics]]) in root compartments, closely mirroring the [[cannabis-sativa]] pattern. The convergence is notable given the phylogenetic distance between woody perennials and herbaceous annuals.
+- **[[arabidopsis-thaliana]]**: The model plant also exhibits a strong Proteobacterial shift toward root interior tissues, with Alphaproteobacteria and Betaproteobacteria dominating the endorhizal community, paralleling the [[cannabis-sativa]] findings.
 - **Maize and rice**: Comparable compartment gradients have been reported in major cereal crops, suggesting that the [[two-tier-selection-model]] represents a general principle of root microbiome assembly across the plant kingdom.
 
 The cross-species consistency of Proteobacterial enrichment in the endorhiza indicates that this pattern is driven by fundamental ecological processes — particularly the selection for copiotrophic, fast-growing taxa in carbon-rich root environments — rather than by plant-species-specific factors alone.
@@ -87,4 +87,4 @@ The four Proteobacterial orders most consistently enriched in the [[cannabis-sat
 
 | Order | Class | Primary Compartment | Key Functional Traits |
 |-------|-------|---------------------|----------------------|
-| [[Pseudomonadales]] | [[gammaproteobacteria-dominance-cannabis-endorhiza]] | Endorhiza | [[pseudomonas-endophyte-cannabis-endorhiza-plant-growth-promotion]], biocontrol, [[singh-fungal-siderophore-production-iron-acquisition]] |
+| [[pseudomonas|Pseudomonadales]] | [[gammaproteobacteria-dominance-cannabis-endorhiza]] | Endorhiza | [[pseudomonas-endophyte-cannabis-endorhiza-plant-growth-promotion]], biocontrol, [[singh-fungal-siderophore-production-iron-acquisition]] |

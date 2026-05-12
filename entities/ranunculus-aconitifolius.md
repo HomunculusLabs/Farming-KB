@@ -111,7 +111,7 @@ In the wild, the species is protected in several European countries. Collection 
 
 - [[ranunculus-acris]]
 - [[ranunculus-repens]]
-- [[ranunculus-platanifolius]]
+- ranunculus aconitifolius
 - [[ranunculus-glacialis]]
 - [[anemone-nemorosa]]
 - [[caltha-palustris]]

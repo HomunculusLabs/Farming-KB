@@ -54,7 +54,7 @@ This "microbial loop" is extremely efficient at cycling nutrients. Protozoan gra
 
 ### Assessment Levels
 
-In [[compost-tea-and-biological-extracts]] compost, protozoan populations are assessed to ensure adequate diversity and abundance:
+In [[compost]] compost, protozoan populations are assessed to ensure adequate diversity and abundance:
 
 | Group | Target Level (per gram dry weight) |
 |-------|----------------------------------|

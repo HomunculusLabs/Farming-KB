@@ -3,7 +3,8 @@ title: "Why Are My Plants Not Producing Fruit and How Do I Hand Pollinate?"
 tags: [query, pollination, hand-pollination, fruit-set, garden-troubleshooting]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 ---
 
 # Why Are My Plants Not Producing Fruit and How Do I Hand Pollinate?

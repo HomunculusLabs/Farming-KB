@@ -47,7 +47,7 @@ Mollison uses the chicken as a universally understood example of the analysis me
 
 **Primary products**: eggs, feathers, feather dust, manure, exhaled/excreted gases, sound, and heat.
 
-**Derived products**: foods from eggs, albumen, dusters and insulation from feathers, bedding and rope from feathers, special manures, compost heat from manure combined with carbon materials, methane from anaerobic [[composting]], heat and gases for enclosed glasshouses.
+**Derived products**: foods from eggs, albumen, dusters and insulation from feathers, bedding and rope from feathers, special manures, [[compost]] heat from manure combined with carbon materials, methane from anaerobic [[composting]], heat and gases for enclosed glasshouses.
 
 **Behaviors**: walking, flying, perching, scratching, preening, mating, hatching eggs, caring for young, forming flocks of 20–30 individuals, foraging, processing food to form primary products and maintain growth and body weight.
 

@@ -148,4 +148,3 @@ mushroom's strengths without overlap.
 - [[comparison-shiitake-vs-cordyceps]]
 - [[comparison-shiitake-vs-lions-mane]]
 - [[comparison-shiitake-vs-maitake]]
-- [[comparison-shiitake-vs-turkey-tail]]

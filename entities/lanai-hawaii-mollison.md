@@ -57,7 +57,7 @@ leeward zones:
   ideal conditions for **upslope/orographic fog** condensation.
 - In such fog-rich areas, **even field crops may thrive without irrigation**,
   making fog an agriculturally significant water source.
-- Lanai's fog precipitation is notably less than Table Mountain, South Africa
+- Lanai's fog precipitation is notably less than [[table-mountain]], South Africa
   (329 cm), demonstrating how fog harvest varies with elevation, wind
   patterns, and ocean proximity.
 - The island was historically known as the "Pineapple Isle" due to the

@@ -87,3 +87,8 @@ survive pasteurization.
 | Validation required | Biological indicators | Routine monitoring |
 
 ## Application in Mycology
+
+## See Also
+
+- [[microwave-sterilization-dose-response-microbial-kill-curves]]
+- [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]]

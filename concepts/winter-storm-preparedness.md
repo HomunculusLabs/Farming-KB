@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [safety, homesteading, climate, water, animal-husbandry]
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 ---
 
 # Winter Storm Preparedness

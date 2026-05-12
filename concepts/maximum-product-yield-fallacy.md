@@ -12,7 +12,7 @@ The "Big Pumpkin" fallacy is a foundational critique in [[permaculture-design]] 
 
 In a fluctuating climatic and market environment, forcing maximum product yield courts disaster. This approach — the impetus behind seed catalog advertisements for "giant new varieties" and agricultural show prizes — ignores the fundamental reality that natural systems are variable and unpredictable. Better by far are mixed crop systems and fail-safe designs that can produce under most conditions: wet or dry, cold or hot.
 
-[[permaculture]] favors crops that hold constant value as subsistence staples (potato, taro, arrowroot), possess special value (vanilla, [[quinine]], bamboo), or deliver high food value per volume (fish, chicken). The emphasis is on resilience through diversity rather than peak extraction from monoculture.
+[[permaculture]] favors crops that hold constant value as subsistence staples (potato, taro, arrowroot), possess special value (vanilla, [[quinine-mollison]], bamboo), or deliver high food value per volume (fish, chicken). The emphasis is on resilience through diversity rather than peak extraction from monoculture.
 
 ## Five Factors That Increase Yield — And Their Costs
 

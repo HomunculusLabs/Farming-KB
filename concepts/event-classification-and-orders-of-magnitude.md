@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In permaculture pattern theory, all phenomena—whether geological, biological, social, or conceptual—can be classified systematically by their nature, stage of development, dimensionality, and location. This classification framework provides designers with a universal language for analyzing and comparing events across scales, from subatomic particles to galaxies. Understanding orders of magnitude and how they govern the behavior of systems at different scales is essential for creating designs that work with, rather than against, natural patterns.
+In [[permaculture]] pattern theory, all phenomena—whether geological, biological, social, or conceptual—can be classified systematically by their nature, stage of development, dimensionality, and location. This classification framework provides designers with a universal language for analyzing and comparing events across scales, from subatomic particles to galaxies. Understanding orders of magnitude and how they govern the behavior of systems at different scales is essential for creating designs that work with, rather than against, natural patterns.
 
 ## Orders and Dimensions in Branching
 
@@ -127,3 +127,8 @@ All these movements have characteristic pulse rates, connecting human experience
 Designers can "move sideways in the waves of time"—transporting seed from continent to continent, permitting natural or induced hybrid plants to weave an alternative future. This positions humans as active translators of both life and death, with the responsibility to act in ways that sustain the totality of living systems.
 
 The critical design insight is that **the point where all important action takes place is through the point of origin, which is always in the present**. How we behave now may determine not only the future but reshape our understanding of the past.
+
+## See Also
+- [[event-classification-and-pattern-unity]]
+- [[pattern-classification-and-unified-event-taxonomy]]
+- [[event-classification-and-time-in-pattern-models]]

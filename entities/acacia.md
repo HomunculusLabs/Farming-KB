@@ -88,3 +88,9 @@ Acacia species are indispensable in [[acacia-senegal]]
 
 - [[permaculture-plants-legume-trees-acacia-carob-locust]]
 - [[hordenine]]
+
+## See Also
+
+- [[acacia-acuminata]]
+- [[acacia-farnesiana]]
+- [[acacia-tortilis]]

@@ -117,7 +117,7 @@ As the legal cannabis industry continues to mature, understanding the endorhiza 
 ## Related Concepts
 
 - [[rhizosphere-ecology]]
-- [[crimson-clover]]
+- 
 - [[cultivar-specificity-plant-microbiome]]
 - [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
 

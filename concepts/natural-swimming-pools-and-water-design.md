@@ -52,7 +52,7 @@ Mollison provides a systematic checklist ensuring no water resource is overlooke
 - **Reserve sites** for tanks, swales, dams, and earthworks during initial layout
 - Design for **gravity flow** wherever possible to eliminate pumping energy
 - Prepare **detailed plant lists** for riparian zones, dam edges, and swale berms
-- Collect **soil samples** confirming at least **40% clay content** for earth-dam construction
+- Collect **soil samples** confirming at least **40% clay content** for earth-[[dam-construction]]
 - Integrate the **Keyline system** for maximum water retention and equitable distribution
 
 ---
@@ -132,3 +132,8 @@ Water is the primary agent of chemical weathering. **Felspars** break down as wa
 3. **Biological systems replace mechanical and chemical ones** — living filters replace chlorine
 4. **The problem is the solution** — excess nutrients become fertilizer, runoff becomes irrigation
 5. **Integrate rather than segregate** — water, soil, trees, animals, and structures function as one system
+
+## See Also
+- [[mollison-designers-natural-swimming-pools-and-water-purification]]
+- [[natural-swimming-pools]]
+- [[jadam-natural-mineral-water]]

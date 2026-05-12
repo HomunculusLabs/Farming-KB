@@ -62,7 +62,7 @@ People who can call the deer (Paiute wise men), the dolphin (Gilbert Islanders),
 
 ## The Anasazi Spiral Calendar
 
-The Anasazi spiral provides perhaps the most striking example of information density in a simple pattern. This apparently simple spiral, inscribed on a rock surface near the top of a mesa in the desert southwest USA, contains:
+The [[anasazi-spiral]] provides perhaps the most striking example of information density in a simple pattern. This apparently simple spiral, inscribed on a rock surface near the top of a mesa in the desert southwest USA, contains:
 
 - **19 intercept points** on its "horizon" line
 - **Three carefully balanced rock slabs** shaped as gnomons

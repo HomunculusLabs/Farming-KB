@@ -88,3 +88,9 @@ Despite safety warnings, wild ginger continues to be used by some foragers who h
 ## Ecological Role
 
 The ground-level flowers of *A. canadense* are pollinated primarily by small flies and beetles that crawl along the forest floor. The urn-shaped calyx tube traps insects briefly, promoting effective pollen transfer.
+
+## See Also
+
+- [[asarum-heterotropoides]]
+- [[asarum-maximum]]
+- [[asarum-sieboldii]]

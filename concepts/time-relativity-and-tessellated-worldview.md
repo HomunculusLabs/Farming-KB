@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The permaculture understanding of time and pattern leads to a radical worldview in which all phenomena are seen as interconnected events in a single, enfolded reality. Drawing on insights from physics (David Bohm), biology (Lovelock's Gaia), ecology (Birch and Cobb), and indigenous wisdom traditions, this perspective sees the present moment as the origin of both past and future, all events as projections of a single totality, and pattern understanding as the key to sustainable design. This philosophical framework underpins all permaculture design practice.
+The permaculture understanding of time and pattern leads to a radical worldview in which all phenomena are seen as interconnected events in a single, enfolded reality. Drawing on insights from physics (David Bohm), biology (Lovelock's Gaia), ecology (Birch and Cobb), and indigenous wisdom traditions, this perspective sees the present moment as the origin of both past and future, all events as projections of a single totality, and pattern understanding as the key to sustainable design. This philosophical framework underpins all [[permaculture-design]] practice.
 
 ## Time and the Origin Point
 
@@ -107,3 +107,8 @@ Hawaiian villagers developed a far more sensible approach, taking natural ridgel
 - Preserve the offshore reef area and marine environment
 
 Zulus and American Indians independently adopted circular or zonal modes in their plains settlements. Such models can be studied and adopted by future bioregional societies.
+
+## See Also
+- [[niche-in-space-and-time]]
+- [[pattern-classification-time-and-unified-events]]
+- [[ingham-aact-application-timing-holding-time]]

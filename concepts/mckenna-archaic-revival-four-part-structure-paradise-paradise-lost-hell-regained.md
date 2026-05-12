@@ -40,7 +40,7 @@ McKenna's "Hell" section also explores specific cultural moments in the suppress
 
 - The persecution of European witches (who preserved pre-Christian plant knowledge)
 - The destruction of [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] in the Americas
-- The criminalization of [[star-fire-and-sacred-substances]] in the 20th century
+- The criminalization of [[cultural-evolution-and-psychoactive-substances]] in the 20th century
 - The emergence of designer drugs (MDMA, anabolic steroids) as harbingers of "an era of ever more frequent and effective pharmacological intervention"
 
 ## Paradise Regained?: The Archaic Revival
@@ -87,3 +87,7 @@ McKenna does not present this as a simple good-versus-evil binary but as a spect
 - **Cultural essentialism**: The partnership–dominator binary risks homogenizing diverse cultures and [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]] into a simplistic framework
 - **Determinism**: McKenna tends to attribute complex historical changes to a single cause (the presence or absence of psychoactive plants), neglecting economic, geographic, and technological factors
 - **Prescriptive vagueness**: While eloquent in describing the problem, McKenna offers few concrete proposals for how an "Archaic revival" might actually be achieved at scale
+
+## See Also
+
+- [[five-historical-periods-neurotropic-fungi-discovery]]

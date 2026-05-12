@@ -88,3 +88,7 @@ of the Korean Peninsula.
 Wild populations have declined significantly due to overharvesting, and the
 species is now classified as **Vulnerable** in parts of its Chinese range.
 Cultivation accounts for an increasing share of commercial supply.
+
+## See Also
+
+- [[guzman-central-america-neurotropic-fungi-species-distribution]]

@@ -3,7 +3,8 @@ title: "How Do I Start a Profitable Market Garden on a Small Plot?"
 tags: [query, market-gardening, small-farm, organic-farming, profitability]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 ---
 
 # How Do I Start a Profitable Market Garden on a Small Plot?

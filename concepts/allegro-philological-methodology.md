@@ -112,5 +112,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[dom]]
 - [[shamanism]]
 - [[mystical-experience]]
-- [[christian-eucharist-origins]]
+- [[amanita-muscaria-ancient-christian-agape-communion-eucharist]]
 - [[oss-oeric-rice-cake-tek-methodology]]

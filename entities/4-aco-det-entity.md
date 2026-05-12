@@ -76,7 +76,7 @@ The synthesis of 4-AcO-DET follows the general pathway for 4-acetylated tryptami
 
 ## Legal Status
 - **United States:** Schedule I under the Federal Analog Act (as a positional isomer of psilocin, or as a controlled substance analog of a Schedule I drug)
-- **United Kingdom:** Class A under the [[star-fire-and-sacred-substances]] Act amendments and Misuse of Drugs Act
+- **United Kingdom:** Class A under the [[cultural-evolution-and-psychoactive-substances]] Act amendments and Misuse of Drugs Act
 - **Canada:** Schedule III under the Controlled Drugs and Substances Act
 - **EU:** Varies by member state; generally controlled as a tryptamine derivative
 - **Australia:** Schedule 9 (Prohibited Substance)

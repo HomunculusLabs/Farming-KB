@@ -77,3 +77,5 @@ The process of designing by deduction follows several key steps:
 - [[permaculture-deduction-from-nature]]
 - [[bill-mollison-permaculture-overview]]
 - [[permaculture-functional-design-integration]]
+
+Continued research into design deduction from nature expands the knowledge base for ecological design.

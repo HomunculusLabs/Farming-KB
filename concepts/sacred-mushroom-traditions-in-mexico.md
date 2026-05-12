@@ -18,7 +18,7 @@ in the world. The indigenous peoples of central and southern Mexico have used
 centuries, possibly millennia. The rediscovery of these traditions by
 Western science in the mid-20th century, catalyzed by the work of R. Gordon
 Wasson, Roger Heim, and Rolf Singer, profoundly influenced both mycology and
-the broader study of [[star-fire-and-sacred-substances]]. Understanding these traditions
+the broader study of [[cultural-evolution-and-psychoactive-substances]]. Understanding these traditions
 requires appreciation of their linguistic diversity, ceremonial contexts, and
 the complex interplay between [[psilocybin-chemistry-stability-indigenous-knowledge]] and colonial cultural
 transformation.

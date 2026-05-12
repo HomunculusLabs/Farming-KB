@@ -118,8 +118,8 @@ Arthur uses this connection to argue that the commandments were not uniquely rev
 ## See Also
 
 - [[amanita-muscaria]]
-- [[sumerian-mythology]]
+- sumerian annunaki and fruit of knowledge
 - [[anunnaki-enki-and-enlil-mythology]]
 - [[allegro-garden-of-eden-and-delight]]
-- [[Caduceus]]
-- [[hammurabi's-code]]
+- [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
+- sumerian annunaki and fruit of knowledge

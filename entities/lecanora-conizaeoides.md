@@ -88,3 +88,9 @@ The species acts as a pioneer on bark surfaces in polluted areas, establishing b
 It forms a symbiosis with a green algal photobiont, typically Trebouxia simplex or related species adapted to [[dark-septate-endophytes-stressed-environments]].
 
 L. conizaeoides plays a role in the early stages of lichen community recovery as pollution levels decline.
+
+## See Also
+
+- [[lecanora-chlarotera]]
+- [[lecanora-chlorotera]]
+- [[lecanora-muralis]]

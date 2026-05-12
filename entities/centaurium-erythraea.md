@@ -88,3 +88,9 @@ The European Medicines Agency recognizes Centaurii herba as a traditional herbal
 Traditional uses extend beyond digestion to include treatment of fever, anemia, snakebite, and wound healing. The species name "feverwort" reflects its historical use as an antipyretic in European folk medicine.
 
 Clinical studies on the digestive effects of centaury extracts have demonstrated increased salivary and gastric secretion. The bitter response is mediated through the gustatory nerve and vagal reflex pathways.
+
+## See Also
+
+- [[centaurium-minus]]
+- [[centaurium-montanum]]
+- [[centaurium-scilloides]]

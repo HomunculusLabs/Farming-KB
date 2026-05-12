@@ -1,17 +1,17 @@
 ---
 title: "Duggar Mushroom Anatomy Agaricus Campestris Morphology"
 tags:
-  - mycology
-  - mushroom-anatomy
-  - agaricus-campestris
-  - duggar
-  - mushroom-growing
-  - agaricaceae
+ - mycology
+ - mushroom-anatomy
+ - agaricus-campestris
+ - duggar
+ - mushroom-growing
+ - agaricaceae
 source: "Duggar, B.M. (1915). [[duggar-mushroom-growing-history-and-methods]]. USDA Farmers' Bulletin."
 related:
-  - wiki:concepts/spore-print-techniques
-  - wiki:concepts/amanita-identification-danger
-  - wiki:concepts/mushroom-cultivation-history
+ - wiki:concepts/spore-print-techniques
+ - wiki:concepts/amanita-identification-danger
+ - wiki:concepts/mushroom-cultivation-history
 ---
 
 # Morphology and Anatomy of Agaricus campestris
@@ -37,11 +37,11 @@ The cap (pileus) undergoes a predictable sequence of developmental
 stages as the mushroom matures:
 
 1. **Hemispherical** — In the young button stage the cap is
-   dome-shaped, fitting tightly over the gills.
+ dome-shaped, fitting tightly over the gills.
 2. **Convex** — As expansion proceeds the cap broadens into a rounded
-   profile.
+ profile.
 3. **Nearly plane** — Full maturity flattens the cap, sometimes with
-   a slight uplift at the margin.
+ a slight uplift at the margin.
 
 The cap surface is **smooth**, ranging from **white to cream** in
 color. Occasional specimens develop **brownish scales**, especially
@@ -65,11 +65,11 @@ during the button stage. As the cap opens, the veil tears free and
 remains as a collar-like ring on the upper stem.
 
 - The ring **breaks away** from the stem as the mushroom reaches full
-  expansion.
+ expansion.
 - In the variety **"Columbia"**, the ring is **particularly
-  well-developed**, a notable cultivar characteristic.
+ well-developed**, a notable cultivar characteristic.
 - The presence, position, and persistence of the ring are important
-  diagnostic features for agaric identification.
+ diagnostic features for agaric identification.
 
 ## The Gills (Lamellae) and Hymenium
 
@@ -95,12 +95,12 @@ minute simple cells** — **ovate in shape** — called **spores**. Duggar
 emphasized several key points:
 
 - Spores serve for **reproduction** and are functionally analogous to
-  the green powdery substance produced by moulds on bread or cheese.
+ the green powdery substance produced by moulds on bread or cheese.
 - Spores are **not seeds** — their structure is simple and their
-  development is distinct from that of seed plants. Duggar cautioned
-  growers against using the term "seed" for spores.
+ development is distinct from that of seed plants. Duggar cautioned
+ growers against using the term "seed" for spores.
 - The **color of the spore print** is critically important for species
-  identification.
+ identification.
 
 **Making a spore print** (Duggar's method):
 
@@ -108,7 +108,7 @@ emphasized several key points:
 2. Place the cap **gill-side-down** on white paper.
 3. Cover with a vessel to exclude air currents.
 4. After **24 hours**, a **brownish-black** spore deposit appears,
-   faithfully reproducing the radial pattern of the gills.
+ faithfully reproducing the radial pattern of the gills.
 
 ## Distinguishing from Amanita (Volva)
 
@@ -119,7 +119,7 @@ encloses the entire young mushroom in some genera.
 
 - *Agaricus campestris* **lacks a volva entirely**.
 - Deadly **Amanita** species (e.g., *A. phalloides*, the death cap)
-  **possess a prominent volva** at the stem base.
+ **possess a prominent volva** at the stem base.
 
 This single feature is a key field character for separating the
 edible cultivated mushroom from potentially lethal look-alikes. Duggar
@@ -132,19 +132,19 @@ Duggar's work reflected the emerging commercial [[mushroom-industry-african-coun
 the early [[coleman-louis-savier-twentieth-century-maraicher]]:
 
 - **Button stage** — Mushrooms graded **highest** commercially are
-  those picked **just before the veil breaks**, when the cap is still
-  hemispherical and gills are not yet exposed. This stage maximizes
-  shelf life, texture, and appearance.
+ those picked **just before the veil breaks**, when the cap is still
+ hemispherical and gills are not yet exposed. This stage maximizes
+ shelf life, texture, and appearance.
 - **Variety "Columbia"** — Duggar specifically notes this variety for
-  its **particularly well-developed ring**, suggesting it was a
-  recognized commercial strain with desirable market characteristics.
+ its **particularly well-developed ring**, suggesting it was a
+ recognized commercial strain with desirable market characteristics.
 
 ## See Also
 
 - [[spore-print]] — Detailed methods for
-  making and interpreting spore prints.
-- [[wiki:concepts/amanita-identification-danger]] — Field marks for
-  distinguishing deadly Amanita species from edible agarics.
+ making and interpreting spore prints.
+- [[amanita-identification-field-marks-palmer]] — Field marks for
+ distinguishing deadly Amanita species from edible agarics.
 - [[history-of-commercial-mushroom-cultivation]] — Historical overview
-  of commercial mushroom growing in the United States.
-- [[wiki:concepts/partial-veil-and-annulus-variation]] — Ring morphology across [[duggar-cultivated-agaricus-taxonomy-and-variety]] species.
+ of commercial mushroom growing in the United States.
+- — Ring morphology across [[duggar-cultivated-agaricus-taxonomy-and-variety]] species.

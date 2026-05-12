@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Shulgin, A.T. & Shulgin, A. (1997). TiHKAL: The Continuation. Transform Press. Entry #33: 4-HO-MiPT."
   - "Dean, B.S., Stell, J.G., Repke, D.B., & Shulgin, A.T. (1988). \"Synthesis and pharmacological examination of 4-hydroxy-N-isopropyltryptamine and 4-hydroxy-N-isopropyl-N-methyltryptamine.\" Journal of Medicinal Chemistry, 31(2), 459–461."
-  - "EMCDDA (2023). Europol-EMCDDA Joint Report on New [[star-fire-and-sacred-substances]]."
+  - "EMCDDA (2023). Europol-EMCDDA Joint Report on New [[cultural-evolution-and-psychoactive-substances]]."
   - "National Institute on Drug Abuse (NIDA). mckenna-food-gods-tryptamine-pharmacology-indoles Research Summary."
 ---
 

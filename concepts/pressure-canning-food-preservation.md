@@ -88,3 +88,8 @@ Electric multi-cookers (Instant Pot, etc.) are NOT approved for pressure canning
 - Using a pressure cooker (not canner) for pressure canning
 - Skipping the 10-minute venting step before building pressure
 - Modifying tested recipes (adding ingredients, changing proportions, or omitting acid)
+
+## See Also
+
+- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
+- [[query-how-to-deal-with-deer-and-other-wildlife-in-your-garden]]

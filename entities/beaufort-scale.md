@@ -76,7 +76,7 @@ In permaculture design, Mollison emphasizes that wind is the factor over which w
 - Field observations complement controlled experimental results
 
 ## See Also
-- [[wind-patterns-and-the-beaufort-scale]]
+- [[wind-patterns-and-beaufort-scale]]
 - [[wind-patterns-harmonics-beaufort-scale]]
 - [[small-scale-grain-growing]]
 - [[savory-brittleness-scale]]

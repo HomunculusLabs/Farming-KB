@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-A firestorm is an intense wildfire phenomenon that creates powerful vortices and fire tornadoes through conditions similar to natural tornadoes, but driven by the extreme heat of mass ignition rather than atmospheric instability alone. Mollison includes firestorms in his treatment of extreme wind phenomena alongside hurricanes and tornadoes, noting their particular danger at hill crests where they can spread burning particles downwind for many kilometres. Understanding firestorms is essential for permaculture design in fire-prone landscapes.
+A firestorm is an intense wildfire phenomenon that creates powerful vortices and fire tornadoes through conditions similar to natural tornadoes, but driven by the extreme heat of mass ignition rather than atmospheric instability alone. Mollison includes firestorms in his treatment of extreme wind phenomena alongside hurricanes and tornadoes, noting their particular danger at hill crests where they can spread burning particles downwind for many kilometres. Understanding firestorms is essential for [[permaculture-design]] in fire-prone landscapes.
 
 ## Classification
 
@@ -53,7 +53,7 @@ A firestorm is an intense wildfire phenomenon that creates powerful vortices and
 - **Site design in fire-prone areas**: Permaculture designers must incorporate firebreaks, fuel-reduced zones, and fire-resistant species (e.g., Casuarina, Cupressus as green firebreaks) around all cultivation areas in fire-prone landscapes.
 - **Mushroom substrate storage**: Dry straw, sawdust, and wood chip stores are significant fire hazards due to their low moisture content and high surface area. Proper storage design with separation from structures, green firebreaks, and water access is essential.
 - **Post-fire fungal succession**: Fire creates conditions for specific fungal communities (pyrophilous fungi) that fruit prolifically in the years following wildfire. Pyronema, Pholiota, and morel species (Morchella) are classic post-fire fruiters that cultivators can anticipate and potentially harvest.
-- **Soil sterilisation and recolonisation**: Intense fire can sterilise surface soils, eliminating beneficial mycorrhizal networks and soil food webs. Re-inoculation with mycorrhizal fungi may be necessary for successful re-establishment of perennial crops after fire.
+- **Soil sterilisation and recolonisation**: Intense fire can sterilise surface soils, eliminating beneficial [[mycorrhizal-networks]] and soil food webs. Re-inoculation with mycorrhizal fungi may be necessary for successful re-establishment of perennial crops after fire.
 - **Biochar production**: Controlled fire can produce biochar that serves as both a soil amendment and a substrate component for mushroom cultivation, turning a destructive force into a productive input that improves water retention and microbial habitat.
 
 ## Design Defences Against Firestorm

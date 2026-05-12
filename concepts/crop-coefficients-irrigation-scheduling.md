@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [irrigation, crop-coefficient, water-management, evapotranspiration]
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 ---
 
 # Crop Coefficients for Irrigation Scheduling

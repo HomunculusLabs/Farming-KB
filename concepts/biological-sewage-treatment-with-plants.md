@@ -45,7 +45,7 @@ Agitation of anaerobic systems by bubbling compressed methane, combined with A.A
 
 ## Water Hyacinth Treatment
 
-Water hyacinth (*Eichhornia crassipes*) in aerobic ponds removes:
+Water hyacinth (*[[eichhornia-crassipes]]*) in aerobic ponds removes:
 - Residual metals
 - Surplus nutrients
 - Coliform group bacteria including *E. coli*
@@ -117,3 +117,8 @@ Plant-based biological treatment integrates with preceding stages:
 4. **Plant filtration**: Final polishing removes residual metals, biocides, and remaining pathogens
 
 The combined system produces clean water suitable for irrigation, stream discharge, or — with additional sand filtration — for domestic use, while generating useful byproducts at every stage: energy (methane), protein (algae/zooplankton), organic matter (mulch from harvested rushes), and wildlife habitat (sanctuary lagoons).
+
+## See Also
+- [[biological-sewage-treatment-systems]]
+- [[biological-water-purification-with-plants]]
+- [[sand-filtration-and-biological-water-treatment]]

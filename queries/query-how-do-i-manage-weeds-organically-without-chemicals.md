@@ -3,7 +3,8 @@ title: "How Do I Manage Weeds Organically Without Chemicals?"
 tags: [query, weed-management, organic-gardening, no-till, mulching]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 ---
 
 # How Do I Manage Weeds Organically Without Chemicals?

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-In permaculture design theory, all phenomena — from seeds to stars, from ideas to ecosystems — can be classified within a unified framework based on their nature, stage of development, dimension, and location in space. This classification system provides designers with a language for describing and comparing fundamentally different events using common categories. Coupled with an understanding of time as an enfolded dimension rather than a linear progression, this framework supports holistic design thinking that recognizes the interconnectedness of all phenomena.
+In [[permaculture-design]] theory, all phenomena — from seeds to stars, from ideas to ecosystems — can be classified within a unified framework based on their nature, stage of development, dimension, and location in space. This classification system provides designers with a language for describing and comparing fundamentally different events using common categories. Coupled with an understanding of time as an enfolded dimension rather than a linear progression, this framework supports holistic design thinking that recognizes the interconnectedness of all phenomena.
 
 ## Classification of Events
 
@@ -101,7 +101,7 @@ David Bohm's concept (1980) urges seeing all things as "projections of a single 
 
 Several thinkers contribute converging perspectives on the unity of phenomena:
 
-- **Lovelock (1979)**: The Gaia hypothesis — Earth behaves as a self-regulating, self-generated construct akin to a single organism
+- **Lovelock (1979)**: The [[gaia-hypothesis]] — Earth behaves as a self-regulating, self-generated construct akin to a single organism
 - **Birch and Cobb (1984)**: Deny the validity of separate organisms; all exist in a field of events as expressions of one life force
 - **Capra (1976)**: Theoretical physics contributes to unified worldviews of interrelated events
 - **Fox**: "We must view the cosmos as an infinite complex of interrelated events"
@@ -126,3 +126,7 @@ Understanding that we are "the universe attempting to define its processes" — 
 - Birch, L. and Cobb, J. (1984). *The Liberation of Life*. Cambridge University Press.
 - Capra, F. (1976). *The Tao of Physics*. Shambhala Publications.
 
+## See Also
+- [[pattern-classification-and-unified-event-taxonomy]]
+- [[event-classification-and-time-in-pattern-models]]
+- [[event-classification-and-pattern-unity]]

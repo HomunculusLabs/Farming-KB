@@ -81,7 +81,7 @@ The UK enacted one of the most prominent mushroom bans:
 
 Ireland was the last country in the EMCDDA study period to enact mushroom-specific legislation:
 
-- The Criminal Justice ([[star-fire-and-sacred-substances]]) Act addressed [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] other "legal highs"
+- The Criminal Justice ([[cultural-evolution-and-psychoactive-substances]]) Act addressed [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] other "legal highs"
 - Irish legislation took a broader approach, targeting not just mushrooms but the emerging market for novel [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]]
 - The timing reflected Ireland's experience with rapid market expansion following the UK ban, as some internet retailers relocated operations
 

@@ -87,3 +87,10 @@ Accurate identification requires examination of spore size, shape, and microscop
 ## Ecological Role
 
 As a coprophilous fungus, *Panaeolus acuminatus* plays an important ecological role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]:
+
+## See Also
+
+- [[panaeolus-castaneifolius]]
+- [[panaeolus-olivaceus]]
+- [[panaeolus-panaeolina-neurotropic-species]]
+- [[panaeolus-retirugis]]

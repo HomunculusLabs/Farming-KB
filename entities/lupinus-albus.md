@@ -88,3 +88,10 @@ White lupin forms [[fungi-in-the-environment-symbiotic-relationships]] with rhiz
 Effective nodulation depends on inoculation with compatible *Bradyrhizobium* strains in soils lacking native lupin-nodulating rhizobia. Commercial inoculants are widely available. The symbiosis is sensitive to soil nitrate levels, with nitrogen fixation suppressed when available soil nitrogen exceeds 50 kg/ha.
 
 The proteoid root clusters exude organic acids (primarily citrate and malate) that solubilize bound phosphorus in the rhizosphere. This mechanism allows white lupin to access phosphorus from soils that are unavailable to most crop species. The phosphorus mobilization effect can benefit subsequent crops in rotation.
+
+## See Also
+
+- [[lupinus-argenteus]]
+- [[lupinus-luteus]]
+- [[lupinus-mutabilis]]
+- [[lupinus-nootkatensis]]

@@ -88,3 +88,8 @@ bioactivities relevant to multiple therapeutic areas:
 
 - **Anti-inflammatory and immunomodulatory** — inhibits NF-κB and MAPK
   [[plant-signaling-pathways]]; reduces TNF-α, IL-1β, and IL-6 production. Modulates
+
+## See Also
+
+- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
+- [[phloem-sap-composition-and-long-distance-signaling-in-plants]]

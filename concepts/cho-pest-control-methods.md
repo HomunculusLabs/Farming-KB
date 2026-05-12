@@ -5,7 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [knf]
 sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
+ - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 comparison-natural-farming-vs-permaculture is completely chemical-free and environment-friendly.
@@ -25,13 +25,13 @@ plants.
 - PET bottle (polyethylene soft drink bottle)
 - Toddy or brandy
 - [[master-cho-knf-ffj-fermented-fruit-juice-guide]] (FFJ is best for attracting
-  insects)
+ insects)
 
 ### Preparation
 1. Slit open two sides of a PET bottle
 2. Put in rice wine and FPJ/FFJ diluted 300 times
 3. Install at the height of fruits/leaves that moths and butterflies
-   prefer
+ prefer
 4. Hang bottles around the field according to plant height
 5. For fruit trees, hang 4-6 bottles per tree depending on size
 
@@ -59,11 +59,11 @@ populations.
 3. Make a roof to prevent rain damage
 4. Place a basin of water beneath the light
 5. Add a few drops of gasoline or kerosene to the water to completely
-   drown fallen insects
+ drown fallen insects
 
 ## Fish Amino Acid for Pest Control
 
-[[indigenous-spirituality-and-freedom]],
+,
 [[knf-nutritive-cycle-theory]] approach means plants receive
 appropriate nutrition at each growth stage. Plants that are not
 overfed with nitrogen (a common cause of pest attraction) are

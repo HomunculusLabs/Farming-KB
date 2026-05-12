@@ -75,7 +75,7 @@ In hill country, thermal belts may be found at 1,000-5,000 meters. On lower hill
 
 ### Managing Albedo in Design
 
-- **Use dark mulches** (dark compost, rock dust) to warm soils for early spring planting
+- **Use dark mulches** (dark [[compost]], rock dust) to warm soils for early spring planting
 - **Use white gravel or reflective surfaces** near buildings in hot climates to reduce cooling loads
 - **Plant dark evergreen trees** on cold forest edges to absorb and radiate heat
 - **Avoid light-colored bark trees** (white-barked species) in cold districts where heat absorption is desired

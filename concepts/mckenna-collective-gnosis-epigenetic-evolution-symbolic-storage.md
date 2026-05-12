@@ -25,7 +25,7 @@ longer carried primarily in DNA but in the vast networks of symbolic communicati
 transition marks, in McKenna's view, the effective end of biological evolution as the primary driver of human change. 
 Once symbolic systems became sufficiently sophisticated to store and transmit complex information across generations, 
 the selective pressures that had shaped hominid evolution for millions of years were largely superseded by cultural 
-forces. The genome became a stable platform upon which the far more rapid and flexible processes of [[star-fire-and-sacred-substances]] 
+forces. The genome became a stable platform upon which the far more rapid and flexible processes of [[cultural-evolution-and-psychoactive-substances]] 
 could operate.
 
 ## Symbols and Extrasomatic Information Storage

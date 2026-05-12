@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Drug testing is one of the most important [[adverse-effects-and-harm-reduction-psilocybin]] practices available. The unregulated nature of many [[star-fire-and-sacred-substances]] means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
+Drug testing is one of the most important [[adverse-effects-and-harm-reduction-psilocybin]] practices available. The unregulated nature of many [[cultural-evolution-and-psychoactive-substances]] means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
 
 ## Why Test Matters
 

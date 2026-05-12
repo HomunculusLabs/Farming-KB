@@ -25,7 +25,7 @@ A properly hardened seedling looks smaller and more wiry than a soft one, but wi
 
 ## Grow Your Own: The Simple Approach
 
-Solomon recommends raising transplants only for species that benefit from every possible frost-free day: tomatoes, peppers, and eggplants. In short-season areas, also a few melon or [[winter-rye]]. Everything else should be direct-seeded.
+Solomon recommends raising transplants only for species that benefit from every possible frost-free day: tomatoes, peppers, and eggplants. In short-season areas, also a few melon or [[cover-crops]]. Everything else should be direct-seeded.
 
 ### Soil for Seedlings
 

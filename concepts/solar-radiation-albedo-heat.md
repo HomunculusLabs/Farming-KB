@@ -76,9 +76,9 @@ Radiation absorption and re-emission creates temperature differences that drive 
 
 Radiation triggers flowering and germination in many plant species through photoperiodism (day-length effects). This is of basic importance to the spread and success of specific plant groups.
 
-## Plant Responses to Light
+## Plant [[solar-radiation-and-plant-light-responses|Responses]] to Light
 
-Plants actively adjust to light levels through various strategies to maintain photosynthetic efficiency:
+Plants actively adjust to light levels through various strategies to maintain [[photosynthetic-efficiency]]:
 
 - **Solar range adaptation**: Silvery or shiny leaves in high-heat environments; red leaves where more of the green spectrum is absorbed and less heat is needed
 - **Leaf orientation**: Leaves may turn edge-on when light and heat levels get too high to reduce absorption
@@ -147,16 +147,3 @@ It is difficult to store heat for long periods in field conditions, although it 
 
 - **Insulated water masses** — water has high thermal mass and stores heat effectively
 - **Solid materials** such as stone and earth — absorb and release heat slowly
-
-There is some heat input every day that the sun shines or diffuse sky light reaches the Earth. The mean temperature of the Earth is maintained by the balance between incoming short-wave radiation and outgoing long-wave re-radiation.
-
-## Design Applications
-
-Radiation knowledge directly informs [[permaculture-design]]:
-
-- **Material selection**: Choose surfaces with appropriate albedo for heating or cooling
-- **Building orientation**: Maximize or minimize solar gain depending on climate
-- **Vegetation placement**: Use plant colour and leaf characteristics for microclimate modification
-- **Thermal mass**: Incorporate stone, water, or earth for heat storage in structures
-- **Frost avoidance**: Use knowledge of cold air drainage patterns for sensitive plant placement
-- **[[greenhouse-design]]**: Understand transmission, absorption, and reflection for optimal growing conditions

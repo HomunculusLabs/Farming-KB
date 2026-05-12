@@ -39,7 +39,7 @@ The relationship is dynamic, reciprocal, and mutually reinforcing.
 
 Lumsden and Wilson introduced the concept of **"culturgens"** — the smallest units of culture that can be transmitted and selected.
 
-These are analogous to genes in biological evolution and to Richard Dawkins's "memes" in [[star-fire-and-sacred-substances]].
+These are analogous to genes in biological evolution and to Richard Dawkins's "memes" in [[cultural-evolution-and-psychoactive-substances]].
 
 Culturgens include behaviors, artifacts, social institutions, and symbolic systems — any element of culture that can be learned, transmitted, and modified.
 

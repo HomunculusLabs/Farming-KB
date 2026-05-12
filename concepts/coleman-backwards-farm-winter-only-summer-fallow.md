@@ -51,7 +51,7 @@ incorporated into the soil during the warm months when biological activity
 was at its peak. This green manure program was essential for maintaining
 soil health and [[hamilton-composting-and-organic-matter-management]] levels in the intensively managed greenhouse
 beds. The summer was also used for greenhouse maintenance, infrastructure
-improvements, and the refinement of planting schedules and [[the-ultimate-goal-of-farming]].
+improvements, and the refinement of planting schedules and .
 
 ## Economic Comparison: Summer Versus Winter
 

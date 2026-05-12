@@ -87,3 +87,9 @@ The efficacy and safety of Dryopteris-derived vermifuges has been questioned, as
 The golden-scaled young fronds are occasionally used in floral arrangements as a decorative foliage element. The species is also planted [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] on steep, shaded banks and slopes.
 
 In urban settings, Dryopteris affinis has proven adaptable to cultivation in containers and roof gardens, provided adequate moisture is maintained. Its tolerance of [[air-pollution-fungal-community-responses]] is moderate, better than many Adiantum species but inferior to Polystichum species.
+
+## See Also
+
+- [[dryopteris-cristata]]
+- [[dryopteris-dilatata]]
+- [[dryopteris-wallichiana]]

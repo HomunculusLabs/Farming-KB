@@ -88,3 +88,9 @@ The leaves contain additional compounds including phenolic acids (chlorogenic ac
 Anti-inflammatory activity has been documented in animal models, with leaf extracts reducing carrageenan-induced paw edema. These findings support traditional uses for arthritis, rheumatism, and topical wound healing.
 
 Analgesic effects have also been observed, with aqueous leaf extracts showing dose-dependent pain reduction in rodent models. The combination of anti-inflammatory and analgesic activities explains the species' widespread use for musculoskeletal pain.
+
+## See Also
+
+- [[solanum-carolinense]]
+- [[solanum-melongena]]
+- [[solanum-muricatum]]

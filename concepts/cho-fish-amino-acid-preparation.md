@@ -5,28 +5,28 @@ updated: 2026-04-18
 type: concept
 tags: [knf]
 sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
+ - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 Fish Amino Acid (FAA) is a nitrogen-rich [[jadam-liquid-fertilizer-nutritional-perspective]] made from
 fish waste through fermentation. It contains abundant nutrients and
 various types of amino acids that are directly absorbed by crops and
 stimulate microbial activity. FAA is one of the key
-[[indigenous-spirituality-and-freedom]]
+
 - Mosquito net and rubber band
 - Clay pot, plastic jar (PE container), or [[sterile-spore-print-collection-glass-jar-technique]]
 
 ## Preparation Method
 
 1. Cut fish into pieces and place in the container. Blue-black colored
-   fish are preferred for their high amino acid content.
+ fish are preferred for their high amino acid content.
 2. Add jaggery in equal amount (1:1 weight ratio with fish)
 3. Fill the jar to 2/3 of its volume
 4. Cover the opening with a mosquito net (not paper -- allows more air
-   exchange for the strong-smelling fermentation)
+ exchange for the strong-smelling fermentation)
 5. Fish will ferment in 7-10 days
 6. If fat appears on the surface, add 2-3 teaspoons of IMO-3 to
-   dissolve it
+ dissolve it
 7. Extract the liquid for use
 
 ## Uses and Applications

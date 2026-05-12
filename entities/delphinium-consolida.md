@@ -87,3 +87,10 @@ Poultices of crushed seeds were applied to wounds, bruises, and insect bites in 
 The seeds were sometimes used as a parasiticide, particularly against head lice, though the efficacy is questionable and the risk of systemic absorption is significant.
 
 In traditional Turkish medicine, aerial parts were used externally for hemorrhoids and skin inflammation.
+
+## See Also
+
+- [[delphinium-belladonna]]
+- [[delphinium-exaltatum]]
+- [[delphinium-grandiflorum]]
+- [[delphinium-staphisagria]]

@@ -132,23 +132,6 @@ Recent research reveals psilocybin promotes **structural and functional neuropla
 - **NYU (2016)**: Single dose (0.3 mg/kg) produced significant reductions in anxiety and depression in cancer patients, sustained at 6.5-year follow-up
 - Participants consistently ranked the experience among the most meaningful of their lives
 
-### Substance Use Disorders
-
-- **Smoking cessation**: 80% abstinence at 6 months (vs. ~35% for varenicline) — Johns Hopkins pilot
-- **Alcohol dependence**: Heavy drinking days reduced by 50% at 36 weeks — NYU trial
-
-### Cluster Headaches
-
-Anecdotal and preliminary clinical evidence suggests psilocybin may abort cluster headache cycles at sub-psychedelic doses, possibly through 5-HT₂A-mediated trigeminal nerve modulation.
-
-## Safety Profile
-
-- **Toxicity**: Extremely low; no organ toxicity at typical doses. LD50 in rats is ~280 mg/kg (roughly 1000× a typical human dose)
-- **Addiction potential**: None identified; psilocybin is not reinforcing and may actually reduce substance dependence
-- **Psychological risks**: Can trigger acute anxiety, paranoia, or psychotic episodes in predisposed individuals
-- **Contraindications**: Personal or family history of schizophrenia or [[blesching-cannabis-bipolar-disorder]]; concurrent MAOI use; unmanaged cardiovascular conditions
-- **Set and setting**: Therapeutic outcomes are critically dependent on psychological preparation, supportive environment, and integration
-
 ## See Also
 
 - [[psilocybin-and-psilocin-biosynthesis-variation]]

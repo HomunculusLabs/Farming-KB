@@ -83,7 +83,7 @@ Vegetables are grouped into four storage categories based on their [[greg-green-
 
 **Eggplant:** Harvest when fruits are nearly full grown but color is still bright. Not adapted to long storage — keep in warmer part of refrigerator for about 1 week.
 
-**Peppers, Sweet:** Harvest when fruits are firm and full size. Leave on plant for red color if desired. Store 2 to 3 weeks in the warmer part of the refrigerator in plastic bags. Cool [[winter-rye]]:** Harvest before frost when skin is hard and colors darken. Remove from vine with a portion of stem attached. Store on shelves in single layers so air can circulate around them. Properly cured squash can store for several months.
+**Peppers, Sweet:** Harvest when fruits are firm and full size. Leave on plant for red color if desired. Store 2 to 3 weeks in the warmer part of the refrigerator in plastic bags. Cool [[cover-crops]]:** Harvest before frost when skin is hard and colors darken. Remove from vine with a portion of stem attached. Store on shelves in single layers so air can circulate around them. Properly cured squash can store for several months.
 
 ## Warm, Moist Storage (55-60 degrees F, 80-85% RH)
 

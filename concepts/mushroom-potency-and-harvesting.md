@@ -87,3 +87,7 @@ any method involving elevated temperatures will leach and degrade the active
 4. **Seal and wait:** Close the container airtight. After 24 hours, mushrooms
    will show visible shriveling. After 4–5 days, they will be rock hard — the
    stem should snap cleanly when bent.
+
+## See Also
+
+- [[guzman-magic-mushrooms-african-species]]

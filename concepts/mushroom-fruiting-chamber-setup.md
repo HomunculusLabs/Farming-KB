@@ -88,3 +88,8 @@ holes prevent condensation from dripping back onto the casing.
 
 Mushrooms produce CO2 during respiration, and high CO2 concentrations
 suppress normal development (causing long, stringy stems and small caps).
+
+## See Also
+
+- [[query-when-should-i-flush-my-cannabis-plants-before-harvest]]
+- [[post-flush-watering-regime-mushroom-casing-moisture-management]]

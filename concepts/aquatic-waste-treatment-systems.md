@@ -18,7 +18,7 @@ A range of aquatic and semi-aquatic plant species actively remove pathogens from
 
 - **Alisma plantago-aquatica** (water plantain)
 - **Mentha aquatica** (water mint)
-- **Juncus effusus** (soft rush)
+- **[[juncus-effusus]]** (soft rush)
 - **Schoenoplectus lacustris** (lake clubrush)
 - **Spartina spp.** (cordgrasses)
 - **Iris pseudacorus** (yellow flag iris)
@@ -132,3 +132,8 @@ Square or round pits approximately 25 m² can be dug and filled with graded ston
 ## Summary
 
 Modestly-designed sewage treatment systems based on sealed (not leaky) lagoons and their associated biological systems both recycle water efficiently and create a variety of yields from the wastes of society. Small and large systems can be designed that are biologically safe, productive, and far more efficient than combustion of solid wastes or chemical treatment approaches.
+
+## See Also
+- [[mollison-course-aquatic-plant-systems-ponds]]
+- [[duckweed-and-aquatic-plants-permaculture-systems]]
+- [[permaculture-plants-aquatic-systems-water-plants]]

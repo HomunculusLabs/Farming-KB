@@ -109,7 +109,7 @@ Biogas conversion turns sewage solids into methane for cooking, heating, or elec
 
 ## Natural Swimming Pools
 
-Natural swimming pools demonstrate the principles of biological water treatment applied
+[[natural-swimming-pools]] demonstrate the principles of biological water treatment applied
 to recreational use:
 
 1. Water filters down through a pebble bed beneath the pool
@@ -137,6 +137,9 @@ When designing water and sewage systems for a permaculture property:
 - [ ] Monitor nitrogen levels — subsoil discharge alone will not remove nitrogen compounds
 
 ## See Also
+- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
+- [[laws-and-principles-of-natural-systems]]
+- [[biological-sewage-treatment-systems]]
 
 - [Water Harvesting](../concepts/water-harvesting.md)
 - [Biogas Digesters](../concepts/biogas-digesters.md)

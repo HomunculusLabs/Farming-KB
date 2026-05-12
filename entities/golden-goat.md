@@ -87,3 +87,9 @@ Patients with **ADHD** and **fatigue** have reported benefit from the stimulatin
 Golden Goat is considered moderately difficult to cultivate, with a flowering time of 9–11 weeks indoors. Plants can grow tall and stretchy, reflecting their sativa heritage, and may require topping or training to manage height in confined spaces.
 
 Yields are average to above average, typically 350–450 g/m² indoors. Outdoor plants can produce 400–550 g per plant when grown in a warm, sunny climate with a long growing season. The strain responds well to both soil and hydroponic systems and benefits from moderate nutrient feeding schedules.
+
+## See Also
+
+- [[golden-guide-iboga-and-tabernanthe]]
+- [[golden-teacher-cubensis]]
+- [[golden-teacher-psilocybe-cubensis]]

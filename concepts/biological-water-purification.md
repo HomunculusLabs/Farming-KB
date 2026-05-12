@@ -95,7 +95,7 @@ Ferric and aluminium sulphate are added to water to cause fine particles to floc
 
 ## Related Topics
 
-- [[sewage-treatment-using-natural-processes]]
-- [[anaerobic-digestion-and-biogas-production]]
+- [[natural-sewage-treatment-systems]]
+- [[anaerobic-digestion-biogas-production]]
 - [[sewage-water-reduction-and-dry-toilets]]
-- [[water-filtration-systems]]
+- [[water-filtration-and-treatment-systems]]

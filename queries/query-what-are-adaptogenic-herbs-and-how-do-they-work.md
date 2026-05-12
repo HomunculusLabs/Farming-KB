@@ -148,3 +148,9 @@ Adaptogens are generally safe for long-term use, but there are important caveats
 - Take [[ayahuasca-interactions-with-prescription-medications]] (especially thyroid medications, immunosuppressants, blood thinners, or psychiatric drugs)
 - Have an autoimmune condition (some adaptogens stimulate immune function)
 - Have bipolar disorder (stimulating adaptogens may trigger manic episodes)
+
+## See Also
+
+- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[query-what-is-agroecology-and-how-does-it-differ-from-organic-farming]]
+- [[query-what-is-korean-natural-farming-and-how-does-it-work]]

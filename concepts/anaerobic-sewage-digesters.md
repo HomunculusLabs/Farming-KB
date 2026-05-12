@@ -6,15 +6,15 @@ type: concept
 
 # Anaerobic Sewage Digesters
 
-Anaerobic sewage digesters are a core component of permaculture waste management systems,
+Anaerobic sewage digesters are a core component of [[permaculture-waste-management]] [[biogas-digesters-and-anaerobic-digestion-systems|systems]],
 transforming human and animal waste into useful biogas and nutrient-rich effluent through
-controlled biological decomposition in the absence of free oxygen. As described in Bill
-Mollison's *Permaculture: A Designers' Manual*, these systems leverage natural microbial
+controlled biological [[decomposition]] in the absence of free oxygen. As described in Bill
+Mollison's *[[permaculture]]: A Designers' Manual*, these systems leverage natural microbial
 processes to simultaneously treat sewage, produce energy, and remove harmful contaminants.
 
 ## Classification of Sewage Ponds
 
-Sewage treatment systems are classified into three distinct types based on their biological
+Sewage [[mollison-designers-biogas-digester-sewage-treatment|treatment]] systems are classified into three distinct types based on their biological
 processes and oxygen availability:
 
 - **Anaerobic Ponds**: Methane-producing digesters that operate entirely without free oxygen.
@@ -23,7 +23,7 @@ processes and oxygen availability:
 
 - **Facultative Ponds**: A transitional zone where both anaerobic and aerobic processes
   occur simultaneously. The upper layers support oxygen-producing photosynthesis while the
-  lower layers continue anaerobic methane production. These ponds host diverse communities
+  lower layers continue anaerobic methane [[anaerobic-sewage-digestion-and-biogas-production|production]]. These ponds host diverse communities
   of phytoplankton, bacteria, and zooplankton.
 
 - **Aerobic Ponds**: Oxygen-producing ponds where aerobic bacteria and algae dominate,
@@ -148,30 +148,3 @@ Diverse bacterial populations process dissolved organic matter:
 
 Zooplankton thrive on algal food sources in facultative and aerobic ponds, forming a
 critical trophic link that further concentrates and removes contaminants:
-
-- **Rotifers**: *Brachionus*, *Trichocerca*
-- **Cladocerans**: *Daphnia*, *Moina*
-- **Copepods**: *Mesocyclops*
-- **Ostracods**: Various genera
-
-### Zooplankton Metal Accumulation (mg/L dry weight)
-
-Zooplankton bioaccumulate heavy metals from the water column, effectively removing them
-from solution and sequestering them in biological tissue:
-
-| Metal       | Accumulation (mg/L dry weight) |
-|-------------|-------------------------------|
-| Iron (Fe)   | 1,200                         |
-| Zinc (Zn)   | 152                           |
-| Copper (Cu) | 37                            |
-| Chromium (Cr)| 28                           |
-| Nickel (Ni) | 12.2                          |
-| Lead (Pb)   | 10.3                          |
-| Cadmium (Cd)| 1.7                           |
-
-## Integration in Permaculture Design
-
-Anaerobic sewage digesters exemplify the permaculture principle of turning waste into
-a resource. The system produces biogas for energy, treats sewage to safe effluent
-standards, removes heavy metals biologically, and supports productive aquatic ecosystems —
-all within a self-regulating framework that minimises external inputs and maintenance.

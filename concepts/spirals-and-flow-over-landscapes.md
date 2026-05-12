@@ -63,7 +63,7 @@ The Overbeck jet represents a half-form of the basic core model—essentially th
 
 ## Flowforms and Vortex Design
 
-The sets of vortices shed from fixed objects in flow form the basis of **[[flowform]]** technology developed at the Virbela Institute. By placing specific shapes in water channels, designers can:
+The sets of vortices shed from fixed objects in flow form the basis of **[[flowform]]** technology developed at the [[virbela-institute]]. By placing specific shapes in water channels, designers can:
 
 - Create rhythmic pulsing in water flow
 - Enhance aeration and oxygenation

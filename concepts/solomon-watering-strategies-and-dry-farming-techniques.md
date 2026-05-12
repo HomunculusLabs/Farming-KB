@@ -88,3 +88,9 @@ Solomon prefers drip for established plants but notes overhead is fine for germi
 ## Water Needs by Growth Stage
 
 - **Germination:** Consistent light moisture — never let the seedbed dry out.
+
+## See Also
+
+- [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]]
+- [[solomon-fine-seedbed-soil-tilth-clod-management-raking]]
+- [[solomon-fertigation-bucket-drip-water-nutrient-delivery]]

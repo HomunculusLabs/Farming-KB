@@ -89,7 +89,7 @@ Quinine (C₂₀H₂₄N₂O₂) has a molecular weight of 324.4 g/mol and is a 
 This accumulation of free heme is lethal to *Plasmodium falciparum* trophozoites.
 
 ## See Also
-- [[quinine]]
+- [[quinine-mollison]]
 - [[dom]]
 - [[psilocybin]]
 - [[cinchona-succirubra]]

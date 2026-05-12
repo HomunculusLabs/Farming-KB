@@ -116,7 +116,7 @@ techniques, learning to manage moisture, shade, and timing to improve yields.
 - [[shiitake-medicinal-compounds]]
 - [[shiitake-strain-classification-and-substrate-formulas]]
 - [[mushroom-cultivation-fundamentals]]
-- [[comfrey-cultivation-and-uses]]
+- [[sorghum-cultivation-and-uses]]
 - [[oyster-mushroom-cultivation-and-species-guide]]
 - medicinal-mushroom-cultivation-and-use
 - [[wood-decay-fungi]]

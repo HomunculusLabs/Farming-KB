@@ -39,7 +39,7 @@ Samsara is a fundamental concept in Hindu and Buddhist philosophy referring to t
 - **Hinduism**: Samsara as the wheel of birth-death-rebirth; liberation (moksha) through spiritual practice
 - **Buddhism**: Samsara as the cycle of suffering driven by attachment and ignorance; liberation through the Eightfold Path
 - **Shamanism**: The death-rebirth journey as practice for conquering actual death; breaking the cycle through direct spiritual experience
-- **Ancient Greek**: [[plutarch-and-cicero-on-the-eleusinian-mysteries]] involved a similar death-rebirth experience potentially facilitated by [[star-fire-and-sacred-substances]]
+- **Ancient Greek**: [[plutarch-and-cicero-on-the-eleusinian-mysteries]] involved a similar death-rebirth experience potentially facilitated by [[cultural-evolution-and-psychoactive-substances]]
 
 ## Cross-Cultural Perspectives
 

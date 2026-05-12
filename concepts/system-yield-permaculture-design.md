@@ -24,7 +24,7 @@ The sum of primary and derived products available from, or surplus to, the syste
 
 ### Energy Yield
 
-The sum of conserved, stored, and generated energy surplus to the system, again both intrinsic and those created by design. This includes stored water, soil humus, biomass, thermal mass, and other energy reserves.
+The sum of conserved, stored, and generated energy surplus to the system, again both intrinsic and those created by design. This includes stored water, soil [[humus]], biomass, thermal mass, and other energy reserves.
 
 ### Impalpable Yields
 

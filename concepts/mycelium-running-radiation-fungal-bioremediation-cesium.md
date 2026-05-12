@@ -4,7 +4,7 @@ Paul Stamets documents how certain mushroom species can concentrate mycelium run
 
 ## Radioactive Cesium from Nuclear Fission
 
-Cesium-134 and cesium-137 are by-products of nuclear fission. When the [[Chernobyl]] nuclear power plant melted down in 1986, the radioactive plume it emitted contaminated much of Europe with mycelium running radiation fungal bioremediation cesium. Afterward, some mushrooms highly valued for their edibility, such as Boletus edulis (porcini/cepe), contained unacceptably high levels of cesium.
+Cesium-134 and cesium-137 are by-products of nuclear fission. When the mycelium running radiation fungal bioremediation cesium nuclear power plant melted down in 1986, the radioactive plume it emitted contaminated much of Europe with mycelium running radiation fungal bioremediation cesium. Afterward, some mushrooms highly valued for their edibility, such as Boletus edulis (porcini/cepe), contained unacceptably high levels of cesium.
 
 Although cesium-137 has a half-life of 30 years, during which it naturally decays into nonradioactive forms, collecting and disposing of specific mushrooms might be a viable method for extracting cesium from soil. This possibility makes mushrooms an attractive tool for bioremediation of nuclear contamination. The half-life of 30 years means that even decades after a contamination event, cesium remains present in the environment at concerning levels, making biological extraction methods particularly valuable.
 

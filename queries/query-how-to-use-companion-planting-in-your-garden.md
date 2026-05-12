@@ -3,7 +3,8 @@ title: "How to Use Companion Planting in Your Garden"
 tags: [query, companion-planting, organic-gardening, pest-control, soil-health]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources:
+  - "raw/papers/jeavons-how-grow-vegetables.md"
 ---
 
 # How to Use Companion Planting in Your Garden

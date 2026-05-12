@@ -85,6 +85,6 @@ IPA, had a mp of 148-149 deg C. Anal. (C12H20ClNO3) C,H.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-[[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent [[star-fire-and-sacred-substances]] that may carry unknown [[ayahuasca-tourism-medical-risks-prescription-interactions]]. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-[[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown [[ayahuasca-tourism-medical-risks-prescription-interactions]]. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also

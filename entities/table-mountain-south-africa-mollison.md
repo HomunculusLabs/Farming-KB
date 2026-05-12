@@ -9,7 +9,7 @@ tags: [place, mountain, fog-precipitation, permaculture, water-harvesting, south
 
 ## Description
 
-Table Mountain is a prominent **flat-topped mountain** overlooking Cape Town,
+[[table-mountain]] is a prominent **flat-topped mountain** overlooking Cape Town,
 South Africa, cited by Mollison as an extraordinary example of **fog
 precipitation**. According to data from Chang (1968), Table Mountain receives
 an estimated **329 cm (128 inches) of precipitation from fog drip alone** —

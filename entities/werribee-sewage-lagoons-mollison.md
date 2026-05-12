@@ -9,7 +9,7 @@ tags: [infrastructure, sewage-treatment, wetland, bioremediation, australia]
 
 ## Description
 
-The Werribee sewage lagoons are a large-scale sewage treatment system serving Melbourne, Victoria, Australia. Cited extensively by Mollison as a working example of biological wastewater treatment, the system processes sewage from a city of 2.7 million people across 1,500 hectares (3,700 acres) of treatment ponds. Research by Hussainy at the Melbourne Metropolitan Water Board documented the system's effectiveness at removing heavy metals and pathogens through staged anaerobic, faculative, and aerobic pond treatment.
+The Werribee sewage lagoons are a large-scale sewage treatment system serving Melbourne, Victoria, Australia. Cited extensively by Mollison as a working example of [[biological-wastewater-treatment]], the system processes sewage from a city of 2.7 million people across 1,500 hectares (3,700 acres) of treatment ponds. Research by Hussainy at the Melbourne Metropolitan Water Board documented the system's effectiveness at removing heavy metals and pathogens through staged anaerobic, faculative, and aerobic pond treatment.
 
 ## Classification
 
@@ -75,7 +75,7 @@ The Werribee system demonstrates that biological sewage treatment is viable at m
 
 ## Seasonal Variation
 
-- **Winter (10-15 degrees C)**: Decomposition slows, sludge builds up; BOD 495 kg/ha/day; more H2S (8-15 mg/l); more ammonia released
+- **Winter (10-15 degrees C)**: [[decomposition]] slows, sludge builds up; BOD 495 kg/ha/day; more H2S (8-15 mg/l); more ammonia released
 - **Summer (18-22 degrees C)**: Active decomposition; BOD 1,034 kg/ha/day; less H2S (2-5 mg/l); nearly double the methane production
 
 ## See Also

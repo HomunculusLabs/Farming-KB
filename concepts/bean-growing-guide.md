@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, inoculation, harvesting]
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 ---
 
 ## Overview
@@ -147,4 +148,3 @@ Drying beans are left on the plant until fully mature and dry, then shelled and 
 - Shell beans by hand or thresh by beating pods in a bag
 - Winnow to separate chaff (pour between bowls in a light breeze)
 - Spread beans on screens to dry further for 1-2 weeks
-- Beans are dry enough for storage when a thumbnail cannot dent them

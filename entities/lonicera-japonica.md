@@ -88,3 +88,9 @@ Jin Yin Hua is a key ingredient in the classical formula Yin Qiao San (Lonicera 
 In Japanese Kampo medicine, the flower buds (Kinginka) are used in formulations such as Sho-saiko-to and Keishi-bukuryo-gan for their anti-inflammatory and immunomodulatory effects.
 
 Modern clinical applications extend to upper respiratory tract infections, pharyngitis, and as an adjunct in antibiotic therapy for [[cannabis-for-bacterial-infections-and-mrsa]] resistant to conventional treatment.
+
+## See Also
+
+- [[lonicera-caerulea]]
+- [[lonicera-maackii]]
+- [[lonicera-periclymenum]]

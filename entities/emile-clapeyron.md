@@ -88,3 +88,7 @@ updated: 2026-05-02
 - Clapeyron still worked in a conceptual world partly shaped by caloric theory.
 - Later scientists recast the argument in energy and entropy terms.
 - His contribution was not merely commentary; it reorganized the argument for future science.
+
+## See Also
+
+- [[query-what-are-mycelium-materials-and-how-are-they-made]]

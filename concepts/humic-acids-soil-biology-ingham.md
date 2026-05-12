@@ -15,7 +15,7 @@ Updated: 2026-04-18
 
 Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
-Ingham provides important distinctions about humic acids, their relationship to soil biology, and how they function in [[compost-tea-and-biological-extracts]] soil systems.
+Ingham provides important distinctions about humic acids, their relationship to soil biology, and how they function in [[compost]] soil systems.
 
 ## Humus vs. Humic Acid
 

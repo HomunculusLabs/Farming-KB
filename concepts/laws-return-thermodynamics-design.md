@@ -51,7 +51,7 @@ In practice, this means designing to catch and store as much water as possible f
 The energy dimension of permaculture design involves careful accounting:
 
 - **Energy entering the system**: Solar radiation, wind, water flow, biological inputs
-- **Energy stored**: In biomass, soil humus, water bodies, tree crops, animal products, structures
+- **Energy stored**: In biomass, soil [[humus]], water bodies, tree crops, animal products, structures
 - **Energy leaving**: Through entropy, export, waste, runoff
 - **Energy cycling**: The internal pathways by which energy is passed from one element to another within the system
 

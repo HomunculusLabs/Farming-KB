@@ -51,7 +51,7 @@ The roots are fibrous and form a dense, non-invasive clump over time. The root s
 
 The species grows in montane deciduous forests, forest margins, and moist mountain meadows. Elevational range is 500–2,000 meters.
 
-It prefers cool, moist, humus-rich soils in partial to full shade. The plant tolerates deeper shade than many ornamental perennials.
+It prefers cool, moist, [[humus]]-rich soils in partial to full shade. The plant tolerates deeper shade than many ornamental perennials.
 
 Native habitats experience warm, humid summers and cold winters with significant snowfall. Annual precipitation is 1,200–2,000 mm, distributed throughout the year.
 

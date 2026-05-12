@@ -29,7 +29,7 @@ Declining pollinator populations threaten both wild ecosystems and agricultural 
 
 Creating pollinator habitat in home gardens, farms, and public spaces is one of the most effective actions individuals can take.
 
-The [[forage-turnip]] resource lists specific plant species organized by bloom period.
+The [[cover-crops]] resource lists specific plant species organized by bloom period.
 
 This is invaluable for planning a garden with no gaps in nectar and pollen availability.
 

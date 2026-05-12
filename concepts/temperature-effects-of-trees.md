@@ -4,7 +4,7 @@ source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
-Trees exert a profound influence on local and regional temperature through two fundamental mechanisms: evaporative cooling during the day and condensative warming at night. Understanding these thermal effects is essential for passive climate design, building cooling, and landscape planning in permaculture systems.
+Trees exert a profound influence on local and regional temperature through two fundamental mechanisms: evaporative cooling during the day and condensative warming at night. Understanding these thermal effects is essential for passive climate design, building cooling, and landscape planning in [[permaculture]] systems.
 
 ## Evaporation and Condensation as Thermal Processes
 

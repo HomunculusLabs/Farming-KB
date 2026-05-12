@@ -77,3 +77,5 @@ autoclaves, and climate-controlled incubation rooms to ensure consistent quality
 - [[mushroom-cultivation-basics]]
 - [[mushroom-substrate-preparation]]
 - [[grain-spawn-preparation]]
+
+Continued research into mushroom spawn and mycelial growth expands the knowledge base for ecological design.

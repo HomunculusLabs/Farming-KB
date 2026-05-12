@@ -88,3 +88,9 @@ Frankia strain diversity in *M. cerifera* root nodules is higher than in norther
 ## Cultivation
 
 Southern wax myrtle is one of the most widely planted native ornamental shrubs in the southeastern United States. Its rapid growth rate (0.5–1.5 m/year), evergreen foliage, salt tolerance, and drought resistance make it suitable for screening hedges, foundation plantings, and coastal landscapes.
+
+## See Also
+
+- [[morella-caroliniensis]]
+- [[morella-faya]]
+- [[morella-inodora]]

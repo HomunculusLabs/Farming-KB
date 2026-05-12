@@ -87,4 +87,4 @@ No significant medicinal or nutritional uses have been documented for Juncus inf
 
 Juncus inflexus is most closely related to [[juncus-effusus]], with which it is frequently confused in the field. Key distinguishing features include the grey-green glaucous stems, septate pith, and laterally branched inflorescence of J. inflexus, compared to the bright green solid-pithed stems and terminal inflorescence cluster of J. effusus.
 
-[[juncus-conglomeratus]] is another close relative that shares the branched inflorescence pattern. It differs in having green rather than glaucous stems and a more compact, congested inflorescence head. Intermediate forms between these species occur where ranges overlap, and hybridization has been documented.
+juncus inflexus is another close relative that shares the branched inflorescence pattern. It differs in having green rather than glaucous stems and a more compact, congested inflorescence head. Intermediate forms between these species occur where ranges overlap, and hybridization has been documented.

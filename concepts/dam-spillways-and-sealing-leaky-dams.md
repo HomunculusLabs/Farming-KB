@@ -1,0 +1,149 @@
+---
+title: Dam Spillways and Sealing Leaky Dams
+source: bill-mollison-permaculture-a-designers-manual.md
+type: concept
+---
+
+# Dam Spillways and Sealing Leaky Dams
+
+## Overview
+
+Two critical aspects of [[dam-construction]] and maintenance are the design of effective spillways that safely pass excess water, and the techniques available for sealing dams that leak through their base or walls. Both topics are essential for ensuring the long-term functionality, safety, and water retention of earth dams, tanks, and ponds in permaculture and agricultural systems.
+
+## Spillway Design
+
+### Principles
+
+The spillway is the engineered overflow point of a dam that prevents water from overtopping and potentially destroying the wall. Proper spillway design is arguably the most important safety feature of any dam.
+
+Key design requirements include:
+
+- **The spillway base must be carefully surveyed at 1 meter below the crest** — this measurement must be taken precisely, never estimated by eye
+- **The spillway must be located away from the wall or fill itself** — water flowing over or adjacent to the earth wall can erode and undermine it
+- **A broad spillway is preferred** — wide spillways distribute flow energy and reduce erosive velocity
+- **The wall may curve** (either outward or inward), but if carefully constructed as diagrammed with a broad spillway, it should remain stable and safe indefinitely, barring explosions or severe earthquakes
+
+### Base Outlet Pipes and Siphons
+
+In addition to the spillway, dams should be fitted with a **base outlet pipe** equipped with **baffle plates**. These plates are positioned to draw water from the surface level rather than the bottom, which has several advantages:
+
+- Surface water is generally cleaner and less turbid
+- Drawing from the surface prevents the release of sediment that has settled at the bottom
+- The outlet provides a means to drain the dam for maintenance or to supply water downstream
+
+Smaller dams may use a **siphon** over the dam wall crest as an alternative to a through-wall base pipe, which avoids the complexity and potential leakage risk of penetrating the earth wall.
+
+## Sealing Leaky Dams
+
+Leakage is a common problem in earth dams, especially those built in sandy, gravelly, or rocky substrates. Mollison identifies five principal methods for sealing leaking dams, ranging from low-cost biological approaches to expensive engineered solutions.
+
+### 1. Gley
+
+Gley is a biological sealing method that uses anaerobic fermentation of organic material to create an impermeable bacterial slime layer. It is the preferred permaculture method because it uses readily available materials and works in a wide range of [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|soil]] types.
+
+**Procedure:**
+1. Prepare a continuous layer of mashed, wet, green, sappy plant material 15–23 cm (6–9 inches) thick over the base and gently sloping sides of the pond (side slope ratio of 1:4)
+2. Cover the organic layer completely with earth, cardboard, thick wet paper, plastic sheets, or rolled clay to exclude air
+3. Allow the material to ferment anaerobically, which produces a bacterial slime that permanently seals soil, sand, or small gravels
+4. Once fermentation is established (a week or two in cold areas, a day or so in the tropics), fill the pond with water
+5. The paper or plastic covering can be removed after sealing is complete
+
+**Suitable materials** for the base layer include:
+- Cattle manure (preferred — very [[green-manure]] from penned and fed cattle)
+- Shredded, sappy vegetation
+- Lawn or second-cut grasses
+- Papaya and banana leaves
+- Vegetable tops
+- [[green-manure-crops]]
+- Bales of green hay
+
+**Modifications and variations:**
+- **Cattle penning method** — Pen and feed a herd of cattle in the dry dam until the bottom is thoroughly manured ("pugged"); occasional watering assists the process
+- **Hay and manure strewing** — For ponds that leak slightly, strewing bales of green hay and manure produces algae growth that seals minor cracks
+- **Green crop method** — Sow a green crop in the dry dam, spray irrigate it, and feed it off regularly with cattle, building up organic matter and sealing through the combined action of roots, manure, and trampling
+
+**Advanced possibility:** Mollison suggests that in very good soils, especially in the tropics, it may be possible to grow a mass of Dolichos bean in the dam basin and simply roll it flat before sealing — essentially growing your own gley material in situ.
+
+### 2. Bentonite
+
+Bentonite is a slippery clay powder derived from volcanic ash. When wetted, it swells dramatically (up to 10–15 times its dry volume) and creates an impermeable barrier.
+
+**Application:**
+- Rototill bentonite into the dam bed at 5–7 cm (2–3 inches) deep
+- Roll and compact the treated surface
+- Works best in loamy soils; less reliable in very sandy or rocky substrates
+
+**Limitations:**
+- Expensive, especially for large areas
+- Does not always work reliably — results can be inconsistent
+- In clay soils, similar effects can be achieved more cheaply with salt or sodium carbonate
+
+**Alternatives to consider:**
+- Cement mixed with soil, tamped down and sprinkled, may be preferable in some situations
+- Bituminous spray can be rolled in after tilling as another sealing option
+
+### 3. Explosives
+
+Explosives are occasionally used to compact the sides and base of full dams by detonating a small charge (3–5 sticks of dynamite) in the water. The shock wave compacts loose soil and seals small cracks and seepage paths.
+
+**Limitations and risks:**
+- Dangerous if the dam wall is poorly compacted to begin with — the blast could trigger a failure
+- Not recommended where people, animals, or structures are nearby
+- Results are unpredictable and not guaranteed
+- Humorous but real warning from Mollison: "dangerous if you own a retriever" (dogs retrieving sticks of dynamite)
+
+### 4. Clay
+
+Clay is the traditional dam-sealing material and remains effective when available locally:
+
+- Clay is spread and rolled 23–30 cm (9–12 inches) thick over suspect areas
+- Works well when a clay pocket or deposit exists near the dam site
+- Can be expensive if clay must be carted in from a distance
+- A clay core within the dam wall (extending down to an impermeable layer) is standard practice in larger earth dams
+- In suspect soils, the entire core of the dam can be constructed from carted clay
+
+### 5. Impermeable Membranes
+
+Impermeable membranes include welded plastic sheets, neoprene, or poured concrete:
+
+- The most expensive option, typically reserved for critical dams
+- Justified when a guaranteed water supply to a house or garden is essential in very porous areas
+- Enables steeper banks than earth-compaction or gley systems, allowing more water in a smaller footprint
+- Not truly "biological" unless a sand or topsoil floor is added over the sealing layer, which then permits fish or aquatic plants
+
+## Cost-Effectiveness of Water Storage
+
+Mollison provides a striking cost comparison that underscores the value of earth storage:
+
+- A 22,500-liter concrete tank costs approximately 20 monetary units
+- The same investment in earth storage yields approximately 2,500,000 liters — roughly **100 times more water** for the same cost
+- Earth tanks excavated below grade cost about **one-tenth** the price of concrete tanks above grade
+
+### Tank Economics
+
+- Tanks get relatively cheaper as size increases — less concrete per unit of water
+- Above 22,500 liters, tanks are usually poured on site
+- Below this size, they are typically manufactured centrally and transported
+- About 22,500 liters provides a family with all needed water (drinking, showers, cooking, modest garden irrigation) for a year
+
+### Dam Economics
+
+- Dam costs rise rapidly as wall height exceeds approximately 3 meters (10 feet)
+- Above this height, greater engineering skills, more expensive materials, complex level controls, and significant environmental risks increase costs
+- Site selection is the dominant cost factor — very low dams on well-chosen sites can impound 20–100 times more water than the same earth used on steep sites
+- On steep sites, every unit of earth moved equals approximately one unit of water stored
+- On flat sites behind constricted valley necks, the ratio improves dramatically
+
+## Where [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|Different]] Storage Types Are Appropriate
+
+| Storage Type | Appropriate Settings |
+|---|---|
+| **Tanks** | Isolated dwellings, flatlands, cities, urban areas |
+| **Modest dams** (22,500–4.5 million liters) | Any good site in country and parkland areas |
+| **Massive dams** | Only in rock-bermed or glaciated uplands with solid forested hills, low earthquake risk, and only for modest domestic power generation |
+
+Mollison strongly advocates that earth storage is the cheapest, easiest, and most locally self-reliant method of water conservation. He warns that without widespread adoption of such methods, clean water will become the world's rarest mineral, and that the chlorinated, metallic, and contaminated water of centralized supply systems contributes to epidemic diseases including cancer, bone marrow failure, and gastrointestinal disorders.
+
+## See Also
+
+- [[sealing-leaky-dams]]

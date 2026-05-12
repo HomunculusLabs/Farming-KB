@@ -112,7 +112,7 @@ Wild populations face pressure from habitat loss and overharvesting. *H. erinace
 - [[psilocybin]] — Psychedelic compound from Psilocybe species
 - [[mycelium]] — The vegetative network of fungi
 - [[mycoremediation]] — Using fungi for environmental cleanup
-- [[Adaptogens]] — Class of compounds helping the body resist stressors
+- [[herbal-medicine-making-basics]] — Class of compounds helping the body resist stressors
 
 ## References
 

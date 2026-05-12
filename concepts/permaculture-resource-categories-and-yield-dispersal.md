@@ -148,17 +148,3 @@ Neatness, tidiness, uniformity, and straightness signify an energy-maintained di
 ## Practical Design Applications
 
 1. **Audit your resources**: Classify every resource on your site into the five categories. This reveals management priorities.
-2. **Ban Category 5**: Identify and eliminate resources that pollute or destroy other resources.
-3. **Capture Category 3**: Design systems that prevent seasonal or perishable resources from going to waste.
-4. **Maximize Category 2**: Harvest sunlight, wind, and gravity at every opportunity.
-5. **Invest in Category 1**: Prioritize resources that grow through use — information, skills, soil life.
-6. **Conserve Category 4**: Minimize extraction of finite resources and plan for their replacement.
-7. **Design for continuous yield**: Use multiple dispersal strategies to ensure year-round food availability.
-8. **Increase cycling**: Every additional cycle — nutrient, water, energy — increases total system yield.
-9. **Identify the disorder threshold**: Know how much of any resource is productive, and stop before oversupply.
-
-## Key Definitions
-
-- **System yield**: The sum total of surplus energy produced by, stored, conserved, reused, or converted by the design.
-- **The role of life in yield**: Living things are the only effective intervening systems to capture resources and produce yield.
-- **Limits to yield**: Yield is not a fixed sum — it is the measure of the designer's comprehension, understanding, and ability.

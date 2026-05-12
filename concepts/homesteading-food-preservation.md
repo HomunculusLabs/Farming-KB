@@ -16,7 +16,7 @@ Preserving the harvest extends seasonal abundance into year-round food security.
 The simplest and most energy-efficient preservation method:
 - Temperature: 32-40°F (0-4°C)
 - Humidity: 85-95%
-- Crops: [[growing-root-vegetables-guide]] (potatoes, carrots, beets, turnips, parsnips), cabbages, apples, onions, [[winter-rye]]
+- Crops: [[growing-root-vegetables-guide]] (potatoes, carrots, beets, turnips, parsnips), cabbages, apples, onions, [[cover-crops]]
 - No electricity required — use [[earth-cellar-construction]] or [[stone-cellar-building]]
 - Store crops in layers separated by straw or sawdust
 - Check weekly; remove any rotting specimens immediately

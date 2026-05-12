@@ -128,7 +128,7 @@ No single stage achieves this alone — it is the synergistic combination of ana
 
 ## Related Topics
 
-- [[anaerobic-digestion-and-biogas-production]]
+- [[anaerobic-digestion-biogas-production]]
 - [[biological-water-purification]]
 - [[sewage-water-reduction-and-dry-toilets]]
 - [[greywater-systems-detailed]]

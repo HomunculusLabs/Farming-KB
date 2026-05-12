@@ -88,3 +88,9 @@ also occurs in the Caucasus, and has been reported from [[guzman-allen-gartz-neu
 and Asia under oak.
 
 The species forms [[ectomycorrhizal-associations]] with broadleaf trees,
+
+## See Also
+
+- [[boletus-edulis-and-pore-fungi-polyporaceae]]
+- [[boletus-regius]]
+- [[boletus-rex-veris]]

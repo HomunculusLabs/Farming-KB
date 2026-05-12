@@ -76,12 +76,9 @@ Horsetail has been utilised by humans for thousands of years across multiple cul
 - **Dye:** a yellow-green dye can be extracted from the stems for textile colouring.
 - **Construction:** prehistoric and medieval builders reportedly used horsetail in daub and wattle construction for its binding properties.
 - **[[halpern-sacramental-peyote-and-native-american-church]] uses:** several Indigenous peoples of [[psilocybin-north-america-pacific-northwest]] used horsetail as a urinary remedy, a styptic for bleeding, and a sanding material for woodworking.
+
 ## See Also
 
-- [[equisetum-variegatum]]
-
-- [[equisetum-palustre]]
-
-- [[urtica-dioica]] — Nettle; companion [[nutrient-dynamic-accumulator-reference]] and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] with overlapping diuretic uses.
-- comfrey — Comfrey (Symphytum spp.); premier dynamic accumulator of potassium and other minerals for permaculture systems.
-- [[thlaspi-arvense]]
+- [[equisetum-fluviatile]]
+- [[equisetum-sylvaticum]]
+- [[equisetum-telmateia]]

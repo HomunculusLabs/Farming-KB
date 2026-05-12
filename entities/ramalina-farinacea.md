@@ -88,3 +88,9 @@ Ethnobotanical records from the Mediterranean indicate that *R. farinacea* was t
 The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping dust particles and contributing organic matter to the bark surface. It is an early coloniser of young twigs and frequently establishes before other epiphytes.
 
 The photobiont partner is a trebouxioid green alga, typically assigned to the genus *Trebouxia*. Algal identity can influence the growth rate and [[fungal-lichen-stress-tolerance-and-poikilohydry]] of the lichen symbiosis.
+
+## See Also
+
+- [[ramalina-canariensis]]
+- [[ramalina-fraxinea]]
+- [[ramalina-menusis]]

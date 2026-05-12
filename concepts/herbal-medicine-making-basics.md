@@ -15,7 +15,7 @@ harvesting, processing, and the major preparation categories. See
 
 - [[marrubium-vulgare]]
 
-- [[bioremediation]]
+- [[mycoremediation-regulatory-framework]]
 
 - [[colchicum-autumnale]]
 

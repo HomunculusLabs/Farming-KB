@@ -126,6 +126,6 @@ occurs under optimal conditions for reproductive success.
 - [[plant-phototropism]]
 - [[phytochrome]]
 - [[chrysanthemum-coronarium]]
-- [[Florigen]]
+- photoperiodism in plants
 
 Photoperiodism remains one of the best-understood examples of how plants perceive and respond to their environment, bridging molecular biology, ecology, and practical agriculture.

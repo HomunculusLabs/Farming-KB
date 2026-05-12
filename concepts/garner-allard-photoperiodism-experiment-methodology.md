@@ -5,12 +5,12 @@ tags: [photoperiodism, plant-biology, maryland-mammoth, tobacco, garner-allard, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - grahamholmes-what-a-plant-knowsindd.md
+ - grahamholmes-what-a-plant-knowsindd.md
 type: concept
 ---
 # Garner and Allard Photoperiodism Experiment Methodology
 
-The [[coleman-winter-day-length-and-persephone-months]]. Many modern [[the-ultimate-goal-of-farming]] have been bred for
+The [[coleman-winter-day-length-and-persephone-months]]. Many modern have been bred for
 day-neutral flowering to ensure consistent production across latitudes and
 seasons.
 
@@ -47,13 +47,13 @@ The Garner and Allard methodology established principles that continue to
 inform commercial horticulture:
 
 - [[night-break-experiments-and-agricultural-light-manipulation]] e flower scheduling**: Chrysanthemums, poinsettias, and other
-  short-day plants are held in [[cannabis-vegetative-growth-stage]] by night-break lighting, then
-  allowed to flower on demand by discontinuing the treatment.
+ short-day plants are held in [[cannabis-vegetative-growth-stage]] by night-break lighting, then
+ allowed to flower on demand by discontinuing the treatment.
 - **Geographic adaptation**: Understanding photoperiodic requirements enables
-  breeders to select or develop varieties suited to specific latitudes.
+ breeders to select or develop varieties suited to specific latitudes.
 - **[[cervantes-seed-production-storage]]**: For crops like Maryland Mammoth that require short days
-  to flower, controlled environments ensure reliable seed set regardless of
-  outdoor conditions.
+ to flower, controlled environments ensure reliable seed set regardless of
+ outdoor conditions.
 
 The original experiment remains a model of elegant scientific reasoning: a
 single well-designed manipulation, transferring plants between field and shed,

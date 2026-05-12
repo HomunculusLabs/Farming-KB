@@ -7,7 +7,7 @@ type: concept
 # Water Pollution Contaminants and Treatment
 
 > The only long-term insurance of a good water supply is the rigorous control of a forested catchment, with a total ban on biocides and metallic processing.
-> — Bill Mollison, *Permaculture: A Designers' Manual*
+> — [[bill-mollison]], *Permaculture: A Designers' Manual*
 
 ## Water Purification Philosophy
 
@@ -129,3 +129,8 @@ Water treatment commonly involves adding ferric or aluminium sulphate, salt, and
 ## Summary
 
 The permaculture approach to water quality is fundamentally preventive: protect the catchment, eliminate pollution at source, and use biological treatment methods that work with natural processes rather than against them. Chemical treatments should be regarded with suspicion, as they frequently introduce new problems while addressing old ones. The ultimate test of water quality is whether it supports healthy ecosystems — not merely whether it passes human drinking standards.
+
+## See Also
+- [[williams-pdc-water-treatment]]
+- [[greg-green-water-quality-and-hard-water]]
+- [[water-filtration-treatment-methods]]

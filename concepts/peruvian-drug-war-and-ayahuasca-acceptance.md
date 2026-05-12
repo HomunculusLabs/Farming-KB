@@ -15,7 +15,7 @@ Peru occupies a unique position in global [[mckenna-modest-proposal-drug-policy-
 waging an aggressive war against cocaine trafficking while fully
 embracing ayahuasca as a legitimate cultural and spiritual practice.
 This paradox reveals fundamental differences between Peruvian and
-Western approaches to classifying [[star-fire-and-sacred-substances]].
+Western approaches to classifying [[cultural-evolution-and-psychoactive-substances]].
 
 The contrast is stark: cocaine traffickers regularly close the only
 road connecting Lima to several provinces for weeks, television

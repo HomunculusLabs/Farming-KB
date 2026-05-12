@@ -23,7 +23,7 @@ the specific mechanics of [[magic-mushroom-smartshop-retail-europe]] and interne
 sales. Understanding these contributing forces is
 essential for anticipating future emerging drug trends,
 as the same structural conditions may facilitate the
-spread of other novel [[star-fire-and-sacred-substances]].
+spread of other novel [[cultural-evolution-and-psychoactive-substances]].
 
 ## Consumer Megatrends and the Return to Nature
 

@@ -47,7 +47,7 @@ By the time Cooke published "[[palmer-poisonous-mushrooms-deadly-species]]" in 1
 
 ## Legacy
 
-Cooke represents a fascinating "what if" in the history of psychedelics — a brilliant naturalist who knew about psychoactive mushrooms, described their effects favorably in his youth, but never consumed them and ultimately warned against them. His trajectory from enthusiastic drug defender to conservative mycological authority mirrors the broader Victorian ambivalence toward [[star-fire-and-sacred-substances]].
+Cooke represents a fascinating "what if" in the history of psychedelics — a brilliant naturalist who knew about psychoactive mushrooms, described their effects favorably in his youth, but never consumed them and ultimately warned against them. His trajectory from enthusiastic drug defender to conservative mycological authority mirrors the broader Victorian ambivalence toward [[cultural-evolution-and-psychoactive-substances]].
 
 ## See Also
 

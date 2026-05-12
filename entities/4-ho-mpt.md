@@ -85,6 +85,6 @@ A strong dose is 25–35 mg, with doses above 35 mg considered heavy and potenti
 
 These ranges are derived from community self-reports and have not been validated in controlled clinical settings.
 
-As with all novel [[star-fire-and-sacred-substances]], users are advised to start at the lowest effective dose.
+As with all novel [[cultural-evolution-and-psychoactive-substances]], users are advised to start at the lowest effective dose.
 
 ## Synthesis

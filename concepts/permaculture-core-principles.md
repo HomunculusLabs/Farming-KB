@@ -148,5 +148,3 @@ Understanding these niche types enables designers to stack functions and species
 ## Policy of Responsibility
 
 > **The role of beneficial authority is to return function and responsibility to life and to people; if successful, no further authority is needed.** The role of successful design is to create a self-managed system.
-
-This principle guides the designer toward systems that require decreasing intervention over time — the ultimate goal being a self-regulating system that needs no ongoing management.

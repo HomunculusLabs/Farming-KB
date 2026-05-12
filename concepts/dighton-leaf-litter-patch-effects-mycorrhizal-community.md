@@ -64,13 +64,13 @@ effects on mycorrhizal communities.
 In a mixed forest ecosystem in the New Jersey pine barrens, Dighton et al. (2000)
 showed that there were localized patches of [[fungal-succession-leaf-litter]] occupying the [[fungal-ecology-forest-floor]], categorized as large, small, or nonexistent. Dighton et al. established by
 both measurement and experimentation that the size of the dighton leaf litter patch effects mycorrhizal community that
-accumulated was dictated by the density of stems of the [[ericaceous]] understory
+accumulated was dictated by the density of stems of the [[soil-ph]] understory
 vegetation (huckleberry and blueberry), which acted as a physical [[fungal-succession-leaf-litter]]
 dam.
 
-Where [[ericaceous]] shrub stems are dense, they trap falling leaves and prevent
+Where [[soil-ph]] shrub stems are dense, they trap falling leaves and prevent
 redistribution by wind or water, leading to large litter accumulations. Where
-[[ericaceous]] stems are sparse, leaves are more easily dispersed, resulting in
+[[soil-ph]] stems are sparse, leaves are more easily dispersed, resulting in
 smaller or nonexistent litter patches.
 
 ## Ericaceous Leaf Litter Dams
@@ -78,7 +78,7 @@ smaller or nonexistent litter patches.
 Large litter patches tended to accumulate a higher proportion of oak leaves
 relative to pine needles, because oak leaves are broader and more easily trapped
 by shrub stems. Pine needles, being narrower and more aerodynamic, are more readily
-dispersed by wind past the [[ericaceous]] barrier.
+dispersed by wind past the [[soil-ph]] barrier.
 
 This differential trapping creates a chemical gradient across the forest floor,
 with large patches being chemically distinct from small patches due to differing
@@ -122,7 +122,7 @@ resources.
 
 ## Rhododendron and Cenococcum geophilum
 
-*Rhododendron maximum* (an [[ericaceous]] shrub) severely reduces regeneration of
+*Rhododendron maximum* (an [[soil-ph]] shrub) severely reduces regeneration of
 hardwood and coniferous seedlings in the southern Appalachians. Walker et al.
 (1999) showed that dighton leaf litter patch effects mycorrhizal community manipulations did not affect total mycorrhizal
 colonization, but altered the distribution of *Cenococcum geophilum* mycorrhizae.
@@ -136,9 +136,9 @@ in the second year.
 
 ## Ecosystem Implications
 
-The interaction between dighton leaf litter patch effects mycorrhizal community distribution, [[ericaceous]] understory
+The interaction between dighton leaf litter patch effects mycorrhizal community distribution, [[soil-ph]] understory
 density, and [[ectomycorrhizal-fungi]] community composition represents a significant
 pathway by which aboveground vegetation structure influences belowground fungal
 communities and nutrient cycling. Changes in forest composition that alter
-[[ericaceous]] understory density could cascade through the soil fungal community
+[[soil-ph]] understory density could cascade through the soil fungal community
 to affect tree nutrition, growth, and ecosystem productivity and stability.

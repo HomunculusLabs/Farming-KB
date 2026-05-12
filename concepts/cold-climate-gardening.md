@@ -142,13 +142,6 @@ See [[greenhouse-design]] for detailed construction.
 | Oct 1 | Mulch all winter crops | After first hard freeze |
 
 ### Crop Rotation by Year
-
-Rotate crop families to prevent disease and pest buildup:
-
-- Year 1: Nightshades (tomatoes, peppers, potatoes, eggplant)
-- Year 2: Legumes (beans, peas)
-- Year 3: Brassicas (cabbage, broccoli, cauliflower, kale)
-
 ## See Also
 
 - [[cold-greenhouse-design-unheated]]

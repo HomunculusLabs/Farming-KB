@@ -71,7 +71,7 @@ own holy spirit established a dualistic cosmology — Truth (asha) versus the Li
 (druj) — that profoundly influenced later Western religions. The shift from a
 religion based on direct plant-induced experience of the sacred to one based on
 moral dualism and fire worship represents what McKenna saw as a critical turning
-point in human [[star-fire-and-sacred-substances]]: the moment when humanity began to substitute
+point in human [[cultural-evolution-and-psychoactive-substances]]: the moment when humanity began to substitute
 ideology for direct experience of the transcendent.
 
 ## Implications for the Archaic Revival

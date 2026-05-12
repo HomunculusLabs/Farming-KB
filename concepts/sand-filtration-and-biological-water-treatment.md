@@ -6,7 +6,7 @@ type: concept
 
 # Sand Filtration and Biological Water Treatment
 
-Sand filtration and biological water treatment are foundational techniques for purifying drinking water and treating sewage using natural processes. These methods, drawn from Bill Mollison's *Permaculture: A Designers' Manual*, rely on physical filtration, bacterial action, and plant-based systems to produce clean, safe water without heavy reliance on chemicals or machinery.
+Sand filtration and biological water treatment are foundational techniques for purifying drinking water and treating sewage using natural processes. These methods, drawn from [[bill-mollison]]'s *Permaculture: A Designers' Manual*, rely on physical filtration, bacterial action, and plant-based systems to produce clean, safe water without heavy reliance on chemicals or machinery.
 
 ## Sand Filtration
 
@@ -55,7 +55,7 @@ Reducing turbidity and algae in drinking ponds is achieved through light exclusi
 
 - Water lilies
 - *Azolla*
-- Water hyacinth (*Eichhornia crassipes*)
+- Water hyacinth (*[[eichhornia-crassipes]]*)
 
 ### Bank Stabilisers (Marginal Plants)
 
@@ -129,3 +129,8 @@ Water from filter towers can be routed to:
 - Irrigated grasslands (as demonstrated at Werribee, Australia)
 
 This multi-stage approach demonstrates how biological treatment can transform sewage — a perceived waste problem — into a cascade of useful products: clean water, energy, animal feed, wildlife habitat, and fertile land.
+
+## See Also
+- [[water-filtration-and-treatment-systems]]
+- [[water-filtration-treatment-methods]]
+- [[mycofiltration-fungal-water-filtration]]

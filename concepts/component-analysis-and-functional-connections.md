@@ -48,7 +48,7 @@ Mollison illustrates component analysis using the chicken — a homely and unive
 **Derived products** (limited only by information and local needs):
 - From eggs: a variety of foods, albumen
 - From feathers: dusters, insulation, bedding, rope, special manures
-- From manure: direct garden fertilizer, compost heat, methane (via anaerobic digestion)
+- From manure: direct garden fertilizer, [[compost]] heat, methane (via anaerobic digestion)
 - Heat and gases: useful in enclosed glasshouses
 
 **Behaviors:**
@@ -144,25 +144,6 @@ Just by moving the same components into a beneficial design assembly — without
 ## Common Elements of a Small Farm
 
 Mollison catalogs the typical components available for design:
-
-| Category | Examples |
-|----------|----------|
-| **Structures** | House, barn, glasshouse, chicken-house |
-| **Constructs** | Pond, hedgerow, trellis, fences |
-| **Domestic Animals** | Chickens, cows, pigs, sheep, fish |
-| **Land Use** | Orchard, pasture, crop, garden, woodlot |
-| **Context** | Market, labour, finance, skills, people, land, cultural limits |
-| **Assemblies** | Technologies, machines, roads, water systems |
-
-## Key Principles
-
-1. **List before you link**: Thoroughly understand each component's needs and products before attempting connections.
-2. **Pollution is a design failure**: Every output should be an input for another component.
-3. **Extra work is a design failure**: Every need should be supplied from within the system.
-4. **Placement is connection**: Where you put things determines what they can do for each other.
-5. **Same parts, different arrangement**: The difference between a wasteful farm and a productive one is not in the components but in their arrangement.
-6. **Information limits yield**: The derived products list is limited only by lack of specific information — learn more, connect more.
-
 ## See Also
 - [[functional-analysis-component-connection]]
 - [[functional-design-component-placement]]

@@ -32,7 +32,7 @@ Rexford F. Daubenmire (1909-1995) was an American plant ecologist and botanist w
 
 Daubenmire's work underpins several core permaculture principles that appear throughout Mollison's manual:
 
-- **Slope and aspect analysis**: The 5-degree slope equivalence to 168 km of latitude change directly informs permaculture zone and sector analysis, guiding placement of frost-sensitive versus cold-hardy species on different slope orientations.
+- **Slope and aspect analysis**: The 5-degree slope equivalence to 168 km of latitude change directly informs [[permaculture-zone-and-sector-analysis]], guiding placement of frost-sensitive versus cold-hardy species on different slope orientations.
 - **Altitudinal effects on climate**: His documentation of temperature lapse rates and their interaction with humidity, radiation, and wind provides the scientific framework for designing polyculture systems on hillsides and mountains, enabling cultivators to select appropriate species for each altitudinal band.
 - **Environmental factor analysis**: The systematic approach to individual environmental factors (soil, light, temperature, wind, water) that Daubenmire pioneered became the model for Mollison's "designer's checklist" methodology found at the end of each chapter.
 - **Vegetation-environment gradients**: Daubenmire's concept of environmental gradients controlling species distribution directly parallels the permaculture principle of "everything gardens" — that each element in a landscape creates specific conditions for other elements.
@@ -90,6 +90,7 @@ Daubenmire's work underpins several core permaculture principles that appear thr
 ## Related Topics
 
 ## See Also
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
 
 - [[ecological-niche]]
 - [[fungal-biodiversity-measurement-methods]]

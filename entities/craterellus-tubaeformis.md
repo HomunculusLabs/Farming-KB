@@ -70,10 +70,13 @@ on scarce inputs when a simpler ecological substitute is available.
 - [[composting-systems]]
 - [[mushroom-cultivation]]
 
+
 ## See Also
 
-- [[hydnum-repandum]]
-- [[suillus-luteus]]
+- [[craterellus-cornucopioides]]
+- [[craterellus-ignicolor]]
+- [[craterellus-odoratus]]
+
 ## Practical Considerations
 
 Successful implementation of Craterellus tubaeformis requires attention to

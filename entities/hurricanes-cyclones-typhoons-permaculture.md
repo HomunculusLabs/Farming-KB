@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Hurricanes (also called cyclones in the Southern Hemisphere and typhoons in the Western Pacific) are large-scale tropical cyclonic storm systems characterized by sustained wind speeds of 128-192 km/h and accompanied by tidal surges, intense rainfall, and coastal flooding. In permaculture design, understanding hurricane dynamics is critical for site planning in tropical and subtropical coastal regions, particularly for windbreak design, building placement, and disaster preparedness. Bill Mollison provides detailed analysis of hurricane mechanics and design responses in Permaculture: A Designer's Manual.
+Hurricanes (also called cyclones in the Southern Hemisphere and typhoons in the Western Pacific) are large-scale tropical cyclonic storm systems characterized by sustained wind speeds of 128-192 km/h and accompanied by tidal surges, intense rainfall, and coastal flooding. In [[permaculture-design]], understanding hurricane dynamics is critical for site planning in tropical and subtropical coastal regions, particularly for windbreak design, building placement, and disaster preparedness. Bill Mollison provides detailed analysis of hurricane mechanics and design responses in Permaculture: A Designer's Manual.
 
 ## Classification
 

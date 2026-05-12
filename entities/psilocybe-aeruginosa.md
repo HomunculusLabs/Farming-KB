@@ -74,7 +74,6 @@ taxonomy. The species serves as a reminder that not all mushrooms
 placed in Psilocybe on morphological grounds contain psychoactive
 compounds, and that chemical verification remains essential.
 
-
 ## See Also
 
 - [[psilocybe-angustispora]]

@@ -14,7 +14,7 @@ Chop-and-drop mulching is a core permaculture technique where plants are periodi
 
 ## Comfrey (Symphytum spp)
 
-Comfrey is the quintessential chop-and-drop plant, though the source covers it primarily in the context of livestock [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] systems. Listed among the [[forage-turnip]] and produce large volumes of leafy material when coppiced. Their role as chop-and-drop mulch:
+Comfrey is the quintessential chop-and-drop plant, though the source covers it primarily in the context of livestock [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] systems. Listed among the [[cover-crops]] and produce large volumes of leafy material when coppiced. Their role as chop-and-drop mulch:
 
 - Regular coppicing stimulates vigorous, leafy regrowth
 - Cut material breaks down relatively quickly

@@ -139,15 +139,6 @@ Acidobacteria decline as a reliable filtering intensity indicator.
 
 ## See Also
 
-- [[cannabis-asthma-research]]
-- [[cannabis-auto-flowering-ruderalis-sativa-indoor]]
-- [[cannabis-beta-caryophyllene-food-based-cannabinoid]]
-- [[cannabis-curing-jars]]
-- [[cannabis-endorniza-microbiome]]
-- [[cannabis-germination-techniques]]
-- [[cannabis-herpes-treatment]]
-- [[cannabis-insomnia-research]]
-- [[cannabis-menopause-research]]
 - [[cannabis-microbiome-alpha-diversity-gradient]]
 - [[cannabis-ocd-research]]
 - [[cannabis-ptsd-research]]
@@ -157,9 +148,3 @@ Acidobacteria decline as a reliable filtering intensity indicator.
 - [[cannabis-sleep-disorders]]
 - [[cannabis-sulfur-nutrient]]
 - [[cannabis-weighted-unifrac-strain-abundance-vs-presence-absence]]
-
-## Sources
-
-- Winston, M.E., et al. (2014). [[winston-cannabis-microbiome-study-design]].
-- Bulgarelli, D., et al. (2012). Arabidopsis root microbiota. *Nature*.
-- Lundberg, D.S., et al. (2012). Core Arabidopsis root microbiome. *Nature*.

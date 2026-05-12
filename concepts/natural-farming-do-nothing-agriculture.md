@@ -87,3 +87,8 @@ Organic farming, in his view, was simply conventional agriculture with different
 ## The Citrus Orchard
 
 Fukuoka maintained a citrus orchard on approximately 7-8 acres of hillside land on his farm in Shikoku. The land had originally been a white pine forest, which Fukuoka had cut down in his youth to plant the orchard — an act he later deeply regretted and cited as evidence of how even well-intentioned intervention can cause harm. The orchard demonstrated [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]] in a perennial system: no pruning, no spraying, no fertilization, and no cultivation of the ground cover.
+
+## See Also
+
+- [[fukuoka-natural-orchard-ground-cover-system]]
+- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]

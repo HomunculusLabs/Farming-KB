@@ -84,7 +84,7 @@ Human urine is rich in nitrogen (primarily as urea) and can be a valuable agricu
 
 ## Natural Swimming Pools
 
-Natural swimming pools eliminate the need for chlorine and other chemical sanitizers by using biological filtration:
+[[natural-swimming-pools]] eliminate the need for chlorine and other chemical sanitizers by using biological filtration:
 
 - **Flowform designs**: Sculpted water features that create cascading flow patterns, aerating water and supporting biofilm development on surfaces.
 - **Reed beds**: Planted filtration zones that remove nutrients and pathogens, keeping pool water clear and safe.
@@ -107,3 +107,8 @@ Biological wastewater treatment systems should be integrated into overall site d
 - Zone treatment areas for easy access to harvest biomass and maintain systems.
 - Connect nutrient flows from treatment outputs to food production zones.
 - Design for redundancy — multiple small treatment cells are more resilient than single large systems.
+
+## See Also
+- [[sand-filtration-and-biological-water-treatment]]
+- [[biological-sewage-treatment-systems]]
+- [[biological-sewage-treatment-with-plants]]

@@ -88,3 +88,9 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
+
+## See Also
+
+- [[tma-3-entity-pihkal]]
+- [[tma-4-entity-pihkal]]
+- [[tma-entity-pihkal]]

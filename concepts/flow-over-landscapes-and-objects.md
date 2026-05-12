@@ -34,7 +34,7 @@ When a fixed object (a "bluff body") is located in a flow — whether a post in 
 
 ### The Kármán Vortex Street
 
-This alternating pattern of vortices is known as a Kármán vortex street. The sets of vortices shed from bluff bodies form the basis of the work at the Virbela Institute on **flowforms** — sculpted vessels designed to replicate natural flow patterns for water treatment and aeration.
+This alternating pattern of vortices is known as a Kármán vortex street. The sets of vortices shed from bluff bodies form the basis of the work at the [[virbela-institute]] on **flowforms** — sculpted vessels designed to replicate natural flow patterns for water treatment and aeration.
 
 ### Functional Significance
 

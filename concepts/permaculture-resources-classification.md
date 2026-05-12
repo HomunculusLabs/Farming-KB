@@ -10,7 +10,7 @@ type: concept
 
 ## The "Everything Gardens" Principle
 
-The foundation of permaculture's resource thinking begins with the observation that every organism modifies its environment. This principle — known as [[everything-gardens]] — recognizes that no living thing exists in passive relation to its surroundings. Every species acts as a gardener of sorts, shaping the world it inhabits through its biological activity.
+The foundation of permaculture's resource thinking begins with the observation that every organism modifies its environment. This principle — known as permaculture resources classification — recognizes that no living thing exists in passive relation to its surroundings. Every species acts as a gardener of sorts, shaping the world it inhabits through its biological activity.
 
 Rabbits, for example, create burrows that aerate soils, produce defecation mounds that fertilize ground, scratch at roots disturbing plant communities, and through their grazing patterns create and maintain lawns. People build houses, dispose of sewage, and dig into soils — all acts of environmental modification. The critical insight is that organisms can function as **allies** in sustaining systems when their environmental effects are understood and directed rather than ignored or suppressed.
 
@@ -20,7 +20,7 @@ Understanding how every element in a system modifies its environment allows desi
 
 In permaculture, a **resource** is defined as a useful reserve that has been translated and stored from incoming energies — whether from the sun, wind, rain, or other natural flows. Resources are not static deposits; they are the product of energy capture and conversion by living systems and geological processes.
 
-**[[Yield]]** is defined as the surplus produced by a system above and beyond what the system itself needs to maintain its functions. A healthy system produces yield that can be shared or harvested without degrading its capacity to continue producing. The concept of yield is inseparable from resource thinking — resources are the stores, and yield is what flows from those stores when they are well-managed.
+**permaculture resources classification** is defined as the surplus produced by a system above and beyond what the system itself needs to maintain its functions. A healthy system produces yield that can be shared or harvested without degrading its capacity to continue producing. The concept of yield is inseparable from resource thinking — resources are the stores, and yield is what flows from those stores when they are well-managed.
 
 ## Ethics of Resource Use
 

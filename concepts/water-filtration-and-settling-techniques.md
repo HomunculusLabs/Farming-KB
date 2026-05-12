@@ -6,7 +6,7 @@ type: concept
 
 # Water Filtration and Settling Techniques
 
-Water purification in permaculture systems relies on a diverse suite of natural and low-energy treatment methods. Rather than depending solely on industrial chemical processes, permaculture design leverages biological, mechanical, and ecological approaches that can be applied in series for progressively cleaner water. This page catalogues the major treatment categories and practical design details drawn from Bill Mollison's *Permaculture: A Designers' Manual*.
+Water purification in [[permaculture]] [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|systems]] relies on a diverse suite of natural and low-energy treatment methods. Rather than depending solely on industrial chemical processes, [[permaculture-design]] leverages biological, mechanical, and ecological approaches that can be applied in series for progressively cleaner water. This page catalogues the major treatment categories and practical design details drawn from [[bill-mollison]]'s *Permaculture: A Designers' Manual*.
 
 ## Overview of Water Treatment Categories
 
@@ -144,3 +144,7 @@ Beyond lime, other coagulants include chemical additives such as common salt, fe
 - **Monitor with living indicators** — Organisms like water mussels provide real-time feedback on water quality.
 - **Design for low energy input** — Gravity flow, wind, and photosynthesis can replace pumps and chemical dosing in many contexts.
 - **Integrate treatment with production** — Treated water and nutrient by-products (ammonia, sludge) can fertilise crops, aquaculture, or energy systems.
+
+## See Also
+- [[cervantes-water-quality-filtration]]
+- [[water-harvesting-techniques-comparison]]

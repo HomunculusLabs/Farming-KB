@@ -74,7 +74,7 @@ religious awe and wonder. The medieval witches who used psychoactive
 fungi to induce numinous states of awareness, the Aztec priests who
 referred to mushrooms as teonanacatl or "flesh of the gods," and the Greek
 initiates at Eleusis all participated in the same fundamental encounter
-with sacred mystery mediated by natural [[star-fire-and-sacred-substances]].
+with sacred mystery mediated by natural [[cultural-evolution-and-psychoactive-substances]].
 
 ## Confronting the Numinous in Modern Context
 

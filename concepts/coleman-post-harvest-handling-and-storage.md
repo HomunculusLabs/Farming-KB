@@ -79,7 +79,7 @@ bags instead of bulk boxes.
 ## Root Crop Storage
 
 [[coleman-winter-harvesting-techniques]] extends beyond fresh greens to stored crops. From
-storage, Coleman offers onions, garlic, shallots, [[winter-rye]], celery
+storage, Coleman offers onions, garlic, shallots, [[cover-crops]], celery
 root, parsley root, scorzonera, and storage beets. The cool-soil storage
 of certain crops in the ground, such as carrots left in unheated
 greenhouse beds, provides vegetables that are perceived as "freshly

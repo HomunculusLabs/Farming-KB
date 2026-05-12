@@ -71,7 +71,7 @@ moisture and nutrient-retaining medium.
 Light soils are easy to dig and warm up quickly in the spring but allow
 very free drainage, which has its own problems. Water and nutrients
 disappear through the topsoil. Light soils require constant additions of
-[[humus-and-soil-organic-matter]] to form a topsoil that retains moisture and generally
+[[humus]] to form a topsoil that retains moisture and generally
 need more applications of fertilizers than heavy soils.
 
 ## Soil Management Principles

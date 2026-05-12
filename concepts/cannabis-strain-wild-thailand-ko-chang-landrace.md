@@ -68,7 +68,7 @@ Given its pronounced effects profile, Wild Thailand may be beneficial for:
 
 ## Thai Landrace Heritage
 
-Thai landraces are among the most legendary sativas in cannabis history. During the 1960s and 1970s, [[thai-stick]] — cannabis buds wrapped around thin bamboo sticks and often left seeded — became one of the most sought-after imports in the United States and Europe. The [[thai-stick]] tradition was not merely a packaging method but a cultural artifact of Thailand's deep-rooted cannabis heritage stretching back centuries.
+Thai landraces are among the most legendary sativas in cannabis history. During the 1960s and 1970s, [[thai-power|thai-stick]] — cannabis buds wrapped around thin bamboo sticks and often left seeded — became one of the most sought-after imports in the United States and Europe. The [[thai-power|thai-stick]] tradition was not merely a packaging method but a cultural artifact of Thailand's deep-rooted cannabis heritage stretching back centuries.
 
 ### The Thai Stick Era
 
@@ -76,7 +76,7 @@ Buds were threaded onto bamboo splints, bound with hemp string, and often soaked
 
 ### Old-School Breeder Perspectives
 
-Cannabis breeder and author The Rev has noted that Southeast Asian sativas — including [[Thai]], [[haze-genetics]], [[vietnam-black]], and [[Cambodian]] — were among the most coveted genetics for old-school breeders. These strains formed the genetic backbone of many legendary hybrids, including [[amnesia-haze]], [[thai-haze]], and [[super-silver-haze]]. Wild Thailand represents a rare opportunity to work with relatively unadulterated Thai genetics in an era of increasing homogenization and hybridization.
+Cannabis breeder and author The Rev has noted that Southeast Asian sativas — including cannabis strain wild thailand ko chang landrace, [[haze-genetics]], [[vietnam-black]], and cannabis strain wild thailand ko chang landrace — were among the most coveted genetics for old-school breeders. These strains formed the genetic backbone of many legendary hybrids, including [[amnesia-haze]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], and [[super-silver-haze]]. Wild Thailand represents a rare opportunity to work with relatively unadulterated Thai genetics in an era of increasing homogenization and hybridization.
 
 ## Ko Chang — The Source
 

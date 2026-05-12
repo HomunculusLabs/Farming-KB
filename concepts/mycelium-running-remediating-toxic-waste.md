@@ -31,9 +31,9 @@ ecosystems detoxify.
 Different fungal strategies suit different contamination scenarios:
 
 - **[[saprophytic-fungi]]**: Grow on or above ground; feed on [[mushroom-debris-fields-and-ecological-succession]];
-  more useful for surface or recently deposited contaminants
+ more useful for surface or recently deposited contaminants
 - **[[mycorrhizal-fungi]]**: Live on sites for decades; penetrate deeper
-  underground; offer transport systems from deeper contaminated zones
+ underground; offer transport systems from deeper contaminated zones
 
 Once mycelium upchannels heavy metals into mushrooms, they can be
 picked and transported away. If not removed, bacteria and other fungi
@@ -44,11 +44,11 @@ cause them to decompose and return metals to the soil.
 For toxic waste sites, Stamets recommends:
 
 1. Use a wood chipper to create sheet mulch, dispersing spawn in the
-   flowing chips at about one-fourth of total mass
+ flowing chips at about one-fourth of total mass
 2. Create a 1.5-foot-deep mulch layer for aerobic conditions
 3. Cover with cardboard, then a loose straw layer
 4. After residual levels decline to tolerable limits, plant trees with
-  [[mycorrhizae]]
+ [[mycorrhizae]]
 5. Reintroduce follow-up populations of mediating mycelia as needed
 
 ## Safety Warnings
@@ -61,7 +61,7 @@ eaten until determined safe through testing.
 ## See Also
 
 - [[mycoremediation-of-heavy-metals]] -- heavy metal focus
-- mycoremediation-of-pahs -- [[soil-health-and-microbial-life]]
+- mycoremediation-of-pahs -- 
 - mycoremediation-of-explosives -- explosives remediation
 - [[woodlovers-mycelium-running-pathway-technique]] remediating toxic waste -- this page
 ## Practical Considerations

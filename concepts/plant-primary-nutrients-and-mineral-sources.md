@@ -80,3 +80,8 @@ Understanding these vertical and lateral transport mechanisms is essential for d
 4. **Harvest and cycle marine resources** (seaweed, fish waste) where coastal access exists
 5. **Design water flow** to retain rather than leach soluble nutrients from the root zone
 6. **Use conservative application rates** of concentrated amendments like guano and bitterns to avoid heavy metal accumulation
+
+## See Also
+- [[primary-plant-nutrients-and-mineral-sources]]
+- [[primary-nutrients-and-mineral-sources-in-soils]]
+- [[teaming-with-nutrients-essential-plant-nutrients]]

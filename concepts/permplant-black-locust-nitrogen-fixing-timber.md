@@ -21,7 +21,7 @@ legume reaching 25 metres in height and living for up to 200 years. A
 native of the Appalachian and Ozark mountains of the [[dmt-containing-plants-united-states-halpern]], it
 belongs to the family Fabaceae/Papilionaceae. Black locust is one of the
 most valuable multipurpose trees in [[knf-poultry-feed-preparation]], adding another layer of
-function to this multipurpose tree. In [[forage-turnip]] have not yet begun
+function to this multipurpose tree. In [[cover-crops]] have not yet begun
 blooming. This makes it an essential component of any [[mollison-designers-windbreak-configurations-for-crops-and-orchards]], black locust serves as a hardy component that
 withstands harsh conditions.
 

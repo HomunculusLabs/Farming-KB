@@ -140,7 +140,7 @@ Current research is exploring Lion's Mane for:
 - [[cordyceps-cultivation]]
 - [[turkey-tail-mushroom-cancer-research]]
 - [[beta-glucans]]
-- [[nerve-growth-factor]]
+- [[hericium-erinaceus]]
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
 
 ---

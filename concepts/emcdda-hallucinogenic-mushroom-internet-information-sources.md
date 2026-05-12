@@ -29,7 +29,7 @@ markets and a broader "return to nature" trend.
 ## Major International Websites
 
 Several US-based websites serve as comprehensive repositories of information
-on [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] and other [[star-fire-and-sacred-substances]]:
+on [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] and other [[cultural-evolution-and-psychoactive-substances]]:
 
 - **Erowid**: One of the most well-known drug information vaults, providing
   detailed information on effects, dosages, chemistry, and user experience

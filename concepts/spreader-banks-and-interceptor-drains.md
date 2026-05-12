@@ -6,7 +6,7 @@ type: concept
 
 # Spreader Banks and Interceptor Drains
 
-Spreader banks and interceptor drains are complementary earthworks used in permaculture and broadacre land management to control water movement across landscapes. While spreader banks distribute water evenly for irrigation and erosion prevention, interceptor drains capture and redirect overland flow to prevent waterlogging and salinisation. Together they form critical components of integrated water harvesting and land rehabilitation systems.
+Spreader banks and interceptor drains are complementary earthworks used in [[permaculture]] and broadacre land management to control water movement across landscapes. While spreader banks distribute water evenly for irrigation and erosion prevention, interceptor drains capture and redirect overland flow to prevent waterlogging and salinisation. Together they form critical components of integrated water harvesting and land rehabilitation systems.
 
 ## Spill Gates and Flags
 
@@ -103,9 +103,14 @@ In Sweden, dry toilets are compulsory in remote, unsewered, or unsuitable areas.
 Wastewater from kitchens, bathrooms, and laundries carries chemicals that must be understood before release to gardens and soils. Typical contaminants include:
 
 - Sodium or potassium polysulphates, silicates, sulphates, bicarbonates
-- Borates (harmful at >0.5 ppm; >1.0 ppm damages soil life)
+- Borates (harmful at >0.5 ppm; >1.0 ppm damages [[soil-life]])
 - Residual biocides (DDT, Dieldrin, Hexachlor from dairy cattle)
 - Additives: resins, scents, dyes, brighteners
 - Faecal bacteria and viral/worm pathogens
 
 Sodium and potassium salts can deflocculate soil clays or damage leaves at concentrations exceeding 1,000 ppm. Woody perennials cope better with complex pollutants than garden vegetables, allowing more decomposition time. In critical areas, special soaps (unpolluted oils, potash or sodium) and water plants that remove excesses may be necessary before greywater reaches soils and streams.
+
+## See Also
+- [[diversion-drains-and-spreader-banks]]
+- [[mollison-designers-diversion-drains-and-interceptor-banks]]
+- [[spreader-banks-and-irrigation-bays]]

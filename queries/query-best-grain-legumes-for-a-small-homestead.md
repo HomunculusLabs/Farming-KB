@@ -2,23 +2,23 @@
 title: "What Are the query best grain legumes for a small homestead Legumes for a Small Homestead"
 subtitle: Choosing pulse crops for self-sufficiency, soil health, and dietary diversity on small-scale farms
 tags:
-  - grain-legumes
-  - pulse-crops
-  - homesteading
-  - self-sufficiency
-  - nitrogen-fixation
-  - permaculture
-  - small-scale-farming
-  - cover-crops
-  - food-security
+ - grain-legumes
+ - pulse-crops
+ - homesteading
+ - self-sufficiency
+ - nitrogen-fixation
+ - permaculture
+ - small-scale-farming
+ - cover-crops
+ - food-security
 date: 2026-05-03
 updated: 2026-05-03
 sources:
-  - https://www.fao.org/pulses-2016/en/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3705345/
-  - https://www.sare.org/publications/cover-crops/
-  - https://www.johnnyseeds.com/
-  - https://www.seedsofchange.com/
+ - https://www.fao.org/pulses-2016/en/
+ - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3705345/
+ - https://www.sare.org/publications/cover-crops/
+ - https://www.johnnyseeds.com/
+ - https://www.seedsofchange.com/
 type: query
 created: 2026-05-03
 ---
@@ -73,8 +73,8 @@ Cowpea is the homestead pulse for tough conditions. Where other crops wilt and f
 
 ### 5. Common Dry Bean — *Phaseolus vulgaris*
 
-**Best for**: Culinary variety, temperate to subtropical climates, [[the-ultimate-goal-of-farming]]
-- [[the-ultimate-goal-of-farming]]
+**Best for**: Culinary variety, temperate to subtropical climates, 
+- 
 
 ## See Also
 

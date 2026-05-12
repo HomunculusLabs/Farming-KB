@@ -27,7 +27,7 @@ Indigenous and traditional farming societies developed remarkably sophisticated 
 
 - **Vegetative indicators** — The "health" or performance of specific crops used as a living assay for soil conditions.
 - **Animal indicators** — Presence, behavior, and constructions of soil fauna. Termite mounds, for example, vary in shape and size depending on soil composition, revealing subsurface conditions without excavation.
-- **Plant indicators** — Specific plant species or communities that signal soil acidity, drainage conditions, and fertility levels. Indicator plants serve as a passive, continuous soil monitoring system, reading the landscape in ways instruments cannot.
+- **Plant indicators** — Specific plant species or communities that signal soil acidity, drainage conditions, and fertility levels. Indicator plants serve as a passive, continuous soil monitoring system, [[reading-the-landscape]] in ways instruments cannot.
 
 ### Topographic and Positional Factors
 
@@ -71,7 +71,7 @@ Mollison identifies five fundamental components that together constitute living 
 2. **Soil Waters** — Both fresh and saline solutions of varying pH that dissolve and transport nutrients. Soil water chemistry directly affects nutrient availability and root health.
 3. **Gases** — Atmospheric gases plus those produced by rock breakdown and the earth's interior. Oxygen is critical for root respiration and aerobic microbial activity; carbon dioxide from biological respiration influences soil pH and mineral solubility.
 4. **Life Forms** — The biological community ranging from bacteria to wombats, and from plant roots to algae. This living fraction drives nutrient cycling, creates soil structure through root channels and microbial glues, and maintains soil health as a dynamic, self-organizing system.
-5. **Once-Living Remains (Humus)** — Decomposed organic matter that provides cation exchange capacity, water-holding ability, and a slow-release nutrient reservoir. Humus is the key to long-term soil fertility and resilience.
+5. **Once-Living Remains (Humus)** — Decomposed organic matter that provides [[cation-exchange-capacity]], water-holding ability, and a slow-release nutrient reservoir. Humus is the key to long-term soil fertility and resilience.
 
 ### Depth of the Living Soil System
 
@@ -125,6 +125,9 @@ Permaculture benefits from combining both classification traditions:
 The extreme thinness of the living soil layer (often 6–12 cm) underscores the importance of erosion control, soil-building practices, and careful earthworks. Every centimetre of topsoil lost represents centuries of biological production. Permaculture designs must prioritize soil preservation as a foundational ethic, treating soil as the irreplaceable capital upon which all productive systems depend.
 
 ## See Also
+- [[mollison-tribal-soil-classifications-and-soil-structure]]
+- [[tribal-soil-classification-and-structure]]
+- [[soil-structure-classification]]
 
 - Soil nutrient cycles and mineral availability
 - Earthworks and dam construction principles

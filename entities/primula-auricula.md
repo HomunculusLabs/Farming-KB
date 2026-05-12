@@ -52,7 +52,7 @@ The farinose coating on leaves and inflorescence is composed of flavonoid exudat
 
 Isolated populations are found in the Jura Mountains of France and Switzerland, the Dinaric Alps of the western Balkans, and the Apennines of central Italy. The species reaches its northern limit in the Bavarian Alps.
 
-The plant grows on limestone cliffs, rocky outcrops, scree slopes, and alpine meadows. It favors well-drained calcareous substrates with neutral to slightly alkaline soil pH.
+The plant grows on limestone cliffs, rocky outcrops, scree slopes, and alpine meadows. It favors well-drained calcareous substrates with neutral to slightly alkaline [[soil-ph]].
 
 Elevation spans from approximately 300 meters in the foothills to 2,500 meters in high alpine zones. At lower elevations, auricula is restricted to shaded north-facing cliffs where moisture is retained.
 

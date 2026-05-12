@@ -73,7 +73,7 @@ Each of these derivatives introduces dramatically different pharmacological prop
 
 It was included in the book not for its psychoactive properties, but for its critical importance as a synthetic intermediate.
 
-The compound demonstrates how a pharmacologically inactive molecule can serve as the foundation for an entire family of potent [[star-fire-and-sacred-substances]].
+The compound demonstrates how a pharmacologically inactive molecule can serve as the foundation for an entire family of potent [[cultural-evolution-and-psychoactive-substances]].
 
 ## Dosage and Duration
 

@@ -88,3 +88,9 @@ Dietary fiber content is high, with significant amounts of resistant starch.
 Mineral content includes potassium, phosphorus, calcium, magnesium, and iron in meaningful quantities.
 
 Vitamin E (tocopherols) and vitamin C are present at moderate levels.
+
+## See Also
+
+- [[cyperus-alternifolius]]
+- [[cyperus-longus]]
+- [[cyperus-strigosus]]

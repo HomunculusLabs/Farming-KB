@@ -63,7 +63,7 @@ orchards on modest slopes.
 In areas with heavy clay or compacted soil, filling swales with straw or
 coarse organic matter improves drainage and accelerates infiltration. The
 straw acts as a wick, drawing water downward into the subsoil while slowly
-decomposing to build [[humus-and-soil-organic-matter]].
+decomposing to build [[humus]].
 
 ## Greywater Systems
 

@@ -64,7 +64,6 @@ Research in this area draws on multidisciplinary approaches combining field obse
 
 Emerging applications span ecological management, therapeutic protocols, and materials science. Continued research promises to reveal new properties and optimize existing methodologies for practical benefit.
 
-
 ## See Also
 
 - [[shamanism-and-hallucinogenic-plants]]

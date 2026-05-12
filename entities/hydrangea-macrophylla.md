@@ -65,7 +65,7 @@ Optimal growth occurs in partial shade with consistent soil moisture and protect
 
 ## Flower Color Chemistry
 
-The most distinctive feature of Hydrangea macrophylla is its ability to produce flowers ranging from blue to pink depending on soil pH.
+The most distinctive feature of Hydrangea macrophylla is its ability to produce flowers ranging from blue to pink depending on [[soil-ph]].
 
 This color variation is mediated by aluminum availability in the soil solution and the plant's physiological response to aluminum ions.
 

@@ -9,7 +9,7 @@ tags: [medicinal-plant, alkaloid, antimalarial, permaculture, cinchona]
 
 ## Description
 
-[[quinine]] is a bitter alkaloid mentioned by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as an example of a crop with "special value" — a substance that commands unique importance beyond ordinary food production. Extracted from the bark of Cinchona trees, quinine was historically the primary treatment for malaria and remains one of the most significant medicinal compounds derived from plants.
+quinine mollison is a bitter alkaloid mentioned by [[bill-mollison]] in *[[permaculture]]: A Designers' Manual* as an example of a crop with "special value" — a substance that commands unique importance beyond ordinary food production. Extracted from the bark of Cinchona trees, quinine was historically the primary treatment for malaria and remains one of the most significant medicinal compounds derived from plants.
 
 ## Classification
 
@@ -72,7 +72,7 @@ Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]
 - Field observations complement controlled experimental results
 
 ## See Also
-- [[quinine]]
+- quinine mollison
 - [[mollison-designers-wool-insulation-and-natural-textiles]]
 - [[mollison-designers-house-design-climate-zones]]
 - [[mollison-designers-seed-dormancy-and-germination-treatments]]
@@ -115,7 +115,7 @@ Mollison, B. (1988). *Permaculture: A Designers' Manual*. [[tagari-publications]
 - Adaptive management recommended for changing conditions
 
 ## Related Topics
-- [[quinine]]
+- quinine mollison
 - [[mollison-designers-coffee-shade-growing-systems]]
 - [[mollison-designers-willow-water-and-natural-rooting-propagation]]
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]

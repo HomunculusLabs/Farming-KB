@@ -26,7 +26,7 @@ drugs in society. The issue, he argues, is not whether people will use
 drugs, but rather: "How drugged shall you be? Or, to put it another
 way, how conscious shall you be? Who shall be conscious? Who shall be
 unconscious?" This reframing shifts the focus from the relatively small
-number of people who use illegal [[star-fire-and-sacred-substances]] to the vast
+number of people who use illegal [[cultural-evolution-and-psychoactive-substances]] to the vast
 majority who are maintained in states of manufactured distraction and
 compliance by legal and institutional means.
 

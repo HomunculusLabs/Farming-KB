@@ -6,7 +6,7 @@ type: concept
 
 # Landscape Effects of Altitude and Valley Climates
 
-Climate is shaped not only by latitude and proximity to oceans but also dramatically by altitude, slope, and valley geometry. Understanding these landscape-scale effects is essential for permaculture site selection, species placement, and microclimate design.
+Climate is shaped not only by latitude and proximity to oceans but also dramatically by altitude, slope, and valley geometry. Understanding these landscape-scale effects is essential for [[permaculture]] site selection, species placement, and microclimate design.
 
 ## Continental Effects
 
@@ -14,7 +14,7 @@ Heat is transported on a world scale by two great circulations: **air masses** a
 
 The concept of **continental climates** describes extreme and widely fluctuating inland climatic zones not buffered by sea currents, demonstrating periods of extreme heat and cold, all the more marked on high mountains.
 
-Continental climate is the third major complication on simple temperature-rainfall classifications (after temperature and precipitation patterns). After this, only one special factor remains: the effect of hills or mountain ranges on local climate — effects very like latitudinal effects on a global scale.
+[[continental-climate]] is the third major complication on simple temperature-rainfall classifications (after temperature and precipitation patterns). After this, only one special factor remains: the effect of hills or mountain ranges on local climate — effects very like latitudinal effects on a global scale.
 
 ## Latitude-Altitude Equivalence
 

@@ -87,3 +87,8 @@ The recognition that classical hallucinogens act through the serotonin system de
 5. **1990s–present** — Refinement of the 5-HT2A hypothesis, including the role of 5-HT2C, 5-HT1A, and other receptor subtypes
 
 ### Beyond 5-HT2A
+
+## See Also
+
+- [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]]
+- [[hplc-analysis-psilocybin-psilocin]]

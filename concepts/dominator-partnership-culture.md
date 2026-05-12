@@ -122,7 +122,7 @@ of hierarchies, while suggestive, remains difficult to establish
 causally.
 
 Despite these criticisms, the partnership-dominator framework continues
-to influence discussions about [[star-fire-and-sacred-substances]], gender relations, and
+to influence discussions about [[cultural-evolution-and-psychoactive-substances]], gender relations, and
 the relationship between human societies and their environments.
 
 ## See Also

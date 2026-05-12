@@ -62,7 +62,7 @@ Microbial carbonate precipitation coupled with silicate weathering represents an
 
 During decomposition of fungal hyphae, calcite crystals act as nucleation sites for further secondary calcite precipitation, reinforcing soil structure over time. Chitin — the major component of fungal cell walls — is a substrate on which calcite readily nucleates (Manoli et al., 1997). Near-surface limestones, calcic and petrocalcic horizons are often secondarily cemented with calcite and whewellite (calcium oxalate monohydrate). Calcium oxalate can also be degraded to calcium carbonate in semi-arid environments, acting to cement pre-existing limestones (Verrecchia et al., 1990).
 
-### Metal [[oxalate|Oxalate]] Production
+### Metal [[fungal-cell-wall-composition-and-structural-organization]] Production
 
 Fungi produce metal oxalates with a variety of metals: Ca, Cd, Co, Cu, Mn, Sr, Zn, Ni, and Pb (Arnott, 1995; Gadd, 1999; Sayer et al., 1999; Fomina et al., 2005a). Calcium oxalate is the most common form in nature, occurring as the dihydrate (weddellite) and the more stable monohydrate (whewellite), and is associated with various ecophysiological groups of fungi.
 

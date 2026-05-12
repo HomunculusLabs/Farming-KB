@@ -66,7 +66,7 @@ The species occurs sympatrically with Gentiana pontica and [[gentiana-gelida]] i
 
 ## Cultivation
 
-Gentiana septemfida thrives in rock garden settings with gritty, humus-rich soil. It requires excellent drainage and consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
+Gentiana septemfida thrives in rock garden settings with gritty, [[humus]]-rich soil. It requires excellent drainage and consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Full sun or light afternoon shade produces the best flower color. The species is hardy to USDA zones 4–7 and tolerates winter temperatures below −30 °C.
 

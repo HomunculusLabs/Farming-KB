@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Soil is the foundational living system upon which all terrestrial life depends. In permaculture design, understanding how soils form, what threatens them, and how to value them is essential to creating sustainable and regenerative systems. Bill Mollison frames soil not merely as a substrate for growing plants but as a complex, living medium with deep connections to human health, ecological stability, and ethical responsibility.
+Soil is the foundational living system upon which all terrestrial life depends. In [[permaculture-design]], understanding how soils form, [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control|what]] threatens [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them|them]], and how to value them is essential to creating sustainable and regenerative systems. [[bill-mollison]] frames soil not merely as a substrate for growing plants but as a complex, living medium with deep connections to human health, ecological stability, and ethical responsibility.
 
 ## Soil Formation Processes
 
@@ -52,7 +52,7 @@ One of the most critical insights in permaculture is the stark imbalance between
 
 Mollison identifies specific environments where soils are naturally conserved or actively increased:
 
-- **Uncut forests** — The forest canopy and understorey protect soil from rain impact, while continuous leaf litter adds organic matter and roots stabilise the soil structure.
+- **Uncut forests** — The forest canopy and understorey [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season|protect]] soil from rain impact, while continuous leaf litter adds organic matter and roots stabilise the soil structure.
 - **Quiet water of lakes and ponds** — Aquatic environments trap sediment and organic matter, building fertile bottom deposits over time.
 - **Prairies and meadows of permanent plants** — Deep-rooted perennial grasses maintain soil structure, cycle nutrients, and prevent erosion through continuous ground cover.
 - **Mulched or no-tillage systems** — By eliminating mechanical disturbance and maintaining organic surface cover, these systems preserve soil structure and allow natural accumulation.
@@ -76,8 +76,8 @@ Mollison proposes examining soil through four distinct but interconnected value 
 ### Life in Soil
 
 - A single teaspoon of healthy soil contains billions of organisms including bacteria, fungi, protozoa, nematodes, and arthropods.
-- These organisms regulate soil pH, cycle minerals, create soil structure through aggregation, and significantly reduce erosion risk.
-- Soil life is the engine of fertility; without it, soil is merely inert mineral dust.
+- These organisms regulate [[soil-ph]], cycle minerals, create soil structure through aggregation, and significantly reduce erosion risk.
+- [[soil-life]] is the engine of fertility; without it, soil is merely inert mineral dust.
 
 ### Ethics
 
@@ -109,7 +109,7 @@ Mollison identifies plough-based agriculture as a destructive force that undermi
 Despite the severity of soil degradation, rehabilitation is possible within human timescales:
 
 - **Building a productive garden from average land**: approximately **3–4 years** with appropriate mulching, composting, and minimal disturbance techniques.
-- **Restoring devastated soil**: approximately **5–15 years** of dedicated effort using succession planting, green manures, composting, and erosion control.
+- **Restoring devastated soil**: approximately **5–15 years** of dedicated effort using [[succession-planting]], green manures, composting, and erosion control.
 - Rehabilitation requires patience and consistent application of permaculture principles, but the results demonstrate nature's inherent resilience when given the right conditions.
 
 ## The Soil-Plant-Animal Health Triangle
@@ -148,8 +148,3 @@ John Jeavons, founder of the Grow Biointensive method, estimates that with inten
 ## Key Principles
 
 1. **Soil is alive** — treat it as a living system, not an inert substrate.
-2. **Protect soil surface** — maintain cover at all times to prevent erosion and preserve structure.
-3. **Minimise disturbance** — avoid tillage and compaction that damage soil life and structure.
-4. **Build organic matter** — compost, mulch, and green manures are the foundation of soil fertility.
-5. **Measure sustainability, not just yield** — long-term soil health is the true measure of agricultural success.
-6. **Accept responsibility** — with only 4% of land suitable for food production and 60% already degraded, ethical stewardship is non-negotiable.

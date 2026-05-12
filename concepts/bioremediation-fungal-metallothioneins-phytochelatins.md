@@ -121,5 +121,5 @@ observation, and a willingness to adapt approaches based on results.
 - [[det]]
 - [[singh-cost-analysis-fungal-bioremediation]]
 - [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
-- [[soil-health-and-microbial-life]]
+- 
 - [[staycare-ecotoxicological-assessment-of-fungal-bioremediation]]

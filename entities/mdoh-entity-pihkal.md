@@ -21,7 +21,7 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 100 mg) The material came on fairly rapidly. In about 30
 > minutes, I was intensely intoxicated, and more deeply than with MDMA.
-> It was a glorious feeling, [[star-fire-and-sacred-substances]] that may carry unknown risks. [[mdoh-entity]]
+> It was a glorious feeling, [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[mdoh-entity]]
 
 - [[pihkal-introduction-and-methodology]]
 

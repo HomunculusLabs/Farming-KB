@@ -45,14 +45,12 @@ Arthur builds on the linguistic work of [[john-allegro]] ("The Sacred Mushroom a
 
 The book combines comparative mythology, visual symbolism analysis, and personal travel narrative. Arthur integrates ideas from Wilhelm Reich's socio-psychology and Zechariah Sitchin's ancient astronaut theories, placing his work at the speculative end of the ethnomycological spectrum. The book advocates for religious freedom regarding entheogenic plant use and is written for a general audience.
 
+
 ## See Also
 
-- [[john-allegro]] — Predecessor who argued Christianity derived from mushroom cults
-- [[r-gordon-wasson]] — Pioneer ethnomycologist who identified Soma as Amanita muscaria
-- [[terence-mckenna]] — Fellow entheogenic theorist with different mushroom hypotheses
-- [[soma-hypothesis]] — The Soma/Amanita muscaria identification question
-- [[entheogen-culture]] — Sacred plant use across cultures
-- [[mushrooms-and-mankind]] — Concept page on Arthur's work
+- [[james-duke-mollison]]
+- [[james-fadiman]]
+- [[james-fox-mollison]]
 
 ## Practical Applications
 - Research findings have been applied in both academic and field settings.
@@ -78,3 +76,5 @@ The book combines comparative mythology, visual symbolism analysis, and personal
 - Work remains relevant to current research directions and debates.
 - Modern practitioners continue to build upon established foundations.
 - New technologies and methods have validated many earlier findings.
+
+

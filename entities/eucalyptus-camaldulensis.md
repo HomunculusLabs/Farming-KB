@@ -87,3 +87,10 @@ The species creates distinctive hollows in its trunk and branches, which serve a
 River red gum forests along floodplains support high biodiversity and provide important [[biodiversity-of-fungi-ecosystem-services-agriculture]] including water filtration, bank stabilization, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 
 Periodic flooding is ecologically essential for seed germination, canopy health, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in natural river red gum populations.
+
+## See Also
+
+- [[eucalyptus-cornuta]]
+- [[eucalyptus-obliqua]]
+- [[eucalyptus-permaculture]]
+- [[eucalyptus-sideroxylon]]

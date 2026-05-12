@@ -80,7 +80,6 @@ systems, willows are commonly used in swale stabilisation, greywater
 treatment zones, riparian buffer strips, and as a fast-growing biomass
 source for mulch and fuel.
 
-
 ## See Also
 
 - [[salix-babylonica]]

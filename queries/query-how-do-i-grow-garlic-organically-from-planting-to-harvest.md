@@ -3,7 +3,8 @@ title: "How Do I Grow Garlic Organically from Planting to Harvest?"
 tags: [query, garlic, allium, organic-gardening, growing-guide]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 ---
 
 # How Do I Grow Garlic Organically from Planting to Harvest?

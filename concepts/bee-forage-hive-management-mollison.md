@@ -19,7 +19,7 @@ Bees produce several valuable and unique products: honey, wax, pollen, propolis,
 and royal jelly. See permaculture-designers-manual-crop-pollination for a wide
 variety of food, oil, fruit, and seed crops (such as mustard, clovers,
 buckwheat, most smallfruit, apples, and [[query-best-grain-legumes-for-a-small-homestead]]). For basic beekeeping
-information, see [[forage-turnip]] for additional species selection.
+information, see [[cover-crops]] for additional species selection.
 
 ## Pollen and Early Forage
 
@@ -122,4 +122,4 @@ observation, and a willingness to adapt approaches based on results.
 - [[permaculture]]
 - [[mollison-designers-bee-forage-tree-planting]]
 - [[mollison-designers-free-range-forage-design-principles]]
-- [[forage-turnip]]
+- [[cover-crops]]

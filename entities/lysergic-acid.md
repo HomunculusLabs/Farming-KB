@@ -26,7 +26,7 @@ Lysergic acid is a tetracyclic ergoline alkaloid and the core structural scaffol
 of the ergot alkaloid family.
 
 It is the direct biochemical precursor to [[lsd-d-lysergic-acid-diethylamide]] (LSD), one
-of the most potent [[star-fire-and-sacred-substances]] known.
+of the most potent [[cultural-evolution-and-psychoactive-substances]] known.
 
 Lysergic acid itself is not psychoactive in its acid form, but its amide
 derivatives — particularly ergine (LSA) and LSD — exhibit profound serotonergic

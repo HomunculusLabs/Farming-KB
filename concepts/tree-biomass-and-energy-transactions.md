@@ -1,6 +1,6 @@
      1|---
      2|title: Tree Biomass and Energy Transactions
-     3|source: bill-mollison-permaculture-a-designers-manual.md
+     3|source: bill-mollison-[[permaculture]]-a-designers-manual.md
      4|type: concept
      5|---
      6|
@@ -9,17 +9,17 @@
      9|Trees function as the primary translators and moderators of incoming energy in
     10|terrestrial ecosystems. They receive sunlight, wind, and precipitation and
     11|convert these raw inputs into the complex biological and chemical systems that
-    12|sustain the biosphere. In permaculture design, understanding how trees manage
+    12|sustain the biosphere. In [[permaculture-design]], understanding how trees manage
     13|energy flows is essential to creating productive, resilient landscapes.
     14|
-    15|Bill Mollison emphasised that trees are not passive features of the landscape
+    15|[[bill-mollison]] emphasised that trees are not passive features of the landscape
     16|but active agents that condition, moderate, and transform the energy passing
     17|through their systems. Every tree is, in effect, a living energy-processing
     18|factory that operates continuously across decades or centuries.
     19|
     20|## Trees as Energy Translators
     21|
-    22|Every tree is a living energy transaction system. Solar radiation is captured
+    22|Every tree is a living energy transaction [[tree-biomass-forest-living-system|system]]. Solar radiation is captured
     23|by foliage and converted through photosynthesis into chemical energy stored in
     24|wood, leaves, roots, and associated biomass. Wind energy is moderated by the
     25|physical structure of trunks and canopies, reducing erosion and microclimatic
@@ -87,7 +87,7 @@
     87|  chemistry. Their removal contributes to increased carbon dioxide, altered
     88|  rainfall chemistry, and broader atmospheric instability.
     89|
-    90|These effects compound over time, often rendering deforested landscapes
+    90|These [[tree-biomass-and-wind-effects|effects]] compound over time, often rendering deforested landscapes
     91|incapable of supporting even the agriculture that motivated the clearing. The
     92|initial productivity gain from clearing is invariably followed by a long-term
     93|decline in system health and output — a pattern repeated across continents.
@@ -145,6 +145,6 @@
    145|Large trees possess between 10,000 and 100,000 meristems — growing points at
    146|branch tips, root tips, and bud nodes. Each meristem is a site of active cell
    147|division and, crucially, each is capable of independent genetic mutation. This
-   148|means that different branches of a single tree may carry slightly different
+   148|means that [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|different]] branches of a single tree may carry slightly different
    149|genetic information. Over the life of a long-lived tree, this somatic mutation
    150|can produce significant genetic variation within a single individual.

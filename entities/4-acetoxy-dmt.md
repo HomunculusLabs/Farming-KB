@@ -18,7 +18,7 @@ sources:
   - Dean, B.J. et al. (2020). "The pharmacology of 4-AcO-DMT: A review of the preclinical and clinical literature." Journal of Psychopharmacology, 34(5), 527-539.
   - Clemens, J.J. et al. (2023). "[[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] and in vitro activity of 4-acetoxy-N,N-dimethyltryptamine." Neuropharmacology, 221, 109293.
   - Brandt, S.D. et al. (2022). "An update on the pharmacology and toxicology of psilacetin (4-AcO-DMT)." Drug Science, Policy and Law, 8, 1-15.
-  - European Monitoring Centre for Drugs and Drug Addiction (2024). "EU Early Warning System: New [[star-fire-and-sacred-substances]] — Psilacetin."
+  - European Monitoring Centre for Drugs and Drug Addiction (2024). "EU Early Warning System: New [[cultural-evolution-and-psychoactive-substances]] — Psilacetin."
 ---
 
 ## Overview

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-The growing period—the interval between spawning and the cessation of productive fruiting—is the phase where all prior preparation and investment in compost, spawn, and infrastructure yields its return. Understanding the timing of fruiting, the pattern of mushroom production (flushes), and the critical management practices during the bearing period is essential for maximizing both the quantity and quality of the harvest.
+The growing period—the interval between spawning and the cessation of productive fruiting—is the phase where all prior preparation and investment in [[compost]], spawn, and infrastructure yields its return. Understanding the timing of fruiting, the pattern of mushroom production (flushes), and the critical management practices during the bearing period is essential for maximizing both the quantity and quality of the harvest.
 
 ## Time to Bearing
 

@@ -35,7 +35,7 @@ Methanol (CH₃OH), also known as methyl alcohol, wood alcohol, or carbinol, is 
 
 Methanol has several important applications in mycology:
 
-- **Mushroom alkaloid extraction**: Methanol is one of the most effective solvents for extracting [[wiki:concepts/partial-veil-and-annulus-variation]] from dried mushroom biomass. Acidified methanol (with dilute acetic or hydrochloric acid) improves extraction efficiency.
+- **Mushroom alkaloid extraction**: Methanol is one of the most effective solvents for extracting from dried mushroom biomass. Acidified methanol (with dilute acetic or hydrochloric acid) improves extraction efficiency.
 - **Fungal metabolite analysis**: Methanol is used in HPLC mobile phases and for preparing fungal extract samples for mass spectrometry.
 - **Mycotoxin extraction**: Methanol/water mixtures are standard solvents for extracting mycotoxins (aflatoxins, ochratoxin, fumonisins) from grain substrates and fungal cultures.
 - **Spore and tissue preservation**: Methanol can be used as a fixative for [[fungal-microscopic-examination-mounting-media-techniques]] of fungal structures.

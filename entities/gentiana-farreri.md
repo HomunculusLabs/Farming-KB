@@ -74,7 +74,7 @@ It serves as a late-season nectar source for alpine bumblebees and other pollina
 
 Cultivation requires careful attention to drainage and moisture balance.
 
-Plants perform best in humus-rich, acidic to neutral soil in a rock garden, trough, or crevice planting.
+Plants perform best in [[humus]]-rich, acidic to neutral soil in a rock garden, trough, or crevice planting.
 
 The species is hardy to USDA zones 4–7 when provided with good winter drainage.
 

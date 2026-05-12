@@ -61,7 +61,7 @@ high pH.
 Dig in spring before sowing. Keep digging shallow since
 topsoil is usually thin.
 
-**[[humus-and-soil-organic-matter]]:** Keep the soil surface covered year-round.
+**[[humus]]:** Keep the soil surface covered year-round.
 Grow green-manure crops in winter. Use acid materials like
 peat, grass cuttings, or compost as mulch to counteract
 alkalinity.

@@ -88,3 +88,7 @@ The glandular hairs (tentacles) are non-mobile, unlike those of *Drosera*.
 While *Drosera* tentacles slowly bend toward captured prey to increase
 contact, *Drosophyllum* relies entirely on the adhesive strength of its
 mucilage to retain prey. The secretion contains a complex mixture of
+
+## See Also
+
+- [[mollison-designers-climate-classification-and-design-zones]]

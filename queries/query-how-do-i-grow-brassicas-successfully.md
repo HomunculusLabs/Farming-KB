@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [query, brassicas, cole-crops, vegetable-gardening, organic-growing]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 type: query
 ---
 

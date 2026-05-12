@@ -16,8 +16,6 @@ Evapotranspiration is the combined process of water evaporation from surfaces an
 - **Measurement**: mm/year or litres/tree/day
 - **Relevance**: Primary driver of the forest-rainfall feedback cycle
 
-
-
 ## Key Facts
 
 - An ordinary elm of medium size transpires approximately 15,000 pounds (6,800 kg) of water on a clear, dry, hot day (USDA Yearbook of Agriculture, 1949)
@@ -32,11 +30,7 @@ Evapotranspiration is the combined process of water evaporation from surfaces an
 - Evaporation by day cools air; night condensation warms surrounding air
 - Leaf surfaces are typically cooler than other objects at evening due to daytime stomatal evaporation
 
-
-
 ## The Two Components
-
-
 
 ### Evaporation (25% of forest water return)
 - Water evaporates from wet leaf and stem surfaces after rain
@@ -44,16 +38,12 @@ Evapotranspiration is the combined process of water evaporation from surfaces an
 - Surface tension traps films of water across leaves and stems
 - Cells absorb what is needed; remainder evaporates
 
-
-
 ### Transpiration (50% of forest water return)
 - Water is released through stomata as part of photosynthetic gas exchange
 - Sap rises in young oaks at approximately 1 cm/sec (Vogel, 1981)
 - Only about 7% of trunk area needed as conductive tissue
 - Only about one-fiftieth of xylem actively conducting at any moment
 - Water may move in pulsed stages rather than continuous flow
-
-
 
 ## Relevance to Cultivation and Permaculture
 
@@ -66,8 +56,6 @@ Evapotranspiration is arguably the most important process linking permaculture t
 5. **Design imperative**: Removing trees breaks the evapotranspiration-rainfall feedback loop, causing drought — planting trees restores it
 6. **Water budgeting**: Understanding evapotranspiration rates allows designers to calculate how many trees are needed to modify local climate
 
-
-
 ## Temperature Effects
 
 Evapotranspiration creates local temperature moderation:
@@ -77,8 +65,37 @@ Evapotranspiration creates local temperature moderation:
 - Plants may be 15°C warmer than surrounding air temperature
 - Dense air from evapotranspiration can be used for induced cross-ventilation in buildings
 
-
-
 ## Source Reference
 
-Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Sections 6.4 (Temperature Effects) and 6.5 (Trees and Precipitation). USDA Yearbook of Agriculture on Trees (1949); Vogel (1981); Bayard Webster, "Forests' Role in Weather Documented in Amazon", New York Times (Science Section), 5 July 1983.
+Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 6 (Trees), Sections 6.4 (Temperature Effects) and 6.5 ([[trees-and-precipitation]]). USDA Yearbook of Agriculture on Trees (1949); Vogel (1981); Bayard Webster, "Forests' Role in Weather Documented in Amazon", New York Times (Science Section), 5 July 1983.
+
+## Practical Applications
+
+Evapotranspiration finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
+
+## Ecological Context
+
+Understanding evapotranspiration within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating evapotranspiration into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
+
+## See Also
+
+- [[evapotranspiration-crop-water-use]]
+- [[tree-temperature-effects-and-evapotranspiration]]
+
+## See Also
+- [[evapotranspiration-crop-water-use]]
+- [[tree-temperature-effects-and-evapotranspiration]]
+- [[mollison-pdc-small-pond-frog-habitat-design]]

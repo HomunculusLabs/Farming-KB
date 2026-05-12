@@ -111,10 +111,10 @@ Consuming Inocybe species is EXTREMELY DANGEROUS without expert identification:
 
 **Critical warning:** Most Inocybe species that resemble I. aeruginascens contain muscarine and/or other dangerous toxins. Do NOT consume any Inocybe without expert verification.
 
+
 ## See Also
 
-- [[psilocybin-mushroom-chemistry]] — [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] and alkaloid profiles
-- [[psilocybin-mushroom-chemistry]] — Aeruginascin hypothesis and safety
-- [[psilocybin-mushroom-chemistry]] — European species distribution
-- [[jochen-gartz]] — Discoverer of aeruginascin in this species
-- [[mushroom-identification-resources]] — Identification [[shulgin-safety-principles-self-experimentation]]
+- [[inocybe-aeruginascens-neurotropic-cortinariaceae-guzman-1998]]
+- [[inocybe-erubescens]]
+- [[inocybe-longicystis]]
+- [[inocybe-rimosa]]

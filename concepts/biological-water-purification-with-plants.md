@@ -6,7 +6,7 @@ type: concept
 
 # Biological Water Purification with Plants
 
-Biological water purification using higher plants represents the most sophisticated and ecologically integrated approach to wastewater and polluted water treatment. Building on the foundation of anaerobic, facultative, and aerobic pond systems, specific genera of rushes, sedges, and floating plants can greatly assist with removal of heavy metals and human pathogens, and critically, some plants can break down halogenated hydrocarbons synthesised as herbicides and pesticides. Bill Mollison documented these systems as the final stage in a comprehensive biological treatment chain.
+Biological water purification using higher plants represents the most sophisticated and ecologically integrated approach to wastewater and polluted water treatment. Building on the foundation of anaerobic, facultative, and aerobic pond systems, specific genera of rushes, sedges, and floating plants can greatly assist with removal of heavy metals and human pathogens, and critically, some plants can break down halogenated hydrocarbons synthesised as herbicides and pesticides. [[bill-mollison]] documented these systems as the final stage in a comprehensive biological treatment chain.
 
 ## Advanced Algal Harvesting Systems
 
@@ -28,7 +28,7 @@ This approach combines agitation of anaerobic systems by compressed methane bubb
 
 ## Water Hyacinth Treatment
 
-At the aerobic pond level, water hyacinth (*Eichhornia crassipes*) removes residual metals, surplus nutrients, and *coli*-group bacteria (New Scientist, 4 Oct 1979, p. 29). Water hyacinth systems are effective final-stage polishers but must be carefully managed, as the plant is highly invasive and can clog waterways if not contained.
+At the aerobic pond level, water hyacinth (*[[eichhornia-crassipes]]*) removes residual metals, surplus nutrients, and *coli*-group bacteria (New Scientist, 4 Oct 1979, p. 29). Water hyacinth systems are effective final-stage polishers but must be carefully managed, as the plant is highly invasive and can clog waterways if not contained.
 
 ## Microwave Treatment
 
@@ -95,3 +95,8 @@ A complete biological water treatment system combines multiple stages:
 9. Rush bed filtration as the terminal treatment before release
 
 This integrated approach produces clean water suitable for irrigation or stream release while simultaneously generating energy (biogas), protein (algae), wildlife habitat, and plant biomass for mulch or craft use — transforming what is conventionally treated as a waste disposal problem into a productive resource system.
+
+## See Also
+- [[biological-water-purification]]
+- [[biological-sewage-treatment-with-plants]]
+- [[permaculture-plants-aquatic-systems-water-plants]]

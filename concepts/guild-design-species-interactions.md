@@ -35,7 +35,7 @@ Guilds assist pest control through multiple mechanisms:
 ### Soil Surface Management
 
 - **Open soil and mulch provision**: Comfrey and globe artichokes allow tree roots to feed at the surface without competition. Spring bulbs (daffodils) and winter-grown wild *Allium* species die down in mid-spring and do not compete with deciduous tree roots during summer dry periods, nor do they intercept light rains.
-- **Soil building**: High humus producers like bananas and deep-rooted species improve soil structure and fertility for associated plants.
+- **Soil building**: High [[humus]] producers like bananas and deep-rooted species improve soil structure and fertility for associated plants.
 
 ### Free Nutrient Provision
 

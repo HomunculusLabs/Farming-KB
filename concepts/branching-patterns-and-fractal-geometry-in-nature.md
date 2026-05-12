@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Branching is one of the most pervasive patterns in natural systems, observable in trees, river networks, blood vessels, lungs, lightning strikes, root systems, and lava flows. In permaculture design, understanding the principles of branching and fractal geometry provides powerful tools for designing efficient pathways, water systems, access networks, and nutrient exchange systems. Branching is nature's solution to the fundamental problem of collecting from or distributing to large areas through efficient, resilient networks.
+Branching is one of the most pervasive patterns in natural systems, observable in trees, river networks, blood vessels, lungs, lightning strikes, root systems, and lava flows. In [[permaculture-design]], understanding the principles of branching and fractal geometry provides powerful tools for designing efficient pathways, water systems, access networks, and nutrient exchange systems. Branching is nature's solution to the fundamental problem of collecting from or distributing to large areas through efficient, resilient networks.
 
 ## Fractals in Natural Systems
 
@@ -36,7 +36,7 @@ This size-dependent behavior has profound implications for design. Wherever ther
 
 ## Applied Branching in Garden Design
 
-In permaculture garden design, these principles translate directly:
+In [[permaculture]] garden design, these principles translate directly:
 
 - **"Many paths"** are needed in home gardens where nutrient trading is the main activity
 - There is little advantage in straight-line paths (speed is not the essence); rather, **cul-de-sacs** or **keyhole-shaped beds** are preferred
@@ -104,3 +104,8 @@ The same principle applies to trees: birds and insects are confined to or modifi
 3. **Settlement hierarchy** mirrors stream orders—villages stabilize at approximately 1,000 people
 4. **Dam spillways** and drainage cascades should respect the stable orders of branching
 5. **Functional hierarchies** in human organizations should follow the 3:1 bifurcation ratio for information flow in both directions
+
+## See Also
+- [[fractal-geometry-and-branching-conduits]]
+- [[branching-patterns-and-stream-orders]]
+- [[fractals-and-branching-patterns]]

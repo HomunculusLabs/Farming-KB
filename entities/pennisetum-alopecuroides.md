@@ -88,3 +88,9 @@ Named cultivars include Hameln, a compact dwarf form reaching 60 centimeters, an
 In its native range, fountain grass provides forage for grazing herbivores and contributes to grassland [[edaphic-determinants-cannabis-microbiome-community-structure]].
 
 The dense tussocks offer shelter for small invertebrates and ground-nesting insects.
+
+## See Also
+
+- [[pennisetum]]
+- [[pennisetum-glaucum]]
+- [[pennisetum-setaceum]]

@@ -57,7 +57,7 @@ Evidence for cytochrome P450 and P450-mediated benzo[a]pyrene hydroxylation
 has been demonstrated in both P. pulmonarius and Phanerochaete
 chrysosporium. A purified benzo[a]pyrene hydroxylase from P. pulmonarius
 has been characterized, confirming the enzymatic nature of the
-transformation. In some cases, [[soil-health-and-microbial-life]] was attributed to P450
+transformation. In some cases, was attributed to P450
 monooxygenase rather than the lignin-modifying enzyme system.
 
 ## PAH Metabolism by Non-Ligninolytic Fungi

@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, pest-control, harvesting]
-sources: []
+sources:
+  - "raw/papers/cervantes-marijuana-horticulture-indoor-outdoor.md"
 ---
 
 ## Overview

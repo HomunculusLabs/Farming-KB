@@ -29,7 +29,6 @@ Silver iodide (AgI) is a chemical compound used as the primary artificial ice nu
 - Cloud seeding with silver iodide can increase precipitation by up to 30% initially, averaging 19% in Australia and 17% in Israel over weeks
 - Effects spread over very wide areas and secondary effects persist for months
 
-
 ## Cloud Seeding Methods
 
 Silver iodide is introduced into suitable cloud formations through several delivery mechanisms:
@@ -38,8 +37,6 @@ Silver iodide is introduced into suitable cloud formations through several deliv
 - **Ground burners:** Silver iodide is absorbed into coal dust and burned when clouds form on hill crests
 - **Ground release:** Passive release systems positioned on strategic ridge lines
 - **Rocket delivery:** For targeted cloud formation intervention
-
-
 
 ## Effectiveness Data
 
@@ -51,8 +48,6 @@ Recent analysis (as of Mollison's writing, citing *Ecos* 45, Spring 1985) showed
 - Effects spread across hundreds or thousands of square kilometres
 - Secondary effects last for months due to persistent wind-carried nucleii
 
-
-
 ## Limitations and Risks
 
 - Once initiated, cloud seeding effects cannot quickly be stopped
@@ -60,8 +55,6 @@ Recent analysis (as of Mollison's writing, citing *Ecos* 45, Spring 1985) showed
 - Requires pre-existing suitable cloud formations — cannot create rain from clear skies
 - Does not address the underlying ecological degradation that reduces natural precipitation
 - Must be accompanied by flood retardation basins, oversized swales, sand dams, and water spreading systems
-
-
 
 ## Relevance to Cultivation and Permaculture
 
@@ -71,14 +64,43 @@ Recent analysis (as of Mollison's writing, citing *Ecos* 45, Spring 1985) showed
 - **Systems thinking:** Cloud seeding treats symptoms (insufficient rain) rather than causes (deforestation, soil loss, vegetation removal)
 - **Integration:** In arid restoration projects, cloud seeding may serve as a bridge technology while biological infrastructure (forests, soil organic matter) is being re-established
 
-
-
 ## Research Contact
 
 Mollison directs readers to the Cloud Physics Laboratory, Division of Atmospheric Research, CSIRO, Canberra, Australia for further data.
 
-
-
 ## Source
 
 Bill Mollison, *Permaculture: A Designers' Manual*, Chapter 7 (Water), Section 7.2 — Regional Intervention in the Water Cycle.
+
+## Practical Applications
+
+Silver Iodide finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
+
+## Ecological Context
+
+Understanding silver iodide within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating silver iodide into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
+
+## See Also
+
+- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
+- [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
+- [[silver-iodide-cloud-seeding-mollison]]
+- [[super-silver-haze]]
+
+## See Also
+- [[silver-iodide-cloud-seeding-mollison]]
+- [[cannabis-strain-temple-bodhi-seeds-super-silver-haze-oner]]
+- [[super-silver-haze]]

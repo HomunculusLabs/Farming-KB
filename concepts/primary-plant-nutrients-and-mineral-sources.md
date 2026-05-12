@@ -1,5 +1,5 @@
 ---
-title: Primary Plant Nutrients and Mineral Sources
+title: Primary Plant Nutrients And Mineral Sources
 source: bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -8,84 +8,143 @@ type: concept
 
 ## Overview
 
-The primary nutrients required by plants—nitrogen (N), phosphorus (P), and potassium (K)—collectively known as NPK, are fundamental to soil fertility and plant health. In permaculture design, understanding both the natural sources and the ecological strategies for maintaining these nutrients is essential for creating self-sustaining agricultural systems that minimize dependence on external inputs.
+Plants require a balance of primary macronutrients (nitrogen, phosphorus, potassium) and numerous micronutrients for healthy growth. In permaculture, the emphasis is on cycling these nutrients locally through biological systems rather than relying on mined or synthetic inputs. Mollison details the natural sources and cycling mechanisms for essential plant nutrients.
 
 ## The Three Primary Nutrients
 
-### Phosphorus
+### Phosphorus (Phosphates)
 
-Phosphorus is critical for energy transfer (ATP), root development, flowering, and seed production. Soils in heavily leached areas are often deficient in phosphates. Natural sources include:
+[[primary-nutrients-and-mineral-sources-in-soils|Soils]] in heavily leached areas are commonly deficient in phosphates. Natural sources include:
 
-- **Guano**: Bird manures from dry islands, concentrated by seed-eating birds
-- **Phosphatic rock**: Sedimentary deposits containing 8–15% phosphorus in various combinations with oxygen or water (hydrated forms)
-- **Rock phosphate**: Slow-releasing but may be absorbed completely onto leached clays and clay-loams
+- **Guano** — bird manures from dry islands, concentrated by seed-eating marine birds
+- **Sedimentary [[rock-phosphate]]** — older geological deposits containing 8–15% phosphorus in various combinations with oxygen or water (hydrated forms)
 
-A critical concern with marine guano is contamination by cadmium and uranium, concentrated from oceanic fish and shellfish consumed by marine bird colonies. Continual heavy use of such phosphate sources becomes polluting to soils. The permaculture ethic demands using only what is needed and conserving phosphate locally.
+**Distribution:** Phosphatic rock is restricted in geological distribution, making it a non-renewable resource on human timescales.
+
+**Concern with mined phosphates:** Marine guano may contain concentrated levels of **cadmium and uranium**, accumulated from oceanic fish and shellfish consumed by marine bird colonies. Continual heavy use of such resources is likely to become polluting to soils. The ethical strategy is to use just enough and conserve locally.
 
 ### Potassium (Potash)
 
-Potassium regulates water movement, activates enzymes, and supports disease resistance. It is found in:
+Potash sources include:
 
-- **Kainite**: A mineral formed in areas of evaporated waters
-- **Desert salts**: Typically contain 20–25% potash
-- **Orthoclase feldspar**: A major constituent of granite with large potash reserves
-- **Burnt and rotted plant material or compost**: A locally producible source
+- **Kainite** — a mineral formed in areas of evaporated waters; desert salts usually contain 20–25% potash
+- **Orthoclase** — a major constituent of granite containing large potash reserves
+- **Burnt and rotted plant material** — ash from woody plants is rich in potash
+- **Compost** — decomposed organic matter that recycles potassium
 
 ### Nitrogen
 
-Nitrogen is essential for protein synthesis, chlorophyll formation, and vegetative growth. Unlike phosphorus and potassium, nitrogen can be biologically fixed from the atmosphere:
+Nitrogen can be supplied through biological fixation rather than synthetic fertilizers:
 
-- **Rhizobia-inoculated legumes**: Both water and land plants can fix atmospheric nitrogen when inoculated with appropriate rhizobia bacteria
-- **Aquatic plants**: Scirpus, Azolla, and algae fix nitrogen in water systems
-- **Nitrogen-fixing trees**: Acacia, Albizia, Eleagnus, and Samanea
+- **Rhizobia-inoculated legumes** — nitrogen-fixing bacteria in root nodules of leguminous plants
+- **Algae and water plants** — Scirpus, Azolla, and other aquatic nitrogen fixers
+- **Nitrogen-fixing trees** — Acacia, Albizzia, Eleagnus, and others
 
-A remarkable property of nitrogen-fixing plants is their persistent effect. Even after cutting, the root zone continues to release nitrogen for up to 6 years. Pioneer legumes and nitrogenous trees serve as cover crops for establishing trees, releasing nitrogen during their lifetimes and for years afterward. In mature forests, legumes typically die out under canopy closure, with only a few larger leguminous trees (Samanea, Acacia melanoxylon) persisting in mixed forest.
+### The Nitrogen-Fixing Zone
+
+Much higher levels of nitrogen than previously thought are fixed by land plants in a series of zones extending from the roots. This root-zone nitrogen fixation has important implications:
+
+- **Persistent release after cutting** — even after nitrogen-fixing plants like Acacia, Albizzia, and Eleagnus are cut, the root zone continues to release nitrogen for **up to 6 years**
+- **Pioneer legumes serve as [[cover-crops]]** — nitrogenous trees and legumes release nitrogen during their lifetimes and for years after
+- **Forest succession** — legumes may not be needed in older forests and typically die out under canopy
+- **Persistent leguminous trees** — only a few larger species (Samanea, Acacia melanoxylon) persist as forest trees in mixed forest
+
+This means that establishing nitrogen-fixing pioneer species provides both immediate nitrogen input and a multi-year nitrogen bank in the soil.
 
 ## Mineral Sources in Soils
 
-### The Sea as a Mineral Reservoir
+### The Sea as a Mineral Source
 
-As soils are leached and made mineral-poor, those minerals become concentrated in the sea, in marine organisms, or in inland saltpans. Seaweeds, seagrasses, and fish residues have always served as agricultural fertilizers. As seawater evaporates, minerals precipitate in a predictable sequence:
+As soils are leached and made mineral-poor, the minerals become concentrated in the sea, marine organisms, and inland saltpans. Seaweeds, seagrasses, and fish residues have always been part of agricultural fertilizers.
 
-1. **Calcite and dolomite**: Used for soil conditioning and pH adjustment
-2. **Gypsum and anhydrite**: Restore soil crumb structure
-3. **Rock salts**: Common salt (sodium chloride)
-4. **Bitterns**: The remaining liquid after common salt deposition—a rich source of potash, magnesium salts, bromine, and many trace elements
+#### Evaporation Sequence
 
-Bitterns are cheap and easily transported to leached areas. They can be diluted 100–500:1 and used directly as foliar sprays at rates of 1–20 liters per hectare. However, their effects must be established by local trials on specific crops. Because these evaporites are highly soluble, they are also the minerals most likely to be carried to sea by rainfall, explaining why leached tropical uplands may be deficient even in common salt.
+As seawater evaporates, minerals precipitate in a predictable sequence:
+
+1. **Calcite and dolomite** — first to separate out; used for soil conditioning and pH adjustment
+2. **Gypsum and anhydrite** — next to precipitate; used to restore soil [[crumb-structure]]
+3. **Rock salts** — common salt (sodium chloride); only wet tropical uplands may lack this
+4. **Potash, magnesium salts, and minor elements** — remain in solution longest
+
+### Bitterns
+
+The liquid remaining after common salt deposition is called **bitterns** — a bitter, oily fluid rich in:
+
+- **Bromine**
+- **Early periodic table elements**
+- **Rare minerals**
+- **Potash and magnesium**
+
+#### Application Guidelines
+
+- Dilute **100–500:1** for direct use as foliar sprays
+- Apply at **1–20 liters per hectare** in diluted form
+- **Very corrosive** — must be handled and distributed only via non-corrosive vessels and pipes (polyethylene pipes and drums)
+- **Cheap and easily transported** to leached areas
+- Effects must be established by local trials on specific crops
+
+Because evaporites are so easily dissolved, they are also the minerals most likely to be carried to sea in rains — explaining why leached tropical and high-rainfall areas are most deficient in these elements.
+
+### Specific Plant Concentrators
+
+Even in areas lacking common salt, specific plants (often aquatic) concentrate salt that can be:
+
+- Gathered directly from the plants
+- Leached from plant ashes after burning
 
 ### Rocks and Rock Dusts
 
-- **Granites**: Contain feldspars yielding potash or sodium salts
-- **Limestone and dolomite**: Yield calcium and magnesium
-- **Mineral deposits and ores**: Provide trace elements
-- **Basalt dusts**: Particularly helpful on leached tropical soils
+#### Granite
 
-Field trials (Leeper, 1982) have established that cheap ores, finely ground, are as effective as more refined sulphates or oxides. Minerals can also be provided to animals as salt licks, in molasses, in water, as injections, or as slow-release "bullets" (cobalt pellets lodged in the rumen).
+Contains **felspars** yielding potash or sodium salts through weathering.
 
-**Caution**: Rock dust as an unselective category can do as much harm as good on soils, potentially adding excessive or poisonous nutrients or excessive micronutrients. Specific rock dusts suited to local needs should be sourced from quarries or gravel pits.
+#### Limestone and Dolomite
 
-Trace element requirements are remarkably small—as low as 5–7 kg per 100 hectares for zinc, copper, cobalt, and molybdenum—yet deficiencies can severely limit plant and animal health.
+Yield **calcium and magnesium** — among the most commonly needed soil amendments.
 
-## Distribution of Elements in the Soil Profile
+- Calcium is most needed in all but highly calcareous areas
+- Dolomite is next in importance, except where magnesium is already in high ratio
 
-The concentration of elements through the soil profile (the vertical column from surface to approximately 2 meters depth) is determined by two primary factors:
+#### Mineral Deposits and Ores
 
-### Water Penetration
+Provide traces of basic minor elements. Trace element application rates are very small:
 
-Water acts as a universal solvent, enabling compounds to dissociate into ions and transporting them to various microsites in the soil. This effect works in three dimensions:
+- **5–7 kg per 100 hectares** for zinc, copper, cobalt, and molybdenum
 
-- **Infiltration**: Water travels from the surface downward, soaking in at varying depths
-- **Capillary rise**: Water can rise from the soil water table upward by capillary action or flooding
-- **Lateral movement**: Water moves horizontally through soil horizons
+#### Field Trial Evidence
 
-The interaction of water movement with soil mineralogy, organic matter, and biological activity creates complex patterns of nutrient distribution that permaculture designers must understand to optimize plant placement and soil management strategies.
+Field trials (Leeper, 1982) have established that **cheap ores, finely ground, are as effective as more refined sulphates or oxides**. This is economically significant — it means farmers can use locally available rock dusts rather than expensive refined mineral supplements.
 
-## Permaculture Strategies for Nutrient Management
+#### Rock Dust Application Methods
 
-1. **Maximize biological nitrogen fixation** through diverse legume plantings and appropriate inoculation
-2. **Recycle nutrients locally** through composting, mulching, and integrated animal systems
-3. **Use mineral amendments judiciously**, matching specific rock dusts to diagnosed deficiencies
-4. **Design for nutrient retention** by minimizing leaching through ground covers, swales, and appropriate drainage
-5. **Integrate marine inputs** where available—seaweed, fish residues, and bitterns—as supplements rather than dependencies
-6. **Conserve phosphate** through closed-loop systems, as phosphate rock is restricted in global distribution
+Minerals can reach animals and plants through several pathways:
+
+- **Salt licks** — animals self-select needed minerals
+- **Molasses mixes** — minerals dissolved or suspended in molasses for animal consumption
+- **Water** — dissolved minerals added to drinking water
+- **Injections** — direct administration of deficient elements
+- **Slow-release pellets** — "bullets" of cobalt or other elements that lodge in the rumen
+- **Urine transfer** — animals excrete excess minerals back onto pasture
+- **Foliar sprays** — the most rapid-acting and effective method for plant uptake
+
+#### Basalt Dusts
+
+Particularly helpful on leached tropical soils. Fine rock dusts of a specific rock suited to local needs are often cheaply available from quarries or gravel pits.
+
+### Rock Phosphate
+
+Contains 8–15% phosphorus but is very slow to release nutrients. On leached clays and clay-loams, rock phosphate may in fact be absorbed completely onto clay particles, making the phosphorus unavailable to plants.
+
+Under such conditions, **super-acid phosphate added to compost** — or to plants used in compost — may be necessary to [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention|make]] phosphorus available.
+
+### Caution with Rock Dusts
+
+Rock dust as an indiscriminate category can do as much **harm as good**:
+
+- May add **excessive nutrients** in some cases
+- May introduce **poisonous levels** of certain elements
+- May supply **excessive micronutrients** that create imbalances
+
+The key principle: match the rock dust to the specific soil deficiency, established through observation or testing.
+
+## Element Distribution in the Soil Profile

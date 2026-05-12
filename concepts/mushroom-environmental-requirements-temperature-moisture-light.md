@@ -38,7 +38,7 @@ Critically, the injurious effects of high temperature are **not due to direct th
 - Pure cultures of *Agaricus campestris* grow well up to **85°F** so long as sufficient moisture is present
 - The presence of contaminating organisms in culture causes immediate suppression of mushroom mycelium
 - Sporophores (fruiting bodies) have been produced in Mason jar cultures at temperatures constantly at or above 70°F
-- Complete fumigation of compost permits continuous cultivation at temperatures somewhat above normal
+- Complete fumigation of [[compost]] permits continuous cultivation at temperatures somewhat above normal
 
 If competing organisms could be largely eliminated from the mushroom bed, mushroom production might be possible at considerably higher temperatures than currently practiced.
 

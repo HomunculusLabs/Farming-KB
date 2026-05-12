@@ -34,7 +34,7 @@ The above-ground structure that interacts with light, wind, and precipitation. T
 The zone of decomposition and nutrient cycling at the base of the tree. Like all living things, a tree sheds its weight many times over to earth and air, and builds much of the soil it stands in. Not only the crown but also the roots die and shed their wastes to earth. The living tree stands in a zone of decomposition, where materials are transferred, reborn, transported, and reincarnated into grasses, bacteria, fungi, insects, birds, and mammals.
 
 ### 3. The Roots and Root Associates (The Underground Tree)
-The root system and its symbiotic partners — mycorrhizal fungi, nitrogen-fixing bacteria, and soil organisms — that mine minerals, cycle nutrients, and extend the tree's effective reach far beyond the physical root mass.
+The root system and its symbiotic partners — [[mycorrhizal-fungi]], nitrogen-fixing bacteria, and soil organisms — that mine minerals, cycle nutrients, and extend the tree's effective reach far beyond the physical root mass.
 
 ## The Extended Body of the Tree
 
@@ -66,7 +66,7 @@ Wind may carry heavy loads of ice, dust, or sand. Strand trees (palms, pines, an
 
 ## The Griggs and Putnam Wind Index
 
-The Griggs and Putnam index provides a field-based scale for assessing wind effects on trees, relating crown deformation to wind speed with approximately 17% accuracy:
+The [[griggs-and-putnam-index]] provides a field-based scale for assessing wind effects on trees, relating crown deformation to wind speed with approximately 17% accuracy:
 
 | Index | Effect | Wind Speed (m/sec) | Wind Speed (km/h) |
 |-------|--------|--------------------|--------------------|
@@ -84,3 +84,8 @@ These deformation indicators are invaluable for permaculture site assessment. Th
 ## Nutrient Nets and Biological Transport
 
 Forests provide a nutrient net for materials blown by wind or gathered by birds that forage from forest edges. Migrating salmon die in headwaters after spawning, and thousands of tons of fish remains are deposited by birds and other predators in surrounding forests. In addition to these external nutrient sources, trees actively mine base rock and soils for minerals through root exudates and mycorrhizal partnerships.
+
+## See Also
+- [[mollison-tree-biomass-and-forest-as-living-entity]]
+- [[tree-biomass-system]]
+- [[integrated-paddy-rice-and-tree-system]]

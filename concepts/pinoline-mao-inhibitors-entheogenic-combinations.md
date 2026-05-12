@@ -116,6 +116,6 @@ The five-plant theory honors the contributions of every researcher who has propo
 
 - [[dmt]]
 - [[ayahuasca-pharmacology]]
-- [[soma:-the-divine-sacrament]]
+- [[amanita-soma-haoma-ambrosia-cross-cultural-sacred-plant-names]]
 - [[syrian-rue]]
 - [[gaian-psychotherapy-and-entheogenic-plants]]

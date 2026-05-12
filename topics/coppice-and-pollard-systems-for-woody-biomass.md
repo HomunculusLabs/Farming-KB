@@ -42,7 +42,7 @@ Coppice systems developed independently across continents:
 - **Mediterranean**: Cork oak (*Quercus suber*) managed on long coppice rotations; chestnut coppice for timber and nuts
 - **Scandinavia**: Birch and hazel coppice for fuel and fencing
 - **Tropical regions**: Coppice regrowth exploited in shifting cultivation systems throughout Southeast Asia, Africa, and South America
-- **North America**: [[native-american-planting-methods-and-indigenous-agriculture]] peoples managed hazel and other shrubs through periodic burning and cutting to produce straight shoots for basketry and arrows
+- **North America**: [[indigenous-song-and-pattern-navigation|indigenous-spirituality-and-freedom]] peoples managed hazel and other shrubs through periodic burning and cutting to produce straight shoots for basketry and arrows
 
 ## Ecological Principles
 

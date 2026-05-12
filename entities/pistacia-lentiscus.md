@@ -88,3 +88,7 @@ exuded resin hardens into translucent, pale yellow "tears" that are collected by
 ### Composition and Uses
 
 The resin contains approximately 60–70% triterpenic acids (mainly mastic acid, moronic acid,
+
+## See Also
+
+- [[fungal-species-estimation-methods-total-diversity]]

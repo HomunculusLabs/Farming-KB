@@ -139,21 +139,6 @@ requiring more land.
 A key social insight from niche scheduling: **holding all things at all times
 prevents use by others**. When a single group monopolises a resource around the
 clock, no other group can access it — the resource is effectively wasted for
-much of the time. Sharing through schedules allows many users to benefit from
-the same resource, each in their own time.
-
-This principle applies directly to land tenure, community spaces, water
-rights, and common-pool resource management in human settlements.
-
-## Connection to Trophic Theory
-
-This niche concept feeds into Mollison's later discussion of trophic pyramids,
-food webs, and the limits of simplistic energy-transfer models. Real ecosystems
-are far more complex than a layered pyramid suggests — species interactions
-are mediated by time, behaviour, and schedule as much as by trophic level.
-Understanding space-time niches corrects the over-simplified view that each
-species occupies a single fixed rung on the energy ladder.
-
 ## See Also
 
 - Niche in Space (Territory)

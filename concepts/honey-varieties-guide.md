@@ -112,7 +112,7 @@ in a water bath at 95F (35C) reliquefies it without degrading enzymes.
 | Mead making | Orange blossom, wildflower |
 
 See also [[honey-extraction-and-processing]] for post-harvest handling and
-[[forage-turnip]] for planting strategies to produce specific honey types.
+[[cover-crops]] for planting strategies to produce specific honey types.
 ## Key Considerations
 
 Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.

@@ -17,7 +17,7 @@ This distinction led to the peculiar situation where the same mushroom could be 
 ## National Legal Approaches
 
 ### The Netherlands: From Tolerance to Prohibition
-The Netherlands provides the most dramatic example of legislative evolution regarding hallucinogenic mushrooms. For over a decade, from approximately 1995 to 2007, fresh hallucinogenic mushrooms were legally sold through smartshops — specialized retail outlets that also sold other [[star-fire-and-sacred-substances]]. The Dutch policy was based on the principle that fresh mushrooms were a "natural product" and that their sale could be regulated through responsible retail practices rather than prohibition.
+The Netherlands provides the most dramatic example of legislative evolution regarding hallucinogenic mushrooms. For over a decade, from approximately 1995 to 2007, fresh hallucinogenic mushrooms were legally sold through smartshops — specialized retail outlets that also sold other [[cultural-evolution-and-psychoactive-substances]]. The Dutch policy was based on the principle that fresh mushrooms were a "natural product" and that their sale could be regulated through responsible retail practices rather than prohibition.
 
 The Dutch smartshop system developed a sophisticated self-regulatory framework, including:
 - Age verification (minimum age 18)

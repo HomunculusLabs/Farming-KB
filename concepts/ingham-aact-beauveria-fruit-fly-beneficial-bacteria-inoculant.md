@@ -16,7 +16,7 @@ that addresses both above-ground and below-ground pest pressures.
 
 Beauveria bassiana is an entomopathogenic fungus that attacks and kills insect
 larvae, including fruit fly larvae. Ingham recommends incorporating Beauveria
-into [[compost-tea-and-biological-extracts]] applying it as a soil drench around trees at a rate of 150
+into [[compost]] applying it as a soil drench around trees at a rate of 150
 liters per hectare in the autumn, with a second application of 150 liters per
 hectare in spring. This timed approach targets fruit fly larvae in the soil when
 they are most vulnerable, before they emerge as adults to attack fruit.

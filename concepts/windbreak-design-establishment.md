@@ -145,19 +145,5 @@ In windbreak forests near coasts, **small openings of 6–9 m (20–30 feet)** p
 ### Traditional Hawaiian Example
 
 Across the flat peninsula of Kalaupapa on Moloka'i, Hawaiians built tiny stone fences of 25–50 cm (10–20 inches) high, only 4.5–5 m (15–18 feet) apart, behind which they grew sweet potato crops with tough fern mulch. Wild date palms still struggle to 4.5 m (15 feet) in the teeth of the trade winds, demonstrating the persistent challenge of coastal wind exposure.
-
-## Windbreak Effects on Forest Microclimate
-
-### Wind Velocity Reduction in Forests
-
-Wind velocity decreases progressively with depth of penetration into a forest. The front-line trees are typically heavily wind-flagged, with taller species placed in their lee receiving progressively less wind stress.
-
-### Wet and Dry Edge Effects
-
-Tree crowns create distinctive microhabitats at forest edges:
-- **Crown drip** concentrates rainfall beneath canopy edges, sometimes exceeding 100% of incident rain
-- **Rain-shadow edges** (typically on the sun-facing side, opposite prevailing rain direction) develop dry conditions
-- These contrasting microhabitats support different plant communities and must be considered in species placement
-
 ## See Also
 - [[windbreak-design-establishment-methods]]

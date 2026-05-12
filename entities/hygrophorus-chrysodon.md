@@ -71,14 +71,13 @@ The stipe is solid to slightly hollow, with a fibrillose white surface.
 
 ## Distribution and Habitat
 
+
 ## See Also
-- [[hericium-erinaceus]]
-- [[cantharellus-cibarius-entity]]
-- [[amanita-muscaria]]
-- [[armillaria-mellea-entity]]
-- [[pleurotus-ostreatus]]
-- [[boletus-edulis-entity]]
-- [[inonotus-obliquus]]
+
+- [[hygrophorus-chlorophanus]]
+- [[hygrophorus-coccineus]]
+- [[hygrophorus-marzuolus]]
+- [[hygrophorus-russula]]
 
 ## Merged: "Hygrophorus agathosmus"
 

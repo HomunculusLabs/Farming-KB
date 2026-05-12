@@ -136,7 +136,7 @@ metagenomic and metabolomic profiling of field-grown plants.
 
 - [[cannabis-endorhiza-microbiome]]
 - [[two-tier-selection-model]]
-- [[Cannabinoids]]
+- cannabinoid microbiome interactions
 - [[plant-defense-mechanisms]]
 
 The study of cannabinoid-microbiome interactions represents an emerging field at the intersection of plant chemistry, microbial ecology, and agricultural science, with significant potential for both basic biological understanding and practical applications in Cannabis cultivation.

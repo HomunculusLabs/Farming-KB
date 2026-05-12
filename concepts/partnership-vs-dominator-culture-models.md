@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The partnership/dominator framework is a model of human [[star-fire-and-sacred-substances]]
+The partnership/dominator framework is a model of human [[cultural-evolution-and-psychoactive-substances]]
 developed by Riane Eisler in *The Chalice and the Blade* (1987) and
 adopted by [[terence-mckenna]] in *Food of the Gods* (1992) to explain the
 historical suppression of sacred plant use and the rise of patriarchal

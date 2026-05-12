@@ -13,7 +13,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hofmann, A. & Troxler, F. (1949). "Alkaloids of ergot: N-alkylated ergot-and-lysergic-acid-history derivatives." Helvetica Chimica Acta, 32, 893–904.
-  - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New [[star-fire-and-sacred-substances]]. Springer.
+  - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New [[cultural-evolution-and-psychoactive-substances]]. Springer.
   - Brandt, S.D., et al. (2016). "Return of the lysergamides." psychedelic-drug-testing-and-adulterant-screening and Analysis, 8(9), 891–900.
   - Passie, T., et al. (2008). "The pharmacology of [[lsd-d-lysergic-acid-diethylamide]]." CNS Neuroscience & Therapeutics, 14(4), 295–314.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–726.

@@ -69,7 +69,7 @@ Wash all flowers gently under cool running water to remove dirt and any small in
 
 Edible flowers serve as powerful companion plants in vegetable gardens and food forests.
 Nasturtiums act as trap crops, drawing aphids away from vegetables while providing a spicy edible harvest.
-[[comfrey-cultivation-and-uses|Comfrey]] flowers attract pollinators while its deep roots mine minerals from the subsoil.
+[[sorghum-cultivation-and-uses|Comfrey]] flowers attract pollinators while its deep roots mine minerals from the subsoil.
 [[yarrow-plant-guide|Yarrow]] enhances the essential oil production of nearby herbs and attracts ladybugs and lacewings.
 Many edible flowers fit naturally into [[mollison-designers-chickweed-and-edible-weeds|permaculture weed guilds]] where they coexist with other useful wild plants.
 Interplanting edible flowers among vegetables increases biodiversity and confuses pest insects searching for their preferred host plants.
@@ -89,7 +89,7 @@ Place containers near the kitchen door for easy harvesting while cooking meals.
 - Always positively identify flowers before eating and never consume flowers treated with chemicals.
 - [[dandelion|Dandelion]] flowers are a nutritious and widely available edible flower that many gardeners overlook.
 - Edible flowers double as companion plants that attract pollinators and beneficial insects.
-- Flowers like [[permaculture-daylily|daylily]] and [[comfrey-cultivation-and-uses|comfrey]] integrate well into permaculture guilds.
+- Flowers like [[permaculture-daylily|daylily]] and [[sorghum-cultivation-and-uses|comfrey]] integrate well into permaculture guilds.
 - Container growing makes edible flowers accessible even in small spaces and urban environments.
 - Culinary uses range from fresh garnishes and salads to teas, vinegars, oils, and candied decorations.
 

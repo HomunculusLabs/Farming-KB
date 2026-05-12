@@ -74,7 +74,7 @@ The observational design methodology follows a structured progression:
 
 ## The Value of Observation in Design
 
-As research and observation progress, initially isolated observations become connected to broader ecological relationships. The mole becomes linked to earthworms, upturned soils, fields, lawns, gardens, pastures, water percolation, and soil production. Dozens of useful strategies can evolve from a single initial observation, and the site begins to "design itself."
+As research and observation progress, initially isolated observations become connected to broader ecological relationships. The mole becomes linked to [[earthworms]], upturned soils, fields, lawns, gardens, pastures, water percolation, and soil production. Dozens of useful strategies can evolve from a single initial observation, and the site begins to "design itself."
 
 Cautious trials and further observation confirm the benefits (or drawbacks) of incorporating observed elements into the total system. Practical information gathered this way carries over to other sites and to allied observations. Studies of related organisms (such as earthworms alongside moles) may co-evolve, revealing the interconnectedness of natural systems.
 

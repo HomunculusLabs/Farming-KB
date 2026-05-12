@@ -133,7 +133,7 @@ support from controlled studies.
 
 Despite its scientific limitations, the stoned ape hypothesis has been
 enormously influential in popular culture and psychedelic communities. It
-has stimulated interest in the evolutionary role of [[star-fire-and-sacred-substances]]
+has stimulated interest in the evolutionary role of [[cultural-evolution-and-psychoactive-substances]]
 and has contributed to broader discussions about the relationship between
 consciousness-altering compounds and human cultural development. The
 hypothesis continues to be debated, and some researchers have called for

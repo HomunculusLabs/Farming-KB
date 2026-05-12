@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Phyla (formerly classified as Lippia) is a genus of low-growing, mat-forming perennial plants in the Verbenaceae family. In permaculture design, Phyla species — particularly *Phyla nodiflora* (syn. *Lippia nodiflora*), commonly known as frogfruit or turkey tangle — are valued as ground cover components in compound windbreak systems for coastal and exposed sites. Bill Mollison specifically recommends Phyla as a ground-layer species in multi-tiered windbreak configurations designed to stabilize eroding beaches and trap windblown sand.
+Phyla (formerly classified as Lippia) is a genus of low-growing, mat-forming perennial plants in the Verbenaceae family. In [[permaculture-design]], Phyla species — particularly *Phyla nodiflora* (syn. *Lippia nodiflora*), commonly known as frogfruit or turkey tangle — are valued as ground cover components in compound windbreak systems for coastal and exposed sites. Bill Mollison specifically recommends Phyla as a ground-layer species in multi-tiered windbreak configurations designed to stabilize eroding beaches and trap windblown sand.
 
 ## Classification
 
@@ -26,7 +26,7 @@ Phyla (formerly classified as Lippia) is a genus of low-growing, mat-forming per
 - **Salt tolerance**: Moderate to high salt tolerance, suitable for seaside plantings where salt spray limits the growth of many ground covers.
 - **Drought tolerance**: Once established, Phyla is extremely drought-tolerant, persisting in sandy, low-nutrient soils with minimal irrigation.
 - **Rapid establishment**: Spreads vegetatively via stolons, quickly covering bare ground and providing erosion protection within a single growing season.
-- **Pollinator support**: Produces small nectar-rich flowers that attract bees, butterflies, and other beneficial insects — supporting integrated pest management within windbreak-protected crop systems.
+- **Pollinator support**: Produces small nectar-rich flowers that attract bees, butterflies, and other beneficial insects — supporting [[integrated-pest-management]] within windbreak-protected crop systems.
 - **Soil building**: As a dense ground cover, it adds organic matter to sandy soils through leaf turnover and root exudates, gradually improving soil structure and water-holding capacity.
 - **Foot traffic tolerance**: Can withstand moderate foot traffic, making it suitable for pathways and living mulch in orchard alleys.
 
@@ -82,6 +82,7 @@ Phyla serves multiple functions in permaculture and agricultural systems:
 ## Related Topics
 
 ## See Also
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
 
 - [[ground-cover-plants]]
 - [[ground-cover-plants]]

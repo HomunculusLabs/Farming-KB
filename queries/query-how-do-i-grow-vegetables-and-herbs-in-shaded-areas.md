@@ -3,7 +3,8 @@ title: "How Do I Grow Vegetables and Herbs in Shaded Areas?"
 tags: [query, shade-gardening, low-light, vegetables, herbs, permaculture]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/mollison-permaculture-designers-manual.md"
 ---
 
 # How Do I Grow Vegetables and Herbs in Shaded Areas?

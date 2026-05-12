@@ -34,7 +34,7 @@ Plants show different resistances to wind damage, falling into three broad categ
 
 These include many short or creeping plants at the boundary layer of still air near the ground, or the frontline plants of sea coasts. Yields are little affected by strong winds.
 
-**Examples**: Cerastium, Araucaria heterophylla
+**Examples**: Cerastium, [[araucaria-heterophylla]]
 
 ### Exposure Tolerant
 

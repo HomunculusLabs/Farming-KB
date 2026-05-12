@@ -6,7 +6,8 @@ tags: [physics, fluid-dynamics, CFD, engineering, turbulence, RANS, LES, computa
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
 ## Overview

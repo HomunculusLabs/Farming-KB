@@ -55,7 +55,7 @@ For **soil type**, both metrics returned large numbers of significant OTUs (690 
 
 ### Principal Coordinates Analysis (PCoA)
 
-The second experiment in the study reinforced these findings through [[PCoA]] ordination of the two distance matrices:
+The second experiment in the study reinforced these findings through weighted unifrac strain clustering cannabis endorhiza community structure ordination of the two distance matrices:
 
 - **Unweighted UniFrac**: PC1 explained 32.06% of variance and was dominated by **soil type** as the primary clustering factor.
 - **Weighted UniFrac**: PC1 explained 34.51% of variance and was dominated by **strain** (cultivar) as the primary clustering factor.
@@ -79,8 +79,8 @@ Soil type determined *composition*—the identity of taxa available for root col
 Winston et al. employed a suite of complementary statistical approaches to ensure robustness:
 
 - **[[adonis-annua]]** (PERMANOVA): Partitioned variance in UniFrac distance matrices by factor (strain, soil). Confirmed that both strain and soil significantly explain community variation when tested independently.
-- **[[ANOSIM]]**: Non-parametric test of group differences based on rank dissimilarities. Provided an independent confirmation of ADONIS results without distributional assumptions.
-- **[[ANOVA]] with [[fdr-correction]]**: Applied at the individual [[OTU]] level to identify which specific taxa differed significantly between treatment groups. The [[false-discovery-rate]] correction controlled for multiple comparisons across hundreds of OTUs, reducing the risk of false positives inherent in high-dimensional microbiome data.
+- **weighted unifrac strain clustering cannabis endorhiza community structure**: Non-parametric test of group differences based on rank dissimilarities. Provided an independent confirmation of ADONIS results without distributional assumptions.
+- **weighted unifrac strain clustering cannabis endorhiza community structure with weighted unifrac strain clustering cannabis endorhiza community structure**: Applied at the individual [[soil-microbial-biomass-measurement-ecological-significance]] level to identify which specific taxa differed significantly between treatment groups. The weighted unifrac strain clustering cannabis endorhiza community structure correction controlled for multiple comparisons across hundreds of OTUs, reducing the risk of false positives inherent in high-dimensional microbiome data.
 
 The combination of multivariate community-level tests (ADONIS, ANOSIM) with univariate OTU-level tests (ANOVA + FDR) provides a robust statistical framework that has become standard in microbiome ecology.
 

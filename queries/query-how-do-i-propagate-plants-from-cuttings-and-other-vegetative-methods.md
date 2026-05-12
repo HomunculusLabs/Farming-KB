@@ -3,7 +3,8 @@ title: "How Do I Propagate Plants from Cuttings and Other Vegetative Methods?"
 tags: [query, propagation, cuttings, vegetative, cloning]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/cervantes-marijuana-horticulture-indoor-outdoor.md"
 ---
 
 # How Do I Propagate Plants from Cuttings and Other Vegetative Methods?

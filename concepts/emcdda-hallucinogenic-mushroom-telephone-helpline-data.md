@@ -31,7 +31,7 @@ The year 2004 was a significant period for the [[european-hallucinogenic-mushroo
 - Internet retailers were expanding their mushroom product offerings across multiple EU member states
 - Media coverage of mushroom use was increasing, driven partly by the novelty of legal retail psychedelic sales
 
-Despite these market dynamics, the helpline data showed no corresponding surge in crisis calls. This disconnect between market expansion and health service demand is a pattern observed with other low-toxicity [[star-fire-and-sacred-substances]] and has important implications for risk assessment methodology.
+Despite these market dynamics, the helpline data showed no corresponding surge in crisis calls. This disconnect between market expansion and health service demand is a pattern observed with other low-toxicity [[cultural-evolution-and-psychoactive-substances]] and has important implications for risk assessment methodology.
 
 ## Belgium: Druglijn Flanders
 

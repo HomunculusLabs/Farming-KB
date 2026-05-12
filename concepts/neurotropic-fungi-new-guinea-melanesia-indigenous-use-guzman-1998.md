@@ -85,7 +85,7 @@ indigenous mushroom worship:
    serve as recognizable markers or indicators of the right time, place,
    or conditions for collecting the truly psychoactive species
 3. **Unidentified compounds** — Some boletes may contain as-yet-
-   unidentified [[star-fire-and-sacred-substances]] that differ from the classical
+   unidentified [[cultural-evolution-and-psychoactive-substances]] that differ from the classical
    psilocybin/psilocin profile
 4. **Cultural elaboration** — The category of "sacred mushroom" may be
    broader than "psychoactive mushroom" in indigenous New Guinean

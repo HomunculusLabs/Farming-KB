@@ -87,3 +87,9 @@ latter being the dominant photosynthetic pigment.
   potassium, phosphorus, selenium
 - **Phytopigments**: Phycocyanin (10-20% dry weight), chlorophyll *a*,
   beta-carotene, xanthophylls
+
+## See Also
+
+- [[cervantes-iron-manganese-zinc-micronutrients]]
+- [[commercially-important-pleurotus-species-cultivation-guide]]
+- [[cho-water-soluble-calcium-and-potassium]]

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Monte, A.P. et al. (1993). "N-substituted piperazines abused as 'shulgin-designer-drugs-analysis'." Pharmacology Biochemistry and Behavior, 46(2), 339-347.
   - Dawson, J.L. et al. (2014). "Observations in three subjects of the psychoactive compound 5-APB." Journal of Psychopharmacology, 28(10), 975-981.
-  - EMCDDA (2014). "5-APB and 6-APB: New [[star-fire-and-sacred-substances]] report." EMCDDA-Europol Annual Report.
+  - EMCDDA (2014). "5-APB and 6-APB: New [[cultural-evolution-and-psychoactive-substances]] report." EMCDDA-Europol Annual Report.
   - Iversen, L. (2013). "The Science of Mind-altering Substances." Oxford University Press.
 created: 2026-04-28
 ---

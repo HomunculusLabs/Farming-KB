@@ -106,15 +106,9 @@ Cyathea australis is widely planted in public parks, botanic gardens, and privat
 
 The species has been introduced to gardens in New Zealand, South Africa, and coastal California, where it naturalizes occasionally in suitable microclimates.
 
+
 ## See Also
 
-- [[cyathea-cooperi]]
-- [[cyathea-medullaris]]
-- [[cyathea-dealbata]]
-- [[dicksonia-antarctica]]
-- [[dicksonia-squarrosa]]
-- [[dicksonia-fibrosa]]
-- [[cibotium-barometz]]
-- [[polystichum-munitum]]
-- [[blechnum-spicant]]
-- [[osmunda-regalis]]
+- [[cyathea-arborea]]
+- [[cyathea-interrupta]]
+- [[cyathea-leichhardtiana]]

@@ -46,7 +46,7 @@ Groundwater beneath farms can contain 80–90 biocidal substances derived from f
 - Drink tank water (rainwater harvest)
 - Harvest surface run-off for gardens
 - Several decades may be needed to clear most aquifers of pollutants
-- Rainwater harvest and strict water conservation are indicated for the long-term future
+- Rainwater harvest and strict [[water-conservation]] are indicated for the long-term future
 - Substances added to town water supplies may include chlorine, fluorine, alum (aluminium sulphate), and other metabolic poisons
 
 ### Radioactive Contamination
@@ -107,3 +107,8 @@ In soil rehabilitation, we start with what is currently present. Only rarely doe
 - **Decades or more** where past chemical pollution has occurred
 
 These timelines apply to physical restoration and appropriate plant system development. Chemical pollution remediation requires far longer and may necessitate removing land from food production entirely for extended periods, using it instead for fuel forests or structural timber.
+
+## See Also
+- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
+- [[soil-pollution-and-human-nutrition]]
+- [[soil-food-web-and-building-soil]]

@@ -9,7 +9,7 @@ type: concept
 Spreader banks (also called spreader broads) and irrigation bays are earthwork
 systems designed to distribute surplus water efficiently across broad landscapes.
 These structures convert concentrated flow into thin, even sheet flow, serving
-both irrigation and erosion control purposes — particularly in arid and semi-arid
+both irrigation and erosion [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control|control]] purposes — particularly in arid and semi-arid
 environments.
 
 ## Spreader Banks (Broads)
@@ -29,7 +29,7 @@ prevention of channel scour and gullying in desert landscapes.
 - Water enters from a dam, swale, or minor stream at a single point or
   distributed inlet, and leaves as a **thin sheet flow** running downslope.
 - **Spoil from excavation is piled uphill**, preferably formed into mounds,
-  which themselves can serve as useful planting zones or windbreaks.
+  [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil|which]] themselves can serve as useful planting zones or windbreaks.
 
 The key principle is converting concentrated, high-energy water flow into a
 broad, shallow, low-energy sheet that irrigates vegetation without eroding
@@ -59,9 +59,9 @@ controlled and directed.
 Using these gravity-fed systems, **one or two people can water 200–240
 hectares in a single morning**. This extraordinary labour efficiency makes
 irrigation bays one of the most productive water distribution strategies
-available in permaculture design.
+available in [[permaculture-design]].
 
-## Interceptor Drains
+## Interceptor [[spreader-banks-and-interceptor-drains|Drains]]
 
 Interceptor drains were designed by **Harry Whittington of West Australia** to
 address overland waterflow and waterlogging in desert soil catenas — the
@@ -104,7 +104,7 @@ Effective water control requires reliable gate mechanisms:
 - **Moveable slide gates** use plastic sheets weighted with chain — known
   colloquially as **"flags"** — that can be positioned or removed by hand.
   These are inexpensive, easily adjustable, and well-suited to the scale of
-  permaculture earthworks.
+  [[permaculture-earthworks]].
 
 ## Wildfire Control
 
@@ -147,37 +147,3 @@ reduced water volume from the handbasin may be insufficient for older
 high-volume bowls.
 
 ### Dry Toilets
-
-Dry (composting) toilets are appropriate where:
-
-- No methane digestion system is in place.
-- Sewage effluent is not needed for plant fertilisation.
-- Local soils do not suit conventional septic tank systems.
-- Cities face critical water supply constraints.
-
-Dry toilets eliminate the need to flush potable water entirely and produce
-valuable compost when properly managed.
-
-### Greywater Systems
-
-Greywater from washing machines, showers, and sinks requires careful
-management:
-
-- **Chemical analysis of detergents and soaps** is essential to understand
-  what is being discharged into the landscape.
-- **Pollutants must be routed to tree systems** — deep-rooted, fast-growing
-  trees can process and filter many contaminants that would harm food crops or
-  shallow-rooted plants.
-- Separating greywater streams (e.g., keeping laundry water with high
-  phosphorus loads separate from shower water) allows targeted treatment and
-  productive reuse.
-
-## Summary
-
-Spreader banks, irrigation bays, interceptor drains, and diversion drains form
-an integrated toolkit for harvesting, distributing, and conserving water across
-diverse landscapes. Combined with slide gates for manual control, automatic
-systems for wildfire defence, and domestic water-saving innovations, these
-earthworks represent a permaculture approach that works with natural water
-movement rather than against it — turning surplus into abundance and erosion
-into irrigation.

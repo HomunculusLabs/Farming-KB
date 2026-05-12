@@ -40,7 +40,7 @@ smoking was widespread in North America at European contact, and hallucinogenic
 DMT-containing snuffs were prevalent in the Caribbean, there are no confirmed
 reports of materials other than tobacco being smoked in the pre-Columbian Americas.
 The act of smoking itself, as distinct from eating, drinking, or snuffing
-[[star-fire-and-sacred-substances]], was an indigenous American invention with consequences
+[[cultural-evolution-and-psychoactive-substances]], was an indigenous American invention with consequences
 that continue to reverberate.
 
 ## Nicotiana Rustica: The Visionary Tobacco of the Maya

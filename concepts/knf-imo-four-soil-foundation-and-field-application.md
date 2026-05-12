@@ -2,15 +2,15 @@
 title: "master-cho-knf-imo-indigenous-microorganism-collection 4 Soil knf imo four soil foundation and field application Application"
 created: 2026-04-28
 tags:
-  - knf
-  - natural-farming
-  - soil-biology
-  - indigenous-microorganisms
-  - soil-preparation
+ - knf
+ - natural-farming
+ - soil-biology
+ - indigenous-microorganisms
+ - soil-preparation
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - papers/master-cho-knf-recipe-book.md
+ - papers/master-cho-knf-recipe-book.md
 type: concept
 ---
 
@@ -26,7 +26,7 @@ native soil to create a living microbial inoculant for building
 - Fields with successive cropping disorder: 14 days before seeding
 - Apply IMO #4, then make soil foundation one week before seeding
 - One additional soil foundation application after IMO #4 for problem
-  fields
+ fields
 
 ### Method 2: Fermented Mixed Compost Enhancement
 
@@ -52,7 +52,7 @@ wilt and damping-off in seedlings.
 3. For 1,000 litres of water, use 1-2 kg of IMO #4
 4. Apply to seedlings in the nursery or as a foliar spray
 
-Liquid IMO #4 applied together with other [[indigenous-spirituality-and-freedom]]
+Liquid IMO #4 applied together with other 
 - [[knf-seed-treatment-and-soil-foundation]]
 - [[natural-farming-soil-management]]
 - [[imo-collection-multi-stage-cultivation]]

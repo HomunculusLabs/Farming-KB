@@ -97,7 +97,7 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 
 ## Related
 - [[cotter-mycoremediation-overview]] — for the science
-- [[field-peas]] — for case studies
+- [[cover-crops]] — for case studies
 - [[mycoremediation-petroleum-hydrocarbons]] — for the most common application
 
 ## Mechanisms of Action

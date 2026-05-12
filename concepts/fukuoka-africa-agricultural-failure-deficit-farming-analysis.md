@@ -147,4 +147,4 @@ than a symptom of ecological and cultural disruption imposed from outside.
 - [[fukuoka-deficit-farming-agricultural-energy-crisis]] — Agriculture consuming more energy than it produces
 - [[desertification-causes-reversal]] — Human-driven desertification mechanisms
 - [[agroecology]] — Modern movement echoing Fukuoka's principles
-- [[colonial-agriculture]] — Colonial land management impact on indigenous systems
+- fukuoka africa agricultural failure deficit farming analysis — Colonial land management impact on indigenous systems

@@ -6,122 +6,145 @@ type: concept
 
 # Biological Sewage Treatment Systems
 
-Biological sewage treatment is a permaculture approach to wastewater management that replaces chemical-based purification with living systems—plants, algae, bacteria, and aquatic organisms—to clean water while simultaneously producing useful yields. Rather than treating sewage as waste to be disposed of, biological systems transform it into productive resources: fuel, fertilizer, animal feed, irrigation water, and habitat.
+Biological sewage treatment uses living organisms — bacteria, algae, aquatic plants,
+and constructed wetlands — to purify wastewater. Unlike chemical treatment, these
+systems produce useful yields (biogas, animal feed, compost, firewood) while
+recycling nutrients back into productive landscapes.
 
-## Pathogen Removal Through Aquatic Plants
+## Advanced Aeration Techniques
 
-Several aquatic plant species actively remove pathogens, viruses, and worm eggs from sewage water. Key species include:
+### Alternating Aerobic-Anaerobic (A.A.A.) Digestion
 
-- **Alisma plantago-aquatica** — water plantain, effective for general pathogen treatment
-- **Mentha aquatica** — water mint, contributes to purification in flow-through systems
-- **Juncus effusus** — soft rush, particularly effective for chlorinated hydrocarbons, cyanide compounds, thiocyanates, and phenols (treated in as few as 7 hours of flow time)
-- **Schoenoplectus lacustris** — lake clubrush, effective alongside Juncus for hydrocarbon treatment
-- **Spartina spp.** — cordgrass, active in estuarine and coastal treatment systems
-- **Iris pseudocorus** — yellow flag iris, widely used in constructed wetlands
+Research (Ecos 44, Winter 1985) found that artificial aeration of facultative ponds
+is most efficient when run at **intervals of 2 hours in 6** (30% duty cycle). The
+facultative bacteria operate two digestive modes and perform best after a 4-hour
+anaerobic period followed by an aeration burst. This approach:
 
-For chlorinated hydrocarbons specifically, rush types with large **aerenchyma** (pith cells) are most effective. The aerenchyma tissue provides oxygen transport channels through the plant, supporting aerobic microbial communities around root zones that break down organic contaminants.
+- Excretes carbon dioxide, reducing sludge bulk significantly
+- Reduces nitrogen from 20 mg/l to less than 5 mg/l
+- Reduces phosphorus from 8.5 mg/l to less than 1 mg/l (with ferric chloride)
+- Cuts energy costs for aeration by operating only 30% of the time
 
-Systems must be carefully monitored in field conditions. Water can flow through a **gravel base** planted with purifying species, or for longer retention times, pass through lagoons and ditches.
+### Sludge Agitation
 
-## Comfrey Beds for Faecal Waste Absorption
+In anaerobic systems, agitation by bubbling compressed methane through the sludge
+keeps it active and prevents scum formation, which slows the breakdown process.
 
-**Comfrey (Symphytum officinale)** serves as a biological absorber for animal faecal waste. Where wash-water from yards or pens is available, a comfrey bed can:
+## International Case Studies
 
-- Stand heavy inputs of raw faeces in solution
-- Produce a crop usable for **fodder** (livestock feed)
-- Be trenched as "instant compost" under other crops such as potatoes
-- Absorb nutrients that would otherwise become pollutants
+### Israel: Canalised Algal Ponds
 
-## Methane Production Integration
+Israel routes sewage through long canalised ponds agitated by slowly-revolving
+paddle-wheel aerators. Ponds are 0.5 m or less deep, often under glasshouse covers
+in bright sunlight. Dense algal mats form and are:
 
-Flow-through systems for **biogas (methane) production** take little plant nutrient from faecal matter. The residues from methane digesters can then be processed through:
+1. Broken up with aluminium sulphate (a pollutant trade-off)
+2. Skimmed off, drained, centrifuged, and steam-dried
+3. Fed to carp or chickens as protein supplement
 
-1. **Comfrey beds** — absorb remaining nutrients, produce compost and fodder
-2. **Algae ponds** — produce useful biomass for compost, stock feed, or additional biogas feedstock
+Algal protein replaces **50% of soya bean protein** in poultry feed rations. Total
+treatment takes approximately 4 days. Water remains alkaline and somewhat anaerobic,
+requiring more agitation in winter.
 
-This cascading approach extracts maximum energy and nutrient value from waste streams.
+### Holland: Reed and Plant Harvesting
 
-## Productive Sewage Water Reuse
+Holland routes sewage through similar canal systems but harvests reeds and aquatic
+plants as green crop for mulch or craft supplies, adding a direct material yield.
 
-Treated sewage water has proven safe for agricultural use at scale:
+## Final Biological Treatment Stages
 
-- **Werribee, Australia** — sewage lagoon water safely used to rear beef cattle for 35+ years
-- **Hagerstown, Maryland, USA** — sewage waters supplied to coppiced **poplar plots** producing wood chips equivalent to approximately 60% of town energy use
+### Reed Bed Filtration
 
-Water saved from reducing urban lawn systems could supply the remaining energy deficit plus food crops for any town.
+Final treatment — recommended by the Max Planck Institute in Switzerland — uses a
+**sinuous, sealed canal** planted with a variety of rushes and floating water plants.
+For untreated sewage, a holding time of 10–12 days is necessary. Water travels
+through maze-like gravel-filter canals with floating weeds and sedges.
 
-## Salinity Management in Waste Water
+For swimming pools and less polluted systems, a pumped cycle through ferns, rushes,
+and watercress suffices to remove urine and leaves. Such pools need a **23–30 cm
+(9–12 inch) coarse river gravel base** with intake pipes below and a skimming notch
+for leaves.
 
-As water passes through towns, it may gain 300–400 ppm in salinity—a critical factor in dryland areas. Strategies for managing this include:
+### Key Purifying Species
 
-- **Algae and plant production** to reduce surplus salinity through biological uptake
-- **Productive pond systems** rather than direct subsoil discharge
-- Avoiding discharge of sewage to subsoils, which does **not** remove nitrogen compounds
+| Species | Function |
+|---------|----------|
+| *Phragmites communis* (Common Reed) | Flocculates colloids, dries sludges, eliminates pathogens |
+| *Typha* spp. (Cattail) | Flocculates colloids, eliminates pathogens |
+| *Schoenoplectus* spp. | Uptakes copper, cobalt, nickel, manganese; exudes mould antibiotics |
+| *Scirpus* spp. (Bulrush) | Breaks down phenols including toxic pentachlorophenol |
+| *Water hyacinth* (*[[eichhornia-crassipes]]*) | Removes residual metals, surplus nutrients, coliform bacteria |
 
-Direct subsoil discharge risks pollution of wells and bores, as has occurred in Israel and the USA.
+### Additional Pathogen-Removing Species
 
-## Sewage Separation Strategies
+These species have demonstrated pathogen removal capacity in field conditions:
 
-Separating sewage into **solids and liquids** at the domestic level offers productive advantages:
+- *Alisma plantago-aquatica* (Water Plantain)
+- *Mentha aquatica* (Water Mint)
+- *Juncus effusus* (Soft Rush)
+- *Schoenoplectus lacustris* (Lake Clubrush)
+- *Spartina* spp. (Cordgrass)
+- *Iris pseudocorus* (Yellow Flag)
 
-- **Urea recovery**: 2% urea sprayed on rice foliage in padi has increased grain protein yields to 40% (11% protein by weight)
-- **Chemical recovery**: Separation enables recovery of alcohol and chemicals from urine wastes
-- **Fungal control**: Urine diluted to 5% solution controls moulds on cucurbits and aids garden growth and compost activity
+### Chlorinated Hydrocarbon Treatment
 
-## Natural Swimming Pools
+For chlorinated hydrocarbons (herbicides, pesticides), rush types with large pith
+cells (aerenchyma tissue) are most effective:
 
-Natural swimming pools replace chlorine-based chemical purification with biological filtration:
+- **Juncus spp.**, especially *Juncus effusus*
+- **Schoenoplectus** spp.
 
-### Design Principles
-- Water is pumped down through a **base pebble bed** using pebbles as algal/bacterial cleaners
-- Water cycles through a **reed bed** to remove excess nutrients
-- Freshly oxygenated water cascades back into the pool
+Cyanide compounds, thiocyanates, and phenols are treated in relatively short flow
+times of **7+ hours** using Juncus.
 
-### Benefits Over Conventional Pools
-- No carcinogenic chloroform (formed when chlorine reacts with organic matter)
-- Supports fish, crayfish, and diverse aquatic life
-- Creates habitat with rock ledges, ferns, and over-arching vegetation
-- Serves as **fire-fighting reserve**, **heat pump source**, **fire barrier**, and **emergency water supply**
-- Rechargeable from roof runoff via photovoltaic pumps
-- Eliminates ongoing chemical servicing costs
+### Pathogen Removal Results
 
-## Septic Tank Effluent Disposal
+After treatment via the above species, water shows:
 
-Two basic productive disposal systems for septic tank effluent:
+- Low to zero populations of *E. coli*
+- Low to zero coliform bacteria
+- Low to zero *Salmonella*
+- Low to zero *Enterococci*
+- Virus and worm eggs also eliminated
 
-### Leach Field Systems
-A leach field is a trench or open gravelled soakage pit through which sewage wastes from a septic tank flow. In clays and clay-loams, septic water from a family home stimulates fruit tree growth for 20+ metres without additional irrigation.
+## Integrated Productive Systems
 
-**Construction method:**
-1. Dig a long trench with 1:12 ratio base slope from the septic tank outlet
-2. Set topsoil aside
-3. Fit an 18 cm or larger **half-pipe** (prevents root clogging)
-4. Add cross-supports every 1.2 m to create "pools"
-5. Place coarse gravels or stones in the trench
-6. Cover with plastic or tarpaper strip
-7. Back-fill and plant trees 1–2 m off both sides at 2–6 m spacing
+### Comfrey Beds for Animal Waste
 
-Square or round disposal pits (~25 m²) can also be dug and filled with graded stone (coarse 6 cm at base to 2 cm at top), covered with cardboard and thick straw layer, sown to oats or green crop, with trees planted around the perimeter.
+Domestically, a **comfrey bed** (*Symphytum* spp.) absorbs faecal products from
+animals where wash-water from yards or pens is available. Comfrey tolerates heavy
+inputs of raw faeces in solution. The crop can then be:
 
-### Biogas Conversion Systems
-For biogas applications, septic tank effluent combines with weeds and manures in a digester tank:
+- Used for fodder (high protein)
+- Trenched as "instant compost" under other crops such as potatoes
 
-1. Load effluent, weeds, and manures into a tank 2–3 m deep, 3–4 m diameter
-2. Provide a loading chute for weeds and wastes (20–30 cm, slanting to base)
-3. Septic tank effluent enters at the base
-4. Overflow goes to a baffled pond growing watercress, Pistia, or rampant soft water weeds
-5. Weekly, return aquatic plants to the digester tank
-6. A perforated pipe at the tank base is worked by a small gas compressor to "bubble" gas back into the tank for 1–3 hours daily (breaks up surface scum)
-7. Gas collected in an inverted tank feeds to cooking range, lights, and refrigerators
-8. Surplus from the pond feeds to a leach field
+### Coppiced Poplar Energy Systems
 
-## Key Principles
+At Hagerstown, Maryland (USA), sewage waters supplied to selected **coppiced poplar
+plots** produce (as wood chips) approximately **60% of town energy use**. Water
+saved from reducing urban lawn systems can supply remaining energy deficits plus
+food crops for any town.
 
-1. **No discharge to seas or subsoils** — wastes inevitably return as pollutants in wells, streams, and on beaches
-2. **Sealed lagoons** — prevent leakage while enabling biological treatment
-3. **Multiple yields** — every stage of treatment should produce useful outputs
-4. **Biological safety** — systems must be monitored but rely on natural processes rather than chemical inputs
-5. **Greenhouse consideration** — organic waste discharge to waterways contributes to atmospheric CO₂
-6. **Appropriate scale** — systems can be designed for single households or entire towns
+### Salinity Management
 
-The core insight is that modestly-designed biological sewage treatment systems not only recycle water efficiently but create a variety of yields from what conventional systems treat as "waste." There is no justification for continuing dangerous disposal practices when productive alternatives exist.
+As waters pass through towns, salinity may increase by **300–400 ppm** — a grave
+factor in dryland areas. Algae and plant production and removal reduce this surplus
+salinity. Discharging sewage to subsoils does not remove nitrogen compounds; pond
+production of algae is necessary to reduce nitrates to safe levels for discharge.
+
+### Urine Separation
+
+Separation of sewage into solids and liquids at the domestic level has productive
+advantages:
+
+- **2% urea** sprayed on rice foliage increased grain protein yields to **40%**
+  (11% protein by weight)
+- Urine diluted to 5% solution controls moulds on cucurbits
+- Aids garden growth and compost activity generally
+- Enables recovery of alcohol and chemicals from urine wastes
+
+## See Also
+
+- [[anaerobic-digestion-biogas-production]] — Multi-stage pond systems and methane
+- water treatment and filtration methods — Sand filters, aeration, and basic treatments
+- [[natural-swimming-pools]] — Biological filtration for recreational water

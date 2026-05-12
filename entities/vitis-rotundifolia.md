@@ -88,3 +88,10 @@ Muscadine pomace, the skins and seeds remaining after juice extraction, is incre
 ## Viticulture and Breeding
 
 Modern muscadine breeding programs operate at the University of Georgia, North Carolina State University, and the USDA-ARS facility in Poplarville, Mississippi. Breeding objectives emphasize self-fertility, large berry size, thin skin, high sugar content, and extended harvest season.
+
+## See Also
+
+- [[vitis-aestivalis]]
+- [[vitis-labrusca]]
+- [[vitis-riparia]]
+- [[vitis-rupestris]]

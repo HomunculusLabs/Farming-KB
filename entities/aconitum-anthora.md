@@ -87,3 +87,9 @@ Aconitum anthora is cultivated as an ornamental for its unusual yellow flowers a
 Propagation is by seed or division of tuberous roots. Seeds require cold stratification at 4°C for 8–12 weeks followed by gradual warming to germinate reliably.
 
 The plant prefers partial shade to full sun in cool-summer climates. Soils should be humus-rich, consistently moist, and alkaline to neutral in pH.
+
+## See Also
+
+- [[aconitum-columbianum]]
+- [[aconitum-ferox]]
+- [[aconitum-septentrionale]]

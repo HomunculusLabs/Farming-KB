@@ -90,6 +90,6 @@ The difference, Mollison suggests, is that traditional peoples planned for thems
 
 ## See Also
 
-- [[slope-analysis-landscape-planning]]
-- [[slope-aspect-and-elevation-in-design]]
-- [[slope-aspect-elevation-orientation]]
+- [[slope-measurement]]
+- [[slope-measurement-and-stability]]
+- [[slope-terracing-earthworks]]

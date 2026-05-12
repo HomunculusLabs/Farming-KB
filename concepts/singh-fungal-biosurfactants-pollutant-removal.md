@@ -2,15 +2,15 @@
 title: singh fungal biosurfactants pollutant removal for Pollutant Removal
 created: 2026-04-28
 tags:
-  - mycoremediation
-  - biosurfactants
-  - petroleum-hydrocarbons
-  - solubilization
-  - surface-chemistry
+ - mycoremediation
+ - biosurfactants
+ - petroleum-hydrocarbons
+ - solubilization
+ - surface-chemistry
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
+ - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
 ---
 
@@ -63,7 +63,7 @@ direct contact between fungal cells and hydrophobic substrates.
 Fungal biosurfactants significantly enhance
 [[singh-fungal-consortia-synergistic-biodegradation]],
 biosurfactant producers support hydrocarbon-degrading partners.
-Sophorolipid addition increases [[soil-health-and-microbial-life]] 2-10 fold.
+Sophorolipid addition increases 2-10 fold.
 
 ### Soil Washing and Flushing
 

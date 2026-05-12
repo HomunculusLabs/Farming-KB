@@ -77,7 +77,7 @@ The champignonniere concept is central to understanding the historical developme
 - Influenced by landscape-level patterns and processes
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[permaculture-design]] and sustainable land management
 - Used in conservation and ecological restoration projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices

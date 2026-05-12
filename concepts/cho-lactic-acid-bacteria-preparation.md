@@ -5,7 +5,7 @@ tags: [knf, input-preparation, microorganisms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
+ [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 type: concept
 ---
 
@@ -53,7 +53,7 @@ vigorously.
 In 3 to 4 days, the jar will develop three divided layers:
 - **Top layer**: Floating matter (starch, protein, and fat)
 - **Middle layer**: Clear yellow liquid -- this is the Lactic Acid
-  Bacteria serum
+ Bacteria serum
 - **Bottom layer**: Debris (waste)
 
 ### Step 4: Extraction
@@ -71,19 +71,19 @@ The basic dilution ratio is 1:1000 (LAB to water).
 ### Crop Applications
 
 1. LAB reinforces the anabolism of microbes living on plant stems and
-   leaves, a condition that arises from the abuse of insecticides and
-   fungicides.
+ leaves, a condition that arises from the abuse of insecticides and
+ fungicides.
 2. When using LAB alone, it is more effective to use it with
-   [[indigenous-spirituality-and-freedom]] mixed
-   with LAB is sprayed on the field.
+ mixed
+ with LAB is sprayed on the field.
 4. LAB is extremely effective in making fruits and leaves large, but
-   the amount should be reduced while approaching the later growth
-   stages.
+ the amount should be reduced while approaching the later growth
+ stages.
 
 ### Livestock Applications
 
 - Use LAB (1:500) with FPJ (1:300) as drinking water for livestock to
-  recover their digestive function.
+ recover their digestive function.
 
 ### Compost Applications
 

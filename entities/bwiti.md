@@ -52,7 +52,7 @@ The Bwiti cult is a syncretic religious movement native to Gabon and the Congo i
 
 While iboga is a plant sacrament, the Bwiti cult is relevant to mycological studies:
 
-- Demonstrates indigenous sacramental use of [[star-fire-and-sacred-substances]] parallel to [[sacred-mushroom-ceremonies]]
+- Demonstrates indigenous sacramental use of [[cultural-evolution-and-psychoactive-substances]] parallel to [[sacred-mushroom-ceremonies]]
 - The controlled dosing practices show sophisticated traditional pharmacological knowledge
 - Ibogaine's indole structure connects it to the same chemical family as fungal hallucinogens
 - The Bwiti tradition parallels Mesoamerican mushroom ceremonies in structure and purpose

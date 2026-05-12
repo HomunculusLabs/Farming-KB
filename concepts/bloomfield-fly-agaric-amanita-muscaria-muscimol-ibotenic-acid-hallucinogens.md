@@ -82,7 +82,7 @@ distortions and agitation. As ibotenic acid is decarboxylated to
 muscimol, GABAergic effects become dominant, producing sedation and
 dream-like states with vivid hallucinations.
 
-This biphasic profile is unusual among [[star-fire-and-sacred-substances]] and
+This biphasic profile is unusual among [[cultural-evolution-and-psychoactive-substances]] and
 accounts for highly variable reports of fly agaric experiences. The
 ratio of muscimol to ibotenic acid depends on [[pf-tek-substrate-formula-and-jar-preparation-method]] and
 individual specimen.

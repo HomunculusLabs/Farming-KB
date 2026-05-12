@@ -67,7 +67,7 @@ Michauxia campanuloides is native to the eastern Mediterranean and western Asia,
 
 It grows at elevations of 500–2,000 m on limestone cliffs, rocky slopes, dry gorges, and stony hillsides. The species is strongly calcicolous, rarely occurring on non-calcareous substrates.
 
-The species is well-adapted to the continental climate of interior Anatolia and the Levant, with hot, dry summers and cold winters. It often grows in vertical rock crevices where it receives some shade during the hottest part of the day.
+The species is well-adapted to the [[continental-climate]] of interior Anatolia and the Levant, with hot, dry summers and cold winters. It often grows in vertical rock crevices where it receives some shade during the hottest part of the day.
 
 Michauxia campanuloides has been recorded growing on ancient ruins and old walls in Turkey, where the mortar between stones provides a suitable alkaline substrate. This habit has earned it the alternative common name "ruins bellflower" in some Turkish regional floras.
 

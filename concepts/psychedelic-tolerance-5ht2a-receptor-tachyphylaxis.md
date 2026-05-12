@@ -6,7 +6,7 @@ Psychedelic tolerance is a well-documented phenomenon in which repeated
 administration of serotonergic hallucinogens leads to a progressive reduction in
 their subjective and behavioral effects. This tolerance develops rapidly, often
 within 24-48 hours of a single dose, and dissipates relatively quickly compared to
-tolerance to many other [[star-fire-and-sacred-substances]], typically resolving within 3-7 days
+tolerance to many other [[cultural-evolution-and-psychoactive-substances]], typically resolving within 3-7 days
 of abstinence. The primary mechanism underlying psychedelic tolerance is the
 tachyphylaxis of the 5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]], though additional mechanisms
 involving downstream signaling adaptations have also been identified.

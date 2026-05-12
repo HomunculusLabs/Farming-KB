@@ -48,7 +48,7 @@ Mollison places Glyricidia among the most important multi-functional windbreak s
 
 ## Relevance to Cultivation and Mycology
 
-- **Tropical agroforestry**: One of the most widely adopted agroforestry trees worldwide, used in alley cropping, live fencing, and shade systems for coffee and cacao plantations.
+- **Tropical agroforestry**: One of the most widely adopted agroforestry trees worldwide, used in [[alley-cropping]], live fencing, and shade systems for coffee and cacao plantations.
 - **Mycorrhizal partnerships**: As a legume, forms both rhizobial root nodules and arbuscular mycorrhizal associations, building complex soil food webs that benefit all neighbouring plants.
 - **Soil building**: The combination of nitrogen fixation, leaf-litter mulch, and root turnover creates fertile, humus-rich soils in otherwise degraded tropical sites within 3-5 years.
 - **Mushroom substrate potential**: The nutrient-rich leaf litter and woody material from coppicing could serve as substrate components for tropical saprophytic mushroom cultivation, particularly for Pleurotus and Volvariella species that grow on supplemented agricultural wastes.
@@ -77,7 +77,7 @@ Mollison places Glyricidia among the most important multi-functional windbreak s
 - Understanding enables more effective system design
 
 ## Practical Applications
-- Applied in permaculture design and sustainable agriculture
+- Applied in [[permaculture-design]] and sustainable agriculture
 - Contributes to resource management strategies
 - Used in ecological restoration and conservation
 - Supports decision-making in land-use planning

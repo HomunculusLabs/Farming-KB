@@ -29,7 +29,7 @@ The [[solomon-growing-cucurbits-guide|Solomon growing cucurbits guide]] recommen
 
 Summer squash is harvested immature when the skin is still tender and edible, typically 50–60 days after planting.
 Winter squash is left on the vine until fully mature with a hard rind, requiring 80–120 days to reach harvest.
-The [[winter-rye|winter squash guide]] explains that winter squash stores for months after harvest while summer squash must be used within a week or two.
+The [[cover-crops]] explains that winter squash stores for months after harvest while summer squash must be used within a week or two.
 If garden space is limited, bush-type summer squash varieties are far more compact than the sprawling vines of most winter squash.
 
 ## Site Preparation and Planting

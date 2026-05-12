@@ -88,3 +88,9 @@ The mineral profile includes notable amounts of manganese (0.646 mg/100 g), copp
 ## Bioactive Compounds
 
 Blackberries contain exceptionally high concentrations of **anthocyanins**, primarily cyanidin-3-O-glucoside, cyanidin-3-O-rutinoside, and cyanidin-3-O-xyloside. Total anthocyanin content ranges from 80 to 350 mg per 100 g fresh weight.
+
+## See Also
+
+- [[rubus-chamaemorus]]
+- [[rubus-occidentalis]]
+- [[rubus-ursinus]]

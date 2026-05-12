@@ -41,7 +41,7 @@ Woody or herbaceous legumes fix nitrogen or other essential nutrients via root a
 - Clovers
 - Trees such as *Acacia*, *[[casuarina]]*, and *Pultenaea*
 - Sugar-providing grasses (sugar cane)
-- High humus producers (bananas)
+- High [[humus]] producers (bananas)
 
 Many can be slashed or trimmed to provide rich mulch below trees or between rows.
 

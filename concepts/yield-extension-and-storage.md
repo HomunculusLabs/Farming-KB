@@ -82,7 +82,6 @@ The permaculture approach to yield is fundamentally ethical. Yield is not merely
 
 Accumulations of unused benefits are predictive of collapse at the production level, and thence throughout all tiers of the system. The 4–6% of the population in essential production cannot indefinitely support the remaining 94% deriving secondary or tertiary benefits without adequate return to primary producers. This imbalance can only result in a weak economy, waste, and irresponsibility.
 
-
 ## See Also
 
 - [[yield-extension-and-storage-strategies]]

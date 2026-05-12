@@ -5,7 +5,7 @@ type: concept
 ---
 
 Soil pollution from agricultural chemicals is one of the most
-consequential legacies of industrial farming. Bill Mollison documents
+consequential legacies of industrial farming. [[bill-mollison]] documents
 the severity of contamination from persistent biocides, heavy metals,
 and other pollutants, and outlines strategies for remediation and
 safe food production on affected lands.
@@ -126,3 +126,8 @@ nitrates, and watch on-farm disposal of oils and fuels. The sane
 procedure in health is to maintain basic hygiene, grow and eat healthy
 plants and animals, avoid biocides and pollutants, take easy exercise,
 drink clean water, and stay as cheerful as this world permits.
+
+## See Also
+- [[mollison-tribal-soil-classifications-and-soil-structure]]
+- [[mollison-designers-humus-building-and-soil-organic-matter]]
+- [[mollison-soil-erosion-control]]

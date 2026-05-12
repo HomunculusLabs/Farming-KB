@@ -88,3 +88,9 @@ mechanisms. Some cultivars can tolerate soil salinity levels up to 40 dS/m.
 Quinoa seeds contain approximately 14% protein by dry weight, with a
 balanced amino acid profile particularly rich in lysine and isoleucine.
 This lysine content distinguishes it from most cereal grains.
+
+## See Also
+
+- [[chenopodium-album]]
+- [[chenopodium-ambrosioides]]
+- [[chenopodium-pallidicaule]]

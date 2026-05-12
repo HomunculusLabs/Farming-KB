@@ -100,7 +100,7 @@ Fog forms where moisture condenses from the air, and is differentiated into thre
 
 Unlike dew, fog can provide enormous quantities of moisture. Documented examples include:
 
-- **Table Mountain, South Africa**: 329 cm (128 inches) from fog drip alone
+- **[[table-mountain]], South Africa**: 329 cm (128 inches) from fog drip alone
 - **Lanai, Hawaii**: 127 cm (50 inches) from fog drip alone
 
 In such fog-prone areas, even field crops may thrive without irrigation. Bare rock and new soil surfaces on sea-facing slopes are colonized with [[lichens]] and mosses, while rainforest develops on richer soils. Much of New Zealand experiences upslope fog precipitation, and dense forests will develop unless burnt or cleared to tussock grasslands.

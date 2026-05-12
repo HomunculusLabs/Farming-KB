@@ -11,7 +11,7 @@ created: 2026-05-09
 
 The market for hallucinogenic mushrooms in Europe evolved rapidly from the late
 1990s through the mid-2000s, driven by smartshop retail, internet commerce, and
-a cultural "return to nature" trend favoring natural [[star-fire-and-sacred-substances]] over
+a cultural "return to nature" trend favoring natural [[cultural-evolution-and-psychoactive-substances]] over
 synthetic drugs. The EMCDDA's 2006 case study documented the complex interplay
 between retail innovation, online [[mollison-designers-internet-of-plants-information-sharing]], and legal responses that
 shaped the European mushroom market during this formative period.

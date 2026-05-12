@@ -37,7 +37,7 @@ Once established, feed the starter at a 1:1:1 ratio (equal weights starter, flou
 - Whole wheat flour: Adds flavor, nutrients, and complexity. Use at 10-30% of total flour.
 - Rye flour: Adds flavor, moisture, and helps fermentation. Use at 5-20%.
 - All-purpose flour: Works but produces less open crumb than bread flour.
-- Spelt, einkorn, emmer: [[the-ultimate-goal-of-farming]] can be used in part but have weaker gluten.
+- Spelt, einkorn, emmer: can be used in part but have weaker gluten.
 
 A typical blend: 80% bread flour, 20% whole wheat. Or 75% bread flour, 15% whole wheat, 10% rye.
 
@@ -71,7 +71,7 @@ Dough:
 2. Add levain and salt. Squeeze and fold to incorporate.
 3. Bulk ferment at 75-80 F for 4-6 hours.
 4. During bulk ferment, perform stretch-and-folds every 30 minutes for the first 2 hours (4 sets total).
-   - Wet hands, grab underside of dough, stretch up, and fold over itself. Rotate 90 degrees and repeat.
+ - Wet hands, grab underside of dough, stretch up, and fold over itself. Rotate 90 degrees and repeat.
 5. After folds, let dough rest undisturbed until it has grown 50-75% in volume and feels airy with visible bubbles.
 
 ## Shaping

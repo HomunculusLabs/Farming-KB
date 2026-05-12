@@ -26,7 +26,7 @@ Temperature: 32-40 degrees F (0-4 degrees C) Humidity: 85-95% for [[growing-root
 
 ### Suitable Crops
 
-Root vegetables: potatoes, carrots, beets, turnips, parsnips, rutabaga Alliums: onions, garlic, shallots (drier conditions) [[winter-rye]]: butternut, acorn, spaghetti squash Cabbage: stores well in [[mollison-designers-cool-humid-climate-design-overview]] conditions Apples and pears (store separately from root vegetables -- ethylene
+Root vegetables: potatoes, carrots, beets, turnips, parsnips, rutabaga Alliums: onions, garlic, shallots (drier conditions) [[cover-crops]]: butternut, acorn, spaghetti squash Cabbage: stores well in [[mollison-designers-cool-humid-climate-design-overview]] conditions Apples and pears (store separately from root vegetables -- ethylene
   sensitive)
 
 ### Design Considerations

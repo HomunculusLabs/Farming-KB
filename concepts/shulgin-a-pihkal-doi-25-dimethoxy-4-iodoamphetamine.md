@@ -116,5 +116,5 @@ All three share the pattern of extreme potency, long duration, R-isomer dominanc
 
 - dob 25 dimethoxy 4 bromoamphetamine — the bromo analogue
 - [[shulgin-a-pihkal-2c-b-4-bromo-25-dimethoxyphenethylamine]] — the 2-carbon analogue
-- [[5-ht2a-receptor]] — the primary receptor target
+- [[psilocybin-pharmacology]] — the primary receptor target
 - [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]] 4 methyl 25 dimethoxyamphetamine — the methyl prototype of the DO series

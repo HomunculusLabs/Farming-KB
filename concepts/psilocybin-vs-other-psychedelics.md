@@ -10,7 +10,7 @@ sources:
 
 # Psilocybin vs Other Psychedelics
 
-Powell's The Psilocybin Solution provides an extended comparison of psilocybin with other [[star-fire-and-sacred-substances]], placing the mushroom within a broader pharmacological and philosophical context. The key distinction is between psychedelics/entheogens and all other classes of psychoactive substance.
+Powell's The Psilocybin Solution provides an extended comparison of psilocybin with other [[cultural-evolution-and-psychoactive-substances]], placing the mushroom within a broader pharmacological and philosophical context. The key distinction is between psychedelics/entheogens and all other classes of psychoactive substance.
 
 ## Classification of Psychoactive Substances
 

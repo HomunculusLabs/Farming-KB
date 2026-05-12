@@ -73,7 +73,7 @@ Clinical and preclinical studies have provided preliminary support for the anxio
 [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]] — Mexican [[calea-zacatechichi-dream-herb-ethnobotany]] with oneirogenic properties.
 
 [[allegro-plants-and-drugs-in-the-ancient-world]]
-- [[star-fire-and-sacred-substances]]
+- [[cultural-evolution-and-psychoactive-substances]]
 ## Practical Considerations
 
 Successful implementation of Kanna (Sceletium tortuosum): South African Narcotic Plant requires attention to

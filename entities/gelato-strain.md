@@ -134,7 +134,7 @@ Legal status varies by jurisdiction. As a high-THC cultivar, Gelato is available
 ## See Also
 
 - [[cannabis-indica]] — One of the primary cannabis species
-- [[Terpenes]] — Aromatic compounds defining strain character
+- [[fungal-biology-fundamentals]] — Aromatic compounds defining strain character
 - [[linalool]] — Dominant terpene in Gelato
 - [[girl-scout-cookies]] — Key ancestor in Gelato's lineage
 - [[blue-dream]] — Another widely popular hybrid strain

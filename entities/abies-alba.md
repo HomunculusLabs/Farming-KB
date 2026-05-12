@@ -88,3 +88,9 @@ The species is also planted as an ornamental tree in large parks and estates. It
 ## Cultivation
 
 Silver fir is propagated from seed, which requires cold stratification for reliable germination. Seed viability declines rapidly in storage, so fresh seed is preferred. [[hamilton-vegetative-propagation]] by grafting is used for ornamental cultivars and seed orchards.
+
+## See Also
+
+- [[abies-fraseri]]
+- [[abies-numidica]]
+- [[abies-sibirica]]

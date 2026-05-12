@@ -90,7 +90,7 @@ phosphorylation is repressed during appressorium formation in wild-type strains
 
 ## The MPG1 Hydrophobin Gene
 
-The [[MPG1]] gene encodes a class I hydrophobin originally identified as a
+The [[fungal-cell-wall-composition-and-structural-organization]] gene encodes a class I hydrophobin originally identified as a
 differentially expressed gene during rice infection (Talbot et al., 1993). It is
 the most highly expressed fungal gene during plant infection, representing half
 of all identified fungal transcripts during the rice–M. grisea interaction

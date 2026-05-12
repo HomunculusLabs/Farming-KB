@@ -111,7 +111,7 @@ state, with eyes closed, he perceived an uninterrupted stream of fantastic
 pictures, extraordinary shapes with intense, kaleidoscopic play of colors. After
 some two hours this condition faded away. This accidental self-experiment
 inaugurated the most consequential chapter in the history of human interaction
-with [[star-fire-and-sacred-substances]].
+with [[cultural-evolution-and-psychoactive-substances]].
 
 ## Pandora's Box and the Psychedelic Sixties
 

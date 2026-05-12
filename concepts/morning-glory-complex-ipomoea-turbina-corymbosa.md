@@ -20,7 +20,7 @@ continuous relationships between humans and psychoactive plants.
 ## Ololiuqui: The Aztec Visionary Plant
 
 The seeds of Turbina corymbosa were known to the Aztecs as ololiuqui,
-one of the most important [[star-fire-and-sacred-substances]] in pre-Columbian
+one of the most important [[cultural-evolution-and-psychoactive-substances]] in pre-Columbian
 Mesoamerica.
 Spanish chroniclers documented its use extensively, often with
 condemnation, describing how Aztec priests and shamans consumed the

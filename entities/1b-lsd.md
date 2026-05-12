@@ -15,7 +15,7 @@ sources:
   - Brandt, S.D. et al. (2019). "The newer wave of lysergamide-based shulgin-designer-drugs-analysis." Drug soil-testing-and-analysis, 11(9), 1265-1276.
   - Grigoryev, A. et al. (2021). "[[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] of 1B-LSD and its in vivo metabolism." Forensic Science International, 325, 110927.
   - Halberstadt, A.L. et al. (2020). "Pharmacology of lysergamide hallucinogens." ACS Chemical Neuroscience, 11(10), 1307-1319.
-  - European Monitoring Centre for Drugs and Drug Addiction (2023). "EU Early Warning System: New [[star-fire-and-sacred-substances]]."
+  - European Monitoring Centre for Drugs and Drug Addiction (2023). "EU Early Warning System: New [[cultural-evolution-and-psychoactive-substances]]."
   - https://isomerdesign.com/PiHKAL/view.php?id=11265
 ---
 

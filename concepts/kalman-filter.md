@@ -2,7 +2,8 @@
 title: Kalman Filter
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/jarrold-mushroom-cultivation-techniques.md"
 tags: []
 type: concept
 ---

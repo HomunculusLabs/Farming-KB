@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-Jen-Hu Chang was a geographer and agricultural climatologist whose seminal work *Climate and Agriculture: An Ecological Survey* (Aldine Publishing, 1968) became one of the most frequently cited references in Mollison's *Permaculture: A Designer's Manual*. Chang's quantitative approach to the relationship between climate factors and agricultural productivity provides much of the scientific data underpinning Mollison's recommendations for windbreak design, photosynthetic efficiency analysis, and latitude effects on crop production.
+Jen-Hu Chang was a geographer and agricultural climatologist whose seminal work *Climate and Agriculture: An Ecological Survey* (Aldine Publishing, 1968) became one of the most frequently cited references in Mollison's *Permaculture: A Designer's Manual*. Chang's quantitative approach to the relationship between climate factors and agricultural productivity provides much of the scientific data underpinning Mollison's recommendations for windbreak design, [[photosynthetic-efficiency]] analysis, and latitude effects on crop production.
 
 ## Classification
 
@@ -40,7 +40,7 @@ Chang's quantitative climate data appears throughout Mollison's Chapter 5 (Perma
 
 ## Relevance to Cultivation and Mycology
 
-- **Mushroom growing structures**: Chang's data on wind speed effects on evapotranspiration applies to designing mushroom fruiting chambers where humidity control is critical. Windbreaks around outdoor mushroom yards can reduce misting requirements by 30-50% by reducing the drying effect of wind on substrates and fruiting bodies.
+- **Mushroom growing structures**: Chang's data on wind speed effects on evapotranspiration applies to designing [[mushroom-fruiting-chambers]] where humidity control is critical. Windbreaks around outdoor mushroom yards can reduce misting requirements by 30-50% by reducing the drying effect of wind on substrates and fruiting bodies.
 - **Photosynthetic efficiency and CO2**: Chang's work on CO2 limitation at high light intensity supports the practice of coupling mushroom cultivation (which produces CO2 as a metabolic byproduct) with greenhouse crop production (which consumes CO2) in integrated systems that benefit both production streams.
 - **Site selection**: Understanding wind exposure effects on temperature and moisture helps identify optimal locations for mushroom log yards and outdoor cultivation beds, particularly the interaction between wind, slope, and aspect in creating favourable microclimates.
 - **Climate data interpretation**: Chang's methodology for analysing climate factors provides a model for cultivators assessing new sites, evaluating radiation, wind, temperature, and moisture as interacting rather than independent variables that must be considered holistically.

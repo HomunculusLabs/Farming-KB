@@ -6,7 +6,7 @@ type: concept
 
 # Permaculture Water Design Checklist
 
-The water design checklist is a comprehensive framework for assessing, planning, and implementing water management strategies on any property. It integrates water sourcing, storage, distribution, quality management, and landscape-scale considerations into a systematic approach that maximizes efficiency while minimizing waste and environmental damage.
+The water design checklist is a comprehensive framework for assessing, planning, and implementing [[water-management]] strategies on any property. It integrates water sourcing, storage, distribution, quality management, and landscape-scale considerations into a systematic approach that maximizes efficiency while minimizing waste and environmental damage.
 
 ## Property-Level Water Assessment
 
@@ -28,12 +28,12 @@ Reserve appropriate sites for:
 Wherever possible, use **slope benefits** (or raise tanks) to achieve gravity flow to all use points. This eliminates energy inputs for pumping and creates passive, reliable distribution.
 
 ### Plant Lists for Unirrigated Growth
-Detail plant lists that will grow as mature plants or trees without irrigation. This reduces long-term water demand and creates resilient landscapes.
+Detail plant lists that will grow as mature [[permaculture-plants-aquatic-systems-water-plants|plants]] or trees without irrigation. This reduces long-term water demand and creates resilient landscapes.
 
 ## Landscape-Scale Water Planning
 
 ### Dam Site Selection
-Soil samples revealing **40% or more clay content** indicate sites suited to earth-dam construction. Such sites should be reserved for future water storages even if not immediately needed.
+Soil samples revealing **40% or more clay content** indicate sites suited to earth-dam [[water-design-checklist-and-dam-construction|construction]]. Such sites should be reserved for future water storages even if not immediately needed.
 
 ### Keyline Systems
 A sequence of **primary valleys** may enable a Keyline system to be established for:
@@ -69,7 +69,7 @@ Define water "pathways" in use so that water consumption is economical within ho
 Greywater should be directed to productive use through:
 
 - **Filtration beds** — simple gravel or sand filters before garden use
-- **Forests** — fruit trees and timber species benefit from greywater irrigation
+- **Forests** — [[query-what-are-the-different-fruit-tree-training-systems-and-which-should-i-use|fruit]] trees and timber species benefit from greywater irrigation
 - **Common effluent schemes** — for villages, design on-site cleanup through maximum-use systems
 
 ### Village-Scale Maximum-Use Design
@@ -148,51 +148,3 @@ The key factors in soil formation are:
 Water plays a central role in rock breakdown:
 
 - Combines with felspars in rock to swell and fracture the rock
-- Hydrates felspars to **kaolin, clay, and potassium carbonate**
-- Carbonates released create carbonic acid stronger than rainwater alone
-- Atmospheric oxygen dissolves in rain to oxidize iron minerals (pyrites) forming haematite and sulphuric acid
-- Water as ice expands to physically break rocks
-- Glaciers grind rocks to flour
-
-### Soil Formation vs. Erosion Rates
-- **Soil builds** at approximately **2–4 tonnes per hectare per year** as uncompacted topsoil
-- **Soil is removed** at **40–500 tonnes per year** in cropping and tillage
-- Worst cases can remove **2000 years of soil in a single erosion season**
-
-### Sites of Soil Conservation
-The only places where soils are conserved or increased are:
-
-- **Uncut forests** — continuous organic input, root systems stabilize soil
-- **Lakes and ponds** — quiet water allows sediment accumulation
-- **Prairies and meadows** — permanent plant cover prevents erosion
-- **Mulched or no-till systems** — minimal soil disturbance
-
-### Philosophical Divide: Science vs. Practice
-
-Soil science has historically concentrated on **classification** (what is there) rather than on **how to evolve soil**. Often, the practical innovation comes from gardeners and farmers who create good soil through:
-
-- Water control
-- Modest aeration
-- Plant and animal management
-
-Scientists excel at **explaining why things work** and making skills teachable, but are often less effective at initiating field work or training people already working the land. The most effective knowledge transfer happens through:
-
-- **Farmers' field days** — advance knowledge more effectively than scientific papers
-- **Local educational sessions** — more effective than either field days or papers
-- **Coalition between scientists and farmers** — slowly developing through joint concern
-
-### Value Frameworks for Soil
-
-Four broad value frameworks guide soil management decisions:
-
-1. **Health** — both human and plant; conservative approach to biocides and artificial fertilizers
-2. **Yield** — considering total system costs, sustainability, nutrition, and long-term effects
-3. **Life in soil** — soil organisms profoundly affect pH, mineral availability, structure, and erosion
-4. **Ethics** — only 4% of Earth is needed for food production; the larger task is restoration of degraded lands
-
-## Key References
-
-- Chorley, R. J. (ed.), *Water, Earth, and Man*, Methuen and Co., London, 1969
-- Nelson, Kenneth D., *Design and Construction of Small Earth Dams*, Inkata Press, Melbourne, 1985
-- Seidl, Kathe, et al, *Contributions to the Revitalization of Waters*, Max Planck Institute, Krefeld-Hulserberg, West Germany, 1976
-- Yeomans, P. A., *Water for Every Farm*, Second Back Row Press, Leura, NSW, 1981

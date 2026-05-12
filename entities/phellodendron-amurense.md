@@ -88,3 +88,7 @@ isolated compounds, consistent with the polypharmacological approach of TCM.
 
 In TCM, Phellodendri Cortex is classified as bitter, cold, and entering the
 kidney and bladder meridians. Primary indications include damp-heat in the
+
+## See Also
+
+- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]

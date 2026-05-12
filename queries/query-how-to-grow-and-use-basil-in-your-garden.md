@@ -36,7 +36,7 @@ Pinch back the growing tips when the plants are 6-8 inches tall to encourage bus
 
 Basil serves as an excellent companion plant in the vegetable garden and helps repel certain pests while attracting beneficial insects. Plant basil near [[tomato-pepper-eggplant-growing-guide]]s to help repel tomato hornworms and whiteflies. Basil also attracts pollinators and predatory insects that help control garden pests.
 
-The strong scent of basil can help confuse pests and mask the aroma of other plants, making it a valuable addition to companion planting schemes. Plant basil alongside [[pepper-growing-guide]]s, [[eggplant]]s, and other warm-season vegetables for mutual benefits.
+The strong scent of basil can help confuse pests and mask the aroma of other plants, making it a valuable addition to companion planting schemes. Plant basil alongside [[pepper-growing-guide]]s, [[companion-planting-reference]]s, and other warm-season vegetables for mutual benefits.
 
 ### Harvesting Techniques
 

@@ -87,3 +87,7 @@ and cannot tolerate waterlogged conditions.
 The primary host plants are Nitraria tangutorum and N. sibirica (desert
 buckthorn), both halophytic shrubs adapted to saline, arid soils. C.
 songaricum may also parasitize Tamarix and other desert shrubs.
+
+## See Also
+
+- [[guzman-central-america-neurotropic-fungi-species-distribution]]

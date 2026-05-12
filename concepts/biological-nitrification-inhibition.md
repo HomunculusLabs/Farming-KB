@@ -110,7 +110,7 @@ to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
 
 ## See Also
-- [[compost-tea-and-biological-extracts]]
+- [[compost]]
 - [[soil-foodweb-biological-balancing-protocol-ingham]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]

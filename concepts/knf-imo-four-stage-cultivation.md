@@ -5,7 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [knf, natural-farming]
 sources:
-  - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
+ - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
 # IMO Four-Stage Cultivation System
@@ -13,7 +13,7 @@ sources:
 **Source:** [[knf-indigenous-microorganism-culture]]
 - [[knf-carrot-enzyme-soil-preparation]]
 - [[natural-farming-knf-overview]]
-- [[indigenous-spirituality-and-freedom]]
+- 
 ## Background and Context
 
 IMO Four-Stage Cultivation System is an important subject that has garnered significant attention

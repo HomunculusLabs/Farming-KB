@@ -111,7 +111,7 @@ When applying these concepts, several factors warrant attention: environmental c
 - [[edaphic-factors-microbial-community-structure]]
 - [[soil-edaphic-factors-microbial-communities]]
 - [[cannabis-rhizosphere-community-structure-edaphic-factors]]
-- [[crimson-clover]]
+- 
 - [[edaphic-determinants-cannabis-microbiome-community-structure]]
 
 ## See Also

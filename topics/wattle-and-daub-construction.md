@@ -87,7 +87,7 @@ The daub is the earthen mixture packed into and over the wattle. A good daub has
 - **Crushed brick or tile (pozzolanic)**: Adds hydraulic properties; improves water resistance. Common in Roman and [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] daub.
 - **Lime**: Added to improve weather resistance. A 1:3 lime-to-clay ratio creates a more durable, breathable panel.
 - **Casein (milk protein)**: Acts as a natural waterproofing agent when mixed into the daub or used as a surface treatment.
-- **Cattail fluff or bulrush fiber**: Used by [[native-american-planting-methods-and-indigenous-agriculture]] and Pacific Island builders for lightweight insulation.
+- **Cattail fluff or bulrush fiber**: Used by [[indigenous-song-and-pattern-navigation|indigenous-spirituality-and-freedom]] and Pacific Island builders for lightweight insulation.
 
 ## Construction Process
 

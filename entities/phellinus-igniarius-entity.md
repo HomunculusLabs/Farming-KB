@@ -88,3 +88,11 @@ delicate than [[inonotus-hispidus-entity]].
   component — the primary immunomodulatory constituent. Demonstrates potent
   macrophage activation and antitumor activity.
 - **Hispidin and hispolon:** Phenolic compounds with antioxidant,
+
+## See Also
+
+- [[phellinus-ferreus]]
+- [[phellinus-gilvus]]
+- [[phellinus-linteus-cancer-research]]
+- [[phellinus-linteus-meshima-cancer-research]]
+- [[phellinus-pomaceus]]

@@ -1,0 +1,134 @@
+---
+title: Periodic Table Elements in Permaculture
+source: bill-mollison-permaculture-a-designers-manual.md
+type: concept
+---
+
+# Periodic Table Elements in Permaculture
+
+Elements from the periodic table play critical roles in soil health, plant nutrition, and
+ecological balance. Understanding these elements through a permaculture lens — their
+sources, cycles, interactions, and toxicity thresholds — is fundamental to designing
+productive and resilient systems. The following covers key elements from [[bill-mollison]]'s
+*Permaculture: A Designers' Manual*.
+
+## Hydrogen (H)
+
+Hydrogen is a mobile, highly reactive gas underpinning critical soil and biological
+processes. Its ionic form (H⁺) is the primary determinant of soil pH, balanced against
+the OH⁻ radical. Combined with oxygen it forms water; with carbon it produces methane
+(CH₄) through anaerobic decomposition in compacted or boggy soils.
+
+A sulphurous smell is a reliable indicator of wet-season waterlogging and anaerobic
+conditions, signalling the need for drainage or aeration. Certain plants — algae and
+rushes — transpire hydrogen and can break down halogenated hydrocarbons found in
+pesticides, offering biological remediation of contaminated soils.
+
+**Design notes:** Monitor for sulphurous odours as anaerobic indicators. Use wetland
+plants in filtration and remediation zones. Manage compaction to prevent methane-
+producing anaerobic zones.
+
+## Lithium (Li)
+
+Lithium is the lightest metal and occurs naturally in plant and animal tissues. In
+medicine, it moderates nerve impulse transmission in hyperactive individuals. While not
+a primary plant nutrient, its presence in biological tissues suggests subtle ecological
+roles not yet fully understood within permaculture design.
+
+## Boron (B)
+
+Boron is a trace element essential to brassicas and beets, playing a critical role in
+sugar transport, pollen formation, and cell wall structure. Application rates are
+precise: borax at approximately 160 g/ha on beet and brassica crops. The ideal soil
+concentration is 0.75 ppm; levels above 1.0 ppm become toxic. Dry years increase
+toxicity risk, especially on marine-sediment-derived soils. Boron-containing detergents
+can also contribute to problematic accumulation in soils and waterways.
+
+**Design notes:** Apply boron judiciously — the sufficiency-toxicity margin is narrow.
+Be cautious in dry years and on marine-derived soils. Minimise boron pollution by
+avoiding boron-laden detergents in greywater systems irrigating food crops.
+
+## Carbon (C)
+
+Carbon is the fundamental building block of life, forming hydrocarbons with hydrogen
+and oxygen. In permaculture soils, carbon is added as humus, compost, and mulch. It
+constitutes approximately 58% of organic matter, mostly in colloidal form providing soil
+structure, water retention, and [[cation-exchange-capacity]].
+
+Maintaining 10–20% humus ensures good soil structure. Above 50% humus, heavy metal
+uptake by plants is significantly inhibited — useful in contaminated landscapes. Below
+7% humus, structural improvement may not occur unless calcium is added. Carbon dioxide
+from decomposition and combustion drives the greenhouse effect, making carbon cycling
+both a local and global concern.
+
+**Design notes:** Target 10–20% humus for optimal structure and nutrient cycling. Use
+high-humus soils (>50%) as barriers to heavy metal uptake. Add calcium alongside carbon
+when humus is below 7%. Design for carbon sequestration through perennial plantings and
+minimal tillage.
+
+## Nitrogen (N)
+
+Nitrogen constitutes 80% of the atmosphere and is a major plant nutrient, forming part
+of all amino acids, chlorophyll, and enzymes. Plants absorb it as nitrates or ammonium.
+Biological fixation occurs through legumes and select non-legumes (alder, *Casuarina*)
+via root-associated bacteria, provided molybdenum is available.
+
+Nitrate accumulation poses serious health risks: levels above 80 ppm are lethal to
+young animals, and mouth and sewage bacteria convert nitrates to cancer-associated
+nitrites. Compost-grown spinach contains ~500 ppm nitrates versus 2,000–3,000 ppm for
+chemically fertilised spinach — a compelling argument for organic methods. The EEC
+drinking water standard is 50 mg/L.
+
+**Design notes:** Integrate nitrogen-fixing plants, ensuring molybdenum availability.
+Compost fertility produces dramatically lower nitrate levels than chemical fertilisers.
+Protect water sources from nitrate leaching with deep-rooted perennials and careful
+grazing management.
+
+## Oxygen (O)
+
+Oxygen is essential for respiration in all soil organisms and plant roots. Soils require
+12–30% air-filled pore space to sustain aerobic life. Aeration is improved through
+calcium, tree roots, worm activity, soil ripping, and humus. Waterlogging displaces air,
+creating harmful anaerobic conditions.
+
+Deep loose soils are particularly important for walnuts, oranges, chestnuts, and
+potatoes. Large soil pores — critical for root penetration, water infiltration, and gas
+exchange — are achieved only through soil life and perennial crop root systems.
+
+**Design notes:** Maintain 12–30% air-filled pore space via biological and mechanical
+aeration. Use deep-rooted perennials and earthworms as primary aeration tools. Design
+drainage to prevent waterlogging. Avoid compaction from vehicles and livestock.
+
+## Fluorine (F)
+
+Fluorine is beneficial in small amounts — seaweed fertilisers provide trace quantities —
+but a serious poison at elevated levels. Normal growth needs ~1 mg/day, obtainable
+from tea leaves and some foods. Excess fluorine causes bone and spine calcification,
+ligament stiffening, and "case-hardened" teeth that rot from inside. Contamination
+sources include bore water and metal-processing pollution. Desert hard waters can reach
+1–14 ppm fluorine, making them hazardous.
+
+**Design notes:** Use seaweed as a balanced trace element source. Test bore water in
+dryland systems before irrigation. Avoid industrial-polluted water for food production.
+Be cautious with desert hard waters exceeding 1 ppm fluorine.
+
+## Sodium (Na)
+
+Sodium combines with chlorine as salt (NaCl). While low levels are necessary for cell
+health and nervous system function, elevated sodium collapses soil structure, displaces
+calcium, and disperses colloids — causing hardsetting, impermeable soils. Problems arise
+from saline irrigation, potash fertilisers, and dryland flooding. Excess sodium also
+causes circulatory and kidney problems in humans. Notably, cooking salt blocks heavy
+metal uptake onto plant proteins, providing simple mitigation for produce from
+contaminated soils.
+
+**Design notes:** Monitor sodium in irrigation water and soils, especially in drylands.
+Maintain calcium to prevent sodium displacement. Avoid sodium-contributing potash
+fertilisers. Use halophytes for saline-affected areas. Add salt to cooking water to
+reduce heavy metal intake from marginally contaminated produce.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-soil-and-humus-management]]
+- [[mollison-designers-humus-building-and-soil-organic-matter]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]

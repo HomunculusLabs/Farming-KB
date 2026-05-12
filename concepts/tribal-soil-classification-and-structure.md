@@ -6,7 +6,7 @@ type: concept
 
 # Tribal Soil Classification and Structure
 
-Indigenous and traditional societies have developed remarkably sophisticated systems for classifying soils, often far more practical for local agriculture than modern taxonomic approaches. Bill Mollison draws on research from *The Ecologist* 14(4), 1984 to illustrate the depth of tribal soil knowledge, and connects it to the physical science of soil structure.
+Indigenous and traditional societies have developed remarkably sophisticated systems for classifying soils, often far more practical for local agriculture than modern taxonomic approaches. [[bill-mollison]] draws on research from *The Ecologist* 14(4), 1984 to illustrate the depth of tribal soil knowledge, and connects it to the physical science of soil structure.
 
 ## Indigenous Soil Classification Systems
 
@@ -21,7 +21,7 @@ Traditional soil classifiers evaluate a wide range of characteristics that refle
 - **Vegetative indicators** — the plants growing on or near a soil reveal its qualities
 - **Drainage and slope** — topographic position and water movement through the profile
 - **Elevation** — altitude affects temperature, rainfall, and vegetation belts
-- **Animal indicators** — termite mounds, worm activity, and other signs of soil life
+- **Animal indicators** — termite mounds, worm activity, and other signs of [[soil-life]]
 - **Plant indicators** — specific plants signal acidity, drainage conditions, or fertility levels
 - **Catena** — the relationship of soils along a slope sequence, from ridge to valley
 - **"Hot" and "cold" soils** — relative fertility ratings; hot soils are productive, cold soils are poor
@@ -119,3 +119,8 @@ Particles settle by size: sand falls first (within 1–2 minutes), then silt (wi
 - The active soil layer is remarkably thin and must be protected
 - Simple field tests like the jar method can reveal essential soil composition
 - Surface area, not just particle size, determines soil chemical behaviour
+
+## See Also
+- [[mollison-tribal-soil-classifications-and-soil-structure]]
+- [[soil-structure-classification]]
+- [[soil-classification-and-structure]]

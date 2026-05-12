@@ -139,5 +139,5 @@ traditions that shaped the Western world.
 
 - [[amanita-muscaria-herb-of-immortality-soma-discovery]] (source document)
 - [[allegro-religious-lamentation-and-the-bacchic-cult]]
-- [[christian-eucharist-origins]]
+- [[amanita-muscaria-ancient-christian-agape-communion-eucharist]]
 - [[amanita-indo-european-language-family-ancient-world-view]]

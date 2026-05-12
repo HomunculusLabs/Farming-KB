@@ -89,7 +89,6 @@ proteins and analyses compare favorably with those of truffles. They
 possess a rich flavor and mealy texture, yet possess only to a degree
 the deliciousness of the cultivated mushroom or the pervading aroma of
 
-
 ## See Also
 
 - [[termitomyces-clypeatus]]

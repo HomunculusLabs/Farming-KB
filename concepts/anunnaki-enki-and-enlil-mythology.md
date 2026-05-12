@@ -113,9 +113,9 @@ Nevertheless, the pattern the narrative identifies — of knowledge-bringing fig
 ## See Also
 
 - [[powell-shamanic-wisdom-and-ritual-practice]]
-- [[entheogenic-christianity]]
+- [[shamanism-death-and-rebirth]]
 - [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
 - [[patriarchal-religion-and-control-systems]]
 - [[allegro-cross-crucifixion-harmony-yoke-mushroom-symbolism]]
-- [[star-fire-and-sacred-substances]]
+- [[cultural-evolution-and-psychoactive-substances]]
 - [[soma]]

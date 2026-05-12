@@ -32,7 +32,7 @@ The core methodological principle of the E-POD approach was triangulation, the s
 For the [[emcdda-barriers-to-hallucinogenic-mushroom-trend-diffusion]] case study, the following source categories were used:
 
 - **EMCDDA Reporting Forms**: Standardized questionnaires sent to national focal points, designed specifically for detecting, tracking, and understanding emerging trends. Responses were collected from Austria, Belgium, Cyprus, Czech Republic, Greece, Hungary, Lithuania, Poland, Portugal, Slovakia, Slovenia, Sweden, the UK, and Norway between July and October 2005.
-- **Early Warning System (EWS) Reports**: Reports from national early warning systems that track new [[star-fire-and-sacred-substances]] appearing on the market.
+- **Early Warning System (EWS) Reports**: Reports from national early warning systems that track new [[cultural-evolution-and-psychoactive-substances]] appearing on the market.
 - **National Reitox Reports**: Annual reports from the Reitox network of national focal points, providing contextual information about drug situations in each country.
 - **[[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]] Project**: The European School Survey Project on Alcohol and Other Drugs, providing standardized data from school students aged 15 to 16 across EU Member States and candidate countries.
 - **Scientific Literature**: Peer-reviewed journal articles providing pharmacological, epidemiological, and clinical data.

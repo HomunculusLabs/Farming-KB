@@ -88,3 +88,9 @@ The tall flower stems provide vertical structure in meadow plantings. Seed heads
 Thalictrum aquilegifolium is the larval food plant for several moth species. The foliage contains thalicarpine and other alkaloids that deter most mammalian herbivores.
 
 The species forms associations with [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] its native woodland habitats. These fungal partnerships improve [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in the humus-rich soils it prefers.
+
+## See Also
+
+- [[thalictrum-aquilegiifolium]]
+- [[thalictrum-minus]]
+- [[thalictrum-petaloideum]]

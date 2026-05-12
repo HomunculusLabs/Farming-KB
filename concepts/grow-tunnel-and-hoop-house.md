@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [season-extension, construction, gardening, permaculture, sustainability]
-sources: []
+sources:
+  - "raw/papers/coleman-new-organic-grower.md"
 ---
 
 # Grow Tunnel and Hoop House
@@ -147,4 +148,3 @@ Adequate ventilation is critical — high tunnels can overheat rapidly on sunny 
 
 ### Winter
 
-- In mild climates (zone 7+): Grow hardy greens (spinach, kale, mache, claytonia) with row cover inside the tunnel

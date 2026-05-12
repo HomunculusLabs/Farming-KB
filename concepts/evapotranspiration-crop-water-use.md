@@ -4,7 +4,8 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags: [irrigation, crop-water-use, evapotranspiration, water-management]
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
 # Evapotranspiration — Crop Water Use Fundamentals

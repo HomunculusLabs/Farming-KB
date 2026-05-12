@@ -117,7 +117,6 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
-
 ## See Also
 
 - [[fungal-allergies]]
@@ -148,5 +147,3 @@ observation, and a willingness to adapt approaches based on results.
 - [[fungal-spore-discharge-mechanics]]
 - [[fungal-tannin-and-phenolic-decomposition]]
 - [[fungal-trophic-modes-and-nutritional-guilds]]
-- [[fungal-type-specimens]]
-- [[fungal-volatile-organic-compounds-vocs-chemistry-ecology]]

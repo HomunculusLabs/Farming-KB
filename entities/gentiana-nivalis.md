@@ -70,7 +70,7 @@ Phenological studies indicate that Gentiana nivalis is flowering earlier in resp
 
 Gentiana nivalis is occasionally grown in alpine trough gardens and crevice plantings but is challenging to maintain long term. Its annual or biennial [[agaricus-campestris-biology-and-life-cycle]] means plants must set seed to persist in cultivation.
 
-Sowing fresh seed in autumn on the surface of gritty, peat-based compost gives the best results. Natural cold stratification over winter promotes reliable spring germination.
+Sowing fresh seed in autumn on the surface of gritty, peat-based [[compost]] gives the best results. Natural cold stratification over winter promotes reliable spring germination.
 
 Seedlings are tiny and vulnerable to drying out in their first weeks. A thin layer of fine grit helps maintain surface moisture without promoting damping-off fungi.
 

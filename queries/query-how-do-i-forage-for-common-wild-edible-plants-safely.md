@@ -3,7 +3,8 @@ title: "How Do I Forage for Common Wild Edible Plants Safely?"
 tags: [query, foraging, wild-edibles, plant-identification, safety]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/fukuoka-one-straw-revolution.md"
 ---
 
 # How Do I Forage for Common Wild Edible Plants Safely?

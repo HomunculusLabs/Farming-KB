@@ -23,7 +23,7 @@ Alexander Shulgin, working independently with his wife Ann Shulgin, systematical
 
 Their findings were published in the books PIHKAL (Phenethylamines I Have Known and Loved) and TIHKAL (Tryptamines I Have Known and Loved).
 
-The phenethylamines Shulgin discovered and characterized expanded the known pharmacological landscape of [[star-fire-and-sacred-substances]] far beyond the classical hallucinogens (LSD, psilocybin, mescaline).
+The phenethylamines Shulgin discovered and characterized expanded the known pharmacological landscape of [[cultural-evolution-and-psychoactive-substances]] far beyond the classical hallucinogens (LSD, psilocybin, mescaline).
 
 Among the most therapeutically significant of these compounds was MDMA (3,4-methylenedioxymethamphetamine).
 

@@ -31,7 +31,7 @@ Before inoculation, two inoculation points must be prepared on each bag:
 
 1. **Tape placement**: Small pieces of adhesive tape are positioned at two points on the bag wall, below the filter level. Jarrold describes a **loop-back tape design** where the tape is folded back on itself, leaving a non-adhesive tab. This allows the operator to quickly cover the needle puncture site immediately after withdrawing the needle, without fumbling.
 
-2. **Sterilisation of inoculation points**: Each inoculation site is wiped with a [[cotton-wool]] swab soaked in [[isopropyl-alcohol]] (isopropyl alcohol) to surface-sterilise the bag wall before needle insertion.
+2. **Sterilisation of inoculation points**: Each inoculation site is wiped with a [[mushroom-substrates]] swab soaked in [[isopropyl-alcohol]] (isopropyl alcohol) to surface-sterilise the bag wall before needle insertion.
 
 ### Inoculation Procedure
 
@@ -56,7 +56,7 @@ The long needle method is described by Jarrold as **"much easier, quicker & more
 
 ### Contamination Advantage
 
-The primary advantage of this method is that inoculation occurs **through the sterile vermiculite filter medium** rather than directly through the plastic bag wall. The filter itself acts as a contamination barrier. Any residual opening left by the needle pathway is contained within the filter material, which is designed to block contaminant ingress. This significantly reduces the risk of [[bacterial-contamination]] and [[mould-contamination]] compared to direct bag-wall injection.
+The primary advantage of this method is that inoculation occurs **through the sterile vermiculite filter medium** rather than directly through the plastic bag wall. The filter itself acts as a contamination barrier. Any residual opening left by the needle pathway is contained within the filter material, which is designed to block contaminant ingress. This significantly reduces the risk of [[mushroom-substrates]] and [[mushroom-substrates]] compared to direct bag-wall injection.
 
 Furthermore, because the vermiculite filter is already a sterilised barrier, the long needle method eliminates the need for tape preparation on the bag exterior. There is no bag wall puncture to seal, and the filter naturally closes around the needle pathway after withdrawal. This simplifies the process and removes one potential source of operator error.
 
@@ -65,7 +65,7 @@ Furthermore, because the vermiculite filter is already a sterilised barrier, the
 Jarrold provides instructions for fabricating a long needle from readily available materials:
 
 1. The original short needle is carefully removed from the green plastic syringe holder using grips or pliers.
-2. A length of thin [[stainless-steel-tubing]] is obtained from model or craft shops — the type used for model-making or fine mechanical work is suitable.
+2. A length of thin [[mushroom-substrates]] is obtained from model or craft shops — the type used for model-making or fine mechanical work is suitable.
 3. The tubing is fitted into the syringe holder in place of the original needle.
 4. The tip of the tubing can be heated to facilitate easier insertion through the vermiculite filter.
 
@@ -73,7 +73,7 @@ The resulting long needle must be long enough to pass completely through the dep
 
 ## Flame Sterilisation Protocol
 
-Regardless of which inoculation method is used, strict [[flame-sterilisation]] is essential:
+Regardless of which inoculation method is used, strict [[mushroom-substrates]] is essential:
 
 - The needle must be **flamed red-hot every time** before refilling the syringe from the spore jar.
 - The needle must be flamed again before inoculating each individual bag.
@@ -83,7 +83,7 @@ Flaming also serves the practical purpose of heating the needle tip, which aids 
 
 ## Safety Precautions
 
-Jarrold emphasises the importance of preventing the operator's breath from contaminating the work area or the spore solution. A [[breathing-mask]] or a simple handkerchief worn over the nose and mouth should be used during the entire inoculation process. Exhaled breath carries moisture and microorganisms that can settle on exposed inoculation sites or contaminate the spore solution during syringe refilling.
+Jarrold emphasises the importance of preventing the operator's breath from contaminating the work area or the spore solution. A [[mushroom-substrates]] or a simple handkerchief worn over the nose and mouth should be used during the entire inoculation process. Exhaled breath carries moisture and microorganisms that can settle on exposed inoculation sites or contaminate the spore solution during syringe refilling.
 
 Other general [[mushroom-inoculation-aseptic-technique]] precautions should also be observed during inoculation, including working in a draft-free environment, minimising the time that containers are open, and avoiding unnecessary movement near the work area that could stir up dust or airborne particles.
 

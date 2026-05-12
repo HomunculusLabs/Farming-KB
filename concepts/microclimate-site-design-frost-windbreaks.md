@@ -17,7 +17,7 @@ Frost is produced in specific landscape positions:
 - **Frost hollows**: Low-lying depressions, flats, and large clearings where cold air drains and accumulates
 - **Frost-free zones**: Thermal belts on hillsides and beneath tree canopies
 
-Cold air is denser than warm air and drains downhill, pooling in low areas. Understanding this drainage pattern is critical for placing sensitive crops and structures. The thermal belt — the mid-slope position above the cold-air drainage zone — is the ideal location for houses and gardens in frost-prone regions.
+Cold air is denser than warm air and drains downhill, pooling in low areas. Understanding this drainage pattern is critical for placing sensitive crops and structures. The [[thermal-belt]] — the mid-slope position above the cold-air drainage zone — is the ideal location for houses and gardens in frost-prone regions.
 
 ## Tree Flagging as a Wind Indicator
 
@@ -56,13 +56,9 @@ In areas of very severe wind, the primary strategy is survival. Observe what nat
 ### Configuration
 Windbreak configuration should be matched to the design situation. In tropical and subtropical areas, a thin-crowned windbreak integrated into crop plantings can provide both wind protection and shade, while also supplying mulch for vegetable crops. Permeability of around 40% is generally optimal — solid barriers create excessive turbulence on the lee side, while overly open barriers provide insufficient protection.
 
-
-
 ## The Rain Tree of Hierro
 
 The Canary Islands' Hierro island was once home to a legendary giant Til tree (*Ocotea foetens*) whose leaves condensed mountain mists so effectively that water dripped into two large cisterns placed beneath it. This single tree produced sufficient water from sea mists to meet the needs of all the island's inhabitants. The tree was destroyed in a storm in 1612 AD, but the site and remnants of the cisterns have been preserved. This example illustrates the extraordinary capacity of trees to harvest atmospheric moisture through condensation — a principle that can be applied in permaculture design through strategic tree placement in fog-prone or coastal areas.
-
-
 
 ## Hydraulic Engineering Benefits of Woodlands
 
@@ -77,8 +73,11 @@ Trees and forests play a critical role in water management that extends far beyo
 
 A well-timbered landscape, in the words of hydraulic engineer R.A. Ryves, is a favourable landscape from the perspective of water management. The removal of forests is ultimately paid for through drought, water loss, nutrient depletion, and soil salinisation — costs that are rarely charged against the activities that cause deforestation.
 
-
-
 ## The Irreplaceability of Old Forests
 
 The common claim that "for every tree cut down, a tree is planted" is ecologically misleading. Exchanging a 50-gram seedling for a forest giant of 50–100 tonnes is, in Mollison's analogy, like offering a mouse for an elephant. No new reafforestation can replace an old forest in ecological value, diversity, or function. Old-growth forests contain complex mycorrhizal networks, established canopy structures, and soil profiles that took centuries to develop and cannot be replicated by planting seedlings.
+
+## See Also
+- [[holmgren-site-design-as-cellular-design]]
+- [[microclimate-design-for-garden-and-farm]]
+- [[cervantes-microclimate-frost-protection]]

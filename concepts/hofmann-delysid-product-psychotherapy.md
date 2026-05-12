@@ -89,7 +89,6 @@ attempted to induce a mystical-religious experience through the shock
 effects of LSD, which could then serve as a starting point for
 restructuring and curing the patient's personality in accompanying
 
-
 ## See Also
 
 - [[hofmann-lsd-consciousness-and-philosophy]]

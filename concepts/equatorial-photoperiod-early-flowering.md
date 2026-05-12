@@ -109,9 +109,9 @@ these concepts. Climate variability, resource limitations, and knowledge
 gaps can all affect outcomes. Addressing these challenges requires patience,
 observation, and a willingness to adapt approaches based on results.
 
+
 ## See Also
-- [[doc]]
-- [[dom]]
-- [[durban-poison]]
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
-- [[cannabis-photoperiod-flowering-cycle]]
+
+- [[equatorial-house-and-tropical-home-garden]]
+- [[equatorial-house-design-essentials]]
+- [[equatorial-house-design-principles]]

@@ -3,7 +3,8 @@ title: "How to Grow and Use query how to grow and use oca in temperate climates 
 tags: [oca, growing-guide, temperate-climates, root-crops, daylength, tuber-crops, faq, cultivation]
 created: 2026-05-03
 updated: 2026-05-03
-sources: []
+sources:
+  - "raw/papers/solomon-gardening-west.md"
 type: query
 ---
 

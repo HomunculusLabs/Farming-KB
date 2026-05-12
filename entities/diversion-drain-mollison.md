@@ -59,21 +59,44 @@ Even without a stream intake, diversion drains gather water from overland flow i
 - Broad level swales in drylands (as destination)
 - Combined with mini-swatched earth walls for tree site creation
 
-
-
 ## Relevance to Cultivation and Mycology
 
 Diversion drains are the distribution arteries that deliver water from storage to point-of-use in permaculture systems. For mushroom cultivation, they can direct water from keypoint dams or other storages to log soaking areas for shiitake and other wood-loving species, substrate preparation stations, mist irrigation zones for outdoor mushroom beds, and moisture maintenance in mushroom cultivation tunnels or shade houses.
 
 The ability to capture water from minimal rainfall events makes diversion drains essential for dryland mycology where every drop of water must be efficiently captured and directed to productive use.
 
-
-
 ## Source Reference
 
 Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), pages 169–170.
 
+## Practical Applications
 
+Diversion Drain finds application across multiple domains,
+from agricultural systems to ecological restoration projects.
+Practitioners integrate this knowledge into holistic design frameworks,
+optimizing outcomes through systematic observation and adaptive management.
+
+## Ecological Context
+
+Understanding diversion drain within broader ecosystem dynamics reveals
+interconnections with nutrient cycling, energy flow, and species interactions.
+These relationships inform regenerative design strategies that work with
+natural processes rather than against them.
+
+## Design Considerations
+
+When incorporating diversion drain into permaculture or land management plans,
+careful attention to site-specific conditions ensures appropriate integration.
+Climate zone, soil type, water availability, and existing vegetation
+all influence the optimal approach to implementation.
+
+## See Also
+
+- [[cervantes-drain-to-waste-vs-recirculating]]
+- [[diversion-drains-and-spreader-banks]]
+- [[diversion-drains-interceptor-drains-spreader-banks]]
+- [[interceptor-drain-mollison]]
+- [[mollison-designers-diversion-drains-and-interceptor-banks]]
 
 ## See Also
 

@@ -62,7 +62,7 @@ The transition is evaluated across multiple accounting dimensions, revealing the
 - **Bar 4:** Energy produced on-farm, including fuel oils from crops, food calories, and solar energy contributions
 
 ### Environmental Accounting
-- **Bar 5:** Soil loss, including humus loss and mineral nutrient depletion
+- **Bar 5:** Soil loss, including [[humus]] loss and mineral nutrient depletion
 - **Bar 6:** Efficiency of water use and soil water storage
 - **Bar 7:** Pollution produced through poisoning of atmosphere, soils, and water by fuels, biocides, and fertilizers—permaculture reverses this by creating soils, conserving water, and removing pollutants
 

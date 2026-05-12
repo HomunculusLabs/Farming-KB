@@ -41,12 +41,9 @@ For domestic-scale animal waste treatment, **comfrey beds** are highly effective
 - **Compost** — Trenched as "instant compost" under crops such as potatoes
 - **Mulch** — Cut and used as surface mulch in garden beds
 
-
 ## Methane Production Integration
 
 Flowthrough systems for **biogas (methane) production** remove little plant nutrient from faecal matter. The effluent from methane digesters can then be directed to comfrey beds or algae ponds, which deal with residual nutrients while producing useful by-products for compost and stock feed. This cascading use of waste streams maximises energy and nutrient recovery.
-
-
 
 ## Agricultural Reuse of Treated Sewage
 
@@ -57,13 +54,9 @@ The water from sewage lagoons has been used safely for agricultural purposes:
 
 Water saved from reducing urban lawn systems could supply the remaining energy deficit plus food crops for any town.
 
-
-
 ## Salinity Management
 
 As water passes through towns, it may gain 300-400 ppm in salinity — a critical factor in dryland areas. Saline waters cause problems in irrigated systems, but algae and plant production and removal can reduce surplus salinity. **Discharge of sewage to subsoils does not remove nitrogen compounds** from sewage or farm run-off. Productive pond systems growing algae are necessary to reduce nitrates to safe levels before discharge to soils, preventing pollution of wells and bores.
-
-
 
 ## Separation of Solids and Liquids
 
@@ -74,11 +67,14 @@ Separation of sewage into solids and liquids at the domestic level has significa
 - **Compost activation**: Diluted urine aids garden growth and compost activity generally
 - **Chemical recovery**: Separation enables recovery of alcohol and chemicals from urine wastes
 
-
-
 ## Key Principles
 
 - Biological treatment systems based on sealed lagoons recycle water efficiently while creating multiple yields
 - Chemical disposal of wastes to seas and subsoils inevitably creates pollutants in wells, streams, and beaches
 - Small and large water treatment systems can be designed that are both biologically safe and productive
 - Integration of "waste" water with crop residues is more efficient and non-polluting than combustion of solid wastes alone
+
+## See Also
+- [[graywater-wetland-marsh-filtration-systems]]
+- [[fungal-silage-wastewater-treatment]]
+- [[fungal-industrial-wastewater-treatment]]

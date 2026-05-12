@@ -41,7 +41,7 @@ While not directly related to mycology, lagochiline is relevant to the broader c
 - Illustrates the chemical diversity of plant-derived psychoactive compounds
 - Represents the terpenoid class of potential intoxicants (most are alkaloids)
 - Demonstrates gaps in phytochemical research on traditionally used plants
-- Relevant to comparative pharmacology of natural [[star-fire-and-sacred-substances]]
+- Relevant to comparative pharmacology of natural [[cultural-evolution-and-psychoactive-substances]]
 
 ## Related Topics
 

@@ -88,3 +88,18 @@ agricultural output.
 Sawdust from hardwood trees and coconut lumber provides a lignin-rich
 substrate that supports prolonged fruiting. Sugarcane bagasse—the fibrous
 residue remaining after juice extraction—is abundantly available in tropical
+
+## See Also
+
+- [[tropical-food-system-development]]
+- [[tropical-gardening]]
+- [[tropical-house-design-and-cooling-strategies]]
+- [[tropical-house-design-cooling-strategies]]
+- [[tropical-mulch-systems]]
+- [[tropical-mulch-systems-and-humus-creation]]
+- [[tropical-shiitake-cultivation-sawdust-substrate-low-cost]]
+- [[tropical-soil-life-and-humus-sources]]
+- [[tropical-soil-management-and-restoration]]
+- [[tropical-soils-and-fertility]]
+- [[tropical-soils-and-fertility-management]]
+- [[tropical-soils-nutrient-management]]

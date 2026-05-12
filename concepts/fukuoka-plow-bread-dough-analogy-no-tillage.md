@@ -60,7 +60,7 @@ compacting forces. Rainfall impacts the bare soil directly, packing
 the surface particles together. The weight of tractors and other
 machinery compresses the soil at depth, creating a plow pan, a
 dense layer just below the plowed zone that restricts root
-penetration and water drainage. As the [[humus-and-soil-organic-matter]] oxidizes
+penetration and water drainage. As the [[humus]] oxidizes
 and the biological soil structure fails to regenerate under the
 disturbed conditions, the soil becomes increasingly susceptible to
 compaction. The farmer responds by plowing again, and the cycle

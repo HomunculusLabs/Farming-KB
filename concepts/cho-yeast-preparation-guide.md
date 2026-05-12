@@ -2,17 +2,17 @@
 title: "Cho's Yeast Preparation and Applications"
 type: concept
 tags:
-  - korean-natural-farming
-  - yeast
-  - fermentation
-  - disease-control
-  - cho-global
+ - korean-natural-farming
+ - yeast
+ - fermentation
+ - disease-control
+ - cho-global
 created: 2026-04-25
 type: concept
 updated: 2026-04-27
 sources:
-  - "raw/papers/chos-global-natural-farming.md"
-  - "raw/papers/master-cho-knf-recipe-book.md"
+ - "raw/papers/chos-global-natural-farming.md"
+ - "raw/papers/master-cho-knf-recipe-book.md"
 ---
 
 # Cho's Yeast Preparation and Applications
@@ -61,7 +61,7 @@ The following protocols ensure successful yeast cultivation:
 
 ### Harvesting
 
-After approximately 7 days, the yeast culture is ready. The liquid is strained and can be used directly as a plant spray (diluted) or added to livestock feed. For longer storage, the yeast can be preserved with [[indigenous-spirituality-and-freedom]]-treated soil.
+After approximately 7 days, the yeast culture is ready. The liquid is strained and can be used directly as a plant spray (diluted) or added to livestock feed. For longer storage, the yeast can be preserved with -treated soil.
 
 - **Recovery agent** — For stressed or diseased plants, increase concentration to 1:200 and apply as both foliar spray and soil drench for 3-5 consecutive days.
 

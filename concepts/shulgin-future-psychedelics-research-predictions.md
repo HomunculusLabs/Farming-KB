@@ -67,7 +67,7 @@ Many of Shulgin's 1975 predictions proved remarkably prescient. The emergence of
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
 - [[weil-cultural-attitudes-toward-altered-states]]
 - [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
-- [[star-fire-and-sacred-substances]]
+- [[cultural-evolution-and-psychoactive-substances]]
 - [[cannabis-drug-interactions-and-contraindications]]
 ## Practical Considerations
 

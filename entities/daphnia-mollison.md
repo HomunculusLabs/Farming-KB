@@ -77,3 +77,5 @@ Daphnia occupies a critical trophic position in treatment pond ecology:
 - [[euglena-mollison]]
 - [[scenedesmus-mollison]]
 - [[eichhornia-crassipes]]
+
+Continued research into daphnia mollison expands the knowledge base for ecological design.

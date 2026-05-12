@@ -48,7 +48,7 @@ The use of boiling water serves a dual purpose: it rapidly hydrates the straw an
 
 ### Role of Marmite and Yeast Extract
 
-Marmite and similar yeast extract products are concentrated sources of [[b-vitamins]] and trace minerals. Jarrold specifies that adding yeast extract to the soak water **quickens spore germination time**, giving inoculated fungi a competitive advantage over slower-colonising contaminants. The B vitamins (particularly thiamine) are essential co-factors for fungal metabolism, and their presence in the substrate can reduce the lag phase before visible colonisation begins.
+Marmite and similar yeast extract products are concentrated sources of [[plant-micronutrient-functions]] and trace minerals. Jarrold specifies that adding yeast extract to the soak water **quickens spore germination time**, giving inoculated fungi a competitive advantage over slower-colonising contaminants. The B vitamins (particularly thiamine) are essential co-factors for fungal metabolism, and their presence in the substrate can reduce the lag phase before visible colonisation begins.
 
 Other yeast extract products, such as Vegemite, nutritional yeast, or brewing yeast extracts, can serve as substitutes for Marmite. The active components are consistent across these products: water-soluble B-complex vitamins, amino acids, and mineral salts derived from the autolysis of *[[saccharomyces-cerevisiae]]* cells. Growers should avoid flavoured or sweetened variants that may introduce unwanted additives.
 

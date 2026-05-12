@@ -3,7 +3,8 @@ title: "How Do I Make Homemade Organic Pest Control Sprays for My Garden?"
 tags: [query, pest-control, organic-gardening, DIY-sprays, IPM]
 date: 2026-05-11
 updated: 2026-05-11
-sources: []
+sources:
+  - "raw/papers/cervantes-marijuana-horticulture-indoor-outdoor.md"
 ---
 
 # How Do I Make Homemade Organic Pest Control Sprays for My Garden?
