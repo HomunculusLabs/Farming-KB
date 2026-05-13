@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**652 pages**
+**662 pages**
 
 ## A
 
@@ -11,6 +11,7 @@
 - [[aact-applications-guide-ingham]]
 - [[aact-bacterial-dominant-tea]]
 - [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]]
+- [[aact-biochar-seawater-charcoal-ingredients-ingham]]
 - [[aact-brew-duration-timing-optimization-ingham]]
 - [[aact-brewer-design-principles-aeration-systems-ingham]]
 - [[aact-brewer-machine-design-testing-standards-ingham]]
@@ -21,6 +22,7 @@
 - [[aact-brix-soil-foodweb-health-indicator-ingham]]
 - [[aact-cn-ratios-brewing-ingredients-microbial-balance-ingham]]
 - [[aact-compost-extract-leachate-tea-distinctions-ingham]]
+- [[aact-compost-feedstock-paper-wood-chips-worm-thermal-ingham]]
 - [[aact-compost-organism-levels]]
 - [[aact-compost-quality-standards-ingham]]
 - [[aact-definitions-and-types-ingham]]
@@ -31,10 +33,14 @@
 - [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]
 - [[aact-foam-management-troubleshooting-ingham]]
 - [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
+- [[aact-ingredients-and-tea-recipes]]
+- [[aact-insect-pest-suppression-grubs-caterpillars-mites-ingham]]
 - [[aact-microbial-chelation-of-minerals-ingham]]
 - [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]
 - [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 - [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]
+- [[aact-npk-game-critique-nutrient-cycling-organic-conversion-ingham]]
+- [[aact-nutrient-available-forms-microbial-chelation-plant-uptake-ingham]]
 - [[aact-pathogen-safety-ingham]]
 - [[aact-ph-water-quality-ingham]]
 - [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
@@ -87,6 +93,8 @@
 - [[calcium-phosphate-bionutrient]]
 - [[capillary-action-in-soils]]
 - [[chelated-nutrients]]
+- [[chelation-and-nutrient-availability]]
+- [[chelation-plant-nutrient-availability]]
 - [[clay-soil-management]]
 - [[clay-soil-management-solomon]]
 - [[clay-soil-management-vegetable-garden-solomon]]
@@ -415,6 +423,8 @@
 - [[microscope-identification-soil-organisms]]
 - [[mineral-nutrients-magnesium-aluminium-silicon-phosphorus]]
 - [[mineral-sources-for-soils]]
+- [[molasses-and-sugars-in-compost-tea-brewing]]
+- [[molasses-sugars-compost-tea-brewing]]
 - [[mulch-gardening-critique]]
 - [[mulch-producing-plants]]
 - [[mulch-systems-and-earth-shaping-tropics]]

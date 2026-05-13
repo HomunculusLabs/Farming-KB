@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2665 pages**
+**2667 pages**
 
 ## #
 
@@ -16,6 +16,7 @@
 - [[aact-fungal-dominant-tea]]
 - [[aact-fungal-foods-chitin-rock-dust-protozoa-nematodes-ingham]]
 - [[aact-glomalin-and-soil-aggregation-ingham]]
+- [[aact-ingredients-bacterial-fungal-teas]]
 - [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
 - [[aact-nematode-protozoa-management-ingham]]
 - [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]]
@@ -191,6 +192,8 @@
 - [[battelle-diesel-mycoremediation-study]]
 - [[beber-mycelial-network-graph-theory-cord-routing]]
 - [[bee-feeding-and-fungal-pesticides]]
+- [[beneficial-fungi-trichoderma-and-mycorrhizae]]
+- [[beneficial-fungi-trichoderma-soil-health]]
 - [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
 - [[beta-glucan-receptor-binding]]
 - [[biblical-manna-and-amanita-muscaria]]
@@ -1936,7 +1939,6 @@
 - [[mycorrhizal-effects-on-plant-community-composition]]
 - [[mycorrhizal-fertilizer-reduction]]
 - [[mycorrhizal-fungal-diversity]]
-- [[mycorrhizal-fungi]]
 - [[mycorrhizal-fungi-and-carbon-cycling]]
 - [[mycorrhizal-fungi-biogeochemistry]]
 - [[mycorrhizal-fungi-biome-surveys]]
