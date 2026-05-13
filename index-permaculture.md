@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1362 pages**
+**1364 pages**
 
 ## A
 
@@ -814,6 +814,7 @@
 - [[palm-polyculture-species-selection]]
 - [[palm-species-in-permaculture]]
 - [[pattern-applications-in-permaculture-design]]
+- [[pattern-language-for-permaculture-design]]
 - [[pattern-recognition-and-geometric-garden-design-permaculture]]
 - [[pattern-recognition-and-time-stacking-in-permaculture]]
 - [[pattern-understanding-in-permaculture]]
@@ -1139,6 +1140,7 @@
 - [[permaculture-site-analysis-mollison]]
 - [[permaculture-site-assessment-checklist]]
 - [[permaculture-site-assessment-report-writing]]
+- [[permaculture-site-design-and-zones]]
 - [[permaculture-site-design-starting-points]]
 - [[permaculture-site-observation-methods]]
 - [[permaculture-site-resource-assessment]]

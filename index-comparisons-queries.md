@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1345 pages**
+**1347 pages**
 
 ## A
 
@@ -226,8 +226,10 @@
 - [[comparison-deep-litter-vs-hot-composting]]
 - [[comparison-dehydration-vs-lacto-fermentation]]
 - [[comparison-desert-gardening-vs-drought-gardening]]
+- [[comparison-diatomaceous-earth-vs-bacillus-thuringiensis]]
 - [[comparison-double-digging-vs-no-till]]
 - [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
+- [[comparison-drip-irrigation-vs-backyard-water-harvesting]]
 - [[comparison-drip-irrigation-vs-passive-irrigation]]
 - [[comparison-drip-irrigation-vs-rainwater-harvesting]]
 - [[comparison-drought-gardening-vs-rainwater-harvesting]]

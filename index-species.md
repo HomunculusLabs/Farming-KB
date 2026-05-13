@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**5307 pages**
+**5321 pages**
 
 ## #
 
@@ -431,6 +431,7 @@
 - [[anadenanthera-peregrina]]
 - [[anagallis-arvensis]]
 - [[anagallis-tenella]]
+- [[analogue-forestry]]
 - [[ananas-comosus]]
 - [[anandamide-aea]]
 - [[anaptychia-ciliaris]]
@@ -1090,6 +1091,7 @@
 - [[casuarina-equisetifolia]]
 - [[catahua-negra]]
 - [[catalpa-speciosa]]
+- [[catchment-design-permaculture]]
 - [[catha-edulis]]
 - [[catharanthus-roseus]]
 - [[cathinone]]
@@ -1915,6 +1917,7 @@
 - [[eme-entity-pihkal]]
 - [[emergy-analysis]]
 - [[emile-clapeyron]]
+- [[emilia-romagna-cooperative-model]]
 - [[emm-entity-pihkal]]
 - [[encalypta-vulgaris]]
 - [[encephalartos-altensteinii]]
@@ -2129,6 +2132,7 @@
 - [[fragaria-vesca]]
 - [[fragaria-virginiana]]
 - [[frank-bethwaite]]
+- [[frank-lloyd-wright]]
 - [[frasera-caroliniensis]]
 - [[fraxinus-americana]]
 - [[fraxinus-ornus]]
@@ -2417,6 +2421,7 @@
 - [[haematococcus-pluvialis]]
 - [[haematomma-ochroleucum]]
 - [[haematoxylum-campechianum]]
+- [[haikai-tane]]
 - [[halenia-elliptica]]
 - [[halesia-carolina]]
 - [[halles-centrales-paris]]
@@ -2521,6 +2526,7 @@
 - [[hot-7-entity]]
 - [[hot-7-entity-pihkal]]
 - [[houttuynia-cordata]]
+- [[howard-odum]]
 - [[howea-forsteriana]]
 - [[huairacaspi]]
 - [[huairamama]]
@@ -2778,6 +2784,7 @@
 - [[kalmia-angustifolia]]
 - [[kalmia-latifolia]]
 - [[kalopanax-septemlobus]]
+- [[kangaroo-island-salinity]]
 - [[kangkong-water-spinach]]
 - [[kaolin]]
 - [[kaolin-clay-mollison]]
@@ -2815,6 +2822,7 @@
 - [[kuehneromyces-mutabilis-entity]]
 - [[kush-mints]]
 - [[kushi-mints]]
+- [[kym-kingdon]]
 
 ## L
 
@@ -2868,6 +2876,8 @@
 - [[lamium-purpureum]]
 - [[lanai-hawaii-mollison]]
 - [[lance-jones-tasmania]]
+- [[land-systems-concept]]
+- [[land-systems-holmgren]]
 - [[langley-radiation-unit]]
 - [[langley-unit]]
 - [[lantana-camara]]
@@ -4393,6 +4403,7 @@
 - [[rumex-patientia]]
 - [[runtz-cannabis]]
 - [[runtz-entity]]
+- [[russell-smith-tree-crops]]
 - [[russula-brevipes]]
 - [[russula-cyanoxantha]]
 - [[russula-delica]]
@@ -4735,6 +4746,7 @@
 - [[stone-mulch-technique-mollison]]
 - [[strain-senescence]]
 - [[stratiotes-aloides]]
+- [[straw-bale-construction]]
 - [[straw-box-potato-culture-mollison]]
 - [[straw-box-potato-mollison]]
 - [[straw-mushroom-cultivation]]
@@ -4879,6 +4891,7 @@
 - [[te-entity-pihkal]]
 - [[teak]]
 - [[tectona-grandis]]
+- [[ted-lefroy]]
 - [[teloschistes-chrysophthalmus]]
 - [[tepary-bean]]
 - [[terence-mckenna]]
@@ -4972,6 +4985,7 @@
 - [[tilia-americana]]
 - [[tilia-cordata]]
 - [[tilia-europaea]]
+- [[tim-flannery]]
 - [[timothy-leary]]
 - [[tinospora-cordifolia]]
 - [[tipuana-tipu]]

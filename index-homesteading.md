@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**259 pages**
+**258 pages**
 
 ## A
 
@@ -286,7 +286,6 @@
 - [[stamets-slant-culture-strain-preservation]]
 - [[stock-management-and-personal-survival-in-wildfire]]
 - [[stone-cellar-building]]
-- [[straw-bale-construction]]
 - [[strawyard-throwover-pen-design]]
 - [[sustainable-living-habits-for-homesteads]]
 
