@@ -17,7 +17,7 @@ created: 2026-05-08
 - McKenna, T. (198 ness. Esalen.
 ## Background and Context
 
-Cognitive Dissonance and the Translinguistic Object in DMT Experience is an important subject that has garnered significant attention
+Cognitive Dissonance and the Translinguistic Object in [[dmt]] Experience is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

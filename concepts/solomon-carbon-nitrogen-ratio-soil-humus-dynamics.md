@@ -8,7 +8,7 @@ tags: [carbon-nitrogen, cn-ratio, humus, soil, compost, decomposition, microbiol
 
 ## Overview
 
-In *Gardening When It Counts*, Steve Solomon provides one of the clearest practical explanations of how the carbon-to-nitrogen (C/N) ratio governs [[cervantes-organic-amendments-chart]]—because the C/N ratio of what you add to soil determines whether you build or destroy soil humus, and whether you feed plants or feed soil microbes.
+In *Gardening When It Counts*, [[steve-solomon]] provides one of the clearest practical explanations of how the carbon-to-nitrogen (C/N) ratio governs [[cervantes-organic-amendments-chart]]—because the C/N ratio of what you add to soil determines whether you build or destroy soil humus, and whether you feed plants or feed soil microbes.
 
 ## The 12:1 Standard
 

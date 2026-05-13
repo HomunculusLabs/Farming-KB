@@ -46,7 +46,7 @@ designed ecosystems and agricultural systems.
 ## Key Characteristics
 
 Several defining characteristics distinguish gunter pauli
-from related concepts in permaculture and ecological design.
+from related concepts in [[permaculture]] and ecological design.
 Understanding these traits supports effective implementation
 and management across diverse environmental conditions.
 
@@ -60,7 +60,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Gunter Pauli finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Wildlife Corridors
 
-Wildlife conservation is integral to permaculture design. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
+Wildlife conservation is integral to [[permaculture-design]]. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
 
 ## Wildlife in the Permaculture Landscape
 
 ### Water Bodies as Wildlife Reserves
 
-Wherever precipitation exceeds the demands of transpiration and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar water conservation systems that simultaneously create wildlife habitat.
+Wherever precipitation exceeds the demands of transpiration and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar [[water-conservation]] systems that simultaneously create wildlife habitat.
 
 ### Boulders as Wildlife Refuges
 

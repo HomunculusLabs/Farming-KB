@@ -11,7 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-design-course.md]
 
 ## Overview
 
-Reading the landscape is the first and most essential skill in permaculture design. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
+[[reading-the-landscape]] is the first and most essential skill in permaculture design. Before any design work begins, the designer must learn to observe and interpret the patterns, processes, and history written on the land. Mapping translates these observations into a usable design base.
 
 ## Reading the Landscape
 

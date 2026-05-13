@@ -14,7 +14,7 @@ Myxomycetes are **NOT true fungi** — they have a protozoan origin (Patterson &
 - [[physarum-polycephalum]]
 ## Practical Applications
 
-Myxomycetes (Slime Molds) — Biology, Taxonomy, and Sampling has a range of practical applications that make it relevant to
+Myxomycetes ([[slime-molds]]) — Biology, Taxonomy, and Sampling has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

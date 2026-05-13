@@ -18,7 +18,7 @@ Sowing seed is the cheapest way to lay a new lawn and allows you to control the 
 
 **Step 2 — Improve soil.** If soil is light or lacks organic matter, apply a 2in (5cm) layer of [[sheet-mulching-lasagna-gardening]]
 - [[gaias-garden-cover-crops-soil-building]]
-- faires-permaculture-soil-and-sheet-mulching
+- faires-permaculture-soil-and-[[sheet-mulching]]
 ## Practical Applications
 
 Organic Lawn Care has a range of practical applications that make it relevant to

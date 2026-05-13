@@ -17,7 +17,7 @@ type: concept
 # Entomopathogenic Fungi as Biocontrol Agents
 
 Entomopathogenic fungi are specialized [[cervantes-biological-pest-control-predators]] control products.
-With over 700 species described across Ascomycota and Basidiomycota,
+With over 700 species described across [[ascomycota]] and Basidiomycota,
 these fungi represent a diverse group of organisms with complex life
 cycles involving both saprophytic and pathogenic phases. Singh's coverage
 of entomopathogenic fungi highlights their significance in [[verticillium-lecanii]]) is effective
@@ -25,7 +25,7 @@ against soft-bodied insects including aphids, whiteflies, and thrips, as
 well as some phytopathogenic fungi, making it a dual-purpose biocontrol
 agent. Isaria fumosorosea (formerly Paecilomyces fumosoroseus) targets
 whiteflies and thrips. Cordyceps (and its teleomorph connections to
-Beauveria and Isaria) includes species with highly specialized host ranges
+[[beauveria]] and Isaria) includes species with highly specialized host ranges
 and complex [[singh-ergot-alkaloid-fungal-secondary-metabolites]]
 ## Practical Applications
 

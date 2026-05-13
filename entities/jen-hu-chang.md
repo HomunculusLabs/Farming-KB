@@ -25,7 +25,7 @@ agriculture and is cited by Mollison as a key principle in desert settlement des
 ## Relevance to Cultivation
 
 Provides the scientific basis for critical [[permaculture]] design decisions in arid
-lands. Without understanding the clothesline effect, designers place ineffective
+lands. Without understanding the [[clothesline-effect]], designers place ineffective
 narrow windbreaks and wonder why crops still suffer excessive water loss. Chang's
 work shows that perimeter defense is far more effective than distributed shelter.
 
@@ -61,7 +61,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Jen Hu Chang finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

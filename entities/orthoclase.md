@@ -35,7 +35,7 @@ Orthoclase is a potassium-rich felspar mineral and a major constituent of granit
 - Large reserves of potash exist in orthoclase as a major constituent of granite
 - Weathering of orthoclase releases potassium slowly to soils over geological time
 - Felspars yield potash or sodium salts when broken down by water and acids
-- Water combines with felspars to swell and fracture rock, then hydrates them to kaolin, clay, and potassium carbonate
+- Water combines with felspars to swell and fracture rock, then hydrates them to [[kaolin]], clay, and potassium carbonate
 - Very slow-release natural potassium source - not immediately available to plants
 - Finely ground rock dust can accelerate potassium release for agricultural use
 - The conversion of felspar to kaolin is a fundamental soil-forming process

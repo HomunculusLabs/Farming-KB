@@ -79,7 +79,7 @@ Curing at 25–30°C with adequate ventilation for 2–4 weeks develops the dry 
 
 Raw onions are approximately 89% water, with significant amounts of vitamin C, vitamin B6, folate, and dietary fiber.
 
-Quercetin, a flavonol concentrated in the outer skin layers, is one of the most abundant polyphenols in the human diet from onion consumption.
+[[quercetin]], a flavonol concentrated in the outer skin layers, is one of the most abundant polyphenols in the human diet from onion consumption.
 
 The characteristic pungency and lachrymatory (tear-inducing) properties are produced by sulfur-containing compounds released when cells are damaged.
 

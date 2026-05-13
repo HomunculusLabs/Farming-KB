@@ -13,7 +13,7 @@ sources:
 HarperCollins, 2006. Lines 8760-9060.
 ## Background and Context
 
-Timothy Leary and the Harvard Psilocybin Project is an important subject that has garnered significant attention
+[[timothy-leary]] and the Harvard [[psilocybin]] Project is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

@@ -83,9 +83,9 @@ distribution should not be confused with natural occurrence.
 
 ## See Also
 
-- neurotropic fungi taxonomic classification — the four groups and species
+- [[neurotropic-fungi-taxonomic-classification]] — the four groups and species
   counts that underpin this distribution data
-- mexican indigenous neurotropic fungi use — ethnobotanical context for
+- [[mexican-indigenous-neurotropic-fungi-use]] — ethnobotanical context for
   Mexico's role as center of diversity
 
 ## Source

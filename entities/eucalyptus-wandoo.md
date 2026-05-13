@@ -59,7 +59,7 @@ Eucalyptus wandoo, commonly known as **wandoo** or **white gum**, is a medium-si
 - Farm plantings should distinguish between short-term shelter and long-term timber goals.
 - Trees grown for posts can be spaced differently from trees grown for habitat.
 - Durable heartwood usually requires age and appropriate growing conditions.
-- The source's repeated page references suggest a broad practical value in permaculture lists.
+- The source's repeated page references suggest a broad practical value in [[permaculture]] lists.
 
 ## Site Selection
 

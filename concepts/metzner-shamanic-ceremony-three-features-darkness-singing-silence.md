@@ -20,7 +20,7 @@ tags:
 ## Three Distinctive Features of the Shamanic Model
 
 In his comparative analysis of psychoactive-assisted healing practices,
-Ralph Metzner identifies three features that reliably distinguish traditional
+[[ralph-metzner]] identifies three features that reliably distinguish traditional
 shamanic [[shamanic-vs-western-psychedelic-healing]]
 psychotherapy session: darkness or low light, the shaman's singing, and the
 near-total silence among participants. These are not incidental cultural

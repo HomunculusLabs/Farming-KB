@@ -10,8 +10,8 @@ type: concept
 
 # Tryptophan Decarboxylase Inhibition and Regulation
 
-Tryptophan decarboxylase (TDC) is the enzyme that catalyzes the
-decarboxylation of L-tryptophan to tryptamine, serving as the
+[[tryptophan-decarboxylase]] (TDC) is the enzyme that catalyzes the
+decarboxylation of L-[[tryptophan]] to tryptamine, serving as the
 critical gateway between primary [[psilocybin-biosynthetic-metabolic-pathway]] in mushrooms. The self-inhibition by tryptamine (62%)
 means that as tryptamine accumulates, its own production slows,
 creating a natural bottleneck that limits total alkaloid yield.

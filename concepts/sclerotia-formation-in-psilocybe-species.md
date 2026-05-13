@@ -67,7 +67,7 @@ closely related lineages.
 
 ## Conditions for Sclerotia Formation
 
-Sclerotia formation in *Psilocybe* species requires specific environmental
+[[sclerotia-formation]] in *Psilocybe* species requires specific environmental
 conditions that differ from those needed for mushroom fruiting. The key
 factors are:
 

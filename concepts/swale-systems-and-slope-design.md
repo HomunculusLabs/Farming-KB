@@ -6,11 +6,11 @@ type: concept
 
 # Swale Systems and Slope Design
 
-Swales and slope-based water management are foundational tools in permaculture design. When placed correctly on contour, swales transform the movement of water across a landscape from an erosive force into a productive, distributing resource. Combined with ponds, biological dam structures, and strategically placed buildings, they form integrated systems that provide fire protection, passive heating, food production, and water security.
+Swales and slope-based [[water-management]] are foundational tools in [[permaculture-design]]. When placed correctly on contour, swales transform the movement of water across a landscape from an erosive force into a productive, distributing resource. Combined with ponds, biological dam structures, and strategically placed buildings, they form integrated systems that provide fire protection, passive heating, food production, and water security.
 
 ## Swale Construction in Urban Areas
 
-Urban swales are broad, shallow trenches dug precisely on contour. They are typically 4 or more feet wide with gently shoaled (sloped) edges that make them safe for children's play areas. The critical design principle is that **no water moves along the trench** — water entering a swale spreads evenly across its length and soaks into the soil. Because the trench is level along its entire run, there is no directional flow; the swale acts as a passive infiltration basin rather than a drainage channel. This makes urban swales unobtrusive, safe, and effective at recharging groundwater even in densely settled areas.
+Urban swales are broad, shallow trenches dug precisely on contour. They are typically 4 or more feet wide with gently shoaled (sloped) edges that make them safe for children's play areas. The critical design principle is that **no water moves along the trench** — water entering a [[swale]] spreads evenly across its length and soaks into the soil. Because the trench is level along its entire run, there is no directional flow; the swale acts as a passive infiltration basin rather than a drainage channel. This makes urban swales unobtrusive, safe, and effective at recharging groundwater even in densely settled areas.
 
 ## Forest Fire Reduction Through Swales
 
@@ -65,7 +65,7 @@ On sloped sites, hot water panels and air collectors can be positioned below the
 
 ## Trellised Tanks for Shade
 
-Water storage tanks can be integrated with trellis structures to provide shade for living areas, livestock, or garden zones. The tanks store water at elevation for gravity-fed distribution, while the trellis supports climbing plants that shade the tanks (reducing evaporation) and create cool, shaded microclimates below.
+[[water-storage-tanks]] can be integrated with trellis structures to provide shade for living areas, livestock, or garden zones. The tanks store water at elevation for gravity-fed distribution, while the trellis supports climbing plants that shade the tanks (reducing evaporation) and create cool, shaded microclimates below.
 
 ## Slope Orchards and Shelf Plantings
 

@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Hickories (*Carya* spp.) and butternut (*Juglans cinerea*) are among the most valuable native nut-producing trees in North America. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as [[drought-tolerant-planting-design]], sandy soils
+Hickories (*Carya* spp.) and butternut (*[[juglans-cinerea]]*) are among the most valuable native nut-producing trees in North America. Long-lived, deeply rooted, and ecologically foundational, they produce nutrient-dense nuts prized for culinary use, provide exceptional timber, and serve as [[drought-tolerant-planting-design]], sandy soils
 - Red hickory (*C. ovalis*) — upland species
 
 **Pecan Hickories (Sinocarya section):**

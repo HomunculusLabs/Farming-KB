@@ -8,13 +8,13 @@ type: concept
 
 ## Overview
 
-Dam wall construction and earth tanks are fundamental water storage techniques in permaculture design. Bill Mollison covers a wide range of approaches, from large valley dams with clay cores to simple excavated earth tanks on flat land, along with their associated irrigation systems and ecological applications. The key principle running through all of these strategies is working with landscape contours and materials rather than against them.
+Dam wall construction and earth tanks are fundamental [[water-storage-techniques]] in [[permaculture-design]]. [[bill-mollison]] covers a wide range of approaches, from large valley dams with clay cores to simple excavated earth tanks on flat land, along with their associated [[irrigation-systems]] and ecological applications. The key principle running through all of these strategies is working with landscape contours and materials rather than against them.
 
 ## Large Dam Wall Construction
 
 ### Clay Core Technique
 
-Large dams — those with walls on the order of 200 feet long and 20 feet wide — follow the same fundamental procedure as small dams, but the stakes are higher and the work more serious. The critical step is **digging a trench down to clay** along the full length of the dam wall foundation. Once the clay substrate is reached, the trench is packed with **selected clay** to form an impermeable core. This clay core is what prevents water from seeping through or under the dam wall. The procedure mirrors small dam construction but demands greater care in material selection, compaction, and attention to detail.
+Large dams — those with walls on the order of 200 feet long and 20 feet wide — follow the same fundamental procedure as small dams, but the stakes are higher and the work more serious. The critical step is **digging a trench down to clay** along the full length of the dam wall foundation. Once the clay substrate is reached, the trench is packed with **selected clay** to form an impermeable core. This clay core is what prevents water from seeping through or under the dam wall. The procedure mirrors small [[dam-construction]] but demands greater care in material selection, compaction, and attention to detail.
 
 ### Keeping Rocks Out
 

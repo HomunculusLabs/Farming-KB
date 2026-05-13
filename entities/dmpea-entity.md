@@ -10,7 +10,7 @@ sources:
 # DMPEA
 
 **Chemical name:** 3,4-Dimethoxyphenethylamine
-**[[phenethylamine-chemistry-basics]] studies. Its complete inactivity despite sharing the 3,4-dimethoxy substitution pattern with active compounds like mda-entity|MDA demonstrates that:
+**[[phenethylamine-chemistry-basics]] studies. Its complete inactivity despite sharing the 3,4-dimethoxy substitution pattern with active compounds like [[mda]]-entity|MDA demonstrates that:
 
 - Two methoxy groups alone are insufficient for psychedelic activity
 - The methylenedioxy bridge of MDA/MDMA contributes more than simple oxygen substitution

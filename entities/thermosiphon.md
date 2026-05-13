@@ -27,7 +27,7 @@ A thermosiphon is a passive heat-transfer mechanism that uses natural convection
 - Understanding enables more effective system design
 
 ## Practical Applications
-- Applied in permaculture design and sustainable agriculture
+- Applied in [[permaculture-design]] and sustainable agriculture
 - Contributes to resource management strategies
 - Used in ecological restoration and conservation
 - Supports decision-making in land-use planning
@@ -58,7 +58,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Thermosiphon finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

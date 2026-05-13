@@ -45,7 +45,7 @@ Carpenter's demonstration suggests that for cool temperate dryland regions (annu
 
 - [Tagasaste (*Chamaecytisus palmensis*)]([[tagasaste-chamaecytisus-palmensis]].md)
 - [Doug Davies](doug-davies.md)
-- [[[bimodal-growth-curve]] of Grasses]([[bimodal-growth-curve]].md)
+- [[bimodal-growth-curve]] of Grasses]([[bimodal-growth-curve]].md)
 
 ## Overview
 Matthew Carpenter represents an important component within sustainable

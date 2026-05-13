@@ -79,4 +79,4 @@ and gas exchange.
 
 ### Prevention Through Humus
 The solution to both crusting and puddling is to increase the amount of decomposed
-organic matter (humus) in the soil. When enough humus is mixed in, particles of
+organic matter ([[humus]]) in the soil. When enough humus is mixed in, particles of

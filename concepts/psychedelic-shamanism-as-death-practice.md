@@ -8,9 +8,9 @@ tags: [psychedelics]
 ---
 # Psychedelic Shamanism as Death Practice
 
-James Arthur's "[[soma-multi-plant-admixture-theory]] — Multi-plant Soma preparations
+[[james-arthur]]'s "[[soma-multi-plant-admixture-theory]] — Multi-plant Soma preparations
 - [[mckenna-psychedelic-shamanism]] — McKenna's perspective on psychedelic shamanism
-- [[rammed-earth]] — Author of "Mushrooms and Mankind"
+- [[rammed-earth]] — Author of "[[mushrooms-and-mankind]]"
 ## Background and Context
 
 Psychedelic Shamanism as Death Practice is an important subject that has garnered significant attention

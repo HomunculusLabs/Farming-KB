@@ -20,7 +20,7 @@ The Multidisciplinary for psychedelic studies (MAPS) is a
 nonprofit research and educational organization founded in 1986 by Rick
 Doblin, PhD. MAPS has served as the primary institutional vehicle for
 the revival of clinical [[dmt-containing-plants-united-states-halpern]] and
-globally, sponsoring over $150 million in research across MDMA, [[roland-griffiths]] — Key [[psilocybin]] researcher
+globally, sponsoring over $150 million in research across [[mdma]], [[roland-griffiths]] — Key [[psilocybin]] researcher
 - mdma — Primary drug compound researched
 - ptsd — Primary target condition
 ## Practical Applications

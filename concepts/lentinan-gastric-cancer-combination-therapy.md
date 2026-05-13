@@ -9,7 +9,7 @@ sources: []
 
 # Lentinan Gastric Cancer Combination Therapy
 
-Lentinan, the beta-glucan polysaccharide from [[psk-gastric-cancer-clinical-trials]]
+[[lentinan]], the beta-glucan polysaccharide from [[psk-gastric-cancer-clinical-trials]]
 - mushroom-quality-of-life-cancer
 - [[medicinal-mushroom-antioxidant-anti-inflammatory]]
 ## Background and Context

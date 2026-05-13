@@ -23,8 +23,8 @@ tags:
 
 ## Overview
 
-*Lenzites betulina*, commonly known as the gilled decomposition-cycles in four-groups-neurotropic-fungi-global-distribution-guzman-1998 across temperate and
-subtropical regions of fungal-dead-wood-diversity is present. It often grows in overlapping clusters
+*Lenzites betulina*, commonly known as the gilled [[decomposition-cycles]] in four-groups-neurotropic-fungi-global-distribution-guzman-1998 across temperate and
+subtropical regions of [[fungal-dead-wood-diversity]] is present. It often grows in overlapping clusters
 on the same substrate.
 
 ## Bioactive Compounds and Pharmacology

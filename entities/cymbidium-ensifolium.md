@@ -24,7 +24,7 @@ The species produces elegant arching inflorescences bearing 3–9 fragrant flowe
 
 *Cymbidium ensifolium* holds particular importance in traditional Chinese medicine, where the whole plant is used for respiratory and digestive complaints. It is also valued in the Chinese art of penjing (miniature landscape cultivation).
 
-The species is remarkably adaptable, growing as an epiphyte on tree trunks, a lithophyte on rocks, and occasionally as a terrestrial plant in humus-rich soil. This flexibility contributes to its wide distribution.
+The species is remarkably adaptable, growing as an epiphyte on tree trunks, a lithophyte on rocks, and occasionally as a terrestrial plant in [[humus]]-rich soil. This flexibility contributes to its wide distribution.
 
 In Japan, it is known as Shunran (春蘭) and has been cultivated as a ornamental plant since the Edo period. Japanese enthusiasts have developed distinct cultivar lines with specific flower forms.
 

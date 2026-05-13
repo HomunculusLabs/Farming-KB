@@ -9,7 +9,7 @@ sources: []
 
 # Silicon in Plant Nutrition — Beneficial Element
 
-Silicon (Si) is the second most abundant element in Earth's crust, yet its role
+[[silicon]] (Si) is the second most abundant element in Earth's crust, yet its role
 in plant nutrition was long overlooked. Unlike the 17 essential mineral nutrients
 required by all plants, silicon is classified as a **beneficial element**: it is
 not strictly necessary for completing the life cycle of every species, but it
@@ -33,7 +33,7 @@ silicic acid into the xylem for translocation to the shoot.
 ## Uptake and Deposition
 
 Plants absorb silicon exclusively as **monosilicic acid** (H₄SiO₄), the
-un-ionized form predominant at soil pH below 9. Once transported to aerial
+un-ionized form predominant at [[soil-ph]] below 9. Once transported to aerial
 tissues, silicic acid polymerizes and deposits as **amorphous silica
 (SiO₂·nH₂O)**, forming structures called **phytoliths** or "plant opal." These
 deposits localize primarily in cell walls — particularly sclerenchyma, epidermal

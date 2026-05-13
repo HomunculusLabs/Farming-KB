@@ -12,7 +12,7 @@ type: entity
 
 - pH affects the solubility and availability of all key and trace nutrients in soil
 - Metallic oxides (bases) form alkaline solutions with excess hydroxide ions; non-metallic oxides form acidic solutions with excess hydrogen ions
-- pH is not constant but exhibits diurnal and seasonal changes, vertical soil gradients, and mosaic patterns within soil crumb structure and colloid surfaces
+- pH is not constant but exhibits diurnal and seasonal changes, vertical soil gradients, and mosaic patterns within soil [[crumb-structure]] and colloid surfaces
 - Surface mulches tend to be more acidic while deeper layers become more basic due to evaporation, wormcasts, and capillary action
 - Root hairs can create and seek out ideal pH microenvironments if gross imbalances are absent
 - Gardens with adequate humus and calcium (lime) function as buffers, growing plants satisfactorily even when pH fluctuates
@@ -34,7 +34,7 @@ type: entity
 
 ## Relevance to Cultivation and Mycology
 
-In cultivation, maintaining appropriate pH is critical because it directly controls which nutrients are bioavailable. For mushroom cultivation, substrate pH influences mycelial colonization speed, contamination resistance, and fruiting triggers. Many basidiomycete fungi prefer slightly acidic conditions (pH 5.0 to 6.5). Agaricus species prefer compost near pH 7.0, while oyster mushrooms (Pleurotus) tolerate a broader range. Understanding pH mosaic effects in soil helps explain why mycorrhizal associations thrive in undisturbed soils where microsite pH variation supports both fungal and plant partners simultaneously.
+In cultivation, maintaining appropriate pH is critical because it directly controls which nutrients are bioavailable. For [[mushroom-cultivation]], substrate pH influences mycelial colonization speed, contamination resistance, and fruiting triggers. Many basidiomycete fungi prefer slightly acidic conditions (pH 5.0 to 6.5). Agaricus species prefer compost near pH 7.0, while oyster mushrooms (Pleurotus) tolerate a broader range. Understanding pH mosaic effects in soil helps explain why mycorrhizal associations thrive in undisturbed soils where microsite pH variation supports both fungal and plant partners simultaneously.
 
 ## Sources
 

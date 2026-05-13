@@ -26,7 +26,7 @@ Schoenoplectus is a genus of tall rush-like wetland plants (club-rushes) recomme
 
 - Takes up copper, cobalt, nickel, and manganese from contaminated water
 - Exudes mould antibiotics — contributes to reducing pathogen populations in water
-- Used in constructed wetlands and reed bed filtration systems for final-stage water polishing
+- Used in constructed wetlands and [[reed-bed-filtration]] systems for final-stage water polishing
 - Tall, robust growth form provides large surface area for bacterial colonisation
 - Rhizomatous root system creates extensive anaerobic and aerobic micro-zones in the root zone
 - Can be mown and removed periodically for mulch or cellulose, permanently exporting accumulated metals and nutrients
@@ -56,7 +56,7 @@ The antibiotic exudation property is unusual among wetland plants and provides a
 
 - **Constructed wetlands**: Key species in designed wastewater treatment systems for farms, ecovillages, and small communities
 - **Bioremediation**: Effective at cleaning water contaminated with heavy metals from mining, industry, or agriculture
-- **Permaculture design**: Integrates water purification with productive landscape elements
+- **[[permaculture-design]]**: Integrates water purification with productive landscape elements
 - **Harvest cycles**: Regular mowing and removal of biomass permanently exports accumulated metals and nutrients
 - **Multi-function**: Provides habitat for wildlife, aesthetic value, and craft materials (basketry) in addition to water treatment
 

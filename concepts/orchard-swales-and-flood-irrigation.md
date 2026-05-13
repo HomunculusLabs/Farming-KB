@@ -6,7 +6,7 @@ type: concept
 
 # Orchard Swales and Flood Irrigation
 
-Water management on orchard and agricultural land can be achieved through a variety of earthworks, channels, and flood-based techniques. These methods leverage gravity, contour, and seasonal rainfall patterns to move, store, and distribute water with minimal energy input.
+[[water-management]] on orchard and agricultural land can be achieved through a variety of earthworks, channels, and flood-based techniques. These methods leverage gravity, contour, and seasonal rainfall patterns to move, store, and distribute water with minimal energy input.
 
 ## Earth Tanks
 
@@ -34,7 +34,7 @@ This method floods fields in discrete paddocks or strips, soaking the ground tho
 
 ## Reverse Siphon Systems
 
-On hillside orchard sites, a **reverse siphon** pipe carries water from a higher swale or dam down to a lower system. The pipe is buried and runs downhill, then curves back up to the surface at the next swale or planting zone below. Water flows through the pipe by gravity, and the upward exit end is lower than the entry point, so the siphon is self-priming once filled. This eliminates the need for pumps or open channels across steep or erodible slopes.
+On hillside orchard sites, a **reverse siphon** pipe carries water from a higher [[swale]] or dam down to a lower system. The pipe is buried and runs downhill, then curves back up to the surface at the next swale or planting zone below. Water flows through the pipe by gravity, and the upward exit end is lower than the entry point, so the siphon is self-priming once filled. This eliminates the need for pumps or open channels across steep or erodible slopes.
 
 ## Swale-Based Orchard Management
 
@@ -43,7 +43,7 @@ Swales are shallow, broad ditches dug **on contour** to intercept runoff and all
 - **Construction**: Minimum 4 feet wide, dug level along the contour. In **clay soils**, compacted clay sections in the swale bottom hold standing ponds for slow infiltration. In **sandy soils**, the swale is widened to spread water over a larger area for faster absorption.
 - **White clover**: Plant white clover on the swale mound as a nitrogen-fixing ground cover that tolerates foot traffic and mowing.
 - **Grass mowing**: Mow grass from the inter-tree alleys and throw it onto the swale mound, building organic matter and mulch in place.
-- **Regrading soil**: Over time, soil and organic matter migrate downslope from the swale mound toward the tree line. Periodically regrade — shovel the accumulated soil and humus back upslope to the trees, maintaining fertility where the roots need it.
+- **Regrading soil**: Over time, soil and organic matter migrate downslope from the swale mound toward the tree line. Periodically regrade — shovel the accumulated soil and [[humus]] back upslope to the trees, maintaining fertility where the roots need it.
 - **Staggering tree species**: Place **narrow-leaf deciduous trees** (peaches, apricots, almonds) on the **uphill side** of the swale, and **broad-leaf species** (apples, pears, plums) on the **downhill side**. Narrow-leaf trees cast less shade and allow more light penetration to the broad-leaf trees below, while the downhill species benefit from deeper moisture reserves in the soil below the swale.
 
 ## Flat Land Flood Irrigation

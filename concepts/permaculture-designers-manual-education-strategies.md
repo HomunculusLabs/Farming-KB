@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Education and Training Strategies
 
-> Source: Bill Mollison, *Permaculture: A Designers' Manual* (1988), Chapter 14
+> Source: [[bill-mollison]], *Permaculture: A Designers' Manual* (1988), Chapter 14
 
 ## Permaculture Education Philosophy
 

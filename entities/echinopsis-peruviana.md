@@ -41,7 +41,7 @@ Peruvian torch has been used for over 3,000 years in pre-Columbian Andean cultur
 
 The taxonomic history is complex. The species was originally described as *Cereus peruvianus* by Britton and Rose in 1920, later transferred to *Trichocereus*, and most recently to *Echinopsis* following molecular phylogenetic studies.
 
-The synonym *Trichocereus peruvianus* remains widely used in ethnobotanical and horticultural literature.
+The synonym *[[trichocereus-peruvianus]]* remains widely used in ethnobotanical and horticultural literature.
 
 ### Morphology
 
@@ -73,7 +73,7 @@ Wild populations have declined due to overharvesting for the entheogenic trade, 
 
 ## Bioactive Compounds
 
-The primary psychoactive constituent of *E. peruviana* is mescaline, a phenethylamine alkaloid.
+The primary psychoactive constituent of *E. peruviana* is [[mescaline]], a phenethylamine alkaloid.
 
 - **Mescaline:** Reported concentrations range from 0.1% to over 4% dry weight in the outer green tissue, with considerable variation between populations and individual specimens.
 - **3-Methoxytyramine:** A phenolic amine present in trace amounts, possibly contributing to the overall pharmacological profile.

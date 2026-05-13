@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, species, food, asia, agriculture, composting]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Paddy Straw Mushroom (Volvariella volvacea)

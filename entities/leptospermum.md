@@ -24,7 +24,7 @@ tags: [species, genus, myrtaceae, tea-tree, wetland, salt-sensitive, australia, 
 
 Mollison groups *Leptospermum* with other natural valley vegetation genera:
 
-- **Melaleuca** — paperbarks
+- **[[melaleuca]]** — paperbarks
 - **Banksia** — banksias
 
 Together these form the natural tea-tree vegetation of swampy valleys in Australia. All are killed by rising salinity but serve as indicator species for valley health.
@@ -58,7 +58,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 Leptospermum finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

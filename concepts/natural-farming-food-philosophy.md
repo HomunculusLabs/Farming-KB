@@ -10,12 +10,12 @@ sources:
 ---
 # Natural Farming Food Philosophy
 
-Masanobu Fukuoka's food philosophy is inseparable from his [[fukuoka-seed-selection-methods]] -- selecting the right varieties
+[[masanobu-fukuoka]]'s food philosophy is inseparable from his [[fukuoka-seed-selection-methods]] -- selecting the right varieties
 - [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-rice-and-barley-natural-farming]]
 ## Background and Context
 
-Natural Farming Food Philosophy is an important subject that has garnered significant attention
+[[natural-farming]] Food Philosophy is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

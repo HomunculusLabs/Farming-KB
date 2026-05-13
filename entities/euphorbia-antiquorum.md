@@ -37,7 +37,7 @@ Euphorbia antiquorum is a large, succulent, thorny shrub or small tree in the Eu
 Mollison positions E. antiquorum within a spectrum of plant-based fencing solutions for dryland gardens:
 
 - **India:** E. antiquorum planted as dense living hedge rows
-- **Africa:** Euphorbia tirucalli serves the same function
+- **Africa:** [[euphorbia-tirucalli]] serves the same function
 - **Australia:** Lycium ferocissimum used as thorny barrier
 - **Mexico:** Cactus species used for living fences
 - **Caspian region:** Reed fencing woven from wetland grasses

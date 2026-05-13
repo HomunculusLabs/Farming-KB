@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Apart from compost and manure, many organic materials can be dug into soil or used as mulch to help improve drainage or water-holding capacity, depending on the soil type. These materials should be looked upon primarily as soil conditioners; although some contain plant nutrients, they are not present in large enough quantities to replace fertilizers.
+Apart from [[compost]] and manure, many organic materials can be dug into soil or used as mulch to help improve drainage or water-holding capacity, depending on the soil type. These materials should be looked upon primarily as soil conditioners; although some contain plant nutrients, they are not present in large enough quantities to replace fertilizers.
 
 ## Conditioner Types
 

@@ -8,7 +8,7 @@ type: concept
 
 ## Overview
 
-Keypoint irrigation and saddle dams represent the upper tier of permaculture water
+Keypoint irrigation and saddle dams represent the upper tier of [[permaculture]] water
 strategy. Where valley dams collect water at the base of slopes, keypoint systems
 and saddle dams operate at the highest points of a property, turning ridgelines and
 saddles into gravity-fed water distribution hubs. These high storages unlock
@@ -73,7 +73,7 @@ installing fire protection sprinklers fed directly from the high storage, with
 piping running downslope to vulnerable zones. During a fire event, these systems
 operate even if power is lost, because gravity provides all the pressure needed.
 The water from a saddle dam at height can protect homesteads, animal shelters, and
-forest edges from advancing wildfire.
+forest edges from advancing [[wildfire]].
 
 ## Wildlife Enrichment
 
@@ -130,7 +130,7 @@ some form — dams, swales, contour channels, marshes, and irrigated garden surf
 This target provides sufficient storage for year-round supply, adequate wildlife
 habitat, fire protection coverage, and microclimate moderation. Achieving this
 through a combination of high saddle dams, keypoint dams, valley dams, contour
-dams, and swale networks creates a resilient, self-watering landscape that minimizes
+dams, and [[swale]] networks creates a resilient, self-watering landscape that minimizes
 external irrigation dependency and maximizes ecological function.
 
 ## Design Principles Summary

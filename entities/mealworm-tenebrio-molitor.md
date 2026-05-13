@@ -8,7 +8,7 @@ type: entity
 
 ## Description
 
-The mealworm is the larval stage of the mealworm beetle (Tenebrio molitor), a species of darkling beetle in the family Tenebrionidae. Mealworms are one of the most commonly cultivated insect species worldwide, valued as a high-protein food source for poultry, fish, and pets. In [[the-soil-food-web]], breaking down organic matter and concentrating nutrients. This on-farm protein production closes nutrient loops and reduces dependency on external feed inputs, a core permaculture principle. Mealworm frass (waste) is also nutrient-rich and can be composted or applied directly as a soil amendment.
+The mealworm is the larval stage of the mealworm beetle (Tenebrio molitor), a species of darkling beetle in the family Tenebrionidae. Mealworms are one of the most commonly cultivated insect species worldwide, valued as a high-protein food source for poultry, fish, and pets. In [[the-soil-food-web]], breaking down organic matter and concentrating nutrients. This on-farm protein production closes nutrient loops and reduces dependency on external feed inputs, a core [[permaculture]] principle. Mealworm frass (waste) is also nutrient-rich and can be composted or applied directly as a soil amendment.
 
 ## Botanical Description
 
@@ -53,7 +53,7 @@ Propagation methods include seed, division, and vegetative techniques by species
 ## Ecological Relationships
 
 Serves as habitat and food source for beneficial insects, birds, and soil organisms.
-Root associations with mycorrhizal fungi enhance nutrient uptake capabilities.
+Root associations with [[mycorrhizal-fungi]] enhance nutrient uptake capabilities.
 Plays role in local food webs and nutrient cycling within ecosystem processes.
 
 ## Uses and Applications

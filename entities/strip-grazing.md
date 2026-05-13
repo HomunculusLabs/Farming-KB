@@ -75,7 +75,7 @@ Scientific research continues to validate and refine practical implementation me
 ## See Also
 
 - [Mixed Livestock Rotation](mixed-livestock-rotation.md)
-- [[[cut-and-feed-system]]]([[cut-and-feed-system]].md)
+- [[cut-and-feed-system]]([[cut-and-feed-system]].md)
 - [Ley Farming](ley-farming.md)
 
 ## See Also

@@ -7,7 +7,7 @@ tags: [species, plant, weed, pioneer, tasmania, permaculture, asteraceae]
 
 ## Description
 
-Fireweed (*Erechthites* spp., likely *Erechthites hieraciifolia* or related species) is an herbaceous plant in the family Asteraceae, native to Tasmania and broader Australasia. In [[wallaby]] interaction described by Mollison illustrates the principle that resources (in this case, green browse) **increase by modest use** — a key permaculture concept. The browsed fireweed responds by tillering and persisting, while unbrowsed individuals complete their biennial cycle and die. This mirrors how managed grazing can maintain palatable species in a productive vegetative state, while absence of grazing allows succession to proceed.
+Fireweed (*Erechthites* spp., likely *Erechthites hieraciifolia* or related species) is an herbaceous plant in the family Asteraceae, native to Tasmania and broader Australasia. In [[wallaby]] interaction described by Mollison illustrates the principle that resources (in this case, green browse) **increase by modest use** — a key [[permaculture]] concept. The browsed fireweed responds by tillering and persisting, while unbrowsed individuals complete their biennial cycle and die. This mirrors how managed grazing can maintain palatable species in a productive vegetative state, while absence of grazing allows succession to proceed.
 
 ## Relevance to Cultivation
 
@@ -68,7 +68,7 @@ Fireweed (*Erechthites* spp., likely *Erechthites hieraciifolia* or related spec
 - Influenced by landscape-level patterns and processes
 
 ## Practical Applications
-- Applied in permaculture design and sustainable land management
+- Applied in [[permaculture-design]] and sustainable land management
 - Used in conservation and ecological restoration projects
 - Informs decision-making in agricultural and horticultural systems
 - Supports development of regenerative practices

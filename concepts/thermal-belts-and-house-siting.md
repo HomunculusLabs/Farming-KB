@@ -6,7 +6,7 @@ type: concept
 
 # Thermal Belts and House Siting
 
-The thermal belt is one of the most practically important yet widely misunderstood concepts in permaculture design. It describes a specific elevation band on a slope where air temperatures are consistently warmer than both the ridge above and the valley floor below. Understanding thermal belts is essential for intelligent house siting, frost management, and the placement of sensitive elements within a permaculture system.
+The [[thermal-belt]] is one of the most practically important yet widely misunderstood concepts in [[permaculture-design]]. It describes a specific elevation band on a slope where air temperatures are consistently warmer than both the ridge above and the valley floor below. Understanding thermal belts is essential for intelligent house siting, frost management, and the placement of sensitive elements within a [[permaculture]] system.
 
 ## Frost Mechanics: How Cold Air Really Moves
 
@@ -28,7 +28,7 @@ This is one of the reasons why permaculture design places such emphasis on tree 
 
 ## House Siting Principles
 
-The thermal belt is the ideal location for siting a house in a permaculture system. A house placed in the thermal belt receives what Bill Mollison calls a **"racing start"** on thermal efficiency — it requires less energy for heating because it sits in the warmest available air zone on the slope. This is not a marginal advantage; it compounds over years and decades of occupancy.
+The thermal belt is the ideal location for siting a house in a permaculture system. A house placed in the thermal belt receives what [[bill-mollison]] calls a **"racing start"** on thermal efficiency — it requires less energy for heating because it sits in the warmest available air zone on the slope. This is not a marginal advantage; it compounds over years and decades of occupancy.
 
 A thermal belt house site offers several key advantages:
 
@@ -64,7 +64,7 @@ Once the water system is placed at the keypoint, the thermal belt location becom
 
 ## Integration with the Broader Permaculture Design System
 
-The thermal belt concept illustrates several foundational permaculture principles in action:
+The thermal belt concept illustrates several foundational [[permaculture-principles]] in action:
 
 - **Observe before you design**: Understanding frost behavior and thermal patterns requires careful observation of the landscape over time, not assumption or aesthetics.
 - **Each element performs multiple functions**: The forest that creates the thermal belt also produces food, moderates water flow, builds soil, and provides habitat.

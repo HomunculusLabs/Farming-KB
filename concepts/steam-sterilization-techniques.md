@@ -8,9 +8,9 @@ created: 2026-05-09
 # Steam Sterilization Techniques
 
 One of the defining advantages of the [[pressure-cooker-sterilisation-fungal-substrate]] or autoclave. Steam sterilization using ordinary kitchen
-cookware is sufficient because the PF substrate contains no whole grain to
+cookware is sufficient because the [[pf-substrate]] contains no whole grain to
 cook through and the vermiculite keeps the substrate airy, allowing steam
-to penetrate effectively. This accessibility is what made the PF TEK a
+to penetrate effectively. This accessibility is what made the [[pf-tek]] a
 revolutionary method — it brought [[pf-tek-steam-sterilization-science-and-heat-management]] is a three-piece
 vegetable steamer consisting of a pot, a basket insert, and a lid. The
 basket insert elevates the jars above the pot bottom, preventing the high

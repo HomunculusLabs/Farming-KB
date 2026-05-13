@@ -7,7 +7,7 @@ tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication
 # Plant Olfaction — How Plants Detect Chemical Signals
 
 Plants possess a sophisticated ability to detect volatile chemical signals in
-their environment, a capacity that Daniel Chamovitz explores in Chapter 2 of
+their environment, a capacity that [[daniel-chamovitz]] explores in Chapter 2 of
 "What a Plant Knows." Plant olfaction, while fundamentally different from
 animal smell, enables plants to perceive neighboring organisms, respond to
 herbivore attacks, coordinate ripening, and engage in complex ecological

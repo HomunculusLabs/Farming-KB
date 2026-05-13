@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Waste Management
 
-Waste is a central concept in permaculture. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
+Waste is a central concept in [[permaculture]]. Mollison defines the problem clearly: if we produce a "waste" output from any system, we have not yet completed the design. Benefits and wastes must both be returned or recycled to keep any system going. The accumulation of unused benefits predicts collapse at production level.
 
 ## Core Principle: No Waste in Nature
 
@@ -75,7 +75,7 @@ Greywater from kitchens, bathrooms, and laundries can be routed through:
 - Reed bed treatment systems
 - Direct irrigation of fruit trees and ornamental plantings
 
-The reduction of water used in sewage systems is itself a design goal -- dry toilets, composting systems, and greywater reuse all reduce the volume requiring treatment.
+The reduction of water used in sewage systems is itself a design goal -- dry toilets, [[composting-systems]], and greywater reuse all reduce the volume requiring treatment.
 
 ## Industrial Waste
 

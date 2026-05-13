@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-**Darren J. Doherty** is an Australian permaculture designer, regenerative agriculture consultant, and educator widely regarded as the world's foremost practitioner and advocate of **Keyline Design®** in the modern era. Based in Bendigo, Victoria, Australia, Doherty is the founder and director of **Regrarians Ltd.** (formerly RegenAG), an organization dedicated to the large-scale adoption of regenerative agriculture practices. Over a career spanning more than three decades, Doherty has designed and overseen the implementation of Keyline-based water management and [[allan-savory]] — [[mark-shepard]] — restoration agriculture, complementary to Doherty's broadacre approach
+**Darren J. Doherty** is an Australian permaculture designer, [[regenerative-agriculture]] consultant, and educator widely regarded as the world's foremost practitioner and advocate of **[[keyline-design]]®** in the modern era. Based in Bendigo, Victoria, Australia, Doherty is the founder and director of **Regrarians Ltd.** (formerly RegenAG), an organization dedicated to the large-scale adoption of regenerative agriculture practices. Over a career spanning more than three decades, Doherty has designed and overseen the implementation of Keyline-based water management and [[allan-savory]] — [[mark-shepard]] — restoration agriculture, complementary to Doherty's broadacre approach
 - [[sepp-holzer]] — Austrian permaculture farmer with a similar emphasis on water management and landscape-scale design
 ## Practical Applications
 

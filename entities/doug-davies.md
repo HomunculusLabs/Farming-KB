@@ -42,7 +42,7 @@ Davies' spacing recommendations pair with Matthew Carpenter's field-drilling met
 
 - [Tagasaste (*Chamaecytisus palmensis*)]([[tagasaste-chamaecytisus-palmensis]].md)
 - [Matthew Carpenter](matthew-carpenter.md)
-- [[[seed-shaker-tray]]]([[seed-shaker-tray]].md)
+- [[seed-shaker-tray]]([[seed-shaker-tray]].md)
 
 ## Overview
 Doug Davies represents an important component within sustainable

@@ -6,7 +6,7 @@ topics: [organic-fertilizer, slow-release, soil-microbiology, trace-minerals, co
 
 # Chemical vs Organic Fertilizer: Slow Release and Trace Mineral Completeness
 
-Steve Solomon's analysis of fertilizer approaches contrasts the rapid-release
+[[steve-solomon]]'s analysis of fertilizer approaches contrasts the rapid-release
 mechanism of chemical (synthetic) fertilizers with the slow-release dynamics of
 organic fertilizers. This comparison extends beyond nutrient delivery speed to
 encompass trace mineral completeness, soil biology impacts, and long-term soil
@@ -30,7 +30,7 @@ This rapid availability creates several problems:
    and weather stress. Solomon likens this to feeding a child nothing but candy —
    the growth is fast but structurally unsound.
 
-3. **Soil biology starvation**: Chemical fertilizers bypass the soil food web.
+3. **Soil biology starvation**: Chemical fertilizers bypass [[the-soil-food-web]].
    Microorganisms that would normally decompose organic matter and release
    nutrients gradually receive no substrate. Over time, chemical-only fertilization
    depletes soil organic matter and the biological community it supports.

@@ -19,7 +19,7 @@ scale. This page covers the major types used in [[mushroom-cultivation-methods]]
 - Oyster Shelf Cultivation
 ## Practical Applications
 
-Types of Oyster Mushroom Growing Houses has a range of practical applications that make it relevant to
+Types of Oyster [[mushroom-growing-houses]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -59,7 +59,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Types of Oyster Mushroom Growing Houses. These include both technical difficulties and broader systemic
+Types of [[oyster-mushroom]] Growing Houses. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.

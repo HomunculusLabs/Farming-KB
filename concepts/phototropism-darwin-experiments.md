@@ -16,7 +16,7 @@ elegant and influential in the history of botany.
 
 Almost all plants bend toward lateral light. This everyday observation
 — houseplants bowing toward a window, seedlings arching toward the sun
-— is called phototropism. But in the [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs, a contemporary of Darwin's, discovered that blue
+— is called [[phototropism]]. But in the [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs, a contemporary of Darwin's, discovered that blue
 light is the primary colour that induces phototropism. Plants, Sachs
 found, are generally blind to other colours when it comes to bending
 toward light. This was the first hint that plants differentiate between

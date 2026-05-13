@@ -6,7 +6,7 @@ type: concept
 
 # Swales and Urban Water Management
 
-Swales are among the most critical technologies in permaculture for water harvesting, soil hydration, and landscape regeneration. Bill Mollison positions them as foundational infrastructure — especially for winter-wet climates — and extends their application into urban design, forest systems, pond construction, and integrated slope management.
+Swales are among the most critical technologies in [[permaculture]] for water harvesting, soil hydration, and landscape regeneration. [[bill-mollison]] positions them as foundational infrastructure — especially for winter-wet climates — and extends their application into urban design, forest systems, pond construction, and integrated slope management.
 
 ## Swale Design and Construction
 
@@ -23,7 +23,7 @@ Within **3–4 years**, swales can charge 17–20 feet of soil below and downslo
 
 ## Urban Swale Systems: The Davis, CA Case Study
 
-Mollison describes a village project in Davis, California as a model for urban water management through swale integration:
+Mollison describes a village project in Davis, California as a model for urban [[water-management]] through swale integration:
 
 - **No conventional drainage infrastructure**: No gutters, no curbs, no underground pipes
 - **Houses positioned between double rows of swales**, capturing all roof and road runoff
@@ -141,7 +141,7 @@ Whenever possible, Mollison designs for **gravity-fed water movement**. This eli
 
 ## The Maturity/Immaturity Reversal Principle
 
-A deep design principle running through this material: **nature's tendency for maturity to exploit immaturity can be reversed by design**. In natural succession, mature systems draw resources from immature ones. In permaculture design, we intentionally position mature, stable elements (established swale forests, sealed ponds, integrated infrastructure) to support and accelerate the development of younger, less established systems. The Davis swale system exemplifies this: the mature water management infrastructure enables the rapid maturation of the biological systems it supports.
+A deep design principle running through this material: **nature's tendency for maturity to exploit immaturity can be reversed by design**. In natural succession, mature systems draw resources from immature ones. In [[permaculture-design]], we intentionally position mature, stable elements (established swale forests, sealed ponds, integrated infrastructure) to support and accelerate the development of younger, less established systems. The Davis swale system exemplifies this: the mature water management infrastructure enables the rapid maturation of the biological systems it supports.
 
 ## Key Design Principles Summary
 

@@ -90,11 +90,11 @@ The Canadian distribution reveals several clear patterns:
 
 ## See Also
 
-- guzman-allen-gartz-neurotropic-fungi-europe.md
+- guzman-allen-gartz-[[neurotropic-fungi]]-europe.md
 - guzman-allen-gartz-neurotropic-fungi-asia.md
 - guzman-allen-gartz-neurotropic-fungi-australasia.md
 - guzman-allen-gartz-neurotropic-fungi-africa.md
 - guzman-allen-gartz-neurotropic-fungi-central-america-caribbean.md
 - guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution.md
 - guzman-allen-gartz-psilocybe-sections-biogeographic-significance.md
-- neurotropic-fungi-distribution-united-states-regions-guzman-1998.md
+- [[neurotropic-fungi-distribution]]-united-states-regions-guzman-1998.md

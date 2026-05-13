@@ -12,7 +12,7 @@ Frost does not behave like water — it does not flow downhill in a stream. Inst
 
 ## The Thermal Belt
 
-On any hillside, a distinct **thermal belt** exists between two cold zones:
+On any hillside, a distinct **[[thermal-belt]]** exists between two cold zones:
 
 - **Above** the keypoint: frost settles on ridges and upper slopes
 - **Below** in the valley floor: cold air pools and accumulates, creating the coldest zone
@@ -64,7 +64,7 @@ The effects of the Wallace soil conditioner are transformative:
 - **Soil temperature**: Conditioned soil runs approximately **19°F (about 11°C) above surrounding untreated soils** due to greater water mass and biological activity
 - **Frost reduction**: The warmer, moister soil resists frost formation, protecting roots and surface plants
 - **Extended growing season**: The combined warmth and moisture extend productivity at both the spring and autumn ends of the season
-- **Olives bearing in 3 years instead of 17**: In conditioned soil, olive trees reach productive maturity dramatically faster, demonstrating the power of proper soil water management
+- **Olives bearing in 3 years instead of 17**: In conditioned soil, olive trees reach productive maturity dramatically faster, demonstrating the power of proper soil [[water-management]]
 
 ## Daikon Radish as Biological Alternative
 
@@ -106,7 +106,7 @@ This is a classic example of an agricultural input creating a long-term problem 
 ## See Also
 
 - [[keyline-design]]
-- [[type-one-errors]]
-- [[water-harvesting]]
-- [[frost-patterns-and-microclimates]]
-- [[fire-safe-settlement-design]]
+- type one errors
+- water harvesting
+- frost patterns and microclimates
+- fire safe settlement design

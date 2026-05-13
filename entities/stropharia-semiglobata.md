@@ -44,7 +44,7 @@ The stipe is 5–12 cm long and 2–4 mm thick, slender, hollow, and covered wit
 
 Spores are ellipsoid to slightly amygdaliform, thick-walled with a distinct germ pore, measuring 15–20 × 9–12 µm.
 
-Spore print is dark purplish-brown to nearly black.
+[[spore-print]] is dark purplish-brown to nearly black.
 
 This dark spore print color is characteristic of the Strophariaceae and helps distinguish the family from lighter-spored agarics.
 

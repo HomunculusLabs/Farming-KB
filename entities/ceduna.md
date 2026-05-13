@@ -52,7 +52,7 @@ The Ceduna project serves as a pivotal proof case in Mollison's argument:
 
 ## Relevance to Cultivation
 
-Ceduna represents the practical validation of Mollison's desert gardening principles. The site combined every major challenge of dryland cultivation: eroded soils, alkaline pH, non-wetting sand, and saline water. The project's success using only organic materials and careful management provides powerful evidence that the techniques described throughout the desert garden chapter actually work. It also demonstrates the importance of knowledge transfer: the training program produced not just a garden but a cohort of teachers who could replicate the success across the region.
+Ceduna represents the practical validation of Mollison's [[desert-gardening]] principles. The site combined every major challenge of dryland cultivation: eroded soils, alkaline pH, non-wetting sand, and saline water. The project's success using only organic materials and careful management provides powerful evidence that the techniques described throughout the desert garden chapter actually work. It also demonstrates the importance of knowledge transfer: the training program produced not just a garden but a cohort of teachers who could replicate the success across the region.
 
 ## Related Entities
 

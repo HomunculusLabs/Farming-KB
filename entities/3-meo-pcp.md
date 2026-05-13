@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-3-Methoxyphencyclidine (3-MeO-PCP) is a dissociative anesthetic of the
+3-Methoxyphencyclidine (3-MeO-[[pcp]]) is a dissociative anesthetic of the
 arylcyclohexylamine class, structurally related to phencyclidine (PCP) with
 a methoxy substituent at the 3-position of the phenyl ring. First
 synthesized in the 1970s as part of pharmaceutical research into analgesic
@@ -60,7 +60,7 @@ with this element in complex and beneficial ways.
 ## Practical Applications
 
 3 Meo Pcp finds practical application in multiple design contexts.
-Permaculture principles guide integration strategies that maximize
+[[permaculture-principles]] guide integration strategies that maximize
 beneficial interactions while minimizing external inputs.
 Site-specific adaptation ensures relevance to local conditions.
 

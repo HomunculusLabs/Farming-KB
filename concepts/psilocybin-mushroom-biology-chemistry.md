@@ -11,11 +11,11 @@ Updated: 2026-04-18
 
 ## Overview
 
-[[guzman-magic-mushrooms-african-species]]" or simply "shrooms" — contain the psychoactive compounds psilocybin, psilocin, and baeocystin. These indole alkaloids (tryptamines) are structurally similar to serotonin and produce profound alterations in consciousness when consumed. The "Shroom: A [[telluride-mushroom-festival-modern-mycological-culture]]
+[[guzman-magic-mushrooms-african-species]]" or simply "shrooms" — contain the psychoactive compounds [[psilocybin]], psilocin, and baeocystin. These indole alkaloids (tryptamines) are structurally similar to serotonin and produce profound alterations in consciousness when consumed. The "Shroom: A [[telluride-mushroom-festival-modern-mycological-culture]]
 - [[witches-fungi-and-flying-ointments]]
 ## Background and Context
 
-Psilocybin Mushroom Biology and Chemistry is an important subject that has garnered significant attention
+[[psilocybin-mushroom]] Biology and Chemistry is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

@@ -81,7 +81,7 @@ Scientific research continues to validate and refine practical implementation me
 ## See Also
 
 - [J. Savage (Victoria, Australia)]([[j-savage-victoria]].md)
-- [[[mixed-livestock-rotation]]]([[mixed-livestock-rotation]].md)
+- [[mixed-livestock-rotation]]([[mixed-livestock-rotation]].md)
 - [Comfrey (*Symphytum officinale*)](comfrey-symphytum-officinale.md)
 
 ## See Also

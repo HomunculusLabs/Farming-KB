@@ -27,7 +27,7 @@ reductionist framework of Western pharmacology.
 ## The Dadaist and Surrealist Connection
 ## Practical Applications
 
-Kurt Beringer, Mescaline, and the Birth of Psychedelic Psychiatry has a range of practical applications that make it relevant to
+Kurt Beringer, [[mescaline]], and the Birth of Psychedelic Psychiatry has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

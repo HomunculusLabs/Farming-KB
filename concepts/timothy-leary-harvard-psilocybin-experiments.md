@@ -10,7 +10,7 @@ sources:
 
 # Timothy Leary and the Harvard Psilocybin Experiments
 
-Timothy Leary (1920-1996), a Harvard psychology professor, became the most famous — and infamous — advocate of psychedelic drugs in the 1960s, transforming psilocybin from an obscure Mexican [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for the first time. The experience was transformative. "In four hours," he later wrote, "I learned more about my brain, its capacities, its potentials, than I had in the previous twenty-five years of studying psychology."
+[[timothy-leary]] (1920-1996), a Harvard psychology professor, became the most famous — and infamous — advocate of psychedelic drugs in the 1960s, transforming psilocybin from an obscure Mexican [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for the first time. The experience was transformative. "In four hours," he later wrote, "I learned more about my brain, its capacities, its potentials, than I had in the previous twenty-five years of studying psychology."
 
 ## The Harvard Experiments (1960-1963)
 

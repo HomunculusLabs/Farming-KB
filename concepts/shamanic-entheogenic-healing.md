@@ -10,7 +10,7 @@ systems. The plants are understood to have agency and communicative intent.
 ### Set and Setting as Intentional Arrangement
 Shamanic rituals involving hallucinogens are "the intentional arrangement
 of the set and the setting for purposes of healing and divination." This
-anticipates and operationalizes the "set and setting" hypothesis later
+anticipates and operationalizes the "[[set-and-setting]]" hypothesis later
 formalized by Leary, Metzner, and Alpert at Harvard. The ritual provides a
 structured container — physical, social, and spiritual — within which the
 entheogenic experience unfolds with therapeutic intention.

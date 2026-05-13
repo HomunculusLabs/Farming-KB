@@ -40,7 +40,7 @@ Duffy's advocacy for wildlife preservation on rangelands anticipates modern cons
 
 ## See Also
 
-- [[[saiga-antelope]]]([[saiga-antelope]].md)
+- [[saiga-antelope]]([[saiga-antelope]].md)
 - [Wildlife vs. Domestic Livestock](../topics/wildlife-rangeland-mollison.md)
 
 ## Overview

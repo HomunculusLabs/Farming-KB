@@ -9,7 +9,7 @@ tags: [plant, aquatic, food-crop, permaculture, pond-culture]
 
 ## Description
 
-Watercress (Rorippa aquatica, formerly Nasturtium aquaticum or Nasturtium officinale) is a fast-growing aquatic or semi-aquatic perennial plant in the brassica family. It is one of the most nutritious leaf vegetables known, thriving in shallow flowing water and pond margins, making it an ideal crop for permaculture aquaculture systems.
+Watercress (Rorippa aquatica, formerly Nasturtium aquaticum or [[nasturtium-officinale]]) is a fast-growing aquatic or semi-aquatic perennial plant in the brassica family. It is one of the most nutritious leaf vegetables known, thriving in shallow flowing water and pond margins, making it an ideal crop for permaculture aquaculture systems.
 
 ## Classification
 
@@ -30,7 +30,7 @@ Watercress (Rorippa aquatica, formerly Nasturtium aquaticum or Nasturtium offici
 
 ## Relevance to Cultivation and Permaculture
 
-Mollison lists watercress alongside Chinese water chestnut (Eleocharis dulcis), kangkong (Ipomoea aquatica), and taro (Colocasia esculenta) as a key shallow-pond crop:
+Mollison lists watercress alongside Chinese water chestnut ([[eleocharis-dulcis]]), kangkong (Ipomoea aquatica), and taro (Colocasia esculenta) as a key shallow-pond crop:
 
 ### Shallow Pond Integration
 - Grows in water 2-60 cm deep, ideal for the shallow margins of garden ponds

@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-gartz.md
 
 # Panaeolus campanulatus
 
-**Panaeolus campanulatus**, commonly known as the **bell-shaped Panaeolus**, is a mushroom species in the genus Panaeolus that has been investigated for psychoactive properties. The epithet "campanulatus" derives from Latin "campanula" (bell), referring to the distinctive bell-shaped cap. Some authorities place certain collections in the genus Panaeolina or treat them as conspecific with Panaeolus retirugis.
+**Panaeolus campanulatus**, commonly known as the **bell-shaped Panaeolus**, is a mushroom species in the genus Panaeolus that has been investigated for psychoactive properties. The epithet "campanulatus" derives from Latin "campanula" (bell), referring to the distinctive bell-shaped cap. Some authorities place certain collections in the genus Panaeolina or treat them as conspecific with [[panaeolus-retirugis]].
 
 ## Taxonomy
 
@@ -55,7 +55,7 @@ The mottled gill pattern is the single most important field identification featu
 
 | Feature | Description |
 |---|---|
-| Spore print | Black |
+| [[spore-print]] | Black |
 | Spore shape | Ellipsoid to lemon-shaped (citriniform) |
 | Spore size | ~11-17 x 7-10 µm |
 | Spore wall | Smooth; moderately thick with distinct germ pore |

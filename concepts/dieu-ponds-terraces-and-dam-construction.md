@@ -6,7 +6,7 @@ type: concept
 
 # Dieu-Ponds, Terraces, and Dam Construction
 
-Hand-shaped water harvesting and earthworks techniques drawn from Bill Mollison's Permaculture Design Course, covering small-scale catchments, residential terracing, diversion drains, and dam construction from garden walls to valley-scale embankments.
+Hand-shaped water harvesting and earthworks techniques drawn from [[bill-mollison]]'s [[permaculture-design]] Course, covering small-scale catchments, residential terracing, diversion drains, and [[dam-construction]] from garden walls to valley-scale embankments.
 
 ## Dieu-Ponds
 
@@ -33,7 +33,7 @@ Because of the taper geometry, as water level drops the surface area exposed to 
 
 ## Mini-Terraces for Subdivision Clients
 
-Mini-terraces are small-scale earthworks suited to residential subdivision lots where space is limited but water management and food production are still desired. They turn a slope into productive, accessible growing space.
+Mini-terraces are small-scale earthworks suited to residential subdivision lots where space is limited but [[water-management]] and food production are still desired. They turn a slope into productive, accessible growing space.
 
 ### Dimensions
 
@@ -104,7 +104,7 @@ Valley dams of significant size require additional engineering to ensure waterti
 
 1. **Trench down to clay**: Excavate a cutoff trench along the dam's centerline, extending down through all permeable soil and alluvium until reaching **impervious clay or bedrock**.
 2. **Selected clay core**: High-quality clay is packed into this trench and continued upward as a vertical core through the center of the dam wall. This creates an impermeable barrier that prevents seepage under and through the embankment.
-3. **Rammed earth wall**: The bulk of the dam on either side of the clay core is built from compacted earth, shaped with the same slope ratios (2.5:1 front, 3:1 rear).
+3. **[[rammed-earth]] wall**: The bulk of the dam on either side of the clay core is built from compacted earth, shaped with the same slope ratios (2.5:1 front, 3:1 rear).
 4. **Dry rock facing on wave splash zone**: The upstream face at water level is armored with dry-laid rock (riprap) to absorb wave action and prevent erosion of the compacted earth surface.
 
 ### Key Principles for Large Dams

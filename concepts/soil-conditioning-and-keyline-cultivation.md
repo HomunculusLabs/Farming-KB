@@ -6,7 +6,7 @@ type: concept
 
 # Soil Conditioning and Keyline Cultivation
 
-Soil conditioning, when combined with keyline pattern cultivation, is one of the most powerful tools in the permaculture designer's toolkit for water management, soil regeneration, and climate modification at the landscape scale. As described by Bill Mollison, the approach transforms compacted, unproductive land into a self-watering, thermally buffered growing medium capable of supporting dramatically increased biological activity.
+Soil conditioning, when combined with keyline pattern cultivation, is one of the most powerful tools in the permaculture designer's toolkit for [[water-management]], soil regeneration, and climate modification at the landscape scale. As described by Bill Mollison, the approach transforms compacted, unproductive land into a self-watering, thermally buffered growing medium capable of supporting dramatically increased biological activity.
 
 ## The Wallace Soil Conditioner
 
@@ -109,7 +109,7 @@ Where the soil is shallow or contains significant rock content, the shank of the
 
 ## Daikon Radish Alternative
 
-For steep slopes where heavy machinery cannot operate safely, Mollison suggests the **Daikon radish** (*Raphanus sativus* var. *longipinnatus*) as a biological alternative to mechanical soil conditioning.
+For steep slopes where heavy machinery cannot operate safely, Mollison suggests the **Daikon radish** (*Raphanus sativus* var. *longipinnatus*) as a biological alternative to [[mechanical-soil-conditioning]].
 
 Daikon radishes produce extremely long, thick taproots — often 12 to 24 inches or more. When planted densely on a slope, these roots penetrate and open the soil profile in a manner analogous to the mechanical shank. After the radishes mature and die, the roots decompose, leaving behind channels that improve water infiltration and soil aeration.
 

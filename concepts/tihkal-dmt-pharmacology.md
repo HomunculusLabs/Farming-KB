@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 ## Chemical Identity
 
-DMT (N,N-dimethyltryptamine) is also known as: N,N-dimethyltryptamine, 3-[2-(dimethylamino)ethyl]indole, desoxybufotenine, and nigerine. It is a simple tryptamine with two methyl groups on the terminal nitrogen.
+[[dmt]] (N,N-dimethyltryptamine) is also known as: N,N-dimethyltryptamine, 3-[2-(dimethylamino)ethyl]indole, desoxybufotenine, and nigerine. It is a simple tryptamine with two methyl groups on the terminal nitrogen.
 
 ## Dosage and Administration
 

@@ -11,7 +11,7 @@ sources:
 
 **Chemical name:** N-Methyl-1-(1,3-benzodioxol-5-yl)-2-butanamine; 2-Methylamino-1-(3,4-methylenedioxyphenyl)butane
 
-**PiHKAL #128** | mdma|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+**PiHKAL #128** | [[mdma]]|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
 - [[mde-entity]]|MDE — N-ethyl homologue of MDMA
 - 2c-b-entity|2C-B — phenethylamine analogue, more psychedelic
 - [[mdai-entity]]

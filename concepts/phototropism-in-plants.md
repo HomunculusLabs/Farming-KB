@@ -8,7 +8,7 @@ tags: [plant-biology, photobiology, plant-physiology, plant-sensory-biology]
 
 # Phototropism in Plants
 
-Phototropism is the directional growth response of a plant toward (positive
+[[phototropism]] is the directional growth response of a plant toward (positive
 phototropism) or away from (negative phototropism) a light source. It is one
 of the most visible and well-studied plant behaviors, observed whenever a
 houseplant on a windowsill gradually leans toward the glass or seedlings emerge
@@ -52,7 +52,7 @@ signal to the elongation zone below.
 ## The Mechanism: Auxin Redistribution
 
 The signal from tip to bending region was identified as the hormone auxin
-(indole-3-acetic acid, IAA). Under unilateral illumination, auxin redistributes
+([[indole]]-3-acetic acid, IAA). Under unilateral illumination, auxin redistributes
 from the lit side to the shaded side. Because auxin promotes cell elongation,
 shaded cells elongate more, causing the stem to curve toward light.
 

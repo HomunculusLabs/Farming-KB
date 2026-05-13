@@ -12,7 +12,7 @@ Saddle dams are the highest available water storages in the landscape, construct
 ## Classification
 
 - **Category**: Earthworks / Dam type
-- **Domain**: Permaculture, farm water management, landscape design
+- **Domain**: Permaculture, farm [[water-management]], landscape design
 - **Landscape position**: Skyline saddles and hilltop hollows (highest position)
 - **Primary uses**: Wildlife, stock water, high-level storage
 - **Climate applicability**: Humid landscapes primarily
@@ -63,7 +63,7 @@ The moist microclimate created around saddle dams supports diverse plant communi
 
 ## Source Reference
 
-Bill Mollison, *Permaculture: A Designer's Manual*, Chapter 7 (Water), page 158.
+[[bill-mollison]], *Permaculture: A Designer's Manual*, Chapter 7 (Water), page 158.
 
 ## Practical Applications
 

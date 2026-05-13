@@ -11,7 +11,7 @@ sources:
 
 **Updated:** 2026-04-18
 
-Sheet mulching is a no-till technique for creating new garden beds, suppressing weeds, building soil, and converting lawns or compacted ground into fertile growing space. It is one of the most practical and immediately useful techniques in permaculture, requiring no special tools or skills.
+[[sheet-mulching]] is a no-till technique for creating new garden beds, suppressing weeds, building soil, and converting lawns or compacted ground into fertile growing space. It is one of the most practical and immediately useful techniques in permaculture, requiring no special tools or skills.
 
 ## What Is Sheet Mulching?
 

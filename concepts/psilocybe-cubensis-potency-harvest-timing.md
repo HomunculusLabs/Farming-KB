@@ -6,7 +6,7 @@ tags: [psilocybe-cubensis, mushroom-potency, harvest-timing, alkaloid-preservati
 created: 2026-05-08
 ---
 # Psilocybe Cubensis Potency [[cho-brown-rice-vinegar-preparation]], harvested young, and cool-dried
-with desiccant, P. cubensis can achieve a baseline psilocybin content comparable
+with desiccant, P. cubensis can achieve a baseline [[psilocybin]] content comparable
 to P. semilanceata at approximately 1%.
 
 Research by [[penis-envy-cubensis]]
@@ -14,7 +14,7 @@ Research by [[penis-envy-cubensis]]
 - [[spore-printing-and-syringe-preparation]]
 ## Practical Applications
 
-Psilocybe Cubensis Potency Harvest Timing has a range of practical applications that make it relevant to
+[[psilocybe-cubensis]] Potency Harvest Timing has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

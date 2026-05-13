@@ -9,7 +9,7 @@ tags: [phenomenon, fruiting, cultivation-terminology, crop-cycle]
 
 ## Description
 
-A flush (also called a break or wave) is a synchronized burst of mushroom fruiting on a cultivated bed. Flushes represent the natural cyclical pattern of mushroom production, where clusters of mushrooms mature simultaneously, followed by a period of dormancy before the next wave appears. Benjamin Minge Duggar provided one of the earliest detailed descriptions of flush dynamics in cultivated Agaricus campestris, noting that fruiting always begins directly over the spawn inoculum points and progresses outward.
+A flush (also called a break or wave) is a synchronized burst of mushroom fruiting on a cultivated bed. Flushes represent the natural cyclical pattern of mushroom production, where clusters of mushrooms mature simultaneously, followed by a period of dormancy before the next wave appears. Benjamin Minge Duggar provided one of the earliest detailed descriptions of flush dynamics in cultivated [[agaricus-campestris]], noting that fruiting always begins directly over the spawn inoculum points and progresses outward.
 
 ## Classification
 
@@ -20,7 +20,7 @@ A flush (also called a break or wave) is a synchronized burst of mushroom fruiti
 
 ## Key Facts
 
-- The first flush appears approximately 6-8 weeks after spawning under favorable conditions for straw-manure compost.
+- The first flush appears approximately 6-8 weeks after spawning under favorable conditions for straw-manure [[compost]].
 - Mushrooms in the first flush appear almost directly over the spawn inoculation points, distributed as regularly as the spawn pieces were placed.
 - After picking the first flush, there is typically a gap of one week or more before the second flush appears.
 - By the second flush, mushrooms are more evenly distributed across the bed surface rather than clustered around spawn points.

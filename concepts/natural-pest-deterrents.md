@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-control, pesticide, gardening, agriculture, troubleshooting, recipes, vegetables, pest-management]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Natural Pest Deterrents

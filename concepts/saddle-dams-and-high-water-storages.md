@@ -6,7 +6,7 @@ type: concept
 
 # Saddle Dams and High Water Storages
 
-Saddle dams and high water storages are foundational elements of permaculture water management strategy. They represent the principle of capturing and storing water at the highest possible point in the landscape, where it can be distributed by gravity to serve multiple functions throughout the system below.
+Saddle dams and high water storages are foundational elements of [[permaculture]] [[water-management]] strategy. They represent the principle of capturing and storing water at the highest possible point in the landscape, where it can be distributed by gravity to serve multiple functions throughout the system below.
 
 ## What Are Saddle Dams?
 
@@ -20,13 +20,13 @@ Storing water high in the landscape provides multiple compounding benefits:
 
 - **Gravity-fed distribution:** Water flows to all lower zones without energy input.
 - **Hydraulic head for electricity generation:** The elevation difference (head) between the dam and the point of use can drive micro-hydro turbines, producing clean electricity.
-- **Fire protection:** High storages can feed fire protection sprinkler systems. During wildfire events, a dam on the ridge can supply sprinklers that wet building roofs and surrounding vegetation, potentially saving structures.
+- **Fire protection:** High storages can feed fire protection sprinkler systems. During [[wildfire]] events, a dam on the ridge can supply sprinklers that wet building roofs and surrounding vegetation, potentially saving structures.
 - **Emergency reserve:** Even during extended dry periods, high dams retain water that can be gravity-fed to critical uses.
 - **Wildlife habitat:** Elevated dams create edge habitat and drinking water sources for wildlife across ridge and slope ecosystems.
 
 ## Water Quality Cascade
 
-A critical design principle in permaculture water systems is the **water quality cascade**. The cleanest water collected — typically rainfall or clean runoff from forested ridge tops — is stored at the **highest point** in the landscape. As water descends through the system, it may pick up sediments, nutrients, or contaminants from lower-elevation uses.
+A critical design principle in [[permaculture-water-systems]] is the **water quality cascade**. The cleanest water collected — typically rainfall or clean runoff from forested ridge tops — is stored at the **highest point** in the landscape. As water descends through the system, it may pick up sediments, nutrients, or contaminants from lower-elevation uses.
 
 The design sequence follows:
 
@@ -107,9 +107,9 @@ On a grand scale, Mollison advocates for putting **13–15% of the landscape und
 
 ## See Also
 
-- [[water-harvesting]]
+- water harvesting
 - [[keyline-design]]
-- [[earthworks]]
-- [[swales]]
-- [[micro-hydro-electricity]]
-- [[fire-protection-design]]
+- earthworks
+- swales
+- micro hydro electricity
+- fire protection design

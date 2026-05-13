@@ -8,7 +8,7 @@ created: 2026-05-08
 ---
 
 # Spectroscopic Characterization of [[guzman-magic-mushrooms-african-species]]. Since morphological and
-microscopic identification of psilocybin-containing fungi is difficult without
+microscopic identification of [[psilocybin]]-containing fungi is difficult without
 experts, chromatographic methods including TLC, GC, and HPLC are usually
 employed, and these require authentic standard compounds. The detailed
 spectroscopic data reported in this synthesis serves as a definitive reference
@@ -17,7 +17,7 @@ for analytical laboratories.
 ## Psilocin Spectroscopic Data
 
 ### Physical Properties
-Psilocin is obtained as white crystals with a melting point of 169-174
+[[psilocin]] is obtained as white crystals with a melting point of 169-174
 degrees (decomposing), consistent with the literature value of 173-176
 degrees (dec). The [[serotonin]], which has a
 different UV profile.

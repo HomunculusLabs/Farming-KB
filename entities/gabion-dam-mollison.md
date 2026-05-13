@@ -7,7 +7,7 @@ tags: [permaculture, water-storage, earthworks, drylands, erosion-control, silt-
 
 ## Description
 
-Gabion dams are permeable barriers constructed from rock-filled wire mesh baskets (gabions) placed across eroding valleys in dryland regions. Unlike conventional dams designed to impound water, gabion dams create silt fields and spread water across the landscape. They are primarily erosion control and water-spreading structures rather than water storage structures. In permaculture design, they serve as critical tools for rehabilitating degraded dryland landscapes and re-establishing productive soil moisture regimes.
+Gabion dams are permeable barriers constructed from rock-filled wire mesh baskets (gabions) placed across eroding valleys in dryland regions. Unlike conventional dams designed to impound water, gabion dams create silt fields and spread water across the landscape. They are primarily erosion control and water-spreading structures rather than water storage structures. In [[permaculture-design]], they serve as critical tools for rehabilitating degraded dryland landscapes and re-establishing productive soil moisture regimes.
 
 ## Classification
 
@@ -53,7 +53,7 @@ Gabion dams are permeable barriers constructed from rock-filled wire mesh basket
 
 Gabion dams create moist, silt-rich deposition zones that can support cultivation in otherwise arid landscapes. The accumulated silt and organic matter behind gabion structures creates ideal substrate conditions for moisture-loving fungi. In dryland mycorestoration projects, gabion-sealed valleys provide the sustained soil moisture needed for fungal mycelium to establish and propagate through degraded soils.
 
-The silt fields created by gabion dams progressively build soil depth and organic matter content, transforming eroded gullies into productive growing areas. This has direct application for mycoremediation of eroded landscapes, establishing fungal networks in degraded dryland soils, creating moist microsites for mushroom cultivation in arid regions, and building soil carbon through combined silt capture and biological activity.
+The silt fields created by gabion dams progressively build soil depth and organic matter content, transforming eroded gullies into productive growing areas. This has direct application for mycoremediation of eroded landscapes, establishing fungal networks in degraded dryland soils, creating moist microsites for [[mushroom-cultivation]] in arid regions, and building soil carbon through combined silt capture and biological activity.
 
 ## Source Reference
 

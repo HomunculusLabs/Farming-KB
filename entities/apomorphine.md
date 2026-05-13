@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Apomorphine is a short-acting dopamine receptor agonist derived from morphine through acid-catalyzed rearrangement.
+Apomorphine is a short-acting dopamine receptor agonist derived from [[morphine]] through acid-catalyzed rearrangement.
 
 It was first synthesized in 1869 by Arata and Matsumoto and was subsequently identified as a potent emetic agent in veterinary medicine.
 

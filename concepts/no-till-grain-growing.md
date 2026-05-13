@@ -11,7 +11,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
 Masanobu Fukuoka's no-till (no-work) method of [[hamilton-composting-and-organic-matter-management]] to the field
 3. **No weeding**: Weeds are questioned rather than automatically removed. If the desired plant is not harmed, why pull the weed?

@@ -3,7 +3,7 @@
 ## Overview
 
 The chemical stability of psilocybin and related indole compounds in
-neurotropic fungi is a critical but often overlooked factor that has led to
+[[neurotropic-fungi]] is a critical but often overlooked factor that has led to
 contradictory results in the scientific literature. Understanding the
 degradation pathways of these compounds is essential for accurate chemical
 analysis, reliable ethnobotanical research, and safe consumption practices.
@@ -13,7 +13,7 @@ analysis, reliable ethnobotanical research, and safe consumption practices.
 The age of fungal specimens is one of the most important variables affecting
 the detectability and potency of psychoactive compounds. Repke et al. (1977)
 demonstrated that the presence of baeocystin varies significantly according
-to specimen age. In *Psilocybe baeocystis* and *P. cyanescens*, specimens
+to specimen age. In *[[psilocybe-baeocystis]]* and *P. cyanescens*, specimens
 analyzed 20-60 days after collection showed no trace of indole compounds
 whatsoever.
 

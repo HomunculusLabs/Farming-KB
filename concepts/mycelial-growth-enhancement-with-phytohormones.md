@@ -1,6 +1,6 @@
 ---
 title: Mycelial mycelial growth enhancement with phytohormones with Phytohormones
-category: Mycology
+category: [[mycology]]
 tags: [mycelium, phytohormones, growth-promotion, brassinosteroids, auxins, gibberellins, fungi]
 related: 22s-23s-homobrassinolide
 source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[psilocybe-cubensis-miniculture-on-rye-grain]]*, but other hormone
@@ -25,7 +25,7 @@ than earlier reports with other hormone classes.
 
 Brassinosteroids show the strongest documented [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - **[[brassinosteroids]] — The most active phytohormone class in fungi
-- psilocybe-cubensis-fruiting-optimization — Practical outcomes
+- [[psilocybe-cubensis]]-fruiting-optimization — Practical outcomes
 ## Practical Applications
 
 Mycelial Growth Enhancement with Phytohormones has a range of practical applications that make it relevant to

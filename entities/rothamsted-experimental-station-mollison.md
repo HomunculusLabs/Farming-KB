@@ -23,7 +23,7 @@ Rothamsted Experimental Station (now Rothamsted Research) is the oldest agricult
 - About 1.2 tonnes/ha of organic carbon is returned annually to soil as root and stalk material from grain crops
 - The [[root-exudates]] during growth
 - Up to 30% of plant energy may be lost as sugars or compounds released to soil via roots
-- The analogy offered: soil biota exist on very meagre food supply for such biomass, like an elephant eating a cabbage once a day
+- The analogy offered: [[soil-biota]] exist on very meagre food supply for such biomass, like an elephant eating a cabbage once a day
 
 ### Broader Significance
 
@@ -33,7 +33,7 @@ Rothamsted Experimental Station (now Rothamsted Research) is the oldest agricult
 
 ## Relevance to Cultivation and Mycology
 
-Rothamsted's long-term data provides the scientific foundation for understanding soil fungal biomass persistence. The finding that 50% of soil biomass is fungal, even after 140 years of wheat monoculture, demonstrates the remarkable resilience of soil fungal communities. The concept that ancient humus (1,400 years old) slowly releases nutrients has direct implications for understanding how forest soils support mycorrhizal networks over centuries. For mushroom cultivators, the Rothamsted data underscores that even depleted soils retain significant biological activity, and that substrate biological communities can persist through far more disturbance than typically assumed.
+Rothamsted's long-term data provides the scientific foundation for understanding soil fungal biomass persistence. The finding that 50% of soil biomass is fungal, even after 140 years of wheat monoculture, demonstrates the remarkable resilience of soil fungal communities. The concept that ancient humus (1,400 years old) slowly releases nutrients has direct implications for understanding how forest soils support [[mycorrhizal-networks]] over centuries. For mushroom cultivators, the Rothamsted data underscores that even depleted soils retain significant biological activity, and that substrate biological communities can persist through far more disturbance than typically assumed.
 
 ## Sources
 

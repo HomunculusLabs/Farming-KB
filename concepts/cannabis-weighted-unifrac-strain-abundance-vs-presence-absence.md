@@ -83,7 +83,7 @@ abundances (each genotype selectively enriches or depletes specific
 taxa from the shared pool).
 
 1. **Composition is supply-driven**: The soil seed bank determines which taxa can colonize the root zone.
-2. **Structure is demand-driven**: Root exudates alter competitive dynamics, shifting abundances without eliminating taxa.
+2. **Structure is demand-driven**: [[root-exudates]] alter competitive dynamics, shifting abundances without eliminating taxa.
 3. **Convergence across genotypes**: All strains share enough basic rhizosphere chemistry to attract broadly similar assemblages.
 4. **Divergence in proportions**: Subtle exudate differences create measurable abundance shifts detectable only with weighted methods.
 

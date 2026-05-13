@@ -47,10 +47,10 @@ Gaseous exchange is critical in [[tagari-publications]].
 
 ## Gas Exchange Processes
 
-Soil respiration produces CO2 through microbial and root metabolism. Oxygen
+[[soil-respiration]] produces CO2 through microbial and root metabolism. Oxygen
 diffuses from the atmosphere into soil pores to support aerobic processes.
 When water fills pore spaces, anaerobic conditions develop, producing methane,
-nitrous oxide, and hydrogen sulfide instead.
+[[nitrous-oxide]], and hydrogen sulfide instead.
 
 ## Management Implications
 
